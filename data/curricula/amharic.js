@@ -14464,85 +14464,62 @@
     "subject": "amharic",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (ክፍል 1)",
+    "title": "የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Diplomatic Relations & Foreign Policy)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዲፕሎማሲያዊ ግንኙነት፣ የሁለትዮሽና የባለብዙ ወገን ስምምነቶች ትንተና። (ክፍል 1)።",
+    "objective": "የዲፕሎማሲያዊ ግንኙነትን፣ የአምባሳደሮችን ሚና እና የውጭ ጉዳይ ፖሊሲ መሰረቶችን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ዲፕሎማሲ (Diplomacy) / ዲፕሎማት (Diplomat)\n- አምባሳደር (Ambassador) / ኤምባሲ (Embassy)\n- የውጭ ጉዳይ ፖሊሲ (Foreign policy) / ወዳጅነት (Friendship)።\n\n፪. ዋና መርሆዎች:\n- ዲፕሎማሲ የሀገራትን ብሔራዊ ጥቅም ለማስጠበቅ እና የሰላማዊ ወዳጅነት ግንኙነትን ለመገንባት የሚያስችል ጥበብ ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)' to the students."
+          "target": "አምባሳደሩ የሀገራቸውን ብሔራዊ ጥቅም ለማስጠበቅ በዲፕሎማሲያዊ መድረክ ላይ ንቁ ተሳትፎ አደረጉ።",
+          "reading": "Ambasadäru yähagaräččäwən bəherawi t’əqəm lamasət’äbbäq bädiplomasiyawi mädräk lay nəqu täsatəfo adärrägu. [ʔambasaˈdəru jəhaɡərəˈtʃːəwɨn bɨheˈrawi tʼɨˈkʼəm lamasɨtʼəbːɨˈkʼ bədiploˈmasijawi mɛdˈrək laj nɨˈkʼu tɛsatɨˈfo ʔadərːəˈɡu] (ahm-bah-sah-DEH-roo yeh-hah-guh-reh-CHEW-un buh-hay-RAH-wee t'uh-K'UM lah-mahs-t'eb-buh-K' beh-deep-loh-mah-see-YAH-wee med-REK lye nuh-K'OO teh-sah-tuh-FOH ah-der-reh-GOO)",
+          "translation": "The ambassador actively participated on the diplomatic platform to safeguard their country's national interest."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የውጭ ጉዳይ ሚኒስቴር ከጎረቤት ሀገራት ጋር ያለውን ዲፕሎማሲያዊ ወዳጅነት አጠናከረ።",
+          "reading": "Yäwəč’ gəday ministter kägoräbet hagaratt gara yaläwən diplomasiyawi wodağənnät at’änakkärä. [jəwɨtʃʼ ɡɨˈdaj ministər kəɡorəˈbet haɡəˈrat ɡar jaˈlɛwɨn diploˈmasijawi wodaˈdʒɨnːɛt ʔatʼənakːəˈrɛ] (yeh-wuch' guh-DYE mee-nees-TEHR keh-goh-ruh-BAYT hah-guh-RAHT gahr yah-LEW-un deep-loh-mah-see-YAH-wee woh-dah-joon-NET aht'-en-nahk-keh-REH)",
+          "translation": "The Ministry of Foreign Affairs strengthened diplomatic friendship with neighbouring countries."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በኤምባሲው አማካኝነት የሁለቱ ሀገራት የንግድ፣ የባህል እና የትምህርት ትብብር ሰፋ።",
+          "reading": "Bä'embasiw amakanyənnät yähulättu hagaratt yänəgd, yäbahəl ənna yätəməhərətot tərəbbər säffa. [bəʔembaˈsiw ʔamakaɲɨˈnːɛt jəhulətːu haɡəˈrat jənɨɡd, jəbaˈhɨl ʔɨnːa jətɨmɨhɨrˈtot tɨrɨbːɨr sɛfːa] (beh-em-bah-SEE-woo ah-mah-kahn-yoon-NET yeh-hoo-LET-too hah-guh-RAHT yeh-nugd, yeh-bah-HUL un-nah yeh-tuh-muh-hur-TOHT tuh-roob-BUR sef-FAH)",
+          "translation": "Through the embassy, the two countries' trade, cultural, and educational cooperation expanded."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Diplomacy: ዲፕሎማሲ (Diplomacy) + አምባሳደር (Ambassador) + ኤምባሲ (Embassy) + የውጭ ጉዳይ (Foreign Affairs)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ በዓለም አቀፍ ዲፕሎማሲ ውስጥ ረጅም ታሪክ ያላት ሲሆን የመንግስታቱ ማህበር (League of Nations) እና የተባበሩት መንግስታት ድርጅት (UN) መስራች አባል ነበረች።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "አንድን ሀገር ወክሎ በሌላ ሀገር ውስጥ በቋሚነት የሚሰራ ከፍተኛ የዲፕሎማሲ መሪ ማን ይባላል?",
           "options": [
-            "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (32.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (32.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (32.1.w3)"
+            "አምባሳደር (Ambassador - Highest diplomatic envoy)",
+            "ነጋዴ",
+            "ተጓዥ",
+            "ጋዜጠኛ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«አምባሳደር» የሀገርን የውጭ ግንኙነት እና ጥቅም የሚመራ ዋና ዲፕሎማት ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u32-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Foreign policy' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (32.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (32.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (32.1.x3)"
+            "የውጭ ጉዳይ ፖሊሲ (Foreign policy / international strategic doctrine)",
+            "የቤት ውስጥ ደንብ",
+            "የትራፊክ መመሪያ",
+            "የከተማ ፕላን"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (32.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (32.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (32.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የውጭ ጉዳይ ፖሊሲ» አንዲት ሀገር ከሌሎች ሀገራት ጋር ያላትን ግንኙነት የምትመራበት መመሪያ ነው።"
         }
       ]
     },
@@ -14550,24 +14527,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 32-1):",
+          "prompt": "የዲፕሎማሲ እና የውጭ ጉዳይ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (32.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (32.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (32.1.z3)"
+            "ዲፕሎማሲ፣ አምባሳደር፣ ኤምባሲ፣ የውጭ ጉዳይ ፖሊሲ እና ዲፕሎማት።",
+            "ወተት፣ ማር፣ ቅቤ እና እርጎ።",
+            "ጠረጴዛ፣ አልጋ እና ሶፋ።",
+            "በዲፕሎማሲ አምባሳደር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የዲፕሎማሲ እና የውጭ ጉዳይ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u32-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ዓለም»):",
+          "prompt": "'ዲፕሎማሲ / Diplomacy' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ዓለም",
-            "ዓለም"
+            "ዲፕሎማሲ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ዓለም» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዲፕሎማሲ» (Diplomasi) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14578,85 +14554,62 @@
     "subject": "amharic",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (ክፍል 2)",
+    "title": "የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (African Union & Pan-Africanism)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዲፕሎማሲያዊ ግንኙነት፣ የሁለትዮሽና የባለብዙ ወገን ስምምነቶች ትንተና። (ክፍል 2)።",
+    "objective": "የአፍሪካ ህብረትን ታሪክ፣ የአዲስ አበባን የዲፕሎማሲ መዲናነት እና የፓን-አፍሪካኒዝም ርዕዮተ-ዓለምን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የአፍሪካ ህብረት (African Union) / የአፍሪካ አንድነት ድርጅት (OAU)\n- ፓን-አፍሪካኒዝም (Pan-Africanism) / አህጉራዊ አንድነት (Continental unity)\n- ዋና መቀመጫ (Headquarters) / አዲስ አበባ (Diplomatic capital)።\n\n፪. ዋና መርሆዎች:\n- አዲስ አበባ የአፍሪካ ህብረት ዋና መቀመጫ እና የአፍሪካ ዲፕሎማሲ መዲና በመሆን አህጉራዊ አንድነትን ታስተባብራለች።",
       "examples": [
         {
-          "target": "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)' to the students."
+          "target": "አዲስ አበባ የአፍሪካ አንድነት ድርጅት እና የአፍሪካ ህብረት ዋና መቀመጫ በመሆን የአህጉሪቱ የዲፕሎማሲ መዲና ሆናለች።",
+          "reading": "Addis Abäba yä’Afərika Andənnät Dərəğğət ənna yä’Afərika Həbrät wana mäqämmäč’a bämähon yä’ahəguritu yädiplomasi mädina honalläčč. [ʔadːis ʔaˈbɛba jəʔafɨriˈka ʔandɨˈnːɛt dɨrɨdʒːɨt ʔɨnːa jəʔafɨriˈka hɨbrət wana məkʼəmːəˈtʃʼa bəməˈhon jəʔahɨɡuˈritu jədiploˈmasi mədiˈna hoˈnalːɛtʃː] (ahd-DEES ah-beh-BAH yeh-ah-fuh-ree-KAH ahn-dun-NET duh-ruh-JEET un-nah yeh-ah-fuh-ree-KAH hub-RET wah-NAH meh-k'em-meh-CH'AH beh-meh-HOHN yeh-ah-huh-goo-REE-too yeh-deep-loh-mah-SEE meh-dee-NAH hoh-NAHL-lech)",
+          "translation": "Addis Ababa became the continent's diplomatic capital by serving as the headquarters of the OAU and the African Union."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የፓን-አፍሪካኒዝም ርዕዮተ-ዓለም የአፍሪካውያንን ነፃነት፣ ክብር እና ኢኮኖሚያዊ ትብብር ለማጠናከር ትልቅ ሚና ተጫውቷል።",
+          "reading": "Yäpan-’afərikanizəm rə’əyotä-’aläm yä’afərikawəyanən näts’annät, kəbər ənna ikonomiyawi təbbər lamat’änäkär tərəq mina täč’awətwall. [jəpanʔafɨrikaˈnizəm rɨʔɨjotəˈʔalɛm jəʔafɨrikaˈwɨjanɨn nɛtsʼaˈnːɛt, kɨˈbɨr ʔɨnːa ʔikonomiˈjawi tɨbːɨr lamatʼənəˈkər tɨˈrɨkʼ miˈna tətʃʼaˈwətwalː] (yeh-pahn-ah-fuh-ree-kah-NEE-zum ruh-uh-yoh-teh-AH-lem yeh-ah-fuh-ree-kah-wuh-YAHN-un net-ts'ahn-NET, kuh-BUR un-nah ee-koh-noh-mee-YAH-wee toob-BUR lah-maht'-en-eh-KER tuh-ROOK' MEE-nah teh-ch'ah-wut-WAHL)",
+          "translation": "The Pan-African ideology played a monumental role in strengthening Africans' freedom, dignity, and economic cooperation."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የአፍሪካ መሪዎች በህብረቱ አዳራሽ ተሰብስበው ስለ አህጉሪቱ ሰላም፣ ደህንነት እና እድገት በጥልቀት ተወያዩ።",
+          "reading": "Yä’Afərika märriwočč bähəbrätu adaraš täsäbsəbäw səlä ahəguritu sälam, dähənənnät ənna ədəggät bät’əlqät täwəyayyu. [jəʔafɨriˈka mərːiˈwotʃː bəhɨbrəˈtu ʔadaˈraʃ tɛsɛbsɨˈbɛw sɨlə ʔahɨɡuˈritu sɛˈlam, dəhɨnɨˈnːɛt ʔɨnːa ʔɨdɨɡːɛt bətʼɨlˈkʼɛt təwɨˈjajːu] (yeh-ah-fuh-ree-KAH mer-ree-WOHCH beh-hub-reh-TOO ah-dah-RAHSH teh-seb-suh-BEW suh-LEH ah-huh-goo-REE-too seh-LAHM, deh-huh-noon-NET un-nah ud-ug-GAYT beh-t'ul-K'ET teh-wuh-YAHY-yoo)",
+          "translation": "African leaders gathered at the Union hall and discussed the continent's peace, security, and development in depth."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "African Union: የአፍሪካ ህብረት (African Union) + ፓን-አፍሪካኒዝም (Pan-Africanism) + አዲስ አበባ (Capital) + አንድነት (Unity)!"
+      ],
+      "culturalNotes": [
+        "የአፍሪካ አንድነት ድርጅት በግንቦት 1955 ዓ.ም (May 1963) በአዲስ አበባ ሲመሰረት ቀዳማዊ አፄ ኃይለ ሥላሴ ቁልፍ መስራች መሪ ነበሩ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በአዲስ አበባ ከተማ ዋና መቀመጫውን ያደረገውና መላውን አፍሪካ የሚያስተባብረው ታላቅ አህጉራዊ ድርጅት ማን ይባላል?",
           "options": [
-            "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (32.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (32.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (32.2.w3)"
+            "የአፍሪካ ህብረት (African Union - Continental intergovernmental union)",
+            "የአውሮፓ ህብረት",
+            "የእስያ ማህበር",
+            "የአሜሪካ ድርጅት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የአፍሪካ ህብረት» ዋና መቀመጫው በአዲስ አበባ የሆነ አህጉራዊ ተቋም ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u32-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Pan-Africanism' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (32.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (32.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (32.2.x3)"
+            "ፓን-አፍሪካኒዝም (Pan-Africanism / continental solidarity & unity movement)",
+            "ብቸኝነት",
+            "የጎሳ ክፍፍል",
+            "የአካባቢ ጠብ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (32.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (32.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (32.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ፓን-አፍሪካኒዝም» መላው ጥቁር ህዝቦችና አፍሪካውያን በአንድነት እንዲተባበሩ የሚያስተምር እንቅስቃሴ ነው።"
         }
       ]
     },
@@ -14664,24 +14617,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 32-2):",
+          "prompt": "የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (32.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (32.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (32.2.z3)"
+            "የአፍሪካ ህብረት፣ ፓን-አፍሪካኒዝም፣ አዲስ አበባ፣ አህጉራዊ አንድነት እና ትብብር።",
+            "መኪና፣ ባቡር፣ አውቶቡስ እና ታክሲ።",
+            "ሸሚዝ፣ ሱሪ፣ ካፖርት እና ኮፍያ።",
+            "የአፍሪካ ህብረት አዲስ አበባ ውስጥ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የአፍሪካ ህብረት እና የአህጉራዊ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u32-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ዓለም»):",
+          "prompt": "'ህብረት / Union, solidarity' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ዓለም",
-            "ዓለም"
+            "ህብረት",
+            "ሕብረት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ዓለም» ነው።"
+          "explanation": "ትክክለኛው ቃል «ህብረት» ወይም «ሕብረት» (Həbrät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14692,85 +14645,62 @@
     "subject": "amharic",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (ክፍል 3)",
+    "title": "ዓለም አቀፍ ስምምነቶች እና የሁለትዮሽ ድርድሮች (International Treaties & Bilateral Negotiations)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዲፕሎማሲያዊ ግንኙነት፣ የሁለትዮሽና የባለብዙ ወገን ስምምነቶች ትንተና። (ክፍል 3)።",
+    "objective": "የዓለም አቀፍ ውሎችን፣ የሁለትዮሽ እና የባለብዙ ወገን ድርድሮችን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዓለም አቀፍ ስምምነቶች እና የድርድር መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ስምምነት (Treaty / Agreement) / ውል (Convention / Pact)\n- የሁለትዮሽ ድርድር (Bilateral negotiation) / ባለብዙ ወገን (Multilateral)\n- ማፅደቅ (Ratification) / ፊርማ (Signing)።\n\n፪. ዋና መርሆዎች:\n- ሀገራት በጋራ ጥቅሞቻቸው፣ በንግድና በጸጥታ ጉዳዮች ላይ በድርድር ተስማምተው ዓለም አቀፍ ህጋዊ ስምምነቶችን ያጸድቃሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)' to the students."
+          "target": "ሁለቱ ሀገራት በንግድ እና በኢንቨስትመንት ዘርፍ ታሪካዊ የሁለትዮሽ ስምምነት ተፈራረሙ።",
+          "reading": "Hulättu hagaratt bänəgd ənna bä’inəväsətəmänt zärf tarikawi yähulättəyoš səməmmənnät täfärarrämu. [hulətːu haɡəˈrat bənɨɡd ʔɨnːa bəʔinvɛsɨtɨˈmɛnt zərkʼ tariˈkawi jəhulətːɨˈjoʃ sɨmɨmːɨˈnːɛt təfərarːəˈmu] (hoo-LET-too hah-guh-RAHT beh-nugd un-nah beh-een-ves-tuh-MENT zerf tah-ree-KAH-wee yeh-hoo-let-tuh-YOHSH suh-mum-mun-NET teh-feh-rahr-reh-MOO)",
+          "translation": "The two countries signed a historic bilateral agreement in the sectors of trade and investment."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ፓርላማው ዓለም አቀፍ የዲፕሎማሲ ውሎችን እና ስምምነቶችን በሙሉ ድምጽ አጸደቀ።",
+          "reading": "Parlamawo yä’aläm aqäf yädiplomasi wəloččən ənna səməmmənnätoččən bämulu dəmts’ ats’äddäqä. [parlaˈmawo jəʔaˈlɛm ʔaˈkʼɛf jədiploˈmasi wɨloˈtʃːɨn ʔɨnːa sɨmɨmːɨnːəˈtotʃːɨn bəmuˈlu dɨmtsʼ ʔatsʼədːəˈkʼɛ] (pahr-lah-MAH-woh yeh-ah-LEM ah-K'EF yeh-deep-loh-mah-SEE wuh-LOHCH-chun un-nah suh-mum-mun-neh-TOHCH-chun beh-MOO-loo dum-TS' aht-ts'ed-deh-K'EH)",
+          "translation": "The parliament ratified international diplomatic conventions and treaties by unanimous vote."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በባለብዙ ወገን ድርድር ወቅት የሁሉም ሀገራት ሉዓላዊነት እና ፍትሃዊ ተጠቃሚነት መከበር አለበት።",
+          "reading": "Bäbaläbəzu wägän dərdər wäqət yähullum hagaratt lu’alawinnät ənna fətəhawi tät’äqqaminnät mäkkäbär alläbät. [bəbaləbɨˈzu wəˈɡən dɨrˈdɨr wəkʼt jəhulːum haɡəˈrat luʔalaˈwinːɛt ʔɨnːa fɨtɨhaˈwi tətʼəkʼːaˈminːɛt məkːəˈbər ʔalːəˈbət] (beh-bah-leh-buh-ZOO weh-GEN dur-DUR weh-K'UT yeh-hool-LOOM hah-guh-RAHT loo-ah-lah-WEEN-net un-nah fuh-tuh-hah-WEE tet'-ek'-k'ah-MEEN-net mek-keh-BER ahl-leh-BET)",
+          "translation": "During multilateral negotiations, every country's sovereignty and equitable benefit must be respected."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Treaties: ስምምነት (Agreement) + ድርድር (Negotiation) + የሁለትዮሽ (Bilateral) + ማፅደቅ (Ratification)!"
+      ],
+      "culturalNotes": [
+        "የአድዋ ድል ተከትሎ በርካታ የአውሮፓ ሀገራት ከኢትዮጵያ ጋር የሉዓላዊነት እውቅና የሰጡ የዲፕሎማሲ ስምምነቶችን በአዲስ አበባ ተፈራርመዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በሁለት ሀገራት መካከል ብቻ የሚደረግ የዲፕሎማሲና የንግድ ድርድር ወይም ስምምነት ምን ይባላል?",
           "options": [
-            "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (32.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (32.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (32.3.w3)"
+            "የሁለትዮሽ ስምምነት (Bilateral agreement / bilateral treaty)",
+            "የቤተሰብ ስምምነት",
+            "የውስጥ ደንብ",
+            "የግል ውል"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የሁለትዮሽ ስምምነት» በሁለት ሉዓላዊ ሀገራት መካከል የሚደረግ ውል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u32-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Treaty ratification' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (32.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (32.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (32.3.x3)"
+            "ስምምነትን ማፅደቅ (Treaty ratification / formal legal adoption)",
+            "ውል ማፍረስ",
+            "ስምምነት መካድ",
+            "ድርድር ማቋረጥ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (32.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (32.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (32.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ማፅደቅ» በህግ አውጪው አካል ዓለም አቀፍ ውልን ህጋዊ የማድረግ ሂደት ነው።"
         }
       ]
     },
@@ -14778,24 +14708,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 32-3):",
+          "prompt": "የዓለም አቀፍ ስምምነቶች እና የድርድር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (32.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (32.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (32.3.z3)"
+            "ስምምነት፣ ውል፣ ድርድር፣ የሁለትዮሽ፣ ባለብዙ ወገን እና ማፅደቅ።",
+            "ቡና፣ ሻይ፣ ስኳር እና ወተት።",
+            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ።",
+            "በዲፕሎማሲ ድርድር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የዓለም አቀፍ ስምምነቶች እና የድርድር ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u32-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ዓለም»):",
+          "prompt": "'ስምምነት / Agreement, treaty' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ዓለም",
-            "ዓለም"
+            "ስምምነት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ዓለም» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስምምነት» (Səməmmənnät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14806,85 +14735,62 @@
     "subject": "amharic",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (ክፍል 4)",
+    "title": "የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (Peacekeeping Missions & Global Statecraft)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዲፕሎማሲያዊ ግንኙነት፣ የሁለትዮሽና የባለብዙ ወገን ስምምነቶች ትንተና። (ክፍል 4)።",
+    "objective": "የሰላም ማስከበር ተልዕኮዎችን፣ የጸጥታ ምክር ቤትን እና የዓለም አቀፍ እርዳታ ዲፕሎማሲን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሰላም ማስከበር እና የዓለም አቀፍ ተልዕኮ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የሰላም ማስከበር (Peacekeeping) / ተልዕኮ (Mission)\n- የተባበሩት መንግስታት (United Nations) / የጸጥታ ምክር ቤት (Security Council)\n- ሰብአዊ እርዳታ (Humanitarian aid) / ዘላቂ ሰላም (Sustainable peace)።\n\n፪. ዋና መርሆዎች:\n- ኢትዮጵያ በኮሪያ፣ በኮንጎ፣ በሩዋንዳ፣ በላይቤሪያ እና በሱዳን በጀግንነት የተሳተፈች ታዋቂ የሰላም አስከባሪ ሀገር ናት።",
       "examples": [
         {
-          "target": "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)' to the students."
+          "target": "የኢትዮጵያ የሰላም አስከባሪ ኃይሎች በተባበሩት መንግስታት ተልዕኮ ስር በመሆን በዓለም ዙሪያ ሰላምን በብቃት አስከብረዋል።",
+          "reading": "Yä'Ityop’əya yäsälam askäbari hayəločč bätäbabäruət mängəsətot täl’əko sər bämähon bä’aläm zuriya sälamən bäbəqat askäbbəräwall. [jəʔitjoˈpʼɨja jəsəˈlam ʔaskəbaˈri hajɨˈlotʃː bətəbaˈbərut mənɡɨsɨˈtot təlʔɨˈko sɨr bəməˈhon bəʔaˈlɛm zuˈrija sɛlaˈmɨn bəbɨˈkʼat ʔaskəbːɨrəˈwalː] (yeh-eet-yoh-P'EE-yah yeh-seh-LAHM ahs-keh-bah-REE high-LOHCH beh-teh-bah-beh-ROOT men-guh-suh-TOHT tel-uh-KOH sur beh-meh-HOHN beh-ah-LEM zoo-REE-yah seh-lah-MUN beh-buh-K'AHT ahs-keb-buh-reh-WAHL)",
+          "translation": "Ethiopian peacekeeping forces under the UN mission efficiently maintained peace around the world."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የጸጥታው ምክር ቤት ግጭቶችን በሰላማዊ መንገድ ለመፍታት የዲፕሎማሲ ጥረቶችን ያፋጥናል።",
+          "reading": "Yäts’ät’ətaw məkr bet gəč’č’ətoččən bäsälamawi mängäd lämäfətat yädiplomasi t’irätoččən yafat’t’ənall. [jətsʼətʼɨˈtaw mɨkr bet ɡɨtʃʼːɨˈtotʃːɨn bəsəlaˈmawi mənˈɡəd ləməfɨˈtat jədiploˈmasi tʼirəˈtotʃːɨn jafatʼːɨˈnalː] (yeh-ts'et'-uh-TOW mukr bayt guch'-ch'uh-TOHCH-chun beh-seh-lah-MAH-wee men-GED luh-meh-fuh-TAHT yeh-deep-loh-mah-SEE t'ee-reh-TOHCH-chun yah-faht'-t'uh-NAHL)",
+          "translation": "The Security Council accelerates diplomatic efforts to resolve conflicts peacefully."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሰብአዊ እርዳታዎችን በአግባቡ ማድረስ ለተጎዱ ወገኖች ፈጣን እፎይታን ይሰጣል።",
+          "reading": "Säb’awi ərədattwoččən bä’agəbabu madräs lätägäddu wägänočč fät’t’an əfoytan yəsät’all. [səbʔaˈwi ʔɨrɨdatːoˈwotʃːɨn bəʔaɡɨˈbabu maˈdrəs lətəɡəˈdːu wəɡəˈnotʃː fətʼːan ʔɨfojˈtan jəsəˈtʼalː] (seb-ah-WEE uh-ruh-daht-toh-WOHCH-chun beh-ah-guh-BAH-boo mah-DRES luh-teh-ged-DOO weh-geh-NOHCH fet'-t'ahn uh-foy-TAHN yuh-set'-AHL)",
+          "translation": "Delivering humanitarian aid properly provides rapid relief to affected populations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Peacekeeping: ሰላም ማስከበር (Peacekeeping) + ተልዕኮ (Mission) + የተባበሩት መንግስታት (UN) + እርዳታ (Aid)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ወታደሮች በ1950ዎቹ የኮሪያ ጦርነት ወቅት በ'ቃኘው ሻለቃ' ስም ባሳዩት ጀግንነት በዓለም አቀፍ ደረጃ ከፍተኛ ዝናን አትርፈዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በተባበሩት መንግስታት ስር በጦርነት ቀጠናዎች ውስጥ ሰላምን እና ደህንነትን ለመጠበቅ የሚሰማራ ኃይል ምን ይባላል?",
           "options": [
-            "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (32.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (32.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (32.4.w3)"
+            "የሰላም አስከባሪ ኃይል (Peacekeeping force - UN multinational peacekeeping troops)",
+            "የወረራ ኃይል",
+            "የሽምቅ ተዋጊ",
+            "የንግድ ቡድን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የሰላም አስከባሪ ኃይል» በዓለም አቀፍ ተልዕኮ ህዝብንና ሰላምን የሚጠብቅ ሰራዊት ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u32-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Peacekeeping mission' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (32.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (32.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (32.4.x3)"
+            "የሰላም ማስከበር ተልዕኮ (Peacekeeping mission / multilateral stabilization operation)",
+            "የጦርነት አዋጅ",
+            "የዘመቻ ጥሪ",
+            "የሽያጭ ማስታወቂያ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (32.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (32.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (32.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የሰላም ማስከበር ተልዕኮ» ዓለም አቀፍ ሰላምን ለማረጋገጥ የሚደረግ የተቀናጀ ጥረት ነው።"
         }
       ]
     },
@@ -14892,24 +14798,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 32-4):",
+          "prompt": "የሰላም ማስከበር እና የዓለም አቀፍ ተልዕኮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (32.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (32.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (32.4.z3)"
+            "የሰላም ማስከበር፣ ተልዕኮ፣ የተባበሩት መንግስታት፣ የጸጥታ ምክር ቤት እና ሰብአዊ እርዳታ።",
+            "ወረቀት፣ ብዕር፣ ደብተር እና ቀለም።",
+            "ጠረጴዛ፣ ወንበር እና ቁምሳጥን።",
+            "በሰላም ማስከበር ተልዕኮ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የሰላም ማስከበር እና የዓለም አቀፍ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u32-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ዓለም»):",
+          "prompt": "'ተልዕኮ / Mission, assignment' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ዓለም",
-            "ዓለም"
+            "ተልዕኮ",
+            "ተልእኮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ዓለም» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተልዕኮ» ወይም «ተልእኮ» (Täl’əko) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14920,85 +14826,62 @@
     "subject": "amharic",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (ክፍል 5)",
+    "title": "የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand Synthesis & Ethiopian Diplomatic History)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የዲፕሎማሲያዊ ግንኙነት፣ የሁለትዮሽና የባለብዙ ወገን ስምምነቶች ትንተና። (ክፍል 5)።",
+    "objective": "ዲፕሎማሲን፣ የአፍሪካ ህብረትን፣ ዓለም አቀፍ ስምምነቶችንና የሰላም ማስከበር ተልዕኮዎችን ያቀናጀ የተሟላ የዲፕሎማሲ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፴፪ አጠቃላይ የዓለም አቀፍ ግንኙነት፣ የአፍሪካ ህብረት እና የዲፕሎማሲ ታሪክ ማጠቃለያ:\n\n፩. ዲፕሎማሲ እና ኤምባሲ:\n- ዲፕሎማሲ፣ አምባሳደር፣ ኤምባሲ፣ የውጭ ጉዳይ ፖሊሲ።\n\n፪. የአፍሪካ ህብረት እና ፓን-አፍሪካኒዝም:\n- የአፍሪካ ህብረት፣ ፓን-አፍሪካኒዝም፣ አዲስ አበባ፣ አህጉራዊ አንድነት።\n\n፫. ስምምነቶች እና ድርድሮች:\n- ስምምነት፣ ውል፣ የሁለትዮሽ፣ ባለብዙ ወገን፣ ማፅደቅ።\n\n፬. የሰላም ማስከበር ተልዕኮ:\n- የሰላም ማስከበር፣ ተልዕኮ፣ የተባበሩት መንግስታት፣ የጸጥታ ምክር ቤት።",
       "examples": [
         {
-          "target": "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)' to the students."
+          "target": "ኢትዮጵያ በአፍሪካ ህብረት መዲናነቷ እና በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎቿ ታላቅ የዲፕሎማሲ አሻራ አላት።",
+          "reading": "Ityop’əya bä’Afərika Həbrät mädinnannätəwa ənna bä’aläm aqäf yäsälam askäbar täl’əkowoččəwa talaq yädiplomasi ašara allat. [ʔitjoˈpʼɨja bəʔafɨriˈka hɨbrət mədinanːəˈtɨwa ʔɨnːa bəʔaˈlɛm ʔaˈkʼɛf jəsəˈlam ʔaskəˈbar təlʔɨkoˈwotʃːɨwa taˈlakʼ jədiploˈmasi ʔaʃaˈra ʔalːat] (eet-yoh-P'EE-yah beh-ah-fuh-ree-KAH hub-RET meh-deen-nahn-NET-wah un-nah beh-ah-LEM ah-K'EF yeh-seh-LAHM ahs-keh-BAHR tel-uh-koh-WOHCH-chuh-wah tah-LAHK' yeh-deep-loh-mah-SEE ah-shah-RAH ahl-LAHT)",
+          "translation": "Ethiopia possesses a grand diplomatic footprint through its status as the African Union capital and its international peacekeeping missions."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ዲፕሎማቶች በሁለትዮሽ እና በባለብዙ ወገን መድረኮች ላይ ሀገራቸውን በታማኝነት በመወከል ስምምነቶችን ይደራደራሉ።",
+          "reading": "Diplomatočč bähulättəyoš ənna bäbaläbəzu wägän mädräkočč lay hagaräččäwən bätamanyənnät bäməwäkkäl səməmmənnätoččən yədäraddärallu. [diploˈmatotʃː bəhulətːɨˈjoʃ ʔɨnːa bəbaləbɨˈzu wəˈɡən mɛdˈrəkotʃː laj haɡərəˈtʃːəwɨn bətamaɲɨˈnːɛt bəməwəkːəl sɨmɨmːɨnːəˈtotʃːɨn jədəradːəˈralːu] (deep-loh-mah-TOHCH beh-hoo-let-tuh-YOHSH un-nah beh-bah-leh-buh-ZOO weh-GEN med-reh-KOHCH lye hah-guh-reh-CHEW-un beh-tah-mahn-yoon-NET beh-muh-wek-KEL suh-mum-mun-neh-TOHCH-chun yuh-deh-rahd-deh-RAHL-loo)",
+          "translation": "Diplomats negotiate agreements by faithfully representing their country on bilateral and multilateral stages."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የፓን-አፍሪካኒዝም መርሆዎችን በማስጠበቅ አህጉራዊ ኢኮኖሚን እና ሰላምን በጋራ ማሳደግ ይቻላል።",
+          "reading": "Yäpan-’afərikanizəm märəhoččən bamasət’äbbäq ahəgurawi ikonomin ənna sälamən bägara masadəg yəččalall. [jəpanʔafɨrikaˈnizəm mərˈhotʃːɨn bamasɨtʼəbːɨkʼ ʔahɨɡuˈrawi ʔikonoˈmin ʔɨnːa sɛlaˈmɨn bəɡaˈra masadɨɡ jɨtʃːaˈlalː] (yeh-pahn-ah-fuh-ree-kah-NEE-zum mer-HOHCH-chun bah-mahs-t'eb-buh-K' ah-huh-goo-RAH-wee ee-koh-noh-MEEN un-nah seh-lah-MUN beh-gah-RAH mah-sah-DUG yuhch-chah-LAHL)",
+          "translation": "By upholding Pan-African principles, it is possible to jointly foster the continental economy and peace."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 32: Diplomacy (ዲፕሎማሲ) + African Union (የአፍሪካ ህብረት) + Treaties (ስምምነት) + Peacekeeping (ሰላም ማስከበር)!"
+      ],
+      "culturalNotes": [
+        "አዲስ አበባ ከኒው ዮርክ እና ከጄኔቫ ቀጥሎ በዓለም ላይ በርካታ የዲፕሎማሲ ሚሲዮኖች እና ኤምባሲዎች የሚገኙባት ሶስተኛዋ የዲፕሎማሲ ከተማ ናት።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ዲፕሎማሲ እና የዓለም አቀፍ ግንኙነት ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (32.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (32.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (32.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (32.5.w3)"
+            "ኢትዮጵያ በአፍሪካ ህብረት መዲናነቷ እና በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎቿ ታላቅ የዲፕሎማሲ አሻራ አላት። (Complete synthesis combining African Union capital status and peacekeeping missions)",
+            "ምንም ዲፕሎማሲ የለም",
+            "ሁሉም ተራ ወሬ ነው",
+            "ኤምባሲ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የአፍሪካ ህብረትን፣ ዲፕሎማሲንና የሰላም ማስከበርን በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u32-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የዲፕሎማሲያዊ ግንኙነትን እና ዓለም አቀፍ ስምምነቶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (32.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (32.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (32.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (32.5.x3)"
+            "አምባሳደሮቹ በሁለትዮሽ ድርድር ታሪካዊ የሰላም እና የንግድ ስምምነት ተፈራረሙ። (The ambassadors signed a historic peace and trade treaty in bilateral negotiations - Accurate unified sentence)",
+            "ምንም ውይይት አልተደረገም",
+            "ስምምነት አያስፈልግም",
+            "ድርድር የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (32.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (32.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (32.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (32.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ዲፕሎማሲያዊ ግንኙነትን እና ህጋዊ ስምምነቶችን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -15006,24 +14889,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 32-5):",
+          "prompt": "የክፍል 32 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (32.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (32.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (32.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (32.5.z3)"
+            "የዲፕሎማሲያዊ ግንኙነትና ኤምባሲ፣ የአፍሪካ ህብረትና ፓን-አፍሪካኒዝም፣ ዓለም አቀፍ ስምምነቶችና ድርድሮች፣ እንዲሁም የሰላም ማስከበር ተልዕኮዎች ተካተዋል።",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።",
+            "በዓለም አቀፍ ግንኙነት ህግ የለም።",
+            "ሁሉም ሀገራት አንድ አይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 32ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u32-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ዓለም»):",
+          "prompt": "'ሰላም / Peace' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ዓለም",
-            "ዓለም"
+            "ሰላም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ዓለም» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰላም» (Sälam) ነው።"
         }
       ],
       "passThreshold": 0.8
