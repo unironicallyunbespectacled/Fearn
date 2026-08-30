@@ -10032,85 +10032,89 @@
     "subject": "arabic",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "التعبير عن الرأي واسم التفضيل (Opinions & Superlatives) (الدرس 1)",
+    "title": "معجم الفنون الجميلة والخط العربي الأصيل (Fine Arts & Arabic Calligraphy Lexicon)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة اسم التفضيل على وزن (أَفْعَل)، المقارنة، والعبارات الاصطلاحية للتعبير عن وجهات النظر. (الجزء 1).",
+    "objective": "إتقان معجم الفنون التشكيلية والمعارض وأنواع الخطوط العربية الأصيلة (خط الثلث، النسخ، الرقعة، الكوفي، الديواني) ومفردات الزخرفة الإسلامية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يمثل الفن والخط العربي جوهر الهوية البصرية والجمالية للحضارة العربية والإسلامية:\n\nأولاً: معجم الفنون الجميلة والتشكيلية (Fine Arts Lexicon):\n1.【فَنٌّ / فُنُونٌ (Art / Arts)】 | 【فَنَّانٌ / فَنَّانَةٌ (Artist / Artists)】.\n2.【لَوْحَةٌ فَنِّيَّةٌ / لَوْحَاتٌ (Art Painting / Paintings)】.\n3.【مَعْرِضٌ فَنِّيٌّ (Art Exhibition / Gallery)】 | 【مَتْحَفُ الفُنُونِ (Art Museum)】.\n4.【رَسْمٌ / رَسَّامٌ (Drawing / Painter)】 | 【نَحْتٌ / نَحَّاتٌ (Sculpture / Sculptor)】.\n5.【زَخْرَفَةٌ إِسْلَامِيَّةٌ (Islamic Arabesque Ornamentation)】.\n\nثانياً: أنواع الخطوط العربية العريقة (Arabic Calligraphy Styles):\n- 【خَطُّ الثُّلُثِ (Thuluth script)】: سيد الخطوط العربية، يتميز بالفخامة وتزيين المساجد والعناوين الكبرى.\n- 【خَطُّ النَّسْخِ (Naskh script)】: خط وضوح القراءة الذي كُتبت به المصاحف والكتب.\n- 【خَطُّ الرُّقْعَةِ (Ruq'ah script)】: خط المعاملات اليومية والسرعة والرشاقة.\n- 【الخَطُّ الكُوفِيُّ (Kufic script)】: أقدم الخطوط العربية، يتميز بهندسته المستقيمة وتزيين العمارة.\n- 【الخَطُّ الدِّيوَانِيُّ (Diwani script)】: خط المراسلات والوثائق السلطانية ذو الانحناءات الرائعة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)' to students in an accurate academic style."
+          "target": "يُعَدُّ الخَطُّ العَرَبِيُّ أَيْقُونَةَ الفُنُونِ الإِسْلَامِيَّةِ الَّتِي تَجْمَعُ بَيْنَ هَنْدَسَةِ الحُرُوفِ وَجَمَالِ الرُّوحِ.(Yuʿaddu al-khaṭṭu al-ʿarabiyyu ayqūnata al-funūni al-islāmiyyati al-latī tajmaʿu bayna handasati al-ḥurūfi wa-jamāli ar-rūḥ.)",
+          "reading": "[ju.ʕad.du‿l.xatˤ.tˤu‿l.ʕa.ra.bij.ju ʔaj.quː.na.ta‿l.fu.nuː.ni‿l.ʔis.laː.mij.ja.ti‿l.la.tiː taʒ.ma.ʕu baj.na han.da.sa.ti‿l.ħu.ruː.fi wa.ʒa.maː.li‿r.ruːħ] (Yu-ʿad-du al-khaṭ-ṭu al-ʿa-ra-biy-yu ay-qū-na-ta al-fu-nū-ni al-is-lā-miy-ya-ti al-la-tī taj-ma-ʿu bay-na han-da-sa-ti al-ḥu-rū-fi wa-ja-mā-li ar-rūḥ.)",
+          "translation": "Arabic calligraphy is considered the icon of Islamic arts that combines the geometry of letters with the beauty of the soul."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُبْدِعُ الخَطَّاطُ فِي كِتَابَةِ الآيَاتِ القُرْآنِيَّةِ بِخَطِّ الثُّلُثِ الجَلِيِّ وَخَطِّ الكُوفِيِّ الهَنْدَسِيِّ.(Yubdiʿu al-khaṭṭāṭu fī kitābati al-āyāti al-qurʾāniyyati bi-khaṭṭi ath-thuluthi al-jaliyyi wa-khaṭṭi al-kūfiyyi al-handasiyy.)",
+          "reading": "[jub.di.ʕu‿l.xatˤ.tˤaː.tˤu fiː ki.taː.ba.ti‿l.ʔaː.jaː.ti‿l.qur.ʔaː.nij.ja.ti bi.xatˤ.tˤi‿θ.θu.lu.θi‿l.ʒa.lij.ji wa.xatˤ.tˤi‿l.kuː.fij.ji‿l.han.da.sijj] (Yub-di-ʿu al-khaṭ-ṭā-ṭu fī ki-tā-ba-ti al-ā-yā-ti al-qur-ʾā-niy-ya-ti bi-khaṭ-ṭi ath-thu-lu-thi al-ja-liy-yi wa-khaṭ-ṭi al-kū-fiy-yi al-han-da-siyy.)",
+          "translation": "The calligrapher excels in writing Quranic verses in monumental Thuluth script and geometric Kufic script."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "افْتُتِحَ المَعْرِضُ الفَنِّيُّ لِعَرْضِ اللَّوْحَاتِ التَّشْكِيلِيَّةِ وَالزَّخَارِفِ الَّتِي تُحَاكِي التُّرَاثَ الأَصِيلَ.(Uftutiḥa al-maʿriḍu al-fanniyyu li-ʿarḍi al-lawḥāti at-tashkīliyyati wa-az-zakhārifi al-latī tuḥākī at-turātha al-aṣīl.)",
+          "reading": "[uf.tu.ti.ħa‿l.maʕ.ri.dˤu‿l.fan.nij.ju li.ʕar.dˤi‿l.law.ħaː.ti‿t.taʃ.kiː.lij.ja.ti waz.za.xaː.ri.fi‿l.la.tiː tu.ħaː.kiː‿t.tu.raː.θa‿l.ʔa.sˤiːl] (Uf-tu-ti-ḥa al-maʿ-ri-ḍu al-fan-niy-yu li-ʿar-ḍi al-law-ḥā-ti at-tash-kī-liy-ya-ti wa-az-za-khā-ri-fi al-la-tī tu-ḥā-kī at-tu-rā-tha al-a-ṣīl.)",
+          "translation": "The art exhibition was inaugurated to display plastic art paintings and ornamentations that emulate authentic heritage."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "خَطُّ النَّسْخِ هُوَ الخَطُّ الَّذِي كُتِبَتْ بِهِ المَصَاحِفُ الشَّرِيفَةُ لِوُضُوحِ حُرُوفِهِ وَسُهُولَةِ قِرَاءَتِهِ.(Khaṭṭu an-naskhi huwa al-khaṭṭu al-ladhī kutibat bihi al-maṣāḥifu ash-sharīfatu li-wuḍūḥi ḥurūfihi wa-suhūlati qirāʾatih.)",
+          "reading": "[xatˤ.tˤu‿n.nas.xi hu.wa‿l.xatˤ.tˤu‿l.la.ðiː ku.ti.bat bi.hi‿l.ma.sˤaː.ħi.fu‿ʃ.ʃa.riː.fa.tu li.wu.dˤuː.ħi ħu.ruː.fi.hi wa.su.huː.la.ti qi.raː.ʔa.tih] (Khaṭ-ṭu an-nas-khi hu-wa al-khaṭ-ṭu al-la-dhī ku-ti-bat bi-hi al-ma-ṣā-ḥi-fu ash-sha-rī-fa-tu li-wu-ḍū-ḥi ḥu-rū-fi-hi wa-su-hū-la-ti qi-rā-ʾa-tih.)",
+          "translation": "Naskh script is the script in which noble Quranic copies were written due to the clarity of its letters and ease of reading."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "كُوفِيٌّ وَثُلُثٌ وَرُقْعَةٌ وَنَسْخُ الحُرُوفْ، خَطٌّ عَرَبِيٌّ يَزْدَانُ بَيْنَ الصُّفُوفْ!"
+      ],
+      "culturalNotes": [
+        "صنفت اليونسكو الخط العربي تراثًا ثقافيًا غير مادي للإنسانية؛ لما يحمله من قيم جمالية وتاريخية تجسد الإبداع الفني في الحضارة العربية والإسلامية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» (الدرس 1)؟",
+          "prompt": "ما هو الخط العربي الذي يلقب بـ «سيد الخطوط العربية» ويستخدم في تزيين جدران المساجد وعناوين الكتب الفاخرة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (17.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (17.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (17.1.w3)"
+            "خَطُّ الثُّلُثِ (Thuluth script)",
+            "خط الرقعة فقط",
+            "الخط العادي البسيط",
+            "خط الطباعة الحاسوبي السريع"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«خَطُّ الثُّلُثِ» هو أمير الخطوط وأصعبها وأفخمها شكلاً وزخرفة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الخط العربي المشهور بوضوحه التام والذي خُطَّت به المصاحف الشريفة وكتب العلم؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "خَطُّ النَّسْخِ (Naskh script)",
+            "الخط الكوفي المربع",
+            "الخط الديواني المعقد",
+            "خط الإجازة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«خَطُّ النَّسْخِ» سُمِّي كذلك لأنه كان يُستخدم في نسخ الكتب والمصاحف لوضوحه التام."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u17-l1):",
+          "prompt": "اختر الجملة التي تصف زيارة معرض الفنون والخط العربي بأسلوب فصيح ودقيق:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (17.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (17.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (17.1.x3)"
+            "زَارَ الجُمْهُورُ المَعْرِضَ الفَنِّيَّ وَأُعْجِبُوا بِاللَّوْحَاتِ الَّتِي تَزَيَّنَتْ بِالخَطِّ الكُوفِيِّ وَالزَّخَارِفِ الإِسْلَامِيَّةِ. (The audience visited the art exhibition and admired the paintings adorned with Kufic script and Islamic ornamentations.)",
+            "زار الجمهور المعرض لبيع السمك الطازج بالخطأ المعنوي",
+            "الخط الكوفي ياكل اللوحات في المعرض",
+            "معرض فنون لوحة خط كوفي سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن زيارة المعرض وإعجاب الجمهور باللوحات المزينة بالخط الكوفي بأسلوب عربي بليغ ومتقن."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)»؟",
+          "prompt": "ما هو الفن الهندسي والزخرفي القائم على الأشكال النباتية والهندسية المتداخلة في العمارة الإسلامية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (17.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (17.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (17.1.y3)"
+            "الزَّخْرَفَةُ الإِسْلَامِيَّةُ / الأَرَابِيسْك (Islamic Ornamentation / Arabesque)",
+            "النحت الجليدي",
+            "الرسم الكاريكاتيري",
+            "التصوير الشمسي فقط"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الزَّخْرَفَةُ الإِسْلَامِيَّةُ» هي الفن البصري المعماري المميز للحضارة الإسلامية."
         }
       ]
     },
@@ -10118,24 +10122,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 17-1)؟",
+          "prompt": "اختر النص الذي يصف أصالة الخط العربي وتنوع مدارسه الفنية بأسلوب بياني ومضبوط:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (17.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (17.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (17.1.z3)"
+            "يَتَأَلَّقُ الخَطُّ العَرَبِيُّ فِي مَعَارِضِ الفُنُونِ بِتَنَوُّعِ أَنْمَاطِهِ السَّاحِرَةِ؛ حَيْثُ يَتَبَارَى الخَطَّاطُونَ فِي إِبْرَازِ رَوْعَةِ خَطِّ الثُّلُثِ وَهَنْدَسَةِ الكُوفِيِّ وَانْسِيَابِيَّةِ الدِّيوَانِيِّ، لِيُقَدِّمُوا لَوْحَاتٍ تَشْهَدُ عَلَى عَبْقَرِيَّةِ التُّرَاثِ البَصَرِيِّ. (Arabic calligraphy sparkles in art exhibitions with the diversity of its magical styles; where calligraphers compete in showcasing the magnificence of Thuluth script, Kufic geometry, and Diwani fluidity, to present paintings that testify to visual heritage's genius.)",
+            "يتألق الخط العربي بالافعال الماضية فقط بلا خطوط وبلا لوحات.",
+            "خط عربي ثلث نسخ كوفي ديواني معرض لوحات سكون فتحة ضمة.",
+            "اندثر الخط العربي ولم يعد يكتب به احد في المعارض."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين مدارس الخط العربي «الثُّلُث، الكُوفِيّ، الدِّيوَانِيّ» ومعجم الفنون التشكيلية بجزالة وفصاحة لغوية باهرة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u17-l1) باللغة العربية (مثال: «التعبير»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن الأصيل القائم على تشكيل الحروف العربية بأنماط فنية ساحرة (اكتب: «الخط العربي» أو «خط»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التعبير",
-            "التعبير"
+            "الخط العربي",
+            "خط عربي",
+            "الخط",
+            "خط",
+            "خَطٌّ عَرَبِيٌّ",
+            "الخَطُّ العَرَبِيُّ",
+            "الخَطُّ"
           ],
-          "explanation": "المصطلح الصحيح هو «التعبير»."
+          "explanation": "الفن هو «الخط العربي»."
         }
       ],
       "passThreshold": 0.8
@@ -10146,85 +10155,89 @@
     "subject": "arabic",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "التعبير عن الرأي واسم التفضيل (Opinions & Superlatives) (الدرس 2)",
+    "title": "التراث الموسيقي والآلات والمقامات العربية (Arab Musical Heritage, Instruments & Maqamat)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة اسم التفضيل على وزن (أَفْعَل)، المقارنة، والعبارات الاصطلاحية للتعبير عن وجهات النظر. (الجزء 2).",
+    "objective": "إتقان مصطلحات التراث الموسيقي العربي والآلات الشرقية (العود، القانون، الناي، الدف، الرق) والمقامات الموسيقية (الراست، البياتي، الحجاز، النهاوند) ومفهوم الطرب الأصيل.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتميز الموسيقى العربية التراثية بثرائها المقامي ونظام «أرباع الصوت» الفريد والآلات الوترية والهوائية الخالدة:\n\nأولاً: الآلات الموسيقية التراثية (Traditional Instruments):\n1.【العُودُ (The Oud / Lute)】: سلطان الآلات الشرقية وأعرقها، ورمز الطرب الأصيل.\n2.【القَانُونُ (The Qanun)】: آلة وترية بديعة تضم عشرات الأوتار وتتحكم في أدق المقامات.\n3.【النَّايُ (The Nay / Reed Flute)】: آلة نفخ شجية مصنوعة من القصب تُعبّر عن العمق الروحي.\n4.【الدَّفُّ وَالرِّقُّ (Daff & Riq)】: آلات إيقاعية أساسية لضبط الموازين والأوزان النغمية.\n\nثانياً: المقامات الموسيقية العربية (The Arabic Maqamat):\n- 【مَقَامُ الرَّاسْتِ (Maqam Rast)】: أبو المقامات وأساس الموسيقى الشرقية، يعبر عن البهجة والوقار.\n- 【مَقَامُ البَيَاتِي (Maqam Bayati)】: مقام الشجن والخشوع والود والقرب من النفس.\n- 【مَقَامُ الحِجَازِ (Maqam Hijaz)】: مقام الروحانية والعمق التراثي الأصيل.\n- 【مَقَامُ النَّهَاوَنْدِ (Maqam Nahawand)】: مقام الرقة والعاطفة الحانية.\n\nثالثاً: مصطلحات فنية:\n- «العَزْفُ (Playing instrument)» | «الأَلْحَانُ / الأَنْغَامُ (Melodies / Tunes)» | «الطَّرَبُ الأَصِيلُ (Authentic Musical Delight)».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)' to students in an accurate academic style."
+          "target": "يَعْزِفُ الفَنَّانُ عَلَى آلَةِ العُودِ أَلْحَانًا شَجِيَّةً تُحَرِّكُ مَشَاعِرَ الطَّرَبِ الأَصِيلِ.(Yaʿzifu al-fannānu ʿalā ālati al-ʿūdi alḥānan shajiyyatan tuḥarriku mashāʿira aṭ-ṭarabi al-aṣīl.)",
+          "reading": "[jaʕ.zi.fu‿l.fan.naː.nu ʕa.laː ʔaː.la.ti‿l.ʕuː.di ʔal.ħaː.nan ʃa.ʒij.ja.tan tu.ħar.ri.ku ma.ʃaː.ʕi.ra‿tˤ.tˤa.ra.bi‿l.ʔa.sˤiːl] (Yaʿ-zi-fu al-fan-nā-nu ʿa-lā ā-la-ti al-ʿū-di al-ḥā-nan sha-jiy-ya-tan tu-ḥar-ri-ku ma-shā-ʿi-ra aṭ-ṭa-ra-bi al-a-ṣīl.)",
+          "translation": "The artist plays poignant melodies on the lute (oud) that stir feelings of authentic musical delight."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَتَمَيَّزُ مَقَامُ البَيَاتِي وَمَقَامُ الرَّاسْتِ بِأَنْغَامٍ عَرَبِيَّةٍ تَأْسِرُ قُلُوبَ السَّامِعِينَ.(Yatamayyazu maqāmu al-bayātī wa-maqāmu ar-rāsti bi-anghāmin ʿarabiyyatin taʾsiru qulūba as-sāmiʿīn.)",
+          "reading": "[ja.ta.maj.ja.zu ma.qaː.mu‿l.ba.jaː.tiː wa.ma.qaː.mu‿r.raːs.ti bi.ʔan.ɣaː.min ʕa.ra.bij.ja.tin taʔ.si.ru qu.luː.ba‿s.saː.mi.ʕiːn] (Ya-ta-may-ya-zu ma-qā-mu al-ba-yā-tī wa-ma-qā-mu ar-rās-ti bi-an-ghā-min ʿa-ra-biy-ya-tin taʾ-si-ru qu-lū-ba as-sā-mi-ʿīn.)",
+          "translation": "The Bayati maqam and Rast maqam are distinguished by Arabic tunes that captivate the hearts of listeners."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَتَنَاغَمُ أَوْتَارُ القَانُونِ مَعَ نَفَحَاتِ النَّايِ فِي الفِرْقَةِ المُوسِيقِيَّةِ التُّرَاثِيَّةِ.(Tatanāghamu awtāru al-qānūni maʿa nafaḥāti an-nāyi fī al-firqati al-mūsīqiyyati at-turāthiyyah.)",
+          "reading": "[ta.ta.naː.ɣa.mu ʔaw.taː.ru‿l.qaː.nuː.ni ma.ʕa na.fa.ħaː.ti‿n.naː.ji fiː‿l.fir.qa.ti‿l.muː.siː.qij.ja.ti‿t.tu.raː.θij.jah] (Ta-ta-nā-gha-mu aw-tā-ru al-qā-nū-ni ma-ʿa na-fa-ḥā-ti an-nā-yi fī al-fir-qa-ti al-mū-sī-qiy-ya-ti at-tu-rā-thiy-yah.)",
+          "translation": "The strings of the qanun harmonize with the breezes of the reed flute (nay) in the traditional musical ensemble."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "المَقَامَاتُ المُوسِيقِيَّةُ العَرَبِيَّةُ صَرْحٌ نَغَمِيٌّ فَرِيدٌ يَعْتَمِدُ عَلَى أَرْبَاعِ الصَّوْتِ الدَّقِيقَةِ.(Al-maqāmātu al-mūsīqiyyatu al-ʿarabiyyatu ṣarḥun naghamiyyun farīdun yaʿtamidu ʿalā arbāʿi aṣ-ṣawti ad-daqīqah.)",
+          "reading": "[al.ma.qaː.maː.tu‿l.muː.siː.qij.ja.tu‿l.ʕa.ra.bij.ja.tu sˤar.ħun na.ɣa.mij.jun fa.riː.dun jaʕ.ta.mi.du ʕa.laː ʔar.baː.ʕi‿sˤ.sˤaw.ti‿d.da.qiː.qah] (Al-ma-qā-mā-tu al-mū-sī-qiy-ya-tu al-ʿa-ra-biy-ya-tu ṣar-ḥun na-gha-miy-yun fa-rī-dun yaʿ-ta-mi-du ʿa-lā ar-bā-ʿi aṣ-ṣaw-ti ad-da-qī-qah.)",
+          "translation": "Arabic musical maqamat are a unique melodic edifice that relies on precise quarter tones."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عُودٌ وَقَانُونٌ وَنَايٌ فِي سَمَاعْ، تَنْسَابُ أَلْحَانُ المَقَامَاتِ بِإِبْدَاعْ!"
+      ],
+      "culturalNotes": [
+        "الفيلسوف والعالم العربي الكندي ثم الفارابي («كتاب الموسيقى الكبير») وضعا الأسس النظرية لعلم المقامات الموسيقية ودوزنة أوتار العود والقانون بدقة رياضية مذهلة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» (الدرس 2)؟",
+          "prompt": "ما هي الآلة الوترية العربية العريقة الملقبة بـ «سلطان الآلات الموسيقية الشرقية»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (17.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (17.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (17.2.w3)"
+            "العُودُ (The Oud / Lute)",
+            "البيانو الغربي",
+            "البوق النحاسي",
+            "الطبول الحديثة فقط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«العُودُ» هو الآلة الشرقية الأبرز وأساس التلحين والتطريب في التراث العربي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما اسم المقام الموسيقي العربي الذي يسمى «أبو المقامات الشرقية» ويعبر عن الوقار والبهجة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مَقَامُ الرَّاسْتِ (Maqam Rast)",
+            "مقام الجاز",
+            "المقام الغربي فقط",
+            "مقام البلوز"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«مَقَامُ الرَّاسْتِ» هو سيد المقامات الشرقية وأصل النغمات في الموسيقى العربية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u17-l2):",
+          "prompt": "اختر الجملة التي تصف التناغم الموسيقي بين الآلات التراثية بأسلوب فصيح ومتقن:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (17.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (17.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (17.2.x3)"
+            "تَمْتَزِجُ نَغَمَاتُ العُودِ وَالقَانُونِ مَعَ صَوْتِ النَّايِ فِي أَدَاءِ مَقَامِ الحِجَازِ البَدِيعِ. (The tunes of the oud and qanun blend with the sound of the nay in performing the marvelous Hijaz maqam.)",
+            "تمتزج الآلات الموسيقية في صالة المطار فوق البحر",
+            "العود يأكل القانون في الحفل",
+            "موسيقى مقامات عود قانون ناي سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن التناغم الموسيقي الشرقي «نَغَمَاتُ العُودِ وَالقَانُونِ مَعَ صَوْتِ النَّايِ... مَقَامِ الحِجَازِ» بفصاحة ناصعة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)»؟",
+          "prompt": "ما هي آلة النفخ الهوائية الشجية المصنوعة من نبات القصب في التخت الشرقي؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (17.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (17.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (17.2.y3)"
+            "النَّايُ (The Nay / Reed Flute)",
+            "الدف",
+            "الرق",
+            "القانون"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«النَّايُ» هو آلة النفخ القصبية الشهيرة بصوتها الشجي."
         }
       ]
     },
@@ -10232,24 +10245,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 17-2)؟",
+          "prompt": "اختر النص الذي يصف التخت الموسيقي العربي والمقامات التراثية بأعلى درجات البلاغة والدقة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (17.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (17.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (17.2.z3)"
+            "أَبْدَعَتِ الفِرْقَةُ المُوسِيقِيَّةُ التُّرَاثِيَّةُ فِي أَدَاءِ مَقْطُوعَةٍ مِنْ مَقَامِ النَّهَاوَنْدِ؛ حَيْثُ تَآلَفَتْ أَوْتَارُ العُودِ وَالقَانُونِ مَعَ نَفَحَاتِ النَّايِ وَإِيقَاعِ الرِّقِّ، لِتَخْلُقَ أَمْسِيَةً تَنْتَشِي فِيهَا الأَرْوَاحُ بِالطَّرَبِ العَرَبِيِّ الأَصِيلِ. (The traditional musical ensemble excelled in performing a piece from Nahawand maqam; where the strings of oud and qanun harmonized with the nay's breezes and riq's rhythm, creating an evening in which souls revel with authentic Arab musical delight.)",
+            "ابدعت الفرقة بالافعال الماضية فقط بلا مقامات وبلا الات موسيقية.",
+            "موسيقى مقامات عود قانون ناي رق نهاوند راست سكون فتحة ضمة.",
+            "توقفت الحفلة الموسيقية وكسرت جميع الالات."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين الآلات الشرقية والمقامات التراثية «مَقَام النَّهَاوَنْد، أَوْتَار العُود، القَانُون، النَّاي، الرِّقّ، الطَّرَب الأَصِيل» بتناغم لغوي وفني باهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u17-l2) باللغة العربية (مثال: «التعبير»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الآلة الوترية العربية ذات الصندوق الخشبي الكمثري والأوتار الشجية (اكتب: «العود» أو «عود»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التعبير",
-            "التعبير"
+            "العود",
+            "عود",
+            "عُودٌ",
+            "عُود",
+            "العُودُ"
           ],
-          "explanation": "المصطلح الصحيح هو «التعبير»."
+          "explanation": "الآلة هي «العود» أو «عود»."
         }
       ],
       "passThreshold": 0.8
@@ -10260,85 +10276,89 @@
     "subject": "arabic",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "التعبير عن الرأي واسم التفضيل (Opinions & Superlatives) (الدرس 3)",
+    "title": "الأسماء الموصولة للمثنى والجمع والتطابق (Dual & Plural Relative Pronouns: Al-Ladhani & Al-Latani)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة اسم التفضيل على وزن (أَفْعَل)، المقارنة، والعبارات الاصطلاحية للتعبير عن وجهات النظر. (الجزء 3).",
+    "objective": "إتقان الأسماء الموصولة المعربة للمثنى (اللَّذَانِ/اللَّذَيْنِ للمثنى المذكر، اللَّتَانِ/اللَّتَيْنِ للمثنى المؤنث) ومطابقتها إعرابًا وعدداً مع صلة الموصول والعائد.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتميز الأسماء الموصولة بأنها مبنية دائمًا إلا في حالة **المثنى**؛ فإنها **تُعرب إعراب المثنى** (بالألف رفعًا وبالياء نصبًا وجرًا):\n\nأولاً: الأسماء الموصولة للمثنى المذكر (Dual Masculine):\n1.【اللَّذَانِ (رفعًا)】: «حَضَرَ **العَازِفَانِ اللَّذَانِ** أَبْدَعَا فِي الحَفْلِ» (نعت لفاعل مرفوع بالألف).\n2.【اللَّذَيْنِ (نصبًا وجرًا)】:\n   - نصب: «شَاهَدْتُ **الخَطَّاطَيْنِ اللَّذَيْنِ** فَازَا بِالمُسَابَقَةِ» (نعت لمفعول به منصوب بالياء).\n   - جر: «مَرَرْتُ **بِالفَنَّانَيْنِ اللَّذَيْنِ** قَدَّمَا اللَّوْحَةَ» (نعت لاسم مجرور بالياء).\n\nثانياً: الأسماء الموصولة للمثنى المؤنث (Dual Feminine):\n1.【اللَّتَانِ (رفعًا)】: «هَاتَانِ هُمَا **الشَّاعِرَتَانِ اللَّتَانِ** أَلْقَتَا القَصِيدَةَ» (نعت لخبر مرفوع بالألف).\n2.【اللَّتَيْنِ (نصبًا وجرًا)】:\n   - نصب: «قَرَأْتُ **القَصِيدَتَيْنِ اللَّتَيْنِ** نُشِرَتَا فِي المَجَلَّةِ».\n   - جر: «أُعْجِبْتُ **بِاللَّوْحَتَيْنِ اللَّتَيْنِ** رَسَمَتْهُمَا الفَنَّانَةُ».\n\nثانياً: التمييز بين المفرد والمثنى والجمع:\n- المفرد: الَّذِي (مذكر)، الَّتِي (مؤنث ولجمع غير العاقل).\n- المثنى: اللَّذَانِ/اللَّذَيْنِ (مذكر)، اللَّتَانِ/اللَّتَيْنِ (مؤنث).\n- الجمع: الَّذِينَ (جمع مذكر عاقل)، اللَّاتِي/اللَّوَاتِي (جمع مؤنث عاقل).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)' to students in an accurate academic style."
+          "target": "هٰذَانِ هُمَا العَازِفَانِ اللَّذَانِ أَبْدَعَا فِي عَزْفِ مَقَامِ الرَّاسْتِ عَلَى العُودِ وَالقَانُونِ.(Hādhāni humā al-ʿāzifāni al-ladhāni abdaʿā fī ʿazfi maqāmi ar-rāsti ʿalā al-ʿūdi wa-al-qānūn.)",
+          "reading": "[haː.ðaː.ni hu.maː‿l.ʕaː.zi.faː.ni‿l.la.ðaː.ni ʔab.da.ʕaː fiː ʕaz.fi ma.qaː.mi‿r.raːs.ti ʕa.laː‿l.ʕuː.di wal.qaː.nuːn] (Hā-dhā-ni hu-mā al-ʿā-zi-fā-ni al-la-dhā-ni ab-da-ʿā fī ʿaz-fi ma-qā-mi ar-rās-ti ʿa-lā al-ʿū-di wa-al-qā-nūn.)",
+          "translation": "These two are the two musicians who excelled in playing Rast maqam on the lute and qanun."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "كَرَّمَتِ الوِزَارَةُ الخَطَّاطَتَيْنِ اللَّتَيْنِ حَصَلَتَا عَلَى الجَائِزَةِ الدَّوْلِيَّةِ فِي خَطِّ الثُّلُثِ.(Karramati al-wizāratu al-khaṭṭāṭatayni al-latayni ḥaṣalatā ʿalā al-jāʾizati ad-dawliyyati fī khaṭṭi ath-thuluth.)",
+          "reading": "[kar.ra.ma.ti‿l.wi.zaː.ra.tu‿l.xatˤ.tˤaː.tˤa.taj.ni‿l.la.taj.ni ħa.sˤa.la.taː ʕa.laː‿l.ʒaː.ʔi.za.ti‿d.daw.lij.ja.ti fiː xatˤ.tˤi‿θ.θu.luθ] (Kar-ra-ma-ti al-wi-zā-ra-tu al-khaṭ-ṭā-ṭa-tay-ni al-la-tay-ni ḥa-ṣa-la-tā ʿa-lā al-jā-ʾi-za-ti ad-daw-liy-ya-ti fī khaṭ-ṭi ath-thu-luth.)",
+          "translation": "The ministry honored the two female calligraphers who obtained the international prize in Thuluth script."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "اسْمَا المَوْصُولِ لِلْمُثَنَّى «اللَّذَانِ» وَ«اللَّتَانِ» يُعْرَبَانِ إِعْرَابَ المُثَنَّى بِالأَلِفِ رَفْعًا وَبِاليَاءِ نَصْبًا وَجَرًّا.(Ismā al-mawṣūli li-l-muthannā 'al-ladhāni' wa-'al-latāni' yuʿrabāni iʿrāba al-muthannā bi-al-alifi rafʿan wa-bi-al-yāʾi naṣban wa-jarran.)",
+          "reading": "[ʔis.maː‿l.maw.sˤuː.li lil.mu.θan.naː «al.la.ðaː.ni» wa«al.la.taː.ni» juʕ.ra.baː.ni ʔiʕ.raː.ba‿l.mu.θan.naː bil.ʔa.li.fi raf.ʕan wa.bil.jaː.ʔi nasˤ.ban wa.ʒar.ran] (Is-mā al-maw-ṣū-li li-al-mu-than-nā 'al-la-dhā-ni' wa-'al-la-tā-ni' yuʿ-ra-bā-ni iʿ-rā-ba al-mu-than-nā bi-al-a-li-fi raf-ʿan wa-bi-al-yā-ʾi naṣ-ban wa-jar-ran.)",
+          "translation": "The two relative pronouns for dual 'al-ladhani' and 'al-latani' are declined as dual with alif in nominative and yaa in accusative and genitive."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَسْتَمِعُ إِلَى القَصَائِدِ الَّتِي أَنْشَدَهَا الشُّعَرَاءُ الَّذِينَ خَلَّدُوا التُّرَاثَ الفَنِّيَّ.(Nastamiʿu ilā al-qaṣāʾidi al-latī anshadahā ash-shuʿarāʾu al-ladhīna khalladū at-turātha al-fanniyy.)",
+          "reading": "[nas.ta.mi.ʕu ʔi.laː‿l.qa.sˤaː.ʔi.di‿l.la.tiː ʔan.ʃa.da.haː‿ʃ.ʃu.ʕa.raː.ʔu‿l.la.ðiː.na xal.la.duː‿t.tu.raː.θa‿l.fan.nijj] (Nas-ta-mi-ʿu i-lā al-qa-ṣā-ʾi-di al-la-tī an-sha-da-hā ash-shu-ʿa-rā-ʾu al-la-dhī-na khal-la-dū at-tu-rā-tha al-fan-niyy.)",
+          "translation": "We listen to the poems which were chanted by the poets who immortalized artistic heritage."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اللَّذَانِ لِاثْنَيْنِ، وَاللَّتَانِ لِاثْنَتَيْنِ، بِالأَلِفِ رَفْعًا وَبِاليَاءِ فِي الحَالَيْنِ!"
+      ],
+      "culturalNotes": [
+        "صيغ التثنية في اللغة العربية كالأسماء الموصولة تعكس خصوصية لغوية دقيقة تنفرد بها العربية عن أغلب لغات العالم التي تقتصر على المفرد والجمع فقط."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» (الدرس 3)؟",
+          "prompt": "ما هو الاسم الموصول المناسب للمثنى المذكر في حالة الرفع مثل: «جَاءَ الطَّالِبَانِ ... فَازَا»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (17.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (17.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (17.3.w3)"
+            "اللَّذَانِ (Al-Ladhāni - Nominative dual masculine)",
+            "اللذين",
+            "اللتان",
+            "الذين"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«اللَّذَانِ» هو الاسم الموصول للمثنى المذكر المرفوع بالألف."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الاسم الموصول المناسب للمثنى المؤنث في حالة النصب أو الجر مثل: «رَأَيْتُ اللَّوْحَتَيْنِ ... رَسَمَتْهُمَا الفَنَّانَةُ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "اللَّتَيْنِ (Al-Latayni - Accusative/Genitive dual feminine)",
+            "اللتان",
+            "اللذين",
+            "التي"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«اللَّتَيْنِ» هو الاسم الموصول للمثنى المؤنث المنصوب أو المجرور بالياء."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u17-l3):",
+          "prompt": "اختر الجملة التي تستخدم اسم الموصول للمثنى المجرور مطابقة تامة وإعرابًا سليمًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (17.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (17.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (17.3.x3)"
+            "أُعْجِبْتُ بِالعَازِفَيْنِ اللَّذَيْنِ قَدَّمَا تَقَاسِيمَ مَقَامِ الرَّاسْتِ. (I admired the two musicians who presented improvisations of Rast maqam.)",
+            "اعجبت بالعازفين اللذان بالرفع في موضع الجر",
+            "العازفين التي قدما بالخطأ",
+            "اسم موصول مثنى عازفين لحن سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«بِالعَازِفَيْنِ اللَّذَيْنِ» اسم موصول للمثنى المذكر مجرور بالياء لمطابقة الموصوف المجرور بالباء."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)»؟",
+          "prompt": "هل الأسماء الموصولة للمثنى (اللذان واللتان) مبنية أم معربة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (17.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (17.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (17.3.y3)"
+            "مُعْرَبَةٌ إِعْرَابَ المُثَنَّى (بِالأَلِفِ رَفْعًا وَبِاليَاءِ نَصْبًا وَجَرًّا) (Declinable as dual)",
+            "مبنية على الضم دائما",
+            "مبنية على السكون",
+            "ممنوعة من الصرف"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "أسماء الموصول للمثنى معربة تعرب إعراب المثنى بالألف رفعًا وبالياء نصبًا وجرًا."
         }
       ]
     },
@@ -10346,24 +10366,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 17-3)؟",
+          "prompt": "اختر الفقرة التي توظف أسماء الموصول للمثنى (اللذان/اللذين، اللتان/اللتين) في سياق فني وإبداعي متكامل:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (17.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (17.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (17.3.z3)"
+            "شَهِدَ المَعْرِضُ تَأَلُّقَ الفَنَّانَيْنِ اللَّذَيْنِ أَبْدَعَا فِي لَوْحَاتِ الخَطِّ، كَمَا نَالَتِ القَصِيدَتَانِ اللَّتَانِ أُلْقِيَتَا فِي الأَمْسِيَةِ إِعْجَابَ الحَاضِرِينَ الَّذِينَ صَفَّقُوا لِهٰذَا الإِبْدَاعِ. (The exhibition witnessed the brilliance of the two artists who excelled in calligraphy paintings, just as the two poems which were recited in the evening won the admiration of the attendees who applauded this creativity.)",
+            "شهد المعرض تالق الفنانين بالافعال الماضية فقط بلا اسماء موصولة للمثنى.",
+            "اللذين اللتان الذين صلة موصول مثنى سكون فتحة ضمة كسرة.",
+            "لم يحضر اي فنان ولم تلق اي قصيدة في المعرض."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «الفَنَّانَيْنِ اللَّذَيْنِ» (مثنى مذكر مجرور)، «القَصِيدَتَانِ اللَّتَانِ» (مثنى مؤنث مرفوع)، «الحَاضِرِينَ الَّذِينَ» (جمع مذكر) بضبط نحوي فائق."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u17-l3) باللغة العربية (مثال: «التعبير»):",
+          "prompt": "اكتب باللغة العربية الفصحى الاسم الموصول للمثنى المذكر في حالة الرفع (اكتب: «اللذان»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التعبير",
-            "التعبير"
+            "اللذان",
+            "اللَّذَانِ",
+            "اللَّذان",
+            "اللذانِ"
           ],
-          "explanation": "المصطلح الصحيح هو «التعبير»."
+          "explanation": "الاسم الموصول هو «اللذان»."
         }
       ],
       "passThreshold": 0.8
@@ -10374,85 +10396,89 @@
     "subject": "arabic",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "التعبير عن الرأي واسم التفضيل (Opinions & Superlatives) (الدرس 4)",
+    "title": "الشعر العربي الفصيح والمسرح الأدبي (Classical Arabic Poetry & Theatrical Arts)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة اسم التفضيل على وزن (أَفْعَل)، المقارنة، والعبارات الاصطلاحية للتعبير عن وجهات النظر. (الجزء 4).",
+    "objective": "إتقان مفردات الشعر الفصيح وعناصره (ديوان، قصيدة، بيت، قافية، بحور الشعر) وفنون المسرح الأدبي والتعبير البلاغي والنقدي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الشعر ديوان العرب وسجل مفاخرهم ومشاعرهم، ويتكامل في العصر الحديث مع الفنون المسرحية والأدبية:\n\nأولاً: عناصر الشعر العربي الفصيح (Classical Arabic Poetry):\n1.【دِيوَانُ العَرَبِ (Anthology of the Arabs)】: المرجع التاريخي والوجداني للأمة.\n2.【قَصِيدَةٌ / قَصَائِدُ (Poem / Poems)】 | 【دِيوَانٌ / دَوَاوِينُ (Poetry Collection)】.\n3.【بَيْتُ شِعْرٍ / أَبْيَاتٌ (Poetic Verse / Verses)】 (يشتمل على: صَدْر البَيْتِ وَعَجُزِهِ).\n4.【قَافِيَةٌ / قَوَافٍ (Rhyme / Rhymes)】: الحروف الأخيرة المنغمة في نهاية كل بيت.\n5.【بُحُورُ الشِّعْرِ / الأَوْزَانُ (Poetic Metres)】: الأوزان الستة عشر التي وضعها الخليل بن أحمد الفراهيدي.\n\nثانياً: المسرح والأدب الدرامي (Theatrical Arts):\n- 【مَسْرَحٌ / مَسْرَحِيَّةٌ (Theatre / Play)】 | 【مُمَثِّلٌ / مُمَثِّلَةٌ (Actor / Actress)】.\n- 【حِوَارٌ مَسْرَحِيٌّ (Theatrical Dialogue)】 | 【خَشَبَةُ المَسْرَحِ (Stage)】.\n- 【إِلْقَاءٌ شِعْرِيٌّ (Poetry Recitation)】: الأداء الصوتي المعبر عن المعاني.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)' to students in an accurate academic style."
+          "target": "يُعَدُّ الشِّعْرُ الفَصِيحُ دِيوَانَ العَرَبِ الَّذِي سَجَّلَ مَآثِرَهُمْ وَقِيَمَهُمُ الأَخْلَاقِيَّةَ عَبْرَ العُصُورِ.(Yuʿaddu ash-shiʿru al-faṣīḥu dīwāna al-ʿarabi al-ladhī sajjala maʾāthirahum wa-qiyamahumu al-akhlāqiyyata ʿabra al-ʿuṣūr.)",
+          "reading": "[ju.ʕad.du‿ʃ.ʃiʕ.ru‿l.fa.sˤiː.ħu diː.waː.na‿l.ʕa.ra.bi‿l.la.ðiː saʒ.ʒa.la ma.ʔaː.θi.ra.hum wa.qi.ja.ma.hu.mu‿l.ʔax.laː.qij.ja.ta ʕab.ra‿l.ʕu.sˤuːr] (Yu-ʿad-du ash-shiʿ-ru al-fa-ṣī-ḥu dī-wā-na al-ʿa-ra-bi al-la-dhī saj-ja-la ma-ʾā-thi-ra-hum wa-qi-ya-ma-hu-mu al-akh-lā-qiy-ya-ta ʿab-ra al-ʿu-ṣūr.)",
+          "translation": "Classical poetry is considered the record (diwan) of the Arabs which documented their exploits and moral values across the ages."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَلْقَى الشَّاعِرُ قَصِيدَةً عَصْمَاءَ تَمَيَّزَتْ بِقَافِيَةٍ مُوسِيقِيَّةٍ وَبَلَاغَةٍ لُغَوِيَّةٍ سَاحِرَةٍ.(Alqā ash-shāʿiru qaṣīdatan ʿaṣmāʾa tamayyazat bi-qāfiyatin mūsīqiyyatin wa-balāghatin lughawiyyatin sāḥirah.)",
+          "reading": "[ʔal.qaː‿ʃ.ʃaː.ʕi.ru qa.sˤiː.da.tan ʕasˤ.maː.ʔa ta.maj.ja.zat bi.qaː.fi.ja.tin muː.siː.qij.ja.tin wa.ba.laː.ɣa.tin lu.ɣa.wij.ja.tin saː.ħi.rah] (Al-qā ash-shā-ʿi-ru qa-ṣī-da-tan ʿaṣ-mā-ʾa ta-may-ya-zat bi-qā-fi-ya-tin mū-sī-qiy-ya-tin wa-ba-lā-gha-tin lu-gha-wiy-ya-tin sā-ḥi-rah.)",
+          "translation": "The poet recited a masterpiece poem distinguished by a musical rhyme and magical linguistic eloquence."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُقَدِّمُ المَسْرَحُ القَوْمِيُّ مَسْرَحِيَّاتٍ أَدَبِيَّةً تُعَالِجُ قَضَايَا المُجْتَمَعِ بِأُسْلُوبٍ دِرَامِيٍّ بَدِيعٍ.(Yuqaddimu al-masraḥu al-qawmiyyu masraḥiyyātin adabiyyatan tuʿāliju qaḍāyā al-mujtamaʿi bi-uslūbin drāmiyyin badīʿ.)",
+          "reading": "[ju.qad.di.mu‿l.mas.ra.ħu‿l.qaw.mij.ju mas.ra.ħij.jaː.tin ʔa.da.bij.ja.tan tu.ʕaː.li.ʒu qa.dˤaː.jaː‿l.muʒ.ta.ma.ʕi bi.ʔus.luː.bin di.raː.mij.jin ba.diːʕ] (Yu-qad-di-mu al-mas-ra-ḥu al-qaw-miy-yu mas-ra-ḥiy-yā-tin a-da-biy-ya-tan tu-ʿā-li-ju qa-ḍā-yā al-muj-ta-ma-ʿi bi-us-lū-bin drā-miy-yin ba-dīʿ.)",
+          "translation": "The National Theatre presents literary plays that address societal issues in a marvelous dramatic style."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نُشَاهِدُ اللَّوْحَتَيْنِ اللَّتَيْنِ جَسَّدَتَا أَبْيَاتَ الشِّعْرِ فِي مَعْرِضِ الفُنُونِ التَّشْكِيلِيَّةِ.(Nushāhidu al-lawḥatayni al-latayni jassadatā abyāta ash-shiʿri fī maʿriḍi al-funūni at-tashkīliyyah.)",
+          "reading": "[nu.ʃaː.hi.du‿l.law.ħa.taj.ni‿l.la.taj.ni ʒas.sa.da.taː ʔab.jaː.ta‿ʃ.ʃiʕ.ri fiː maʕ.ri.dˤi‿l.fu.nuː.ni‿t.taʃ.kiː.lij.jah] (Nu-shā-hi-du al-law-ḥa-tay-ni al-la-tay-ni jas-sa-da-tā ab-yā-ta ash-shiʿ-ri fī maʿ-ri-ḍi al-fu-nū-ni at-tash-kī-liy-yah.)",
+          "translation": "We view the two paintings which embodied the poetry verses in the plastic arts exhibition."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "الشِّعْرُ دِيوَانُ العَرَبِ وَالمَسْرَحُ صَوْتُ الأَدَبِ، أَبْيَاتٌ تَسْمُو بِالفَصَاحَةِ وَالرَّتَبِ!"
+      ],
+      "culturalNotes": [
+        "الخليل بن أحمد الفراهيدي (مؤسس علم العروض) استنبط الأوزان الشعرية الستة عشر من خلال تأمل إيقاعات ودقات النحاسين والمطارق في أسواق البصرة القديمة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» (الدرس 4)؟",
+          "prompt": "ماذا يسمى الحرف المنغم الموحد الذي تنتهي به أبيات القصيدة العربية الفصيحة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (17.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (17.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (17.4.w3)"
+            "القَافِيَةُ (The Rhyme / Qāfiyah)",
+            "صدر البيت",
+            "المسرح",
+            "الديوان النثري"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«القَافِيَةُ» هي الحروف المتناسقة في ختام كل بيت شعري والتي تمنح القصيدة موسيقاها وجرسها."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو اللقب الشهير الذي أطلقه العرب على مجموع شعرهم وتراثهم الأدبي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«دِيوَانُ العَرَبِ» (The Register of the Arabs)",
+            "سوق المدينة",
+            "المجلة الأسبوعية",
+            "القصة القصيرة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "يقال: «الشعر ديوان العرب» لأنه سجل تاريخهم وحكمهم ومفاخرهم."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u17-l4):",
+          "prompt": "اختر الجملة التي تصف الإلقاء الشعري والتأثير الأدبي بفصاحة بيانية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (17.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (17.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (17.4.x3)"
+            "أَلْقَى الشَّاعِرُ أَبْيَاتًا بَلِيغَةً عَلَى خَشَبَةِ المَسْرَحِ نَالَتْ إِعْجَابَ جَمِيعِ الحَاضِرِينَ. (The poet recited eloquent verses on the theatre stage that won the admiration of all attendees.)",
+            "القى الشاعر الابيات في الماء لتشرب",
+            "المسرح يركض خلف القصيدة",
+            "شعر مسرح ابيات القاء سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن الإلقاء الشعري الفصيح على خشبة المسرح «أَلْقَى الشَّاعِرُ أَبْيَاتًا بَلِيغَةً عَلَى خَشَبَةِ المَسْرَحِ» بسبك لغوي ممتاز."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)»؟",
+          "prompt": "من هو العالم العبقري الذي استنبط ودوّن «بُحُورَ الشِّعْرِ العَرَبِيِّ» وأسس علم العروض؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (17.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (17.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (17.4.y3)"
+            "الخَلِيلُ بْنُ أَحْمَدَ الفَرَاهِيدِيُّ (Al-Khalil ibn Ahmad al-Farahidi)",
+            "ابن بطوطة",
+            "ابن سينا",
+            "الجاحظ"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الخَلِيلُ بْنُ أَحْمَدَ الفَرَاهِيدِيُّ» هو إمام اللغة وواضع علم العروض وأوزان الشعر العربي."
         }
       ]
     },
@@ -10460,24 +10486,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 17-4)؟",
+          "prompt": "اختر النص الذي يصف روعة الأمسية الشعرية والمسرحية بدقة بلاغية واصطلاحية ناصعة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (17.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (17.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (17.4.z3)"
+            "تَأَلَّقَتِ الأَمْسِيَةُ الأَدَبِيَّةُ عَلَى خَشَبَةِ المَسْرَحِ القَوْمِيِّ؛ حَيْثُ تَنَاوَبَ الشُّعَرَاءُ عَلَى إِلْقَاءِ قَصَائِدَ عَصْمَاءَ تَحَلَّتْ بِرَصَانَةِ الأَوْزَانِ وَجَمَالِ القَوَافِي، لِيُؤَكِّدُوا أَنَّ الشِّعْرَ الفَصِيحَ سَيَبْقَى دَائِمًا نَبْضَ الوِجْدَانِ العَرَبِيِّ. (The literary evening sparkled on the National Theatre stage; where poets took turns reciting masterpiece poems adorned with sobriety of metres and beauty of rhymes, to affirm that classical poetry will always remain the pulse of Arab conscience.)",
+            "تألقت الامسية بالافعال الماضية فقط بلا شعر وبلا مسرح.",
+            "شعر قصائد ابيات قوافي مسرح القاء سكون فتحة ضمة كسرة.",
+            "الغي العرض المسرحي واغلقت دار الادب ابوابها."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين مصطلحات الشعر والمسرح «خَشَبَة المَسْرَح، الشُّعَرَاء، إِلْقَاء قَصَائِد، الأَوْزَان، القَوَافِي، الشِّعْر الفَصِيح» في أعلى ذرى الفصاحة والبيان."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u17-l4) باللغة العربية (مثال: «التعبير»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوحدة البنائية الأساسية في القصيدة (اكتب: «بيت» أو «البيت»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التعبير",
-            "التعبير"
+            "بيت",
+            "البيت",
+            "بَيْتٌ",
+            "بَيْت",
+            "البَيْتُ"
           ],
-          "explanation": "المصطلح الصحيح هو «التعبير»."
+          "explanation": "المصطلح هو «بيت» أو «البيت» (بيت الشعر)."
         }
       ],
       "passThreshold": 0.8
@@ -10488,85 +10517,89 @@
     "subject": "arabic",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "التعبير عن الرأي واسم التفضيل (Opinions & Superlatives) (الدرس 5)",
+    "title": "حوار الصالون الثقافي والفني العربي (Arab Cultural Salon & Arts Dialogue)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: صياغة اسم التفضيل على وزن (أَفْعَل)، المقارنة، والعبارات الاصطلاحية للتعبير عن وجهات النظر. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة: الفنون والخط العربي، التراث الموسيقي والمقامات، الأسماء الموصولة للمثنى والجمع، والشعر والمسرح في حوار صالون ثقافي متكامل.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة السابعة عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات اللغوية والفنية في حوار راقٍ يدور في صالون ثقافي عربي جامع بين الفنان التشكيلي والخطاط (زياد) والموسيقية والشاعرة (سلمى) أثناء استعراض لوحات الخط العربي والتقاسيم الموسيقية والقصائد الشعرية:\n\nمحاور النص الحواري الشامل:\n1.【معجم الفنون والخط العربي】: خَطُّ الثُّلُثِ، خَطُّ النَّسْخِ، اللَّوْحَاتُ، الزَّخَارِفُ الإِسْلَامِيَّةُ.\n2.【الموسيقى والمقامات الشرقية】: العُودُ، القَانُونُ، مَقَامُ البَيَاتِي، مَقَامُ الرَّاسْتِ، الطَّرَبُ الأَصِيلُ.\n3.【التطبيق الدقيق لأسماء الموصول للمثنى والجمع】: «اللَّوْحَتَانِ اللَّتَانِ»، «العَازِفَانِ اللَّذَانِ»، «الشُّعَرَاءُ الَّذِينَ»، «القَصَائِدُ الَّتِي».\n4.【الشعر الفصيح والمسرح】: الأَبْيَاتُ، القَوَافِي، الإِلْقَاءُ الشِّعْرِيُّ.\n5.【الاعتزاز بالصالونات الثقافية العربية】: توارث الفنون الأصيلة وحوار الثقافات.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)' to students in an accurate academic style."
+          "target": "مَرْحَبًا سَلْمَى، مَا أَرْوَعَ هٰذَا الصَّالُونَ الثَّقَافِيَّ الَّذِي يَجْمَعُ بَيْنَ سِحْرِ الخَطِّ وَعُذُوبَةِ الوَتَرِ!(Marḥaban Salmā, mā arwaʿa hādhā aṣ-ṣālūna ath-thaqāfiyya al-ladhī yajmaʿu bayna siḥri al-khaṭṭi wa-ʿudhūbati al-watar!)",
+          "reading": "[mar.ħa.ban sal.maː, maː ʔar.wa.ʕa haː.ðaː‿sˤ.sˤaː.luː.na‿θ.θa.qaː.fij.ja‿l.la.ðiː jaʒ.ma.ʕu baj.na siħ.ri‿l.xatˤ.tˤi wa.ʕu.ðuː.ba.ti‿l.wa.tar!] (Mar-ḥa-ban Sal-mā, mā ar-wa-ʿa hā-dhā aṣ-ṣā-lū-na ath-tha-qā-fiy-ya al-la-dhī yaj-ma-ʿu bay-na siḥ-ri al-khaṭ-ṭi wa-ʿu-dhū-ba-ti al-wa-tar!)",
+          "translation": "Welcome Salma, how wonderful is this cultural salon which brings together the magic of calligraphy and sweetness of string music!"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا زِيَاد، شَاهَدْتُ اللَّوْحَتَيْنِ اللَّتَيْنِ رَسَمْتَهُمَا بِخَطِّ الثُّلُثِ، وَقَدْ كَانَتَا فِي غَايَةِ الإِبْدَاعِ.(Ahlan Ziyād, shāhadtu al-lawḥatayni al-latayni rasamtahumā bi-khaṭṭi ath-thuluth, wa-qad kānatā fī ghāyati al-ibdāʿ.)",
+          "reading": "[ʔah.lan zi.jaːd, ʃaː.had.tu‿l.law.ħa.taj.ni‿l.la.taj.ni ra.sam.ta.hu.maː bi.xatˤ.tˤi‿θ.θu.luθ, wa.qad kaː.na.taː fiː ɣaː.ja.ti‿l.ʔib.daːʕ] (Ah-lan Zi-yād, shā-had-tu al-law-ḥa-tay-ni al-la-tay-ni ra-sam-ta-hu-mā bi-khaṭ-ṭi ath-thu-luth, wa-qad kā-na-tā fī ghā-ya-ti al-ib-dāʿ.)",
+          "translation": "Hello Ziyad, I saw the two paintings which you drew in Thuluth script, and they were at the peak of creativity."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "سَأَعْزِفُ اللَّيْلَةَ عَلَى العُودِ تَقَاسِيمَ مِنْ مَقَامِ البَيَاتِي لِمُرَافَقَةِ القَصَائِدِ الَّتِي سَيُلْقِيهَا الشُّعَرَاءُ.(Sa-aʿzifu al-laylata ʿalā al-ʿūdi taqāsīma min maqāmi al-bayātī li-murāfaqati al-qaṣāʾidi al-latī sayulqīhā ash-shuʿarāʾ.)",
+          "reading": "[sa.ʔaʕ.zi.fu‿l.laj.la.ta ʕa.laː‿l.ʕuː.di ta.qaː.siː.ma min ma.qaː.mi‿l.ba.jaː.tiː li.mu.raː.fa.qa.ti‿l.qa.sˤaː.ʔi.di‿l.la.tiː sa.jul.qiː.haː‿ʃ.ʃu.ʕa.raːʔ] (Sa-aʿ-zi-fu al-lay-la-ta ʿa-lā al-ʿū-di ta-qā-sī-ma min ma-qā-mi al-ba-yā-tī li-mu-rā-fa-qa-ti al-qa-ṣā-ʾi-di al-la-tī sa-yul-qī-hā ash-shu-ʿa-rā-ʾ.)",
+          "translation": "Tonight I will play improvisations on the lute from Bayati maqam to accompany the poems which the poets will recite."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نُحَيِّي الفَنَّانَيْنِ اللَّذَيْنِ قَدَّمَا هٰذَا العَمَلَ المُشْتَرَكَ لِإِحْيَاءِ رَوَائِعِ التُّرَاثِ العَرَبِيِّ.(Nuḥayyī al-fannānayni al-ladhayni qaddamā hādhā al-ʿamala al-mushtaraka li-iḥyāʾi rawāʾiʿi at-turāthi al-ʿarabiyy.)",
+          "reading": "[nu.ħaj.jiː‿l.fan.naː.naj.ni‿l.la.ðaj.ni qad.da.maː haː.ðaː‿l.ʕa.ma.la‿l.muʃ.ta.ra.ka li.ʔiħ.jaː.ʔi ra.waː.ʔi.ʕi‿t.tu.raː.θi‿l.ʕa.ra.bijj] (Nu-ḥay-yī al-fan-nā-nay-ni al-la-dhay-ni qad-da-mā hā-dhā al-ʿa-ma-la al-mush-ta-ra-ka li-iḥ-yā-ʾi ra-wā-ʾi-ʿi at-tu-rā-thi al-ʿa-ra-biyy.)",
+          "translation": "We salute the two artists who presented this joint work to revive the masterpieces of Arab heritage."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَجْلِسِ الفَنِّ تَغَنَّى الشِّعْرُ وَالأَوْتَارْ، وَالخَطُّ صَاغَ الحَرْفَ مَوْصُولاً بِالاسْتِبْشَارْ!"
+      ],
+      "culturalNotes": [
+        "الصالونات الأدبية في الثقافة العربية (كمجلس سيف الدولة الحمداني بحلب ومجالس بغداد والقاهرة والأندلس) جمعت أعظم الشعراء والموسيقيين والخطاطين في لقاءات إبداعية ملهمة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، ما هو نوع الخط الذي استخدمه زياد في رسم لوحتيه الفنيتين؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)» بأسلوب أكاديمي دقيق (17.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (17.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (17.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (17.5.w3)"
+            "خَطُّ الثُّلُثِ (Thuluth script)",
+            "الخط العادي",
+            "الطباعة فقط",
+            "الرسم بالألوان المائية بلا خط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أوضحت سلمى في الحوار: «شَاهَدْتُ اللَّوْحَتَيْنِ اللَّتَيْنِ رَسَمْتَهُمَا بِخَطِّ الثُّلُثِ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو المقام الموسيقي الذي ستعزف منه سلمى على العود لمرافقة إلقاء القصائد؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مَقَامُ البَيَاتِي (Bayati maqam)",
+            "مقام الفلامنكو",
+            "المقام الصيني",
+            "موسيقى الروك"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "قالت سلمى: «سَأَعْزِفُ اللَّيْلَةَ عَلَى العُودِ تَقَاسِيمَ مِنْ مَقَامِ البَيَاتِي»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u17-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف الصالون الثقافي بالأسماء الموصولة للمثنى والجمع بدقة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (17.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (17.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (17.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (17.5.x3)"
+            "— مَا رَأْيُكَ فِي القَصِيدَتَيْنِ اللَّتَيْنِ أُلْقِيَتَا؟ — إِنَّهُمَا رَائِعَتَانِ، وَنُحَيِّي الشَّاعِرَيْنِ اللَّذَيْنِ أَلَّفَاهُمَا. (— What is your opinion of the two poems which were recited? — They are wonderful, and we salute the two poets who composed them.)",
+            "— ما رايك في القصيدتين اللتان بالرفع في موضع الجر",
+            "— كم سعر العود في الصيدلية؟",
+            "— صالون قصيدتين شاعرين موصول سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف «القَصِيدَتَيْنِ اللَّتَيْنِ» و«الشَّاعِرَيْنِ اللَّذَيْنِ» بسبك حواري فصيح ومضبوط إعرابيًا."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «التعبير عن الرأي واسم التفضيل (Opinions & Superlatives)»؟",
+          "prompt": "ما هو الهدف الأسمى من الصالون الثقافي كما ورد في ختام الحوار؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (17.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (17.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (17.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (17.5.y3)"
+            "إِحْيَاءُ رَوَائِعِ التُّرَاثِ الفَنِّيِّ وَالأَدَبِيِّ العَرَبِيِّ (Reviving the masterpieces of Arab artistic and literary heritage)",
+            "إلغاء الفنون التشكيلية",
+            "بيع الأدوات المنزلية فقط",
+            "التنافر والخصام"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الهدف هو إحياء روائع التراث الفني والخط والموسيقى والشعر العربي الأصيل."
         }
       ]
     },
@@ -10574,24 +10607,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 17-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة السابعة عشرة بأكملها (الخط العربي، المقامات، الأسماء الموصولة للمثنى والجمع، والشعر):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (17.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (17.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (17.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (17.5.z3)"
+            "اجْتَمَعَ الفَنَّانُونَ فِي الصَّالُونِ الثَّقَافِيِّ الَّذِي تَزَيَّنَ بِاللَّوْحَتَيْنِ اللَّتَيْنِ خُطَّتَا بِخَطِّ الثُّلُثِ، وَعَزَفَتْ سَلْمَى عَلَى العُودِ مِنْ مَقَامِ البَيَاتِي لِمُرَافَقَةِ القَصَائِدِ الَّتِي أَنْشَدَهَا الشُّعَرَاءُ، مُعَبِّرِينَ عَنْ تَقْدِيرِهِمْ لِلْمُبْدِعَيْنِ اللَّذَيْنِ قَدَّمَا هٰذَا التَّنَاغُمَ الفَنِّيَّ الخَالِدَ. (The artists gathered in the cultural salon which was adorned with the two paintings which were written in Thuluth script, and Salma played on the lute from Bayati maqam to accompany the poems which the poets chanted, expressing their appreciation for the two creators who presented this eternal artistic harmony.)",
+            "اجتمع الفنانون بالافعال الماضية فقط بلا خطوط وبلا مقامات واسماء موصولة للمثنى.",
+            "صالون ثقافي لوحتين ثلث بياتي عود قصائد اللذين اللتين سكون فتحة.",
+            "انفض المجلس الثقافي دون عزف ودون القاء اي شعر."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج الخط العربي، والمقامات الموسيقية، والأسماء الموصولة للمثنى والجمع (اللَّتَيْنِ، اللَّذَيْنِ، الَّذِينَ، الَّتِي)، والشعر الفصيح في سياق سردي بديع وأصيل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u17-l5) باللغة العربية (مثال: «التعبير»):",
+          "prompt": "اكتب باللغة العربية الفصحى الاسم الموصول للمثنى المؤنث في حالة النصب والجر (اكتب: «اللتين»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "التعبير",
-            "التعبير"
+            "اللتين",
+            "اللَّتَيْنِ",
+            "اللَّتين",
+            "اللتينِ"
           ],
-          "explanation": "المصطلح الصحيح هو «التعبير»."
+          "explanation": "الاسم الموصول هو «اللتين»."
         }
       ],
       "passThreshold": 0.8
