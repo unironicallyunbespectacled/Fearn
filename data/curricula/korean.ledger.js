@@ -4,7 +4,8 @@
   var LEDGER = {
   "subject": "korean",
   "fullRoadmapLength": 170,
-  "authoredInFull": [
+  "authoredInFull": [],
+  "stubOnly": [
     "ko-u1-l1",
     "ko-u1-l2",
     "ko-u1-l3",
@@ -176,9 +177,8 @@
     "ko-u34-l4",
     "ko-u34-l5"
   ],
-  "stubOnly": [],
   "lastCompletedLessonId": null,
-  "nextToAuthor": null
+  "nextToAuthor": "ko-u1-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['korean'] = LEDGER;
