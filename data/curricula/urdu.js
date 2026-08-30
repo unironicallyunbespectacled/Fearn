@@ -9095,53 +9095,62 @@
     "subject": "urdu",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "پاکستانی اور مغلائی روایتی پکوان (Cuisine & Hospitality) (Part 1)",
+    "title": "مغلائی دسترخوان، روایتی تراکیب اور مصالحہ جات (Mughlai Cuisine & Spices)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.1) with authentic precision.",
+    "objective": "مغلائی پکوان (بریانی، قورمہ، نہاری، کباب)، روایتی مصالحہ جات (زعفران، الائچی، دارچینی) اور طریقہ پختگی (دم دینا، بھوننا) کے فصیح بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں مغلائی دسترخوان اور روایتی تراکیب کا بیان (Mughlai Culinary Traditions):\n\n1. **مغلائی پکوانوں کے نام اور تراکیب**:\n   - «**زعفرانی بریانی**»؛\n   - «**مغلائی قورمہ اور شامی کباب**»；\n   - «**دلی و لکھنؤ کی نہاری**»۔\n\n2. **طریقۂ پختگی کی اصطلاحات (Cooking Techniques)**:\n   - «دیگ میں ہلکی آنچ پر **دم دینا** (To slow-cook / simmer under steam)»；\n   - «گوشت کو دہی اور گرم مصالحے میں **میرینیٹ کرنا / رچانا**»；\n   - «خوشبو دار مصالحوں کا **تڑکا لگانا / بگھارنا**»۔\n\n3. **خوشبو دار مصالحہ جات**:\n   - «**زعفران، چھوٹی الائچی، دار چینی، لونگ اور جاوتری**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "شاہی دسترخوان پر پیش کی جانے والی زعفرانی بریانی کو مٹی کی ہانڈی میں کوئلوں پر دم دیا جاتا ہے۔",
+          "reading": "Shaahi dastarkhwaan par pesh ki jaanay waali za'fraani biryani ko mitti ki haandi mein ko'elon par dam diya jaata hai. [ʃaːhiː d̪əst̪ərxaːn pər peːʃ kiː dʒaːneː ʋaːliː zəʔfraːniː bɪrjaːniː koː mɪʈːiː kiː haːɳɖiː mẽː koːʔeːlõː pər d̪əm d̪ɪjaː dʒaːt̪aː hɛː] (SHAH-hee duhs-tuhr-KHAHN puhr PAYSH kee jah-NAY vah-LEE zah-frah-NEE beer-YAH-nee koh MEET-tee kee HAHN-dee mayn koh-eh-LOHN puhr DUHM dee-YAH jah-TAH HY)",
+          "translation": "The saffron biryani presented on the royal dining spread is cooked under steam [cooking term: dam diya jaata hai] on coals in an earthen pot."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 22-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "دلی اور لکھنؤ کے مغلائی قورمے میں بادام، کاجو کے پیسٹ اور عرقِ گلاب کا فصیح تڑکا لگایا جاتا ہے۔",
+          "reading": "Dilli aur Lucknow ke Mughlai qormay mein baadaam, kaaju ke paste aur arq-e-gulaab ka fasaahat se tarka lagaaya jaata hai. [d̪ɪlːiː ɔːr ləkʰnɔː keː mʊɣlaːʔiː qoːrmeː mẽː baːd̪aːm kaːdʒuː keː peːsʈ ɔːr ərq-eː-ɡʊlaːb kaː fəsaːhət̪ seː t̪əɽkaː ləɡaːjaː dʒaːt̪aː hɛː] (DEEL-lee owr LUHKH-now kay moogh-LAH-ee qohr-MAY mayn bah-DAHM, KAH-joo kay paste owr UHR-qay-goo-LAHB kah fuh-sah-HUHT say TUHR-kah luh-gah-YAH jah-TAH HY)",
+          "translation": "In the Mughlai korma of Delhi and Lucknow, a flavorful tempering [culinary term: tarka lagaaya jaata hai] of almond, cashew paste, and rose water is applied."
+        },
+        {
+          "target": "نہاری کا اصل لطف اس وقت دوبالا ہوتا ہے جب اسے باریک کٹے ادرک، ہری مرچوں اور لیموں کے عرق کے ساتھ نوش کیا جائے۔",
+          "reading": "Nihaari ka asal lutf us waqt dobaala hota hai jab usay baareek katay adrak, hari mirchon aur leemoon ke arq ke saath nosh kiya jaaye. [nɪhaːriː kaː əsəl lʊtf ʊs ʋəqt̪ d̪oːbaːlaː hoːt̪aː hɛː dʒəb ʊseː baːriːk kəʈeː əd̪rək həriː mɪrtʃõː ɔːr liːmuː̃ keː ərq keː saːt̪ʰ noːʃ kɪjaː dʒaːjeː] (nee-HAH-ree kah UH-suhl LOOTF OOS VUHKT doh-BAH-lah hoh-TAH HY JAHB oo-SAY bah-REEK kuh-TAY UHD-ruhk, huh-REE meer-CHOHN owr lee-MOON kay UHRQ kay SAHTH NOSH kee-YAH jah-YAY)",
+          "translation": "The true delight of Nihari is doubled when it is partaken with finely sliced ginger, green chillies, and lemon juice [garnish & tasting]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مغلائی پختگی: زعفرانی بریانی کو دم دینا + قورمے پر تڑکا لگانا + نہاری کا اصل لطف!"
+      ],
+      "culturalNotes": [
+        "دہلی اور لکھنؤ کے شاہی مطبخ سے جنم لینے والی مغلائی روایات نے اردو ادب میں لذتِ کام و دہن اور فصاحتِ دسترخوان کو ایک مستقل صنف کا درجہ دیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"شام\":",
+          "prompt": "ہانڈی کو بھاپ میں ہلکی آنچ پر پکانے کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («رات» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہفتہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مہینہ» کی خرابی)"
+            "دم دینا (Dam dena - Slow cooking / simmering sealed under steam)",
+            "پانی بہانا (غیر متعلق)",
+            "تیز جلانا (خراب کرنا)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "پکوان کو بھاپ میں ہلکی آنچ پر پکانے کو «دم دینا» کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"شام\":",
+          "prompt": "مغلائی کھانوں میں خوشبو اور سنہری رنگت کے لیے کون سا قیمتی مصالحہ استعمال ہوتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہفتہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مہینہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («رات» کا غیر درست استعمال)"
+            "زعفران (Za'fraan - Saffron used for royal aroma and golden color)",
+            "صرف نمک",
+            "صرف لال مرچ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "شاہی کھانوں میں خوشبو اور رنگت کے لیے «زعفران» استعمال کیا جاتا ہے۔"
         }
       ]
     },
@@ -9149,17 +9158,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"شام\": Which sentence is completely correct?",
+          "prompt": "مغلائی دسترخوان اور پکوان (Mughlai Cuisine) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («مہینہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («رات» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہفتہ» سے متعلق)"
+            "شاہی باورچی نے زعفران، جاوتری اور چھوٹی الائچی کے امتزاج سے قورمہ تیار کر کے دھیمی آنچ پر دم دیا تاکہ تمام مصالحوں کی خوشبو گوشت میں رچ بس جائے۔ (The royal chef prepared qorma blending saffron, mace, and green cardamom and simmered under steam on low heat so aromas permeate the meat.)",
+            "شاہی باورچی نے ہانڈی کو پانی میں ڈبو کر گاڑی چلائی تھی۔",
+            "دم دینا صرف موٹر سائیکل میں ہوتا ہے۔",
+            "مغلائی کھانوں میں مصالحوں کا استعمال منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شاہی باورچی نے زعفران، جاوتری اور چھوٹی الائچی کے امتزاج سے قورمہ تیار کر کے دھیمی آنچ پر دم دیا تاکہ تمام مصالحوں کی خوشبو گوشت میں رچ بس جائے۔» مغلائی پکوان کے اسلوب کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u22-l2": {
@@ -9167,53 +9177,62 @@
     "subject": "urdu",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "پاکستانی اور مغلائی روایتی پکوان (Cuisine & Hospitality) (Part 2)",
+    "title": "علاقائی ذائقے: سندھی، پنجابی، بلوچی اور پختون پکوان (Regional Flavors)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.2) with authentic precision.",
+    "objective": "پاکستان کے چاروں صوبوں کے مخصوص روایتی پکوانوں (بلوچی سجی، پختون دم پخت و چپلی کباب، سندھی بریانی، سرسوں کا ساگ) کے بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں پاکستان کے علاقائی ذائقوں کا تنوع (Regional Cuisines of Pakistan):\n\n1. **بلوچی و پختون پکوان**:\n   - «**بلوچی سجی** (Balochi Sajji)»: لکڑی کے انگاروں پر نمک کے ساتھ بغیر تیل کے بھونا گیا گوشت؛\n   - «**پختون دم پخت اور چپلی کباب**»: پشاور کے انار دانے والے چپلی کباب اور چربی میں پکا دم پخت۔\n\n2. **سندھی و پنجابی پکوان**:\n   - «**سندھی بریانی**»: آلو، آلو بخارے اور کھٹے مصالحوں کی تیکھی ترکیب؛\n   - «**پنجاب کا سرسوں کا ساگ اور مکئی کی روٹی**»: تازی مکھن کی ڈلی کے ساتھ دیہی پنجاب کی سوغات۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "بلوچستان کی روایتی سجی کو لکڑی کے انگاروں کے گرد گول دائرے میں سجا کر ہلکی آنچ پر بغیر گھی کے بھونا جاتا ہے۔",
+          "reading": "Balochistan ki rawaayati sajji ko lakri ke angaaron ke gird gole daa'iray mein saja kar halki aanch par baghair ghee ke bhoona jaata hai. [bəloːtʃɪst̪aːn kiː rəʋaːjət̪iː sədʒːiː koː ləkɽiː keː əŋɡaːrõː keː ɡɪrd̪ ɡoːl d̪aːʔɪreː mẽː sədʒaː kər həlkiː aː̃tʃ pər bəɣɛːr ɡʱiː keː bʱuːnaː dʒaːt̪aː hɛː] (buh-loh-chees-TAHN kee ruh-vah-yuh-TEE suhj-JEE koh luhk-REE kay uhn-gah-ROHN kay geerd GOHL dah-ee-RAY mayn suh-JAH kuhr HUHL-kee AHNCH puhr buh-GHYR GHEE kay bhoo-NAH jah-TAH HY)",
+          "translation": "The traditional Sajji of Balochistan is arranged in a circular ring around wooden embers and roasted on low heat without ghee [regional specialty: sajji]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 22-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "خیبر پختونخوا کا دم پخت خالص چربی اور نمک میں ہلکی آنچ پر پکایا جاتا ہے جو گوشت کی اپنی قدرتی مٹھاس کو اجاگر کرتا ہے۔",
+          "reading": "Khyber Pakhtunkhwa ka dam-pukht khaalis charbi aur namak mein halki aanch par pakaaya jaata hai jo gosht ki apni qudrati mithaas ko ujaagar karta hai. [xɛːbər pəxt̪uːnxwaː kaː d̪əm-pʊxt̪ xaːlɪs tʃərbiː ɔːr nəmək mẽː həlkiː aː̃tʃ pər pəkaːjaː dʒaːt̪aː hɛː dʒoː ɡoːʃt̪ kiː əpniː qʊd̪rət̪iː mɪʈʰaːs koː ʊdʒaːɡər kərt̪aː hɛː] (KHY-buhr puhkh-toon-KHWAH kah duhm-POOKHT khah-LEES chuhr-BEE owr NUH-muhk mayn HUHL-kee AHNCH puhr puh-kah-YAH jah-TAH HY JOH GOHSHT kee uhp-NEE qood-ruh-TEE meet-HAHS koh oo-JAH-guhr kuhr-TAH HY)",
+          "translation": "The Dam-Pukht of Khyber Pakhtunkhwa is cooked in pure animal fat and salt on low heat, highlighting the meat's natural sweetness."
+        },
+        {
+          "target": "سردیوں کے موسم میں دیہی پنجاب کے گھروں میں تازی مکئی کی روٹی پر مکھن کی ڈلی رکھ کر سرسوں کے ساگ کے ساتھ پیش کی جاتی ہے۔",
+          "reading": "Sardiyon ke mausam mein deehi Punjab ke gharon mein taazi makai ki roti par makhan ki dalli rakh kar sarson ke saag ke saath pesh ki jaati hai. [sərd̪ɪjõː keː mɔːsəm mẽː d̪eːhiː pəndʒaːb keː ɡʱərõː mẽː t̪aːziː məkaːʔiː kiː roːʈiː pər məkʰːən kiː ɖəlːiː rəkʰ kər sərsõː keː saːɡ keː saːt̪ʰ peːʃ kiː dʒaːt̪iː hɛː] (suhr-dee-YOHN kay mow-SUHM mayn day-HEE puhn-JAHB kay ghuhr-OHN mayn tah-ZEE muh-kah-EE kee roh-TEE puhr muhk-KHUHN kee DUHL-lee ruhkh kuhr suhr-SOHN kay SAHG kay SAHTH PAYSH kee jah-TEE HY)",
+          "translation": "In the winter season in rural Punjab homes, freshly baked cornbread with a dollop of butter is served with mustard greens."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "علاقائی دسترخوان: بلوچستان کی سجی + پختونخوا کا دم پخت + پنجاب کا ساگ اور مکئی کی روٹی + سندھ کی بریانی!"
+      ],
+      "culturalNotes": [
+        "پاکستان کے علاقائی پکوان یہاں کے مختلف جغرافیائی خطوں، آب و ہوا اور صدیوں پرانی قبائلی و زرعی روایات کی عکاسی کرتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"رات\":",
+          "prompt": "بلوچستان کا وہ کون سا روایتی پکوان ہے جو انگاروں پر بغیر گھی کے بھونا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہفتہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مہینہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سال» کی خرابی)"
+            "سجی (Sajji - Traditional roasted meat of Balochistan)",
+            "قورمہ",
+            "نہاری",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "انگاروں کے گرد بھون کر تیار کی جانے والی بلوچی سوغات کو «سجی» کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"رات\":",
+          "prompt": "پنجاب میں سرسوں کے ساگ کے ساتھ روایتی طور پر کون سی روٹی اور چیز پیش کی جاتی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مہینہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سال» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہفتہ» کا غیر درست استعمال)"
+            "مکئی کی روٹی اور تازہ مکھن (Makai ki roti aur taaza makhan - Cornbread and fresh butter)",
+            "ڈبل روٹی اور کیچپ",
+            "صرف چاول",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "سرسوں کے ساگ کے ساتھ «مکئی کی روٹی اور تازہ مکھن» پیش کیا جاتا ہے۔"
         }
       ]
     },
@@ -9221,17 +9240,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"رات\": Which sentence is completely correct?",
+          "prompt": "پاکستان کے علاقائی پکوانوں (Regional Cuisines) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سال» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہفتہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («مہینہ» سے متعلق)"
+            "پشاور کے لذیذ چپلی کباب، بلوچستان کی روایتی سجی اور پنجاب کا سرسوں کا ساگ پاکستانی ثقافت کے عظیم الشان غذائی تنوع کا شاہکار ہیں۔ (Peshawar's delicious chapli kababs, Balochistan's traditional sajji, and Punjab's mustard greens are masterpieces of Pakistani culinary diversity.)",
+            "سجی نے کھانا کھایا تھا اور رویا تھا۔",
+            "ساگ صرف سمندر کے کنارے اگتا ہے۔",
+            "چپلی کباب کا تعلق مٹھائی سے ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«پشاور کے لذیذ چپلی کباب، بلوچستان کی روایتی سجی اور پنجاب کا سرسوں کا ساگ پاکستانی ثقافت کے عظیم الشان غذائی تنوع کا شاہکار ہیں۔» علاقائی پکوانوں کا مکمل فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u22-l3": {
@@ -9239,53 +9259,62 @@
     "subject": "urdu",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "پاکستانی اور مغلائی روایتی پکوان (Cuisine & Hospitality) (Part 3)",
+    "title": "روایتی مٹھائیاں، مشروبات اور چائے خانے کی ثقافت (Sweets & Tea Culture)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.3) with authentic precision.",
+    "objective": "روایتی مٹھائیوں (ربڑی، گلاب جامن، جلیبی)، مشروبات (کشمیری چائے، قہوہ) اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں روایتی مٹھائیاں اور چائے خانے کی ثقافت (Sweets & Tea Culture):\n\n1. **روایتی مٹھائیاں اور شیرینی**:\n   - «**زعفرانی ربڑی، گرم گلاب جامن، خستہ جلیبی اور فالودہ**»۔\n\n2. **گرم و روایتی مشروبات**:\n   - «**کشمیری گلابی چائے** (پستہ بادام کے ساتھ)»；\n   - «**پشاور کا سبز قہوہ** (الائچی و دارچینی کے ساتھ)»；\n   - «**ڈھابے کی کڑک دودھ پتی چائے**»۔\n\n3. **چائے خانے (Tea-House Culture)**:\n   - اردو ادب میں پاک ٹی ہاؤس اور روایتی ڈھابے دانشوروں کے ادبی مباحثوں کا تاریخی مرکز رہے ہیں۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "لاہور کی روایتی گلیوں میں گرم گرم جلیبیاں اور مٹکے والی میٹھی ربڑی دیر رات تک شہریوں کی توجہ کا مرکز رہتی ہیں۔",
+          "reading": "Lahore ki rawaayati galiyon mein garm garm jaleebiyaan aur matkay waali meethi rabri der raat tak shehriyon ki tawajjoh ka markaz rehti hain. [laːɦɔːr kiː rəʋaːjət̪iː ɡəlɪjõː mẽː ɡərm ɡərm dʒəleːbɪjaː̃ ɔːr məʈkeː ʋaːliː miːtʰiː rəbɽiː d̪eːr raːt̪ t̪ək ʃɛɦrɪjõː kiː t̪əʋədʒːʊh kaː mərkəz rəht̪iː hɛ̃ː] (lah-HOHR kee ruh-vah-yuh-TEE guh-lee-YOHN mayn GUHRM GUHRM juh-lay-bee-YAHN owr muht-KAY vah-LEE MEE-thee ruhb-REE DAYR RAHT tuhk shyh-ree-YOHN kee tuh-wuhj-JOH kah muhr-KAHZ ruh-TEE HYN)",
+          "translation": "In the traditional streets of Lahore, piping hot jalebis and earthen-pot sweet rabri remain the center of citizens' attraction late into the night [traditional sweets]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 22-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "وادیِ کشمیر میں پستہ بادام سے سجی نمکین گلابی چائے سرد موسم میں جسم کو تروتازگی اور حرارت بخشتی ہے۔",
+          "reading": "Waadi-e-Kashmir mein pista-baadaam se sajji namkeen gulaabi chaaye sard mausam mein jism ko tar-o-taazgi aur haraarat bakhshti hai. [ʋaːd̪iː-eː-kəʃmiːr mẽː pɪst̪aː-baːd̪aːm seː sədʒːiː nəmkiːn ɡʊlaːbiː tʃaːjeː sərd̪ mɔːsəm mẽː dʒɪsm koː t̪ər-oː-t̪aːzɡiː ɔːr həraːrət̪ bəxʃt̪iː hɛː] (vah-DEE-ay-kush-MEER mayn pees-TAH-bah-DAHM say suhj-JEE nuhm-KEEN goo-lah-BEE CHAH-yay SUHRD mow-SUHM mayn JEESM koh tuhr-oh-tahz-GEE owr huh-rah-RUHT buhkhsh-TEE HY)",
+          "translation": "In the Kashmir Valley, pink tea garnished with pistachios and almonds provides freshness and warmth to the body in cold weather [Kashmiri pink tea]."
+        },
+        {
+          "target": "شہر کے تاریخی چائے خانوں میں گرم چائے کے گھونٹ کے ساتھ ادبی اور سیاسی مباحثے روزمرہ زندگی کا جزوِ لاینفک ہیں۔",
+          "reading": "Shehr ke taareekhi chaaye-khaanon mein garm chaaye ke ghoont ke saath adabi aur siyaasi mubaahisay roz-marrah zindagi ka juzw-e-laayanfakk hain. [ʃɛɦr keː t̪aːriːxiː tʃaːjeː-xaːnõː mẽː ɡərm tʃaːjeː keː ɡʱuː̃ʈ keː saːt̪ʰ əd̪əbiː ɔːr sɪjaːsiː mʊbaːhɪseː roːz-mərːaː zɪnd̪əɡiː kaː dʒʊzʋ-eː-laːjənfəkː hɛ̃ː] (SHYHR kay tah-REE-khee chah-yay-khah-NOHN mayn GUHRM chah-YAY kay GHOONT kay SAHTH uh-duh-BEE owr see-yah-SEE moo-bah-hee-SAY ROHZ-muhr-rah zeen-duh-GEE kah JOOZ-way-lah-yuhn-FUHKK HYN)",
+          "translation": "In the city's historical tea houses, literary and political debates over sips of hot tea are an inseparable part of daily life [tea house intellectual culture]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "چائے اور مٹھائی: ربڑی و جلیبی (شیرینی) + کشمیری گلابی چائے + چائے خانوں کے ادبی مباحثے!"
+      ],
+      "culturalNotes": [
+        "لاہور کا 'پاک ٹی ہاؤس' برصغیر کی جدید اردو ادبی تاریخ کا وہ تاریخی چائے خانہ ہے جہاں فیض، منٹو، اور ناصر کاظمی جیسے عظیم ادیب روزانہ بیٹھ کر ادبی مباحثے کرتے تھے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ہفتہ\":",
+          "prompt": "کشمیر کی روایتی گلابی چائے پر گارنش کے طور پر کون سے میوہ جات ڈالے جاتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («مہینہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سال» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سرخ» کی خرابی)"
+            "پستہ اور بادام (Pista aur baadaam - Pistachios and almonds for Kashmiri pink tea)",
+            "کدو کے بیج",
+            "صرف نمک",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "کشمیری چائے کو «پستہ اور بادام» کی کترن سے سجایا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ہفتہ\":",
+          "prompt": "اردو ادب میں دانشوروں کے روایتی اجتماع کے مقام کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سال» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سرخ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مہینہ» کا غیر درست استعمال)"
+            "ادبی چائے خانہ / ٹی ہاؤس (Adabi chaaye-khaana / Tea house - Literary gathering hub)",
+            "شاپنگ مال",
+            "سنیما گھر",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ادبی مباحثوں اور دانشورانہ نشستوں کے لیے «چائے خانہ / ٹی ہاؤس» مشہور ہے۔"
         }
       ]
     },
@@ -9293,17 +9322,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ہفتہ\": Which sentence is completely correct?",
+          "prompt": "روایتی مٹھائیاں اور چائے خانے کی ثقافت (Sweets & Tea Culture) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سرخ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («مہینہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سال» سے متعلق)"
+            "سردیوں کی شاموں میں کڑک دودھ پتی چائے اور گرما گرم گلاب جامن کا لطف لیتے ہوئے اہل علم چائے خانوں میں فکری اور ادبی گفتگو کا جادو جگاتے ہیں۔ (On winter evenings enjoying strong milk tea and hot gulab jamun, intellectuals kindle the magic of philosophical and literary discussions in tea houses.)",
+            "چائے خانے نے چائے پی تھی اور رویا تھا۔",
+            "گلاب جامن صرف نمک میں تل کر کھایا جاتا ہے۔",
+            "چائے پینا اردو ادب میں منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«سردیوں کی شاموں میں کڑک دودھ پتی چائے اور گرما گرم گلاب جامن کا لطف لیتے ہوئے اہل علم چائے خانوں میں فکری اور ادبی گفتگو کا جادو جگاتے ہیں۔» اردو کی ثقافتی و ادبی محفل کا بہترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u22-l4": {
@@ -9311,53 +9341,62 @@
     "subject": "urdu",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "پاکستانی اور مغلائی روایتی پکوان (Cuisine & Hospitality) (Part 4)",
+    "title": "ضیافت، دسترخوان کے آداب اور مہمان نوازی (Hospitality & Table Etiquette)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.4) with authentic precision.",
+    "objective": "دسترخوان کے روایتی آداب، میزبانی کے شائستہ جملے (تکلف برطرف، نوش فرمائیے، دسترخوان کی برکت) اور تواضع کے پروٹوکول پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو تہذیب میں ضیافت اور آدابِ میزبانی (Hospitality & Dining Etiquette):\n\n1. **میزبانی کے شائستہ جملے**:\n   - «**تکلف برطرف، بسم اللہ کیجیے** (Please set formality aside and partake)»；\n   - «**نوش فرمائیے** (Please enjoy the food / drink)»；\n   - «**یہ آپ ہی کا گھر ہے، کوئی تکلف نہ کریں**»۔\n\n2. **دسترخوان کے آداب (Table Etiquette)**:\n   - کھانا شروع کرنے سے پہلے بسم اللہ پڑھنا؛\n   - مہمان کے آگے رغبت سے نئے پکوان پیش کرنا؛\n   - کھانے کے اختتام پر «**اللہ کا شکر ہے اور دسترخوان میں برکت ہو**» کی دعا دینا۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "صاحبِ خانہ نے دسترخوان پر تمام مہمانوں کا خیر مقدم کرتے ہوئے فرمایا کہ تکلف برطرف، دسترخوان کی رونق آپ کے دم سے ہے۔",
+          "reading": "Saahib-e-khaana ne dastarkhwaan par tamaam mehmaanon ka khair-muqaddam kartay huay farmaaya keh takalluf bar-taraf, dastarkhwaan ki raunaq aap ke dam se hai. [saːhɪb-eː-xaːnaː neː d̪əst̪ərxaːn pər t̪əmaːm mɛhmaːnõː kaː xɛːr-mʊqəd̪ːəm kərt̪eː hʊʔeː fərmaːjaː kɛh t̪əkəlːʊf bər-t̪ərəf d̪əst̪ərxaːn kiː rɔːnəq aːp keː d̪əm seː hɛː] (SAH-heeb-ay-KHAH-nah nay duhs-tuhr-KHAHN puhr tuh-MAHM myh-mah-NOHN kah khyr-moo-QUHD-duhm kuhr-TAY hoo-AY fuhr-MAH-yah KYH tuh-kuhl-LOOF buhr-TUH-ruhf, duhs-tuhr-KHAHN kee row-NUHQ AHP kay DUHM say HY)",
+          "translation": "The host welcoming all guests at the dining spread said: Setting formality aside [polite idiom: takalluf bar-taraf], the splendor of the spread is because of you."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 22-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اردو روایات کے مطابق مہمان کے برتن میں بار بار پیار سے لقمہ بڑھانا دلی محبت اور بے پناہ تواضع کی نشانی ہے۔",
+          "reading": "Urdu rawaayaat ke mutaabiq mehmaan ke bartan mein baar baar pyaar se luqma barhaana dili muhabbat aur bay-panaah tawaazo' ki nishaani hai. [ʊrd̪uː rəʋaːjaːt̪ keː mʊt̪aːbɪq mɛhmaːn keː bərt̪ən mẽː baːr baːr pjaːr seː lʊqmaː bəɽʱaːnaː d̪ɪliː mʊhəbːət̪ ɔːr beː-pənaːh t̪əʋaːzʊʔ kiː nɪʃaːniː hɛː] (OOR-doo ruh-wah-YAHT kay moo-tah-BEEQ myh-MAHN kay buhr-TUHN mayn BAHR BAHR pyahr say LOOQ-mah buhr-HAH-nah DEE-lee moo-huhb-BUHT owr bay-puh-NAHH tuh-vah-ZOH kee nee-shah-NEE HY)",
+          "translation": "According to Urdu traditions, affectionately serving extra morsels onto the guest's plate repeatedly is a sign of heartfelt love and immense hospitality."
+        },
+        {
+          "target": "کھانے کے اختتام پر مہمانوں نے دسترخوان کی برکت اور میزبان کے ذوقِ میزبانی کے لیے تہہ دل سے دعائیہ کلمات ادا کیے۔",
+          "reading": "Khaanay ke ikhtitaam par mehmaanon ne dastarkhwaan ki barkat aur mezbaan ke zawq-e-mezbaani ke liye teh-e-dil se du'aa'iya kalimaat ada kiye. [kʰaːneː keː ɪxt̪ɪt̪aːm pər mɛhmaːnõː neː d̪əst̪ərxaːn kiː bərkət̪ ɔːr meːzbaːn keː zɔːq-eː-meːzbaːniː keː lɪjeː t̪ɛːh-eː-d̪ɪl seː d̪ʊʔaːʔɪjaː kəlɪmaːt̪ əd̪aː kɪjeː] (khah-NAY kay eekh-tee-TAHM puhr myh-mah-NOHN nay duhs-tuhr-KHAHN kee buhr-KUHT owr mayz-BAHN kay ZOWQ-ay-mayz-bah-NEE kay lee-AY tyh-ay-DEEL say doo-ah-EE-yah kuh-lee-MAHT uh-DAH kee-YAY)",
+          "translation": "At the conclusion of the meal, guests offered prayers from the bottom of their hearts for blessing upon the dining spread and for the host's refined hospitality."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "میزبانی کے آداب: تکلف برطرف + نوش فرمائیے + لقمہ بڑھانا + دسترخوان کی برکت کی دعا!"
+      ],
+      "culturalNotes": [
+        "برصغیر کی مسلم و اردو تہذیب میں مہمان کو اللہ کی رحمت سمجھا جاتا ہے اور اس کی تواضع میں اپنا بہترین دسترخوان بچھانا شرفِ انسانیت کی معراج ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"مہینہ\":",
+          "prompt": "مہمان کو کھانا شروع کرنے کی شائستہ ترین دعوت دینے کے لیے کون سا کلمہ بولا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سال» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سرخ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نیلا» کی خرابی)"
+            "نوش فرمائیے / بسم اللہ کیجیے (Nosh farmaaiye / Bismillah keejiye - Please partake of the meal)",
+            "کھاؤ جلدی کرو (غیر شائستہ)",
+            "اب ختم کرو (نامناسب)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "کھانے کی شائستہ ترین پیشکش کے لیے «نوش فرمائیے» یا «بسم اللہ کیجیے» کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"مہینہ\":",
+          "prompt": "مہمان کے تردد اور جھجک کو دور کرنے کے لیے میزبان کیا جملہ کہتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سرخ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نیلا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سال» کا غیر درست استعمال)"
+            "تکلف برطرف، یہ آپ ہی کا گھر ہے (Takalluf bar-taraf - Set formality aside, consider this your home)",
+            "آپ خاموش رہیں",
+            "یہاں بیٹھنا منع ہے",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مہمان کو بے تکلف کرنے کے لیے «تکلف برطرف، یہ آپ ہی کا گھر ہے» کہا جاتا ہے۔"
         }
       ]
     },
@@ -9365,17 +9404,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"مہینہ\": Which sentence is completely correct?",
+          "prompt": "ضیافت اور دسترخوان کے آداب (Hospitality & Table Etiquette) کا فصیح ترین جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نیلا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سال» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سرخ» سے متعلق)"
+            "صاحبِ خانہ نے مسکرا کر فرمایا کہ تکلف برطرف نوش فرمائیے، یہ دسترخوان آپ ہی کا ہے، اور مہمانوں نے لذیذ کھانوں سے لطف اندوز ہو کر دعائے خیر کی۔ (The host smiled saying: Set formality aside and please partake, this spread is yours, and guests enjoying the delicious food prayed for blessings.)",
+            "صاحب خانہ نے دسترخوان اٹھا کر گاڑی پر پھینکا تھا رویا تھا۔",
+            "تکلف برطرف کا مطلب کھانا نہ دینا ہوتا ہے۔",
+            "دسترخوان پر بات کرنا قانوناً جرم ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«صاحبِ خانہ نے مسکرا کر فرمایا کہ تکلف برطرف نوش فرمائیے، یہ دسترخوان آپ ہی کا ہے، اور مہمانوں نے لذیذ کھانوں سے لطف اندوز ہو کر دعائے خیر کی۔» اردو میزبانی اور دسترخوان کے آداب کا کامل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u22-l5": {
@@ -9383,53 +9423,62 @@
     "subject": "urdu",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "پاکستانی اور مغلائی روایتی پکوان (Cuisine & Hospitality) (Part 5)",
+    "title": "پاکستانی پکوان اور میزبانی کا جامع سمیکن (Cuisine & Hospitality Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 22.5) with authentic precision.",
+    "objective": "مغلائی پکوان، علاقائی تراکیب، روایتی مٹھائیاں، چائے خانے کی ثقافت اور آدابِ ضیافت کو ایک مکمل تہذیبی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "پاکستانی پکوان اور میزبانی کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **تہذیبی دسترخوان کا مربوط شاہکار خاکہ**:\n   - **مغلائی شاہکار**: «زعفرانی بریانی، دھیمی آنچ پر دم دیا گیا قورمہ اور دلی کی نہاری»؛\n   - **علاقائی ذائقے**: «بلوچی سجی، پختون دم پخت اور سرسوں کا ساگ بمع مکئی کی روٹی»؛\n   - **شیرینی اور چائے**: «مٹکے والی ربڑی اور پستہ بادام سے سجی کشمیری گلابی چائے»؛\n   - **پرتپاک میزبانی**: «تکلف برطرف کے پرخلوص کلمات اور دسترخوان کی برکت کی دعائیں»۔\n\n2. **ثقافتی وقار اور فصاحت**:\n   - یہ زبان اردو کے سفرناموں، تہذیبی یادداشتوں اور روایتی کھابوں کی لازوال ترجمان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "شاہی ضیافت میں مغلائی بریانی، پختون دم پخت اور بلوچی سجی کے بعد زعفرانی ربڑی اور گرم قہوہ پیش کیا گیا جبکہ صاحبِ خانہ نے مہمانوں کی تواضع میں کوئی کسر نہ چھوڑی۔",
+          "reading": "Shaahi ziyaafat mein Mughlai biryani, Pakhtun dam-pukht aur Balochi sajji ke baad za'fraani rabri aur garm qahwa pesh kiya gaya jabkeh saahib-e-khaana ne mehmaanon ki tawaazo' mein koi kasar na chhori. [ʃaːhiː zɪjaːfət̪ mẽː mʊɣlaːʔiː bɪrjaːniː pəxt̪uːn d̪əm-pʊxt̪ ɔːr bəloːtʃiː sədʒːiː keː baːd̪ zəʔfraːniː rəbɽiː ɔːr ɡərm qɛhʋaː peːʃ kɪjaː ɡəjaː dʒəbkɛh saːhɪb-eː-xaːnaː neː mɛhmaːnõː kiː t̪əʋaːzʊʔ mẽː koːʔiː kəsər nə tʃʰoːɽiː] (SHAH-hee zee-YAH-fuht mayn moogh-LAH-ee beer-YAH-nee, puhkh-TOON duhm-POOKHT owr buh-loh-CHEE suhj-JEE kay BAHD zah-frah-NEE ruhb-REE owr GUHRM quh-huw-VAH PAYSH kee-YAH guh-YAH juhb-KYH SAH-heeb-ay-KHAH-nah nay myh-mah-NOHN kee tuh-vah-ZOH mayn koh-EE KUH-suhr nuh chhoh-REE)",
+          "translation": "In the royal feast, after Mughlai biryani, Pakhtun dam-pukht, and Balochi sajji, saffron rabri and hot green tea were served, while the host left no stone unturned in hospitality [culinary synthesis]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 22-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "پاکستانی اور مغلائی کھانوں کا یہ رنگا رنگ تنوع دنیا بھر میں ہماری بھرپور ثقافت، ذائقے اور بے مثال مہمان نوازی کی زندہ تصویر ہے۔",
+          "reading": "Pakistani aur Mughlai khaanon ka yeh ranga-rang tanawwo' duniya bhar mein hamaari bharpoor saqaafat, zaaiqay aur bay-misaal mehmaan-nawaazi ki zinda tasweer hai. [paːkɪst̪aːniː ɔːr mʊɣlaːʔiː kʰaːnõː kaː jɛh rəŋɡaː-rəŋɡ t̪ənəʋːʊʔ d̪ʊnɪjaː bʱər mẽː həm-aːriː bʱərpuːr səqaːfət̪ zaːʔɪqeː ɔːr beː-mɪsaːl mɛhmaːn-nəʋaːziː kiː zɪnd̪aː t̪əsʋiːr hɛː] (pah-kees-tah-NEE owr moogh-LAH-ee khah-NOHN kah YEH ruhn-gah-RUHNG tuh-nuhv-VOO doon-YAH bhuhr mayn huh-mah-REE bhuhr-POOR suh-QAH-fuht, zah-ee-QAY owr bay-mee-SAHL myh-mahn-nuh-vah-ZEE kee zeen-DAH tuhs-VEER HY)",
+          "translation": "This colorful diversity of Pakistani and Mughlai dishes is a living portrait of our rich culture, flavor, and matchless hospitality across the world."
+        },
+        {
+          "target": "روایتی کھابوں کے بعد پیالی میں گرما گرم کڑک چائے پیتے ہوئے ماضی کی یادیں تازہ کرنا ہماری تہذیبی محفلوں کی اصل روح ہے۔",
+          "reading": "Rawaayati khaabon ke baad pyaali mein garma-garm karak chaaye peetay huay maazi ki yaadein taaza karna hamaari tehzeebi mehfilon ki asal rooh hai. [rəʋaːjət̪iː kʰaːbõː keː baːd̪ pjaːliː mẽː ɡərmaː-ɡərm kəɽək tʃaːjeː piːt̪eː hʊʔeː maːziː kiː jaːd̪ẽː t̪aːzaː kərnaː həm-aːriː t̪ɛɦziːbiː mɛhflõː kiː əsəl ruːh hɛː] (ruh-vah-yuh-TEE khah-BOHN kay BAHD pyah-LEE mayn guhr-MAH-guhrm kuh-RUHK chah-YAY pee-TAY hoo-AY mah-ZEE kee yah-DAYN tah-ZAH kuhr-NAH huh-mah-REE tyh-zee-BEE myh-fee-LOHN kee UH-suhl ROOH HY)",
+          "translation": "Sipping piping-hot strong milk tea in an earthen cup after traditional foods while refreshing past memories is the true soul of our cultural gatherings."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع دسترخوان سمیکن: مغلائی بریانی + علاقائی سجی و ساگ + زعفرانی ربڑی و کڑک چائے + تکلف برطرف کی شائستگی!"
+      ],
+      "culturalNotes": [
+        "اردو کی تہذیب میں کھانا محض پیٹ بھرنے کا نام نہیں بلکہ یہ خاندان، دوستوں اور اجنبیوں کے درمیان محبت، الفت اور بھائی چارے کا سب سے بڑا ضامن ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سال\":",
+          "prompt": "روایتی پکوانوں اور مہمان نوازی کے جامع امتزاج کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سرخ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نیلا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پیلا» کی خرابی)"
+            "مغلائی پکوان، علاقائی سجی و ساگ، روایتی ربڑی و چائے اور تکلف برطرف کی میزبانی (Masterful synthesis of Mughlai delicacies, regional sajji/saag, sweets/tea, and gracious hospitality)",
+            "ہم نے ہوٹل پر کھانا کھایا تھا اور رویا تھا (بے ربط الفاظ)",
+            "وہ چائے پیتا رہتا ہے اور سو جاتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«مغلائی پکوان، علاقائی سجی و ساگ، روایتی ربڑی و چائے اور تکلف برطرف کی میزبانی» تمام ثقافتی و روایتی اسالیب کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سال\":",
+          "prompt": "پاکستانی اور مغلائی دسترخوان کا جامع سمیکن معاشرتی زندگی کو کیا خوبصورتی بخشتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نیلا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پیلا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سرخ» کا غیر درست استعمال)"
+            "علاقائی تنوع، لذتِ کام و دہن اور پرخلوص مہمان نوازی کو باوقار ثقافتی پیرائے میں مربوط کرنا (Uniting regional diversity, exquisite flavors, and hospitality in dignified cultural harmony)",
+            "صرف ہوٹلوں کے مینو کارڈ کی فہرست بنانا (بے فائدہ مشق)",
+            "صرف باورچی خانے کے برتن گنوانا (محدود دائرہ)",
+            "بے ذائقہ کھانوں کی تشہیر کرنا (غیر مناسب)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ تنوع، لذیذ کھانوں اور پرخلوص میزبانی کو باوقار ثقافتی پیرائے میں یکجا کرتا ہے۔"
         }
       ]
     },
@@ -9437,17 +9486,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سال\": Which sentence is completely correct?",
+          "prompt": "پاکستانی پکوان اور میزبانی کے جامع سمیکن (Cuisine & Hospitality Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پیلا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سرخ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نیلا» سے متعلق)"
+            "صاحبِ خانہ نے شاہی دسترخوان پر زعفرانی بریانی، پختون دم پخت اور بلوچی سجی پیش کر کے فرمایا کہ تکلف برطرف نوش فرمائیے، اور کھانے کے بعد کشمیری گلابی چائے کے ساتھ محفل کو یادگار بنا دیا۔ (The host served saffron biryani, Pakhtun dam-pukht, and Balochi sajji saying: Set formality aside and please partake, making gathering memorable with Kashmiri pink tea.)",
+            "صاحب خانہ نے بریانی دیکھا تھا اور گاڑی روئی تھی۔",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔",
+            "کھانے کے بعد چائے پینا سخت ممنوع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«صاحبِ خانہ نے شاہی دسترخوان پر زعفرانی بریانی، پختون دم پخت اور بلوچی سجی پیش کر کے فرمایا کہ تکلف برطرف نوش فرمائیے، اور کھانے کے بعد کشمیری گلابی چائے کے ساتھ محفل کو یادگار بنا دیا۔» پکوان اور میزبانی کا مکمل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u23-l1": {
