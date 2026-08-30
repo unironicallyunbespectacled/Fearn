@@ -1656,85 +1656,89 @@
     "subject": "mandarin",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "数字、时间与日期表达 (Numbers, Time & Date) (第1讲)",
+    "title": "汉语基数词系统（0–99）与「二」与「两」的用法区别 (Cardinal Numbers 0-99 & '二' vs '两')",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第1部分)。",
+    "objective": "系统掌握汉语0至99的基数词十进制构造规则，熟练进行数字拼读与听辨，并精准掌握「二」与「两」在基数与量词搭配中的语法分工。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代标准汉语采用极其规则严密的十进制计数体系，掌握 0 至 10 的基础单音节基数词，即可顺畅组合出 99 以内的全部自然数。\n\n一、0 至 10 核心基数词体系：\n- 0 零 (líng) —— 音调为第二声阳平\n- 1 一 (yī) —— 基础基数词读第一声阴平\n- 2 二 (èr) —— 第四声去声\n- 3 三 (sān) —— 第一声阴平\n- 4 四 (sì) —— 第四声去声（发舌尖前音，与「十」严格辨析）\n- 5 五 (wǔ) —— 第三声上声\n- 6 六 (liù) —— 第四声去声\n- 7 七 (qī) —— 第一声阴平\n- 8 八 (bā) —— 第一声阴平\n- 9 九 (jiǔ) —— 第三声上声\n- 10 十 (shí) —— 第二声阳平（发舌尖后翘舌音）\n\n二、11 至 99 复合数词构造规则：\n1. 十几（11 至 19）：结构为「十 + 个位数」（十一、十二、十三、十四、十五、十六、十七、十八、十九）。特别注意：当「十」位于两位数首位时，绝不添加「一」（不可说成 *一十一*）。\n2. 几十（20 至 90 整十数）：结构为「个位数 + 十」（二十、三十、四十、五十、六十、七十、八十、九十）。\n3. 几十几（21 至 99 复合数）：结构为「十位个位数 + 十 + 个位数」（例如：二十五、三十八、五十六、七十二、八十八、九十九）。\n\n三、「二」与「两」的严格语法分工与避坑法则：\n1. 使用「二 (èr)」的场合：\n- 纯数学念数、基数数数与计算（一、二、三、四；二加二等于四）\n- 序数词与编号（第二名、二楼、二号、星期二、二月份）\n- 小数、分数与百分数（零点二、三分之二、百分之二十）\n- 电话号码与房间号单独报数（如 202 房间读作 èr líng èr）。\n2. 使用「两 (liǎng)」的场合：\n- 紧接在量词前表示实际数量（两个人、两本书、两张纸、两杯茶、两间教室）\n- 钟点时间表达整点与半点（两点钟、两点半）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '数字、时间与日期表达 (Numbers, Time & Date)' in simple terms to students at the academic seminar."
+          "target": "我们班一共有二十五名学生，其中有八名留学生。(Wǒmen bān yígòng yǒu èrshíwǔ míng xuésheng, qízhōng yǒu bā míng liúxuéshēng.)",
+          "reading": "[wɔ˨˩.mən pan˥ i˧˥.kʊŋ˥˩ joʊ̯˨˩˦ aɻ˥˩.ʂɨ˧˥.u˨˩˦ miŋ˧˥ ɕɥɛ˧˥.ʂəŋ, t͡ɕʰi˧˥.ʈ͡ʂʊŋ˥ joʊ̯˨˩˦ pa˥ miŋ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ] (Wǒ-men bān yí-gòng yǒu èr-shí-wǔ míng xué-sheng, qí-zhōng yǒu bā míng liú-xué-shēng.)",
+          "translation": "There are twenty-five students in our class in total, among whom eight are international students."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "桌子上有两本书和三支铅笔。(Zhuōzi shang yǒu liǎng běn shū hé sān zhī qiānbǐ.)",
+          "reading": "[ʈ͡ʂwɔ˥.t͡sɨ ʂɑŋ joʊ̯˨˩˦ ljaŋ˨˩ pən˨˩ ʂu˥ xɤ˧˥ san˥ ʈ͡ʂɨ˥ t͡ɕʰjɛn˥.pi˨˩˦] (Zhuō-zi shang yǒu liǎng běn shū hé sān zhī qiān-bǐ.)",
+          "translation": "There are two books and three pencils on the table."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "请给我来两杯热绿茶，谢谢！(Qǐng gěi wǒ lái liǎng bēi rè lǜchá, xièxie!)",
+          "reading": "[t͡ɕʰiŋ˨˩ keɪ̯˨˩ wɔ˨˩ laɪ̯˧˥ ljaŋ˨˩ peɪ̯˥ ʐɤ˥˩ ly˥˩.ʈ͡ʂʰa˧˥, ɕjɛ˥˩.ɕjɛ!] (Qǐng gěi wǒ lái liǎng bēi rè lǜ-chá, xiè-xie!)",
+          "translation": "Please give me two cups of hot green tea, thank you!"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "李老师住在第二教学楼二零八房间。(Lǐ lǎoshī zhù zài dì-èr jiàoxuélóu èr líng bā fángjiān.)",
+          "reading": "[li˨˩˦ laʊ˨˩.ʂɨ˥ ʈ͡ʂu˥˩ t͡saɪ̯˥˩ ti˥˩.aɻ˥˩ t͡ɕjaʊ̯˥˩.ɕɥɛ˧˥.loʊ̯˧˥ aɻ˥˩ liŋ˧˥ pa˥ faŋ˧˥.t͡ɕjɛn˥] (Lǐ lǎo-shī zhù zài dì-èr jiào-xué-lóu èr líng bā fáng-jiān.)",
+          "translation": "Teacher Li lives in Room 208 of the Second Teaching Building."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "数数序数都用「二」（第二、二楼），量词前头必用「两」（两人、两本书）；四是十四是十四，平翘分明要记清！"
+      ],
+      "culturalNotes": [
+        "中国民间绕口令《四和十》是检验普通话平翘舌音发音的经典名篇：「四是四，十是十，十四是十四，四十是四十。莫把四十说十四，莫把十四说四十。」生动展现了数字 4（sì）与 10（shí）的精妙对立。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「数字、时间与日期表达 (Numbers, Time & Date)」（第1讲）的标准汉语规范？",
+          "prompt": "在表达「我有两本汉语词典」时，数词 2 与量词「本」搭配应选用：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (3.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (3.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (3.1.w3)"
+            "两 (liǎng) —— 量词前表示具体数量必须用「两」 (Use liǎng before measure words)",
+            "二 (èr) —— 只能用于数学序数",
+            "俩个 (liǎ gè)",
+            "双 (shuāng)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "在汉语语法中，紧跟在量词（如「本」、「个」、「只」）前面表示数量「2」时，必须使用「两 (liǎng)」，不可说「*二本书*」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "数字「88」在现代标准汉语中的正确汉字书写与拼音为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "八十八 (bāshíbā) (Eighty-eight)",
+            "八八 (bābā)",
+            "八个八 (bā gè bā)",
+            "八十和八 (bāshí hé bā)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "汉语两位数复合数字构造为「十位数 + 十 + 个位数」，88 规范表达为「八十八 (bāshíbā)」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「数字、时间与日期表达 (Numbers, Time & Date)」的正式语境下，最准确得体的表达是哪一项？（第3.1题）",
+          "prompt": "下列哪一项短语在数词「二」与「两」的使用上完全正确无误？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (3.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (3.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (3.1.x3)"
+            "第二位老师，带了两个学生。(Dì-èr wèi lǎoshī, dài le liǎng gè xuésheng.) (Second teacher, brought two students)",
+            "第两位老师，带了二个学生。",
+            "第二位老师，带了二个学生。",
+            "第两位老师，带了两名学生。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "序数词「第」后必须用「二（第二位）」；表示数量在量词前必须用「两（两个学生）」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u3-l1）所要求的高阶语言表达？",
+          "prompt": "请选出基数词「15」的标准普通话读音与词形：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (3.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (3.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (3.1.y3)"
+            "十五 (shíwǔ) —— 首位不加「一」 (Fifteen)",
+            "一十五 (yīshíwǔ)",
+            "十和五 (shí hé wǔ)",
+            "五一十 (wǔ yī shí)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "汉语 11 至 19 的数字首位直接读「十」，不加「一」，因此 15 读作「十五 (shíwǔ)」。"
         }
       ]
     },
@@ -1742,25 +1746,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「数字、时间与日期表达 (Numbers, Time & Date)」的掌握程度，请选出表述完全正确的标准范句（测试 3-1）：",
+          "prompt": "请选出下列句子中数字与量词搭配完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (3.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (3.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (3.1.z3)"
+            "我们宿舍有三个人，买了六瓶水和两张地图。(Wǒmen sùshè yǒu sān gè rén, mǎi le liù píng shuǐ hé liǎng zhāng dìtú.)",
+            "我们宿舍有三个门人，买了六张水和二张地图。",
+            "我们宿舍有两名学生们，买了二瓶水和三张地图。",
+            "我们宿舍有三个人们，买了六水和两地图。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「三个人」、「六瓶水」、「两张地图」的数词、量词及「两」的用法均完全符合现代汉语语法规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u3-l1）的核心关键词（例如「数字、时」）：",
+          "prompt": "请输入在量词前表示数量「2」的专用单字汉字（拼音为 liǎng）：",
           "acceptedAnswers": [
-            "数字、时",
-            "数字、时间与",
-            "数字、时间与日期表达"
+            "两"
           ],
-          "explanation": "正确的核心关键词为「数字、时」。"
+          "explanation": "汉字「两」专用于量词前表示两个单位的数量（如两人、两本、两只）。"
         }
       ],
       "passThreshold": 0.8
@@ -1771,85 +1773,89 @@
     "subject": "mandarin",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "数字、时间与日期表达 (Numbers, Time & Date) (第2讲)",
+    "title": "百以上大数字（百、千、万）与四位分节计数法 (Large Numbers: 百, 千, 万 & 4-Digit Grouping)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第2部分)。",
+    "objective": "掌握百（100）、千（1000）、万（10000）及亿（100000000）等大数位阶词，理解汉语音位独特的「四位分节法」与中间连续零的读数规律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "汉语百以上大数词采用清晰规则的十进制位阶进位体系：百（bǎi，100）、千（qiān，1000）、万（wàn，10000）、亿（yì，100000000）。\n\n一、中西方大数计数核心分野——「四位分节法」：\n西方语言普遍采用「三位分节法」（千 Thousand 10^3、百万 Million 10^6、十亿 Billion 10^9）。而汉语传统计数严格采用「四位分节法」，以每四个数位为一个核心进位级次：\n1. 个级（1 至 9999）：个、十、百、千\n2. 万级（10^4 至 10^7）：万、十万、百万、千万\n3. 亿级（10^8 至 10^11）：亿、十亿、百亿、千亿\n常用换算对照：\n- 10,000 = 一万\n- 100,000 = 十万（英文 One hundred thousand）\n- 1,000,000 = 一百万（英文 One million）\n- 10,000,000 = 一千万（英文 Ten million）\n- 100,000,000 = 一亿（英文 One hundred million）\n\n二、数词中「零」的核心朗读法则（极高频考点）：\n1. 中间连续零只读一个「零」：数位之间无论连续出现几个 0，朗读时一律只念一个「零」：\n- 105 读作：一百零五 (yì bǎi líng wǔ)\n- 1,005 读作：一千零五 (yì qiān líng wǔ)\n- 10,005 读作：一万零五 (yí wàn líng wǔ)\n- 1,050 读作：一千零五十 (yì qiān líng wǔshí)\n2. 末尾的零一律不读：各个数级末尾的 0 均不读出：\n- 150 读作：一百五十 (yì bǎi wǔshí)\n- 1,500 读作：一千五百 (yì qiān wǔbǎi)\n- 15,000 读作：一万五千 (yí wàn wǔqiān)\n\n三、200、2000、20000 在大数中的读法习惯：\n- 200：可读「二百」或「两百」\n- 2,000：可读「二千」或「两千」（口语更倾向于「两千」）\n- 20,000：标准普通话通常读作「两万 (liǎng wàn)」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '数字、时间与日期表达 (Numbers, Time & Date)' in simple terms to students at the academic seminar."
+          "target": "这所大学图书馆藏书超过一百五十万册。(Zhè suǒ dàxué túshūguǎn cángshū chāoguò yībǎiwǔshíwàn cè.)",
+          "reading": "[ʈ͡ʂɤ˥˩ swɔ˨˩˦ ta˥˩.ɕɥɛ˧˥ tʰu˧˥.ʂu˥.kwan˨˩˦ t͡sʰɑŋ˧˥.ʂu˥ ʈ͡ʂʰaʊ̯˥.kwɔ˥˩ i˥.paɪ̯˨˩.u˨˩˦.ʂɨ˧˥.wan˥˩ t͡sʰɤ˥˩] (Zhè suǒ dà-xué tú-shū-guǎn cáng-shū chāo-guò yī-bǎi-wǔ-shí-wàn cè.)",
+          "translation": "This university library has a collection of over 1.5 million volumes."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这部新电脑的价格是八千零九十九元。(Zhè bù xīn diànnǎo de jiàgé shì bāqiān líng jiǔshíjiǔ yuán.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pu˥˩ ɕin˥ tjɛn˥˩.naʊ˨˩˦ tɤ t͡ɕja˥˩.kɤ˧˥ ʂɨ˥˩ pa˥.t͡ɕʰjɛn˥ liŋ˧˥ t͡ɕjoʊ̯˨˩.ʂɨ˧˥.t͡ɕjoʊ̯˨˩˦ ɥɛn˧˥] (Zhè bù xīn diàn-nǎo de jià-gé shì bā-qiān líng jiǔ-shí-jiǔ yuán.)",
+          "translation": "The price of this new computer is 8,099 yuan."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "全校一共有两万三千名本科生和研究生。(Quán xiào yígòng yǒu liǎngwàn sānqiān míng běnkēshēng hé yánjiūshēng.)",
+          "reading": "[t͡ɕʰɥɛn˧˥ ɕjaʊ̯˥˩ i˧˥.kʊŋ˥˩ joʊ̯˨˩˦ ljaŋ˨˩.wan˥˩ san˥.t͡ɕʰjɛn˥ miŋ˧˥ pən˨˩.kʰɤ˥.ʂəŋ xɤ˧˥ jɛn˧˥.t͡ɕjoʊ̯˥.ʂəŋ] (Quán xiào yí-gòng yǒu liǎng-wàn sān-qiān míng běn-kē-shēng hé yán-jiū-shēng.)",
+          "translation": "The whole university has a total of 23,000 undergraduate and graduate students."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "中国有十四亿多人口。(Zhōngguó yǒu shísì yì duō rénkǒu.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwɔ˧˥ joʊ̯˨˩˦ ʂɨ˧˥.sɨ˥˩ i˥˩ twɔ˥ ʐən˧˥.kʰoʊ̯˨˩˦] (Zhōng-guó yǒu shí-sì yì duō rén-kǒu.)",
+          "translation": "China has a population of over 1.4 billion."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "四位一节是汉语，万亿进位记心里；中间有零读一个（一千零五），末尾有零全省略（一千五百）！"
+      ],
+      "culturalNotes": [
+        "在传统中国文化中，「万」常被用作表示极多或无穷大的象征性数字，例如成语「万紫千红」、「万象更新」、「万水千山」以及祝寿用语「万寿无疆」，体现了宏大深远的语言审美。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「数字、时间与日期表达 (Numbers, Time & Date)」（第2讲）的标准汉语规范？",
+          "prompt": "阿拉伯数字「10,008」在现代标准汉语中的正确朗读与书写是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (3.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (3.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (3.2.w3)"
+            "一万零八 (yí wàn líng bā) —— 中间连续三个零只读一个「零」 (One wàn and eight: zeros read once)",
+            "一万零零零八 (yí wàn líng líng líng bā)",
+            "一千零八 (yì qiān líng bā)",
+            "十千零八 (shí qiān líng bā)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "10,008 属于万级数（1个万），中间虽有连续三个 0，但汉语语法规定只读一个「零」，即「一万零八」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "英语中的「One Million（一百万）」按照汉语四位分节法，对应的正确中文词位是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "一百万 (yì bǎi wàn = 100个万) (1,000,000 = 100 wàn)",
+            "一千万 (yì qiān wàn)",
+            "十万 (shí wàn)",
+            "一亿 (yí yì)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "根据汉语四位分节，1,000,000 等于 100 个 10,000（万），因此对应「一百万」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「数字、时间与日期表达 (Numbers, Time & Date)」的正式语境下，最准确得体的表达是哪一项？（第3.2题）",
+          "prompt": "下列哪一个大数字在朗读时末尾的零不需要读出来？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (3.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (3.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (3.2.x3)"
+            "3,500 读作「三千五百」 (sān qiān wǔ bǎi) (Trailing zeros omitted)",
+            "3,005 读作「三千零五」",
+            "30,050 读作「三万零五十」",
+            "305 读作「三百零五」"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "3,500 末尾处于百位之后的零属于尾数零，直接读作「三千五百」，无需读零。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u3-l2）所要求的高阶语言表达？",
+          "prompt": "数字「20,000」在中文口语中最标准自然的表达是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (3.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (3.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (3.2.y3)"
+            "两万 (liǎng wàn) (Twenty thousand)",
+            "二万 (èr wàn)",
+            "二十千 (èrshí qiān)",
+            "两千千 (liǎng qiān qiān)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "在万位前表达数字 2 时，现代标准汉语规范普遍读作「两万 (liǎng wàn)」。"
         }
       ]
     },
@@ -1857,25 +1863,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「数字、时间与日期表达 (Numbers, Time & Date)」的掌握程度，请选出表述完全正确的标准范句（测试 3-2）：",
+          "prompt": "请选出下列大数字汉字读音与数值对应完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (3.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (3.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (3.2.z3)"
+            "20,500 —— 两万零五百 (liǎng wàn líng wǔ bǎi)",
+            "20,500 —— 二万五百 (漏读中间零)",
+            "20,500 —— 两万五 (数值变成 25,000)",
+            "20,500 —— 二十千零五百 (非汉语习惯)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "20,500 是 2 个万加上 5 个百，千位为 0 必须读出一个「零」，因此为「两万零五百」。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u3-l2）的核心关键词（例如「数字、时」）：",
+          "prompt": "请输入汉语四位分节中代表 10^4（一万）的专用数词单字汉字（拼音为 wàn）：",
           "acceptedAnswers": [
-            "数字、时",
-            "数字、时间与",
-            "数字、时间与日期表达"
+            "万"
           ],
-          "explanation": "正确的核心关键词为「数字、时」。"
+          "explanation": "汉字「万」是汉语四位分节计数法中最核心的位阶单位（10,000）。"
         }
       ],
       "passThreshold": 0.8
@@ -1886,85 +1890,89 @@
     "subject": "mandarin",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "数字、时间与日期表达 (Numbers, Time & Date) (第3讲)",
+    "title": "钟点时间表达：点、分、半、刻与差 (Telling Time: 点, 分, 半, 刻 & 差)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第3部分)。",
+    "objective": "熟练掌握汉语钟点时刻表达法（点、分、半、刻、差），掌握时段词前置规则，并能熟练进行日常时刻询问与时间安排对话。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代标准汉语时刻表达严格遵循「由大到小（先时段、再小时、后分钟）」的层级顺序，核心时间单位包括：点（小时）、分（分钟）、半（30分钟）、刻（15分钟）、差（相差）。\n\n一、钟点时刻的核心构词元素：\n1. 点 / 点钟 (diǎn / diǎnzhōng)：表示整点钟头（如：八点、十点）。表示两点时一律用「两点 (liǎng diǎn)」，绝对不可说成 *二点*。\n2. 分 / 分钟 (fēn / fēnzhōng)：表示分钟（如：八点零五分、八点二十分）。\n3. 半 (bàn)：表示半点（30 分钟），紧接在「点」之后（如：两点半 = 2:30；九点半 = 9:30）。\n4. 刻 (kè)：表示一刻钟（15 分钟）：\n- 一刻 = 15 分钟（如：三点一刻 = 3:15）\n- 三刻 = 45 分钟（如：三点三刻 = 3:45）\n5. 差 (chà)：表示差几分到某整点：\n- 差五分八点（7:55，即差 5 分钟到 8 点）\n- 差一刻十点（9:45，即差 15 分钟到 10 点）\n\n二、时段词前置规则（必须置于钟点之前）：\n汉语中表示一天中具体时段的词汇，必须严格置于钟点之前充当修饰限制：\n- 早上 (zǎoshang，清晨 6:00–8:00)：早上七点整\n- 上午 (shàngwǔ，上午 8:00–12:00)：上午十点一刻\n- 中午 (zhōngwǔ，中午 12:00–13:00)：中午十二点半\n- 下午 (xiàwǔ，下午 13:00–18:00)：下午三点二十分\n- 晚上 (wǎnshang，傍晚及夜间 18:00–24:00)：晚上八点四十五分\n语法禁忌：绝不能像英语一样把时段放在句末（错误：*八点半晚上*；正确：晚上八点半）。\n\n三、询问时间核心句型闭环：\n- 问：请问，现在几点？ / 现在几点了？(Qǐngwèn, xiànzài jǐ diǎn / jǐ diǎn le?)\n- 答：现在是下午两点半。(Xiànzài shì xiàwǔ liǎng diǎn bàn.)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '数字、时间与日期表达 (Numbers, Time & Date)' in simple terms to students at the academic seminar."
+          "target": "——请问，现在几点了？——现在正好是上午十点一刻。(—Qǐngwèn, xiànzài jǐ diǎn le? —Xiànzài zhènghǎo shì shàngwǔ shí diǎn yí kè.)",
+          "reading": "[—t͡ɕʰiŋ˨˩.wən˥˩, ɕjɛn˥˩.t͡saɪ̯˥˩ t͡ɕi˨˩˦ tjɛn˨˩˦ lɤ? —ɕjɛn˥˩.t͡saɪ̯˥˩ ʈ͡ʂɤŋ˥˩.xaʊ˨˩˦ ʂɨ˥˩ ʂɑŋ˥˩.u˨˩˦ ʂɨ˧˥ tjɛn˨˩˦ i˧˥ kʰɤ˥˩] (—Qǐng-wèn, xiàn-zài jǐ diǎn le? —Xiàn-zài zhèng-hǎo shì shàng-wǔ shí diǎn yí kè.)",
+          "translation": "—Excuse me, what time is it now? —It is exactly 10:15 AM right now."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我们每天早上八点半开始上第一节课。(Wǒmen měitiān zǎoshang bā diǎn bàn kāishǐ shàng dì-yī jié kè.)",
+          "reading": "[wɔ˨˩.mən meɪ̯˨˩.tʰjɛn˥ t͡saʊ˨˩.ʂaŋ pa˥ tjɛn˨˩˦ pan˥˩ kʰaɪ̯˥.ʂɨ˨˩˦ ʂɑŋ˥˩ ti˥˩.i˥ t͡ɕjɛ˧˥ kʰɤ˥˩] (Wǒ-men měi-tiān zǎo-shang bā diǎn bàn kāi-shǐ shàng dì-yī jié kè.)",
+          "translation": "We start our first class at 8:30 every morning."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "现在的时刻是差五分下午两点。(Xiànzài de shíkè shì chà wǔ fēn xiàwǔ liǎng diǎn.)",
+          "reading": "[ɕjɛn˥˩.t͡saɪ̯˥˩ tɤ ʂɨ˧˥.kʰɤ˥˩ ʂɨ˥˩ t͡ʂʰa˥˩ u˨˩˦ fən˥ ɕja˥˩.u˨˩˦ ljaŋ˨˩ tjɛn˨˩˦] (Xiàn-zài de shí-kè shì chà wǔ fēn xià-wǔ liǎng diǎn.)",
+          "translation": "The current time is five minutes to 2:00 PM (1:55 PM)."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们约好今天晚上七点三刻在校门口见面。(Wǒmen yuēhǎo jīntiān wǎnshang qī diǎn sān kè zài xiàoménkǒu jiànmiàn.)",
+          "reading": "[wɔ˨˩.mən ɥɛ˥.xaʊ˨˩˦ t͡ɕin˥.tʰjɛn˥ wan˨˩.ʂaŋ t͡ɕʰi˥ tjɛn˨˩˦ san˥ kʰɤ˥˩ t͡saɪ̯˥˩ ɕjaʊ̯˥˩.mən˧˥.kʰoʊ̯˨˩˦ t͡ɕjɛn˥˩.mjɛn˥˩] (Wǒ-men yuē-hǎo jīn-tiān wǎn-shang qī diǎn sān kè zài xiào-mén-kǒu jiàn-miàn.)",
+          "translation": "We agreed to meet at the school gate at 7:45 PM tonight."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "时段在前点在后（下午三点），两点不念二点钟；半是一半三十整，一刻十五三刻四十五！"
+      ],
+      "culturalNotes": [
+        "古代中国将一昼夜划分为十二个「时辰」，每个时辰相当于现代的两个小时，以十二地支命名（如子时为夜间11点至凌晨1点，午时为中午11点至下午1点）。「正午」、「午时三刻」等传统计时词汇至今仍活跃于中国文学与历史典故中。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「数字、时间与日期表达 (Numbers, Time & Date)」（第3讲）的标准汉语规范？",
+          "prompt": "在中文中表达下午「2:30」时，最标准地道的口语说法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (3.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (3.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (3.3.w3)"
+            "下午两点半 (xiàwǔ liǎng diǎn bàn) (2:30 PM: period first, liǎng before diǎn)",
+            "二点半下午 (èr diǎn bàn xiàwǔ)",
+            "下午二点半 (xiàwǔ èr diǎn bàn)",
+            "下午两点三十钟 (xiàwǔ liǎng diǎn sānshí zhōng)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "时段词「下午」必须前置，小时「2」必须读作「两点」，半点读「半」，故为「下午两点半」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "时刻「差一刻八点」所对应的具体数字时间是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "7:45（差 15 分钟到 8 点） (Quarter to eight = 7:45)",
+            "8:15（8 点过一刻）",
+            "8:45（8 点三刻）",
+            "7:15（7 点一刻）"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「差一刻八点」即距离 8:00 还差一刻钟（15分钟），因此对应 7:45。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「数字、时间与日期表达 (Numbers, Time & Date)」的正式语境下，最准确得体的表达是哪一项？（第3.3题）",
+          "prompt": "要向路人礼貌询问当前的时间，最标准的中文疑问句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (3.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (3.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (3.3.x3)"
+            "请问，现在几点了？(Qǐngwèn, xiànzài jǐ diǎn le?) (Excuse me, what time is it now?)",
+            "请问，现在多少点？",
+            "请问，现在什么时候点？",
+            "请问，什么时间是现在？"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「请问，现在几点了？」是询问当前钟点时间的最经典通用句型（小数字疑问用「几」）。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u3-l3）所要求的高阶语言表达？",
+          "prompt": "请选出下列时间表达中语序完全正确的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (3.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (3.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (3.3.y3)"
+            "晚上九点零五分 (wǎnshang jiǔ diǎn líng wǔ fēn) (9:05 PM)",
+            "九点零五分晚上 (时段倒置错误)",
+            "晚上九点五分零 (词序颠倒)",
+            "零五分九点晚上 (语序混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "汉语遵循由大到小的语序：时段「晚上」+ 钟点「九点」+ 分钟「零五分」。"
         }
       ]
     },
@@ -1972,25 +1980,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「数字、时间与日期表达 (Numbers, Time & Date)」的掌握程度，请选出表述完全正确的标准范句（测试 3-3）：",
+          "prompt": "请选出下列问答会话中时间表达完全规范准确的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (3.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (3.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (3.3.z3)"
+            "甲：请问，会议几点开始？ 乙：明天上午八点三刻正式开始。",
+            "甲：请问，会议几点开始？ 乙：明天八点三刻上午开始是。",
+            "甲：现在几点？ 乙：现在是二点十五分下午。",
+            "甲：现在几点？ 乙：现在是差下午两点五分。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「明天（日期）+ 上午（时段）+ 八点三刻（8:45）」由大到小语序完全严谨准确。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u3-l3）的核心关键词（例如「数字、时」）：",
+          "prompt": "请输入表示整点钟头「小时」的单字汉字（例如「两点」的「点」）：",
           "acceptedAnswers": [
-            "数字、时",
-            "数字、时间与",
-            "数字、时间与日期表达"
+            "点"
           ],
-          "explanation": "正确的核心关键词为「数字、时」。"
+          "explanation": "汉字「点」在时间表达中充当整点小时的核心计量词（如八点、两点）。"
         }
       ],
       "passThreshold": 0.8
@@ -2001,85 +2007,89 @@
     "subject": "mandarin",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "数字、时间与日期表达 (Numbers, Time & Date) (第4讲)",
+    "title": "年、月、日、星期表达与宏观至微观时间语序 (Dates: Year, Month, Day, Week & Big-to-Small Order)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第4部分)。",
+    "objective": "掌握汉语年、月、日、星期的完整表达法则，牢记「由大到小（宏观至微观）」的中国传统时空认知语序，熟练表达生日与日历日程。",
     "presentation": {
-      "explanation": "",
+      "explanation": "汉语日期与时间的排列体系深刻体现了中华文化「由大及小、从宏观到微观、由整体到局部」的核心认知思维模式：\n\n一、日期表达的层级排列铁律：\n年份（年） -> 月份（月） -> 日期（日/号） -> 星期（星期/周） -> 具体时段 -> 钟点\n范例：2026年8月30日 星期日 上午10点30分（由最大的公元年份一路细化到最小的分钟）。\n\n二、年、月、日、星期的具体构造法则：\n1. 年份表达：直接逐字读出 4 位阿拉伯数字 +「年 (nián)」：\n- 2026年 读作：二零二六年 (èr líng èr liù nián)\n- 1998年 读作：一九九八年 (yī jiǔ jiǔ bā nián)\n- 2008年 读作：二零零八年 (èr líng líng bā nián)\n\n2. 月份表达：1 至 12 基数词 +「月 (yuè)」：\n- 一月 (1月)、二月 (2月)、三月 (3月) ...... 十一月 (11月)、十二月 (12月)。极度规则，无需记忆任何特殊派生词。\n\n3. 日期表达：基数词 +「日 (rì)」或「号 (hào)」：\n- 书面正式语体一律用「日」（例如：公文、报刊、护照上写作「8月30日」）\n- 口语交际日常多用「号」（例如：今天八月三十号）\n\n4. 星期表达体系：\n- 星期一、星期二、星期三、星期四、星期五、星期六\n- 周末特别注意：星期天 / 星期日（**绝对没有** *星期七* 之说！）\n- 常用同义替代格式：周一至周日、礼拜一至礼拜天。\n\n三、询问日期的核心交际句型：\n- 问：今天是几月几号？星期几？(Jīntiān shì jǐ yuè jǐ hào? Xīngqī jǐ?)\n- 答：今天是十月一号，星期五。(Jīntiān shì shí yuè yī hào, xīngqīwǔ.)\n- 问：你的生日是哪一天？(Nǐ de shēngrì shì nǎ yì tiān?)\n- 答：我的生日是一九九九年五月二十号。(Wǒ de shēngrì shì yī jiǔ jiǔ jiǔ nián wǔ yuè èrshí hào.)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '数字、时间与日期表达 (Numbers, Time & Date)' in simple terms to students at the academic seminar."
+          "target": "今天是二零二六年八月三十日，星期天。(Jīntiān shì èr líng èr liù nián bā yuè sānshí rì, xīngqītiān.)",
+          "reading": "[t͡ɕin˥.tʰjɛn˥ ʂɨ˥˩ aɻ˥˩ liŋ˧˥ aɻ˥˩ ljoʊ̯˥˩ njɛn˧˥ pa˥ ɥɛ˥˩ san˥.ʂɨ˧˥ ʐɨ˥˩, ɕiŋ˥.t͡ɕʰi˥.tʰjɛn˥] (Jīn-tiān shì èr líng èr liù nián bā yuè sān-shí rì, xīng-qī-tiān.)",
+          "translation": "Today is Sunday, August 30, 2026."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我的生日是九月十八号，你呢？(Wǒ de shēngrì shì jiǔ yuè shíbā hào, nǐ ne?)",
+          "reading": "[wɔ˨˩ tɤ ʂɤŋ˥.ʐɨ˥˩ ʂɨ˥˩ t͡ɕjoʊ̯˨˩ ɥɛ˥˩ ʂɨ˧˥.pa˥ xaʊ̯˥˩, ni˨˩˦ nɤ?] (Wǒ de shēng-rì shì jiǔ yuè shí-bā hào, nǐ ne?)",
+          "translation": "My birthday is September 18th, what about yours?"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "新学期从九月一日正式开始。(Xīn xuéqī cóng jiǔ yuè yī rì zhèngshì kāishǐ.)",
+          "reading": "[ɕin˥ ɕɥɛ˧˥.t͡ɕʰi˥ t͡sʰʊŋ˧˥ t͡ɕjoʊ̯˨˩ ɥɛ˥˩ i˥ ʐɨ˥˩ ʈ͡ʂɤŋ˥˩.ʂɨ˥˩ kʰaɪ̯˥.ʂɨ˨˩˦] (Xīn xué-qī cóng jiǔ yuè yī rì zhèng-shì kāi-shǐ.)",
+          "translation": "The new semester officially starts on September 1st."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们下周三下午两点在三号会议室开会。(Wǒmen xià zhōusān xiàwǔ liǎng diǎn zài sānhào huìyìshì kāihuì.)",
+          "reading": "[wɔ˨˩.mən ɕja˥˩ ʈ͡ʂoʊ̯˥.san˥ ɕja˥˩.u˨˩˦ ljaŋ˨˩ tjɛn˨˩˦ t͡saɪ̯˥˩ san˥.xaʊ̯˥˩ xweɪ̯˥˩.i˥˩.ʂɨ˥˩ kʰaɪ̯˥.xweɪ̯˥˩] (Wǒ-men xià zhōu-sān xià-wǔ liǎng diǎn zài sān-hào huì-yì-shì kāi-huì.)",
+          "translation": "We will hold a meeting in Meeting Room No. 3 at 2:00 PM next Wednesday."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "大到小年到秒（年月日星期），年份逐字念分明；周日周天无「周七」，书面写「日」口语「号」！"
+      ],
+      "culturalNotes": [
+        "中国传统农历（阴阳历）以月相盈亏结合太阳二十四节气制定，农历新年（春节）、中秋节（八月十五）、端午节（五月初五）等传统节日均依照农历计算，现代中国人日常则同时通用公历（阳历）与农历。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「数字、时间与日期表达 (Numbers, Time & Date)」（第4讲）的标准汉语规范？",
+          "prompt": "在标准汉语中表达年份「2026年」时，正确的拼读方法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (3.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (3.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (3.4.w3)"
+            "二零二六年 (èr líng èr liù nián) —— 逐个数字单独朗读 (Read digits individually)",
+            "两千零二十六年 (liǎng qiān líng èrshíliù nián)",
+            "二十二十六年 (èrshí èrshíliù nián)",
+            "二千二十六 (èr qiān èrshíliù)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "在汉语中表达公元年份时，一律将 4 个数字逐个单念（2-0-2-6 读作 二零二六），后加「年」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "关于星期的表达，下列哪一个词语在现代汉语中属于**错误**的表达？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "星期七 (Xīngqīqī) —— 汉语中无此词，应为「星期天/星期日」 (No such word as Xīngqīqī)",
+            "星期日 (Xīngqīrì)",
+            "星期天 (Xīngqītiān)",
+            "周日 (Zhōurì)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "汉语一星期的最后一天称为「星期日」、「星期天」或「周日」，绝对没有「*星期七*」的说法。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「数字、时间与日期表达 (Numbers, Time & Date)」的正式语境下，最准确得体的表达是哪一项？（第3.4题）",
+          "prompt": "在书面正式公文中表达「5月12日」时，最规范的书写用字是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (3.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (3.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (3.4.x3)"
+            "五月十二日 (Wǔ yuè shí'èr rì) (Written formal: rì)",
+            "五月十二号 (口语常用，非正式公文)",
+            "十二号五月 (语序颠倒)",
+            "十二日五月 (受外语影响的错误语序)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "书面正式语体中日期一律使用「日」，且语序严格为「月在前，日在后」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u3-l4）所要求的高阶语言表达？",
+          "prompt": "请选出下列时间日期组合中完全符合「从大到小」中文语序的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (3.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (3.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (3.4.y3)"
+            "2026年10月1日 星期四 上午9点 (Year -> Month -> Day -> Weekday -> Time of day -> Hour)",
+            "星期四 2026年 10月1日 上午9点",
+            "上午9点 10月1日 2026年 星期四",
+            "10月1日 2026年 上午9点 星期四"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "现代汉语严格遵循从宏观到微观的认知逻辑：年 -> 月 -> 日 -> 星期 -> 时段 -> 钟点。"
         }
       ]
     },
@@ -2087,25 +2097,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「数字、时间与日期表达 (Numbers, Time & Date)」的掌握程度，请选出表述完全正确的标准范句（测试 3-4）：",
+          "prompt": "请选出下列对话中关于日期和星期的问答完全规范正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (3.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (3.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (3.4.z3)"
+            "甲：请问，今天几月几号？星期几？ 乙：今天九月十号，星期三，是教师节！",
+            "甲：今天什么时候号？ 乙：今天星期七，九月十日。",
+            "甲：今天几月几号？ 乙：今天是教师节九月星期三号十。",
+            "甲：几号今天星期？ 乙：九月十号是今天星期三日。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "提问与回答均完全符合标准汉语的日期、月份、星期语法与语用交际规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u3-l4）的核心关键词（例如「数字、时」）：",
+          "prompt": "请输入代表一整年时间维度的核心单字汉字（拼音为 nián）：",
           "acceptedAnswers": [
-            "数字、时",
-            "数字、时间与",
-            "数字、时间与日期表达"
+            "年"
           ],
-          "explanation": "正确的核心关键词为「数字、时」。"
+          "explanation": "汉字「年」是表达年份与一整年周期的核心时间名词与量词。"
         }
       ],
       "passThreshold": 0.8
@@ -2116,85 +2124,89 @@
     "subject": "mandarin",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "数字、时间与日期表达 (Numbers, Time & Date) (第5讲)",
+    "title": "相对时间词与时间状语在句中的语序规则 (Temporal Adverbs & Time Adverbial Position)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：基数词（一至一百）、时刻表达（几点几分）、年/月/日及星期表达法。 (第5部分)。",
+    "objective": "掌握汉语相对时间参照系统（前天/昨天/今天/明天/后天、去年/今年/明年），熟练掌握时间状语置于动词前的核心句法语序铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代标准汉语具有高度对称、层次分明的相对时间参照词汇体系，并且时间成分在句子充当状语时受到严格的句法位置制约。\n\n一、相对时间参照词汇完整对称体系：\n1. 以「天」为单位的相对时间轴：\n大前天（3天前） -> 前天（2天前） -> 昨天（1天前） -> 今天（当下） -> 明天（1天后） -> 后天（2天后） -> 大后天（3天后）\n\n2. 以「年」为单位的相对时间轴：\n大前年（3年前） -> 前年（2年前） -> 去年（1年前） -> 今年（当下年） -> 明年（1年后） -> 后年（2年后） -> 大后年（3年后）\n\n3. 以「周/星期」与「月」为单位的相对时间轴：\n- 上上个星期 / 上上个月（前一个周期）\n- 上个星期 / 上个月（上一个周期）\n- 这个星期 / 这个月（当前周期）\n- 下个星期 / 下个月（下一个周期）\n- 下下个星期 / 下下个月（后一个周期）\n\n二、时间状语在句子中的位置铁律（汉语核心语法支柱）：\n在现代汉语中，表示时间的词语充当句子的「时间状语」，其句法位置只能有且仅有两种合法选择，**绝对不能**放在句末谓语动词之后：\n\n1. 位置一：置于主语之后、谓语动词之前（最普遍、最中性的标准语序）：\n- 主语 + [时间状语] + 谓语动词 + 宾语\n- 我 [明天下午] 去北京大学参观。\n- 我们 [今年九月] 开始学习高级汉语。\n- 他 [昨天晚上] 没有来参加聚会。\n\n2. 位置二：置于句首主语之前（突出强调时间背景，或充当全句的话题背景）：\n- [时间状语]，主语 + 谓语动词 + 宾语\n- [明天下午]，我去北京大学参观。\n- [去年夏天]，我们在中国旅行了一个月。\n\n三、跨语言对比与极高频初学者病句警示：\n在英语等印欧语言中，时间状语习惯性置于句末（如 I will go to Beijing tomorrow）。受此母语负迁移影响，初学者极易造出严重病句：\n- 严重病句：*我去北京明天* / *他来我家昨天晚上*\n- 规范汉语：我明天去北京。 / 他昨天晚上来我家。\n牢记口诀：时间状语在动词前，主语前后两边站；绝不殿后放句末，地道汉语自然现！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '数字、时间与日期表达 (Numbers, Time & Date)' in simple terms to students at the academic seminar."
+          "target": "我们明天上午九点在第一教学楼开会。(Wǒmen míngtiān shàngwǔ jiǔ diǎn zài dì-yī jiàoxuélóu kāihuì.)",
+          "reading": "[wɔ˨˩.mən miŋ˧˥.tʰjɛn˥ ʂɑŋ˥˩.u˨˩˦ t͡ɕjoʊ̯˨˩ tjɛn˨˩˦ t͡saɪ̯˥˩ ti˥˩.i˥ t͡ɕjaʊ̯˥˩.ɕɥɛ˧˥.loʊ̯˧˥ kʰaɪ̯˥.xweɪ̯˥˩] (Wǒ-men míng-tiān shàng-wǔ jiǔ diǎn zài dì-yī jiào-xué-lóu kāi-huì.)",
+          "translation": "We will hold a meeting in Teaching Building No. 1 at 9:00 AM tomorrow."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "去年他在北京学习，今年他在上海工作。(Qùnián tā zài Běijīng xuéxí, jīntiān tā zài Shànghǎi gōngzuò.)",
+          "reading": "[t͡ɕʰy˥˩.njɛn˧˥ tʰa˥ t͡saɪ̯˥˩ peɪ̯˨˩.t͡ɕiŋ˥ ɕɥɛ˧˥.ɕi˧˥, t͡ɕin˥.njɛn˧˥ tʰa˥ t͡saɪ̯˥˩ ʂɑŋ˥˩.xaɪ̯˨˩˦ kʊŋ˥.t͡swɔ˥˩] (Qù-nián tā zài Běi-jīng xué-xí, jīn-nián tā zài Shàng-hǎi gōng-zuò.)",
+          "translation": "Last year he studied in Beijing; this year he works in Shanghai."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "昨天晚上我和李华一起去看了中国京剧。(Zuótiān wǎnshang wǒ hé Lǐ Huá yìqǐ qù kàn le Zhōngguó jīngjù.)",
+          "reading": "[t͡swɔ˧˥.tʰjɛn˥ wan˨˩.ʂaŋ wɔ˨˩ xɤ˧˥ li˨˩˦ xwa˧˥ i˥˩.t͡ɕʰi˨˩˦ t͡ɕʰy˥˩ kʰan˥˩ lɤ ʈ͡ʂʊŋ˥.kwɔ˧˥ t͡ɕiŋ˥.t͡ɕy˥˩] (Zuó-tiān wǎn-shang wǒ hé Lǐ Huá yì-qǐ qù kàn le Zhōng-guó jīng-jù.)",
+          "translation": "Last night Li Hua and I went together to watch Chinese Peking Opera."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "下个星期五我们全班同学去长城春游。(Xià gè xīngqīwǔ wǒmen quán bān tóngxué qù Chángchéng chūnyóu.)",
+          "reading": "[ɕja˥˩ kɤ ɕiŋ˥.t͡ɕʰi˥.u˨˩˦ wɔ˨˩.mən t͡ɕʰɥɛn˧˥ pan˥ tʰʊŋ˧˥.ɕɥɛ˧˥ t͡ɕʰy˥˩ ʈ͡ʂʰɑŋ˧˥.ʈ͡ʂʰɤŋ˧˥ ʈ͡ʂʰwən˥.joʊ̯˧˥] (Xià gè xīng-qī-wǔ wǒ-men quán bān tóng-xué qù Cháng-chéng chūn-yóu.)",
+          "translation": "Next Friday our whole class will go on a spring outing to the Great Wall."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "时间状语动词前，主语前后两边站；去年今年和明年，绝不殿后放句末！"
+      ],
+      "culturalNotes": [
+        "中国传统哲学强调整体宇宙秩序与时间流动的前置引导作用。在语言表达中，先把时间大背景确立（在句首或主语后），再叙述在该时空背景下展开的具体人事行为，体现了中国古人「天人合一、顺应天时」的宏观时空观。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「数字、时间与日期表达 (Numbers, Time & Date)」（第5讲）的标准汉语规范？",
+          "prompt": "表达「我明天去图书馆」，时间状语「明天」在句子中的正确位置是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「数字、时间与日期表达 (Numbers, Time & Date)」的核心语法法则与应用范例 (3.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (3.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (3.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (3.5.w3)"
+            "主语「我」之后、动词「去」之前（我明天去图书馆）或句首（明天我去图书馆） (Before the verb: Wǒ míngtiān qù túshūguǎn)",
+            "必须放在句子最末尾：我去图书馆明天。",
+            "必须放在宾语「图书馆」之后：我去明天图书馆。",
+            "必须放在动词「去」和宾语之间：我去看明天图书馆。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "汉语时间状语必须位于谓语动词之前，可以置于主语后（我明天去）或句首（明天我去），绝对不可放在句末。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在相对时间词中，表示「今天的前一天」和「今年的前一年」的词语分别是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "昨天 (zuótiān) 与 去年 (qùnián) (Yesterday & Last year)",
+            "前天 与 前年",
+            "明天 与 明年",
+            "后天 与 后年"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「昨天」指当前日期的前一天；「去年」指当前年份的前一年。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「数字、时间与日期表达 (Numbers, Time & Date)」的正式语境下，最准确得体的表达是哪一项？（第3.5题）",
+          "prompt": "下列哪一个句子由于把时间状语错误置于句末而构成了典型语序病句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (3.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (3.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (3.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (3.5.x3)"
+            "我们买了两本汉语书昨天下午。(病句：时间状语放在了句末) (Incorrectly placed time adverbial at end)",
+            "我们昨天下午买了两本汉语书。",
+            "昨天下午，我们买了两本汉语书。",
+            "下个星期我们要去北京旅游。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「昨天下午」作为时间状语被放在了句末谓语动词之后，属于受外语影响的严重语序错误。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u3-l5）所要求的高阶语言表达？",
+          "prompt": "请选出下列时间词语序列严格按照「过去 -> 现在 -> 将来」顺序排列的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (3.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (3.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (3.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (3.5.y3)"
+            "前天 -> 昨天 -> 今天 -> 明天 -> 后天 (Past -> Present -> Future time sequence)",
+            "后天 -> 明天 -> 今天 -> 昨天 -> 前天",
+            "今天 -> 昨天 -> 前天 -> 明天 -> 后天",
+            "明天 -> 今天 -> 昨天 -> 后天 -> 前天"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "从前天（2天前）到昨天（1天前），再到今天（当下），之后到明天（1天后）与后天（2天后），顺序完全正确。"
         }
       ]
     },
@@ -2202,25 +2214,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「数字、时间与日期表达 (Numbers, Time & Date)」的掌握程度，请选出表述完全正确的标准范句（测试 3-5）：",
+          "prompt": "请选出下列句子中时间状语位置与词语搭配完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (3.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (3.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (3.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (3.5.z3)"
+            "张教授上个星期在学术大会上发表了重要演讲。(Professor Zhang delivered an important speech at the academic conference last week.)",
+            "张教授发表了重要演讲在上个星期学术大会上。",
+            "张教授在学术大会上发表了重要演讲上个星期。",
+            "张教授发表了上个星期重要演讲在学术大会。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "时间状语「上个星期」位于主语「张教授」之后、介词短语与动词之前，完全符合汉语语法标准规则。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u3-l5）的核心关键词（例如「数字、时」）：",
+          "prompt": "请输入表示「当下今日」的单字汉字（例如「今天」的「今」）：",
           "acceptedAnswers": [
-            "数字、时",
-            "数字、时间与",
-            "数字、时间与日期表达"
+            "今"
           ],
-          "explanation": "正确的核心关键词为「数字、时」。"
+          "explanation": "汉字「今」表示当下现时（如今天、今年、今日、古今）。"
         }
       ],
       "passThreshold": 0.8
