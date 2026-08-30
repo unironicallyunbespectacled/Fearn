@@ -1715,53 +1715,62 @@
     "subject": "ukrainian",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "Теперішній час дієслів: 1 та 2 дієвідміни (Present Tense) (Part 1)",
+    "title": "Перша дієвідміна дієслів: особові закінчення (-у/-ю, -еш/-єш, -е/-є, -емо/-ємо, -ете/-єте, -уть/-ють) (1st Conjugation)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 4.1) with authentic linguistic precision.",
+    "objective": "Опанувати дієвідмінювання дієслів першої дієвідміни у теперішньому часі (визначення за формою 3-ї особи множини на -уть/-ють, тематичні голосні -е-/-є-).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові дієслова у теперішньому часі поділяються на дві дієвідміни залежно від особових закінчень:\n\n1. Ознака 1-ї дієвідміни:\n- У формі 3-ї особи множини (вони) мають закінчення «-уть» або «-ють» (наприклад: «чита-ють», «пиш-уть», «зна-ють», «працю-ють»).\n- В особових закінченнях 2-ї та 3-ї особи однини і 1-ї та 2-ї особи множини виступають тематичні голосні «-е-» (після приголосних) або «-є-» (після голосних).\n\n2. Парадигма відмінювання дієслова «читати» (після голосного):\n- Я чита-ю\n- Ти чита-єш\n- Він / Вона / Воно чита-є\n- Ми чита-ємо\n- Ви чита-єте\n- Вони чита-ють\n\n3. Парадигма відмінювання дієслова «писати» (після приголосного з чергуванням с/ш):\n- Я пиш-у\n- Ти пиш-еш\n- Він / Вона / Воно пиш-е\n- Ми пиш-емо\n- Ви пиш-ете\n- Вони пиш-уть",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Щодня ми уважно читаємо нові статті та пишемо наукові тези.",
+          "reading": "[ʃtʃɔdʲˈnʲɑ mɪ uˈwɑʒnɔ tʃɪˈtɑjɛmɔ nɔˈwʲi stɐtʲˈtʲi tɑ ˈpɪʃɛmɔ nɐuˈkɔwʲi ˈtɛzɪ] (shchohd-NYAH my oo-VAHZH-noh chy-TAH-yeh-moh noh-VEE staht-TEE tah PY-sheh-moh nah-oo-KOH-vee TEH-zy)",
+          "translation": "Every day we attentively read new articles and write scientific theses."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 4-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ти вільно розмовляєш і добре знаєш українську мову?",
+          "reading": "[tɪ ˈwʲilʲnɔ rɔzmɔwˈlʲɑjɛʃ i ˈdɔbrɛ znɑˈjɛʃ ukrɐˈjinʲsʲku ˈmɔwu] (TY VEEL'-noh roz-mov-LYAH-yesh ee DOH-breh znah-YESH oo-krah-YEEN-s'koo MOH-voo?)",
+          "translation": "Do you speak fluently and know the Ukrainian language well?"
+        },
+        {
+          "target": "Вони старанно працюють у сучасній науковій лабораторії.",
+          "reading": "[wɔˈnɪ stɐˈrɑnːɔ prɐt͡sʲuˈjutʲ u suˈtʃɑsnʲij nɐuˈkɔwʲij lɐbɔrɐˈtɔrʲijɪ] (voh-NY stah-RAHN-noh praht-SYOO-yoot' oo soo-CHAHS-neey nah-oo-KOH-veey lah-boh-rah-TOH-ree-yee)",
+          "translation": "They work diligently in a modern scientific laboratory."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Вони чита-ють і пиш-уть сповна — перша дієвідміна звучить як весна: з «-є-» та з «-е-» усе пізнай!"
+      ],
+      "culturalNotes": [
+        "Слово «працювати» є питомим українським дієсловом 1-ї дієвідміни, яке втілює прадавню українську культуру землеробської та інтелектуальної праці."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Яблуко\":",
+          "prompt": "Оберіть правильну форму дієслова 1-ї дієвідміни «знати» для займенника «ми»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.1.",
-            "Неправильне відмінкове узгодження зі словом «Борщ»",
-            "Порушення законів евфонії та словотворення для «Вареники»",
-            "Стилістично некоректна синтаксична конструкція з «Сало»"
+            "Знаємо (We know - 1st conjugation)",
+            "Знаїмо",
+            "Знають",
+            "Знаєш"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «знати» належить до 1-ї дієвідміни (вони зна-ють), тому для форми «ми» має закінчення «-ємо»: «ми знаємо»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Яблуко\":",
+          "prompt": "До якої дієвідміни належить дієслово «писати», якщо в 3-й особі множини воно має форму «пишуть»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.1.",
-            "Порушення законів евфонії та словотворення для «Вареники»",
-            "Стилістично некоректна синтаксична конструкція з «Сало»",
-            "Неправильне відмінкове узгодження зі словом «Борщ»"
+            "До 1-ї дієвідміни (1st Conjugation: закінчення -уть/-ють)",
+            "До 2-ї дієвідміни",
+            "До невідмінюваних дієслів",
+            "До безособових форм"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Закінчення 3-ї особи множини «-уть / -ють» є безпомилковою ознакою 1-ї дієвідміни."
         }
       ]
     },
@@ -1769,17 +1778,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Яблуко\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому всі дієслова 1-ї дієвідміни узгоджені граматично правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.1.",
-            "Стилістично некоректна синтаксична конструкція з «Сало»",
-            "Неправильне відмінкове узгодження зі словом «Борщ»",
-            "Порушення законів евфонії та словотворення для «Вареники»"
+            "Студенти читають текст, перекладають слова та пишуть вправи.",
+            "Студенти читаїть текст, перекладаять слова та пишать вправи.",
+            "Студенти читаять текст, перекладаїть слова та пишуть вправи.",
+            "Студенти читаєм текст, перекладаєм слова та пишем вправи."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У 3-й особі множини дієслова 1-ї дієвідміни мають закінчення «-ють» та «-уть»: «читають», «перекладають», «пишуть»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u4-l2": {
@@ -1787,53 +1797,62 @@
     "subject": "ukrainian",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "Теперішній час дієслів: 1 та 2 дієвідміни (Present Tense) (Part 2)",
+    "title": "Друга дієвідміна дієслів: особові закінчення (-у/-ю, -иш/-їш, -ить/-їть, -имо/-їмо, -ите/-їте, -ать/-ять) (2nd Conjugation)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 4.2) with authentic linguistic precision.",
+    "objective": "Опанувати дієвідмінювання дієслів другої дієвідміни у теперішньому часі (визначення за формою 3-ї особи множини на -ать/-ять, тематичні голосні -и-/-ї-).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Друга дієвідміна (2nd Conjugation) об'єднує дієслова з тематичними голосними «-и-» або «-ї-» в особових закінченнях:\n\n1. Головна розпізнавальна ознака 2-ї дієвідміни:\n- У формі 3-ї особи множини (вони) дієслова закінчуються на «-ать» (після шиплячих) або «-ять» (наприклад: «говор-ять», «бач-ать», «сто-ять», «уч-ать»).\n\n2. Парадигма відмінювання дієслова «говорити»:\n- Я говор-ю\n- Ти говор-иш\n- Він / Вона / Воно говор-ить\n- Ми говор-имо\n- Ви говор-ите\n- Вони говор-ять\n\n3. Парадигма відмінювання дієслова «бачити» (після шиплячого [ч]):\n- Я бач-у\n- Ти бач-иш\n- Він / Вона / Воно бач-ить\n- Ми бач-имо\n- Ви бач-ите\n- Вони бач-ать",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми завжди говоримо правду та щиро цінуємо справжню дружбу.",
+          "reading": "[mɪ zɐwˈʒdɪ ɦɔwɔˈrɪmɔ ˈprɑwdu tɑ ˈʃtʃirɔ t͡sʲiˈnujɛmɔ sprɐwʒˈnʲu ˈdruʒbu] (my zahv-ZHDY hoh-voh-RY-moh PRAHV-doo tah SHCHEE-roh tsee-NOO-yeh-moh sprav-ZHNYOO DROOZH-boo)",
+          "translation": "We always speak the truth and sincerely value genuine friendship."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 4-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Він чудово бачить усі деталі на великій географічній карті.",
+          "reading": "[wʲin tʃuˈdɔwɔ ˈbɑtʃɪtʲ uˈsʲi dɛˈtɑlʲi nɑ wɛˈlɪkʲij ɦɛɔɦrɐˈfʲitʃnʲij ˈkɑrtʲi] (VEEN choo-DOH-voh BAH-chyt' oo-SEE deh-TAH-lee nah veh-LY-keey heh-oh-hrah-FEECH-neey KAHR-tee)",
+          "translation": "He sees all the details on the large geographical map wonderfully."
+        },
+        {
+          "target": "Викладачі та студенти вільно говорять кількома іноземними мовами.",
+          "reading": "[wɪklɐdɐˈtʃi tɑ stuˈdɛntɪ ˈwʲilʲnɔ ɦɔwɔˈrʲɑtʲ kʲilʲkɔˈmɑ inɔˈzɛmnɪmɪ ˈmɔwɐmɪ] (vy-klah-dah-CHEE tah stoo-DEN-ty VEEL'-noh hoh-vohr-YAHT' keel'-koh-MAH ee-noh-ZEM-ny-my MOH-vah-my)",
+          "translation": "Lecturers and students speak several foreign languages fluently."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Вони говор-ять, вони бач-ать — друга дієвідміна це значить: з буквою «-и-» і «-ї-» завжди іди!"
+      ],
+      "culturalNotes": [
+        "Дієслово «бачити» в українській мові має глибоке світоглядне значення, пов'язане не лише з фізичним зором, але й із розумінням та усвідомленням суті речей («бачити правду»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Борщ\":",
+          "prompt": "Оберіть правильну форму 2-ї особи однини (ти) від дієслова 2-ї дієвідміни «говорити»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.2.",
-            "Неправильне відмінкове узгодження зі словом «Вареники»",
-            "Порушення законів евфонії та словотворення для «Сало»",
-            "Стилістично некоректна синтаксична конструкція з «Мед»"
+            "Говориш (You speak - 2nd conjugation)",
+            "Говореш",
+            "Говорять",
+            "Говорити"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслова 2-ї дієвідміни у 2-й особі однини мають закінчення «-иш»: «ти говориш»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Борщ\":",
+          "prompt": "Яке закінчення мають дієслова 2-ї дієвідміни у формі 3-ї особи множини (вони)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.2.",
-            "Порушення законів евфонії та словотворення для «Сало»",
-            "Стилістично некоректна синтаксична конструкція з «Мед»",
-            "Неправильне відмінкове узгодження зі словом «Вареники»"
+            "-ать / -ять (3rd person plural endings of 2nd conjugation)",
+            "-уть / -ють",
+            "-емо / -ємо",
+            "-ете / -єте"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Закінчення «-ать / -ять» є маркерною ознакою 2-ї дієвідміни дієслів."
         }
       ]
     },
@@ -1841,17 +1860,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Борщ\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ дієслова належать виключно до 2-ї дієвідміни:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.2.",
-            "Стилістично некоректна синтаксична конструкція з «Мед»",
-            "Неправильне відмінкове узгодження зі словом «Вареники»",
-            "Порушення законів евфонії та словотворення для «Сало»"
+            "Говорити (говорять), бачити (бачать), любити (люблять)",
+            "Читати (читають), знати (знають), писати (пишуть)",
+            "Працювати (працюють), малювати (малюють), жити (живуть)",
+            "Нести (несуть), вести (ведуть), пливти (пливуть)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Дієслова «говорити», «бачити», «любити» у формі 3-ї особи множини мають закінчення «-ять / -ать», тому належать до 2-ї дієвідміни."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u4-l3": {
@@ -1859,53 +1879,62 @@
     "subject": "ukrainian",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "Теперішній час дієслів: 1 та 2 дієвідміни (Present Tense) (Part 3)",
+    "title": "Історичні чергування приголосних в основах дієслів теперішнього часу (Consonant Mutations in Verbs)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 4.3) with authentic linguistic precision.",
+    "objective": "Опанувати чергування приголосних у дієсловах 1-ї дієвідміни в усіх особах (с/ш, з/ж, к/ч) та у 2-й дієвідміні в 1-й особі однини (д/дж, т/ч, з/ж, губні + л).",
     "presentation": {
-      "explanation": "",
+      "explanation": "При дієвідмінюванні в українській мові відбуваються закономірні фонетичні чергування приголосних звуків:\n\n1. Чергування в 1-й дієвідміні (відбувається в УСІХ особах теперішнього часу):\n- [с] -> [ш]: «писати -> пишу, пишеш, пише, пишемо, пишете, пишуть».\n- [з] -> [ж]: «казати -> кажу, кажеш, каже, кажемо, кажете, кажуть».\n- [к] -> [ч]: «пекти -> печу, печеш, пече, печемо, печете, печуть».\n- [х] -> [ш]: «кохати -> кохаю / колихати -> колишу, колишеш».\n\n2. Чергування у 2-й дієвідміні (відбувається ЛИШЕ в 1-й особі однини «я»):\n- [д] -> [дж]: «ходити -> ходжу» (але: ходиш, ходить, ходимо, ходите, ходять).\n- [т] -> [ч]: «летіти -> лечу» (але: летиш, летить, летимо, летите, летять).\n- [з] -> [ж]: «возити -> вожу» (але: возиш, возить, возимо, возите, возять).\n- [с] -> [ш]: «просити -> прошу» (але: просиш, просить, просимо, просите, просять).\n- Губні [б, п, в, м, ф] + [л'] (епентетичний «л» у 1-й особі однини та 3-й множини):\n  • «Любити -> люблю, люблять» (але: любиш, любить, любимо, любите).\n  • «Спати -> сплю, сплять» (але: спиш, спить, спимо, спите).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я пишу листа рідним, а мій друг каже цікаву історію.",
+          "reading": "[jɑ pɪˈʃu lɪsˈtɑ ˈrʲidnɪm, ɑ mʲij druh ˈkɑʒɛ t͡sʲiˈkɑwu isˈtɔrʲiju] (YAH py-SHOO lys-TAH REED-nym, ah meey drooh KAH-zheh tsee-KAH-voo ees-TOH-ree-yoo)",
+          "translation": "I write a letter to my relatives, and my friend tells an interesting story."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 4-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Щоранку я ходжу пішки до університету та дихаю свіжим повітрям.",
+          "reading": "[ʃtʃɔˈrɑŋku jɑ xɔˈdʒu ˈpʲiʃkɪ dɔ unʲiwɛrsɪˈtɛtu tɑ ˈdɪxɑju ˈsʲwʲiʒɪm pɔˈwʲitrʲɑm] (shchoh-RAHN-koo yah khoh-DZHOO PEESH-ky doh oo-nee-ver-sy-TEH-too tah DY-khah-yoo SVEE-zhym poh-VEET-ryahm)",
+          "translation": "Every morning I walk to the university on foot and breathe fresh air."
+        },
+        {
+          "target": "Я щиро люблю українську пісню та рідну мелодійну мову.",
+          "reading": "[jɑ ˈʃtʃirɔ lʲubˈlʲu ukrɐˈjinʲsʲku ˈpʲisʲnʲu tɑ ˈrʲidnu mɛlɔˈdʲijnɔ ˈmɔwu] (yah SHCHEE-roh lyoo-BLYOO oo-krah-YEEN-s'koo PEES-n'oo tah REED-noo meh-loh-DEEY-noo MOH-voo)",
+          "translation": "I sincerely love Ukrainian song and my native melodious language."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Ходити» — я ходжу, «любити» — я люблю; В 1-й особі звук новий я з радістю ловлю!"
+      ],
+      "culturalNotes": [
+        "Поява вставного [л] у дієсловах з губними коренями («люблю», «сплю», «купую -> куплю») є найдавнішою праслов'янською фонетичною ознакою, що збереглася в живій українській мові."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вареники\":",
+          "prompt": "Утворіть правильну форму 1-ї особи однини (я) від дієслова «ходити» з урахуванням чергування д/дж:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.3.",
-            "Неправильне відмінкове узгодження зі словом «Сало»",
-            "Порушення законів евфонії та словотворення для «Мед»",
-            "Стилістично некоректна синтаксична конструкція з «Автобус»"
+            "Ходжу (I walk - Consonant mutation d -> dzh)",
+            "Ходю",
+            "Ходити",
+            "Ходиш"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "У 2-й дієвідміні в 1-й особі однини звук [д] закономірно чергується з [дж]: «я ходжу»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вареники\":",
+          "prompt": "Яка літера з'являється між губним приголосним [б] та закінченням у формі «я люблю»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.3.",
-            "Порушення законів евфонії та словотворення для «Мед»",
-            "Стилістично некоректна синтаксична конструкція з «Автобус»",
-            "Неправильне відмінкове узгодження зі словом «Сало»"
+            "Вставний звук «л» (Epenthetic l: люб-л-ю)",
+            "Вставний звук «н»",
+            "Вставний звук «в»",
+            "Жодних звуків не з'являється"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Після губних [б, п, в, м, ф] перед голосними [у], [а] виникає епентетичний (вставний) звук [л']: «любити -> люблю, люблять»."
         }
       ]
     },
@@ -1913,17 +1942,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вареники\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено граматичну помилку у формі дієслова з чергуванням:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.3.",
-            "Стилістично некоректна синтаксична конструкція з «Автобус»",
-            "Неправильне відмінкове узгодження зі словом «Сало»",
-            "Порушення законів евфонії та словотворення для «Мед»"
+            "Я сидю на зручному стільці біля відчиненого вікна.",
+            "Я сиджу на зручному стільці біля відчиненого вікна.",
+            "Я пишу цікаву статтю про сучасну культуру.",
+            "Я люблю прогулюватися вечірнім парком."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма «сидю» є грубою помилкою. Правильна літературна форма з чергуванням [д] на [дж] — «я сиджу»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u4-l4": {
@@ -1931,53 +1961,62 @@
     "subject": "ukrainian",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "Теперішній час дієслів: 1 та 2 дієвідміни (Present Tense) (Part 4)",
+    "title": "Зворотні дієслова на -ся / -сь у теперішньому часі та фонетика сполук -ться, -шся (Reflexive Verbs)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 4.4) with authentic linguistic precision.",
+    "objective": "Опанувати творення та дієвідмінювання зворотних дієслів на -ся / -сь, чергування постфіксів за законами евфонії та орфоепічні норми вимови (-ться [ц':а], -шся [с':а]).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Зворотні дієслова (Reflexive Verbs) в українській мові позначають дію, спрямовану на самого виконавця, взаємну дію або постійний стан:\n\n1. Постфікси «-ся» та «-сь»:\n- Постфікс «-ся» вживається після приголосних (наприклад: «вчу-ся», «вчить-ся»).\n- Постфікс «-сь» за законами евфонії може вживатися після голосних звуків (наприклад: «вчите-ся» або «вчите-сь», «вчимо-ся» або «вчимо-сь»).\n\n2. Парадигма відмінювання дієслова «вчитися» (2-га дієвідміна):\n- Я вчу-ся\n- Ти вчиш-ся (вимовляється [вчѝс':а])\n- Він / Вона / Воно вчить-ся (вимовляється [вчѝц':а])\n- Ми вчимо-ся / вчимо-сь\n- Ви вчите-ся / вчите-сь\n- Вони вчать-ся (вимовляється [вчàц':а])\n\n3. Орфоепічні закони вимови:\n- На письмі пишемо «-ться», а вимовляємо м'який подовжений африкат: [ц':а] («сміється -> [сʲмʲijɛ́t͡sʲːɑ]»).\n- На письмі пишемо «-шся», а вимовляємо подовжений [с':а]: («смієшся -> [sʲmʲijɛ́sʲːɑ]»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Студенти наполегливо вчаться та щодня зустрічаються в бібліотеці.",
+          "reading": "[stuˈdɛntɪ nɐpɔˈlɛɦlɪwɔ ˈwtʃɑt͡sʲːɑ tɑ ʃtʃɔdʲˈnʲɑ zustrʲiˈtʃɑjutsʲɑ w bʲiblʲiɔˈtɛt͡sʲi] (stoo-DEN-ty nah-poh-LEH-hly-voh VCHAHT-syah tah shchohd-NYAH zoo-stree-CHAH-yoot-syah v beeb-lee-oh-TEH-tsee)",
+          "translation": "Students study persistently and meet in the library every day."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 4-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ти завжди радісно посміхаєшся, коли бачиш своїх старих друзів.",
+          "reading": "[tɪ zɐwˈʒdɪ ˈrɑdʲisnɔ pɔsʲmʲiˈxɑjɛsʲːɑ, kɔˈlɪ ˈbɑtʃɪʃ swɔˈjix stɐˈrɪx ˈdruzʲiw] (TY zahv-ZHDY RAH-dees-noh pos-mee-KHAH-yes-syah, koh-LY BAH-chysh svoh-YEEKH stah-RYKH DROO-zeev)",
+          "translation": "You always smile joyfully when you see your old friends."
+        },
+        {
+          "target": "Вранці сонце піднімається над Дніпром і місто прокидається від сну.",
+          "reading": "[ˈwrɑnt͡sʲi ˈsɔntsɛ pʲidnʲiˈmɑjɛt͡sʲːɑ nɑd dnʲiˈprɔm i ˈmʲistɔ prɔkɪˈdɑjɛt͡sʲːɑ wʲid snu] (VRAHN-tsee SOHN-tseh peed-nee-MAH-yet-syah nahd dnee-PROHM ee MEES-toh proh-ky-DAH-yet-syah veed snoo)",
+          "translation": "In the morning the sun rises over the Dnipro and the city wakes up from sleep."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Пишемо «-ться» — вимовляємо [ц':а], пишемо «-шся» — вимовляємо [с':а]; Зворотне дієслово радісно ллється!"
+      ],
+      "culturalNotes": [
+        "Орфоепічне правило вимови сполуки «-ться» як [ц':а] є однією з найхарактерніших ознак красивого та чистого українського літературного мовлення."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Сало\":",
+          "prompt": "Як правильно вимовляється за нормами української орфоепії сполука літер «-ться» у слові «вчиться»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.4.",
-            "Неправильне відмінкове узгодження зі словом «Мед»",
-            "Порушення законів евфонії та словотворення для «Автобус»",
-            "Стилістично некоректна синтаксична конструкція з «Поїзд»"
+            "Як м'який подовжений звук [ц':а] ([вчѝц':а])",
+            "Як роздільні звуки [т-с-я]",
+            "Як твердий звук [тса]",
+            "Як глухий звук [ша]"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В українській літературній мові буквосполучення «-ться» завжди асимілюється та вимовляється як м'який подовжений африкат [ц':а]."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Сало\":",
+          "prompt": "Оберіть правильну форму зворотного дієслова «зустрічатися» для підмета «вони»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.4.",
-            "Порушення законів евфонії та словотворення для «Автобус»",
-            "Стилістично некоректна синтаксична конструкція з «Поїзд»",
-            "Неправильне відмінкове узгодження зі словом «Мед»"
+            "Зустрічаються (They meet - 3rd person plural)",
+            "Зустрічається",
+            "Зустрічаєшся",
+            "Зустрічаємося"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Для займенника «вони» дієслово 1-ї дієвідміни набуває форми «зустрічаються»."
         }
       ]
     },
@@ -1985,17 +2024,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Сало\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з граматично та орфографічно правильно побудованим зворотним дієсловом:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.4.",
-            "Стилістично некоректна синтаксична конструкція з «Поїзд»",
-            "Неправильне відмінкове узгодження зі словом «Мед»",
-            "Порушення законів евфонії та словотворення для «Автобус»"
+            "Маленька дитина щиро сміється і тішиться новою іграшкою.",
+            "Маленька дитина щиро смієця і тішиця новою іграшкою.",
+            "Маленька дитина щиро смієтьсяться і тішитьсяться новою іграшкою.",
+            "Маленька дитина щиро смієся і тішися новою іграшкою."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "На письмі зворотні форми 3-ї особи однини пишуться з «-ться»: «сміється», «тішиться»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u4-l5": {
@@ -2003,53 +2043,62 @@
     "subject": "ukrainian",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "Теперішній час дієслів: 1 та 2 дієвідміни (Present Tense) (Part 5)",
+    "title": "Нерегулярні та атематичні дієслова теперішнього часу: «бути», «їсти», «дати», «хотіти», «могти» (Irregular Verbs)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 4.5) with authentic linguistic precision.",
+    "objective": "Опанувати парадигми атематичних дієслів (їсти, дати), дієслова бути у теперішньому часі та модальних дієслів (хотіти, могти).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові збереглася невелика, але фундаментальна група дієслів архаїчного (атематичного) та нерегулярного відмінювання:\n\n1. Дієслово «бути» (To be):\n- У сучасній літературній мові в теперішньому часі має одну універсальну незмінну форму «є» для всіх осіб і чисел (наприклад: «Він є лікарем», «Вони є студентами»).\n\n2. Атематичне дієслово «їсти» (To eat):\n- Я їм\n- Ти їси\n- Він / Вона / Воно їсть\n- Ми їмо\n- Ви їсте\n- Вони їдять\n\n3. Атематичне дієслово «дати» (To give):\n- Я дам (значення майбутнього) / даю (теперішній від давати)\n- Ти даси / даєш\n- Він / Вона дасть / дає\n- Ми дамо / даємо\n- Ви дасте / даєте\n- Вони дадуть / дають\n\n4. Дієслово «хотіти» (To want — мішане відмінювання):\n- Я хочу, Ти хочеш, Він хоче, Ми хочемо, Ви хочете, Вони хочуть.\n\n5. Дієслово «могти» (To be able/can):\n- Я можу, Ти можеш, Він може, Ми можемо, Ви можете, Вони можуть.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Вранці ми із задоволенням їмо смачний сніданок і п'ємо запашну каву.",
+          "reading": "[ˈwrɑnt͡sʲi mɪ iz zɐdɔˈwɔlɛnʲːɐm jiˈmɔ smɐtʃˈnɪj sʲnʲiˈdɑnɔk i pʲjɛˈmɔ zɐpɐʃˈnu ˈkɑwu] (VRAHN-tsee my eez zah-doh-VOH-len-nyahm yee-MOH smahch-NYI snee-DAH-nohk ee p'yeh-MOH zah-pahsh-NOO KAH-voo)",
+          "translation": "In the morning we gladly eat a delicious breakfast and drink aromatic coffee."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 4-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Чи хочете ви піти з нами на виставку сучасного українського живопису?",
+          "reading": "[tʃɪ ˈxɔtʃɛtɛ wɪ pʲiˈtɪ z ˈnɑmɪ nɑ ˈwɪstɐwku suˈtʃɑsnɔɦɔ ukrɐˈjinʲsʲkɔɦɔ ʒɪwɔˈpɪsu] (chy KHOH-cheh-teh vy pee-TY z NAH-my nah VYS-tahv-koo soo-CHAHS-noh-hoh oo-krah-YEEN-s'koh-hoh zhy-voh-PY-soo?)",
+          "translation": "Do you want to go with us to the exhibition of contemporary Ukrainian painting?"
+        },
+        {
+          "target": "Я можу вільно читати наукові статті та художні твори українською мовою.",
+          "reading": "[jɑ ˈmɔʒu ˈwʲilʲnɔ tʃɪˈtɑtɪ nɐuˈkɔwʲi stɐtʲˈtʲi tɑ xuˈdɔʒnʲi ˈtwɔrɪ ukrɐˈjinʲsʲkɔju ˈmɔwɔju] (yah MOH-zhoo VEEL'-noh chy-TAH-ty nah-oo-KOH-vee staht-TEE tah khoo-DOZH-nee TVOH-ry oo-krah-YEEN-s'koh-yoo MOH-voh-yoo)",
+          "translation": "I can freely read scientific articles and literary works in the Ukrainian language."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Я їм, ти їси, а вони їдять смачненько; Я хочу, я можу — і все зроблю гарненько!"
+      ],
+      "culturalNotes": [
+        "Традиційні формули гостинності «Їжте на здоров'я!» та «Просимо до столу!» є невіддільною частиною української кулінарної культури."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Мед\":",
+          "prompt": "Оберіть правильну форму атематичного дієслова «їсти» для займенника «ти»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.5.",
-            "Неправильне відмінкове узгодження зі словом «Автобус»",
-            "Порушення законів евфонії та словотворення для «Поїзд»",
-            "Стилістично некоректна синтаксична конструкція з «Літак»"
+            "Їси (You eat - Athematic verb)",
+            "Їсиш",
+            "Їсити",
+            "Їсеш"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «їсти» є архаїчним атематичним дієсловом і в 2-й особі однини має унікальну форму «ти їси»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Мед\":",
+          "prompt": "Оберіть правильну форму дієслова «хотіти» для займенника «вони»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.5.",
-            "Порушення законів евфонії та словотворення для «Поїзд»",
-            "Стилістично некоректна синтаксична конструкція з «Літак»",
-            "Неправильне відмінкове узгодження зі словом «Автобус»"
+            "Хочуть (They want - 3rd person plural)",
+            "Хотять",
+            "Хотять-ся",
+            "Хотіють"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «хотіти» у 3-й особі множини має нормативну форму «вони хочуть»."
         }
       ]
     },
@@ -2057,17 +2106,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Мед\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому всі форми дієслів «їсти», «хотіти» та «могти» вжито правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 4.5.",
-            "Стилістично некоректна синтаксична конструкція з «Літак»",
-            "Неправильне відмінкове узгодження зі словом «Автобус»",
-            "Порушення законів евфонії та словотворення для «Поїзд»"
+            "Ми їмо смачні вареники, бо дуже хочемо їсти і можемо добре відпочити.",
+            "Ми їдемо смачні вареники, бо дуже хотять їсти і можем добре відпочити.",
+            "Ми їсте смачні вареники, бо дуже хоче їсти і можуть добре відпочити.",
+            "Ми їдять смачні вареники, бо дуже хочеш їсти і можеш добре відпочити."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ми їмо», «ми хочемо», «ми можемо» — бездоганні граматичні форми для 1-ї особи множини."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u5-l1": {
