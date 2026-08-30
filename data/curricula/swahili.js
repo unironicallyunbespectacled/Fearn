@@ -12785,53 +12785,62 @@
     "subject": "swahili",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 1)",
+    "title": "Ushirikiano wa Afrika Mashariki: Umoja wa Forodha na Soko la Pamoja (EAC Integration)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki (EAC), itifaki ya Umoja wa Forodha, itifaki ya Soko la Pamoja, uhuru wa kutembea kwa watu, bidhaa, huduma na mitaji, na hati ya kusafiria ya Afrika Mashariki.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mtangamano wa Kikanda: Jumuiya ya Afrika Mashariki na Soko la Pamoja (EAC Regional Integration & Common Market):\n\nKatika kiwango cha C2, mwanafunzi anapaswa kumudu msamiati wa kidiplomasia na kiuchumi wa Jumuiya ya Afrika Mashariki (EAC):\n\n1. **Nguzo Kuu za Mtangamano wa EAC (Four Pillars of Integration)**:\n   - **Umoja wa Forodha (Customs Union)**: Hatua ya kwanza iliyoondoa ushuru wa forodha kati ya nchi wanachama na kuweka Ushuru wa Pamoja wa Nje (Common External Tariff - CET).\n   - **Soko la Pamoja (Common Market)**: Hatua inayoruhusu uhuru wa mzunguko wa nguvu kazi, huduma, bidhaa na mitaji bila vizuizi.\n   - **Umoja wa Fedha (Monetary Union)** na **Shirikisho la Kisiasa (Political Federation)**.\n\n2. **Msamiati Mahsusi wa Soko la Pamoja na Mipaka**:\n   - **Itifaki ya Soko la Pamoja (Common Market Protocol)**.\n   - **Uhuru wa Kutembea kwa Watu na Wafanyakazi (Free Movement of Persons & Labour)**.\n   - **Hati ya Kusafiria ya Afrika Mashariki (East African Passport)**.\n   - **Vituo vya Pamoja vya Ukaguzi wa Mpakani (One-Stop Border Posts - OSBP)**: Mifumo inayorahisisha upitishaji wa mizigo mipakani (k.m. Namanga, Holili, Rusumo, Malaba).\n   - **Ushuru wa Sufuri (Zero Tariff / Duty-Free Trade)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 31."
+          "target": "Itifaki ya Soko la Pamoja la Jumuiya ya Afrika Mashariki inaruhusu uhuru wa kutembea kwa wafanyakazi, bidhaa, huduma na mitaji bila vizuizi vya kiushuru.",
+          "reading": "I-ti-fa-ki ya So-ko la Pa-mo-ja la Ju-mu-i-ya ya Afri-ka Ma-sha-ri-ki ina-ru-hu-su uhu-ru wa ku-te-mbe-a kwa wa-fa-nya-ka-zi, bi-dha-a, hu-du-ma na mi-ta-ji bi-la vi-zui-zi vya kiu-shu-ru. [itifɑˈki jɑ ˈsɔkɔ lɑ pɑˈmɔʤɑ lɑ ʤumuˈijɑ jɑ ˈɑfrikɑ mɑʃɑˈriki inɑruˈhusu uˈhuru wɑ kutɛˈmbɛɑ kwɑ wɑfɑɲɑˈkɑzi biˈðɑː huˈdumɑ nɑ miˈtɑʤi ˈbilɑ vizuˈizi vjɑ kiuʃuˈru] (ee-tee-fah-KEE yah SOH-koh lah pah-MOH-jah lah joo-moo-EE-yah yah AHF-ree-kah mah-shah-REE-kee ee-nah-roo-HOO-soo oo-HOO-roo wah koo-taym-BAY-ah kwah wah-fah-nyah-KAH-zee, bee-DHAH-ah, hoo-DOO-mah nah mee-TAH-jee BEE-lah vee-zoo-EE-zee vyah kee-oo-SHOO-roo)",
+          "translation": "The East African Community Common Market Protocol provides for the unrestricted movement of workers, goods, services, and capital devoid of tariff barriers."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 31-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Utekelezaji wa Umoja wa Forodha umepunguza gharama za kufanya biashara mipakani na kuongeza ujazo wa biashara kati ya nchi wanachama.",
+          "reading": "Ute-ke-le-za-ji wa Umo-ja wa Fo-ro-dha ume-pu-ngu-za gha-ra-ma za ku-fa-nya bi-a-sha-ra mi-pa-ka-ni na kuo-nge-za uja-zo wa bi-a-sha-ra ka-ti ya nchi wa-na-cha-ma. [utɛkɛlɛˈzɑʤi wɑ uˈmɔʤɑ wɑ fɔˈrɔðɑ umɛpuˈŋɡuzɑ ɣɑˈrɑmɑ zɑ kuˈfɑɲɑ biɑˈʃɑrɑ mipɑˈkɑni nɑ kuɔˈŋɡɛzɑ uˈʤɑzɔ wɑ biɑˈʃɑrɑ ˈkɑti jɑ ɲtʃi wɑnɑˈtʃɑmɑ] (oo-tay-kay-lay-ZAH-jee wah oo-MOH-jah wah foh-ROH-thah oo-may-poon-GOO-zah gah-RAH-mah zah koo-FAH-nyah bee-ah-SHAH-rah mee-pah-KAH-nee nah koo-ohn-GAY-zah oo-JAH-zoh wah bee-ah-SHAH-rah KAH-tee yah n-CHEE wah-nah-CHAH-mah)",
+          "translation": "The execution of the Customs Union has reduced cross-border transaction expenditures and significantly expanded the volume of intra-regional commerce."
+        },
+        {
+          "target": "Hati ya kusafiria ya Afrika Mashariki inamwezesha raia wa kanda hii kusafiri, kufanya kazi na kuwekeza katika nchi yoyote mshirika kwa urahisi.",
+          "reading": "Ha-ti ya ku-sa-fi-ria ya Afri-ka Ma-sha-ri-ki ina-mwe-ze-sha ra-ia wa ka-nda hi-i ku-sa-fi-ri, ku-fa-nya ka-zi na ku-we-ke-za ka-ti-ka nchi yo-yo-te mshi-ri-ka kwa u-ra-hi-si. [ˈhɑti jɑ kusɑfiˈriɑ jɑ ˈɑfrikɑ mɑʃɑˈriki inɑmwɛzɛˈʃɑ rɑˈiɑ wɑ ˈkɑndɑ ˈhiː kusɑˈfiri kuˈfɑɲɑ ˈkɑzi nɑ kuwɛˈkɛzɑ ˈkɑtikɑ ɲtʃi jɔˈjɔtɛ mʃiˈrikɑ kwɑ urɑˈhisi] (HAH-tee yah koo-sah-fee-REE-ah yah AHF-ree-kah mah-shah-REE-kee ee-nah-mway-ZAY-shah rah-EE-ah wah KAHN-dah HEE-ee koo-sah-FEE-ree, koo-FAH-nyah KAH-zee nah koo-way-KAY-zah KAH-tee-kah n-CHEE yoh-YOH-tay m-shee-REE-kah kwah oo-rah-HEE-see)",
+          "translation": "The East African electronic passport enables citizens across this territory to travel, seek employment, and invest in any partner state with utmost ease."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "EAC na Soko la Pamoja: Umoja wa Forodha (customs), Soko la Pamoja (common market), Hati ya kusafiria ya Afrika Mashariki, Vituo vya pamoja mipakani (OSBP)!"
+      ],
+      "culturalNotes": [
+        "Jumuiya ya Afrika Mashariki (EAC) imeongezeka kutoka nchi za asili (Tanzania, Kenya, Uganda) na kujumuisha Rwanda, Burundi, Sudan Kusini, Jamhuri ya Kidemokrasia ya Kongo (DRC), na Somalia, ikiunganisha zaidi ya watu milioni 300."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Benki\":",
+          "prompt": "Nguzo ya mtangamano wa kiuchumi wa Afrika Mashariki inayoruhusu uhuru wa kutembea kwa wafanyakazi, mitaji na huduma bila vizuizi inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Akaunti»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkopo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Riba»"
+            "Soko la Pamoja la Afrika Mashariki (EAC Common Market - Correct integration protocol)",
+            "Kodi ya majengo ya manispaa",
+            "Mkataba wa upangaji wa ofisi",
+            "Leseni ya udereva wa pikipiki"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Soko la Pamoja» (Common Market) ndiyo itifaki inayotoa uhuru wa mzunguko wa nguvukazi, mitaji, bidhaa na huduma."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Benki\":",
+          "prompt": "Vituo vya kisasa vilivyopo mipakani vinavyounganisha maafisa wa uhamiaji na forodha wa nchi mbili kwenye jengo moja ili kuharakisha biashara huitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mkopo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Riba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Akaunti»"
+            "Vituo vya Pamoja vya Ukaguzi wa Mpakani (One-Stop Border Posts / OSBP - Correct border management term)",
+            "Masoko ya hisa na dhamana",
+            "Vyuo vikuu vya ualimu",
+            "Vituo vya kulelea watoto yatima"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Vituo vya Pamoja vya Mpakani» (OSBP) ndiyo miundombinu inayounganisha forodha za nchi jirani ili kupunguza muda wa kuvuka mpaka."
         }
       ]
     },
@@ -12839,17 +12848,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Benki\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya nguzo na dhana za mtangamano wa Jumuiya ya Afrika Mashariki (EAC):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Riba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Akaunti»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkopo»"
+            "Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa; Hati ya kusafiria ya Afrika Mashariki, Ushuru wa sufuri, Vituo vya pamoja mipakani.",
+            "Jumuiya ya Afrika Mashariki inakataza kabisa nchi jirani kufanya biashara.",
+            "Raia wa Afrika Mashariki hawaruhusiwi kusafiri kwenda nchi jirani.",
+            "Umoja wa Forodha unalenga kufuta mipaka yote ya kijiografia kwa kutumia vita."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Nguzo za EAC: Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa; Dhana: Hati ya EAC, Ushuru wa sufuri, OSBP."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u31-l2": {
@@ -12857,53 +12867,62 @@
     "subject": "swahili",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 2)",
+    "title": "Umoja wa Fedha, Benki Kuu ya Kikanda na Shirikisho la Kisiasa (EAMU & EALA)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki (EAMU), uanzishwaji wa sarafu moja ya kikanda, Benki Kuu ya Afrika Mashariki, Shirikisho la Kisiasa, na Bunge la Afrika Mashariki (EALA) lililopo Arusha.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Umoja wa Fedha, Bunge la EALA na Shirikisho la Kisiasa (EAC Monetary Union & Political Federation):\n\n1. **Umoja wa Fedha wa Afrika Mashariki (EAC Monetary Union - EAMU)**:\n   - **Sarafu Moja ya Kikanda (Single Regional Currency)**: Lengo la kiuchumi la kuwa na sarafu moja itakayotumika katika nchi zote wanachama.\n   - **Benki Kuu ya Afrika Mashariki (East African Central Bank)** na **Taasisi ya Fedha ya Afrika Mashariki (EAMI)**.\n   - **Vigezo vya Mshikamano wa Kiuchumi (Macroeconomic Convergence Criteria)**: Udhibiti wa mfumuko wa bei, akiba ya fedha za kigeni, na nakisi ya bajeti.\n\n2. **Mhimili wa Kutunga Sheria wa Kikanda: EALA (East African Legislative Assembly)**:\n   - **Bunge la Afrika Mashariki (EALA)**: Bunge la kikanda lenye makao makuu jijini Arusha linalotunga sheria za jumuiya nzima.\n   - **Spika wa EALA (Speaker of EALA)** na **Wabunge Wateule (Members of EALA)**.\n\n3. **Shirikisho la Kisiasa (Political Federation)**:\n   - Hatua ya kilele ya mtangamano wa EAC itakayounda serikali moja ya shirikisho, sera ya pamoja ya ulinzi na mambo ya nje, na katiba ya shirikisho.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 31."
+          "target": "Umoja wa Fedha wa Afrika Mashariki unalenga kuanzisha sarafu moja ya kikanda itakayorahisisha miamala ya kibiashara na kupunguza hatari za viwango vya ubadilishaji wa fedha.",
+          "reading": "Umo-ja wa Fe-dha wa Afri-ka Ma-sha-ri-ki una-le-nga kua-nzi-sha sa-ra-fu mo-ja ya ki-ka-nda ita-ka-yo-ra-hi-si-sha mia-ma-la ya ki-bia-sha-ra na ku-pu-ngu-za ha-ta-ri za vi-wa-ngo vya uba-di-li-sha-ji wa fe-dha. [uˈmɔʤɑ wɑ ˈfɛðɑ wɑ ˈɑfrikɑ mɑʃɑˈriki unɑˈlɛŋɡɑ kuɑˈnziʃɑ sɑˈrɑfu ˈmɔʤɑ jɑ kikɑˈndɑ itɑkɑjɔrɑhiˈsiʃɑ miɑˈmɑlɑ jɑ gibiɑˈʃɑrɑ nɑ kupuˈŋɡuzɑ hɑˈtɑri zɑ viˈwɑŋɡɔ vjɑ ubɑdiliʃɑˈʤi wɑ ˈfɛðɑ] (oo-MOH-jah wah FAY-thah wah AHF-ree-kah mah-shah-REE-kee oo-nah-LAYN-gah koo-ahn-ZEE-shah sah-RAH-foo MOH-jah yah kee-KAHN-dah ee-tah-kah-yoh-rah-hee-SEE-shah mee-ah-MAH-lah yah kee-bee-ah-SHAH-rah nah koo-poon-GOO-zah hah-TAH-ree zah vee-WAHN-goh vyah oo-bah-dee-lee-shah-JEE wah FAY-thah)",
+          "translation": "The East African Monetary Union aspires to introduce a single regional currency that will streamline cross-border commerce and curb foreign exchange volatility."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 31-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Bunge la Afrika Mashariki (EALA) lenye makao yake jijini Arusha linatunga sheria zinazofungamana na nchi zote wanachama wa jumuiya.",
+          "reading": "Bu-nge la Afri-ka Ma-sha-ri-ki (EALA) le-nye ma-ka-o ya-ke ji-ji-ni Aru-sha li-na-tu-nga she-ria zi-na-zo-fu-nga-ma-na na nchi zo-te wa-na-cha-ma wa ju-mu-i-ya. [ˈbuŋɡɛ lɑ ˈɑfrikɑ mɑʃɑˈriki (iɑlɑˈɛi) ˈlɛɲɛ mɑˈkɑɔ ˈjɑkɛ ʤiˈʤini ɑˈruʃɑ linɑˈtuŋɡɑ ʃɛˈriɑ zinɑzɔfuŋɡɑˈmɑnɑ nɑ ɲtʃi ˈzɔtɛ wɑnɑˈtʃɑmɑ wɑ ʤumuˈijɑ] (BOON-gay lah AHF-ree-kah mah-shah-REE-kee [ee-ah-lah-AY] LAY-nyay mah-KAH-oh YAH-kay jee-JEE-nee ah-ROO-shah lee-nah-TOON-gah shay-REE-ah zee-nah-zoh-foon-gah-MAH-nah nah n-CHEE ZOH-tay wah-nah-CHAH-mah wah joo-moo-EE-yah)",
+          "translation": "The East African Legislative Assembly [EALA] seated in the metropolis of Arusha passes statutory legislation binding upon all community partner states."
+        },
+        {
+          "target": "Hatua ya mwisho ya mtangamano wa Jumuiya ya Afrika Mashariki ni kuanzisha Shirikisho la Kisiasa lenye uongozi mmoja na sera ya pamoja ya mambo ya nje.",
+          "reading": "Ha-tua ya mwi-sho ya mta-nga-ma-no wa Ju-mu-i-ya ya Afri-ka Ma-sha-ri-ki ni kua-nzi-sha Shi-ri-ki-sho la Ki-sia-sa le-nye uo-ngo-zi mmo-ja na se-ra ya pa-mo-ja ya ma-mbo ya nje. [ˈhɑtuɑ jɑ ˈmwiʃɔ jɑ mtɑŋɡɑˈmɑnɔ wɑ ʤumuˈijɑ jɑ ˈɑfrikɑ mɑʃɑˈriki ni kuɑˈnziʃɑ ʃirikiˈʃɔ lɑ kisiˈɑsɑ ˈlɛɲɛ uɔˈŋɡɔzi ˈmmɔʤɑ nɑ ˈsɛrɑ jɑ pɑˈmɔʤɑ jɑ ˈmɑmbɔ jɑ ˈɲʤɛ] (HAH-too-ah yah MWEE-shoh yah m-tahn-gah-MAH-noh wah joo-moo-EE-yah yah AHF-ree-kah mah-shah-REE-kee nee koo-ahn-ZEE-shah shee-ree-KEE-shoh lah kee-see-AH-sah LAY-nyay oo-ohn-GOH-zee M-MOH-jah nah SAY-rah yah pah-MOH-jah yah MAHM-boh yah N-JAY)",
+          "translation": "The crowning zenith of East African integration is the establishment of a Political Federation with a unified presidency and common foreign and defense policies."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Umoja wa Fedha & EALA: Umoja wa Fedha (EAMU - sarafu moja), EALA (Bunge la Afrika Mashariki - Arusha), Shirikisho la Kisiasa (Political Federation)!"
+      ],
+      "culturalNotes": [
+        "Bunge la Afrika Mashariki (EALA) lilitumia lugha ya Kiswahili rasmi kwa mara ya kwanza katika mijadala na maazimio yake kufuatia azimio lililopitishwa jijini Arusha."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Akaunti\":",
+          "prompt": "Bunge la kikanda la kutunga sheria kwa ajili ya nchi zote wanachama wa Jumuiya ya Afrika Mashariki lililopo Arusha linaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkopo»",
-            "Mpangilio usio sahihi wa viambishi katika «Riba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kodi»"
+            "Bunge la Afrika Mashariki - EALA (East African Legislative Assembly - Correct regional legislative body)",
+            "Baraza la jiji la Dar es Salaam",
+            "Halmashauri ya manispaa ya Kisumu",
+            "Chama cha wakulima wa pamba"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Bunge la Afrika Mashariki» (EALA) ndio mhimili mkuu wa kutunga sheria za Jumuiya ya Afrika Mashariki."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Akaunti\":",
+          "prompt": "Hatua ya mwisho na ya kilele kabisa katika itifaki nne za mtangamano wa Jumuiya ya Afrika Mashariki inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Riba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kodi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkopo»"
+            "Shirikisho la Kisiasa (Political Federation - Correct apex integration stage)",
+            "Mkataba wa mkopo wa benki",
+            "Umoja wa wafanyabiashara wa soko",
+            "Tamasha la ngoma za asili"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Shirikisho la Kisiasa» (Political Federation) ndiyo nguzo ya nne na ya mwisho ya mtangamano wa EAC."
         }
       ]
     },
@@ -12911,17 +12930,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Akaunti\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya masuala ya Umoja wa Fedha na taasisi za kisiasa za Afrika Mashariki:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kodi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mkopo»",
-            "Mpangilio usio sahihi wa viambishi katika «Riba»"
+            "Umoja wa Fedha (EAMU), Sarafu moja ya kikanda, Benki Kuu ya Afrika Mashariki, Bunge la EALA (Arusha), na Shirikisho la Kisiasa.",
+            "EALA iko jijini New York nchini Marekani pekee.",
+            "Umoja wa Fedha unalenga kukataza matumizi ya pesa yoyote Afrika Mashariki.",
+            "Shirikisho la Kisiasa halina bunge wala sheria zozote."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Taasisi na nguzo sahihi: EAMU, Sarafu moja, Benki Kuu ya EAC, EALA (Arusha), na Shirikisho la Kisiasa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u31-l3": {
@@ -12929,53 +12949,62 @@
     "subject": "swahili",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 3)",
+    "title": "Diplomasia ya Kimataifa, Umoja wa Afrika na Kiswahili Duniani (Pan-African Diplomacy)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa diplomasia ya kimataifa, Umoja wa Afrika (AU), Umoja wa Mataifa (UN/UNESCO), Siku ya Kiswahili Duniani (7 Julai), na Mkataba wa Eneo Huru la Biashara la Afrika (AfCFTA).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Diplomasia ya Kimataifa, Umoja wa Afrika na Hadhi ya Kiswahili Duniani (Pan-African Diplomacy & Global Swahili):\n\nLugha ya Kiswahili imepata mafanikio ya kihistoria katika medani ya diplomasia ya kimataifa:\n\n1. **Umoja wa Afrika na Diplomasia ya Kikanda (African Union & Pan-Africanism)**:\n   - **Umoja wa Afrika (African Union - AU)**: Lugha ya Kiswahili ilipitishwa rasmi kama moja ya lugha rasmi za kazi za Umoja wa Afrika katika mkutano mkuu wa wakuu wa nchi jijini Addis Ababa.\n   - **SADC (Jumuiya ya Maendeleo ya Kusini mwa Afrika)**: Kiswahili kilitangazwa rasmi kama lugha ya nne rasmi ya kazi (sambamba na Kiingereza, Kifaransa, na Kireno).\n   - **Mkataba wa Eneo Huru la Biashara la Afrika (AfCFTA)**: Mpango mkuu wa kufanya bara zima kuwa soko moja huru la kibiashara.\n\n2. **Umoja wa Mataifa na Siku ya Kiswahili Duniani (UN & Global Recognition)**:\n   - **UNESCO na Umoja wa Mataifa**: Tarehe **7 Julai** ilitangazwa rasmi na UNESCO kuwa **Siku ya Lugha ya Kiswahili Duniani (World Kiswahili Language Day)**, lugha ya kwanza kabisa ya asili ya Kiafrika kupewa heshima hiyo na Umoja wa Mataifa.\n   - **Ujumbe wa Kidiplomasia (Diplomatic Mission)**, **Balozi na Mabalozi (Ambassador/s / Envoys)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 31."
+          "target": "Uamuzi wa Umoja wa Afrika na UNESCO kuteua tarehe saba Julai kuwa Siku ya Kiswahili Duniani uliweka historia ya Kiswahili kuwa lugha ya kwanza ya asili ya Kiafrika kutambuliwa rasmi na Umoja wa Mataifa.",
+          "reading": "Ua-mu-zi wa Umo-ja wa Afri-ka na UNESCO ku-te-ua ta-re-he sa-ba Ju-la-i ku-wa Si-ku ya Ki-swa-hi-li Du-nia-ni uli-we-ka hi-sto-ria ya Ki-swa-hi-li ku-wa lu-gha ya kwa-nza ya a-si-li ya Kia-fri-ka ku-ta-mbu-li-wa ra-smi na Umo-ja wa Ma-ta-i-fa. [uɑˈmuzi wɑ uˈmɔʤɑ wɑ ˈɑfrikɑ nɑ juˈnɛskɔ kutɛˈuɑ tɑˈrɛhɛ ˈsɑbɑ ʤuˈlɑi ˈkuwɑ ˈsiku jɑ kiswɑˈhili duniˈɑni uliˈwɛkɑ histɔˈriɑ jɑ kiswɑˈhili ˈkuwɑ ˈluɣɑ jɑ ˈkwɑnzɑ jɑ ɑˈsili jɑ kiɑˈfrikɑ kutɑmbuliˈwɑ ˈrɑsmi nɑ uˈmɔʤɑ wɑ mɑtɑˈifɑ] (oo-ah-MOO-zee wah oo-MOH-jah wah AHF-ree-kah nah yoo-NAYS-koh koo-tay-OO-ah tah-RAY-hay SAH-bah joo-LAH-ee KOO-wah SEE-koo yah kee-swah-HEE-lee doo-nee-AH-nee oo-lee-WAY-kah hee-stoh-REE-ah yah kee-swah-HEE-lee KOO-wah LOO-gah yah KWAHN-zah yah ah-SEE-lee yah kee-ah-FREE-kah koo-tahm-boo-LEE-wah RAH-smee nah oo-MOH-jah wah mah-tah-EE-fah)",
+          "translation": "The historic proclamation by the African Union and UNESCO enacting July 7 as World Kiswahili Language Day established Swahili as the first indigenous African language officially recognized by the United Nations."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 31-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wajumbe wa kidiplomasia walitumia Kiswahili katika mijadala rasmi ya Umoja wa Afrika jijini Addis Ababa kujadili utekelezaji wa Mkataba wa Eneo Huru la Biashara la Afrika (AfCFTA).",
+          "reading": "Wa-ju-mbe wa ki-di-plo-ma-sia wa-li-tu-mia Ki-swa-hi-li ka-ti-ka mi-ja-da-la ra-smi ya Umo-ja wa Afri-ka ji-ji-ni Addis Ababa ku-ja-di-li ute-ke-le-za-ji wa Mka-ta-ba wa Ene-o Hu-ru la Bi-a-sha-ra la Afri-ka (AfCFTA). [wɑˈʤumbɛ wɑ kidiplɔˈmɑsiɑ wɑlituˈmiɑ kiswɑˈhili ˈkɑtikɑ miʤɑˈdɑlɑ ˈrɑsmi jɑ uˈmɔʤɑ wɑ ˈɑfrikɑ ʤiˈʤini ˈɑddis ɑˈbɑbɑ kuʤɑˈdili utɛkɛlɛˈzɑʤi wɑ mkɑˈtɑbɑ wɑ ɛˈnɛɔ ˈhuru lɑ biɑˈʃɑrɑ lɑ ˈɑfrikɑ (ɑfsiɛftiˈɛi)] (wah-JOOM-bay wah kee-dee-ploh-MAH-see-ah wah-lee-TOO-mee-ah kee-swah-HEE-lee KAH-tee-kah mee-jah-DAH-lah RAH-smee yah oo-MOH-jah wah AHF-ree-kah jee-JEE-nee AHD-dees ah-BAH-bah koo-jah-DEE-lee oo-tay-kay-lay-ZAH-jee wah m-kah-TAH-bah wah ay-NAY-oh HOO-roo lah bee-ah-SHAH-rah lah AHF-ree-kah)",
+          "translation": "Diplomatic plenipotentiaries deployed Swahili during official African Union summits in Addis Ababa to deliberate the implementation of the African Continental Free Trade Area [AfCFTA]."
+        },
+        {
+          "target": "Majeshi ya kulinda amani ya Jumuiya ya Afrika Mashariki yalipelekwa katika ukanda wa maziwa makuu ili kurejesha utulivu na kusuluhisha migogoro ya kisiasa.",
+          "reading": "Ma-je-shi ya ku-li-nda a-ma-ni ya Ju-mu-i-ya ya Afri-ka Ma-sha-ri-ki ya-li-pe-le-kwa ka-ti-ka uka-nda wa ma-zi-wa ma-ku-u i-li ku-re-je-sha utu-li-vu na ku-su-lu-hi-sha mi-go-go-ro ya ki-sia-sa. [mɑˈʤɛʃi jɑ kuˈlindɑ ɑˈmɑni jɑ ʤumuˈijɑ jɑ ˈɑfrikɑ mɑʃɑˈriki jɑlipɛˈlɛkwɑ ˈkɑtikɑ uˈkɑndɑ wɑ mɑˈziwɑ mɑˈkuː ˈili kurɛˈʤɛʃɑ utuˈlivu nɑ kusuluˈhiʃɑ miɡɔˈɡɔrɔ jɑ kisiˈɑsɑ] (mah-JAY-shee yah koo-LEEN-dah ah-MAH-nee yah joo-moo-EE-yah yah AHF-ree-kah mah-shah-REE-kee yah-lee-pay-LAY-kwah KAH-tee-kah oo-KAHN-dah wah mah-ZEE-wah mah-KOO-oo EE-lee koo-ray-JAY-shah oo-too-LEE-voo nah koo-soo-loo-HEE-shah mee-goh-GOH-roh yah kee-see-AH-sah)",
+          "translation": "East African Community peacekeeping forces were deployed into the Great Lakes region to restore civil stability and mediate factional political conflicts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kiswahili na Diplomasia: 7 Julai (Siku ya Kiswahili Duniani - UNESCO), Umoja wa Afrika (AU) & SADC (lugha rasmi), AfCFTA (soko huru la Afrika)!"
+      ],
+      "culturalNotes": [
+        "Tarehe 7 Julai ina umuhimu maalum wa kihistoria kwa sababu ilikuwa siku ambayo Mwalimu Julius Nyerere alitangaza rasmi Kiswahili kuwa lugha ya ukombozi na umoja wa kitaifa mwaka 1954."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mkopo\":",
+          "prompt": "Tarehe gani ya kila mwaka iliyotangazwa rasmi na UNESCO na Umoja wa Mataifa kuwa Siku ya Lugha ya Kiswahili Duniani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Riba»",
-            "Mpangilio usio sahihi wa viambishi katika «Kodi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uwekezaji»"
+            "Tarehe 7 Julai (World Kiswahili Language Day - Correct global celebration date)",
+            "Tarehe 1 Januari",
+            "Tarehe 25 Desemba",
+            "Tarehe 1 Mei"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Tarehe «7 Julai» ndiyo Siku ya Kiswahili Duniani inayoadhimishwa rasmi kote ulimwenguni."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mkopo\":",
+          "prompt": "Jumuiya ya kikanda ya kusini mwa Afrika (SADC) ilitangaza Kiswahili kuwa lugha yake rasmi ya ngapi ya kazi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Kodi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uwekezaji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Riba»"
+            "Lugha ya nne rasmi ya kazi (Fourth official working language of SADC)",
+            "Lugha ya kwanza kabisa",
+            "Lugha ya mwisho duniani",
+            "Lugha ya siri ya majeshi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kiswahili kilitangazwa kama «lugha ya nne rasmi ya kazi» katika SADC sambamba na Kiingereza, Kifaransa, na Kireno."
         }
       ]
     },
@@ -12983,17 +13012,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mkopo\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya mafanikio ya kidiplomasia ya lugha ya Kiswahili barani Afrika na duniani:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uwekezaji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Riba»",
-            "Mpangilio usio sahihi wa viambishi katika «Kodi»"
+            "Lugha rasmi ya Umoja wa Afrika (AU), Lugha rasmi ya SADC na EAC, Siku ya Kiswahili Duniani (7 Julai - UNESCO/UN), na lugha ya biashara ya AfCFTA.",
+            "Kiswahili kinazungumzwa kwenye kisiwa kimoja kidogo tu kisicho na watu.",
+            "Umoja wa Mataifa ulikataa kutambua lugha yoyote ya Kiafrika.",
+            "Kiswahili hakitumiwi katika mikutano ya kimataifa ya kidiplomasia."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Mafanikio ya Kiswahili: Lugha rasmi ya AU, SADC, EAC; Siku ya Kiswahili Duniani (7 Julai); lugha kuu ya AfCFTA."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u31-l4": {
@@ -13001,53 +13031,62 @@
     "subject": "swahili",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 4)",
+    "title": "Utawala Bora, Uwajibikaji na Mapambano Dhidi ya Rushwa (Public Governance & Ethics)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa utawala bora (good governance), uwazi na uwajibikaji (transparency and accountability), ukaguzi wa fedha za umma (CAG - Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali), na vyombo vya kupambana na rushwa (TAKUKURU/EACC).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Utawala Bora, Uwajibikaji wa Kiserikali na Maadili ya Umma (Good Governance & Public Integrity):\n\n1. **Nguzo za Utawala Bora (Pillars of Good Governance)**:\n   - **Uwazi na Uwajibikaji (Transparency & Accountability)**: Utoaji wa taarifa sahihi kwa wananchi na kubeba dhamana ya maamuzi ya kiserikali.\n   - **Ushirikishwaji wa Umma (Public Participation)**: Wananchi kutoa maoni katika upangaji wa sera na bajeti za maendeleo.\n   - **Utawala wa Sheria (Rule of Law)**: Kila kiongozi na raia yuko chini ya sheria sawa bila upendeleo.\n\n2. **Ukaguzi wa Fedha na Udhibiti wa Rasilimali (Fiscal Oversight)**:\n   - **Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali (CAG - Controller and Auditor General)**: Afisa mkuu huru anayekagua matumizi yote ya fedha za umma na kutoa ripoti ya kila mwaka kwa Bunge.\n   - **Hati Safi, Hati Yenye Mashaka, Hati Chafu (Unqualified, Qualified & Adverse Audit Opinions)**: Viwango vya uadilifu wa matumizi ya fedha za wizara na mashirika ya umma.\n\n3. **Mapambano Dhidi ya Rushwa na Ufisadi (Anti-Corruption)**:\n   - **TAKUKURU** (Tanzania) / **EACC** (Kenya): Taasisi za kuzuia na kupambana na rushwa, ubadhirifu wa mali za umma, na utakatishaji fedha haramu.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 31."
+          "target": "Ripoti ya Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali (CAG) inabainisha mapungufu ya kifedha na kuhakikisha kuwa fedha za walipakodi zinatumika kwa uadilifu.",
+          "reading": "Ri-po-ti ya Mdhi-bi-ti na Mka-gu-zi Mku-u wa He-sa-bu za Se-ri-ka-li (CAG) ina-ba-i-ni-sha ma-pu-ngu-fu ya ki-fe-dha na ku-ha-ki-ki-sha ku-wa fe-dha za wa-li-pa-ko-di zi-na-tu-mi-ka kwa ua-di-li-fu. [ripɔˈti jɑ mðiˈbiti nɑ mkɑˈɡuzi ˈmkuː wɑ hɛˈsɑbu zɑ sɛriˈkɑli (siɛiˈʤi) inɑbɑiˈniʃɑ mɑpuˈŋɡufu jɑ kiˈfɛðɑ nɑ kuhɑkiˈkiʃɑ ˈkuwɑ ˈfɛðɑ zɑ wɑlipɑˈkɔdi zinɑtuˈmikɑ kwɑ uɑdiˈlifu] (ree-POH-tee yah m-thee-BEE-tee nah m-kah-GOO-zee M-KOO-oo wah hay-SAH-boo zah say-ree-KAH-lee [see-ay-JEE] ee-nah-bah-ee-NEE-shah mah-poon-GOO-foo yah kee-FAY-thah nah koo-hah-kee-KEE-shah KOO-wah FAY-thah zah wah-lee-pah-KOH-dee zee-nah-too-MEE-kah kwah oo-ah-dee-LEE-foo)",
+          "translation": "The statutory report of the Controller and Auditor General [CAG] pinpoints fiscal deficiencies, ensuring that taxpayer revenues are disbursed with strict integrity."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 31-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Taasisi za kuzuia na kupambana na rushwa zina wajibu wa kiuchunguzi wa kuwafikisha mahakamani maafisa wanaojihusisha na ubadhirifu wa mali za umma.",
+          "reading": "Ta-a-si-si za ku-zui-a na ku-pa-mba-na na ru-shwa zi-na wa-ji-bu wa kiu-chu-ngu-zi wa ku-wa-fi-ki-sha ma-ha-ka-ma-ni ma-a-fi-sa wa-na-o-ji-hu-si-sha na uba-dhi-ri-fu wa ma-li za u-mma. [tɑɑˈsisi zɑ kuˈzuiɑ nɑ kupɑˈmbɑnɑ nɑ ˈruʃwɑ ˈzinɑ ˈwɑʤibu wɑ kiutʃuˈŋɡuzi wɑ kuwɑfikiˈʃɑ mɑhɑkɑˈmɑni mɑɑˈfisɑ wɑnɑɔʤihuˈsiʃɑ nɑ ubɑðiˈrifu wɑ ˈmɑli zɑ ˈummɑ] (tah-ah-SEE-see zah koo-zoo-EE-ah nah koo-pahm-BAH-nah nah ROO-shwah ZEE-nah WAH-jee-boo wah kee-oo-choon-GOO-zee wah koo-wah-fee-KEE-shah mah-hah-kah-MAH-nee mah-ah-FEE-sah wah-nah-oh-jee-hoo-SEE-shah nah oo-bah-thee-REE-foo wah MAH-lee zah OOM-mah)",
+          "translation": "Anti-corruption watchdogs exercise an investigative statutory mandate to arraign public officials implicated in the embezzlement of public assets."
+        },
+        {
+          "target": "Utawala bora unajengwa juu ya misingi thabiti ya uwazi, ushirikishwaji wa wananchi katika maamuzi ya kimaendeleo, na utoaji wa huduma bora bila urasimu.",
+          "reading": "Uta-wa-la bo-ra una-je-ngwa ju-u ya mi-si-ngi tha-bi-ti ya uwa-zi, u-shi-ri-ki-shwa-ji wa wa-na-nchi ka-ti-ka ma-a-mu-zi ya ki-ma-e-nde-le-o, na uto-a-ji wa hu-du-ma bo-ra bi-la ura-si-mu. [utɑˈwɑlɑ ˈbɔrɑ unɑˈʤɛŋɡwɑ ˈʤuː jɑ miˈsiŋɡi θɑˈbiti jɑ uˈwɑzi uʃirikiˈʃwɑʤi wɑ wɑnɑˈɲtʃi ˈkɑtikɑ mɑɑˈmuzi jɑ kimɑɛndɛˈlɛɔ nɑ utɔˈɑʤi wɑ huˈdumɑ ˈbɔrɑ ˈbilɑ urɑˈsimu] (oo-tah-WAH-lah BOH-rah oo-nah-JAYN-gwah JOO-oo yah mee-SEEN-gee thah-BEE-tee yah oo-WAH-zee, oo-shee-ree-keesh-WAH-jee wah wah-nahn-CHEE KAH-tee-kah mah-ah-MOO-zee yah kee-mah-ayn-day-LAY-oh, nah oo-toh-AH-jee wah hoo-DOO-mah BOH-rah BEE-lah oo-rah-SEE-moo)",
+          "translation": "Good governance rests upon durable foundations of civic transparency, public stakeholder participation in development planning, and non-bureaucratic public service delivery."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Utawala Bora: Uwazi & Uwajibikaji (transparency & accountability), CAG (Mdhibiti & Mkaguzi Mkuu), TAKUKURU/EACC (Kupambana na rushwa)!"
+      ],
+      "culturalNotes": [
+        "Ripoti ya kila mwaka ya CAG huwasilishwa moja kwa moja kwa Rais na Bunge na huchochea mijadala mikubwa ya uwajibikaji wa kitaifa katika vyombo vya habari."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Riba\":",
+          "prompt": "Afisa mkuu huru wa serikali anayehusika na ukaguzi wa mapato na matumizi ya fedha zote za umma na kutoa ripoti rasmi kwa bunge anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kodi»",
-            "Mpangilio usio sahihi wa viambishi katika «Uwekezaji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyaraka»"
+            "Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali - CAG (Controller and Auditor General - Correct constitutional officer)",
+            "Meneja wa duka la nguo",
+            "Dereva wa basi la mkoa",
+            "Msimamizi wa bustani ya maua"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali» (CAG) ndiye afisa mkuu wa kikatiba anayekagua fedha zote za umma."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Riba\":",
+          "prompt": "Misingi mikuu ya utawala bora inayohitaji viongozi kuweka wazi mwenendo wa serikali na kubeba dhamana ya matendo yao inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Uwekezaji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyaraka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kodi»"
+            "Uwazi na Uwajibikaji (Transparency and Accountability - Core tenets of good governance)",
+            "Ucheleweshaji wa kesi",
+            "Ubadhirifu wa mali",
+            "Urasimu usio na mwisho"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Uwazi na Uwajibikaji» ndizo nguzo pacha za utawala bora wa umma."
         }
       ]
     },
@@ -13055,17 +13094,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Riba\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu utawala bora na mapambano dhidi ya rushwa:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nyaraka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kodi»",
-            "Mpangilio usio sahihi wa viambishi katika «Uwekezaji»"
+            "Utawala bora unajumuisha uwazi, uwajibikaji, ushirikishwaji wa wananchi, ukaguzi huru wa CAG, na mapambano thabiti dhidi ya rushwa kupitia vyombo kama TAKUKURU.",
+            "Utawala bora unakataza wananchi kujua bajeti ya serikali.",
+            "CAG anahusika na kuuza tiketi za mechi za soka pekee.",
+            "Rushwa inaruhusiwa kisheria katika utumishi wote wa umma."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Utawala bora unajumuisha uwazi, uwajibikaji, ushirikishwaji wa umma, ukaguzi wa CAG, na taasisi za kuzuia rushwa."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u31-l5": {
@@ -13073,53 +13113,62 @@
     "subject": "swahili",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 5)",
+    "title": "Muhtasari wa Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance & East African Integration Grand Synthesis)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 31.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 31: mtangamano wa Jumuiya ya Afrika Mashariki (Umoja wa Forodha na Soko la Pamoja), Umoja wa Fedha na Bunge la EALA jijini Arusha, diplomasia ya kimataifa na hadhi ya Kiswahili katika AU/UNESCO/AfCFTA, na utawala bora na uwajibikaji wa CAG kwa kiwango cha C2.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Utawala, Diplomasia na Mtangamano wa Afrika Mashariki (EAC Integration & Governance Master Matrix):\n\n1. **Ujumuishaji wa Taaluma Kuu za Utawala na Mtangamano wa Kiwango cha C2**:\n   - **Itifaki Kuu za EAC**: Umoja wa Forodha (CET & ushuru wa sufuri), Soko la Pamoja (uhuru wa watu, mitaji, huduma), Umoja wa Fedha (sarafu moja & benki kuu), na Shirikisho la Kisiasa.\n   - **Mhimili wa Kutunga Sheria**: Bunge la Afrika Mashariki (EALA) lililopo Arusha.\n   - **Diplomasia ya Kimataifa**: Kiswahili kama lugha rasmi ya AU na SADC, Siku ya Kiswahili Duniani (7 Julai - UNESCO/UN), na Mkataba wa AfCFTA.\n   - **Utawala Bora & Maadili**: Uwazi na uwajibikaji, ukaguzi wa fedha za umma kupitia CAG, na vyombo vya kupambana na rushwa (TAKUKURU/EACC).\n\n2. **Umahiri wa Kisera na Kidiplomasia**:\n   - Mwanafunzi anayekamilisha ngazi hii anao uwezo wa kushiriki katika mazungumzo ya ngazi ya juu ya kidiplomasia, kuchambua sera za kikanda, na kutetea maazimio ya kimataifa kwa ufasaha wa hali ya juu wa lugha ya Kiswahili.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 31."
+          "target": "Kuanzia Umoja wa Forodha na Soko la Pamoja la Afrika Mashariki, utekelezaji wa Umoja wa Fedha na Bunge la EALA jijini Arusha, utambuzi wa kimataifa wa Kiswahili katika Umoja wa Mataifa na Umoja wa Afrika, hadi taasisi madhubuti za utawala bora na uwajibikaji, kanda ya Afrika Mashariki inajenga mfano bora wa mtangamano na umoja wa bara zima.",
+          "reading": "Ku-a-nzia Umo-ja wa Fo-ro-dha na So-ko la Pa-mo-ja la Afri-ka Ma-sha-ri-ki, ute-ke-le-za-ji wa Umo-ja wa Fe-dha na Bu-nge la EALA ji-ji-ni Aru-sha, uta-mbu-zi wa ki-ma-ta-i-fa wa Ki-swa-hi-li ka-ti-ka Umo-ja wa Ma-ta-i-fa na Umo-ja wa Afri-ka, ha-di ta-a-si-si ma-dhu-bu-ti za uta-wa-la bo-ra na uwa-ji-bi-ka-ji, ka-nda ya Afri-ka Ma-sha-ri-ki ina-je-nga mfa-no bo-ra wa mta-nga-ma-no na umo-ja wa ba-ra zi-ma. [kuˈɑnziɑ uˈmɔʤɑ wɑ fɔˈrɔðɑ nɑ ˈsɔkɔ lɑ pɑˈmɔʤɑ lɑ ˈɑfrikɑ mɑʃɑˈriki utɛkɛlɛˈzɑʤi wɑ uˈmɔʤɑ wɑ ˈfɛðɑ nɑ ˈbuŋɡɛ lɑ iɑlɑˈɛi ʤiˈʤini ɑˈruʃɑ utɑˈmbuzi wɑ kimɑtɑˈifɑ wɑ kiswɑˈhili ˈkɑtikɑ uˈmɔʤɑ wɑ mɑtɑˈifɑ nɑ uˈmɔʤɑ wɑ ˈɑfrikɑ ˈhɑdi tɑɑˈsisi mɑðuˈbuti zɑ utɑˈwɑlɑ ˈbɔrɑ nɑ uwɑʤibiˈkɑʤi ˈkɑndɑ jɑ ˈɑfrikɑ mɑʃɑˈriki inɑˈʤɛŋɡɑ ˈmfɑnɔ ˈbɔrɑ wɑ mtɑŋɡɑˈmɑnɔ nɑ uˈmɔʤɑ wɑ ˈbɑrɑ ˈzimɑ] (koo-AHN-zee-ah oo-MOH-jah wah foh-ROH-thah nah SOH-koh lah pah-MOH-jah lah AHF-ree-kah mah-shah-REE-kee, oo-tay-kay-lay-ZAH-jee wah oo-MOH-jah wah FAY-thah nah BOON-gay lah ee-ah-lah-AY jee-JEE-nee ah-ROO-shah, oo-tahm-BOO-zee wah kee-mah-tah-EE-fah wah kee-swah-HEE-lee KAH-tee-kah oo-MOH-jah wah mah-tah-EE-fah nah oo-MOH-jah wah AHF-ree-kah, HAH-dee tah-ah-SEE-see mah-thoo-BOO-tee zah oo-tah-WAH-lah BOH-rah nah oo-wah-jee-bee-KAH-jee, KAHN-dah yah AHF-ree-kah mah-shah-REE-kee ee-nah-JAYN-gah m-FAH-noh BOH-rah wah m-tahn-gah-MAH-noh nah oo-MOH-jah wah BAH-rah ZEE-mah)",
+          "translation": "From the East African Customs Union and Common Market, operationalization of the Monetary Union and EALA in Arusha, international recognition of Swahili across the UN and African Union, to robust good governance and accountability mechanisms, East Africa establishes a consummate paradigm of continental integration."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 31-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Umahiri wa Kiswahili katika nyanja za utawala, diplomasia ya kimataifa, na sera za kiuchumi unampa mwanadiplomasia na mtaalamu wa sera sauti yenye mamlaka na ushawishi kote barani.",
+          "reading": "Uma-hi-ri wa Ki-swa-hi-li ka-ti-ka nya-nja za uta-wa-la, di-plo-ma-sia ya ki-ma-ta-i-fa, na se-ra za kiu-chu-mi una-mpa mwa-na-di-plo-ma-sia na mta-a-la-mu wa se-ra sa-u-ti ye-nye ma-mla-ka na u-sha-wii-shi ko-te ba-ra-ni. [umɑˈhiri wɑ kiswɑˈhili ˈkɑtikɑ ˈɲɑnʤɑ zɑ utɑˈwɑlɑ diplɔˈmɑsiɑ jɑ kimɑtɑˈifɑ nɑ ˈsɛrɑ zɑ kiutʃuˈmi unɑˈmpɑ mwɑnɑdiplɔˈmɑsiɑ nɑ mtɑɑˈlɑmu wɑ ˈsɛrɑ sɑˈuti ˈjɛɲɛ mɑˈmlɑkɑ nɑ uʃɑˈwiːʃi ˈkɔtɛ bɑˈrɑni] (oo-mah-HEE-ree wah kee-swah-HEE-lee KAH-tee-kah NYAHN-jah zah oo-tah-WAH-lah, deep-loh-MAH-see-ah yah kee-mah-tah-EE-fah, nah SAY-rah zah kee-oo-CHOO-mee oo-nahm-PAH mwah-nah-deep-loh-MAH-see-ah nah m-tah-ah-LAH-moo wah SAY-rah sah-OO-tee YAY-nyay mahm-LAH-kah nah oo-shah-WEE-shee KOH-tay bah-RAH-nee)",
+          "translation": "Mastery of Swahili in public administration, multilateral diplomacy, and macroeconomic policy affords a diplomat and policy architect an authoritative and influential voice across Africa."
+        },
+        {
+          "target": "Mtangamano wa kiuchumi na kisiasa unaoongozwa na misingi ya utawala bora na lugha moja ya pamoja ndiyo ngao kuu ya ustawi na heshima ya Afrika ulimwenguni.",
+          "reading": "Mta-nga-ma-no wa kiu-chu-mi na ki-sia-sa una-o-o-ngo-zwa na mi-si-ngi ya uta-wa-la bo-ra na lu-gha mo-ja ya pa-mo-ja ndi-yo nga-o ku-u ya usta-wi na he-shi-ma ya Afri-ka uli-mwe-ngu-ni. [mtɑŋɡɑˈmɑnɔ wɑ kiutʃuˈmi nɑ kisiˈɑsɑ unɑɔɔŋɡɔˈzwɑ nɑ miˈsiŋɡi jɑ utɑˈwɑlɑ ˈbɔrɑ nɑ ˈluɣɑ ˈmɔʤɑ jɑ pɑˈmɔʤɑ ˈndijɔ ˈŋɡɑɔ ˈkuː jɑ uˈstɑwi nɑ hɛˈʃimɑ jɑ ˈɑfrikɑ ulimwɛˈŋɡuni] (m-tahn-gah-MAH-noh wah kee-oo-CHOO-mee nah kee-see-AH-sah oo-nah-oh-ohn-GOHZ-wah nah mee-SEEN-gee yah oo-tah-WAH-lah BOH-rah nah LOO-gah MOH-jah yah pah-MOH-jah NDEE-yoh N-GAH-oh KOO-oo yah oo-STAH-wee nah hay-SHEE-mah yah AHF-ree-kah oo-leem-wayn-GOO-nee)",
+          "translation": "Economic and political integration steered by good governance principles and a shared common tongue constitutes Africa's premier shield of prosperity and international prestige."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Utawala & Ushirikiano Grand Synthesis: EAC Pillars (Forodha, Soko la Pamoja, Fedha, Shirikisho); EALA Arusha; Diplomasia ya AU/UNESCO (7 Julai); Utawala Bora & CAG!"
+      ],
+      "culturalNotes": [
+        "Lugha ya Kiswahili inatambulika kama chombo nambari moja cha kuwaunganisha Waafrika zaidi ya milioni mia tatu katika nyanja za biashara, siasa na utamaduni."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kodi\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za mtangamano wa Jumuiya ya Afrika Mashariki na diplomasia ya kikanda?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uwekezaji»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyaraka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sahihi»"
+            "Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa, Bunge la EALA, na hadhi ya kimataifa ya Kiswahili katika AU na UNESCO (Complete EAC integration & diplomatic pillars)",
+            "Kufunga mipaka yote na kukataa biashara na nchi jirani",
+            "Kupiga marufuku matumizi ya pasipoti zote za Afrika Mashariki",
+            "Kufuta mikutano yote ya kidiplomasia ya Umoja wa Afrika"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Mtangamano wa Afrika Mashariki unajumuisha Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa, EALA, na hadhi ya Kiswahili."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kodi\":",
+          "prompt": "Sentensi ipi inachanganya msamiati wa mtangamano wa kikanda, diplomasia na utawala bora kwa ufasaha wa kiwango cha C2?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Nyaraka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sahihi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uwekezaji»"
+            "Kuanzia itifaki ya Soko la Pamoja na Umoja wa Forodha wa Afrika Mashariki hadi ripoti ya uwajibikaji ya CAG na hadhi ya Kiswahili katika Umoja wa Afrika, kanda hii inathibitisha uimara wa ushirikiano wa kidiplomasia. (From the EAC Common Market and Customs Union protocol to the CAG accountability report and Swahili's AU status, this region demonstrates diplomatic integration strength - Correct C2 synthesis)",
+            "Afrika Mashariki haina taasisi yoyote ya forodha wala bunge la kikanda.",
+            "Wafanyabiashara hawaruhusiwi kusafirisha bidhaa nje ya mkoa wao.",
+            "Soko la Pamoja ni jina la duka la viatu mjini Dodoma."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inajumuisha istilahi mahsusi za C2: «itifaki ya Soko la Pamoja», «Umoja wa Forodha», «ripoti ya uwajibikaji ya CAG», «hadhi ya Kiswahili katika Umoja wa Afrika», na «ushirikiano wa kidiplomasia»."
         }
       ]
     },
@@ -13127,17 +13176,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kodi\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 31 ya Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 31.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Sahihi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uwekezaji»",
-            "Mpangilio usio sahihi wa viambishi katika «Nyaraka»"
+            "Kuanzia utekelezaji wa itifaki za Umoja wa Forodha na Soko la Pamoja, uanzishwaji wa sarafu moja chini ya Umoja wa Fedha, usimamizi wa sheria za Bunge la EALA jijini Arusha, utambuzi wa kimataifa wa Kiswahili katika Umoja wa Afrika na Umoja wa Mataifa, hadi ulinzi wa uwazi na uwajibikaji kupitia ripoti za CAG, mfumo wa utawala na diplomasia ya Afrika Mashariki unajenga mustakabali thabiti wa umoja na maendeleo ya kudumu barani Afrika. (Apex C2 synthesis of regional integration pillars, parliamentary diplomacy, UN/AU recognition, and good governance accountability.)",
+            "Nchi zote za Afrika Mashariki zilikataa kushirikiana katika jambo lolote la kiuchumi.",
+            "Hakuna chombo chochote cha serikali kinachoruhusiwa kukagua matumizi ya fedha za umma.",
+            "Lugha ya Kiswahili haijawahi kutambuliwa na chombo chochote cha kimataifa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia utekelezaji wa itifaki za Umoja wa Forodha na Soko la Pamoja, uanzishwaji wa sarafu moja chini ya Umoja wa Fedha, usimamizi wa sheria za Bunge la EALA jijini Arusha, utambuzi wa kimataifa wa Kiswahili katika Umoja wa Afrika na Umoja wa Mataifa, hadi ulinzi wa uwazi na uwajibikaji kupitia ripoti za CAG, mfumo wa utawala na diplomasia ya Afrika Mashariki unajenga mustakabali thabiti wa umoja na maendeleo ya kudumu barani Afrika.» inajumuisha maarifa yote ya Unit 31 kwa ufasaha wa hali ya juu wa C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u32-l1": {
