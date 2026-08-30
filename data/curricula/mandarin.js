@@ -5752,85 +5752,89 @@
     "subject": "mandarin",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "健康、身体部位与看病问诊 (Health & Medical Consultation) (第1讲)",
+    "title": "人体主要部位词汇与身体不适主诉（头/嗓子/肚子/腿/眼睛、疼/酸/痛/痒） (Human Anatomy & Bodily Discomfort Symptoms)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第1部分)。",
+    "objective": "系统掌握现代汉语人体核心解剖部位词汇（头、眼睛、嗓子、肚子、腰、腿、手、脚）及感觉描述词（疼、痛、酸、痒、胀、晕），掌握「主语+身体部位+感觉状态」主谓谓语句型。",
     "presentation": {
-      "explanation": "",
+      "explanation": "准确清晰地表达人体各部位的生理状态与病痛感受，是进行健康交流与医疗求助的基石：\n\n一、人体核心解剖部位词汇分类体系：\n1. 头部与五官：头 (tóu)、头发 (tóufa)、眼睛 (yǎnjing)、耳朵 (ěrduo)、鼻子 (bízi)、嘴巴 (zuǐba)、牙齿 (yáchǐ)、嗓子 / 喉咙 (sǎngzi / hóulóng)。\n2. 躯干与胸腹：脖子 / 颈部 (bózi)、肩膀 (jiānbǎng)、胸口 (xiōngkǒu)、肚子 / 腹部 (dùzi)、胃 (wèi)、腰 (yāo)、后背 (hòubèi)。\n3. 四肢与关节：胳膊 / 手臂 (gēbo)、手 (shǒu)、手指 (shǒuzhǐ)、腿 (tuǐ)、膝盖 (xīgài)、脚 (jiǎo)、脚踝 (jiǎohuái)。\n\n二、身体不适与痛感状态形容词系统：\n-「疼 (téng) / 痛 (tòng)」：表达急性或钝性疼痛（头疼、嗓子疼、胃痛、牙疼）。\n-「酸 (suān)」：表达肌肉酸困、疲惫无力（腰酸、双腿酸胀）。\n-「痒 (yǎng)」：表达皮肤或黏膜发痒（皮肤发痒、眼睛发痒）。\n-「晕 (yùn)」：表达头部眩晕（头晕目眩）。\n-「胀 (zhàng)」：表达饱胀、水肿胀痛（肚子发胀）。\n\n三、典型病痛主诉句法结构（主谓谓语句）：\n- 核心句型：主语（患者） + [身体部位 + 感觉形容词/状态谓语]：\n- 我[头很疼]。(Wǒ tóu hěn téng.)\n- 他[嗓子发炎肿痛]。(Tā sǎngzi fāyán zhǒngtòng.)\n- 爷爷[腰腿不舒服]。(Yéye yāotuǐ bù shūfu.)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '健康、身体部位与看病问诊 (Health & Medical Consultation)' in simple terms to students at the academic seminar."
+          "target": "我昨天吹了一夜空调，今天早晨起来头疼得厉害，嗓子也特别干痛。(Wǒ zuótiān chuī le yí yè kōngtiáo, jīntiān zǎochén qǐlai tóuténg de lìhai, sǎngzi yě tèbié gāntòng.)",
+          "reading": "[wɔ˨˩ t͡swɔ˧˥.tʰjɛn˥ t͡ʂʰweɪ̯˥ lɤ i˥ jɛ˥˩ kʰʊŋ˥.tʰjaʊ̯˧˥, t͡ɕin˥.tʰjɛn˥ t͡saʊ̯˨˩˦.ʈ͡ʂʰən t͡ɕʰi.laɪ̯ tʰoʊ̯˧˥.tʰəŋ˧˥ tɤ li˥˩.xaɪ̯, sɑŋ˨˩˦.t͡sɨ jɛ˨˩˦ tʰɤ˥˩.pjɛ˧˥ kan˥.tʰʊŋ˥˩] (Wǒ zuó-tiān chuī le yí yè kōng-tiáo, jīn-tiān zǎo-chén qǐ-lai tóu-téng de lì-hai, sǎng-zi yě tè-bié gān-tòng.)",
+          "translation": "I had the air conditioner blowing on me all night yesterday; when I woke up this morning, my head ached terribly, and my throat was also especially dry and painful."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "爬完香山之后，我的两条腿又酸又胀，下楼梯时感到格外吃力。(Pá wán Xiāngshān zhīhòu, wǒ de liǎng tiáo tuǐ yòu suān yòu zhàng, xià lóutī shí gǎndào géwài chīlì.)",
+          "reading": "[pʰa˧˥ wan˧˥ ɕjaŋ˥.ʂan˥ ʈ͡ʂɨ˥.xoʊ̯˥˩, wɔ˨˩ tɤ ljaŋ˨˩˦ tʰjaʊ̯˧˥ tʰweɪ̯˨˩˦ joʊ̯˥˩ swan˥ joʊ̯˥˩ ʈ͡ʂɑŋ˥˩, ɕja˥˩ loʊ̯˧˥.tʰi˥ ʂɨ˧˥ kan˨˩.taʊ̯˥˩ kɤ˧˥.waɪ̯˥˩ t͡ʂʰɨ˥.li˥˩] (Pá wán Xiāng-shān zhī-hòu, wǒ de liǎng tiáo tuǐ yòu suān yòu zhàng, xià lóu-tī shí gǎn-dào gé-wài chī-lì.)",
+          "translation": "After hiking Mount Xiangshan, both my legs are sore and swollen, feeling extraordinarily strenuous when walking downstairs."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "电脑屏幕看久了，眼睛容易干涩发红，需要定时眺望远方让视力得到放松。(Diànnǎo píngmù kàn jiǔ le, yǎnjing róngyì gānsè fāhóng, xūyào dìngshí tiàowàng yuǎnfāng ràng shìlì dédào fàngsōng.)",
+          "reading": "[tjɛn˥˩.naʊ̯˨˩˦ pʰiŋ˧˥.mu˥˩ kʰan˥˩ t͡ɕjoʊ̯˨˩˦ lɤ, jan˨˩.t͡ɕiŋ ʐʊŋ˧˥.i˥˩ kan˥.sɤ˥˩ fa˥.xʊŋ˧˥, ɕy˥.jaʊ̯˥˩ tiŋ˥˩.ʂɨ˧˥ tʰjaʊ̯˥˩.wɑŋ˥˩ jɥɛn˨˩.fɑŋ˥ ʐɑŋ˥˩ ʂɨ˥˩.li˥˩ tɤ˧˥.taʊ̯˥˩ fɑŋ˥˩.sʊŋ˥] (Diàn-nǎo píng-mù kàn jiǔ le, yǎn-jing róng-yì gān-sè fā-hóng, xū-yào dìng-shí tiào-wàng yuǎn-fāng ràng shì-lì dé-dào fàng-sōng.)",
+          "translation": "Looking at the computer screen for a long time easily causes eyes to become dry and red; it is necessary to gaze into the distance regularly to let eyesight relax."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "医生，我从昨天晚上开始肚子一阵一阵地隐隐作痛，还伴有恶心反胃的感觉。(Yīshēng, wǒ cóng zuótiān wǎnshang kāishǐ dùzi yízhèn-yízhèn de yǐnyǐn-zuòtòng, hái bànyǒu ěxin fǎnwèi de gǎnjué.)",
+          "reading": "[i˥.ʂəŋ˥, wɔ˨˩ t͡sʰʊŋ˧˥ t͡swɔ˧˥.tʰjɛn˥ wan˨˩˦.ʂɑŋ kʰaɪ̯˥.ʂɨ˨˩˦ tu˥˩.t͡sɨ i˧˥.ʈ͡ʂən˥˩ i˧˥.ʈ͡ʂən˥˩ tɤ in˨˩.in˨˩˦ t͡swɔ˥˩.tʰʊŋ˥˩, xaɪ̯˧˥ pan˥˩.joʊ̯˨˩˦ ɤ˨˩.ɕin fan˨˩.weɪ̯˥˩ tɤ kan˨˩.t͡ɕɥɛ˧˥] (Yī-shēng, wǒ cóng zuó-tiān wǎn-shang kāi-shǐ dù-zi yí-zhèn-yí-zhèn de yǐn-yǐn-zuò-tòng, hái bàn-yǒu ě-xin fǎn-wèi de gǎn-jué.)",
+          "translation": "Doctor, since last night my stomach has been aching dullly wave after wave, also accompanied by nausea and feeling sick."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "头疼脑热嗓子干，双腿酸胀腰背酸；主谓谓语诉病痛，部位在前感在端！"
+      ],
+      "culturalNotes": [
+        "在中华传统医学与日常养生观念中，身体不适常与「外感六淫（风寒暑湿燥火）」相关。例如吹空调受冷被称为「着凉受风」，嗓子干痛被称为「上火」。理解这些文化背景能更精准地把握汉语病痛表达的思维逻辑。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第1讲）的标准汉语规范？",
+          "prompt": "向医生描述「头部剧烈疼痛」，最标准的主谓谓语主诉句是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (10.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (10.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (10.1.w3)"
+            "我头疼得很厉害。(Wǒ tóuténg de hěn lìhai - S + [Body part + Adj])",
+            "我很头疼在昨天。",
+            "我疼头很多在脑子里。",
+            "我的头疼有很大。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「我头疼得很厉害」采用标准主谓谓语句型，结构严谨得体。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "爬山运动后肌肉产生的困顿疲劳感，最贴切的汉语描述词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "酸 / 酸痛 / 酸胀 (suān / suāntòng - sore and aching)",
+            "甜",
+            "苦",
+            "辣"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "肌肉劳累疲乏在汉语中用「酸/酸痛」来精确描述。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「健康、身体部位与看病问诊 (Health & Medical Consultation)」的正式语境下，最准确得体的表达是哪一项？（第10.1题）",
+          "prompt": "在句子「他吃了不干净的变质食物，现在______疼得厉害」中，应填入的消化器官词汇是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (10.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (10.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (10.1.x3)"
+            "肚子 / 胃 (dùzi / wèi - stomach/abdomen)",
+            "肩膀",
+            "耳朵",
+            "脚后跟"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "吃坏东西引起消化道病痛，对应部位为「肚子」或「胃」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u10-l1）所要求的高阶语言表达？",
+          "prompt": "下列哪一项属于身体病痛主诉的典型规范表达？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (10.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (10.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (10.1.y3)"
+            "我嗓子发炎了，吞咽口水时特别疼。(Throat is inflamed and hurts when swallowing)",
+            "我眼睛发炎在肚子里疼。",
+            "我耳朵疼在牙齿上面走。",
+            "我腿疼在脑子发酸。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「嗓子发炎，吞咽时特别疼」逻辑与部位描述完全严谨真实。"
         }
       ]
     },
@@ -5838,25 +5842,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「健康、身体部位与看病问诊 (Health & Medical Consultation)」的掌握程度，请选出表述完全正确的标准范句（测试 10-1）：",
+          "prompt": "请选出下列身体病痛描述中部位名词与感觉状态搭配完全规范精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (10.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (10.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (10.1.z3)"
+            "他感冒受凉后浑身发冷，头痛剧烈，嗓子干哑肿痛，全身关节也酸痛无力。(身体部位与病状感受全方位严密契合)",
+            "他受凉后头酸痛在眼睛，嗓子发冷在耳朵。(部位与感觉错位)",
+            "他感冒后手脚发烧在肚子里，嘴巴酸痛在后背。(描述荒诞错乱)",
+            "他受凉浑身发酸头痒，眼睛肿在脖子。(表达混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「头痛剧烈」、「嗓子肿痛」、「关节酸痛」用词专业典雅，句法流畅。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u10-l1）的核心关键词（例如「健康、身」）：",
+          "prompt": "请输入表达吞咽发声所在咽喉解剖部位的双字口语名词（拼音为 sǎngzi）：",
           "acceptedAnswers": [
-            "健康、身",
-            "健康、身体部",
-            "健康、身体部位与看病问诊"
+            "嗓子"
           ],
-          "explanation": "正确的核心关键词为「健康、身」。"
+          "explanation": "词语「嗓子」是现代汉语口语中指称咽喉发声部位的核心词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -5867,85 +5869,89 @@
     "subject": "mandarin",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "健康、身体部位与看病问诊 (Health & Medical Consultation) (第2讲)",
+    "title": "常见病症、体温测量与病因表述（感冒/发烧/咳嗽/拉肚子/过敏/打喷嚏） (Common Illnesses, Fever & Etiology)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第2部分)。",
+    "objective": "熟练掌握内科呼吸道与消化道高频病症词汇（感冒、发烧、咳嗽、拉肚子、流鼻涕、过敏），掌握体温测量度数表达及程度补语结构（咳得很厉害）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在日常生活中准确表述病症发展过程与体温变化，是求医问诊的核心技能：\n\n一、常见内科与呼吸系统病症核心词汇：\n1. 呼吸道感染：感冒 (gǎnmào)、发烧 / 发热 (fāshāo / fārè)、咳嗽 (késou)、打喷嚏 (dǎ pēnti)、流鼻涕 (liú bítì)、鼻塞 (bísè)。\n2. 消化系统急症：拉肚子 / 腹泻 (lādùzi / fùxiè)、恶心 (ěxin)、呕吐 (ǒutù)、消化不良 (xiāohuà bùliáng)。\n3. 免疫与过敏反应：过敏 (guòmǐn) ——「对......过敏」（对花粉过敏、对海鲜过敏、对抗生素过敏）。\n4. 诱发病因表达：着凉 / 受凉 (zháoliáng / shòuliáng)、吃坏了肚子 (chī huài le dùzi)、上火 (shànghuǒ)。\n\n二、体温测量与摄氏度读法铁律：\n- 测量工具与动词：量体温 (liáng tǐwēn)、体温计 (tǐwēnjì)。\n- 体温数字规范读法：\n- 37.5℃ -> 三十七度五 (sānshíqī dù wǔ) —— 低烧 (dīshāo)。\n- 38.8℃ -> 三十八度八 (sānshíbā dù bā) —— 高烧 (gāoshāo)。\n- 36.5℃ -> 三十六度五 —— 体温正常。\n\n三、程度补语结构描述病情严重性：\n-「动词 + 得 + 很厉害 / 不得了 / 通红 / 难受」：\n- 咳[得]很厉害 (Coughing severely)\n- 烧[得]满脸通红 (Burning with fever so that the whole face is flushed)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '健康、身体部位与看病问诊 (Health & Medical Consultation)' in simple terms to students at the academic seminar."
+          "target": "昨天夜里着凉感冒了，今天不但发烧到了三十八度五，还不停地咳嗽流鼻涕。(Zuótiān yèlǐ zháoliáng gǎnmào le, jīntiān búdàn fāshāo dào le sānshíbā dù wǔ, hái bùtíng de késou liú bítì.)",
+          "reading": "[t͡swɔ˧˥.tʰjɛn˥ jɛ˥˩.li ʈ͡ʂaʊ̯˧˥.ljaŋ kwan˨˩.maʊ̯˥˩ lɤ, t͡ɕin˥.tʰjɛn˥ pu˥.tan˥˩ fa˥.ʂaʊ̯˥ taʊ̯˥˩ lɤ san˥.ʂɨ˧˥.pa˥ tu˥˩ u˨˩˦, xaɪ̯˧˥ pu˥.tʰiŋ˧˥ tɤ kʰɤ˧˥.soʊ̯ ljoʊ̯˧˥ pi˧˥.tʰi˥˩] (Zuó-tiān yè-lǐ zháo-liáng gǎn-mào le, jīn-tiān bú-dàn fā-shāo dào le sān-shí-bā dù wǔ, hái bù-tíng de ké-sou liú bí-tì.)",
+          "translation": "I caught a cold from the chill last night; today, not only has my fever reached 38.5 degrees, but I am also coughing and running a nose non-stop."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "护士拿体温计帮我量了一下体温，确认没有发高烧，只是普通受凉感冒。(Hùshi ná tǐwēnjì bāng wǒ liáng le yíxià tǐwēn, quèrèn méiyǒu fā gāoshāo, zhǐshì pǔtōng shòuliáng gǎnmào.)",
+          "reading": "[xu˥˩.ʂɨ na˧˥ tʰi˨˩.wən˥.t͡ɕi˥˩ pɑŋ˥ wɔ˨˩ ljaŋ˧˥ lɤ i˥.ɕja˥˩ tʰi˨˩.wən˥, t͡ɕʰɥɛ˥˩.ʐən˥˩ meɪ̯˧˥.joʊ̯ fa˥ kaʊ̯˥.ʂaʊ̯˥, ʈ͡ʂɨ˨˩˦.ʂɨ˥˩ pʰu˨˩.tʰʊŋ˥ ʂoʊ̯˥˩.ljaŋ˧˥ kan˨˩˦.maʊ̯˥˩] (Hù-shi ná tǐ-wēn-jì bāng wǒ liáng le yí-xià tǐ-wēn, què-rèn méi-yǒu fā gāo-shāo, zhǐ-shì pǔ-tōng shòu-liáng gǎn-mào.)",
+          "translation": "The nurse took a thermometer to measure my temperature and confirmed that I did not have a high fever, just a common cold from catching a chill."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "他对海鲜严重过敏，中午不小心吃了大虾，身上起了很多发痒的红疹子。(Tā duì hǎixiān yánzhòng guòmǐn, zhōngwǔ bù xiǎoxīn chī le dàxiā, shēnshang qǐ le hěnduō fāyǎng de hóng zhěnzi.)",
+          "reading": "[tʰa˥ tweɪ̯˥˩ xaɪ̯˨˩.ɕjɛn˥ jɛn˧˥.ʈ͡ʂʊŋ˥˩ kwo˥˩.min˨˩˦, ʈ͡ʂʊŋ˥.u˨˩˦ pu˥ ɕjaʊ̯˨˩.ɕin˥ t͡ʂʰɨ˥ lɤ ta˥˩.ɕja˥, ʂən˥.ʂɑŋ t͡ɕʰi˨˩˦ lɤ xən˨˩.two˥ fa˥.jɑŋ˨˩˦ tɤ xʊŋ˧˥ ʈ͡ʂən˨˩.t͡sɨ] (Tā duì hǎi-xiān yán-zhòng guò-mǐn, zhōng-wǔ bù xiǎo-xīn chī le dà-xiā, shēn-shang qǐ le hěn-duō fā-yǎng de hóng zhěn-zi.)",
+          "translation": "He is severely allergic to seafood; he accidentally ate prawns at noon, and a lot of itchy red rashes broke out on his body."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "昨晚在夜市吃坏了肚子，一整夜都在拉肚子，今天感觉全身乏力起不来床。(Zuówǎn zài yèshì chī huài le dùzi, yì zhěng yè dōu zài lādùzi, jīntiān gǎnjué quánshēn fálì qǐ bù lái chuáng.)",
+          "reading": "[t͡swɔ˧˥.wan˨˩˦ t͡saɪ̯˥˩ jɛ˥˩.ʂɨ˥˩ t͡ʂʰɨ˥ xwaɪ̯˥˩ lɤ tu˥˩.t͡sɨ, i˥ ʈ͡ʂɤŋ˨˩˦ jɛ˥˩ toʊ̯˥ t͡saɪ̯˥˩ la˥.tu˥˩.t͡sɨ, t͡ɕin˥.tʰjɛn˥ kan˨˩.t͡ɕɥɛ˧˥ t͡ɕʰyɛn˧˥.ʂən˥ fa˧˥.li˥˩ t͡ɕʰi˨˩˦ pu laɪ̯˧˥ ʈ͡ʂʰwɑŋ˧˥] (Zuó-wǎn zài yè-shì chī huài le dù-zi, yì zhěng yè dōu zài lā-dù-zi, jīn-tiān gǎn-jué quán-shēn fá-lì qǐ bù lái chuáng.)",
+          "translation": "I ate something bad at the night market last night and had diarrhea all night long; today I feel weak all over and cannot get out of bed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "着凉感冒流鼻涕，咳嗽发烧量体温；海鲜过敏起红疹，吃坏肚子急腹泻！"
+      ],
+      "culturalNotes": [
+        "中国普遍采用摄氏温标。在就医叙述中，「三十八度五」是判断是否需要采取药物退烧的关键临界指标。对于过敏体质，向医生准确说明过敏原（如花粉、青霉素、海鲜）至关重要。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第2讲）的标准汉语规范？",
+          "prompt": "体温计显示为「38.5℃」，规范的汉语口语读法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (10.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (10.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (10.2.w3)"
+            "三十八度五 (sānshíbā dù wǔ)",
+            "三十八个点五度",
+            "三八点五分度",
+            "三十八温度五"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "38.5℃在汉语中标准口语读法为「三十八度五」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「咳嗽症状极其严重」，运用程度补语的正确句子是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "他咳得很厉害。(动词 + 得 + 程度补语)",
+            "他很厉害咳着。",
+            "他咳嗽在很厉害得。",
+            "他咳厉害很多。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「动词 + 得 + 很厉害」是表达生理病痛程度极深的标准句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「健康、身体部位与看病问诊 (Health & Medical Consultation)」的正式语境下，最准确得体的表达是哪一项？（第10.2题）",
+          "prompt": "表达对海鲜食物产生变态反应的正确介词句式是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (10.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (10.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (10.2.x3)"
+            "我对海鲜严重过敏。(A + 对 + B + 过敏)",
+            "我从海鲜严重过敏。",
+            "我向海鲜严重过敏。",
+            "我在海鲜严重过敏。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "表达过敏对象使用介词「对」（对......过敏）。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u10-l2）所要求的高阶语言表达？",
+          "prompt": "因食用不洁变质食物引发急性肠胃炎，最地道的病因表达是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (10.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (10.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (10.2.y3)"
+            "吃坏了肚子 (Ate spoiled food and upset the stomach)",
+            "吃好了肚子",
+            "吃破了肚子",
+            "吃丢了肚子"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「吃坏了肚子」是表达食物不洁引起肠胃不适的经典固定短语。"
         }
       ]
     },
@@ -5953,25 +5959,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「健康、身体部位与看病问诊 (Health & Medical Consultation)」的掌握程度，请选出表述完全正确的标准范句（测试 10-2）：",
+          "prompt": "请选出下列关于病状、体温与病因叙述完全准确地道的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (10.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (10.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (10.2.z3)"
+            "小王昨晚睡觉着凉了，今天早晨量体温发现烧到了三十九度整，咳嗽得非常厉害，需要立即就医。(病因、体温与程度补语完全严密规范)",
+            "小王昨晚着凉在量体温，烧到了三十九度分，咳得很厉害着。(虚词混用)",
+            "小王对感冒过敏了，体温量了三十九度点，肚子吃坏在咳嗽。(逻辑混乱)",
+            "小王吃坏了感冒，三十九度烧得在流鼻涕。(搭配荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「着凉了」、「烧到了三十九度整」、「咳嗽得非常厉害」语法与语用均无懈可击。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u10-l2）的核心关键词（例如「健康、身」）：",
+          "prompt": "请输入表示呼吸道受到刺激、喉咙发出剧烈咳声的核心双字动词（拼音为 késou）：",
           "acceptedAnswers": [
-            "健康、身",
-            "健康、身体部",
-            "健康、身体部位与看病问诊"
+            "咳嗽"
           ],
-          "explanation": "正确的核心关键词为「健康、身」。"
+          "explanation": "词语「咳嗽」是现代汉语中指称呼吸道咳嗽反应的核心规范词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -5982,85 +5986,89 @@
     "subject": "mandarin",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "健康、身体部位与看病问诊 (Health & Medical Consultation) (第3讲)",
+    "title": "医院挂号、就诊科室与医患问诊全流程（挂号/内科/外科/做检查/开药/打针/输液） (Hospital Registration, Departments & Clinical Consultation)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第3部分)。",
+    "objective": "系统掌握现代综合医院就医全流程词汇（挂号、门诊、内科、外科、急诊）、医患经典问诊对话及诊疗处置词汇（验血、拍片、开处方、输液）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代中国医院就诊涉及一整套专业、规范且高度流程化的交际体系：\n\n一、医院门诊科室与挂号系统：\n1. 就医入口：门诊大厅 (ménzhěn dàtīng)、自助挂号机 (zìzhù guàhàojī)、人工收费窗口、急诊科 (jízhěnkē)。\n2. 常见分诊科室：\n- 内科 (nèikē)：呼吸内科（感冒咳嗽）、消化内科（胃疼腹泻）、心血管内科。\n- 外科 (wàikē)：骨科（骨折扭伤）、普外科。\n- 专科门诊：耳鼻喉科 (ěrbíhóukē)、眼科 (yǎnkē)、口腔科 / 牙科 (kǒuqiāngkē)、皮肤科 (pífūkē)。\n\n二、医患问诊经典对话句型框架：\n1. 医生标准问询：\n-「请坐，哪儿不舒服？」(Nǎr bù shūfu?)\n-「从什么时候开始发病的？」\n-「以前有药物过敏史吗？」(Yǒu yàowù guòmǐnshǐ ma?)\n-「量过体温没有？吃了什么药吗？」\n2. 患者清晰主诉：\n-「我从前天开始发烧头疼，嗓子吞咽时很痛。」\n-「我以前对青霉素过敏。」\n\n三、医学检查与临床处置词汇体系：\n1. 辅助化验检查：化验血常规 (huàyàn xuèchángguī)、拍X光片 (pāi piānzi)、做B超 / 做CT。\n2. 治疗处置方式：开处方 / 开药 (kāi yào)、打针 (dǎzhēn)、输液 / 打点滴 (shūyè / dǎ diǎndī)、住院观察 (zhùyuàn guānchá)。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '健康、身体部位与看病问诊 (Health & Medical Consultation)' in simple terms to students at the academic seminar."
+          "target": "您好，我嗓子疼并且伴有低烧，请问应该挂呼吸内科还是耳鼻喉科？(Nínhǎo, wǒ sǎngzi téng bìngqiě bànyǒu dīshāo, qǐngwèn yīnggāi guà hūxī nèikē háishì ěrbíhóukē?)",
+          "reading": "[nin˧˥.xaʊ̯˨˩˦, wɔ˨˩ sɑŋ˨˩˦.t͡sɨ tʰəŋ˧˥ piŋ˥˩.t͡ɕʰjɛ˨˩˦ pan˥˩.joʊ̯˨˩˦ ti˥.ʂaʊ̯˥, t͡ɕʰiŋ˨˩˦.wən˥˩ iŋ˥.kaɪ̯ kwa˥˩ xu˥.ɕi˥ neɪ̯˥˩.kʰɤ˥ xaɪ̯˧˥.ʂɨ˥˩ aɚ˨˩.pi˧˥.xoʊ̯˧˥.kʰɤ˥?] (Nín-hǎo, wǒ sǎng-zi téng bìng-qiě bàn-yǒu dī-shāo, qǐng-wèn yīng-gāi guà hū-xī nèi-kē hái-shì ěr-bí-hóu-kē?)",
+          "translation": "Hello, my throat hurts and is accompanied by a low fever; should I register for Respiratory Medicine or ENT (Otorhinolaryngology)?"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "医生仔细询问了我的病史，查看了喉咙，然后建议我先去二楼化验一下血常规。(Yīshēng zǐxì xúnwèn le wǒ de bìngshǐ, chákàn le hóulóng, ránhòu jiànyì wǒ xiān qù èr lóu huàyàn yíxià xuèchángguī.)",
+          "reading": "[i˥.ʂəŋ˥ t͡sɨ˨˩.ɕi˥˩ ɕyn˧˥.wən˥˩ lɤ wɔ˨˩ tɤ piŋ˥˩.ʂɨ˨˩˦, t͡ʂʰa˧˥.kʰan˥˩ lɤ xoʊ̯˧˥.lʊŋ˧˥, ʐan˧˥.xoʊ̯˥˩ t͡ɕjɛn˥˩.i˥˩ wɔ˨˩ ɕjɛn˥ t͡ɕʰy˥˩ aɚ˥˩ loʊ̯˧˥ xwa˥˩.jɛn˥˩ i˥.ɕja˥˩ ɕɥɛ˥˩.ʈ͡ʂʰɑŋ˧˥.kweɪ̯˥] (Yī-shēng zǐ-xì xún-wèn le wǒ de bìng-shǐ, chá-kàn le hóu-lóng, rán-hòu jiàn-yì wǒ xiān qù èr lóu huà-yàn yí-xià xuè-cháng-guī.)",
+          "translation": "The doctor carefully enquired about my medical history, inspected my throat, and then suggested that I first go to the second floor to take a routine blood test."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "检查结果显示只是普通病毒性感冒，医生给我开了一些退烧药和清热解毒的冲剂。(Jiǎnchá jiéguǒ xiǎnshì zhǐshì pǔtōng bìngdúxìng gǎnmào, yīshēng gěi wǒ kāi le yìxiē tuìshāoyào hé qīngrè-jiědú de chōngjì.)",
+          "reading": "[t͡ɕjɛn˨˩˦.t͡ʂʰa˧˥ t͡ɕjɛ˧˥.kwo˨˩˦ ɕjan˨˩˦.ʂɨ˥˩ ʈ͡ʂɨ˨˩˦.ʂɨ˥˩ pʰu˨˩.tʰʊŋ˥ piŋ˥˩.tu˧˥.ɕiŋ˥˩ kan˨˩˦.maʊ̯˥˩, i˥.ʂəŋ˥ keɪ̯˨˩˦ wɔ˨˩ kʰaɪ̯˥ lɤ i˥.ɕjɛ tʰweɪ̯˥˩.ʂaʊ̯˥.jaʊ̯˥˩ xɤ˧˥ t͡ɕʰiŋ˥.ʐɤ˥˩ t͡ɕjɛ˨˩.tu˧˥ tɤ ʈ͡ʂʰʊŋ˥.t͡ɕi˥˩] (Jiǎn-chá jié-guǒ xiǎn-shì zhǐ-shì pǔ-tōng bìng-dú-xìng gǎn-mào, yī-shēng gěi wǒ kāi le yì-xiē tuì-shāo-yào hé qīng-rè-jiě-dú de chōng-jì.)",
+          "translation": "The test results showed that it was only a common viral cold; the doctor prescribed me some antipyretics and heat-clearing detoxifying granules."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "医生叮嘱我连续输液治疗两天，体温恢复正常后就可以按时口服药片巩固治疗。(Yīshēng dīngzhǔ wǒ liánxù shūyè zhìliáo liǎng tiān, tǐwēn huīfù zhèngcháng hòu jiù kěyǐ ànshí kǒufú yàopiàn gǒnggù zhìliáo.)",
+          "reading": "[i˥.ʂəŋ˥ tiŋ˥.ʈ͡ʂu˨˩˦ wɔ˨˩ ljan˧˥.ɕy˥˩ ʂu˥.jɛ˥˩ ʈ͡ʂɨ˥˩.ljaʊ̯˧˥ ljaŋ˨˩˦ tʰjɛn˥, tʰi˨˩.wən˥ xweɪ̯˥.fu˥˩ ʈ͡ʂɤŋ˥˩.ʈ͡ʂʰɑŋ˧˥ xoʊ̯˥˩ t͡ɕjoʊ̯˥˩ kʰɤ˨˩.i˨˩˦ an˥˩.ʂɨ˧˥ kʰoʊ̯˨˩.fu˧˥ jaʊ̯˥˩.pʰjan˥˩ kʊŋ˨˩˦.ku˥˩ ʈ͡ʂɨ˥˩.ljaʊ̯˧˥] (Yī-shēng dīng-zhǔ wǒ lián-xù shū-yè zhì-liáo liǎng tiān, tǐ-wēn huī-fù zhèng-cháng hòu jiù kě-yǐ àn-shí kǒu-fú yào-piàn gǒng-gù zhì-liáo.)",
+          "translation": "The doctor instructed me to receive intravenous infusion therapy for two consecutive days; after temperature returns to normal, I can take oral tablets on time to consolidate treatment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "挂号分清内外科，问诊详述病根源；验血拍片查分明，遵医开药安心眠！"
+      ],
+      "culturalNotes": [
+        "现代中国各大医院推行全流程数字化就医服务。在导诊台，医护人员会耐心指导分诊。问诊时如实告知「药物过敏史（如对青霉素、头孢过敏）」是保证用药安全的第一防线。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第3讲）的标准汉语规范？",
+          "prompt": "因咳嗽发烧前往医院就诊，在挂号处应首选挂号的科室是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (10.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (10.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (10.3.w3)"
+            "呼吸内科 / 普通内科 (Respiratory / General Internal Medicine)",
+            "骨科",
+            "眼科",
+            "口腔科"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "感冒、发烧、咳嗽属于内科（特别是呼吸内科）诊疗范围。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "医生在电脑系统中为患者开具药品清单及用法，该医疗行为称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "开药 / 开处方 (Prescribe medication)",
+            "退药",
+            "买药",
+            "藏药"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "医生开具药方称为「开药」或「开处方」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「健康、身体部位与看病问诊 (Health & Medical Consultation)」的正式语境下，最准确得体的表达是哪一项？（第10.3题）",
+          "prompt": "通过静脉滴注将药液缓慢输入人体内的治疗方式，在汉语中称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (10.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (10.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (10.3.x3)"
+            "输液 / 打点滴 (Intravenous infusion / IV drip)",
+            "吃药丸",
+            "贴膏药",
+            "量体温"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "静脉滴注通称为「输液」或口语中的「打点滴」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u10-l3）所要求的高阶语言表达？",
+          "prompt": "在医生询问「您有药物过敏史吗？」时，准确的应答格式是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (10.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (10.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (10.3.y3)"
+            "我以前对青霉素过敏。 / 我从来没有药物过敏史。(Accurate statement of allergy history)",
+            "我不喜欢吃药。",
+            "我每天都吃药。",
+            "我不去药店。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "向医生明确说明具体的过敏药物是关键的医疗安全常识。"
         }
       ]
     },
@@ -6068,25 +6076,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「健康、身体部位与看病问诊 (Health & Medical Consultation)」的掌握程度，请选出表述完全正确的标准范句（测试 10-3）：",
+          "prompt": "请选出下列医院就诊问答对话中语言规范、符合真实医疗交际流程的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (10.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (10.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (10.3.z3)"
+            "医生：请坐，哪儿不舒服？从什么时候开始发烧的？ 患者：医生，我从昨天开始发热头疼，嗓子也肿了，量体温是三十八度六。(问诊与主诉完全严密地道)",
+            "医生：你来干什么？ 患者：我给你买开药在医院。(粗鲁且语义不通)",
+            "医生：挂号了没有谁？ 患者：我打点滴在挂号眼科。(科室与动作颠倒错乱)",
+            "医生：哪儿药不好？ 患者：我拍片子在头疼药。(语法结构完全解体)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "医生规范询问主诉与起病时间，患者清晰陈述发病经过与体温数值，医患交流堪称典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u10-l3）的核心关键词（例如「健康、身」）：",
+          "prompt": "请输入前往医院就医时在窗口或自助机上登记个人信息并选择科室的核心动作双字词语（拼音为 guàhào）：",
           "acceptedAnswers": [
-            "健康、身",
-            "健康、身体部",
-            "健康、身体部位与看病问诊"
+            "挂号"
           ],
-          "explanation": "正确的核心关键词为「健康、身」。"
+          "explanation": "词语「挂号」是前往医院就诊的第一步核心医疗程序词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -6097,85 +6103,89 @@
     "subject": "mandarin",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "健康、身体部位与看病问诊 (Health & Medical Consultation) (第4讲)",
+    "title": "药剂类别、服药医嘱与健康调养（中药/西药、片/粒/包、饭前/饭后、一天三次） (Medication Dosage, Usage & Health Advice)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第4部分)。",
+    "objective": "熟练掌握药品形态量词（片/粒/包/瓶/支）、服药医嘱句型（一天三次、一次两片、饭前/饭后服用）、中西药类别及健康关照慰问表达（祝早日康复）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "严格遵从医嘱与药品说明书规范服药，是确保疾病痊愈的核心环节：\n\n一、药品分类与专属形态量词：\n1. 药物大类：中药 / 中成药 (zhōngyào / Chinese medicine)、西药 (xīyào / Western medicine)、消炎药 (xiāoyányào / anti-inflammatory)、退烧药 (tuìshāoyào / antipyretic)、止咳糖浆 (zhǐké tángjiāng)。\n2. 专属形态量词搭配：\n-「片 (piàn)」：用于扁平药片（一次吃两片药）。\n-「粒 / 颗 / 胶囊 (lì / kē / jiāonáng)」：用于圆形药丸或胶囊（每次服用三粒胶囊）。\n-「包 / 袋 (bāo / dài)」：用于冲剂或散剂（一次一包冲剂）。\n-「瓶 (píng) / 支 (zhī)」：用于糖浆液体或注射制剂。\n\n二、服药时间与剂量频次标准句式：\n1. 频次与剂量格式：\n-「一天 + [数字] + 次，一次 + [数字] + [量词]」：\n- 一天三次，一次两片。(Three times a day, two tablets each time)\n- 一日两次，一次一袋。\n2. 时间状语的严格前置规则（必须放在动词「吃/服用」之前）：\n-「饭前 (fàn qián) 服用」：饭前半小时服用。\n-「饭后 (fàn hòu) 服用」：饭后用温开水送服。\n-「睡前 (shuì qián) 服用」：睡前半小时服下一粒。\n\n三、饮食禁忌与康复关照慰问：\n- 饮食禁忌医嘱：「服药期间[忌辛辣、生冷、油腻食物]」，「禁止饮酒」。\n- 经典健康关怀语：「多喝温开水，注意休息，别熬夜。」\n- 探病真诚祝福语：「祝你早日康复！(Zhù nǐ zǎorì kāngfù!)」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '健康、身体部位与看病问诊 (Health & Medical Consultation)' in simple terms to students at the academic seminar."
+          "target": "药剂师交代这盒消炎药一天吃三次，一次吃两片，必须在饭后用温开水送服。(Yàojìshī jiāodài zhè hé xiāoyányào yì tiān chī sān cì, yí cì chī liǎng piàn, bìxū zài fàn hòu yòng wēn kāishuǐ sòngfú.)",
+          "reading": "[jaʊ̯˥˩.t͡ɕi˥˩.ʂɨ t͡ɕjaʊ̯˥.taɪ̯˥ ʈ͡ʂɤ˥˩ xɤ˧˥ ɕjaʊ̯˥.jɛn˧˥.jaʊ̯˥˩ i˥ tʰjɛn˥ t͡ʂʰɨ˥ san˥ t͡sʰɨ˥˩, i˧˥ t͡sʰɨ˥˩ t͡ʂʰɨ˥ ljaŋ˨˩˦ pʰjan˥˩, pi˥˩.ɕy˥ t͡saɪ̯˥˩ fan˥˩ xoʊ̯˥˩ jʊŋ˥˩ wən˥ kʰaɪ̯˥.ʂweɪ̯˨˩˦ sʊŋ˥˩.fu˧˥] (Yào-jì-shī jiāo-dài zhè hé xiāo-yán-yào yì tiān chī sān cì, yí cì chī liǎng piàn, bì-xū zài fàn hòu yòng wēn kāi-shuǐ sòng-fú.)",
+          "translation": "The pharmacist instructed that this box of anti-inflammatory medicine should be taken three times a day, two tablets each time, and must be taken after meals with warm boiled water."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这种止咳糖浆一天服用两次，一次口服十毫升，服药期间忌吃辛辣油腻食物。(Zhè zhǒng zhǐké tángjiāng yì tiān fúyòng liǎng cì, yí cì kǒufú shí háoshēng, fúyào qījiān jì chī xīnlà yóunì shíwù.)",
+          "reading": "[ʈ͡ʂɤ˥˩ ʈ͡ʂʊŋ˨˩˦ ʈ͡ʂɨ˨˩˦.kʰɤ˧˥ tʰɑŋ˧˥.t͡ɕjaŋ˥ i˥ tʰjɛn˥ fu˧˥.jʊŋ˥˩ ljaŋ˨˩˦ t͡sʰɨ˥˩, i˧˥ t͡sʰɨ˥˩ kʰoʊ̯˨˩.fu˧˥ ʂɨ˧˥ xaʊ̯˧˥.ʂəŋ˥, fu˧˥.jaʊ̯˥˩ t͡ɕʰi˥.t͡ɕjɛn˥ t͡ɕi˥˩ t͡ʂʰɨ˥ ɕin˥.la˥˩ joʊ̯˧˥.ni˥˩ ʂɨ˧˥.u˥˩] (Zhè zhǒng zhǐ-ké táng-jiāng yì tiān fú-yòng liǎng cì, yí cì kǒu-fú shí háo-shēng, fú-yào qī-jiān jì chī xīn-là yóu-nì shí-wù.)",
+          "translation": "This cough syrup is to be taken twice a day, ten milliliters orally each time; avoid spicy and greasy food during the medication period."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "医生说生病期间一定要多喝热水、清淡饮食，保证充足的睡眠才能快速恢复免疫力。(Yīshēng shuō shēngbìng qījiān yídìng yào duō hē rèshuǐ, qīngdàn yǐnshí, bǎozhèng chōngzú de shuìmián cái néng kuàisù huīfù miǎnyìlì.)",
+          "reading": "[i˥.ʂəŋ˥ ʂwɔ˥ ʂəŋ˥.piŋ˥˩ t͡ɕʰi˥.t͡ɕjɛn˥ i˧˥.tiŋ˥˩ jaʊ̯˥˩ twɔ˥ xɤ˥ ʐɤ˥˩.ʂweɪ̯˨˩˦, t͡ɕʰiŋ˥.tan˥˩ in˨˩˦.ʂɨ˧˥, paʊ̯˨˩.ʈ͡ʂɤŋ˥˩ t͡ʂʰʊŋ˥.t͡sy˧˥ tɤ ʂweɪ̯˥˩.mjɛn˧˥ t͡sʰaɪ̯˧˥ nɤŋ˧˥ kʰwaɪ̯˥˩.su˥˩ xweɪ̯˥.fu˥˩ mjɛn˨˩.i˥˩.li˥˩] (Yī-shēng shuō shēng-bìng qī-jiān yí-dìng yào duō hē rè-shuǐ, qīng-dàn yǐn-shí, bǎo-zhèng chōng-zú de shuì-mián cái néng kuài-sù huī-fù miǎn-yì-lì.)",
+          "translation": "The doctor said that during the illness one must drink plenty of hot water, maintain a light diet, and ensure sufficient sleep in order to quickly restore immunity."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "听到外国留学生同学生病休养的消息，大家一起前去探望并真诚地祝愿他早日康复。(Tīngdào wàiguó liúxuéshēng tóngxué shēngbìng xiūyǎng de xiāoxi, dàjiā yìqǐ qiánqù tànwàng bìng zhēnchéng de zhùyuàn tā zǎorì kāngfù.)",
+          "reading": "[tʰiŋ˥.taʊ̯˥˩ waɪ̯˥˩.kwɔ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ tʰʊŋ˧˥.ɕɥɛ˧˥ ʂəŋ˥.piŋ˥˩ ɕjoʊ̯˥.jɑŋ˨˩˦ tɤ ɕjaʊ̯˥.ɕi, ta˥˩.t͡ɕja˥ i˥˩.t͡ɕʰi˨˩˦ t͡ɕʰjɛn˧˥.t͡ɕʰy˥˩ tʰan˥˩.wɑŋ˥˩ piŋ˥˩ ʈ͡ʂən˥.ʈ͡ʂʰɤŋ˧˥ tɤ ʈ͡ʂu˥˩.jɥɛn˥˩ tʰa˥ t͡saʊ̯˨˩.ʐɨ˥˩ kʰɑŋ˥.fu˥] (Tīng-dào wài-guó liú-xué-shēng tóng-xué shēng-bìng xiū-yǎng de xiāo-xi, dà-jiā yì-qǐ qián-qù tàn-wàng bìng zhēn-chéng de zhù-yuàn tā zǎo-rì kāng-fù.)",
+          "translation": "Hearing the news that our international classmate was sick and resting, everyone went together to visit him and sincerely wished him a speedy recovery."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "一天三次片粒分，饭前饭后遵医嘱；忌食辛辣多饮水，早日康复神气足！"
+      ],
+      "culturalNotes": [
+        "中西医融合是中国医疗的显著特征。在服药期间，药袋上常醒目标注「忌辛辣、生冷、油腻」，这源于中医对脾胃生克的调养智慧。向病患赠送鲜花水果并道一句「祝您早日康复」，是最具温情的传统礼节。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第4讲）的标准汉语规范？",
+          "prompt": "药品说明书上标注「每日3次，每次2片，饭后服用」，口语解释完全正确的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (10.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (10.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (10.4.w3)"
+            "一天吃三次，一次吃两片，吃完饭之后服用。(Accurate interpretation of medication instructions)",
+            "三天吃一次，一次吃两片饭前吃。",
+            "一天吃两片，一次吃三次。",
+            "每三个小时吃两片饭前。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「每日3次，每次2片，饭后服用」即一天三次、一次两片、饭后温水服用。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "向生病住院的朋友表达最诚挚得体的康复祝福，最经典的中文用语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "祝你早日康复！(Zhù nǐ zǎorì kāngfù! - Wish you a speedy recovery)",
+            "祝你天天吃药！",
+            "祝你多住几天院！",
+            "祝你早日生病！"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「祝你早日康复」是探望慰问病患最得体标准的祝福用语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「健康、身体部位与看病问诊 (Health & Medical Consultation)」的正式语境下，最准确得体的表达是哪一项？（第10.4题）",
+          "prompt": "在句子「这盒胶囊请在睡前半小时口服两______」中，最适合胶囊药品的量词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (10.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (10.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (10.4.x3)"
+            "粒 / 颗 (lì / kē - for capsules/pills)",
+            "条",
+            "本",
+            "张"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "胶囊、药丸专属量词为「粒」或「颗」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u10-l4）所要求的高阶语言表达？",
+          "prompt": "下列哪一项符合服药期间的健康医嘱与禁忌规范？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (10.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (10.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (10.4.y3)"
+            "服药期间应多喝温水，保证充足休息，忌吃辛辣油腻食物。(Standard medical care instructions)",
+            "生病期间应熬夜玩游戏并不喝水。",
+            "服药期间可以大量饮酒吃生冷冰块。",
+            "发烧时应剧烈跑步运动并不睡觉。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "多饮水、重休息、忌辛辣是生病服药期间最标准的健康调养规范。"
         }
       ]
     },
@@ -6183,25 +6193,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「健康、身体部位与看病问诊 (Health & Medical Consultation)」的掌握程度，请选出表述完全正确的标准范句（测试 10-4）：",
+          "prompt": "请选出下列药剂医嘱与康复关怀表述完全准确得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (10.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (10.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (10.4.z3)"
+            "这种感冒冲剂一天喝两次，一次冲服一袋，服药期间注意多喝温开水并清淡饮食，祝你早日康复！(量词、频次用法、医嘱与关怀无缝融合)",
+            "这种感冒药一天喝两片袋，饭后冲一瓶，祝你早日生病。(量词与祝福荒谬错乱)",
+            "这种药冲剂一天服二次两粒，忌喝热水多吃辛辣。(医嘱自相矛盾)",
+            "这种药一天服三次在冲服，祝你早日开药。(表达不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "冲剂配「袋」、频次清晰、关怀温馨，语法与语用堪称典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u10-l4）的核心关键词（例如「健康、身」）：",
+          "prompt": "请输入探望病患时表达身体恢复健康的核心双字动词词语（例如「早日」______，拼音为 kāngfù）：",
           "acceptedAnswers": [
-            "健康、身",
-            "健康、身体部",
-            "健康、身体部位与看病问诊"
+            "康复"
           ],
-          "explanation": "正确的核心关键词为「健康、身」。"
+          "explanation": "词语「康复」是现代汉语中指称身体痊愈恢复健康的核心书面与口语词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -6212,85 +6220,89 @@
     "subject": "mandarin",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "健康、身体部位与看病问诊 (Health & Medical Consultation) (第5讲)",
+    "title": "看病就医与健康康复全流程综合叙事篇章 (Comprehensive Medical & Recovery Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人体解剖部位名称、病痛主诉（头疼/发烧/咳嗽）、医患问诊及服药指导。 (第5部分)。",
+    "objective": "融会贯通身体部位词、病痛主诉、医患问诊、辅助检查、处方服药与康复养生全流程交际，能够独立撰写逻辑严密、细节真实的就医康复叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将身体解剖、病症主诉、医院问诊、化验检查、服药医嘱与康复体验融为一体，是掌握高阶实用生活汉语语篇写作的关键考验：\n\n一、就医与康复全流程语篇脉络：\n1. 发病与主诉：起病原因（着凉/受风/吃坏东西） -> 身体部位病痛（头疼发热/嗓子肿痛/四肢酸软）。\n2. 前往就诊：抵达医院门诊大厅 -> 自助机挂号（呼吸内科/消化内科） -> 候诊排队。\n3. 医患问答与检查：医生体检视诊 -> 询问病史与过敏史 -> 安排化验检查（血常规/拍片）。\n4. 诊断与处置：确诊病情 -> 医生开具处方（中西药/消炎退烧） -> 取药并交代医嘱（一天三次/饭后温水）。\n5. 休养与康复：按时服药休息 -> 体温恢复正常 -> 感悟健康作息与体育锻炼的重要性。\n\n二、全景式就医叙事范文（留学北京生病就医纪实）：\n- 前天夜里北京气温骤降，我睡觉时不小心着凉感冒了。第二天早晨醒来，我感到浑身发冷无力，头疼得厉害，嗓子也干痛难忍，用体温计一量竟然发烧到了三十八度六。留学生朋友见状，立即陪我前往附近的综合医院看病。我们在自助机上挂了呼吸内科号。内科医生仔细听了我的心肺，查看了咽喉，并询问了我是否有药物过敏史。随后，医生让我去化验了血常规。检查结果显示是普通的病毒性上呼吸道感染。医生为我开了一盒退烧药和一瓶清热止咳糖浆，叮嘱我一天服用三次，饭后用温开水送服，并且嘱咐我多喝温水、饮食清淡、保证睡眠。按时服药休养了两天后，我的体温终于完全恢复了正常，咽喉也不疼了。这次生病让我深切体会到健康的重要性，今后一定要坚持锻炼身体！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '健康、身体部位与看病问诊 (Health & Medical Consultation)' in simple terms to students at the academic seminar."
+          "target": "前天晚上我突然着凉发起了高烧，浑身酸痛无力，第二天一早就让留学生同学陪我去附近的大学校医院看急诊。(Qiántiān wǎnshang wǒ tūrán zháoliáng fā qǐ le gāoshāo, húnshēn suāntòng wúlì, dì-èr tiān yì zǎo jiù ràng liúxuéshēng tóngxué péi wǒ qù fùjìn de dàxué xiàoyīyuàn kàn jízhěn.)",
+          "reading": "[t͡ɕʰjɛn˧˥.tʰjɛn˥ wan˨˩˦.ʂɑŋ wɔ˨˩ tʰu˥.ʐan˧˥ ʈ͡ʂaʊ̯˧˥.ljaŋ fa˥ t͡ɕʰi˨˩˦ lɤ kaʊ̯˥.ʂaʊ̯˥, xwan˧˥.ʂən˥ swan˥.tʰʊŋ˥˩ u˨˩.li˥˩, ti˥˩ aɚ˥˩ tʰjɛn˥ i˥ t͡saʊ̯˨˩˦ t͡ɕjoʊ̯˥˩ ʐɑŋ˥˩ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ tʰʊŋ˧˥.ɕɥɛ˧˥ pʰeɪ̯˧˥ wɔ˨˩ t͡ɕʰy˥˩ fu˥˩.t͡ɕin˥˩ tɤ ta˥˩.ɕɥɛ˧˥ ɕjaʊ̯˥˩.i˥.jɥɛn˧˥ kʰan˥˩ t͡ɕi˧˥.ʈ͡ʂən˨˩˦] (Qián-tiān wǎn-shang wǒ tū-rán zháo-liáng fā qǐ le gāo-shāo, hún-shēn suān-tòng wú-lì, dì-èr tiān yì zǎo jiù ràng liú-xué-shēng tóng-xué péi wǒ qù fù-jìn de dà-xué xiào-yī-yuàn kàn jí-zhěn.)",
+          "translation": "The night before last I suddenly caught a chill and developed a high fever, aching and powerless all over; early the next morning I had my international classmate accompany me to the nearby university hospital to see an emergency doctor."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "到了医院门诊大厅，我们在自助机上挂了内科号，医生量了体温、听了心肺并安排我化验了血常规。(Dào le yīyuàn ménzhěn dàtīng, wǒmen zài zìzhùjī shang guà le nèikē hào, yīshēng liáng le tǐwēn, tīng le xīnfèi bìng ānpái wǒ huàyàn le xuèchángguī.)",
+          "reading": "[taʊ̯˥˩ lɤ i˥.jɥɛn˧˥ mən˧˥.ʈ͡ʂən˨˩˦ ta˥˩.tʰiŋ˥, wɔ˨˩.mən t͡saɪ̯˥˩ t͡sɨ˥˩.ʈ͡ʂu˥˩.t͡ɕi˥ ʂɑŋ kwa˥˩ lɤ neɪ̯˥˩.kʰɤ˥ xaʊ̯˥˩, i˥.ʂəŋ˥ ljaŋ˧˥ lɤ tʰi˨˩.wən˥, tʰiŋ˥ lɤ ɕin˥.feɪ̯˥˩ piŋ˥˩ an˥.pʰaɪ̯˥ wɔ˨˩ xwa˥˩.jɛn˥˩ lɤ ɕɥɛ˥˩.ʈ͡ʂʰɑŋ˧˥.kweɪ̯˥] (Dào le yī-yuàn mén-zhěn dà-tīng, wǒ-men zài zì-zhù-jī shang guà le nèi-kē hào, yī-shēng liáng le tǐ-wēn, tīng le xīn-fèi bìng ān-pái wǒ huà-yàn le xuè-cháng-guī.)",
+          "translation": "Arriving at the hospital outpatient hall, we registered for internal medicine on the self-service machine; the doctor measured my temperature, listened to my heart and lungs, and arranged for me to take a routine blood test."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "确诊为急性扁桃体炎后，医生给我开了抗生素消炎药和润喉糖浆，叮嘱我一天服用三次，饭后服用。(Quèzhěn wéi jíxìng biǎntǎotǐyán hòu, yīshēng gěi wǒ kāi le kàngshēngsù xiāoyányào hé rùnhóu tángjiāng, dīngzhǔ wǒ yì tiān fúyòng sān cì, fàn hòu fúyòng.)",
+          "reading": "[t͡ɕʰɥɛ˥˩.ʈ͡ʂən˧˥ weɪ̯˧˥ t͡ɕi˧˥.ɕiŋ˥˩ pjɛn˨˩.tʰaʊ̯˨˩.tʰi˨˩.jɛn˧˥ xoʊ̯˥˩, i˥.ʂəŋ˥ keɪ̯˨˩˦ wɔ˨˩ kʰaɪ̯˥ lɤ kʰɑŋ˥˩.ʂəŋ˥.su˥˩ ɕjaʊ̯˥.jɛn˧˥.jaʊ̯˥˩ xɤ˧˥ ʐwən˥˩.xoʊ̯˧˥ tʰɑŋ˧˥.t͡ɕjaŋ˥, tiŋ˥.ʈ͡ʂu˨˩˦ wɔ˨˩ i˥ tʰjɛn˥ fu˧˥.jʊŋ˥˩ san˥ t͡sʰɨ˥˩, fan˥˩ xoʊ̯˥˩ fu˧˥.jʊŋ˥˩] (Què-zhěn wéi jí-xìng biǎn-tǎo-tǐ-yán hòu, yī-shēng gěi wǒ kāi le kàng-shēng-sù xiāo-yán-yào hé rùn-hóu táng-jiāng, dīng-zhǔ wǒ yì tiān fú-yòng sān cì, fàn hòu fú-yòng.)",
+          "translation": "After diagnosing acute tonsillitis, the doctor prescribed me antibiotic anti-inflammatory medicine and soothing cough syrup, instructing me to take them three times a day after meals."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "按时服药休息了两天后，我的体温终于完全恢复了正常，嗓子也不疼了，这次生病让我更加体会到平时坚持体育锻炼和健康规律作息的重要性。(Ànshí fúyào xiūxi le liǎng tiān hòu, wǒ de tǐwēn zhōngyú wánquán huīfù le zhèngcháng, sǎngzi yě bù téng le, zhè cì shēngbìng ràng wǒ gèngjiā tǐhuì dào píngshí jiānchí tǐyù duànliàn hé jiànkāng guīl规律 zuòxī de zhòngyàoxìng.)",
+          "reading": "[an˥˩.ʂɨ˧˥ fu˧˥.jaʊ̯˥˩ ɕjoʊ̯˥.ɕi lɤ ljaŋ˨˩˦ tʰjɛn˥ xoʊ̯˥˩, wɔ˨˩ tɤ tʰi˨˩.wən˥ ʈ͡ʂʊŋ˥.y˧˥ wan˧˥.t͡ɕʰyɛn˧˥ xweɪ̯˥.fu˥˩ lɤ ʈ͡ʂɤŋ˥˩.ʈ͡ʂʰɑŋ˧˥, sɑŋ˨˩˦.t͡sɨ jɛ˨˩˦ pu˥ tʰəŋ˧˥ lɤ, ʈ͡ʂɤ˥˩ t͡sʰɨ˥˩ ʂəŋ˥.piŋ˥˩ ʐɑŋ˥˩ wɔ˨˩ kɤŋ˥˩.t͡ɕja˥ tʰi˨˩.xweɪ̯˥˩ taʊ̯˥˩ pʰiŋ˧˥.ʂɨ˧˥ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ tʰi˨˩.y˥˩ twan˥˩.ljɛn˥˩ xɤ˧˥ t͡ɕjɛn˥˩.kʰɑŋ˥ kweɪ̯˥.ly˥˩ t͡swɔ˥˩.ɕi˥ tɤ ʈ͡ʂʊŋ˥˩.jaʊ̯˥˩.ɕiŋ˥˩] (Àn-shí fú-yào xiū-xi le liǎng tiān hòu, wǒ de tǐ-wēn zhōng-yú wán-quán huī-fù le zhèng-cháng, sǎng-zi yě bù téng le, zhè cì shēng-bìng ràng wǒ gèng-jiā tǐ-huì dào píng-shí jiān-chí tǐ-yù duàn-liàn hé jiàn-kāng guī-lǜ zuò-xī de zhòng-yào-xìng.)",
+          "translation": "After taking medication on time and resting for two days, my temperature finally returned completely to normal and my throat no longer hurt; this illness made me realize even more the importance of regular physical exercise and healthy daily routines."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "突发病痛上医院，挂号诊疗开药单；按时服药多休养，恢复健康身体健！"
+      ],
+      "culturalNotes": [
+        "掌握看病就医综合叙事，能让留学生在真实中国生活语境中自如应对各种突发健康挑战。这不仅提升了语言综合应用能力，更筑牢了海外生活自主独立的健康防线。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「健康、身体部位与看病问诊 (Health & Medical Consultation)」（第5讲）的标准汉语规范？",
+          "prompt": "在就医叙事语篇中，正确组织就医全流程的逻辑链条是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「健康、身体部位与看病问诊 (Health & Medical Consultation)」的核心语法法则与应用范例 (10.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (10.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (10.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (10.5.w3)"
+            "起病不适 -> 挂号就诊 -> 问诊化验 -> 开药取药 -> 服药康复 (Complete medical clinical sequence)",
+            "先取药吃药 -> 再去医院挂号 -> 医生问诊检查",
+            "化验血常规 -> 自助机挂号 -> 康复祝愿",
+            "开药服药 -> 突发不适 -> 挂号问诊"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事语篇严格遵循起病、挂号、问诊、检验、开药、休养康复的真实时序。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中医生叮嘱「一天服用三次，饭后服用，服药期间多喝温水」，其核心意图是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "指导患者规范服药并配合科学休养以促进康复 (Guiding proper medication and recovery)",
+            "要求患者不要吃药",
+            "要求患者立刻住院手术",
+            "要求患者每天剧烈跑步"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "该医嘱旨在规范患者用药频次与调养方式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「健康、身体部位与看病问诊 (Health & Medical Consultation)」的正式语境下，最准确得体的表达是哪一项？（第10.5题）",
+          "prompt": "请选出下列就医叙事语篇中词汇专业、句式连贯、逻辑天衣无缝的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (10.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (10.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (10.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (10.5.x3)"
+            "我昨天感冒发烧到了三十八度八，同学陪我去医院挂了内科号，医生化验血常规后确诊为上呼吸道感染，给我开了一些消炎药并叮嘱我饭后按时服用。(就医全流程词汇与句式完全典范严谨)",
+            "我昨天感冒发烧在挂号眼科，医生量体温开了一顶小药片，在饭前输液了。(科室与量词严重错乱)",
+            "我昨天肚子疼去挂外科，医生给我开拍片子发烧三十九度吃中药。(逻辑杂糅语病频出)",
+            "我昨天发烧在打点滴挂号，血常规吃药后医生祝我康复。(语序完全破碎)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「发烧到了三十八度八」、「挂了内科号」、「化验血常规」、「开消炎药叮嘱饭后服用」，语法体系完美无缺。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u10-l5）所要求的高阶语言表达？",
+          "prompt": "在叙事篇章末尾表达「恢复健康后对科学作息的领悟」，最典范得体的词汇是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (10.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (10.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (10.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (10.5.y3)"
+            "坚持体育锻炼与规律作息 (Adhering to physical exercise and regular daily routine)",
+            "天天熬夜不睡觉",
+            "每天吃生冷油腻食品",
+            "不喝温水只吹冷风"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「坚持体育锻炼与规律作息」是总结健康生活方式的标准典范表达。"
         }
       ]
     },
@@ -6298,25 +6310,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「健康、身体部位与看病问诊 (Health & Medical Consultation)」的掌握程度，请选出表述完全正确的标准范句（测试 10-5）：",
+          "prompt": "请选出下列医疗与健康叙事篇章中语言最典范、结构最严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (10.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (10.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (10.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (10.5.z3)"
+            "经过两天的按时服药与充分休养，我的体温完全恢复了正常，嗓子也不再肿痛。这次看病经历让我深刻认识到，保持健康规律的作息和适度的体育锻炼是预防疾病的关键。(全篇结构完整，语篇升华自然深刻)",
+            "经过两天吃药，我的体温打折正常了，嗓子在挂号不疼，这次生病很好玩。(词汇乱用语气轻浮)",
+            "按时服药在医院里，体温三十九度正常着，嗓子有点儿开药。(语病严重结构混乱)",
+            "经过两天打点滴，体温量了不正常，医生说不用锻炼。(逻辑不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在疗效叙述（体温恢复正常/嗓子不再肿痛）以及健康思想升华上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u10-l5）的核心关键词（例如「健康、身」）：",
+          "prompt": "请输入表达身体无疾病、生理机能健全良好状态的核心双字名词（例如祝你「」快乐，拼音为 jiànkāng）：",
           "acceptedAnswers": [
-            "健康、身",
-            "健康、身体部",
-            "健康、身体部位与看病问诊"
+            "健康"
           ],
-          "explanation": "正确的核心关键词为「健康、身」。"
+          "explanation": "词语「健康」是现代汉语中指称身体与身心健全状态的最核心词汇。"
         }
       ],
       "passThreshold": 0.8
