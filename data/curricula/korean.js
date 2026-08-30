@@ -11527,56 +11527,65 @@
     "subject": "korean",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) (Part 1)",
+    "title": "발효의 미학과 전통 장류 문화 (Fermentation Arts)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 전통 한식과 식문화 예절 (Korean Culinary Traditions).",
+    "objective": "한식의 근간을 이루는 발효 과학(메주, 된장, 간장, 고추장, 옹기 숨쉬기)과 숙성에 따른 깊은 풍미를 서술하는 최고급 어휘를 체화한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) » (제1절)의 핵심 언어 요소와 전통 한식과 식문화 예절 (Korean Culinary Traditions)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한식(Hansik)은 '기다림과 시간의 예술'이라 불리는 **발효(Fermentation)** 문화에 뿌리를 두고 있습니다.\n\n1. 전통 장류(Fermented Sauces) 및 발효 어휘 체계:\n- **메주(Fermented Soybean Block)**: 삶은 콩을 찧어 네모나게 빚은 후 볏짚에 매달아 자연 미생물로 발효시킨 장류의 원천\n- **삼대 전통 장류**: \n  - **간장(Soy Sauce)**: 메주를 소금물에 담가 우려낸 뒤 달여 만든 맑고 깊은 짠맛의 액체 장\n  - **된장(Soybean Paste)**: 간장을 뜨고 남은 메주 건더기를 치대어 항아리에 숙성시킨 구수한 장\n  - **고추장(Red Pepper Paste)**: 찹쌀가루, 엿기름, 메줏가루, 고춧가루를 섞어 칼칼하면서도 은은한 단맛을 내는 복합 발효장\n- **숨 쉬는 옹기(Breathing Onggi / Earthenware)**: 미세한 기공을 통해 외부 공기와 통기하며 내부 발효 미생물을 건강하게 활성화하는 전통 용기\n- **감칠맛(Umami)과 곰삭다(Mellowly Aged)**: 세월의 숙성을 거쳐 잡내 없이 깊고 그윽하게 우러나온 풍미",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (25.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "전통 한옥의 장독대에 정갈하게 늘어선 숨 쉬는 옹기 속에서 장류가 사계절의 비바람과 햇살을 받으며 깊게 곰삭아 갑니다.",
+          "reading": "Jeontong hanok-ui jangdokdae-e jeonggalhage neureoseon sum swineun onggi sok-eseo jangryu-ga sagyejeol-ui bibaram-gwa haessal-eul badeumyeo gipge gomsak-a gamnida.",
+          "translation": "Inside breathing earthenware neatly lined up on the platform of a traditional Hanok ('장독대'), the fermented sauces mellowly age ('깊게 곰삭아 갑니다') through four seasons of rain, wind, and sunlight."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (25.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "잘 띄운 메주로 담근 3년 묵은 된장찌개는 인공 조미료가 결코 흉내 낼 수 없는 그윽하고 깊은 감칠맛을 자아냅니다.",
+          "reading": "Jal ttiun meju-ro damgeun samnyeon mugeun doenjangjjigae-neun in-gong jomiryo-ga gyeolko hyungnae nael su eomneun geueukhago gipeun gamchilmmat-eul jaanaemnida.",
+          "translation": "Three-year-aged soybean paste stew brewed with well-fermented meju evokes a profound and deep umami ('깊은 감칠맛') that artificial seasoning can never replicate."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (25.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "한국의 김치와 장류는 단순한 염장이 아니라 유익한 유산균이 살아 숨 쉬는 세계적인 발효 과학의 결정체입니다.",
+          "reading": "Hanguk-ui gimchi-wa jangryu-neun dansunhan yeomjang-i anira yuikhan yusangyun-i sara swineun segyejeogin balhyo gwahak-ui gyeoljeongche-imnida.",
+          "translation": "Korean kimchi and fermented sauces are not mere salting, but the crystallization of world-class fermentation science ('발효 과학의 결정체') where beneficial lactic acid bacteria live and breathe."
+        },
+        {
+          "target": "종갓집 씨간장은 대를 이어 수백 년 동안 덧간장을 부어가며 유지해 온 가문의 귀중한 미식 유산입니다.",
+          "reading": "Jonggatjip ssiganjang-eun dae-reul ieo subaek nyeon dong-an deotganjang-eul bueogamyeo yujihae on gamun-ui gwijunghan misik yusan-imnida.",
+          "translation": "The master seed soy sauce of the head family is a precious gastronomic heritage of the clan, maintained for hundreds of years across generations by continually adding newly brewed soy sauce."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "볏짚에 띄운 메주로 간장·된장 가르고, 옹기 속에서 곰삭아 깊은 감칠맛 완성!"
+      ],
+      "culturalNotes": [
+        "한국의 '장 담그기 문화'는 유네스코 인류무형문화유산 등재가 추진될 만큼 민족의 정체성과 공동체 결속을 상징하는 대표적 식문화 유산입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "삶은 콩을 찧어 볏짚으로 묶어 자연 발효시킨 한국 전통 장류의 원형 블록은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (25.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (25.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (25.1.3)."
+            "메주 (Fermented Soybean Block)",
+            "두부 (Tofu)",
+            "청국장 (Fast-fermented Bean Paste)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "간장과 된장을 만드는 기본 발효 콩 덩어리를 '메주'라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "오랜 시간 자연 발효되어 깊고 부드러운 감칠맛을 내는 상태를 가장 아름답게 표현한 한국어 동사는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (25.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (25.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (25.1.3)."
+            "곰삭다 (To be mellowly and deeply aged)",
+            "상하다 (To go bad)",
+            "태우다 (To burn)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "젓갈이나 장류가 오랜 세월 푹 삭아서 맛이 깊어지는 것을 '곰삭다'라고 합니다."
         }
       ]
     },
@@ -11584,14 +11593,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 25-1)?",
+          "prompt": "미세한 숨구멍을 통해 발효 미생물의 활동을 돕는 한국의 전통 도자기는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (25.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (25.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (25.1.3)."
+            "옹기 / 항아리 (Onggi)",
+            "유리병 (Glass bottle)",
+            "플라스틱 통 (Plastic container)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "흙으로 빚어 숨을 쉬는 전통 도기를 '옹기(甕器)' 또는 '항아리'라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'발효의 미학과 깊은 감칠맛이 살아있어요'(The aesthetics of fermentation and deep umami are alive)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "발효의 미학과 깊은 감칠맛이 살아있어요.",
+            "발효의 미학과 깊은 감칠맛이 살아있어요"
+          ],
+          "explanation": "발효의 미학과 + 깊은 감칠맛이 + 살아있어요 = 발효의 미학과 깊은 감칠맛이 살아있어요."
         }
       ]
     }
@@ -11601,56 +11619,65 @@
     "subject": "korean",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) (Part 2)",
+    "title": "음양오행과 오방색의 한식 철학 및 궁중 수라상",
     "level": "C1",
-    "objective": "Comprehensive mastery of 전통 한식과 식문화 예절 (Korean Culinary Traditions).",
+    "objective": "우주 자연의 섭리를 식탁에 담아낸 음양오행(陰陽五行), 오방색(五方色), 약식동원(藥食同源) 사상과 조선 왕실 궁중음식의 품격을 이해한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) » (제2절)의 핵심 언어 요소와 전통 한식과 식문화 예절 (Korean Culinary Traditions)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한식은 단순한 영양 섭취를 넘어 우주의 질서와 인체의 균형을 조화롭게 다스리는 심오한 철학적 배경을 지니고 있습니다.\n\n1. 한식의 3대 핵심 철학:\n- **약식동원(藥食同源, Food as Medicine)**: '음식과 약은 그 근원이 같다'는 뜻으로, 제철 바른 먹거리가 최고의 보약이라는 사상\n- **음양오행설(Yin-Yang and Five Elements)**: 목(木), 화(火), 토(土), 금(金), 수(水)의 오행 원리가 인체의 오장육부와 음식의 맛(오미: 산, 고, 감, 신, 함)에 상응함\n- **오방색(五方色, Five Cardinal Colors)**: \n  - **청(靑, Green/Blue)**: 간(肝)을 보호하며 봄과 생명을 상징 (미나리, 오이, 시금치)\n  - **적(赤, Red)**: 심장(心)을 보호하며 여름과 열정을 상징 (고추, 당근, 대추)\n  - **황(黃, Yellow)**: 비위(脾)를 편안히 하며 대지를 상징 (달걀지단, 호박, 도라지)\n  - **백(白, White)**: 폐(肺)를 다스리며 순수와 가을을 상징 (무, 밥, 백김치, 배)\n  - **흑(黑, Black)**: 신장(腎)을 보양하며 겨울과 지혜를 상징 (목이버섯, 검은깨, 김)\n\n2. 조선 왕실 궁중 수라상(Royal Court Cuisine):\n- 국왕에게 아침·저녁으로 올리던 12첩 반상으로, 전국 팔도에서 올라온 최고급 진상품으로 차려져 백성들의 농사 형편과 민심을 살피는 통치 의전이었습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (25.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "전통 비빔밥과 구절판은 청, 적, 황, 백, 흑의 오방색 고명이 완벽한 시각적·영양학적 균형을 이루는 한식의 백미입니다.",
+          "reading": "Jeontong bibimbap-gwa gujeolpan-eun cheong, jeok, hwang, baek, heuk-ui obangsaek gomyeong-i wanbyeokhan sigakjeok·yeongyanghakjeok gyunhyeong-eul iruneun hansik-ui baengmi-imnida.",
+          "translation": "Traditional bibimbap and Gujeolpan (platter of nine delicacies) are the pinnacle of Hansik where the five cardinal color garnishes ('오방색 고명') achieve perfect visual and nutritional balance."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (25.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "'음식이 곧 최고의 명약'이라는 약식동원 사상에 따라 조상들은 계절마다 몸을 보양하는 제철 식재료를 엄선했습니다.",
+          "reading": "'Eumsig-i got choego-ui myeong-yak'-iraneun yaksikdong-won sasang-e ttara josangdeul-eun gyejeolmada mom-eul boyanghaneun jecheol sikjaeryo-reul eomseonhaetseumnida.",
+          "translation": "In accordance with the Food as Medicine philosophy ('약식동원 사상'), ancestors rigorously selected seasonal ingredients that invigorated the body in each season."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (25.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "조선 왕실의 수라상은 단순한 호화로운 식사를 넘어 전국 각지의 작황과 팔도 백성의 삶을 헤아리던 정치적 의전이었습니다.",
+          "reading": "Joseon wangsil-ui surasang-eun dansunhan hohwaroun siksa-reul neomeo jeon-guk gakji-ui jakhwang-gwa paldo baekseong-ui salm-eul he-arideon jeongchijeok uijeon-ieotseumnida.",
+          "translation": "The Royal Table ('수라상') of the Joseon dynasty went beyond a mere luxurious meal to be a political protocol considering harvest conditions across the country and the lives of people in the eight provinces."
+        },
+        {
+          "target": "궁중 궁녀들의 정성 어린 손길로 빚어낸 신선로는 은은한 화로 열기 속에서 온갖 귀한 산해진미가 어우러집니다.",
+          "reading": "Gungjung gungnyeo-deul-ui jeongseong eorin son-gil-ro bijeonaen sinseonro-neun euneunhan hwaro yeolgi sog-eseo on-gat gwihan sanhaejinmi-ga eoureojimnida.",
+          "translation": "Sinseonro (Royal hot pot) crafted by court ladies' devoted touch harmonizes all sorts of precious delicacies of land and sea amid the gentle warmth of the brazier."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "밥이 곧 보약인 약식동원, 청·적·황·백·흑 오방색으로 수라상 완성!"
+      ],
+      "culturalNotes": [
+        "구절판(九折坂)은 아홉 칸으로 나뉜 찬합에 오방색 재료를 정갈하게 담아 밀전병에 싸 먹는 대표적 궁중 연회 요리로, 완전함과 화합을 상징합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'음식과 약은 그 근원이 같아 바른 식습관이 병을 다스린다'는 한식의 대표적 건강 철학은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (25.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (25.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (25.2.3)."
+            "약식동원 (藥食同源)",
+            "작심삼일 (作心三日)",
+            "동상이몽 (同床異夢)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'약식동원(Food and medicine share the same origin)'은 한식 영양 철학의 근간입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "한식의 오방색(Five cardinal colors)에 해당하는 색깔의 올바른 조합은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (25.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (25.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (25.2.3)."
+            "청(Green/Blue), 적(Red), 황(Yellow), 백(White), 흑(Black)",
+            "보라, 주황, 분홍, 갈색, 회색",
+            "금색, 은색, 동색, 청동색, 백금색"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "전통 오방색은 청, 적, 황, 백, 흑 다섯 가지 색상입니다."
         }
       ]
     },
@@ -11658,14 +11685,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 25-2)?",
+          "prompt": "조선 시대 왕에게 바치던 가장 격조 높은 진지를 뜻하는 궁중 높임말은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (25.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (25.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (25.2.3)."
+            "수라 (水剌 / 수라상)",
+            "밥",
+            "진지"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "임금에게 올리는 밥상을 '수라상(水剌床)'이라고 부릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'오방색의 조화와 약식동원 철학'(Harmony of five colors and food-as-medicine philosophy)을 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "오방색의 조화와 약식동원 철학",
+            "오방색의 조화와 약식동원 철학."
+          ],
+          "explanation": "오방색의 조화와 + 약식동원 철학 = 오방색의 조화와 약식동원 철학."
         }
       ]
     }
@@ -11675,56 +11711,65 @@
     "subject": "korean",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) (Part 3)",
+    "title": "반상 차림과 전통 식사 예절 (Table Protocol & Etiquette)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 전통 한식과 식문화 예절 (Korean Culinary Traditions).",
+    "objective": "첩수(3첩, 5첩, 7첩, 9첩, 12첩)에 따른 반상 차림 구성과 어른에 대한 공경을 담은 정통 한국 식사 예절을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) » (제3절)의 핵심 언어 요소와 전통 한식과 식문화 예절 (Korean Culinary Traditions)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 전통 식사는 밥과 국을 기본으로 찬(반찬)의 가짓수에 따라 위계와 품격을 갖추는 **반상(飯床)** 문화를 발달시켰습니다.\n\n1. 반상 차림 첩수(Cheop / Number of Side Dishes) 규범:\n- **기본 구성(첩수에 미포함)**: 밥, 국, 김치, 장류, 찌개, 찜은 기본 제공\n- **3첩 반상**: 서민들의 소박한 일상 상차림 (나물, 구이, 조림 등 3가지 찬)\n- **5첩 / 7첩 반상**: 여유 있는 양반가의 평상식 및 손님 접대상\n- **9첩 반상**: 사대부가의 최고 귀빈 접대상 (민간에서 허용된 최대 첩수)\n- **12첩 반상**: 오직 국왕(임금)의 수라상에만 올릴 수 있었던 절대적 궁중 상차림\n\n2. 한국의 엄격한 전통 식사 예절(Dining Etiquette):\n- **식사 시작**: 동석한 어른이 먼저 숟가락을 드신 후에 아랫사람이 수저를 듭니다.\n- **수저 사용 원칙**: 숟가락과 젓가락을 한 손에 동시에 쥐지 않으며, 밥과 국은 숟가락으로, 반찬은 젓가락으로 먹습니다.\n- **그릇 파지 금지**: 밥그릇이나 국그릇을 손으로 들고 먹지 않고(개처럼 먹는다는 금기), 바닥에 놓은 채 수저로 떠먹습니다.\n- **소리와 속도**: 음식을 씹을 때 쩝쩝 소리를 내지 않으며, 어른의 식사 속도에 맞추어 너무 빠르거나 늦지 않게 마칩니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (25.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "한국 식문화에서는 어른께서 먼저 수저를 드실 때까지 기다렸다가 식사를 시작하는 것이 가장 기본적인 공경의 도리입니다.",
+          "reading": "Hanguk sikmunhwa-eseoneun eoreun-kkeseo meonjeo sujeo-reul deusil ttae-kkaji gidaryeotdaga siksa-reul sijakhaneun geos-i gajang gibonjeogin gong-gyeong-ui dori-imnida.",
+          "translation": "In Korean food culture, waiting until the elder picks up the spoon and chopsticks first ('어른께서 먼저 수저를 드실 때까지') before starting to eat is the most fundamental duty of respect."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (25.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "사대부 종가에서는 귀한 손님이 방문하셨을 때 정갈한 9첩 반상을 정성껏 차려 극진히 대접했습니다.",
+          "reading": "Sadaebu jongga-eseoneun gwihan sonnim-i bangmunhasyeosseul ttae jeonggalhan guchop bansang-eul jeongseongkkeot charyeo geukjinhi daejeophaetseumnida.",
+          "translation": "In aristocratic head families, when precious guests visited, they devotedly set a neat 9-dish table ('9첩 반상') to treat them with utmost hospitality."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (25.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "식사 중에는 밥그릇이나 국그릇을 손으로 들고 마시지 않으며, 숟가락과 젓가락을 한 손에 나란히 쥐지 않는 것이 바른 예절입니다.",
+          "reading": "Siksa jung-eneun bapgeureut-ina gukgeureut-eul son-euro deulgo masiji aneumyeo, sutgarak-gwa jeotgarak-eul han son-e naranhi jwiji anneun geos-i bareun yejeol-imnida.",
+          "translation": "During meals, not holding the rice or soup bowl with one's hands ('손으로 들고 마시지 않으며') and not grasping spoon and chopsticks simultaneously in one hand is proper etiquette."
+        },
+        {
+          "target": "어른과의 술자리에서는 고개를 옆으로 돌리고 입을 가린 채 술을 마시는 것이 예의에 부합합니다.",
+          "reading": "Eoreun-gwa-ui suljari-eseoneun gogae-reul yeop-euro dolligo ip-eul garin chae sul-eul masineun geos-i yeui-e buahaphamnida.",
+          "translation": "In a drinking setting with elders, turning one's head to the side and covering one's mouth while drinking conforms to etiquette ('고개를 옆으로 돌리고')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "어른이 먼저 수저 들고, 밥그릇은 상 위에 두고, 술 마실 땐 고개 돌리기!"
+      ],
+      "culturalNotes": [
+        "이웃나라인 일본이나 중국과 달리 한국에서는 밥그릇을 손에 들고 먹는 행위를 복을 털어낸다거나 품격이 없다고 여겨 엄격히 금기시해 왔습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "한국 전통 식사 자리에서 식사를 시작하는 올바른 순서는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (25.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (25.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (25.3.3)."
+            "자리에서 가장 나이가 많은 어른이 먼저 수저를 드신 후 식사를 시작한다.",
+            "음식이 나오는 즉시 배고픈 사람이 먼저 허겁지겁 먹는다.",
+            "막내가 먼저 숟가락을 들고 맛을 평가한 뒤 시작한다."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "어른이 먼저 수저를 드신 후에 아랫사람이 식사를 시작하는 것이 한국의 기본 식사 예절입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "한국 식사 예절에서 금기시되는 잘못된 행동은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (25.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (25.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (25.3.3)."
+            "밥그릇이나 국그릇을 손으로 들고 입에 대고 마시는 행동",
+            "숟가락으로 국을 떠먹고 젓가락으로 나물을 집어먹는 행동",
+            "어른의 식사 속도에 맞추어 식사를 마치는 행동"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "한국에서는 밥그릇이나 국그릇을 손으로 들고 먹지 않는 것이 전통 규범입니다."
         }
       ]
     },
@@ -11732,14 +11777,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 25-3)?",
+          "prompt": "조선 시대 오직 임금의 수라상에만 차릴 수 있었던 최고 첩수의 반상은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (25.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (25.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (25.3.3)."
+            "12첩 반상",
+            "9첩 반상",
+            "7첩 반상"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "12첩 반상은 국왕의 수라상에만 허용된 최고 격식의 반상 차림입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'어른이 먼저 수저를 드신 후에 식사해요'(We eat after the elder picks up the spoon first)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "어른이 먼저 수저를 드신 후에 식사해요.",
+            "어른이 먼저 수저를 드신 후에 식사해요"
+          ],
+          "explanation": "어른이 먼저 수저를 드신 후에 + 식사해요 = 어른이 먼저 수저를 드신 후에 식사해요."
         }
       ]
     }
@@ -11749,56 +11803,65 @@
     "subject": "korean",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) (Part 4)",
+    "title": "향토 음식, 사찰음식 및 현대 K-푸드 파인다이닝",
     "level": "C1",
-    "objective": "Comprehensive mastery of 전통 한식과 식문화 예절 (Korean Culinary Traditions).",
+    "objective": "지역별 향토 음식의 특색, 오신채를 쓰지 않는 사찰음식의 정갈함, 미슐랭 한식 파인다이닝의 글로벌 미식 담론을 분석한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) » (제4절)의 핵심 언어 요소와 전통 한식과 식문화 예절 (Korean Culinary Traditions)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "현대 한식은 유구한 지역 향토 미식과 불교 사찰음식의 생명 존중 정신을 계승하여 세계적인 모던 파인다이닝(Fine Dining)으로 진화하고 있습니다.\n\n1. 한식의 미식 스펙트럼과 전문 용어:\n- **향토 음식(Regional Cuisine)**: 남도의 풍성한 해산물 한정식, 강원도의 메밀과 감자 구황 요리, 평안도/함경도의 담백한 메밀 냉면 등 지리적 환경에 맞춤 발전한 요리\n- **사찰음식(Temple Food)**: 불교의 불살생 계율에 따라 육류와 생선을 배제하고, 수행자의 정신을 맑게 하기 위해 **오신채(五辛菜: 마늘, 파, 부추, 달래, 흥거)**를 쓰지 않는 비건 웰빙 음식\n- **모던 코리안 파인다이닝(Modern Korean Fine Dining)**: 전통 발효 장류와 제철 식재료를 서양의 분자 요리학 및 현대적 플레이팅 기술과 접목하여 미슐랭(Michelin Guide) 별점을 획득한 최고급 한식 레스토랑\n- **페어링(Pairing)**: 전통주(막걸리, 약주, 증류식 소주)와 코스 요리의 풍미를 극대화하는 미식 조합",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (25.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "오신채를 배제하고 자연 채소 본연의 순수한 맛을 살려낸 사찰음식은 세계적인 셰프들에게도 신선한 미학적 영감을 주었습니다.",
+          "reading": "Osinchae-reul baejehhago jayeon chaeso bon-yeon-ui sunsuhan mas-eul sallyeonaen sachareumsig-eun segyejeogin syepeudeul-ege-do sinseonhan miakjeok yeong-gam-eul jueotseumnida.",
+          "translation": "Temple food that excluded the five pungent roots ('오신채를 배제하고') and brought alive the pure intrinsic taste of natural vegetables gave fresh aesthetic inspiration even to world-renowned chefs."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (25.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "남도 한정식은 산과 바다, 들에서 갓 채취한 풍성한 제철 해산물과 깊은 묵은지가 상다리가 휘어지도록 한 상 가득 차려집니다.",
+          "reading": "Namdo hanjeongsik-eun san-gwa bada, deul-eseo gat chaechwihan pungseonghan jecheol haesanmul-gwa gipeun mugeunji-ga sangdari-ga hwieojidorok han sang gadeuk charyeojimnida.",
+          "translation": "Namdo Full-course Korean dinner is set with an abundance of seasonal seafood and deep aged kimchi freshly harvested from mountains, sea, and fields so that the table legs bend ('상다리가 휘어지도록')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (25.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "이 모던 한식 레스토랑은 20년 숙성 씨간장을 현대적인 디저트 소스로 재해석하여 미슐랭 3스타를 획득했습니다.",
+          "reading": "I modeon hansik reseutorang-eun isipnyeon sukseong ssiganjang-eul hyeondaejeogin dijeoteu soseu-ro jaehaeseokhayeo misyullaeng samseuta-reul hoedeukhaetseumnida.",
+          "translation": "This modern Korean restaurant earned three Michelin stars by reinterpreting 20-year aged master soy sauce into a modern dessert sauce."
+        },
+        {
+          "target": "전통 누룩으로 빚은 프리미엄 증류주와 한우 채끝살 구이의 완벽한 페어링은 한식 미식의 새로운 지평을 열었습니다.",
+          "reading": "Jeontong nuruk-euro bijeun peurimieom jeungryuju-wa hanu chaekkeutsal gui-ui wanbyeokhan peeoring-eun hansik misik-ui saeroun jipyeong-eul yeoreotseumnida.",
+          "translation": "The perfect pairing of premium distilled liquor brewed with traditional nuruk yeast and grilled Korean beef sirloin opened a new horizon in Hansik gastronomy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "오신채 없는 사찰음식, 상다리 휘는 남도 한정식, 미슐랭 파인다이닝의 페어링!"
+      ],
+      "culturalNotes": [
+        "백양사 정관 스님의 사찰음식은 넷플릭스 다큐멘터리 『셰프의 테이블』을 통해 전 세계에 소개되며 자연과의 공존을 추구하는 철학적 미식으로 극찬받았습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "한국 불교 사찰음식에서 마음을 산란하게 하여 배제하는 마늘, 파 등 다섯 가지 자극적인 채소를 일컫는 말은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (25.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (25.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (25.4.3)."
+            "오신채 (五辛菜)",
+            "오방색 (五方色)",
+            "오곡밥 (五穀飯)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "사찰음식에서 금하는 5가지 매운맛 채소(마늘, 파, 부추, 달래, 흥거)는 '오신채'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "음식이 너무 푸짐하고 찬의 가짓수가 많을 때 쓰는 가장 대표적인 한국어 관용 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (25.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (25.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (25.4.3)."
+            "상다리가 부러질(휘어질) 정도로 푸짐하다",
+            "손가락이 아플 정도로 적다",
+            "접시가 날아갈 정도로 가볍다"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "한 상 가득 음식이 차려진 모습을 '상다리가 부러질/휘어질 정도'라고 비유합니다."
         }
       ]
     },
@@ -11806,14 +11869,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 25-4)?",
+          "prompt": "전통 음식과 술의 풍미가 서로를 돋보이게 조화를 이루는 미식 조합을 뜻하는 현대 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (25.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (25.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (25.4.3)."
+            "페어링 (Pairing)",
+            "카운셀링 (Counseling)",
+            "리사이클링 (Recycling)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "음식과 술의 최적 조합을 미식 분야에서 '페어링'이라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'자연의 맛을 살린 사찰음식의 정갈함'(Neatness of temple food bringing alive natural taste)을 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "자연의 맛을 살린 사찰음식의 정갈함",
+            "자연의 맛을 살린 사찰음식의 정갈함."
+          ],
+          "explanation": "자연의 맛을 살린 + 사찰음식의 + 정갈함 = 자연의 맛을 살린 사찰음식의 정갈함."
         }
       ]
     }
@@ -11823,56 +11895,65 @@
     "subject": "korean",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) (Part 5)",
+    "title": "궁중음식 무형문화재 명장 인터뷰 및 미식 다큐멘터리 실전 종합 담화",
     "level": "C1",
-    "objective": "Comprehensive mastery of 전통 한식과 식문화 예절 (Korean Culinary Traditions).",
+    "objective": "발효 미학, 음양오행 및 오방색, 12첩 수라상, 사찰음식과 모던 파인다이닝을 융합하여 C1 최고급 미식 다큐멘터리 인터뷰 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) » (제5절)의 핵심 언어 요소와 전통 한식과 식문화 예절 (Korean Culinary Traditions)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "C1 최고급 한식 문화 담화는 조리 기술을 넘어 민족의 철학, 역사적 의전, 생명 존중 사상을 유려하고 학술적인 한국어로 서술하는 능력을 요구합니다.\n\n1. 미식 다큐멘터리 궁중음식 국가무형문화재 보유자 심층 인터뷰 실전 모델:\n- 다큐 PD: 명장님, 한식이 전 세계 미식가들에게 이토록 깊은 울림을 주는 근본적인 원동력은 어디에 있다고 보십니까?\n- 명장: 한식의 본질은 인간의 조급함을 내려놓고 자연의 시간에 순응하는 '발효의 미학'과 '약식동원'에 있습니다. 숨 쉬는 옹기 속에서 수년간 곰삭은 간장과 된장은 단순한 조미료가 아니라 자연과 세월이 빚어낸 생명의 정수입니다.\n- 다큐 PD: 특히 조선 왕실 수라상과 사찰음식은 정반대의 성격을 띠면서도 일맥상통하는 면이 있어 보입니다.\n- 명장: 정확한 통찰이십니다. 12첩 수라상이 팔도 백성들의 삶과 농경 상태를 살피는 왕의 엄중한 통치 의전이었다면, 오신채를 비우고 자연과 일체를 이루는 사찰음식은 탐욕을 버리는 비움의 미학입니다. 이 두 전통이 음양오행과 오방색의 조화를 통해 현대 미슐랭 파인다이닝으로 꽃피우고 있는 것입니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (25.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "수백 년 세월 동안 씨간장 항아리를 지켜온 종부의 손끝에서 한국 음식의 가장 깊고 그윽한 영혼이 피어납니다.",
+          "reading": "Subaek nyeon sewol dong-an ssiganjang hang-ari-reul jikyeoon jongbu-ui sonkkeut-eseo hanguk eumsik-ui gajang gipgo geueukhan yeonghon-i pieonamnida.",
+          "translation": "From the fingertips of the head family matriarch ('종부의 손끝에서') who protected the seed soy sauce jar for hundreds of years, the deepest and most profound soul of Korean food blossoms."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (25.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선조들의 지혜가 담긴 발효 과학과 오방색의 조화는 단순한 식문화를 넘어 인류가 본받아야 할 지속 가능한 미래 먹거리의 대안입니다.",
+          "reading": "Seonjodeul-ui jihye-ga damgin balhyo gwahak-gwa obangsaek-ui johwa-neun dansunhan sikmunhwa-reul neomeo inryu-ga bonbadaya hal jisok ganeunghan mirae meokgeori-ui daean-imnida.",
+          "translation": "The fermentation science and harmony of five cardinal colors containing the wisdom of ancestors are beyond a mere food culture, serving as an alternative sustainable future food source that humanity must emulate."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (25.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "정성을 다해 차려낸 12첩 수라상에는 백성의 노고를 잊지 않으려는 국왕의 숭고한 애민 정신이 깃들어 있습니다.",
+          "reading": "Jeongseong-eul dahae charyeonaen sib-ichop surasang-eneun baekseong-ui nogo-reul itji anheuryeoneun gugwang-ui sunggohan aemin jeongsin-i gitdeoreo itseumnida.",
+          "translation": "Imbued in the devotedly set 12-dish Royal Table ('12첩 수라상') is the king's noble spirit of loving the people ('애민 정신') to not forget the toil of the people."
+        },
+        {
+          "target": "자연에서 얻은 소박한 식재료를 통해 마음의 평안과 생명 존중을 실천하는 사찰음식은 현대인의 지친 영혼을 치유합니다.",
+          "reading": "Jayeon-eseo eodeun sobakhan sikjaeryo-reul tonghae ma-eum-ui pyeong-an-gwa saengmyeong jonjung-eul silcheonhaneun sachareumsig-eun hyeondaein-ui jichin yeonghon-eul chiyuhamnida.",
+          "translation": "Temple food that practices peace of mind and respect for life through simple ingredients obtained from nature heals the weary souls of modern people."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "자연에 순응하는 발효의 미학, 백성을 살피는 수라상, 영혼을 치유하는 사찰음식!"
+      ],
+      "culturalNotes": [
+        "한국의 종가(宗家) 문화에서 며느리에게 종택의 열쇠와 씨간장 독을 물려주는 것은 가문의 가치와 음식 철학의 정통성을 공식 계승함을 의미합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "미식 다큐멘터리에서 한식의 본질을 '시간과 자연에 순응하는 지혜'로 가장 격조 높게 설명한 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (25.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (25.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (25.5.3)."
+            "한식의 정수는 기다림의 미학인 발효 과학과 자연과의 조화를 추구하는 약식동원 사상에 집약되어 있습니다.",
+            "한식은 그냥 맵고 짠 음식이니까 빨리빨리 먹으면 그만입니다.",
+            "한식은 패스트푸드처럼 인공 감미료를 많이 넣을수록 맛있습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'발효 과학'과 '약식동원 사상'을 결합한 학술적·철학적 설명이 C1 수준에 완벽히 부합합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "궁중 수라상의 역사적 가치를 가장 올바르게 해설한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (25.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (25.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (25.5.3)."
+            "수라상은 팔도에서 진상된 제철 식재료를 통해 전국 백성의 농경 형편을 살피던 애민 의전이었다.",
+            "수라상은 왕 혼자서 욕심부려 배 터지게 먹으려고 만든 사치스러운 밥상이었다.",
+            "수라상은 신하들을 벌주기 위해 맛없는 풀만 올려놓은 상이었다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "조선 왕실의 수라상은 왕이 백성들의 삶과 작황을 살피는 통치 의전이자 애민 정신의 발로였습니다."
         }
       ]
     },
@@ -11880,14 +11961,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 전통 한식과 식문화 예절 (Korean Culinary Traditions) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 25-5)?",
+          "prompt": "다음 중 전통 한식의 철학과 가장 거리가 먼 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (25.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (25.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (25.5.3)."
+            "자연의 생태를 파괴하고 오직 자극적인 인공 단맛만을 추구한다.",
+            "음식과 약의 근원이 같다는 약식동원(藥食同源) 사상",
+            "청, 적, 황, 백, 흑 오방색의 음양오행적 영양 균형"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "한식은 자연과의 조화와 약식동원을 추구하며, 인공 감미료를 통한 자극적 단맛 추구와는 거리가 멉니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'자연과 세월이 빚어낸 발효의 미학'(Aesthetics of fermentation crafted by nature and time)을 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "자연과 세월이 빚어낸 발효의 미학",
+            "자연과 세월이 빚어낸 발효의 미학."
+          ],
+          "explanation": "자연과 세월이 빚어낸 + 발효의 미학 = 자연과 세월이 빚어낸 발효의 미학."
         }
       ]
     }
