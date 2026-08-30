@@ -11965,53 +11965,62 @@
     "subject": "urdu",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "فلسفہ، تصوف اور اخلاقیات (Philosophy & Sufism) (Part 1)",
+    "title": "مصنوعی ذہانت، مشین لرننگ اور الگورتھم (Artificial Intelligence & Machine Learning)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.1) with authentic precision.",
+    "objective": "مصنوعی ذہانت (AI)، مشین لرننگ، نیورل نیٹ ورکس، الگورتھم، اور بڑے لسانی ماڈلز (LLMs) کے جدید سائنسی و فنی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں مصنوعی ذہانت اور جدید کمپیوٹنگ کا بیانیہ (Artificial Intelligence & Machine Learning):\n\n1. **مصنوعی ذہانت اور الگورتھم کے بنیادی اصول**:\n   - «**مصنوعی ذہانت (Artificial Intelligence / AI)**»: انسانی ذہانت کے مشابہ کمپیوٹر سسٹمز؛\n   - «**الگورتھم (Algorithm)**»: منطقی اور حسابی ہدایات کا سلسلہ؛\n   - «**مشین لرننگ (Machine Learning)**»: ڈیٹا سے خود کار تربیت اور پیش گوئی۔\n\n2. **جدید نیورل نیٹ ورکس اور لسانی ماڈلز**:\n   - «**گہرے اعصابی جال (Deep Neural Networks)**»؛\n   - «**بڑے لسانی ماڈلز (Large Language Models / LLMs)** اور نیچرل لینگویج پروسیسنگ (NLP)»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "مصنوعی ذہانت اور مشین لرننگ کے جدید الگورتھم پیچیدہ ڈیٹا کا تجزیہ کر کے انسانی سوچ سے مشابہ پیش گوئیاں اور فیصلے کرنے کی غیر معمولی صلاحیت رکھتے ہیں۔",
+          "reading": "Masnoo'i zahaanat aur machine learning ke jadeed algorithm pecheeda data ka tajziya kar ke insaani soch se mushaaba peish-goiyan aur faislay karnay ki ghair-ma'mooli salaahiyat rakhtay hain. [məsnuːʔiː zəhaːnət̪ ɔːr məʃiːn lərnɪŋɡ keː dʒəd̪iːd̪ ɛlɡɔːrɪt̪ʰəm piːtʃʰiːd̪aː ɖeːʈaː kaː t̪əzdʒɪjaː kər keː ɪnsaːniː soːtʃ seː mʊʃaːbəh peːʃ-ɡoːʔɪjãː ɔːr fɛːsleː kərneː kiː ɣɛːr-məʔmuːliː səlaːhɪjət̪ rəkʰt̪eː hɛ̃ː] (muhs-noo-EE zuh-hah-NUHT owr machine learning kay juh-DEED algorithm pay-chee-DAH data kah tuhj-zee-YAH kuhr kay een-sah-NEE SOCH say moo-shah-BAH paysh-goh-ee-YAHN owr fys-LAY kuhr-NAY kee ghyr-muh-moo-LEE suh-lah-hee-YUHT ruhkh-TAY HYN)",
+          "translation": "Advanced algorithms of Artificial Intelligence [technology term: Masnoo'i zahaanat] and Machine Learning possess extraordinary capabilities to analyze complex data and make human-like predictions and decisions."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 29-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "بڑے لسانی ماڈلز قدرتی انسانی زبانوں کی نحوی اور معنوی ساخت کا فہم حاصل کر کے خود کار ترجمہ اور مواد تخلیق کرنے میں انقلاب لا چکے ہیں۔",
+          "reading": "Baray lisaani models qudrati insaani zabaanon ki nahwi aur ma'nawi saakht ka feham haasil kar ke khud-kaar tarjuma aur mawaad takhleeq karnay mein inqilaab laa chukay hain. [bəɽeː lɪsaːniː mɔːɖəlz qʊd̪rət̪iː ɪnsaːniː zəbaːnõː kiː nʌhwiː ɔːr məʔnəwiː saːxt kaː fɛɦəm haːsɪl kər keː xʊd̪-kaːr t̪ərdʒʊmaː ɔːr məʋaːd̪ t̪əxliːq kərneː mẽː ɪnqɪlaːb laː tʃʊkeː hɛ̃ː] (buh-RAY lee-sah-NEE models qood-ruh-TEE een-sah-NEE zuh-bah-NOHN kee nuh-HWEE owr muh-nuh-VEE sahkh-T kah FY-huhm hah-SEEL kuhr kay khohd-KAHR tuhr-joo-MAH owr muh-WAHD tuhkh-LEEQ kuhr-NAY mayn een-qee-LAHB lah choo-KAY HYN)",
+          "translation": "Large Language Models have revolutionized automated translation and content generation by understanding the syntactic and semantic structures of natural human languages."
+        },
+        {
+          "target": "ڈیپ لرننگ کے اعصابی جال بصری شناخت اور طبی تشخیص میں ماہر ڈاکٹروں سے بھی زیادہ تیز رفتار نتائج فراہم کر رہے ہیں۔",
+          "reading": "Deep learning ke a'saabi jaal basri shinaakht aur tibbi tashkhees mein maahir doctoron se bhi ziyaada teiz-raftaar nataa'ij faraaham kar rahay hain. [ɖiːp lərnɪŋɡ keː əʔsaːbiː dʒaːl bəsriː ʃɪnaːxt ɔːr t̪ɪbːiː t̪əʃxiːs mẽː maːhɪr ɖɔːkʈərõː seː bʱiː zɪjaːd̪aː teːz-rəftaːr nətaːʔɪdʒ fəraːhəm kər rəheː hɛ̃ː] (deep learning kay uh-sah-BEE JAHL buhs-REE shee-NAH-kht owr teeb-BEE tuhsh-KHEES mayn MAH-heer doctoron say bhee zee-yah-DAH tayz-ruhf-TAHR nuh-tah-EEJ fuh-rah-HUHM kuhr ruh-HAY HYN)",
+          "translation": "Deep learning neural networks are delivering faster results in visual recognition and medical diagnosis than expert physicians."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مصنوعی ذہانت کے اجزا: الگورتھم + مشین لرننگ + نیورل نیٹ ورکس + بڑے لسانی ماڈلز (LLMs)!"
+      ],
+      "culturalNotes": [
+        "اردو میں نیچرل لینگویج پروسیسنگ (NLP) اور اردو ماڈلز کی تیاری کے لیے دنیا بھر کے محققین سرگرمِ عمل ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"اسکول\":",
+          "prompt": "کمپیوٹر سسٹمز کے ذریعے انسانی فہم و دانش اور فیصلہ سازی کے مطالعے اور اطلاق کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کالج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («استاد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («طالب علم» کی خرابی)"
+            "مصنوعی ذہانت / AI (Artificial Intelligence - Simulation of human intelligence in machines)",
+            "صرف ٹائپنگ کرنا",
+            "صرف کیبل جوڑنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "انسانی مشابہ سمارٹ صلاحیت کو «مصنوعی ذہانت» (Artificial Intelligence) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"اسکول\":",
+          "prompt": "کسی حسابی یا منطقی مسئلے کو حل کرنے کے لیے ترتیب دی گئی مرحلہ وار ہدایات کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («استاد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («طالب علم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کالج» کا غیر درست استعمال)"
+            "الگورتھم (Algorithm - Step-by-step logical computational procedure)",
+            "صرف ایک تصویر",
+            "صرف فائل کا نام",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مرحلہ وار حسابی ہدایات کو «الگورتھم» (Algorithm) کہا جاتا ہے۔"
         }
       ]
     },
@@ -12019,17 +12028,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"اسکول\": Which sentence is completely correct?",
+          "prompt": "مصنوعی ذہانت اور مشین لرننگ (Artificial Intelligence & ML) کا سائنسی جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («طالب علم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کالج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («استاد» سے متعلق)"
+            "مصنوعی ذہانت کے جدید نیورل نیٹ ورکس اور بڑے لسانی ماڈلز پیچیدہ سائنسی ڈیٹا کے تجزیے اور خود کار فیصلہ سازی میں انقلاب برپا کر رہے ہیں۔ (Advanced neural networks and LLMs in artificial intelligence are revolutionizing complex data analysis and automated decision-making.)",
+            "الگورتھم نے باورچی خانے میں کھانا پکا کر گاڑی روئی تھی۔",
+            "مصنوعی ذہانت کا مطلب صرف اسکرین کا رنگ تبدیل کرنا ہے۔",
+            "مشین لرننگ میں ڈیٹا کا کوئی کردار نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«مصنوعی ذہانت کے جدید نیورل نیٹ ورکس اور بڑے لسانی ماڈلز پیچیدہ سائنسی ڈیٹا کے تجزیے اور خود کار فیصلہ سازی میں انقلاب برپا کر رہے ہیں۔» سائنسی بیانیے کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u29-l2": {
@@ -12037,53 +12047,62 @@
     "subject": "urdu",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "فلسفہ، تصوف اور اخلاقیات (Philosophy & Sufism) (Part 2)",
+    "title": "سائبر سیکیورٹی، ڈیٹا پرائیویسی اور کلاؤڈ کمپیوٹنگ (Cybersecurity & Cloud Computing)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.2) with authentic precision.",
+    "objective": "سائبر سیکیورٹی، ڈیٹا انکرپشن، کلاؤڈ سرورز، فائر وال، اور ڈیجیٹل پرائیویسی کے جدید سائنسی و تکنیکی اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سائبر سیکیورٹی اور کلاؤڈ ٹیکنالوجی (Cybersecurity & Cloud Systems):\n\n1. **ڈیجیٹل سیکیورٹی کے بنیادی ستون**:\n   - «**سائبر سیکیورٹی (Cybersecurity)**»: نیٹ ورکس اور ڈیٹا بیس کا تحفظ؛\n   - «**ڈیٹا انکرپشن (Data Encryption)**»: معلومات کو ناقابلِ فہم کوڈ میں تبدیل کرنا؛\n   - «**فائر وال (Firewall)** اور میلویئر کے حملوں کی روک تھام»۔\n\n2. **کلاؤڈ کمپیوٹنگ اور پرائیویسی**:\n   - «**کلاؤڈ سرورز (Cloud Servers)** اور ریموٹ ڈیٹا اسٹوریج»；\n   - «صارفین کے ذاتی ڈیٹا کا تحفظ اور **ڈیٹا پرائیویسی قوانین**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "جدید دور میں مالیاتی اور حکومتی ڈیٹا بیس کو سائبر حملوں سے محفوظ رکھنے کے لیے جدید ترین ڈیٹا انکرپشن اور مضبوط فائر وال ناگزیر ہیں۔",
+          "reading": "Jadeed daur mein maaliyaati aur hakoomati database ko cyber hamlon se mehfooz rakhnay ke liye jadeed-tareen data encryption aur mazboot firewall na-guzeer hain. [dʒəd̪iːd̪ d̪ɔːr mẽː maːlɪjaːt̪iː ɔːr hʊkuːmət̪iː ɖeːʈaːbeːs koː saːʔɪbər həmloː̃ seː mɛhfuːz rəkʰneː keː lɪjeː dʒəd̪iːd̪-t̪əriːn ɖeːʈaː ɪŋkrɪpʃən ɔːr məzbuːt̪ faːʔɪrʋɔːl naː-ɡʊziːr hɛ̃ː] (juh-DEED DOWR mayn mah-lee-yah-TEE owr huh-koo-muh-TEE database koh cyber huhm-LOHN say myh-FOOZ ruhkh-NAY kay lee-AY juh-deed-tuh-REEN data encryption owr muhz-BOOT firewall nah-goo-ZEER HYN)",
+          "translation": "In the modern era, cutting-edge data encryption and robust firewalls [cybersecurity: data encryption aur firewall] are indispensable to protect financial and governmental databases from cyberattacks."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 29-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کلاؤڈ کمپیوٹنگ کی بدولت دنیا بھر کے ادارے اپنے وسیع ڈیٹا کو ریموٹ سرورز پر محفوظ کر کے کسی بھی وقت برق رفتاری سے استعمال کر سکتے ہیں۔",
+          "reading": "Cloud computing ki badaulat dunya bhar ke idaaray apnay wasee' data ko remote servers par mehfooz kar ke kisi bhi waqt barq-raftaari se istemaal kar saktay hain. [klaːʊɖ kəmpjuːʈɪŋɡ kiː bədɔːlət̪ d̪ʊnjaː bʱər keː ɪd̪aːreː əpneː ʋəsiːʔ ɖeːʈaː koː rɪmoːʈ sərvərz pər mɛhfuːz kər keː kɪsiː bʱiː ʋəqt̪ bərq-rəftaːriː seː ɪst̪ɪʔmaːl kər səkt̪eː hɛ̃ː] (cloud computing kee buh-DOW-luht doon-YAH bhuhr kay ee-dah-RAY uhp-NAY wuh-SEE data koh remote servers puhr myh-FOOZ kuhr kay kee-SEE bhee WUHQT buhrq-ruhf-tah-REE say ees-teh-MAHL kuhr suhk-TAY HYN)",
+          "translation": "Thanks to cloud computing, organizations worldwide can store extensive data on remote servers and access it with lightning speed at any time."
+        },
+        {
+          "target": "صارفین کے ذاتی ڈیٹا کے تحفظ اور پرائیویسی قوانین کی پاسداری تمام ٹیک کمپنیوں کی اولین قانونی اور اخلاقی ذمہ داری ہے۔",
+          "reading": "Saarifeen ke zaati data ke tahaffuz aur privacy qawaaneen ki paasdaari tamaam tech companiyon ki awwaleen qaanooni aur akhlaaqi zimma-daari hai. [saːrɪfiːn keː zaːt̪iː ɖeːʈaː keː t̪əhəfːʊz ɔːr praːʔɪʋəsiː qəʋaːniːn kiː paːsdaːriː t̪əmaːm ʈɛk kəmpnɪjõː kiː əʋːəliːn qaːnuːniː ɔːr əxlaːqiː zɪmːə-d̪aːriː hɛː] (sah-ree-FEEN kay zah-TEE data kay tuh-huhf-FOOZ owr privacy quh-wah-NEEN kee pahs-dah-REE tuh-MAHM tech companiyon kee uhw-wuh-LEEN qah-noo-NEE owr uhkh-lah-QEE zeem-muh-dah-REE HY)",
+          "translation": "Protecting consumers' personal data and upholding privacy laws is the foremost legal and ethical responsibility of all tech companies."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سائبر سیکیورٹی: ڈیٹا انکرپشن + فائر وال کا حصار + کلاؤڈ اسٹوریج + پرائیویسی قوانین!"
+      ],
+      "culturalNotes": [
+        "ڈیجیٹل پاکستان ویژن کے تحت سرکاری اداروں اور بینکنگ سیکٹر میں سائبر سیکیورٹی انفراسٹرکچر کو جدید خطوط پر استوار کیا جا رہا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کالج\":",
+          "prompt": "ڈیٹا کو غیر مجاز رسائی سے بچانے کے لیے خفیہ کوڈ میں تبدیل کرنے کے سائنسی عمل کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («استاد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («طالب علم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبق» کی خرابی)"
+            "ڈیٹا انکرپشن (Data Encryption - Converting information into secure unreadable code)",
+            "صرف فائل ڈیلیٹ کرنا",
+            "صرف اسکرین بند کرنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ڈیٹا کو محفوظ بنانے کے خفیہ کاری کے عمل کو «ڈیٹا انکرپشن» (Data Encryption) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کالج\":",
+          "prompt": "انٹرنیٹ کے ذریعے ریموٹ سرورز پر ڈیٹا کو محفوظ کرنے اور پروسیسنگ پاور حاصل کرنے کی ٹیکنالوجی کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («طالب علم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبق» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («استاد» کا غیر درست استعمال)"
+            "کلاؤڈ کمپیوٹنگ (Cloud Computing - Delivering computing services over internet remote servers)",
+            "صرف یو ایس بی فلیش ڈرائیو",
+            "صرف سی ڈی روم",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "انٹرنیٹ سرورز کے ذریعے ڈیٹا اسٹوریج کو «کلاؤڈ کمپیوٹنگ» (Cloud Computing) کہا جاتا ہے۔"
         }
       ]
     },
@@ -12091,17 +12110,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کالج\": Which sentence is completely correct?",
+          "prompt": "سائبر سیکیورٹی اور کلاؤڈ سسٹمز (Cybersecurity & Cloud Computing) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سبق» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («استاد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («طالب علم» سے متعلق)"
+            "مالیاتی اداروں کے حساس ڈیٹا کے تحفظ کے لیے مضبوط ڈیٹا انکرپشن، فعال فائر وال اور محفوظ کلاؤڈ انفراسٹرکچر کا نفاذ ناگزیر ہے۔ (Implementing robust data encryption, active firewalls, and secure cloud infrastructure is essential to protect financial data.)",
+            "فائر وال نے تار کو توڑ کر چائے پی تھی اور روئی تھی۔",
+            "انکرپشن کا مطلب ڈیٹا کو انٹرنیٹ پر سب کے سامنے رکھنا ہے۔",
+            "کلاؤڈ کمپیوٹنگ صرف بادلوں کی تصویر لینے کو کہتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«مالیاتی اداروں کے حساس ڈیٹا کے تحفظ کے لیے مضبوط ڈیٹا انکرپشن، فعال فائر وال اور محفوظ کلاؤڈ انفراسٹرکچر کا نفاذ ناگزیر ہے۔» سائبر سیکیورٹی کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u29-l3": {
@@ -12109,53 +12129,62 @@
     "subject": "urdu",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "فلسفہ، تصوف اور اخلاقیات (Philosophy & Sufism) (Part 3)",
+    "title": "بائیو ٹیکنالوجی، جینیاتی انجینئرنگ اور خلائی تحقیق (Biotech, Genetics & Space Research)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.3) with authentic precision.",
+    "objective": "بائیو ٹیکنالوجی، جینیاتی انجینئرنگ (CRISPR)، ڈی این اے، خلائی تسخیر، سیٹلائٹس، اور سپارکو (SUPARCO) کے سائنسی بیانیے پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بائیو ٹیکنالوجی اور خلائی تحقیق کے علوم (Biotech & Space Science):\n\n1. **جینیاتی سائنس اور بائیو ٹیکنالوجی**:\n   - «**بائیو ٹیکنالوجی (Biotechnology)**»: حیاتیاتی نظاموں کا صنعتی اور طبی استعمال؛\n   - «**جینیاتی انجینئرنگ (Genetic Engineering)**»: ڈی این اے کی جینیاتی ترمیم؛\n   - «**کرسپر ٹیکنالوجی (CRISPR)**»: موروثی بیماریوں کا جینیاتی علاج۔\n\n2. **خلائی تسخیر اور سیٹلائٹ ٹیکنالوجی**:\n   - «**خلائی تحقیق (Space Exploration)** اور کائناتی مشاہدات»；\n   - «**سپارکو (SUPARCO)** اور پاکستان کے مواصلاتی و ارضیاتی سیٹلائٹس»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "بائیو ٹیکنالوجی اور جینیاتی انجینئرنگ نے موذی موروثی بیماریوں کے علاج اور موسمیاتی سختیوں کا مقابلہ کرنے والی زرعی فصلوں کی تیاری میں نئی راہیں کھولی ہیں۔",
+          "reading": "Biotechnology aur jeeniyaati engineering ne moozi mawroosi beemaariyon ke ilaaj aur mawsimiyaati sakhtiyon ka muqaabla karnay waali zar'i faslon ki tayyaari mein nayi raahein kholi hain. [baːʔɪjoː-ʈɛknɔːlədʒiː ɔːr dʒiːnɪjaːt̪iː ɪndʒiːnɪjərɪŋɡ neː muːziː mɔːruːsiː biːmaːrɪjõː keː ɪlaːdʒ ɔːr mɔːsɪmɪjaːt̪iː səxt̪ɪjõː kaː mʊqaːbəlaː kərneː ʋaːliː zərʔiː fəslõː kiː t̪əjːaːriː mẽː nəjiː raːhẽː kʰoːlĩː hɛ̃ː] (biotechnology owr jee-nee-yah-TEE engineering nay MOO-zee mow-roo-SEE bee-mah-ree-YOHN kay ee-LAHJ owr mow-see-mee-yah-TEE suhkh-tee-YOHN kah moo-qah-buh-LAH kuhr-NAY vah-LEE zuhr-EE fuhs-LOHN kee tuhy-yah-REE mayn nuh-YEE rah-HEEN kho-LEEN HYN)",
+          "translation": "Biotechnology and genetic engineering [biotech: jeeniyaati engineering] have opened new pathways for treating lethal hereditary diseases and producing resilient agricultural crops against climatic stresses."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 29-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "قومی خلائی ایجنسی سپارکو کے مواصلاتی سیٹلائٹس ملک میں ٹیلی کام، انٹرنیٹ، ارضیاتی نقشہ سازی اور قدرتی آفات کی پیشگی وارننگ کے لیے مدار میں محوِ پرواز ہیں۔",
+          "reading": "Qawmi khalaa'i agency SUPARCO ke muwaasilaati satellites mulk mein telecom, internet, arz-yaati naqsha-saazi aur qudrati aafaat ki peishgi warning ke liye madaar mein mehw-e-parwaaz hain. [qɔːmiː xəlaːʔiː eːdʒənsiː sʊpaːrkoː keː mʊʋaːsɪlaːt̪iː sɛːʈəlaːʔɪʈs mʊlk mẽː ʈɛliːkɔːm ɪnʈərnɛʈ ərz-jaːt̪iː nəqʃaː-saːziː ɔːr qʊd̪rət̪iː aːfaːt̪ kiː peːʃɡiː ʋaːrnɪŋɡ keː lɪjeː məd̪aːr mẽː mɛhʋ-eː-pərʋaːz hɛ̃ː] (QOW-mee khuh-LAH-ee agency SUPARCO kay moo-wah-see-LAH-tee satellites MOOLK mayn telecom, internet, uhrz-yah-TEE nuhq-shah-sah-ZEE owr qood-ruh-TEE ah-FAHT kee paysh-GEE warning kay lee-AY muh-DAHR mayn MYH-wuh-puhr-VAHZ HYN)",
+          "translation": "Communication satellites of the national space agency SUPARCO orbit in space [space research: SUPARCO] to facilitate telecom, internet, geological mapping, and early warning for natural disasters."
+        },
+        {
+          "target": "کرسپر ٹیکنالوجی کی مدد سے ڈی این اے کی جینیاتی ساخت میں کی جانے والی ترامیم طب کے شعبے میں انقلابی پیش رفت ثابت ہو رہی ہیں۔",
+          "reading": "CRISPR technology ki madad se DNA ki jeeniyaati saakht mein ki jaanay waali taraameem tib ke sho'bay mein inqilaabi peish-raft saabit ho rahi hain. [krɪspər ʈɛknɔːlədʒiː kiː məd̪əd̪ seː ɖiː-ɛn-eː kiː dʒiːnɪjaːt̪iː saːxt mẽː kiː dʒaːneː ʋaːliː t̪əraːmiːm t̪ɪb keː ʃoːʔbeː mẽː ɪnqɪlaːbiː peːʃ-rəft̪ saːbɪt̪ hoː rəhiː hɛ̃ː] (CRISPR technology kee muh-DUHD say DNA kee jee-nee-yah-TEE sahkh-T mayn kee jah-NAY vah-LEE tuh-rah-MEEM teeb kay sho-BAY mayn een-qee-LAH-bee paysh-RUHFT sah-BEET hoh ruh-HEE HYN)",
+          "translation": "Edits made in the genetic structure of DNA using CRISPR technology are proving to be a revolutionary breakthrough in the medical sector."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سائنسی پیش رفت: بائیو ٹیکنالوجی (جین ایڈیٹنگ) + ڈی این اے (کرسپر) + سپارکو (خلائی سیٹلائٹ)!"
+      ],
+      "culturalNotes": [
+        "سپارکو نے پاکستان کا جدید مواصلاتی سیٹلائٹ پاک سیٹ (PakSat) کامیابی سے خلا میں بھیجا جس سے ملکی ٹیلی کام نظام خود کفیل ہوا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"استاد\":",
+          "prompt": "جانداروں کے خلیات میں ڈی این اے کی جینیاتی ساخت کو تبدیل کرنے کے جدید سائنسی عمل کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («طالب علم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبق» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («امتحان» کی خرابی)"
+            "جینیاتی انجینئرنگ / جین ایڈیٹنگ (Genetic Engineering / CRISPR - Modifying genetic material of organisms)",
+            "صرف خون کا ٹیسٹ",
+            "صرف دوا کی گولی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ڈی این اے کی ترمیم کو «جینیاتی انجینئرنگ» (Genetic Engineering) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"استاد\":",
+          "prompt": "پاکستان کے قومی خلائی اور بالائی فضا کے تحقیقی ادارے کو کس نام سے جانا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبق» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («امتحان» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («طالب علم» کا غیر درست استعمال)"
+            "سپارکو / SUPARCO (Space and Upper Atmosphere Research Commission of Pakistan)",
+            "او جی ڈی سی ایل",
+            "پی ٹی اے",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "خلائی تحقیقاتی ادارے کو «سپارکو» (SUPARCO) کہتے ہیں۔"
         }
       ]
     },
@@ -12163,17 +12192,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"استاد\": Which sentence is completely correct?",
+          "prompt": "بائیو ٹیکنالوجی اور خلائی تحقیق (Biotech & Space Exploration) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («امتحان» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («طالب علم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سبق» سے متعلق)"
+            "جینیاتی انجینئرنگ اور کرسپر ٹیکنالوجی کے ذریعے طبی علاج میں نئی دریافتیں ہو رہی ہیں جبکہ سپارکو کے سیٹلائٹس خلائی تحقیق اور ارضیاتی نگرانی کو ممکن بنا رہے ہیں۔ (Genetic engineering and CRISPR are opening medical discoveries while SUPARCO satellites enable space exploration and geological monitoring.)",
+            "سیٹلائٹ نے سمندر میں غوطہ لگا کر گاڑی روئی تھی اور چائے پی تھی۔",
+            "جینیاتی انجینئرنگ صرف کمپیوٹر کے بٹن دبانے کو کہتے ہیں۔",
+            "سپارکو صرف سڑکوں پر جھاڑو دینے والا ادارہ ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جینیاتی انجینئرنگ اور کرسپر ٹیکنالوجی کے ذریعے طبی علاج میں نئی دریافتیں ہو رہی ہیں جبکہ سپارکو کے سیٹلائٹس خلائی تحقیق اور ارضیاتی نگرانی کو ممکن بنا رہے ہیں۔» جدید سائنسی تحقیق کا کامل نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u29-l4": {
@@ -12181,53 +12211,62 @@
     "subject": "urdu",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "فلسفہ، تصوف اور اخلاقیات (Philosophy & Sufism) (Part 4)",
+    "title": "تجدید پذیر توانائی، روبوٹکس اور الیکٹرک گاڑیاں (Renewable Energy, Robotics & EVs)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.4) with authentic precision.",
+    "objective": "تجدید پذیر توانائی (شمسی، ہوائی)، روبوٹکس، انڈسٹریل آٹومیشن، اور الیکٹرک گاڑیوں (EVs) کے فنی و ماحولیاتی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ماحول دوست توانائی اور صنعتی روبوٹکس (Green Tech & Robotics):\n\n1. **تجدید پذیر توانائی (Renewable Energy)**:\n   - «**شمسی توانائی (Solar Energy)** اور سولر پینلز کا وسیع جال»؛\n   - «**ہوائی توانائی (Wind Energy)** اور ونڈ ٹربائنز»؛\n   - «کاربن کے اخراج میں کمی اور ماحول دوست گرین ٹیکنالوجی»۔\n\n2. **روبوٹکس اور الیکٹرک گاڑیاں (EVs)**:\n   - «**صنعتی روبوٹکس (Industrial Robotics)** اور خود کار اسمبلی لائنز»；\n   - «**الیکٹرک گاڑیاں (Electric Vehicles / EVs)** اور لیتھیم آئن بیٹریاں»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "تجدید پذیر توانائی کے منصوبے جیسے کہ وسیع شمسی پارک اور پون چکیاں کاربن کے اخراج میں کمی لا کر ماحولیاتی تحفظ کا مؤثر ذریعہ ہیں۔",
+          "reading": "Tajdeed-pazeer tawaana'i ke mansoobay jaisay keh wasee' shamsi park aur pawan chakkiyan carbon ke ikhraaj mein kami laa kar maahawliyaati tahaffuz ka mu'assir zariya hain. [t̪ədʒd̪iːd̪-pəziːr t̪əʋaːnaːʔiː keː mənsuːbeː dʒɛːseː kɛh ʋəsiːʔ ʃəmsiː paːrk ɔːr pəʋən tʃəkːɪjãː kaːrbən keː ɪxraːdʒ mẽː kəmiː laː kər maːhɔːlɪjaːt̪iː t̪əhəfːʊz kaː mʊʔəsːɪr zərɪjaː hɛ̃ː] (tuhj-deed-puh-ZEER tuh-wah-nah-EE kay muhn-soo-BAY JAY-say KYH wuh-SEE shuhm-SEE park owr puh-wuhn chuhk-kee-YAHN carbon kay eekh-RAHJ mayn kuh-MEE lah kuhr mah-how-lee-yah-TEE tuh-huhf-FOOZ kah moo-uhs-SEER zuh-ree-YAH HYN)",
+          "translation": "Renewable energy projects such as extensive solar parks and wind turbines [green tech: tajdeed-pazeer tawaana'i] are an effective means of environmental protection by reducing carbon emissions."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 29-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "صنعتی روبوٹکس اور خود کار ڈرائیونگ والی گاڑیاں مینوفیکچرنگ اور نقل و حمل کے شعبے میں انسانی غلطی کے امکانات کو ختم کر کے پیداواری صلاحیت کو دوچند کر رہی ہیں۔",
+          "reading": "San'ati robotics aur khud-kaar driving waali gaariyan manufacturing aur naql-o-hamal ke sho'bay mein insaani ghalati ke imkaanaat ko khatam kar ke paidaawaari salaahiyat ko do-chand kar rahi hain. [sənʔət̪iː roːboːʈɪks ɔːr xʊd̪-kaːr ɖraːʔɪʋɪŋɡ ʋaːliː ɡaːɽɪjãː mɛːnjuːfɛktʃərɪŋɡ ɔːr nəql-oː-həməl keː ʃoːʔbeː mẽː ɪnsaːniː ɣələt̪iː keː ɪmkaːnaːt̪ koː xət̪m kər keː pɛːd̪aːʋaːriː səlaːhɪjət̪ koː d̪oː-tʃənd̪ kər rəhiː hɛ̃ː] (suhn-uh-TEE robotics owr khohd-KAHR driving vah-LEE gah-ree-YAHN manufacturing owr nuhql-oh-huh-MUHL kay sho-BAY mayn een-sah-NEE ghuh-luh-TEE kay eem-kah-NAHT koh khuh-TUHM kuhr kay py-dah-wah-REE suh-lah-hee-YUHT koh DOH-chuhnd kuhr ruh-HEE HYN)",
+          "translation": "Industrial robotics and autonomous self-driving vehicles are doubling productivity in manufacturing and transportation by eliminating human error."
+        },
+        {
+          "target": "لیتھیم آئن بیٹریوں کی جدید چارجنگ ٹیکنالوجی نے دنیا بھر میں روایتی پیٹرول و ڈیزل گاڑیوں کے مقابلے میں الیکٹرک گاڑیوں کے رجحان کو تیز رفتار بنا دیا ہے۔",
+          "reading": "Lithium-ion batteriyon ki jadeed charging technology ne dunya bhar mein rawaayati petrol o diesel gaariyon ke muqaablay mein electric gaariyon ke rujhaan ko teiz-raftaar bana diya hai. [lɪt̪ʰɪjəm-aːʔɪn bɛːʈrɪjõː kiː dʒəd̪iːd̪ tʃaːrdʒɪŋɡ ʈɛknɔːlədʒiː neː d̪ʊnjaː bʱər mẽː rəʋaːjət̪iː pɛʈroːl oː diːzəl ɡaːɽɪjõː keː mʊqaːbəleː mẽː ɪlɛktrɪk ɡaːɽɪjõː keː rʊdʒhaːn koː teːz-rəftaːr bənaː d̪ɪjaː hɛː] (lithium-ion buht-ree-YOHN kee juh-DEED charging technology nay doon-YAH bhuhr mayn ruh-wah-yuh-TEE petrol oh diesel gah-ree-YOHN kay moo-qah-buh-LAY mayn electric gah-ree-YOHN kay rooj-HAHN koh tayz-ruhf-TAHR buh-nah DEE-yah HY)",
+          "translation": "Modern charging technology for lithium-ion batteries has accelerated the trend towards electric vehicles over conventional petrol and diesel automobiles worldwide."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سبز صنعتی انقلاب: شمسی و پون توانائی + صنعتی روبوٹکس + الیکٹرک گاڑیاں (لیتھیم بیٹریاں)!"
+      ],
+      "culturalNotes": [
+        "پاکستان میں قائد اعظم سولر پارک اور جھمپیر ونڈ کوریڈور تجدید پذیر توانائی کے قومی منصوبوں کے اہم ترین مراکز ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"طالب علم\":",
+          "prompt": "سورج کی روشنی اور ہوا جیسے قدرتی ذرائع سے حاصل ہونے والی کبھی ختم نہ ہونے والی توانائی کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبق» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («امتحان» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نتیجہ» کی خرابی)"
+            "تجدید پذیر توانائی (Renewable Energy - Infinite sustainable energy from sun and wind)",
+            "صرف کوئلہ جلانا",
+            "صرف لکڑیاں کاٹنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "قدرتی پائیدار توانائی کو «تجدید پذیر توانائی» (Renewable Energy) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"طالب علم\":",
+          "prompt": "فوسل فیولز (پیٹرول و ڈیزل) کی بجائے بیٹری اور برقی موٹر سے چلنے والی ماحول دوست گاڑیوں کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («امتحان» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نتیجہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبق» کا غیر درست استعمال)"
+            "الیکٹرک گاڑیاں / EVs (Electric Vehicles - Battery-powered eco-friendly automobiles)",
+            "بھاپ کا پرانا انجن",
+            "بیل گاڑی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "بیٹری سے چلنے والی جدید سواریوں کو «الیکٹرک گاڑیاں» (Electric Vehicles) کہا جاتا ہے۔"
         }
       ]
     },
@@ -12235,17 +12274,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"طالب علم\": Which sentence is completely correct?",
+          "prompt": "تجدید پذیر توانائی اور روبوٹکس (Renewable Energy & Robotics) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («نتیجہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سبق» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («امتحان» سے متعلق)"
+            "شمسی اور ہوائی توانائی پر مبنی تجدید پذیر منصوبے اور الیکٹرک گاڑیوں کا پھیلاؤ کاربن کے اخراج کو کم کر کے صنعتی ترقی کو ماحول دوست بنا رہے ہیں۔ (Solar and wind renewable energy projects and EV adoption reduce carbon emissions, making industrial growth eco-friendly.)",
+            "روبوٹ نے سولر پینل کو پانی میں ابال کر رویا تھا اور گاڑی چلائی تھی۔",
+            "تجدید پذیر توانائی سے ماحول میں زہریلا دھواں پیدا ہوتا ہے۔",
+            "الیکٹرک گاڑیاں صرف لکڑی کے کوئلے سے چلتی ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شمسی اور ہوائی توانائی پر مبنی تجدید پذیر منصوبے اور الیکٹرک گاڑیوں کا پھیلاؤ کاربن کے اخراج کو کم کر کے صنعتی ترقی کو ماحول دوست بنا رہے ہیں۔» گرین ٹیکنالوجی کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u29-l5": {
@@ -12253,53 +12293,62 @@
     "subject": "urdu",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "فلسفہ، تصوف اور اخلاقیات (Philosophy & Sufism) (Part 5)",
+    "title": "سائنس، مصنوعی ذہانت اور ٹیکنالوجی کا جامع سمیکن (Science & Tech Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 29.5) with authentic precision.",
+    "objective": "مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیکنالوجی، خلائی تحقیق، اور تجدید پذیر توانائی کو ایک فصیح، مدلل اور ہمہ گیر سائنسی شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "سائنس، مصنوعی ذہانت اور ٹیکنالوجی کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **سائنسی و تکنیکی شعبوں کا ہمہ جہت احاطہ**:\n   - **مصنوعی ذہانت**: «الگورتھم، مشین لرننگ اور بڑے لسانی ماڈلز (LLMs)»；\n   - **سائبر تحفظ**: «ڈیٹا انکرپشن، فائر وال اور محفوظ کلاؤڈ کمپیوٹنگ»；\n   - **بائیو و خلائی سائنس**: «جینیاتی کرسپر انجینئرنگ اور سپارکو کے خلائی سیٹلائٹس»；\n   - **گرین انڈسٹری**: «شمسی و ہوائی توانائی، صنعتی روبوٹکس اور الیکٹرک گاڑیاں»۔\n\n2. **جدید سائنسی تفہیم اور اردو کا علمی وقار**:\n   - یہ زبان اردو میں سائنسی مقالہ جات، تکنیکی مکالمے اور جدید ترین ایجادات کے احاطے کا شاہکار ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اکیسویں صدی میں مصنوعی ذہانت کے نیورل الگورتھمز، بائیو ٹیکنالوجی کی جینیاتی دریافتوں اور تجدید پذیر توانائی کے جدید حلوں نے انسانی تہذیب کے مستقبل کو یکسر تبدیل کر دیا ہے۔",
+          "reading": "Ikkisween sadi mein masnoo'i zahaanat ke neural algorithms, biotechnology ki jeeniyaati daryaafton aur tajdeed-pazeer tawaana'i ke jadeed hallon ne insaani tehzeeb ke mustaqbil ko yaksar tabdeel kar diya hai. [ɪkːiːsʋĩː səd̪iː mẽː məsnuːʔiː zəhaːnət̪ keː njuːrəl ɛlɡɔːrɪt̪ʰəmz baːʔɪjoː-ʈɛknɔːlədʒiː kiː dʒiːnɪjaːt̪iː d̪ərjaːft̪õː ɔːr t̪ədʒd̪iːd̪-pəziːr t̪əʋaːnaːʔiː keː dʒəd̪iːd̪ həlːõː neː ɪnsaːniː t̪ɛhziːb keː mʊst̪əqbɪl koː jəksər t̪əbd̪iːl kər d̪ɪjaː hɛː] (eek-kees-VEEN suh-DEE mayn muhs-noo-EE zuh-hah-NUHT kay neural algorithms, biotechnology kee jee-nee-yah-TEE duhr-yahf-TOHN owr tuhj-deed-puh-ZEER tuh-wah-nah-EE kay juh-DEED huuhl-LOHN nay een-sah-NEE tyh-ZEEB kay moos-tuhq-BEEL koh yuhk-SUHR tuhb-DEEL kuhr DEE-yah HY)",
+          "translation": "In the twenty-first century, neural algorithms of artificial intelligence [science synthesis: masnoo'i zahaanat], genetic discoveries of biotechnology, and innovative solutions of renewable energy have completely transformed the future of human civilization."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 29-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سائبر سیکیورٹی کے مضبوط ڈھانچے اور خلائی مواصلاتی سیاروں کا مربوط نظام ہی جدید ڈیجیٹل معیشت اور سائنسی ترقی کی بنیادی شہ رگ ہے۔",
+          "reading": "Cybersecurity ke mazboot dhaanchnay aur khalaa'i muwaasilaati satellites ka marboot nizaam hi jadeed digital ma'eeshat aur saainsi taraqqi ki bunyaadi sheh-rag hai. [saːʔɪbər-sɪkjuːrɪʈiː keː məzbuːt̪ d̪ʱaːntʃeː ɔːr xəlaːʔiː mʊʋaːsɪlaːt̪iː sɛːʈəlaːʔɪʈs kaː mərbuːt̪ nɪzaːm hiː dʒəd̪iːd̪ ɖɪdʒɪʈəl məʔiːʃət̪ ɔːr saːʔɪnsiː t̪ərəqːiː kiː bʊnjaːd̪iː ʃɛh-rəɡ hɛː] (cybersecurity kay muhz-BOOT dhahn-CHAY owr khuh-LAH-ee moo-wah-see-LAH-tee satellites kah muhr-BOOT nee-ZAHM HEE juh-DEED digital muh-EE-shuht owr sah-een-SEE tuh-ruhq-QEE kee boon-yah-DEE shyh-RUHG HY)",
+          "translation": "A robust cybersecurity framework and an integrated system of space communication satellites form the fundamental lifeline of the modern digital economy and scientific advancement."
+        },
+        {
+          "target": "اردو زبان میں جدید سائنسی و تکنیکی اصطلاحات کا یہ باوقار امتزاج طلباء میں تحقیق، جدت طرازی اور سائنسی استدلال کے روشن دروازے کھولتا ہے۔",
+          "reading": "Urdu zabaan mein jadeed saainsi o takneeki istilaahaat ka yeh baa-waqaar imtizaaj tulba mein tehqeeq, jiddat-taraazi aur saainsi istidlaal ke raushan darwaazay kholta hai. [ʊrd̪uː zəbaːn mẽː dʒəd̪iːd̪ saːʔɪnsiː oː t̪əkniːkiː ɪst̪ɪlaːhaːt̪ kaː jɛh baː-ʋəqaːr ɪmt̪ɪzaːdʒ t̪ʊlbaː mẽː t̪ɛhqiːq dʒɪd̪ːət̪-t̪əraːziː ɔːr saːʔɪnsiː ɪst̪ɪd̪laːl keː roːʃən d̪ərʋaːzeː kʰoːlt̪aː hɛː] (OOR-doo zuh-BAHN mayn juh-DEED sah-een-SEE oh tuhk-nee-KEE ees-tee-lah-HAHT kah YEH bah-wuh-QAHR eem-tee-ZAHJ tool-BAH mayn tyh-QEEQ, jeed-duht-tuh-rah-ZEE owr sah-een-SEE ees-teed-LAHL kay rosh-SHUHN duhr-wah-ZAY khohl-TAH HY)",
+          "translation": "This dignified synthesis of modern scientific and technical terminology in the Urdu language opens luminous doors of research, innovation, and scientific reasoning among students."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع سائنسی سمیکن: مصنوعی ذہانت (AI) + سائبر سیکیورٹی + بائیو و خلائی سائنس + تجدید پذیر توانائی و روبوٹکس!"
+      ],
+      "culturalNotes": [
+        "قومی زبان میں سائنسی و تکنیکی لٹریچر کی ترویج پاکستان کے نوجوانوں کو عالمی سائنسی انقلاب میں خود کفیل اور قیادت کے قابل بناتی ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سبق\":",
+          "prompt": "سائنس، مصنوعی ذہانت اور جدید ٹیکنالوجی کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («امتحان» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نتیجہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لائبریری» کی خرابی)"
+            "مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیک، خلائی تحقیق اور تجدید پذیر توانائی کا مربوط سائنسی مطالعہ (Masterful synthesis of AI, cybersecurity, biotechnology, space research, and renewable energy)",
+            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف کمپیوٹر کی تاریں گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیک، خلائی تحقیق اور تجدید پذیر توانائی کا مربوط سائنسی مطالعہ» سائنسی علوم کا کامل ترین سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سبق\":",
+          "prompt": "مصنوعی ذہانت اور جدید ٹیکنالوجی کا جامع سمیکن انسانیت کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نتیجہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لائبریری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («امتحان» کا غیر درست استعمال)"
+            "پیچیدہ بیماریوں کا علاج، پائیدار ماحول، خود کار صنعتی ترقی اور کائناتی تسخیر (Curing complex diseases, sustainable environment, automated industrial growth, and cosmic exploration)",
+            "صرف روبوٹ کے کھلونے بنانا (محدود دائرہ)",
+            "صرف انٹرنیٹ کا بل ادا کرنا (بے فائدہ مشق)",
+            "سائنسی تحقیق کو روکنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ پیچیدہ بیماریوں کے علاج، پائیدار ماحول، صنعتی ترقی اور کائناتی تسخیر کو ممکن بناتا ہے۔"
         }
       ]
     },
@@ -12307,17 +12356,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سبق\": Which sentence is completely correct?",
+          "prompt": "سائنس، مصنوعی ذہانت اور ٹیکنالوجی کے جامع سمیکن (Science & Tech Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («لائبریری» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («امتحان» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نتیجہ» سے متعلق)"
+            "مصنوعی ذہانت کے الگورتھمز، جینیاتی کرسپر ٹیکنالوجی، خلائی سیٹلائٹس اور تجدید پذیر توانائی کے جدید حل اکیسویں صدی میں سائنسی ترقی اور پائیدار مستقبل کے ضامن ہیں۔ (AI algorithms, genetic CRISPR, space satellites, and renewable energy solutions guarantee 21st-century progress.)",
+            "سائنس نے روبوٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانے کیلکولیٹر کی بیٹری کو کہتے ہیں۔",
+            "سائنس اور ٹیکنالوجی کا انسانی زندگی سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«مصنوعی ذہانت کے الگورتھمز، جینیاتی کرسپر ٹیکنالوجی، خلائی سیٹلائٹس اور تجدید پذیر توانائی کے جدید حل اکیسویں صدی میں سائنسی ترقی اور پائیدار مستقبل کے ضامن ہیں۔» جدید سائنس اور ٹیکنالوجی کا شاہکار ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u30-l1": {
