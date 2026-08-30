@@ -17912,85 +17912,89 @@
     "subject": "arabic",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science) (الدرس 1)",
+    "title": "ثورة الرياضيات وعلم الجبر عند الخوارزمي (Al-Khwarizmi: Algebra & Algorithm Revolution)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: إسهامات الخوارزمي، ابن الهيثم، ابن النفيس، والبيروني في الفلك والطب والرياضيات. (الجزء 1).",
+    "objective": "إتقان إسهامات محمد بن موسى الخوارزمي في تأسيس علم الجبر والمقابلة، وإدخال الصفر والترقيم الهندي العربي، ونشأة مفهوم الخوارزميات الرياضية والحاسوبية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "شكلت إسهامات محمد بن موسى الخوارزمي (ت 232 هـ) في «بيت الحكمة» ببغداد حجر الزاوية في الرياضيات الحديثة والحوسبة العالمية:\n\nأولاً: تأسيس علم الجبر (The Invention of Algebra):\n- ألف الخوارزمي كتابه التاريخي «**المُخْتَصَرُ فِي حِسَابِ الجَبْرِ وَالمُقَابَلَةِ**» بطلب من الخليفة المأمون.\n- حوّل الرياضيات من الهندسة الإقليدية الحسية إلى علم تجريدي لحل المعادلات من الدرجة الأولى والثانية.\n- **الجَبْرُ**: إضافة كميات متساوية لطرفي المعادلة للتخلص من الحدود السالبة.\n- **المُقَابَلَةُ**: اختصار الحدود المتشابهة في طرفي المعادلة لتبسيطها.\n\nثانياً: النظام العشري والصفر ونشأة «الخوارزميات» (Algorithms):\n- أدخل الخوارزمي **الصِّفْرَ (Zero)** والنظام العشري إلى العالم الغربي عبر كتابه «**الحِسَابُ بِالهِنْدِيِّ**» (Algoritmi de numero Indorum).\n- اشتُق مصطلح **الخَوَارِزْمِيَّةِ (Algorithm)** من اسمه اللاتيني (Algoritmi)، ليصبح عماد البرمجة وعلوم الحاسوب الحديثة.\n\nثالثاً: المصطلحات الرياضية الخوارزمية:\n- **الشَّيْءُ / الجَذْرُ (x)**، **المَالُ (x²)**، و**الدِّرْهَمُ (المقدار العددي الثابت)**.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)' to students in an accurate academic style."
+          "target": "أَسَّسَ مُحَمَّد بْنُ مُوسَى الخَوَارِزْمِيُّ عِلْمَ الجَبْرِ كَفَرْعٍ رِيَاضِيٍّ مُسْتَقِلٍّ قَائِمٍ عَلَى المُعَادَلَاتِ وَالتَّجْرِيدِ.(Assasa Muḥammadu ibnu Mūsā al-Khawārizmiyyu ʿilma al-jabri ka-farʿin riyāḍiyyin mustaqillin qāʾimin ʿalā al-muʿādalāti wa-at-tajrīd.)",
+          "reading": "[ʔas.sa.sa mu.ħam.ma.du‿b.nu muː.saː‿l.xa.waː.riz.mij.ju ʕil.ma‿l.ʒab.ri ka.far.ʕin ri.jaː.dˤij.jin mus.ta.qil.lin qaː.ʔi.min ʕa.laː‿l.mu.ʕaː.da.laː.ti wat.taʒ.riːd] (As-sa-sa Mu-ḥam-ma-du ib-nu Mū-sā al-Kha-wā-riz-miy-yu ʿil-ma al-jab-ri ka-far-ʿin ri-yā-ḍiy-yin mus-ta-qil-lin qā-ʾi-min ʿa-lā al-mu-ʿā-da-lā-ti wa-at-taj-rīd.)",
+          "translation": "Muhammad ibn Musa al-Khwarizmi founded algebra as an independent mathematical branch based on equations and abstraction."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "اشْتُقَّ مُصْطَلَحُ «الخَوَارِزْمِيَّاتِ» العَالَمِيُّ مِنِ اسْمِ الخَوَارِزْمِيِّ لِيَغْدُوَ عِمَادَ الحَوْسَبَةِ وَالبَرْمَجَةِ الرَّقْمِيَّةِ.(Ushtuqqqa muṣṭalaḥu «al-khawārizmiyyāt» al-ʿālamiyyu min ismi al-Khawārizmiyyi li-yaghduwa ʿimāda al-ḥawsabati wa-al-barmajati ar-raqmiyyah.)",
+          "reading": "[ʔuʃ.tuq.qa musˤ.tˤa.la.ħu «ʔal.xa.waː.riz.mij.jaːt» ʔal.ʕaː.la.mij.ju mi.nis.mi‿l.xa.waː.riz.mij.ji li.jaɣ.du.wa ʕi.maː.da‿l.ħaw.sa.ba.ti wal.bar.ma.ʒa.ti‿r.raq.mij.jah] (Ush-tuq-qa muṣ-ṭa-la-ḥu «al-kha-wā-riz-miy-yāt» al-ʿā-la-miy-yu min is-mi al-Kha-wā-riz-miy-yi li-yagh-du-wa ʿi-mā-da al-ḥaw-sa-ba-ti wa-al-bar-ma-ja-ti ar-raq-miy-yah.)",
+          "translation": "The global term 'algorithms' was derived from al-Khwarizmi's name to become the pillar of computing and digital programming."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَعْنِي «الجَبْرُ» فِي حِسَابِ الخَوَارِزْمِيِّ إِضَافَةَ حَدٍّ مُوجَبٍ لِلتَّخَلُّصِ مِنَ السَّوَالِبِ فِي طَرَفَيِ المُعَادَلَةِ.(Yaʿnī «al-jabru» fī ḥisābi al-Khawārizmiyyi iḍāfata ḥaddin mūjabin li-t-takhalluṣi min as-sawālibi fī ṭarafayi al-muʿādalah.)",
+          "reading": "[jaʕ.niː «ʔal.ʒab.ru» fiː ħi.saː.bi‿l.xa.waː.riz.mij.ji ʔi.dˤaː.fa.ta ħad.din muː.ʒa.bin lit.ta.xal.lu.sˤi mi.na‿s.sa.waː.li.bi fiː tˤa.ra.fa.ji‿l.mu.ʕaː.da.lah] (Yaʿ-nī «al-jab-ru» fī ḥi-sā-bi al-Kha-wā-riz-miy-yi i-ḍā-fa-ta ḥad-din mū-ja-bin lit-ta-khal-lu-ṣi min as-sa-wā-li-bi fī ṭa-ra-fa-yi al-mu-ʿā-da-lah.)",
+          "translation": "'Algebra' in al-Khwarizmi's arithmetic means adding a positive term to eliminate negatives on both sides of the equation."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَدْخَلَ عُلَمَاءُ الحَضَارَةِ الإِسْلَامِيَّةِ الصِّفْرَ إِلَى الحِسَابِ، مِمَّا أَحْدَثَ ثَوْرَةً فِي الأَنْظِمَةِ العَدَدِيَّةِ العَالَمِيَّةِ.(Adkhala ʿulamāʾu al-ḥaḍārati al-islāmiyyati aṣ-ṣifra ilā al-ḥisābi, mimmā aḥdatha thawratan fī al-anẓimati al-ʿadadiyyati al-ʿālamiyyah.)",
+          "reading": "[ʔad.xa.la ʕu.la.maː.ʔu‿l.ħa.dˤaː.ra.ti‿l.ʔis.laː.mij.ja.ti‿sˤ.sˤif.ra ʔi.laː‿l.ħi.saːb, mim.maː ʔaħ.da.θa θaw.ra.tan fil.ʔan.zˤi.ma.ti‿l.ʕa.da.dij.ja.ti‿l.ʕaː.la.mij.jah] (Ad-kha-la ʿu-la-mā-ʾu al-ḥa-ḍā-ra-ti al-is-lā-miy-ya-ti aṣ-ṣif-ra i-lā al-ḥi-sāb, mim-mā aḥ-da-tha thaw-ra-tan fī al-an-ẓi-ma-ti al-ʿa-da-diy-ya-ti al-ʿā-la-miy-yah.)",
+          "translation": "Scholars of Islamic civilization introduced the zero into arithmetic, which sparked a revolution in global numerical systems."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جَبْرٌ وَصِفْرٌ خَوَارِزْمِيُّ العُصُورْ، أَهْدَى الحِسَابَ إِلَى الدُّنْيَا سُرُورْ!"
+      ],
+      "culturalNotes": [
+        "كلمة «Algebra» في جميع اللغات اللاتينية مشتقة حرفياً من كلمة «الجبر» العربية، وكلمة «Algorithm» مشتقة من اسم «الخوارزمي» تقديراً لابتكاره الخطوات الحسابية المنطقية المتسلسلة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» (الدرس 1)؟",
+          "prompt": "ما هو الكتاب الرياضي التأسيسي الذي ألفه الخوارزمي في بغداد واشتق منه اسم علم الجبر في العالم؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (30.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (30.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (30.1.w3)"
+            "«المُخْتَصَرُ فِي حِسَابِ الجَبْرِ وَالمُقَابَلَةِ» (The Compendious Book on Calculation by Completion and Balancing)",
+            "كتاب الأغاني",
+            "كتاب المناظر",
+            "القانون في الطب"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "كتاب «المختصر في حساب الجبر والمقابلة» هو الكتاب المؤسس لعلم الجبر الحديث."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو المصطلح الحاسوبي والرياضي العالمي المشتق مباشرة من اسم العالم محمد بن موسى الخوارزمي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الخَوَارِزْمِيَّةُ (Algorithm)",
+            "اللوغاريتم اللاتيني",
+            "الهندسة الفراغية",
+            "المصفوفات العشوائية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "مصطلح Algorithm مشتق من اللفظ اللاتيني لاسمه (Algoritmi) ويشير للخطوات المنطقية لحل المسائل."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u30-l1):",
+          "prompt": "اختر الأثر العلمي لإدخال علماء الحضارة العربية الإسلامية لـ «الصفر» في الترقيم الحسابي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (30.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (30.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (30.1.x3)"
+            "«تَحْوِيلُ الأَنْظِمَةِ العَدَدِيَّةِ إِلَى النِّظَامِ العَشْرِيِّ المَوْضِعِيِّ المَرِنِ الَّذِي قَامَتْ عَلَيْهِ الرِّيَاضِيَّاتُ الحَدِيثَةُ». ('Transforming numerical systems into flexible positional decimal system underpinning modern math.')",
+            "تعقيد العمليات الحسابية ومنع استخدام الأرقام",
+            "إلغاء الكسور والعمليات العشرية",
+            "خوارزمي جبر مقابلة صفر سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الصفر والقيمة الموضعية مكّنا من إجراء العمليات الحسابية المعقدة بسهولة فائقة وأسسا لعلم الحواسيب."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)»؟",
+          "prompt": "ما إعراب كلمة «عِلْمَ» في جملة: «أَسَّسَ الخَوَارِزْمِيُّ عِلْمَ الجَبْرِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (30.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (30.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (30.1.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "نعت منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الخَوَارِزْمِيُّ» فاعل مرفوع، و«عِلْمَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -17998,24 +18002,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 30-1)؟",
+          "prompt": "اختر النص التوثيقي الرياضي الذي يحلل الثورة العلمية للخوارزمي في الجبر والحوسبة بأعلى مستويات الدقة العلمية واللغوية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (30.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (30.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (30.1.z3)"
+            "أَحْدَثَ مُحَمَّد بْنُ مُوسَى الخَوَارِزْمِيُّ انْعِطَافَةً جَذْرِيَّةً فِي تَارِيخِ الرِّيَاضِيَّاتِ العَالَمِيَّةِ؛ حَيْثُ دَشَّنَ عِلْمَ «الجَبْرِ وَالمُقَابَلَةِ» كَمَنْظُومَةٍ تَجْرِيدِيَّةٍ لِحَلِّ المُعَادَلَاتِ، وَأَهْدَى الإِنْسَانِيَّةَ النِّظَامَ العَشْرِيَّ وَالصِّفْرَ، فَتَحَوَّلَ اسْمُهُ إِلَى مُصْطَلَحِ «الخَوَارِزْمِيَّاتِ» الَّذِي يُدِيرُ عَصْرَ الثَّوْرَةِ الرَّقْمِيَّةِ وَالذَّكَاءِ الاصْطِنَاعِيِّ. (Muhammad ibn Musa al-Khwarizmi caused a radical turning point in world mathematical history; where he inaugurated the science of 'Algebra and Balancing' as an abstract system for solving equations, and gifted humanity the decimal system and zero, so his name transformed into the term 'Algorithms' governing the digital revolution and artificial intelligence era.)",
+            "الخوارزمي عالم عربي عاش في بغداد وكتب في الرياضيات.",
+            "جبر ومقابلة خوارزميات صفر نظام عشري بيت الحكمة سكون فتحة ضمة.",
+            "اقتصرت إسهامات الخوارزمي على علم الجغرافيا فقط."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: تأسيس علم الجبر كمنظومة تجريدية، إدخال الصفر والنظام الموضعي، والامتداد المعاصر لمصطلح الخوارزميات في الحوسبة والذكاء الاصطناعي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u30-l1) باللغة العربية (مثال: «تاريخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم الرياضي الذي ابتكره وقعد له الخوارزمي في كتابه الشهير (اكتب: «علم الجبر» أو «الجبر»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "تاريخ",
-            "تاريخ"
+            "علم الجبر",
+            "الجبر",
+            "علم جبر",
+            "جبر",
+            "عِلْمُ الجَبْرِ",
+            "الجَبْر"
           ],
-          "explanation": "المصطلح الصحيح هو «تاريخ»."
+          "explanation": "العلم هو «الجبر» (Algebra)."
         }
       ],
       "passThreshold": 0.8
@@ -18026,85 +18034,89 @@
     "subject": "arabic",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science) (الدرس 2)",
+    "title": "البصريات والمنهج التجريبي عند ابن الهيثم (Ibn al-Haytham: Optics & Scientific Method)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: إسهامات الخوارزمي، ابن الهيثم، ابن النفيس، والبيروني في الفلك والطب والرياضيات. (الجزء 2).",
+    "objective": "إتقان ثورة الحسن بن الهيثم في علم البصريات (كتاب المناظر)، وتأسيس المنهج العلمي التجريبي الاستقرائي، واختراع القُمْرَةِ المظلمة (أصل الكاميرا الحديثة).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد أبو علي الحسن بن الهيثم (965-1040 م) «أمير البصريات» والمؤسس الحقيقي للمنهج العلمي الحديث:\n\nأولاً: كتاب المناظر والثورة البصرية (The Book of Optics / Kitab al-Manazir):\n1.【إِبْطَالُ نَظَرِيَّةِ الانْبِعَاثِ الإِغْرِيقِيَّةِ】:\n   - دحض نظرية إقليدس وبطليموس القائلة بأن العين ترسل أشعة لترى الأشياء.\n   - أثبت ابن الهيثم بالبرهان الفيزيائي والرياضي أن **الضَّوْءَ يَنْبَعِثُ مِنَ الأَجْسَامِ المُضِيئَةِ أَوْ يَنْعَكِسُ عَنْهَا لِيَدْخُلَ إِلَى العَيْنِ**.\n2.【اخْتِرَاعُ القُمْرَةِ المُظْلِمَةِ (Camera Obscura)】:\n   - تجربة «الحُجْرَةِ المُظْلِمَةِ ذَاتِ الثَّقْبِ الصَّغِيرِ» وتكون الصورة المقلوبة للضوء، وهو الأصل اللغوي والفيزيائي لآلة التصوير الحديثة (Camera / القُمْرَة).\n\nثانياً: تأسيس المنهج العلمي الاستقرائي (The Empirical Scientific Method):\n- أعلن ابن الهيثم مبدأ الشك المنهجي في كتب الأوائل وإخضاع الفرضيات لـ **الاعْتِبَارِ (التَّجْرِبَةِ العَمَلِيَّةِ)** و**القِيَاسِ الرِّيَاضِيِّ**.\n- قال في مقدمة كتبه: «**طَالِبُ الحَقِّ لَيْسَ هُوَ مَنْ يَنْظُرُ فِي كُتُبِ المُتَقَدِّمِينَ فَيُحْسِنُ الظَّنَّ بِهِمْ، بَلِ الَّذِي يَتَّهِمُ ظَنَّهُ فِيهِمْ وَيَتَّبِعُ الحُجَّةَ وَالبُرْهَانَ**».\n\nثالثاً: تشريح العين وقوانين الانعكاس والانكسار:\n- تشريح قرنية العين وشبكيتها والعدسة، ووضع أسس انكسار الضوء في الأوساط الشفافة والمرايا الكروية والمقعرة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)' to students in an accurate academic style."
+          "target": "أَبْطَلَ ابْنُ الهَيْثَمِ نَظَرِيَّةَ الانْبِعَاثِ مُثْبِتًا أَنَّ الرُّؤْيَةَ تَتِمُّ بِانْعِكَاسِ الضَّوْءِ مِنَ الأَجْسَامِ إِلَى العَيْنِ.(Abṭala Ibnu al-Haythami naẓariyyata al-inbiʿāthi muthbitan anna ar-ruʾyata tatimmu bi-inʿikāsi aḍ-ḍawʾi min al-ajsāmi ilā al-ʿayn.)",
+          "reading": "[ʔab.tˤa.la‿b.nul.haj.θa.mi na.zˤa.rij.ja.ta‿l.ʔin.bi.ʕaː.θi muθ.bi.tan ʔan.na‿r.ruʔ.ja.ta ta.tim.mu bi.ʔin.ʕi.kaː.si‿dˤ.dˤaw.ʔi mi.na‿l.ʔaʒ.saː.mi ʔi.laː‿l.ʕajn] (Ab-ṭa-la ib-nu al-Hay-tha-mi na-ẓa-riy-ya-ta al-in-bi-ʿā-thi muth-bi-tan an-na ar-ruʾ-ya-ta ta-tim-mu bi-in-ʿi-kā-si aḍ-ḍaw-ʾi min al-aj-sā-mi i-lā al-ʿayn.)",
+          "translation": "Ibn al-Haytham invalidated emission theory proving that vision occurs by reflection of light from objects into the eye."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُعَدُّ «كِتَابُ المَنَاظِرِ» لِابْنِ الهَيْثَمِ عِمَادَ البَصَرِيَّاتِ الحَدِيثَةِ وَالمَرْجِعَ الَّذِي أَسَّسَ المَنْهَجَ التَّجْرِيبِيَّ الصَّارِمَ.(Yuʿaddu «Kitābu al-Manāẓir» li-Ibni al-Haythami ʿimāda al-baṣariyyāti al-ḥadīthati wa-al-marjiʿa al-ladhī assasa al-manhaja at-tajrībiyya aṣ-ṣārim.)",
+          "reading": "[ju.ʕad.du «ki.taː.bu‿l.ma.naː.zˤir» lib.nil.haj.θa.mi ʕi.maː.da‿l.ba.sˤa.rij.jaː.ti‿l.ħa.diː.θa.ti wal.mar.ʒi.ʕa‿l.la.ðiː ʔas.sa.sa‿l.man.ha.ʒa‿t.taʒ.riː.bij.ja‿sˤ.sˤaː.rim] (Yu-ʿad-du «Ki-tā-bu al-Ma-nā-ẓir» lib-ni al-Hay-tha-mi ʿi-mā-da al-ba-ṣa-riy-yā-ti al-ḥa-dī-tha-ti wa-al-mar-ji-ʿa al-la-dhī as-sa-sa al-man-ha-ja at-taj-rī-biy-ya aṣ-ṣā-rim.)",
+          "translation": "Ibn al-Haytham's 'Book of Optics' is considered the pillar of modern optics and the reference establishing the rigorous experimental method."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "اشْتُقَّتْ كَلِمَةُ «كَامِيرَا» مِنْ لَفْظِ «القُمْرَةِ» المَأْخُوذِ مِنْ تَجَارِبِ ابْنِ الهَيْثَمِ فِي الحُجْرَةِ المُظْلِمَةِ.(Ushtuqqaat kalimatu «kāmīrā» min lafẓi «al-qumrah» al-maʾkhūdhi min tajāribi Ibni al-Haythami fī al-ḥujrati al-muẓlimah.)",
+          "reading": "[ʔuʃ.tuq.qat ka.li.ma.tu «kaː.miː.raː» min laf.zˤi «ʔal.qum.rah» ʔal.maʔ.xuː.ði min ta.ʒaː.ri.bi‿b.nil.haj.θa.mi fil.ħuʒ.ra.ti‿l.muzˤ.li.mah] (Ush-tuq-qat ka-li-ma-tu «kā-mī-rā» min laf-ẓi «al-qum-rah» al-maʾ-khū-dhi min ta-jā-ri-bi ib-ni al-Hay-tha-mi fī al-ḥuj-ra-ti al-muẓ-li-mah.)",
+          "translation": "The word 'camera' was derived from the term 'al-qumrah' taken from Ibn al-Haytham's experiments in the darkened chamber."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَرْسَى ابْنُ الهَيْثَمِ مَبْدَأَ الشَّكِّ المَنْهَجِيِّ بِقَوْلِهِ إِنَّ طَالِبَ الحَقِّ يَتَّهِمُ ظَنَّهُ وَيَتَّبِعُ الحُجَّةَ وَالبُرْهَانَ.(Arsā Ibnu al-Haythami mabdaʾa ash-shakki al-manhajiyyi bi-qawlihi inna ṭāliba al-ḥaqqi yattahimu ẓannahu wa-yattabiʿu al-ḥujjata wa-al-burhān.)",
+          "reading": "[ʔar.saː‿b.nul.haj.θa.mi mab.da.ʔa‿ʃ.ʃak.ki‿l.man.ha.dʒij.ji bi.qaw.li.hi ʔin.na tˤaː.li.ba‿l.ħaq.qi jat.ta.hi.mu zˤan.na.hu wa.jat.ta.bi.ʕu‿l.ħuʒ.ʒa.ta wal.bur.haːn] (Ar-sā ib-nu al-Hay-tha-mi mab-da-ʾa ash-shak-ki al-man-ha-jiy-yi bi-qaw-li-hi in-na ṭā-li-ba al-ḥaq-qi yat-ta-hi-mu ẓan-na-hu wa-yat-ta-bi-ʿu al-ḥuj-ja-ta wa-al-bur-hān.)",
+          "translation": "Ibn al-Haytham established the principle of methodological doubt stating that the seeker of truth suspects his assumptions and follows proof and demonstration."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ضَوْءُ ابْنِ هَيْثَمَ فِي المَنَاظِرِ قَدْ سَطَعْ، شَكٌّ وَبُرْهَانٌ وَعِلْمٌ لَا يُضَعْ!"
+      ],
+      "culturalNotes": [
+        "احتفت منظمة اليونسكو بالحسن بن الهيثم في «السنة الدولية للضوء» باعتباره الرائد العالمي الأول الذي وضع أسس فيزياء البصريات والمنهج العلمي التجريبي قبل رينيه ديكارت وإسحاق نيوتن بقرون."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» (الدرس 2)؟",
+          "prompt": "ما هو الكتاب الموسوعي العظيم للحسن بن الهيثم الذي أحدث ثورة كبرى في علم الضوء والبصريات؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (30.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (30.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (30.2.w3)"
+            "«كِتَابُ المَنَاظِرِ» (Book of Optics)",
+            "كتاب الحيوان للجاحظ",
+            "كتاب الشفاء لابن سينا",
+            "رسالة الغفران للمعرّي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«كتاب المناظر» هو المرجع العلمي العالمي الأشهر في تأسيس علم البصريات وتفنيد نظريات الإغريق."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف أثبت ابن الهيثم آلية حدوث الرؤية والإبصار؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِانْعِكَاسِ الضَّوْءِ مِنَ الأَجْسَامِ المُضِيئَةِ وَدُخُولِهِ إِلَى العَيْنِ (Light reflecting from objects and entering the eye)",
+            "بخروج أشعة نورانية من داخل العين إلى الخارج",
+            "عبر التخيل النفسي للأشياء دون ضوء",
+            "بتحريك العين بسرعة فائقة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "أثبت ابن الهيثم أن الرؤية تتم بانعكاس أشعة الضوء من المرئيات إلى العين، مبطلاً نظرية الانبعاث."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u30-l2):",
+          "prompt": "ما هو الأصل اللغوي والتاريخي لآلة التصوير «الكاميرا» في تجارب ابن الهيثم؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (30.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (30.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (30.2.x3)"
+            "مِنْ لَفْظِ «القُمْرَةِ» أَيِ الحُجْرَةِ المُظْلِمَةِ ذَاتِ الثَّقْبِ الصَّغِيرِ (From 'al-Qumrah', the camera obscura with pinhole)",
+            "من اسم مدينة أمريكية قديمة",
+            "من الكلمة اليونانية للزجاج",
+            "ابن الهيثم مناظر كاميرا قمرة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«القمرة» هي الغرفة المظلمة ذات الثقب الصغير التي أثبتت انعكاس الضوء واستعيرت في اللغات اللاتينية كـ Camera."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)»؟",
+          "prompt": "ما إعراب كلمة «مُثْبِتًا» في جملة: «أَبْطَلَ النَّظَرِيَّةَ مُثْبِتًا صِحَّةَ البُرْهَانِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (30.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (30.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (30.2.y3)"
+            "حَالٌ مَنْصُوبَةٌ بِالفَتْحَةِ الظَّاهِرَةِ (Circumstantial accusative)",
+            "مفعول به منصوب",
+            "تمييز منصوب",
+            "نعت منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«مُثْبِتًا» اسم فاعل وقع حالاً منصوبة بالفتحة تبين هيئة الفاعل أثناء إبطال النظرية."
         }
       ]
     },
@@ -18112,24 +18124,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 30-2)؟",
+          "prompt": "اختر النص النقدي العلمي الذي يحلل إنجاز ابن الهيثم في علم البصريات والمنهج الاستقرائي بأعلى درجات الرصانة التعبيرية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (30.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (30.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (30.2.z3)"
+            "يُمَثِّلُ الحَسَنُ بْنُ الهَيْثَمِ رَائِدَ الثَّوْرَةِ العِلْمِيَّةِ الحَدِيثَةِ؛ حَيْثُ نَسَفَ فِي «كِتَابِ المَنَاظِرِ» أَوْهَامَ الانْبِعَاثِ الإِغْرِيقِيَّةِ مُثْبِتًا دُخُولَ الضَّوْءِ إِلَى العَيْنِ، وَابْتَكَرَ «القُمْرَةَ المُظْلِمَةَ» الَّتِي مَهَّدَتْ لِعَصْرِ التَّصْوِيرِ، مُرْسِيًا قَوَاعِدَ المَنْهَجِ التَّجْرِيبِيِّ الاسْتِقْرَائِيِّ القَائِمِ عَلَى الشَّكِّ المَنْهَجِيِّ وَسُلْطَانِ البُرْهَانِ، لِيَسْبِقَ بِذٰلِكَ نَهْضَةَ العِلْمِ الحَدِيثِ بِقُرُونٍ. (Al-Hasan ibn al-Haytham represents the pioneer of modern scientific revolution; where in 'Book of Optics' he dismantled Greek emission illusions proving light entrance into eye, invented 'Camera Obscura' paving way for photography era, and established rules of empirical inductive method based on methodological doubt and proof authority, preceding modern scientific renaissance by centuries.)",
+            "ابن الهيثم عالم بصريات مسلم عاش في القاهرة وكتب عن العين.",
+            "ابن الهيثم مناظر قمرة ضوء عين منهج تجريبي شك سكون فتحة ضمة.",
+            "فشلت نظريات ابن الهيثم البصرية أمام فيزياء العصر الحديث."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب بكفاءة: إبطال نظرية الانبعاث، اختراع القمرة المظلمة، والتأصيل الفلسفي للمنهج العلمي التجريبي والشك المنهجي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u30-l2) باللغة العربية (مثال: «تاريخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم الفيزيائي الذي يدرس طبيعة الضوء والرؤية والعدسات والذي أسسه ابن الهيثم (اكتب: «علم البصريات» أو «البصريات»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "تاريخ",
-            "تاريخ"
+            "علم البصريات",
+            "البصريات",
+            "علم بصريات",
+            "بصريات",
+            "عِلْمُ البَصَرِيَّاتِ",
+            "البَصَرِيَّات"
           ],
-          "explanation": "المصطلح الصحيح هو «تاريخ»."
+          "explanation": "العلم هو «علم البصريات» (Optics)."
         }
       ],
       "passThreshold": 0.8
@@ -18140,85 +18156,89 @@
     "subject": "arabic",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science) (الدرس 3)",
+    "title": "موسوعية الطب والصيدلة: الرازي وابن سينا وابن النفيس (Medicine Masters: Al-Razi, Avicenna & Ibn al-Nafis)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: إسهامات الخوارزمي، ابن الهيثم، ابن النفيس، والبيروني في الفلك والطب والرياضيات. (الجزء 3).",
+    "objective": "إتقان إسهامات عمالقة الطب العربي الإسلامي: الملاحظة الإكلينيكية عند الرازي (الحاوي)، موسوعية ابن سينا (القانون في الطب)، واكتشاف ابن النفيس للدورة الدموية الصغرى.",
     "presentation": {
-      "explanation": "",
+      "explanation": "قاد الأطباء المسلمون أعظم نهضة طبية وصيدلانية في العصور الوسيطة أسست للطب الحديث في العالم:\n\nأولاً: أبو بكر الرازي (Al-Razi / Rhazes - The Clinical Pioneer):\n- «جَالِينُوسُ العَرَبِ»؛ صاحب كتاب «**الحَاوِي فِي الطِّبِّ**».\n- رائد الطب الإكلينيكي والملاحظة السريرية المباشرة للمريض.\n- أول من فرّق تشخيصياً وعلاجياً بين **الجُدَرِيِّ وَالحَصْبَةِ**، ورائد استخدام خيوط أمعاء الحيوانات في الجراحة واختيار مواقع المستشفيات بتعليق قطع اللحم في الهواء لفحص نقاء الجو.\n\nثانياً: ابن سينا (Avicenna - The Master of Medical Systems):\n- صاحب كتاب «**القَانُونُ فِي الطِّبِّ**» (The Canon of Medicine):\n- الموسوعة الطبية الأعظم التي ظلت المرجع الإلزامي لتدريس الطب في جامعات أوروبا (مونبلييه وباريس ولوفان) لأكثر من ستة قرون.\n- وصف الأمراض المعدية وتلوث المياه والهواء، واكتشف الطبيعة المعدية لمرض السل، ووضع أسس الطب النفسي الجسدي.\n\nثالثاً: ابن النفيس (Ibn al-Nafis - Discoverer of Pulmonary Circulation):\n- العالم الدمشقي القاهري الذي صحح أخطاء جالينوس وابن سينا في تشريح القلب.\n- اكتشف **الدَّوْرَةَ الدَّمَوِيَّةَ الصُّغْرَى (Pulmonary Circulation)**، مثبتاً أن الدم ينقى في الرئتين عبر الأوعية الدقيقة قبل 300 عام من ويليام هارفي ومايكل سيرفيتوس.\n\nرابعاً: نظام البيمارستانات (Hospitals & Pharmacology):\n- تأسيس المشافي المتخصصة المجانية، وتطوير علم الصيدلة واستخلاص العقاقير الكيميائية النباتية.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)' to students in an accurate academic style."
+          "target": "اكْتَشَفَ ابْنُ النَّفِيسِ الدَّوْرَةَ الدَّمَوِيَّةَ الصُّغْرَى مُثْبِتًا تَنَقُّلَ الدَّمِ بَيْنَ القَلْبِ وَالرِّئَتَيْنِ لِلتَّنْقِيَةِ.(Iktashafa Ibnu an-Nafīsi ad-dawrata ad-damawiyyata aṣ-ṣughrā muthbitan tanaqqula ad-dami bayna al-qalbi wa-ar-riʾatayni li-t-tanqiyah.)",
+          "reading": "[ʔik.ta.ʃa.fa‿b.nun.na.fiː.si‿d.daw.ra.ta‿d.da.ma.wij.ja.ta‿sˤ.sˤuɣ.raː muθ.bi.tan ta.naq.qu.la‿d.da.mi baj.na‿l.qal.bi war.ri.ʔa.taj.ni lit.tan.qi.jah] (Ik-ta-sha-fa ib-nu an-Na-fī-si ad-daw-ra-ta ad-da-ma-wiy-ya-ta aṣ-ṣugh-rā muth-bi-tan ta-naq-qu-la ad-da-mi bay-na al-qal-bi wa-ar-ri-ʾa-tay-ni lit-tan-qi-yah.)",
+          "translation": "Ibn al-Nafis discovered pulmonary circulation proving the transit of blood between heart and lungs for purification."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "ظَلَّ كِتَابُ «القَانُونِ فِي الطِّبِّ» لِابْنِ سِينَا المَرْجِعَ الرَّئِيسَ لِتَدْرِيسِ الطِّبِّ فِي الجَامِعَاتِ الأُورُوبِيَّةِ لِقُرُونٍ عَدِيدَةٍ.(Ẓalla kitābu «al-Qānūni fī aṭ-Ṭibb» li-Ibni Sīnā al-marjiʿa ar-raʾīsa li-tadrīsi aṭ-ṭibbi fī al-jāmiʿāti al-ūrubbiyyati li-qurūnin ʿadīdah.)",
+          "reading": "[zˤal.la ki.taː.bu «ʔal.qaː.nuː.ni fitˤ.tˤibb» lib.ni siː.naː‿l.mar.ʒi.ʕa‿r.ra.ʔiː.sa li.tad.riː.si‿tˤ.tˤib.bi fil.ʒaː.mi.ʕaː.ti‿l.ʔuː.rub.bij.ja.ti li.qu.ruː.nin ʕa.diː.dah] (Ẓal-la ki-tā-bu «al-Qā-nū-ni fī aṭ-Ṭibb» lib-ni Sī-nā al-mar-ji-ʿa ar-ra-ʾī-sa li-tad-rī-si aṭ-ṭib-bi fī al-jā-mi-ʿā-ti al-ū-rub-biy-ya-ti li-qu-rū-nin ʿa-dī-dah.)",
+          "translation": "Ibn Sina's 'Canon of Medicine' remained the principal reference for teaching medicine in European universities for many centuries."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "مَيَّزَ أَبُو بَكْرٍ الرَّازِيُّ فِي كِتَابِ «الحَاوِي» بَيْنَ مَرَضَيِ الجُدَرِيِّ وَالحَصْبَةِ بِدِقَّةٍ سَرِيرِيَّةٍ فَائِقَةٍ.(Mayyaza Abū Bakrin ar-Rāziyyu fī kitābi «al-Ḥāwī» bayna maraḍayi al-judariyyi wa-al-ḥaṣbati bi-diqqatin sarīriyyatin fāʾiqah.)",
+          "reading": "[maj.ja.za ʔa.buː bak.ri.ni‿r.raː.zij.ju fiː ki.taː.bi «ʔal.ħaː.wiː» baj.na ma.ra.dˤa.ji‿l.ʒu.da.rij.ji wal.ħasˤ.ba.ti bi.diq.qa.tin sa.riː.rij.ja.tin faː.ʔi.qah] (May-ya-za A-bū Bak-ri-ni ar-Rā-ziy-yu fī ki-tā-bi «al-Ḥā-wī» bay-na ma-ra-ḍa-yi al-ju-da-riy-yi wa-al-ḥaṣ-ba-ti bi-diq-qa-tin sa-rī-riy-ya-tin fā-ʾi-qah.)",
+          "translation": "Abu Bakr al-Razi distinguished in the 'Continens' between smallpox and measles with exquisite clinical precision."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "شَكَّلَتِ البِيمَارِسْتَانَاتُ الإِسْلَامِيَّةُ مَرَاكِزَ عِلْمِيَّةً مُتَقَدِّمَةً تُقَدِّمُ الرِّعَايَةَ الطِّبِّيَّةَ المَجَّانِيَّةَ وَتُدَرِّبُ الأَطِبَّاءَ.(Shakkalati al-bīmāristānātu al-islāmiyyatu marākiza ʿilmiyyatan mutaqaddimatan tuqaddimu ar-riʿāyata aṭ-ṭibbiyyata al-majjāniyyata wa-tudarribu al-aṭibbāʾ.)",
+          "reading": "[ʃak.ka.la.ti‿l.biː.maː.ris.taː.naː.tu‿l.ʔis.laː.mij.ja.tu ma.raː.ki.za ʕil.mij.ja.tan mu.ta.qad.di.ma.tan tu.qad.di.mu‿r.ri.ʕaː.ja.ta‿tˤ.tˤib.bij.ja.ta‿l.maʒ.ʒaː.nij.ja.ta wa.tu.dar.ri.bu‿l.ʔa.tˤib.baːʔ] (Shak-ka-la-ti al-bī-mā-ris-tā-nā-tu al-is-lā-miy-ya-tu ma-rā-ki-za ʿil-miy-ya-tan mu-ta-qad-di-ma-tan tu-qad-di-mu ar-ri-ʿā-ya-ta aṭ-ṭib-biy-ya-ta al-maj-jā-niy-ya-ta wa-tu-dar-ri-bu al-a-ṭib-bā-ʾ.)",
+          "translation": "Islamic bimaristans formed advanced scientific centers providing free medical care and training physicians."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "رَازِي وَسِينَا فِي الطِّبِّ أَعْلَامْ، وَابْنُ النَّفِيسِ كَشَفَ النَّبْضَ تَمَامْ!"
+      ],
+      "culturalNotes": [
+        "كانت البيمارستانات (المستشفيات) في دمشق وبغداد والقاهرة وقرطبة مؤسسات طبية راقية تضم أقساماً متخصصة للمسالك، الجراحة، العيون، والأمراض النفسية مع مكتبات وصيدليات وموسيقى استشفائية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» (الدرس 3)؟",
+          "prompt": "من هو العالم والطبيب العربي الذي اكتشف الدورة الدموية الصغرى وصحح أخطاء جالينوس؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (30.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (30.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (30.3.w3)"
+            "ابْنُ النَّفِيسِ (Ibn al-Nafis)",
+            "ابن رشد",
+            "الفارابي",
+            "ابن الهيثم"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "ابن النفيس الدمشقي هو المكتشف الأول للدورة الدموية الصغرى الرئوية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الاسم اللاتيني المعرّب لكتاب «القانون في الطب» لابن سينا الذي درسته جامعات أوروبا لقرون؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "Canon of Medicine (القانون في الطب)",
+            "The Republic (الجمهورية)",
+            "Organon (الأورغانون)",
+            "Metaphysics (الميتافيزيقا)"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "كتاب «القانون في الطب» (The Canon of Medicine) هو دستور الطب العالمي في العصور الوسطى."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u30-l3):",
+          "prompt": "اختر الإنجاز الإكلينيكي الشهير للطبيب أبي بكر الرازي في علم الأمراض:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (30.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (30.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (30.3.x3)"
+            "«التَّفْرِيقُ التَّشْخِيصِيُّ الدَّقِيقُ بَيْنَ مَرَضَيِ الجُدَرِيِّ وَالحَصْبَةِ فِي كِتَابِ الحَاوِي». ('Accurate diagnostic distinction between smallpox and measles.')",
+            "صناعة نظارات طبية للرؤية الليلية",
+            "إلغاء العمليات الجراحية نهائيا",
+            "طب رازي ابن سينا حاوي قانون سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "رسالة الرازي في الجدري والحصبة هي أول توصيف إكلينيكي دقيق في تاريخ الطب العالمي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)»؟",
+          "prompt": "ما إعراب كلمة «المَرْجِعَ» في جملة: «ظَلَّ الكِتَابُ المَرْجِعَ الرَّئِيسَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (30.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (30.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (30.3.y3)"
+            "خَبَرُ ظَلَّ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Predicate of zalla in accusative)",
+            "اسم ظل مرفوع بالضمة",
+            "مفعول به منصوب",
+            "نعت منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الكِتَابُ» اسم ظل مرفوع، و«المَرْجِعَ» خبر ظل منصوب بالفتحة الظاهرة."
         }
       ]
     },
@@ -18226,24 +18246,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 30-3)؟",
+          "prompt": "اختر النص التاريخي الطبي الشامل الذي يحلل مآثر الرازي وابن سينا وابن النفيس بأعلى درجات البلاغة والموضوعية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (30.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (30.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (30.3.z3)"
+            "شَادَ أَعْلَامُ الطِّبِّ العَرَبِيِّ الإِسْلَامِيِّ صَرْحَ العُلُومِ الطِّبِّيَّةِ العَالَمِيَّةِ؛ حَيْثُ أَرْسَى الرَّازِي قَوَاعِدَ المُلَاحَظَةِ الإِكْلِينِيكِيَّةِ فِي «الحَاوِي»، وَقَعَّدَ ابْنُ سِينَا مَوْسُوعِيَّةَ العِلَاجِ فِي «القَانُونِ»، بَيْنَمَا خَلَّدَ ابْنُ النَّفِيسِ عَبْقَرِيَّتَهُ بِاكْتِشَافِ الدَّوْرَةِ الدَّمَوِيَّةِ الصُّغْرَى، لِتَغْدُوَ البِيمَارِسْتَانَاتُ الإِسْلَامِيَّةُ مَنَارَاتٍ لِلشِّفَاءِ وَمَفْخَرَةً لِلْإِنْسَانِيَّةِ جَمْعَاءَ. (Arab-Islamic medicine masters constructed the edifice of global medical science; where Al-Razi established clinical observation in 'Al-Hawi', Avicenna codified therapeutic encyclopedism in 'The Canon', while Ibn al-Nafis immortalized his genius discovering pulmonary circulation, making Islamic bimaristans beacons for healing and pride for all humanity.)",
+            "الطب العربي القديم كان يعتمد على الأعشاب والكي بالنار فقط.",
+            "طب وصيدلة رازي ابن سينا ابن النفيس بيمارستان حاوي قانون دورة دموية سكون فتحة ضمة.",
+            "توقفت الجامعات الأوروبية عن قراءة كتب ابن سينا فور صدورها."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يحيط بكافة جوانب النهضة الطبية: الملاحظة السريرية (الرازي)، الموسوعية المرجعية (ابن سينا)، الكشف الفسيولوجي للدورة الدموية (ابن النفيس)، والنظام المؤسسي للبيمارستانات."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u30-l3) باللغة العربية (مثال: «تاريخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الكشف الطبي الفسيولوجي العظيم الذي حققه ابن النفيس في تشريح القلب والرئتين (اكتب: «الدورة الدموية الصغرى»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "تاريخ",
-            "تاريخ"
+            "الدورة الدموية الصغرى",
+            "الدورة الدموية الصغري",
+            "الدورة الدمويه الصغرى",
+            "الدورة الدمويه الصغري",
+            "الدَّوْرَةُ الدَّمَوِيَّةُ الصُّغْرَى",
+            "الدَّوْرَة الدَّمَوِيَّة الصُّغْرَى"
           ],
-          "explanation": "المصطلح الصحيح هو «تاريخ»."
+          "explanation": "الكشف هو «الدورة الدموية الصغرى» (Pulmonary Circulation)."
         }
       ],
       "passThreshold": 0.8
@@ -18254,85 +18278,89 @@
     "subject": "arabic",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science) (الدرس 4)",
+    "title": "علم الفلك وتعيين محيط الأرض عند البيروني والبتاني (Astronomy & Geodesy: Al-Biruni & Al-Battani)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: إسهامات الخوارزمي، ابن الهيثم، ابن النفيس، والبيروني في الفلك والطب والرياضيات. (الجزء 4).",
+    "objective": "إتقان إسهامات أبي الريحان البيروني في قياس محيط الأرض والجيوديسيا، وإنجازات البتاني في الفلك وحساب المثلثات الكروية وتصحيح مدارات الكواكب، ودور الأسطرلاب والمراصد الإسلامية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "بلغ علم الفلك والجيوديسيا في الحضارة الإسلامية قمة الدقة الرياضية والرصدية المعجزة:\n\nأولاً: أبو الريحان البيروني (Al-Biruni - The Master of Geodesy):\n1.【قِيَاسُ مُحِيطِ الأَرْضِ وَنِصْفِ قُطْرِهَا】:\n   - ابتكر البيروني طريقة رياضية عبقرية من قمة جبل نندنة (في باكستان الحالية) تعتمد على قياس زاوية انخفاض الأفق وحساب المثلثات.\n   - قدر نصف قطر الأرض بـ 6335.72 كم (بفارق 1% فقط عن الحسابات الحديثة بالأقمار الصناعية!).\n2.【مُؤَلَّفَاتُهُ الكُبْرَى】: «**القَانُونُ المَسْعُودِيُّ**» و«**الآثَارُ البَاقِيَةُ عَنِ القُرُونِ الخَالِيَةِ**».\n\nثانياً: البتاني (Al-Battani / Albatenius - Master of Trigonometric Astronomy):\n- صحح حسابات بطليموس وحسب طول السنة الشمسية بدقة متناهية (365 يوماً و5 ساعات و46 دقيقة و24 ثانية).\n- أسس **حِسَابَ المُثَلَّثَاتِ الكُرَوِيَّةِ (Spherical Trigonometry)** واكتشف مفهوم الجيب وجيب التمام والظل (Sin, Cos, Tan).\n- أشاد كوبرنيكوس ونيوتن ببياناته الفلكية في صياغة قوانين حركة الكواكب.\n\nثانياً: الآلات والمراصد الفلكية الكبرى:\n- **الأُسْطُرْلَابُ (Astrolabe)**: الحاسوب الفلكي القديم لتحديد أوقات الصلاة، اتجاه القبلة، ومواقع النجوم.\n- **المَرَاصِدُ العِلْمِيَّةُ**: مرصد مراغة (نصير الدين الطوسي)، مرصد دمشق، ومرصد بغداد.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)' to students in an accurate academic style."
+          "target": "حَسَبَ أَبُو الرَّيْحَانِ البِيرُونِيُّ مُحِيطَ الأَرْضِ وَنِصْفَ قُطْرِهَا بِدِقَّةٍ مُعْجِزَةٍ بِلَا أَقْمَارٍ صِنَاعِيَّةٍ.(Ḥasaba Abū ar-Rayḥāni al-Bīrūniyyu muḥīṭa al-arḍi wa-niṣfa quṭrihā bi-diqqatin muʿjizatin bi-lā aqmārin ṣināʿiyyah.)",
+          "reading": "[ħa.sa.ba ʔa.buː‿r.raj.ħaː.ni‿l.biː.ruː.nij.ju mu.ħiː.tˤa‿l.ʔar.dˤi wa.nisˤ.fa qutˤ.ri.haː bi.diq.qa.tin muʕ.ʒi.za.tin bi.laː ʔaq.maː.rin sˤi.naː.ʕij.jah] (Ḥa-sa-ba A-bū ar-Ray-ḥā-ni al-Bī-rū-niy-yu mu-ḥī-ṭa al-ar-ḍi wa-niṣ-fa quṭ-ri-hā bi-diq-qa-tin muʿ-ji-za-tin bi-lā aq-mā-rin ṣi-nā-ʿiy-yah.)",
+          "translation": "Abu al-Rayhan al-Biruni calculated the circumference and radius of the Earth with miraculous precision without artificial satellites."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "طَوَّرَ البَتَّانِيُّ عِلْمَ المُثَلَّثَاتِ الكُرَوِيَّةِ وَحَسَبَ طُولَ السَّنَةِ الشَّمْسِيَّةِ بِفَارِقِ دَقَائِقَ عَنِ العَصْرِ الحَدِيثِ.(Ṭawwara al-Battāniyyu ʿilma al-muthallathāti al-kurawiyyati wa-ḥasaba ṭūla as-sanati ash-shamsiyyati bi-fāriqi daqāʾiqa ʿan al-ʿaṣri al-ḥadīth.)",
+          "reading": "[tˤaw.wa.ra‿l.bat.taː.nij.ju ʕil.ma‿l.mu.θal.la.θaː.ti‿l.ku.ra.wij.ja.ti wa.ħa.sa.ba tˤuː.la‿s.sa.na.ti‿ʃ.ʃam.sij.ja.ti bi.faː.ri.qi da.qaː.ʔi.qa ʕa.nil.ʕasˤ.ri‿l.ħa.diːθ] (Ṭaw-wa-ra al-Bat-tā-niy-yu ʿil-ma al-mu-thal-la-thā-ti al-ku-ra-wiy-ya-ti wa-ḥa-sa-ba ṭū-la as-sa-na-ti ash-sham-siy-ya-ti bi-fā-ri-qi da-qā-ʾi-qa ʿan al-ʿaṣ-ri al-ḥa-dīth.)",
+          "translation": "Al-Battani developed spherical trigonometry and calculated the length of the solar year within minutes of modern measurements."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "مَثَّلَ الأُسْطُرْلَابُ الإِسْلَامِيُّ حَاسُوبًا فَلَكِيًّا بَدِيعًا لِتَعْيِينِ حَرَكَةِ الأَفْلَاكِ وَمَوَاقِعِ النُّجُومِ وَالقِبْلَةِ.(Maththala al-asṭurlābu al-islāmiyyu ḥāsūban falakiyyan badīʿan li-taʿyīni ḥarakati al-aflāki wa-mawāqiʿi an-nujūmi wa-al-qiblah.)",
+          "reading": "[maθ.θa.la‿l.ʔasˤ.tur.laː.bu‿l.ʔis.laː.mij.ju ħaː.suː.ban fa.la.kij.jan ba.diː.ʕan li.taʕ.jiː.ni ħa.ra.ka.ti‿l.ʔaf.laː.ki wa.ma.waː.qi.ʕi‿n.nu.ʒuː.mi wal.qib.lah] (Math-tha-la al-as-ṭur-lā-bu al-is-lā-miy-yu ḥā-sū-ban fa-la-kiy-yan ba-dī-ʿan li-taʿ-yī-ni ḥa-ra-ka-ti al-af-lā-ki wa-ma-wā-qi-ʿi an-nu-jū-mi wa-al-qib-lah.)",
+          "translation": "The Islamic astrolabe represented a marvelous astronomical computer for determining planetary motions, star positions, and the Qibla."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَنْشَأَ العُلَمَاءُ المَرَاصِدَ الفَلَكِيَّةَ فِي مَرَاغَةَ وَدِمَشْقَ لِرَصْدِ حَرَكَاتِ الكَوَاكِبِ وَتَصْحِيحِ الجَدَاوِلِ النُّجُومِيَّةِ.(Anshaʾa al-ʿulamāʾu al-marāṣida al-falakiyyata fī Marāghata wa-Dimashqa li-raṣdi ḥarakāti al-kawākibi wa-taṣḥīḥi al-jadāwili an-nujūmiyyah.)",
+          "reading": "[ʔan.ʃa.ʔa‿l.ʕu.la.maː.ʔu‿l.ma.raː.sˤi.da‿l.fa.la.kij.ja.ta fiː ma.raː.ɣa.ta wa.di.maʃ.qa li.rasˤ.di ħa.ra.kaː.ti‿l.ka.waː.ki.bi wa.tasˤ.ħiː.ħi‿l.ʒa.daː.wi.li‿n.nu.ʒuː.mij.jah] (An-sha-ʾa al-ʿu-la-mā-ʾu al-ma-rā-ṣi-da al-fa-la-kiy-ya-ta fī Ma-rā-gha-ta wa-Di-mash-qa li-raṣ-di ḥa-ra-kā-ti al-ka-wā-ki-bi wa-taṣ-ḥī-ḥi al-ja-dā-wi-li an-nu-jū-miy-yah.)",
+          "translation": "Scholars built astronomical observatories in Maragheh and Damascus to track planetary motions and correct star tables."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بِيرُونِيٌّ قَاسَ الأَرْضَ بِحِكْمَةٍ وَرَشَادْ، وَبَتَّانِيُّ الفَلَكِ نُورٌ لِلْعِبَادْ!"
+      ],
+      "culturalNotes": [
+        "تُخلد وكالة ناسا والاتحاد الفلكي الدولي أسماء علماء الفلك المسلمين بإطلاق أسمائهم على فوهات وبحار على سطح القمر والمريخ (مثل فوهة البتاني Albategnius وفوهة البيروني Al-Biruni وفوهة ابن الهيثم Alhazen)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» (الدرس 4)؟",
+          "prompt": "ما هو الإنجاز الجيوديسي المعجز للعالم المسلم أبي الريحان البيروني في جبل نندنة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (30.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (30.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (30.4.w3)"
+            "قِيَاسُ نِصْفِ قُطْرِ الأَرْضِ وَمُحِيطِهَا بِدِقَّةٍ قَارَبَتِ الحِسَابَاتِ الرَّقْمِيَّةَ الحَدِيثَةَ (Calculating Earth's radius and circumference with modern-matching accuracy)",
+            "حفر أعمق بئر نفط في العالم",
+            "صعود جبل إيفرست بدون أكسجين",
+            "رسم خريطة قاع المحيط الهادئ"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "قاس البيروني زاوية انخفاض الأفق من قمة جبل وحسب نصف قطر الأرض بدقة بلغت 6335 كم."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الآلة الفلكية الدقيقة المعقدة التي استخدمها علماء المسلمين كـ «حاسوب فلكي» لرصد النجوم وتحديد القبلة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الأُسْطُرْلَابُ الفَلَكِيُّ (The Astrolabe)",
+            "التلسكوب اللاسلكي",
+            "الرادار الرقمي",
+            "البوصلة المغناطيسية فقط"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الأسطرلاب كان الحاسوب الفلكي الأهم في العصور القديمة لتحديد المواقع والأوقات والأجرام السماوية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u30-l4):",
+          "prompt": "اختر الفرع الرياضي الهام الذي طوره البتاني لحل معضلات الفلك وحركة الأجرام السماوية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (30.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (30.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (30.4.x3)"
+            "«عِلْمُ المُثَلَّثَاتِ الكُرَوِيَّةِ وَحِسَابُ الجَيْبِ وَجَيْبِ التَّمَامِ (Sin & Cos)». ('Spherical trigonometry & sine/cosine calculations.')",
+            "علم الحساب الابتدائي البسيط",
+            "الرسم الهندسي ثلاثي الأبعاد",
+            "فلك بيروني بتاني اسطرلاب سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "البتاني هو رائد حساب المثلثات الكروية وتطوير الدوال المثلثية لخدمة الرصد الفلكي الدقيق."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)»؟",
+          "prompt": "ما إعراب كلمة «حَاسُوبًا» في جملة: «مَثَّلَ الأُسْطُرْلَابُ حَاسُوبًا فَلَكِيًّا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (30.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (30.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (30.4.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "حال منصوبة بالفتحة",
+            "تمييز منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الأُسْطُرْلَابُ» فاعل مرفوع، و«حَاسُوبًا» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -18340,24 +18368,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 30-4)؟",
+          "prompt": "اختر النص الفلكي التوثيقي الذي يحلل عظمة البيروني والبتاني في الفلك والجيوديسيا بأعلى درجات البلاغة العلمية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (30.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (30.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (30.4.z3)"
+            "ارْتَقَى عِلْمُ الفَلَكِ فِي الحَضَارَةِ الإِسْلَامِيَّةِ إِلَى ذِرْوَةِ الإِعْجَازِ الرِّيَاضِيِّ؛ حَيْثُ حَسَبَ البِيرُونِيُّ مُحِيطَ الأَرْضِ عَبْرَ عَبْقَرِيَّةِ الجِيُودِيسْيَا، وَطَوَّرَ البَتَّانِيُّ حِسَابَ المُثَلَّثَاتِ الكُرَوِيَّةِ لِيُدَقِّقَ حَرَكَةَ الأَفْلَاكِ وَطُولَ السَّنَةِ الشَّمْسِيَّةِ، بَيْنَمَا شَهِدَتِ المَرَاصِدُ فِي مَرَاغَةَ وَدِمَشْقَ مَعَ سِحْرِ الأُسْطُرْلَابِ عَلَى سِيَادَةِ العَقْلِ العَرَبِيِّ فِي كَشْفِ أَسْرَارِ الكَوْنِ. (Astronomy in Islamic civilization ascended to the summit of mathematical marvel; where Al-Biruni calculated Earth's circumference through geodesy genius, Al-Battani developed spherical trigonometry to refine planetary motion and solar year length, while observatories in Maragheh and Damascus with astrolabe's magic witnessed Arab intellect's sovereignty in unveiling cosmic secrets.)",
+            "الفلك عند العرب كان مراقبة النجوم في الصحراء ليلا.",
+            "فلك بيروني بتاني اسطرلاب مراصد مراغة شمس قمر سكون فتحة ضمة.",
+            "انتهت الحسابات الفلكية القديمة ولم يعد لها أي أثر."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة بين: جيوديسيا البيروني وقياس محيط الأرض، حساب المثلثات الكروية عند البتاني، ودور المراصد والأسطرلاب التاريخي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u30-l4) باللغة العربية (مثال: «تاريخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم الذي يدرس حركة الأجرام السماوية والنجوم والكواكب (اكتب: «علم الفلك» أو «الفلك»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "تاريخ",
-            "تاريخ"
+            "علم الفلك",
+            "الفلك",
+            "علم فلك",
+            "فلك",
+            "عِلْمُ الفَلَكِ",
+            "الفَلَك"
           ],
-          "explanation": "المصطلح الصحيح هو «تاريخ»."
+          "explanation": "العلم هو «علم الفلك» (Astronomy)."
         }
       ],
       "passThreshold": 0.8
@@ -18368,85 +18400,89 @@
     "subject": "arabic",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science) (الدرس 5)",
+    "title": "حوار مجمع العلوم والتحليل الإبستمولوجي للنهضة العلمية العربية (Scientific Academy Colloquium & Epistemic Synthesis)",
     "level": "C1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: إسهامات الخوارزمي، ابن الهيثم، ابن النفيس، والبيروني في الفلك والطب والرياضيات. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثلاثين: جبر الخوارزمي، بصريات ابن الهيثم ومنهجه التجريبي، طب ابن سينا وابن النفيس، وفلك البيروني والبتاني في حوار علمي إبستمولوجي موسوعي بمجمع العلوم.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثلاثين (مستوى C1 المتقدم) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج كافة إنجازات العقل العلمي العربي الإسلامي في حوار إبستمولوجي رفيع يدور في مجمع العلوم التراثية بين مؤرخ العلوم (د. حازم) والباحثة في الفيزياء والفلك (د. سمية):\n\nمحاور الحوار العلمي الشامل:\n1.【الرياضيات والخوارزميات】: «الخَوَارِزْمِيُّ»، «الجَبْرُ وَالمُقَابَلَةُ»، «الصِّفْرُ وَالنِّظَامُ العَشْرِيُّ».\n2.【البصريات والمنهج التجريبي】: «ابْنُ الهَيْثَمِ»، «كِتَابُ المَنَاظِرِ»، «القُمْرَةُ المُظْلِمَةُ»، «الشَّكُّ المَنْهَجِيُّ».\n3.【الطب والصيدلة】: «الرَّازِي وَالحَاوِي»، «ابْنُ سِينَا وَالقَانُونُ»، «ابْنُ النَّفِيسِ وَالدَّوْرَةُ الدَّمَوِيَّةُ الصُّغْرَى».\n4.【الفلك والجيوديسيا】: «البِيرُونِيُّ وَمُحِيطُ الأَرْضِ»، «البَتَّانِيُّ وَالمُثَلَّثَاتُ الكُرَوِيَّةُ»، «الأُسْطُرْلَابُ».\n5.【الرؤية الإبستمولوجية】: تكامل التجربة والعقل، وتأثير النهضة العلمية العربية في انبثاق عصر التنوير الأوروبي.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة سُمَيَّة، كَيْفَ نُفَسِّرُ هٰذِهِ الوَثْبَةَ الإِبِسْتِمُولُوجِيَّةَ الَّتِي جَمَعَتْ بَيْنَ جَبْرِ الخَوَارِزْمِيِّ وَبَصَرِيَّاتِ ابْنِ الهَيْثَمِ؟(Marḥaban duktūrah Sumayyah, kayfa nufassiru hādhihi al-wathbata al-ibistimūlūjiyyata al-latī jamaʿat bayna jabri al-Khawārizmiyyi wa-baṣariyyāti Ibni al-Haytham?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah su.maj.jah, kaj.fa nu.fas.si.ru haː.ði.hi‿l.waθ.ba.ta‿l.ʔi.bis.ti.muː.luː.ʒij.ja.ta‿l.la.tiː ʒa.ma.ʕat baj.na ʒab.ri‿l.xa.waː.riz.mij.ji wa.ba.sˤa.rij.jaː.ti‿b.nil.haj.θam?] (Mar-ḥa-ban duk-tū-rah Su-may-yah, kay-fa nu-fas-si-ru hā-dhi-hi al-wath-ba-ta al-i-bis-ti-mū-lū-jiy-ya-ta al-la-tī ja-ma-ʿat bay-na jab-ri al-Kha-wā-riz-miy-yi wa-ba-ṣa-riy-yā-ti ib-ni al-Hay-tham?)",
+          "translation": "Welcome Dr. Sumayyah, how do we explain this epistemological leap that united al-Khwarizmi's algebra with Ibn al-Haytham's optics?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُور حَازِم؛ لَقَدْ قَامَتِ النَّهْضَةُ العِلْمِيَّةُ عَلَى المَنْهَجِ التَّجْرِيبِيِّ وَالرِّيَاضِيِّ؛ حَيْثُ حَرَّرَ الخَوَارِزْمِيُّ العَقْلَ بِالجَبْرِ، وَرَسَّخَ ابْنُ الهَيْثَمِ سُلْطَانَ التَّجْرِبَةِ.(Ahlan duktūr Ḥāzim; laqad qāmati an-nahḍatu al-ʿilmiyyatu ʿalā al-manhaji at-tajrībiyyi wa-ar-riyāḍiyy; ḥaythu ḥarrara al-Khawārizmiyyu al-ʿaqla bi-al-jabr, wa-rassakha Ibnu al-Haythami sulṭāna at-tajribah.)",
+          "reading": "[ʔah.lan duk.tuːr ħaː.zim; la.qad qaː.ma.ti‿n.nah.dˤa.tu‿l.ʕil.mij.ja.tu ʕa.laː‿l.man.ha.ʒi‿t.taʒ.riː.bij.ji war.ri.jaː.dˤijj; ħaj.θu ħar.ra.ra‿l.xa.waː.riz.mij.ju‿l.ʕaq.la bil.ʒabr, wa.ras.sa.xa‿b.nul.haj.θa.mi sul.tˤaː.na‿t.taʒ.ri.bah] (Ah-lan duk-tūr Ḥā-zim; la-qad qā-ma-ti an-nah-ḍa-tu al-ʿil-miy-ya-tu ʿa-lā al-man-ha-ji at-taj-rī-biy-yi wa-ar-ri-yā-ḍiyy; ḥay-thu ḥar-ra-ra al-Kha-wā-riz-miy-yu al-ʿaq-la bi-al-jabr, wa-ras-sa-kha ib-nu al-Hay-tha-mi sul-ṭā-na at-taj-ri-bah.)",
+          "translation": "Hello Dr. Hazim; the scientific renaissance was founded on experimental and mathematical methodology; where al-Khwarizmi freed the intellect with algebra, and Ibn al-Haytham entrenched the authority of experiment."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "وَتَكَامَلَ هٰذَا البِنَاءُ مَعَ فَرَائِدِ الطِّبِّ عِنْدَ ابْنِ سِينَا وَاكْتِشَافِ ابْنِ النَّفِيسِ لِلدَّوْرَةِ الصُّغْرَى وَقِيَاسِ البِيرُونِيِّ لِمُحِيطِ الأَرْضِ.(Wa-takāmala hādhā al-bināʾu maʿa farāʾidi aṭ-ṭibbi ʿinda Ibni Sīnā wa-iktishāfi Ibni an-Nafīsi li-d-dawrati aṣ-ṣughrā wa-qiyāsi al-Bīrūniyyi li-muḥīṭi al-arḍ.)",
+          "reading": "[wa.ta.kaː.ma.la haː.ðaː‿l.bi.naː.ʔu ma.ʕa fa.raː.ʔi.di‿tˤ.tˤib.bi ʕin.da‿b.ni siː.naː wak.ti.ʃaː.fi‿b.nin.na.fiː.si lid.daw.ra.ti‿sˤ.sˤuɣ.raː wa.qi.jaː.si‿l.biː.ruː.nij.ji li.mu.ħiː.tˤi‿l.ʔardˤ] (Wa-ta-kā-ma-la hā-dhā al-bi-nā-ʾu ma-ʿa fa-rā-ʾi-di aṭ-ṭib-bi ʿin-da ib-ni Sī-nā wakh-ti-shā-fi ib-ni an-Na-fī-si lid-daw-ra-ti aṣ-ṣugh-rā wa-qi-yā-si al-Bī-rū-niy-yi li-mu-ḥī-ṭi al-arḍ.)",
+          "translation": "And this edifice integrated with the medical gems of Ibn Sina, Ibn al-Nafis's discovery of pulmonary circulation, and al-Biruni's calculation of Earth's circumference."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لِيَظَلَّ الإِرْثُ العِلْمِيُّ العَرَبِيُّ الإِسْلَامِيُّ جِسْرًا حَضَارِيًّا خَالِدًا أَضَاءَ مَسِيرَةَ الإِنْسَانِيَّةِ نَحْوَ الحَدَاثَةِ وَالتَّنْوِيرِ.(Li-yaẓalla al-irthu al-ʿilmiyyu al-ʿarabiyyu al-islāmiyyu jisran ḥaḍāriyyan khālidan aḍāʾa masīrata al-insāniyyati naḥwa al-ḥadāthati wa-at-tanwīr.)",
+          "reading": "[li.ja.zˤal.la‿l.ʔir.θu‿l.ʕil.mij.ju‿l.ʕa.ra.bij.ju‿l.ʔis.laː.mij.ju ʒis.ran ħa.dˤaː.rij.jan xaː.li.dan ʔa.dˤaː.ʔa ma.siː.ra.ta‿l.ʔin.saː.nij.ja.ti naħ.wa‿l.ħa.daː.θa.ti wat.tan.wiːr] (Li-ya-ẓal-la al-ir-thu al-ʿil-miy-yu al-ʿa-ra-biy-yu al-is-lā-miy-yu jis-ran ḥa-ḍā-riy-yan khā-li-dan a-ḍā-ʾa ma-sī-ra-ta al-in-sā-niy-ya-ti naḥ-wa al-ḥa-dā-tha-ti wa-at-tan-wīr.)",
+          "translation": "So the Arab-Islamic scientific heritage remains a timeless civilizational bridge illuminating humanity's march toward modernity and enlightenment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَجْمَعِ العِلْمِ يَحْلُو البَيَانْ، مَجْدُ العُلُومِ نِبْرَاسُ الزَّمَانْ!"
+      ],
+      "culturalNotes": [
+        "يُجمع مؤرخو العلوم المعاصرون (مثل جورج سارتون وتشارلز هاسكنز) على أن الحضارة العربية الإسلامية لم تكن مجرد ناقل للعلوم القديمة بل كانت المبدع الحقيقي لروح العلم التجريبي الحديث ولغة الرياضيات التجريدية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» (الدرس 5)؟",
+          "prompt": "ما هو المبدأ المنهجي المشترك الذي وحّد إنجازات الخوارزمي وابن الهيثم والبيروني وابن النفيس؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)» بأسلوب أكاديمي دقيق (30.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (30.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (30.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (30.5.w3)"
+            "الاحْتِكَامُ إِلَى البُرْهَانِ الرِّيَاضِيِّ، التَّجْرِبَةِ المِخْبَرِيَّةِ، وَالشَّكِّ المَنْهَجِيِّ فِي النُّصُوصِ المَوْرُوثَةِ (Mathematical proof, experimental empirical trial & methodological doubt)",
+            "الاعتماد على الأساطير والتخمين العشوائي",
+            "رفض التعلم والترجمة من الحضارات السابقة",
+            "إلغاء الملاحظة والقياس"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "قامت النهضة العلمية على تحكيم التجربة والرياضيات والشك العلمي في الفرضيات القديمة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف أثرت الإنجازات العلمية العربية في انطلاق عصر النهضة والتنوير الأوروبي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "كَانَتِ المَرَاجِعَ الأَسَاسِيَّةَ الَّتِي بُنِيَتْ عَلَيْهَا جَامِعَاتُ أُورُوبَّا وَتَأَثَّرَ بِهَا كُوبِرْنِيكُوس وَغَالِيلْيُو وَدِيكَارْت (Formed foundational references for European universities influencing Copernicus & Galileo)",
+            "لم يسمع بها أحد في أوروبا",
+            "تم منع ترجمة الكتب العربية نهائيا",
+            "اقتصر تأثيرها على آسيا فقط"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "ترجمت مؤلفات ابن سينا والخوارزمي وابن الهيثم إلى اللاتينية وشكلت أساس المناهج العلمية الأوروبية لقرون."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u30-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف روعة التراث العلمي العربي بفصاحة إبستمولوجية تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (30.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (30.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (30.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (30.5.x3)"
+            "— كَيْفَ تَرَيْنَ جَوْهَرَ النَّهْضَةِ العِلْمِيَّةِ العَرَبِيَّةِ؟ — أَرَاهَا مَلْحَمَةً عَقْلِيَّةً خَالِدَةً حَوَّلَتِ المَعْرِفَةَ إِلَى مَنْهَجٍ تَجْرِيبِيٍّ مُحْكَمٍ بَنَى حَضَارَةَ الإِنْسَانِ. (— How do you view the essence of the Arabic scientific renaissance? — As an eternal intellectual epic transforming knowledge into a rigorous empirical method building human civilization.)",
+            "— هل زرت متحف العلوم بالأمس؟ — نعم ذهبت مع أصدقائي.",
+            "— كم عدد كتب الرياضيات في المكتبة؟ — يوجد مئة كتاب.",
+            "— حوار مجمع علوم تاريخ نهضة سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تعبر عن المضمون الإبستمولوجي للنهضة العلمية كمنهج تجريبي دقيق أسس للحضارة الإنسانية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «تاريخ العلوم عند العرب والنهضة العلمية (History of Arabic Science)»؟",
+          "prompt": "ما إعراب كلمة «مَلْحَمَةً» في قولنا: «أَرَاهَا مَلْحَمَةً عَقْلِيَّةً»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (30.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (30.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (30.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (30.5.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of ra'ā in accusative)",
+            "حال منصوبة بالفتحة",
+            "نعت منصوب",
+            "تمييز منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل «رَأَى» القلبي ينصب مفعولين؛ الضمير «هَا» مفعول أول، و«مَلْحَمَةً» مفعول به ثانٍ منصوب."
         }
       ]
     },
@@ -18454,24 +18490,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 30-5)؟",
+          "prompt": "اختر النص الحواري الإبستمولوجي الشامل الذي يدمج مخرجات الوحدة الثلاثين بأكملها (جبر الخوارزمي، مناظر ابن الهيثم، طب ابن سينا وابن النفيس، وفلك البيروني والبتاني):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (30.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (30.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (30.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (30.5.z3)"
+            "د. حَازِم: «دُكْتُورَة سُمَيَّة، كَيْفَ نُجْمِلُ الإِسْهَامَ الإِبِسْتِمُولُوجِيَّ العَظِيمَ لِعُلَمَاءِ الحَضَارَةِ العَرَبِيَّةِ الإِسْلَامِيَّةِ فِي تَارِيخِ الفِكْرِ الإِنْسَانِيِّ؟» — د. سُمَيَّة: «إِنَّهَا ثَوْرَةُ المَنْهَجِ وَالعَقْلِ؛ حَيْثُ أَرْسَى الخَوَارِزْمِيُّ صَرْحَ الجَبْرِ وَالخَوَارِزْمِيَّاتِ، وَدَشَّنَ ابْنُ الهَيْثَمِ فِيزْيَاءَ البَصَرِيَّاتِ وَالشَّكَّ التَّجْرِيبِيَّ، وَخَلَّدَ ابْنُ سِينَا وَابْنُ النَّفِيسِ عَبْقَرِيَّةَ الطِّبِّ وَالدَّوْرَةِ الدَّمَوِيَّةِ الصُّغْرَى، بَيْنَمَا كَشَفَ البِيرُونِيُّ وَالبَتَّانِيُّ عَنْ أَبْعَادِ الأَرْضِ وَأَسْرَارِ الأَفْلَاكِ، لِيَظَلَّ عِلْمُنَا شُعْلَةً أَبَدِيَّةً أَضَاءَتْ مَعَالِمَ الحَضَارَةِ البَشَرِيَّةِ». (Dr. Hazim: 'Dr. Sumayyah, how do we summarize the great epistemological contribution of Arab-Islamic civilization scholars in human thought history?' — Dr. Sumayyah: 'It is the revolution of method and reason; where al-Khwarizmi laid the edifice of algebra and algorithms, Ibn al-Haytham inaugurated optics physics and experimental doubt, Ibn Sina and Ibn al-Nafis immortalized medical genius and pulmonary circulation, while al-Biruni and al-Battani revealed Earth dimensions and cosmic secrets, keeping our science an eternal flame illuminating human civilization.')",
+            "د. حازم: هل كانت المحاضرة العلمية مفيدة اليوم؟ — د. سمية: نعم كانت مفيدة واستفدنا منها.",
+            "حوار علمي شامل خوارزمي ابن الهيثم ابن سينا ابن النفيس بيروني بتاني سكون فتحة ضمة.",
+            "توقفت العلوم عن التطور في العالم الإسلامي تماما."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل ذروة التحليل الإبستمولوجي الموسوعي في دمج: جبر الخوارزمي، مناظر ابن الهيثم، طب ابن سينا وابن النفيس، وجيوديسيا وفلك البيروني والبتاني."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u30-l5) باللغة العربية (مثال: «تاريخ»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الميدان المعرفي الذي يؤرخ لمنجزات العلماء واكتشافاتهم عبر العصور (اكتب: «تاريخ العلوم»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "تاريخ",
-            "تاريخ"
+            "تاريخ العلوم",
+            "تاريخ علوم",
+            "تَارِيخُ العُلُومِ",
+            "تَارِيخ العُلُوم"
           ],
-          "explanation": "المصطلح الصحيح هو «تاريخ»."
+          "explanation": "الميدان المعرفي هو «تاريخ العلوم» (History of Science)."
         }
       ],
       "passThreshold": 0.8
