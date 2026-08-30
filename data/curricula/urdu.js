@@ -8685,53 +8685,62 @@
     "subject": "urdu",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "طبی مشاورت، امراض اور علاج (Medical Discourse) (Part 1)",
+    "title": "طبی علامات، کیفیات اور تشخیص (Medical Symptoms & Diagnosis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.1) with authentic precision.",
+    "objective": "طبی علامات (بخار، سر درد، چکر، نقاہت)، نبض شناسی، اور معالج سے طبی مکالمے کے فصیح اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں طبی علامات اور کیفیات کا بیان (Medical Discourse - Symptoms & Diagnosis):\n\n1. **جسمانی کیفیات اور علامات کا اسلوب**:\n   - فاعل کو کیفیتی حالت میں لانے کے لیے حرفِ جار **'کو'** یا **'میں'** کا استعمال:\n     - «مریض **کو تیز بخار ہے** اور سر میں شدید درد ہے»؛\n     - «مریض **کو چکر آ رہے ہیں** اور متلی محسوس ہو رہی ہے»؛\n     - «مریض شدید جسمانی **نقاہت (کمزوری)** کا شکار ہے»۔\n\n2. **طبی معائنہ اور تشخیص (Clinical Examination & Diagnosis)**:\n   - «معالج نے **نبض کی رفتار** اور **بلڈ پریشر** چیک کیا»；\n   - «علامات کا بغور مطالعہ کر کے مرض کی **تشخیص (Diagnosis)** کی گئی»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ڈاکٹر صاحب، مریض کو پچھلے تین دن سے تیز بخار ہے اور شدید جسمانی نقاہت کا سامنا ہے۔",
+          "reading": "Doctor saahib, mareez ko pichlay teen din se teiz bukhaar hai aur shadeed jismaani naqaahat ka saamna hai. [ɖaːkʈər saːhɪb məriːz koː pɪtʃʰleː tiːn d̪ɪn seː t̪eːz bʊxaːr hɛː ɔːr ʃəd̪iːd̪ dʒɪsmaːniː nəqaːhət̪ kaː saːmnaː hɛː] (DOCTOR sah-HEEB, muh-REEZ koh peechh-LAY TEEN DEEN say TAYZ boo-KHAHR HY owr shuh-DEED jees-mah-NEE nuh-QAH-huht kah SAHM-nah HY)",
+          "translation": "Doctor, the patient has had a high fever for the last three days [experiential symptom: mareez ko teiz bukhaar hai] and is facing severe physical weakness."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 21-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "طبیب نے مریض کی نبض کی رفتار اور بلڈ پریشر کا بغور معائنہ کر کے تفصیلی تشخیص پیش کی۔",
+          "reading": "Tabeeb ne mareez ki nabz ki raftaar aur blood pressure ka baghowr muaa'ina kar ke tafseeli tashkhees pesh ki. [t̪əbiːb neː məriːz kiː nəbz kiː rəftaːr ɔːr bləɖ prɛʃər kaː bəɣɔːr mʊʔaːʔɪnaː kər keː t̪əfsiːliː t̪əʃxiːs peːʃ kiː] (tuh-BEEB nay muh-REEZ kee NUBZ kee ruhf-TAHR owr blood pressure kah buh-GHOWR moo-ah-ee-NAH kuhr kay tuhf-see-LEE tuhsh-KHEES PAYSH KEE)",
+          "translation": "The physician presented a detailed diagnosis after examining the patient's pulse rate and blood pressure carefully [clinical diagnosis: tafseeli tashkhees]."
+        },
+        {
+          "target": "اگر آپ کو مسلسل کھانسی اور سینے میں جلن محسوس ہو تو فوری طور پر ماہرِ امراض سے رجوع کریں۔",
+          "reading": "Agar aap ko musalsal khaansi aur seenay mein jalan mehsoos ho to fowri tawr par maahir-e-amraaz se rujoo' karein. [əɡər aːp koː mʊsəlsəl kʰaː̃siː ɔːr siːneː mẽː dʒələn mɛhsuːs hoː t̪oː fɔːriː t̪ɔːr pər maːhɪr-eː-əmraːz seː rʊdʒuːʔ kərẽː] (UH-guhr AHP koh moo-suhl-SUHL khahn-SEE owr see-NAY mayn JUH-luhn myh-SOOS hoh TOH FOW-ree TOWR puhr MAH-heer-ay-uhm-RAHZ say roo-JOO kuh-REYN)",
+          "translation": "If you feel persistent coughing and burning sensation in the chest, consult a medical specialist immediately [experiential: jalan mehsoos ho]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "طبی علامات: مریض کو بخار ہے (کیفیت) + نبض شناسی (معائنہ) + مرض کی تشخیص (نتیجہ)!"
+      ],
+      "culturalNotes": [
+        "اردو کی روایتی طبی تاریخ (طب یونانی اور جدید ایلوپیتھی) میں نبض شناسی اور کیفیتی زبان کو معالج اور مریض کے درمیان تعلق کا اہم ترین وسیلہ مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"آج\":",
+          "prompt": "مریض کی جسمانی کمزوری کو طبی زبان میں کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پرسوں» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («صبح» کی خرابی)"
+            "نقاہت (Naqaahat - Medical weakness / fatigue / debility)",
+            "چالاکی (طاقت)",
+            "صرف سستی (غیر طبی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "طبی اصطلاح میں شدید جسمانی کمزوری کو «نقاہت» کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"آج\":",
+          "prompt": "طبی علامات کی بنیاد پر بیماری معلوم کرنے کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پرسوں» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («صبح» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کل» کا غیر درست استعمال)"
+            "تشخیص (Tashkhees - Clinical diagnosis / identifying the nature of disease)",
+            "تفریح (سیر و تفریح)",
+            "تجارت (کاروبار)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "بیماری کی شناخت کے عمل کو «تشخیص» (Diagnosis) کہا جاتا ہے۔"
         }
       ]
     },
@@ -8739,17 +8748,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"آج\": Which sentence is completely correct?",
+          "prompt": "طبی علامات اور تشخیص (Medical Symptoms & Diagnosis) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («صبح» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پرسوں» سے متعلق)"
+            "طبیبِ حاذق نے مریض کے بلڈ پریشر اور علامات کا بغور معائنہ کر کے فوری تشخیص کی کہ مریض کو موسمی بخار کی وجہ سے نقاہت لاحق ہے۔ (The skilled physician examined blood pressure and symptoms carefully and diagnosed that the patient suffers from weakness due to seasonal fever.)",
+            "طبیب نے بخار کو کھایا تھا اور رویا تھا۔",
+            "تشخیص کا لفظ صرف موٹر کار کے لیے استعمال ہوتا ہے۔",
+            "اردو میں بیماری کا نام لینا منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«طبیبِ حاذق نے مریض کے بلڈ پریشر اور علامات کا بغور معائنہ کر کے فوری تشخیص کی کہ مریض کو موسمی بخار کی وجہ سے نقاہت لاحق ہے۔» طبی زبان کا کامل و فصیح نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u21-l2": {
@@ -8757,53 +8767,62 @@
     "subject": "urdu",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "طبی مشاورت، امراض اور علاج (Medical Discourse) (Part 2)",
+    "title": "طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیشِ مرض (Clinical Lab Investigations)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.2) with authentic precision.",
+    "objective": "تشخیصی ٹیسٹ (خون کا ٹیسٹ، ایکسرے، الٹراساؤنڈ، نمونۂ خون)، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں لیبارٹری ٹیسٹ اور تشخیصی رپورٹس (Clinical Investigations & Lab Reports):\n\n1. **لیبارٹری اور تشخیصی اصطلاحات**:\n   - «**خون کا نمونہ** (Blood Sample)»؛\n   - «**خون کے ٹیسٹ کی رپورٹ** (Blood Test Report)»؛\n   - «**ایکسرے / الٹراساؤنڈ / سی ٹی اسکین**»؛\n   - «نتائج **مثبت (Positive)** یا **منفی (Negative)** آئے ہیں»۔\n\n2. **رپورٹس کا نحوی بیانیہ**:\n   - «لیبارٹری رپورٹس کی روشنی میں معلوم ہوا ہے کہ...»；\n   - «ایکسرے میں پھیپھڑوں میں **انفیکشن کی تصدیق** ہوئی ہے»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "لیبارٹری سے موصول ہونے والی خون کے ٹیسٹ کی رپورٹ کے مطابق مریض کے پلیٹ لیٹس میں نمایاں کمی واقع ہوئی ہے۔",
+          "reading": "Laboratory se mausool honay waali khoon ke test ki report ke mutaabiq mareez ke platelets mein numaayaan kami waaqi hui hai. [læbrəʈriː seː mɔːsuːl hoːneː ʋaːliː xuːn keː ʈɛstː kiː rɪpoːrʈ keː mʊt̪aːbɪq məriːz keː pleːʈlɪʈs mẽː nʊmaːjaː̃ kəmiː ʋaːqɪʔ hʊiː hɛː] (laboratory say mow-SOOL hoh-NAY vah-LEE KHOON kay test kee report kay moo-tah-BEEQ muh-REEZ kay platelets mayn noo-mah-YAHN kuh-MEE VAH-quh hoo-EE HY)",
+          "translation": "According to the blood test report received from the laboratory, a marked decrease has occurred in the patient's platelets [lab report discourse]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 21-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ڈاکٹر نے پیٹ کے درد کی درست وجوہات جاننے کے لیے فوری طور پر الٹراساؤنڈ اور سی ٹی اسکین کرانے کی ہدایت کی۔",
+          "reading": "Doctor ne pet ke dard ki durust wujoohaat jaannay ke liye fowri tawr par ultrasound aur CT scan karaanay ki hidaayat ki. [ɖaːkʈər neː peːʈ keː d̪ərd̪ kiː d̪ʊrʊst̪ ʋʊdʒuːhaːt̪ dʒaːnneː keː lɪjeː fɔːriː t̪ɔːr pər ʊlʈraːsaːʊnɖ ɔːr siː-ʈiː skæn kəraːneː kiː hɪd̪aːjət̪ kiː] (DOCTOR nay PAYT kay DUHRD kee doo-ROOST voo-joo-HAHT jahn-NAY kay lee-AY FOW-ree TOWR puhr ultrasound owr CT scan kuh-rah-NAY kee hee-dah-YUHT KEE)",
+          "translation": "The doctor directed that an ultrasound and CT scan be performed immediately to know the exact causes of abdominal pain."
+        },
+        {
+          "target": "ایکسرے رپورٹ کی روشنی میں ہڈی میں معمولی فریکچر دیکھا گیا ہے جس کے لیے پلاسٹر ناگزیر ہے۔",
+          "reading": "X-ray report ki roshni mein haddi mein ma'mooli fracture dekha gaya hai jis ke liye plaster naa-guzeer hai. [ɛks-reː rɪpoːrʈ kiː roːʃniː mẽː həd̪ːiː mẽː maːmuːliː fræktʃər d̪eːkʰaː ɡəjaː hɛː dʒɪs keː lɪjeː plaːsʈər naː-ɡʊziːr hɛː] (X-ray report kee rosh-NEE mayn huhd-DEE mayn mah-moo-LEE fracture DAYK-hah guh-YAH HY JEES kay lee-AY plaster nah-goo-ZEER HY)",
+          "translation": "In light of the X-ray report, a slight fracture was observed in the bone for which plaster is unavoidable."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لیبارٹری اصطلاحات: خون کا نمونہ + ٹیسٹ رپورٹ کے مطابق + ایکسرے و الٹراساؤنڈ!"
+      ],
+      "culturalNotes": [
+        "عصری اردو میں جدید طبی اصطلاحات اور انگریزی میڈیکل ناموں کو اردو نحوی سانچے میں انتہائی خوبصورتی سے سمویا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کل\":",
+          "prompt": "لیبارٹری میں تجزیے کے لیے لیے جانے والے خون کے حصے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پرسوں» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («صبح» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوپہر» کی خرابی)"
+            "خون کا نمونہ (Khoon ka namoona - Blood sample for clinical analysis)",
+            "خون کی بوندیں (غیر اصطلاحی)",
+            "پورا خون (غلط)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "طبی اصطلاح میں اسے «خون کا نمونہ» (Blood Sample) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کل\":",
+          "prompt": "ہڈیوں کے معائنے کے لیے کروائی جانے والی تشخیصی تصویر کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («صبح» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوپہر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پرسوں» کا غیر درست استعمال)"
+            "ایکسرے (X-ray - Radiographic imaging for bones)",
+            "عام تصویر",
+            "ویڈیو ریکارڈنگ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ہڈیوں کے اندرونی معائنے کے لیے «ایکسرے» کروایا جاتا ہے۔"
         }
       ]
     },
@@ -8811,17 +8830,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کل\": Which sentence is completely correct?",
+          "prompt": "طبی ٹیسٹ اور لیبارٹری رپورٹس (Lab Investigations) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوپہر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پرسوں» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («صبح» سے متعلق)"
+            "لیبارٹری رپورٹس اور ایکسرے کے نتائج سے واضح ہوا ہے کہ مریض کا انفیکشن کم ہو رہا ہے اور تمام تشخیصی اشاریے بہتری کی طرف گامزن ہیں۔ (Lab reports and X-ray results clarified that the patient's infection is subsiding and diagnostic indicators are improving.)",
+            "ایکسرے نے کھانا کھایا تھا رویا تھا۔",
+            "لیبارٹری ٹیسٹ صرف جانوروں کے لیے ہوتے ہیں۔",
+            "رپورٹ کو ہمیشہ جلا دینا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«لیبارٹری رپورٹس اور ایکسرے کے نتائج سے واضح ہوا ہے کہ مریض کا انفیکشن کم ہو رہا ہے اور تمام تشخیصی اشاریے بہتری کی طرف گامزن ہیں۔» تشخیصی اردو کا درست ترین نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u21-l3": {
@@ -8829,53 +8849,62 @@
     "subject": "urdu",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "طبی مشاورت، امراض اور علاج (Medical Discourse) (Part 3)",
+    "title": "نسخۂ ادویات، خوراک اور پرہیز (Prescriptions, Dosages & Dietary Restrictions)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.3) with authentic precision.",
+    "objective": "طبی نسخہ (Prescription)، ادویات کی خوراک (Dosage) اور غذائی پرہیز (Dietary Restrictions) کے اسلوب پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں نسخۂ ادویات، خوراک اور پرہیز (Prescriptions, Dosages & Diet):\n\n1. **نسخہ اور ادویات کے استعمال کی ہدایات**:\n   - «**نسخۂ ادویات** (Medical Prescription)»；\n   - «یہ گولی **دن میں دو بار کھانے کے بعد** نیم گرم پانی سے لیں»；\n   - «شربت کا **ایک چمچ صبح و شام** پینا ہے»۔\n\n2. **غذائی پرہیز (Dietary Restrictions)**:\n   - «چکنائی، تلی ہوئی اشیاء اور نمک سے **مکمل پرہیز** کریں»；\n   - «**پرہیز علاج سے بہتر ہے** (Prevention is better than cure)»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ڈاکٹر نے نسخے میں لکھا کہ یہ گولیاں روزانہ صبح و شام کھانے کے بعد نیم گرم پانی کے ساتھ استعمال کی جائیں۔",
+          "reading": "Doctor ne nuskhay mein likha keh yeh goliyaan rozaana subh-o-shaam khaanay ke baad neem-garm paani ke saath istemaal ki jaayein. [ɖaːkʈər neː nʊsxeː mẽː lɪkʰaː kɛh jɛh ɡoːlɪjaː̃ roːzaːnaː sʊbəh-oː-ʃaːm kʰaːneː keː baːd̪ niːm-ɡərm paːniː keː saːt̪ʰ ɪst̪ɪmaːl kiː dʒaːʔẽː] (DOCTOR nay noos-KHAY mayn LEEK-hah KYH YEH goh-lee-YAHN roh-ZAH-nah SOO-buh-oh-SHAHM khah-NAY kay BAHD NEEM-guhrm pah-NEE kay SAHTH ees-tee-MAHL kee jah-AYN)",
+          "translation": "The doctor wrote in the prescription that these tablets should be used daily morning and evening after meals with lukewarm water [dosage directive]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 21-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "بلڈ پریشر اور شوگر کے مریضوں کے لیے نمک، چینی اور چکنائی والی غذاؤں سے مکمل پرہیز ازحد ضروری ہے۔",
+          "reading": "Blood pressure aur sugar ke mareezon ke liye namak, cheeni aur chiknaai waali ghizaaon se mukammal parheiz az-hadd zaroori hai. [bləɖ prɛʃər ɔːr ʃʊɡər keː məriːzõː keː lɪjeː nəmək tʃiːniː ɔːr tʃɪknaːʔiː ʋaːliː ɣɪzaːʔõː seː mʊkəmːəl pərheːz əz-həd̪ː zəruːriː hɛː] (blood pressure owr sugar kay muh-ree-ZOHN kay lee-AY NUH-muhk, CHEE-nee owr cheek-nah-EE vah-LEE ghee-zah-OHN say moo-kuhm-MUHL puhr-HAYZ uhz-HUDD zuh-roo-REE HY)",
+          "translation": "For patients with blood pressure and diabetes, complete avoidance of salt, sugar, and fatty foods is extremely essential [dietary restriction: mukammal parheiz]."
+        },
+        {
+          "target": "ادویات کا کورس درمیان میں چھوڑنا بیماری کے دوبارہ لوٹ آنے کا سبب بن سکتا ہے، لہٰذا باقاعدگی برقرار رکھیں۔",
+          "reading": "Adwiyaat ka course darmiyaan mein chhorna beemaari ke dobaara lowt aanay ka sabab ban sakta hai, lehaaza baaqaa'idagi bar-qaraar rakhein. [əd̪ʋɪjaːt̪ kaː koːrs d̪ərmɪjaːn mẽː tʃʰoːɽnaː biːmaːriː keː d̪oːbaːraː lɔːʈ aːneː kaː səbəb bən səkt̪aː hɛː lɪhaːzaː baːqaːʔɪd̪əɡiː bər-qəraːr rəkʰẽː] (uhd-vee-YAHT kah course duhr-mee-YAHN mayn chhohr-NAH bee-mah-REE kay doh-BAH-rah LOWT ah-NAY kah SUH-buhb buhn suhk-TAH HY, lee-HAH-zah bah-qah-ee-duh-GEE buhr-quh-RAHR ruh-KHEYN)",
+          "translation": "Leaving the course of medicines midway can cause the return of the disease, therefore maintain regularity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نسخہ اور پرہیز: نسخۂ ادویات + کھانے کے بعد صبح شام + چکنائی اور نمک سے پرہیز!"
+      ],
+      "culturalNotes": [
+        "اردو حکمت اور معاشرت میں 'پرہیز علاج سے بہتر ہے' ایک بنیادی اور سنہری اصول سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پرسوں\":",
+          "prompt": "مضرِ صحت غذاؤں سے رکنے اور بچنے کے عمل کو طبی زبان میں کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («صبح» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوپہر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شام» کی خرابی)"
+            "پرہیز (Parheiz - Dietary abstention / avoidance of contraindicated foods)",
+            "ضیافت (دعوت)",
+            "خریداری",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "طبی زبان میں بیماری پیدا کرنے والی غذاؤں سے بچنے کو «پرہیز» کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پرسوں\":",
+          "prompt": "ڈاکٹر کی طرف سے ادویات کی لکھی گئی باضابطہ تحریر کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوپہر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شام» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («صبح» کا غیر درست استعمال)"
+            "نسخہ / نسخۂ ادویات (Nuskha - Medical prescription)",
+            "اخبار",
+            "رسالہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ادویات کی تحریری ہدایت کو «نسخہ» (Prescription) کہتے ہیں۔"
         }
       ]
     },
@@ -8883,17 +8912,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پرسوں\": Which sentence is completely correct?",
+          "prompt": "نسخۂ ادویات اور پرہیز (Prescriptions & Diet) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شام» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («صبح» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوپہر» سے متعلق)"
+            "معالج نے ہدایت کی کہ اینٹی بائیوٹک کا کورس سات دن تک بلا ناغہ مکمل کیا جائے اور ترش و تلی ہوئی اشیاء سے سخت پرہیز برتا جائے۔ (The physician instructed that antibiotic course be completed without break for seven days and strict avoidance of sour and fried foods be practiced.)",
+            "معالج نے نسخہ پیا تھا اور گاڑی روئی تھی۔",
+            "پرہیز صرف خواب میں کیا جاتا ہے۔",
+            "ادویات کا وقت پر لینا منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«معالج نے ہدایت کی کہ اینٹی بائیوٹک کا کورس سات دن تک بلا ناغہ مکمل کیا جائے اور ترش و تلی ہوئی اشیاء سے سخت پرہیز برتا جائے۔» طبی ہدایات کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u21-l4": {
@@ -8901,53 +8931,62 @@
     "subject": "urdu",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "طبی مشاورت، امراض اور علاج (Medical Discourse) (Part 4)",
+    "title": "سرجری، نگہداشتِ بعد از آپریشن اور ہسپتالی پروٹوکول (Surgical & Post-Op Care)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.4) with authentic precision.",
+    "objective": "جراحی (سرجری)، آپریشن تھیٹر، آئی سی یو (انتہائی نگہداشت)، مرہم پٹی اور ہسپتالی پروٹوکول کے فصیح بیانیے پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سرجری اور بعد از آپریشن نگہداشت (Surgical Procedures & Post-Op Care):\n\n1. **جراحی اور ہسپتال کی اہم اصطلاحات**:\n   - «**جراحی / آپریشن** (Surgical Operation)»؛\n   - «**آپریشن تھیٹر / شعبۂ جراحی**»；\n   - «**انتہائی نگہداشت کا شعبہ / آئی سی یو** (Intensive Care Unit)»；\n   - «**مرہم پٹی / ڈریسنگ** (Wound Dressing)»؛\n   - «**تیمار دار** (Patient Attendant)»۔\n\n2. **پوسٹ آپریٹو زبان**:\n   - «کامیاب جراحی کے بعد مریض کی **حالت خطرے سے باہر ہے**»；\n   - «انفیکشن سے بچاؤ کے لیے **جراثیم کش ادویات** دی جا رہی ہیں»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ماہر سرجن کی نگرانی میں تین گھنٹے طویل جراحی کا کامیاب آپریشن مکمل ہوا اور مریض کو انتہائی نگہداشت کے وارڈ میں منتقل کیا گیا۔",
+          "reading": "Maahir surgeon ki nigraani mein teen ghantay taweel jarraahi ka kaamyaab operation mukammal hua aur mareez ko intehaai nigahdaasht ke ward mein muntaqil kiya gaya. [maːhɪr sərdʒən kiː nɪɡraːniː mẽː tiːn ɡʱəɳʈeː t̪əʋiːl dʒərːaːhiː kaː kaːmjaːb oːprɛʃən mʊkəmːəl hʊaː ɔːr məriːz koː ɪnt̪ɪhaːʔiː nɪɡəhdaːʃt̪ keː ʋaːrɖ mẽː mʊnt̪əqɪl kɪjaː ɡəjaː] (MAH-heer surgeon kee neeg-rah-NEE mayn TEEN GHUHN-tay tuh-VEEL juhr-rah-HEE kah kahm-YAHB operation moo-kuhm-MUHL hoo-AH owr muh-REEZ koh een-tee-hah-EE neeg-uh-DAHSHT kay ward mayn moon-tuh-QEEL kee-YAH guh-YAH)",
+          "translation": "Under the supervision of an expert surgeon, a three-hour-long successful surgical operation was completed and the patient was shifted to the intensive care ward [surgical discourse]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 21-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "آپریشن کے بعد زخم کی باقاعدہ ڈریسنگ اور جراثیم کش ادویات کا استعمال صحت یابی کی رفتار کو تیز کرتا ہے۔",
+          "reading": "Operation ke baad zakhm ki baaqaa'ida dressing aur jaraaseem-kush adwiyaat ka istemaal sehat-yaabi ki raftaar ko teiz karta hai. [oːprɛʃən keː baːd̪ zəxm kiː baːqaːʔɪd̪aː ɖrɛsɪŋɡ ɔːr dʒəraːsiːm-kʊʃ əd̪ʋɪjaːt̪ kaː ɪst̪ɪmaːl sɛːhət̪-jaːbiː kiː rəftaːr koː t̪eːz kərt̪aː hɛː] (operation kay BAHD ZUKHM kee bah-qah-ee-DUH dressing owr juh-rah-SEEM-koosh uhd-vee-YAHT kah ees-tee-MAHL sy-huht-yah-BEE kee ruhf-TAHR koh TAYZ kuhr-TAH HY)",
+          "translation": "Regular dressing of the wound and use of antiseptic medicines after operation accelerates the speed of recovery."
+        },
+        {
+          "target": "ہسپتال کے ضوابط کے تحت انتہائی نگہداشت کے شعبے میں تیمار داروں کا غیر ضروری رش سختی سے منع ہے۔",
+          "reading": "Haspataal ke zawaabit ke tehat intehaai nigahdaasht ke shu'bay mein teemaardaaron ka ghair-zaroori rush sakhti se mana hai. [həspət̪aːl keː zəʋaːbɪt̪ keː t̪əɦət̪ ɪnt̪ɪhaːʔiː nɪɡəhdaːʃt̪ keː ʃʊʔbeː mẽː tiːmaːrdaːrõː kaː ɣɛːr-zəruːriː rʊʃ səxtiː seː mənaː hɛː] (huhs-puh-TAHL kay zuh-vah-BEET kay tuh-HUHT een-tee-hah-EE neeg-uh-DAHSHT kay shooh-BAY mayn tee-mahr-dah-ROHN kah ghyr-zuh-roo-REE ROOSH suhkh-TEE say muh-NAH HY)",
+          "translation": "Under hospital regulations, unnecessary rushing of patient attendants in the intensive care department is strictly prohibited [hospital protocol]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سرجری اصطلاحات: جراحی و آپریشن + انتہائی نگہداشت (آئی سی یو) + زخم کی مرہم پٹی + تیمار دار!"
+      ],
+      "culturalNotes": [
+        "اردو تہذیب میں بیمار کی عیادت اور تیمار داری کو انتہائی بلند اخلاقی و سماجی فریضہ سمجھا جاتا ہے جس کے لیے مخصوص دعائیہ کلمات مروج ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"صبح\":",
+          "prompt": "مریض کی خدمت اور دیکھ بھال کرنے والے شخص کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوپہر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شام» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رات» کی خرابی)"
+            "تیمار دار (Teemaardaar - Patient attendant / caregiver)",
+            "خریدار (گاہک)",
+            "دکاندار",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مریض کی نگہداشت کرنے والے کو «تیمار دار» کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"صبح\":",
+          "prompt": "ہسپتال میں شدید نگہداشت کے خصوصی وارڈ کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شام» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رات» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوپہر» کا غیر درست استعمال)"
+            "شعبۂ انتہائی نگہداشت (Shu'ba-e-intehaai nigahdaasht - Intensive Care Unit / ICU)",
+            "عام انتظار گاہ",
+            "طعام خانہ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "آئی سی یو کو اردو میں «شعبۂ انتہائی نگہداشت» کہا جاتا ہے۔"
         }
       ]
     },
@@ -8955,17 +8994,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"صبح\": Which sentence is completely correct?",
+          "prompt": "سرجری اور بعد از آپریشن نگہداشت (Surgical & Post-Op Care) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («رات» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوپہر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شام» سے متعلق)"
+            "کامیاب سرجری کے بعد مریض کو شعبۂ انتہائی نگہداشت میں رکھا گیا ہے جہاں باقاعدہ مرہم پٹی اور معالجاتی نگرانی کے باعث اس کی حالت اب خطرے سے باہر ہے۔ (After successful surgery the patient is kept in ICU where due to regular dressing and medical supervision his condition is out of danger.)",
+            "سرجری نے کھانا کھایا تھا اور رویا تھا۔",
+            "آئی سی یو میں شادی کی تقریب ہوتی ہے۔",
+            "مرہم پٹی صرف پودوں کی کی جاتی ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«کامیاب سرجری کے بعد مریض کو شعبۂ انتہائی نگہداشت میں رکھا گیا ہے جہاں باقاعدہ مرہم پٹی اور معالجاتی نگرانی کے باعث اس کی حالت اب خطرے سے باہر ہے۔» سرجیکل اور ہسپتالی پروٹوکول کا شاندار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u21-l5": {
@@ -8973,53 +9013,62 @@
     "subject": "urdu",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "طبی مشاورت، امراض اور علاج (Medical Discourse) (Part 5)",
+    "title": "طبی مشاورت، تشخیص و علاج کا جامع سمیکن (Medical Discourse Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 21.5) with authentic precision.",
+    "objective": "علامات، لیبارٹری تفتیش، نسخۂ ادویات، پرہیز، اور سرجیکل بحالی کو ایک مربوط طبی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "طبی مشاورت، تشخیص اور علاج کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **کیس ہسٹری اور طبی بیانیے کا جامع ڈھانچہ**:\n   - **علامات کا معائنہ**: «مریض کو شدید بخار، کھانسی اور نقاہت لاحق تھی»؛\n   - **تشخیصی تفتیش**: «لیبارٹری سے خون کے ٹیسٹ اور ایکسرے کی رپورٹ حاصل کی گئی»؛\n   - **نسخۂ ادویات**: «طبیب نے جراثیم کش ادویات اور سیرپ کا نسخہ تجویز کیا»؛\n   - **پرہیز اور احتیاط**: «تلی ہوئی اشیاء سے سخت پرہیز اور وقت پر خوراک کی تاکید کی گئی»؛\n   - **سرجری و بحالی**: «کامیاب علاج اور تیمار داری سے مریض کی حالت خطرے سے باہر ہو گئی»۔\n\n2. **علمی و انسانی بلندی**:\n   - یہ زبان اردو کے میڈیکل لٹریچر، ہیلتھ کالمز اور آگاہی مہمات کا فصیح ترین شاہکار ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "طبیب نے مریض کی علامات، نبض اور لیبارٹری ٹیسٹ کی رپورٹ کا تفصیلی معائنہ کر کے دوا کا نسخہ تجویز کیا اور ہدایت کی کہ باقاعدہ پرہیز اور وقت پر خوراک کے استعمال سے ہی مکمل شفا یابی ممکن ہوگی۔",
+          "reading": "Tabeeb ne mareez ki alaamaat, nabz aur laboratory test ki report ka tafseeli muaa'ina kar ke dawa ka nuskha tajweez kiya aur hidaayat ki keh baaqaa'ida parheiz aur waqt par khoraak ke istemaal se hi mukammal shifa-yaabi mumkin hogi. [t̪əbiːb neː məriːz kiː əlaːmaːt̪ nəbz ɔːr læbrəʈriː ʈɛstː kiː rɪpoːrʈ kaː t̪əfsiːliː mʊʔaːʔɪnaː kər keː d̪əʋaː kaː nʊsxaː t̪ədʒʋiːz kɪjaː ɔːr hɪd̪aːjət̪ kiː kɛh baːqaːʔɪd̪aː pərheːz ɔːr ʋəqt̪ pər xoːraːk keː ɪst̪ɪmaːl seː hiː mʊkəmːəl ʃɪfaː-jaːbiː mʊmkɪn hoːɡiː] (tuh-BEEB nay muh-REEZ kee uh-lah-MAHT, NUBZ owr laboratory test kee report kah tuhf-see-LEE moo-ah-ee-NAH kuhr kay duh-VAH kah noos-KHAH tuhj-VEEZ kee-YAH owr hee-dah-YUHT KEE KYH bah-qah-ee-DUH puhr-HAYZ owr VUHKT puhr khoh-RAHK kay ees-tee-MAHL say HEE moo-kuhm-MUHL shee-fah-yah-BEE moom-KEEN hoh-GEE)",
+          "translation": "The physician prescribed the medicine after examining the patient's symptoms, pulse, and laboratory test report, and instructed that complete recovery is possible only through regular dietary avoidance and timely dosage [medical grand synthesis]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 21-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ماہر معالج نے مریض کو تسلی دیتے ہوئے واضح کیا کہ سرجری کے بعد احتیاطی تدابیر اور متوازن غذا پر عمل پیرا ہو کر جلد معمول کی زندگی کی طرف لوٹا جا سکتا ہے۔",
+          "reading": "Maahir muaalij ne mareez ko tasalli detay huay waazeh kiya keh surgery ke baad iehtiyaati tadaabeer aur mutawaazin ghiza par amal-paira ho kar jald ma'mool ki zindagi ki taraf lowta ja sakta hai. [maːhɪr mʊʔaːlɪdʒ neː məriːz koː t̪əsəlːiː d̪eːt̪eː hʊʔeː ʋaːzɪh kɪjaː kɛh sərdʒəriː keː baːd̪ ɪɦt̪ɪjaːt̪iː t̪əd̪aːbiːr ɔːr mʊt̪əʋaːzɪn ɣɪzaː pər əməl-pɛːraː hoː kər dʒəld̪ maːmuːl kiː zɪnd̪əɡiː kiː t̪ərəf lɔːʈaː dʒaː səkt̪aː hɛː] (MAH-heer moo-AH-leej nay muh-REEZ koh tuh-suhl-LEE day-TAY hoo-AY VAH-zeh kee-YAH KYH surgery kay BAHD eeh-tee-yah-TEE tuh-dah-BEER owr moo-tuh-vah-ZEEN ghee-ZAH puhr uh-muhl-py-RAH hoh kuhr JUHLD mah-MOOL kee zeen-duh-GEE kee tuh-RUHF low-TAH jah suhk-TAH HY)",
+          "translation": "The specialist physician comforting the patient explained that by adhering to precautionary measures and balanced diet after surgery, one can return to normal life soon."
+        },
+        {
+          "target": "عوامی آگاہی کے لیے جاری کردہ طبی کتابچے میں وبائی امراض کی علامات، فوری تشخیصی طریقوں اور حفاظتی ویکسینیشن کی اہمیت کو فصاحت سے اجاگر کیا گیا ہے۔",
+          "reading": "Awaami aagaahi ke liye jaari-karda tibbi kitaabchay mein wabaai amraaz ki alaamaat, fowri tashkheesi tareeqon aur hifaazati vaccination ki ahammiyat ko fasaahat se ujaagar kiya gaya hai. [əʋaːmiː aːɡaːhiː keː lɪjeː dʒaːriː-kərd̪aː t̪ɪbːiː kɪt̪aːbtʃeː mẽː ʋəbaːʔiː əmraːz kiː əlaːmaːt̪ fɔːriː t̪əʃxiːsiː t̪əriːqõː ɔːr hɪfaːzət̪iː ʋæksiːneːʃən kiː əɦəmːɪjət̪ koː fəsaːhət̪ seː ʊdʒaːɡər kɪjaː ɡəjaː hɛː] (uh-vah-MEE ah-gah-HEE kay lee-AY jah-REE-kuhr-dah teeb-BEE kee-tahb-CHAY mayn vuh-bah-EE uhm-RAHZ kee uh-lah-MAHT, FOW-ree tuhsh-khee-SEE tuh-ree-QOHN owr hee-fah-zuh-TEE vaccination kee uh-huhm-mee-YUHT koh fuh-sah-HUHT say oo-JAH-guhr kee-YAH guh-YAH)",
+          "translation": "In the medical booklet issued for public awareness, symptoms of epidemic diseases, immediate diagnostic methods, and importance of preventive vaccination have been highlighted eloquently."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع طبی سمیکن: علامات و نبض (تشخیص) + ٹیسٹ رپورٹس (تفتیش) + نسخہ و خوراک (علاج) + پرہیز (احتیاط) + شفایابی!"
+      ],
+      "culturalNotes": [
+        "اردو کی صحت عامہ کی مہمات اور طبی سائنسی صحافت میں تشخیص، پرہیز اور علاج کا یہ مربوط سمیکن معاشرے کو صحت مند زندگی کا شعور بخشتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دوپہر\":",
+          "prompt": "طبی مشاورت، تشخیص اور علاج کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («شام» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رات» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہفتہ» کی خرابی)"
+            "علامات کا جائزہ، لیبارٹری ٹیسٹ، نسخۂ ادویات، پرہیز اور بحالی کی ہدایات (Masterful synthesis of symptoms, lab investigations, prescription, dietary avoidance, and post-op rehabilitation)",
+            "ڈاکٹر نے دوا دیا تھا رویا تھا اور گاڑی چلی تھی (بے ربط الفاظ)",
+            "وہ ہسپتال میں چائے پیتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«علامات کا جائزہ، لیبارٹری ٹیسٹ، نسخۂ ادویات، پرہیز اور بحالی کی ہدایات» تمام طبی مراحل کا جامع امتزاج ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دوپہر\":",
+          "prompt": "طبی مشاورت کا جامع سمیکن مریض اور ڈاکٹر کے تعلق کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رات» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہفتہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شام» کا غیر درست استعمال)"
+            "مرض کی درست فہم، تشخیصی شواہد اور منظم علاج کے ذریعے مریض کو شفا اور ذہنی اطمینان فراہم کرنا (Ensuring accurate disease comprehension, diagnostic evidence, and cure with mental peace)",
+            "صرف میڈیکل رپورٹس کے صفحات بڑھانا (بے فائدہ مشق)",
+            "صرف طبی لغت کے الفاظ دہرانا (محدود دائرہ)",
+            "بے بنیاد دوائیاں تجویز کرنا (غیر ذمہ دارانہ)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ تشخیصی شواہد اور منظم علاج کے ذریعے شفا اور ذہنی سکون فراہم کرتا ہے۔"
         }
       ]
     },
@@ -9027,17 +9076,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دوپہر\": Which sentence is completely correct?",
+          "prompt": "طبی مشاورت، تشخیص و علاج کے جامع سمیکن (Medical Discourse Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہفتہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شام» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («رات» سے متعلق)"
+            "طبیب نے مریض کی علامات اور خون کی رپورٹس کی بنیاد پر درست تشخیص قائم کی، نسخے میں ادویات کی خوراک متعین کی، چکنائی سے پرہیز کا حکم دیا اور کامیاب سرجری کے بعد مریض اب تیزی سے روبہ صحت ہے۔ (The physician established accurate diagnosis based on symptoms and blood reports, prescribed medication dosage, ordered avoidance of fats, and after successful surgery patient is recovering rapidly.)",
+            "طبیب نے رپورٹ دیکھا تھا اور کھانا کھایا تھا۔",
+            "جامع سمیکن صرف کتاب میں ہوتا ہے ہسپتال میں نہیں۔",
+            "پرہیز کے بغیر دوا لینا ہمیشہ درست ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«طبیب نے مریض کی علامات اور خون کی رپورٹس کی بنیاد پر درست تشخیص قائم کی، نسخے میں ادویات کی خوراک متعین کی، چکنائی سے پرہیز کا حکم دیا اور کامیاب سرجری کے بعد مریض اب تیزی سے روبہ صحت ہے۔» طبی زبان کا مکمل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u22-l1": {
