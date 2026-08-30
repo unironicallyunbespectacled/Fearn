@@ -7865,53 +7865,62 @@
     "subject": "cantonese",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "可能補語（得/唔） (Potential Complements) (第1課)",
+    "title": "粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 + 補語」 (Core Potential Complements)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元19第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語可能補語中綴標記「得（肯定能夠）」與「唔（否定無法）」之語法公式「動詞 + 得/唔 + 結果/趨向補語」與常用感知動詞搭配。",
     "presentation": {
-      "explanation": "",
+      "explanation": "可能補語用以表示主客觀條件是否容許某動作達到預期之結果或目標。粵語在可能補語之構造上與普通話存在鮮明差異：\n\n一、肯定式與否定式核心中綴公式：\n１．肯定可能式：【動詞 ＋ 「得」 ＋ 結果/趨向補語】。\n- 表示具備主觀能力或客觀條件，能夠實現該結果。\n- 例如：「睇得見」（看得見）、「聽得明」（聽得懂）、「做得到」（做得到）。\n２．否定可能式：【動詞 ＋ 「唔」 ＋ 結果/趨向補語】。\n- 粵語否定中綴專用「唔」（普通話用『不』），表示無法達成該結果。\n- 例如：「睇唔見」（看不見）、「聽唔明」（聽不懂）、「搵唔到」（找不到）、「做唔到」（做不到）。\n\n二、高頻感知與認知動詞可能補語矩陣：\n１．視聽感知：\n- 「睇得清楚」 vs 「睇唔清楚」（能否看清晰）。\n- 「聽得明」 vs 「聽唔明」（能否聽懂理解）。\n- 「睇得切」 vs 「睇唔切」（時間上能否來得及看完）。\n２．行動實踐：\n- 「搵得到」 vs 「搵唔到」（能否尋獲）。\n- 「買得切」 vs 「買唔切」（能否及時買到）。\n- 「追得上」 vs 「追唔上」（能否跟上步伐）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 19 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 19 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 19 in communication."
+          "target": "禮堂後面坐得太遠，我睇唔清楚台上投影屏幕上面啲字。",
+          "reading": "lai5 tong4 hau6 min6 co5 dak1 taai3 jyun5, ngo5 tai2 m4 cing1 co2 toi4 soeng6 min6 tau4 jing2 ping4 muk6 soeng6 min6 di1 zi6. [lɐi˩˧ tʰɔːŋ˨˩ hɐu˨ miːn˨ tsʰɔː˩˧ tɐk̚˥ tʰaːi˧ jyːn˩˧, ŋɔː˩˧ tʰɐi˧˥ m̩˨˩ tsʰɪŋ˥ tsʰɔː˧˥ tʰɔːi˨˩ sœːŋ˨ miːn˨ tʰɐu˨˩ jɪŋ˧˥ pʰɪŋ˨˩ mʊk̚˨ sœːŋ˨ miːn˨ tiː˥ tsiː˨] (LY-TONG HAU-MEEN CHOH DUK TY YUEN, NGOH TY M-CHING-CHOH TOY-SEUNG-MEEN TAU-YING PING-MOK SEUNG-MEEN DEE JEE)",
+          "translation": "Sitting too far back in the auditorium, I cannot see clearly the words on the projection screen on stage."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元19-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "講者發音好標準，就算講得好快，大家依然聽得明佢嘅重點。",
+          "reading": "gong2 ze2 faat3 jam1 hou2 biu1 zeon2, zau6 syun3 gong2 dak1 hou2 faai3, daai6 gaa1 ji1 jin4 teng1 dak1 ming4 keoi5 ge3 zung6 dim2. [kɔːŋ˧˥ tsɛː˧˥ faːt̚˧ jɐm˥ hou˧˥ piːu˥ tsɵn˧˥, tsɐu˨ syːn˧ kɔːŋ˧˥ tɐk̚˥ hou˧˥ faːi˧, taːi˨ kaː˥ jiː˥ jiːn˨˩ tʰɛːŋ˥ tɐk̚˥ mɪŋ˨˩ kʰɵy˩˧ kɛː˧ tsʊŋ˨ tiːm˧˥] (GONG-JEH FAHT-YUM HOH BEW-JEON, JAU-SUEN GONG DUK HOH-FY, DY-GAH YEE-YEEN TENG-DUK-MING KUY GEH JOONG-DEEM)",
+          "translation": "The speaker's pronunciation is very standard; even if he speaks very quickly, everyone can still understand his key points."
+        },
+        {
+          "target": "我已經喺成間屋搵咗幾次，但係始終都搵唔到條車匙。",
+          "reading": "ngo5 ji5 ging1 hai2 seng4 gaan1 uk1 wan2 zo2 gei2 ci3, daan6 hai6 ci2 zung1 dou1 wan2 m4 dou2 tiu4 ce1 si4. [ŋɔː˩˧ jiː˩˧ kɪŋ˥ hɐi˩˧ sɛːŋ˨˩ kaːn˥ ʊk̚˥ wɐn˧˥ tsɔː˧˥ kei˧˥ tsʰiː˧, taːn˨ hɐi˨ tsʰiː˧˥ tsʊŋ˥ tou˥ wɐn˧˥ m̩˨˩ tou˧˥ tʰiːu˨˩ tsʰɛː˥ siː˨˩] (NGOH YEE-GING HY SENG-GAHN OOK WUN-JOR GAY-CHEE, DAHN-HY CHEE-JOONG DOH WUN-M-DOU TEW-CHEH-SEE)",
+          "translation": "I have already searched the whole house several times, but still cannot find the car key."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【可能中綴歌】肯定能夠中綴「得」，否定辦唔到加個「唔」；聽得明來搵唔到，能力條件分得清！"
+      ],
+      "culturalNotes": [
+        "粵語使用「唔」作為可能補語否定中綴（如「食唔晒」、「睇唔明」），直接繼承了古漢語否定副詞之語法痕跡。在日常對話中，清晰運用「得/唔」中綴能精準傳達自身之客觀能力限度。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"爸爸\":",
+          "prompt": "【否定可能】在廣東話中表達「聽不懂對方所說的話」，最地道之動詞可能補語短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：媽媽錯置）",
-            "混雜生硬詞彙之不規範語句（例項：阿哥未適配）",
-            "聲調助詞搭配欠妥之表達（例項：細佬誤用）"
+            "聽唔明 (teng1 m4 ming4 / Cannot understand)",
+            "聽得明",
+            "聽唔好",
+            "聽唔晒"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "否定可能式使用中綴「唔」，「聽唔明」表示聽不懂。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"爸爸\":",
+          "prompt": "【肯定可能】欲向對方確認「我看得清楚你寫的字」，肯定式可能補語應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：阿哥未適配）",
-            "聲調助詞搭配欠妥之表達（例項：細佬誤用）",
-            "語序顛倒嘅非標準句式（例項：媽媽錯置）"
+            "我睇得清楚 (ngo5 tai2 dak1 cing1 co2)",
+            "我睇唔清楚",
+            "我睇得晒",
+            "我睇唔到"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "肯定可能式使用中綴「得」，「睇得清楚」表示能夠看清。"
         }
       ]
     },
@@ -7919,15 +7928,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"爸爸\": Which sentence is completely correct?",
+          "prompt": "【語法結構】短語「做唔到」（zou6 m4 dou2）之核心語法性質係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：細佬誤用）",
-            "語序顛倒嘅非標準句式（例項：媽媽錯置）",
-            "混雜生硬詞彙之不規範語句（例項：阿哥未適配）"
+            "可能補語否定式 (Negative Potential Complement)",
+            "處置式祈使句",
+            "被動態肯定句",
+            "形容詞最高級"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "動詞「做」＋否定中綴「唔」＋結果補語「到」構成典型否定可能補語。"
         }
       ],
       "passThreshold": 0.8
@@ -7938,53 +7947,62 @@
     "subject": "cantonese",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "可能補語（得/唔） (Potential Complements) (第2課)",
+    "title": "容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」 (Capacity Potential Complements)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元19第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語在空間容量容納（坐、企、裝、擺）與食慾消化（食、飲）中專屬可能補語「得落（容納得到）」與「唔落（容納不下）」之語義用法。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「得落」（dak1 lok6）與「唔落」（m4 lok6）係粵語極具特色之容量、空間與生理吞吐可能補語：\n\n一、空間與物理容量容納矩陣：\n１．表示物理空間是否足夠容納特定數量之人或物品：\n- 「坐得落」 vs 「坐唔落」：座位空間能否容納坐下。例如：「架車坐唔坐得落五個人？」（這輛車坐得下五個人嗎？）。\n- 「企得落」 vs 「企唔落」：站立空間能否容納站下。例如：「部升降機太迫，企唔落喇」（電梯太擠，站不下了）。\n- 「裝得落」 vs 「裝唔落」：容器容量能否裝載得下。例如：「個行李箱裝唔落咁多衫」（行李箱裝不下這麼多衣服）。\n- 「擺得落」 vs 「擺唔落」：平面或空間能否擺放得下。例如：「客廳擺得落張大梳化」（客廳擺得下一張大沙發）。\n\n二、生理食慾與消化吞吐矩陣：\n１．表示胃容量、食慾或身體狀況能否繼續進食：\n- 「食得落」 vs 「食唔落」：是否有胃口吃下或胃部能否裝下。例如：「我好飽喇，真係食唔落喇」（我好飽了，真的吃不下了）。\n- 「吞得落」 vs 「吞唔落」：喉嚨食道能否順利吞嚥下。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 19 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 19 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 19 in communication."
+          "target": "呢架七人私家車空間好闊落，後排坐得落三個成年人。",
+          "reading": "ni1 gaa3 cat1 jan4 si1 gaa1 ce1 hung1 gaan1 hou2 fut3 lok6, hau6 paai4 co5 dak1 lok6 saam1 go3 sing4 nin4 jan4. [niː˥ kaː˧ tsʰɐt̚˥ jɐn˨˩ siː˥ kaː˥ tsʰɛː˥ hʊŋ˥ kaːn˥ hou˧˥ fuːt̚˧ lɔːk̚˨, hɐu˨ pʰaːi˨˩ tsʰɔː˩˧ tɐk̚˥ lɔːk̚˨ saːm˥ kɔː˧ sɪŋ˨˩ niːn˨˩ jɐn˨˩] (NEE-GAH CHUT-YUN SEE-GAH-CHEH HOONG-GAHN HOH FOOT-LOK, HAU-PY CHOH-DUK-LOK SAHM-GOH SING-NEEN-YUN)",
+          "translation": "This seven-seater car has plenty of space; the back row can accommodate three adults sitting."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元19-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我今日發燒感冒喉嚨好痛，胃口好差，咩都食唔落。",
+          "reading": "ngo5 gam1 jat6 faat3 siu1 gam2 mou6 hau4 lung4 hou2 tung3, wai6 hau2 hou2 caa1, me1 dou1 sik6 m4 lok6. [ŋɔː˩˧ kɐm˥ jɐt˨ faːt̚˧ siːu˥ kɐm˧˥ mou˨ hɐu˨˩ lʊŋ˨˩ hou˧˥ tʰʊŋ˧, wɐi˨ hɐu˧˥ hou˧˥ tsʰaː˥, mɛː˥ tou˥ sɪk̚˨ m̩˨˩ lɔːk̚˨] (NGOH GUM-YUT FAHT-SIU GUM-MOU HAU-LOONG HOH-TOONG, WAI-HAU HOH-CHAH, MEH DOH SIK-M-LOK)",
+          "translation": "I have a fever, cold, and sore throat today; my appetite is terrible, and I can't stomach eating anything."
+        },
+        {
+          "target": "個手提行李袋太細喇，裝唔落咁多盒香港手信禮盒。",
+          "reading": "go3 sau2 tai4 hang4 lei5 doi6*2 taai3 sai3 laa3, zong1 m4 lok6 gam3 do1 hap6 hoeng1 gong2 sau2 seon3 lai5 hap6. [kɔː˧ sɐu˧˥ tʰɐi˨˩ hɐŋ˨˩ lei˩˧ tɔːi˧˥ tʰaːi˧ sɐi˧ laː˧, tsɔːŋ˥ m̩˨˩ lɔːk̚˨ kɐm˧ tɔː˥ hɐp̚˨ hœːŋ˥ kɔːŋ˧˥ sɐu˧˥ sɵn˧ lɐi˩˧ hɐp̚˨] (GOH SAU-TY HAHNG-LEY-DOY TY-SY LAH, JONG-M-LOK GUM-DOH HUP HEUNG-GONG SAU-SEUN LY-HUP)",
+          "translation": "The handbag is too small; it cannot fit so many boxes of Hong Kong souvenir gift boxes."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【容納容量歌】空間容量「裝得落」，人多位少「企唔落」；飽足病痛「食唔落」，吞吐空間掌握確！"
+      ],
+      "culturalNotes": [
+        "「食唔落」（吃不下）在廣府飲食文化中係極高頻之健康體徵反饋。當親友生病時，長輩常問「食唔食得落飯呀？」，體現出嶺南文化中「以食為天、能吃是福」之生活哲學。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"媽媽\":",
+          "prompt": "【空間容量】升降機內已經站滿了人，欲向外面等待的人表示「站不下了」，地道粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：阿哥錯置）",
-            "混雜生硬詞彙之不規範語句（例項：細佬未適配）",
-            "聲調助詞搭配欠妥之表達（例項：家姐誤用）"
+            "企唔落喇！ (kei5 m4 lok6 laa3 / Cannot fit standing!)",
+            "企得落喇！",
+            "企唔明喇！",
+            "企唔晒喇！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「企唔落」（kei5 m4 lok6）表示站立空間已滿，容納不下更多人站立。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"媽媽\":",
+          "prompt": "【食慾表達】已經吃得非常飽足、無法再吃下甜品時，應向朋友表示：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：細佬未適配）",
-            "聲調助詞搭配欠妥之表達（例項：家姐誤用）",
-            "語序顛倒嘅非標準句式（例項：阿哥錯置）"
+            "我太飽，真係食唔落喇。 (I'm too full, really can't eat more.)",
+            "我太飽，真係食得落喇。",
+            "我太飽，真係食得切喇。",
+            "我太飽，真係食唔切喇。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「食唔落」（sik6 m4 lok6）表示胃部容量已滿或無胃口吃下。"
         }
       ]
     },
@@ -7992,15 +8010,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"媽媽\": Which sentence is completely correct?",
+          "prompt": "【容器容量】短語「裝得落」（zong1 dak1 lok6）在粵語中之確切語義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：家姐誤用）",
-            "語序顛倒嘅非標準句式（例項：阿哥錯置）",
-            "混雜生硬詞彙之不規範語句（例項：細佬未適配）"
+            "容器空間充足，能夠容納裝得下 (Can fit / accommodate inside)",
+            "容器已經破裂漏水",
+            "容器外觀非常精美",
+            "容器重量非常沉重"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「裝得落」表示容器具備足夠容量裝入物件。"
         }
       ],
       "passThreshold": 0.8
@@ -8011,53 +8029,62 @@
     "subject": "cantonese",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "可能補語（得/唔） (Potential Complements) (第3課)",
+    "title": "物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 (Affordability & Endurance)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元19第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語在經濟負擔能力（買/租/賠）、心理承受力（受/玩）與尊重評價（睇）中專屬可能補語「得起（承擔得起）」與「唔起（承擔不起）」之深度語義。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「得起」（dak1 hei2）與「唔起」（m4 hei2）係粵語中表達經濟購買力、心理耐受度與人格評價之核心可能補語：\n\n一、經濟購買與賠償承擔能力：\n１．「買得起」 vs 「買唔起」：經濟實力能否負擔購買某物。例如：「市區樓價太貴，後生仔買唔起」（市區房價太貴，年輕人買不起）。\n２．「租得起」 vs 「租唔起」：能否承擔租金開支。\n３．「賠得起」 vs 「賠唔起」：發生事故時能否承擔經濟賠償責任。例如：「整爛咗古董你賠唔賠得起？」（弄壞了古董你賠得起嗎？）。\n\n二、心理承載與經受耐受度：\n１．「受得起」 vs 「受唔起」：心理或體魄能否經受打擊，或福份能否承受過度厚待。\n２．「玩得起」 vs 「玩唔起」：性格是否豁達大度、輸得起、經得起開玩笑（玩得起），抑或輸打贏要、經不起玩笑（玩唔起）。\n\n三、人際評價與尊重維度：\n１．「睇得起」 vs 「睇唔起」：重視、賞識、看得起某人（睇得起），抑或輕視、鄙視、看不起某人（睇唔起）。例如：「老細睇得起你先交重任畀你」（老闆看得起你才把重任交給你）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 19 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 19 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 19 in communication."
+          "target": "呢度係全香港最高級嘅地段，普通打工仔根本租唔起呢度嘅寫字樓。",
+          "reading": "ni1 dou6 hai6 cyun4 hoeng1 gong2 zeoi3 gou1 kap1 ge3 dei6 dyun6, pou2 tung1 daa2 gung1 zai2 gan1 bun2 zou1 m4 hei2 ni1 dou6 ge3 se2 zi6 lau4. [niː˥ tou˨ hɐi˨ tsʰyːn˨˩ hœːŋ˥ kɔːŋ˧˥ tsɵy˧ kou˥ kʰɐp̚˥ kɛː˧ tei˨ tyːn˨, pʰou˧˥ tʰʊŋ˥ taː˧˥ kʊŋ˥ tsɐi˧˥ kɐn˥ puːn˧˥ tsou˥ m̩˨˩ hei˧˥ niː˥ tou˨ kɛː˧ sɛː˧˥ tsiː˨ lɐu˨˩] (NEE-DOU HY CHUEN HEUNG-GONG JEOY GOU-KUP GEH DAY-DUEN, POU-TOONG DY-GONG-JY GUN-BOON JOU-M-HEY NEE-DOU GEH SEH-JEE-LAU)",
+          "translation": "This is the most upscale district in all of Hong Kong; ordinary working people simply cannot afford to rent an office here."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元19-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "大家出嚟聚會開下玩笑啫，你要大方啲，唔好咁容易玩唔起啦。",
+          "reading": "daai6 gaa1 ceot1 lai4 zeoi6 wui6 hoi1 haa5 waan2 siu3 ze1, nei5 jiu3 daai6 fong1 di1, m4 hou2 gam3 jung4 ji6 waan2 m4 hei2 laa1. [taːi˨ kaː˥ tsʰɵt̚˥ lɐi˨˩ tsɵy˨ wuːi˨ hɔːi˥ haː˩˧ waːn˧˥ siu˧ tsɛː˥, nei˩˧ jiu˧ taːi˨ fɔːŋ˥ tiː˥, m̩˨˩ hou˧˥ kɐm˧ jʊŋ˨˩ jiː˨ waːn˧˥ m̩˨˩ hei˧˥ laː˥] (DY-GAH CHUT-LY JEOY-WUI HOI-HAH WAAN-SIU JEH, NEI YEW DY-FONG-DEE, M-HOH GUM YOONG-YEE WAAN-M-HEY LAH)",
+          "translation": "Everyone comes out to gather and just crack some jokes; you should be more generous and not be so easily unable to take a joke."
+        },
+        {
+          "target": "前輩咁睇得起我，畀咁好嘅機會我發揮，我一定會全力以赴！",
+          "reading": "cin4 bui3 gam3 tai2 dak1 hei2 ngo5, bei2 gam3 hou2 ge3 gei1 wui6 ngo5 faat3 fai1, ngo5 jat1 ding6 wui5 cyun4 lik6 ji5 fu6! [tsʰiːn˨˩ puːi˧ kɐm˧ tʰɐi˧˥ tɐk̚˥ hei˧˥ ŋɔː˩˧, pei˨ kɐm˧ hou˧˥ kɛː˧ kei˥ wuːi˨ ŋɔː˩˧ faːt̚˧ fɐi˥, ŋɔː˩˧ jɐt̚˥ tɪŋ˨ wui˩˧ tsʰyːn˨˩ lɪk̚˨ jiː˩˧ fuː˨!] (CHEEN-BOOY GUM TY-DUK-HEY NGOH, BAY GUM HOH GEH GAY-WUI NGOH FAHT-FY, NGOH YUT-DING WUI CHUEN-LIK-YEE-FOO!)",
+          "translation": "The seniors think so highly of me and gave me such a good opportunity to perform; I will definitely go all out!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【承受負載訣】財力雄厚「買得起」，經得起笑「玩得起」；前輩器重「睇得起」，承擔能力最清晰！"
+      ],
+      "culturalNotes": [
+        "「玩得起」（開得起玩笑、豁達大度）係香港社交圈極受推崇之性格特質。相反，「玩唔起」則帶有小家子氣、輸不起之貶義色彩。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"阿哥\":",
+          "prompt": "【負擔能力】在香港買房時表達「樓價太高，普通家庭根本負擔不起、買不起」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：細佬錯置）",
-            "混雜生硬詞彙之不規範語句（例項：家姐未適配）",
-            "聲調助詞搭配欠妥之表達（例項：妹妹誤用）"
+            "普通家庭買唔起 (maai5 m4 hei2 / Cannot afford to buy)",
+            "普通家庭買得起",
+            "普通家庭買唔落",
+            "普通家庭買唔明"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「買唔起」（maai5 m4 hei2）表示經濟能力上無法負擔購買。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"阿哥\":",
+          "prompt": "【社交評價】形容一個人性格豁達、輸得起且經得起朋友開玩笑，廣東話讚揚為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：家姐未適配）",
-            "聲調助詞搭配欠妥之表達（例項：妹妹誤用）",
-            "語序顛倒嘅非標準句式（例項：細佬錯置）"
+            "玩得起 (waan2 dak1 hei2 / Sporting / Can take a joke)",
+            "玩唔起",
+            "玩唔落",
+            "玩唔明"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「玩得起」（waan2 dak1 hei2）表示經得起開玩笑、輸得起。"
         }
       ]
     },
@@ -8065,15 +8092,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"阿哥\": Which sentence is completely correct?",
+          "prompt": "【人際評價】句子「老細好睇得起你」中，「睇得起」之實際含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：妹妹誤用）",
-            "語序顛倒嘅非標準句式（例項：細佬錯置）",
-            "混雜生硬詞彙之不規範語句（例項：家姐未適配）"
+            "老闆非常賞識、看重你 (Thinks highly of / Respects you)",
+            "老闆看不起你",
+            "老闆看不清楚你",
+            "老闆監視你"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「睇得起」（tai2 dak1 hei2）表示器重、賞識、看得起。"
         }
       ],
       "passThreshold": 0.8
@@ -8084,53 +8111,62 @@
     "subject": "cantonese",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "可能補語（得/唔） (Potential Complements) (第4課)",
+    "title": "勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟」 (Competence Complements)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元19第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語在工作業務勝任（做/應付/招呼）與人際投緣相處（傾/玩）中專屬可能補語「得嚟（勝任/投緣）」與「唔嚟（無法應付/不投緣）」之高階語法功能。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「得嚟」（dak1 lai4）與「唔嚟」（m4 lai4）係粵語中專門用於評估工作勝任能力、負擔承受度以及人際投緣契合度之核心可能補語：\n\n一、工作業務勝任與精力應付矩陣：\n１．「做得嚟」 vs 「做唔嚟」：工作任務在技術、體能或時間上能否勝任搞定。\n- 例句：「呢個項目工作量咁大，你一個人做得嚟唔做得嚟？」（工作量這麼大，你一個人應付得來嗎？）。\n２．「應付得嚟」 vs 「應付唔嚟」：精力、資源能否妥善應對複雜局面。\n３．「招呼得嚟」 vs 「招呼唔嚟」：接待服務人手能否照顧周全。\n\n二、人際投緣與性格相處契合矩陣：\n１．「傾得嚟」 vs 「傾唔嚟」：彼此交談是否投機、合拍、聊得來。\n- 例句：「我同新同事好傾得嚟，大家都好中意攝影」（我和新同事很聊得來，大家都喜愛攝影）。\n２．「玩得嚟」 vs 「玩唔嚟」：彼此性格志趣能否玩到一塊、和睦相處。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 19 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 19 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 19 in communication."
+          "target": "新入職呢份工雖然節奏好快，但我適應咗之後覺得自己完全做得嚟。",
+          "reading": "san1 jap6 zik1 ni1 fan6 gung1 seoi1 jin4 zit3 zau3 hou2 faai3, daan6 ngo5 sik1 jing3 zo2 zi1 hau6 gok3 dak1 zi6 gei2 jyun4 cyun4 zou6 dak1 lai4. [sɐn˥ jɐp̚˨ tsɪk̚˥ niː˥ fɐn˨ kʊŋ˥ sɵy˥ jiːn˨˩ tsit̚˧ tsɐu˧ hou˧˥ faːi˧, taːn˨ ŋɔː˩˧ sɪk̚˥ jɪŋ˧ tsɔː˧˥ tsiː˥ hɐu˨ kɔːk̚˧ tɐk̚˥ tsiː˨ kei˧˥ jyːn˨˩ tsʰyːn˨˩ tsou˨ tɐk̚˥ lɐi˨˩] (SUN-YUP-JIK NEE-FUN GONG SOEY-YEEN JEET-JAU HOH-FY, DAHN NGOH SIK-YING-JOR JEE-HAU GOK-DUK JEE-GAY CHUEN-CHUEN JOU-DUK-LY)",
+          "translation": "Although the pace of this new job is very fast, after adapting I feel that I can completely manage the work."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元19-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "今日舖頭客人太多，得兩個侍應根本招呼唔嚟咁多位顧客。",
+          "reading": "gam1 jat6 pou3 tau4*2 haak3 jan4 taai3 do1, dak1 loeng5 go3 si6 jing3 gan1 bun2 ziu1 fu1 m4 lai4 gam3 do1 wai62 gu3 haak3. [kɐm˥ jɐt˨ pʰou˧ tʰɐu˧˥ haːk̚˧ jɐn˨˩ taːi˧ tɔː˥, tɐk̚˥ lœːŋ˩˧ kɔː˧ siː˨ jɪŋ˧ kɐn˥ puːn˧˥ tsiːu˥ fuː˥ m̩˨˩ lɐi˨˩ kɐm˧ tɔː˥ wɐi˧˥ kuː˧ haːk̚˧] (GUM-YUT POU-TAU HAHK-YUN TY-DOH, DUK LEUNG-GOH SEE-YING GUN-BOON JEW-FOO-M-LY GUM-DOH-WY GOO-HAHK)",
+          "translation": "There are too many customers in the shop today; having only two waiters simply cannot cope with serving so many patrons."
+        },
+        {
+          "target": "佢哋兩個人性格好合得嚟，一見面就有講有笑，非常投契。",
+          "reading": "keoi5 dei6 loeng5 go3 jan4 sing3 gaak3 hou2 hap6 dak1 lai4, jat1 gin3 min6 zau6 jau5 gong2 jau5 siu3, fei1 soeng4 tau4 kai3. [kʰɵy˩˧ tei˨ lœːŋ˩˧ kɔː˧ jɐn˨˩ sɪŋ˧ kaːk̚˧ hou˧˥ hɐp̚˨ tɐk̚˥ lɐi˨˩, jɐt̚˥ kiːn˧ miːn˨ tsɐu˨ jɐu˩˧ kɔːŋ˧˥ jɐu˩˧ siu˧, fei˥ sœːŋ˨˩ tʰɐu˨˩ kʰɐi˧] (KUY-DAY LEUNG-GOH-YUN SING-GARK HOH HUP-DUK-LY, YUT-GEEN-MEEN JAU YAU-GONG-YAU-SIU, FAY-SEUNG TAU-KAI)",
+          "translation": "The two of them have very compatible personalities; as soon as they meet they talk and laugh, hitting it off wonderfully."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【勝任投緣歌】業務勝任「做得嚟」，人手不足「招呼唔嚟」；志趣相投「傾得嚟」，人際交往最和美！"
+      ],
+      "culturalNotes": [
+        "「傾得嚟」（聊得來）係嶺南人交友擇偶之首要標準。廣東人講求「啱傾啱玩」（談得投機玩得合拍），體現出務實自然、不喜偽飾之人際交往文化。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"細佬\":",
+          "prompt": "【人際投緣】形容自己與新朋友「非常聊得來、志趣相投」，最地道之粵語短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：家姐錯置）",
-            "混雜生硬詞彙之不規範語句（例項：妹妹未適配）",
-            "聲調助詞搭配欠妥之表達（例項：阿爺誤用）"
+            "好傾得嚟 (hou2 king1 dak1 lai4 / Click well in conversation)",
+            "好傾唔嚟",
+            "好傾得落",
+            "好傾得起"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「傾得嚟」（king1 dak1 lai4）表示交談投契、聊得來。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"細佬\":",
+          "prompt": "【工作勝任】面對繁重工作任務，欲向主管表示自己「完全能夠勝任應付」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：妹妹未適配）",
-            "聲調助詞搭配欠妥之表達（例項：阿爺誤用）",
-            "語序顛倒嘅非標準句式（例項：家姐錯置）"
+            "我應付得嚟 (ngo5 jing3 fu6 dak1 lai4 / I can manage/cope)",
+            "我應付唔嚟",
+            "我應付得落",
+            "我應付唔起"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「應付得嚟」（jing3 fu6 dak1 lai4）表示能夠勝任處理。"
         }
       ]
     },
@@ -8138,15 +8174,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"細佬\": Which sentence is completely correct?",
+          "prompt": "【語意理解】餐廳經理講「客人太多，樓面招呼唔嚟」，「招呼唔嚟」之意思是：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：阿爺誤用）",
-            "語序顛倒嘅非標準句式（例項：家姐錯置）",
-            "混雜生硬詞彙之不規範語句（例項：妹妹未適配）"
+            "人手不足，無法把所有客人接待周全 (Cannot cope with serving all guests)",
+            "客人不願意進來餐廳",
+            "經理不認識客人",
+            "餐廳菜式已經售罄"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「招呼唔嚟」表示接待服務能力超出負荷，無法應付。"
         }
       ],
       "passThreshold": 0.8
@@ -8157,53 +8193,62 @@
     "subject": "cantonese",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "可能補語（得/唔） (Potential Complements) (第5課)",
+    "title": "可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potential Questions & Modals)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元19第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語可能補語正反疑問句構造（V唔V得C / V得C唔V得C）、句尾疑問助詞搭配與能願情態助詞（識唔識/可唔可以）之三維精確語用對比。",
     "presentation": {
-      "explanation": "",
+      "explanation": "可能補語在疑問句構造與情態助詞辨析上具有極為嚴謹之句法規則：\n\n一、可能補語三大正反疑問句公式：\n１．公式一（常用精簡正反問）：【動詞 ＋ 「唔」 ＋ 動詞 ＋ 「得」 ＋ 補語】。\n- 例如：「你睇唔睇得明？」（你看不看得懂？）。\n- 例如：「你做唔做得嚟？」（你做不做得到/應付得來嗎？）。\n２．公式二（完整對稱正反問）：【動詞 ＋ 「得」 ＋ 補語 ＋ 「唔」 ＋ 補語】。\n- 例如：「你食得晒唔食得晒？」（你吃不吃得完？）。\n- 例如：「部車坐得落唔坐得落？」（車子坐不坐得下？）。\n３．公式三（句尾附加問句）：【陳述句 ＋ 「得唔得呀 / 係咪呀」】。\n- 例如：「呢份報告你今晚搞得掂，係咪呀？」。\n\n二、可能補語與能願動詞之三維語義對比：\n１．可能補語（睇得明）：強調客觀條件或當前具體動作之成功結果。\n２．技能能願詞「識」（識唔識睇）：強調後天學習習得之技術或知識本領（如識唔識法文）。\n３．許可/客觀可能「可以」（可唔可以睇）：強調外界規章、法規或他人之准許許可。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 19 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 19 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 19 in communication."
+          "target": "呢篇法文合約咁深奧，你睇唔睇得明入面啲法律專業術語？",
+          "reading": "ni1 pin1 faat3 man4*2 hap6 joek3 gam3 sam1 ou3, nei5 tai2 m4 tai2 dak1 ming4 jap6 min6 di1 faat3 leot6 zyun1 jip6 seot6 jyu5. [niː˥ pʰiːn˥ faːt̚˧ mɐn˨˩ hɐp̚˨ jœːk̚˧ kɐm˧ sɐm˥ ou˧, nei˩˧ tʰɐi˧˥ m̩˨˩ tʰɐi˧˥ tɐk̚˥ mɪŋ˨˩ jɐp̚˨ miːn˨ tiː˥ faːt̚˧ lɵt̚˨ tsyn˥ jiːp̚˨ sɵt̚˨ jyː˩˧] (NEE-PEEN FAHT-MUN HUP-YERK GUM SUM-OU, NEI TY-M-TY-DUK-MING YUP-MEEN DEE FAHT-LUET JUEN-YIP SUT-YUE)",
+          "translation": "This French contract is so profound; can you understand the legal specialized terms inside?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元19-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "今次展覽啲機密展品，公眾可唔可以入去影相拍照？",
+          "reading": "gam1 ci3 zin2 laam5 di1 gei1 mat6 zin2 ban2, gung1 zung3 ho2 m4 ho2 ji5 jap6 heoi3 jing2 soeng2 piu3 ziu3. [kɐm˥ tsʰiː˧ tsiːn˧˥ laːm˩˧ tiː˥ kei˥ mɐt̚˨ tsiːn˧˥ pʰɐn˧˥, kʊŋ˥ tsʊŋ˧ hɔː˧˥ m̩˨˩ hɔː˧˥ jiː˩˧ jɐp̚˨ hɵy˧ jɪŋ˧˥ sœːŋ˧˥ pʰiːu˧ tsiːu˧] (GUM-CHEE JEEN-LAHM DEE GAY-MUT JEEN-BUN, GONG-JOONG HOH-M-HOH-YEE YUP-HOEY YING-SEUNG PEW-JEW)",
+          "translation": "For the confidential exhibits in this exhibition, is the public permitted to enter and take photos?"
+        },
+        {
+          "target": "我識講少少廣東話，平時同街坊日常溝通完全應付得嚟。",
+          "reading": "ngo5 sik1 gong2 siu2 siu2 gwong2 dung1 waa6*2, ping4 si4 tung4 gaai1 fong1 jat6 seung4 kau1 tung1 jyun4 cyun4 jing3 fu6 dak1 lai4. [ŋɔː˩˧ sɪk̚˥ kɔːŋ˧˥ siu˧˥ siu˧˥ kʷɔːŋ˧˥ tʊŋ˥ waː˧˥, pʰɪŋ˨˩ siː˨˩ tʰʊŋ˨˩ kaːi˥ fɔːŋ˥ jɐt˨ sœːŋ˨˩ kʰɐu˥ tʰʊŋ˥ jyːn˨˩ tsʰyːn˨˩ jɪŋ˧ fuː˨ tɐk̚˥ lɐi˨˩] (NGOH SIK GONG SIU-SIU GWONG-DUNG-WAH, PING-SEE TOONG GY-FONG YUT-SEUNG KAU-TOONG CHUEN-CHUEN JING-FOO-DUK-LY)",
+          "translation": "I know how to speak a little Cantonese; communicating daily with neighbors normally is completely manageable."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【問答辨析歌】正反提問「睇唔睇得明」，技能本領「識唔識」；規章准許「可唔可以」，情態補語辨析清！"
+      ],
+      "culturalNotes": [
+        "在香港商務面試中，面試官常精準切換「你識唔識用呢套系統？」（技能技能）與「你做唔做得嚟？」（勝任負載），精準回答能充分展現求職者之語言素養與自信。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"家姐\":",
+          "prompt": "【正反疑問】欲向對方詢問「你能不能聽得懂我說的粵語」，最標準之正反問句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：妹妹錯置）",
-            "混雜生硬詞彙之不規範語句（例項：阿爺未適配）",
-            "聲調助詞搭配欠妥之表達（例項：阿嫲誤用）"
+            "你聽唔聽得明我講嘅廣東話？ (Can you understand my Cantonese?)",
+            "你聽得明聽唔明我廣東話？",
+            "你廣東話聽唔聽？",
+            "你明唔明聽廣東話？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「聽唔聽得明」（動＋唔＋動＋得＋補）為標準正反疑問句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"家姐\":",
+          "prompt": "【情態對比】詢問對方是否具備「開車、駕駛這項技術本領」，應選用之情態動詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：阿爺未適配）",
-            "聲調助詞搭配欠妥之表達（例項：阿嫲誤用）",
-            "語序顛倒嘅非標準句式（例項：妹妹錯置）"
+            "你識唔識揸車？ (Do you know how to drive? / Learned skill)",
+            "你揸得落車嗎？",
+            "你揸得起車嗎？",
+            "你揸唔揸得明？"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "表示後天習得之技能本領，專用能願動詞「識」（識唔識）。"
         }
       ]
     },
@@ -8211,15 +8256,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"家姐\": Which sentence is completely correct?",
+          "prompt": "【綜合辨析】下列三句話中，分別強調「許可准許」、「習得技能」與「客觀完成可能」之排列順序係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第19課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：阿嫲誤用）",
-            "語序顛倒嘅非標準句式（例項：妹妹錯置）",
-            "混雜生硬詞彙之不規範語句（例項：阿爺未適配）"
+            "可唔可以入去（許可） / 識唔識游水（技能） / 睇唔睇得見（可能）",
+            "睇唔睇得見（許可） / 可唔可以入去（技能） / 識唔識游水（可能）",
+            "識唔識游水（許可） / 睇唔睇得見（技能） / 可唔可以入去（可能）",
+            "可唔可以入去（技能） / 識唔識游水（許可） / 睇唔睇得見（可能）"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「可以」表許可准許，「識」表習得技能，「睇得見」表客觀結果達成之可能性。"
         }
       ],
       "passThreshold": 0.8
