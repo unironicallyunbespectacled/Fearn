@@ -8589,85 +8589,62 @@
     "subject": "amharic",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals) (ክፍል 1)",
+    "title": "እውነታዊ ሁኔታዊ ዓረፍተ ነገሮች (Real & Probable Conditionals - Prefix «ከ-»)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: እውነታዊ እና ምናባዊ ሁኔታዎች («ቢ...» / «ቢሆን ኖሮ»)، ውጤትና ምክንያት ማዛመድ። (ክፍል 1)።",
+    "objective": "በ«ከ-» ቅድመ-ቅጥያ የሚመሰረቱ እውነታዊ ሁኔታዎችንና ውጤቶቻቸውን መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "እውነታዊ ሁኔታዊ ዓረፍተ ነገሮች ሰዋሰዋዊ መዋቅር (Real Conditionals):\n\n፩. የእውነታዊ ሁኔታ ምስረታ:\n- ሁኔታው በእርግጥ ሊፈጸም የሚችል እውነተኛ ወይም ሊሆን የሚችል ቅድመ-ሁኔታ ሲሆን «ከ-» ቅድመ-ቅጥያ ከግሱ ጋር ይጣመራል።\n- ቀመር: [ከ- + [ግስ]] ... [ውጤት]:\n- «ከፈለግህ አብረን እንሄዳለን» (If you want, we will go together).\n- «ዝናብ ከጣለ ጃንጥላ ይዘን እንወጣለን» (If it rains, we will go out with an umbrella).\n- «ጠንክረህ ካጠናህ ፈተናውን በሚገባ ታልፋለህ» (If you study hard, you will pass the exam well)።\n\n፪. ሰዋሰዋዊ ባህሪ:\n- ቅድመ-ሁኔታው ሲሟላ ውጤቱ ወደፊት እንደሚፈጸም ያረጋግጣል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)' to the students."
+          "target": "ጠንክረህ ካጠናህና ጊዜህን በአግባቡ ከተጠቀምክ ከፍተኛ ውጤት ታገኛለህ።",
+          "reading": "T’änkərəh kat’ännahənna gizehən bä'agbabu kätät’äqqämk käftänya wət’et tagänyalläh. [tʼɛnkɨˈrɨh katʼɛnːaˈhɨnːa ɡizeˈhɨn bɛʔaɡbaˈbu kɛtɛtʼɛkʼːɛmk kɛfˈtɛɲa wɨtʼet taɡɛˈɲalːɛh] (t'en-kuh-RUH kah-t'en-NAH-hun-nah gee-zay-HUN beh-ahg-bah-BOO keh-teh-t'ek'-K'EMK kef-TEN-yah wut'-AYT tah-gen-YAHL-leh)",
+          "translation": "If you study hard and use your time properly, you will achieve high results."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ነገ የአየር ሁኔታው ጥሩ ከሆነ ወደ ተራራው ወጥተን የእግር ጉዞ እናደርጋለን።",
+          "reading": "Nägä yä'ayär hutaw t’əru kähonä wädä täraraw wət’t’än yä'əgər guzo ənnadärgallän. [nɛˈɡɛ jɛʔaˈjɛr huˈtaw tʼɨˈru kɛhoˈnɛ wɛˈdɛ tɛraˈraw wɨtʼːɛn jɛʔɨɡr ɡuˈzo ʔɨnːadɛrˈɡalːɛn] (neh-GEH yeh-ah-YER hoo-TAHW t'uh-ROO keh-HOH-neh weh-DEH teh-rah-RAW wut'-T'EN yeh-ug-R goo-ZOH un-nah-der-GAHL-len)",
+          "translation": "If the weather is good tomorrow, we will go up the mountain and take a hike."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እገዛና ድጋፍ ከፈለጋችሁ እባካችሁ በነጻነት ጠይቁን።",
+          "reading": "Əgäzanna dəgaf käfällägaččəhu əbakkaččəhu bänäts’annät t’äyyəqun. [ʔɨɡɛˈzanːa dɨˈɡaf kɛfɛlːɛɡaˈtʃːɨhu ʔɨbakːaˈtʃːɨhu bɛnɛtsʼanːɛt tʼɛjːɨˈkʼun] (uh-geh-ZAHN-nah duh-GAHF keh-fel-leh-GAHCH-choo uh-bahk-kahch-CHOO beh-nets'-ahn-NET t'ey-yuh-K'OON)",
+          "translation": "If you need help and support, please ask us freely."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Real Logic: ከ- (If real: ካጠናህ / ከሆነ / ከፈለግህ) -> ወደፊት ይሆናል (Result)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበራዊ ቃል-ኪዳንና ውይይት 'እግዚአብሔር ከፈቀደ' ወይም 'ሁኔታው ከተመቻቸ' የሚሉ ሁኔታዊ አገላለጾች አክብሮትንና ተስፋን ለማሳየት በስፋት ይሠራባቸዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«If you study, you will succeed» የሚለውን በአማርኛ ትክክለኛ እውነታዊ ሁኔታዊ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (19.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (19.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (19.1.w3)"
+            "ካጠናህ ስኬታማ ትሆናለህ። (If you study, you will succeed - Correct real conditional with ከ-)",
+            "ብታጠና ኖሮ ነበር",
+            "አታጠናም",
+            "ምንም ጥናት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ካጠናህ» (ከ- + አጠናህ) እውነተኛና ሊሆን የሚችል ቅድመ-ሁኔታን ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u19-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'If it rains, we will stay at home' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (19.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (19.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (19.1.x3)"
+            "ዝናብ ከጣለ ቤት እንቆያለን። (If it rains, we will stay at home - Accurate real conditional)",
+            "ዝናብ ቢጥል ኖሮ ቤት ነበርን",
+            "ዝናብ አይጥልም",
+            "ቤት የለንም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (19.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (19.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (19.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ዝናብ ከጣለ» የሚለው እውነታዊ ሁኔታዊ አረፍተ ነገር ሊፈጠር የሚችልን ክስተትና ውጤቱን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -8675,24 +8652,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 19-1):",
+          "prompt": "እውነታዊ ሁኔታዊ አገላለጾችን (Real conditionals) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (19.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (19.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (19.1.z3)"
+            "ካጠናህ፣ ከፈለግህ፣ ከመጣህ፣ ከተስማማን እና ከሆነ።",
+            "ዳቦ፣ ወጥ እና እንጀራ።",
+            "ትናንት፣ ዛሬ እና ነገ።",
+            "በአማርኛ ሁኔታዊ አረፍተ ነገር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ በ«ከ-» ቅድመ-ቅጥያ የተመሰረቱ እውነታዊ ሁኔታዎችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u19-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሁኔታዊ»):",
+          "prompt": "'ሁኔታ / Condition, situation' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሁኔታዊ",
-            "ሁኔታዊ"
+            "ሁኔታ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሁኔታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሁኔታ» (Huneta) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8703,85 +8679,62 @@
     "subject": "amharic",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals) (ክፍል 2)",
+    "title": "ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical & Unreal Conditionals - Prefix «ቢ-»)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: እውነታዊ እና ምናባዊ ሁኔታዎች («ቢ...» / «ቢሆን ኖሮ»)، ውጤትና ምክንያት ማዛመድ። (ክፍል 2)።",
+    "objective": "በ«ቢ-» ቅድመ-ቅጥያ የሚመሰረቱ ምናባዊ/መላምታዊ ሁኔታዎችንና «ነበር» የሚለውን ውጤት መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ምናባዊ እና መላምታዊ ሁኔታዊ ዓረፍተ ነገሮች (Hypothetical Conditionals):\n\n፩. የምናባዊ ሁኔታ ምስረታ:\n- በአሁኑ ጊዜ እውን ያልሆነ ነገር ግን በምናብ ወይም በመላምት የሚታሰብ ቅድመ-ሁኔታ ሲሆን «ቢ-» ቅድመ-ቅጥያ ከግሱ ጋር ይጣመራል።\n- ቀመር: [ቢ- + [ግስ]] ... [[ግስ] + ነበር]:\n- «ጊዜ ቢኖረኝ አዲስ ቋንቋ እማር ነበር» (If I had time, I would learn a new language).\n- «ብር ቢኖረኝ ዓለምን እዞር ነበር» (If I had money, I would travel the world).\n- «እሱ ቢመጣ ደስ ይለን ነበር» (If he came, we would be delighted)።\n\n፪. ሰዋሰዋዊ ልዩነት:\n- «ከ-» (እውነታዊ) vs. «ቢ-» (ምናባዊ/መላምታዊ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)' to the students."
+          "target": "በቂ ትርፍ ጊዜ ቢኖረኝ አዳዲስ የሙዚቃ መሳሪያዎችን እለማመድ ነበር።",
+          "reading": "Bäqi tərəf gize binoräny addaddis yämuziga mässariyawoččən əllämammäd näbbär. [bɛkʼi tɨrɨf ɡiˈze binoˈrɛɲ ʔadːadːis jɛmusiˈɡa mɛsːarijawoˈtʃːɨn ʔɨlːɛmamːɛd nɛbːɛr] (beh-K'EE tuh-RUF gee-ZAY bee-noh-RENY ahd-dahd-DEES yeh-moo-zee-GAH mes-sah-ree-yah-wohch-CHOON ul-leh-mahm-MED neb-BER)",
+          "translation": "If I had enough free time, I would practice new musical instruments."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሱ እዚህ ቢገኝ ለውይይታችን ታላቅ አስተዋጽኦ ያበረክት ነበር።",
+          "reading": "Əssu əzzih bigäny läwəyəyyətaččən talaq astäwats’o yabäräkkət näbbär. [ʔɨsːu ʔɨzːih biˈɡɛɲ lɛwɨjɨjːɨˈtatʃːɨn taˈlakʼ ʔastɛwatsʼo jabɛrɛkːɨt nɛbːɛr] (us-SOO uz-ZEEH bee-GENY leh-wuh-yuhy-yuh-TAHCH-chun tah-LAHK' ahs-teh-wahts'-OH yah-beh-rek-KUT neb-BER)",
+          "translation": "If he were present here, he would make a great contribution to our discussion."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ክንፍ ቢኖረኝ እንደ ወፍ በሰማይ ላይ በነጻነት እበር ነበር።",
+          "reading": "Kənf binoräny əndä wäf bäsämay lay bänäts’annät əbärr näbbär. [kɨnf binoˈrɛɲ ʔɨnˈdɛ wɛf bɛsɛˈmaj laj bɛnɛtsʼanːɛt ʔɨˈbɛrː nɛbːɛr] (kun-F bee-noh-RENY un-DEH wef beh-seh-MY lye beh-nets'-ahn-NET uh-BER-R neb-BER)",
+          "translation": "If I had wings, I would fly freely in the sky like a bird."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Dream Condition: ቢ- (If imagined: ቢኖረኝ / ቢገኝ) -> ... እሰራ ነበር (Would do)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ግጥሞችና ዘፈኖች ምናባዊ ናፍቆትንና ምኞትን ለመግለጽ 'ቢኖረኝ...' ወይም 'ቢሆን...' የሚለውን የ«ቢ-» ቅድመ-ቅጥያ በስፋት ይጠቀማሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«If I had wings, I would fly» የሚለውን በአማርኛ ትክክለኛ ምናባዊ ሁኔታዊ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (19.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (19.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (19.2.w3)"
+            "ክንፍ ቢኖረኝ እበር ነበር። (If I had wings, I would fly - Correct hypothetical conditional with ቢ- and ነበር)",
+            "ክንፍ ካለኝ እበር ነበር",
+            "ክንፍ የለኝም",
+            "እበረራለሁ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ክንፍ ቢኖረኝ እበር ነበር» ምናባዊ ሁኔታንና መላምታዊ ውጤቱን በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u19-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'If he came, we would be happy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (19.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (19.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (19.2.x3)"
+            "እሱ ቢመጣ ደስ ይለን ነበር። (If he came, we would be happy - Accurate hypothetical sentence)",
+            "እሱ ከመጣ ደስ ይለን ነበር",
+            "እሱ አይመጣም",
+            "ደስ አይለንም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (19.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (19.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (19.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«እሱ ቢመጣ ደስ ይለን ነበር» ምናባዊ መላምትን በትክክል ያረጋግጣል።"
         }
       ]
     },
@@ -8789,24 +8742,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 19-2):",
+          "prompt": "ምናባዊ ሁኔታዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (19.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (19.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (19.2.z3)"
+            "ቢኖረኝ... ነበር፣ ቢመጣ... ነበር፣ ቢሆን... ነበር እና ቢፈቀድ... ነበር።",
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ።",
+            "ሰማያዊ፣ ቢጫ እና ቀይ።",
+            "በአማርኛ ምናባዊ ሁኔታ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ በ«ቢ-... ነበር» የተዋቀሩ ዋና ዋና ምናባዊ ሁኔታዎችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u19-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሁኔታዊ»):",
+          "prompt": "'ቢሆን / If it were, hypothetically' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሁኔታዊ",
-            "ሁኔታዊ"
+            "ቢሆን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሁኔታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቢሆን» (Bihon) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8817,85 +8769,62 @@
     "subject": "amharic",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals) (ክፍል 3)",
+    "title": "ያለፈ ምናባዊ ሁኔታ (Past Unreal & Counterfactual Conditionals - «ቢ... ኖሮ»)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: እውነታዊ እና ምናባዊ ሁኔታዎች («ቢ...» / «ቢሆን ኖሮ»)، ውጤትና ምክንያት ማዛመድ። (ክፍል 3)።",
+    "objective": "ያለፈ ጸጸትና ያልተፈጸመ ያለፈ ሁኔታን በ«ቢ... ኖሮ» + «ነበር» መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ያለፈ ምናባዊ ሁኔታ (Counterfactual Conditionals in the Past):\n\n፩. የያለፈ ምናባዊ ሁኔታ ምስረታ:\n- ባለፈው ጊዜ ያልተፈጸመንና ሊቀየር የማይችልን ሁኔታ (ጸጸት ወይም ግምት) ለመግለጽ ያገለግላል።\n- ቀመር: [[ግስ] + ቢ- + ኖሮ] ... [[ግስ] + ነበር / አይሆንም ነበር]:\n- «በሰዓቱ ደርሶ ቢሆን ኖሮ ባቡሩ አያመልጠውም ነበር» (If he had arrived on time, he would not have missed the train).\n- «መረጃው ኖሮን ቢሆን ኖሮ ይህ ስህተት አይፈጠርም ነበር» (If we had had the info, this mistake wouldn't have occurred).\n- «ጠንክሮ ሠርቶ ቢሆን ኖሮ ይሳካለት ነበር» (If he had worked hard, he would have succeeded)።\n\n፪. ሰዋሰዋዊ ትርጉም:\n- ክስተቱ ባለፈው አልተፈጸመም፤ ውጤቱም አልተከሰተም።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)' to the students."
+          "target": "ትናንት በሰዓቱ ተነስቶ ቢሆን ኖሮ የጠዋቱ አውሮፕላን አያመልጠውም ነበር።",
+          "reading": "Tənant bäsäʿatu tänəsto bihon noro yät’äwatu awroplan ayamälət’äwəm näbbär. [tɨˈnant bɛsɛˈʔatu tɛnɨsˈto biˈhon noˈro jɛtʼɛwaˈtu ʔawroˈplan ʔajamɛlɨtʼɛˈwɨm nɛbːɛr] (tuh-NAHNT beh-seh-AH-too teh-nus-TOH bee-HOHN noh-ROH yeh-t'eh-wah-TOO ow-roh-PLAHN ah-yah-meh-luh-t'ew-UM neb-BER)",
+          "translation": "If he had woken up on time yesterday, he would not have missed the morning flight."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ስለ ጉዳዩ አስቀድመን አውቀን ቢሆን ኖሮ የተሻለ ዝግጅት እናደርግ ነበር።",
+          "reading": "Səlä guddayu asqäddəmän awqän bihon noro yätäšalä zəggəğğət ənnadärəg näbbär. [sɨlɛ ɡuddaˈju ʔaskʼɛdːɨˈmɛn ʔawˈkʼɛn biˈhon noˈro jɛtɛʃaˈlɛ zɨɡːɨdʒːɨt ʔɨnːadɛˈrɨɡ nɛbːɛr] (suh-LEH good-dah-YOO ahs-k'ed-duh-MEN ow-K'EN bee-HOHN noh-ROH yeh-teh-shah-LEH zug-guj-JUT un-nah-deh-RUG neb-BER)",
+          "translation": "If we had known about the matter beforehand, we would have made better preparations."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ዝናቡ ባይዘንብ ኖሮ ትናንት የጀመርነውን የቤት ግንባታ እንጨርስ ነበር።",
+          "reading": "Zənabu bayəzänb noro tənant yäğämmärnäwən yäbet gənbata ənnəč’ärrəs näbbär. [zɨnaˈbu bajɨzɛnb noˈro tɨˈnant jɛdʒɛmːɛrˈnɛwɨn jɛbet ɡɨnbaˈta ʔɨnːɨtʃʼɛrːɨs nɛbːɛr] (zuh-NAH-boo bah-yuh-ZENB noh-ROH tuh-NAHNT yeh-jem-mer-NEH-wun yeh-BAYT gun-bah-TAH un-nuh-ch'er-RUS neb-BER)",
+          "translation": "If it had not rained, we would have finished the house construction we started yesterday."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Past Regret: ቢ... ኖሮ (If had been: ቢሆን ኖሮ) -> ... ነበር / አይሆንም ነበር (Past unreal result)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ባህል 'የፈሰሰ ውሃ አይታፈስም' የሚለው ምሳሌ ያለፈ ጸጸትን (ቢሆን ኖሮ) ከመደጋገም ይልቅ ለወደፊቱ መጠንቀቅን ይመክራል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«If he had come, we would have met» የሚለውን በአማርኛ ትክክለኛ ያለፈ ምናባዊ ሁኔታ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (19.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (19.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (19.3.w3)"
+            "መጥቶ ቢሆን ኖሮ እንገናኝ ነበር። (If he had come, we would have met - Correct counterfactual past with ቢሆን ኖሮ)",
+            "ከመጣ እንገናኛለን",
+            "ቢመጣ እንገናኛለን",
+            "አልተገናኘንም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«መጥቶ ቢሆን ኖሮ እንገናኝ ነበር» ባለፈው ያልተፈጸመን ያለፈ ምናባዊ ሁኔታ ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u19-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'If you had told me, I would have helped you' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (19.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (19.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (19.3.x3)"
+            "ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር። (If you had told me, I would have helped you - Accurate past counterfactual)",
+            "ከነገርከኝ እረዳሃለሁ",
+            "አልረዳህም",
+            "ምንም አልተናገርክም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (19.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (19.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (19.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር» ያለፈውን ያልተፈጸመ ሁኔታ በትክክል ይገልጻል።"
         }
       ]
     },
@@ -8903,24 +8832,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 19-3):",
+          "prompt": "ያለፈ ምናባዊ ሁኔታዎችን (Past counterfactuals) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (19.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (19.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (19.3.z3)"
+            "ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ፣ ባይዘንብ ኖሮ እና ደርሶ ቢሆን ኖሮ።",
+            "አንድ፣ ሁለት፣ ሦስት እና አራት።",
+            "ጠረጴዛ፣ ወንበር እና ሶፋ።",
+            "በአማርኛ ያለፈ ምናባዊ ሁኔታ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ በ«ቢ... ኖሮ... ነበር» የተገነቡ ዋና ዋና ያለፈ ምናባዊ ሁኔታዎችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u19-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሁኔታዊ»):",
+          "prompt": "'ኖሮ / Had it been (counterfactual marker)' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሁኔታዊ",
-            "ሁኔታዊ"
+            "ኖሮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሁኔታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ኖሮ» (Noro) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8931,85 +8859,62 @@
     "subject": "amharic",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals) (ክፍል 4)",
+    "title": "ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive & Proviso Connectors)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: እውነታዊ እና ምናባዊ ሁኔታዎች («ቢ...» / «ቢሆን ኖሮ»)، ውጤትና ምክንያት ማዛመድ። (ክፍል 4)።",
+    "objective": "ተቃራኒና ቅድመ-ሁኔታዊ አያያዦችን (ቢ...ም እንኳ፣ ካልሆነ በቀር፣ እስከ... ድረስ) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ተቃራኒ እና ቅድመ-ሁኔታዊ ሰዋሰዋዊ አያያዦች:\n\n፩. ተቃራኒ ሁኔታዊ አያያዦች (Concessive Connectors):\n- ቢ...ም / ቢ...ም እንኳ: ምንም እንኳን ሁኔታው ቢኖርም ድርጊቱ ይፈጸማል (Even if / although)።\n- «መንገዱ ቢረዝምም እንኳ በደስታ እንጓዛለን» (Even if the road is long, we travel happily)።\n- «ቢከብድም ወደኋላ አንልም» (Even if it is hard, we will not back down)።\n\n፪. ቅድመ-ሁኔታዊ አያያዦች (Proviso & Negative Connectors):\n- ካልሆነ በቀር / ካልሆነ በስተቀር: ሁኔታው ካልተሟላ በስተቀር ሌላ አማራጭ የለም (Unless / except if)።\n- «ፈቃድ ካልተሰጠ በቀር መግባት አይቻልም» (Unless permission is given, entering is impossible)።\n- እስከ... ድረስ: ቅድመ-ሁኔታው እስከቀጠለበት ጊዜ (As long as / provided that)።\n- «እስከፈቀድክ ድረስ እቆያለሁ» (As long as you permit, I will stay)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)' to the students."
+          "target": "ፈተናው ቢከብድም እንኳ በትጋትና በሙሉ ተስፋ ዝግጅታችንን እንቀጥላለን።",
+          "reading": "Fätänaw bikäbdəm ənkwa bətəgatənna bämulu täsfa zəggəğğətaččənən ənnəqät’t’əlallän. [fɛtɛˈnaw bikɛbˈdɨm ʔɨnˈkʷa bɛtɨˈɡatɨnːa bɛmuˈlu tɛsˈfa zɨɡːɨdʒːɨtaˈtʃːɨnɨn ʔɨnːɨkʼɛtʼːɨˈlalːɛn] (feh-teh-NAHW bee-keb-DUM un-KWAH beh-tuh-GAHT-un-nah beh-moo-LOO tes-FAH zug-guj-juh-TAHCH-chun-un un-nuh-k'et'-t'uh-LAHL-len)",
+          "translation": "Even if the exam is difficult, we will continue our preparation with diligence and full hope."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የህክምና ማስረጃ ካልቀረበ በቀር ከፈተና መቅረት በፍጹም አይፈቀድም።",
+          "reading": "Yähəkkəmənna masräğğa kalqärräbä bäqär käfätäna mäqrät bäfəts’um ayyəffäqqädm. [jɛhɨkːɨmɨnːa masrɛdʒːa kalkʼɛrːɛˈbɛ bɛˈkʼɛr kɛfɛtɛˈna mɛkʼˈrɛt bɛfɨtsʼum ʔajːɨfːɛkʼːɛdm] (yeh-huk-kuh-mun-NAH mahs-red-JAH kahl-k'er-reh-BEH beh-K'ER keh-feh-teh-NAH mek'-RET beh-futs'-OOM eye-yuf-fek'-K'EDM)",
+          "translation": "Unless medical evidence is presented, being absent from the exam is strictly not permitted."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሰላምና አንድነት እስካለ ድረስ ሀገራችን ሁልጊዜ ወደፊት ትራመዳለች።",
+          "reading": "Sälamənna andənät əskallä dräs hagäraččən hulgize wädäfit tərrämmädalläčč. [sɛlaˈmɨnːa ʔandɨˈnɛt ʔɨskalːɛ dɨrɛs haɡɛˈratʃːɨn hulɡiˈze wɛdɛˈfit tɨrːɛmːɛdaˈlːɛtʃː] (seh-LAH-mun-nah ahn-duh-NET us-KAHL-leh duh-RES hah-geh-rahch-CHUN hool-GEE-zay weh-deh-FEET tur-rem-meh-DAHL-lech)",
+          "translation": "As long as there is peace and unity, our country will always march forward."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Connector Trio: ቢ...ም እንኳ (Even if) + ካልሆነ በቀር (Unless) + እስካለ ድረስ (As long as)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል 'ሰው ካልረዳው በቀር ብቻውን አይቆምም' የሚለው አስተሳሰብ መረዳዳት የሰው ልጅ መሠረታዊ ቅድመ-ሁኔታ መሆኑን ያጎላል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Even if it is difficult, we will try» የሚለውን በአማርኛ ትክክለኛ ተቃራኒ አያያዥ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (19.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (19.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (19.4.w3)"
+            "ቢከብድም እንኳ እንሞክራለን። (Even if it is difficult, we will try - Correct concessive connector)",
+            "ከከበደ አንሞክርም",
+            "አይከብድም",
+            "ምንም ጥረት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ቢከብድም እንኳ» ተቃራኒ ቅድመ-ሁኔታን የሚያሳይ ትክክለኛ አያያዥ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u19-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Unless you come, we will not go' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (19.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (19.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (19.4.x3)"
+            "አንተ ካልመጣህ በቀር አንሄድም። (Unless you come, we will not go - Accurate negative proviso connector)",
+            "አንተ ከመጣህ እንሄዳለን",
+            "አንሄድም",
+            "ብትመጣ ኖሮ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (19.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (19.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (19.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ካልመጣህ በቀር» 'ካልሆነ በስተቀር' የሚለውን ቅድመ-ሁኔታ በትክክል ይገልጻል።"
         }
       ]
     },
@@ -9017,24 +8922,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 19-4):",
+          "prompt": "ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (19.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (19.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (19.4.z3)"
+            "ቢ...ም እንኳ፣ ካልሆነ በቀር፣ ካልሆነ በስተቀር እና እስካለ ድረስ።",
+            "ቤት፣ መኪና እና አውሮፕላን።",
+            "ሰኞ፣ ማክሰኞ እና ሐሙስ።",
+            "በአማርኛ አያያዦች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ተቃራኒና ቅድመ-ሁኔታዊ አያያዦችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u19-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሁኔታዊ»):",
+          "prompt": "'በቀር / Except, unless' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሁኔታዊ",
-            "ሁኔታዊ"
+            "በቀር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሁኔታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «በቀር» (Bäqär) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9045,85 +8949,62 @@
     "subject": "amharic",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals) (ክፍል 5)",
+    "title": "የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand Synthesis & Conditional Logic Discourse)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: እውነታዊ እና ምናባዊ ሁኔታዎች («ቢ...» / «ቢሆን ኖሮ»)، ውጤትና ምክንያት ማዛመድ። (ክፍል 5)።",
+    "objective": "እውነታዊ፣ ምናባዊ፣ ያለፈ ምናባዊ እና ተቃራኒ ሁኔታዎችን ያቀናጀ የተሟላ የሎጂክና ውይይት ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፱ አጠቃላይ ሰዋሰዋዊ ውህደት እና የሁኔታዊ አረፍተ ነገሮች ማጠቃለያ:\n\n፩. እውነታዊ ሁኔታዎች (Real Conditionals):\n- በ«ከ-» የሚመሰረቱ (ካጠናህ፣ ከፈለግህ፣ ከመጣህ)።\n\n፪. ምናባዊ ሁኔታዎች (Hypothetical Conditionals):\n- በ«ቢ-... ነበር» የሚመሰረቱ (ቢኖረኝ... ነበር፣ ቢመጣ... ነበር)።\n\n፫. ያለፈ ምናባዊ ሁኔታ (Past Counterfactuals):\n- በ«ቢ... ኖሮ... ነበር» የሚመሰረቱ (ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ)።\n\n፬. ተቃራኒና ቅድመ-ሁኔታዊ አያያዦች (Concessives & Provisos):\n- ቢ...ም እንኳ፣ ካልሆነ በቀር/በስተቀር፣ እስካለ ድረስ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)' to the students."
+          "target": "ዕድሉን በአግባቡ ተጠቅመንበት ቢሆን ኖሮ ዛሬ ከዚህ እጅግ የላቀ ደረጃ ላይ እንደር ነበር።",
+          "reading": "Əddəlun bä'agbabu tät’äqmənbät bihon noro zarre käzzih əğğəg yälaqä däräğa lay əndärəs näbbär. [ʔɨdːɨˈlun bɛʔaɡbaˈbu tɛtʼɛkʼmɨnˈbɛt biˈhon noˈro zaˈre kɛzːih ʔɨdʒːɨɡ jɛlaˈkʼɛ dɛrɛˈdʒa laj ʔɨndɛˈrɨs nɛbːɛr] (ud-duh-LOON beh-ahg-bah-BOO teh-t'ek'-mun-BET bee-HOHN noh-ROH zah-RAY kez-ZEEH uhj-JUG yeh-lah-K'EH deh-reh-JAH lye un-deh-RUS neb-BER)",
+          "translation": "If we had utilized the opportunity properly, we would have reached a far higher level today."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ተግዳሮቶች ቢበዙም እንኳ በጽናት ከሰራን የምንፈልገውን ግብ እናሳካለን።",
+          "reading": "Tägdaročč bibäzum ənkwa bäts’ənat käsärran yämmənəfälləgäwən gəb ənnasakallän. [tɛɡdaˈrotʃː biˈbɛzum ʔɨnˈkʷa bɛtsʼɨˈnat kɛsɛrːan jɛmːɨnɨfɛlːɨɡɛˈwɨn ɡɨb ʔɨnːasaˈkalːɛn] (teg-dah-ROHCH bee-beh-ZOOM un-KWAH beh-ts'uh-NAHT keh-ser-RAHN yem-muh-nuh-fel-luh-geh-WUN gub un-nah-sah-KAHL-len)",
+          "translation": "Even if challenges multiply, if we work with perseverance, we will accomplish our desired goal."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሁሉም ሰው በቅንነት ካልተባበረ በቀር የጋራ ብልጽግናን ማረጋገጥ አይቻልም።",
+          "reading": "Hullum säw bäqənnənät kaltäbabbärä bäqär yägara bəlts’əgganan maräggagät’ ayyəččaləm. [hulːum sɔw bɛkʼɨnːɨˈnɛt kaltɛbabːɛˈrɛ bɛˈkʼɛr jɛɡaˈra bɨltsʼɨɡːaˈnan marɛɡːaˈɡɛtʼ ʔajːɨtʃːaˈlɨm] (hool-LOOM sow beh-k'un-nuh-NET kahl-teh-bahb-beh-REH beh-K'ER yeh-gah-RAH bul-ts'ug-gah-NAHN mah-reg-gah-GET' eye-yuhch-CHAH-lum)",
+          "translation": "Unless everyone cooperates with sincerity, ensuring shared prosperity is impossible."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Logic Matrix: Real (ከ-) + Unreal (ቢ-) + Past Unreal (ቢ... ኖሮ) + Proviso (ካልሆነ በቀር)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ስነ-አመክንዮ እና ፍልስፍናዊ ውይይቶች ውስጥ ቅድመ-ሁኔታዎችንና ውጤቶችን በጥልቀት መመርመር 'ምክንያትና ውጤት'ን የማገናዘብ ጥልቅ የጥበብ መንገድ ተደርጎ ይወሰዳል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የሁኔታዊ አረፍተ ነገሮች ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (19.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (19.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (19.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (19.5.w3)"
+            "ቢከብድም እንኳ በትጋት ከሰራን እናሳካለን፤ ካልተባበርን በቀር ግን አይቻልም። (Complete conditional logic synthesis: concessive, real, and proviso)",
+            "ምንም ሁኔታ የለም",
+            "ሁሉም ነገር ቀላል ነው",
+            "ሁኔታዊ ህጎች የሉም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ተቃራኒ (ቢከብድም እንኳ)፣ እውነታዊ (ከሰራን) እና ቅድመ-ሁኔታዊ (ካልተባበርን በቀር) መዋቅሮችን ያጣመረ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u19-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ያለፈ ምናባዊ እና እውነታዊ ሁኔታዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (19.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (19.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (19.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (19.5.x3)"
+            "ያኔ ተጠንቅቀን ቢሆን ኖሮ አሁን ችግር ውስጥ አንገባም ነበር፤ አሁን ግን ከሰራን ይስተካከላል። (If we had been careful then we wouldn't be in trouble now; but now if we work it will be fixed - Integrated conditional sentence)",
+            "ምንም አይስተካከልም",
+            "ያኔ አልነበርንም",
+            "ችግር የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሁኔታዊ አረፍተ ነገሮች (Conditionals & Hypotheticals)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (19.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (19.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (19.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (19.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ያለፈውን ምናባዊ ሁኔታ (ቢሆን ኖሮ) እና የአሁኑን እውነታዊ ሁኔታ (ከሰራን) በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -9131,24 +9012,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 19-5):",
+          "prompt": "የክፍል 19 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (19.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (19.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (19.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (19.5.z3)"
+            "እውነታዊ ሁኔታዎች (ከ-)፣ ምናባዊ ሁኔታዎች (ቢ-)፣ ያለፈ ምናባዊ ሁኔታ (ቢ... ኖሮ)፣ እንዲሁም ተቃራኒና ቅድመ-ሁኔታዊ አያያዦች (ቢ...ም እንኳ/ካልሆነ በቀር) ተካተዋል።",
+            "ይህ ክፍል ስለ ኪነ-ጥበብ ብቻ ነው።",
+            "በአማርኛ ሁኔታዊ ቃላት የሉም።",
+            "ሁሉም ሁኔታዎች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 19ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u19-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሁኔታዊ»):",
+          "prompt": "'ሁኔታዊ / Conditional' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሁኔታዊ",
             "ሁኔታዊ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሁኔታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሁኔታዊ» (Hunetawi) ነው።"
         }
       ],
       "passThreshold": 0.8
