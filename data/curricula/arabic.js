@@ -11242,85 +11242,89 @@
     "subject": "arabic",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "الشرط وأدوات الجزم (Conditionals & Jussive) (الدرس 1)",
+    "title": "أدوات الشرط الجازمة وتصريف فعل الشرط وجوابه (Jussive Conditional Tools & Dual Verb Attraction)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدوات الشرط الجازمة وغير الجازمة، تصريف الفعل المضارع المجزوم، وجواب الشرط المرتبط بالفاء. (الجزء 1).",
+    "objective": "إتقان أركان أسلوب الشرط، وتوظيف أدوات الشرط الجازمة لفعلين (إِنْ، مَنْ، مَا، مَهْمَا، مَتَى، أَيْنَمَا، حَيْثُمَا) وعلامات جزم الفعل المضارع (السكون، حذف حرف العلة، حذف النون).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يتكون أسلوب الشرط في اللغة العربية من ثلاثة أركان رئيسة: 【أَدَاةُ الشَّرْطِ + فِعْلُ الشَّرْطِ + جَوَابُ الشَّرْطِ وَجَزَاؤُهُ】.\n\nأولاً: أدوات الشرط الجازمة لفعلين (Jussive Tools that attract two verbs):\n1.【إِنْ】: حرف شرط لربط الجواب بالشرط: «إِنْ تَجْتَهِدْ تَنْجَحْ».\n2.【مَنْ】: اسم شرط للعاقل: «مَنْ يَزْرَعْ خَيْرًا يَحْصُدْ خَيْرًا».\n3.【مَا / مَهْمَا】: اسما شرط لغير العاقل: «مَا تَقْرَأْ مِنْ كُتُبٍ يَنْفَعْكَ».\n4.【مَتَى / أَيَّانَ】: اسما شرط للزمان: «مَتَى تُسَافِرْ أُسَافِرْ مَعَكَ».\n5.【أَيْنَ / أَيْنَمَا / حَيْثُمَا】: أسماء شرط للمكان: «أَيْنَمَا تَذْهَبْ تَجِدْ أَصْدِقَاءَ».\n6.【أَيّ】: اسم شرط بحسب ما يضاف إليه (عاقل، غير عاقل، زمان، مكان).\n\nثانياً: علامات جزم الفعل المضارع (Signs of Jussive Mood):\n- 【السُّكُونُ】: إذا كان الفعل صحيح الآخر: «تَجْتَهِدْ»، «تَعْمَلْ».\n- 【حَذْفُ حَرْفِ العِلَّةِ】: إذا كان الفعل معتل الآخر بالألف أو الواو أو الياء: «تَسْعَ» (أصلها تسعى)، «تَدْعُ» (أصلها تدعو)، «تَقْضِ» (أصلها تقضي).\n- 【حَذْفُ النُّونِ】: إذا كان الفعل من الأفعال الخمسة: «تَجْتَهِدُوا» (أصلها تجتهدون)، «تَعْمَلَا» (أصلها تعملان)، «تُخْلِصِي» (أصلها تخلصين).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الشرط وأدوات الجزم (Conditionals & Jussive)' to students in an accurate academic style."
+          "target": "إِنْ تُخْلِصْ فِي عَمَلِكَ وَتَجْتَهِدْ تَنَلْ أَعْلَى المَرَاتِبِ وَتَبْلُغْ غَايَتَكَ.(In tukhliṣ fī ʿamalika wa-tajtahid tanal aʿlā al-marātibi wa-tablugh ghāyatak.)",
+          "reading": "[ʔin tux.lisˤ fiː ʕa.ma.li.ka wa.taʒ.ta.hid ta.nal ʔaʕ.laː‿l.ma.raː.ti.bi wa.tab.luɣ ɣaː.ja.tak] (In tukh-liṣ fī ʿa-ma-li-ka wa-taj-ta-hid ta-nal aʿ-lā al-ma-rā-ti-bi wa-tab-lugh ghā-ya-tak.)",
+          "translation": "If you are sincere in your work and strive, you will attain the highest ranks and reach your goal."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "مَنْ يَسْعَ إِلَى الخَيْرِ وَيَدْعُ إِلَى الحَقِّ يَلْقَ مَحَبَّةَ النَّاسِ وَاحْتِرَامَهُمْ.(Man yasʿa ilā al-khayri wa-yadʿu ilā al-ḥaqqi yalqa maḥabbata an-nāsi wa-aḥtirāmahum.)",
+          "reading": "[man jas.ʕa ʔi.laː‿l.xaj.ri wa.jad.ʕu ʔi.laː‿l.ħaq.qi jal.qa ma.ħab.ba.ta‿n.naː.si waħ.ti.raː.ma.hum] (Man yas-ʿa i-lā al-khay-ri wa-yad-ʿu i-lā al-ḥaq-qi yal-qa ma-ḥab-ba-ta an-nā-si wa-iḥ-ti-rā-ma-hum.)",
+          "translation": "Whoever strives toward goodness and calls to truth will meet people's love and their respect."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "مَا تَبْذُلُوا مِنْ جُهْدٍ فِي طَلَبِ العِلْمِ تَجِدُوا ثَمَرَتَهُ فِي مُسْتَقْبَلِكُمْ.(Mā tabdhulū min juhdin fī ṭalabi al-ʿilmi tajidū thamaratahu fī mustaqbalikum.)",
+          "reading": "[maː tab.ðu.luː min ʒuh.din fiː tˤa.la.bi‿l.ʕil.mi ta.ʒi.duː θa.ma.ra.ta.hu fiː mus.taq.ba.li.kum] (Mā tab-dhu-lū min juh-din fī ṭa-la-bi al-ʿil-mi ta-ji-dū tha-ma-ra-ta-hu fī mus-taq-ba-li-kum.)",
+          "translation": "Whatever effort you exert in seeking knowledge, you will find its fruit in your future."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "أَيْنَمَا تَسِيرُوا فِي أَرْضِ العُرُوبَةِ تَشْهَدُوا آثَارَ الحَضَارَةِ وَمَعَالِمَ التَّارِيخِ.(Aynamā tasīrū fī arḍi al-ʿurūbati tash-hadū āthāra al-ḥaḍārati wa-maʿālima at-tārīkh.)",
+          "reading": "[ʔaj.na.maː ta.siː.ruː fiː ʔar.dˤi‿l.ʕu.ruː.ba.ti taʃ.ha.duː ʔaː.θaː.ra‿l.ħa.dˤaː.ra.ti wa.ma.ʕaː.li.ma‿t.taː.riːx] (Ay-na-mā ta-sī-rū fī ar-ḍi al-ʿu-rū-ba-ti tash-ha-dū ā-thā-ra al-ḥa-ḍā-ra-ti wa-ma-ʿā-li-ma at-tā-rīkh.)",
+          "translation": "Wherever you walk in the land of Arabism, you will witness the monuments of civilization and landmarks of history."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "إِنْ وَمَنْ وَمَا وَمَهْمَا حَيْثُمَا، تَجْزِمُ فِعْلَيْنِ فِي سَبْكِ الحِمَى!"
+      ],
+      "culturalNotes": [
+        "أسلوب الشرط الجازم في القرآن الكريم والحديث النبوي والشعر الجاهلي يعبر عن منطق العلية والارتباط الوثيق بين العمل والجزاء الأخلاقي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» (الدرس 1)؟",
+          "prompt": "ما هي علامة جزم الفعلين في جملة: «مَنْ يَسْعَ فِي الخَيْرِ يَلْقَ خَيْرًا»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (19.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (19.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (19.1.w3)"
+            "حَذْفُ حَرْفِ العِلَّةِ (Omission of the weak letter: alif maqsūrah)",
+            "السكون الظاهر",
+            "حذف النون",
+            "ثبوت النون"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الفعلان «يَسْعَ» و«يَلْقَ» معتلا الآخر، وعلامة جزمهما حذف حرف العلة والتعويض بالفتحة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كم فعلاً مضارعاً تجزم أدوات الشرط الجازمة مثل (إِنْ، مَنْ، مَا، أَيْنَمَا)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فِعْلَيْنِ مُضَارِعَيْنِ: فِعْلَ الشَّرْطِ وَجَوَابَ الشَّرْطِ (Two verbs: condition verb and answer verb)",
+            "فعلاً واحداً فقط",
+            "ثلاثة أفعال",
+            "لا تجزم أي فعل"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "أدوات الشرط الجازمة تجزم فعلين مضارعين: الأول فعل الشرط والثاني جواب الشرط وجزاؤه."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u19-l1):",
+          "prompt": "اختر الجملة الشرطية الجازمة المضبوطة إعرابيًا بأعلى درجات الدقة والفصاحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (19.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (19.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (19.1.x3)"
+            "إِنْ تَقْرَأْ كِتَابًا نَافِعًا تَسْتَفِدْ مِنْهُ وَتَرْتَقِ مَعْرِفَتُكَ. (If you read a beneficial book, you will benefit from it and your knowledge will elevate.)",
+            "ان تقرأ كتابا تستفيد بالرفع بلا جزم",
+            "الشرط ينام في الجواب فوق الشجرة",
+            "ان تقرأ تستفد ترتقي بالياء بلا حذف علة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«إِنْ تَقْرَأْ» (مجزوم بالسكون)، «تَسْتَفِدْ» (مجزوم بالسكون وحذفت الياء لالتقاء الساكنين)، «تَرْتَقِ» (معطوف مجزوم بحذف الياء)."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الشرط وأدوات الجزم (Conditionals & Jussive)»؟",
+          "prompt": "ما علامة جزم الأفعال الخمسة في أسلوب الشرط مثل «إِنْ تَعْمَلُوا تَفُوزُوا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (19.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (19.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (19.1.y3)"
+            "حَذْفُ النُّونِ (Omission of the nūn)",
+            "الضمة الظاهرة",
+            "حذف حرف العلة",
+            "السكون"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الأفعال الخمسة تجزم بحذف النون (تعملوا، تفوزوا)."
         }
       ]
     },
@@ -11328,24 +11332,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 19-1)؟",
+          "prompt": "اختر النص الشرطي الذي يطبق أحكام الجزم وتنوع الأدوات (إِنْ، مَنْ، مَا، أَيْنَمَا) بأعلى درجات البلاغة النحوية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (19.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (19.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (19.1.z3)"
+            "مَنْ يَبْذُلْ جُهْدَهُ يَصِلْ إِلَى هَدَفِهِ، وَمَا تَزْرَعُوا مِنْ مَعْرُوفٍ تَجِدُوا أَثَرَهُ، وَأَيْنَمَا تَسْعَوْا فِي طَلَبِ العِلْمِ تَلْقَوْا التَّوْفِيقَ وَتَبْلُغُوا المَرَاتِبَ العُلْيَا. (Whoever exerts his effort will reach his goal, and whatever good you sow you will find its impact, and wherever you strive in seeking knowledge you will find success and reach the supreme ranks.)",
+            "من يبذل بالافعال المرفوعة بالضمة بلا جزم للشرط والجواب.",
+            "ادوات شرط ان من ما اينما جزم سكون حذف علة حذف نون فتحة.",
+            "الغي الشرط ولم يبذل احد اي جهد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يطبق الجزم بالسكون («يَبْذُلْ»، «يَصِلْ»)، والجزم بحذف النون للأفعال الخمسة («تَزْرَعُوا»، «تَجِدُوا»، «تَسْعَوْا»، «تَلْقَوْا») بأسلوب بياني سليم ومبهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u19-l1) باللغة العربية (مثال: «الشرط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الركن الثالث في جملة الشرط (اكتب: «جواب الشرط» أو «الجواب»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الشرط",
-            "الشرط"
+            "جواب الشرط",
+            "الجواب",
+            "جَوَابُ الشَّرْطِ",
+            "جَوَاب الشَّرْط",
+            "جَوَابٌ"
           ],
-          "explanation": "المصطلح الصحيح هو «الشرط»."
+          "explanation": "الركن هو «جواب الشرط» (أو جزاؤه)."
         }
       ],
       "passThreshold": 0.8
@@ -11356,85 +11363,89 @@
     "subject": "arabic",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "الشرط وأدوات الجزم (Conditionals & Jussive) (الدرس 2)",
+    "title": "أدوات الشرط غير الجازمة ودلالاتها (Non-Jussive Conditional Particles: Law, Lawlā, Idhā, Lammā)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدوات الشرط الجازمة وغير الجازمة، تصريف الفعل المضارع المجزوم، وجواب الشرط المرتبط بالفاء. (الجزء 2).",
+    "objective": "إتقان أدوات الشرط غير الجازمة (لَوْ، لَوْلَا، إِذَا، كُلَّمَا، لَمَّا) وفهم معاني الامتناع والافتراض والاستمرار والظرفية الشرطية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تفيد أدوات الشرط غير الجازمة الربط بين الشرط والجواب دون أن تؤثر إعرابيًا بجزم الفعل المضارع:\n\nأولاً: أدوات الشرط غير الجازمة ودلالاتها (Non-Jussive Conditional Tools):\n1.【لَوْ (Law)】:\n   - حرف امتناع لامتناع: يدل على امتناع حدوث الجواب لامتناع حدوث الشرط في الماضي (الشرط الافتراضي المستحيل):\n   - «لَوْ زُرْتَنِي لَأَكْرَمْتُكَ» (امتنع الإكرام لامتناع الزيارة).\n   - يقترن جوابها غالبًا باللام الواقعة في جواب لو («لَأَكْرَمْتُكَ»).\n\n2.【لَوْلَا (Lawlā)】:\n   - حرف امتناع لوجود: يدل على امتناع حدوث الجواب لوجود مانع في الشرط:\n   - «لَوْلَا العِلْمُ لَسَادَ الجَهْلُ» (امتنع سيادة الجهل لوجود العلم).\n   - الاسم بعد «لَوْلَا» يُعرب دائمًا: **مبتدأ مرفوع وخبره محذوف وجوبًا تقديره (مَوْجُودٌ)**.\n\n3.【إِذَا (Idhā)】:\n   - ظرف لما يُستقبل من الزمان خافض لشرطه منصوب بجوابه، يدل على تحقق الشرط وتيقنه في المستقبل:\n   - «إِذَا جَاءَ الرَّبِيعُ اعْتَدَلَ الجَوُّ».\n\n4.【كُلَّمَا (Kullamā)】:\n   - ظرف يفيد التكرار والاستمرار، ويليه دائمًا فعل ماضٍ في الشرط والجواب:\n   - «كُلَّمَا قَرَأْتَ كِتَابًا ازْدَدْتَ بَصِيرَةً».\n\n5.【لَمَّا (Lammā - الحينية الشرطية)】:\n   - ظرف زمان بمعنى (حِينَ) يختص بالدخول على الفعل الماضي:\n   - «لَمَّا وَصَلَ المُسَافِرُونَ اسْتَقْبَلْنَاهُمْ بِالتَّرْحَابِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الشرط وأدوات الجزم (Conditionals & Jussive)' to students in an accurate academic style."
+          "target": "لَوْ اجْتَهَدَ الكَسُولُ فِي مَاضِيهِ لَنَالَ النَّجَاحَ الَّذِي تَمَنَّاهُ.(Law ijtahada al-kasūlu fī māḍīhi la-nāla an-najāḥa al-ladhī tamannāh.)",
+          "reading": "[law iʒ.ta.ha.da‿l.ka.suː.lu fiː maː.dˤiː.hi la.naː.la‿n.na.ʒaː.ħa‿l.la.ðiː ta.man.naːh] (Law ij-ta-ha-da al-ka-sū-lu fī mā-ḍī-hi la-nā-la an-na-jā-ḥa al-la-dhī ta-man-nāh.)",
+          "translation": "If the lazy one had strived in his past, he would have attained the success he wished for."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "لَوْلَا العِلْمُ وَالقِرَاءَةُ لَسَادَ الجَهْلُ وَلَضَاعَتِ القِيَمُ الإِنْسَانِيَّةُ.(Lawlā al-ʿilmu wa-al-qirāʾatu la-sāda al-jahlu wa-la-ḍāʿati al-qiyamu al-insāniyyah.)",
+          "reading": "[law.laː‿l.ʕil.mu wal.qi.raː.ʔa.tu la.saː.da‿l.ʒah.lu wa.la.dˤaː.ʕa.ti‿l.qi.ja.mu‿l.ʔin.saː.nij.jah] (Law-lā al-ʿil-mu wa-al-qi-rā-ʾa-tu la-sā-da al-jah-lu wa-la-ḍā-ʿa-ti al-qi-ya-mu al-in-sā-niy-yah.)",
+          "translation": "Were it not for knowledge and reading, ignorance would have prevailed and human values would have been lost."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "إِذَا أَشْرَقَتِ الشَّمْسُ تَبَدَّدَ الظَّلَامُ وَانْطَلَقَ النَّاسُ إِلَى أَعْمَالِهِمْ.(Idhā ashraqati ash-shamsu tabaddada aẓ-ẓalāmu wa-anṭalaqa an-nāsu ilā aʿmālihim.)",
+          "reading": "[ʔi.ðaː ʔaʃ.ra.qa.ti‿ʃ.ʃam.su ta.bad.da.da‿zˤ.zˤa.laː.mu wan.tˤa.la.qa‿n.naː.su ʔi.laː ʔaʕ.maː.li.him] (I-dhā ash-ra-qa-ti ash-sham-su ta-bad-da-da aẓ-ẓa-lā-mu wa-an-ṭa-la-qa an-nā-su i-lā aʿ-mā-li-him.)",
+          "translation": "When the sun shines, darkness dissipates and people set out to their works."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "كُلَّمَا تَدَرَّبَ البَاحِثُ عَلَى التَّحْلِيلِ الدَّقِيقِ ازْدَادَتْ خِبْرَتُهُ وَارْتَقَى إِنْتَاجُهُ.(Kullamā tadarraba al-bāḥithu ʿalā at-taḥlīli ad-daqīqi izdādat khibratuhu wa-artaqā intājuh.)",
+          "reading": "[kul.la.maː ta.dar.ra.ba‿l.baː.ħi.θu ʕa.laː‿t.taħ.liː.li‿d.da.qiː.qi‿z.daː.dat xib.ra.tu.hu war.ta.qaː ʔin.taː.ʒuh] (Kul-la-mā ta-dar-ra-ba al-bā-ḥi-thu ʿa-lā at-taḥ-lī-li ad-da-qī-qi iz-dā-dat khib-ra-tu-hu wa-ar-ta-qā in-tā-juh.)",
+          "translation": "Whenever the researcher trains on precise analysis, his experience increases and his output elevates."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لَوْ لِلِامْتِنَاعِ وَلَوْلَا لِلْوُجُودِ الجَلِيّ، وَإِذَا لِلْمُسْتَقْبَلِ وَكُلَّمَا لِلتَّكْرَارِ السَّرِيّ!"
+      ],
+      "culturalNotes": [
+        "«لَوْلَا» تعبير محوري في البلاغة العربية لإبراز الفضل؛ كقولهم: «لَوْلَا المُرَبِّي مَا عَرَفْتُ رَبِّي»، مما يؤكد عمق الامتنان للمعلمين والمربين."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» (الدرس 2)؟",
+          "prompt": "ما هو إعراب الاسم المرفوع الواقع مباشرة بعد أداة الشرط غير الجازمة «لَوْلَا» (مثل: «لَوْلَا الأَمَلُ لَخَابَ المَرْءُ»)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (19.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (19.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (19.2.w3)"
+            "مُبْتَدَأٌ مَرْفُوعٌ وَخَبَرُهُ مَحْذُوفٌ وُجُوبًا تَقْدِيرُهُ (مَوْجُودٌ) (Subject with obligatorily omitted predicate)",
+            "فاعل مرفوع بالضمة",
+            "مفعول به منصوب",
+            "اسم مجرور بالكسرة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الاسم بعد «لَوْلَا» يعرب دائمًا مبتدأ مرفوعًا والخبر محذوف وجوبًا تقديره «موجود»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما المعنى البلاغي للأداة «لَوْ» في أسلوب الشرط؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "حَرْفُ امْتِنَاعٍ لِامْتِنَاعٍ (Particle of impossibility: non-occurrence due to non-occurrence)",
+            "حرف جزم يجزم فعلين",
+            "حرف نصب للمضارع",
+            "حرف استفهام"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«لَوْ» حرف امتناع لامتناع، أي امتنع حدوث الجواب لامتناع حدوث الشرط."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u19-l2):",
+          "prompt": "اختر الجملة التي توظف الأداة «كُلَّمَا» بدقة أسلوبية وصرفية صحيحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (19.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (19.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (19.2.x3)"
+            "كُلَّمَا زَارَ السَّائِحُ المَدِينَةَ التَّارِيخِيَّةَ انْبَهَرَ بِجَمَالِ عِمَارَتِهَا الإِسْلَامِيَّةِ. (Whenever the tourist visited the historical city, he was dazzled by the beauty of its Islamic architecture.)",
+            "كلما كلما زار السائح بتكرار اللفظ الخطأ",
+            "كلما تاكل الجملة في القاموس",
+            "اداة شرط غير جازمة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«كُلَّمَا» تفيد التكرار والاستمرار وتدخل على الفعل الماضي في الشرط والجواب («زَارَ»، «انْبَهَرَ»)."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الشرط وأدوات الجزم (Conditionals & Jussive)»؟",
+          "prompt": "هل تجزم أدوات الشرط (لَوْ، لَوْلَا، إِذَا، كُلَّمَا، لَمَّا) الأفعال بعدها؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (19.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (19.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (19.2.y3)"
+            "لَا، هِيَ أَدَوَاتُ شَر themرْطٍ غَيْرُ جَازِمَةٍ تَرْبِطُ المَعْنَى دُونَ جَزْمٍ (No, they are non-jussive conditional tools)",
+            "نعم تجزم بالسكون دائما",
+            "تجزم بحذف حرف العلة فقط",
+            "تنصب الأفعال بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "هذه الأدوات غير جازمة، فتربط المعنى الشرطي دلاليًا ويبقى الفعل بعدها على إعرابه الأصلي."
         }
       ]
     },
@@ -11442,24 +11453,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 19-2)؟",
+          "prompt": "اختر النص الحكيم الذي يجمع بين أدوات الشرط غير الجازمة (لَوْ، لَوْلَا، إِذَا، كُلَّمَا) بأعلى درجات البلاغة العربية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (19.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (19.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (19.2.z3)"
+            "لَوْلَا الأَمَلُ لَضَاقَتِ الحَيَاةُ، وَلَوْ تَأَمَّلَ الإِنْسَانُ الكَوْنَ لَأَدْرَكَ عَظَمَةَ الخَالِقِ، وَإِذَا حَرَصَ المَرْءُ عَلَى النَّزَاهَةِ نَالَ مَحَبَّةَ الجَمِيعِ، وَكُلَّمَا جَادَ الكَرِيمُ بِفَضْلِهِ زَادَهُ اللهُ عِزًّا وَرِفْعَةً. (Were it not for hope, life would have narrowed; and if man had contemplated the universe he would have realized the Creator's greatness; and when a person is keen on integrity he wins everyone's love; and whenever the generous gives of his bounty, Allah increases him in glory and elevation.)",
+            "لولا و لو و اذا بالافعال المضارعة المجزومة بالسكون خطأ.",
+            "ادوات غير جازمة لولا لو اذا كلما سكون فتحة ضمة كسرة.",
+            "ضاعت الحياة ولم يتأمل احد الكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين: «لَوْلَا الأَمَلُ لَضَاقَتْ»، «لَوْ تَأَمَّلَ... لَأَدْرَكَ»، «إِذَا حَرَصَ... نَالَ»، و«كُلَّمَا جَادَ... زَادَهُ» بسبك بياني بديع يفيض بالحكمة والرصانة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u19-l2) باللغة العربية (مثال: «الشرط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم أداة الشرط غير الجازمة التي تفيد الامتناع لوجود مانع (اكتب: «لولا»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الشرط",
-            "الشرط"
+            "لولا",
+            "لَوْلَا",
+            "لَوْلا"
           ],
-          "explanation": "المصطلح الصحيح هو «الشرط»."
+          "explanation": "الأداة هي «لولا» (حرف امتناع لوجود)."
         }
       ],
       "passThreshold": 0.8
@@ -11470,85 +11482,89 @@
     "subject": "arabic",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "الشرط وأدوات الجزم (Conditionals & Jussive) (الدرس 3)",
+    "title": "اقتران جواب الشرط بالفاء ومواضع وجوبها (Fa-al-Jaza'iyyah: Mandatory Conditions for Linking)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدوات الشرط الجازمة وغير الجازمة، تصريف الفعل المضارع المجزوم، وجواب الشرط المرتبط بالفاء. (الجزء 3).",
+    "objective": "إتقان مواضع وجوب اقتران جواب الشرط بـ «فاء الجزاء» الرابطة، وحفظ المنظومة الشعرية الجامعة لحالات الوجوب، وإعراب جملة الجواب المقترنة بالفاء.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يقترن جواب الشرط بـ **فاء الجزاء (الرابطة لجواب الشرط)** وجوبًا إذا لم يصلح الجواب أن يكون فعلاً مضارعًا مجزومًا مباشرًا.\n\nأولاً: بيت الشعر الجامع لمواضع وجوب اقتران الجواب بالفاء:\n«اسْمِيَّةٌ طَلَبِيَّةٌ وَبِجَامِدٍ ... وَبِمَا وَقَدْ وَبِلَنْ وَبِالتَّنْفِيسِ»\n\nثانياً: الحالات الست لوجوب الفاء:\n1.【جملة اسمية】: «إِنْ تَجْتَهِدْ **فَـ**أَنْتَ نَاجِحٌ».\n2.【جملة فعلية فعلها طلبي (أمر، نهي، استفهام)】:\n   - أمر: «إِنْ رَأَيْتَ مُحْتَاجًا **فَـ**سَاعِدْهُ».\n   - نهي: «إِنْ حَدَّثْتَ النَّاسَ **فَـ**لَا تَكْذِبْ».\n   - استفهام: «إِنْ قَدِمَ الضَّيْفُ **فَـ**هَلْ تُكْرِمُهُ؟».\n3.【جملة فعلية فعلها جامد (نِعْمَ، بِئْسَ، لَيْسَ، عَسَى)】:\n   - «مَنْ غَشَّنَا **فَـ**لَيْسَ مِنَّا»، «إِنْ تُسَاعِدْ فُقَرَاءَ **فَـ**نِعْمَ العَمَلُ».\n4.【جملة مصدرة بـ (مَا) أو (لَنْ)】:\n   - «مَنْ يَعْصِ أَمْرَ اللهِ **فَـ**لَنْ يَفُوزَ»، «إِنْ كَتَمْتَ الشَّهَادَةَ **فَـ**مَا أَنْتَ بِمُنْصِفٍ».\n5.【جملة مصدرة بـ (قَدْ)】: «مَنْ يُطِعِ الرَّسُولَ **فَـ**قَدْ أَطَاعَ اللهَ».\n6.【جملة مصدرة بـ (التنفيس: السِّين أو سَوْفَ)】:\n   - «مَنْ يَزْرَعِ الخَيْرَ **فَـ**سَيَحْصُدُ ثَمَرَهُ»، «إِنْ صَبَرْتَ **فَـ**سَوْفَ تُؤْجَرُ».\n\nثالثاً: الموقع الإعرابي:\n- إذا كانت أداة الشرط **جازمة**، تكون الجملة المقترنة بالفاء بأكملها في **محل جزم جواب الشرط**.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الشرط وأدوات الجزم (Conditionals & Jussive)' to students in an accurate academic style."
+          "target": "إِنْ تُخْلِصْ فِي نِيَّتِكَ وَتَبْذُلْ جُهْدَكَ فَأَنْتَ الفَائِزُ بِرِضَا اللهِ وَاحْتِرَامِ النَّاسِ.(In tukhliṣ fī niyyatika wa-tabdhul juhdaka fa-anta al-fāʾizu bi-riḍā Allāhi wa-aḥtirāmi an-nās.)",
+          "reading": "[ʔin tux.lisˤ fiː nij.ja.ti.ka wa.tab.ðul ʒuh.da.ka fa.ʔan.ta‿l.faː.ʔi.zu bi.ri.dˤaː‿l.laː.hi waħ.ti.raː.mi‿n.naːs] (In tukh-liṣ fī niy-ya-ti-ka wa-tab-dhul juh-da-ka fa-an-ta al-fā-ʾi-zu bi-ri-ḍā Al-lā-hi wa-iḥ-ti-rā-mi an-nās.)",
+          "translation": "If you are sincere in your intention and exert your effort, then you are the winner of Allah's pleasure and people's respect."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "مَنْ يَتَوَكَّلْ عَلَى اللهِ فَهُوَ حَسْبُهُ، وَإِنْ سَأَلَكَ سَائِلٌ فَلَا تَرُدَّهُ خَائِبًا.(Man yatawakkal ʿalā Allāhi fa-huwa ḥasbuhu, wa-in saʾalaka sāʾilun fa-lā taruddahu khāʾibā.)",
+          "reading": "[man ja.ta.wak.kal ʕa.laː‿l.laː.hi fa.hu.wa ħas.bu.hu, wa.ʔin sa.ʔa.la.ka saː.ʔi.lun fa.laː ta.rud.da.hu xaː.ʔi.baː] (Man ya-ta-wak-kal ʿa-lā Al-lā-hi fa-hu-wa ḥas-bu-hu, wa-in sa-ʾa-la-ka sā-ʾi-lun fa-lā ta-rud-da-hu khā-ʾi-bā.)",
+          "translation": "Whoever relies upon Allah, He is sufficient for him; and if an asker asks of you, do not turn him away disappointed."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "إِنْ تَقْتَرِحْ حَلًّا بَنَّاءً لِلْمَسْأَلَةِ فَقَدْ أَسْهَمْتَ فِي خِدْمَةِ المُجْتَمَعِ.(In taqtariḥ ḥallan bannāʾan li-l-masʾalati fa-qad as-hamta fī khidmati al-mujtamaʿ.)",
+          "reading": "[ʔin taq.ta.riħ ħal.lan ban.naː.ʔan lil.mas.ʔa.la.ti fa.qad ʔas.ham.ta fiː xid.ma.ti‿l.muʒ.ta.maʕ] (In taq-ta-riḥ ḥal-lan ban-nā-ʾan li-al-mas-ʾa-la-ti fa-qad as-ham-ta fī khid-ma-ti al-muj-ta-maʿ.)",
+          "translation": "If you propose a constructive solution to the issue, then you have contributed to serving the community."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "مَنْ يَسْتَمْسِكْ بِالقِيَمِ الأَخْلَاقِيَّةِ فَسَوْفَ يَجِدُ الطَّمَأْنِينَةَ فِي حَيَاتِهِ.(Man yastamsik bi-al-qiyami al-akhlāqiyyati fa-sawfa yajidu aṭ-ṭamaʾnīnata fī ḥayātih.)",
+          "reading": "[man jas.tam.sik bil.qi.ja.mi‿l.ʔax.laː.qij.ja.ti fa.saw.fa ja.ʒi.du‿tˤ.tˤa.maʔ.niː.na.ta fiː ħa.jaː.tih] (Man yas-tam-sik bi-al-qi-ya-mi al-akh-lā-qiy-ya-ti fa-saw-fa ya-ji-du aṭ-ṭa-maʾ-nī-na-ta fī ḥa-yā-tih.)",
+          "translation": "Whoever adheres to moral values will surely find tranquility in his life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اسْمِيَّةٌ طَلَبِيَّةٌ وَبِجَامِدٍ، وَبِمَا وَقَدْ وَبِلَنْ وَبِالتَّنْفِيسِ فَارْبِطْ بِالفَاءِ لِكُلِّ شَاهِدْ!"
+      ],
+      "culturalNotes": [
+        "فاء الجزاء في النحو العربي تسمى «الفاء الرابطة» لأنها كالجسر المحكم الذي يربط بين جملة الشرط المستقلة وجملة الجواب غير القابلة للجزم المباشر."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» (الدرس 3)؟",
+          "prompt": "لماذا اقترن جواب الشرط بالفاء في جملة: «إِنْ تُصَادِقِ الأَخْيَارَ فَـنِعْمَ الصُّحْبَةُ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (19.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (19.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (19.3.w3)"
+            "لأَنَّ جُمْلَةَ الجَوَابِ فِعْلِيَّةٌ فِعْلُهَا جَامِدٌ («نِعْمَ») (Because the answer verb is a static/frozen verb)",
+            "لأنها جملة اسمية",
+            "لأنها مصدرة بـ لن",
+            "لأنها فعل طلبي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«نِعْمَ» فعل جامد غير متصرف، فيجب اقتران جواب الشرط بالفاء (وبجامد)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو إعراب جملة الجواب المقترنة بالفاء لأداة شرط جازمة (مثل «إِنْ تَجْتَهِدْ فَأَنْتَ نَاجِحٌ»)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فِي مَحَلِّ جَزْمٍ جَوَابُ الشَّرْطِ (In the position of jussive as answer to the condition)",
+            "في محل نصب حال",
+            "في محل رفع خبر",
+            "لا محل لها من الإعراب"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "جملة «فَأَنْتَ نَاجِحٌ» في محل جزم جواب الشرط لأن أداة الشرط (إِنْ) جازمة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u19-l3):",
+          "prompt": "اختر الجملة التي اقترن فيها جواب الشرط بالفاء لوجود حرف التنفيس (السين أو سوف) بدقة نحوية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (19.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (19.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (19.3.x3)"
+            "مَنْ يَبْذُلِ الخَيْرَ فَسَوْفَ يَلْقَى جَزَاءَهُ أَوْفَى. (Whoever offers goodness will find his reward most fully.)",
+            "من يبذل الخير سوف يلقى بلا فاء رابطة بالخطأ النحوي",
+            "الفاء تاكل السين في الجواب",
+            "شرط سوف يلقى سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "اقتران الجواب بالفاء واجب لوجود «سَوْفَ» (فَسَوْفَ يَلْقَى)."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الشرط وأدوات الجزم (Conditionals & Jussive)»؟",
+          "prompt": "ما حكم اقتران جواب الشرط بالفاء إذا كان الجواب جملة طلبية كالأمر (مثل: «إِنْ رَأَيْتَ المُنْكَرَ فَغَيِّرْهُ»)؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (19.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (19.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (19.3.y3)"
+            "وَاجِبُ الاقْتِرَانِ بِالفَاءِ (Mandatory linking with Faa)",
+            "جائز الاقتران",
+            "ممتنع الاقتران",
+            "مكروه نحويًا"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "اقتران الجواب بالفاء واجب إذا كان الجواب جملة طلبية (أمر، نهي، استفهام)."
         }
       ]
     },
@@ -11556,24 +11572,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 19-3)؟",
+          "prompt": "اختر النص الشامل الذي يوظف حالات اقتران جواب الشرط بالفاء (اسمية، طلبية، قد، التنفيس) في سياق أخلاقي رفيع:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (19.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (19.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (19.3.z3)"
+            "إِنْ عَزَمْتَ عَلَى الإِصْلَاحِ فَأَنْتَ عَلَى هُدًى، وَإِنْ وَاجَهْتَ صُعُوبَةً فَلَا تَيْأَسْ، فَإِنَّكَ إِنْ صَبَرْتَ فَقَدْ نِلْتَ الفَضِيلَةَ، وَمَنْ يَسْتَمْسِكْ بِالحَقِّ فَسَيَنْتَصِرُ فِي خِتَامِ المَطَافِ. (If you resolve upon reform then you are upon guidance; and if you face difficulty do not despair; for if you are patient then you have attained virtue; and whoever holds fast to the truth will surely triumph in the end of the journey.)",
+            "ان عزمت فانت بلا فاء في كل الجمل بالخطأ النحوي الفادح.",
+            "اسمية طلبية جامد ما قد لن تنفيس فاء جزاء سكون فتحة ضمة.",
+            "تراجع الجميع عن الاصلاح ولم يصبر احد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يطبق وجوب الفاء في مواضعها الأربعة: الاسمية («فَأَنْتَ عَلَى هُدًى»)، الطلبية بالنهي («فَلَا تَيْأَسْ»)، المصدرة بقد («فَقَدْ نِلْتَ»)، والمصدرة بالتنفيس («فَسَيَنْتَصِرُ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u19-l3) باللغة العربية (مثال: «الشرط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفاء التي تربط جواب الشرط بأداته (اكتب: «فاء الجزاء» أو «الفاء الرابطة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الشرط",
-            "الشرط"
+            "فاء الجزاء",
+            "الفاء الرابطة",
+            "فاء جزاء",
+            "الفاء",
+            "فَاءُ الجَزَاءِ",
+            "الفَاءُ الرَّابِطَةُ"
           ],
-          "explanation": "المصطلح الصحيح هو «الشرط»."
+          "explanation": "الفاء هي «فاء الجزاء» (أو الفاء الرابطة لجواب الشرط)."
         }
       ],
       "passThreshold": 0.8
@@ -11584,85 +11604,89 @@
     "subject": "arabic",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "الشرط وأدوات الجزم (Conditionals & Jussive) (الدرس 4)",
+    "title": "الحكمة والأمثال وفلسفة السببية في الأسلوب الشرطي (Conditional Wisdom, Proverbs & Causality)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدوات الشرط الجازمة وغير الجازمة، تصريف الفعل المضارع المجزوم، وجواب الشرط المرتبط بالفاء. (الجزء 4).",
+    "objective": "تحليل أسلوب الشرط بوصفه لغة الحكمة العربية والسببية المنطقية في الأمثال والأدب والفلسفة، وتوظيف التراكيب البلاغية المعقدة في الخطاب الفكري.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يمثل أسلوب الشرط في الثقافة واللسان العربي وعاء الحكمة والمنطق؛ حيث يربط الأسباب بالمسببات والعمل بالجزاء:\n\nأولاً: روائع الأمثال والحكم الشرطية (Proverbs & Conditional Wisdom):\n1. «مَنْ جَدَّ وَجَدَ، وَمَنْ زَرَعَ حَصَدَ» (علاقة شرطية حتمية بين الجهد والنتيجة).\n2. «إِنْ تَصْبِرْ تَظْفَرْ» (ارتباط الفوز والظفر بالصبر والمصابرة).\n3. «مَنْ يَهُنْ يَسْهُلِ الهَوَانُ عَلَيْهِ ... مَا لِجُرْحٍ بِمَيِّتٍ إِيلَامُ» (المتنبي - حكمة شرطية عميقة).\n4. «لَوْلَا المَشَقَّةُ سَادَ النَّاسُ كُلُّهُمُ ... الجُودُ يُفْقِرُ وَالإِقْدَامُ قَتَّالُ» (المتنبي).\n\nثانياً: فلسفة السببية والربط المنطقي في الخطاب الأدبي والفلسفي:\n- يُوظَّف أسلوب الشرط في الحِجاج الفلسفي والبرهان العلمي لبيان التلازم العقلي بين المقدمات والنتائج.\n- التراكيب الشرطية المركبة: «إِنْ كَانَ كَذَا فَإِنَّ كَذَا لَا مَحَالَةَ»، «كُلَّمَا اتَّسَعَتِ الرُّؤْيَةُ ضَاقَتِ العِبَارَةُ» (النفري).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الشرط وأدوات الجزم (Conditionals & Jussive)' to students in an accurate academic style."
+          "target": "مَنْ جَدَّ وَجَدَ وَمَنْ زَرَعَ حَصَدَ، وَمَنْ سَارَ عَلَى الدَّرْبِ القَوِيمِ وَصَلَ إِلَى غَايَتِهِ.(Man jadda wajada wa-man zaraʿa ḥaṣada, wa-man sāra ʿalā ad-darbi al-qawīmi waṣala ilā ghāyatih.)",
+          "reading": "[man ʒad.da wa.ʒa.da wa.man za.ra.ʕa ħa.sˤa.da, wa.man saː.ra ʕa.laː‿d.dar.bi‿l.qa.wiː.mi wa.sˤa.la ʔi.laː ɣaː.ja.tih] (Man jad-da wa-ja-da wa-man za-ra-ʿa ḥa-ṣa-da, wa-man sā-ra ʿa-lā ad-dar-bi al-qa-wī-mi wa-ṣa-la i-lā ghā-ya-tih.)",
+          "translation": "Whoever strives finds, and whoever sows reaps, and whoever walks upon the straight path reaches his destination."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "لَوْلَا المَشَقَّةُ لَسَادَ النَّاسُ كُلُّهُمْ، فَالصَّبْرُ مِفْتَاحُ الفَرَجِ وَسَبِيلُ المَعَالِي.(Lawlā al-mashaqqatu la-sāda an-nāsu kulluhum, fa-aṣ-ṣabru miftāḥu al-faraji wa-sabīlu al-maʿālī.)",
+          "reading": "[law.laː‿l.ma.ʃaq.qa.tu la.saː.da‿n.naː.su kul.lu.hum, fasˤ.sˤab.ru mif.taː.ħu‿l.fa.ra.ʒi wa.sa.biː.lu‿l.ma.ʕaː.liː] (Law-lā al-ma-shaq-qa-tu la-sā-da an-nā-su kul-lu-hum, fa-aṣ-ṣab-ru mif-tā-ḥu al-fa-ra-ji wa-sa-bī-lu al-ma-ʿā-lī.)",
+          "translation": "Were it not for hardship, all people would have led; for patience is the key to relief and the path to lofty heights."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "كُلَّمَا تَعَمَّقَ الإِنْسَانُ فِي مَعْرِفَةِ ذَاتِهِ زَادَهُ ذٰلِكَ تَوَاضُعًا وَحِكْمَةً.(Kullamā taʿammaqa al-insānu fī maʿrifati dhātihi zādahu dhālika tawāḍuʿan wa-ḥikmah.)",
+          "reading": "[kul.la.maː ta.ʕam.ma.qa‿l.ʔin.saː.nu fiː maʕ.ri.fa.ti ðaː.ti.hi zaː.da.hu ðaː.li.ka ta.waː.dˤu.ʕan wa.ħik.mah] (Kul-la-mā ta-ʿam-ma-qa al-in-sā-nu fī maʿ-ri-fa-ti dhā-ti-hi zā-da-hu dhā-li-ka ta-wā-ḍu-ʿan wa-ḥik-mah.)",
+          "translation": "Whenever man deepens in knowledge of himself, that increases him in humility and wisdom."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "إِنْ أَرَدْتَ أَنْ تُطَاعَ فَاسْأَلْ مَا يُسْتَطَاعُ، فَالحِكْمَةُ رَأْسُ الفَضَائِلِ كُلِّهَا.(In aradta an tuṭāʿa fa-asʾal mā yustaṭāʿ, fa-al-ḥikmatu raʾsu al-faḍāʾili kullihā.)",
+          "reading": "[ʔin ʔa.rad.ta ʔan tu.tˤaː.ʕa fas.ʔal maː jus.ta.tˤaːʕ, fal.ħik.ma.tu raʔ.su‿l.fa.dˤaː.ʔi.li kul.li.haː] (In a-rad-ta an tu-ṭā-ʿa fa-as-ʾal mā yus-ta-ṭāʿ, fa-al-ḥik-ma-tu raʾ-su al-fa-ḍā-ʾi-li kul-li-hā.)",
+          "translation": "If you want to be obeyed, then ask for what is possible; for wisdom is the head of all virtues."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بِالشَّرْطِ سَادَتْ حِكْمَةُ العَرَبِ الأُولَى، زَرْعٌ وَحَصْدٌ يَسْتَبِينُ مُكَلَّلَا!"
+      ],
+      "culturalNotes": [
+        "أبو الطيب المتنبي اعتمد في أروع قصائده على التراكيب الشرطية لتقرير الحقائق الفلسفية والنفسية الكونية بأسلوب صارم لا يقبل الجدل."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» (الدرس 4)؟",
+          "prompt": "ما الحكمة الشرطية الشهيرة التي تؤكد أن النتيجة تأتي على قدر العمل والجهد المبذول؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (19.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (19.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (19.4.w3)"
+            "«مَنْ جَدَّ وَجَدَ، وَمَنْ زَرَعَ حَصَدَ» (Whoever strives finds, and whoever sows reaps)",
+            "لو زرتني لأكرمتك",
+            "اينما تسافر تجد اصدقاء",
+            "كلما اكلت شبعت فقط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«مَنْ جَدَّ وَجَدَ وَمَنْ زَرَعَ حَصَدَ» مثل شرطي عربي سائر يلخص فلسفة السببية والجزاء."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "في قول المتنبي: «لَوْلَا المَشَقَّةُ سَادَ النَّاسُ كُلُّهُمُ»، ما سبب عدم سيادة كل الناس؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "وُجُودُ المَشَقَّةِ وَالتَّكْلِيفِ الَّتِي يَنْفِرُ مِنْهَا الكُسَالَى (The existence of hardship which deters the lazy)",
+            "عدم وجود الطعام",
+            "الجهل بالقراءة فقط",
+            "السفر الطويل"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«لَوْلَا» حرف امتناع لوجود؛ امتنع سيادة الجميع لوجود المشقة التي لا يتحملها إلا أصحاب العزائم."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u19-l4):",
+          "prompt": "اختر المقولة الفلسفية التي تصوغ التلازم بين اتساع المعرفة والتواضع بأسلوب شرطي بليغ:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (19.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (19.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (19.4.x3)"
+            "كُلَّمَا اتَّسَعَتْ مَعْرِفَةُ الإِنْسَانِ بِعَوَالِمِ العِلْمِ، أَدْرَكَ مَدَى ضَآلَةِ مَا يَعْلَمُ فَازْدَادَ تَوَاضُعًا. (Whenever man's knowledge of the realms of science widens, he realizes how small what he knows is and increases in humility.)",
+            "كلما ركضت الشجرة في البحر بالخطأ الدلالي",
+            "لو اكلت السمك طرت في الهواء",
+            "حكمة شرطية فلسفة معرفة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة توظف الأسلوب الشرطي «كُلَّمَا اتَّسَعَتْ... أَدْرَكَ... فَازْدَادَ» لصياغة تلازم معرفي وفلسفي عميق."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الشرط وأدوات الجزم (Conditionals & Jussive)»؟",
+          "prompt": "ما الغرض البلاغي الأبرز لاستخدام أسلوب الشرط في الأمثال العربية القديمة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (19.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (19.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (19.4.y3)"
+            "تَقْرِيرُ السَّبَبِيَّةِ وَالتَّلَازُمِ الحَتْمِيِّ بَيْنَ السُّلُوكِ وَنَتِيجَتِهِ (Affirming causality & inevitable link between deed and outcome)",
+            "التشكيك في الحقائق",
+            "السخرية والضحك فقط",
+            "تضييع الوقت"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "أسلوب الشرط يقرر السببية والتلازم الحتمي بين المقدمة والنتيجة بصورة برهانية قاطعة."
         }
       ]
     },
@@ -11670,24 +11694,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 19-4)؟",
+          "prompt": "اختر النص الأدبي الفلسفي الذي يوظف التراكيب الشرطية المتنوعة لصياغة رؤية وجودية رصينة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (19.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (19.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (19.4.z3)"
+            "إِنْ تَبْحَثْ عَنِ السَّعَادَةِ الحَقِيقِيَّةِ فَابْحَثْ عَنْهَا فِي رَاحَةِ الضَّمِيرِ، فَلَوْلَا القَنَاعَةُ لَظَلَّ الإِنْسَانُ فِي شَقَاءٍ دَائِمٍ، وَكُلَّمَا أَعْطَى المَرْءُ دُونَ انْتِظَارِ مُقَابِلٍ، فَقَدْ بَلَغَ أَعْلَى مَرَاتِبِ النُّبْلِ الإِنْسَانِيِّ. (If you search for true happiness then seek it in peace of conscience; for were it not for contentment man would have remained in permanent misery; and whenever a person gives without expecting a return, he has reached the highest ranks of human nobility.)",
+            "ان تبحث عن السعادة بالافعال المجردة فقط بلا ادوات شرط ولا فاء رابطة.",
+            "حكمة امثال شرط سببية لولا كلما ان فاء جزاء سكون فتحة ضمة.",
+            "انعدمت السعادة في العالم وضاع الضمير."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يدمج بين أدوات الشرط الجازمة وغير الجازمة واقتران الجواب بالفاء («إِنْ تَبْحَثْ... فَابْحَثْ»، «لَوْلَا القَنَاعَةُ لَظَلَّ»، «كُلَّمَا أَعْطَى... فَقَدْ بَلَغَ») في سياق حكمي بياني ساحر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u19-l4) باللغة العربية (مثال: «الشرط»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الشاعر العربي العظيم القائل: «لَوْلَا المَشَقَّةُ سَادَ النَّاسُ كُلُّهُمُ» (اكتب: «المتنبي» أو «أبو الطيب المتنبي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الشرط",
-            "الشرط"
+            "المتنبي",
+            "أبو الطيب المتنبي",
+            "ابو الطيب المتنبي",
+            "المُتَنَبِّي",
+            "أَبُو الطَّيِّبِ المُتَنَبِّي"
           ],
-          "explanation": "المصطلح الصحيح هو «الشرط»."
+          "explanation": "الشاعر هو «المتنبي» (أبو الطيب المتنبي)."
         }
       ],
       "passThreshold": 0.8
@@ -11698,85 +11725,89 @@
     "subject": "arabic",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "الشرط وأدوات الجزم (Conditionals & Jussive) (الدرس 5)",
+    "title": "حوار المناظرة الفكرية وتطبيقات الشرط الشاملة (Intellectual Debate & Comprehensive Conditionals Dialogue)",
     "level": "B2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدوات الشرط الجازمة وغير الجازمة، تصريف الفعل المضارع المجزوم، وجواب الشرط المرتبط بالفاء. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة: أدوات الشرط الجازمة وغير الجازمة، تصريف الأفعال المجزومة، واقتران الجواب بالفاء الوجوبي في حوار مناظرة فكرية وأكاديمية متكاملة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة التاسعة عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج كافة قواعد أسلوب الشرط في حوار مناظرة فكرية رفيعة تدور بين الباحث (حازم) والدكتورة (سمية) حول التخطيط المستقبلي، والإرادة الإنسانية، ومنطق السببية في النهضة الحضارية:\n\nمحاور النص الحواري الشامل:\n1.【أدوات الشرط الجازمة وتصريفاتها】: «إِنْ تُخْلِصْ»، «مَنْ يَسْعَ»، «مَا تَبْذُلُوا»، «أَيْنَمَا تَتَّجِهُوا».\n2.【أدوات الشرط غير الجازمة】: «لَوْ»، «لَوْلَا»، «إِذَا»، «كُلَّمَا».\n3.【مواضع وجوب اقتران الجواب بالفاء】: «فَأَنْتَ نَاجِحٌ»، «فَلَا تَتَرَدَّدْ»، «فَقَدْ أَصَبْتَ»، «فَسَوْفَ نَرَى».\n4.【الارتقاء بالبيان العربي】: صياغة الحجج المنطقية الرصينة بلسان عربي فصيح مبين.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الشرط وأدوات الجزم (Conditionals & Jussive)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة سُمَيَّة، هَلْ تَرَيْنَ أَنَّ التَّخْطِيطَ وَحْدَهُ يَكْفِي لِتَحْقِيقِ النَّهْضَةِ؟(Marḥaban duktūrah Sumayyah, hal tarayna anna at-takhṭīṭa waḥdahu yakfī li-taḥqīqi an-nahḍah?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah su.maj.jah, hal ta.raj.na ʔan.na‿t.tax.tˤiː.tˤa waħ.da.hu jak.fiː li.taħ.qiː.qi‿n.nah.dˤah?] (Mar-ḥa-ban duk-tū-rah Su-may-yah, hal ta-ray-na an-na at-takh-ṭī-ṭa waḥ-da-hu yak-fī li-taḥ-qī-qi an-nah-ḍah?)",
+          "translation": "Welcome Dr. Sumayyah, do you see that planning alone suffices to achieve revival?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا حَازِم، إِنْ نُخَطِّطْ بِدِقَّةٍ وَنَقْرِنِ الخُطَطَ بِالعَمَلِ فَالنَّجَاحُ حَلِيفُنَا، وَلَوْلَا الإِرَادَةُ لَمَا تَحَقَّقَ إِبْدَاعٌ.(Ahlan Ḥāzim, in nukhaṭṭiṭ bi-diqqatin wa-naqrini al-khuṭaṭa bi-al-ʿamali fa-an-najāḥu ḥalīfunā, wa-lawlā al-irādatu la-mā taḥaqqaqa ibdāʿ.)",
+          "reading": "[ʔah.lan ħaː.zim, ʔin nu.xatˤ.tˤitˤ bi.diq.qa.tin wa.naq.ri.ni‿l.xu.tˤa.tˤa bil.ʕa.ma.li fan.na.ʒaː.ħu ħa.liː.fu.naː, wa.law.laː‿l.ʔi.raː.da.tu la.maː ta.ħaq.qa.qa ʔib.daːʕ] (Ah-lan Ḥā-zim, in nu-khaṭ-ṭiṭ bi-diq-qa-tin wa-naq-ri-ni al-khu-ṭa-ṭa bi-al-ʿa-ma-li fa-an-na-jā-ḥu ḥa-lī-fu-nā, wa-law-lā al-i-rā-da-tu la-mā ta-ḥaq-qa-qa ib-dāʿ.)",
+          "translation": "Hello Hazim, if we plan accurately and couple plans with action, then success is our ally, and were it not for will, no creativity would have been realized."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "مَنْ يَسْعَ لِلْمَجْدِ فَلَا يَتَرَدَّدْ، وَمَا تَبْذُلُوا مِنْ جُهْدٍ فَسَوْفَ تَجِدُوا ثَمَرَتَهُ النَّاضِجَةَ.(Man yasʿa li-l-majdi fa-lā yataraddad, wa-mā tabdhulū min juhdin fa-sawfa tajidū thamaratahu an-nāḍijah.)",
+          "reading": "[man jas.ʕa lil.maʒ.di fa.laː ja.ta.rad.dad, wa.maː tab.ðu.luː min ʒuh.din fa.saw.fa ta.ʒi.duː θa.ma.ra.ta.hu‿n.naː.dˤi.ʒah] (Man yas-ʿa li-al-maj-di fa-lā ya-ta-rad-dad, wa-mā tab-dhu-lū min juh-din fa-saw-fa ta-ji-dū tha-ma-ra-ta-hu an-nā-ḍi-jah.)",
+          "translation": "Whoever strives for glory must not hesitate, and whatever effort you exert, you will surely find its ripe fruit."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "كُلَّمَا تَعَاوَنَّا فِي بِنَاءِ المُؤَسَّسَاتِ ارْتَفَعَ شَأْنُ الوَطَنِ وَتَحَقَّقَتِ الغَايَاتُ النَّبِيلَةُ.(Kullamā taʿāwannā fī bināʾi al-muʾassasāti irtafaʿa shaʾnu al-waṭani wa-taḥaqqaqati al-ghāyātu an-nabīlah.)",
+          "reading": "[kul.la.maː ta.ʕaː.wan.naː fiː bi.naː.ʔi‿l.muʔas.sa.saː.ti‿r.ta.fa.ʕa ʃaʔ.nu‿l.wa.tˤa.ni wa.ta.ħaq.qa.qa.ti‿l.ɣaː.jaː.tu‿n.na.biː.lah] (Kul-la-mā ta-ʿā-wan-nā fī bi-nā-ʾi al-mu-ʾas-sa-sā-ti ir-ta-fa-ʿa shaʾ-nu al-wa-ṭa-ni wa-ta-ḥaq-qa-qa-ti al-ghā-yā-tu an-na-bī-lah.)",
+          "translation": "Whenever we cooperate in building institutions, the status of the homeland elevates and noble goals are realized."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَنْطِقِ الشَّرْطِ صَاغَ الفِكْرُ حُجَّتَهُ، جَزْمٌ وَفَاءٌ تَقُودُ الرَّأْيَ نَحْوَ عُلَا!"
+      ],
+      "culturalNotes": [
+        "المناظرات الفكرية في مجالس العلم العربية (كمناظرة أبي سعيد السيرافي ومتى بن يونس) عكست عمق الربط بين المنطق الفلسفي وقواعد النحو العربي الدقيقة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، لماذا اقترن جواب الشرط بالفاء في عبارة: «إِنْ نُخَطِّطْ ... فَالنَّجَاحُ حَلِيفُنَا»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الشرط وأدوات الجزم (Conditionals & Jussive)» بأسلوب أكاديمي دقيق (19.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (19.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (19.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (19.5.w3)"
+            "لأَنَّ الجَوَابَ جُمْلَةٌ اسْمِيَّةٌ («فَالنَّجَاحُ حَلِيفُنَا») (Because the answer is a nominal sentence)",
+            "لأنها جملة طلبية",
+            "لأنها فعل ماض",
+            "لأنها مصدرة بـ ما"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«النَّجَاحُ حَلِيفُنَا» جملة اسمية مبتدأ وخبر، فيجب اقترانها بالفاء (اسمية طلبية)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما الفعل المضارع المجزوم بحذف حرف العلة الذي استخدمه حازم في الحوار؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«يَسْعَ» (من يسع للمجد - اصلها يسعى) (Yas'a - Omission of alif)",
+            "نخطط",
+            "تبذلوا",
+            "تجدوا"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«مَنْ يَسْعَ» فعل شرط مجزوم وعلامة جزمه حذف حرف العلة (الألف المقصورة)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u19-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تطبق أدوات الشرط الجازمة وغير الجازمة واقتران الفاء بتكامل تام:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (19.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (19.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (19.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (19.5.x3)"
+            "— مَاذَا يَحْدُثُ إِذَا تَكَاتَفْنَا؟ — إِذَا تَكَاتَفْنَا قَوِيَتْ عَزِيمَتُنَا، وَمَنْ يَطْلُبِ القِمَّةَ فَلَا يَخَفْ مِنَ العَقَبَاتِ. (— What happens when we unite? — When we unite our resolve strengthens, and whoever seeks the peak must not fear obstacles.)",
+            "— ماذا يحدث اذا تكاتفنا بالافعال الماضية بلا جواب؟",
+            "— كم سعر الكتاب في الصيدلية؟",
+            "— مناظرة حوار شرط جزم فاء سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف أداة الشرط غير الجازمة «إِذَا» وجوابها «قَوِيَتْ»، وأداة الشرط الجازمة «مَنْ يَطْلُبْ» واقتران الجواب الطلبي بالفاء «فَلَا يَخَفْ» بسبك حواري فصيح ومثالي."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الشرط وأدوات الجزم (Conditionals & Jussive)»؟",
+          "prompt": "ما هي الخلاصة الفكرية التي انتهى إليها المتحاوران في ختام المناظرة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (19.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (19.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (19.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (19.5.y3)"
+            "أَنَّ النَّهْضَةَ تَتَحَقَّقُ بِاقْتِرَانِ التَّخْطِيطِ الدَّقِيقِ بِالإِرَادَةِ وَالعَمَلِ الجَمَاعِيِّ (Revival is achieved by coupling planning with will and collective action)",
+            "التخلي عن التخطيط",
+            "الاعتماد على الحظ فقط",
+            "الفرقة والتنازع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الخلاصة هي أن النجاح والنهضة ثمرة التلازم بين التخطيط والإرادة والعمل المشترك."
         }
       ]
     },
@@ -11784,24 +11815,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 19-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة التاسعة عشرة بأكملها (الشرط الجازم وغير الجازم، تصريف الأفعال، واقتران الفاء):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (19.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (19.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (19.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (19.5.z3)"
+            "دَارَتْ مُنَاظَرَةٌ فِكْرِيَّةٌ حَوْلَ سُبُلِ النَّهْضَةِ، فَقَالَتِ الدُّكْتُورَةُ: «إِنْ نَجْتَهِدْ وَنُخْلِصْ فَالنَّجَاحُ حَلِيفُنَا، وَلَوْلَا العِلْمُ لَمَا تَقَدَّمَتِ الأُمَمُ؛ فَمَنْ يَسْعَ إِلَى المَعَالِي فَلَا يَتَرَدَّدْ، وَمَا تَبْذُلُوا مِنْ طَاقَاتٍ فَسَوْفَ تَجْنُونَ ثَمَرَاتِهَا خَيْرًا وَبَرَكَةً». (An intellectual debate took place on paths to revival, so the doctor said: 'If we strive and are sincere, then success is our ally, and were it not for knowledge nations would not have advanced; so whoever strives for lofty heights must not hesitate, and whatever energies you exert, you will surely reap their fruits as goodness and blessing'.)",
+            "دارت مناظرة بالافعال المجردة فقط بلا ادوات شرط وبلا فاء رابطة.",
+            "مناظرة نهضة اجتهاد اخلاص لولا من يسع تبذلوا فسوف سكون فتحة.",
+            "انفضت المناظرة دون اتفاق ودون تقديم اي حجة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج أدوات الشرط الجازمة بالسكون وحذف العلة وحذف النون («نَجْتَهِدْ»، «يَسْعَ»، «تَبْذُلُوا»)، والأداة غير الجازمة («لَوْلَا»)، ومواضع وجوب الفاء (الاسمية: «فَالنَّجَاحُ»، الطلبية: «فَلَا يَتَرَدَّدْ»، والتنفيس: «فَسَوْفَ تَجْنُونَ»)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u19-l5) باللغة العربية (مثال: «الشرط»):",
+          "prompt": "اكتب باللغة العربية الفصحى حرف الشرط الجازم الموضوع لربط الجواب بالشرط (اكتب: «إن» أو «إنْ»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الشرط",
-            "الشرط"
+            "إن",
+            "ان",
+            "إِنْ",
+            "إِن"
           ],
-          "explanation": "المصطلح الصحيح هو «الشرط»."
+          "explanation": "الحرف هو «إن» (حرف شرط جازم)."
         }
       ],
       "passThreshold": 0.8
