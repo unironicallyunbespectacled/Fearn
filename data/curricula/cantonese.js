@@ -5815,53 +5815,62 @@
     "subject": "cantonese",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "比較句（過/冇/同埋） (Comparative Structures) (第1課)",
+    "title": "粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快過、大過） (Post-Adjectival Comparatives)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元14第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語最核心之後置超越比較句句型「A + 形容詞 + 過 + B」，精準區分粵語後置與現代標準漢語前置之語序本質差異。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語之比較句型保留了上古漢語與中古漢語經典語序特徵，與現代標準漢語存在極為顯著之結構差異：\n\n一、核心後置超越比較句公式：\n１．基本語法結構：【主語Ａ ＋ 形容詞謂語 ＋ 「過」 ＋ 比較對象Ｂ】。\n２．語序本質對比：現代標準漢語採用介詞前置結構「Ａ比Ｂ＋形容詞」，而粵語則嚴格遵循形容詞後接比較標記之古漢語語序「Ａ＋形容詞＋過＋Ｂ」（源自古漢語「苛政猛於虎」之后置介引結構）。\n\n二、高頻核心形容詞搭配辨析：\n１．「平過」：價格比某物更便宜實惠。\n２．「貴過」：價格比某物更昂貴。\n３．「快過」：速度比某事物更快捷迅猛。\n４．「大過」：體積大於某物，或在年齡上長於某人（例如「佢大過我」意為他年紀比我大）。\n５．「細過」：體積小於某物，或在年齡上小於某人。\n６．「好過」：品質或處境優於某事物（口語常講「好過冇」意為聊勝於無）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 14 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 14 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 14 in communication."
+          "target": "搭港鐵去中環快過搭巴士好多，而且完全唔使驚塞車。",
+          "reading": "daap3 gong2 tit3 heoi3 zung1 waan4 faai3 gwo3 daap3 baa1 si6*2 hou2 do1, ji4 ce2 jyun4 cyun4 m4 sai2 geng1 sak1 ce1. [taːp̚˧ kɔːŋ˧˥ tʰiːt̚˧ hɵy˧ tsʊŋ˥ waːn˨˩ faːi˧ kʷɔː˧ taːp̚˧ paː˥ siː˧˥ hou˧˥ tɔː˥, jiː˨˩ tsʰɛː˧˥ jyːn˨˩ tsʰyːn˨˩ m̩˨˩ sɐi˧˥ kɛːŋ˥ sɐk̚˥ tsʰɛː˥] (DAHP GONG-TEET HOEY JOONG-WAHN FY-GWOR DAHP BAH-SEE HOH-DOH, YEE-CHEH YUEN-CHUEN M-SY GANG SUK-CHEH)",
+          "translation": "Taking the MTR to Central is much faster than taking the bus, and what's more, there is no need to worry about traffic jams at all."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元14-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢部新款手機雖然功能多，但係售價貴過舊款成千蚊。",
+          "reading": "ni1 bou6 san1 fun2 sau2 gei1 seoi1 jin4 gung1 nang4 do1, daan6 hai6 sau6 gaa3 gwai3 gwo3 gau6 fun2 seng4 cin1 man1. [niː˥ pou˨ sɐn˥ fun˧˥ sɐu˧˥ kei˥ sɵy˥ jiːn˨˩ kʊŋ˥ nɐŋ˨˩ tɔː˥, taːn˨ hɐi˨ sɐu˨ kaː˧ kʷɐi˧ kʷɔː˧ kɐu˨ fun˧˥ sɛːŋ˨˩ tsʰiːn˥ mɐn˥] (NEE-BOU SUN-FOON SAU-GAY SOEY-YEEN GONG-NUNG DOH, DAHN-HY SAU-GAH GWY-GWOR GAU-FOON SENG-CHEEN-MUN)",
+          "translation": "Although this new model mobile phone has many features, its selling price is a whole thousand dollars more expensive than the old model."
+        },
+        {
+          "target": "陳先生個大仔大過我個仔兩歲，依家已經讀緊小學三年級喇。",
+          "reading": "can4 saan1 sang1 go3 daai6 zai2 daai6 gwo3 ngo5 go3 zai2 loeng5 seoi3, ji1 gaa1 ji5 ging1 duk6 gan2 siu2 hok6 saam1 nin4 kap1 laa3. [tsʰɐn˨˩ saːn˥ sɐŋ˥ kɔː˧ taːi˨ tsɐi˧˥ taːi˨ kʷɔː˧ ŋɔː˩˧ kɔː˧ tsɐi˧˥ lœːŋ˩˧ sɵy˧, jiː˥ kaː˥ jiː˩˧ kɪŋ˥ tʊk̚˨ kɐn˩˧ siu˧˥ hɔːk̚˨ saːm˥ niːn˨˩ kʰɐp̚˥ laː˧] (CHUN-SAHN-SANG GOH DY-JY DY-GWOR NGOH GOH-JY LEUNG-SOEY, YEE-GAH YEE-GING DOOK-GUN SIU-HOK SAHM-NEEN-KUP LAH)",
+          "translation": "Mr. Chan's eldest son is two years older than my son; now he is already studying in primary school grade three."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【後置比較訣】粵語比較真特別，形容詞後加個「過」；快過貴過大過佢，古漢語序最地道！"
+      ],
+      "culturalNotes": [
+        "「形＋過＋賓」係粵語最典型之上古遺存語法。先秦古籍如《禮記》「苛政猛於虎」、《論語》「季氏富於周公」，其結構正係「形容詞＋介詞＋對象」，粵語完美繼承此一千年古風。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"聽歌\":",
+          "prompt": "【語序轉換】欲用標準粵語表達「搭地鐵比搭巴士快」，正確之語法語序係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：影相錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睇書未適配）",
-            "聲調助詞搭配欠妥之表達（例項：旅行誤用）"
+            "搭地鐵快過搭巴士。 (daap3 dei6 tit3 faai3 gwo3 daap3 baa1 si6*2.)",
+            "搭地鐵比搭巴士快。",
+            "搭地鐵過搭巴士快。",
+            "搭地鐵快比搭巴士。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "粵語超越比較句嚴格採用「形容詞＋過＋比較對象」之後置結構（快過……）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"聽歌\":",
+          "prompt": "【年齡比較】在粵語中表達「他比我大三歲」，最地道標準之句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：睇書未適配）",
-            "聲調助詞搭配欠妥之表達（例項：旅行誤用）",
-            "語序顛倒嘅非標準句式（例項：影相錯置）"
+            "佢大過我三歲。 (keoi5 daai6 gwo3 ngo5 saam1 seoi3.)",
+            "佢比我大三歲。",
+            "佢過我大三歲。",
+            "佢大三歲比我。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "年齡比較在粵語中同樣遵循「大過＋對象＋差額」之語序。"
         }
       ]
     },
@@ -5869,15 +5878,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"聽歌\": Which sentence is completely correct?",
+          "prompt": "【語法判斷】在粵語口語中，短語「好過冇」之確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：旅行誤用）",
-            "語序顛倒嘅非標準句式（例項：影相錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睇書未適配）"
+            "有總比沒有好 / 聊勝於無 (Better than nothing)",
+            "最好甚麼都沒有",
+            "非常好而且應有盡有",
+            "完全沒有任何好處"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「好過冇」（hou2 gwo3 mou5）指比沒有要好，相當於「聊勝於無」。"
         }
       ],
       "passThreshold": 0.8
@@ -5888,53 +5897,62 @@
     "subject": "cantonese",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "比較句（過/冇/同埋） (Comparative Structures) (第2課)",
+    "title": "差額比較與程度副詞疊加：「A + 形容詞 + 過 + B + 好多 / 少少 / 數量詞」 (Comparative Differentials)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元14第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在掌握基礎比較句之後，精確表達兩者之間之差距幅度（大幅領先、微弱差距或具體數值）需遵循嚴格之程度補語後置規則：\n\n一、差額與程度補語之標準位置：\n１．基本擴展公式：【主語Ａ ＋ 形容詞 ＋ 「過」 ＋ 比較對象Ｂ ＋ 差額補語】。\n２．補語後置原則：所有表示差距大小之補語詞彙，必須統一置於比較對象Ｂ之後，絕不可插入形容詞與「過」之間。\n\n二、高頻差額補語分類矩陣：\n１．大幅度差距補語：「好多」（差距極大）。例如「高過佢好多」（比他高很多）。\n２．微小差距補語：「少少」或「啲」（略微有些差距）。例如「平過嗰間舖頭少少」（比那家店便宜一點點）。\n３．精確數量差額補語：【數詞 ＋ 量詞】。例如「平過出面廿蚊」（比外面便宜二十元）、「快過行路半個鐘」（比走路快半小時）。\n４．倍數差距表達：【倍數詞 ＋ 咁多】。例如「貴過舊年一倍咁多」（比去年貴了一倍之多）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 14 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 14 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 14 in communication."
+          "target": "街市呢檔生果新鮮過超市好多，而且價錢仲平過佢哋兩成添。",
+          "reading": "gaai1 si5 ni1 dong3 saang1 gwo2 san1 sin1 gwo3 ciu1 si5 hou2 do1, ji4 ce2 gaa3 cin4 zung6 peng4 gwo3 keoi5 dei6 loeng5 sing4 tim1. [kaːi˥ siː˩˧ niː˥ tɔːŋ˧ saːŋ˥ kʷɔː˧˥ sɐn˥ siːn˥ kʷɔː˧ tsʰiːu˥ siː˩˧ hou˧˥ tɔː˥, jiː˨˩ tsʰɛː˧˥ kaː˧ tsʰiːn˨˩ tsʊŋ˨ pʰɛːŋ˨˩ kʷɔː˧ kʰɵy˩˧ tei˨ lœːŋ˩˧ sɪŋ˨˩ tʰiːm˥] (GY-SEE NEE-DONG SAHNG-GWOR SUN-SEEN-GWOR CHEW-SEE HOH-DOH, YEE-CHEH GAH-CHEEN JOONG PENG-GWOR KUY-DAY LEUNG-SING TEEM)",
+          "translation": "The fruits at this wet market stall are much fresher than those in the supermarket, and what's more, the prices are twenty percent cheaper than theirs."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元14-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我呢件冷衫雖然厚過你嗰件少少，但係著落一樣好輕好舒服。",
+          "reading": "ngo5 ni1 gin6 laang1*4 saam1 seoi1 jin4 hau5 gwo3 nei5 go2 gin6 siu2 siu2, daan6 hai6 zoek3 lok6 jat1 joeng6 hou2 heng1 hou2 syu1 fuk6. [ŋɔː˩˧ niː˥ kiːn˨ laːŋ˨˩ saːm˥ sɵy˥ jiːn˨˩ hɐu˩˧ kʷɔː˧ nei˩˧ kɔː˧˥ kiːn˨ siu˧˥ siu˧˥, taːn˨ hɐi˨ tsœːk̚˧ lɔːk̚˨ jɐt̚˥ jœːŋ˨ hou˧˥ hɪŋ˥ hou˧˥ syː˥ fʊk̚˨] (NGOH NEE-GEEN LAHNG-SAHM SOEY-YEEN HAU-GWOR NEI GOH-GEEN SIU-SIU, DAHN-HY JEUk-LOK YUT-YEUNG HOH-HENG HOH-SYU-FOOK)",
+          "translation": "Although this sweater of mine is a little bit thicker than yours, it feels just as light and comfortable when worn."
+        },
+        {
+          "target": "由呢度搭的士去機場快過搭巴士差唔多四十五分鐘。",
+          "reading": "jau4 ni1 dou6 daap3 dik1 si6*2 heoi3 gei1 coeng4 faai3 gwo3 daap3 baa1 si6*2 caa1 m4 do1 sei3 sap6 ng5 fan1 zung1. [jɐu˨˩ niː˥ tou˨ taːp̚˧ tɪk̚˥ siː˧˥ hɵy˧ kei˥ tsʰœːŋ˨˩ faːi˧ kʷɔː˧ taːp̚˧ paː˥ siː˧˥ tsʰaː˥ m̩˨˩ tɔː˥ sei˧ sɐp̚˨ ŋ̩˩˧ fɐn˥ tsʊŋ˥] (YAU NEE-DOU DAHP DIK-SEE HOEY GAY-CHEUNG FY-GWOR DAHP BAH-SEE CHAH-M-DOH SAY-SUP-NG FUN-JOONG)",
+          "translation": "Taking a taxi from here to the airport is almost forty-five minutes faster than taking the bus."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【差額後置歌】差距大小放最後，多過少過分清楚；「好多」「少少」跟後尾，具體數字莫擺錯！"
+      ],
+      "culturalNotes": [
+        "香港市民在街市買餸或商場購物時極具精打細算之生活智慧，對話中高頻運用「平過出面五蚊」、「抵過買散裝好多」等精確差額比較，體現出務實精明之嶺南市井文化。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"影相\":",
+          "prompt": "【差額位置】在粵語中表達「這件衣服比那件便宜五十塊錢」，正確之句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：睇書錯置）",
-            "混雜生硬詞彙之不規範語句（例項：旅行未適配）",
-            "聲調助詞搭配欠妥之表達（例項：買衫誤用）"
+            "呢件衫平過嗰件五十蚊。 (ni1 gin6 saam1 peng4 gwo3 go2 gin6 ng5 sap6 man1.)",
+            "呢件衫五十蚊平過嗰件。",
+            "呢件衫平五十蚊過嗰件。",
+            "呢件衫比嗰件平五十蚊過。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "數量差額「五十蚊」必須置於比較對象「嗰件」之後。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"影相\":",
+          "prompt": "【程度補語】欲表達「這款電腦運行速度比舊電腦快很多」，地道口語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：旅行未適配）",
-            "聲調助詞搭配欠妥之表達（例項：買衫誤用）",
-            "語序顛倒嘅非標準句式（例項：睇書錯置）"
+            "呢部電腦快過舊電腦好多。 (ni1 bou6 din6 nou5 faai3 gwo3 gau6 din6 nou5 hou2 do1.)",
+            "呢部電腦很多快過舊電腦。",
+            "呢部電腦快好多過舊電腦。",
+            "呢部電腦比舊電腦很多快。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "程度補語「好多」必須置於比較對象「舊電腦」之後。"
         }
       ]
     },
@@ -5942,15 +5960,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"影相\": Which sentence is completely correct?",
+          "prompt": "【語序正誤】請判斷以下哪一句粵語差額比較句完全符合語法規範：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：買衫誤用）",
-            "語序顛倒嘅非標準句式（例項：睇書錯置）",
-            "混雜生硬詞彙之不規範語句（例項：旅行未適配）"
+            "我哥哥高過我半個頭。 (ngo5 go1 go1 gou1 gwo3 ngo5 bun3 go3 tau4.)",
+            "我哥哥半個頭高過我。",
+            "我哥哥高半個頭過我。",
+            "我哥哥過我高半個頭。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "差額量詞「半個頭」置於比較對象「我」之後，結構完全正確。"
         }
       ],
       "passThreshold": 0.8
@@ -5961,53 +5979,62 @@
     "subject": "cantonese",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "比較句（過/冇/同埋） (Comparative Structures) (第3課)",
+    "title": "隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇咁凍） (Inferiority Comparisons)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元14第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語隱性否定/不及比較句「A + 冇 + B + 咁 + 形容詞」之構造規則與日常委婉表達技巧。",
     "presentation": {
-      "explanation": "",
+      "explanation": "當欲表達「Ａ不如Ｂ那麼……」或「Ａ在某方面不及Ｂ」之否定/劣等比較時，粵語擁有一套專屬且極為自然之語法結構：\n\n一、否定比較句核心公式：\n１．基本語法公式：【主語Ａ ＋ 「冇」 ＋ 比較對象Ｂ ＋ 「咁」 ＋ 形容詞】。\n２．核心詞彙功能解析：\n- 「冇」（mou5）：否定副詞/動詞，相當於「沒有」。\n- 「咁」（gam3）：指示程度副詞，相當於「那麼、如此」。\n- 整體句意直譯為「Ａ沒有Ｂ那麼……」。\n\n二、與其他句式之語義轉換對比：\n１．「今日冇琴日咁凍」＝「琴日凍過今日」（昨天比今天冷）。\n２．「搭巴士冇搭地鐵咁快」＝「搭地鐵快過搭巴士」（搭地鐵比搭巴士快）。\n３．「呢間餐廳冇嗰間咁好食」＝「嗰間餐廳好食過呢間」（那間餐廳比這間好吃）。\n\n三、口語高頻省略句式：\n１．省略比較對象Ｂ之簡縮用法：在上下文語境明確時，比較對象可省略，形成「主語 ＋ 冇咁 ＋ 形容詞」。\n- 「冇咁貴」：沒有那麼貴。\n- 「冇咁易」：沒有那麼容易/沒那麼簡單。\n- 「冇咁好」：沒有那麼好。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 14 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 14 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 14 in communication."
+          "target": "今日天氣回暖咗，出面吹緊微風，完全冇琴日咁凍喇。",
+          "reading": "gam1 jat6 tin1 hei3 wui4 nyun5 zo2, ceot1 min6 ceoi1 gan2 mei4 fung1, jyun4 cyun4 mou5 kam4 jat6 gam3 dung3 laa3. [kɐm˥ jɐt˨ tʰiːn˥ hei˧ wuːi˨˩ nyːn˩˧ tsɔː˧˥, tsʰɵt̚˥ miːn˨ tsʰɵy˥ kɐn˩˧ mei˨˩ fʊŋ˥, jyːn˨˩ tsʰyːn˨˩ mou˩˧ kʰɐm˨˩ jɐt˨ kɐm˧ tʊŋ˧ laː˧] (GUM-YUT TEEN-HEY WUI-NUEN-JOR, CHUT-MEEN CHOEY-GUN MY-FOONG, YUEN-CHUEN MOU KUM-YUT GUM DOONG LAH)",
+          "translation": "The weather has warmed up today; a gentle breeze is blowing outside, not nearly as cold as yesterday at all."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元14-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢部手提電腦雖然輕便，但係運行大型軟件嗰陣冇枱機咁順暢。",
+          "reading": "ni1 bou6 sau2 tai4 din6 nou5 seoi1 jin4 heng1 bin6, daan6 hai6 wan6 hang4 daai6 jing4 jyun5 gin62 go2 zan6 mou5 toi4 gei1 gam3 seon6 coeng3. [niː˥ pou˨ sɐu˧˥ tʰɐi˨˩ tiːn˨ nou˩˧ sɵy˥ jiːn˨˩ hɪŋ˥ piːn˨, taːn˨ hɐi˨ wɐn˨ hɐŋ˨˩ taːi˨ jɪŋ˨˩ jyːn˩˧ kiːn˧˥ kɔː˧˥ tsɐn˨ mou˩˧ tʰɔːi˨˩ kei˥ kɐm˧ sɵn˨ tsʰœːŋ˧] (NEE-BOU SAU-TY DEEN-NOU SOEY-YEEN HENG-BEEN, DAHN-HY WUN-HAHNG DY-YING YUEN-GEEN GOH-JUN MOU TOY-GAY GUM SEUN-CHEUNG)",
+          "translation": "Although this laptop is portable, it is not as smooth as a desktop when running heavy software."
+        },
+        {
+          "target": "你想喺一個月之內學識游水？件事冇你諗得咁易㗎！",
+          "reading": "nei5 soeng2 hai2 jat1 go3 jyut6 zi1 noi6 hok6 sik1 jau4 seoi2? gin6 si6 mou5 nei5 lam2 dak1 gam3 ji6 gaa3! [nei˩˧ sœːŋ˧˥ hɐi˩˧ jɐt̚˥ kɔː˧ jyːt̚˨ tsiː˥ nɔːi˨ hɔːk̚˨ sɪk̚˥ jɐu˨˩ sɵy˧˥? kiːn˨ siː˨ mou˩˧ nei˩˧ lɐm˧˥ tɐk̚˥ kɐm˧ jiː˨ kaː˧] (NEI SEUNG HY YUT-GOH-YUET JEE-NGOY HOK-SIK YAU-SOEY? GEEN-SEE MOU NEI LUM-DUK GUM YEE GAH!)",
+          "translation": "You want to learn how to swim within one month? The matter is not as easy as you think!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【不及比較訣】不如某人叫「冇咁」，冇咁貴來冇咁凍；客氣委婉表對比，日常對話最實用！"
+      ],
+      "culturalNotes": [
+        "在粵語社交禮儀中，直接講「你煮嘅餸好難食」顯得極不禮貌，而委婉改用否定比較「今日呢碟餸冇琴日嗰碟咁惹味」，既表達了真實意見又保留了對方顏面，體現出嶺南文化中講究圓融得體之語言情商。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"睇書\":",
+          "prompt": "【否定比較】欲用粵語委婉表達「今天沒有昨天那麼冷」，標準之句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：旅行錯置）",
-            "混雜生硬詞彙之不規範語句（例項：買衫未適配）",
-            "聲調助詞搭配欠妥之表達（例項：天氣誤用）"
+            "今日冇琴日咁凍。 (gam1 jat6 mou5 kam4 jat6 gam3 dung3.)",
+            "今日不比琴日凍。",
+            "今日冇琴日凍過。",
+            "今日冇咁凍琴日。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "粵語不及比較句固定結構為「主語＋冇＋對象＋咁＋形容詞」（今日冇琴日咁凍）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"睇書\":",
+          "prompt": "【句意轉換】句子「搭地鐵快過搭巴士」轉換為以「搭巴士」為主語之否定比較句，應為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：買衫未適配）",
-            "聲調助詞搭配欠妥之表達（例項：天氣誤用）",
-            "語序顛倒嘅非標準句式（例項：旅行錯置）"
+            "搭巴士冇搭地鐵咁快。 (daap3 baa1 si6*2 mou5 daap3 dei6 tit3 gam3 faai3.)",
+            "搭巴士快過搭地鐵。",
+            "搭巴士冇地鐵快過。",
+            "搭巴士同地鐵一樣快。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「Ａ快過Ｂ」之等價否定句為「Ｂ冇Ａ咁快」。"
         }
       ]
     },
@@ -6015,15 +6042,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"睇書\": Which sentence is completely correct?",
+          "prompt": "【語氣理解】當朋友向你請教某項高難度技能，你回答「件事冇咁易㗎！」，此話含意為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：天氣誤用）",
-            "語序顛倒嘅非標準句式（例項：旅行錯置）",
-            "混雜生硬詞彙之不規範語句（例項：買衫未適配）"
+            "這件事情沒有想像中那麼容易 (It is not that easy!)",
+            "這件事情非常簡單容易",
+            "這件事情根本不需要做",
+            "這件事情已經徹底完成了"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「冇咁易」（mou5 gam3 ji6）意為沒有那麼容易。"
         }
       ],
       "passThreshold": 0.8
@@ -6034,53 +6061,62 @@
     "subject": "cantonese",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "比較句（過/冇/同埋） (Comparative Structures) (第4課)",
+    "title": "等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形容詞）」與「差唔多」 (Equatives & Similarity)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元14第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語等同比較句「A + 同 + B + 一樣（咁 + 形容詞）」與近似比較句「差唔多」之語法規則與靈活運用。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在表達兩者完全相同、具備同等程度屬性或大致相仿時，粵語擁有一套嚴密之等同與相似比較句式：\n\n一、等同比較句三大核心結構：\n１．全體相同：【主語Ａ ＋ 「同 / 同埋」 ＋ 對象Ｂ ＋ 「一樣」】。\n- 例如：「我部電話同你嗰部一樣」（我的手機和你的那部一樣）。\n２．具體屬性等同：【主語Ａ ＋ 「同 / 同埋」 ＋ 對象Ｂ ＋ 「一樣咁」 ＋ 形容詞】。\n- 其中「咁」強化了同等之程度感。\n- 例如：「呢間舖頭同嗰間一樣咁受歡迎」（這家店和那家店一樣受歡迎）。\n３．否定等同：【主語Ａ ＋ 「同」 ＋ 對象Ｂ ＋ 「唔同 / 唔一樣」】。\n\n二、近似相仿句型「差唔多」之靈活運用：\n１．作為謂語：【主語Ａ ＋ 「同」 ＋ 對象Ｂ ＋ 「差唔多」】（兩者差不多）。\n- 例如：「我同佢年紀差唔多」（我和他年紀差不多大）。\n２．修飾形容詞：【主語Ａ ＋ 「同」 ＋ 對象Ｂ ＋ 「差唔多咁」 ＋ 形容詞】。\n- 例如：「呢件衫同嗰件差唔多咁貴」（這件衣服和那件差不多一樣貴）。\n３．修飾數量時間：「差唔多 ＋ 數量詞」（大約、將近）。例如「差唔多十點鐘」（差不多十點鐘）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 14 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 14 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 14 in communication."
+          "target": "佢兩個雖然係雙胞胎兄弟，但係性格同興趣完全唔同。",
+          "reading": "keoi5 loeng5 go3 seoi1 jin4 hai6 soeng1 baau1 toi1 hing1 dai6, daan6 hai6 sing3 gik3 tung4 hing3 ceoi3 jyun4 cyun4 m4 tung4. [kʰɵy˩˧ lœːŋ˩˧ kɔː˧ sɵy˥ jiːn˨˩ hɐi˨ sœːŋ˥ paːu˥ tʰɔːi˥ hɪŋ˥ tɐi˨, taːn˨ hɐi˨ sɪŋ˧ kɪk̚˧ tʰʊŋ˨˩ hɪŋ˧ tsʰɵy˧ jyːn˨˩ tsʰyːn˨˩ m̩˨˩ tʰʊŋ˨˩] (KUY LEUNG-GOH SOEY-YEEN HY SEUNG-BAU-TOY HING-DY, DAHN-HY SING-GIK TOONG HING-CHOEY YUEN-CHUEN M-TOONG)",
+          "translation": "Although the two of them are twin brothers, their personalities and interests are completely different."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元14-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "新開嗰間茶餐廳同舊舖一樣咁有鑊氣，啲乾炒牛河真係一流！",
+          "reading": "san1 hoi1 go2 gaan1 caa4 caan1 teng1 tung4 gau6 pou3 jat1 joeng6 gam3 jau5 wok6 hei3, di1 gon1 caau2 ngau4 ho2*4 zan1 hai6 jat1 lau4! [sɐn˥ hɔːi˥ kɔː˧˥ kaːn˥ tsʰaː˨˩ tsʰaːn˥ tʰɛːŋ˥ tʰʊŋ˨˩ kɐu˨ pʰou˧ jɐt̚˥ jœːŋ˨ kɐm˧ jɐu˩˧ wɔːk̚˨ hei˧, tiː˥ kɔːn˥ tsʰaːu˧˥ ŋɐu˨˩ hɔː˨˩ tsɐn˥ hɐi˨ jɐt̚˥ lɐu˨˩!] (SUN-HOI GOH-GAHN CHAH-CHAAN-TENG TOONG GAU-POU YUT-YEUNG GUM YAU-WOK-HEY, DEE GOHN-CHAU NGAU-HOR JUN-HY YUT-LAU!)",
+          "translation": "The newly opened cha chaan teng is just as full of wok hei as the old shop; the dry-fried beef hor fun is truly first-class!"
+        },
+        {
+          "target": "我同陳經理入職嘅時間差唔多，所以大家平時好啱傾。",
+          "reading": "ngo5 tung4 can4 ging1 lei5 jap6 zik1 ge3 si4 gaan1 caa1 m4 do1, so2 ji5 daai6 gaa1 ping4 si4 hou2 aam1 king1. [ŋɔː˩˧ tʰʊŋ˨˩ tsʰɐn˨˩ kɪŋ˥ lei˩˧ jɐp̚˨ tsɪk̚˨ kɛː˧ siː˨˩ kaːn˥ tsʰaː˥ m̩˨˩ tɔː˥, sɔː˧˥ jiː˩˧ taːi˨ kaː˥ pʰɪŋ˨˩ siː˨˩ hou˧˥ aːm˥ kʰɪŋ˥] (NGOH TOONG CHUN-GING-LY YUP-JIK GEH SEE-GAHN CHAH-M-DOH, SOH-YEE DY-GAH PING-SEE HOH-AHM-KING)",
+          "translation": "Manager Chan and I joined the company at roughly the same time, so we get along very well and chat easily."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【等同相似歌】兩者一樣「同埋」連，一樣咁好一樣甜；若然相差唔算遠，「差唔多」字掛嘴邊！"
+      ],
+      "culturalNotes": [
+        "「鑊氣」（wok hei）係粵菜烹飪之靈魂境界，指食材在高溫鐵鑊中快速翻炒激發出之焦香與鑊香。評價一間新茶餐廳「同舊舖一樣咁有鑊氣」，係廣東食客對廚師技藝之崇高讚譽。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"旅行\":",
+          "prompt": "【等同句式】在粵語中表達「這部手機和那部一樣貴」，正確之句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：買衫錯置）",
-            "混雜生硬詞彙之不規範語句（例項：天氣未適配）",
-            "聲調助詞搭配欠妥之表達（例項：落雨誤用）"
+            "呢部手機同嗰部一樣咁貴。 (ni1 bou6 sau2 gei1 tung4 go2 bou6 jat1 joeng6 gam3 gwai3.)",
+            "呢部手機一樣貴過嗰部。",
+            "呢部手機同嗰部貴一樣。",
+            "呢部手機比嗰部一樣貴。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "屬性等同比較句結構為「Ａ＋同＋Ｂ＋一樣咁＋形容詞」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"旅行\":",
+          "prompt": "【相仿表達】欲表達「我和他年齡相仿、差不多大」，地道口語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：天氣未適配）",
-            "聲調助詞搭配欠妥之表達（例項：落雨誤用）",
-            "語序顛倒嘅非標準句式（例項：買衫錯置）"
+            "我同佢年紀差唔多。 (ngo5 tung4 keoi5 nin4 gei2 caa1 m4 do1.)",
+            "我同佢年紀差不多過。",
+            "我比佢年紀差唔多大。",
+            "我過佢年紀差唔多。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「差唔多」（caa1 m4 do1）作為謂語表示大體相仿、相差無幾。"
         }
       ]
     },
@@ -6088,15 +6124,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"旅行\": Which sentence is completely correct?",
+          "prompt": "【否定判斷】句子「我嘅意見同你完全唔同」之確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：落雨誤用）",
-            "語序顛倒嘅非標準句式（例項：買衫錯置）",
-            "混雜生硬詞彙之不規範語句（例項：天氣未適配）"
+            "我的意見和你的完全不一樣 / 大相徑庭 (My opinion is completely different from yours)",
+            "我的意見和你的完全一致",
+            "我沒有任何意見",
+            "我非常贊成你的觀點"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「唔同」（m4 tung4）在粵語中表示不同、不一樣。"
         }
       ],
       "passThreshold": 0.8
@@ -6107,53 +6143,62 @@
     "subject": "cantonese",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "比較句（過/冇/同埋） (Comparative Structures) (第5課)",
+    "title": "最高級與極致程度句式：「最 + 形容詞」、「形容詞 + 到極 / 頂透」、「數一數二」 (Superlatives & Extreme Degree)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元14第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在完成兩者比較之後，晉階表達全體中最突出之「最高級」或「極致程度」時，粵語展現出極富表現力之詞彙與補語體系：\n\n一、最高級句式：【「最」 ＋ 形容詞 / 心理動詞】\n１．「最抵買 / 最抵食」：性價比最高、最實惠超值。\n２．「最受歡迎」：人氣最旺、大眾評價最高。\n３．「最中意 / 最鍾意」：最喜愛、最偏愛。\n\n二、極致程度後置補語（形容詞＋程度標記）：\n１．「形容詞 ＋ 到極」：達到極點、無以復加。例如「開心到極」（高興到了極點）、「悶到極」（無聊透頂）。\n２．「形容詞 ＋ 頂透」：達到頂峰極限。例如「抵到頂透」（划算到了極致）。\n３．「形容詞 ＋ 到震」：程度劇烈令人震撼。例如「靚到震」（美艷絕倫震撼人心）、「凍到震」（冷得直打哆嗦）。\n\n三、綜合卓越評價成語與口語：\n１．「數一數二」：在同類中名列第一或第二。\n２．「一流」：品質頂級無可挑剔。\n３．「冇得頂 / 冇得輸」：好得無可比擬、絕不可能失敗遜色。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 14 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 14 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 14 in communication."
+          "target": "呢間海鮮酒家嘅避風塘炒蟹喺全香港數一數二，味道真係冇得頂！",
+          "reading": "ni1 gaan1 hoi2 sin1 zau2 gaa1 ge3 bei6 fung1 tong4 caau2 haai5 hai2 cyun4 hoeng1 gong2 sou2 jat1 sou2 ji6, mei6 dou6 zan1 hai6 mou5 dak1 ding2! [niː˥ kaːn˥ hɔːi˧˥ siːn˥ tsɐu˧˥ kaː˥ kɛː˧ pei˨ fʊŋ˥ tʰɔːŋ˨˩ tsʰaːu˧˥ haːi˩˧ hɐi˩˧ tsʰyːn˨˩ hœːŋ˥ kɔːŋ˧˥ sou˧˥ jɐt̚˥ sou˧˥ jiː˨, mei˨ tou˨ tsɐn˥ hɐi˨ mou˩˧ tɐk̚˥ tɪŋ˧˥!] (NEE-GAHN HOY-SEEN JAU-GAH GEH BAY-FOONG-TONG CHAU-HY HY CHUEN HEUNG-GONG SOU-YUT SOU-YEE, MAY-DOU JUN-HY MOU-DUK-DING!)",
+          "translation": "The typhoon shelter fried crab of this seafood restaurant is among the best one or two in all of Hong Kong; the taste is truly unbeatable!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元14-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "年尾商場大減價，所有名牌服裝買一送一，真係平到極、抵到頂透呀！",
+          "reading": "nin4 mei5 soeng1 coeng4 daai6 gaam2 gaa3, so2 jau5 ming4 paai4 fuk6 zong1 maai5 jat1 sung3 jat1, zan1 hai6 peng4 dou3 gik6, dai2 dou3 ding2 tau3 aa3! [niːn˨˩ mei˩˧ sœːŋ˥ tsʰœːŋ˨˩ taːi˨ kaːm˧˥ kaː˧, sɔː˧˥ jɐu˩˧ mɪŋ˨˩ pʰaːi˨˩ fʊk̚˨ tsɔːŋ˥ maːi˩˧ jɐt̚˥ sʊŋ˧ jɐt̚˥, tsɐn˥ hɐi˨ pʰɛːŋ˨˩ tou˧ kɪk̚˨, tɐi˧˥ tou˧ tɪŋ˧˥ tʰɐu˧ aː˧!] (NEEN-MAY SEUNG-CHEUNG DY-GAHM-GAH, SOH-YAU MING-PY FOOK-JONG MY-YUT SOONG-YUT, JUN-HY PENG-DOU-GIK, DY-DOU-DING-TAU AH!)",
+          "translation": "The year-end shopping mall massive sale features buy-one-get-one-free on all designer clothes; it is truly dirt cheap and utmost value for money!"
+        },
+        {
+          "target": "今日太平山頂嘅夜景靚到震，成個維多利亞港燈火通明，美不勝收。",
+          "reading": "gam1 jat6 taai3 ping4 saan1 deng2 ge3 je6 ging2 leng3 dou3 zan3, seng4 go3 wai4 do1 lei6 aa3 gong2 dang1 fo2 tung1 ming4, mei5 bat1 sing1 sau1. [kɐm˥ jɐt˨ tʰaːi˧ pʰɪŋ˨˩ saːn˥ tɛːŋ˧˥ kɛː˧ jɛː˨ kɪŋ˧˥ lɛːŋ˧ tou˧ tsɐn˧, sɛːŋ˨˩ kɔː˧ wɐi˨˩ tɔː˥ lei˨ aː˧ kɔːŋ˧˥ tɐŋ˥ fɔː˧˥ tʰʊŋ˥ mɪŋ˨˩, mei˩˧ pɐt̚˥ sɪŋ˥ sɐu˥] (GUM-YUT TY-PING-SAHN-DENG GEH YEH-GING LENG-DOU-JUN, SENG-GOH WY-DOH-LEY-AH-GONG DUNG-FOH TOONG-MING, MAY-BUT-SING-SAU)",
+          "translation": "The night view from Victoria Peak today is stunningly gorgeous; the entire Victoria Harbour is brilliantly illuminated, breathtakingly beautiful."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【極致稱讚歌】全場之冠用個「最」，抵食抵買「到頂透」；維港夜景「靚到震」，無可挑剔「冇得頂」！"
+      ],
+      "culturalNotes": [
+        "「冇得頂」（好得無可挑剔、無與倫比）與「冇得輸」（穩操勝券、絕不落後）係香港極富代表性之讚賞口頭禪。在飲食、購物與文娛評價中，香港人喜用帶有強烈感染力之極致補語抒發由衷讚嘆。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"買衫\":",
+          "prompt": "【極致補語】在粵語中欲極度讚賞某物「美艷震撼到了極點」，地道之形容詞搭配係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：天氣錯置）",
-            "混雜生硬詞彙之不規範語句（例項：落雨未適配）",
-            "聲調助詞搭配欠妥之表達（例項：出太陽誤用）"
+            "靚到震 (leng3 dou3 zan3 / Stunningly gorgeous)",
+            "靚到坐",
+            "靚到跑",
+            "靚到跳"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「靚到震」（leng3 dou3 zan3）指美麗到令人心靈震撼之極致程度。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"買衫\":",
+          "prompt": "【極致稱讚】在香港粵語中，讚美食物或服務好到無可挑剔、頂級絕妙，最經典之俚語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：落雨未適配）",
-            "聲調助詞搭配欠妥之表達（例項：出太陽誤用）",
-            "語序顛倒嘅非標準句式（例項：天氣錯置）"
+            "冇得頂！ (mou5 dak1 ding2! / Unbeatable!)",
+            "冇得食！",
+            "冇得睇！",
+            "冇得行！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「冇得頂」（mou5 dak1 ding2）意為好到了極點、頂級絕妙。"
         }
       ]
     },
@@ -6161,15 +6206,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"買衫\": Which sentence is completely correct?",
+          "prompt": "【成語語義】在粵語評價中稱讚某餐廳的菜式「喺全香港數一數二」，其確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第14課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：出太陽誤用）",
-            "語序顛倒嘅非標準句式（例項：天氣錯置）",
-            "混雜生硬詞彙之不規範語句（例項：落雨未適配）"
+            "在全香港名列前茅、頂尖一流 (Top-ranking / One of the very best)",
+            "全香港只有一到兩個人吃過",
+            "全香港只開了一家到兩家分店",
+            "價格在全香港排名倒數第一"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「數一數二」指在同行或同類事物中名列前茅、數一數二。"
         }
       ],
       "passThreshold": 0.8
