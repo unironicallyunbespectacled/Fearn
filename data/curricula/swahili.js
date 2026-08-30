@@ -2535,53 +2535,62 @@
     "subject": "swahili",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 1)",
+    "title": "Muundo wa Wakati Timilifu (-me-) na Maana Yake (Morphology & Semantics of the -me- Perfective)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.1) with authentic precision.",
+    "objective": "Kuelewa muundo na maana ya Wakati Timilifu (Perfective Aspect) wenye kiambishi '-me-': kuonyesha tendo lililokamilika hivi karibuni na ambalo matokeo au athari zake zinadumu hadi wakati wa sasa.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muundo na Maana ya Wakati Timilifu katika Kiswahili (The -me- Perfective Aspect):\n\n1. **Dhana ya Wakati Timilifu (The Perfective Aspect -me-)**:\n   - Kiambishi **-me-** kinaonyesha kuwa tendo **limekwishatendeka na kukamilika** (Completed Action), lakini matokeo yake bado yapo wazi na yanaathiri wakati uliopo (Present Relevance / Resultative State).\n   - Tofauti na *-li-* (iliyopita na kusahaulika), *-me-* inasisitiza **hali ya sasa iliyotokana na tendo hilo**.\n\n2. **Mnyambuliko wa Nafsi Zote Sita (Conjugation Paradigm)**:\n   - *Mimi* (I): **ni-** + **me-** + **soma** -> **nimesoma** (I have read / I have studied)\n   - *Wewe* (You sg): **u-** + **me-** + **fika** -> **umefika** (You have arrived)\n   - *Yeye* (He/She): **a-** + **me-** + **ondoka** -> **ameondoka** (He/She has departed)\n   - *Sisi* (We): **tu-** + **me-** + **faulu** -> **tumefaulu** (We have succeeded/passed)\n   - *Ninyi* (You pl): **m-** + **me-** + **kamilisha** -> **mmekamilisha** (You all have completed)\n   - *Wao* (They): **wa-** + **me-** + **anza** -> **wameanza** (They have begun)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 6."
+          "target": "Mimi nimesoma kitabu chote na sasa ninaelewa maudhui yake vizuri.",
+          "reading": "Mi-mi ni-me-so-ma ki-ta-bu cho-te na sa-sa ni-na-e-le-wa ma-u-dhu-i ya-ke vi-zu-ri. [ˈmimi nimɛˈsɔmɑ kiˈtɑbu ˈtʃɔtɛ nɑ ˈsɑsɑ ninɑɛlɛˈwɑ mɑuˈðui ˈjɑkɛ viˈzuri] (MEE-mee nee-may-SOH-mah kee-TAH-boo CHOH-tay nah SAH-sah nee-nah-ay-lay-WAH mah-oo-THOO-ee YAH-kay vee-ZOO-ree)",
+          "translation": "I have read [perfective 1st person: nimesoma] the entire book and now I understand [present state: ninaelewa] its theme well."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 6-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wageni wamefika nyumbani salama na wamekaribishwa sebuleni.",
+          "reading": "Wa-ge-ni wa-me-fi-ka nyu-mba-ni sa-la-ma na wa-me-ka-ri-bi-shwa se-bu-le-ni. [wɑˈɡɛni wɑmɛˈfikɑ ɲumbɑˈni sɑˈlɑmɑ nɑ wɑmɛkɑribiˈʃwɑ sɛbuˈlɛni] (wah-GAY-nee wah-may-FEE-kah nyoom-bah-NEE sah-LAH-mah nah wah-may-kah-ree-BEE-shwah say-boo-LAY-nee)",
+          "translation": "Guests have arrived [perfective 3rd plural: wamefika] home safely and have been welcomed [perfective passive: wamekaribishwa] into the living room."
+        },
+        {
+          "target": "Sisi tumekamilisha kazi zetu zote za leo na tuko tayari kupumzika.",
+          "reading": "Si-si tu-me-ka-mi-li-sha ka-zi ze-tu zo-te za le-o na tu-ko ta-ya-ri ku-pu-mzi-ka. [ˈsisi tumɛkɑmiˈliʃɑ ˈkɑzi ˈzɛtu ˈzɔtɛ zɑ ˈlɛɔ nɑ ˈtukɔ tɑˈjɑri kupumˈzikɑ] (SEE-see too-may-kah-mee-LEE-shah KAH-zee ZAY-too ZOH-tay zah LAY-oh nah TOO-koh tah-YAH-ree koo-poom-ZEE-kah)",
+          "translation": "We have completed [perfective 1st plural: tumekamilisha] all our work for today and are ready to rest."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Wakati Timilifu: Kiambishi cha Tayari ni -ME- (ni-ME-fanya, u-ME-fika, a-ME-ondoka, tu-ME-kamilisha, m-ME-ona, wa-ME-anza)!"
+      ],
+      "culturalNotes": [
+        "Wakati timilifu hutumika mara kwa mara katika utamaduni wa ukarimu wa Kiswahili kupokea wageni: 'Karibuni, chakula kimeiva!' (Welcome, food is cooked/ready!)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Tiketi\":",
+          "prompt": "Sentensi sahihi inayoelezea nafsi ya kwanza wingi (Sisi) katika wakati timilifu wa kitenzi 'faulu' ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kituo»",
-            "Mpangilio usio sahihi wa viambishi katika «Uwanja wa ndege»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Barabara»"
+            "Sisi tumefaulu mtihani wetu vizuri. (We have passed our exam well - Correct 1st person plural perfective 'tu-me-faulu')",
+            "Sisi ninamefaulu mtihani wetu vizuri (Mchanganyiko usio sahihi wa viambishi)",
+            "Sisi wamefaulu mtihani wetu vizuri (Kosa la nafsi ya tatu)",
+            "Sisi amefaulu mtihani wetu vizuri (Kosa la umoja)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kiambishi nafsi cha «Sisi» ni «tu-» kikiungana na kiambishi cha wakati timilifu «-me-» kupata «tumefaulu»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Tiketi\":",
+          "prompt": "Mgeni anapobisha hodi na kuingia ndani ya nyumba sasa hivi, unamtaarifu mwenye nyumba kwa kauli ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Uwanja wa ndege»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Barabara»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kituo»"
+            "Mgeni amefika sasa hivi na yuko mlangoni. (The guest has arrived just now and is at the door - Accurate perfective announcement)",
+            "Mgeni atafika jana jioni (Mchanganyiko wa wakati ujao na 'jana')",
+            "Mgeni walifika kesho asubuhi (Kosa la upatanisho na wakati)",
+            "Mgeni nimefika nyumbani kwako (Kosa la kiambishi nafsi)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kwa tendo lililokamilika sasa lenye matokeo ya moja kwa moja, hutumika wakati timilifu: «Mgeni amefika»."
         }
       ]
     },
@@ -2589,17 +2598,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Tiketi\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni inayotofautisha Wakati Timilifu (-me-) na Wakati Uliopita (-li-) katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Barabara»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kituo»",
-            "Mpangilio usio sahihi wa viambishi katika «Uwanja wa ndege»"
+            "Kiambishi '-me-' kinaonyesha tendo lililokamilika lakini athari au matokeo yake yapo wazi wakati wa sasa, wakati '-li-' linaeleza tendo la zamani lililopita. (Prefix -me- indicates a completed action with present relevance/state, while -li- expresses simple past.)",
+            "Kiambishi '-me-' kinatumika tu kwa chakula na si kwa binadamu.",
+            "Wakati timilifu unakataza matumizi ya viambishi nafsi.",
+            "Hakuna tofauti yoyote ya maana kati ya '-me-' na '-li-'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kiambishi '-me-' kinaonyesha tendo lililokamilika lakini athari au matokeo yake yapo wazi wakati wa sasa, wakati '-li-' linaeleza tendo la zamani lililopita.» ndiyo kanuni kuu ya kisemantiki."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u6-l2": {
@@ -2607,53 +2617,62 @@
     "subject": "swahili",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 2)",
+    "title": "Vitenzi vya Hali na Matokeo katika Wakati Timilifu (Stative Verbs with -me-: Kuchoka, Kushiba, Kulala, Kulewa)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.2) with authentic precision.",
+    "objective": "Kutambua tabia ya kipekee ya vitenzi vya hali (Stative / Inchoative Verbs: kuchoka, kushiba, kulala, kuvaa, kufurahi) ambavyo katika wakati timilifu (-me-) hueleza hali iliyopo sasa badala ya wakati uliopita pekee.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitenzi vya Hali katika Wakati Timilifu (Stative & Inchoative Verbs in -me-):\n\n1. **Dhana ya Vitenzi vya Hali (Inchoative / State Verbs)**:\n   - Katika Kiswahili, baadhi ya vitenzi vinavyoelezea **mchakato wa kuingia katika hali fulani** vinapotumiwa na **-me-**, vinatafsiriwa kama **hali ya sasa hivi** (Present State):\n     - *choka* (become tired) -> **nimechoka** (I am currently tired) [siyo *ninachoka* ambayo humaanisha mchakato unaoendelea]\n     - *shiba* (become full with food) -> **nimeshiba** (I am full / satisfied)\n     - *lala* (fall asleep) -> **amelala** (he is asleep / sleeping)\n     - *simama* (stand up) -> **amesimama** (she is standing)\n     - *keti / kaa* (sit down) -> **amekaa** (he is seated / sitting)\n     - *vaa* (put on clothes) -> **amevaa** (she is wearing / dressed in)\n     - *furahi* (become happy) -> **tumefurahi** (we are happy / delighted)\n     - *elewa* (comprehend) -> **nimeelewa** (I understand)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 6."
+          "target": "Nimeshiba sana baada ya kula chakula kitamu cha mchana na sasa ninataka maji.",
+          "reading": "Ni-me-shi-ba sa-na ba-a-da ya ku-la cha-ku-la ki-ta-mu cha mcha-na na sa-sa ni-na-ta-ka ma-ji. [nimɛˈʃibɑ ˈsɑnɑ bɑˈɑdɑ jɑ ˈkulɑ tʃɑˈkulɑ kiˈtɑmu tʃɑ mˈtʃɑnɑ nɑ ˈsɑsɑ ninɑˈtɑkɑ ˈmɑʤi] (nee-may-SHEE-bah SAH-nah bah-AH-dah yah KOO-lah chah-KOO-lah kee-TAH-moo chah M-CHAH-nah nah SAH-sah nee-nah-TAH-kah MAH-jee)",
+          "translation": "I am full [stative present state: nimeshiba] after eating a delicious lunch and now I want water."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 6-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mzee amechoka baada ya kutembea mwendo mrefu na amelala kitandani kupumzika.",
+          "reading": "Mze-e a-me-cho-ka ba-a-da ya ku-te-mbe-a mwe-ndo mre-fu na a-me-la-la ki-ta-nda-ni ku-pu-mzi-ka. [mˈzɛː ɑmɛˈtʃɔkɑ bɑˈɑdɑ jɑ kutɛmbɛˈlɛɑ ˈmwɛndɔ mˈrɛfu nɑ ɑmɛˈlɑlɑ kitɑndɑˈni kupumˈzikɑ] (M-ZAY ah-may-CHOH-kah bah-AH-dah yah koo-tahm-bay-LAY-ah MWAYN-doh M-RAY-foo nah ah-may-LAH-lah kee-tahn-dah-NEE koo-poom-ZEE-kah)",
+          "translation": "The elder is tired [stative state: amechoka] after walking a long distance and is asleep [stative state: amelala] in bed resting."
+        },
+        {
+          "target": "Mwalimu amevaa mavazi nadhifu ya kitamaduni na amefurahi kuwaona wanafunzi wake.",
+          "reading": "Mwa-li-mu a-me-va-a ma-va-zi na-dhi-fu ya ki-ta-ma-du-ni na a-me-fu-ra-hi ku-wa-o-na wa-na-fu-nzi wa-ke. [mwɑˈlimu ɑmɛˈvɑː mɑˈvɑzi nɑˈðifu jɑ kitɑmɑˈduni nɑ ɑmɛfuˈrɑhi kuwɑˈɔnɑ wɑnɑˈfunzi ˈwɑkɛ] (mwah-LEE-moo ah-may-VAH-ah mah-VAH-zee nah-THEE-foo yah kee-tah-mah-DOO-nee nah ah-may-foo-RAH-hee koo-wah-OH-nah wah-nah-FOON-zee WAH-kay)",
+          "translation": "The teacher is wearing [stative state: amevaa] neat traditional clothes and is glad [stative state: amefurahi] to see his students."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Hali na -ME-: Hali ya sasa: Nimeshiba (I am full), Nimechoka (I am tired), Amelala (He is asleep), Amekaa (He is seated)!"
+      ],
+      "culturalNotes": [
+        "Mgeni anapokaribishwa chakula zaidi ya uwezo wake, usemi wa adabu ni: 'Asante sana, nimeshiba Alhamdulillah' (Thank you very much, I am completely full)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kituo\":",
+          "prompt": "Unapotaka kusema kwa Kiswahili fasaha kwamba \"Umeshiba na huwezi kula tena sasa hivi\", unatumia kauli gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uwanja wa ndege»",
-            "Mpangilio usio sahihi wa viambishi katika «Barabara»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mji»"
+            "Nimeshiba sana asante. (I am very full, thank you - Correct stative perfective expression of being sated)",
+            "Ninashiba sasa hivi (Inaonyesha mchakato unaoendelea wa kula badala ya hali ya kushiba)",
+            "Nalishiba jana usiku (Kauli isiyo sanifu)",
+            "Nitashiba kesho asubuhi (Wakati ujao)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «shiba» katika wakati timilifu «nimeshiba» kinamaanisha kuwa uko katika hali ya kushiba hivi sasa."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kituo\":",
+          "prompt": "Sentensi ipi inaeleza kwa usahihi hali ya mtu aliyelala kitandani sasa hivi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Barabara»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uwanja wa ndege»"
+            "Mtoto amelala usingizi mnono kitandani. (The child is asleep in deep slumber in bed - Accurate stative use of -lala)",
+            "Mtoto analala jana usiku (Kosa la wakati)",
+            "Mtoto alilala kesho mchana (Mchanganyiko usio na mantiki)",
+            "Mtoto kitalala kitandani sasa (Kosa la upatanisho wa ngeli)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Usemi «amelala» unaeleza hali ya mtoto kuwa usingizini wakati huu."
         }
       ]
     },
@@ -2661,17 +2680,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kituo\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha ya vitenzi vya hali (stative verbs) vinavyotafsiriwa kama hali ya sasa vinapochukua kiambishi '-me-':",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mji»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uwanja wa ndege»",
-            "Mpangilio usio sahihi wa viambishi katika «Barabara»"
+            "kuchoka (nimechoka = I am tired), kushiba (nimeshiba = I am full), kulala (amelala = he is asleep), kuvaa (amevaa = she is wearing).",
+            "kukimbia, kuruka, kuandika, kusoma vitabu.",
+            "kuimba, kupiga picha, kuhesabu, kuchora picha.",
+            "kufungua, kufunga, kupanda, kushuka."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya kuingia katika hali kama kuchoka, kushiba, kulala na kuvaa ndivyo vinavyotoa maana ya hali ya sasa vikiwa na «-me-»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u6-l3": {
@@ -2679,53 +2699,62 @@
     "subject": "swahili",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 3)",
+    "title": "Vitenzi vya Silabi Moja katika Wakati Timilifu (Monosyllabic Verbs with -me-: Kula, Kunywa, Kuja, Kwenda)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.3) with authentic precision.",
+    "objective": "Kutambua jinsi vitenzi vyenye shina la silabi moja (kula, kunywa, kuja, kwenda) vinavyohifadhi kiambishi cha 'ku-' katika wakati timilifu (-me-) ili kulinda muundo wa kifonolojia wa neno.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitenzi vya Silabi Moja katika Wakati Timilifu (Monosyllabic Verbs in -me-):\n\n1. **Kuhifadhi Kiambishi 'ku-' katika Wakati Timilifu**:\n   - Vitenzi vya silabi moja **huvumilia na kubakiza kiambishi 'ku-'** vikiambatana na **-me-**:\n     - *-la* (eat) -> *ni-me-**ku**-la* -> **nimekula** (I have eaten)\n     - *-nywa* (drink) -> *a-me-**ku**-nywa* -> **amekunywa** (he has drunk)\n     - *-ja* (come) -> *wa-me-**ku**-ja* -> **wamekuja** (they have come)\n     - *-enda* (go) -> *tu-me-**kwe**-nda* -> **tumekwenda** (we have gone)\n     - *-fa* (die) -> *a-me-**ku**-fa* -> **amekufa** (he has died / passed away)\n     - *-wa* (be/become) -> *wa-me-**ku**-wa* -> **wamekuwa** (they have become)\n\n2. **Mifano Katika Mawasiliano ya Kila Siku**:\n   - *Je, umekula chakula? - Ndiyo, nimekula tayari.* (Have you eaten food? - Yes, I have already eaten.)\n   - *Wageni wamekuja kutoka Nairobi.* (Guests have come from Nairobi.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 6."
+          "target": "Sisi tumekula ugali wa sembe na wageni wamekunywa chai ya maziwa.",
+          "reading": "Si-si tu-me-ku-la u-ga-li wa se-mbe na wa-ge-ni wa-me-ku-nywa cha-i ya ma-zi-wa. [ˈsisi tumɛˈkulɑ uˈɡɑli wɑ ˈsɛmbɛ nɑ wɑˈɡɛni wɑmɛˈkuɲwɑ ˈtʃɑi jɑ mɑˈziwɑ] (SEE-see too-may-KOO-lah oo-GAH-lee wah SAYM-bay nah wah-GAY-nee wah-may-KOO-nywah CHAH-ee yah mah-ZEE-wah)",
+          "translation": "We have eaten [perfective monosyllabic: tumekula] corn ugali and guests have drunk [perfective monosyllabic: wamekunywa] milk tea."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 6-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Marafiki zangu wamekuja mjini na wamekwenda kutembelea makumbusho ya taifa.",
+          "reading": "Ma-ra-fi-ki za-ngu wa-me-ku-ja mji-ni na wa-me-kwe-nda ku-te-mbe-le-a ma-ku-mbu-sho ya ta-i-fa. [mɑrɑˈfiki ˈzɑŋɡu wɑmɛˈkuʤɑ ˈmʤini nɑ wɑmɛˈkwɛndɑ kutɛmbɛˈlɛɑ mɑkumbuˈʃɔ jɑ tɑˈifɑ] (mah-rah-FEE-kee ZAHN-goo wah-may-KOO-jah M-jee-nee nah wah-may-KWAYN-dah koo-tahm-bay-LAY-ah mah-koom-BOO-shoh yah tah-EE-fah)",
+          "translation": "My friends have come [perfective monosyllabic: wamekuja] to town and have gone [perfective monosyllabic: wamekwenda] to visit the national museum."
+        },
+        {
+          "target": "Mtoto mdogo amekula ndizi mbivu na amekunywa maziwa yote glisini.",
+          "reading": "Mto-to mdo-go a-me-ku-la ndi-zi mbi-vu na a-me-ku-nywa ma-zi-wa yo-te gli-si-ni. [ˈmtɔtɔ mˈdɔɡɔ ɑmɛˈkulɑ ˈndizi ˈmbivu nɑ ɑmɛˈkuɲwɑ mɑˈziwɑ ˈjɔtɛ ɡliˈsini] (M-TOH-toh M-DOH-goh ah-may-KOO-lah N-DEE-zee M-BEE-voo nah ah-may-KOO-nywah mah-ZEE-wah YOH-tay glee-SEE-nee)",
+          "translation": "The small child has eaten [perfective monosyllabic: amekula] a ripe banana and has drunk [perfective monosyllabic: amekunywa] all the milk in the glass."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Silabi Moja na -ME-: 'Ku-' haifutiki kamwe: nimekula, amekunywa, wamekuja, tumekwenda!"
+      ],
+      "culturalNotes": [
+        "Makumbusho ya Taifa ya Dar es Salaam na kijiji cha Makumbusho (Village Museum) yanahifadhi historia ya asili ya binadamu (Olduvai Gorge) na tamaduni za makabila zaidi ya 120 ya Tanzania."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Uwanja wa ndege\":",
+          "prompt": "Chagua kitenzi sahihi cha wakati timilifu kinachomaanisha \"Yeye amekula chakula\":",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Barabara»",
-            "Mpangilio usio sahihi wa viambishi katika «Mji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Duka»"
+            "amekula (He/She has eaten - Correct retention of 'ku-' in perfective aspect for stem -la)",
+            "amela (Kosa la kuangusha kiambishi 'ku-')",
+            "amelia (Kitenzi cha kulia machozi badala ya kula)",
+            "ametoka (Kitenzi cha kutoka nje)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «-la» katika wakati timilifu hubakiza «ku-», hivyo huwa «amekula»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Uwanja wa ndege\":",
+          "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja katika wakati timilifu kwa usahihi kabisa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Mji»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Duka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Barabara»"
+            "Wageni wamekuja nyumbani kwetu na wamekunywa juisi baridi. (Guests have come to our home and drunk cold juice - Flawless perfective monosyllabic syntax)",
+            "Wageni wameja nyumbani na wamenywa juisi (Kosa la kuondoa 'ku-')",
+            "Wageni wamekuja jana badala ya leo (Kosa la kutumia wakati timilifu kwa tukio la jana)",
+            "Wageni watakuja jana jioni (Kosa kubwa la wakati)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Muundo sanifu wa vitenzi vya silabi moja katika wakati timilifu ni «wamekuja» na «wamekunywa»."
         }
       ]
     },
@@ -2733,17 +2762,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Uwanja wa ndege\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni sahihi kuhusu vitenzi vya silabi moja katika wakati timilifu (-me-):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Duka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Barabara»",
-            "Mpangilio usio sahihi wa viambishi katika «Mji»"
+            "Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati timilifu (nimekula, amekunywa, wamekuja, tumekwenda). (Monosyllabic verbs retain 'ku-' in the -me- perfective aspect.)",
+            "Kiambishi 'ku-' hufutwa kila wakati katika wakati timilifu.",
+            "Vitenzi vya silabi moja havina wakati timilifu.",
+            "Kiambishi 'ku-' hubadilika kuwa 'ki-' katika wakati timilifu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati timilifu (nimekula, amekunywa, wamekuja, tumekwenda).» ndiyo kanuni sahihi ya sarufi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u6-l4": {
@@ -2751,53 +2781,62 @@
     "subject": "swahili",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 4)",
+    "title": "Upatanisho wa Ngeli Mbalimbali katika Wakati Timilifu (Noun Class Concord with -me-)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.4) with authentic precision.",
+    "objective": "Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino (KI-VI, M-MI, JI-MA, N-N) katika wakati timilifu (-me-) na jinsi viambishi ngeli vinavyounda sentensi zenye utangamano.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli Tofauti katika Wakati Timilifu (Concord across Noun Classes with -me-):\n\n1. **Ngeli ya KI-VI (Classes 7/8)**:\n   - Umoja (**ki-**): *Chakula **ki**meiva.* (The food is cooked/ready.)\n   - Wingi (**vi-**): *Viti **vi**mevunjika.* (The chairs are broken.)\n   - *Kikombe **ki**meanguka.* / *Vikombe **vi**meanguka.*\n\n2. **Ngeli ya M-MI (Classes 3/4)**:\n   - Umoja (**u-**): *Mti **u**meanguka.* (The tree has fallen.)\n   - Wingi (**i-**): *Miti **i**mekua.* (Trees have grown.)\n   - *Mto **u**mefurika.* (The river has flooded.) / *Mito **i**mefurika.*\n\n3. **Ngeli ya JI-MA (Classes 5/6)**:\n   - Umoja (**li-**): *Gari **li**meharibika.* (The car has broken down.)\n   - Wingi (**ya-**): *Matunda **ya**meiva.* (Fruits are ripe.)\n   - *Jiko **li**mezimika.* / *Majiko **ya**mezimika.*\n\n4. **Ngeli ya N-N (Classes 9/10)**:\n   - Umoja (**i-**): *Nyumba **i**mekamilika.* (The house is completed.)\n   - Wingi (**zi-**): *Ndege **zi**metua.* (Airplanes have landed.)\n   - *Barua **i**mefika.* / *Barua **zi**mefika.*",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 6."
+          "target": "Chakula cha jioni kimeiva jikoni na matunda yote yameiva mtini.",
+          "reading": "Cha-ku-la cha ji-o-ni ki-me-i-va ji-ko-ni na ma-tu-nda yo-te ya-me-i-va mti-ni. [tʃɑˈkulɑ tʃɑ ʤiˈɔni kimɛˈivɑ ʤiˈkɔni nɑ mɑˈtundɑ ˈjɔtɛ jɑmɛˈivɑ mtiˈni] (chah-KOO-lah chah jee-OH-nee kee-may-EE-vah jee-KOH-nee nah mah-TOON-dah YOH-tay yah-may-EE-vah m-tee-NEE)",
+          "translation": "Dinner has cooked [class 7 KI-VI: kimeiva] in the kitchen and all fruits are ripe [class 6 JI-MA: yameiva] on the tree."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 6-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Gari letu limeharibika njiani lakini basi la abiria limewasili kwa wakati.",
+          "reading": "Ga-ri le-tu li-me-ha-ri-bi-ka njia-ni la-ki-ni ba-si la a-bi-ri-a li-me-wa-si-li kwa wa-ka-ti. [ˈɡɑri ˈlɛtu limɛhɑriˈbikɑ ˈnʤiɑni lɑˈkini ˈbɑsi lɑ ɑbiˈriɑ limɛwɑˈsili kwɑ wɑˈkɑti] (GAH-ree LAY-too lee-may-hah-ree-BEE-kah n-jee-AH-nee lah-KEE-nee BAH-see lah ah-bee-REE-ah lee-may-wah-SEE-lee kwah wah-KAH-tee)",
+          "translation": "Our car has broken down [class 5 JI-MA: limeharibika] on the way, but the passenger bus has arrived [class 5 JI-MA: limewasili] on time."
+        },
+        {
+          "target": "Nyumba mpya zimekamilika kujengwa na mito mikubwa imefurika maji.",
+          "reading": "Nyu-mba mpy-a zi-me-ka-mi-li-ka ku-je-ngwa na mi-to mi-kbu-wa i-me-fu-ri-ka ma-ji. [ˈɲumbɑ ˈmpjɑ zimɛkɑmiˈlikɑ kuˈʤɛŋɡwɑ nɑ ˈmitɔ miˈkubwɑ imɛfuˈrikɑ ˈmɑʤi] (NYOOM-bah M-PYAH zee-may-kah-mee-LEE-kah koo-JAYN-gwah nah MEE-toh mee-KOO-bwah ee-may-foo-REE-kah MAH-jee)",
+          "translation": "New houses have finished [class 10 N-N plural: zimekamilika] being built and big rivers have flooded [class 4 M-MI plural: imefurika] with water."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Upatanisho na -ME-: KI->kimeiva, VI->vimeiva, M/MI->umekua/imekua, JI/MA->limefika/yamefika, N/N->imefika/zimefika!"
+      ],
+      "culturalNotes": [
+        "Usemi maarufu wa Kiswahili unasema: 'Mchele mmoja mapishi mbalimbali' — kuonyesha jinsi viambishi tofauti vya ngeli vinavyopatanisha maneno mbalimbali kwa upatano mzuri."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Barabara\":",
+          "prompt": "Sentensi ipi ina upatanisho sahihi wa wakati timilifu kwa nomino ya Ngeli ya 7 (Chakula)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mji»",
-            "Mpangilio usio sahihi wa viambishi katika «Duka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pesa»"
+            "Chakula kitamu kimeiva jikoni. (The delicious food is cooked/ready in the kitchen - Correct Class 7 perfective prefix 'ki-me-')",
+            "Chakula kitamu limeiva jikoni (Kosa la kutumia kiambishi cha JI-MA)",
+            "Chakula kitamu zimeiva jikoni (Kosa la kutumia kiambishi cha N-N wingi)",
+            "Chakula kitamu wameiva jikoni (Kosa la kutumia kiambishi cha watu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Chakula» (umoja katika Ngeli ya KI-VI) huchukua kiambishi cha kitenzi «ki-», hivyo katika wakati timilifu huwa «kimeiva»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Barabara\":",
+          "prompt": "Unapozungumzia matunda mengi yaliyoiva mtini (Ngeli ya 6 JI-MA wingi), kitenzi sahihi cha wakati timilifu ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Duka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pesa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mji»"
+            "Matunda yote yameiva mtini. (All fruits are ripe on the tree - Correct Class 6 perfective prefix 'ya-me-')",
+            "Matunda yote limeiva mtini (Kosa la kutumia umoja 'li-')",
+            "Matunda yote zimeiva mtini (Kosa la kutumia kiambishi cha N-N)",
+            "Matunda yote wameiva mtini (Kosa la kuchukulia matunda kama watu)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino ya wingi «Matunda» (Ngeli ya JI-MA) huchukua kiambishi cha kitenzi «ya-», hivyo katika wakati timilifu huwa «yameiva»."
         }
       ]
     },
@@ -2805,17 +2844,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Barabara\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi na kamilifu wa wakati timilifu katika ngeli mbalimbali:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pesa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mji»",
-            "Mpangilio usio sahihi wa viambishi katika «Duka»"
+            "Chakula kimeiva mezani, gari jipya limewasili, na nyumba mpya zimekamilika mjini. (Food is cooked [ki-], new car has arrived [li-], and new houses are completed [zi-].)",
+            "Chakula limeiva mezani na magari yote kimenunuliwa.",
+            "Miti yote zimeanguka wakati gari jipya wamefika nyumbani.",
+            "Nyumba zote imekamilika na vitabu vyote limefunguliwa mezani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Chakula kimeiva mezani, gari jipya limewasili, na nyumba mpya zimekamilika mjini.» inafuata upatanisho kamili wa KI-VI (ki-), JI-MA (li-), na N-N (zi-) katika wakati timilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u6-l5": {
@@ -2823,53 +2863,62 @@
     "subject": "swahili",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 5)",
+    "title": "Muhtasari wa Wakati Timilifu (-me-) (Perfective Aspect Grand Synthesis)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 6.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 6: mnyambuliko wa nafsi zote katika wakati timilifu (-me-), vitenzi vya hali na matokeo (kuchoka, kushiba, kulala, kuvaa), vitenzi vya silabi moja (kula, kunywa, kuja, kwenda), na upatanisho wa ngeli zote katika sentensi changamano.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Wakati Timilifu (-me-) (Perfective Aspect Grand Synthesis):\n\n1. **Kanuni Kuu ya Wakati Timilifu**:\n   - Kiambishi **-me-** kinaonyesha tendo lililokamilika na ambalo matokeo au athari zake ziko hai sasa hivi.\n   - Muundo: `Kiambishi Nafsi + -me- + Shina la Kitenzi` (*nimesoma, umesoma, amesoma, tumesoma, mmesoma, wamesoma*).\n\n2. **Vitenzi vya Hali (Stative Verbs)**:\n   - Hutoa maana ya hali ya sasa: *nimeshiba* (I am full), *nimechoka* (I am tired), *amelala* (he is asleep), *amevaa* (she is wearing), *nimeelewa* (I understand).\n\n3. **Vitenzi vya Silabi Moja**:\n   - Huhifadhi kiambishi 'ku-': *nimekula, amekunywa, wamekuja, tumekwenda*.\n\n4. **Upatanisho wa Ngeli Zote**:\n   - A-WA (*amefika / wamefika*), KI-VI (*kimeiva / vimeiva*), M-MI (*umekua / imekua*), JI-MA (*limeharibika / yameiva*), N-N (*imekamilika / zimetua*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 6."
+          "target": "Sisi tumeshiba vizuri, wageni wamefika salama, na kazi yote imekamilika kwa ufanisi.",
+          "reading": "Si-si tu-me-shi-ba vi-zu-ri, wa-ge-ni wa-me-fi-ka sa-la-ma, na ka-zi yo-te i-me-ka-mi-li-ka kwa u-fa-ni-si. [ˈsisi tumɛˈʃibɑ viˈzuri wɑˈɡɛni wɑmɛˈfikɑ sɑˈlɑmɑ nɑ ˈkɑzi ˈjɔtɛ imɛkɑmiˈlikɑ kwɑ ufɑˈnisi] (SEE-see too-may-SHEE-bah vee-ZOO-ree, wah-GAY-nee wah-may-FEE-kah sah-LAH-mah, nah KAH-zee YOH-tay ee-may-kah-mee-LEE-kah kwah oo-fah-NEE-see)",
+          "translation": "We are well full [stative: tumeshiba], guests have arrived safely [perfective: wamefika], and all work has completed [class 9: imekamilika] efficiently."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 6-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi wote wameelewa somo hili gumu na wamefurahia mafunzo ya leo.",
+          "reading": "Wa-na-fu-nzi wo-te wa-me-e-le-wa so-mo hi-li gu-mu na wa-me-fu-ra-hi-a ma-fu-nzo ya le-o. [wɑnɑˈfunzi ˈwɔtɛ wɑmɛɛlɛˈwɑ ˈsɔmɔ ˈhili ˈɡumu nɑ wɑmɛfurɑˈhiɑ mɑˈfunzɔ jɑ ˈlɛɔ] (wah-nah-FOON-zee WOH-tay wah-may-ay-lay-WAH SOH-moh HEE-lee GOO-moo nah wah-may-foo-rah-HEE-ah mah-FOON-zoh yah LAY-oh)",
+          "translation": "All students have understood [stative: wameelewa] this difficult lesson and have rejoiced [stative: wamefurahia] in today's instruction."
+        },
+        {
+          "target": "Wakati timilifu wenye kiambishi '-me-' unaunganisha tendo lililokamilika na hali ya sasa kwa usahihi wa hali ya juu.",
+          "reading": "Wa-ka-ti ti-mi-li-fu we-nye ki-a-mbi-shi '-me-' u-na-u-nga-ni-sha te-ndo li-li-lo-ka-mi-li-ka na ha-li ya sa-sa kwa u-sa-hi-hi wa ha-li ya ju-u. [wɑˈkɑti timiˈlifu ˈwɛnjɛ kiɑmˈbiʃi -mɛ- unɑuŋɡɑˈniʃɑ ˈtɛndɔ lililɔkɑmiˈlikɑ nɑ ˈhɑli jɑ ˈsɑsɑ kwɑ usɑˈhihi wɑ ˈhɑli jɑ ˈʤuː] (wah-KAH-tee tee-mee-LEE-foo WAYN-yay kee-ahm-BEE-shee '-me-' oo-nah-oon-gah-NEE-shah TAYN-doh lee-lee-loh-kah-mee-LEE-kah nah HAH-lee yah SAH-sah kwah oo-sah-HEE-hee wah HAH-lee yah JOO-oo)",
+          "translation": "The perfective aspect with prefix '-me-' [perfective synthesis: wakati timilifu] links completed actions to present states with supreme linguistic accuracy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa -ME-: Nimeshiba (I am full), nimekula (I have eaten), wamefika (they have arrived), na kila kitu kimekamilika!"
+      ],
+      "culturalNotes": [
+        "Umahiri wa kutumia wakati timilifu humwezesha msemaji wa Kiswahili kueleza hisia zake za sasa (furaha, uchovu, kushiba) na matukio yaliyokamilika kwa staha na ufasaha mkubwa."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mji\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati timilifu (-me-) kwa vitenzi vya hali, vitenzi vya kawaida na vitenzi vya silabi moja?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Duka»",
-            "Mpangilio usio sahihi wa viambishi katika «Pesa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bei»"
+            "Wanafunzi wamechoka kidogo lakini wamekula chakula kitamu na wameelewa somo lote. (Students are slightly tired, but have eaten delicious food and understood the whole lesson - Harmonious perfective synthesis)",
+            "Wanafunzi walichoka jana na kesho wamela chakula (Kosa la kuondoa 'ku-' na kuchanganya nyakati)",
+            "Wanafunzi wanachoka jana usiku na wamefika kesho (Mvurugiko mkubwa wa nyakati)",
+            "Chakula chote wamechoka wanafunzi mezani (Muundo usio na maana)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Wanafunzi wamechoka kidogo lakini wamekula chakula kitamu na wameelewa somo lote.» inajumuisha vitenzi vya hali (wamechoka, wameelewa) na silabi moja (wamekula) kwa usahihi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mji\":",
+          "prompt": "Katika muhtasari wa Unit 6, ni sifa gani kuu inayofanya kiambishi '-me-' kuwa cha pekee katika Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Pesa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bei»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Duka»"
+            "Huwezesha kueleza tendo lililokamilika na wakati huo huo kueleza hali iliyopo sasa (stative state) kama 'nimeshiba' au 'nimechoka'. (It expresses completed actions while denoting current stative states like 'I am full' or 'I am tired')",
+            "Kinatumika tu wakati wa usiku pekee",
+            "Hakiwezi kutumiwa na vitenzi vya kawaida",
+            "Kinabadilisha maneno yote kuwa lugha ya kigeni"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kiambishi «-me-» kinaunganisha tendo lililokamilika na hali iliyopo sasa (stative state)."
         }
       ]
     },
@@ -2877,17 +2926,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mji\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 6 ya Wakati Timilifu katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 6.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bei»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Duka»",
-            "Mpangilio usio sahihi wa viambishi katika «Pesa»"
+            "Wageni wote wamefika nyumbani kwetu salama, wamekunywa chai moto ya tangawizi, wameshiba chakula kitamu, na wamefurahia sana ukarimu wetu. (All guests have arrived at our home safely, have drunk hot ginger tea, are full with delicious food, and have rejoiced in our hospitality.)",
+            "Wageni wote alifika nyumbani na kesho wamekunywa chai.",
+            "Wageni wote linashiba chakula wakati wazee watasoma hadithi jana.",
+            "Wakati timilifu unakataza matumizi ya neno 'nimeshiba' na 'nimechoka'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Wageni wote wamefika nyumbani kwetu salama, wamekunywa chai moto ya tangawizi, wameshiba chakula kitamu, na wamefurahia sana ukarimu wetu.» inajumuisha mada zote za Unit 6 kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u7-l1": {
