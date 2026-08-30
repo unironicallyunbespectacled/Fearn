@@ -119,14 +119,14 @@
       "hk-u23-l2",
       "hk-u23-l3",
       "hk-u23-l4",
-      "hk-u23-l5"
+      "hk-u23-l5",
+      "hk-u24-l1",
+      "hk-u24-l2",
+      "hk-u24-l3",
+      "hk-u24-l4",
+      "hk-u24-l5"
     ],
     stubOnly: [
-  "hk-u24-l1",
-  "hk-u24-l2",
-  "hk-u24-l3",
-  "hk-u24-l4",
-  "hk-u24-l5",
   "hk-u25-l1",
   "hk-u25-l2",
   "hk-u25-l3",
@@ -178,8 +178,8 @@
   "hk-u34-l4",
   "hk-u34-l5"
 ],
-    lastCompletedLessonId: "hk-u23-l5",
-    nextToAuthor: "hk-u24-l1"
+    lastCompletedLessonId: "hk-u24-l5",
+    nextToAuthor: "hk-u25-l1"
   };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['cantonese'] = LEDGER;

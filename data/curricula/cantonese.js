@@ -9915,53 +9915,62 @@
     "subject": "cantonese",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "商務粵語與公文寫作 (Business Cantonese & Correspondence) (第1課)",
+    "title": "商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business Operations & Approvals)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元24第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握現代香港商務職場核心辦公協調與財務流程術語（跟進、過目、批核、過數、開單、找數、報銷）之精準運用。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港商務粵語（Business Cantonese）融合了英式職場管理效率與嶺南傳統商業禮儀，具備高度精簡、專業與務實之特點：\n\n一、項目推進與審批流程核心術語：\n１．工作進度與協調：\n- 「跟進（Follow up）」（gan1 zeon3）：追蹤項目進展並落實後續工作。\n- 「過目」（gwo3 muk6）：恭請主管或合作夥伴審閱文件（敬語）。\n- 「批核 / 審批」（pai1 hat6 / sam2 pai1）：主管簽署同意方案或預算。\n- 「落實細節」（lok6 sat6 sai3 zit3）：將方案具體化為可執行步驟。\n\n二、財務結算與會計出納術語：\n１．款項支付與發票：\n- 「過數 / 轉賬」（gwo3 sou3 / zyun2 zoeng3）：銀行轉賬匯款。\n- 「開單 / 出發票」（hoi1 daan1 / ceot1 faat3 piu3）：開具銷售單據或商業發票（Invoice）。\n- 「找數 / 結清」（zaau2 sou3 / git3 cing1）：結清應付賬款或債務。\n- 「報銷（Claim錢）」（bou3 siu1 / klem1 cin2）：向公司申報公務支出補償。\n- 「期限 / 截止日（Deadline）」（kit3 zi2 jat6 / det1 laai1）：任務提交最後時限。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 24 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 24 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 24 in communication."
+          "target": "份項目預算案我已經調整好，請陳總抽空過目批核，以便我哋下星期正式落實執行。",
+          "reading": "fan6 hong6 muk6 jyu6 syun3 on3 ngo5 ji5 ging1 tiu4 zing2 hou2, cing2 can4 zung2 cau1 hung1 gwo3 muk6 pai1 hat6, ji5 bin6 ngo5 dei6 haa6 sing1 kei4 zing3 sik1 lok6 sat6 zap1 hang4. [fɐn˨ hɔːŋ˨ mʊk̚˨ jyː˨ syːn˧ ɔːn˧ ŋɔː˩˧ jiː˩˧ kɪŋ˥ tʰiːu˨˩ tsɪŋ˧˥ hou˧˥, tsʰɪŋ˧˥ tsʰɐn˨˩ tsʊŋ˧˥ tsʰɐu˥ hʊŋ˥ kʷɔː˧ mʊk̚˨ pʰaːi˥ hɐt̚˨, jiː˩˧ piːn˨ ŋɔː˩˧ tei˨ haː˨ sɪŋ˥ kʰei˨˩ tsɪŋ˧ sɪk̚˥ lɔːk̚˨ sɐt̚˨ tsɐp̚˥ hɐŋ˨˩] (FUN HOHNG-MOK YUE-SUEN-ON NGOH YEE-GING TEW-JING-HOH, CHING CHUN-JOONG CHAU-HOONG GWOR-MOK PY-HUT, YEE-BEEN NGOH-DAY HAH-SING-KEY JING-SIK LOK-SUT JUP-HAHNG)",
+          "translation": "I have adjusted the project budget proposal; please take time to review and approve it, Mr. Chan, so that we can formally implement it next week."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元24-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "會計部已經將今期供應商嘅貨款全部過咗數，發票亦都已經開單寄出。",
+          "reading": "wui6 gai3 bou6 ji5 ging1 zoeng1 gam1 kei4 gung1 jing3 soeng1 ge3 fo3 fun2 cyun4 bou6 gwo3 zo2 sou3, faat3 piu3 jik6 dou1 ji5 ging1 hoi1 daan1 gei3 ceot1. [wuːi˨ kɐi˧ pou˨ jiː˩˧ kɪŋ˥ tsœːŋ˥ kɐm˥ kʰei˨˩ kʊŋ˥ jɪŋ˧ sœːŋ˥ kɛː˧ fɔː˧ fuːn˧˥ tsʰyːn˨˩ pou˨ kʷɔː˧ tsɔː˧˥ sou˧, faːt̚˧ pʰiːu˧ jɪk̚˨ tou˥ jiː˩˧ kɪŋ˥ hɔːi˥ taːn˥ kei˧ tsʰɵt̚˥] (WUI-GY-BOU YEE-GING JEUNG GUM-KEY GONG-YING-SEUNG GEH FOH-FOON CHUEN-BOU GWOR-JOR-SOU, FAHT-PEW YIK DOH YEE-GING HOI-DAHN GAY-CHUT)",
+          "translation": "The accounts department has already transferred all payment amounts to the suppliers for this period, and the invoices have also been issued and mailed out."
+        },
+        {
+          "target": "出差返嚟記得喺三個工作天內交齊單據畀行政部報銷，千祈唔好過咗截止日期。",
+          "reading": "ceot1 caai1 faan1 lai4 gei3 dak1 hai2 saam1 go3 gung1 zok3 tin1 noi6 gaau1 cai4 daan1 geoi3 bei2 hang4 zing3 bou6 bou3 siu1, cin1 kei4 m4 hou2 gwo3 zo2 kit3 zi2 jat6 kei4. [tsʰɵt̚˥ tsʰaːi˥ faːn˥ lɐi˨˩ kei˧ tɐk̚˥ hɐi˩˧ saːm˥ kɔː˧ kʊŋ˥ tsɔːk̚˧ tʰiːn˥ nɔːi˨ kaːu˥ tsʰɐi˨˩ taːn˥ kɵy˧ pei˨ hɐŋ˨˩ tsɪŋ˧ pou˨ pou˧ siːu˥, tsʰiːn˥ kʰei˨˩ m̩˨˩ hou˧˥ kʷɔː˧ tsɔː˧˥ kʰiːt̚˧ tsiː˧˥ jɐt˨ kʰei˨˩] (CHUT-CHY FAHN-LY GAY-DUK HY SAHM-GOH GONG-JOK-TEEN NOY GAU-CHY DAHN-GOEY BAY HAHNG-JING-BOU BOU-SIU, CHEEN-KEY M-HOH GWOR-JOR KEET-JEE YUT-KEY)",
+          "translation": "Remember to submit all receipts to the administration department for expense claims within three working days after returning from the business trip; never exceed the deadline."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【商務辦公歌】項目推進要「跟進」，呈遞主管請「過目」；銀行匯款叫「過數」，開單發票「找數」清！"
+      ],
+      "culturalNotes": [
+        "香港外企與本地企業普遍存在混合英語術語之商務粵語習慣（如『跟進個Issue』、『Confirm個Meeting』）。但在正式書面公文與高層會議匯報時，規範純粹之商務粵語詞彙更顯莊重專業。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"黑色\":",
+          "prompt": "【財務流程】在廣東話商業語境中，指稱「向客戶開具收費單據或發票」，標準動賓短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：橙色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：紫色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：粉紅色誤用）"
+            "開單 (hoi1 daan1 / Issue invoice or bill)",
+            "炒單",
+            "食單",
+            "走單"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「開單 / 出單」指開立商業收費發票或賬單。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"黑色\":",
+          "prompt": "【審批敬語】將方案文件呈交主管請其審閱時，最得體禮貌之敬語詞彙係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：紫色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：粉紅色誤用）",
-            "語序顛倒嘅非標準句式（例項：橙色錯置）"
+            "請主管過目 (Please review / inspect)",
+            "請主管食死貓",
+            "請主管算罷啦",
+            "請主管邊度跳"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「過目」為商務公文中懇請對方審閱之莊重敬語。"
         }
       ]
     },
@@ -9969,15 +9978,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"黑色\": Which sentence is completely correct?",
+          "prompt": "【商業結算】短語「找清貨款」（zaau2 cing1 fo3 fun2）在粵語商業活動中之準確含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：粉紅色誤用）",
-            "語序顛倒嘅非標準句式（例項：橙色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：紫色未適配）"
+            "全額結清應付貨物款項 (Settling all outstanding merchandise payments)",
+            "尋找丟失的貨物",
+            "給予客戶折扣優惠",
+            "拒絕支付貨款"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「找數 / 找清」為粵語商業傳統中結清賬目之核心術語。"
         }
       ],
       "passThreshold": 0.8
@@ -9988,53 +9997,62 @@
     "subject": "cantonese",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "商務粵語與公文寫作 (Business Cantonese & Correspondence) (第2課)",
+    "title": "商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照」 (Formal Business Correspondence)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元24第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南與香港專業商務公函、電郵及正式通知之書面語體規範（茲通知、承蒙、隨函附上、敬請查照、如蒙賜教、祝商祺）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港與大灣區商務公函書信保留了典雅考究之傳統尺牘（書信）文風，並與現代企業電郵規範完美結合：\n\n一、正式商務公函與電郵三大核心區塊格式：\n１．起首發端與背景引介詞（Opening Invocations）：\n- 「茲特函告 / 茲通知」（zi1 dak6 haam4 gou3 / zi1 tung1 zi1）：特以此信件正式告知。\n- 「承蒙 貴公司大力支持」（sing4 mung4 gwai3 gung1 si1 daai6 lik6 zi1 ci4）：承蒙貴方支持與信任（抬頭敬語空一格）。\n- 「頃接 來函，敬悉一切」（king2 zip3 loi4 haam4, ging3 sik1 jat1 cai3）：剛收到來信，已悉知全部內容。\n\n２．正文附件與請求查閱標記（Body & Attachments）：\n- 「隨函附上 / 隨電郵附呈」（ceoi4 haam4 fu6 soeng6）：附隨本郵件呈遞文件。\n- 「敬請 查照 / 審閱」（ging3 cing2 caa4 ziu3 / sam2 jyut6）：恭請審查過目。\n\n３．結尾祝頌與期待回音（Closing & Salutations）：\n- 「如蒙 賜教，不勝感荷」（jyu4 mung4 ci3 gaau3, bat1 sing1 gam2 ho4）：若蒙指教，感激不盡。\n- 「祝 商祺 / 順祝 商安」（zuk1 soeng1 kei4 / seon6 zuk1 soeng1 on1）：祝願商務順遂吉慶。\n- 「【署名】 謹啟 / 敬上」（gan2 kai2 / ging3 soeng6）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 24 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 24 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 24 in communication."
+          "target": "承蒙 貴公司多年來嘅信任與鼎力支持，本公司深表謝意，並期待未來進一步深化合作。",
+          "reading": "sing4 mung4 gwai3 gung1 si1 do1 nin4 loi4 ge3 seon3 jam6 jyu4 ding2 lik6 zi1 ci4, bun2 gung1 si1 sam1 biu2 ze6 ji3, bing6 kei4 doi6 mei6 loi4 zeon3 jat1 bou6 sam1 faa3 hap6 zok3. [sɪŋ˨˩ mʊŋ˨˩ kʷɐi˧ kʊŋ˥ siː˥ tɔː˥ niːn˨˩ lɔːi˨˩ kɛː˧ sɵn˧ jɐm˨ jyː˩˧ tɪŋ˧˥ lɪk̚˨ tsiː˥ tsʰiː˨, puːn˧˥ kʊŋ˥ siː˥ sɐm˥ piːu˧˥ tsɛː˨ jiː˧, pɪŋ˨ kʰei˨˩ tɔːi˨ mei˨ lɔːi˨˩ tsɵn˧ jɐt̚˥ pou˨ sɐm˥ faː˧ hɐp̚˨ tsɔːk̚˧] (SING-MOONG GWY GONG-SEE DOH-NEEN-LY GEH SEUN-YUM YUE DING-LIK JEE-CHEE, BOON GONG-SEE SUM-BEW JEH-YEE, BING KEY-DOY MAY-LY JUEN-YUT-BOU SUM-FAH HUP-JOK)",
+          "translation": "Greatly appreciated by your company's trust and tremendous support over the years, our company expresses profound gratitude and looks forward to further deepening our cooperation in the future."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元24-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "隨電郵附上最新合作協議草案及報價單，敬請 貴方查照，如有任何疑問歡迎隨時垂詢。",
+          "reading": "ceoi4 din6 jau4 fu6 soeng6 zeoi3 san1 hap6 zok3 hip3 ji5 cou2 on3 kap6 bou3 gaa3 daan1, ging3 cing2 gwai3 fong1 caa4 ziu3, jyu4 jau5 jam6 ho4 ji4 man6 fun1 jing4 ceoi4 si4 seoi4 seon1. [tsʰɵy˨˩ tiːn˨ jɐu˩˧ fu˨ sœːŋ˨ tsɵy˧ sɐn˥ hɐp̚˨ tsɔːk̚˧ hiːp̚˧ jiː˩˧ tsʰou˧˥ ɔːn˧ kʰɐp̚˨ pou˧ kaː˧ taːn˥, kɪŋ˧ tsʰɪŋ˧˥ kʷɐi˧ fɔːŋ˥ tsʰaː˥ tsiːu˧, jyː˨˩ jɐu˩˧ jɐm˨ hɔː˨˩ jiː˨˩ mɐn˨˩ fuːn˥ jɪŋ˨˩ tsʰɵy˨˩ siː˨˩ sɵy˨˩ sɵn˥] (CHOEY DEEN-YAU FOO-SEUNG JEOY-SUN HUP-JOK HIP-YEE CHOU-ON KUP BOU-GAH-DAHN, GING-CHING GWY-FONG CHAH-JEW, YUE-YAU YUM-HOH YEE-MUN FOON-YING CHOEY-SEE SOEY-SEUN)",
+          "translation": "Attached with this email are the latest draft cooperation agreement and quotation sheet; we respectfully invite your party to inspect them, and please feel free to inquire if you have any questions."
+        },
+        {
+          "target": "茲通知各部門主管，下年度業務戰略規劃會議將於本月二十五號上午十時準時召開。",
+          "reading": "zi1 tung1 zi1 gok3 bou6 mun4 zyu2 gun2, haa6 nin4 dou6 jip6 mou6 zin3 loek6 kwai1 waak6 wui6*2 ji3 zoeng1 jyu1 bun2 jyut6 ji6 sap6 ng5 hou6 soeng6 ng5 sap6 si4 zeon2 si4 ziu1 hoi1. [tsiː˥ tʰʊŋ˥ tsiː˥ kɔːk̚˧ pou˨ muːn˨˩ tsyː˧˥ kuːn˧˥, haː˨ niːn˨˩ tou˨ jiːp̚˨ mou˨ tsiːn˧ lœːk̚˨ kʰwɐi˥ waːk̚˨ wuːi˨ jiː˧ tsœːŋ˥ jyː˥ puːn˧˥ jyːt̚˨ ji˨ sɐp̚˨ ŋ̩˩˧ hou˨ sœːŋ˨ ŋ̩˩˧ sɐp̚˨ siː˨˩ tsɵn˧˥ siː˨˩ tsiːu˥ hɔːi˥] (JEE-TOONG-JEE GOK-BOU-MOON JUE-GOON, HAH-NEEN-DOU YIP-MOU JEEN-LEUK KWAI-WAAK WUI-YEE JEUNG-YUE BOON-YUET YEE-SUP-NG-HOU SEUNG-NG SUP-SEE JUEN-SEE JEW-HOI)",
+          "translation": "Notice is hereby given to all department heads that the business strategic planning meeting for next year will be punctually convened at 10:00 AM on the 25th of this month."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【公文書信歌】正式告知「茲通知」，承蒙關照「承蒙提」；附件呈遞「隨函附」，敬請查照「祝商祺」！"
+      ],
+      "culturalNotes": [
+        "香港傳統商行與現代大型律師行、投行在公函中對「抬頭空格敬語」（如『承蒙 貴公司』）有嚴格禮貌要求，體現了對合作夥伴之崇高敬意。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"橙色\":",
+          "prompt": "【商務電郵結尾】正式商務書信最標準典雅之結尾祝頌語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：紫色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：粉紅色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：灰色誤用）"
+            "祝 商祺 (Wishing business prosperity)",
+            "祝 算罷啦",
+            "祝 炒魷魚",
+            "祝 泥菩薩"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「祝 商祺」為中文正式商務往來公函之標準祝福語。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"橙色\":",
+          "prompt": "【公函發端】公函開頭鄭重告知各方某項官方決議，傳統標準起首語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：粉紅色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：灰色誤用）",
-            "語序顛倒嘅非標準句式（例項：紫色錯置）"
+            "茲特函告 / 茲通知 (Hereby notify)",
+            "聽講話通知大家",
+            "阿茂話畀你知",
+            "食死貓式通知"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「茲通知 / 茲特函告」為正式公文起首之標準法定用語。"
         }
       ]
     },
@@ -10042,15 +10060,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"橙色\": Which sentence is completely correct?",
+          "prompt": "【附件提示】商務電郵中提請對方查看附隨合同草案時，最得體之表達為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：灰色誤用）",
-            "語序顛倒嘅非標準句式（例項：紫色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：粉紅色未適配）"
+            "隨電郵附呈合作協議，敬請 查照 (Agreement attached, respectfully invite review)",
+            "隨便睇下個協議啦",
+            "協議放喺度你愛理不理",
+            "協議唔准睇"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「隨電郵附呈……敬請查照」結合了精準格式與高度商業禮儀。"
         }
       ],
       "passThreshold": 0.8
@@ -10061,53 +10079,62 @@
     "subject": "cantonese",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "商務粵語與公文寫作 (Business Cantonese & Correspondence) (第3課)",
+    "title": "商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (Negotiations & Contracts)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元24第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握高階商業談判策略、合同條款約定、利益妥協博弈（傾條件、底線、讓步、諒解備忘錄、違約責任、互利共贏）之專業話術。",
     "presentation": {
-      "explanation": "",
+      "explanation": "商業談判係智慧、心理博弈與語言藝術之綜合展現。在商務粵語中，談判各階段有專屬之策略表達：\n\n一、談判博弈與底線設定核心矩陣：\n１．條件洽商與立場探詢：\n- 「傾條件」（king1 tiu4 gin6*2）：商討合作具體條款與權責劃分。\n- 「我方底線」（ngo5 fong1 dai2 sin3）：不可再作退讓之最低利益紅線。\n- 「保留追究權利」（bou2 lau4 zeoi1 gau3 kyun4 lei6）：若對方違約，保留採取法律行動之權利。\n\n２．妥協讓步與雙贏共識：\n- 「各讓一步」（gok3 joeng6 jat1 bou6）：雙方均作出適度妥協以打破僵局。\n- 「尋求雙贏方案 / 互利共贏」（cam4 kau4 soeng1 jing4 fong1 on3 / wu6 lei6 gung6 jing4）。\n\n３．合同法律文件簽署：\n- 「簽署諒解備忘錄（MOU）」（cim1 cyu5 loeng6 gaai2 bei6 mong4 luk1）：確立初步合作意向。\n- 「具有法律約束力之正式合約」（geoi6 jau5 faat3 leot6 joek3 cuk1 lik6 ge3 zing3 sik1 hap6 joek3）。\n- 「違約賠償條款」（wai4 joek3 pui4 soeng4 tiu4 fun2）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 24 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 24 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 24 in communication."
+          "target": "喺價格條款上呢個已經係我方嘅底線，如果貴公司能夠喺付款週期上作出適當讓步，我哋即刻可以簽約。",
+          "reading": "hai2 gaa3 gaak3 tiu4 fun2 soeng6 ni1 go3 ji5 ging1 hai6 ngo5 fong1 ge3 dai2 sin3, jyu4 gwo2 gwai3 gung1 si1 nang4 gau3 hai2 fu6 fun2 zau1 kei4 soeng6 zok3 ceot1 sik1 dong3 joeng6 bou6, ngo5 dei6 zik1 hak1 ho2 ji5 cim1 joek3. [hɐi˩˧ kaː˧ kaːk̚˧ tʰiːu˨˩ fuːn˧˥ sœːŋ˨ niː˥ kɔː˧ jiː˩˧ kɪŋ˥ hɐi˨ ŋɔː˩˧ fɔːŋ˥ kɛː˧ tɐi˧˥ siːn˧, jyː˨˩ kʷɔː˧˥ kʷɐi˧ kʊŋ˥ siː˥ nɐŋ˨˩ kɐu˧ hɐi˩˧ fu˨ fuːn˧˥ tsɐu˥ kʰei˨˩ sœːŋ˨ tsɔːk̚˧ tsʰɵt̚˥ sɪk̚˥ tɔːŋ˧ jœːŋ˨ pou˨, ŋɔː˩˧ tei˨ tsɪk̚˥ hɐk̚˥ hɔː˧˥ jiː˩˧ tsʰiːm˥ jœːk̚˧] (HY GAH-GAAK TEW-FOON SEUNG NEE-GOH YEE-GING HY NGOH-FONG GEH DY-SEEN, YUE-GWOR GWY GONG-SEE NUNG-GAU HY FOO-FOON JAU-KEY SEUNG JOK-CHUT SIK-DONG YEUNG-BOU, NGOH-DAY JIK-HUK HOH-YEE CHEEM-YERK)",
+          "translation": "Regarding the pricing terms, this is already our bottom line; if your company can make appropriate concessions on the payment cycle, we can sign the contract immediately."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元24-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "為咗促成今次跨國戰略併購，雙方代表決定各讓一步，終於喺午夜達成互利共贏嘅共識。",
+          "reading": "wai6 zo2 cuk1 sing4 gam1 ci3 kwaa1 gwok3 zin3 loek6 bing3 gau3, soeng1 fong1 doi6 biu2 kyut3 ding6 gok3 joeng6 jat1 bou6, zung1 jyu1 hai2 ng5 je6 daat6 sing4 wu6 lei6 gung6 jing4 ge3 gung6 sik1. [wɐi˨ tsɔː˧˥ tsʰʊk̚˥ sɪŋ˨˩ kɐm˥ tsʰiː˧ kʰwaː˥ kʷɔːk̚˧ tsiːn˧ lœːk̚˨ pɪŋ˧ kɐu˧, sœːŋ˥ fɔːŋ˥ tɔːi˨ piːu˧˥ kʰyːt̚˧ tɪŋ˨ kɔːk̚˧ jœːŋ˨ jɐt̚˥ pou˨, tsʊŋ˥ jyː˥ hɐi˩˧ ŋ̩˩˧ jɛː˨ taːt̚˨ sɪŋ˨˩ wuː˨ lei˨ kʊŋ˨˩ jɪŋ˨˩ kɛː˧ kʊŋ˨˩ sɪk̚˥] (WAI-JOR CHUK-SING GUM-CHEE KWAH-GWOK JEEN-LEUK BING-GAU, SEUNG-FONG DY-BEW KUET-DING GOK-YEUNG YUT-BOU, JOONG-YUE HY NG-YEH DAHT-SING WOO-LEY-GONG-YING GEH GONG-SIK)",
+          "translation": "In order to facilitate this cross-border strategic acquisition, representatives from both sides decided to each take a step back and make concessions, finally reaching a win-win consensus at midnight."
+        },
+        {
+          "target": "雙方今日正式簽署咗諒解備忘錄，確認咗合作原則，下階段將交由律師擬定正式合約條款。",
+          "reading": "soeng1 fong1 gam1 jat6 zing3 sik1 cim1 cyu5 zo2 loeng6 gaai2 bei6 mong4 luk1, kok3 jin6 zo2 hap6 zok3 jyun4 zak1, haa6 gaai1 dyun6 zoeng1 gaau1 jau4 leot6 si1 ji4 ding6 zing3 sik1 hap6 joek3 tiu4 fun2. [sœːŋ˥ fɔːŋ˥ kɐm˥ jɐt˨ tsɪŋ˧ sɪk̚˥ tsʰiːm˥ tsʰyː˩˧ tsɔː˧˥ lœːŋ˨ kaːi˧˥ pei˨ mɔːŋ˨˩ lʊk̚˨, kʰɔːk̚˧ jiːn˨ tsɔː˧˥ hɐp̚˨ tsɔːk̚˧ jyːn˨˩ tsɐk̚˥, haː˨ kaːi˥ tyːn˨ tsœːŋ˥ kaːu˥ jɐu˨˩ lɵt̚˨ siː˥ jiː˨˩ tɪŋ˨ tsɪŋ˧ sɪk̚˥ hɐp̚˨ joek̚˧ tʰiːu˨˩ fuːn˧˥] (SEUNG-FONG GUM-YUT JING-SIK CHEEM-CHUE-JOR LEUNG-GAI-BAY-MONG-LOK, KOK-YEEN-JOR HUP-JOK YUEN-JUK, HAH-GAI-DUEN JEUNG GAU-YAU LUT-SEE YEE-DING JING-SIK HUP-YERK TEW-FOON)",
+          "translation": "Both parties formally signed a Memorandum of Understanding today, confirming the principles of cooperation, and the next phase will be handed over to lawyers to draft the formal contract clauses."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【談判博弈歌】洽商條款「傾條件」，堅守原則「底線堅」；互諒互讓「各退步」，合作共贏「簽字前」！"
+      ],
+      "culturalNotes": [
+        "「傾條件」體現了香港商業文化之務實精神。在香港談判中，直奔主題、清晰列出各方底線與權責邊界，被視為最高效、最誠懇之商業素養。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"紫色\":",
+          "prompt": "【談判妥協】形容談判雙方各自作出讓步以消除分歧、達成共識，經典短語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：粉紅色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：灰色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：大細誤用）"
+            "各讓一步 (Each take a step back / Mutual concession)",
+            "邊有蛤乸跳",
+            "食得鹹魚渴",
+            "阿茂整餅式"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「各讓一步」指雙方互相妥協、尋求利益平衡點。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"紫色\":",
+          "prompt": "【法律意向】在正式合同簽署前，雙方先行簽訂之初步合作意向文件名稱係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：灰色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：大細誤用）",
-            "語序顛倒嘅非標準句式（例項：粉紅色錯置）"
+            "諒解備忘錄（MOU） (Memorandum of Understanding)",
+            "炒魷魚協議",
+            "食檸檬保證書",
+            "水過鴨背記錄"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「諒解備忘錄（MOU）」為商務談判初步階段確立合作框架之法定意向書。"
         }
       ]
     },
@@ -10115,15 +10142,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"紫色\": Which sentence is completely correct?",
+          "prompt": "【底線定義】在商業合約洽商中，「我方底線」所指的具體含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：大細誤用）",
-            "語序顛倒嘅非標準句式（例項：粉紅色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：灰色未適配）"
+            "我方在談判中所能接受之最低限度利益條件，逾此則寧可放棄合作 (The non-negotiable minimum acceptable terms)",
+            "辦公室最底層的地板線",
+            "合同最下方的一條橫線",
+            "無條件答應對方所有苛刻要求"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「底線」指談判中不可逾越之最低利益與原則邊界。"
         }
       ],
       "passThreshold": 0.8
@@ -10134,53 +10161,62 @@
     "subject": "cantonese",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "商務粵語與公文寫作 (Business Cantonese & Correspondence) (第4課)",
+    "title": "客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決」 (Customer Relations & Crisis PR)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元24第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握高情商客訴處理、同理心致歉、危機公關化解與客戶信任重塑（唔好意思畀您添麻煩、專人跟進、妥善解決、全額退款）之高階話術。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在服務業極度發達之香港，處理客戶投訴（Complaint）與公關危機要求極高之情商與得體話術：\n\n一、客訴處理四步黃金法則與話術矩陣：\n１．第一步：誠懇致歉與同理心共情（Empathy & Apology）：\n- 「唔好意思畀您添咗咁多麻煩」（m4 hou2 ji3 si1 bei2 nei5 tim1 zo2 gam3 do1 maa4 faan4）：真誠致歉並肯定對方的困擾。\n- 「我哋非常理解您嘅焦急同不滿」（ngo5 dei6 fei1 soeng4 lei5 gaai2 nei5 ge3 ziu1 gap1 tung4 bat1 mun5）。\n\n２．第二步：即時承諾行動與責任認領（Action & Ownership）：\n- 「我哋會即時安排專人跟進調查」（zik1 si4 on1 paai4 zyun1 jan4 gan1 zeon3）。\n- 「承諾喺二十四小時之內畀到滿意嘅答覆」（sing4 nok6 hai2... bei2 dou3 mun5 ji3 ge3 daap3 fuk1）。\n\n３．第三步：提供補救方案與妥善解決（Remediation）：\n- 「安排全額退款或免費換貨」（on1 paai4 cyun4 ngaak6 teoi3 fun2 waak6 min5 fai3 wun6 fo3）。\n- 「妥善解決問題，確保顧客權益」（to5 sin6 gaai2 kyut3 man6 tai4）。\n\n４．第四步：致謝反饋與重塑信任（Gratitude & Trust）：\n- 「多謝您寶貴嘅意見，促使我哋提升服務質素」（do1 ze6 nei5 bou2 gwai3 ge3 ji3 gin3...）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 24 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 24 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 24 in communication."
+          "target": "陳生您好，真係唔好意思畀您添咗咁多麻煩！我哋經理已經親自跟進緊呢個個案，保證今日內為您妥善解決。",
+          "reading": "can4 saan1 nei5 hou2, zan1 hai6 m4 hou2 ji3 si1 bei2 nei5 tim1 zo2 gam3 do1 maa4 faan4! ngo5 dei6 ging1 lei5 ji5 ging1 can1 zi6 gan1 zeon3 gan2 ni1 go3 go3 on3, bou2 zing3 gam1 jat6 noi6 wai6 nei5 to5 sin6 gaai2 kyut3. [tsʰɐn˨˩ saːn˥ nei˩˧ hou˧˥, tsɐn˥ hɐi˨ m̩˨˩ hou˧˥ jiː˧ siː˥ pei˨ nei˩˧ tʰiːm˥ tsɔː˧˥ kɐm˧ tɔː˥ maː˨˩ faːn˨˩! ŋɔː˩˧ tei˨ kɪŋ˥ lei˩˧ jiː˩˧ kɪŋ˥ tsʰɐn˥ tsiː˨ kɐn˥ tsɵn˧ kɐn˧˥ niː˥ kɔː˧ kɔː˧ ɔːn˧, pou˧˥ tsɪŋ˧ kɐm˥ jɐt˨ nɔːi˨ wɐi˨ nei˩˧ tʰɔː˧˥ siːn˨ kaːi˧˥ kʰyːt̚˧] (CHUN-SAHN NEI-HOH, JUN-HY M-HOH-YEE-SEE BAY NEI TEEM-JOR GUM DOH MAH-FAAHN! NGOH-DAY GING-LY YEE-GING CHUN-JEE GUN-JEUN-GUN NEE-GOH GOH-ON, BOU-JING GUM-YUT NOY WAI NEI TOH-SEEN-GAI-KUET)",
+          "translation": "Hello Mr. Chan, we are truly sorry for causing you so much trouble! Our manager is already personally following up on this case, and we guarantee to resolve it properly for you within today."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元24-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "對於今次物流延誤造成嘅不便，我哋深表歉意，並會立即安排全額退款同補償優惠券。",
+          "reading": "deoi3 jyu1 gam1 ci3 mat6 lau4 jin4 ng6 zou6 sing4 ge3 bat1 bin6, ngo5 dei6 sam1 biu2 hip3 ji3, bing6 wui5 laap6 zik1 on1 paai4 cyun4 ngaak6 teoi3 fun2 tung4 bu2 soeng4 jau1 wai6 gyun3. [tɵy˧ jyː˥ kɐm˥ tsʰiː˧ mɐt̚˨ lɐu˨˩ jiːn˨˩ m̩˨˩ tsou˨ sɪŋ˨˩ kɛː˧ pɐt̚˥ piːn˨, ŋɔː˩˧ tei˨ sɐm˥ piːu˧˥ hiːp̚˧ jiː˧, pɪŋ˨ wui˩˧ laːp̚˨ tsɪk̚˥ ɔːn˥ pʰaːi˧ tsʰyːn˨˩ ŋaːk̚˨ tʰɵy˧ fuːn˧˥ tʰʊŋ˨˩ pou˧˥ sœːŋ˨˩ jɐu˥ wɐi˨ kyːn˧] (DEOY-YUE GUM-CHEE MUT-LAU YEEN-M JOU-SING GEH BUT-BEEN, NGOH-DAY SUM-BEW HIP-YEE, BING WUI LAHP-JIK ON-PY CHUEN-NGAHK TOEY-FOON TOONG BOU-SEUNG YAU-WAI-GUEN)",
+          "translation": "Regarding the inconvenience caused by the logistics delay this time, we express deep apologies and will immediately arrange a full refund and compensation vouchers."
+        },
+        {
+          "target": "多謝您嘅寶貴投訴，呢個問題促使我哋及時檢視系統漏洞，全面提升顧客服務體驗。",
+          "reading": "do1 ze6 nei5 ge3 bou2 gwai3 tau4 sou3, ni1 go3 man6 tai4 cuk1 sai2 ngo5 dei6 kap6 si4 gim2 si6 hai6 tung2 lau6 dung6, cyun4 min6 tai4 sing1 gu3 haak3 fuk6 mou6 tai2 jim6. [tɔː˥ tsɛː˨ nei˩˧ kɛː˧ pou˧˥ kʷɐi˧ tʰɐu˨˩ sou˧, niː˥ kɔː˧ mɐn˨ tʰɐi˨˩ tsʰʊk̚˥ sɐi˧˥ ŋɔː˩˧ tei˨ kʰɐp̚˨ siː˨˩ kiːm˧˥ siː˨ hɐi˨ tʰʊŋ˨ lɐu˨ tʊŋ˨, tsʰyːn˨˩ miːn˨ tʰɐi˨˩ sɪŋ˥ kuː˧ haːk̚˧ fʊk̚˨ mou˨ tʰɐi˧˥ jiːm˨] (DOH-JEH NEI GEH BOU-GWY TAU-SOU, NEE-GOH MUN-TY CHUK-SY NGOH-DAY KUP-SEE GEEM-SEE HY-TOONG LAU-DOONG, CHUEN-MEEN TY-SING GOO-HAHK FOOK-MOU TY-YEEM)",
+          "translation": "Thank you for your valuable complaint; this issue has prompted us to timely examine system loopholes and comprehensively elevate customer service experiences."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【客訴化解訣】主動致歉「添麻煩」，專人跟進「莫遲延」；全額退款「妥善處」，感謝反饋「客心安」！"
+      ],
+      "culturalNotes": [
+        "在香港商務客服中，「添麻煩」（添咗麻煩）具有極強之情緒降溫魔力。以同理心先安撫客戶受損情緒，再談具體技術補償，係香港五星級服務業享譽全球之秘訣。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"粉紅色\":",
+          "prompt": "【同理致歉】面對憤怒投訴的客戶，第一時間平息其情緒之最得體粵語話術係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：灰色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：大細未適配）",
-            "聲調助詞搭配欠妥之表達（例項：長短誤用）"
+            "真係唔好意思畀您添咗咁多麻煩！ (Truly sorry for causing you so much trouble!)",
+            "你算罷啦唔好鬧啦",
+            "邊有蛤乸跳你咪鬧啦",
+            "食死貓都唔關我事"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「唔好意思畀您添咗咁多麻煩」真誠認同客戶困擾，能迅速化解對抗情緒。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"粉紅色\":",
+          "prompt": "【責任認領】向客戶保證會由專屬人員負責追蹤解決問題，地道商務承諾係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：大細未適配）",
-            "聲調助詞搭配欠妥之表達（例項：長短誤用）",
-            "語序顛倒嘅非標準句式（例項：灰色錯置）"
+            "我哋會即時安排專人跟進 (Immediately arrange dedicated staff to follow up)",
+            "我哋會當水過鴨背",
+            "我哋會阿茂整餅",
+            "我哋會炒魷魚"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「安排專人跟進」展現高度專業性與負責態度。"
         }
       ]
     },
@@ -10188,15 +10224,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"粉紅色\": Which sentence is completely correct?",
+          "prompt": "【危機公關】處理重大客戶投訴時，最關鍵之首要原則係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：長短誤用）",
-            "語序顛倒嘅非標準句式（例項：灰色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：大細未適配）"
+            "展現同理心傾聽並真誠致歉，迅速鎖定問題並安排具體補救措施 (Demonstrating empathy, apologizing & providing concrete remediation)",
+            "推卸責任並指責客戶操作不當",
+            "直接掛斷電話置之不理",
+            "向客戶發出法律威脅"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "及時共情致歉、認領責任並提供切實補救方案係危機公關的核心法則。"
         }
       ],
       "passThreshold": 0.8
@@ -10207,53 +10243,62 @@
     "subject": "cantonese",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "商務粵語與公文寫作 (Business Cantonese & Correspondence) (第5課)",
+    "title": "高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯互動」 (Business Pitching & Project Presentations)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元24第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握高級商業項目路演（Pitching）、提案簡報結構引導、核心競爭優勢剖析與問答環節（Q&A）之全套專業演報話術。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在董事會、投資人路演或跨國客戶提案中，專業流暢之商務粵語演報能力係商業精英之核心競爭力：\n\n一、商務提案簡報三大標準結構話術：\n１．開場與簡報地圖引導（Introduction & Roadmap）：\n- 「各位早晨/午安，好榮幸今日有機會向大家介紹我哋嘅項目提案。」\n- 「今日嘅簡報主要分為三個核心部分：第一係市場痛點，第二係我哋嘅創新解決方案，第三係預期財務回報。」\n\n２．核心競爭優勢提煉與價值展示（Value Proposition）：\n- 「我哋方案嘅核心競爭優勢在於【專利技術/成本效益】。」\n- 「相比傳統模式，我哋能夠降低三成營運成本，同時提升五成用戶轉化率。」\n\n３．總結回顧與問答互動環節（Conclusion & Q&A）：\n- 「總括而言，呢個項目具備極高嘅市場潛力同投資回報率。」\n- 「多謝各位抽空出席，依家歡迎大家提問（Q&A session）。」\n- 「呢個問題問得非常好，等我為大家詳細說明一下……」",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 24 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 24 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 24 in communication."
+          "target": "各位評審午安，今日我哋團隊嘅商業提案主要聚焦於如何利用人工智能提升跨境物流效率。",
+          "reading": "gok3 wai2 ping4 sam2 ng5 on1, gam1 jat6 ngo5 dei6 tyun4 deoi6*2 ge3 soeng1 jip6 tai4 on3 zyu2 jiu3 zi1 ziu1 jyu1 jyu4 ho4 lei6 jung6 jan4 gung1 zi3 nang4 tai4 sing1 kwaa1 ging1 mat6 lau4 haau6 leot6. [kɔːk̚˧ wɐi˨ pʰɪŋ˨˩ sɐm˧˥ ŋ̩˩˧ ɔːn˥, kɐm˥ jɐt˨ ŋɔː˩˧ tei˨ tʰyːn˨˩ tɵy˧˥ kɛː˧ sœːŋ˥ jiːp̚˨ tʰɐi˨˩ ɔːn˧ tsyː˧˥ jiu˧ tsiː˥ tsiːu˥ jyː˥ jyː˨˩ hɔː˨˩ lei˨ jʊŋ˨ jɐn˨˩ kʊŋ˥ tsiː˧ nɐŋ˨˩ tʰɐi˨˩ sɪŋ˥ kʰwaː˥ kɪŋ˥ mɐt̚˨ lɐu˨˩ haːu˨ lɵt̚˨] (GOK-WAI PING-SUM NG-ON, GUM-YUT NGOH-DAY TUEN-DEOY GEH SEUNG-YIP TY-ON JUE-YEW JEE-JEW YUE YUE-HOH LEY-YOONG YUN-GONG-JEE-NUNG TY-SING KWAH-GING MUT-LAU HAU-LEUT)",
+          "translation": "Good afternoon, esteemed judges; our team's business proposal today mainly focuses on how to utilize artificial intelligence to enhance cross-border logistics efficiency."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元24-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我哋產品嘅最大競爭優勢在於擁有自主研發算法，能夠實現精準預測，為客戶節省大量倉儲成本。",
+          "reading": "ngo5 dei6 caan2 ban2 ge3 zeoi3 daai6 ging6 zaang1 jau1 sai3 zoi6 jyu1 jung2 jau5 zi6 zyu2 jin4 faat3 syun3 faat3, nang4 gau3 sat6 jin6 zing1 zeon2 jyu6 cak1, wai6 haak3 wu6 zit3 saang2 daai6 loeng6 cong1 cyu5 sing4 bun2. [ŋɔː˩˧ tei˨ tsʰaːn˧˥ pʰɐn˧˥ kɛː˧ tsɵy˧ taːi˨ kɪŋ˨ tsaːŋ˥ jɐu˥ sɐi˧ tsɔːi˨ jyː˥ jʊŋ˩˧ jɐu˩˧ tsiː˨ tsyː˧˥ jiːn˨˩ faːt̚˧ syːn˧ faːt̚˧, nɐŋ˨˩ kɐu˧ sɐt̚˨ jiːn˨ tsɪŋ˥ tsɵn˧˥ jyː˨ tsʰaːk̚˥, wɐi˨ haːk̚˧ wu˨ tsit̚˧ saːŋ˧˥ taːi˨ lœːŋ˨ tsʰɔːŋ˥ tsʰyː˩˧ sɪŋ˨˩ puːn˧˥] (NGOH-DAY CHAAN-BUN GEH JEOY-DY GING-JAHNG YAU-SY JOY-YUE YOONG-YAU JEE-JUE YEEN-FAHT SUEN-FAHT, NUNG-GAU SUT-YEEN JING-JEUN YUE-CHUK, WAI HAHK-WOO JEET-SAHNG DY-LEUNG CHONG-CHUE SING-BOON)",
+          "translation": "The greatest competitive advantage of our product lies in having self-developed algorithms that can achieve accurate forecasting, saving customers substantial warehousing costs."
+        },
+        {
+          "target": "多謝各位董事嘅寶貴時間，簡報到此為止，依家非常歡迎各位就財務細節提出問題。",
+          "reading": "do1 ze6 gok3 wai2 dung2 si6 ge3 bou2 gwai3 si4 gaan3, gaan2 bou3 dou3 ci2 wai4 zi2, ji1 gaa1 fei1 soeng4 fun1 jing4 gok3 wai2 zau6 coi4 mou6 sai3 zit3 tai4 ceot1 man6 tai4. [tɔː˥ tsɛː˨ kɔːk̚˧ wɐi˨ tʊŋ˧˥ siː˨ kɛː˧ pou˧˥ kʷɐi˧ siː˨˩ kaːn˧, kaːn˧˥ pou˧ tou˧ tsʰiː˧˥ wɐi˨˩ tsiː˧˥, jiː˥ kaː˥ fei˥ sœːŋ˨˩ fuːn˥ jɪŋ˨˩ kɔːk̚˧ wɐi˨ tsɐu˨ tsʰɔːi˨˩ mou˨ sɐi˧ zit̚˧ tʰɐi˨˩ tsʰɵt̚˥ mɐn˨ tʰɐi˨˩] (DOH-JEH GOK-WAI DONG-SEE GEH BOU-GWY SEE-GAHN, GAAN-BOU DOU-CHEE WAI-JEE, YEE-GAH FAY-SEUNG FOON-YING GOK-WAI JAU CHOY-MOU SY-JEET TY-CHUT MUN-TY)",
+          "translation": "Thank you for your valuable time, directors; the presentation ends here, and we now warmly welcome any questions regarding financial details."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【商務演報訣】開場地圖「分三部」，價值提煉「優勢顯」；論據嚴密數據撐，禮貌結尾「問答全」！"
+      ],
+      "culturalNotes": [
+        "在香港商務簡報中，清晰的時間把控（Time Management）與邏輯架構至關重要。演報者通常在前兩分鐘內必須精準拋出『痛點』與『解決方案』，以牢牢抓住高層決策者之注意力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"灰色\":",
+          "prompt": "【簡報架構】在項目演報開篇引介簡報大綱時，最標準之引導句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：大細錯置）",
-            "混雜生硬詞彙之不規範語句（例項：長短未適配）",
-            "聲調助詞搭配欠妥之表達（例項：高矮誤用）"
+            "今日嘅簡報主要分為三個核心部分 (Today's presentation is mainly divided into 3 core parts)",
+            "大家隨便聽下算罷啦",
+            "我都唔知講乜好",
+            "阿茂整餅式簡報開始"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「今日嘅簡報主要分為……」為商務演報最標準之結構導引句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"灰色\":",
+          "prompt": "【問答過渡】簡報結束後禮貌邀請在場投資人或董事提問，標準專業話術係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：長短未適配）",
-            "聲調助詞搭配欠妥之表達（例項：高矮誤用）",
-            "語序顛倒嘅非標準句式（例項：大細錯置）"
+            "簡報到此為止，依家歡迎大家提問 (Presentation ends here, now welcome questions)",
+            "簡報講完，千祈咪問問題",
+            "邊有蛤乸跳問乜鬼",
+            "食死貓問答開始"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「簡報到此為止，依家歡迎大家提問」為演報過渡至Q&A之標準禮貌話術。"
         }
       ]
     },
@@ -10261,15 +10306,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"灰色\": Which sentence is completely correct?",
+          "prompt": "【演報價值主張】在項目提案中，闡述「核心競爭優勢」（Core Competitive Advantage）之關鍵目的在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第24課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：高矮誤用）",
-            "語序顛倒嘅非標準句式（例項：大細錯置）",
-            "混雜生硬詞彙之不規範語句（例項：長短未適配）"
+            "向投資人清晰展示本產品相比市場競品不可替代之獨特價值與技術門檻 (Highlighting unique, irreplaceable value and barriers to entry)",
+            "故意隱瞞所有財務數據",
+            "向評審抱怨行業艱辛",
+            "單純展示漂亮的幻燈片動畫"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "核心競爭優勢之剖析係說服投資人與決策者採納提案的最核心商業依據。"
         }
       ],
       "passThreshold": 0.8
