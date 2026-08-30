@@ -2228,85 +2228,89 @@
     "subject": "arabic",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs) (الدرس 1)",
+    "title": "النظام الصرفي للجذور الثلاثية والميزان الصرفي (The Root System & Morphological Balance)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: النظام الصرفي للجذور الثلاثية والأوزان القياسية، وتصريف الفعل المضارع مع الضمائر المنفصلة. (الجزء 1).",
+    "objective": "إتقان نظرية الجذور الثلاثية في اللغة العربية، واستخدام الميزان الصرفي القياسي (ف-ع-ل)، واشتقاق الأفعال والأسماء المشتقة من جذر دلالي واحد بدقة صرفية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "النظام الصرفي في اللغة العربية يعتمد على الاشتقاق الجذري، وهو أعظم خصائص الفصحى:\n\nأولاً: مفهوم الجذر الثلاثي (The Triconsonantal Root):\n- معظم كلمات اللغة العربية ترجع إلى جذر أساسي يتكون من ثلاثة أحرف صامتة تسمى (فَاءُ الفِعْلِ، عَيْنُ الفِعْلِ، لَامُ الفِعْلِ).\n- هذا الجذر يحمل النواة الدلالية العامة للكلمة:\n1.【جذر (ك - ت - ب) - معنى الكتابة والتدوين】:\n- كَتَبَ (He wrote) | يَكْتُبُ (He writes) | كِتَابٌ (Book) | كَاتِبٌ (Writer) | مَكْتَبٌ (Desk/Office) | مَكْتَبَةٌ (Library/Bookstore) | مَكْتُوبٌ (Written/Letter).\n2.【جذر (د - ر - س) - معنى الدرس والتعلم】:\n- دَرَسَ (He studied) | يَدْرُسُ (He studies) | دَرْسٌ (Lesson) | دِرَاسَةٌ (Study) | مُدَرِّسٌ (Teacher) | مَدْرَسَةٌ (School).\n3.【جذر (ع - ل - م) - معنى المعرفة والعلم】:\n- عَلِمَ (He knew) | يَعْلَمُ (He knows) | عِلْمٌ (Science/Knowledge) | عَالِمٌ (Scholar) | تَعْلِيمٌ (Education) | مَعْلُومَاتٌ (Information).\n\nثانياً: الميزان الصرفي (The Morphological Scale: ف - ع - ل):\n- وضع علماء الصرف كلمة «فَعَلَ» كميزان قياسي لمعرفة الحروف الأصلية والحروف الزائدة:\n- كَتَبَ على وزن فَعَلَ.\n- كَاتِبٌ على وزن فَاعِلٌ (بزيادة ألف بعد الفاء).\n- مَكْتُوبٌ على وزن مَفْعُولٌ (بزيادة ميم في البداية وواو قبل اللام).\n- مَكْتَبَةٌ على وزن مَفْعَلَةٌ.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)' to students in an accurate academic style."
+          "target": "يَشْتَقُّ عِلْمُ الصَّرْفِ مِئَاتِ الكَلِمَاتِ مِنْ جَذْرٍ ثُلَاثِيٍّ وَاحِدٍ بِاسْتِخْدَامِ المِيزَانِ الصَّرْفِيِّ «فَعَلَ».(Yashtaqqu ʿilmu aṣ-ṣarfi miʾāti al-kalimāti min jadhrin thulāthiyyin wāḥidin bi-stikhdāmi al-mīzāni aṣ-ṣarfiyy «faʿala».)",
+          "reading": "[jaʃ.taq.qu ʕil.mu‿sˤ.sˤar.fi mi.ʔaː.ti‿l.ka.li.maː.ti min ʒað.rin θu.laː.θij.jin waː.ħi.din bis.tix.daː.mi‿l.miː.zaː.ni‿sˤ.sˤar.fijj «fa.ʕa.la»] (Yash-taq-qu ʿil-mu aṣ-ṣar-fi mi-ʾā-ti al-ka-li-mā-ti min jadh-rin thu-lā-thiy-yin wā-ḥi-din bi-stikh-dā-mi al-mī-zā-ni aṣ-ṣar-fiyy «fa-ʿa-la».)",
+          "translation": "Morphology derives hundreds of words from a single triconsonantal root using the morphological scale «faʿala»."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "كَلِمَاتُ «كَاتِبٌ»، «مَكْتَبَةٌ»، «كِتَابٌ» تَشْتَرِكُ جَمِيعُهَا فِي الجَذْرِ الثُّلَاثِيِّ (ك-ت-ب).(Kalimātu «kātib», «maktabah», «kitāb» tashtariku jamīʿuhā fī al-jadhri ath-thulāthiyy (k-t-b).)",
+          "reading": "[ka.li.maː.tu «kaː.ti.bun», «mak.ta.ba.tun», «ki.taː.bun» taʃ.ta.ri.ku ʒa.miː.ʕu.haː fiː‿l.ʒað.ri‿θ.θu.laː.θijj (k-t-b)] (Ka-li-mā-tu «kā-ti-bun», «mak-ta-ba-tun», «ki-tā-bun» tash-ta-ri-ku ja-mī-ʿu-hā fī al-jadh-ri ath-thu-lā-thiyy (k-t-b).)",
+          "translation": "The words 'writer', 'library', and 'book' all share the triconsonantal root (k-t-b)."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "المِيزَانُ الصَّرْفِيُّ هُوَ المِقْيَاسُ الدَّقِيقُ لِمَعْرِفَةِ حُرُوفِ الكَلِمَةِ الأَصْلِيَّةِ وَالمَزِيدَةِ.(Al-mīzānu aṣ-ṣarfiyyu huwa al-miqyāsu ad-daqīqu li-maʿrifati ḥurūfi al-kalimati al-aṣliyyati wa-al-mazīdah.)",
+          "reading": "[al.miː.zaː.nu‿sˤ.sˤar.fij.ju hu.wa‿l.miq.jaː.su‿d.da.qiː.qu li.maʕ.ri.fa.ti ħu.ruː.fi‿l.ka.li.ma.ti‿l.ʔasˤ.lij.ja.ti wal.ma.ziː.dah] (Al-mī-zā-nu aṣ-ṣar-fiy-yu hu-wa al-miq-yā-su ad-da-qī-qu li-maʿ-ri-fa-ti ḥu-rū-fi al-ka-li-ma-ti al-aṣ-liy-ya-ti wa-al-ma-zī-dah.)",
+          "translation": "The morphological balance is the accurate measure for identifying the original and augmented letters of a word."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "مِنْ جَذْرِ (د-ر-س) نَصُوغُ: «دَرَسَ»، «يَدْرُسُ»، «دِرَاسَةً»، وَ«مَدْرَسَةً» لِلتَّعْلِيمِ.(Min jadhri (d-r-s) naṣūghu: «darasa», «yadrusu», «dirāsatan», wa-«madrasatan» li-t-taʿlīm.)",
+          "reading": "[min ʒað.ri (d-r-s) na.sˤuː.ɣu: «da.ra.sa», «jad.ru.su», «di.raː.sa.tan», wa.«mad.ra.sa.tan» lit.taʕ.liːm] (Min jadh-ri (d-r-s) na-ṣū-ghu: «da-ra-sa», «yad-ru-su», «di-rā-sa-tan», wa-«mad-ra-sa-tan» li-t-taʿ-līm.)",
+          "translation": "From the root (d-r-s) we formulate: 'he studied', 'he studies', 'studying', and 'a school' for education."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فَاءٌ وَعَيْنٌ ثُمَّ لَامُ المِيزَانْ، تَزِنُ الجُذُورَ بِأَبْدَعِ الأَوْزَانْ، لِلْفَهْمِ وَالعِلْمِ وَالبَيَانْ!"
+      ],
+      "culturalNotes": [
+        "يُعد المعجم العربي مرتبًا بحسب الجذور الثلاثية، بحيث يبحث القارئ عن كلمة «استكتاب» تحت جذر «كتب»، مما يعكس فلسفة اللغة الموحدة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» (الدرس 1)؟",
+          "prompt": "ما هو الجذر الثلاثي المشترك للكلمات التالية: «مَدْرَسَةٌ، مُدَرِّسٌ، دِرَاسَةٌ، يَدْرُسُ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (4.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (4.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (4.1.w3)"
+            "د - ر - س (D - R - S)",
+            "م - د - ر",
+            "س - ر - د",
+            "د - س - م"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الأحرف الأصلية الثابتة في جميع هذه المشتقات هي (الدال والراء والسين)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الوزن الصرفي لكلمة «كَاتِبٌ» في الميزان الصرفي العربي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فَاعِلٌ (Fāʿil)",
+            "مَفْعُولٌ",
+            "فَعِيلٌ",
+            "فُعُولٌ"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "كلمة «كَاتِبٌ» على وزن «فَاعِلٌ» لأنها اسم فاعل مشتق بزيادة ألف بعد فاء الفعل."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u4-l1):",
+          "prompt": "اختر الجملة التي تبين التطبيق السليم للاشتقاق الصرفي من جذر (ع-ل-م):",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (4.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (4.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (4.1.x3)"
+            "يَعْلَمُ العَالِمُ أَنَّ التَّعْلِيمَ يُنِيرُ دُرُوبَ الحَيَاةِ بِالمَعْلُومَاتِ القَيِّمَةِ. (The scholar knows that education illuminates the paths of life with valuable information.)",
+            "يعلم الكاتب ان المدرسة ترسم في الدفتر",
+            "العالم هو قلم ومسطرة بدون جذر",
+            "ليس هناك اشتقاق ولا اوزان في اللغة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف مشتقات متناسقة من جذر (ع-ل-م): «يعلم»، «العالم»، «التعليم»، «المعلومات»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)»؟",
+          "prompt": "ما هي الحروف الثلاثة التي يتكون منها الميزان الصرفي القياسي للكلمات المجردة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (4.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (4.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (4.1.y3)"
+            "ف - ع - ل (Faʿala)",
+            "ك - ت - ب",
+            "أ - ل - ف",
+            "ن - ح - و"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الميزان الصرفي القياسي يتكون من الفاء والعين واللام (فعل)."
         }
       ]
     },
@@ -2314,24 +2318,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 4-1)؟",
+          "prompt": "اختر الفقرة التي تشرح عبقرية النظام الصرفي العربي بأسلوب أكاديمي فصيح وضبط تام:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (4.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (4.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (4.1.z3)"
+            "تَمْتَازُ اللُّغَةُ العَرَبِيَّةُ بِعَبْقَرِيَّةِ نِظَامِهَا الجَذْرِيِّ؛ فَكُلُّ جَذْرٍ ثُلَاثِيٍّ يُوَلِّدُ عَشَرَاتِ الأَوْزَانِ وَالمَعَانِي الدَّقِيقَةِ مِثْلَ الفِعْلِ وَاسْمِ الفَاعِلِ وَالمَفْعُولِ وَاسْمِ المَكَانِ. (Arabic is distinguished by the genius of its root system; every triconsonantal root generates dozens of patterns and precise meanings such as verbs, active/passive participles, and nouns of place.)",
+            "اللغة العربية ليس فيها جذور بل كلمات مفردة متفرقة بدون ميزان.",
+            "فعل فاعل مفعول سكون ضمة فتحة مدرسة كتاب قلم.",
+            "الجذر هو حرف واحد فقط في اول الكلمة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تقدم تلخيصًا علميًا وبلاغيًا شاملاً لأهمية الاشتقاق والميزان الصرفي في الفصحى."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u4-l1) باللغة العربية (مثال: «الجذر»):",
+          "prompt": "اكتب باللغة العربية الفصحى الوزن الصرفي لكلمة «مَكْتُوب» (مثال: «مفعول»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الجذر",
-            "الجذر"
+            "مفعول",
+            "مَفْعُولٌ",
+            "مَفْعُول"
           ],
-          "explanation": "المصطلح الصحيح هو «الجذر»."
+          "explanation": "الوزن الصرفي لكلمة «مكتوب» هو «مفعول»."
         }
       ],
       "passThreshold": 0.8
@@ -2342,85 +2347,89 @@
     "subject": "arabic",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs) (الدرس 2)",
+    "title": "تصريف الفعل المضارع المجرد للضمائر المفردة (Present Tense Conjugation: Singular Pronouns)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: النظام الصرفي للجذور الثلاثية والأوزان القياسية، وتصريف الفعل المضارع مع الضمائر المنفصلة. (الجزء 2).",
+    "objective": "إتقان تصريف الفعل المضارع الصحيح المجرد مع ضمائر المفرد (أنا، أنتَ، أنتِ، هو، هي)، واستخدام أحرف المضارعة وعلامة الرفع بالضمة وثبوت النون.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الفعل المضارع هو الفعل الذي يدل على حدث يقع في زمن الحاضر أو المستقبل:\n\nأولاً: أحرف المضارعة (أ، ن، ت، ي - نَأْتِي):\n- يبدأ الفعل المضارع دائمًا بأحد هذه الأحرف الأربعة التي تحدد الفاعل:\n1.【أَنَا (1st Person Sing.)】: يبدأ بالهمزة (أَ) -> «أَنَا أَكْتُبُ» (I write)، «أَنَا أَدْرُسُ» (I study)، «أَنَا أَشْرَبُ» (I drink).\n2.【أَنْتَ (2nd Person Masc. Sing.)】: يبدأ بالتاء (تَ) -> «أَنْتَ تَكْتُبُ»، «أَنْتَ تَدْرُسُ»، «أَنْتَ تَشْرَبُ».\n3.【أَنْتِ (2nd Person Fem. Sing.)】: يبدأ بالتاء وينتهي بياء المخاطبة والنون (تَـ...ـِينَ) -> «أَنْتِ تَكْتُبِينَ»، «أَنْتِ تَدْرُسِينَ»، «أَنْتِ تَشْرَبِينَ».\n4.【هُوَ (3rd Person Masc. Sing.)】: يبدأ بالياء (يَ) -> «هُوَ يَكْتُبُ»، «هُوَ يَدْرُسُ»، «هُوَ يَشْرَبُ».\n5.【هِيَ (3rd Person Fem. Sing.)】: يبدأ بالتاء (تَ) -> «هِيَ تَكْتُبُ»، «هِيَ تَدْرُسُ»، «هِيَ تَشْرَبُ».\n\nثانياً: الإعراب والضبط الأصلي للفعل المضارع:\n- يكون الفعل المضارع **مَرْفُوعًا بالضَّمَّةِ الظَّاهِرَةِ** إذا لم يسبقه ناصب أو جازم: «يَكْتُبُ الأُسْتَاذُ».\n- مع «أنتِ» يكون مرفوعًا **بِثُبُوتِ النُّونِ** لأنه من الأفعال الخمسة: «تَكْتُبِينَ».\n\nثالثاً: النفي في المضارع:\n- نستخدم حرف النفي «لَا» مع الفعل المضارع المرفوع: «أَنَا لَا أَشْرَبُ الشَّايَ» (I do not drink tea).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)' to students in an accurate academic style."
+          "target": "أَنَا أَدْرُسُ اللُّغَةَ العَرَبِيَّةَ كُلَّ يَوْمٍ فِي المَعْهَدِ، وَأَنْتَ تَقْرَأُ الكُتُبَ المَفِيدَةَ.(Anā adrusu al-lughata al-ʿarabiyyata kulla yawmin fī al-maʿhad, wa-anta taqraʾu al-kutuba al-mufīdah.)",
+          "reading": "[ʔa.naː ʔad.ru.su‿l.lu.ɣa.ta‿l.ʕa.ra.bij.ja.ta kul.la jaw.min fiː‿l.maʕ.had, wa.ʔan.ta taq.ra.ʔu‿l.ku.tu.ba‿l.mu.fiː.dah] (A-nā ad-ru-su al-lu-gha-ta al-ʿa-ra-biy-ya-ta kul-la yaw-min fī al-maʿ-had, wa-an-ta taq-ra-ʾu al-ku-tu-ba al-mu-fī-dah.)",
+          "translation": "I study the Arabic language every day at the institute, and you read useful books."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هَلْ تَكْتُبِينَ وَاجِبَاتِكِ المَدْرَسِيَّةَ يَا فَاطِمَةُ؟ — نَعَمْ، أَنَا أَكْتُبُ المَقَالَةَ الآنَ.(Hal taktubīna wājibātiki al-madrasiyyata yā Fāṭimah? — Naʿam, anā aktubu al-maqālata al-ān.)",
+          "reading": "[hal tak.tu.biː.na waː.ʒi.baː.ti.ki‿l.mad.ra.sij.ja.ta jaː faː.tˤi.mah? — na.ʕam, ʔa.naː ʔak.tu.bu‿l.ma.qaː.la.ta‿l.ʔaːn] (Hal tak-tu-bī-na wā-ji-bā-ti-ki al-mad-ra-siy-ya-ta yā Fā-ṭi-mah? — Na-ʿam, a-nā ak-tu-bu al-ma-qā-la-ta al-ān.)",
+          "translation": "Are you writing your school assignments, Fatimah? — Yes, I am writing the essay now."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "هُوَ يَعْمَلُ فِي شَرِكَةٍ تِجَارِيَّةٍ كَبِيرَةٍ، وَهِيَ تُدَرِّسُ اللِّسَانِيَّاتِ فِي الجَامِعَةِ.(Huwa yaʿmalu fī sharikatin tijāriyyatin kabīrah, wa-hiya tudarrisu al-lisāniyyāti fī al-jāmiʿah.)",
+          "reading": "[hu.wa jaʕ.ma.lu fiː ʃa.ri.ka.tin ti.ʒaː.rij.ja.tin ka.biː.rah, wa.hi.ja tu.dar.ri.su‿l.li.saː.nij.jaː.ti fiː‿l.ʒaː.mi.ʕah] (Hu-wa yaʿ-ma-lu fī sha-ri-ka-tin ti-jā-riy-ya-tin ka-bī-rah, wa-hi-ya tu-dar-ri-su al-li-sā-niy-yā-ti fī al-jā-mi-ʿah.)",
+          "translation": "He works in a large commercial company, and she teaches linguistics at the university."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَبْدَأُ الفِعْلُ المُضَارِعُ بِأَحَدِ أَحْرُفِ المُضَارَعَةِ الأَرْبَعَةِ: الأَلِفِ وَالنُّونِ وَالتَّاءِ وَاليَاءِ.(Yabdaʾu al-fiʿlu al-muḍāriʿu bi-aḥadi aḥrufi al-muḍāraʿati al-arbaʿah: al-alif wa-an-nūn wa-at-tāʾ wa-al-yāʾ.)",
+          "reading": "[jab.da.ʔu‿l.fiʕ.lu‿l.mu.dˤaː.ri.ʕu bi.ʔa.ħa.di ʔaħ.ru.fi‿l.mu.dˤaː.ra.ʕa.ti‿l.ʔar.ba.ʕah: al.ʔa.li.fi wan.nuː.ni wat.taː.ʔi wal.jaːʔ] (Yab-da-ʾu al-fiʿ-lu al-mu-ḍā-ri-ʿu bi-a-ḥa-di aḥ-ru-fi al-mu-ḍā-ra-ʿa-ti al-ar-ba-ʿah: al-a-li-fi wa-an-nū-ni wa-at-tā-ʾi wa-al-yāʾ.)",
+          "translation": "The present tense verb begins with one of the four present tense prefixes: alif, nun, ta, and ya."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَنَا بِالأَلِفِ وَأَنْتَ بِالتَّاءِ انْتَظَمْ، وَهُوَ بِاليَاءِ وَهِيَ بِالتَّاءِ اكْتَمَلَ النَّغَمْ!"
+      ],
+      "culturalNotes": [
+        "في المخاطبة المؤنثة الفصيحة، يُعد الحفاظ على ياء المخاطبة والنون «تكتبين / تفعلين» من أجمل مظاهر الفصاحة اللغوية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» (الدرس 2)؟",
+          "prompt": "ما هو التصريف الصحيح للفعل «يَقْرَأُ» مع الضمير المخاطب المؤنث «أَنْتِ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (4.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (4.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (4.2.w3)"
+            "أَنْتِ تَقْرَئِينَ (Anti taqraʾīn)",
+            "أَنْتِ يَقْرَأُ",
+            "أَنْتِ تَقْرَأُ (للمذكر)",
+            "أَنْتِ أَقْرَأُ"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "مع «أنتِ» يبدأ الفعل بالتاء ويتصل بياء المخاطبة والنون: «تَقْرَئِينَ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي حركة الإعراب الأصلية للفعل المضارع المفرد الخالي من النواصب والجوازم؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الضَّمَّةُ الظَّاهِرَةُ (Ḍammah - Indicative)",
+            "الفتحة",
+            "الكسرة",
+            "السكون"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الفعل المضارع يرفع بالضمة الظاهرة على آخره في حالته القياسية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u4-l2):",
+          "prompt": "اختر الجملة التي تصرف الفعل المضارع للمتكلم والمخاطب والغائب بضبط سليم تمامًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (4.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (4.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (4.2.x3)"
+            "أَنَا أَشْرَبُ القَهْوَةَ، وَأَنْتَ تَشْرَبُ الشَّايَ، وَهُوَ يَشْرَبُ المَاءَ النَّقِيَّ. (I drink coffee, you drink tea, and he drinks pure water.)",
+            "انا يشرب القهوة وانت اشرب الشاي وهو تشرب الماء",
+            "انا تشربين القهوة وانت يشربون الشاي وهو نحن",
+            "يشرب نشرب يشربون بدون ضمائر"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تصرف «أشربُ» بالهمزة للمتكلم، و«تشربُ» بالتاء للمخاطب، و«يشربُ» بالياء للغائب."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)»؟",
+          "prompt": "ما هو الحرف المستعمل لنفي وقوع الفعل المضارع في الحاضر دون جزم أو نصب؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (4.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (4.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (4.2.y3)"
+            "لَا النَّافِيَةُ (Lā)",
+            "لَمْ (جازمة)",
+            "لَنْ (ناصبة للمستقبل)",
+            "إِنْ"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«لَا» النافية تنفي حدوث الفعل المضارع مع بقائه مرفوعًا بالضمة."
         }
       ]
     },
@@ -2428,24 +2437,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 4-2)؟",
+          "prompt": "اختر الفقرة التي تقدم استخدامًا فصيحًا ومتنوعًا للأفعال المضارعة المفردة في سياق دراسي يومي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (4.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (4.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (4.2.z3)"
+            "يَسْتَيْقِظُ زَيْدٌ مُبَكِّرًا، فَيَغْسِلُ وَجْهَهُ، وَيَتَنَاوَلُ طَعَامَ إِفْطَارِهِ، ثُمَّ يَذْهَبُ إِلَى الجَامِعَةِ حَيْثُ يَدْرُسُ العُلُومَ اللُّغَوِيَّةَ بِشَغَفٍ. (Zayd wakes up early, washes his face, eats his breakfast, then goes to the university where he studies linguistic sciences with passion.)",
+            "يستيقظ زيد يغسلون يتناولين يذهبون في الفصل.",
+            "انا يذهب وهو اذهب وهي نذهب بدون ترتيب.",
+            "افعال مضارعة مفردة سكون فتحة ضمة جامعة كتاب."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف أفعال الغائب المفرد المرفوعة «يستيقظُ، يغسلُ، يتناولُ، يذهبُ، يدرسُ» بتسلسل بياني متين."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u4-l2) باللغة العربية (مثال: «الجذر»):",
+          "prompt": "اكتب باللغة العربية الفصحى تصريف الفعل (ك-ت-ب) مع ضمير المتكلم المفرد «أنا» (مثال: «أكتب»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الجذر",
-            "الجذر"
+            "أكتب",
+            "اكتب",
+            "أَكْتُبُ"
           ],
-          "explanation": "المصطلح الصحيح هو «الجذر»."
+          "explanation": "مع أنا يُصرف الفعل بالهمزة: «أكتب»."
         }
       ],
       "passThreshold": 0.8
@@ -2456,85 +2466,89 @@
     "subject": "arabic",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs) (الدرس 3)",
+    "title": "تصريف الفعل المضارع للجمع وظروف التكرار (Present Conjugation: Plural & Frequency Adverbs)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: النظام الصرفي للجذور الثلاثية والأوزان القياسية، وتصريف الفعل المضارع مع الضمائر المنفصلة. (الجزء 3).",
+    "objective": "إتقان تصريف الفعل المضارع لضمائر الجمع (نحن، أنتم، أنتن، هم، هن) وعلامات إعرابه بثبوت النون أو السكون، واستخدام ظروف التكرار لوصف العادات.",
     "presentation": {
-      "explanation": "",
+      "explanation": "في هذا الدرس نتوسع في تصريف الفعل المضارع لضمائر الجمع ونربطه بظروف التكرار:\n\nأولاً: تصريف المضارع مع ضمائر الجمع (Plural Conjugation):\n1.【نَحْنُ (1st Person Plur.)】: يبدأ بالنون (نَـ) -> «نَحْنُ نَكْتُبُ»، «نَحْنُ نَدْرُسُ»، «نَحْنُ نَعْمَلُ» (مرفوع بالضمة).\n2.【أَنْتُمْ (2nd Person Masc. Plur.)】: يبدأ بالتاء وينتهي بواو الجماعة والنون (تَـ...ـُونَ) -> «أَنْتُمْ تَكْتُبُونَ»، «أَنْتُمْ تَدْرُسُونَ» (مرفوع بثبوت النون).\n3.【أَنْتُنَّ (2nd Person Fem. Plur.)】: يبدأ بالتاء وينتهي بنون النسوة (تَـ...ـْنَ) -> «أَنْتُنَّ تَكْتُبْنَ» (مبني على السكون).\n4.【هُمْ (3rd Person Masc. Plur.)】: يبدأ بالياء وينتهي بواو الجماعة والنون (يَـ...ـُونَ) -> «هُمْ يَكْتُبُونَ»، «هُمْ يَدْرُسُونَ» (مرفوع بثبوت النون).\n5.【هُنَّ (3rd Person Fem. Plur.)】: يبدأ بالياء وينتهي بنون النسوة (يَـ...ـْنَ) -> «هُنَّ يَكْتُبْنَ» (مبني على السكون).\n\nثانياً: ظروف التكرار والزمان (Adverbs of Frequency):\n- دَائِمًا (Always - 100%): «أَنَا أَسْتَيْقِظُ دَائِمًا مُبَكِّرًا».\n- عَادَةً (Usually - 80%): «نَحْنُ نَذْهَبُ عَادَةً مَعًا».\n- غَالِبًا (Often - 70%): «هُمْ يَقْرَؤُونَ غَالِبًا فِي المَكْتَبَةِ».\n- أَحْيَانًا (Sometimes - 50%): «أَنَا أَلْعَبُ أَحْيَانًا كُرَةَ القَدَمِ».\n- نَادِرًا (Rarely - 10%): «هُوَ يَشْرَبُ نَادِرًا العَصِيرَ».\n- أَبَدًا (Never - مع النفي): «أَنَا لَا أُدَخِّنُ أَبَدًا».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)' to students in an accurate academic style."
+          "target": "نَحْنُ نَسْتَيْقِظُ دَائِمًا فِي الصَّبَاحِ البَاكِرِ، وَنَشْرَبُ القَهْوَةَ العَرَبِيَّةَ مَعًا.(Naḥnu nastayqiẓu dāʾiman fī aṣ-ṣabāḥi al-bākir, wa-nashrabu al-qahwata al-ʿarabiyyata maʿan.)",
+          "reading": "[naħ.nu nas.taj.qi.zˤu daː.ʔi.man fiː‿sˤ.sˤa.baː.ħi‿l.baː.kir, wa.naʃ.ra.bu‿l.qah.wa.ta‿l.ʕa.ra.bij.ja.ta ma.ʕan] (Naḥ-nu nas-tay-qi-ẓu dā-ʾi-man fī aṣ-ṣa-bā-ḥi al-bā-kir, wa-nash-ra-bu al-qah-wa-ta al-ʿa-ra-biy-ya-ta ma-ʿan.)",
+          "translation": "We always wake up early in the morning, and we drink Arabic coffee together."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "الطُّلَّابُ يَذْهَبُونَ عَادَةً إِلَى المَكْتَبَةِ المَرْكَزِيَّةِ، وَأَحْيَانًا يُشَاهِدُونَ الأَفْلَامَ الوَثَائِقِيَّةَ.(Aṭ-ṭullābu yadhhabūna ʿādatan ilā al-maktabati al-markaziyyah, wa-aḥyānan yushāhidūna al-aflāma al-wathāʾiqiyyah.)",
+          "reading": "[atˤ.tˤul.laː.bu jað.ha.buː.na ʕaː.da.tan ʔi.laː‿l.mak.ta.ba.ti‿l.mar.ka.zij.jah, wa.ʔaħ.jaː.nan ju.ʃaː.hi.duː.na‿l.ʔaf.laː.ma‿l.wa.θaː.ʔi.qij.jah] (Aṭ-ṭul-lā-bu yadh-ha-bū-na ʿā-da-tan i-lā al-mak-ta-ba-ti al-mar-ka-ziy-yah, wa-aḥ-yā-nan yu-shā-hi-dū-na al-af-lā-ma al-wa-thā-ʾi-qiy-yah.)",
+          "translation": "The students usually go to the central library, and sometimes they watch documentary films."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَنْتُمْ تَبْحَثُونَ عَنِ الحَقِيقَةِ العِلْمِيَّةِ، وَتَقْضُونَ أَوْقَاتَ فَرَاغِكُمْ فِي القِرَاءَةِ الهَادِفَةِ.(Antum tabḥathūna ʿani al-ḥaqīqati al-ʿilmiyyah, wa-taqḍūna awqāta farāghikum fī al-qirāʾati al-hādifah.)",
+          "reading": "[ʔan.tum tab.ħa.θuː.na ʕa.ni‿l.ħa.qiː.qa.ti‿l.ʕil.mij.jah, wa.taq.dˤuː.na ʔaw.qaː.ta fa.raː.ɣi.kum fiː‿l.qi.raː.ʔa.ti‿l.haː.di.fah] (An-tum tab-ḥa-thū-na ʿa-ni al-ḥa-qī-qa-ti al-ʿil-miy-yah, wa-taq-ḍū-na aw-qā-ta fa-rā-ghi-kum fī al-qi-rā-ʾa-ti al-hā-di-fah.)",
+          "translation": "You seek scientific truth, and you spend your leisure time in purposeful reading."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَسْتَخْدِمُ ظُرُوفَ التَّكْرَارِ لِوَصْفِ الأَنْشِطَةِ اليَوْمِيَّةِ وَالعَادَاتِ المُتَكَرِّرَةِ.(Nastakhdimu ẓurūfa at-takrāri li-waṣfi al-anshiṭati al-yawmiyyati wa-al-ʿādāti al-mutakarrirah.)",
+          "reading": "[nas.tax.di.mu zˤu.ruː.fa‿t.tak.raː.ri li.wasˤ.fi‿l.ʔan.ʃi.tˤa.ti‿l.jaw.mij.ja.ti wal.ʕaː.daː.ti‿l.mu.ta.kar.ri.rah] (Nas-takh-di-mu ẓu-rū-fa at-tak-rā-ri li-waṣ-fi al-an-shi-ṭa-ti al-yaw-miy-ya-ti wa-al-ʿā-dā-ti al-mu-ta-kar-ri-rah.)",
+          "translation": "We use frequency adverbs to describe daily activities and recurring habits."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "وَاوٌ وَنُونٌ لِلْجَمَاعَةِ تَشْهَدْ، وَالنُّونُ مَعَ نَحْنُ فِي الخَيْرِ تَمْتَدْ!"
+      ],
+      "culturalNotes": [
+        "جلسات القهوة الصباحية والمناقشات الجماعية حول الكتب والأخبار تمثل ملمحًا اجتماعيًا بارزًا في الحياة الجامعية العربية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» (الدرس 3)؟",
+          "prompt": "ما هو التصريف الصحيح للفعل «يَعْمَلُ» مع ضمير الغائبين الذكور «هُمْ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (4.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (4.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (4.3.w3)"
+            "هُمْ يَعْمَلُونَ (Hum yaʿmalūn)",
+            "هُمْ تَعْمَلُونَ",
+            "هُمْ نَعْمَلُ",
+            "هُمْ يَعْمَلْنَ"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "مع «هُمْ» يبدأ الفعل بالياء ويتصل بواو الجماعة والنون: «يَعْمَلُونَ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الظرف المناسب للدلالة على القيام بالعمل بنسبة 100% دون انقطاع؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "دَائِمًا (Always)",
+            "أحيانًا",
+            "نادرًا",
+            "أبدًا"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«دَائِمًا» ظرف زمان يدل على الدوام والاستمرار الكامل."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u4-l3):",
+          "prompt": "اختر الجملة التي تعبر عن عادة يومية متكررة للطلاب باستخدام ظرف التكرار الصحيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (4.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (4.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (4.3.x3)"
+            "يَحْضُرُ الطُّلَّابُ دَائِمًا فِي مَوْعِدِ المُحَاضَرَةِ، وَيَسْتَمِعُونَ بِانْتِبَاهٍ. (The students always arrive on time for the lecture and listen attentively.)",
+            "يحضر الطلاب ابدا في موعد المحاضرة بالنفي",
+            "الطلاب يحضرون نادرا بدون فهم",
+            "نحن الطلاب دائما يكتبون انتم"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن الالتزام الدائم باستخدام «دائمًا» مع توافق الفاعل المفرد المتقدم والفعل المعطوف بالجمع."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)»؟",
+          "prompt": "ما هي علامة رفع الفعل المضارع المتصل بواو الجماعة (مثل: يدرسون / تكتبون)؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (4.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (4.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (4.3.y3)"
+            "ثُبُوتُ النُّونِ (Retention of Nūn)",
+            "الضمة الظاهرة",
+            "الفتحة",
+            "حذف النون"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الأفعال الخمسة ترفع بثبوت النون وتنصب وتجزم بحذفها."
         }
       ]
     },
@@ -2542,24 +2556,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 4-3)؟",
+          "prompt": "اختر النص الذي يصف الأنشطة الجماعية للطلاب في الحرم الجامعي باستخدام أفعال الجمع وظروف التكرار:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (4.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (4.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (4.3.z3)"
+            "نَحْنُ نَجْتَمِعُ عَادَةً فِي مَقْهَى الجَامِعَةِ بَعْدَ الدَّرْسِ؛ حَيْثُ يُنَاقِشُ الزُّمَلَاءُ البُحُوثَ العِلْمِيَّةَ، وَأَحْيَانًا نَتَبَادَلُ الكُتُبَ وَالمَرَاجِعَ المُهِمَّةَ. (We usually meet in the university café after class; where colleagues discuss scholarly research, and sometimes we exchange important books and references.)",
+            "نحن تجتمعون هم نجلس انتم تذهبين في المقهى.",
+            "الطلاب لا يدرسون ابدا ولا يفعلون شيئا هذا اليوم.",
+            "ظروف تكرار افعال خمسة سكون واو نون كلية."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يدمج بدقة بين «نجتمعُ»، «عادةً»، «يناقشُ»، «أحيانًا»، «نتبادلُ» في سياق جامعي راقٍ وسليم إعرابيًا."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u4-l3) باللغة العربية (مثال: «الجذر»):",
+          "prompt": "اكتب باللغة العربية الفصحى ظرف التكرار الذي يعني «Usually / Customarily» (مثال: «عادة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الجذر",
-            "الجذر"
+            "عادة",
+            "عَادَةً",
+            "عادةً"
           ],
-          "explanation": "المصطلح الصحيح هو «الجذر»."
+          "explanation": "الظرف الفصيح هو «عادة» أو «عادةً»."
         }
       ],
       "passThreshold": 0.8
@@ -2570,85 +2585,89 @@
     "subject": "arabic",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs) (الدرس 4)",
+    "title": "معجم الهوايات وأوقات الفراغ وأفعال الأنشطة (Hobbies, Leisure & Activities)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: النظام الصرفي للجذور الثلاثية والأوزان القياسية، وتصريف الفعل المضارع مع الضمائر المنفصلة. (الجزء 4).",
+    "objective": "إتقان معجم الهوايات والأنشطة الترويحية (القراءة، الكتابة، الرياضة، السباحة، العزف، السفر)، والتعبير عن الميول والتفضيلات بأساليب فصيحة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الهوايات والأنشطة الترويحية جزء أساسي من حياة الإنسان، واللغة العربية غنية بالألفاظ المعبرة عنها:\n\nأولاً: معجم الهوايات والاهتمامات (Hobbies & Leisure Activities):\n1.【الأنشطة الفكرية والأدبية】:\n- القِرَاءَةُ (Reading) | الكِتَابَةُ الإِبْدَاعِيَّةُ (Creative writing) | التَّرْجَمَةُ (Translation) | لَعِبُ الشَّطْرَنْجِ (Playing chess).\n2.【الفنون والموسيقى】:\n- الرَّسْمُ (Drawing/Painting) | الخَطُّ العَرَبِيُّ (Arabic calligraphy) | العَزْفُ عَلَى العُودِ (Playing the oud) | التَّصْوِيرُ الفَوْتُوغْرَافِيُّ (Photography).\n3.【الرياضة والحركة】:\n- السِّبَاحَةُ (Swimming) | كُرَةُ القَدَمِ (Football) | كُرَةُ السَّلَّةِ (Basketball) | الجَرْيُ وَالمَشْيُ (Running & Walking) | رُكُوبُ الخَيْلِ (Horseback riding).\n4.【الترحال والاستكشاف】:\n- السَّفَرُ وَالسِّيَاحَةُ (Travel & Tourism) | التَّخْيِيمُ فِي الطَّبِيعَةِ (Camping).\n\nثانياً: تراكيب التعبير عن التفضيل والهواية:\n- «هِوَايَتِي المُفَضَّلَةُ هِيَ...» (My favorite hobby is...).\n- «أَنَا أُحِبُّ أَنْ أَقْرَأَ...» (I like to read...).\n- «أُفَضِّلُ الرِّيَاضَةَ عَلَى الجُلُوسِ» (I prefer sports over sitting).\n- «فِي وَقْتِ الفَرَاغِ» (In free time).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)' to students in an accurate academic style."
+          "target": "هِوَايَتِي المُفَضَّلَةُ هِيَ قِرَاءَةُ الرِّوَايَاتِ الأَدَبِيَّةِ وَالعَزْفُ عَلَى آلَةِ العُودِ الشَّرْقِيِّ.(Hiwāyatī al-mufaḍḍalatu hiya qirāʾatu ar-riwāyāti al-adabiyyati wa-al-ʿazfu ʿalā ālati al-ʿūdi ash-sharqiyy.)",
+          "reading": "[hi.waː.ja.tiː‿l.mu.fadˤ.dˤa.la.tu hi.ja qi.raː.ʔa.tu‿r.ri.waː.jaː.ti‿l.ʔa.da.bij.ja.ti wal.ʕaz.fu ʕa.laː ʔaː.la.ti‿l.ʕuː.di‿ʃ.ʃar.qijj] (Hi-wā-ya-tī al-mu-faḍ-ḍa-la-tu hi-ya qi-rā-ʾa-tu ar-ri-wā-yā-ti al-a-da-biy-ya-ti wa-al-ʿaz-fu ʿa-lā ā-la-ti al-ʿū-di ash-shar-qiyy.)",
+          "translation": "My favorite hobby is reading literary novels and playing the oriental oud."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يُفَضِّلُ أَخِي مُمَارَسَةَ رِيَاضَةِ السِّبَاحَةِ وَلَعِبَ كُرَةِ القَدَمِ مَعَ أَصْدِقَائِهِ فِي النَّادِي.(Yufaḍḍilu akhī mumārasata riyāḍati as-sibāḥati wa-laʿiba kurati al-qadami maʿa aṣdiqāʾihi fī an-nādī.)",
+          "reading": "[ju.fadˤ.dˤi.lu ʔa.xiː mu.maː.ra.sa.ta ri.jaː.dˤa.ti‿s.si.baː.ħa.ti wa.la.ʕi.ba ku.ra.ti‿l.qa.da.mi ma.ʕa ʔasˤ.di.qaː.ʔi.hi fiː‿n.naː.diː] (Yu-faḍ-ḍi-lu a-khī mu-mā-ra-sa-ta ri-yā-ḍa-ti as-si-bā-ḥa-ti wa-la-ʿi-ba ku-ra-ti al-qa-da-mi ma-ʿa aṣ-di-qā-ʾi-hi fī an-nā-dī.)",
+          "translation": "My brother prefers practicing swimming and playing football with his friends at the club."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فِي وَقْتِ الفَرَاغِ، نَسْتَمِعُ إِلَى المُوسِيقَى الكَلَاسِيكِيَّةِ وَنَلْتَقِطُ صُوَرًا فَوْتُوغْرَافِيَّةً لِلطَّبِيعَةِ.(Fī waqti al-farāgh, nastamiʿu ilā al-mūsīqā al-klāsīkiyyati wa-naltaqiṭu ṣuwaran fūtūghrāfiyyatan li-ṭ-ṭabīʿah.)",
+          "reading": "[fiː waq.ti‿l.fa.raːɣ, nas.ta.mi.ʕu ʔi.laː‿l.muː.siː.qaː‿l.klaː.siː.kij.ja.ti wa.nal.ta.qi.tˤu sˤu.wa.ran fuː.tuː.ɣraː.fij.ja.tan litˤ.tˤa.biː.ʕah] (Fī waq-ti al-fa-rāgh, nas-ta-mi-ʿu i-lā al-mū-sī-qā al-klā-sī-kiy-ya-ti wa-nal-ta-qi-ṭu ṣu-wa-ran fū-tū-ghrā-fiy-ya-tan li-ṭ-ṭa-bī-ʿah.)",
+          "translation": "In our leisure time, we listen to classical music and take photographs of nature."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لَا يُحِبُّ سَلِيمٌ السَّهَرَ لَيْلًا، بَلْ يُفَضِّلُ النَّوْمَ مُبَكِّرًا وَالِاسْتِيقَاظَ نَشِيطًا.(Lā yuḥibbu Salīmun as-sahara laylan, bal yufaḍḍilu an-nawma mubakkiran wa-al-istīqāẓa nashīṭan.)",
+          "reading": "[laː ju.ħib.bu sa.liː.mun‿as.sa.ha.ra laj.lan, bal ju.fadˤ.dˤi.lu‿n.naw.ma mu.bak.ki.ran wal.ʔis.tiː.qaː.zˤa na.ʃiː.tˤan] (Lā yu-ḥib-bu Sa-lī-mun as-sa-ha-ra lay-lan, bal yu-faḍ-ḍi-lu an-naw-ma mu-bak-ki-ran wa-al-is-tī-qā-ẓa na-shī-ṭan.)",
+          "translation": "Salim does not like staying up late at night; rather, he prefers sleeping early and waking up energized."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "قِرَاءَةٌ وَسِبَاحَةٌ وَعَزْفٌ جَمِيلْ، هِوَايَاتُنَا تُنْعِشُ الرُّوحَ بِلَا مَثِيلْ!"
+      ],
+      "culturalNotes": [
+        "فن الخط العربي يُعد من أرقى الفنون البصرية في الثقافة الإسلامية، وممارسة «الخط العربي» هواية تجمع بين الدقة الهندسية والجمال الروحي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» (الدرس 4)؟",
+          "prompt": "ما هو التعبير العربي الفصيح لقول «My favorite hobby is reading»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (4.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (4.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (4.4.w3)"
+            "هِوَايَتِي المُفَضَّلَةُ هِيَ القِرَاءَةُ (Hiwāyatī al-mufaḍḍalatu hiya al-qirāʾah)",
+            "أنا لا أحب القراءة",
+            "هوايتي هي النوم في الفصل",
+            "القراءة ليست هواية جميلة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الصيغة القياسية الفصيحة للتعبير عن الهواية الأثيرة هي «هِوَايَتِي المُفَضَّلَةُ هِيَ القِرَاءَةُ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي الآلة الموسيقية الوترية التقليدية التي تُعد رمزًا للموسيقى العربية الكلاسيكية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "العُودُ (Al-ʿŪd)",
+            "البيانو",
+            "الغيتار الكهربائي",
+            "الطبول الإلكترونية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«العُود» هو الآلة الوترية الشرقية الأصيلة وسلطان التخت الموسيقي العربي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u4-l4):",
+          "prompt": "اختر الجملة التي تبين الجمع بين الرياضة والفنون في أوقات الفراغ بأسلوب فصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (4.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (4.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (4.4.x3)"
+            "فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ، أُمَارِسُ السِّبَاحَةَ فِي الصَّبَاحِ، وَأَتَعَلَّمُ الخَطَّ العَرَبِيَّ فِي المَسَاءِ. (On the weekend, I practice swimming in the morning, and learn Arabic calligraphy in the evening.)",
+            "في عطلة نهاية الاسبوع انا انام فقط ولا افعل شيئا",
+            "السباحة والخط العربي غير موجودين في بلدنا",
+            "عطلة نهاية الاسبوع هي ايام دراسة وامتحانات فقط"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة توظف معجم الهوايات (السباحة، الخط العربي) مع تحديد التوقيت بدقة وبلاغة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)»؟",
+          "prompt": "ما معنى التركيب الشائع «وَقْت الفَرَاغ» في اللغة العربية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (4.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (4.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (4.4.y3)"
+            "الوَقْتُ الحُرُّ الخَالِي مِنَ العَمَلِ وَالدِّرَاسَةِ (Leisure / Free time)",
+            "وقت الامتحان الصعب",
+            "وقت النوم ليلا",
+            "وقت المرض والتعب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«وقت الفراغ» هو الوقت المتاح للترويح وممارسة الهوايات الشخصية."
         }
       ]
     },
@@ -2656,24 +2675,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 4-4)؟",
+          "prompt": "اختر الفقرة التي تقدم وصفًا شاملاً للميول والهوايات الرياضية والأدبية بتراكيب عربية سليمة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (4.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (4.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (4.4.z3)"
+            "يَتَمَتَّعُ طُلَّابُ الجَامِعَةِ بِهَوَايَاتٍ مُتَنَوِّعَةٍ: فَبَعْضُهُمْ يُفَضِّلُ الجَرْيَ وَلَعِبَ كُرَةِ السَّلَّةِ، وَآخَرُونَ يَعْشَقُونَ كِتَابَةَ الشِّعْرِ وَالتَّصْوِيرَ الفَوْتُوغْرَافِيَّ، مِمَّا يَجْعَلُ حَيَاتَهُمْ مَلِيئَةً بِالنَّشَاطِ وَالإِبْدَاعِ. (University students enjoy varied hobbies: some prefer running and playing basketball, others adore writing poetry and photography, making their lives full of activity and creativity.)",
+            "طلاب الجامعة ليس عندهم هوايات ولا رياضة ولا شعر.",
+            "هوايات متعددة كرات شعر الوان تصوير سكون فتحة.",
+            "نحن نلعب في الشارع بدون كتاب ولا رياضة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تمتاز بالثراء المعجمي والتناسق الإعرابي والدلالي في تصوير الهوايات والأنشطة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u4-l4) باللغة العربية (مثال: «الجذر»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الرياضة المائية التي تعني «Swimming» (مثال: «السباحة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الجذر",
-            "الجذر"
+            "السباحة",
+            "السِّبَاحَةُ",
+            "سباحة"
           ],
-          "explanation": "المصطلح الصحيح هو «الجذر»."
+          "explanation": "الرياضة المائية هي «السباحة»."
         }
       ],
       "passThreshold": 0.8
@@ -2684,85 +2704,89 @@
     "subject": "arabic",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs) (الدرس 5)",
+    "title": "حوار اليوم النموذجي والهوايات في السكن الجامعي (Comprehensive Daily Routine & Hobbies Dialogue)",
     "level": "A1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: النظام الصرفي للجذور الثلاثية والأوزان القياسية، وتصريف الفعل المضارع مع الضمائر المنفصلة. (الجزء 5).",
+    "objective": "الدمج الشامل لمهارات الوحدة الرابعة: تصريف الفعل المضارع للمفرد والجمع، استخدام ظروف التكرار، وتوظيف معجم الروتين اليومي والهوايات في حوار متكامل وسرد فصيح.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الرابعة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المهارات الصرفية والتعبيرية في حوار شيق بين طالبين في السكن الجامعي (طارق وسامي) يصفان يومهما النموذجي وهواياتهما المفضلة:\n\nعناصر النص الحواري والسردي المتكامل:\n1.【أفعال الروتين الصباحي】: «أَسْتَيْقِظُ»، «أَتَوَضَّأُ وَأُصَلِّي»، «أَتَنَاوَلُ الفُطُورَ»، «أَذْهَبُ إِلَى الكُلِّيَّةِ».\n2.【أفعال الحياة الجامعية والجمع】: «نَحْضُرُ المُحَاضَرَاتِ»، «نَكْتُبُ المُلَاحَظَاتِ»، «نُنَاقِشُ الأَسَاتِذَةَ».\n3.【ظروف التكرار الموزعة بدقة】: «دَائِمًا»، «عَادَةً»، «أَحْيَانًا»، «غَالِبًا»، «نَادِرًا»، «أَبَدًا».\n4.【الهوايات والأنشطة المسائية】: «مُمَارَسَةُ الرِّيَاضَةِ فِي النَّادِي»، «قِرَاءَةُ الرِّوَايَاتِ»، «العَزْفُ عَلَى العُودِ»، «لَعِبُ الشَّطْرَنْجِ».\n5.【القيم والتوازن الحياتي】: استثمار الوقت وتنظيم الجدول اليومي بما يجمع بين التحصيل العلمي والراحة النفسية والبدنية.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)' to students in an accurate academic style."
+          "target": "كَيْفَ تَقْضِي يَوْمَكَ النَّمُوذَجِيَّ فِي السَّكَنِ الجَامِعِيِّ؟ — أَسْتَيْقِظُ دَائِمًا فِي السَّادِسَةِ صَبَاحًا وَأُصَلِّي.(Kayfa taqḍī yawmaka an-namūdhajiyya fī as-sakani al-jāmiʿiyy? — Astayqiẓu dāʾiman fī as-sādisati ṣabāḥan wa-uṣallī.)",
+          "reading": "[kaj.fa taq.dˤiː jaw.ma.ka‿n.na.muː.ða.d͡ʒij.ja fiː‿s.sa.ka.ni‿l.ʒaː.mi.ʕijj? — ʔas.taj.qi.zˤu daː.ʔi.man fiː‿s.saː.di.sa.ti sˤa.baː.ħan wa.ʔu.sˤal.liː] (Kay-fa taq-ḍī yaw-ma-ka an-na-mū-dha-jiy-ya fī as-sa-ka-ni al-jā-mi-ʿiyy? — As-tay-qi-ẓu dā-ʾi-man fī as-sā-di-sa-ti ṣa-bā-ḥan wa-u-ṣal-lī.)",
+          "translation": "How do you spend your typical day in university housing? — I always wake up at six in the morning and pray."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "بَعْدَ تَنَاوُلِ الفُطُورِ، أَذْهَبُ إِلَى الكُلِّيَّةِ حَيْثُ نَحْضُرُ ثَلَاثَ مُحَاضَرَاتٍ فِي اللُّغَوِيَّاتِ وَالأَدَبِ.(Baʿda tanāwuli al-fuṭūr, adhhabu ilā al-kulliyyati ḥaythu naḥḍuru thalātha muḥāḍarātin fī al-lughawiyyāti wa-al-adab.)",
+          "reading": "[baʕ.da ta.naː.wu.li‿l.fu.tˤuːr, ʔað.ha.bu ʔi.laː‿l.kul.lij.ja.ti ħaj.θu naħ.dˤu.ru θa.laː.θa mu.ħaː.dˤa.raː.tin fiː‿l.lu.ɣa.wij.jaː.ti wal.ʔa.dab] (Baʿ-da ta-nā-wu-li al-fu-ṭūr, adh-ha-bu i-lā al-kul-liy-ya-ti ḥay-thu naḥ-ḍu-ru tha-lā-tha mu-ḥā-ḍa-rā-tin fī al-lu-gha-wiy-yā-ti wa-al-a-dab.)",
+          "translation": "After having breakfast, I go to the faculty where we attend three lectures in linguistics and literature."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فِي المَسَاءِ نُمَارِسُ الرِّيَاضَةَ فِي النَّادِي، ثُمَّ نَقْرَأُ الكُتُبَ وَنَتَحَدَّثُ حَوْلَ هِوَايَاتِنَا المُفَضَّلَةِ.(Fī al-masāʾi numārisu ar-riyāḍata fī an-nādī, thumma naqraʾu al-kutuba wa-nataḥaddathu ḥawla hiwāyātinā al-mufaḍḍalah.)",
+          "reading": "[fiː‿l.ma.saː.ʔi nu.maː.ri.su‿r.ri.jaː.dˤa.ta fiː‿n.naː.diː, θum.ma naq.ra.ʔu‿l.ku.tu.ba wa.na.ta.ħad.da.θu ħaw.la hi.waː.jaː.ti.naː‿l.mu.fadˤ.dˤa.lah] (Fī al-ma-sā-ʾi nu-mā-ri-su ar-ri-yā-ḍa-ta fī an-nā-dī, thum-ma naq-ra-ʾu al-ku-tu-ba wa-na-ta-ḥad-da-thu ḥaw-la hi-wā-yā-ti-nā al-mu-faḍ-ḍa-lah.)",
+          "translation": "In the evening we practice sports at the club, then read books and talk about our favorite hobbies."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَقْضِي أَوْقَاتَنَا بَيْنَ الجِدِّ وَالمَعْرِفَةِ وَالتَّرْوِيحِ عَنِ النَّفْسِ بِأَنْشِطَةٍ مُفِيدَةٍ تُنَمِّي العَقْلَ وَالجَسَدَ.(Naqḍī awqātanā bayna al-jiddi wa-al-maʿrifati wa-at-tarwīḥi ʿani an-nafsi bi-anshiṭatin mufīdatin tunammī al-ʿaqla wa-al-jasad.)",
+          "reading": "[naq.dˤiː ʔaw.qaː.ta.naː baj.na‿l.ʒid.di wal.maʕ.ri.fa.ti wat.tar.wiː.ħi ʕa.ni‿n.naf.si bi.ʔan.ʃi.tˤa.tin mu.fiː.da.tin tu.nam.miː‿l.ʕaq.la wal.ʒa.sad] (Naq-ḍī aw-qā-ta-nā bay-na al-jid-di wa-al-maʿ-ri-fa-ti wa-at-tar-wī-ḥi ʿa-ni an-naf-si bi-an-shi-ṭa-tin mu-fī-da-tin tu-nam-mī al-ʿaq-la wa-al-ja-sad.)",
+          "translation": "We spend our time between diligence, knowledge, and recreation with useful activities that develop mind and body."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "رُوتِينُنَا بِالجِدِّ وَالفِعْلِ المُضَارِعْ، يُنَظِّمُ الأَيَّامَ فِي كُلِّ المَرَافِعْ، وَيَجْمَعُ الهِوَايَاتِ فِي سِحْرِ البَدَائِعْ!"
+      ],
+      "culturalNotes": [
+        "الحياة في السكن الجامعي والتشارك في إعداد الطعام والمذاكرة وممارسة الهوايات تبني صداقات وطيدة تستمر مدى الحياة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» (الدرس 5)؟",
+          "prompt": "في حوار الروتين اليومي، كيف تسأل زميلك عن هوايته المفضلة وأنشطته المسائية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)» بأسلوب أكاديمي دقيق (4.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (4.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (4.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (4.5.w3)"
+            "مَا هِيَ هِوَايَتُكَ المُفَضَّلَةُ وَكَيْفَ تَقْضِي أَمْسِيَتَكَ؟ (What is your favorite hobby and how do you spend your evening?)",
+            "أين وضعت نقودك وساعتك؟",
+            "هل الامتحان اليوم صعب جدا؟",
+            "لماذا لا تنام في النهار؟"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "السؤال يجمع بين الاستفسار عن الهواية الأثيرة وتفاصيل قضاء الأمسية بأسلوب عربي فصيح."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الفعل المضارع المناسب لفاعل جمع المتكلمين «نَحْنُ» عند الحديث عن ممارسة الرياضة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "نُمَارِسُ (Numārisu)",
+            "يُمَارِسُونَ",
+            "تُمَارِسِينَ",
+            "أُمَارِسُ"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "مع «نحن» يبدأ الفعل بالنون المرفوعة بالضمة: «نُمَارِسُ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u4-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تعبر عن التنسيق بين الدراسة والترفيه بأسلوب متكامل:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (4.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (4.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (4.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (4.5.x3)"
+            "— مَتَى تَبْدَأُ المُذَاكَرَةَ؟ — أَبْدَأُ عَادَةً فِي السَّابِعَةِ مَسَاءً بَعْدَ مُبَارَاةِ الشَّطْرَنْجِ، وَنَدْرُسُ مَعًا لِمُدَّةِ سَاعَتَيْنِ. (When do you start studying? — I usually start at 7:00 PM after the chess match, and we study together for two hours.)",
+            "— متى نلعب؟ — لا يوجد دراسة ولا شطرنج نحن نائمون.",
+            "— اين الجامعة؟ — الساعة عشرة صباحا بدون وقت محدد.",
+            "— ماذا تفعل؟ — انا هو انت هي نحن في السكن."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف السؤال والجواب وظرف التكرار «عادةً» وتحديد الوقت بالأعداد والأنشطة بدقة عالية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الجذر والوزن وتصريف الفعل المضارع (Roots & Present Verbs)»؟",
+          "prompt": "ما هي الحكمة العربية الشهيرة التي تحث على التوازن الرياضي والفكري؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (4.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (4.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (4.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (4.5.y3)"
+            "العَقْلُ السَّلِيمُ فِي الجِسْمِ السَّلِيمِ (A sound mind in a sound body)",
+            "الوقت من ذهب فقط",
+            "العلم نور والجهل ظلام فقط",
+            "الصحة تاج على رؤوس الأصحاء فقط"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "المثل الشهير هو «العقل السليم في الجسم السليم»."
         }
       ]
     },
@@ -2770,24 +2794,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 4-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الرابعة بأكملها (الجذور، تصريف المضارع، ظروف التكرار، الهوايات والروتين):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (4.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (4.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (4.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (4.5.z3)"
+            "يَصِفُ طَارِقٌ يَوْمَهُ فِي الجَامِعَةِ قَائِلًا: «أَسْتَيْقِظُ دَائِمًا مُبَكِّرًا، وَأَذْهَبُ مَعَ زُمَلَائِي حَيْثُ نَدْرُسُ اللُّغَوِيَّاتِ، وَفِي المَسَاءِ نَلْتَقِي عَادَةً فِي النَّادِي لِمُمَارَسَةِ السِّبَاحَةِ وَلَعِبِ الشَّطْرَنْجِ، ثُمَّ نَقْرَأُ رِوَايَاتِنَا المُفَضَّلَةَ قَبْلَ النَّوْمِ». (Tariq describes his day at university: 'I always wake up early, go with my classmates to study linguistics, in the evening we usually meet at the club to swim and play chess, then read our favorite novels before sleep.')",
+            "يصف طارق يومه بالافعال الماضية فقط بدون ظروف تكرار.",
+            "نحن نذهب انت تدرس هو يكتبون بدون ترتيب في الكلية.",
+            "لا يوجد روتين ولا دراسة ولا سكن جامعي في هذا الفصل."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة في دمج كافة الكفايات الصرفية والزمنية والروتينية للوحدة الرابعة بتناغم إعرابي مبهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u4-l5) باللغة العربية (مثال: «الجذر»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم اللعبة الذهنية التكتيكية الشهيرة التي تعني «Chess» (مثال: «الشطرنج»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الجذر",
-            "الجذر"
+            "الشطرنج",
+            "الشِّطْرَنْجُ",
+            "شطرنج"
           ],
-          "explanation": "المصطلح الصحيح هو «الجذر»."
+          "explanation": "اللعبة الذهنية هي «الشطرنج»."
         }
       ],
       "passThreshold": 0.8
