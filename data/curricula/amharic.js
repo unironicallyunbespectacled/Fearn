@@ -14014,85 +14014,62 @@
     "subject": "amharic",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (ክፍል 1)",
+    "title": "የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Methodologies & Study Design)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአካዳሚክ ምርምር ጽሑፎች፣ ሳይንሳዊ ግኝቶች እና የምርምር ዘዴዎች። (ክፍል 1)።",
+    "objective": "የምርምር ዘዴዎችን፣ የመላምት አወቃቀርን እና የጥናት ንድፍ መሰረታዊ ቃላትን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሳይንሳዊ ምርምር እና የጥናት ንድፍ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ምርምር (Research) / ተመራማሪ (Researcher)\n- ዘዴ (Methodology) / የጥናት ንድፍ (Study design)\n- መላምት (Hypothesis) / ተለዋዋጭ (Variable)።\n\n፪. ዋና መርሆዎች:\n- ሳይንሳዊ ምርምር ግልጽ ጥያቄን፣ ተጨባጭ መላምትን እና ትክክለኛ የጥናት ንድፍን መሰረት በማድረግ እውነታን ያረጋግጣል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)' to the students."
+          "target": "ተመራማሪው ሳይንሳዊ ዘዴን በመጠቀም የቀረበውን መላምት በሙከራ አረጋገጠ።",
+          "reading": "Tämäramariw sayənsawi zäden bämät’t’äqäm yäqärräbäwən mälamət bämukkära aräggaggät’ä. [tɛmɛraˈmariw sajinˈsawi zɛˈden bəmətʼːɛˈkʼəm jɛkʼɛrːɛˈbɛwɨn mɛlaˈmɨt bəmuˈkːɛra ʔarəɡaɡːɛˈtʼɛ] (teh-meh-rah-MAH-ree-woo sigh-un-SAH-wee zeh-DAYN beh-mut'-t'eh-K'EM yeh-k'er-reh-BEW-un meh-lah-MUT beh-mook-KEH-rah ah-rug-gahg-get'-EH)",
+          "translation": "The researcher validated the proposed hypothesis through experimentation using the scientific method."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጥራት ያለው የጥናት ንድፍ የውጤቱን ተዓማኒነት እና ተቀባይነት ከፍ ያደርጋል።",
+          "reading": "T’ərat yaläw yät’ənat nədəf yäwət’etun tä’amaninnät ənna täqäbayənnät kəff yadärgall. [tʼɨˈrat jaˈlɛw jətʼɨˈnat nɨˈdɨf jɛwɨtʼeˈtun tɛʔamaˈninːɛt ʔɨnːa tɛkʼɛbaˈjinːɛt kɨfː jadɛrˈɡalː] (t'uh-RAHT yah-LEW yeh-t'uh-NAHT nuh-DUHF yeh-wuh-t'ay-TOON teh-ah-mah-neen-NET un-nah teh-k'eh-bah-yeen-NET kuff yah-der-GAHL)",
+          "translation": "A high-quality study design elevates the credibility and acceptability of the findings."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በምርምር ሂደት ውስጥ ቁልፍ ተለዋዋጮችን በጥንቃቄ መለየት እና መቆጣጠር ያስፈልጋል።",
+          "reading": "Bämərəmər hidät wəsət’ quləf täläwawač’oččən bät’ənəqqaqe mäläyät ənna mäqot’at’t’är yasfäləgall. [bəmɨrɨˈmɨr hiˈdɛt wɨstʼ kʼulɨf tɛlɛwawaˈtʃʼotʃːɨn bətʼɨnkʼaˈkʼe mɛlɛˈjɛt ʔɨnːa məkʼotʼaˈtʼːɛr jasfɛlɨˈɡalː] (beh-muh-ruh-MUR hee-DET woos-T' k'ool-UF teh-leh-wah-wah-CH'OHCH-chun beh-t'un-k'ah-K'AY meh-leh-YET un-nah meh-k'oh-t'aht'-T'ER yahs-feh-luh-GAHL)",
+          "translation": "During the research process, it is essential to carefully identify and control key variables."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Scientific Research: ምርምር (Research) + ዘዴ (Methodology) + መላምት (Hypothesis) + ተለዋዋጭ (Variable)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ሳይንስ አካዳሚ እና ጥንታዊው የአዲስ አበባ ዩኒቨርሲቲ በርካታ ዓለም አቀፍ ሳይንሳዊ ምርምሮችን ያካሂዳሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በሳይንሳዊ ምርምር ውስጥ ሊረጋገጥ ወይም ውድቅ ሊደረግ የሚችል ጊዜያዊ ግምት ወይም ሀሳብ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (31.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (31.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (31.1.w3)"
+            "መላምት (Hypothesis - Proposition or tentative conjecture)",
+            "ግጥም",
+            "ተረት",
+            "ልቦለድ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«መላምት» በሳይንሳዊ ጥናት የሚፈተን እና የሚረጋገጥ የመጀመሪያ መነሻ ሀሳብ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u31-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Research methodology' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (31.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (31.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (31.1.x3)"
+            "የምርምር ዘዴ (Research methodology / systematic inquiry)",
+            "የጨዋታ ህግ",
+            "የጉዞ ካርታ",
+            "የግዢ ዝርዝር"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (31.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (31.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (31.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የምርምር ዘዴ» ጥናትን በስርዓትና በሳይንሳዊ ቅደም-ተከተል ለመምራት የሚያስችል መንገድ ነው።"
         }
       ]
     },
@@ -14100,24 +14077,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 31-1):",
+          "prompt": "የምርምር ዘዴዎችን እና የጥናት ንድፍ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (31.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (31.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (31.1.z3)"
+            "ምርምር፣ ተመራማሪ፣ ዘዴ፣ የጥናት ንድፍ፣ መላምት እና ተለዋዋጭ።",
+            "ወጥ፣ ዳቦ፣ ሻይ እና ቡና።",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር።",
+            "በሳይንስ ምርምር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የምርምር ዘዴ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u31-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሳይንሳዊ»):",
+          "prompt": "'ምርምር / Research, scholarly investigation' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሳይንሳዊ",
-            "ሳይንሳዊ"
+            "ምርምር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሳይንሳዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ምርምር» (Mərəmər) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14128,85 +14104,62 @@
     "subject": "amharic",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (ክፍል 2)",
+    "title": "የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Collection & Statistical Analysis)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአካዳሚክ ምርምር ጽሑፎች፣ ሳይንሳዊ ግኝቶች እና የምርምር ዘዴዎች። (ክፍል 2)።",
+    "objective": "የመረጃ አሰባሰብ ዘዴዎችን፣ የናሙና አወሳሰድን እና ስታትስቲካዊ ትንተናን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የመረጃ አሰባሰብ እና የስታትስቲክስ ትንተና መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- መረጃ (Data / Information) / ናሙና (Sample)\n- መጠይቅ (Questionnaire) / ቃለ-መጠይቅ (Interview)\n- ስታትስቲክስ (Statistics) / ትንተና (Analysis)።\n\n፪. ዋና መርሆዎች:\n- ጥራት ያለው መረጃ በስታትስቲካዊ ቀመሮች ሲተነተን ተጨባጭና አስተማማኝ ሳይንሳዊ ማስረጃዎችን ይሰጣል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)' to the students."
+          "target": "ተመራማሪዎቹ ከተለያዩ የህብረተሰብ ክፍሎች መጠይቆችን በመጠቀም ተጨባጭ መረጃዎችን ሰበሰቡ።",
+          "reading": "Tämäramariwočču kätäläyayu yähəbrätäsäb kəfəločč mät’äyəqoččən bämät’t’äqäm täč’əbbat’ mərrawəyanən säbässäbu. [tɛmɛramariˈwotʃːu kɛtɛlɛˈjaju jɛhɨbrətɛˈsɛb kɨfɨˈlotʃː mətʼɛjɨˈkʼotʃːɨn bəmətʼːɛˈkʼəm tətʃʼɨbːatʼ mərrawɨˈjanɨn sɛbɛsːɛˈbu] (teh-meh-rah-mah-ree-WOHCH-choo keh-teh-leh-YAH-yoo yeh-hub-reh-teh-SEB kuh-fuh-LOHCH met'-eh-yuh-k'OHCH-chun beh-mut'-t'eh-K'EM teh-ch'oob-BAHT mur-rah-wuh-YAHN-un seh-bes-seh-BOO)",
+          "translation": "The researchers gathered empirical data from various segments of society using questionnaires."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የናሙናው መጠን ትክክለኛ መሆን ለስታትስቲክስ ትንተናው ጥራት ወሳኝ ሚና ይጫወታል።",
+          "reading": "Yänamunaw mät’än təkkələnya mähon läsətatəsətiks təntänaw t’ərat wäsany mina yəč’č’awätall. [jɛnamuˈnaw mətʼɛn tɨkːɨlɨˈɲa mɛˈhon ləsɨtatɨsɨˈtiks tɨntɛˈnaw tʼɨˈrat wɛˈsaɲ miˈna jɨtʃʼːaˈwɛtalː] (yeh-nah-moo-NOW met'-EN took-kuhl-un-NYAH meh-HOHN luh-stah-tees-TEEKS tun-teh-NOW t'uh-RAHT weh-SAHN-y MEE-nah yuhch-chah-weh-TAHL)",
+          "translation": "The accuracy of the sample size plays a crucial role in the quality of the statistical analysis."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "መረጃው በዘመናዊ የስታትስቲክስ ሶፍትዌር ተተንትኖ ግልጽ የግራፍ እና የሰንጠረዥ ማጠቃለያ ተዘጋጀለት።",
+          "reading": "Märäğaw bäzämänawi yäsətatəsətiks softəwer tätänətəno gəlts yägəraf ənna yäsänt’äräž mat’äqäläya täzägaggəğälät. [mɛrɛˈdʒaw bəzɛmɛnaˈwi jɛsɨtatɨsɨˈtiks softɨˈwer tətɛnɨtɨˈno ɡɨltsʼ jɛɡɨˈraf ʔɨnːa jɛsəntʼɛˈrɛʒ matʼɛkʼɛˈlɛja tɛzəɡaɡːɨˈdʒɛlɛt] (meh-reh-JAH-woo beh-zeh-meh-nah-WEE yeh-stah-tees-TEEKS soff-tuh-wayr teh-ten-tuh-NOH gults' yeh-guh-RAHF un-nah yeh-sen-t'eh-REZH mah-t'eh-k'eh-leh-YAH teh-zeh-gahg-guh-jeh-LET)",
+          "translation": "The data was analyzed with modern statistical software and a clear graphical and tabular summary was prepared."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Data Analysis: መረጃ (Data) + ናሙና (Sample) + መጠይቅ (Questionnaire) + ስታትስቲክስ (Statistics)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ስታትስቲክስ አገልግሎት ሀገር አቀፍ የህዝብ፣ የግብርና እና የኢኮኖሚ ጥናቶችን በየጊዜው ያትማል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከአጠቃላይ ህዝብ መካከል ለጥናት ተመርጦ የሚወሰደው አነስተኛ ውክልና ምን ይባላል?",
           "options": [
-            "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (31.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (31.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (31.2.w3)"
+            "ናሙና (Sample - Representative sample subset)",
+            "ሙሉ ህዝብ",
+            "ግምት",
+            "ስህተት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ናሙና» አጠቃላይ ማህበረሰቡን ወይም ህዝብን ወክሎ የሚመረጥ የጥናት አካል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u31-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Statistical analysis' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (31.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (31.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (31.2.x3)"
+            "ስታትስቲካዊ ትንተና (Statistical analysis / quantitative examination)",
+            "ተራ ቆጠራ",
+            "ግምት መስጠት",
+            "ወሬ ማውራት"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (31.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (31.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (31.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ስታትስቲካዊ ትንተና» መረጃዎችን በቁጥር እና በሳይንሳዊ ቀመር የመመርመር ሂደት ነው።"
         }
       ]
     },
@@ -14214,24 +14167,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 31-2):",
+          "prompt": "የመረጃ አሰባሰብ እና ስታትስቲክስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (31.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (31.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (31.2.z3)"
+            "መረጃ፣ ናሙና፣ መጠይቅ፣ ቃለ-መጠይቅ፣ ስታትስቲክስ እና ትንተና።",
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ።",
+            "ፈረስ፣ በቅሎ፣ አህያ እና ግመል።",
+            "በጥናት መረጃ አይሰበሰብም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የመረጃ አሰባሰብ እና የስታትስቲክስ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u31-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሳይንሳዊ»):",
+          "prompt": "'መረጃ / Data, information' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሳይንሳዊ",
-            "ሳይንሳዊ"
+            "መረጃ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሳይንሳዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «መረጃ» (Märäğa) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14242,85 +14194,62 @@
     "subject": "amharic",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (ክፍል 3)",
+    "title": "የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findings, Conclusion & Policy Recommendations)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአካዳሚክ ምርምር ጽሑፎች፣ ሳይንሳዊ ግኝቶች እና የምርምር ዘዴዎች። (ክፍል 3)።",
+    "objective": "የምርምር ግኝቶችን ማጠቃለል፣ ድምዳሜ ላይ መድረስ እና ተግባራዊ ምክረ-ሀሳቦችን ማቅረብ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የምርምር ውጤቶች እና ድምዳሜ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ግኝት (Finding / Discovery) / ውጤት (Result)\n- ድምዳሜ (Conclusion) / ምክረ-ሀሳብ (Recommendation)\n- አበርክቶ (Contribution / Significance)።\n\n፪. ዋና መርሆዎች:\n- ምርምር የመጨረሻ ግቡ በማስረጃ የተደገፉ ግኝቶችን ይፋ ማድረግ፣ ትክክለኛ ድምዳሜ ማቅረብ እና ለፖሊሲ አውጪዎች ተግባራዊ ምክረ-ሀሳብ ማበርከት ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)' to the students."
+          "target": "የጥናቱ ግኝቶች የትምህርት ጥራትን ለማሻሻል የሚያግዙ አዳዲስ መፍትሄዎችን አመላከቱ።",
+          "reading": "Yät’ənatu gənyətočč yätəməhərətot’ t’əratən lamäššal yämmiaggəzu addadis mäfətəhewoččən amälakkätu. [jətʼɨnaˈtu ɡɨɲɨˈtotʃː jətɨmɨhɨrˈtotʼ tʼɨˈratɨn laməʃːal jəmːiaɡːɨˈzu ʔadːaˈdis məfɨtɨheˈwotʃːɨn ʔaməlaˈkːɛtu] (yeh-t'uh-nah-TOO gun-yuh-TOHCH yeh-tuh-muh-hur-TOHT t'uh-RAH-tun lah-mesh-SHAHL yem-mee-ahg-guh-ZOO ahd-dah-DEES meh-fuh-tuh-hay-WOHCH-chun ah-meh-lahk-keh-TOO)",
+          "translation": "The study findings indicated innovative solutions that help improve educational quality."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ተመራማሪው በተጨባጭ ማስረጃዎች ላይ ተመስርቶ አስተማማኝ ድምዳሜ ላይ ደረሰ።",
+          "reading": "Tämäramariw bätäč’əbbat’ masräğawočč lay tämäsərət’o astämamy dəmdame lay därräsä. [tɛmɛraˈmariw bətətʃʼɨbːatʼ masrədʒaˈwotʃː laj tɛmɛsɨrˈtʼo ʔastɛmaˈmɨ dɨmdaˈme laj dɛrːɛˈsɛ] (teh-meh-rah-MAH-ree-woo beh-teh-ch'oob-BAHT mahs-reh-jah-WOHCH lye teh-meh-sur-T'OH ahs-teh-mah-MY dum-dah-MAY lye der-reh-SEH)",
+          "translation": "The researcher reached a reliable conclusion founded upon empirical evidence."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ለፖሊሲ አውጪዎች የቀረቡት ምክረ-ሀሳቦች በሀገር አቀፍ ደረጃ ተግባራዊ መሆን ጀመሩ።",
+          "reading": "Läpolisi awəč’očč yäqärräbut məkrä-hasabočč bähagär aqäf däräğa tägəbarawi mähon ğämmäru. [ləpoliˈsi ʔawɨˈtʃʼotʃː jɛkʼɛrːɛˈbut mɨkrəhasaˈbotʃː bəhaˈɡɛr ʔaˈkʼɛf dərəˈdʒa tɛɡɨbaraˈwi mɛˈhon dʒəmːɛˈru] (luh-poh-lee-SEE ah-wuh-CH'OHCH yeh-k'er-reh-BOOT muk-reh-hah-sah-BOHCH beh-hah-GER ah-k'ef deh-reh-JAH teh-guh-bah-rah-WEE meh-HOHN jem-meh-ROO)",
+          "translation": "The recommendations submitted to policymakers began being implemented at the national level."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Research Output: ግኝት (Finding) + ውጤት (Result) + ድምዳሜ (Conclusion) + ምክረ-ሀሳብ (Recommendation)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ዩኒቨርሲቲዎች የሚካሄዱ ምርምሮች ሀገራዊ የልማት ችግሮችን የሚፈቱ ምክረ-ሀሳቦችን በማመንጨት ላይ ያተኩራሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በምርምር ማጠቃለያ ላይ ችግሮችን ለመፍታት የሚቀርብ ተግባራዊ ሀሳብ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (31.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (31.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (31.3.w3)"
+            "ምክረ-ሀሳብ (Policy recommendation / actionable counsel)",
+            "ክስ",
+            "ቅጣት",
+            "ማስጠንቀቂያ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ምክረ-ሀሳብ» በጥናቱ ግኝት ላይ ተመስርቶ የመፍትሄ እርምጃዎችን የሚጠቁም ጠቃሚ ሀሳብ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u31-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Conclusion, final inference' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (31.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (31.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (31.3.x3)"
+            "ድምዳሜ (Conclusion, deducible inference)",
+            "መነሻ",
+            "ጥያቄ",
+            "ጭቅጭቅ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (31.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (31.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (31.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ድምዳሜ» የምርምር መረጃዎችንና ግኝቶችን ተንትኖ የሚደረስበት የመጨረሻ ውሳኔ ነው።"
         }
       ]
     },
@@ -14328,24 +14257,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 31-3):",
+          "prompt": "የምርምር ውጤት እና ድምዳሜ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (31.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (31.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (31.3.z3)"
+            "ግኝት፣ ውጤት፣ ድምዳሜ፣ ምክረ-ሀሳብ እና አበርክቶ።",
+            "ሰዓት፣ ቀለበት፣ አምባር እና የአንገት ሀብል።",
+            "ብርቱካን፣ ሙዝ፣ ፓፓያ እና አናናስ።",
+            "ምርምር ድምዳሜ የለውም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የምርምር ውጤት እና ድምዳሜ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u31-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሳይንሳዊ»):",
+          "prompt": "'ውጤት / Result, outcome' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሳይንሳዊ",
-            "ሳይንሳዊ"
+            "ውጤት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሳይንሳዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ውጤት» (Wət’et) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14356,85 +14284,62 @@
     "subject": "amharic",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (ክፍል 4)",
+    "title": "የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Academic Ethics, Citations & Peer Review)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአካዳሚክ ምርምር ጽሑፎች፣ ሳይንሳዊ ግኝቶች እና የምርምር ዘዴዎች። (ክፍል 4)።",
+    "objective": "የአካዳሚክ ታማኝነትን፣ የጥናት ማጣቀሻዎችን (Citations) እና የአቻ ግምገማን (Peer Review) መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የአካዳሚክ ስነ-ምግባር (Academic ethics / integrity)\n- ማጣቀሻ (Citation / Reference) / ዋቢ መጽሐፍ (Bibliography)\n- የአቻ ግምገማ (Peer review) / ስርቆት መከላከል (Anti-plagiarism)።\n\n፪. ዋና መርሆዎች:\n- ሳይንሳዊ ምርምር የሌሎችን ስራ በትክክል በማጣቀስ፣ ከስርቆት ነፃ በመሆንና በአቻ ምሁራን ጥብቅ ግምገማ በማለፍ ይታተማል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)' to the students."
+          "target": "ተመራማሪው የሌሎችን ምሁራን ስራ በትክክለኛ ማጣቀሻ በማካተት የአካዳሚክ ታማኝነቱን ጠበቀ።",
+          "reading": "Tämäramariw yäleločč məhuran səra bätəkkələnya mat’aqäša bamakattät yä'akadamik tamanyənnätun t’äbbäqä. [tɛmɛraˈmariw jəleˈlotʃː mɨhuˈran sɨˈra bətɨkːɨlɨˈɲa matʼakʼəˈʃa bamaˈkatːɛt jəʔakadaˈmik tamaɲɨˈnːɛtun tʼəbːɛˈkʼɛ] (teh-meh-rah-MAH-ree-woo yeh-lay-LOHCH muh-hoo-RAHN suh-RAH beh-took-kuhl-un-NYAH mah-t'ah-k'eh-SHAH bah-mah-kaht-TET yeh-ah-kah-dah-MEEK tah-mahn-yoon-neh-TOON t'eb-beh-K'EH)",
+          "translation": "The researcher maintained academic integrity by including the work of other scholars with accurate citations."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የምርምር ጽሁፉ በዓለም አቀፍ የአቻ ግምገማ ሂደት አልፎ በታዋቂ ጆርናል ላይ ታተመ።",
+          "reading": "Yämərəmər ts’əhufu bä’aläm aqäf yä’ača gəmgäma hidät aləfo bätawaqi ğornal lay tattämä. [jəmɨrɨˈmɨr tsʼɨhuˈfu bəʔaˈlɛm ʔaˈkʼɛf jəʔaˈtʃa ɡɨmˈɡəma hiˈdɛt ʔalɨˈfo bətawaˈkʼi dʒorˈnal laj tatːəˈmɛ] (yeh-muh-ruh-MUR ts'uh-HOO-foo beh-ah-LEM ah-K'EF yeh-ah-CHAH gum-geh-MAH hee-DET ahl-FOH beh-tah-wah-K'EE jor-NAHL lye taht-teh-MEH)",
+          "translation": "The research paper passed through the international peer-review process and was published in a renowned journal."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የአካዳሚክ ስርቆትን መከላከል የሳይንሳዊ ምርምሮችን እውነተኛ እሴት እና ክብር ያስጠብቃል።",
+          "reading": "Yä'akadamik sərəqotən mäkälakkäl yäsayənsawi mərəməroččən əwənätänya əset ənna kəbər yasət’äbbəqall. [jəʔakadaˈmik sɨrɨˈkʼotɨn məkəlaˈkːɛl jəsajinˈsawi mɨrɨmɨˈrotʃːɨn ʔɨwɨnətɛˈɲa ʔɨˈset ʔɨnːa kɨˈbɨr jasɨtʼəbːɨˈkʼalː] (yeh-ah-kah-dah-MEEK suh-ruh-K'OH-tun meh-keh-lahk-KEL yeh-sigh-un-SAH-wee muh-ruh-muh-ROHCH-chun uh-wuh-neh-teh-NYAH uh-SAYT un-nah kuh-BUR yahs-t'eb-buh-K'AHL)",
+          "translation": "Preventing academic plagiarism safeguards the genuine value and prestige of scientific research."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Academic Ethics: ታማኝነት (Integrity) + ማጣቀሻ (Citation) + የአቻ ግምገማ (Peer Review) + ህትመት (Publication)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ዩኒቨርሲቲዎች የምርምር ስራዎች ከመታተማቸው በፊት ጥብቅ የአቻ ግምገማ (Peer Review) እና የስነ-ምግባር ፍተሻ ይደረግባቸዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በሳይንሳዊ ጽሁፍ ውስጥ የሌሎች ምሁራንን ሀሳብና መረጃ የወሰድንበትን ምንጭ በግልጽ ማመልከት ምን ይባላል?",
           "options": [
-            "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (31.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (31.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (31.4.w3)"
+            "ማጣቀሻ (Citation / Reference - Acknowledging source materials)",
+            "ስርቆት",
+            "ስህተት",
+            "መደበቅ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ማጣቀሻ» የተጠቀምንባቸውን መጽሐፍትና ጥናቶች በታማኝነት መግለጽ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u31-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Peer review' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (31.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (31.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (31.4.x3)"
+            "የአቻ ግምገማ (Peer review / expert scholarly evaluation)",
+            "የጓደኛ ጭውውት",
+            "ያለ ምርመራ ማለፍ",
+            "የዘፈቀደ ውሳኔ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (31.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (31.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (31.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የአቻ ግምገማ» በዘርፉ ባለሙያ ምሁራን ጥናትን በጥልቀት የመገምገም ሳይንሳዊ ስርዓት ነው።"
         }
       ]
     },
@@ -14442,24 +14347,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 31-4):",
+          "prompt": "የአካዳሚክ ስነ-ምግባር እና የማጣቀሻ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (31.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (31.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (31.4.z3)"
+            "የአካዳሚክ ስነ-ምግባር፣ ማጣቀሻ፣ ዋቢ መጽሐፍ፣ የአቻ ግምገማ እና ህትመት።",
+            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር።",
+            "ጠመኔ፣ ጥቁር ሰሌዳ እና እስክሪብቶ።",
+            "በአካዳሚክ ስራ ህግ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የአካዳሚክ ስነ-ምግባር እና የማጣቀሻ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u31-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሳይንሳዊ»):",
+          "prompt": "'ማጣቀሻ / Citation, reference' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሳይንሳዊ",
-            "ሳይንሳዊ"
+            "ማጣቀሻ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሳይንሳዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ማጣቀሻ» (Mat’aqäša) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14470,85 +14374,62 @@
     "subject": "amharic",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (ክፍል 5)",
+    "title": "የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand Synthesis & Scholarly Research Defense)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአካዳሚክ ምርምር ጽሑፎች፣ ሳይንሳዊ ግኝቶች እና የምርምር ዘዴዎች። (ክፍል 5)።",
+    "objective": "የምርምር ዘዴዎችን፣ ስታትስቲክስን፣ ግኝቶችንና አካዳሚክ ስነ-ምግባርን ያቀናጀ የተሟላ የጥናት መከላከያ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፴፩ አጠቃላይ የሳይንሳዊ ምርምር፣ ስታትስቲክስ እና የአካዳሚክ ትንተና ማጠቃለያ:\n\n፩. የምርምር ዘዴ እና ንድፍ:\n- ምርምር፣ ተመራማሪ፣ ዘዴ፣ የጥናት ንድፍ፣ መላምት፣ ተለዋዋጭ።\n\n፪. መረጃ አሰባሰብ እና ስታትስቲክስ:\n- መረጃ፣ ናሙና፣ መጠይቅ፣ ስታትስቲክስ፣ ትንተና።\n\n፫. ግኝቶች እና ድምዳሜ:\n- ግኝት፣ ውጤት፣ ድምዳሜ፣ ምክረ-ሀሳብ፣ አበርክቶ።\n\n፬. አካዳሚክ ስነ-ምግባር እና ማጣቀሻ:\n- የአካዳሚክ ታማኝነት፣ ማጣቀሻ፣ የአቻ ግምገማ፣ ህትመት።",
       "examples": [
         {
-          "target": "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)' to the students."
+          "target": "ተመራማሪዋ የምርምር ዘዴዋን፣ የስታትስቲክስ ትንተናዋን እና ግኝቶቿን በምሁራን ፊት በተሳካ ሁኔታ ተከላከለች።",
+          "reading": "Tämäramariwa yämərəmər zädewan, yäsətatəsətiks təntänawan ənna gənyətoččəwan bäməhuran fit bätäsakaw huneta täkälakkäläčč. [tɛmɛramariˈwa jəmɨrɨˈmɨr zɛdeˈwan jɛsɨtatɨsɨˈtiks tɨntənaˈwan ʔɨnːa ɡɨɲɨtotʃːɨˈwan bəmɨhuˈran fit bətəsaˈkaw huˈneta təkəlakːəˈlɛtʃː] (teh-meh-rah-mah-ree-WAH yeh-muh-ruh-MUR zeh-DAY-wahn, yeh-stah-tees-TEEKS tun-teh-nah-WAHN un-nah gun-yuh-tohch-chuh-WAHN beh-muh-hoo-RAHN feet beh-teh-sah-KOW hoo-nay-TAH teh-keh-lahk-keh-LECH)",
+          "translation": "The researcher successfully defended her research methodology, statistical analysis, and findings before scholars."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ሳይንሳዊ ምርምር ጥብቅ የአቻ ግምገማ እና ትክክለኛ ማጣቀሻዎችን መሰረት አድርጎ ሲሰራ ተጨባጭ እውቀትን ይፈጥራል።",
+          "reading": "Sayənsawi mərəmər t’əbəq yä’ača gəmgäma ənna təkkələnya mat’aqäšawoččən mäsärät adrəgo sisärra täč’əbbat’ əwəqätən yəfät’rall. [sajinˈsawi mɨrɨˈmɨr tʼɨbɨkʼ jəʔaˈtʃa ɡɨmˈɡəma ʔɨnːa tɨkːɨlɨˈɲa matʼakʼəʃaˈwotʃːɨn mɛsəˈrət ʔadɨrˈɡo sisərːa tətʃʼɨbːatʼ ʔɨwɨkʼəˈtɨn jɨfɛtʼɨˈralː] (sigh-un-SAH-wee muh-ruh-MUR t'oob-UK' yeh-ah-CHAH gum-geh-MAH un-nah took-kuhl-un-NYAH mah-t'ah-k'eh-shah-WOHCH-chun meh-seh-RET ah-dur-GOH see-ser-RAH teh-ch'oob-BAHT uh-wuh-k'eh-TUN yuh-fet'-uh-RAHL)",
+          "translation": "When scientific research is conducted founded upon rigorous peer review and accurate citations, it creates empirical knowledge."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በጥናቱ የተገኙት አስተማማኝ ድምዳሜዎች እና ምክረ-ሀሳቦች ለማህበረሰቡ ሁለንተናዊ እድገት ከፍተኛ አበርክቶ አላቸው።",
+          "reading": "Bät’ənatu yätägänyut astämamy dəmdamewočč ənna məkrä-hasabočč lämahəbärasäbu hulläntänawi ədəggät käffətänya abärəkəto alaččäw. [bətʼɨnaˈtu jətəɡəˈɲut ʔastɛmaˈmɨ dɨmdameˈwotʃː ʔɨnːa mɨkrəhasaˈbotʃː ləmahɨbɛraˈsɛbu hulːɛntənaˈwi ʔɨdɨɡːɛt kəfːɨtɛˈɲa ʔabərɨkɨˈto ʔalaˈtʃːɛw] (beh-t'uh-nah-TOO yeh-teh-gen-YOOT ahs-teh-mah-MY dum-dah-may-WOHCH un-nah muk-reh-hah-sah-BOHCH luh-mah-huh-beh-rah-seh-BOO hool-len-teh-nah-WEE ud-ug-GAYT kef-fuh-teh-NYAH ah-ber-uh-kuh-TOH ah-lahch-CHEW)",
+          "translation": "The reliable conclusions and recommendations obtained in the study possess immense contribution toward the community's holistic development."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 31: Research Design (ንድፍ) + Data Analysis (መረጃ) + Findings & Recommendations (ግኝት) + Scholarly Integrity (ታማኝነት)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ከፍተኛ የትምህርት ተቋማት የድህረ-ምረቃ ተማሪዎች የማስተርስና የዶክትሬት ጥናታዊ ጽሑፋቸውን (Thesis / Dissertation) በአደባባይ መከላከል የተለመደ አካዳሚክ ባህል ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የሳይንሳዊ ምርምር እና የአካዳሚክ ትንተና ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (31.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (31.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (31.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (31.5.w3)"
+            "ተመራማሪዋ የምርምር ዘዴዋን፣ የስታትስቲክስ ትንተናዋን እና ግኝቶቿን በምሁራን ፊት በተሳካ ሁኔታ ተከላከለች። (Complete synthesis combining methodology, statistics, findings, and thesis defense)",
+            "ምንም ጥናት አልተደረገም",
+            "ሁሉም ተራ ወሬ ነው",
+            "ምርምር የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የምርምር ዘዴን፣ ስታትስቲክስንና የግኝት መከላከያን በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u31-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የአካዳሚክ ስነ-ምግባርን እና ሳይንሳዊ ምርምርን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (31.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (31.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (31.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (31.5.x3)"
+            "ተመራማሪው በታማኝነት እና በጥብቅ የአቻ ግምገማ ላይ ተመስርቶ አስተማማኝ ግኝቶችን ይፋ አደረገ። (The researcher released reliable findings based upon integrity and rigorous peer review - Accurate unified sentence)",
+            "ምንም መረጃ የለም",
+            "ማጣቀሻ አያስፈልግም",
+            "ስርቆት ይፈቀዳል"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (31.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (31.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (31.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (31.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የአካዳሚክ ታማኝነትንና ሳይንሳዊ ግኝቶችን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -14556,24 +14437,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 31-5):",
+          "prompt": "የክፍል 31 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (31.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (31.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (31.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (31.5.z3)"
+            "የምርምር ዘዴዎችና መላምት፣ የመረጃ አሰባሰብና ስታትስቲክስ፣ ግኝቶችና ምክረ-ሀሳቦች፣ እንዲሁም አካዳሚክ ስነ-ምግባርና የአቻ ግምገማ ተካተዋል።",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።",
+            "በሳይንስ መረጃ አያስፈልግም።",
+            "ሁሉም ዘዴዎች ተመሳሳይ ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 31ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u31-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ሳይንሳዊ»):",
+          "prompt": "'ግኝት / Finding, discovery' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ሳይንሳዊ",
-            "ሳይንሳዊ"
+            "ግኝት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ሳይንሳዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ግኝት» (Gənyət) ነው።"
         }
       ],
       "passThreshold": 0.8
