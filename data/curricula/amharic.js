@@ -13561,85 +13561,62 @@
     "subject": "amharic",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (ክፍል 1)",
+    "title": "ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha Nagast & Ancient Jurisprudence)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሞራልና የሥነ-ምግባር መርሆዎች፣ ማህበራዊ ፍትህ እና የባህል እሴቶች። (ክፍል 1)።",
+    "objective": "ፍትሐ ነገሥትን (Law of the Kings)፣ የጥንታዊ ሕግጋት መዋቅርንና የዳኝነት ስነ-ስርዓትን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የፍትሐ ነገሥት እና የጥንታዊ ዳኝነት መዋቅር:\n\n፩. የሕግ መሰረታዊ ቃላት:\n- ፍትሐ ነገሥት፣ ሕግ፣ ዳኝነት፣ ፍርድ ቤት፣ ፍትህ እና ዳኛ።\n- የፍትሐ ነገሥት ክፍሎች (መንፈሳዊ እና ዓለማዊ ህጎች)።\n\n፪. ዋና መርሆዎች:\n- ፍትሐ ነገሥት በኢትዮጵያ ለዘመናት የፍትህ ስርዓት፣ የውርስ፣ የጋብቻና የቅጣት ህጎች ዋነኛ የህግ ምንጭ ሆኖ አገልግሏል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)' to the students."
+          "target": "ፍትሐ ነገሥት በኢትዮጵያ ታሪክ ውስጥ የመንፈሳዊ እና የዓለማዊ ህግጋት ዋነኛ ምንጭ ሆኖ አገልግሏል።",
+          "reading": "Fətəha Nägäst bä'Ityop’əya tarik wəsət’ yämänfäsawi ənna yä'alämawi həggat wanänya mənč’ hono agälgəlwall. [fɨtɨˈha nɛˈɡɛst bɛʔitjoˈpʼɨja taˈrik wɨstʼ jɛmɛnfɛsaˈwi ʔɨnːa jɛʔalɛmaˈwi hɨɡːat wanɛˈɲa mɨntʃʼ hoˈno ʔaɡɛlɡɨlˈwalː] (fuh-tuh-HAH neh-GEST beh-eet-yoh-P'EE-yah tah-REEK woos-T' yeh-men-feh-sah-WEE un-nah yeh-ah-leh-mah-WEE hug-GAHT wah-neh-NYAH mun-CH' hoh-NOH ah-gel-gul-WAHL)",
+          "translation": "The Fetha Nagast served in Ethiopian history as the principal source of spiritual and secular laws."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጥንታዊያን ዳኞች በፍትሐ ነገሥት መርሆዎች ላይ ተመስርተው ፍትሃዊ እና ገለልተኛ ውሳኔዎችን ይሰጡ ነበር።",
+          "reading": "T’əntawəyan danyočč bäFətəha Nägäst märəhočč lay tämäsərətäw fətəhawi ənna gälältänya wəsanewoččən yəsät’u näbbär. [tʼɨntaˈwɨjan daˈɲotʃː bɛfɨtɨˈha nɛˈɡɛst mərˈhotʃː laj tɛmɛsɨrˈtɛw fɨtɨhaˈwi ʔɨnːa ɡɛlɛltɛˈɲa wɨsaneˈwotʃːɨn jɨsɛˈtʼu nɛbːɛr] (t'un-tah-wuh-YAHN dahn-YOHCH beh-fuh-tuh-HAH neh-GEST mer-HOHCH lye teh-meh-sur-TEW fuh-tuh-hah-WEE un-nah geh-lel-teh-NYAH wuh-sah-nay-WOHCH-chun yuh-set'-OO neb-BER)",
+          "translation": "Ancient judges rendered just and impartial decisions founded upon the principles of the Fetha Nagast."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የህግ የበላይነትን ማክበር ፍትህ በህብረተሰቡ ውስጥ ያለ ልዩነት እንዲሰፍን ያደርጋል።",
+          "reading": "Yähəgg yäbälayənnätən makəbär fətəh bähəbrätäsäbu wəsət’ yalä ləyyunnät əndisäffən yadärgall. [jɛhɨɡː jɛbɛlaˈjinːɛtɨn maˈkɨbɛr fɨˈtɨh bɛhɨbrɛtɛsɛˈbu wɨstʼ jaˈlɛ lɨjːuˈnːɛt ʔɨndiˈsɛfːɨn jadɛrˈɡalː] (yeh-HUG yeh-beh-lah-YEEN-net-un mah-kuh-BER fuh-TUH beh-hub-reh-teh-seh-BOO woos-T' yah-LEH luhy-yoon-NET un-dee-sef-FUN yah-der-GAHL)",
+          "translation": "Respecting the rule of law causes justice to prevail within society without discrimination."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ancient Law: ፍትሐ ነገሥት (Fetha Nagast) + ዳኝነት (Judiciary) + ፍትህ (Justice) + ዳኛ (Judge)!"
+      ],
+      "culturalNotes": [
+        "ፍትሐ ነገሥት ከዐረብኛ ወደ ግዕዝ የተተረጎመው በአስራ አምስተኛው መቶ ክፍለ ዘመን በአፄ ዘርአ ያዕቆብ ዘመነ-መንግስት ነበር።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በኢትዮጵያ ጥንታዊ የፍትህ ስርዓት ውስጥ መንፈሳዊና ዓለማዊ ህጎችን ያቀፈው ታዋቂው የህግ መጽሐፍ ማን ይባላል?",
           "options": [
-            "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (30.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (30.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (30.1.w3)"
+            "ፍትሐ ነገሥት (Fetha Nagast - The Law of the Kings)",
+            "ክብረ ነገሥት",
+            "ገድለ ተክለሃይማኖት",
+            "ድርሳነ ማርያም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ፍትሐ ነገሥት» ለዘመናት የዳኝነት እና የህግ ምንጭ ሆኖ ያገለገለ ጥንታዊ የህግጋት መጽሐፍ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u30-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Justice, righteousness' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (30.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (30.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (30.1.x3)"
+            "ፍትህ (Justice, equity)",
+            "ጭቅጭቅ",
+            "ስህተት",
+            "ጥፋት"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (30.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (30.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (30.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ፍትህ» እውነትና እኩልነትን መሰረት ያደረገ ቅን የዳኝነት መርህ ነው።"
         }
       ]
     },
@@ -13647,24 +13624,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 30-1):",
+          "prompt": "የፍትሐ ነገሥት እና የዳኝነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (30.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (30.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (30.1.z3)"
+            "ፍትሐ ነገሥት፣ ፍትህ፣ ዳኝነት፣ ዳኛ፣ ፍርድ ቤት እና የህግ የበላይነት።",
+            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ።",
+            "ጠረጴዛ፣ ወንበር እና አልጋ።",
+            "በኢትዮጵያ የህግ ታሪክ አልነበረም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የፍትሐ ነገሥት እና የዳኝነት መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u30-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፍልስፍና»):",
+          "prompt": "'ፍትህ / Justice, equity' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ፍልስፍና",
-            "ፍልስፍና"
+            "ፍትህ",
+            "ፍትሕ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፍልስፍና» ነው።"
+          "explanation": "ትክክለኛው ቃል «ፍትህ» ወይም «ፍትሕ» (Fətəh) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13675,85 +13652,62 @@
     "subject": "amharic",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (ክፍል 2)",
+    "title": "ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Customary Restorative Justice & Shimglina)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሞራልና የሥነ-ምግባር መርሆዎች፣ ማህበራዊ ፍትህ እና የባህል እሴቶች። (ክፍል 2)።",
+    "objective": "የሀገር ሽማግሌዎችን ሚና፣ የእርቅና የሽምግልናን ባህል፣ የይቅርታን ማህበራዊ ፋይዳ መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሽምግልና እና የባህላዊ እርቅ ስርዓት መዋቅር:\n\n፩. የሽምግልና መሰረታዊ ቃላት:\n- ሽምግልና፣ የሀገር ሽማግሌ፣ እርቅ፣ ይቅርታ፣ ካሳ እና ማህበራዊ ሰላም።\n- የጎሳ እና የማህበረሰብ የሰላም ስምምነቶች።\n\n፪. ዋና ባህሪያት:\n- ሽምግልና አሸናፊ እና ተሸናፊ ሳይፈጥር ሁለቱንም ወገኖች በማስታረቅ ማህበራዊ ትስስርንና ዘላቂ ሰላምን ያሰፍናል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)' to the students."
+          "target": "የሀገር ሽማግሌዎች በሽምግልና ሂደት ተቀራርበው የተፈጠረውን አለመግባባት በእርቅ እና በይቅርታ ፈቱት።",
+          "reading": "Yähagär šəmagəllewočč bäšəməgələnna hidät täqärarrəbäw yätäfät’t’äräwən alämägbabbat bä'ərq ənna bäyəqərəta fätut. [jɛhaˈɡɛr ʃɨmaɡɨlːeˈwotʃː bɛʃɨmɨɡɨˈlɨnːa hiˈdɛt tɛkʼɛrarːɨˈbɛw jɛtɛfɛtʼːɛˈrɛwɨn ʔaləmɛɡɨbːaˈbat bɛʔɨrkʼ ʔɨnːa bɛjɨkʼrɨˈta fɛˈtut] (yeh-hah-GER shum-ah-guhl-lay-WOHCH beh-shum-uh-guhl-un-NAH hee-DET teh-k'eh-rahr-ruh-BEW yeh-teh-fet'-t'eh-REW-un ah-leh-meg-bah-BAHT beh-URK' un-nah beh-yuh-k'ur-TAH feh-TOOT)",
+          "translation": "The community elders came together in the mediation process and resolved the dispute through reconciliation and forgiveness."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ባህላዊ የግጭት አፈታት ስርዓት በቀልን በማስቀረት ማህበራዊ አንድነትን እና ሰላምን ያጠናክራል።",
+          "reading": "Bahəlawi yägəč’č’ət afättat sər’at bäqälən bamasqärät mahəbärawi andənnätən ənna sälamən yat’änäkərall. [bahɨlaˈwi jɛɡɨtʃʼːɨt ʔafɛtːat sɨrˈʔat bɛkʼɛˈlɨn bamaskʼɛˈrɛt mahɨbɛraˈwi ʔandɨnːɛˈtɨn ʔɨnːa sɛlaˈmɨn jatʼɛnɛkɨˈralː] (bah-huh-lah-WEE yeh-guch'-CHUT ah-fet-TAHT sur-'AHT beh-k'el-UN bah-mahs-k'eh-RET mah-huh-beh-rah-WEE ahn-dun-neh-TUN un-nah seh-lah-MUN yaht'-en-eh-kuh-RAHL)",
+          "translation": "The customary conflict resolution system strengthens social cohesion and peace by averting vengeance."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ተበዳዩ ወገን ካሳ ተቀብሎ ይቅርታ በማድረግ የቀደመ ወዳጅነቱን መልሶ አደሰ።",
+          "reading": "Täbädayu wägän kasa täqäbəlo yəqərəta bamadəräg yäqäddämä wodağənätun mäləso addäsä. [tɛbɛdaˈju wɛˈɡɛn kaˈsa tɛkʼɛbɨˈlo jɨkʼrɨˈta bamaˈdrɛɡ jɛkʼɛdːɛˈmɛ wodaˈdʒɨnɛtun mɛlɨˈso ʔadːɛˈsɛ] (teh-beh-dah-YOO weh-GEN kah-SAH teh-k'eh-buh-LOH yuh-k'ur-TAH bah-mah-DREG yeh-k'ed-deh-MEH woh-dah-juh-neh-TOON mel-uh-SOH ahd-deh-SEH)",
+          "translation": "The aggrieved party received compensation, granted forgiveness, and renewed their previous friendship."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Restorative Justice: ሽምግልና (Mediation) + ሽማግሌ (Elder) + እርቅ (Reconciliation) + ይቅርታ (Forgiveness)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ በርካታ ባህላዊ የዳኝነት ስርዓቶች አሉ፤ ከነዚህም መካከል በኦሮሞ 'ጃርሱማ'፣ በትግራይ 'ባይቶ'፣ በጉራጌ 'የጆካ ሸንጎ'፣ እና በአፋር 'ማዳአ' ይጠቀሳሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በኢትዮጵያ ማህበረሰብ ውስጥ በሰዎች መካከል የተፈጠረን አለመግባባት በሰላም ለማስታረቅ የሚካሄደው ባህላዊ መንገድ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (30.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (30.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (30.2.w3)"
+            "ሽምግልና (Shimglina / Traditional mediation & restorative arbitration)",
+            "ጦርነት",
+            "ፍጥጫ",
+            "ክስ ብቻ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሽምግልና» በሽማግሌዎች ጥረት የተጣሉትን የሚያስታርቅ ጥንታዊ ባህላዊ መንገድ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u30-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Reconciliation, peace settlement' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (30.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (30.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (30.2.x3)"
+            "እርቅ (Reconciliation, harmonious peace settlement)",
+            "ጸብ",
+            "ቂም",
+            "ንትርክ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (30.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (30.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (30.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«እርቅ» ቂም በቀልን አስወግዶ ወደ ሰላማዊ ግንኙነት መመለስ ነው።"
         }
       ]
     },
@@ -13761,24 +13715,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 30-2):",
+          "prompt": "የሽምግልና እና የባህላዊ እርቅ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (30.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (30.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (30.2.z3)"
+            "ሽምግልና፣ እርቅ፣ ይቅርታ፣ ካሳ፣ የሀገር ሽማግሌ እና ማህበራዊ ሰላም።",
+            "መኪና፣ ባቡር፣ አውሮፕላን እና መርከብ።",
+            "እንጀራ፣ ወጥ፣ ዶሮ እና ጠጅ።",
+            "በኢትዮጵያ ሽምግልና የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የሽምግልና እና የእርቅ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u30-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፍልስፍና»):",
+          "prompt": "'እርቅ / Reconciliation' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ፍልስፍና",
-            "ፍልስፍና"
+            "እርቅ",
+            "ዕርቅ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፍልስፍና» ነው።"
+          "explanation": "ትክክለኛው ቃል «እርቅ» ወይም «ዕርቅ» (Ərq) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13789,85 +13743,62 @@
     "subject": "amharic",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (ክፍል 3)",
+    "title": "የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa Jurisprudence & Civic Institutions)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሞራልና የሥነ-ምግባር መርሆዎች፣ ማህበራዊ ፍትህ እና የባህል እሴቶች። (ክፍል 3)።",
+    "objective": "የገዳ ሥርዓት የዲሞክራሲና የህግ መርሆዎችን (ጫፌ፣ አባ ገዳ፣ የስልጣን ሽግግር) መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የገዳ ሥርዓት እና የሲቪክ ዲሞክራሲ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ገዳ፣ አባ ገዳ፣ ጫፌ (ህግ አውጪ ጉባኤ)፣ የ፰ ዓመት የስልጣን ዘመን።\n- ሰላማዊ የስልጣን ሽግግር፣ እኩልነት እና ተጠያቂነት።\n\n፪. ዋና መርሆዎች:\n- የገዳ ሥርዓት በዩኔስኮ የተመዘገበ ጥንታዊ የአፍሪካ ዴሞክራሲያዊ፣ ማህበራዊ፣ ፖለቲካዊ እና ህጋዊ ተቋም ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)' to the students."
+          "target": "የገዳ ሥርዓት በየስምንት ዓመቱ ሰላማዊ የስልጣን ሽግግር የሚካሄድበት ጥንታዊ የአፍሪካ ዴሞክራሲያዊ ቅርስ ነው።",
+          "reading": "YäGäda sər’at bäyäsəmmənət amätu sälamawi yäsələt’an šəggəgər yämmikkahhedəbät t’əntawi yä'Afərika demokərasiyawi qərs näw. [jɛɡɛˈda sɨrˈʔat bɛjəsɨmːɨnt ʔaˈmɛtu sɛlaˈmawi jɛsɨlˈtʼan ʃɨɡːɨˈɡɨr jɛmːikːahːeˈdɨbɛt tʼɨntaˈwi jɛʔafɨriˈka demokraˈsijawi kʼɨrs nɛw] (yeh-GEH-dah sur-'AHT beh-yeh-sum-MUNT ah-meh-TOO seh-lah-MAH-wee yeh-sul-T'AHN shug-guh-GUR yem-mik-kah-heh-duh-BET t'un-tah-WEE yeh-ah-fuh-ree-KAH day-moh-krah-see-YAH-wee k'urs new)",
+          "translation": "The Gadaa system is an ancient African democratic heritage wherein peaceful power transition is conducted every eight years."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በጫፌ ጉባኤ ላይ የተደነገጉ ህጎች በማህበረሰቡ ውስጥ ፍትህ፣ እኩልነት እና ተጠያቂነት እንዲሰፍን ያደርጋሉ።",
+          "reading": "BäČ’aface gubaye lay yätädännäggägu həggočč bämahəbärasäbu wəsət’ fətəh, əkkulənnät ənna tät’äyaqinnät əndisäffən yadärgallu. [bɛtʃʼaˈfe ɡuˈbaje laj jɛtɛdɛnːɛˈɡːɛɡu hɨɡːotʃː bɛmahɨbɛraˈsɛbu wɨstʼ fɨˈtɨh ʔɨkːuˈlɨnːɛt ʔɨnːa tɛtʼɛjaˈkʼinːɛt ʔɨndiˈsɛfːɨn jadɛrˈɡalːu] (beh-ch'ah-FAY goo-bah-YAY lye yeh-teh-den-neg-GEH-goo hug-GOHCH beh-mah-huh-beh-rah-seh-BOO woos-T' fuh-TUH, uk-koo-LEEN-net un-nah tet'-eh-yah-k'een-NET un-dee-sef-FUN yah-der-GAHL-loo)",
+          "translation": "Laws enacted at the Chaffee assembly cause justice, equality, and accountability to prevail within society."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አባ ገዳ ማህበረሰቡን በቅንነት እና በታማኝነት በመምራት የሰላም እና የህግ ተምሳሌት ሆነው ያገለግላሉ።",
+          "reading": "Abba Gäda mahəbärasäbun bäqənnənnät ənna bätamanyənnät bämämrät yäsälam ənna yähəgg tämsalet honäw yagäləgəlallu. [ʔabːa ɡɛˈda mahɨbɛraˈsɛbun bəkʼɨnːɨnːɛt ʔɨnːa bɛtamaˈɲɨnːɛt bɛmɛmˈrɛt jɛsɛˈlam ʔɨnːa jɛhɨɡː tɛmˈsalet hoˈnɛw jaɡɛlɨɡɨˈlalːu] (ahb-BAH geh-DAH mah-huh-beh-rah-seh-BOON beh-k'un-nun-NET un-nah beh-tah-mahn-yun-NET beh-mem-RET yeh-seh-LAHM un-nah yeh-HUG tem-sah-LAYT hoh-NEW yah-gel-uh-guh-LAHL-loo)",
+          "translation": "The Abba Gadaa leads the community with integrity and loyalty, serving as an emblem of peace and law."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Gadaa Principles: ገዳ (Gadaa System) + አባ ገዳ (Abba Gadaa) + ጫፌ (Assembly) + ስልጣን ሽግግር (8-Year Term)!"
+      ],
+      "culturalNotes": [
+        "የገዳ ስርዓት በ2016 እ.ኤ.አ በዩኔስኮ የማይዳሰስ የዓለም ቅርስ ሆኖ የተመዘገበ ሲሆን የአካባቢ ጥበቃን፣ የሴቶች መብትን (ሲቄ) እና የዜጎች እኩልነትን ያከበረ ስርዓት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በኦሮሞ ህዝብ ባህል ውስጥ በየስምንት ዓመቱ ሰላማዊ የስልጣን ሽግግር የሚያካሂደውና በዩኔስኮ የተመዘገበው ታዋቂው ስርዓት ማን ይባላል?",
           "options": [
-            "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (30.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (30.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (30.3.w3)"
+            "የገዳ ስርዓት (Gadaa System - Indigenous democratic socio-political governance)",
+            "ንግስና ብቻ",
+            "ውትድርና ብቻ",
+            "ምንም ስርዓት አልነበረም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የገዳ ስርዓት» በየ፰ ዓመቱ የስልጣን ሽግግር የሚያደርግ ጥንታዊ ዴሞክራሲያዊ የህግና የአስተዳደር ስርዓት ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u30-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Democratic governance, civic rule' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (30.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (30.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (30.3.x3)"
+            "ዴሞክራሲያዊ አስተዳደር (Democratic governance, accountable civic rule)",
+            "አምባገነንነት",
+            "ህገ-ወጥነት",
+            "ትርምስ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (30.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (30.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (30.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ዴሞክራሲያዊ አስተዳደር» የህዝብ ተሳትፎና የህግ የበላይነት ያለበት ፍትሃዊ የአመራር ስርዓት ነው።"
         }
       ]
     },
@@ -13875,24 +13806,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 30-3):",
+          "prompt": "የገዳ ስርዓት እና የዴሞክራሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (30.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (30.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (30.3.z3)"
+            "ገዳ፣ አባ ገዳ፣ ጫፌ፣ የስልጣን ሽግግር፣ እኩልነት እና ዴሞክራሲ።",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ቀለም።",
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ።",
+            "በገዳ ስርዓት ህግ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የገዳ ስርዓት እና የዴሞክራሲያዊ አስተዳደር ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u30-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፍልስፍና»):",
+          "prompt": "'ገዳ / Gadaa system' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ፍልስፍና",
-            "ፍልስፍና"
+            "ገዳ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፍልስፍና» ነው።"
+          "explanation": "ትክክለኛው ቃል «ገዳ» (Gäda) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13903,85 +13833,62 @@
     "subject": "amharic",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (ክፍል 4)",
+    "title": "ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ (Human Rights & Rule of Law)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሞራልና የሥነ-ምግባር መርሆዎች፣ ማህበራዊ ፍትህ እና የባህል እሴቶች። (ክፍል 4)።",
+    "objective": "ሰብአዊ መብቶችን፣ የህግ የበላይነትን፣ የህገ-መንግስት መሰረቶችንና ዘመናዊ ተቋማዊ ፍትህን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሰብአዊ መብቶች እና የህግ የበላይነት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ሰብአዊ መብቶች (Human rights) / ነፃነት (Freedom)\n- የህግ የበላይነት (Rule of law) / እኩልነት (Equality)\n- ህገ-መንግስት (Constitution) / ተቋማዊ ነፃነት (Institutional independence)።\n\n፪. ዋና መርሆዎች:\n- እያንዳንዱ ዜጋ በህግ ፊት እኩል ነው፤ ፍርድ ቤቶች ገለልተኛ ሆነው ፍትህን ያሰፍናሉ፤ ሰብአዊ ክብር ያለ አድልዎ ይጠበቃል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)' to the students."
+          "target": "የህግ የበላይነት ሲከበር የዜጎች ሰብአዊ መብቶች፣ ነፃነት እና እኩልነት ሙሉ በሙሉ ይረጋገጣሉ።",
+          "reading": "Yähəgg yäbälayənnät sikkäbbär yäzegočč säb’awi mäbətočč, näts’annät ənna əkkulənnät mulu bämulu yərrägaggät’allu. [jɛhɨɡː jɛbɛlaˈjinːɛt sikːɛbːɛr jɛzeˈɡotʃː sɛbʔaˈwi mɛbɨˈtotʃː nɛtsʼaˈnːɛt ʔɨnːa ʔɨkːuˈlɨnːɛt muˈlu bəmuˈlu jɨrːɛɡaɡːɛˈtʼalːu] (yeh-HUG yeh-beh-lah-YEEN-net seek-keb-BER yeh-zay-GOHCH seb-ah-WEE meb-uh-TOHCH, net-ts'ahn-NET un-nah uk-koo-LEEN-net MOO-loo beh-MOO-loo yoor-reh-gahg-get'-AHL-loo)",
+          "translation": "When the rule of law is respected, citizens' human rights, freedom, and equality are fully guaranteed."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ገለልተኛ የዳኝነት ተቋማት ለማህበራዊ ፍትህ እና ለጠንካራ ዴሞክራሲ ግንባታ ወሳኝ ምሰሶዎች ናቸው።",
+          "reading": "Gälältänya yädanəyənnät täqwamat lämahəbärawi fətəh ənna lät’änəkarrä demokərasi gənəbbata wäsany məsäsowocč naččäw. [ɡɛlɛltɛˈɲa jɛdaɲɨˈnːɛt tɛkʼʷaˈmat ləmahɨbɛraˈwi fɨˈtɨh ʔɨnːa lətʼɛnɨˈkarːɛ demokraˈsi ɡɨnɨbːaˈta wɛˈsaɲ mɨsɛsoˈwotʃː naˈtʃːɛw] (geh-lel-teh-NYAH yeh-dahn-yoon-NET tek'-wah-MAHT luh-mah-huh-beh-rah-WEE fuh-TUH un-nah luh-t'en-uh-KAHR-reh day-moh-krah-SEE gun-ub-bah-TAH weh-SAHN-y muh-seh-soh-WOHCH nahch-CHEW)",
+          "translation": "Independent judicial institutions are crucial pillars for social justice and robust democracy building."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ህገ-መንግስቱ የሁሉንም ዜጎች መሰረታዊ መብቶች እና ግዴታዎች በግልጽ አስቀምጧል።",
+          "reading": "Həggä-mängəsətu yähullum zegočč mäsärätawi mäbətočč ənna gəddetawoččən bäğəlts asqämmət’wall. [hɨɡːɛmɛnˈɡɨsɨtu jɛhulːum zeˈɡotʃː mɛsɛrɛtaˈwi mɛbɨˈtotʃː ʔɨnːa ɡɨdːetaˈwotʃːɨn bɛɡɨltsʼ ʔasˈkʼɛmːɨtʼwalː] (hug-geh-men-guh-SUH-too yeh-hool-LOOM zay-GOHCH meh-seh-reh-tah-WEE meb-uh-TOHCH un-nah gud-day-tah-WOHCH-chun beh-GULTS' ahs-k'em-mut'-WAHL)",
+          "translation": "The constitution clearly lays out the fundamental rights and duties of all citizens."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Rule of Law: ህገ-መንግስት (Constitution) + ሰብአዊ መብት (Human Rights) + እኩልነት (Equality) + ነፃነት (Freedom)!"
+      ],
+      "culturalNotes": [
+        "በዘመናዊቷ ኢትዮጵያ የመጀመሪያው የተጻፈ ህገ-መንግስት በ1923 ዓ.ም የወጣ ሲሆን ቀጣይ ህገ-መንግስታት የሰብአዊ መብቶች ድንጋጌዎችን እያሰፉ መጥተዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Human rights» የሚለውን ዓለም አቀፍ የህግ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (30.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (30.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (30.4.w3)"
+            "ሰብአዊ መብቶች (Human rights - Inherent fundamental human rights)",
+            "የንግድ ህግ",
+            "የትራፊክ ህግ",
+            "የግብር ህግ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሰብአዊ መብቶች» የሰው ልጅ በመሆኑ ብቻ የሚገቡት መሰረታዊ ነፃነቶችና መብቶች ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u30-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Rule of law' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (30.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (30.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (30.4.x3)"
+            "የህግ የበላይነት (Rule of law - Governance governed by law)",
+            "የጉልበት የበላይነት",
+            "የስልጣን ጥማት",
+            "አምባገነንነት"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (30.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (30.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (30.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«የህግ የበላይነት» ማንም ሰው ከህግ በላይ እንደማይሆን የሚያረጋግጥ መርህ ነው።"
         }
       ]
     },
@@ -13989,24 +13896,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 30-4):",
+          "prompt": "የሰብአዊ መብቶች እና የህግ የበላይነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (30.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (30.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (30.4.z3)"
+            "ሰብአዊ መብቶች፣ የህግ የበላይነት፣ ህገ-መንግስት፣ ነፃነት እና እኩልነት።",
+            "ሻይ፣ ስኳር፣ ወተት እና ዳቦ።",
+            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ።",
+            "በህግ የበላይነት መብት የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የሰብአዊ መብቶች እና የህገ-መንግስት ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u30-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፍልስፍና»):",
+          "prompt": "'መብት / Right, entitlement' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ፍልስፍና",
-            "ፍልስፍና"
+            "መብት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፍልስፍና» ነው።"
+          "explanation": "ትክክለኛው ቃል «መብት» (Mäbət) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -14017,85 +13923,62 @@
     "subject": "amharic",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (ክፍል 5)",
+    "title": "የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand Synthesis & Ethiopian Legal Philosophy)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሞራልና የሥነ-ምግባር መርሆዎች፣ ማህበራዊ ፍትህ እና የባህል እሴቶች። (ክፍል 5)።",
+    "objective": "ፍትሐ ነገሥትን፣ ሽምግልናን፣ የገዳ ሥርዓትንና የህግ የበላይነትን ያቀናጀ የተሟላ የህግ ፍልስፍና ውይይት ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፴ አጠቃላይ የኢትዮጵያ የህግ፣ የፍትህ እና የስነ-ምግባር ፍልስፍና ማጠቃለያ:\n\n፩. ፍትሐ ነገሥትና ጥንታዊ ዳኝነት:\n- ፍትሐ ነገሥት፣ ፍትህ፣ ዳኝነት፣ ዳኛ፣ መንፈሳዊና ዓለማዊ ህጎች።\n\n፪. ሽምግልና እና ባህላዊ እርቅ:\n- ሽምግልና፣ እርቅ፣ ይቅርታ፣ ካሳ፣ ማህበራዊ ሰላም።\n\n፫. የገዳ ሥርዓትና ዴሞክራሲ:\n- ገዳ፣ አባ ገዳ፣ ጫፌ፣ የስልጣን ሽግግር፣ እኩልነት።\n\n፬. ሰብአዊ መብቶችና የህግ የበላይነት:\n- ህገ-መንግስት፣ ሰብአዊ መብቶች፣ የህግ የበላይነት፣ ነፃነት።",
       "examples": [
         {
-          "target": "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)' to the students."
+          "target": "የኢትዮጵያ የህግ ፍልስፍና በፍትሐ ነገሥት፣ በሽምግልና እርቅ፣ በገዳ ስርዓት እና በህገ-መንግስታዊ መርሆዎች የዳበረ ነው።",
+          "reading": "Yä'Ityop’əya yähəgg fələsəfənna bäFətəha Nägäst, bäšəməgələnna ərq, bäGäda sər’at ənna bähəggä-mängəsətawi märəhočč yädabbärä näw. [jɛʔitjoˈpʼɨja jɛhɨɡː fɨlɨsɨˈfɨnːa bɛfɨtɨˈha nɛˈɡɛst bɛʃɨmɨɡɨˈlɨnːa ʔɨrkʼ bɛɡɛˈda sɨrˈʔat ʔɨnːa bɛhɨɡːɛmɛnɡɨsɨtaˈwi mərˈhotʃː jɛdabːɛˈrɛ nɛw] (yeh-eet-yoh-P'EE-yah yeh-HUG fuh-luh-suh-FUN-nah beh-fuh-tuh-HAH neh-GEST, beh-shum-uh-guhl-un-NAH urk', beh-GEH-dah sur-'AHT un-nah beh-hug-geh-men-guh-suh-tah-WEE mer-HOHCH yeh-dahb-beh-REH new)",
+          "translation": "Ethiopian legal philosophy is enriched by the Fetha Nagast, restorative mediation, the Gadaa system, and constitutional principles."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ፍትህን እና የህግ የበላይነትን ማስፈን ለሰላማዊ አብሮ መኖር እና ለዴሞክራሲ እድገት የማዕዘን ድንጋይ ነው።",
+          "reading": "Fətəhən ənna yähəgg yäbälayənnätən masfän läsälamawi abəro mänor ənna lädemokərasi ədəggät yäma'əzän dənəgay näw. [fɨˈtɨhɨn ʔɨnːa jɛhɨɡː jɛbɛlaˈjinːɛtɨn masˈfɛn ləsɛlaˈmawi ʔabɨˈro mɛˈnor ʔɨnːa lədemokraˈsi ʔɨdɨɡːɛt jɛmaʔɨˈzɛn dɨnɨˈɡaj nɛw] (fuh-TUH-un un-nah yeh-HUG yeh-beh-lah-YEEN-net-un mahs-FEN luh-seh-lah-MAH-wee ahb-ROH meh-NOR un-nah luh-day-moh-krah-SEE ud-ug-GAYT yeh-mah-uh-ZEN dun-uh-GYE new)",
+          "translation": "Prevailing justice and the rule of law is the cornerstone for peaceful coexistence and democratic growth."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ባህላዊ እና ዘመናዊ የፍትህ ተቋማትን በማቀናጀት ቀልጣፋ እና ታማኝ የዳኝነት አገልግሎት መስጠት ይቻላል።",
+          "reading": "Bahəlawi ənna zämänawi yäfətəh täqwamatən bamaqənnağät qälət’t’afa ənna tamany yädanəyənnät agäləgəlot mäsət’ät yəččalall. [bahɨlaˈwi ʔɨnːa zɛmɛnaˈwi jɛfɨˈtɨh tɛkʼʷaˈmatɨn bamakʼɨnːaˈdʒɛt kʼɛlɨtʼːaˈfa ʔɨnːa taˈmaɲ jɛdaɲɨˈnːɛt ʔaɡɛlɨɡɨˈlot mɛsˈtʼɛt jɨtʃːaˈlalː] (bah-huh-lah-WEE un-nah zeh-meh-nah-WEE yeh-fuh-TUH tek'-wah-MAH-tun bah-mahk'-un-nah-JET k'el-t't'ah-FAH un-nah tah-MAHN-y yeh-dahn-yoon-NET ah-gel-guh-LOHT mes-T'ET yuhch-chah-LAHL)",
+          "translation": "By synthesizing customary and modern justice institutions, it is possible to provide efficient and trustworthy judicial service."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 30: Fetha Nagast (ፍትሐ ነገሥት) + Mediation (ሽምግልና) + Gadaa (ገዳ) + Rule of Law (የህግ የበላይነት)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ የፍትህ ስርዓት የሺህ ዓመታት ጥንታዊ የጽሁፍ ህጎችንና ባህላዊ የማህበረሰብ የሽምግልና ጥበቦችን በአንድነት ያጣመረ ሀብታም ቅርስ አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ የህግ እና የፍትህ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (30.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (30.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (30.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (30.5.w3)"
+            "የኢትዮጵያ የህግ ፍልስፍና በፍትሐ ነገሥት፣ በሽምግልና እርቅ፣ በገዳ ስርዓት እና በህገ-መንግስታዊ መርሆዎች የዳበረ ነው። (Complete synthesis combining Fetha Nagast, restorative mediation, Gadaa system, and constitutional principles)",
+            "ምንም ህግ የለም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "ፍትህ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ ፍትሐ ነገሥትን፣ ሽምግልናን፣ ገዳንና ህገ-መንግስትን በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u30-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የህግ የበላይነትን እና የፍትህ ስርዓትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (30.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (30.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (30.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (30.5.x3)"
+            "ዳኞቹ በህግ የበላይነት እና በእኩልነት መርህ ላይ ተመስርተው ፍትሃዊ ውሳኔ ሰጡ። (The judges rendered a just decision based upon the rule of law and the principle of equality - Accurate unified sentence)",
+            "ምንም ውሳኔ አልተሰጠም",
+            "ህግ የለም",
+            "ዳኛ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (30.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (30.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (30.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (30.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የህግ የበላይነትን እና ፍትሃዊ ዳኝነትን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -14103,24 +13986,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 30-5):",
+          "prompt": "የክፍል 30 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (30.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (30.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (30.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (30.5.z3)"
+            "ፍትሐ ነገሥት፣ ባህላዊ ሽምግልናና እርቅ፣ የገዳ ስርዓት ዴሞክራሲ፣ እንዲሁም ሰብአዊ መብቶችና የህግ የበላይነት ተካተዋል።",
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው።",
+            "በኢትዮጵያ ፍትህ አልነበረም።",
+            "ሁሉም ህጎች ተመሳሳይ ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 30ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u30-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ፍልስፍና»):",
+          "prompt": "'ህግ / Law, statute' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ፍልስፍና",
-            "ፍልስፍና"
+            "ህግ",
+            "ሕግ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ፍልስፍና» ነው።"
+          "explanation": "ትክክለኛው ቃል «ህግ» ወይም «ሕግ» (Həgg) ነው።"
         }
       ],
       "passThreshold": 0.8
