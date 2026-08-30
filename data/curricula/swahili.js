@@ -3765,53 +3765,62 @@
     "subject": "swahili",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 1)",
+    "title": "Mashina ya Vimilikishi kwa Nafsi Zote Sita (Possessive Stems: -angu, -ako, -ake, -etu, -enu, -ao)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.1) with authentic precision.",
+    "objective": "Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili (-angu, -ako, -ake, -etu, -enu, -ao) na upatanisho wake wa awali katika Ngeli ya Watu (A-WA / Majina ya Watu na Ukoo).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mashina ya Vimilikishi na Upatanisho wa Ngeli (Possessive Stems & Concord):\n\n1. **Mashina Sita ya Vimilikishi (Possessive Stems)**:\n   - *Mimi* (my / mine): **-angu**\n   - *Wewe* (your / yours sg): **-ako**\n   - *Yeye* (his / her / its): **-ake**\n   - *Sisi* (our / ours): **-etu**\n   - *Ninyi* (your / yours pl): **-enu**\n   - *Wao* (their / theirs): **-ao**\n\n2. **Upatanisho katika Ngeli ya Watu (A-WA & Kinship Nouns)**:\n   - **Umoja (w- / y- kwa majina ya ukoo)**:\n     - *mtoto wangu* (my child), *mtoto wako* (your child), *mtoto wake* (his/her child), *mtoto wetu* (our child), *mtoto wenu* (your pl child), *mtoto wao* (their child)\n     - *mama yangu* (my mother), *baba yangu* (my father), *kaka yangu* (my brother), *dada yangu* (my sister), *rafiki yangu* (my friend)\n   - **Wingi (w- / z- kwa ukoo)**:\n     - *watoto wangu* (my children), *watoto wako*, *watoto wake*, *watoto wetu*, *watoto wenu*, *watoto wao*\n     - *marafiki zangu / marafiki wangu* (my friends), *kaka zangu* (my brothers)\n\n3. **Mpangilio wa Maneno (Syntax)**:\n   - Kimilikishi **hufuata nomino kila wakati**: *rafiki yangu* (siyo *yangu rafiki*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 9."
+          "target": "Kaka yangu na rafiki yangu wanatembelea familia yetu kijijini.",
+          "reading": "Ka-ka ya-ngu na ra-fi-ki ya-ngu wa-na-te-mbe-le-a fa-mi-li-a ye-tu ki-ji-ji-ni. [ˈkɑkɑ ˈjɑŋɡu nɑ rɑˈfiki ˈjɑŋɡu wɑnɑtɛmbɛˈlɛɑ fɑmiˈliɑ ˈjɛtu kiʤiˈʤini] (KAH-kah YAHN-goo nah rah-FEE-kee YAHN-goo wah-nah-tahm-bay-LAY-ah fah-mee-LEE-ah YAY-too kee-jee-jee-NEE)",
+          "translation": "My brother [possessive: kaka yangu] and my friend [possessive: rafiki yangu] are visiting our family [possessive: familia yetu] in the village."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 9-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mtoto wako anasoma vizuri na mwalimu wake anamsifu kila siku.",
+          "reading": "Mto-to wa-ko a-na-so-ma vi-zu-ri na mwa-li-mu wa-ke a-na-msi-fu ki-la si-ku. [ˈmtɔtɔ ˈwɑkɔ ɑnɑˈsɔmɑ viˈzuri nɑ mwɑˈlimu ˈwɑkɛ ɑnɑmˈsifu ˈkilɑ ˈsiku] (M-TOH-toh WAH-koh ah-nah-SOH-mah vee-ZOO-ree nah mwah-LEE-moo WAH-kay ah-nahm-SEE-foo KEE-lah SEE-koo)",
+          "translation": "Your child [possessive: mtoto wako] studies well and his teacher [possessive: mwalimu wake] praises him [OP -m-] every day."
+        },
+        {
+          "target": "Wazazi wao wanajivunia mafanikio makubwa ya watoto wao chuoni.",
+          "reading": "Wa-za-zi wa-o wa-na-ji-vu-nia ma-fa-ni-ki-o ma-kbu-wa ya wa-to-to wa-o chu-o-ni. [wɑˈzɑzi ˈwɑɔ wɑnɑʤivuˈniɑ mɑfɑniˈkiɔ mɑˈkubwɑ jɑ wɑˈtɔtɔ ˈwɑɔ tʃuˈɔni] (wah-ZAH-zee WAH-oh wah-nah-jee-voo-NEE-ah mah-fah-nee-KEE-oh mah-KOO-bwah yah wah-TOH-toh WAH-oh choo-OH-nee)",
+          "translation": "Their parents [possessive: wazazi wao] take pride [reflexive: wanajivunia] in the great success of their children [possessive: watoto wao] at college."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mashina ya Vimilikishi: -ANGU (my), -AKO (your sg), -AKE (his/her), -ETU (our), -ENU (your pl), -AO (their)!"
+      ],
+      "culturalNotes": [
+        "Katika utamaduni wa Kiafrika, nomino za ukoo kama 'mama yangu', 'kaka yangu', na 'baba mdogo' huonyesha heshima na mshikamano mpana wa familia ya kiukoo (extended family)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nyumba\":",
+          "prompt": "Sentensi sahihi inayomaanisha \"Mtoto wetu anasoma shule ya msingi\" ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chumba»",
-            "Mpangilio usio sahihi wa viambishi katika «Jiko»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dirisha»"
+            "Mtoto wetu anasoma shule ya msingi. (Our child studies at primary school - Correct 1st person plural possessive 'w-etu')",
+            "Mtoto zetu anasoma shule ya msingi (Kosa la kiambishi cha N-N wingi)",
+            "Mtoto chetu anasoma shule ya msingi (Kosa la kiambishi cha KI-VI)",
+            "Mtoto letu anasoma shule ya msingi (Kosa la kiambishi cha JI-MA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Mtoto» (umoja katika Ngeli ya A-WA) huchukua kiambishi cha kimilikishi «w-» kikiungana na «-etu» kupata «wetu»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nyumba\":",
+          "prompt": "Unapotaka kusema \"Marafiki zangu wote wamefika nyumbani\", shina gani la kimilikishi limetumika?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Jiko»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dirisha»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chumba»"
+            "-angu (Shina la kimilikishi cha nafsi ya kwanza umoja 'my': z-angu)",
+            "-ako (Shina la 'your')",
+            "-ake (Shina la 'his/her')",
+            "-ao (Shina la 'their')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Neno «zangu» linaundwa na kiambishi «z-» na shina la nafsi ya kwanza umoja «-angu»."
         }
       ]
     },
@@ -3819,17 +3828,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nyumba\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha kamili ya mashina sita ya vimilikishi katika lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dirisha»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Chumba»",
-            "Mpangilio usio sahihi wa viambishi katika «Jiko»"
+            "-angu (my), -ako (your sg), -ake (his/her), -etu (our), -enu (your pl), -ao (their).",
+            "-mimi, -wewe, -yeye, -sisi, -ninyi, -wao.",
+            "-huyu, -hawa, -yule, -wale, -hiki, -hivi.",
+            "-gani, -wapi, -lini, -vipi, -ngapi, -nani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Mashina halisi ya vimilikishi ni sita: «-angu, -ako, -ake, -etu, -enu, -ao»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u9-l2": {
@@ -3837,53 +3847,62 @@
     "subject": "swahili",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 2)",
+    "title": "Vimilikishi katika Ngeli za KI-VI na M-MI (Possessives in Classes 7/8 & 3/4)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.2) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KI-VI (changu/vyangu, chako/vyako, chake/vyake, chetu/vyetu, chenu/vyenu, chao/vyao) na Ngeli ya M-MI (wangu/yangu, wako/yako, wake/yake, wetu/yetu, wenu/yenu, wao/yao).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vimilikishi katika Ngeli za KI-VI na M-MI (Possessive Concord for Classes 7/8 & 3/4):\n\n1. **Ngeli ya KI-VI (Classes 7/8: Kiambishi ch- / vy-)**:\n   - Kiambishi cha ngeli *ki-* kikiungana na irabu ya shina hubadilika kuwa **ch-** (umoja) na *vi-* hubadilika kuwa **vy-** (wingi):\n     - *Mimi*: **changu** (my) / **vyangu** (*kitabu changu / vitabu vyangu*)\n     - *Wewe*: **chako** / **vyako** (*kiti chako / viti vyako*)\n     - *Yeye*: **chake** / **vyake** (*chakula chake / vyakula vyake*)\n     - *Sisi*: **chetu** (*ki-etu* -> **chetu**) / **vyetu** (*chumba chetu / vyumba vyetu*)\n     - *Ninyi*: **chenu** / **vyenu** (*chuo chenu / vyuo vyenu*)\n     - *Wao*: **chao** / **vyao** (*kisiwa chao / visiwa vyao*)\n\n2. **Ngeli ya M-MI (Classes 3/4: Kiambishi w- / y-)**:\n   - Umoja huchukua **w-**, wingi huchukua **y-**:\n     - *Mimi*: **wangu** / **yangu** (*mti wangu / miti yangu*, *mji wangu / miji yangu*)\n     - *Wewe*: **wako** / **yako** (*mkono wako / mikono yako*)\n     - *Yeye*: **wake** / **yake** (*mshahara wake / mishahara yake*)\n     - *Sisi*: **wetu** / **yetu** (*mto wetu / mito yetu*)\n     - *Ninyi*: **wenu** / **yenu** (*mradi wenu / miradi yenu*)\n     - *Wao*: **wao** / **yao** (*mpango wao / mipango yao*)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 9."
+          "target": "Kitabu changu kipya kiko mezani lakini vitabu vyenu vyote viko kabatini.",
+          "reading": "Ki-ta-bu cha-ngu kpy-a ki-ko me-za-ni la-ki-ni vi-ta-bu vye-nu vyo-te vi-ko ka-ba-ti-ni. [kiˈtɑbu ˈtʃɑŋɡu ˈmpjɑ ˈkikɔ mɛˈzɑni lɑˈkini viˈtɑbu ˈvjɛnu ˈvjɔtɛ ˈvikɔ kɑbɑˈtini] (kee-TAH-boo CHAHN-goo M-PYAH KEE-koh may-ZAH-nee lah-KEE-nee vee-TAH-boo VYAY-noo VYOH-tay VEE-koh kah-bah-TEE-nee)",
+          "translation": "My new book [class 7: kitabu changu] is on the table, but all your books [class 8: vitabu vyenu] are in the cupboard."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 9-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mji wetu una mitaa mizuri na miti yake yote inachanua maua.",
+          "reading": "M-ji we-tu u-na mi-ta-a mi-zu-ri na mi-ti ya-ke yo-te i-na-cha-nua ma-u-a. [ˈmʤi ˈwɛtu ˈunɑ miˈtɑː miˈzuri nɑ ˈmiti ˈjɑkɛ ˈjɔtɛ inɑtʃɑˈnuɑ mɑˈuɑ] (M-jee WAY-too oo-nah mee-TAH-ah mee-ZOO-ree nah MEE-tee YAH-kay YOH-tay ee-nah-chah-NOO-ah mah-OO-ah)",
+          "translation": "Our town [class 3: mji wetu] has fine streets and all its trees [class 4: miti yake] are blooming flowers."
+        },
+        {
+          "target": "Chakula chetu cha asubuhi kimeandaliwa na vikombe vyake vimesafishwa.",
+          "reading": "Cha-ku-la che-tu cha a-su-bu-hi ki-me-a-nda-li-wa na vi-ko-mbe vya-ke vi-me-sa-fi-shwa. [tʃɑˈkulɑ ˈtʃɛtu tʃɑ ɑsuˈbuhi kimɛɑndɑˈliwɑ nɑ viˈkɔmbɛ ˈvjɑkɛ vimɛsɑˈfiʃwɑ] (chah-KOO-lah CHAY-too chah ah-soo-BOO-hee kee-may-ahn-dah-LEE-wah nah vee-KOHM-bay VYAH-kay vee-may-sah-FEE-shwah)",
+          "translation": "Our breakfast [class 7: chakula chetu] is prepared and its cups [class 8: vikombe vyake] are cleaned."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vimilikishi KI-VI na M-MI: KI->changu/chetu, VI->vyangu/vyetu; M->wangu/wetu, MI->yangu/yetu!"
+      ],
+      "culturalNotes": [
+        "Viti vya kiasili vya mbao za mikoko na viti vya enzi vya pwani ya Waswahili vinasifika kwa nakshi nzuri za kitamaduni."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Chumba\":",
+          "prompt": "Sentensi ipi inatumia kimilikishi sahihi cha Ngeli ya 7 (KI-VI umoja) kwa nafsi ya kwanza wingi (Sisi)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jiko»",
-            "Mpangilio usio sahihi wa viambishi katika «Dirisha»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mlango»"
+            "Chumba chetu kimesafishwa vizuri. (Our room has been cleaned well - Correct Class 7 possessive 'ch-etu')",
+            "Chumba yetu kimesafishwa vizuri (Kosa la kutumia kiambishi cha N-N)",
+            "Chumba letu kimesafishwa vizuri (Kosa la kutumia kiambishi cha JI-MA)",
+            "Chumba wetu kimesafishwa vizuri (Kosa la kutumia kiambishi cha A-WA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Chumba» (umoja katika Ngeli ya KI-VI) huchukua kimilikishi chenye kiambishi «ch-» kikiungana na «-etu» kupata «chetu»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Chumba\":",
+          "prompt": "Unapozungumzia miti ya mtu mwingine (Ngeli ya 4 M-MI wingi wa Yeye), kirai sahihi cha kimilikishi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Dirisha»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mlango»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jiko»"
+            "Miti yake inastawi vizuri. (His/Her trees are thriving well - Correct Class 4 possessive 'y-ake')",
+            "Miti wake inastawi vizuri (Kosa la kutumia umoja 'w-')",
+            "Miti vyake inastawi vizuri (Kosa la kutumia KI-VI)",
+            "Miti zake inastawi vizuri (Kosa la kutumia N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Miti» (wingi katika Ngeli ya M-MI) huchukua kiambishi cha kimilikishi «y-», hivyo huwa «miti yake»."
         }
       ]
     },
@@ -3891,17 +3910,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Chumba\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vimilikishi katika ngeli za KI-VI na M-MI:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mlango»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jiko»",
-            "Mpangilio usio sahihi wa viambishi katika «Dirisha»"
+            "Kiti changu kiko chumbani, viti vyetu viko sebuleni, mti wangu umemea, na miti yetu inazaa matunda. (My chair [ch-], our chairs [vy-], my tree [w-], and our trees [y-].)",
+            "Kiti yangu kiko chumbani na viti zetu ziko sebuleni.",
+            "Mti changu umemea wakati miti vyangu inazaa matunda.",
+            "Vimilikishi vya KI-VI na M-MI havina tofauti ya kisarufi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kiti changu kiko chumbani, viti vyetu viko sebuleni, mti wangu umemea, na miti yetu inazaa matunda.» inafuata kanuni kamili za KI-VI (ch-/vy-) na M-MI (w-/y-)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u9-l3": {
@@ -3909,53 +3929,62 @@
     "subject": "swahili",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 3)",
+    "title": "Vimilikishi katika Ngeli za JI-MA na N-N (Possessives in Classes 5/6 & 9/10)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.3) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JI-MA (langu/yangu, lako/yako, lake/yake, letu/yetu, lenu/yenu, lao/yao) na Ngeli ya N-N (yangu/zangu, yako/zako, yake/zake, yetu/zetu, yenu/zenu, yao/zao).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vimilikishi katika Ngeli za JI-MA na N-N (Possessive Concord for Classes 5/6 & 9/10):\n\n1. **Ngeli ya JI-MA (Classes 5/6: Kiambishi l- / y-)**:\n   - Umoja huchukua **l-** (*li- + a -> la*), Wingi huchukua **y-** (*ya- + a -> ya*):\n     - *Mimi*: **langu** / **yangu** (*jina langu / majina yangu*, *gari langu / magari yangu*)\n     - *Wewe*: **lako** / **yako** (*shamba lako / mashamba yako*)\n     - *Yeye*: **lake** / **yake** (*tunda lake / matunda yake*)\n     - *Sisi*: **letu** (*li-etu* -> **letu**) / **yetu** (*darasa letu / madarasa yetu*)\n     - *Ninyi*: **lenu** / **yenu** (*neno lenu / maneno yenu*)\n     - *Wao*: **lao** / **yao** (*soko lao / masoko yao*)\n\n2. **Ngeli ya N-N (Classes 9/10: Kiambishi y- / z-)**:\n   - Umoja huchukua **y-** (*i- + a -> ya*), Wingi huchukua **z-** (*zi- + a -> za*):\n     - *Mimi*: **yangu** / **zangu** (*nyumba yangu / nyumba zangu*, *barua yangu / barua zangu*)\n     - *Wewe*: **yako** / **zako** (*nguo yako / nguo zako*)\n     - *Yeye*: **yake** / **zake** (*safari yake / safari zake*)\n     - *Sisi*: **yetu** / **zetu** (*shule yetu / shule zetu*)\n     - *Ninyi*: **yenu** / **zenu** (*kazi yenu / kazi zenu*)\n     - *Wao*: **yao** / **zao** (*biashara yao / biashara zao*)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 9."
+          "target": "Jina langu ni Baraka na gari langu jipya limefika leo asubuhi.",
+          "reading": "Ji-na la-ngu ni Ba-ra-ka na ga-ri la-ngu ji-pya li-me-fi-ka le-o a-su-bu-hi. [ˈʤinɑ ˈlɑŋɡu ni bɑˈrɑkɑ nɑ ˈɡɑri ˈlɑŋɡu ˈʤipjɑ limɛˈfikɑ ˈlɛɔ ɑsuˈbuhi] (JEE-nah LAHN-goo nee bah-RAH-kah nah GAH-ree LAHN-goo JEE-pyah lee-may-FEE-kah LAY-oh ah-soo-BOO-hee)",
+          "translation": "My name [class 5: jina langu] is Baraka and my new car [class 5: gari langu] has arrived this morning."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 9-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Nyumba yetu ina madirisha makubwa na bustani yake ina maua mazuri.",
+          "reading": "Nyu-mba ye-tu i-na ma-di-ri-sha ma-kbu-wa na bu-sta-ni ya-ke i-na ma-u-a ma-zu-ri. [ˈɲumbɑ ˈjɛtu ˈinɑ mɑdiˈriʃɑ mɑˈkubwɑ nɑ busˈtɑni ˈjɑkɛ ˈinɑ mɑˈuɑ mɑˈzuri] (NYOOM-bah YAY-too ee-nah mah-dee-REE-shah mah-KOO-bwah nah boo-STAH-nee YAH-kay ee-nah mah-OO-ah mah-ZOO-ree)",
+          "translation": "Our house [class 9: nyumba yetu] has big windows and its garden [class 9: bustani yake] has fine flowers."
+        },
+        {
+          "target": "Magari yao yameegeshwa nje na nguo zao zote zimefuliwa vizuri.",
+          "reading": "Ma-ga-ri ya-o ya-me-e-ge-shwa nje na nguo za-o zo-te zi-me-fu-li-wa vi-zu-ri. [mɑˈɡɑri ˈjɑɔ jɑmɛɛɡɛˈʃwɑ ˈnʤɛ nɑ ˈŋɡuɔ ˈzɑɔ ˈzɔtɛ zimɛfuˈliwɑ viˈzuri] (mah-GAH-ree YAH-oh yah-may-ay-gay-SHWAH N-JAY nah N-GOO-oh ZAH-oh ZOH-tay zee-may-foo-LEE-wah vee-ZOO-ree)",
+          "translation": "Their cars [class 6: magari yao] are parked outside and all their clothes [class 10: nguo zao] are washed well."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vimilikishi JI-MA na N-N: JI->langu/letu, MA->yangu/yetu; N(sg)->yangu/yetu, N(pl)->zangu/zetu!"
+      ],
+      "culturalNotes": [
+        "Majina ya heshima kama 'Nchi yetu', 'Lugha yetu', na 'Nyumba yetu' huakisi uzalendo na fahari ya kijamii katika jamii ya Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Jiko\":",
+          "prompt": "Sentensi ipi inatumia kimilikishi sahihi cha Ngeli ya 5 (JI-MA umoja) kwa nafsi ya kwanza umoja (Mimi)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dirisha»",
-            "Mpangilio usio sahihi wa viambishi katika «Mlango»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Meza»"
+            "Shamba langu lina mazao mengi ya mahindi. (My farm has plenty of corn crops - Correct Class 5 possessive 'l-angu')",
+            "Shamba yangu lina mazao mengi (Kosa la kutumia kiambishi cha N-N)",
+            "Shamba changu lina mazao mengi (Kosa la kutumia kiambishi cha KI-VI)",
+            "Shamba wangu lina mazao mengi (Kosa la kutumia kiambishi cha M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Shamba» (umoja katika Ngeli ya JI-MA) huchukua kiambishi cha kimilikishi «l-», hivyo huwa «shamba langu»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Jiko\":",
+          "prompt": "Unapozungumzia nyumba nyingi za wazazi (Ngeli ya 10 N-N wingi wa Wao), kirai sahihi cha kimilikishi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Mlango»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Meza»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dirisha»"
+            "Nyumba zao zimejengwa kwa mawe imara. (Their houses are built of strong stones - Correct Class 10 possessive 'z-ao')",
+            "Nyumba yao zimejengwa (Kosa la kutumia umoja 'y-')",
+            "Nyumba vyao zimejengwa (Kosa la kutumia KI-VI)",
+            "Nyumba yao limejengwa (Mvurugiko wa upatanisho)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Nyumba» (wingi katika Ngeli ya N-N) huchukua kiambishi cha kimilikishi «z-», hivyo huwa «nyumba zao»."
         }
       ]
     },
@@ -3963,17 +3992,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Jiko\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vimilikishi katika ngeli za JI-MA na N-N:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Meza»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dirisha»",
-            "Mpangilio usio sahihi wa viambishi katika «Mlango»"
+            "Gari langu lina kasi, magari yetu yanafika, nyumba yangu ni safi, na nguo zetu zimekauka. (My car [l-], our cars [y-], my house [y-], and our clothes [z-].)",
+            "Gari yangu lina kasi na magari zetu zinafika.",
+            "Nyumba langu ni safi na nguo yetu zimekauka.",
+            "Ngeli za JI-MA na N-N zinakataza matumizi ya vimilikishi vya wingi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Gari langu lina kasi, magari yetu yanafika, nyumba yangu ni safi, na nguo zetu zimekauka.» inafuata upatanisho kamili wa JI-MA (l-/y-) na N-N (y-/z-)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u9-l4": {
@@ -3981,53 +4011,62 @@
     "subject": "swahili",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 4)",
+    "title": "Vimilikishi katika Ngeli ya U-ZI, Mahali (PA-KU-MU), na Uhusiano (-a) (U-ZI, Locatives & Associative -a)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.4) with authentic precision.",
+    "objective": "Kuelewa upatanisho wa vimilikishi katika Ngeli ya U-ZI (wangu/zangu), ngeli za Mahali (PA-pangu, KU-kwangu, MU-mwangu), na 'a' ya uhusiano (cha, la, ya, za, wa, mwa, kwa).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vimilikishi vya U-ZI, Mahali, na Kiunganishi '-a' cha Uhusiano:\n\n1. **Ngeli ya U-ZI (Classes 11/10: Kiambishi w- / z-)**:\n   - Umoja (**w-**): *ufunguo **wangu*** (my key), *ukuta **wetu*** (our wall), *upendo **wako*** (your love)\n   - Wingi (**z-**): *funguo **zangu*** (my keys), *kuta **zetu*** (our walls), *nyembe **zake*** (his razor blades)\n\n2. **Ngeli za Mahali (Locative Classes 16/17/18)**:\n   - **Mahali Dhahiri (PA - Class 16 -> p-)**: *mahali **pangu**, **pako**, **pake**, **petu**, **penu**, **pao*** (*mahali petu pa kazi* = our workplace)\n   - **Mahali kwa Ujumla / Upande (KU - Class 17 -> kw-)**: *nyumbani **kwangu**, **kwako**, **kwake**, **kwetu**, **kwenu**, **kwao*** (*nyumbani kwetu* = at our home)\n   - **Mahali Ndani (MU - Class 18 -> mw-)**: *ndani **mwangu**, **mwako**, **mwake**, **mwetu**, **mwenu**, **mwao*** (*chumbani mwake* = inside his room)\n\n3. **Kiunganishi '-a' cha Uhusiano (The Associative '-a')**:\n   - *mtoto **wa** mwalimu* (teacher's child), *kitabu **cha** mwanafunzi* (student's book), *gari **la** daktari* (doctor's car), *nyumba **za** kijiji* (village houses).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 9."
+          "target": "Nyumbani kwetu kuna ukarimu mkubwa na mahali petu pa kazi ni pazuri.",
+          "reading": "Nyu-mba-ni kwe-tu ku-na u-ka-ri-mu mku-bwa na ma-ha-li pe-tu pa ka-zi ni pa-zu-ri. [ɲumbɑˈni ˈkwɛtu ˈkunɑ ukɑˈrimu mˈkubwɑ nɑ mɑˈhɑli ˈpɛtu pɑ ˈkɑzi ni pɑˈzuri] (nyoom-bah-NEE KWAY-too koo-nah oo-kah-REE-moo M-KOO-bwah nah mah-HAH-lee PAY-too pah KAH-zee nee pah-ZOO-ree)",
+          "translation": "At our home [locative KU: nyumbani kwetu] there is great hospitality and our workplace [locative PA: mahali petu pa kazi] is pleasant."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 9-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Ufunguo wangu wa chumba umepotea lakini funguo zote za ofisini zipo mezani.",
+          "reading": "U-fu-nguo wa-ngu wa chu-mba u-me-po-te-a la-ki-ni fu-nguo zo-te za o-fi-si-ni zi-po me-za-ni. [ufuˈŋɡuɔ ˈwɑŋɡu wɑ ˈtʃumbɑ umɛpɔˈtɛɑ lɑˈkini fuˈŋɡuɔ ˈzɔtɛ zɑ ɔfiˈsini ˈzipɔ mɛˈzɑni] (oo-foon-GOO-oh WAHN-goo wah CHOO-m-bah oo-may-poh-TAY-ah lah-KEE-nee foon-GOO-oh ZOH-tay zah oh-fee-SEE-nee ZEE-poh may-ZAH-nee)",
+          "translation": "My room key [class 11 U: ufunguo wangu] is lost, but all office keys [class 10 ZI: funguo zote] are on the table."
+        },
+        {
+          "target": "Moyo wangu umejaa furaha ninapoona maendeleo ya nchi yetu pendwa.",
+          "reading": "Mo-yo wa-ngu u-me-ja-a fu-ra-ha ni-na-po-o-na ma-e-nde-le-o ya nchi ye-tu pe-ndwa. [ˈmɔjɔ ˈwɑŋɡu umɛˈʤɑː fuˈrɑhɑ ninɑpɔˈɔnɑ mɑɛndɛˈlɛɔ jɑ ˈntʃi ˈjɛtu ˈpɛndwɑ] (MOH-yoh WAHN-goo oo-may-JAH-ah foo-RAH-hah nee-nah-poh-OH-nah mah-ayn-day-LAY-oh yah N-chee YAY-too PAYN-dwah)",
+          "translation": "My heart [class 3: moyo wangu] is full of joy when I see the progress of our beloved country [class 9: nchi yetu]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vimilikishi vya Mahali na U-ZI: Ufunguo wangu / funguo zangu; Nyumbani kwetu (kw-), Mahali petu (p-), Chumbani mwetu (mw-)!"
+      ],
+      "culturalNotes": [
+        "Msemo 'Nyumbani ni nyumbani, hata kukiwa na mashaka' unaonyesha mapenzi makubwa ya mtu kwa asili yake na makazi ya familia yake."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Dirisha\":",
+          "prompt": "Sentensi ipi inaeleza \"Nyumbani kwetu\" kwa upatanisho sahihi wa kimilikishi cha mahali (Ngeli ya 17 KU)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mlango»",
-            "Mpangilio usio sahihi wa viambishi katika «Meza»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kiti»"
+            "Karibuni sana nyumbani kwetu tule chakula pamoja. (Welcome warmly to our home so we eat together - Correct Class 17 locative possessive 'kw-etu')",
+            "Karibuni sana nyumbani petu tule chakula (Kosa la kutumia kiambishi cha mahali dhahiri 'p-')",
+            "Karibuni sana nyumbani mwetu tule chakula (Inaonyesha ndani kabisa badala ya nyumbani kwa ujumla)",
+            "Karibuni sana nyumbani zetu tule chakula (Kosa la kutumia kiambishi cha N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino yenye kiambishi tamati cha mahali «nyumbani» kwa maana ya eneo la nyumbani huchukua «kwetu»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Dirisha\":",
+          "prompt": "Unapozungumzia funguo nyingi ulizo nazo (Ngeli ya 10 U-ZI wingi wa Mimi), kirai sahihi ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Meza»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kiti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mlango»"
+            "Funguo zangu ziko mfukoni. (My keys are in the pocket - Correct Class 10 plural possessive 'z-angu')",
+            "Funguo yangu ziko mfukoni (Kosa la kutumia umoja 'y-')",
+            "Funguo wangu ziko mfukoni (Kosa la kutumia kiambishi cha umoja wa U-ZI)",
+            "Funguo vyangu ziko mfukoni (Kosa la kutumia KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino ya wingi «Funguo» (Ngeli ya U-ZI) huchukua kiambishi cha kimilikishi «z-», hivyo huwa «funguo zangu»."
         }
       ]
     },
@@ -4035,17 +4074,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Dirisha\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoeleza kwa usahihi upatanisho wa vimilikishi vya ngeli za Mahali (PA, KU, MU):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kiti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mlango»",
-            "Mpangilio usio sahihi wa viambishi katika «Meza»"
+            "Mahali petu pa kazi ni pazuri (PA), nyumbani kwetu kuna amani (KU), na chumbani mwake kuna utulivu (MU). (Locative concord: PA -> petu/pa, KU -> kwetu, MU -> mwake.)",
+            "Mahali kwetu ni pazuri na nyumbani petu kuna amani.",
+            "Chumbani zetu kuna utulivu wakati mahali vyetu panapendeza.",
+            "Ngeli za mahali hazina vimilikishi katika Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mahali petu pa kazi ni pazuri (PA), nyumbani kwetu kuna amani (KU), na chumbani mwake kuna utulivu (MU).» inatekeleza upatanisho sahihi wa ngeli tatu za mahali."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u9-l5": {
@@ -4053,53 +4093,62 @@
     "subject": "swahili",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 5)",
+    "title": "Muhtasari wa Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns Grand Synthesis)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 9.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 9: mashina sita ya vimilikishi (-angu, -ako, -ake, -etu, -enu, -ao), upatanisho wa ngeli zote (A-WA, KI-VI, M-MI, JI-MA, N-N, U-ZI, PA-KU-MU), na matumizi yake katika sentensi changamano za kimawasiliano.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns Grand Synthesis):\n\n1. **Mashina Sita ya Vimilikishi**:\n   - *-angu* (my), *-ako* (your sg), *-ake* (his/her/its), *-etu* (our), *-enu* (your pl), *-ao* (their).\n\n2. **Jedwali Kamili la Upatanisho wa Vimilikishi (Master Possessive Matrix)**:\n   - **A-WA (1/2)**: *mtoto wangu / watoto wangu*, *rafiki yangu / marafiki zangu*.\n   - **KI-VI (7/8)**: *kitabu changu / vitabu vyangu*, *chumba chetu / vyumba vyetu*.\n   - **M-MI (3/4)**: *mti wangu / miti yangu*, *mji wetu / miji yetu*.\n   - **JI-MA (5/6)**: *gari langu / magari yangu*, *jina letu / majina yetu*.\n   - **N-N (9/10)**: *nyumba yangu / nyumba zangu*, *shule yetu / shule zetu*.\n   - **U-ZI (11/10)**: *ufunguo wangu / funguo zangu*, *ukuta wetu / kuta zetu*.\n   - **Mahali (16/17/18)**: *mahali petu* (PA), *nyumbani kwetu* (KU), *ndani mwetu* (MU).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 9."
+          "target": "Nyumbani kwetu, kitabu changu kiko mezani, gari letu liko gereji, na marafiki zangu wote wamefika.",
+          "reading": "Nyu-mba-ni kwe-tu, ki-ta-bu cha-ngu ki-ko me-za-ni, ga-ri le-tu li-ko ge-re-ji, na ma-ra-fi-ki za-ngu wo-te wa-me-fi-ka. [ɲumbɑˈni ˈkwɛtu kiˈtɑbu ˈtʃɑŋɡu ˈkikɔ mɛˈzɑni ˈɡɑri ˈlɛtu ˈlikɔ ɡɛˈrɛʤi nɑ mɑrɑˈfiki ˈzɑŋɡu ˈwɔtɛ wɑmɛˈfikɑ] (nyoom-bah-NEE KWAY-too, kee-TAH-boo CHAHN-goo KEE-koh may-ZAH-nee, GAH-ree LAY-too LEE-koh gay-RAY-jee, nah mah-rah-FEE-kee ZAHN-goo WOH-tay wah-may-FEE-kah)",
+          "translation": "At our home [KU: kwetu], my book [KI: changu] is on the table, our car [JI: letu] is at the garage, and all my friends [N-N/A-WA: zangu] have arrived."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 9-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kila mtu anapaswa kutunza haki zake, kulinda nchi yake, na kuwaheshimu wazazi wake.",
+          "reading": "Ki-la m-tu a-na-pa-swa ku-tu-nza ha-ki za-ke, ku-li-nda nchi ya-ke, na ku-wa-he-shi-mu wa-za-zi wa-ke. [ˈkilɑ ˈmtu ɑnɑˈpɑswɑ kuˈtunzɑ ˈhɑki ˈzɑkɛ kuˈlindɑ ˈntʃi ˈjɑkɛ nɑ kuwɑhɛˈʃimu wɑˈzɑzi ˈwɑkɛ] (KEE-lah M-too ah-nah-PAH-swah koo-TOON-zah HAH-kee ZAH-kay, koo-LEEN-dah N-chee YAH-kay, nah koo-wah-hay-SHEE-moo wah-ZAH-zee WAH-kay)",
+          "translation": "Everyone ought to preserve their rights [class 10: haki zake], protect their country [class 9: nchi yake], and respect their parents [class 2: wazazi wake]."
+        },
+        {
+          "target": "Upatanisho sahihi wa vimilikishi ni nguzo kuu ya usanifu na mvuto wa kipekee wa lugha ya Kiswahili.",
+          "reading": "U-pa-ta-ni-sho sa-hi-hi wa vi-mi-li-ki-shi ni ngu-zo ku-u ya u-sa-ni-fu na mvu-to wa ki-pe-ke-e wa lu-gha ya Ki-swa-hi-li. [upɑtɑˈniʃɔ sɑˈhihi wɑ vimiliˈkiʃi ni ˈŋɡuzɔ ˈkuː jɑ usɑˈnifu nɑ ˈmvutɔ wɑ kipɛˈkɛː wɑ ˈluɣɑ jɑ kiswɑˈhili] (oo-pah-tah-NEE-shoh sah-HEE-hee wah vee-mee-lee-KEE-shee nee N-GOO-zoh KOO-oo yah oo-sah-NEE-foo nah M-VOO-toh wah kee-pay-KAY-ay wah LOO-ghah yah kee-swah-HEE-lee)",
+          "translation": "Accurate possessive concord [possessive grand synthesis: upatanisho wa vimilikishi] is the chief pillar of standard elegance and unique beauty in the Swahili language."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa Vimilikishi: Mashina 6 (-angu, -ako, -ake, -etu, -enu, -ao) + Viambishi vya ngeli (w-, y-, ch-, vy-, l-, z-, p-, kw-, mw-)!"
+      ],
+      "culturalNotes": [
+        "Kutumia vimilikishi vya pamoja kama 'nyumbani kwetu', 'mji wetu', na 'lugha yetu' huonyesha utamaduni thabiti wa 'Ujamaa' na mshikamano wa kijamii uliopo katika jamii ya Waswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mlango\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa vimilikishi katika ngeli mbalimbali (KI-VI, JI-MA, N-N, na Mahali)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Meza»",
-            "Mpangilio usio sahihi wa viambishi katika «Kiti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kitanda»"
+            "Nyumbani kwetu, kitabu changu kiko mezani, gari letu limefika, na familia yangu inafurahi. (At our home [kw-], my book [ch-], our car [l-], and my family [y-] rejoices - Harmonious possessive synthesis)",
+            "Nyumbani petu, kitabu yangu kiko mezani na gari zetu limefika (Mchanganyiko wa makosa ya upatanisho)",
+            "Kitabu chake kiko nyumbani zetu wakati magari langu linakimbia (Mvurugiko mkubwa wa ngeli)",
+            "Familia changu inasoma kitabu letu mezani (Upotoshaji wa upatanisho)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Nyumbani kwetu, kitabu changu kiko mezani, gari letu limefika, na familia yangu inafurahi.» inatumia upatanisho sahihi wa KU (kwetu), KI (changu), JI (letu), na N (yangu)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mlango\":",
+          "prompt": "Katika muhtasari wa Unit 9, ni sheria gani ya msingi inayotawala muundo wa vimilikishi katika Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Kiti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kitanda»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Meza»"
+            "Kimilikishi kinaundwa na kiambishi cha upatanisho cha ngeli husika kikiungana na mojawapo ya mashina sita ya kimilikishi, na hufuata nomino kila wakati. (Possessive is formed by noun class concord prefix + one of six possessive stems, always following the noun)",
+            "Kimilikishi hutangulia nomino kama ilivyo katika Kiingereza",
+            "Vimilikishi vyote huishia na herufi 'z' katika Kiswahili",
+            "Ngeli zote hutumia umbo moja tu la 'yangu'"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kimilikishi huundwa kwa kiambishi ngeli + shina (-angu, -ako, -ake, -etu, -enu, -ao) na hufuata nomino inayomilikiwa."
         }
       ]
     },
@@ -4107,17 +4156,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mlango\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 9 ya Vimilikishi na Upatanisho wa Kisarufi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 9.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kitanda»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Meza»",
-            "Mpangilio usio sahihi wa viambishi katika «Kiti»"
+            "Nyumbani kwetu, kitabu changu kiko mezani, gari letu jipya limeegeshwa nje, bustani yetu ina maua mazuri, na marafiki zangu wote wanajivunia ushirikiano wetu. (At our home [kw-], my book [ch-], our car [l-], our garden [y-], and all my friends [z-] take pride in our cooperation.)",
+            "Nyumbani zetu kitabu yangu kiko mezani na gari changu limeegeshwa nje.",
+            "Bustani letu ina maua mazuri na marafiki vyangu wanajivunia ushirikiano letu.",
+            "Vimilikishi vinakataza matumizi ya maneno 'kwetu', 'changu', na 'letu'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Nyumbani kwetu, kitabu changu kiko mezani, gari letu jipya limeegeshwa nje, bustani yetu ina maua mazuri, na marafiki zangu wote wanajivunia ushirikiano wetu.» inajumuisha upatanisho wa ngeli zote kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u10-l1": {
