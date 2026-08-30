@@ -19130,85 +19130,89 @@
     "subject": "arabic",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims) (الدرس 1)",
+    "title": "أصول الاستنباط والأدلة الشرعية الكبرى (Usul al-Fiqh: Evidentiary Foundations & Hermeneutics)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأدلة الشرعية، القياس، الاستحسان، المصالح المرسلة، والقواعد الفقهية الكلية. (الجزء 1).",
+    "objective": "إتقان أسس علم أصول الفقه ومناهج الاستنباط: كتاب «الرسالة» للشافعي، الأدلة المتفق عليها (الكتاب، السنة، الإجماع، والقياس بأركانه الأربعة)، والأدلة التبعية الاستدلالية (الاستحسان، المصالح المرسلة، وسد الذرائع).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد «عِلْمُ أُصُولِ الفِقْهِ» منهجية الاستدلال التشريعي وفلسفة القانون في الحضارة الإسلامية، ودشنه الإمام محمد بن إدريس الشافعي (ت 204 هـ) في كتابه التاريخي «**الرِّسَالَةُ**»:\n\nأولاً: الأدلة الشرعية الأصلية المتفق عليها:\n1. **الكِتَابُ العَزِيزُ**: قطعي الثبوت، وأصله في الأحكام الكلية والفرعية.\n2. **السُّنَّةُ النَّبَوِيَّةُ المُطَهَّرَةُ**: مبينة للكتاب، ومفصلة لمجمله، ومخصصة لعامه.\n3. **الإِجْمَاعُ**: اتفاق جميع المجتهدين من أمة محمد ﷺ في عصر من العصور بعد وفاته على حكم شرعي.\n4. **القِيَاسُ (Analogy)**: إلحاق واقعة لا نص فيها بواقعة ورد فيها نص في الحكم لاشتراكهما في العلة. وله أربعة أركان:\n   - **الأَصْلُ** (المقيس عليه)، **الفَرْعُ** (المقيس)، **حُكْمُ الأَصْلِ**، و**العِلَّةُ** (الوصف الجامع المؤثر).\n\nثانياً: الأدلة التبعية والمصادر الاجتهادية:\n- **الاسْتِحْسَانُ**: العدول بمسألة عن نظائرها لدليل خاص أقوى (عند الحنفية والمالكية).\n- **المَصَالِحُ المُرْسَلَةُ (Istislah / Public Interest)**: جلب المنفعة ودفع المفسدة حيث لا نص خاص يقبلها أو يلغيها (عماد المذهب المالكي في النوازل المستجدة).\n- **سَدُّ الذَّرَائِعِ**: حظر الوسائل المباحة في الأصل إذا كانت تفضي قطعاً أو غالباً إلى مفاسد محرمة.\n- **الاسْتِصْحَابُ**: استدامة الحكم الثابت في الماضي ما لم يقم دليل على تغييره («الأَصْلُ فِي الأَشْيَاءِ الإِبَاحَةُ» و«الأَصْلُ بَرَاءَةُ الذِّمَّةِ»).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)' to students in an accurate academic style."
+          "target": "دَشَّنَ الإِمَامُ الشَّافِعِيُّ عِلْمَ أُصُولِ الفِقْهِ فِي «الرِّسَالَةِ» مُؤَسِّسًا مَنْهَجِيَّةَ الاسْتِنْبَاطِ وَقَوَاعِدَ الجَمْعِ بَيْنَ النَّقْلِ وَالعَقْلِ.(Dajjana al-imāmu ash-Shāfiʿiyyu ʿilma uṣūli al-fiqhi fī «ar-Risālah» muʾassisan manhajiyyata al-istinbāṭi wa-qawāʿida al-jamʿi bayna an-naqli wa-al-ʿaql.)",
+          "reading": "[daʃ.ʃa.na‿l.ʔi.maː.mu‿ʃ.ʃaː.fi.ʕij.ju ʕil.ma ʔu.sˤuː.li‿l.fiq.hi fir.ri.saː.la.ti mu.ʔas.si.san man.ha.dʒij.ja.ta‿l.ʔis.tin.baː.tˤi wa.qa.waː.ʕi.da‿l.ʒam.ʕi baj.na‿n.naq.li wal.ʕaql] (Dash-sha-na al-i-mā-mu ash-Shā-fi-ʿiy-yu ʿil-ma u-ṣū-li al-fiq-hi fī «ar-Ri-sā-lah» mu-ʾas-si-san man-ha-jiy-ya-ta al-is-tin-bā-ṭi wa-qa-wā-ʿi-da al-jam-ʿi bay-na an-naq-li wa-al-ʿaql.)",
+          "translation": "Imam al-Shafi'i inaugurated the science of Usul al-Fiqh in 'al-Risalah' establishing the deduction methodology and rules of integrating revelation with reason."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَقُومُ القِيَاسُ الأُصُولِيُّ عَلَى أَرْبَعَةِ أَرْكَانٍ هِيَ الأَصْلُ وَالفَرْعُ وَحُكْمُ الأَصْلِ وَالعِلَّةُ الجَامِعَةُ بَيْنَهُمَا.(Yaqūmu al-qiyāsu al-uṣūliyyu ʿalā arbaʿati arkānin hiya al-aṣlu wa-al-farʿu wa-ḥukmu al-aṣli wa-al-ʿillatu al-jāmiʿatu baynahumā.)",
+          "reading": "[ja.quː.mu‿l.qi.jaː.su‿l.ʔu.sˤuː.lij.ju ʕa.laː ʔar.ba.ʕa.ti ʔar.kaː.nin hi.ja‿l.ʔasˤ.lu wal.far.ʕu wa.ħuk.mu‿l.ʔasˤ.li wal.ʕil.la.tu‿l.ʒaː.mi.ʕa.tu baj.na.hu.maː] (Ya-qū-mu al-qi-yā-su al-u-ṣū-liy-yu ʿa-lā ar-ba-ʿa-ti ar-kā-nin hi-ya al-aṣ-lu wal-far-ʿu wa-ḥuk-mu al-aṣ-li wal-ʿil-la-tu al-jā-mi-ʿa-tu bay-na-hu-mā.)",
+          "translation": "Jurisprudential analogy rests upon four pillars: the original case, the new branch, the original ruling, and the effective cause uniting them."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تُتِيحُ المَصَالِحُ المُرْسَلَةُ لِلْمُجْتَهِدِ مُوَاكَبَةَ النَّوَازِلِ المُسْتَجِدَّةِ بِمَا يُحَقِّقُ مَنَافِعَ النَّاسِ وَيَدْرَأُ المَفَاسِدَ.(Tutīḥu al-maṣāliḥu al-mursalatu li-l-mujtahidi muwākabata an-nawāzili al-mustajiddati bi-mā yuḥaqqiqu manāfiʿa an-nāsi wa-yadraʾu al-mafāsid.)",
+          "reading": "[tu.tiː.ħu‿l.ma.sˤaː.li.ħu‿l.mur.sa.la.tu lil.muʒ.ta.hi.di mu.waː.ka.ba.ta‿n.na.waː.zi.li‿l.mus.ta.ʒid.da.ti bi.maː ju.ħaq.qi.qu ma.naː.fi.ʕa‿n.naː.si wa.jad.ra.ʔu‿l.ma.faː.sid] (Tu-tī-ḥu al-ma-ṣā-li-ḥu al-mur-sa-la-tu lil-muj-ta-hi-di mu-wā-ka-ba-ta an-na-wā-zi-li al-mus-ta-jid-da-ti bi-mā yu-ḥaq-qi-qu ma-nā-fi-ʿa an-nā-si wa-yad-ra-ʾu al-ma-fā-sid.)",
+          "translation": "Unrestricted public interest (masalih mursalah) allows the jurist to keep pace with novel occurrences in a way that secures people's benefits and wards off harms."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُعَدُّ الاسْتِصْحَابُ دَلِيلًا عَقْلِيًّا شَرْعِيًّا يَقْضِي بِبَقَاءِ الأَصْلِ حَتَّى يَثْبُتَ الدَّلِيلُ المُغَيِّرُ لَهُ.(Yuʿaddu al-istiṣḥābu dalīlan ʿaqliyyan sharʿiyyan yaqḍī bi-baqāʾi al-aṣli ḥattā yathbuta ad-dalīlu al-mughayyiru lah.)",
+          "reading": "[ju.ʕad.du‿l.ʔis.tisˤ.ħaː.bu da.liː.lan ʕaq.lij.jan ʃar.ʕij.jan jaq.dˤiː bi.ba.qaː.ʔi‿l.ʔasˤ.li ħat.taː jaθ.bu.ta‿d.da.liː.lu‿l.mu.ɣaj.ji.ru lah] (Yu-ʿad-du al-is-tiṣ-ḥā-bu da-lī-lan ʿaq-liy-yan shar-ʿiy-yan yaq-ḍī bi-ba-qā-ʾi al-aṣ-li ḥat-tā yath-bu-ta ad-da-lī-lu al-mu-ghay-yi-ru lah.)",
+          "translation": "Presumption of continuity (istishab) is considered a rational-legal proof stipulating preservation of default status until altering evidence is established."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أُصُولُ الشَّرْعِ لِلْفَتْوَى دَلِيلْ، كِتَابٌ سُنَّةٌ نَهْجٌ جَلِيلْ!"
+      ],
+      "culturalNotes": [
+        "يُعد كتاب «الرسالة» للشافعي أول تدوين منهجي في تاريخ الفكر البشري لقواعد أصول الفقه والتأصيل المنطقي للأدلة وحجية الأخبار."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» (الدرس 1)؟",
+          "prompt": "ما هي الأركان الأربعة الأساسية لـ «القياس» في علم أصول الفقه؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (32.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (32.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (32.1.w3)"
+            "الأَصْلُ، الفَرْعُ، حُكْمُ الأَصْلِ، وَالعِلَّةُ الجَامِعَةُ (Original case, branch case, original ruling, & effective cause)",
+            "المبتدأ، الخبر، الفعل، والفاعل",
+            "الشاهد، القاضي، المدعي، والمدعى عليه",
+            "السجع، الجناس، الطباق، والتورية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أركان القياس الأصولي أربعة: الأصل (المقيس عليه)، الفرع (الواقعة الجديدة)، حكم الأصل، والعلة المشتركة المؤثرة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الدليل الأصولي التبعي الذي يُعرف بأنه: «حظر الوسائل المباحة إذا كانت تفضي إلى مفاسد محرمة»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "سَدُّ الذَّرَائِعِ (Blocking the Means / Sadd al-Dhara'i)",
+            "الاستصحاب",
+            "الإجماع السكوتي",
+            "العرف الفاسد"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«سد الذرائع» هو منع المباحات إذا كانت ذريعة ووسيلة مؤدية إلى الحرام والمفاسد."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u32-l1):",
+          "prompt": "اختر القاعدة الاستصحابية الكبرى التي تحكم الذمم والأشياء في أصول الفقه:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (32.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (32.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (32.1.x3)"
+            "«الأَصْلُ فِي الأَشْيَاءِ الإِبَاحَةُ، وَالأَصْلُ بَرَاءَةُ الذِّمَّةِ مِنْ كُلِّ حَقٍّ أَوْ شَغْلٍ». ('Default rule for things is permissibility, and default for liability is freedom from debt.')",
+            "الأصل في كل المعاملات التحريم حتى يأتي إذن كتابي",
+            "الشك يبطل اليقين في جميع الأحوال",
+            "أصول فقه شافعي رسالة قياس سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الاستصحاب يقرر أن الأصل في الأعيان والأفعال الإباحة، والأصل براءة ذمة الإنسان حتى يثبت الدليل القاطع."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)»؟",
+          "prompt": "ما إعراب كلمة «مَنْهَجِيَّةَ» في جملة: «أَسَّسَ الشَّافِعِيُّ مَنْهَجِيَّةَ الاسْتِنْبَاطِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (32.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (32.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (32.1.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الشَّافِعِيُّ» فاعل مرفوع، و«مَنْهَجِيَّةَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -19216,24 +19220,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 32-1)؟",
+          "prompt": "اختر النص الأصولي التوثيقي الذي يحلل مناهج الاستدلال ومصادر التشريع بأعلى معايير الإتقان الفقهي والفصاحة اللغوية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (32.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (32.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (32.1.z3)"
+            "شَيَّدَ عِلْمُ أُصُولِ الفِقْهِ الصَّرْحَ التَّشْرِيعِيَّ الإِسْلَامِيَّ كَأَعْظَمِ مَنْظُومَةٍ لِلِاسْتِنْبَاطِ وَالعَقْلَانِيَّةِ القَانُونِيَّةِ؛ حَيْثُ رَبَطَ الإِمَامُ الشَّافِعِيُّ فِي «الرِّسَالَةِ» بَيْنَ النَّصِّ وَالاجْتِهَادِ، وَأَسَّسَ قَوَاعِدَ القِيَاسِ بِأَرْكَانِهِ الأَرْبَعَةِ، مُفْسِحًا المَجَالَ أَمَامَ المَصَالِحِ المُرْسَلَةِ وَالاسْتِحْسَانِ وَسَدِّ الذَّرَائِعِ لِتَظَلَّ الشَّرِيعَةُ حَيَّةً قَادِرَةً عَلَى اسْتِيعَابِ نَوَازِلِ العُصُورِ كُلِّهَا. (Usul al-Fiqh erected the Islamic legislative edifice as the greatest system of legal deduction and rationality; where Imam al-Shafi'i in 'al-Risalah' linked text with ijtihad, and established rules of analogy with its four pillars, opening path for public interest, istihsan and blocking means so jurisprudence remains living and capable of assimilating all era occurrences.)",
+            "أصول الفقه هو علم دراسة الأحكام الشرعية الخمسة للمكلفين.",
+            "أصول فقه أدلة قياس أصل فرع علة مصلحة مرسلة سد ذرائع سكون فتحة ضمة.",
+            "انتهى الاجتهاد في أصول الفقه بعد تدوين المذاهب الأربعة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يحيط بالأدلة الأصلية والتبعية ودور علم أصول الفقه كمنظومة عقلانية قانونية مرنة لاستيعاب النوازل المعاصرة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u32-l1) باللغة العربية (مثال: «أصول»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم الشرعي والمنهجي الذي يضع قواعد استنباط الأحكام من أدلتها التفصيلية (اكتب: «أصول الفقه»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "أصول",
-            "أصول"
+            "أصول الفقه",
+            "أصول فقه",
+            "علم أصول الفقه",
+            "علم أصول فقه",
+            "أُصُولُ الفِقْهِ",
+            "أُصُول الفِقْه"
           ],
-          "explanation": "المصطلح الصحيح هو «أصول»."
+          "explanation": "العلم هو «أصول الفقه» (Usul al-Fiqh)."
         }
       ],
       "passThreshold": 0.8
@@ -19244,85 +19252,89 @@
     "subject": "arabic",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims) (الدرس 2)",
+    "title": "دلالات الألفاظ والقواعد الأصولية الاستنباطية (Semantic Textual Implications & Legal Logic)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأدلة الشرعية، القياس، الاستحسان، المصالح المرسلة، والقواعد الفقهية الكلية. (الجزء 2).",
+    "objective": "إتقان فقه دلالات الألفاظ في أصول الفقه: المنطوق (الصريح وغير الصريح: دلالة الاقتضاء والإشارة والتنبيه)، المفهوم (الموافقة والمخالفة)، العام والخاص، والمطلق والمقيد.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُمثل «دَلَالَاتُ الأَلْفَاظِ» المنطق اللغوي والأصولي الصارم لاستخراج الأحكام من النصوص الشرعية والقانونية:\n\nأولاً: المنطوق (Explicit Pronouncement - Mantuq):\n- ما دل عليه اللفظ في محل النطق:\n  1. **المنطوق الصريح**: النص الذي يدل على معناه بالمطابقة أو التضمن.\n  2. **المنطوق غير الصريح** (دلالات الالتزام الإشارية):\n     - **دَلَالَةُ الاقْتِضَاءِ**: معنى مقدر لا يستقيم الكلام عقلاً أو شرعاً إلا بتقديره (مثل: «رُفِعَ عَنْ أُمَّتِي الخَطَأُ» أي: رُفع إثمُ الخطأ أو مؤاخذتُه).\n     - **دَلَالَةُ الإِشَارَةِ**: حكم لم يُسَقِ النص لإثباته أصلاً بل لزمه لزوماً لا ينفك (مثل استنباط أقل مدة الحمل بستة أشهر من جمع آيتي: ﴿وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا﴾ و﴿وَفِصَالُهُ فِي عَامَيْنِ﴾).\n     - **دَلَالَةُ الإِيمَاءِ وَالتَّنْبِيهِ**: اقتران الحكم بوصف مشعر بالعلة.\n\nثانياً: المفهوم (Implicit Implication - Mafhum):\n- ما دل عليه اللفظ في غير محل النطق (المسكوت عنه):\n  1. **مَفْهُومُ الموَافَقَةِ**: أن يكون حكم المسكوت عنه موافقاً للمنطوق:\n     - **فحوى الخطاب (من باب أولى)**: كتحريم الضرب والشتم المستنبط من تحريم قول «أُفٍّ» للوالدين.\n     - **لحن الخطاب (مساوٍ)**: كتحريم إحراق مال اليتيم قياساً على أكله.\n  2. **مَفْهُومُ المُخَالَفَةِ**: إعطاء المسكوت عنه نقيض حكم المنطوق عند انتفاء القيد (مفهوم الشرط، الوصف، الغاية، والعدد).\n\nثالثاً: العوارض الأصولية للنصوص:\n- **العَامُّ وَالخَاصُّ**: استغراق جميع الأفراد، والتخصيص بالنص أو العقل.\n- **المُطْلَقُ وَالمُقَيَّدُ**: دلالة اللفظ على الماهية الشائعة دون قيد، وحمله على المقيد عند اتحاد السبب والحكم.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)' to students in an accurate academic style."
+          "target": "يُعَدُّ مَفْهُومُ الموَافَقَةِ فِي قَوْلِهِ تَعَالَى: ﴿فَلَا تَقُلْ لَهُمَا أُفٍّ﴾ دَلِيلًا قَاطِعًا عَلَى تَحْرِيمِ الضَّرْبِ وَالإِيذَاءِ مِنْ بَابِ أَوْلَى.(Yuʿaddu mafhūmu al-muwāfaqati fī qawlihi taʿālā: «Fa-lā taqul lahumā uffin» dalīlan qāṭiʿan ʿalā taḥrīmi aḍ-ḍarbi wa-al-īdhāʾi min bābi awlā.)",
+          "reading": "[ju.ʕad.du maf.huː.mu‿l.mu.waː.fa.qa.ti fiː qaw.li.hi ta.ʕaː.laː: «fa.laː ta.qul la.hu.maː ʔuf.fin» da.liː.lan qaː.tˤi.ʕan ʕa.laː taħ.riː.mi‿dˤ.dˤar.bi wal.ʔiː.ðaː.ʔi min baː.bi ʔaw.laː] (Yu-ʿad-du maf-hū-mu al-mu-wā-fa-qa-ti fī qaw-li-hi ta-ʿā-lā: «Fa-lā ta-qul la-hu-mā uf-fin» da-lī-lan qā-ṭi-ʿan ʿa-lā taḥ-rī-mi aḍ-ḍar-bi wa-al-ī-dhā-ʾi min bā-bi aw-lā.)",
+          "translation": "A fortiori concept of agreement in the Almighty's verse: 'Do not say to them uff' is decisive proof of prohibiting beating and harm a fortiori."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَتَجَلَّى دَلَالَةُ الاقْتِضَاءِ فِي ضَرُورَةِ تَقْدِيرِ مَحْذُوفٍ يَسْتَقِيمُ بِهِ صِدْقُ الكَلَامِ شَرْعًا وَعَقْلًا.(Tatajallā dalālatu al-iqtiḍāʾi fī ḍarūrati taqdīri maḥdhūfin yastaqīmu bihi ṣidqu al-kalāmi sharʿan wa-ʿaqlā.)",
+          "reading": "[ta.ta.ʒal.laː da.laː.la.tu‿l.ʔiq.ti.dˤaː.ʔi fiː dˤa.ruː.ra.ti taq.diː.ri maħ.ðuː.fin jas.ta.qiː.mu bi.hi sˤid.qu‿l.ka.laː.mi ʃar.ʕan wa.ʕaq.laː] (Ta-ta-jal-lā da-lā-la-tu al-iq-ti-ḍā-ʾi fī ḍa-rū-ra-ti taq-dī-ri maḥ-dhū-fin yas-ta-qī-mu bi-hi ṣid-qu al-ka-lā-mi shar-ʿan wa-ʿaq-lā.)",
+          "translation": "Implication of requirement (dalalat al-iqtida) manifests in the necessity of estimating an ellipsis through which veracity of speech holds legally and rationally."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "اسْتَنْبَطَ عَلِيُّ بْنُ أَبِي طَالِبٍ أَقَلَّ مُدَّةِ الحَمْلِ بِدَلَالَةِ الإِشَارَةِ بَيْنَ آيَتَيِ البَقَرَةِ وَالأَحْقَافِ.(Istanbaṭa ʿAliyyu ibnu Abī Ṭālibin aqalla muddati al-ḥamli bi-dalālati al-ishārati bayna āyatayi al-Baqarati wa-al-Aḥqāf.)",
+          "reading": "[ʔis.tan.ba.tˤa ʕa.lij.ju‿b.nu ʔa.biː tˤaː.li.bin ʔa.qal.la mud.da.ti‿l.ħam.li bi.da.laː.la.ti‿l.ʔi.ʃaː.ra.ti baj.na ʔaː.ja.ta.ji‿l.ba.qa.ra.ti wal.ʔaħ.qaːf] (Is-tan-ba-ṭa ʿA-liy-yu ib-nu A-bī Ṭā-li-bin a-qal-la mud-da-ti al-ḥam-li bi-da-lā-la-ti al-i-shā-ra-ti bay-na ā-ya-ta-yi al-Ba-qa-ra-ti wa-al-Aḥ-qāf.)",
+          "translation": "Ali ibn Abi Talib deduced the minimum gestation period through dalalat al-isharah (allusive implication) between the verses of al-Baqarah and al-Ahqaf."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَقْضِي الأُصُولِيُّونَ بِحَمْلِ المُطْلَقِ عَلَى المُقَيَّدِ عِنْدَ اتِّحَادِ السَّبَبِ وَالحُكْمِ حِفْظًا لِاتِّسَاقِ التَّشْرِيعِ.(Yaqḍī al-uṣūliyyūna bi-ḥamli al-muṭlaqi ʿalā al-muqayyadi ʿinda ittiḥādi as-sababi wa-al-ḥukmi ḥifẓan li-ittisāqi at-tashrīʿ.)",
+          "reading": "[jaq.dˤil.ʔu.sˤuː.lij.juː.na bi.ħam.li‿l.mutˤ.la.qi ʕa.laː‿l.mu.qaj.ja.di ʕin.da‿t.ti.ħaː.di‿s.sa.ba.bi wal.ħuk.mi ħif.zˤan lit.ti.saː.qi‿t.taʃ.riːʕ] (Yaq-ḍī al-u-ṣū-liy-yū-na bi-ḥam-li al-muṭ-la-qi ʿa-lā al-mu-qay-ya-di ʿin-da it-ti-ḥā-di as-sa-ba-bi wa-al-ḥuk-mi ḥif-ẓan lit-ti-sā-qi at-tash-rīʿ.)",
+          "translation": "Jurisprudents rule that the absolute must be qualified by the restricted when cause and ruling are united to preserve legislative consistency."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَنْطُوقُنَا ظَاهِرٌ فِي الحُكْمِ مُبْتَسِمُ، وَفِي المَفَاهِيمِ فِقْهٌ غَارَهُ الحِكَمُ!"
+      ],
+      "culturalNotes": [
+        "تُشكل دلالات الألفاظ في أصول الفقه أدق نظام دلالي لساني وتأويلي ابتكره العقل الإنساني في تحليل النصوص القانونية، وقد أشاد به فلاسفة القانون المقارن كأحد أعمق نظريات الهرمنيوطيقا التشريعية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» (الدرس 2)؟",
+          "prompt": "ما نوع الدلالة الأصولية في استنباط تحريم ضرب الوالدين من قوله تعالى: ﴿فَلَا تَقُلْ لَهُمَا أُفٍّ﴾؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (32.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (32.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (32.2.w3)"
+            "مَفْهُومُ الموَافَقَةِ (فَحْوَى الخِطَابِ مِنْ بَابِ أَوْلَى) (A fortiori concept of agreement)",
+            "مفهوم المخالفة",
+            "دلالة الإشارة العارضة",
+            "المجاز المرسل فقط"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "هو مفهوم موافقة (فحوى الخطاب من باب أولى)؛ لأن الضرب أشد وأعظم إيذاءً من التأفيف المنهي عنه."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي «دلالة الاقتضاء» في أصول الفقه؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "دَلَالَةُ النَّصِّ عَلَى مَعْنًى مَحْذُوفٍ لَا يَسْتَقِيمُ الكَلَامُ عَقْلًا أَوْ شَرْعًا إِلَّا بِتَقْدِيرِهِ (Implication requiring an estimated ellipsis for legal/rational coherence)",
+            "التصريح بالحكم في أول الجملة",
+            "نفي الحكم عن المسكوت عنه",
+            "الجمع بين متضادين"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "دلالة الاقتضاء تتطلب تقدير محذوف يصح به المعنى شرعاً وصدقاً (كتقدير: رُفع إثم الخطأ)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u32-l2):",
+          "prompt": "ما هو «مفهوم المخالفة» (Mafhum al-Mukhalafah) في علم الأصول؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (32.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (32.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (32.2.x3)"
+            "«إِعْطَاءُ المَسْكُوتِ عَنْهُ نَقِيضَ حُكْمِ المَنْطُوقِ عِنْدَ انْتِفَاءِ الشَّرْطِ أَوِ الوَصْفِ أَوِ الغَايَةِ». ('Assigning the unstated the opposite ruling of the stated when condition or attribute is absent.')",
+            "موافقة المسكوت عنه للمنطوق دائماً",
+            "إلغاء النصوص المخالفة للعقل",
+            "دلالات ألفاظ منطوق مفهوم سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "مفهوم المخالفة يثبت نقيض حكم المنطوق للمسكوت عنه عند تخلف القيد والصفة المعتبرة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)»؟",
+          "prompt": "ما إعراب كلمة «أَقَلَّ» في جملة: «اسْتَنْبَطَ الصَّحَابِيُّ أَقَلَّ مُدَّةِ الحَمْلِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (32.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (32.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (32.2.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "تمييز منصوب",
+            "نعت منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الصَّحَابِيُّ» فاعل مرفوع، و«أَقَلَّ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -19330,24 +19342,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 32-2)؟",
+          "prompt": "اختر النص الأصولي الدلالي الشامل الذي يحلل المنطق الهرمنيوطيقي للألفاظ في استنباط الأحكام بأعلى درجات الرصانة والبيان:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (32.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (32.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (32.2.z3)"
+            "تَبْلُغُ الهَرْمِنْيُوطِيقَا الأُصُولِيَّةُ الإِسْلَامِيَّةُ ذِرْوَةَ الإِحْكَامِ المَنْطِقِيِّ فِي فِقْهِ «دَلَالَاتِ الأَلْفَاظِ»؛ حَيْثُ تُمَيِّزُ بِدِقَّةٍ مُعْجِزَةٍ بَيْنَ المَنْطُوقِ الصَّرِيحِ وَغَيْرِ الصَّرِيحِ (كَالاقْتِضَاءِ وَالإِشَارَةِ وَالإِيمَاءِ)، وَتَفُضُّ أَسْرَارَ المَفْهُومِ بِنَوْعَيْهِ: الموَافَقَةِ القَائِمِ عَلَى الأَوْلَوِيَّةِ وَالمُخَالَفَةِ المَبْنِيِّ عَلَى انْتِفَاءِ القَيْدِ، مَعَ ضَبْطِ حَمْلِ المُطْلَقِ عَلَى المُقَيَّدِ وَتَخْصِيصِ العَامِّ، لِيَغْدُوَ الاسْتِنْبَاطُ عِلْمًا بُرْهَانِيًّا يَحْفَظُ مَقَاصِدَ الشَّرْعِ وَعَدَالَةَ التَّطْبِيقِ. (Islamic jurisprudential hermeneutics reaches the summit of logical precision in the jurisprudence of 'Semantic Implications'; where it distinguishes with miraculous precision between explicit and implicit enunciation [such as iqtida, ishara, and ima'], unlocks secrets of mafhum in both types: agreement based on priority and disagreement based on absent condition, along with regulating absolute qualification and general specification, making deduction a demonstrative science preserving legal objectives and judicial justice.)",
+            "دلالات الألفاظ هي الكلمات المنطوقة والمفهومة في اللغة العربية.",
+            "منطوق مفهوم اقتضاء إشارة إيماء موافقة مخالفة عام خاص مطلق مقيد سكون فتحة ضمة.",
+            "لا توجد قواعد منطقية لاستنباط الأحكام من النصوص."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب المنظومة الدلالية الأصولية بالكامل: المنطوق بدلالاته التبعية، المفهوم بنوعيه (موافقة ومخالفة)، وقواعد المطلق والعام."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u32-l2) باللغة العربية (مثال: «أصول»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الدلالة الأصولية التي تُستنبط من المعنى المسكوت عنه الموافق أو المخالف للمنطوق (اكتب: «دلالة المفهوم» أو «المفهوم»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "أصول",
-            "أصول"
+            "دلالة المفهوم",
+            "المفهوم",
+            "مفهوم",
+            "دلاله المفهوم",
+            "دَلَالَةُ المَفْهُومِ",
+            "المَفْهُوم"
           ],
-          "explanation": "المصطلح الصحيح هو «أصول»."
+          "explanation": "الدلالة هي «المفهوم» أو «دلالة المفهوم» (Mafhum / Implication)."
         }
       ],
       "passThreshold": 0.8
@@ -19358,85 +19374,89 @@
     "subject": "arabic",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims) (الدرس 3)",
+    "title": "مقاصد الشريعة الكبرى ونظرية الشاطبي (Maqasid al-Shariah: Objectives & Shatibi's Teleology)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأدلة الشرعية، القياس، الاستحسان، المصالح المرسلة، والقواعد الفقهية الكلية. (الجزء 3).",
+    "objective": "إتقان نظرية مقاصد الشريعة الإسلامية عند الإمام الشاطبي (الموافقات)، والغزالي، والعز بن عبد السلام: المراتب الثلاث (الضروريات، الحاجيات، والتحسينيات)، الكليات الخمس الكبرى، وقواعد جلب المصالح ودرء المفاسد.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُمثل علم «مَقَاصِدِ الشَّرِيعَةِ» الفلسفة الغائية والقيمية للتشريع الإسلامي، وبلغ نضجه الكامل على يد الإمام أبي إسحاق الشاطبي (ت 790 هـ) في كتابه الفذ «**المُوَافَقَاتُ**»:\n\nأولاً: المراتب المقاصدية الثلاث للمصالح:\n1. **الضَّرُورِيَّاتُ (The Essentials)**: ما لا بد منه لقيام مصالح الدين والدنيا، بحيث إذا فُقدت اختل نظام الحياة وعم الفساد.\n2. **الحَاجِيَّاتُ (The Complementary Needs)**: ما يُحتاج إليه للتوسعة ورفع الحرج والضيق (كالرخص في السفر والخيارات في العقود).\n3. **التَّحْسِينِيَّاتُ (The Embellishments)**: الأخذ بمحاسن العادات ومكارم الأخلاق (كالطهارة وستر العورة وآداب المعاملات).\n\nثانياً: الكليات الشرعية الخمس الكبرى (The Five Universals):\n- أجمع الأصوليون (كالغزالي والآمدي والشاطبي) على أن جميع الشرائع السماوية جاءت لحفظ خمس كليات:\n  1. **حِفْظُ الدِّينِ** (تشريع العبادات والجهاد لحمايته من العدوان).\n  2. **حِفْظُ النَّفْسِ** (تحريم القتل وتشريع القصاص والدفاع عن النفس).\n  3. **حِفْظُ العَقْلِ** (تحريم المسكرات والمخدرات ورعاية التعليم والتفكير).\n  4. **حِفْظُ النَّسْلِ وَالعِرْضِ** (تشريع الزواج وتحريم الزنا والقذف).\n  5. **حِفْظُ المَالِ** (تشريع المعاملات وحماية الملكية وتحريم السرقة والربا والغش).\n\nثالثاً: القواعد المقاصدية الكبرى:\n- «الشَّرِيعَةُ مَبْنِيَّةٌ عَلَى جَلْبِ المَصَالِحِ وَدَرْءِ المَفَاسِدِ» (سلطان العلماء العز بن عبد السلام في *قواعد الأحكام*).\n- «دَرْءُ المَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ المَصَالِحِ».\n- فقه المآلات والنظر في عواقب الأفعال قبل الإفتاء والقضاء.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)' to students in an accurate academic style."
+          "target": "قَعَّدَ الإِمَامُ الشَّاطِبِيُّ فِي «المُوَافَقَاتِ» لِنَظَرِيَّةِ المَقَاصِدِ مُثْبِتًا أَنَّ أَحْكَامَ الشَّرِيعَةِ مُعَلَّلَةٌ بِمَصَالِحِ العِبَادِ.(Qaʿʿada al-imāmu ash-Shāṭibiyyu fī «al-Muwāfaqāt» li-naẓariyyati al-maqāṣidi muthbitan anna aḥkāma ash-sharīʿati muʿallalatun bi-maṣāliḥi al-ʿibād.)",
+          "reading": "[qaʕ.ʕa.da‿l.ʔi.maː.mu‿ʃ.ʃaː.tˤi.bij.ju fil.mu.waː.fa.qaː.ti li.na.zˤa.rij.ja.ti‿l.ma.qaː.sˤi.di muθ.bi.tan ʔan.na ʔaħ.kaː.ma‿ʃ.ʃa.riː.ʕa.ti mu.ʕal.la.la.tun bi.ma.sˤaː.li.ħi‿l.ʕi.baːd] (Qaʿ-ʿa-da al-i-mā-mu ash-Shā-ṭi-biy-yu fī «al-Mu-wā-fa-qāt» li-na-ẓa-riy-ya-ti al-ma-qā-ṣi-di muth-bi-tan an-na aḥ-kā-ma ash-sha-rī-ʿa-ti mu-ʿal-la-la-tun bi-ma-ṣā-li-ḥi al-ʿi-bād.)",
+          "translation": "Imam al-Shatibi established in 'al-Muwafaqat' the theory of Maqasid proving that Sharia rulings are rationalized by servants' interests."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَتَكَامَلُ الكُلِّيَّاتُ الخَمْسُ (الدِّينُ وَالنَّفْسُ وَالعَقْلُ وَالنَّسْلُ وَالمَالُ) لِتُشَكِّلَ الدِّرْعَ الحَامِيَ لِكَرَامَةِ الإِنْسَانِ وَوُجُودِهِ.(Tatakāmalu al-kulliyyātu al-khamsu [ad-dīnu wa-an-nafsu wa-al-ʿaqlu wa-an-naslu wa-al-māl] li-tushakkila ad-dirʿa al-ḥāmiya li-karāmati al-insāni wa-wujūdih.)",
+          "reading": "[ta.ta.kaː.ma.lu‿l.kul.lij.jaː.tu‿l.xam.su [ad.diː.nu wan.naf.su wal.ʕaq.lu wan.nas.lu wal.maːl] li.tu.ʃak.ki.la‿d.dir.ʕa‿l.ħaː.mi.ja li.ka.raː.ma.ti‿l.ʔin.saː.ni wa.wu.ʒuː.dih] (Ta-ta-kā-ma-lu al-kul-liy-yā-tu al-kham-su [ad-dī-nu wan-naf-su wal-ʿaq-lu wan-nas-lu wal-māl] li-tu-shak-ki-la ad-dir-ʿa al-ḥā-mi-ya li-ka-rā-ma-ti al-in-sā-ni wa-wu-jū-dih.)",
+          "translation": "The five universals (religion, life, intellect, lineage, and wealth) integrate to form the protective shield for human dignity and existence."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَرْسَى العِزُّ بْنُ عَبْدِ السَّلَامِ قَاعِدَةَ أَنَّ جَمِيعَ تَكَالِيفِ الشَّرِيعَةِ تَرْجِعُ إِلَى جَلْبِ المَصَالِحِ وَدَرْءِ المَفَاسِدِ.(Arsā al-ʿIzzu ibnu ʿAbdi as-Salāmi qāʿidata anna jamīʿa takālīfi ash-sharīʿati tarjiʿu ilā jalbi al-maṣāliḥi wa-darʾi al-mafāsid.)",
+          "reading": "[ʔar.sal.ʕiz.zu‿b.nu ʕab.dis.sa.laː.mi qaː.ʕi.da.ta ʔan.na ʒa.miː.ʕa ta.kaː.liː.fi‿ʃ.ʃa.riː.ʕa.ti tar.ʒi.ʕu ʔi.laː ʒal.bi‿l.ma.sˤaː.li.ħi wa.dar.ʔi‿l.ma.faː.sid] (Ar-sā al-ʿIz-zu ib-nu ʿAb-di as-Sa-lā-mi qā-ʿi-da-ta an-na ja-mī-ʿa ta-kā-lī-fi ash-sha-rī-ʿa-ti tar-ji-ʿu i-lā jal-bi al-ma-ṣā-li-ḥi wa-dar-ʾi al-ma-fā-sid.)",
+          "translation": "Al-Izz ibn Abd al-Salam laid down the maxim that all legal obligations return to securing benefits and warding off harms."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَقْتَضِي فِقْهُ المَآلَاتِ النَّظَرَ العَمِيقَ فِي عَوَاقِبِ الفَتَاوَى وَالتَّطْبِيقَاتِ القَضَائِيَّةِ قَبْلَ إِنْزَالِ الأَحْكَامِ.(Yaqtaḍī fiqhu al-maʾālāti an-naẓara al-ʿamīqa fī ʿawāqibi al-fatāwā wa-at-taṭbīqāti al-qaḍāʾiyyati qabla inzāli al-aḥkām.)",
+          "reading": "[jaq.ta.dˤiː fiq.hul.ma.ʔaː.laː.ti‿n.na.zˤa.ra‿l.ʕa.miː.qa fiː ʕa.waː.qi.bi‿l.fa.taː.waː wat.tatˤ.biː.qaː.ti‿l.qa.dˤaː.ʔij.ja.ti qab.la ʔin.zaː.li‿l.ʔaħ.kaːm] (Yaq-ta-ḍī fiq-hu al-ma-ʾā-lā-ti an-na-ẓa-ra al-ʿa-mī-qa fī ʿa-wā-qi-bi al-fa-tā-wā wa-at-taṭ-bī-qā-ti al-qa-ḍā-ʾiy-ya-ti qab-la in-zā-li al-aḥ-kām.)",
+          "translation": "Jurisprudence of consequences (fiqh al-ma'alat) necessitates deep reflection into the outcomes of fatwas and judicial applications before issuing rulings."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَقَاصِدُ الشَّرْعِ نَجَاةٌ وَأَمَانْ، دِينٌ وَنَفْسٌ وَعُقُولُ الزَّمَانْ!"
+      ],
+      "culturalNotes": [
+        "يُعد الإمام الشاطبي في الأندلس أول من جعل مقاصد الشريعة علماً كلياً مستقلاً يحكم الفروع الفقهية ويمنع الجمود والتحايل على النصوص."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» (الدرس 3)؟",
+          "prompt": "ما هي «الكليات الخمس الكبرى» التي اتفقت الشرائع على وجوب حفظها ورعايتها؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (32.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (32.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (32.3.w3)"
+            "حِفْظُ الدِّينِ، النَّفْسِ، العَقْلِ، النَّسْلِ (العِرْضِ)، وَالمَالِ (Religion, life, intellect, lineage & wealth)",
+            "الذهب والفضة والخيول والجمال والقصور",
+            "الشعر والنثر والخطابة والرسم والموسيقى",
+            "الصيف والشتاء والربيع والخريف والريح"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الكليات الخمس الضرورية لحفظ الوجود الإنساني هي: حفظ الدين، النفس، العقل، النسل، والمال."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الكتاب الأصولي والمقاصدي الأعظم للإمام الشاطبي الذي أسس لنظرية المقاصد؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«المُوَافَقَاتُ فِي أُصُولِ الشَّرِيعَةِ» (Al-Muwafaqat)",
+            "كتاب الأغاني للأصفهاني",
+            "مقدمة ابن خلدون",
+            "طوق الحمامة لابن حزم"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "كتاب «الموافقات» للإمام الشاطبي هو المرجع التأسيسي الأهم في علم مقاصد الشريعة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u32-l3):",
+          "prompt": "اختر القاعدة المقاصدية الكلية التي تحسم التعارض بين درء المفسدة وجلب المصلحة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (32.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (32.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (32.3.x3)"
+            "«دَرْءُ المَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ المَصَالِحِ». ('Warding off harms takes precedence over acquiring benefits.')",
+            "جلب المصلحة مقدم دائماً حتى لو دمرت المجتمع",
+            "إلغاء المصلحة والمفسدة معاً",
+            "مقاصد شاطبي كليات خمس ضروريات سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "القاعدة الفقهية المقاصدية تقضي بأن درء المفاسد ودفع الأضرار أولى من السعي وراء المصالح عند التعارض."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)»؟",
+          "prompt": "ما إعراب كلمة «قَاعِدَةَ» في جملة: «أَرْسَى الفَقِيهُ قَاعِدَةَ المَقَاصِدِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (32.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (32.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (32.3.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "نعت منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الفَقِيهُ» فاعل مرفوع، و«قَاعِدَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -19444,24 +19464,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 32-3)؟",
+          "prompt": "اختر النص المقاصدي الفلسفي الذي يحلل نظرية الشاطبي والكليات الخمس بأعلى درجات العمق التشريعي والفصاحة الأدبية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (32.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (32.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (32.3.z3)"
+            "يُمَثِّلُ عِلْمُ «مَقَاصِدِ الشَّرِيعَةِ» رُوحَ الفِقْهِ الإِسْلَامِيِّ وَغَايَتَهُ الأَخْلَاقِيَّةَ العُلْيَا؛ حَيْثُ ارْتَقَى الإِمَامُ الشَّاطِبِيُّ فِي «المُوَافَقَاتِ» بِالتَّشْرِيعِ مِنْ حَرْفِيَّةِ النُّصُوصِ إِلَى غَايَاتِهَا الكُبْرَى، مُرَتِّبًا المَصَالِحَ فِي مَرَاتِبِهَا الثَّلَاثِ (الضَّرُورِيَّاتِ وَالحَاجِيَّاتِ وَالتَّحْسِينِيَّاتِ)، وَمُؤَصِّلًا لِحِمَايَةِ «الكُلِّيَّاتِ الخَمْسِ» (الدِّينِ وَالنَّفْسِ وَالعَقْلِ وَالنَّسْلِ وَالمَالِ)، لِيَظَلَّ جَلْبُ المَصَالِحِ وَدَرْءُ المَفَاسِدِ عِمَادَ العَدَالَةِ وَحِكْمَةِ الاسْتِخْلَافِ الإِنْسَانِيِّ. (The science of 'Maqasid al-Shariah' represents the soul of Islamic jurisprudence and its supreme ethical objective; where Imam al-Shatibi in 'al-Muwafaqat' elevated legislation from literalism to supreme goals, ordering interests in three ranks [essentials, needs, embellishments], and establishing protection of 'the Five Universals' [religion, life, intellect, lineage, wealth], making securing benefits and warding off harms the pillar of justice and human stewardship wisdom.)",
+            "مقاصد الشريعة هي حفظ الدين والنفس والمال في الإسلام.",
+            "مقاصد شاطبي موافقات كليات خمس دين نفس عقل نسل مال جلب مصالح درء مفاسد سكون فتحة ضمة.",
+            "أبطل الشاطبي أحكام الفقه القديمة في كتابه الموافقات."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة بين: التنظير المقاصدي للشاطبي، المراتب المقاصدية الثلاث، حماية الكليات الخمس، وفلسفة جلب المصالح ودرء المفاسد."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u32-l3) باللغة العربية (مثال: «أصول»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم الشرعي الذي يدرس الغايات والحِكَم التي وُضعت لأجلها الأحكام (اكتب: «مقاصد الشريعة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "أصول",
-            "أصول"
+            "مقاصد الشريعة",
+            "مقاصد شريعة",
+            "علم مقاصد الشريعة",
+            "علم مقاصد شريعة",
+            "مَقَاصِدُ الشَّرِيعَةِ",
+            "مَقَاصِد الشَّرِيعَة"
           ],
-          "explanation": "المصطلح الصحيح هو «أصول»."
+          "explanation": "العلم هو «مقاصد الشريعة» (Maqasid al-Shariah)."
         }
       ],
       "passThreshold": 0.8
@@ -19472,85 +19496,89 @@
     "subject": "arabic",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims) (الدرس 4)",
+    "title": "القواعد الفقهية الكبرى وفلسفة التشريع والقضاء (The Five Major Legal Maxims & Judicial Philosophy)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأدلة الشرعية، القياس، الاستحسان، المصالح المرسلة، والقواعد الفقهية الكلية. (الجزء 4).",
+    "objective": "إتقان القواعد الفقهية الخمس الكبرى: (الأمور بمقاصدها، اليقين لا يزول بالشك، المشقة تجلب التيسير، الضرر يزال، العادة محكمة)، وقواعد الإثبات القضائي واستقلال القضاء.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُمثل «القَوَاعِدُ الفِقْهِيَّةُ الكُبْرَى» أصول الفلسفة القانونية والقضائية في الإسلام، وهي جوامع كلم فقهية تنظم آلاف الفروع الجزئية، وقد قُننت في «مَجَلَّةِ الأَحْكَامِ العَدْلِيَّةِ»:\n\nأولاً: القواعد الفقهية الخمس الكبرى (The Five Universal Legal Maxims):\n1.【الأُمُورُ بِمَقَاصِدِهَا】 (Acts are Judged by their Intentions):\n   - أصلها حديث «إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ»، تعني أن حكم التصرفات والعقود ينعقد على المعاني والمقاصد لا مجرد الألفاظ والمباني.\n2.【اليَقِينُ لَا يَزُولُ بِالشَّكِّ】 (Certainty is Not Overruled by Doubt):\n   - أصل استقرار المعاملات والبراءة الأصلية، ويتفرع عنها: «الأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ» و«الأَصْلُ فِي الصِّفَاتِ العَارِضَةِ العَدَمُ».\n3.【المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ】 (Hardship Begets Ease):\n   - تشريع الرخص والتخفيفات عند الضيق والاضطرار، ويتفرع عنها: «إِذَا ضَاقَ الأَمْرُ اتَّسَعَ» و«الضَّرُورَاتُ تُبِيحُ المَحْظُورَاتِ بِقَدْرِهَا».\n4.【الضَّرَرُ يُزَالُ】 (Harm Must be Eliminated):\n   - أصلها حديث «لَا ضَرَرَ وَلَا ضِرَارَ»، ويتفرع عنها: «الضَّرَرُ لَا يُزَالُ بِمِثْلِهِ» و«يُتَحَمَّلُ الضَّرَرُ الخَاصُّ لِدَفْعِ ضَرَرٍ عَامٍّ».\n5.【العَادَةُ مُحَكَّمَةٌ】 (Custom is Authoritative / Arbiter):\n   - تحكيم الأعراف والعادات السليمة التي لا تخالف نصاً شرعياً في العقود والمعاملات: «المَعْرُوفُ عُرْفًا كَالمَشْرُوطِ شَرْطًا».\n\nثانياً: فلسفة القضاء وقواعد الإثبات:\n- «البَيِّنَةُ عَلَى مَنِ ادَّعَى وَاليَمِينُ عَلَى مَنْ أَنْكَرَ» (توزيع عبء الإثبات القضائي).\n- استقلال القضاء وحصانته وتطبيق العدالة المجردة دون تمييز.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)' to students in an accurate academic style."
+          "target": "تُعَدُّ قَاعِدَةُ «اليَقِينُ لَا يَزُولُ بِالشَّكِّ» حَجَرَ الزَّاوِيَةِ فِي اسْتِقْرَارِ المَرَامِي القَانُونِيَّةِ وَبَرَاءَةِ الذِّمَّةِ.(Tuʿaddu qāʿidatu «al-yaqīnu lā yazūlu bi-ash-shakk» ḥajara az-zāwiyati fī istiqrāri al-marāmī al-qānūniyyati wa-barāʾati adh-dhimmah.)",
+          "reading": "[tu.ʕad.du qaː.ʕi.da.tu «ʔal.ja.qiː.nu laː ja.zuː.lu biʃ.ʃakk» ħa.ʒa.ra‿z.zaː.wi.ja.ti fiː ʔis.tiq.raː.ri‿l.ma.raː.mil.qaː.nuː.nij.ja.ti wa.ba.raː.ʔa.ti‿ð.ðim.mah] (Tu-ʿad-du qā-ʿi-da-tu «al-ya-qī-nu lā ya-zū-lu bish-shakk» ḥa-ja-ra az-zā-wi-ya-ti fī is-tiq-rā-ri al-ma-rā-mī al-qā-nū-niy-ya-ti wa-ba-rā-ʾa-ti adh-dhim-mah.)",
+          "translation": "The maxim 'Certainty is not overruled by doubt' is considered the cornerstone of legal stability and presumption of innocence."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَنْصَبُّ قَاعِدَةُ «الأُمُورُ بِمَقَاصِدِهَا» عَلَى أَنَّ العِبْرَةَ فِي العُقُودِ لِلْمَقَاصِدِ وَالمَعَانِي لَا لِلْأَلْفَاظِ وَالمَبَانِي.(Tanṣabbu qāʿidatu «al-umūru bi-maqāṣidihā» ʿalā anna al-ʿibrata fī al-ʿuqūdi li-l-maqāṣidi wa-al-maʿānī lā li-l-alfāẓi wa-al-mabānī.)",
+          "reading": "[tan.sˤab.bu qaː.ʕi.da.tu «ʔal.ʔu.muː.ru bi.ma.qaː.sˤi.di.haː» ʕa.laː ʔan.na‿l.ʕib.ra.ta fil.ʕu.quː.di lil.ma.qaː.sˤi.di wal.ma.ʕaː.niː laː lil.ʔal.faː.zˤi wal.ma.baː.niː] (Tan-ṣab-bu qā-ʿi-da-tu «al-u-mū-ru bi-ma-qā-ṣi-di-hā» ʿa-lā an-na al-ʿib-ra-ta fī al-ʿu-qū-di lil-ma-qā-ṣi-di wal-ma-ʿā-nī lā lil-al-fā-ẓi wal-ma-bā-nī.)",
+          "translation": "The maxim 'Acts are judged by intentions' focuses on the principle that consideration in contracts is given to intentions and meanings, not just words and forms."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَقْضِي قَاعِدَةُ «الضَّرَرُ يُزَالُ» بِوُجُوبِ رَفْعِ الأَذَى عَنِ الأَفْرَادِ وَالمُجْتَمَعِ دُونَ إِحْدَاثِ ضَرَرٍ مُمَاثِلٍ.(Yaqḍī qāʿidatu «aḍ-ḍararu yuzāl» bi-wujūbi rafʿi al-adhā ʿan al-afrādi wa-al-mujtamaʿi dūna iḥdāthi ḍararin mumāthil.)",
+          "reading": "[jaq.dˤiː qaː.ʕi.da.tu «ʔadˤ.dˤa.ra.ru ju.zaːl» bi.wu.ʒuː.bi raf.ʕi‿l.ʔa.ðaː ʕa.nil.ʔaf.raː.di wal.muʒ.ta.ma.ʕi duː.na ʔiħ.daː.θi dˤa.ra.rin mu.maː.θil] (Yaq-ḍī qā-ʿi-da-tu «aḍ-ḍa-ra-ru yu-zāl» bi-wu-jū-bi raf-ʿi al-a-dhā ʿan al-af-rā-di wal-muj-ta-ma-ʿi dū-na iḥ-dā-thi ḍa-ra-rin mu-mā-thil.)",
+          "translation": "The maxim 'Harm must be eliminated' rules the obligation of lifting injury from individuals and society without creating equivalent harm."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُوَزِّعُ مَبْدَأُ «البَيِّنَةُ عَلَى مَنِ ادَّعَى وَاليَمِينُ عَلَى مَنْ أَنْكَرَ» عِبْءَ الإِثْبَاتِ فِي المَحَاكِمِ بِعَدَالَةٍ مُطْلَقَةٍ.(Yuwazziʿu mabdaʾu «al-bayyinatu ʿalā man iddaʿā wa-al-yamīnu ʿalā man ankar» ʿibʾa al-ithbāti fī al-maḥākimi bi-ʿadālatin muṭlaqah.)",
+          "reading": "[ju.waz.zi.ʕu mab.da.ʔu «ʔal.baj.ji.na.tu ʕa.laː ma.nid.da.ʕaː wal.ja.miː.nu ʕa.laː man ʔan.kar» ʕib.ʔa‿l.ʔiθ.baː.ti fil.ma.ħaː.ki.mi bi.ʕa.daː.la.tin mutˤ.la.qah] (Yu-waz-zi-ʿu mab-da-ʾu «al-bay-yi-na-tu ʿa-lā man id-da-ʿā wal-ya-mī-nu ʿa-lā man an-kar» ʿib-ʾa al-ith-bā-ti fī al-ma-ḥā-ki-mi bi-ʿa-dā-la-tin muṭ-la-qah.)",
+          "translation": "The principle 'Burden of proof is on claimant, and oath on denier' distributes proof burden in courts with absolute justice."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "خَمْسُ قَوَاعِدَ فِي الفِقْهِ الأَغَرّْ، نِيَّاتٌ وَيَقِينٌ وَدَفْعٌ لِلضَّرَرْ!"
+      ],
+      "culturalNotes": [
+        "تُمثل القواعد الفقهية الخمس الكبرى إحدى أعظم الصيغ التشريعية المكثفة في تاريخ الفقه والقانون المقارن، وتبنتها القوانين المدنية الحديثة في معظم الدول العربية والإسلامية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» (الدرس 4)؟",
+          "prompt": "ما هي القاعدة الفقهية الكبرى التي ينبثق منها مبدأ «الضرورات تبيح المحظورات» و«إذا ضاق الأمر اتسع»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (32.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (32.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (32.4.w3)"
+            "المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ (Hardship begets ease)",
+            "الأمور بمقاصدها",
+            "العادة محكمة",
+            "اليقين لا يزول بالشك"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "قاعدة «المشقة تجلب التيسير» هي أصل تشريع الرخص والتخفيفات الفقهية عند حصول المشقة والضرورة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما معنى قاعدة «العَادَةُ مُحَكَّمَةٌ» في المعاملات والقضاء؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَنَّ العُرْفَ الصَّحِيحَ السَّائِدَ يُعْتَمَدُ فِي فَصْلِ النِّزَاعَاتِ وَتَفْسِيرِ الشُّرُوطِ مَا لَمْ يُخَالِفِ النَّصَّ (Valid custom is authoritative in interpreting terms unless violating text)",
+            "إلغاء القوانين والاعتماد على العادات السيئة",
+            "تغيير العبادات كل سنة حسب العادة",
+            "منع التجارة والمعاملات العرفية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«العادة محكمة» تعني أن العرف المستقر يُعتد به في تقدير الحقوق والمعاملات وتفسير العقود كالمشروط صراحة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u32-l4):",
+          "prompt": "كيف يُوزع الفقه الإسلامي عبء الإثبات القضائي بين المتخاصمين في المحكمة؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (32.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (32.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (32.4.x3)"
+            "«البَيِّنَةُ (الأَدِلَّةُ وَالشُّهُودُ) عَلَى مَنِ ادَّعَى، وَاليَمِينُ عَلَى مَنْ أَنْكَرَ الدَّعْوَى». ('The claimant bears burden of proof/evidence, and the denier takes the oath.')",
+            "إلزام المدعى عليه بالاعتراف بالقوة",
+            "إلقاء القرعة بين المتخاصمين",
+            "قواعد فقهية يقين شك مشقة تيسير سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "المعيار القضائي الأصولي يوجب البينة على المدعي لخلاف الأصل، واليمين على المنكر تمسكاً بالبراءة الأصلية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)»؟",
+          "prompt": "ما إعراب كلمة «حَجَرَ» في جملة: «تُعَدُّ القَاعِدَةُ حَجَرَ الزَّاوِيَةِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (32.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (32.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (32.4.y3)"
+            "مَفْعُولٌ بِهِ ثَانٍ (نَائِبُ مَفْعُولٍ) مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Second object of tu'addu in accusative)",
+            "فاعل مرفوع بالضمة",
+            "نائب فاعل مرفوع",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«تُعَدُّ» مبني للمجهول ينصب مفعولين؛ «القَاعِدَةُ» نائب فاعل (أصله مفعول أول)، و«حَجَرَ» مفعول به ثانٍ منصوب."
         }
       ]
     },
@@ -19558,24 +19586,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 32-4)؟",
+          "prompt": "اختر النص القضائي الفقهي المقنن الذي يشرح القواعد الفقهية الكبرى وفلسفة الإثبات بأعلى درجات البلاغة والضبط الأكاديمي:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (32.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (32.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (32.4.z3)"
+            "تَتَجَلَّى عَبْقَرِيَّةُ الفِقْهِ الإِسْلَامِيِّ وَتَقْنِينِهِ القَضَائِيِّ فِي «القَوَاعِدِ الفِقْهِيَّةِ الخَمْسِ الكُبْرَى»؛ حَيْثُ تَحْكُمُ «الأُمُورُ بِمَقَاصِدِهَا» جَوْهَرَ التَّصَرُّفَاتِ، وَيَحْفَظُ «اليَقِينُ لَا يَزُولُ بِالشَّكِّ» بَرَاءَةَ الذِّمَّةِ، وَتَفْتَحُ «المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ» أَبْوَابَ الرُّخَصِ، بَيْنَمَا تَقْضِي «الضَّرَرُ يُزَالُ» وَ«العَادَةُ مُحَكَّمَةٌ» بِرَفْعِ المَفَاسِدِ وَرِعَايَةِ الأَعْرَافِ السَّلِيمَةِ، لِيَتَكَامَلَ مَعَهَا عِبْءُ الإِثْبَاتِ القَضَائِيِّ صَانِعًا صَرْحَ العَدَالَةِ النَّاجِزَةِ. (The genius of Islamic jurisprudence and judicial codification manifests in 'the Five Universal Legal Maxims'; where 'Acts are judged by intentions' governs transactions' core, 'Certainty is not overruled by doubt' preserves innocence presumption, 'Hardship begets ease' opens dispensations, while 'Harm must be eliminated' and 'Custom is arbiter' mandate lifting corruption and observing sound customs, integrated with judicial proof burden forging the edifice of swift justice.)",
+            "القواعد الفقهية هي قواعد قانونية كتبت في مجلة الأحكام العدلية.",
+            "قواعد فقهية خمس أمور بمقاصدها يقين مشقة ضرر عادة بينة يمين سكون فتحة ضمة.",
+            "لا صلة بين القواعد الفقهية وأحكام القضاء والمحاكم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع القواعد الفقهية الخمس الكبرى بأسمائها وتطبيقاتها القضائية مع فلسفة عبء الإثبات في نسق قانوني متكامل."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u32-l4) باللغة العربية (مثال: «أصول»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم القاعدة الفقهية الكبرى التي تدل على أن الشك الطارئ لا ينقض الأمر الثابت بيقين (اكتب: «اليقين لا يزول بالشك»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "أصول",
-            "أصول"
+            "اليقين لا يزول بالشك",
+            "اليقين لايزول بالشك",
+            "اليقين لا يزول بالشكك",
+            "اليَقِينُ لَا يَزُولُ بِالشَّكِّ",
+            "اليَقِين لَا يَزُول بِالشَّك"
           ],
-          "explanation": "المصطلح الصحيح هو «أصول»."
+          "explanation": "القاعدة هي «اليقين لا يزول بالشك» (Certainty is not overruled by doubt)."
         }
       ],
       "passThreshold": 0.8
@@ -19586,85 +19617,89 @@
     "subject": "arabic",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims) (الدرس 5)",
+    "title": "حوار المجمع الفقهي والتحليل الاجتهادي المعاصر للنوازل (Jurisprudential Colloquium & Contemporary Ijtihad)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأدلة الشرعية، القياس، الاستحسان، المصالح المرسلة، والقواعد الفقهية الكلية. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثانية والثلاثين: أصول الاستنباط، دلالات الألفاظ، مقاصد الشريعة والكليات الخمس، القواعد الفقهية الخمس الكبرى، وفقه النوازل المعاصرة في حوار فقهي أصولي رصين بمجمع الفقه الإسلامي الدولي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثانية والثلاثين (مستوى C2 الأعلى كفاءة) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج أصول الفقه ومقاصد الشريعة والقواعد الفقهية في حوار تشريعي نخبوي يدور في مجمع الفقه الإسلامي الدولي بين الفقيه الأصولي (د. عبد الرحمن) والباحثة في فلسفة القانون ومقاصد الشريعة (د. فاطمة):\n\nمحاور المناظرة الأصولية الشاملة:\n1.【الأدلة والمناهج】: «الرِّسَالَةُ لِلشَّافِعِيِّ»، «القِيَاسُ بِأَرْكَانِهِ الأَرْبَعَةِ»، «المَصَالِحُ المُرْسَلَةُ»، و«سَدُّ الذَّرَائِعِ».\n2.【دلالات الألفاظ والهرمنيوطيقا】: «المَنْطُوقُ وَالمَفْهُومُ (المُوَافَقَةُ وَالمُخَالَفَةُ)»، «دَلَالَةُ الاقْتِضَاءِ وَالإِشَارَةِ».\n3.【المقاصد والكليات الخمس】: «المُوَافَقَاتُ لِلشَّاطِبِيِّ»، «حِفْظُ الدِّينِ وَالنَّفْسِ وَالعَقْلِ وَالنَّسْلِ وَالمَالِ»، و«فِقْهُ المَآلَاتِ».\n4.【القواعد الفقهية الكبرى】: «الأُمُورُ بِمَقَاصِدِهَا»، «اليَقِينُ لَا يَزُولُ بِالشَّكِّ»، «المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ»، «الضَّرَرُ يُزَالُ»، و«العَادَةُ مُحَكَّمَةٌ».\n5.【الاجتهاد الجماعي وفقه النوازل المعاصرة】: استيعاب التحديات الطبية (زراعة الأعضاء، الهندسة الوراثية)، والاقتصادية (المعاملات المالية الرقمية، الصكوك والمصارف الإسلامية).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة فَاطِمَة، كَيْفَ نُوَظِّفُ تَكَامُلَ أُصُولِ الفِقْهِ وَمَقَاصِدِ الشَّاطِبِيِّ لِحَسْمِ نَوَازِلِ العَصْرِ المُسْتَجِدَّةِ؟(Marḥaban duktūrah Fāṭimah, kayfa nuwaẓẓifu takāmula uṣūli al-fiqhi wa-maqāṣidi ash-Shāṭibiyyi li-ḥasmi nawāzili al-ʿaṣri al-mustajiddah?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah faː.tˤi.mah, kaj.fa nu.wazˤ.zˤi.fu ta.kaː.mu.la ʔu.sˤuː.li‿l.fiq.hi wa.ma.qaː.sˤi.di‿ʃ.ʃaː.tˤi.bij.ji li.ħas.mi na.waː.zi.li‿l.ʕasˤ.ri‿l.mus.ta.ʒid.dah?] (Mar-ḥa-ban duk-tū-rah Fā-ṭi-mah, kay-fa nu-waẓ-ẓi-fu ta-kā-mu-la u-ṣū-li al-fiq-hi wa-ma-qā-ṣi-di ash-Shā-ṭi-biy-yi li-ḥas-mi na-wā-zi-li al-ʿaṣ-ri al-mus-ta-jid-dah?)",
+          "translation": "Welcome Dr. Fatima, how do we employ the integration of Usul al-Fiqh and Shatibi's Maqasid to resolve novel modern issues?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُور عَبْد الرَّحْمٰن؛ إِنَّ الِاجْتِهَادَ المُعَاصِرَ يَقْتَضِي رَبْطَ الأَدِلَّةِ بِالمَقَاصِدِ؛ فَنَسْتَنْبِطُ بِأُصُولِ الشَّافِعِيِّ وَنَسْتَهْدِي بِكُلِّيَّاتِ الشَّاطِبِيِّ الخَمْسِ.(Ahlan duktūr ʿAbda ar-Raḥmān; inna al-ijtihāda al-muʿāṣira yaqtaḍī rabṭa al-adillati bi-al-maqāṣid; fa-nastanbiṭu bi-uṣūli ash-Shāfiʿiyyi wa-nastahdī bi-kulliyyāti ash-Shāṭibiyyi al-khams.)",
+          "reading": "[ʔah.lan duk.tuːr ʕab.dar.raħ.maːn; ʔin.na‿l.ʔiʒ.ti.haː.da‿l.mu.ʕaː.sˤi.ra jaq.ta.dˤiː rab.tˤa‿l.ʔa.dil.la.ti bil.ma.qaː.sˤid; fa.nas.tan.bi.tˤu bi.ʔu.sˤuː.li‿ʃ.ʃaː.fi.ʕij.ji wa.nas.tah.diː bi.kul.lij.jaː.ti‿ʃ.ʃaː.tˤi.bij.ji‿l.xams] (Ah-lan duk-tūr ʿAb-dar-Raḥ-mān; in-na al-ij-ti-hā-da al-mu-ʿā-ṣi-ra yaq-ta-ḍī rab-ṭa al-a-dil-la-ti bi-al-ma-qā-ṣid; fa-nas-tan-bi-ṭu bi-u-ṣū-li ash-Shā-fi-ʿiy-yi wa-nas-tah-dī bi-kul-liy-yā-ti ash-Shā-ṭi-biy-yi al-khams.)",
+          "translation": "Welcome Dr. Abd al-Rahman; contemporary ijtihad requires linking textual evidence with objectives; so we deduce via Shafi'i's Usul and are guided by Shatibi's five universals."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "وَتَأْتِي القَوَاعِدُ الفِقْهِيَّةُ الكُبْرَى كَـ«الضَّرَرُ يُزَالُ» وَ«المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ» لِتَمْنَحَ الفَتْوَى مَرُونَةً تُرَاعِي مَصَالِحَ النَّاسِ وَمَآلَاتِ الأَفْعَالِ.(Wa-taʾtī al-qawāʿidu al-fiqhiyyatu al-kubrā ka-«aḍ-ḍararu yuzāl» wa-«al-mashaqqatu tajlibu at-taysīr» li-tamnaḥa al-fatwā murūnatan turāʿī maṣāliḥa an-nāsi wa-maʾālāti al-afʿāl.)",
+          "reading": "[wa.taʔ.tiː‿l.qa.waː.ʕi.du‿l.fiq.hij.ja.tu‿l.kub.raː ka«ʔadˤ.dˤa.ra.ru ju.zaːl» wa«ʔal.ma.ʃaq.qa.tu taʒ.li.bu‿t.taj.siːr» li.tam.na.ħa‿l.fat.waː mu.ruː.na.tan tu.raː.ʕiː ma.sˤaː.li.ħa‿n.naː.si wa.ma.ʔaː.laː.ti‿l.ʔaf.ʕaːl] (Wa-taʾ-tī al-qa-wā-ʿi-du al-fiq-hiy-ya-tu al-kub-rā ka-«aḍ-ḍa-ra-ru yu-zāl» wa-«al-ma-shaq-qa-tu taj-li-bu at-tay-sīr» li-tam-na-ḥa al-fat-wā mu-rū-na-tan tu-rā-ʿī ma-ṣā-li-ḥa an-nā-si wa-ma-ʾā-lā-ti al-af-ʿāl.)",
+          "translation": "And the major legal maxims like 'Harm must be eliminated' and 'Hardship begets ease' grant fatwas flexibility observing people's interests and actions' consequences."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لِيَظَلَّ الفِقْهُ الإِسْلَامِيُّ صَرْحًا حَيًّا يُحَقِّقُ العَدْلَ وَالرَّحْمَةَ وَيَقُودُ الأُمَّةَ نَحْوَ التَّقَدُّمِ وَالاسْتِقْرَارِ.(Li-yaẓalla al-fiqhu al-islāmiyyu ṣarḥan ḥayyan yuḥaqqiqu al-ʿadla wa-ar-raḥmata wa-yaqūdu al-ummata naḥwa at-taqaddumi wa-al-istiqrār.)",
+          "reading": "[li.ja.zˤal.la‿l.fiq.hu‿l.ʔis.laː.mij.ju sˤar.ħan ħaj.jan ju.ħaq.qi.qu‿l.ʕad.la war.raħ.ma.ta wa.ja.quː.du‿l.ʔum.ma.ta naħ.wa‿t.ta.qad.du.mi wal.ʔis.tiq.raːr] (Li-ya-ẓal-la al-fiq-hu al-is-lā-miy-yu ṣar-ḥan ḥay-yan yu-ḥaq-qi-qu al-ʿad-la wa-ar-raḥ-ma-ta wa-ya-qū-du al-um-ma-ta naḥ-wa at-ta-qad-du-mi wa-al-is-tiq-rār.)",
+          "translation": "So Islamic jurisprudence remains a living edifice achieving justice and mercy and leading the nation toward progress and stability."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَجْمَعِ الفِقْهِ يَحْيَا الِاجْتِهَادْ، نُورُ الأُصُولِ هُدًى لِلْعِبَادْ!"
+      ],
+      "culturalNotes": [
+        "يُعد الاجتهاد الجماعي عبر المجامع الفقهية الدولية (مثل مجمع الفقه الإسلامي الدولي بجدة والمجمع الفقهي بمكة المكرمة) النموذج المؤسسي المعاصر لإصدار الفتاوى في النوازل الطبية والاقتصادية المستحدثة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» (الدرس 5)؟",
+          "prompt": "ما هو المنهج الأصولي الأمثل الذي تعتمده المجامع الفقهية المعاصرة في علاج النوازل المستجدة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)» بأسلوب أكاديمي دقيق (32.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (32.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (32.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (32.5.w3)"
+            "الاجْتِهَادُ الجَمَاعِيُّ القَائِمُ عَلَى التَّكَامُلِ بَيْنَ أَدِلَّةِ الأُصُولِ، المَقَاصِدِ الشَّرْعِيَّةِ، وَالقَوَاعِدِ الفِقْهِيَّةِ مَعَ الاسْتِعَانَةِ بِأَهْلِ الخِبْرَةِ (Collective ijtihad integrating Usul proofs, Sharia objectives & maxims with experts)",
+            "إصدار الفتاوى الفردية العشوائية دون دراسة طبية أو اقتصادية",
+            "الجمود والامتناع عن معالجة أي مسألة حديثة",
+            "إلغاء أصول الفقه بالكامل"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الاجتهاد الجماعي في المجامع الفقهية يجمع بين التحقيق الأصولي المقاصدي وخبرة المتخصصين في الطب والاقتصاد والعلوم."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف تساهم قاعدة «مراعاة المآلات» في ضبط الفتاوى القضائية والفقهية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِالنَّظَرِ فِي النَّتَائِجِ وَالعَوَاقِبِ المُتَرَتِّبَةِ عَلَى الحُكْمِ لِضَمَانِ أَلَّا يُفْضِيَ تَطْبِيقُهُ إِلَى مَفْسَدَةٍ أَعْظَمَ (Examining results and consequences to ensure application does not lead to greater harm)",
+            "بالتنبؤ بالغيب دون ضوابط",
+            "بإلغاء الواجبات الشرعية",
+            "بفصل الفتوى عن الواقع"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "فقه المآلات ينظر في عواقب تطبيق الفتوى لضمان تحقيق المصلحة الشرعية ودفع أي مفسدة أعظم."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u32-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تعبر عن نضج الاجتهاد الفقهي المعاصر بأعلى مستويات الجزالة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (32.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (32.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (32.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (32.5.x3)"
+            "— كَيْفَ نَرَى مُسْتَقْبَلَ الفِقْهِ الإِسْلَامِيِّ؟ — أَرَاهُ فِي اجْتِهَادٍ مَقَاصِدِيٍّ رَصِينٍ يَمْزُجُ ثَوَابِتَ النَّصِّ بِمُرُونَةِ القَوَاعِدِ، لِيَبْقَى دَلِيلَ هِدَايَةٍ وَعِمَادَ عَدَالَةٍ لِلْإِنْسَانِيَّةِ. (— How do we see the future of Islamic jurisprudence? — In a rigorous teleological ijtihad merging textual constants with maxims' flexibility, remaining a guide of guidance and pillar of justice for humanity.)",
+            "— هل حضرت جلسة المجمع الفقهي اليوم؟ — نعم استمعت للبحوث المعروضة.",
+            "— كم عدد أعضاء المجمع الفقهي؟ — يضم علماء من مختلف الدول.",
+            "— حوار مجمع فقهي اجتهاد نوازل سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تجسد رسالة الفقه المعاصر في الموازنة بين ثوابت النصوص ومرونة القواعد المقاصدية لخدمة العدالة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «أصول الفقه ومقاصد الشريعة والقضاء (Jurisprudence & Legal Maxims)»؟",
+          "prompt": "ما إعراب كلمة «صَرْحًا» في قولنا: «لِيَظَلَّ الفِقْهُ صَرْحًا حَيًّا»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (32.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (32.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (32.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (32.5.y3)"
+            "خَبَرُ يَظَلَّ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Predicate of yaẓalla in accusative)",
+            "اسم يظل مرفوع بالضمة",
+            "مفعول به منصوب",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الفِقْهُ» اسم يظل مرفوع، و«صَرْحًا» خبر يظل منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -19672,24 +19707,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 32-5)؟",
+          "prompt": "اختر النص الحواري الفقهي الأصولي الشامل الذي يدمج مخرجات الوحدة الثانية والثلاثين بأكملها (أدلة الأصول، دلالات الألفاظ، مقاصد الشريعة، والقواعد الفقهية الكبرى):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (32.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (32.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (32.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (32.5.z3)"
+            "د. عَبْد الرَّحْمٰن: «دُكْتُورَة فَاطِمَة، كَيْفَ نُلَخِّصُ العَبْقَرِيَّةَ التَّشْرِيعِيَّةَ لِمَنْظُومَةِ الفِقْهِ وَالأُصُولِ فِي بِنَاءِ الاجْتِهَادِ المُعَاصِرِ؟» — د. فَاطِمَة: «إِنَّهَا مَلْحَمَةُ النَّصِّ وَالمَقْصِدِ وَالعَقْلِ؛ حَيْثُ أَرْسَى «عِلْمُ أُصُولِ الفِقْهِ» مَنَاهِجَ الِاسْتِنْبَاطِ وَدَلَالَاتِ المَنْطُوقِ وَالمَفْهُومِ، وَكَشَفَتْ «مَقَاصِدُ الشَّرِيعَةِ» عَنْ غَايَاتِ حِفْظِ الكُلِّيَّاتِ الخَمْسِ، بَيْنَمَا ضَبَطَتِ «القَوَاعِدُ الفِقْهِيَّةُ الكُبْرَى» مَسَارَاتِ الفَتْوَى وَالقَضَاءِ بِمَبَادِئِ اليَقِينِ وَرَفْعِ الضَّرَرِ وَتَيْسِيرِ المَشَقَّةِ، لِيَغْدُوَ الاجْتِهَادُ المَجْمَعِيُّ صَرْحًا خَالِدًا يَسْتَوْعِبُ نَوَازِلَ الحَيَاةِ وَيُحَقِّقُ مَقَاصِدَ العَدْلِ الإِلَهِيِّ». (Dr. Abd al-Rahman: 'Dr. Fatima, how do we summarize the legislative genius of jurisprudence and Usul system in building contemporary ijtihad?' — Dr. Fatima: 'It is the epic of text, objective, and reason; where 'Usul al-Fiqh' established deduction methodologies and mantuq/mafhum implications, 'Maqasid al-Shariah' unveiled the goals of preserving the Five Universals, while 'the Major Legal Maxims' regulated fatwa and judicial paths with principles of certainty, lifting harm, and easing hardship, making collective ijtihad an eternal edifice assimilating life's occurrences and realizing divine justice objectives.')",
+            "د. عبد الرحمن: هل كان المؤتمر الفقهي ناجحا اليوم؟ — د. فاطمة: نعم كان مؤتمرا جيدا ومفيدا.",
+            "حوار فقهي شامل أصول فقه مقاصد قواعد أدلة قياس مصالح مرسلة سكون فتحة ضمة.",
+            "توقفت الفتاوى الفقهية عن التجدد في العصر الحديث."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل ذروة التحليل الأصولي والفقهي المقاصدي في دمج: أدلة الشافعي، دلالات الألفاظ، مقاصد الشاطبي، القواعد الفقهية الخمس، والاجتهاد المجمعي في النوازل المعاصرة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u32-l5) باللغة العربية (مثال: «أصول»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العملية الفكرية والشرعية التي يبذل فيها العالم الفقيه وسعه لاستنباط الأحكام الشرعية (اكتب: «الاجتهاد» أو «الاجتهاد الفقهي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "أصول",
-            "أصول"
+            "الاجتهاد",
+            "الاجتهاد الفقهي",
+            "اجتهاد",
+            "اجتهاد فقهي",
+            "الِاجْتِهَادُ",
+            "الِاجْتِهَاد"
           ],
-          "explanation": "المصطلح الصحيح هو «أصول»."
+          "explanation": "العملية هي «الاجتهاد» (Ijtihad)."
         }
       ],
       "passThreshold": 0.8
