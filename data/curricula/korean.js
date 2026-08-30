@@ -3243,56 +3243,65 @@
     "subject": "korean",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) (Part 1)",
+    "title": "미래 시제와 예정 어미 (-(으)ㄹ 거예요)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요).",
+    "objective": "받침 유무에 따른 미래 시제 예정 어미 '-(으)ㄹ 거예요'의 결합 규칙(모음 어간 + -ㄹ 거예요, 자음 어간 + -을 거예요, ㄹ 받침 + 거예요)을 체득하고 정확한 된소리 발음을 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) » (제1절)의 핵심 언어 요소와 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 미래의 계획, 예정, 또는 일어날 일에 대한 추측을 나타내는 가장 보편적인 종결어미는 '-(으)ㄹ 거예요'입니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 (받침 없음) + -ㄹ 거예요:\n  - 가다 → 갈 거예요 [갈꺼예요] (will go)\n  - 보다 → 볼 거예요 [볼꺼예요] (will see)\n  - 하다 → 할 거예요 [할꺼예요] (will do)\n  - 마시다 → 마실 거예요 [마실꺼예요] (will drink)\n- 자음 종결 어간 (받침 있음) + -을 거예요:\n  - 먹다 → 먹을 거예요 [머글꺼예요] (will eat)\n  - 읽다 → 읽을 거예요 [일글꺼예요] (will read)\n  - 입다 → 입을 거예요 [이블꺼예요] (will wear)\n  - 닫다 → 닫을 거예요 [다들꺼예요] (will close)\n- 'ㄹ' 받침 종결 어간 + 거예요 (ㄹ 받침 유지):\n  - 살다 → 살 거예요 [살꺼예요] (will live)\n  - 만들다 → 만들 거예요 [만들꺼예요] (will make)\n  - 팔다 → 팔 거예요 [팔꺼예요] (will sell)\n\n2. 된소리 발음 법칙:\n관형사형 어미 '-(으)ㄹ' 뒤에 결합하는 '거예요'는 실제 구어 발음에서 된소리 [꺼예요]로 소리 납니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (7.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "내일 오후에 친구와 함께 시내 대형 서점에 갈 거예요.",
+          "reading": "Naeil ohu-e chingu-wa hamkke sinae daehyeong seojeom-e gal geoyeyo.",
+          "translation": "Tomorrow afternoon, I will go to a large bookstore downtown with a friend."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (7.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "오늘 저녁에는 한국 식당에서 맛있는 불고기를 먹을 거예요.",
+          "reading": "Oneul jeonyeog-eneun hanguk sikdang-eseo masinneun bulgogi-reul meog-eul geoyeyo.",
+          "translation": "Tonight, I will eat delicious bulgogi at a Korean restaurant."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (7.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "주말에 부모님을 위해 특별한 한국 요리를 만들 거예요.",
+          "reading": "Jumal-e bumonim-eul wihae teukbyeolhan hanguk yori-reul mandeul geoyeyo.",
+          "translation": "On the weekend, I will make a special Korean dish for my parents."
+        },
+        {
+          "target": "다음 학기에는 한국어 고급 과정을 신청할 거예요.",
+          "reading": "Daeum hakgi-eneun hangug-eo gogeup gwajeong-eul sincheonghal geoyeyo.",
+          "translation": "Next semester, I will apply for the advanced Korean course."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받침 없으면 아래에 'ㄹ 거예요'(갈 거예요), 받침 있으면 '을 거예요'(먹을 거예요)! 발음은 짱짱하게 [꺼예요]!"
+      ],
+      "culturalNotes": [
+        "'-(으)ㄹ 거예요'는 평서문에서는 미래의 계획이나 예정(I will)을 나타내고, 말끝을 올리면 상대방의 예정(Will you...?)을 묻는 질문이 됩니다 (예: '내일 뭐 할 거예요 ↗?')."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '가다(to go - 모음 어간)'의 올바른 미래 예정형은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (7.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (7.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (7.1.3)."
+            "갈 거예요",
+            "가을 거예요",
+            "가ㄹ 거예요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㄹ 거예요'가 결합하여 '갈 거예요[갈꺼예요]'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "동사 '먹다(to eat - 자음 어간)'의 올바른 미래 예정형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (7.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (7.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (7.1.3)."
+            "먹을 거예요",
+            "먹ㄹ 거예요",
+            "먹예요"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'먹다'는 받침이 있는 자음 어간이므로 '-을 거예요'와 결합하여 '먹을 거예요[머글꺼예요]'가 됩니다."
         }
       ]
     },
@@ -3300,14 +3309,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 7-1)?",
+          "prompt": "'주말에 맛있는 저녁 요리를 _____ (I will make delicious dinner).' 빈칸에 알맞은 '만들다'의 미래형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (7.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (7.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (7.1.3)."
+            "만들 거예요",
+            "만들을 거예요",
+            "만들ㄹ 거예요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'만들다'는 어간 끝이 'ㄹ' 받침이므로 그대로 '거예요'가 결합하여 '만들 거예요[만들꺼예요]'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'내일 영화를 볼 거예요'(I will watch a movie tomorrow)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "내일 영화를 볼 거예요.",
+            "내일 영화를 볼 거예요"
+          ],
+          "explanation": "내일(시간) + 영화를(목적어) + 볼 거예요(보다의 미래형) = 내일 영화를 볼 거예요."
         }
       ]
     }
@@ -3317,56 +3335,65 @@
     "subject": "korean",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) (Part 2)",
+    "title": "화자의 확고한 의지와 격식체 미래 선언 (-겠습니다)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요).",
+    "objective": "공식적인 발표, 의식, 약속 및 비즈니스 상황에서 주어(화자)의 단호하고 예의 바른 의지를 나타내는 선어말어미 '-겠-'의 용법을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) » (제2절)의 핵심 언어 요소와 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "선어말어미 '-겠-'은 화자(1인칭)의 강력한 결의, 의지, 공손한 선언을 나타내며 주로 하십시오체와 결합하여 '-겠습니다'의 형태로 널리 쓰입니다.\n\n1. 화자의 단호한 의지(Volition) 표명:\n- 공식 석상, 직장, 면접, 연설에서 자신의 의지를 확고히 밝힐 때 사용합니다.\n  - 하다 → 하겠습니다 (I will do it)\n  - 가다 → 가겠습니다 (I will go)\n  - 배우다 → 열심히 배우겠습니다 (I will learn diligently)\n  - 지키다 → 약속을 반드시 지키겠습니다 (I will surely keep the promise)\n\n2. 한국의 필수 관용 인사말:\n- 식사 시작 전 인사: \"잘 먹겠습니다!\" (I will eat well / Thank you for the meal!)\n- 식사 완료 후 인사: \"잘 먹었습니다!\" (과거형: I ate well!)\n- 첫 만남 인사: \"처음 뵙겠습니다.\" (Pleased to meet you for the first time.)\n- 행사 시작 안내: \"지금부터 개회식을 시작하겠습니다.\" (We will now begin the opening ceremony.)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (7.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "식사 맛있게 잘 먹겠습니다!",
+          "reading": "Siksa masitge jal meokgetseumnida!",
+          "translation": "I will eat this meal deliciously and well (Standard table etiquette before eating)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (7.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이번 프로젝트를 최선을 다해 성공시키겠습니다.",
+          "reading": "Ibeon peurojekteu-reul choeseon-eul dahae seonggongsikigetseumnida.",
+          "translation": "I will do my absolute best to make this project successful."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (7.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "안녕하십니까? 처음 뵙겠습니다.",
+          "reading": "Annyeonghasimnikka? Cheoeum boepgetseumnida.",
+          "translation": "Hello. It is an honor to meet you for the first time."
+        },
+        {
+          "target": "지금부터 2026년 정기 학술대회를 시작하겠습니다.",
+          "reading": "Jigeumbuteo icheon-isibyungnyeon jeonggi haksuldaehoe-reul sijakhagetseumnida.",
+          "translation": "From now, we will begin the 2026 Regular Academic Conference."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "밥 먹기 전엔 '잘 먹겠습니다', 다짐할 땐 '열심히 하겠습니다'! 나의 강력한 의지는 '-겠-'!"
+      ],
+      "culturalNotes": [
+        "한국에서는 가족 간이든 직장 동료 간이든 식사를 시작할 때 밥을 차려준 사람이나 동석자에게 '잘 먹겠습니다'라고 외치는 것이 핵심 식사 예절입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "한국에서 식사를 시작하기 직전에 동석자나 식사를 준비해 준 사람에게 건네는 가장 올바른 인사말은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (7.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (7.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (7.2.3)."
+            "잘 먹겠습니다.",
+            "잘 먹었습니다.",
+            "잘 먹을 거예요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "식사 전에는 의지와 감사를 담아 '잘 먹겠습니다'라고 인사합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "공식 회의를 시작할 때 사회자가 사용하는 가장 격식 있고 정중한 선언 표현은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (7.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (7.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (7.2.3)."
+            "지금부터 회의를 시작하겠습니다.",
+            "지금부터 회의를 시작할게.",
+            "지금부터 회의를 시작했어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "공식 행사나 회의의 개회 선언은 '시작하겠습니다'가 표준입니다."
         }
       ]
     },
@@ -3374,14 +3401,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 7-2)?",
+          "prompt": "'회사에서 맡은 일에 최선을 다해 _____ (I will work diligently).' 빈칸에 알맞은 의지 표명 서술어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (7.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (7.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (7.2.3)."
+            "일하겠습니다",
+            "일하었습니다",
+            "일하먹겠습니다"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "'일하다'에 확고한 의지를 나타내는 선어말어미 '-겠-'이 결합한 '일하겠습니다'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'잘 먹겠습니다'(Thank you for the meal / I will eat well)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "잘 먹겠습니다.",
+            "잘 먹겠습니다"
+          ],
+          "explanation": "잘(부사) + 먹겠습니다(먹다 + 겠 + 습니다) = 잘 먹겠습니다."
         }
       ]
     }
@@ -3391,56 +3427,65 @@
     "subject": "korean",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) (Part 3)",
+    "title": "지각적 단서에 기반한 직관적 추측 (-겠어요: 맛있겠어요, 힘들겠어요)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요).",
+    "objective": "눈앞의 상황이나 시각/청각적 단서를 접하고 즉각적으로 판단하고 공감하는 직관적 추측 선어말어미 '-겠어요'의 용법을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) » (제3절)의 핵심 언어 요소와 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "선어말어미 '-겠-'이 2·3인칭 주어 또는 형용사와 결합하면 화자가 직접 보고 들은 상황을 바탕으로 내리는 '직관적 추측(Intuitive Conjecture)' 및 '감정적 공감(Empathy)'을 나타냅니다.\n\n1. 직관적 추측과 공감 표현의 주요 용례:\n- 먹음직스러운 음식을 보았을 때:\n  - \"와, 이 불고기 정말 맛있겠어요!\" (Wow, this bulgogi looks so delicious!)\n- 상대방이 과중한 업무로 야근을 했다는 말을 들었을 때:\n  - \"오늘 정말 피곤하겠어요 / 힘들겠어요.\" (You must be so tired / having a hard time today.)\n- 하늘에 먹구름이 짙게 끼었을 때:\n  - \"하늘이 어두워요. 곧 비가 오겠어요.\" (The sky is dark. It looks like it will rain soon.)\n- 상대방이 좋은 시험 성적을 받았을 때:\n  - \"정말 기분 좋겠어요! 축하해요!\" (You must feel so good! Congratulations!)\n\n2. 1인칭 의지와 3인칭 추측의 화용론적 구별:\n- 1인칭 + 동작동사: 화자의 의지 (제가 가겠습니다 = I will go)\n- 상태 형용사 / 상황 단서: 화자의 추측/공감 (정말 맛있겠어요 = It looks delicious)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (7.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "테이블 위에 차려진 음식이 정말 맛있겠어요.",
+          "reading": "Teibeul wi-e charyeojin eumsik-i jeongmal masitgetseoyo.",
+          "translation": "The food set on the table looks really delicious."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (7.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어제 밤새워서 일해서 오늘 많이 피곤하겠어요.",
+          "reading": "Eoje bamsaewoseo ilhaeseo oneul mani pigonhagetseoyo.",
+          "translation": "You must be very tired today because you worked through the night yesterday."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (7.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "바깥 날씨가 흐려서 곧 눈이 오겠어요.",
+          "reading": "Bakkat nalssi-ga heuryeoseo got nun-i ogetseoyo.",
+          "translation": "The outside weather is overcast, so it looks like it will snow soon."
+        },
+        {
+          "target": "방학 동안 해외여행을 가서 정말 좋겠어요.",
+          "reading": "Banghak dongan hae-woeyeohaeng-eul gaseo jeongmal jokgetseoyo.",
+          "translation": "It must be so nice that you are traveling abroad during vacation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "음식 보면 '맛있겠다!', 지친 친구에겐 '힘들겠다!' 상황을 보고 즉시 느끼는 직관적 추측 '-겠어요'!"
+      ],
+      "culturalNotes": [
+        "한국인들은 상대방의 처지에 깊이 공감할 때 '힘드시겠어요', '좋으시겠어요'처럼 존칭 '-시-'를 넣은 '-시겠어요' 표현을 대단히 애용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "식당에서 맛있어 보이는 요리를 처음 보았을 때 감탄하며 건네는 올바른 추측 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (7.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (7.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (7.3.3)."
+            "정말 맛있겠어요!",
+            "정말 맛있었어요!",
+            "정말 맛있을게요!"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "눈앞의 외관을 보고 직관적으로 맛있을 것이라 추측할 때는 '맛있겠어요!'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "하루 종일 쉬지 않고 일한 동료에게 건네는 가장 따뜻한 공감과 추측의 위로 표현은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (7.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (7.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (7.3.3)."
+            "오늘 정말 힘들겠어요. 푹 쉬세요.",
+            "오늘 정말 힘들었어요. 나 먼저 갈게.",
+            "오늘 정말 힘듭니다. 내가 쉬겠어."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "상대방의 힘든 상황을 짐작하고 공감할 때는 '힘들겠어요'가 가장 적절합니다."
         }
       ]
     },
@@ -3448,14 +3493,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 7-3)?",
+          "prompt": "'A: 내일부터 2주 동안 휴가예요. B: 와, 정말 _____! (Wow, that must be so great!)' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (7.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (7.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (7.3.3)."
+            "좋겠어요",
+            "좋았어요",
+            "좋을게요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "상대방의 기쁜 상황을 공감하며 추측하는 표현은 '좋겠어요'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'정말 맛있겠어요'(It looks really delicious)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "정말 맛있겠어요.",
+            "정말 맛있겠어요"
+          ],
+          "explanation": "정말(부사) + 맛있겠어요(맛있다 + 겠 + 어요) = 정말 맛있겠어요."
         }
       ]
     }
@@ -3465,56 +3519,65 @@
     "subject": "korean",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) (Part 4)",
+    "title": "화자의 약속·즉각적 반응 '-(으)ㄹ게요'와 일반 예정 '-(으)ㄹ 거예요'의 화용적 대비",
     "level": "A2",
-    "objective": "Comprehensive mastery of 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요).",
+    "objective": "상대방과의 대화 맥락에서 자신의 행동을 약속하거나 즉각적으로 응답하는 '-(으)ㄹ게요'와 객관적 미래 일정을 진술하는 '-(으)ㄹ 거예요'의 화용론적 차이를 정밀하게 구분한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) » (제4절)의 핵심 언어 요소와 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 학습자가 가장 헷갈려하는 두 미래 표현 '-(으)ㄹ게요'와 '-(으)ㄹ 거예요'는 뚜렷한 화용론적 기능 차이를 지닙니다.\n\n1. '-(으)ㄹ게요'의 화용론적 성격 (약속 및 청자 지향적 반응):\n- 오직 1인칭 주어(화자)의 평서문에서만 사용됩니다 (의문문 절대 불가).\n- 청자(상대방)에게 \"내가 그렇게 하겠다\"고 약속하거나, 청자의 말에 즉각적으로 반응할 때 씁니다.\n  - \"제가 내일 아침에 다시 전화할게요.\" (I will call you again tomorrow - Promise to listener)\n  - \"오늘 커피는 제가 살게요!\" (I will buy the coffee today!)\n  - \"먼저 퇴근할게요. 내일 봐요.\" (I will leave work first. See you tomorrow.)\n\n2. '-(으)ㄹ 거예요'와의 정밀 대비:\n- '-(으)ㄹ 거예요':\n  - 청자와 무관한 화자의 단순한 개인적 미래 계획이나 객관적 일정 진술.\n  - 의문문 가능: \"내일 뭐 할 거예요?\"\n  - 3인칭 주어 가능: \"민수 씨는 내일 올 거예요.\"\n- '-(으)ㄹ게요':\n  - 청자와의 관계 속에서 일어나는 약속 및 배려의 즉각적 선언.\n  - 의문문 불가 (*내일 뭐 할게요? X)\n  - 3인칭 주어 불가 (*민수 씨가 갈게요 X)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (7.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "제가 내일 오후 3시에 사무실로 전화할게요.",
+          "reading": "Jeo-ga naeil ohu sesi-e samusil-ro jeonhwahalgeyo.",
+          "translation": "I will call your office at 3 PM tomorrow (Promise to the listener)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (7.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "오늘 저녁 식사 비용은 제가 낼게요.",
+          "reading": "Oneul jeonyeok siksa biyong-eun jeo-ga naelgeyo.",
+          "translation": "I will pay for tonight's dinner (Immediate offer/promise)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (7.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "저는 이번 주말에 집에서 푹 쉴 거예요.",
+          "reading": "Jeo-neun ibeon jumal-e jib-eseo puk swil geoyeyo.",
+          "translation": "I will rest deeply at home this weekend (General personal plan)."
+        },
+        {
+          "target": "내일 회의 준비를 제가 미리 해 둘게요.",
+          "reading": "Naeil hoewi junbi-reul jeo-ga miri hae dulgeyo.",
+          "translation": "I will prepare for tomorrow's meeting in advance (Helpful commitment)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "상대방에게 약속할 땐 '-(으)ㄹ게요' (내가 살게!), 혼자 계획 말할 땐 '-(으)ㄹ 거예요' (집에 갈 거야)!"
+      ],
+      "culturalNotes": [
+        "한국의 직장이나 일상 모임에서 '제가 할게요(I will do it)' 또는 '제가 살게요(I will treat you)'라는 말은 상대방에 대한 적극적인 배려와 솔선수범을 나타내는 매우 호감도 높은 화법입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "카페에서 친구에게 '오늘 커피는 내가 살게(약속/호의)'라고 말할 때 가장 자연스러운 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (7.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (7.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (7.4.3)."
+            "오늘 커피는 제가 살게요.",
+            "오늘 커피는 제가 살 거예요.",
+            "오늘 커피는 제가 샀어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "청자에게 호의를 베풀거나 약속하는 1인칭 즉각 반응이므로 '살게요'가 가장 자연스럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "다음 중 '-(으)ㄹ게요'의 문법 규칙에 엄격히 부합하는 올바른 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (7.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (7.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (7.4.3)."
+            "제가 내일 아침 일찍 연락할게요.",
+            "선생님, 내일 학교에 올게요?",
+            "민수 씨가 내일 영화를 볼게요."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'-(으)ㄹ게요'는 1인칭 주어 평서문에서만 사용 가능하므로 '제가 ... 연락할게요'가 유일하게 올바릅니다."
         }
       ]
     },
@@ -3522,14 +3585,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 7-4)?",
+          "prompt": "'A: 서류 정리가 좀 많네요. B: 걱정하지 마세요. 제가 _____ (Don't worry, I will help you).' 빈칸에 알맞은 약속형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (7.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (7.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (7.4.3)."
+            "도와드릴게요",
+            "도와드릴 거예요",
+            "도와드렸어요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "상대방을 돕겠다고 약속하는 대화 상황이므로 '도와드릴게요'가 가장 적절합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'제가 전화할게요'(I will call you - Promise)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "제가 전화할게요.",
+            "제가 전화할게요"
+          ],
+          "explanation": "제가(주어) + 전화할게요(전화하다 + ㄹ게요) = 제가 전화할게요."
         }
       ]
     }
@@ -3539,56 +3611,65 @@
     "subject": "korean",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) (Part 5)",
+    "title": "미래 계획과 주말 스케줄 담화 구성 (실전 계획 대화)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요).",
+    "objective": "'이번 주말에 뭐 할 거예요?', '방학 때 어디에 갈 거예요?' 등 미래 계획을 묻고 답하는 다채로운 담화 패턴을 유창하게 구성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) » (제5절)의 핵심 언어 요소와 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "미래의 스케줄과 계획을 주제로 대화할 때는 미래 시간 부사, 목적격 조사, 그리고 미래 시제 어미들을 유기적으로 결합하여 생동감 있는 담화를 이끌어냅니다.\n\n1. 핵심 미래 시간 부사 목록:\n- 내일 (Tomorrow): 내일 오전에 회의가 있어요.\n- 모레 (The day after tomorrow): 모레 친구가 한국에 와요.\n- 이번 주말 (This weekend): 이번 주말에 등산을 갈 거예요.\n- 다음 주 (Next week): 다음 주에 새 프로젝트를 시작해요.\n- 다음 달 (Next month): 다음 달에 새 아파트로 이사할 거예요.\n- 내년 (Next year): 내년에 한국 대학교에 입학할 거예요.\n\n2. 실전 주말 계획 대화 모델:\n- A: 지은 씨, 이번 주말에 특별한 계획이 있어요?\n- B: 네, 토요일에 오랜만에 고향 친구를 만날 거예요. 같이 쇼핑을 하고 맛있는 저녁을 먹을 거예요.\n- A: 일요일에는 뭐 할 거예요?\n- B: 일요일에는 집에서 청소를 하고 푹 쉬면서 한국어 복습을 할 거예요. 민수 씨는요?\n- A: 저는 가족들과 함께 서울 근교로 드라이브를 갈 거예요.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (7.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 이번 주말에 뭐 할 거예요? B: 친구와 한강 공원에 갈 거예요.",
+          "reading": "A: Ibeon jumal-e mwo hal geoyeyo? B: Chingu-wa Hangang gongwon-e gal geoyeyo.",
+          "translation": "A: What will you do this weekend? B: I will go to Hangang Park with a friend."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (7.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "다음 달에 제주도로 가족 여행을 떠날 거예요.",
+          "reading": "Daeum dal-e Jeju-do-ro gajok yeohaeng-eul tteonal geoyeyo.",
+          "translation": "Next month, I will leave for a family trip to Jeju Island."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (7.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "내일 퇴근 후에 헬스장에서 1시간 운동할 거예요.",
+          "reading": "Naeil toegeun hu-e helseujang-eseo han sigan undonghal geoyeyo.",
+          "translation": "Tomorrow after work, I will exercise for an hour at the gym."
+        },
+        {
+          "target": "이번 방학에는 한국어 능력 시험 4급을 준비할 거예요.",
+          "reading": "Ibeon banghak-eneun hangug-eo neungnyeok siheom sageup-eul junbihal geoyeyo.",
+          "translation": "During this vacation, I will prepare for TOPIK Level 4."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'시간 부사 + 목적어 + -ㄹ 거예요'로 나만의 완벽한 주말 계획 완성!"
+      ],
+      "culturalNotes": [
+        "한국인들은 금요일 오후가 되면 동료나 친구에게 '주말 잘 보내세요!(Have a great weekend!)'라는 따뜻한 주말 인사말을 반드시 주고받습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "'이번 주말에 뭐 할 거예요?'라는 질문에 대한 가장 자연스러운 대답 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (7.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (7.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (7.5.3)."
+            "친구와 함께 영화를 볼 거예요.",
+            "친구와 함께 영화를 봤어요.",
+            "친구와 함께 영화를 봐라."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "주말 계획을 묻는 질문이므로 미래 시제인 '볼 거예요'로 답해야 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "금요일 퇴근길에 직장 동료에게 건네는 가장 표준적인 주말 인사말은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (7.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (7.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (7.5.3)."
+            "주말 잘 보내세요!",
+            "주말 잘 먹겠습니다!",
+            "주말 잘 갔어요!"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "주말을 즐겁게 보내라는 표준 인사말은 '주말 잘 보내세요!'입니다."
         }
       ]
     },
@@ -3596,14 +3677,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 7-5)?",
+          "prompt": "다음 중 미래 계획을 묻고 답하는 담화로 문법과 맥락이 완벽한 것은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (7.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (7.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (7.5.3)."
+            "A: 내일 어디에 갈 거예요? B: 서울역에 갈 거예요.",
+            "A: 내일 어디에 갈 거예요? B: 어제 서울역에 갔어요.",
+            "A: 어제 어디에 갔어요? B: 내일 서울역에 갈게요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "내일의 계획을 묻고 미래형 '갈 거예요'로 답한 첫 번째 대화가 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'주말에 친구를 만날 거예요'(I will meet a friend on the weekend)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "주말에 친구를 만날 거예요.",
+            "주말에 친구를 만날 거예요"
+          ],
+          "explanation": "주말에(시간) + 친구를(목적어) + 만날 거예요(만나다의 미래형) = 주말에 친구를 만날 거예요."
         }
       ]
     }
