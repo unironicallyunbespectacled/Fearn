@@ -6463,56 +6463,65 @@
     "subject": "korean",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) (Part 1)",
+    "title": "자연적 인과 및 순차적 이유 연결어미 (-아/어서)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 이유 원인 연결어미 (Causal Connectives: -아/어서).",
+    "objective": "앞 절의 상황이 자연스러운 원인/이유가 되어 뒤 절의 결과가 필연적으로 발생함을 나타내는 '-아/어서'의 형태 결합과 문법 제약을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) » (제1절)의 핵심 언어 요소와 이유 원인 연결어미 (Causal Connectives: -아/어서)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-아/어서'는 앞 절의 사태가 뒤 절의 행위나 상태를 발생시키는 직접적이고 자연스러운 원인(Natural Cause)임을 나타냅니다.\n\n1. 형태 결합 규칙 (모음 조화):\n- 양성 모음 (ㅏ, ㅗ) 어간 + -아서: 가다 → 가서, 보다 → 봐서, 맑다 → 맑아서\n- 음성 모음 (ㅓ, ㅜ, ㅡ, ㅣ 등) 어간 + -어서: 먹다 → 먹어서, 춥다 → 추워서 (ㅂ 불규칙), 늦다 → 늦어서\n- '하다' 동사/형용사 → 해서: 피곤하다 → 피곤해서, 바쁘다 → 바빠서 (ㅡ 탈락)\n\n2. '-아/어서'의 핵심 문법적 제약 (Crucial Constraints):\n- 제약 1: 명령문(-으세요) 및 청유문(-자, -(으)ㅂ시다)에 결합 불가!\n  - \"비가 와서 우산을 쓰세요 (X)\" → \"비가 오니까 우산을 쓰세요 (O)\"\n- 제약 2: 앞 절에 과거 시제 선어말어미('-았/었-') 결합 불가!\n  - \"어제 늦게 잤어서 피곤해요 (X)\" → \"어제 늦게 자서 피곤해요 (O)\"\n- 제약 3: 인사, 사과, 감사의 관용 표현에는 오직 '-아/어서'만 사용!\n  - \"도와주셔서 감사합니다 (O)\", \"늦어서 죄송합니다 (O)\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (14.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어제 밤늦게까지 야근을 해서 오늘 아침에 늦잠을 잤어요.",
+          "reading": "Eoje bamneutge-kkaji yageun-eul haeseo oneul achim-e neutjam-eul jasseoyo.",
+          "translation": "I worked overtime until late last night, so I overslept this morning ('-아/어서')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (14.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "갑자기 소나기가 내려서 옷이 다 젖었습니다.",
+          "reading": "Gapjagi sonagi-ga naeryeoseo os-i da jeojeotseumnida.",
+          "translation": "A sudden rain shower fell, so my clothes got completely wet."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (14.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "감기에 심하게 걸려서 오늘 학교 수업에 가지 못했습니다.",
+          "reading": "Gamgi-e simhage geollyeoseo oneul hakgyo sueop-e gaji mothaetseumnida.",
+          "translation": "I caught a bad cold, so I could not go to school classes today."
+        },
+        {
+          "target": "저를 친절하게 도와주셔서 진심으로 감사드립니다.",
+          "reading": "Jeo-reul chinjeolhage dowajusyeoseo jinsim-euro gamsadeurimnida.",
+          "translation": "Thank you very much for kindly helping me (Idiomatic gratitude with '-아/어서')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "자연스런 원인은 '-아/어서'! 하지만 '과거(-았/었-)'와 '명령/청유(-으세요/합시다)'는 절대 금지!"
+      ],
+      "culturalNotes": [
+        "한국어에서 사과나 감사를 표할 때는 오직 '-아/어서'만을 씁니다. '도와주니까 감사합니다'나 '늦었기 때문에 죄송합니다'는 한국인에게 매우 어색하고 딱딱하게 들립니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'배가 고프다(to be hungry)'를 '-아/어서'로 바르게 연결한 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (14.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (14.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (14.1.3)."
+            "배가 고파서",
+            "배가 고파서서",
+            "배가 고펐어서"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'고프다'의 어간 끝 모음 'ㅡ'가 탈락하고 양성 모음 'ㅏ'가 붙어 '배가 고파서'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "다음 중 '-아/어서'의 문법적 제약을 위반한 비문은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (14.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (14.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (14.1.3)."
+            "날씨가 좋아서 산책하러 갑시다.",
+            "날씨가 좋아서 기분이 상쾌해요.",
+            "날씨가 좋아서 빨래가 잘 말라요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'-아/어서'는 청유문('-갑시다')의 이유로 쓰일 수 없습니다 (청유문에는 '날씨가 좋으니까' 사용)."
         }
       ]
     },
@@ -6520,14 +6529,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 14-1)?",
+          "prompt": "'약속 시간에 _____ 죄송합니다 (I am sorry for being late).' 빈칸에 가장 알맞은 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (14.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (14.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (14.1.3)."
+            "늦어서",
+            "늦으니까",
+            "늦었기 때문에"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "사과 표현('죄송합니다') 앞의 이유에는 관용적으로 '-아/어서(늦어서)'를 써야 자연스럽습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'비가 와서 우산을 썼어요'(It rained, so I used an umbrella)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "비가 와서 우산을 썼어요.",
+            "비가 와서 우산을 썼어요"
+          ],
+          "explanation": "비가 + 와서(오다 + 아서) + 우산을 + 썼어요 = 비가 와서 우산을 썼어요."
         }
       ]
     }
@@ -6537,56 +6555,65 @@
     "subject": "korean",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) (Part 2)",
+    "title": "주관적 판단·발견 및 명령·청유 전제 어미 (-(으)니까)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 이유 원인 연결어미 (Causal Connectives: -아/어서).",
+    "objective": "화자의 주관적 판단이나 상황적 발견을 근거로 제시하며, 명령문 및 청유문의 당위적 전제를 나타내는 '-(으)니까'의 문법을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) » (제2절)의 핵심 언어 요소와 이유 원인 연결어미 (Causal Connectives: -아/어서)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-(으)니까'는 화자가 경험하거나 인지한 주관적 사실/판단을 근거로 삼아 상대방에게 권유, 제안, 명령, 행동을 촉구할 때 쓰이는 대표적인 이유 연결어미입니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 or 'ㄹ' 받침 어간 + -니까:\n  - 가다 → 가니까, 보다 → 보니까, 만들다 → 만드니까 (ㄹ 탈락), 살다 → 사니까\n- 'ㄹ' 제외 자음 종결 어간 + -으니까:\n  - 먹다 → 먹으니까, 읽다 → 읽으니까, 닫다 → 닫으니까\n\n2. '-(으)니까'의 강력한 문법적 특징:\n- 특징 1: 명령문(-으세요, -아/어라) 및 청유문(-자, -(으)ㅂ시다)과 완벽하게 결합!\n  - \"날씨가 추우니까 따뜻하게 입으세요 (O)\"\n  - \"시간이 늦었으니까 택시를 타자 (O)\"\n- 특징 2: 앞 절에 과거 시제 선어말어미('-았/었-') 결합 가능!\n  - \"점심을 많이 먹었으니까 저녁은 가볍게 먹읍시다 (O)\"\n- 특징 3: 발견/확인(Discovery)의 의미: \"집에 가니까 동생이 청소하고 있었어요.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (14.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "도로가 많이 막히니까 지하철을 타고 이동합시다.",
+          "reading": "Doro-ga mani makhini-kka jihacheol-eul tago idonghapsida.",
+          "translation": "The roads are heavily congested, so let's travel by subway ('-(으)니까' + 청유문)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (14.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "밖이 많이 쌀쌀하니까 외투를 따뜻하게 입고 나가세요.",
+          "reading": "Bakk-i mani ssalssalhani-kka oetu-reul ttatteuthage ipgo nagaseyo.",
+          "translation": "It is very chilly outside, so please dress warmly in an overcoat and go out ('-(으)니까' + 명령문)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (14.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "아침에 창문을 여니까 상쾌한 산바람이 불어왔어요.",
+          "reading": "Achim-e changmun-eul yeoni-kka sangkwaehan sanbaram-i bureowasseoyo.",
+          "translation": "When I opened the window in the morning, a refreshing mountain breeze blew in (Discovery/Condition)."
+        },
+        {
+          "target": "어제 충분히 쉬었으니까 오늘부터 다시 열심히 공부합시다.",
+          "reading": "Eoje chungbunhi swieosseuni-kka oneulbuteo dasi yeolsimhi gongbuhapsida.",
+          "translation": "Since we rested enough yesterday, let's study hard again starting today (Past tense '-았/었-' allowed)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "명령할 때(-으세요)와 제안할 때(-ㅂ시다)는 무조건 '-(으)니까'! 과거('-았/었-')도 환영!"
+      ],
+      "culturalNotes": [
+        "한국인과의 일상 대화에서 상대방에게 무언가를 배려하거나 제안할 때 '-(으)니까'는 화자의 다정하고 주도적인 뉘앙스를 자연스럽게 전달합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "명령문 '서두르세요(Please hurry)' 앞의 이유 절로 가장 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (14.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (14.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (14.2.3)."
+            "시간이 없으니까",
+            "시간이 없어서",
+            "시간이 없으면"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "명령문의 전제 이유로는 '-아/어서'가 아닌 '-(으)니까'를 사용하므로 '시간이 없으니까'가 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "청유문 '-합시다'와 결합하여 문법적으로 완벽한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (14.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (14.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (14.2.3)."
+            "날씨가 화창하니까 한강 공원으로 소풍을 갑시다.",
+            "날씨가 화창해서 한강 공원으로 소풍을 갑시다.",
+            "날씨가 화창하지만 한강 공원으로 소풍을 갑시다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "청유문('-갑시다') 앞에는 반드시 '-(으)니까'가 호응합니다."
         }
       ]
     },
@@ -6594,14 +6621,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 14-2)?",
+          "prompt": "'점심을 이미 _____ 카페로 바로 가요 (Since we already ate lunch, let's go straight to the cafe).' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (14.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (14.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (14.2.3)."
+            "먹었으니까",
+            "먹었어서",
+            "먹었기"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "과거 시제 선어말어미와 제안형 청유가 결합할 수 있는 어미는 '먹었으니까'뿐입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'추우니까 따뜻하게 입으세요'(It is cold, so please dress warmly)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "추우니까 따뜻하게 입으세요.",
+            "추우니까 따뜻하게 입으세요"
+          ],
+          "explanation": "추우니까(춥다 + 으니까) + 따뜻하게 + 입으세요 = 추우니까 따뜻하게 입으세요."
         }
       ]
     }
@@ -6611,56 +6647,65 @@
     "subject": "korean",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) (Part 3)",
+    "title": "객관적·공식적 인과 명사화 어미 (-기 때문에)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 이유 원인 연결어미 (Causal Connectives: -아/어서).",
+    "objective": "동사/형용사를 명사화 접미사 '-기'로 바꾼 후 이유 의존명사 구문 '-기 때문에'를 결합하여 객관적 원인을 명확히 서술하는 문법을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) » (제3절)의 핵심 언어 요소와 이유 원인 연결어미 (Causal Connectives: -아/어서)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-기 때문에'는 동사나 형용사 어간 뒤에 명사형 어미 '-기'와 원인을 나타내는 명사 '때문에'가 결합한 구조로, 객관적이고 논리적인 인과관계(Objective Cause / Because of)를 엄정하게 서술할 때 쓰입니다.\n\n1. 형태 결합 규칙:\n- 동사 / 형용사 어간 + -기 때문에:\n  - 가다 → 가기 때문에, 먹다 → 먹기 때문에, 춥다 → 춥기 때문에\n- 과거 시제 결합: 어간 + -았/었기 때문에:\n  - 비가 오다 → 비가 왔기 때문에, 공부하다 → 공부했기 때문에\n- 명사 뒤 결합: 명사 + (이)기 때문에 or 명사 + 때문에:\n  - 방학 → 방학이기 때문에 / 방학 때문에, 시험 → 시험 때문에\n\n2. 화용론적 특징:\n- 뉴스 보도, 학술 논문, 공식 연설, 공지사항 등 공식적이고 객관적인 담화에서 가장 선호됨.\n- 주관적인 명령이나 청유문에는 결합하지 않는 것이 원칙입니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (14.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "폭설이 심하게 내렸기 때문에 모든 항공편의 운항이 결항되었습니다.",
+          "reading": "Pokseol-i simhage naeryeotgi ttaemun-e modeun hanggongpyeon-ui unhang-i gyeolhangdoeeotseumnida.",
+          "translation": "Because heavy snow fell severely, the operation of all flights was canceled ('-았/었기 때문에')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (14.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "도로 공사로 인한 교통 정체 때문에 회의 시작 시간에 늦었습니다.",
+          "reading": "Doro gongsa-ro inan gyotong jeongche ttaemun-e hoewi sijak sigan-e neujeotseumnida.",
+          "translation": "Because of traffic congestion caused by road construction, I was late for the meeting start time (Noun + '때문에')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (14.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "규칙적으로 유산소 운동을 하기 때문에 체력이 아주 건강합니다.",
+          "reading": "Gyuchikjeog-euro yusanso undong-eul hagi ttaemun-e cheryeog-i aju geon-ganghamnida.",
+          "translation": "Because I do aerobic exercise regularly, my physical stamina is very healthy."
+        },
+        {
+          "target": "물가가 전년 대비 크게 올랐기 때문에 가계 소비가 위축되었습니다.",
+          "reading": "Mulga-ga jeonnyeon daebi keuge ollatgi ttaemun-e gagye sobi-ga wichukdoeeotseumnida.",
+          "translation": "Because prices rose significantly compared to the previous year, household consumption contracted."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "논리적이고 객관적인 공식 인과엔 '-기 때문에'! 명사 뒤엔 그냥 '명사 때문에'!"
+      ],
+      "culturalNotes": [
+        "한국의 비즈니스 보고서나 학술 발표에서는 '-아/어서'보다 '-기 때문에'를 사용하는 것이 객관적이고 논리적인 인상을 주어 공신력을 높여줍니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "명사 '비(Rain)' 뒤에 직접 결합하여 원인을 나타내는 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (14.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (14.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (14.3.3)."
+            "비 때문에 (비이기 때문에)",
+            "비 때문에기",
+            "비해서"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "순수 명사 뒤에는 '때문에' 또는 서술격 조사와 결합한 '이기 때문에'가 옵니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "공식 뉴스 보도 문장으로 가장 논리적이고 자연스러운 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (14.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (14.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (14.3.3)."
+            "태풍이 상륙했기 때문에 여객선 운항이 전면 통제되었습니다.",
+            "태풍이 상륙해서 여객선 운항을 통제하십시오.",
+            "태풍이 상륙하니까 여객선 운항이 통제되었습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "공식 보도 및 객관적 서술문에는 '-았/었기 때문에'가 가장 적합합니다."
         }
       ]
     },
@@ -6668,14 +6713,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 14-3)?",
+          "prompt": "'건강을 매일 관리_____ 질병에 걸리지 않습니다.' 빈칸에 알맞은 객관적 인과 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (14.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (14.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (14.3.3)."
+            "하기 때문에",
+            "하니까요",
+            "해서요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "평서문에서 객관적 인과 관계를 나타내는 '하기 때문에'가 가장 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'비가 오기 때문에 취소되었어요'(It was canceled because it rained)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "비가 오기 때문에 취소되었어요.",
+            "비가 오기 때문에 취소되었어요"
+          ],
+          "explanation": "비가 + 오기 때문에 + 취소되었어요 = 비가 오기 때문에 취소되었어요."
         }
       ]
     }
@@ -6685,56 +6739,65 @@
     "subject": "korean",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) (Part 4)",
+    "title": "3대 이유 어미(-아/어서 vs -(으)니까 vs -기 때문에) 비교 및 문법 제약",
     "level": "B1",
-    "objective": "Comprehensive mastery of 이유 원인 연결어미 (Causal Connectives: -아/어서).",
+    "objective": "'-아/어서', '-(으)니까', '-기 때문에'의 명령/청유문 제약, 시제 선어말어미 제약, 관용적 감사/사과 제약을 일목요연하게 비교 분석한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) » (제4절)의 핵심 언어 요소와 이유 원인 연결어미 (Causal Connectives: -아/어서)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 3대 이유 어미는 언뜻 유사해 보이지만 엄격한 문법적 제약과 화용론적 기능 차이가 존재합니다.\n\n1. 핵심 문법 제약 대조표 (Comparative Matrix):\n- 명령문(-으세요) / 청유문(-ㅂ시다) 결합 가능 여부:\n  - '-아/어서': 절대 불가 (*비가 와서 우산 쓰세요 X)\n  - '-(으)니까': 완벽 결합 (비가 오니까 우산 쓰세요 O)\n  - '-기 때문에': 결합 어색/불가 (*비가 오기 때문에 우산 쓰세요 X)\n- 앞 절 과거 시제('-았/었-') 결합 여부:\n  - '-아/어서': 결합 불가 (*늦었어서 죄송합니다 X)\n  - '-(으)니까': 결합 가능 (늦었으니까 서두르자 O)\n  - '-기 때문에': 결합 가능 (늦었기 때문에 지각했습니다 O)\n- 감사 / 사과 관용 표현 호응:\n  - '-아/어서': 전용 표현 (도와주셔서 감사합니다 O, 늦어서 죄송합니다 O)\n  - '-(으)니까': 사용 불가 (*도와주니까 감사합니다 X)\n  - '-기 때문에': 딱딱하고 부자연스러움 (*도와주었기 때문에 감사합니다 X)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (14.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 날씨가 추우니까 창문을 닫으세요. B: 네, 바로 닫겠습니다.",
+          "reading": "A: Nalssi-ga chuuni-kka changmun-eul dad-euseyo. B: Ne, baro datgetseumnida.",
+          "translation": "A: It is cold, so please close the window (Imperative allows only '-(으)니까'). B: Yes, I will close it right away."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (14.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어제 잠을 잘 못 자서 오늘 하루 종일 머리가 아파요.",
+          "reading": "Eoje jam-eul jal mot jaseo oneul haru jong-il meori-ga apayo.",
+          "translation": "I couldn't sleep well yesterday, so my head hurts all day today (Natural consequence with '-아/어서')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (14.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "지하철 고장으로 인해 도착이 늦었기 때문에 시험을 보지 못했습니다.",
+          "reading": "Jihacheol gojang-euro inhe dochak-i neujeotgi ttaemun-e siheom-eul boji mothaetseumnida.",
+          "translation": "Because my arrival was delayed due to subway breakdown, I could not take the exam (Objective cause with '-았/었기 때문에')."
+        },
+        {
+          "target": "초대해 주셔서 감사드리며, 늦지 않게 도착하도록 하겠습니다.",
+          "reading": "Chodaehae jusyeoseo gamsadeurimyeo, neutji anhge dochakhadorok hagetseumnida.",
+          "translation": "Thank you for inviting me, and I will make sure to arrive without being late (Gratitude with '-아/어서')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "명령·청유엔 '-(으)니까', 감사·사과엔 '-아/어서', 공식 보도엔 '-기 때문에'! 3대 법칙!"
+      ],
+      "culturalNotes": [
+        "이유 연결어미를 잘못 사용하면 문법적 오류뿐 아니라 상대방에게 무례하거나 어색한 인상을 줄 수 있으므로 문장의 종결 형태(명령, 청유, 감사 등)를 반드시 확인해야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'배가 부르다'를 이유로 하여 '식사를 그만합시다(Let's stop eating)'와 결합할 때 올바른 어미는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (14.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (14.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (14.4.3)."
+            "배가 부르니까",
+            "배가 불러서",
+            "배가 부르기 때문에"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "청유문('-합시다') 앞에는 오직 '-(으)니까(배가 부르니까)'만 결합할 수 있습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "다음 중 세 이유 어미의 문법적 제약이 올바르게 지켜진 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (14.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (14.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (14.4.3)."
+            "시간이 늦었으니 어서 집으로 돌아가세요.",
+            "시간이 늦어서 어서 집으로 돌아가세요.",
+            "시간이 늦기 때문에 어서 집으로 돌아가세요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "명령문('-돌아가세요') 앞에는 '-(으)니까(축약형: -(으)니)'가 결합한 첫 번째 문장이 유일하게 올바릅니다."
         }
       ]
     },
@@ -6742,14 +6805,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 14-4)?",
+          "prompt": "다음 세 문장의 문법적 정오 판단이 모두 올바른 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (14.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (14.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (14.4.3)."
+            "1. 와 주셔서 감사합니다 (O) / 2. 추우니까 코트 입으세요 (O) / 3. 비가 와서 우산 쓰세요 (X)",
+            "1. 와 주셔서 감사합니다 (X) / 2. 추우니까 코트 입으세요 (O) / 3. 비가 와서 우산 쓰세요 (O)",
+            "1. 와 주니까 감사합니다 (O) / 2. 추워서 코트 입으세요 (O) / 3. 비가 오기 때문에 우산 쓰세요 (O)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "감사에는 '-아/어서', 명령에는 '-(으)니까'가 맞으며, 명령에 '-아/어서'를 쓴 3번은 비문(X)입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'도와주셔서 감사합니다'(Thank you for helping me)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "도와주셔서 감사합니다.",
+            "도와주셔서 감사합니다"
+          ],
+          "explanation": "도와주셔서 + 감사합니다 = 도와주셔서 감사합니다."
         }
       ]
     }
@@ -6759,56 +6831,65 @@
     "subject": "korean",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) (Part 5)",
+    "title": "핑계, 사유 설명 및 약속 변경 실전 담화 구성",
     "level": "B1",
-    "objective": "Comprehensive mastery of 이유 원인 연결어미 (Causal Connectives: -아/어서).",
+    "objective": "지각 사유 해명, 일정 변경 요청, 불가피한 사정 설명 담화에서 이유 어미를 상황에 맞게 유창하게 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) » (제5절)의 핵심 언어 요소와 이유 원인 연결어미 (Causal Connectives: -아/어서)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "일상 및 비즈니스 상황에서 약속 시간을 변경하거나 불가피한 사유로 결석/지각할 때는 사과('-아/어서'), 사유 설명('-아/어서, -기 때문에'), 대안 제시 및 청유('-(으)니까')를 유기적으로 연결합니다.\n\n1. 실전 약속 변경 담화 모델:\n- A: 수진 씨, 오늘 오후 2시 회의에 참석하기 어려울 것 같아요. 정말 죄송합니다.\n- B: 민수 씨, 무슨 일 있으세요?\n- A: 갑자기 회사 서버에 오류가 생겨서 긴급 복구 작업을 해야 하거든요. 작업에 시간이 걸리기 때문에 3시 이후에나 끝날 것 같습니다.\n- B: 그렇군요. 중요한 긴급 상황이니까 너무 걱정하지 마세요.\n- A: 배려해 주셔서 진심으로 감사합니다. 회의를 4시로 미룰 수 있을까요?\n- B: 네, 4시에는 저도 일정이 비어 있으니까 4시에 봬요!\n\n2. 필수 완곡 사유 표현:\n- \"갑자기 급한 사정이 생겨서...\"\n- \"몸이 조금 안 좋아서 그러는데...\"\n- \"시간을 조금만 늦출 수 있을까요?\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (14.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 차가 막혀서 10분 정도 늦을 것 같아요. B: 네, 서두르지 말고 조심히 오세요.",
+          "reading": "A: Cha-ga makhyeoseo sipbun jeongdo neujeul geot gat-ayo. B: Ne, seodureuji malgo josimhi oseyo.",
+          "translation": "A: The traffic is backed up, so I think I will be about 10 minutes late. B: Yes, don't rush and come safely."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (14.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "갑작스러운 출장이 잡혀서 이번 주말 모임에 참석할 수 없게 되었습니다.",
+          "reading": "Gapjakseureoun chuljang-i japhyeoseo ibeon jumal moim-e chamseokhal su eopge doeeotseumnida.",
+          "translation": "A sudden business trip was scheduled, so I came to be unable to attend this weekend's gathering."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (14.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "날씨가 궂어서 등산은 다음 주로 연기하는 것이 좋겠습니다.",
+          "reading": "Nalssi-ga gujeoseo deungsan-eun daeum ju-ro yeongihaneun geos-i joketseumnida.",
+          "translation": "The weather is bad, so it would be better to postpone mountain hiking to next week."
+        },
+        {
+          "target": "사정을 너그럽게 이해해 주셔서 진심으로 감사드립니다.",
+          "reading": "Sajeong-eul neogeureopge ihaehae jusyeoseo jinsim-euro gamsadeurimnida.",
+          "translation": "Thank you very much for generously understanding my circumstances."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "지각엔 '늦어서 죄송해요', 제안엔 '바쁘니까 미뤄요', 감사엔 '이해해 주셔서 감사해요'!"
+      ],
+      "culturalNotes": [
+        "한국에서는 약속에 늦거나 변경할 때 미리 연락하여 사유를 명확히 밝히고 사과하는 것이 신뢰를 지키는 가장 중요한 인간관계의 기본 매너입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "교통 체증으로 늦을 때 상대방에게 상황을 설명하는 가장 자연스러운 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (14.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (14.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (14.5.3)."
+            "차가 많이 막혀서 조금 늦을 것 같습니다.",
+            "차가 많이 막히니까 조금 늦었습니다.",
+            "차가 많이 막히면 조금 늦으세요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "자신의 지각 원인을 완곡하게 설명할 때는 '-아/어서'가 가장 표준적입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "상대방의 양해에 대해 감사함을 표현하는 가장 올바른 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (14.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (14.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (14.5.3)."
+            "사정을 이해해 주셔서 정말 감사합니다.",
+            "사정을 이해해 주니까 정말 감사합니다.",
+            "사정을 이해해 주기 때문에 정말 감사합니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "감사 인사 앞에는 오직 '-아/어서(이해해 주셔서)'가 호응합니다."
         }
       ]
     },
@@ -6816,14 +6897,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 이유 원인 연결어미 (Causal Connectives: -아/어서) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 14-5)?",
+          "prompt": "약속 변경 대화 중 문맥과 이유 표현이 가장 완벽한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (14.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (14.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (14.5.3)."
+            "A: 급한 일이 생겨서 약속을 3시로 미룰 수 있을까요? B: 네, 3시에 만나요.",
+            "A: 급한 일이 생기니까 약속을 3시로 미루세요. B: 네, 감사해요.",
+            "A: 급한 일이 생기면 약속을 3시로 미뤘어요. B: 네, 좋아요."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "완곡한 사유 제시('생겨서')와 정중한 가능성 질문('미룰 수 있을까요')이 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'차가 막혀서 늦었어요'(I was late because traffic was jammed)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "차가 막혀서 늦었어요.",
+            "차가 막혀서 늦었어요"
+          ],
+          "explanation": "차가 + 막혀서(막히다 + 어서) + 늦었어요 = 차가 막혀서 늦었어요."
         }
       ]
     }
