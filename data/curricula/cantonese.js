@@ -7455,53 +7455,62 @@
     "subject": "cantonese",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "結果補語同趨向補語 (Resultative & Directional Complements) (第1課)",
+    "title": "粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core Resultative Complements)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元18第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語四大核心結果補語「掂（圓滿辦妥）」、「齊（全員齊全）」、「晒（徹底全盡）」與「錯（失誤偏差）」之精確語義與語法搭配規則。",
     "presentation": {
-      "explanation": "",
+      "explanation": "結果補語緊接於動詞謂語之後，用以交代該動作所引發之狀態改變、完成度或終結品質。粵語擁有四個極具嶺南特色之核心結果補語：\n\n一、四大核心結果補語語義矩陣：\n１．「掂」（dim6）：表示動作順利辦妥、圓滿解決或妥善搞定。\n- 「搞掂」（gaau2 dim6）：順利辦妥、解決難題。\n- 「執掂」（zap1 dim6）：收拾整齊、處理妥當。\n- 「傾掂」（king1 dim6）：談判成功、商議妥當。\n\n２．「齊」（cai4）：表示人、物或要素全員到齊、準備齊全、無一遺漏。\n- 「到齊」（dou3 cai4）：所有人全部到達。\n- 「買齊」（maai5 cai4）：把所有清單物品全部買全。\n- 「收齊」（sau1 cai4）：把所有款項或表格全部收齊。\n\n３．「晒」（saai3）：表示動作涉及之對象全部耗盡、全體覆蓋或徹底完結（窮盡體）。\n- 「食晒」（sik6 saai3）：全部吃光、一點不剩。\n- 「賣晒」（maai6 saai3）：全部售罄、賣光。\n- 「用晒」（jung6 saai3）：全部用盡、耗光。\n\n４．「錯」（co3）：表示動作執行出現失誤、錯誤或偏離預期。\n- 「寫錯」（se2 co3）：寫錯字或填錯資料。\n- 「講錯」（gong2 co3）：說錯話或口誤。\n- 「行錯路」（haang4 co3 lou6）：走錯方向或迷路。\n\n二、語序必備規則：\n１．結果補語必須緊貼動詞，且置於賓語之前：【動詞 ＋ 結果補語 ＋ 賓語】（如「食晒啲飯」，絕不可說「食啲飯晒」）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 18 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 18 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 18 in communication."
+          "target": "經過成個禮拜嘅艱苦談判，我哋終於同客戶傾掂咗合約條款。",
+          "reading": "ging1 gwo3 seng4 go3 lai5 baai3 ge3 gaan1 fu2 taam4 pun3, ngo5 dei6 zung1 jyu1 tung4 haak3 wu6 king1 dim6 zo2 hap6 joek3 tiu4 fun2. [kɪŋ˥ kʷɔː˧ sɛːŋ˨˩ kɔː˧ lɐi˩˧ paːi˧ kɛː˧ kaːn˥ fuː˧˥ tʰaːm˨˩ pʰuːn˧, ŋɔː˩˧ tei˨ tsʊŋ˥ jyː˥ tʰʊŋ˨˩ haːk̚˧ wuː˨ kʰɪŋ˥ tiːm˨ tsɔː˧˥ hɐp̚˨ jœːk̚˧ tʰiːu˨˩ fuːn˧˥] (GING-GWOR SENG-GOH LY-BY GEH GAHN-FOO TAHM-POON, NGOH-DAY JOONG-YUE TOONG HAHK-WOO KING-DEEM-JOR HUP-YERK TEW-FOON)",
+          "translation": "After a whole week of arduous negotiations, we finally successfully settled the contract terms with the client."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元18-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "今晚開會全體董事已經到齊，主席隨即宣佈會議正式開始。",
+          "reading": "gam1 maan5 hoi1 wui6*2 cyun4 tai2 dung2 si6 ji5 ging1 dou3 cai4, zyu2 zik6 ceoi4 zik1 syun1 bou3 wui6 ji5 zing3 sik1 hoi1 ci2. [kɐm˥ maːn˩˧ hɔːi˥ wuːi˨ tsʰyːn˨˩ tʰɐi˧˥ tʊŋ˧˥ siː˨ jiː˩˧ kɪŋ˥ tou˧ tsʰɐi˨˩, tsyː˧˥ tsɪk̚˨ tsʰɵy˨˩ tsɪk̚˥ syːn˥ pou˧ wuːi˨ jiː˩˧ tsɪŋ˧ sɪk̚˥ hɔːi˥ tsʰiː˧˥] (GUM-MAHN HOI-WUI CHUEN-TY DOONG-SEE YEE-GING DOU-CHY, JYUE-JIK CHOEY-JIK SUEN-BOU WUI-YEE JING-SIK HOI-CHEE)",
+          "translation": "All directors have arrived completely for tonight's meeting; the chairman immediately announced the official opening of the meeting."
+        },
+        {
+          "target": "超級市場入面嘅特價新鮮雞蛋好快就畀街坊買晒喇。",
+          "reading": "ciu1 kap1 si5 coeng4 jap6 min6 ge3 dak6 gaa3 san1 sin1 gai1 daan6*2 hou2 faai3 zau6 bei2 gaai1 fong1 maai5 saai3 laa3. [tsʰiːu˥ kʰɐp̚˥ siː˩˧ tsʰœːŋ˨˩ jɐp̚˨ miːn˨ kɛː˧ tɐk̚˨ kaː˧ sɐn˥ siːn˥ kɐi˥ taːn˧˥ hou˧˥ faːi˧ tsɐu˨ pei˨ kaːi˥ fɔːŋ˥ maːi˩˧ saːi˧ laː˧] (CHEW-KUP SEE-CHEUNG YUP-MEEN GEH DUK-GAH SUN-SEEN GAI-DAHN HOH-FY JAU BAY GY-FONG MY-SY LAH)",
+          "translation": "The discounted fresh eggs in the supermarket were quickly bought out completely by local residents."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【四大結果訣】圓滿辦妥就話「掂」，全員無缺用個「齊」；吃光賣淨統統「晒」，出現失誤講句「錯」！"
+      ],
+      "culturalNotes": [
+        "「掂」（dim6）係粵語中最具代表性之吉利口頭禪，如「橫掂都係」、「掂過碌蔗」（順利無比）。而「晒」（saai3）作為窮盡補語，極具嶺南語言之誇張與生動表現力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"感冒\":",
+          "prompt": "【補語匹配】在廣東話中表達「所有任務都已經圓滿辦妥、解決了」，動詞短語應為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：咳嗽錯置）",
-            "混雜生硬詞彙之不規範語句（例項：喉嚨痛未適配）",
-            "聲調助詞搭配欠妥之表達（例項：醫院誤用）"
+            "搞掂 (gaau2 dim6)",
+            "搞齊",
+            "搞錯",
+            "搞爛"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「搞掂」（gaau2 dim6）表示順利辦妥、圓滿解決。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"感冒\":",
+          "prompt": "【窮盡語義】當麵包店所有新鮮出爐之蛋撻全部售罄，店員會向客人解釋：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：喉嚨痛未適配）",
-            "聲調助詞搭配欠妥之表達（例項：醫院誤用）",
-            "語序顛倒嘅非標準句式（例項：咳嗽錯置）"
+            "蛋撻已經賣晒喇。 (Egg tarts are completely sold out.)",
+            "蛋撻已經賣齊喇。",
+            "蛋撻已經賣錯喇。",
+            "蛋撻已經賣掂喇。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「賣晒」（maai6 saai3）表示全部售罄、賣光。"
         }
       ]
     },
@@ -7509,15 +7518,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"感冒\": Which sentence is completely correct?",
+          "prompt": "【語序規則】下列關於粵語結果補語與賓語位置關係之敘述，正確嘅係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：醫院誤用）",
-            "語序顛倒嘅非標準句式（例項：咳嗽錯置）",
-            "混雜生硬詞彙之不規範語句（例項：喉嚨痛未適配）"
+            "結果補語必須緊貼動詞，置於賓語之前（如「食晒啲飯」） (Complement precedes object)",
+            "結果補語必須放在賓語最後方（如「食啲飯晒」）",
+            "結果補語必須放在句首主語前面",
+            "結果補語不能與及物動詞連用"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "粵語語法規範要求結果補語緊隨動詞謂語，置於名詞賓語之前（動＋補＋賓）。"
         }
       ],
       "passThreshold": 0.8
@@ -7528,53 +7537,62 @@
     "subject": "cantonese",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "結果補語同趨向補語 (Resultative & Directional Complements) (第2課)",
+    "title": "身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 (Somatic & Traumatic Complements)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元18第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語在人體意外受損（親）、極致程度/危殆（死）、物體損壞（爛）與斷裂截斷（斷）之專屬結果補語搭配體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語在描寫人身肉體感受、意外創傷與物理結構破壞時，發展出極具生理真實感之專屬結果補語：\n\n一、四大創傷與物理破壞結果補語：\n１．「親」（can1）：專門表示人體遭受意外碰撞、燙傷、受涼、驚嚇或輕度創傷。\n- 「跌親」（tit3 can1）：跌倒摔傷。\n- 「凍親」（dung3 can1）：受涼著涼、著涼感冒。\n- 「嚇親」（haak3 can1）：受到驚嚇。\n- 「撞親」（zong6 can1）：身體被碰撞受傷。\n\n２．「死」（sei2）：\n- 極致生理程度（誇張修辭）：「熱死」（熱得要命）、「笑死」（笑痛肚皮）、「攰死」（累得半死）。\n- 致命或癱瘓物理結果：「砸死」（被重物砸死）、「砸死部車」（壓毀車輛）。\n\n３．「爛」（laan6）：表示物理表面破損、破碎、撕裂或功能損毀。\n- 「整爛」（zing2 laan6）：弄壞損毀。\n- 「咬爛」（ngaau5 laan6）：咬碎咬爛。\n- 「坐爛」（co5 laan6）：坐壞椅子。\n\n４．「斷」（tyun5）：表示線性物體、骨骼或繩索被截斷、折斷或拉斷。\n- 「跌斷手」（tit3 tyun5 sau2）：摔斷手臂骨骼。\n- 「剪斷」（zin2 tyun5）：用剪刀剪斷線路。\n- 「扯斷」（ce2 tyun5）：用力拉斷繩索。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 18 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 18 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 18 in communication."
+          "target": "昨晚天氣突然轉冷，阿爺瞓覺嗰陣唔小心凍親，今朝係咁咳。",
+          "reading": "zok3 maan5 tin1 hei3 tat1 jin4 zyun3 laang5, aa3 je4 fan3 gaau3 go2 zan6 m4 siu2 sam1 dung3 can1, gam1 ziu1 hai6 gam2 kat1. [tsɔːk̚˧ maːn˩˧ tʰiːn˥ hei˧ tʰɐt̚˥ jiːn˨˩ tsyn˧ laːŋ˩˧, aː˧ jɛː˨˩ fɐn˧ kaːu˧ kɔː˧˥ tsɐn˨ m̩˨˩ siu˧˥ sɐm˥ tʊŋ˧ tsʰɐn˥, kɐm˥ tsiːu˥ hɐi˨ kɐm˧˥ kʰɐt̚˥] (JOK-MAHN TEEN-HEY TUT-YEEN JUEN-LAHNG, AH-YEH FUN-GAU GOH-JUN M-SIU-SUM DOONG-CHUN, GUM-JIU HY GUM KUT)",
+          "translation": "Last night the weather suddenly turned cold; Grandpa accidentally caught a chill while sleeping and kept coughing this morning."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元18-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "運動員喺比賽中唔好彩跌斷咗右腳骨，需要即刻送醫院做手術。",
+          "reading": "wan6 dung6 jyun4 hai2 bei2 coi3 zung1 m4 hou2 coi2 tit3 tyun5 zo2 jau6 goek3 gwat1, seoi1 jiu3 zik1 hak1 sung3 ji1 jyun4*2 zou6 sau2 seot6. [wɐn˨ tʊŋ˨ jyːn˨˩ hɐi˩˧ pei˧˥ tsʰɔːi˧ tsʊŋ˥ m̩˨˩ hou˧˥ tsʰɔːi˧˥ tʰiːt̚˧ tʰyːn˩˧ tsɔː˧˥ jɐu˨ kœːk̚˧ kʷɐt̚˥, sɵy˥ jiu˧ tsɪk̚˥ hɐk̚˥ sʊŋ˧ jiː˥ jyːn˧˥ tsou˨ sɐu˧˥ sɵt̚˨] (WUN-DOONG-YUEN HY BAY-CHOY JOONG M-HOH-CHOY TEET-TUEN-JOR YAU-GERK-GWUT, SOEY-YEW JIK-HUK SOONG YEE-YUEN JOU SAU-SUT)",
+          "translation": "The athlete unfortunately broke his right leg bone during the competition and needed to be sent to the hospital immediately for surgery."
+        },
+        {
+          "target": "今日天氣高達三十六度，喺戶外行咗十分鐘就真係熱死人喇！",
+          "reading": "gam1 jat6 tin1 hei3 gou1 daat6 saam1 sap6 luk6 dou6, hai2 wu6 ngoi6 haang4 zo2 sap6 fan1 zung1 zau6 zan1 hai6 jit6 sei2 jan4 laa3! [kɐm˥ jɐt˨ tʰiːn˥ hei˧ kou˥ taːt̚˨ saːm˥ sɐp̚˨ lʊk̚˨ tou˨, hɐi˩˧ wuː˨ ŋɔːi˨ haːŋ˨˩ tsɔː˧˥ sɐp̚˨ fɐn˥ tsʊŋ˥ tsɐu˨ tsɐn˥ hɐi˨ jiːt̚˨ sei˧˥ jɐn˨˩ laː˧!] (GUM-YUT TEEN-HEY GOU-DAHT SAHM-SUP-LOOK-DOU, HY WOO-NGOY HAHNG-JOR SUP-FUN-JOONG JAU JUN-HY YEET-SAY-YUN LAH!)",
+          "translation": "Today's weather reaches up to thirty-six degrees; walking outdoors for just ten minutes is really stifling hot to death!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【創傷補語歌】跌親凍親加嚇親，身體受創用個「親」；骨骼折損講「跌斷」，物理破壞「整爛」真！"
+      ],
+      "culturalNotes": [
+        "「親」（can1）在粵語中係極具同理心與身體感受之黏著補語。當他人跌倒時，廣東人第一反應必問「有冇跌親呀？」（有沒有摔傷？），溫情洋溢。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"咳嗽\":",
+          "prompt": "【創傷補語】在廣東話中詢問對方摔倒後「有沒有摔傷、受傷」，最關切之問句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：喉嚨痛錯置）",
-            "混雜生硬詞彙之不規範語句（例項：醫院未適配）",
-            "聲調助詞搭配欠妥之表達（例項：診所誤用）"
+            "你有冇跌親呀？ (Did you get hurt from falling?)",
+            "你有冇跌爛呀？",
+            "你有冇跌斷呀？",
+            "你有冇跌死呀？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「跌親」（tit3 can1）為跌倒受傷之專屬表達，「有冇跌親」為最標準慰問語。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"咳嗽\":",
+          "prompt": "【骨骼損傷】若滑雪時不幸造成手臂骨骼折斷，動詞短語應表達為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：醫院未適配）",
-            "聲調助詞搭配欠妥之表達（例項：診所誤用）",
-            "語序顛倒嘅非標準句式（例項：喉嚨痛錯置）"
+            "跌斷手 (tit3 tyun5 sau2 / Broke arm bone)",
+            "跌爛手",
+            "跌碎手",
+            "跌裂手"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "骨骼折斷在粵語中專用結果補語「斷」（跌斷手）。"
         }
       ]
     },
@@ -7582,15 +7600,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"咳嗽\": Which sentence is completely correct?",
+          "prompt": "【程度修辭】短語「攰死」（gui6 sei2）在粵語中之實際語義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：診所誤用）",
-            "語序顛倒嘅非標準句式（例項：喉嚨痛錯置）",
-            "混雜生硬詞彙之不規範語句（例項：醫院未適配）"
+            "極度疲倦、累得要命 (Extremely exhausted)",
+            "已經死亡",
+            "感到非常寒冷",
+            "感到非常憤怒"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「攰死」中「死」為極致程度補語，表示極度疲勞勞累。"
         }
       ],
       "passThreshold": 0.8
@@ -7601,53 +7619,62 @@
     "subject": "cantonese",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "結果補語同趨向補語 (Resultative & Directional Complements) (第3課)",
+    "title": "基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟 / 過去」 (Directional Complements)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元18第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語以說話者為視角基準點之空間趨向補語體系（入嚟/入去、出嚟/出去、上嚟/落去、過嚟/過去）與實體空間位移規律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "趨向補語緊隨動作動詞之後，用以標註物體移動之空間軌跡與朝向說話者之視角距離：\n\n一、空間視角基準錨點（Deictic Anchor）：\n１．「嚟」（lai4）：朝向說話者所在位置接近移動（接近視角）。\n２．「去」（heoi3）：背離說話者所在位置遠離移動（遠離視角）。\n\n二、四大複合空間位移趨向矩陣：\n１．內外維度：\n- 「入嚟」（jap6 lai4）：由外向內、朝向說話者走進來。\n- 「入去」（jap6 heoi3）：由外向內、背離說話者走進去。\n- 「出嚟」（ceot1 lai4）：由內向外、朝向說話者走出來。\n- 「出去」（ceot1 heoi3）：由內向外、背離說話者走出去。\n\n２．垂直高低維度：\n- 「上嚟」（soeng5 lai4）：由低向高、朝向說話者走上來。\n- 「落去」（lok6 heoi3）：由高向低、背離說話者走下去。\n\n３．水平跨越維度：\n- 「過嚟」（gwo3 lai4）：橫向跨越、朝向說話者走過來。\n- 「過去」（gwo3 heoi3）：橫向跨越、背離說話者走過去。\n\n三、處所名詞嵌入規則：\n１．當動詞帶有具體處所賓語時，處所名詞通常插入複合趨向補語中間：\n- 例如：「行入屋企嚟」（走進家裡來）、「行出門口去」（走出門口去）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 18 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 18 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 18 in communication."
+          "target": "外面依家落緊大雨，大家快啲行入嚟屋企避雨啦！",
+          "reading": "ngoi6 min6 ji1 gaa1 lok6 gan2 daai6 jyu5, daai6 gaa1 faai3 di1 haang4 jap6 lai4 uk1 kei2 bei6 jyu5 laa1! [ŋɔːi˨ miːn˨ jiː˥ kaː˥ lɔːk̚˨ kɐn˧˥ taːi˨ jyː˩˧, taːi˨ kaː˥ faːi˧ tiː˥ haːŋ˨˩ jɐp̚˨ lɐi˨˩ ʊk̚˥ kʰei˧˥ pei˨ jyː˩˧ laː˥!] (NGOY-MEEN YEE-GAH LOK-GUN DY-YUE, DY-GAH FY-DEE HAHNG-YUP-LY OOK-KAY BAY-YUE LAH!)",
+          "translation": "It is raining heavily outside right now; everyone quickly walk inside the house to shelter from the rain!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元18-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "陳生請你等等，經理啱啱行咗出會議室去聽緊個緊要電話。",
+          "reading": "can4 saan1 cing2 nei5 dang2 dang2, ging1 lei5 ngaam1 ngaam1 haang4 zo2 ceot1 wui6 ji5 sat1 heoi3 teng1 gan2 go3 gan2 jiu3 din6 waa6*2. [tsʰɐn˨˩ saːn˥ tsʰɪŋ˧˥ nei˩˧ tɐŋ˧˥ tɐŋ˧˥, kɪŋ˥ lei˩˧ ŋaːm˥ ŋaːm˥ haːŋ˨˩ tsɔː˧˥ tsʰɵt̚˥ wuːi˨ jiː˩˧ sɐt̚˥ hɵy˧ tʰɛːŋ˥ kɐn˧˥ kɔː˧ kɐn˧˥ jiu˧ tiːn˨ waː˧˥] (CHUN-SAHN CHING NEI DUNG-DUNG, GING-LY NGAHM-NGAHM HAHNG-JOR-CHUT WUI-YEE-SUT HOEY TENG-GUN GOH GUN-YEW DEEN-WAH)",
+          "translation": "Mr. Chan please wait a moment; the manager just walked out of the meeting room to answer an important call."
+        },
+        {
+          "target": "你企喺對面馬路好危險，快啲趁綠燈行過嚟呢邊啦！",
+          "reading": "nei5 kei5 hai2 deoi3 min6 maa5 lou6 hou2 ngai4 him2, faai3 di1 can3 luk6 dang1 haang4 gwo3 lai4 ni1 bin1 laa1! [nei˩˧ kʰei˩˧ hɐi˩˧ tɵy˧ miːn˨ maː˩˧ lou˨ hou˧˥ ŋɐi˨˩ hiːm˧˥, faːi˧ tiː˥ tsʰɐn˧ lʊk̚˨ tɐŋ˥ haːŋ˨˩ kʷɔː˧ lɐi˨˩ niː˥ piːn˥ laː˥!] (NEI KEY HY DEOY-MEEN MAH-LOU HOH NGY-HEEM, FY-DEE CHUN LOOK-DUNG HAHNG-GWOR-LY NEE-BEEN LAH!)",
+          "translation": "Standing across the street is very dangerous; quickly walk over to this side while the green light is on!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【趨向視角訣】向我走來用個「嚟」，離我遠去用個「去」；入嚟出去高低分，過嚟過去方向明！"
+      ],
+      "culturalNotes": [
+        "以說話者為中心之視角參照係漢語趨向補語之靈魂。在香港茶餐廳中，侍應招呼熟客常熱情高呼「行入嚟坐啦！」（進來坐吧！），體現出熱絡之市井人情味。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"喉嚨痛\":",
+          "prompt": "【空間視角】說話者站在辦公室內部，欲招呼門外之同事「走進辦公室來」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：醫院錯置）",
-            "混雜生硬詞彙之不規範語句（例項：診所未適配）",
-            "聲調助詞搭配欠妥之表達（例項：爸爸誤用）"
+            "快啲行入嚟啦！ (haang4 jap6 lai4 / Walk in towards here)",
+            "快啲行入去啦！",
+            "快啲行出去啦！",
+            "快啲行出嚟啦！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "由外向內且朝向說話者位置移動，使用趨向補語「入嚟」（jap6 lai4）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"喉嚨痛\":",
+          "prompt": "【視角轉換】說話者在樓下，看見朋友正從樓下走向頂樓（遠離說話者），應描述為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：診所未適配）",
-            "聲調助詞搭配欠妥之表達（例項：爸爸誤用）",
-            "語序顛倒嘅非標準句式（例項：醫院錯置）"
+            "佢行咗上去。 (haang4 zo2 soeng5 heoi3 / Walked up away)",
+            "佢行咗上嚟。",
+            "佢行咗落嚟。",
+            "佢行咗入嚟。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "由低向高且背離說話者移動，使用趨向補語「上去」（soeng5 heoi3）。"
         }
       ]
     },
@@ -7655,15 +7682,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"喉嚨痛\": Which sentence is completely correct?",
+          "prompt": "【跨越維度】在街道一側向對面之朋友揮手示意「走過來我這邊」，正確之趨向動詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：爸爸誤用）",
-            "語序顛倒嘅非標準句式（例項：醫院錯置）",
-            "混雜生硬詞彙之不規範語句（例項：診所未適配）"
+            "行過嚟 (haang4 gwo3 lai4 / Walk over here)",
+            "行過去",
+            "行落去",
+            "行入去"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "橫向跨越並朝向說話者走近，使用「過嚟」（gwo3 lai4）。"
         }
       ],
       "passThreshold": 0.8
@@ -7674,53 +7701,62 @@
     "subject": "cantonese",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "結果補語同趨向補語 (Resultative & Directional Complements) (第4課)",
+    "title": "回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / 起上嚟」 (Aspectual Directionals)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元18第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語虛化趨向補語在狀態回歸（返/返嚟）、持續延續（落去）與動作起始/主觀評估（起上嚟）中之高階語法功能。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語高階語法中，趨向動詞「返」、「落去」與「起上嚟」脫離了單純之物理空間位移，虛化為表達體貌、狀態轉變與心理評估之語法標記：\n\n一、狀態回歸與原物取回：「返」（faan1）與「返嚟」（faan1 lai4）：\n１．表示動作使事物回歸初始狀態、原有位置或恢復常態。\n- 「攞返」（lo2 faan1）：重新取回自己之物品。\n- 「買返」（maai5 faan1）：重新購回丟失或用盡之物品。\n- 「改返好」（goi2 faan1 hou2）：將錯誤修正恢復正確。\n- 「搬返嚟」（bun1 faan1 lai4）：重新搬回原來居住地。\n\n二、動作持續與未來延續：「落去」（lok6 heoi3）：\n１．表示某種動作、狀態或事業自現在起一直延續、堅持至未來。\n- 「做落去」（zou6 lok6 heoi3）：繼續堅持做下去。\n- 「住落去」（zyu6 lok6 heoi3）：繼續在此地長久居住。\n- 「講落去」（gong2 lok6 heoi3）：繼續往下說。\n\n三、動作起始與主觀感知評估：「起上嚟」（hei2 soeng5 lai4）：\n１．動作起始：表示某種情緒或行為突然爆發開始（如「笑起上嚟」突然笑起來）。\n２．條件假設與主觀評估：相當於「一旦……起來 / 看起來」。\n- 「認真起上嚟」（一旦認真起來）。\n- 「睇起上嚟好精神」（看起來神采奕奕）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 18 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 18 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 18 in communication."
+          "target": "經過工程師連夜搶修，大廈嘅供電系統終於恢復返正常運作。",
+          "reading": "ging1 gwo3 gung1 cing4 si1 lin4 je6 coeng2 sau1, daai6 haa6 ge3 gung1 din6 hai6 tung2 zung1 jyu1 fui3 fuk6 faan1 zing3 soeng4 wan6 zok3. [kɪŋ˥ kʷɔː˧ kʊŋ˥ tsʰɪŋ˨˩ siː˥ liːn˨˩ jɛː˨ tsʰœːŋ˧˥ sɐu˥, taːi˨ haː˨ kɛː˧ kʊŋ˥ tiːn˨ hɐi˨ tʰʊŋ˨ tsʊŋ˥ jyː˥ fuːi˧ fʊk̚˨ faːn˥ tsɪŋ˧ sœːŋ˨˩ wɐn˨ tsɔːk̚˧] (GING-GWOR GONG-CHING-SEE LEEN-YEH CHEUNG-SAU, DY-HAH GEH GONG-DEEN HY-TOONG JOONG-YUE FOOI-FOOK-FAHN JING-SEUNG WUN-JOK)",
+          "translation": "After emergency repairs overnight by engineers, the building's power supply system finally resumed back to normal operation."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元18-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "就算前路有幾多困難，為咗理想，我哋都會堅持做落去！",
+          "reading": "zau6 syun3 cin4 lou6 jau5 gei2 do1 kwan3 naan4, wai6 zo2 lei5 soeng2, ngo5 dei6 dou1 wui5 gin1 ci4 zou6 lok6 heoi3! [tsɐu˨ syːn˧ tsʰiːn˨˩ lou˨ jɐu˩˧ kei˧˥ tɔː˥ kʰwɐn˧ naːn˨˩, wɐi˨ tsɔː˧˥ lei˩˧ sœːŋ˧˥, ŋɔː˩˧ tei˨ tou˥ wui˩˧ kiːn˥ tsʰiː˨˩ tsou˨ lɔːk̚˨ hɵy˧!] (JAU-SUEN CHEEN-LOU YAU GAY-DOH KWUN-NAHN, WAI-JOR LY-SEUNG, NGOH-DAY DOH WUI GEEN-CHEE JOU-LOK-HOEY!)",
+          "translation": "Even if there are many difficulties ahead, for the sake of our dreams, we will persevere and keep doing it!"
+        },
+        {
+          "target": "佢份人平日好隨和，但係一旦認真起上嚟，真係好有威嚴。",
+          "reading": "keoi5 fan6 jan4 ping4 jat6 hou2 ceoi4 wo4, daan6 hai6 jat1 daan3 jing6 zan1 hei2 soeng5 lai4, zan1 hai6 hou2 jau5 wai1 jim4. [kʰɵy˩˧ fɐn˨ jɐn˨˩ pʰɪŋ˨˩ jɐt˨ hou˧˥ tsʰɵy˨˩ wɔː˨˩, taːn˨ hɐi˨ jɐt̚˥ taːn˧ jɪŋ˨ tsɐn˥ hei˧˥ sœːŋ˩˧ lɐi˨˩, tsɐn˥ hɐi˨ hou˧˥ jɐu˩˧ wɐi˥ jiːm˨˩] (KUY FUN-YUN PING-YUT HOH CHOEY-WOH, DAHN-HY YUT-DAHN YING-JUN HEY-SEUNG-LY, JUN-HY HOH-YAU WY-YEEM)",
+          "translation": "He is usually very easygoing, but once he becomes serious, he really possesses great authority."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【虛化趨向歌】恢復常態加個「返」，堅持未來「做落去」；一旦認真「起上嚟」，語法精妙最地道！"
+      ],
+      "culturalNotes": [
+        "「返」（faan1）係粵語文化中最具治癒感之字眼（如「返工」、「返屋企」、「好返」），隱含著重返平穩常軌之願望。「做落去」則展現了香港人迎難而上之獅子山奮鬥精神。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"醫院\":",
+          "prompt": "【狀態回歸】生病發燒數天後，欲表達身體「已經痊癒、恢復健康」，最地道之口語說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：診所錯置）",
-            "混雜生硬詞彙之不規範語句（例項：爸爸未適配）",
-            "聲調助詞搭配欠妥之表達（例項：媽媽誤用）"
+            "我已經好返喇。 (ngo5 ji5 ging1 hou2 faan1 laa3.)",
+            "我已經好去喇。",
+            "我已經好落喇。",
+            "我已經好上喇。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「好返」（hou2 faan1）表示病癒、身體恢復健康。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"醫院\":",
+          "prompt": "【動作延續】在會議上鼓勵發言者「請繼續往下講」，地道粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：爸爸未適配）",
-            "聲調助詞搭配欠妥之表達（例項：媽媽誤用）",
-            "語序顛倒嘅非標準句式（例項：診所錯置）"
+            "請你繼續講落去。 (cing2 nei5 gai3 zuk6 gong2 lok6 heoi3.)",
+            "請你繼續講上去。",
+            "請你繼續講入嚟。",
+            "請你繼續講出嚟。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「講落去」（gong2 lok6 heoi3）表示繼續往下講述。"
         }
       ]
     },
@@ -7728,15 +7764,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"醫院\": Which sentence is completely correct?",
+          "prompt": "【語意評估】短語「睇起上嚟好後生」中，「起上嚟」之主要語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：媽媽誤用）",
-            "語序顛倒嘅非標準句式（例項：診所錯置）",
-            "混雜生硬詞彙之不規範語句（例項：爸爸未適配）"
+            "表示主觀觀察、感知與評估 (Subjective Perception / Evaluation)",
+            "表示身體意外受傷",
+            "表示方位向低處移動",
+            "表示動作徹底完成"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「睇起上嚟」表示看起來、在視覺評估上。"
         }
       ],
       "passThreshold": 0.8
@@ -7747,53 +7783,62 @@
     "subject": "cantonese",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "結果補語同趨向補語 (Resultative & Directional Complements) (第5課)",
+    "title": "補語語序重構與賓語位置法則：「動詞 + 補語 + 賓語」 (Complement-Object Word Order)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元18第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中補語與賓語之語序排列具有嚴格之語法幾何結構，與現代標準漢語及其他方言存在鮮明對比：\n\n一、結果補語與實物賓語之絕對語序：\n１．黃金法則一：【動詞 ＋ 結果補語 ＋ 名詞賓語】。\n- 在粵語中，結果補語（晒、掂、完、錯）必須緊貼動詞，絕不可置於賓語之後。\n- 正確範例：「食晒啲飯」（吃光了飯）、「搞掂呢單案」（辦妥這宗案件）。\n- 嚴格禁忌：不可說成「*食啲飯晒」或「*搞呢單案掂」。\n\n二、空間趨向補語與處所賓語之語序：\n１．黃金法則二：【動詞 ＋ 趨向第一成分 ＋ 處所名詞 ＋ 嚟/去】。\n- 當賓語為處所名詞時，處所名詞必須嵌入趨向補語中間。\n- 正確範例：「行入會議室嚟」（走進會議室來）、「帶返屋企去」（帶回家去）。\n\n三、數量賓語之靈活夾置：\n１．帶數量詞賓語時，可靈活置於動補結構之中：\n- 例如：「買返兩本雜誌睇下」（買回兩本雜誌看一看）。\n- 例如：「食多一碗飯」（多吃一碗飯）。\n\n四、綜合語病診斷修復實戰：\n１．病句辨析：「*佢睇呢本書完」（語序顛倒） -> 修復為：「佢睇完呢本書」！",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 18 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 18 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 18 in communication."
+          "target": "你一定要喺今晚放工之前，將所有文件校對清楚並交齊畀秘書。",
+          "reading": "nei5 jat1 ding6 jiu3 hai2 gam1 maan5 fong3 gung1 zi1 cin4, zoeng1 so2 jau5 man4 gin62 gaau3 deoi3 cing1 co2 bing6 gaau1 cai4 bei2 bei3 syu1. [nei˩˧ jɐt̚˥ tɪŋ˨ jiu˧ hɐi˩˧ kɐm˥ maːn˩˧ fɔːŋ˧ kʊŋ˥ tsiː˥ tsʰiːn˨˩, tsœːŋ˥ sɔː˧˥ jɐu˩˧ mɐn˨˩ kiːn˧˥ kaːu˧ tɵy˧ tsʰɪŋ˥ tsʰɔː˧˥ pɪŋ˨ kaːu˥ tsʰɐi˨˩ pei˨ pei˧ syː˥] (NEI YUT-DING YEW HY GUM-MAHN FONG-GONG JEE-CHEEN, JEUNG SOH-YAU MUN-GEEN GAU-DEOY CHING-CHOH BING GAU-CHY BAY BAY-SYU)",
+          "translation": "You must definitely proofread all documents clearly and hand them in completely to the secretary before leaving work tonight."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元18-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "小朋友放學一返到屋企，好快就做晒所有功課同溫好書。",
+          "reading": "siu2 pang4 jau5 fong3 hok6 jat1 faan1 dou3 uk1 kei2, hou2 faai3 zau6 zou6 saai3 so2 jau5 gung1 fo3 tung4 wan1 hou2 syu1. [siu˧˥ pʰɐŋ˨˩ jɐu˩˧ fɔːŋ˧ hɔːk̚˨ jɐt̚˥ faːn˥ tou˧ ʊk̚˥ kʰei˧˥, hou˧˥ faːi˧ tsɐu˨ tsou˨ saːi˧ sɔː˧˥ jɐu˩˧ kʊŋ˥ fɔː˧ tʰʊŋ˨˩ wɐn˥ hou˧˥ syː˥] (SIU-PANG-YAU FONG-HOK YUT-FAHN-DOU OOK-KAY, HOH-FY JAU JOU-SY SOH-YAU GONG-FOH TOONG WUN-HOH-SYU)",
+          "translation": "As soon as the children returned home from school, they quickly finished all homework and reviewed their books well."
+        },
+        {
+          "target": "我哋下個禮拜打算買返幾張新餐椅擺喺客廳度。",
+          "reading": "ngo5 dei6 haa6 go3 lai5 baai3 daa2 syun3 maai5 faan1 gei2 zoeng1 san1 caan1 ji2 baai2 hai2 haak3 teng1 dou6. [ŋɔː˩˧ tei˨ haː˨ kɔː˧ lɐi˩˧ paːi˧ taː˧˥ syːn˧ maːi˩˧ faːn˥ kei˧˥ tsœːŋ˥ sɐn˥ tsʰaːn˥ jiː˧˥ paːi˧˥ hɐi˩˧ haːk̚˧ tʰɛːŋ˥ tou˨] (NGOH-DAY HAH-GOH LY-BY DY-SUEN MY-FAHN GAY-JEUNG SUN-CHAAN-YEE BAAI HY HAHK-TENG DOU)",
+          "translation": "Next week we plan to buy a few new dining chairs to place in the living room."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【語序法則歌】動補在前賓在後，食晒啲飯順溜溜；處所夾在趨向中，行入屋企樂悠悠！"
+      ],
+      "culturalNotes": [
+        "掌握「動詞＋補語＋賓語」之緊湊語序，係克服非母語者「受中介語干擾導致補語後置」之關鍵一步。嚴守此規則能使粵語表達瞬間達到地道母語者之流暢度。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"診所\":",
+          "prompt": "【語病修復】下列四個句子中，符合粵語「動詞 + 結果補語 + 賓語」標準語序之句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：爸爸錯置）",
-            "混雜生硬詞彙之不規範語句（例項：媽媽未適配）",
-            "聲調助詞搭配欠妥之表達（例項：阿哥誤用）"
+            "我已經做晒所有功課。 (ngo5 ji5 ging1 zou6 saai3 so2 jau5 gung1 fo3.)",
+            "我已經做所有功課晒。",
+            "我已經晒做所有功課。",
+            "我所有功課已經做晒晒。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「做（動）＋晒（補）＋所有功課（賓）」為標準正確語序。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"診所\":",
+          "prompt": "【處所嵌入】欲表達「走進圖書館來」，正確之複合趨向補語與處所嵌入句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：媽媽未適配）",
-            "聲調助詞搭配欠妥之表達（例項：阿哥誤用）",
-            "語序顛倒嘅非標準句式（例項：爸爸錯置）"
+            "行入圖書館嚟 (haang4 jap6 tou4 syu1 gun2 lai4)",
+            "行圖書館入嚟",
+            "行入嚟圖書館",
+            "圖書館行入嚟"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "處所名詞「圖書館」應夾在趨向補語中間構成「行入圖書館嚟」。"
         }
       ]
     },
@@ -7801,15 +7846,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"診所\": Which sentence is completely correct?",
+          "prompt": "【語法綜合】在粵語會話中表達「吃完這碗雲吞麵」，最純正地道之語序為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第18課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：阿哥誤用）",
-            "語序顛倒嘅非標準句式（例項：爸爸錯置）",
-            "混雜生硬詞彙之不規範語句（例項：媽媽未適配）"
+            "食完呢碗雲吞麵 (sik6 jyun4 ni1 wun2 wan4 tan1 min6)",
+            "食呢碗雲吞麵完",
+            "呢碗雲吞麵完食",
+            "完食呢碗雲吞麵"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "結果補語「完」必須緊貼動詞「食」，置於數量名詞賓語之前。"
         }
       ],
       "passThreshold": 0.8
