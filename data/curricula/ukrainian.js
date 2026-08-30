@@ -4175,53 +4175,62 @@
     "subject": "ukrainian",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "Минулий час дієслів та узгодження в роді (Past Tense) (Part 1)",
+    "title": "Минулий час дієслів: творення від основи інфінітива та узгодження в роді й числі (Past Tense Formation)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 10.1) with authentic linguistic precision.",
+    "objective": "Опанувати творення минулого часу дієслів від основи інфінітива за допомогою суфіксів -в, -ла, -ло, -ли та нульового закінчення.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Минулий час в українській мові виражає дію, яка відбулася до моменту мовлення, і змінюється за родами (в однині) та числами (в минулому часі немає особових закінчень!):\n\n1. Дієслова з основою інфінітива на голосний:\n- До основи інфінітива (без суфікса -ти) додаються родові суфікси:\n  • Чоловічий рід: суфікс «-в» (читати -> чита-в, писати -> писа-в, робити -> роби-в)\n  • Жіночий рід: закінчення «-ла» (чита-ла, писа-ла, роби-ла)\n  • Середній рід: закінчення «-ло» (чита-ло, писа-ло, роби-ло)\n  • Множина (для всіх родів): закінчення «-ли» (чита-ли, писа-ли, роби-ли)\n\n2. Дієслова з основою інфінітива на приголосний:\n- У чоловічому роді суфікс «-в» відсутній (нульовий суфікс):\n  • «Нести -> ніс» (він ніс, але: вона несла, воно несло, вони несли)\n  • «Везти -> віз» (він віз, але: вона везла, воно везло, вони везли)\n  • «Пекти -> пік» (він пік, але: вона пекла, воно пекло, вони пекли)\n\n3. Особове узгодження:\n- Форма минулого часу визначається родом мовця або особи:\n  • Чоловік: «Я вчора довго працював»\n  • Жінка: «Я вчора довго працювала».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Учора ввечері студентка старанно читала новий підручник з української літератури.",
+          "reading": "[uˈtʃɔrɐ ˈwːɛtʃɛrʲi stuˈdɛntkɐ stɐˈrɑnnɔ tʃɪˈtɑlɑ nɔˈwɪj pʲidˈrutʃnɪk z ukrɐˈjinʲsʲkɔjɪ lʲitɛrɐˈturɪ] (oo-CHOH-rah VVEH-cheh-ree stoo-DENT-kah stah-RAHN-noh chy-TAH-lah noh-VYI peed-ROOCH-nyk z oo-krah-YEEN-s'koh-yee lee-teh-rah-TOO-ry)",
+          "translation": "Yesterday evening the female student diligently read the new textbook of Ukrainian literature."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 10-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Мій дідусь багато років працював інженером на великому заводі в Харкові.",
+          "reading": "[mʲij dʲiˈdusʲ bɐˈɦɑtɔ ˈrɔkʲiw prɐt͡sʲuˈwɑw inʒɛˈnɛrɔm nɑ wɛˈlɪkɔmu zɐˈwɔdʲi w ˈxɑrkɔwʲi] (MEEY dee-DOOS' bah-HAH-toh roh-KEEV praht-syoo-VAHV een-zheh-NEH-rohm nah veh-LY-koh-moo zah-VOH-dee v KHAHR-koh-vee)",
+          "translation": "My grandfather worked for many years as an engineer at a large factory in Kharkiv."
+        },
+        {
+          "target": "Сонце яскраво сяяло над спокійним морем цілий день.",
+          "reading": "[ˈsɔnt͡sɛ jɐsˈkrɑwɔ ˈsʲɑjɐlɔ nɑd spɔˈkʲijnɪm ˈmɔrɛm ˈt͡sʲilɪj dɛnʲ] (SOHN-tseh yahs-KRAH-voh SYAH-yah-loh nahd spoh-KEEY-nym MOH-rem TSEE-lyi DEN')",
+          "translation": "The sun shone brightly over the calm sea all day long."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Він читав, вона читала, сонце в небі засіяло (-ло), а студенти дружно вчили (-ли) — минулий час опанували!"
+      ],
+      "culturalNotes": [
+        "Родові закінчення минулого часу в українській мові походять від давнього перфекта з дієприкметником на -лъ, що зберігся у всіх слов'янських мовах."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Двері\":",
+          "prompt": "Оберіть правильну форму минулого часу для підмета жіночого роду (Оксана):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.1.",
-            "Неправильне відмінкове узгодження зі словом «Стіл»",
-            "Порушення законів евфонії та словотворення для «Стілець»",
-            "Стилістично некоректна синтаксична конструкція з «Ліжко»"
+            "Оксана написала чудовий лист своїй подрузі. (Feminine past tense ending in -la)",
+            "Оксана написав чудовий лист своїй подрузі.",
+            "Оксана написало чудовий лист своїй подрузі.",
+            "Оксана написали чудовий лист своїй подрузі."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Для жіночого роду дієслово минулого часу має закінчення «-ла»: «написала»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Двері\":",
+          "prompt": "Поставте дієслово «робити» у форму минулого часу множини (Вони):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.1.",
-            "Порушення законів евфонії та словотворення для «Стілець»",
-            "Стилістично некоректна синтаксична конструкція з «Ліжко»",
-            "Неправильне відмінкове узгодження зі словом «Стіл»"
+            "Робили (Plural past tense ending in -ly)",
+            "Робив",
+            "Робила",
+            "Робило"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Форма множини минулого часу для всіх осіб і родів має закінчення «-ли»: «робили»."
         }
       ]
     },
@@ -4229,17 +4238,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Двері\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ дієслова минулого часу правильно узгоджені у роді та числі:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.1.",
-            "Стилістично некоректна синтаксична конструкція з «Ліжко»",
-            "Неправильне відмінкове узгодження зі словом «Стіл»",
-            "Порушення законів евфонії та словотворення для «Стілець»"
+            "Брат працював, сестра вчилася, сонце гріло, а птахи співали.",
+            "Брат працювала, сестра вчився, сонце гріли, а птахи співав.",
+            "Брат працювало, сестра вчило, сонце грів, а птахи співала.",
+            "Брат працювали, сестра вчили, сонце гріла, а птахи співало."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Працював» (чол. рід), «вчилася» (жін. рід), «гріло» (сер. рід), «співали» (множина) — ідеальне узгодження."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u10-l2": {
@@ -4247,53 +4257,62 @@
     "subject": "ukrainian",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "Минулий час дієслів та узгодження в роді (Past Tense) (Part 2)",
+    "title": "Історичні чергування голосних [о], [е] з [і] в закритих складах минулого часу (o/e -> i Mutations)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 10.2) with authentic linguistic precision.",
+    "objective": "Опанувати закони чергування голосних [о], [е] з [і] у закритому складі чоловічого роду минулого часу (ніс / несла, віз / везла, беріг / берегла).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові діє фундаментальний фонетичний закон: голосні [о] та [е] у відкритому складі переходять в [і] у закритому складі:\n\n1. Прояв у формах чоловічого роду минулого часу (де склад стає закритим):\n- «Нести -> він ніс» (закритий склад на -с), але «вона не-сла, воно не-сло, вони не-сли» (відкриті склади з [е]).\n- «Везти -> він віз» (закритий склад на -з), але «вона ве-зла, вони ве-зли».\n- «Пекти -> він пік», але «вона пе-кла, вони пе-кли».\n- «Берегти -> він беріг», але «вона бе-ре-гла, вони бе-ре-гли».\n- «Стерегти -> він стеріг», але «вона сте-ре-гла, вони сте-ре-гли».\n- «Плести -> він плів», але «вона пле-ла, вони пле-ли».\n\n2. Дієслова з кореневим [о]:\n- «Могти -> він міг», але «вона мо-гла, воно мо-гло, вони мо-гли».\n- «Рости -> він ріс», але «вона ро-сла, вони ро-сли».\n- «Помогти -> він поміг», але «вона по-мо-гла».\n\n3. Орфоепічна норма:\n- Вживання [о] чи [е] у закритому складі чоловічого роду (*нес замість «ніс», *мог замість «міг») є неприпустимою помилкою.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Він дбайливо беріг старовинну сімейну реліквію від будь-яких пошкоджень.",
+          "reading": "[wʲin dbɐjˈlɪwɔ bɛˈrʲiɦ stɐrɔˈwɪnnu sʲiˈmɛjnu rɛˈlʲikwʲiju wʲid budʲ-jɑˈkɪx pɔʃˈkɔdʒɛnʲ] (VEEN dbahj-LY-voh beh-REEK stah-roh-VYN-noo see-MEY-noo reh-LEEK-vee-yoo veed bood'-yah-KYKH pohsh-KOHD-zhen')",
+          "translation": "He carefully guarded the ancient family heirloom from any damage."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 10-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Тарас ніс важкий рюкзак із книгами, а Оксана несла зручну сумку.",
+          "reading": "[tɐˈrɑs nʲis wɑʒˈkɪj rʲukˈzɑk iz ˈknɪɦɐmɪ, ɑ ɔkˈsɑnɐ nɛsˈlɑ zrutʃˈnu ˈsumku] (tah-RAHS NEES vahzh-KYI ryook-ZAHK eez KNY-hah-my, ah ohk-SAH-nah nes-LAH zrooch-NOO SOOM-koo)",
+          "translation": "Taras carried a heavy backpack with books, and Oksana carried a comfortable bag."
+        },
+        {
+          "target": "Хлопець довго не міг знайти потрібної адреси в незнайомому місті.",
+          "reading": "[ˈxlɔpɛt͡sʲ ˈdɔwɦɔ nɛ mʲiɦ znɐjˈtɪ pɔˈtrʲibnɔjɪ ɐdˈrɛsɪ w nɛznɐˈjɔmɔmu ˈmʲisʲtʲi] (KHLOH-pets' DOHV-hoh neh MEEK znahy-TEE poh-TREEB-noh-yee ahd-REH-sy v neh-znah-YOH-moh-moo MEES-tee)",
+          "translation": "The young man could not find the required address in the unfamiliar city for a long time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Він ніс, він віз, він беріг і ріс — у закритому складі звук [і] світиться крізь!"
+      ],
+      "culturalNotes": [
+        "Чергування о/е з і є найяскравішою унікальною візитівкою української фонетичної системи серед усіх мов світу."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Стіл\":",
+          "prompt": "Оберіть правильну пару форм минулого часу дієслова «могти» для він і вона:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.2.",
-            "Неправильне відмінкове узгодження зі словом «Стілець»",
-            "Порушення законів евфонії та словотворення для «Ліжко»",
-            "Стилістично некоректна синтаксична конструкція з «Шафа»"
+            "Він міг, а вона могла (Closed syllable i vs open syllable o)",
+            "Він мог, а вона могла",
+            "Він міг, а вона мігла",
+            "Він мог, а вона мігла"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "У закритому складі чоловічого роду голосний чергується на [і] («міг»), а у відкритому складі жіночого роду зберігається [о] («могла»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Стіл\":",
+          "prompt": "Поставте дієслово «нести» у форму минулого часу чоловічого роду (Він):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.2.",
-            "Порушення законів евфонії та словотворення для «Ліжко»",
-            "Стилістично некоректна синтаксична конструкція з «Шафа»",
-            "Неправильне відмінкове узгодження зі словом «Стілець»"
+            "Ніс (Vowel mutation e -> i in closed syllable)",
+            "Нес",
+            "Несив",
+            "Нісив"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «нести» у формі чоловічого роду минулого часу має чергування [е] -> [і]: «він ніс»."
         }
       ]
     },
@@ -4301,17 +4320,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Стіл\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ форми чоловічого роду минулого часу утворено фонетично правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.2.",
-            "Стилістично некоректна синтаксична конструкція з «Шафа»",
-            "Неправильне відмінкове узгодження зі словом «Стілець»",
-            "Порушення законів евфонії та словотворення для «Ліжко»"
+            "Ніс, віз, пік, беріг, міг, ріс",
+            "Нес, вез, пек, берег, мог, рос",
+            "Нісив, візив, пікав, берігав, могав",
+            "Несив, везив, пекав, бережав, мігав"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Усі форми («ніс», «віз», «пік», «беріг», «міг», «ріс») бездоганно демонструють історичне чергування о/е -> і."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u10-l3": {
@@ -4319,53 +4339,62 @@
     "subject": "ukrainian",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "Минулий час дієслів та узгодження в роді (Past Tense) (Part 3)",
+    "title": "Дієслова із суфіксом -ну- в інфінітиві: випадання суфікса в минулому часі (Verbs with -nu- Suffix)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 10.3) with authentic linguistic precision.",
+    "objective": "Опанувати закономірності збереження або випадання суфікса -ну- у минулому часі залежно від семантики (процесні дієслова проти однократних дій).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові дієслова із суфіксом «-ну-» в інфінітиві діляться на дві чіткі групи щодо творення минулого часу:\n\n1. Дієслова стану, тривалого процесу або поступової зміни (суфікс «-ну-» ВИПАДАЄ):\n- Суфікс «-ну-» повністю випадає в усіх формах минулого часу:\n  • «Змерзнути -> він змерз, вона змерзла, воно змерзло, вони змерзли»\n  • «Сохнути -> він сох, вона сохла, вони сохли»\n  • «Гаснути -> він гас, вона гасла, воно гасло, вони гасли»\n  • «Зникнути -> він зник, вона зникла, вони зникли»\n  • «Звикнути -> він звик, вона звикла, вони звикли»\n  • «Охолонути -> він охолов, вона охолола, вони охололи»\n\n2. Дієслова миттєвої, однократної дії (суфікс «-ну-» ЗБЕРІГАЄТЬСЯ):\n- Суфікс «-ну-» обов'язково зберігається:\n  • «Крикнути -> він крикнув, вона крикнула, вони крикнули»\n  • «Глянути -> він глянув, вона глянула, вони глянули»\n  • «Стрибнути -> він стрибнув, вона стрибнула, вони стрибнули»\n  • «Махнути -> він махнув, вона махнула, вони махнули».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Вогонь у старій печі поступово згас, і в кімнаті стало прохолодно.",
+          "reading": "[wɔˈɦɔnʲ u stɐˈrʲij pɛˈtʃi pɔstuˈpɔwɔ zɦɑs, i w kʲimˈnɑtʲi ˈstɑlɔ prɔxɔˈlɔdnɔ] (voh-HOHN' oo stah-REEY peh-CHEE pohs-too-POH-voh ZHAHS, ee v keem-NAH-tee STAH-loh proh-khoh-LOHD-noh)",
+          "translation": "The fire in the old stove gradually went out, and it became cool in the room."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 10-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Мандрівник дуже змерз під час тривалого походу засніженими горами.",
+          "reading": "[mɐnˈdrʲiwnɪk ˈduʒɛ zmɛrz pʲid t͡ʃɑs trɪˈwɑlɔɦɔ pɔˈxɔdu zɐsʲˈnʲiʒɛnɪmɪ ɦɔˈrɑmɪ] (mahn-DREEV-nyk DOO-zheh ZMERZ peed CHAHS try-VAH-loh-hoh poh-KHOH-doo zahs-NEE-zheh-ny-my hoh-RAH-my)",
+          "translation": "The traveler got very cold during the long hike through the snow-covered mountains."
+        },
+        {
+          "target": "Хлопець радісно усміхнувся та привітно махнув рукою на прощання.",
+          "reading": "[ˈxlɔpɛt͡sʲ ˈrɑdʲisnɔ usʲmʲixˈnuwsʲɑ tɑ prɪˈwʲitnɔ mɐxˈnuw ruˈkɔju nɑ prɔʃˈtʃɑnʲːɑ] (KHLOH-pets' RAH-dees-noh oos-meekh-NOOV-syah tah pry-VEET-noh mahkh-NOOV roo-KOH-yoo nah prohsh-CHAHN-nyah)",
+          "translation": "The young man smiled joyfully and waved his hand warmly in farewell."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Змерзнути — змерз, зникнути — зник (суфікс зник!); А стрибнути — стрибнув у мить, бо однократна дія дзвенить!"
+      ],
+      "culturalNotes": [
+        "Уникнення штучних форм типу *змерзнув чи *сохнув є ознакою витонченого природного смаку в українській літературній мові."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Стілець\":",
+          "prompt": "Оберіть правильну літературну форму минулого часу для процесного дієслова «змерзнути» (Він):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.3.",
-            "Неправильне відмінкове узгодження зі словом «Ліжко»",
-            "Порушення законів евфонії та словотворення для «Шафа»",
-            "Стилістично некоректна синтаксична конструкція з «Робота»"
+            "Він змерз (Suffix -nu- dropped for state verb)",
+            "Він змерзнув",
+            "Він змерзнував",
+            "Він змерзен"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "У дієсловах стану суфікс «-ну-» у минулому часі випадає: «він змерз»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Стілець\":",
+          "prompt": "Яку форму минулого часу має однократне дієслово «глянути» для підмета «вона»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.3.",
-            "Порушення законів евфонії та словотворення для «Шафа»",
-            "Стилістично некоректна синтаксична конструкція з «Робота»",
-            "Неправильне відмінкове узгодження зі словом «Ліжко»"
+            "Глянула (Single-action verb retains suffix -nu-)",
+            "Гляла",
+            "Глягла",
+            "Глясла"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслова миттєвої однократної дії зберігають суфікс «-ну-»: «глянула»."
         }
       ]
     },
@@ -4373,17 +4402,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Стілець\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ дієслова на -нути правильно вжиті у формі минулого часу:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.3.",
-            "Стилістично некоректна синтаксична конструкція з «Робота»",
-            "Неправильне відмінкове узгодження зі словом «Ліжко»",
-            "Порушення законів евфонії та словотворення для «Шафа»"
+            "Туман повністю зник, вогонь згас, а хлопець швидко стрибнув через потічок.",
+            "Туман повністю зникнув, вогонь згаснув, а хлопець швидко стриб через потічок.",
+            "Туман повністю зникнув, вогонь згас, а хлопець швидко стрибнув через потічок.",
+            "Туман повністю зник, вогонь згаснув, а хлопець швидко стриб через потічок."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Зник» (випадає), «згас» (випадає), «стрибнув» (зберігається в однократній дії) — бездоганна граматика."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u10-l4": {
@@ -4391,53 +4421,62 @@
     "subject": "ukrainian",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "Минулий час дієслів та узгодження в роді (Past Tense) (Part 4)",
+    "title": "Суплетивні та нерегулярні моделі минулого часу: «іти / піти», «знайти», «їсти», «бути» (Irregular Past Paradigms)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 10.4) with authentic linguistic precision.",
+    "objective": "Опанувати особливі та суплетивні парадигми минулого часу високочастотних дієслів руху та буття (ішов/йшов, пішов, знайшов, їв/їла, був/була).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Найуживаніші дієслова української мови мають історичні нерегулярні або суплетивні форми минулого часу:\n\n1. Дієслово «іти / йти» та його префіксальні похідні (корінь іш- / йш-):\n- «Іти -> він ішов (йшов), вона ішла (йшла), воно ішло (йшло), вони ішли (йшли)»\n- «Піти -> він пішов, вона пішла, вони пішли»\n- «Прийти -> він прийшов, вона прийшла, вони прийшли»\n- «Знайти -> він знайшов, вона знайшла, вони знайшли»\n- «Вийти -> він вийшов, вона вийшла, вони вийшли»\n\n2. Дієслово «їсти»:\n- «Він їв, вона їла, воно їло, вони їли»\n\n3. Дієслово «бути»:\n- «Він був, вона була, воно було, вони були»\n\n4. Дієслово «лягти»:\n- «Він ліг, вона лягла, вони лягли» (чергування я -> і в закритому складі).\n\n5. Дієслово «сісти»:\n- «Він сів, вона сіла, вони сіли».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми пізно ввечері повернулися додому і з великим апетитом їли смачну вечерю.",
+          "reading": "[mɪ ˈpʲiznɔ ˈwːɛtʃɛrʲi pɔwɛrˈnulɪsʲɑ dɔˈdɔmu i z wɛˈlɪkɪm ɐpɛˈtɪtɔm ˈjilɪ smɐtʃˈnu wɛˈtʃɛrʲu] (my PEEZ-noh VVEH-cheh-ree poh-ver-NOO-lys'-yah doh-DOH-moo ee z veh-LY-kym ah-peh-TY-tohm YEE-ly smahch-NOO veh-CHEH-ryoo)",
+          "translation": "Late in the evening we returned home and ate a delicious supper with great appetite."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 10-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Вона швидко пішла до бібліотеки і знайшла рідкісний старовинний словник.",
+          "reading": "[wɔˈnɑ ˈʃwɪdkɔ pʲiʃˈlɑ dɔ bʲiblʲiɔˈtɛkɪ i znɐjʃˈlɑ ˈrʲidkʲisnɪj stɐrɔˈwɪnnɪj slɔwˈnɪk] (voh-NAH SHVYD-koh peesh-LAH doh beeb-lee-oh-TEH-ky ee znahy-SHLAH REED-kees-nyi stah-roh-VYN-nyi slov-NYK)",
+          "translation": "She quickly went to the library and found a rare antique dictionary."
+        },
+        {
+          "target": "Усі друзі вчасно прийшли на цікаву зустріч із відомим українським письменником.",
+          "reading": "[uˈsʲi ˈdruzʲi ˈwtʃɑsnɔ prɪjʃˈlɪ nɑ t͡sʲiˈkɑwu ˈzustrʲitʃ iz wʲiˈdɔmɪm ukrɐˈjinʲsʲkɪm pɪsʲˈmɛnnɪkɔm] (oo-SEE DROOZ-yah VCHAH-snoh preey-SHLY nah tsee-KAH-voo ZOOST-reech eez vee-DOH-mym oo-krah-YEEN-s'kym pys'-MEN-ny-kohm)",
+          "translation": "All friends arrived on time for the interesting meeting with the prominent Ukrainian writer."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ішов, пішов, знайшов і ліг — минулий час здолав поріг; Їв і був, прийшов і сів — не знає мова зайвих слів!"
+      ],
+      "culturalNotes": [
+        "Форми «йшов / ішов» взаємозамінні за законами української евфонії: після голосного пишемо «йшов» («вона йшла»), після приголосного чи на початку фрази — «ішов» («він ішов», «ішов дощ»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ліжко\":",
+          "prompt": "Оберіть правильну форму минулого часу для дієслова «знайти» з підметом жіночого роду (Вона):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.4.",
-            "Неправильне відмінкове узгодження зі словом «Шафа»",
-            "Порушення законів евфонії та словотворення для «Робота»",
-            "Стилістично некоректна синтаксична конструкція з «Офіс»"
+            "Вона знайшла (Irregular past tense of знайти: знайшла)",
+            "Вона знайтила",
+            "Вона знайнула",
+            "Вона знайдена"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «знайти» у минулому часі жіночого роду має суплетивну форму «знайшла»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ліжко\":",
+          "prompt": "Яку форму минулого часу чоловічого роду має дієслово «їсти»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.4.",
-            "Порушення законів евфонії та словотворення для «Робота»",
-            "Стилістично некоректна синтаксична конструкція з «Офіс»",
-            "Неправильне відмінкове узгодження зі словом «Шафа»"
+            "Їв (Past tense of їсти: їв)",
+            "Їстив",
+            "Їдав",
+            "Їд"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Дієслово «їсти» у формі чоловічого роду минулого часу має вигляд «він їв»."
         }
       ]
     },
@@ -4445,17 +4484,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ліжко\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ нерегулярні форми минулого часу вжиті правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.4.",
-            "Стилістично некоректна синтаксична конструкція з «Офіс»",
-            "Неправильне відмінкове узгодження зі словом «Шафа»",
-            "Порушення законів евфонії та словотворення для «Робота»"
+            "Тарас пішов у парк, Оксана прийшла додому, а діти з апетитом їли яблука.",
+            "Тарас пійтинув у парк, Оксана прийтила додому, а діти їстили яблука.",
+            "Тарас пішла у парк, Оксана прийшов додому, а діти їв яблука.",
+            "Тарас пійшов у парк, Оксана прийшла додому, а діти їдали яблука."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Пішов» (чол. рід), «прийшла» (жін. рід), «їли» (множина) — зразкові нормативні форми."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u10-l5": {
@@ -4463,53 +4503,62 @@
     "subject": "ukrainian",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "Минулий час дієслів та узгодження в роді (Past Tense) (Part 5)",
+    "title": "Синтаксис та узгодження минулого часу: займенники «хто/що», збірні підмети та фразеологічні конструкції (Past Tense Syntax)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 10.5) with authentic linguistic precision.",
+    "objective": "Опанувати правила синтаксичного узгодження дієслів минулого часу зі словами хто/що, неозначеними/заперечними займенниками та збірними іменниками.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Узгодження присудка у формі минулого часу з різними типами підметів підпорядковується суворим граматичним законам:\n\n1. Займенники «хто», «ніхто», «дехто», «хтось», «кожен»:\n- Дієслово-присудок у минулому часі ЗАВЖДИ ставиться у формі ЧОЛОВІЧОГО роду однини (незалежно від реальної статі осіб):\n  • «Хто прийшов на заняття?»\n  • «Ніхто не знав правильної відповіді»\n  • «Хтось залишив парасольку в коридорі»\n  • «Кожен із нас виконав своє завдання»\n\n2. Займенники «що», «ніщо», «дещо», «щось»:\n- Присудок у минулому часі ЗАВЖДИ ставиться у формі СЕРЕДНЬОГО роду однини:\n  • «Що трапилося (сталося)?»\n  • «Щось упало на підлогу»\n  • «Ніщо не завадило нашим планам»\n\n3. Збірні іменники («молодь», «студентство», «більшість»):\n- Присудок узгоджується в граматичному роді та числі з підметом:\n  • «Студентська молодь брала (жін. рід) активну участь у житті країни»\n  • «Українське студентство підтримало (сер. рід) нову ініціативу».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ніхто не знав відповіді на це складне запитання, поки викладач не пояснив правило.",
+          "reading": "[nʲixˈtɔ nɛ znɑw wʲidpɔˈwʲidʲi nɑ t͡sɛ sklɐdˈnɛ zɐpɪˈtɑnʲːɑ, ˈpɔkɪ wɪklɐˈdɑtʃ nɛ pɔjɐsʲˈnʲiw ˈprɑwɪlɔ] (neekh-TOH neh ZNAHV veed-poh-VEE-dee nah tseh sklahd-NEH zah-py-TAHN-nyah, POH-ky vy-klah-DAHCH neh poh-yahs-NEEV PRAH-vy-loh)",
+          "translation": "Nobody knew the answer to this difficult question until the teacher explained the rule."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 10-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Що сталося вчора ввечері на центральній площі нашого міста?",
+          "reading": "[ʃtʃɔ ˈstɑlɔsʲɑ uˈtʃɔrɐ ˈwːɛtʃɛrʲi nɑ t͡sɛntˈrɑlʲnʲij ˈplɔʃtʃʲi ˈnɑʃɔɦɔ ˈmʲistɑ] (shchoh STAH-lohs'-yah oo-CHOH-rah VVEH-cheh-ree nah tsen-TRAHL'-neey PLOHSHCH-ee NAH-shoh-hoh MEES-tah)",
+          "translation": "What happened yesterday evening in the central square of our city?"
+        },
+        {
+          "target": "Українське студентство одностайно підтримало важливий благодійний проєкт.",
+          "reading": "[ukrɐˈjinʲsʲkɛ stuˈdɛntstwɔ ɔdnɔˈstɑjnɔ pʲidˈtrɪmɐlɔ wɑʒˈlɪwɪj blɐɦɔˈdʲijnɪj prɔˈjɛkt] (oo-krah-YEEN-s'keh stoo-DENT-stvoh ohd-noh-STAHY-noh peed-TRY-mah-loh vahzh-LY-vyi blah-hoh-DEEY-nyi proh-YEKT)",
+          "translation": "Ukrainian students unanimously supported the important charitable project."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Хто прийшов — на -в (чоловічий рід), що упало — на -ло (середній рід); Узгоджуй підмет і присудок правильно завжди!"
+      ],
+      "culturalNotes": [
+        "Норма «хто сказав» (чоловічий рід незалежно від контексту) є фундаментальним правилом українського синтаксису, що забезпечує логічну точність висловлювання."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Шафа\":",
+          "prompt": "Оберіть речення з правильним граматичним узгодженням присудка з підметом «хто»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.5.",
-            "Неправильне відмінкове узгодження зі словом «Робота»",
-            "Порушення законів евфонії та словотворення для «Офіс»",
-            "Стилістично некоректна синтаксична конструкція з «Колега»"
+            "Хто з дівчат перший виконав це складне завдання? (Subject хто takes masculine singular: виконав)",
+            "Хто з дівчат перша виконала це складне завдання?",
+            "Хто з дівчат перше виконало це складне завдання?",
+            "Хто з дівчат перші виконали це складне завдання?"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Займенник «хто» вимагає форми дієслова чоловічого роду однини: «хто виконав»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Шафа\":",
+          "prompt": "Яку форму минулого часу має присудок при підметі «щось» у реченні «У кімнаті щось ...»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.5.",
-            "Порушення законів евфонії та словотворення для «Офіс»",
-            "Стилістично некоректна синтаксична конструкція з «Колега»",
-            "Неправильне відмінкове узгодження зі словом «Робота»"
+            "Упало (Subject що/щось takes neuter singular ending -lo)",
+            "Упав",
+            "Упала",
+            "Упали"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Займенник «щось» вимагає форми середнього роду минулого часу: «щось упало»."
         }
       ]
     },
@@ -4517,17 +4566,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Шафа\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено синтаксичну помилку в узгодженні минулого часу:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 10.5.",
-            "Стилістично некоректна синтаксична конструкція з «Колега»",
-            "Неправильне відмінкове узгодження зі словом «Робота»",
-            "Порушення законів евфонії та словотворення для «Офіс»"
+            "Ніхто з жінок не знала правильної відповіді.",
+            "Ніхто з жінок не знав правильної відповіді.",
+            "Щось дивне сталося вчора вночі.",
+            "Кожен із студентів вчасно склав іспит."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Речення «Ніхто з жінок не знала» містить помилку. Зі словом «ніхто» присудок завжди ставиться у формі чоловічого роду однини: «ніхто не знав»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u11-l1": {
