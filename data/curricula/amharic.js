@@ -4537,85 +4537,62 @@
     "subject": "amharic",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care) (ክፍል 1)",
+    "title": "የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሰውነት ክፍሎች ስሞች፣ የህመም ስሜትን መግለጽ («ያመኛል» / «አመመኝ»)، እና በክሊኒክ የሚደረግ ውይይት። (ክፍል 1)።",
+    "objective": "ዋና ዋና የሰውነት ክፍሎችን (ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ አፍ፣ ጥርስ፣ እጅ፣ እግር፣ ሆድ፣ ልብ፣ ደረት) በትክክል መለየትና መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሰውነት ክፍሎች መጠሪያዎች እና ተግባራዊ አጠቃቀማቸው:\n\n፩. የራስና የፊት ክፍሎች:\n- ራስ ወይም ጭንቅላት: የማሰብ እና የማስተዋል ማዕከል ነው።\n- ዓይን እና ዓይኖች: ለማየት የሚያገለግሉ ህዋሳት ናቸው።\n- ጆሮ እና ጆሮዎች: ድምፅ ለመስማት ያገለግላሉ።\n- አፍንጫ: ለማሽተት እና አየር ለመተንፈስ ይጠቅማል።\n- አፍ እና ጥርሶች: ምግብ ለማኘክና ቃላትን ለመናገር ያገለግላሉ።\n- አንገት: ራስንና ደረትን የሚያገናኝ ክፍል ነው።\n\n፪. የሰውነት ግንድና እግሮች:\n- እጅ እና እጆች: ዕቃዎችን ለመያዝና ሥራ ለመስራት ያገለግላሉ።\n- እግር እና እግሮች: ለመራመድ፣ ለመሮጥ እና ለመቆም ይጠቅማሉ።\n- ሆድ እና ደረት: የውስጥ አካላት የሚገኙባቸው ዋና ክፍሎች ናቸው።\n- ጀርባ እና ልብ: የሰውነት ጥንካሬ እና የደም ዝውውር መሠረቶች ናቸው።\n\n፫. የሰዋሰው ቅጥያዎች:\nእነዚህን ስሞች ከባለቤትነት ቅጥያዎች ጋር በማጣመር «ራሴ»፣ «ዓይኔ»፣ «እጄ»፣ «እግሬ» እያልን በውይይት ውስጥ እንጠቀማለን።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)' to the students."
+          "target": "የሰው ልጅ ጤናማ እንዲሆን ዓይኑን፣ ጥርሱንና መላ ሰውነቱን በንጽህና መጠበቅ አለበት።",
+          "reading": "Yäsäw ləğ t’enamma əndihon aynun, t’ərsunənna mällaw säwnätun bänəs’hənna mät’äbbäq alläbbät. [jɛsɛw lɨdʒ tʼenaˈma ʔɨndiˈhon ʔajˈnun tʼɨrˈsunɨnːa mɨlːaw sɔwnɛˈtun bɛnɨsˤhɨnːa mɛtʼɛbːɛkʼ ʔalːɛbːɛt] (yeh-SEW luhj t'ay-nah-MAH un-dee-HOHN eye-NOON, t'ur-SOO-nun-nah mul-LOW sew-neh-TOON beh-nus'-huhn-NAH met'-teb-BEK' ahl-leb-BET)",
+          "translation": "For a human being to be healthy, he must keep his eyes, teeth, and entire body clean."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እግር ኳስ ሲጫወት በድንገት ወድቆ የቀኝ እግሩን እና እጁን ተጎዳ።",
+          "reading": "Əgər kwas sič’awwät bädəngät wädqo yäqäny əgrun ənna əğun tägwädda. [ʔɨɡr kʷas sitʃʼawːɛt bɛdɨnˈɡɛt wɛdˈkʼo jɛkʼɛɲ ʔɨɡˈrun ɨnːa ʔɨˈdʒun tɛɡʷɛdːa] (uh-GUR kwas see-ch'ow-WET beh-dun-GET wed-K'OH yeh-k'en ug-ROON un-nah uh-JOON teh-gwed-DAH)",
+          "translation": "While playing football, he suddenly fell down and injured his right leg and hand."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ሐኪሙ የልብ ምትና የደረት አተነፋፈስን በመመርመሪያ መሳሪያ በጥንቃቄ አደመጠ።",
+          "reading": "Hakimu yäləbb mətənna yädärät atänäfafäsən bämämärmäriya mäsariya bät’ənqaqqe adämmät’ä. [haˈkimu jɛlɨbː mɨtɨnːa jɛdɛˈrɛt ʔatɛnɛfaˈfɛsɨn bɛmɛmɛrmɛriˈja mɛsaˈrija bɛtʼɨnkʼakʼːe ʔadɛmːɛtʼɛ] (hah-KEE-moo yeh-lub-B muh-TOON-nah yeh-deh-RET ah-teh-neh-fah-FES-un beh-meh-mer-meh-ree-YAH meh-sah-ree-YAH beh-t'un-k'ahk'-K'AY ah-dem-meh-T'EH)",
+          "translation": "The doctor carefully listened to the heartbeat and chest respiration with an examination device (stethoscope)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Top-to-Bottom Body: ራስ (Head) -> ዓይን (Eyes) -> ደረት/ልብ (Chest/Heart) -> ሆድ (Stomach) -> እጅ/እግር (Hands/Legs)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል ውስጥ 'ልቤ ደስ አለኝ' (My heart is joyful) ወይም 'ሆዴ ባባ' (My stomach felt emotional tenderness) እንደሚሉት የሰውነት ክፍሎች ለስሜት መግለጫነትም ያገለግላሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Hand and foot» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (10.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (10.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (10.1.w3)"
+            "እጅ እና እግር (Hand and foot - Correct basic limb nouns)",
+            "ራስ እና ሆድ",
+            "ዓይን እና ጆሮ",
+            "አፍ እና ጥርስ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እጅ» (hand/arm) እና «እግር» (foot/leg) ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u10-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Keep your teeth clean' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (10.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (10.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (10.1.x3)"
+            "ጥርስህን በንጽህና ጠብቅ። (Keep your teeth in cleanliness - Accurate dental care sentence)",
+            "ሆድህ ይረብሻል።",
+            "ዓይንህ ታሟል።",
+            "እግርህ ተሰብሯል።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (10.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (10.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (10.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ጥርስህን በንጽህና ጠብቅ» ጥርስንና ንጽህናን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -4623,24 +4600,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 10-1):",
+          "prompt": "የሰውነት ክፍሎችን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (10.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (10.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (10.1.z3)"
+            "ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ ጥርስ፣ እጅ፣ እግር እና ሆድ።",
+            "ቀኝ፣ ግራ እና አደባባይ።",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ።",
+            "በአማርኛ የሰውነት ስሞች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሰውነት ክፍሎችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u10-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጤና፣»):",
+          "prompt": "'ራስ / Head' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጤና፣",
-            "ጤና"
+            "ራስ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጤና፣» ነው።"
+          "explanation": "ትክክለኛው ቃል «ራስ» (Ras) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4651,85 +4627,62 @@
     "subject": "amharic",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care) (ክፍል 2)",
+    "title": "የህመም ስሜትን መግለጽ (Expressing Sickness, Symptoms & Aches)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሰውነት ክፍሎች ስሞች፣ የህመም ስሜትን መግለጽ («ያመኛል» / «አመመኝ»)، እና በክሊኒክ የሚደረግ ውይይት። (ክፍል 2)።",
+    "objective": "የህመም ስሜትን («አመመኝ» / «ያመኛል»)፣ ምልክቶችን (ትኩሳት፣ ሳል፣ ጉንፋን፣ ራስ ምታት) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የህመም ስሜትን የመግለጫ ሰዋሰዋዊ ስርዓት እና አገባብ:\n\n፩. የ«አመመ» ግስ አጠቃቀም:\nበአማርኛ ቋንቋ የህመም ስሜት በተሳቢ ተውላጠ ስም ቅጥያዎች ይገለጻል:\n- ራሴን አመመኝ: ለእኔ የራስ ህመም ሲሰማኝ\n- ሆድህን አመመህ: ለአንድ ወንድ የሆድ ህመም ሲሰማው\n- ሆድሽን አመመሽ: ለአንዲት ሴት የሆድ ህመም ሲሰማት\n- ሆዱን አመመው: ለሦስተኛ መደብ ተባዕታይ\n- ሆዷን አመማት: ለሦስተኛ መደብ አንስታይ\n- ሆዳችንን አመመን: ለእኛ በጋራ\n- ሆዳችሁን አመማችሁ: ለእናንተ በሙሉ\n- ሆዳቸውን አመማቸው: ለእነሱ በሙሉ የሚነገር ነው።\n\n፪. ዋና ዋና የህመም ምልክቶች:\n- ትኩሳት: የሰውነት ሙቀት ከመጠን በላይ መጨመር\n- ሳል እና አስም: የመተንፈሻ አካላት መቆጣት\n- ጉንፋን እና ብርድ: በወቅት ለውጥ የሚመጣ ህመም\n- ራስ ምታት እና የሆድ ቁርጠት።\n\n፫. የጊዜ አመልካቾች:\n«ከሁለት ቀን ጀምሮ ያመኛል»፣ «ትላንት ማታ አመመኝ» በማለት ጊዜን በግልጽ እንገልጻለን።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)' to the students."
+          "target": "ከባድ ጉንፋን ስለያዘኝ ብርዱ፣ ሳሉና ከፍተኛ ትኩሳቱ በጣም አዳከመኝ።",
+          "reading": "Käbbad gunfan səlähəyazäny bərdu, salunna käffətänya təkusatu bät’am adakkämäny. [kɛbːad ɡunˈfan sɨlɛjazoɲ bɨrˈdu saˈlunːa kɛfːɨˈtɛɲa tɨkuˈsatu bɛtʼam ʔadakːɛˈmɛɲ] (keb-BAHD goon-FAHN suh-leh-yah-ZENY bur-DOO, sah-LOON-nah kef-fuh-TEN-yah tuh-koo-SAH-too beh-T'AHM ah-dahk-keh-MENY)",
+          "translation": "Because a severe flu caught me, the chills, the coughing, and the high fever weakened me very much."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ልጁ «ሆዴን በጣም አመመኝ» እያለ ስለ አለቀሰ እናቱ በፍጥነት ወደ ክሊኒክ ወሰደችው።",
+          "reading": "Ləğu «Hoden bät’am amämmäny» əyalä səlä aläqqäsä ənatu bäfət’nät wädä klinik wässädäččəw. [lɨˈdʒu hoˈden bɛtʼam ʔamɛmːɛɲ ʔɨˈjalɛ sɨlɛ ʔalɛkʼːɛsɛ ʔɨˈnatu bɛfɨtʼˈnɛt wɛdɛ kliˈnik wɛsːɛˈdɛtʃːɨw] (luh-JOO «hoh-DAYN beh-T'AHM ah-mem-MENY» uh-YAH-leh suh-LEH ah-lek'-k'eh-SEH uh-NAH-too beh-fut'-NET weh-DEH klee-NEEK wes-seh-DEHCH-chew)",
+          "translation": "Because the boy cried saying 'My stomach hurts me very much', his mother quickly took him to the clinic."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ትላንትና ማታ ራሷን አሟት ስለነበር ዛሬ ወደ ሥራ ሳትሄድ ቤት ውስጥ አረፈች።",
+          "reading": "Təlantəna mata raswan amwat səlänäbbär zare wädä səra sathed bet wəst’ arräfäčč. [tɨlantɨˈna maˈta rasˈwan ʔamˈwat sɨlɛnɛbːɛr zaˈre wɛdɛ sɨra satˈhed bet wɨstʼ ʔarːɛˈfɛtʃː] (tuh-lahn-tuh-NAH mah-TAH rahs-WAHN ahm-WAHT suh-leh-neb-BER zah-RAY weh-DEH suh-RAH saht-HAYD bayt woos-T' ahr-reh-FEHCH)",
+          "translation": "Because she had a headache yesterday evening, she rested at home today without going to work."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Symptom Trio: ትኩሳት (Fever) + ሳል (Cough) + ጉንፋን (Flu) | Object + አመመኝ (It hurt me)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ የህመም ስሜትን ለመግለጽ ሰውየው ተሳቢ (Object Suffix - አመመኝ/አመመህ) ሆኖ ግሱ በረቂቅ ባለቤት መገለጹ የቋንቋው ልዩ ሰዋሰዋዊ ባህሪ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I have a headache» የሚለውን በአማርኛ ትክክለኛ የግስ አገባብ የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (10.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (10.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (10.2.w3)"
+            "ራሴን አመመኝ። (My head hurts me - Correct impersonal illness verb construction)",
+            "ራሴን በላሁ",
+            "ጭንቅላት የለኝም",
+            "ደስ አለኝ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ራሴን አመመኝ» የራስ ህመምን በትክክለኛው ሰዋሰዋዊ ቅርጽ ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u10-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'She has a high fever and cough' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (10.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (10.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (10.2.x3)"
+            "ከፍተኛ ትኩሳት እና ሳል አላት። (She has high fever and cough - Correct symptoms)",
+            "ትኩሳት የለም።",
+            "ውሃ ጠጣች።",
+            "ትምህርት ቤት ሄደች።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (10.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (10.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (10.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ከፍተኛ ትኩሳት እና ሳል አላት» ትኩሳትንና ሳልን በትክክል ይገልጻል።"
         }
       ]
     },
@@ -4737,24 +4690,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 10-2):",
+          "prompt": "የህመም ስሜቶችን እና ምልክቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (10.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (10.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (10.2.z3)"
+            "ትኩሳት፣ ሳል፣ ጉንፋን፣ የሆድ ቁርጠት እና ራስ ምታት።",
+            "ምግብ ማብሰል እና ቡና ማፍላት።",
+            "ታክሲ መሳፈር እና ትኬት መቁረጥ።",
+            "በአማርኛ የህመም ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የህመም ምልክቶችን በትክክል ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u10-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጤና፣»):",
+          "prompt": "'ትኩሳት / Fever' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጤና፣",
-            "ጤና"
+            "ትኩሳት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጤና፣» ነው።"
+          "explanation": "ትክክለኛው ቃል «ትኩሳት» (Təkusat) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4765,85 +4717,62 @@
     "subject": "amharic",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care) (ክፍል 3)",
+    "title": "በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinical Consultation & Diagnosis)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሰውነት ክፍሎች ስሞች፣ የህመም ስሜትን መግለጽ («ያመኛል» / «አመመኝ»)، እና በክሊኒክ የሚደረግ ውይይት። (ክፍል 3)።",
+    "objective": "በክሊኒክ ውስጥ ከሐኪም ጋር መወያየት፣ ምርመራ ማድረግን እና ምልክቶችን ማስረዳት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "በክሊኒክ እና በሆስፒታል ውስጥ የሚደረግ ተግባቦታዊ ንግግር:\n\n፩. የህክምና ባለሙያዎችና ተቋማት:\n- ሐኪም ወይም ዶክተር: ታካሚን የሚመረምርና መድኃኒት የሚያዝዝ ባለሙያ ነው።\n- ነርስ ወይም አስታማሚ: ለህሙማን አስፈላጊውን ክትትልና እንክብካቤ የምትሰጥ ባለሙያ ናት።\n- ክሊኒክ እና ጤና ጣቢያ: የመጀመሪያ ደረጃ ህክምና የሚሰጥባቸው ቦታዎች ናቸው።\n- ሆስፒታል: ከፍተኛ ምርመራና የቀዶ ህክምና አገልግሎት የሚሰጥበት ተቋም ነው።\n\n፪. የሐኪምና የታካሚ ውይይት:\n- ሐኪም: «ምን ሆንክ? ምን ዓይነት ህመም ይሰማሃል?» በማለት ይጠይቃል።\n- ታካሚ: «ከሁለት ቀን ጀምሮ ራሴንና ሆዴን በጣም ያመኛል» በማለት ይመልሳል።\n- ሐኪም: «ትክክለኛ ምርመራ ማድረግ አለብን፤ የላብራቶሪ ናሙና ስጥ» ይላል።\n\n፫. የላብራቶሪ ምርመራ አይነቶች:\n- የደም ምርመራ\n- የሽንት ምርመራ\n- የሰውነት ሙቀትና የደም ግፊት መለካት።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)' to the students."
+          "target": "ሐኪሙ ታካሚውን «ምን ዓይነት ህመም ይሰማሃል?» ብሎ በጥሞና ጠየቀው።",
+          "reading": "Hakimu takamiwən «Mən aynät həmmäm yəssämmahall?» bəlo bät’əmona t’äyyäqäw. [haˈkimu takamiˈwɨn mɨn ʔajˈnɛt hɨmːɛm jɨsːɛmːaˈhal bɨˈlo bɛtʼɨmoˈna tʼɛjːɛˈkʼɛw] (hah-KEE-moo tah-kah-MEE-wun «mun EYE-net hum-MEM yus-sem-mah-HAHL?» buh-LOH beh-t'uh-moh-NAH t'ey-yeh-K'EW)",
+          "translation": "The doctor attentively asked the patient: 'What kind of pain do you feel?'."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የላብራቶሪ ባለሙያው የደም ምርመራ ውጤቱን በግማሽ ሰዓት ውስጥ ለሐኪሙ አቀረበ።",
+          "reading": "Yälabratori balämuyaw yädäm mərmära wət’etun bägəmmaš sä'at wəst’ lälhakimu aqärräbä. [jɛlabratoˈri balɛmuˈjaw jɛdɛm mɨrmɛˈra wɨtʼeˈtun bɛɡɨmːaʃ sɛʔat wɨstʼ lɛlhaˈkimu ʔakʼɛrːɛˈbɛ] (yeh-lahb-rah-toh-REE bah-leh-moo-YOW yeh-DEM mur-meh-RAH wut'-AY-toon beh-gum-MAHSH seh-AHT woos-T' lel-hah-KEE-moo ah-k'er-reh-BEH)"
+          ,"translation": "The laboratory technician presented the blood test results to the doctor within half an hour."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ነርሷ የታካሚውን የሰውነት ሙቀት እና የደም ግፊት ለክታ በመዝገብ ላይ ጻፈች።",
+          "reading": "Närswa yätakamiwən yäsäwnät muqät ənna yädäm gəffit läkta bämäzgäb lay s’afäčč. [nɛrˈswa jɛtakamiˈwɨn jɛsɔwnɛt muˈkʼɛt ɨnːa jɛdɛm ɡɨfːit lɨkˈta bɛmɛzˈɡɛb laj sˤaˈfɛtʃː] (ner-SWAH yeh-tah-kah-MEE-wun yeh-sew-NET moo-K'ET un-nah yeh-DEM guf-FEET luk-TAH beh-mez-GEB lye ts'ah-FEHCH)",
+          "translation": "The nurse measured the patient's body temperature and blood pressure and wrote it in the registry."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Hospital Protocol: ሐኪም (Doctor) + ነርስ (Nurse) -> ምልክት (Symptoms) -> ምርመራ (Lab Test) -> ውጤት (Result)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ህሙማንን ለመጠየቅ ወደ ሆስፒታል ወይም ቤት መሄድ ትልቅ ማህበራዊ ግዴታ ሲሆን፣ ጎብኚዎች 'እግዚአብሔር ምህረቱን ያውርድልህ/ያውርድልሽ' በማለት ያጽናናሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ሐኪሙ ታካሚውን ለመመርመር ምን አይነት ጥያቄ ይጠይቃል?",
           "options": [
-            "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (10.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (10.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (10.3.w3)"
+            "ምን ያመሃል / ምን ሆንክ? (What hurts you? / What's wrong? - Standard medical inquiry)",
+            "የት ልትጓዝ ነው?",
+            "ታሪፉ ስንት ነው?",
+            "ስምህ ማን ነው?"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ምን ያመሃል?» ሐኪሙ የህመም ምልክቶችን ለመረዳት የሚጠይቀው ዋነኛ ጥያቄ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u10-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The doctor ordered a blood test for the patient' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (10.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (10.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (10.3.x3)"
+            "ሐኪሙ ለታካሚው የደም ምርመራ አዘዘ። (The doctor ordered a blood test for the patient - Accurate clinical statement)",
+            "ሐኪሙ መኪና ገዛ።",
+            "ታካሚው ሮጦ ሄደ።",
+            "ምንም ምርመራ አያስፈልግም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (10.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (10.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (10.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ዓረፍተ ነገር ሐኪምን፣ ታካሚንና የደም ምርመራን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -4851,24 +4780,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 10-3):",
+          "prompt": "የክሊኒክና የሆስፒታል አገልግሎቶችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (10.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (10.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (10.3.z3)"
+            "ሐኪም ታካሚውን መረመረ፣ ነርሷ የደም ግፊት ለካች፣ የላብራቶሪ ምርመራም ተከናወነ።",
+            "በሆስፒታል ውስጥ ጨዋታ ብቻ ይካሄዳል።",
+            "ምርመራ ማድረግ የተከለከለ ነው።",
+            "በአማርኛ ሐኪም አይባልም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የተሟላ የክሊኒክ ምርመራ ሂደትን ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u10-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጤና፣»):",
+          "prompt": "'ሐኪም / Doctor, physician' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጤና፣",
-            "ጤና"
+            "ሐኪም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጤና፣» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሐኪም» (Hakim) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4879,85 +4807,62 @@
     "subject": "amharic",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care) (ክፍል 4)",
+    "title": "መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy, Prescriptions & Dosage)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሰውነት ክፍሎች ስሞች፣ የህመም ስሜትን መግለጽ («ያመኛል» / «አመመኝ»)، እና በክሊኒክ የሚደረግ ውይይት። (ክፍል 4)።",
+    "objective": "መድኃኒት መግዛት፣ የመድኃኒት አወሳሰድ መመሪያዎችን (ከምግብ በፊት/በኋላ፣ በቀን ሦስት ጊዜ) መረዳትና መተግበር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "መድኃኒት ቤት እና የመድኃኒት አወሳሰድ መመሪያዎች:\n\n፩. የመድኃኒት አይነቶችና ክፍሎች:\n- መድኃኒት ቤት ወይም ፋርማሲ: መድኃኒቶች የሚሸጡበት መደብር ነው።\n- መድኃኒት: በሽታን ለማከምና ጤናን ለመመለስ የሚያገለግል ፈውስ ነው።\n- ክኒን: በውሃ የሚዋጥ ጠንካራ የመድኃኒት ዓይነት ነው።\n- ሽሮፕ: በፈሳሽ መልክ የሚዘጋጅና በማንኪያ የሚወሰድ መድኃኒት ነው።\n- የሐኪም ማዘዣ ወረቀት: ሐኪሙ የመድኃኒቱን ስምና መጠን ጽፎ የሚሰጠው ሰነድ ነው።\n\n፪. የአወሳሰድ መመሪያዎች:\n- ከምግብ በፊት: ሆድ ባዶ በሚሆንበት ጊዜ የሚወሰድ\n- ከምግብ በኋላ: ከተመገቡ በኋላ የሚወሰድ\n- በቀን ሦስት ጊዜ: በየስምንት ሰዓቱ ልዩነት የሚወሰድ\n- በቂ ዕረፍት ማድረግና ብዙ ውሃ መጠጣት።\n\n፫. የማህበረሰብ መልካም ምኞት:\n- «እግዚአብሔር ምህረቱን ያውርድልህ/ያውርድልሽ!» በማለት ለታካሚው ፈጣን ፈውስ ይመኛሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)' to the students."
+          "target": "የመድኃኒት ባለሙያው «ይህን ክኒን ከምግብ በኋላ በቀን ሦስት ጊዜ ውሰድ» ብሎ መከረኝ።",
+          "reading": "Yämädanit balämuyaw «Yəhən knin käməgəb bähwala bäqän sost gize wəsäd» bəlo mäkkäräny. [jɛmɛdaˈnit balɛmuˈjaw jɨˈhɨn kɨˈnin kɛmɨˈɡɨb bɛhʷaˈla bɛkʼɛn sost ɡiˈze wɨˈsɛd bɨˈlo mɛkːɛˈrɛɲ] (yeh-meh-dah-NEET bah-leh-moo-YOW «yuh-HIN kuh-NEEN keh-muh-GUB beh-hwah-LAH beh-K'EN sohst gee-ZAY wuh-SED» buh-LOH mek-keh-RENY)",
+          "translation": "The pharmacist advised me: 'Take this pill three times a day after meals'."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የሐኪሙን ማዘዣ ወረቀት በመያዝ ወደ መድኃኒት ቤት ሄደን የታዘዘውን ሽሮፕ ገዛን።",
+          "reading": "Yähakimun mažäža wäräqät bämäyyaz wädä mädanit bet hedän yättazzäzäwən širop gäzzan. [jɛhakiˈmun mazɛˈʒa wɛrɛˈkʼɛt bɛmɛjːaz wɛdɛ mɛdaˈnit bet heˈdɨn jɛtːazːɛˈzɛwɨn ʃiˈrop ɡɛzːan] (yeh-hah-KEE-moon mah-zeh-ZHAH weh-reh-K'ET beh-mey-YAHZ weh-DEH meh-dah-NEET bayt hay-DUN yeh-tahz-zeh-ZEW-un shee-ROHP gez-ZAHN)",
+          "translation": "Holding the doctor's prescription paper, we went to the pharmacy and bought the prescribed syrup."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "መድኃኒቱን በሰዓቱ ወስዶ በቂ ዕረፍት በማድረጉ ምክንያት በፍጥነት ከህመሙ ዳነ።",
+          "reading": "Mädanitun bäsä'atu wäsdo bäqi ərəft bämadrägu məkənyat bäfət’nät kähəmmämu danä. [mɛdaˈnitun bɛsɛʔaˈtu wɛsˈdo bɛˈkʼi ʔɨrɨft bɛmadˈrɛɡu mɨkɨnˈjat bɛfɨtʼˈnɛt kɛhɨmːɛˈmu daˈnɛ] (meh-dah-NEE-toon beh-seh-ah-TOO wes-DOH beh-K'EE uh-RUFT beh-mahd-reh-GOO muh-kun-YAHT beh-fut'-NET keh-hum-meh-MOO dah-NEH)",
+          "translation": "Because he took the medicine on time and had sufficient rest, he recovered quickly from his illness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Rx Rules: ማዘዣ (Prescription) -> ክኒን/ሽሮፕ (Pills/Syrup) -> ከምግብ በኋላ (After food) -> ምህረቱን ያውርድልህ!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ ውስጥ ታካሚ ሲድን 'እግዚአብሔር ይመስገን ዳንኩ' (Thank God I recovered) ማለት የተለመደ የምስጋና ባህል ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Take one pill after meals» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (10.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (10.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (10.4.w3)"
+            "ከምግብ በኋላ አንድ ክኒን ውሰድ/ውሰጂ። (Take one pill after meals - Correct dosage command)",
+            "ከምግብ በፊት ሩጥ",
+            "መድኃኒት አትውሰድ",
+            "ክኒን አትግዛ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ከምግብ በኋላ አንድ ክኒን ውሰድ» ትክክለኛውን የአወሳሰድ መመሪያ ይገልጻል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u10-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'He bought the prescribed medicine from the pharmacy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (10.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (10.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (10.4.x3)"
+            "የታዘዘውን መድኃኒት ከመድኃኒት ቤት ገዛ። (He bought the prescribed medicine from the pharmacy - Accurate pharmacy transaction)",
+            "መድኃኒት ቤት አልሄደም።",
+            "ክሊኒኩ ተዘጋ።",
+            "ምንም ህመም የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (10.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (10.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (10.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ዓረፍተ ነገር መድኃኒት መግዛትን በትክክል ያሳያል።"
         }
       ]
     },
@@ -4965,24 +4870,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 10-4):",
+          "prompt": "የመድኃኒት አወሳሰድ መመሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (10.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (10.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (10.4.z3)"
+            "የሐኪም ማዘዣ፣ ክኒን፣ ሽሮፕ፣ እንዲሁም ከምግብ በፊት ወይም በኋላ መውሰድ።",
+            "መድኃኒት በጨለማ መወርወር።",
+            "በአማርኛ መድኃኒት አይሸጥም።",
+            "ክኒን ማለት ምግብ ማለት ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የመድኃኒት አወሳሰድ ስርዓትን በሙሉ ያጠቃልላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u10-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጤና፣»):",
+          "prompt": "'መድኃኒት / Medicine, medication' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጤና፣",
-            "ጤና"
+            "መድኃኒት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጤና፣» ነው።"
+          "explanation": "ትክክለኛው ቃል «መድኃኒት» (Mädanit) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4993,85 +4897,62 @@
     "subject": "amharic",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care) (ክፍል 5)",
+    "title": "የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand Synthesis & Medical Consultation Discourse)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሰውነት ክፍሎች ስሞች፣ የህመም ስሜትን መግለጽ («ያመኛል» / «አመመኝ»)، እና በክሊኒክ የሚደረግ ውይይት። (ክፍል 5)።",
+    "objective": "የሰውነት ክፍሎችን፣ የህመም ስሜትን፣ የክሊኒክ ምርመራንና የመድኃኒት አወሳሰድን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲ አጠቃላይ ሰዋሰዋዊ ውህደት እና የጤና ተግባቦት ማጠቃለያ:\n\n፩. የሰውነት ክፍሎች መጠሪያዎች:\n- ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ ጥርስ፣ አንገት፣ እጅ፣ እግር፣ ሆድ፣ ደረት፣ ጀርባ እና ልብ።\n\n፪. የህመም ስሜት መግለጫዎች:\n- አመመኝ፣ አመመህ፣ አመመሽ፣ አመመው፣ አመማት፣ አመመን፤ ትኩሳት፣ ሳል፣ ጉንፋን፣ ራስ ምታት።\n\n፫. በክሊኒክ እና በሆስፒታል ውስጥ የሚደረግ ተግባቦት:\n- ሐኪም፣ ነርስ፣ ታካሚ፣ ክሊኒክ፣ ሆስፒታል፣ የደም ምርመራ፣ የላብራቶሪ ውጤት።\n\n፬. መድኃኒት ቤት እና የአወሳሰድ መመሪያዎች:\n- ማዘዣ ወረቀት፣ ክኒን፣ ሽሮፕ፣ ከምግብ በፊት ወይም በኋላ፣ በቀን ሦስት ጊዜ፣ ምህረቱን ያውርድልህ!",
       "examples": [
         {
-          "target": "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)' to the students."
+          "target": "ታካሚው ወደ ክሊኒክ ሄዶ ሐኪሙን አማከረ፤ የደም ምርመራ ተደርጎለት መድኃኒት ታዘዘለት።",
+          "reading": "Takamiw wädä klinik hedo hakimun amakkärä; yädäm mərmära tädärgolät mädanit tazzäzälät. [takamiw wɛdɛ kliˈnik heˈdo hakiˈmun ʔamakːɛˈrɛ jɛdɛm mɨrmɛˈra tɛdɛrɡoˈlɛt mɛdaˈnit tazːɛzɛˈlɛt] (tah-kah-MEE-w weh-DEH klee-NEEK hay-DOH hah-KEE-moon ah-mahk-keh-REH; yeh-DEM mur-meh-RAH teh-der-goh-LET meh-dah-NEET tahz-zeh-zeh-LET)",
+          "translation": "The patient went to the clinic and consulted the doctor; blood tests were performed for him and medicine was prescribed for him."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የመድኃኒት ባለሙያው መመሪያዎችን በግልጽ አስረድቶ «ምህረቱን ያውርድልህ» በማለት ሸኘው።",
+          "reading": "Yämädanit balämuyaw mäməriyawoččən bäğəlts asrädto «Məhrätun yawrədələh» bämallät šänyäw. [jɛmɛdaˈnit balɛmuˈjaw mɛmɨrijaˈwotʃːɨn bɛɡɨlts ʔasˈrɛdto mɨhrɛˈtun jawrɨdɨˈlɨh bɛmaˈlɛt ʃɛˈɲɛw] (yeh-meh-dah-NEET bah-leh-moo-YOW meh-muh-ree-yah-wohch-CHUN beh-GULTS ahs-red-TOH «muh-ruh-TOON yahw-ruh-duh-LUH» beh-mah-LET shen-YEW)",
+          "translation": "The pharmacist clearly explained the instructions and saw him off saying 'May God send His healing to you!'."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ትክክለኛ የጤና እንክብካቤ እና በወቅቱ መታከም የሰዎችን ህይወት ይታደጋል።",
+          "reading": "Təkəkkəlänya yät’enna ənkəbəkkabbe ənna bäwäqtu mättakäm yäsäwoččən həywät yəttadägall. [tɨkɨkːɨˈlɛɲa jɛtʼenːa ʔɨnkɨbɨkːaˈbe ɨnːa bɛwɛkʼˈtu mɛtːaˈkɛm jɛsɛwoˈtʃːɨn hɨjˈwɛt jɨtːaˈdɛɡal] (tuh-kuhk-kuh-LEN-yah yeh-t'ayn-NAH un-kuh-buhk-kah-BAY un-nah beh-wehk'-TOO met-tah-KEM yeh-sew-wohch-CHUN huy-WET yut-tah-deh-GAHL)",
+          "translation": "Proper healthcare and timely medical treatment save people's lives."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Healthcare Cycle: Body Parts (ሰውነት) -> Sickness (አመመኝ) -> Clinic (ምርመራ) -> Rx (መድኃኒት) -> Recovery (ጤና)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበረሰብ ውስጥ 'ጤና ይስጥልኝ' (May He grant you health) የሚለው የሰላምታ ቃል ጤና የሁሉ ነገር መሰረት መሆኑን ያንጸባርቃል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የጤና እና የህክምና ሂደት የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (10.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (10.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (10.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (10.5.w3)"
+            "ህመም ሲሰማን ወደ ክሊኒክ ሄደን በሐኪም ተመርምረን መድኃኒት እንወስዳለን። (Complete clinical consultation sequence)",
+            "ምንም ህመም የለም",
+            "መድኃኒት አንወድም",
+            "ሆስፒታል አንሄድም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ህመምን፣ ክሊኒክ መሄድን፣ ምርመራንና መድኃኒት መውሰድን በትክክል ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u10-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ምርመራን፣ መድኃኒትንና ፈውስን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (10.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (10.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (10.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (10.5.x3)"
+            "ሐኪሙ መርምሮ መድኃኒት አዘዘልኝ፤ እኔም በፍጥነት ዳንኩ። (The doctor examined and prescribed medicine for me; I quickly recovered - Integrated sentence)",
+            "መድኃኒት አልገዛሁም።",
+            "ክሊኒኩ ሩቅ ነው።",
+            "ትላንትና ታክሲ ተሳፈርኩ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ጤና፣ ህመም እና የህክምና አገልግሎት (Health & Medical Care)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (10.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (10.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (10.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (10.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ምርመራን፣ መድኃኒትንና መዳንን በአንድነት ይዟል።"
         }
       ]
     },
@@ -5079,24 +4960,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 10-5):",
+          "prompt": "የክፍል 10 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (10.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (10.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (10.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (10.5.z3)"
+            "የሰውነት ክፍሎች፣ የህመም ስሜት መግለጽ (አመመኝ)፣ የክሊኒክና የሆስፒታል ምርመራ፣ እንዲሁም መድኃኒት ቤትና የአወሳሰድ መመሪያዎች ተካተዋል።",
+            "ይህ ክፍል ስለ ቤተሰብ ብቻ ነው።",
+            "በአማርኛ የጤና ቃላት የሉም።",
+            "ሁሉም የሰውነት ክፍሎች አንድ ስም አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 10ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u10-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ጤና፣»):",
+          "prompt": "'ጤና / Health' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ጤና፣",
             "ጤና"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ጤና፣» ነው።"
+          "explanation": "ትክክለኛው ቃል «ጤና» (T'enna) ነው።"
         }
       ],
       "passThreshold": 0.8
