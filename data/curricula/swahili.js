@@ -2945,53 +2945,62 @@
     "subject": "swahili",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 1)",
+    "title": "Ukanushaji wa Wakati Uliopo (Present Tense Negation: ha-...-i, si-)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.1) with authentic precision.",
+    "objective": "Kuelewa kanuni za ukanushaji katika Wakati Uliopo: kubadilisha viambishi nafsi kuwa viambishi hasi (si-, hu-, ha-, hatu-, ham-, hawa-), kuondoa kiambishi cha wakati '-na-', na kubadili irabu ya mwisho '-a' kuwa '-i' kwa vitenzi vya asili ya Kibantu.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ukanushaji wa Wakati Uliopo katika Kiswahili (Present Tense Negation: ha-...-i / si-):\n\n1. **Kanuni Kuu Tatu za Ukanushaji wa Wakati Uliopo**:\n   - **Hatua ya 1 (Viambishi Hasi vya Nafsi)**: *ni-* -> **si-**, *u-* -> **hu-**, *a-* -> **ha-**, *tu-* -> **hatu-**, *m-* -> **ham-**, *wa-* -> **hawa-**.\n   - **Hatua ya 2 (Kuondoa Kiambishi cha Wakati)**: Kiambishi **-na- hufutwa kabisa** (hakuna kiambishi cha wakati kinachobaki).\n   - **Hatua ya 3 (Mabadiliko ya Irabu ya Mwisho)**: Irabu ya mwisho ya shina la Kibantu **-a hubadilika kuwa -i** (*soma* -> *somi*, *pika* -> *piki*).\n   - *Kumbuka*: Vitenzi vya asili ya kigeni/Kiarabu vinavyoishia na *-e, -i, -u* **havibadiliki irabu zake za mwisho** (*safiri* -> *sisafiri*, *fahamu* -> *hafahamu*, *jibu* -> *hajibu*).\n\n2. **Mnyambuliko Kamili wa Nafsi Zote (Present Negation Paradigm)**:\n   - *ninasoma* -> **sisomi** (I am not reading)\n   - *unasoma* -> **husomi** (you are not reading)\n   - *anasoma* -> **hasomi** (he/she is not reading)\n   - *tunasoma* -> **hatusomi** (we are not reading)\n   - *mnasoma* -> **hamsomi** (you all are not reading)\n   - *wanasoma* -> **hawasomi** (they are not reading)\n\n3. **Vitenzi vya Silabi Moja (Monosyllabic Verbs)**:\n   - Hupoteza kiambishi 'ku-': *kula* -> **sili**, *kunywa* -> **hunywi**, *kuja* -> **haji**, *kwenda* -> **haendi**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 7."
+          "target": "Mimi sisomi gazeti sasa hivi kwa sababu ninaandika barua pepe ya dharura.",
+          "reading": "Mi-mi si-so-mi ga-ze-ti sa-sa hi-vi kwa sa-ba-bu ni-na-a-ndi-ka ba-ru-a pe-pe ya dha-ru-ra. [ˈmimi siˈsɔmi ɡɑˈzɛti ˈsɑsɑ ˈhivi kwɑ sɑˈbɑbu ninɑɑnˈdikɑ bɑˈruɑ ˈpɛpɛ jɑ ðɑˈrurɑ] (MEE-mee see-SOH-mee gah-ZAY-tee SAH-sah HEE-vee kwah sah-BAH-boo nee-nah-ahn-DEE-kah bah-ROO-ah PAY-pay yah thah-ROO-rah)",
+          "translation": "I am not reading [negated present 1st person: sisomi] the newspaper right now because I am writing an urgent email."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 7-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi hawa hawali chakula darasani na hawanywi maji wakati wa mtihani.",
+          "reading": "Wa-na-fu-nzi ha-wa ha-wa-li cha-ku-la da-ra-sa-ni na ha-wa-nywi ma-ji wa-ka-ti wa mti-ha-ni. [wɑnɑˈfunzi ˈhɑwɑ hɑˈwɑli tʃɑˈkulɑ dɑrɑˈsɑni nɑ hɑˈwɑɲwi ˈmɑʤi wɑˈkɑti wɑ mtiˈhɑni] (wah-nah-FOON-zee HAH-wah hah-WAH-lee chah-KOO-lah dah-rah-SAH-nee nah hah-WAH-nywee MAH-jee wah-KAH-tee wah m-tee-HAH-nee)",
+          "translation": "These students do not eat [negated present monosyllabic -la: hawali] food in class and do not drink [negated present monosyllabic -nywa: hawanywi] water during the exam."
+        },
+        {
+          "target": "Yeye hasafiri leo kwa sababu anafanya kazi ofisini hadi jioni.",
+          "reading": "Ye-ye ha-sa-fi-ri le-o kwa sa-ba-bu a-na-fa-nya ka-zi o-fi-si-ni ha-di ji-o-ni. [ˈjɛjɛ hɑsɑˈfiri ˈlɛɔ kwɑ sɑˈbɑbu ɑnɑˈfɑɲɑ ˈkɑzi ɔfiˈsini ˈhɑdi ʤiˈɔni] (YAY-yay hah-sah-FEE-ree LAY-oh kwah sah-BAH-boo ah-nah-FAH-nyah KAH-zee oh-fee-SEE-nee HAH-dee jee-OH-nee)",
+          "translation": "He is not traveling [negated present Arabic loan verb ending in -i: hasafiri] today because he is working in the office until evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ukanushaji Wakati Uliopo: Si- / Hu- / Ha- / Hatu- / Ham- / Hawa-, tupa -NA-, badili -A kuwa -I (sisomi, husomi, hasomi)!"
+      ],
+      "culturalNotes": [
+        "Katika lugha ya heshima ya Kiswahili, kukataa au kukanusha jambo huanza na kauli ya staha kama 'Samahani, sifahamu' (Excuse me, I do not understand) au 'La asante, sili sasa' (No thank you, I am not eating now)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Duka\":",
+          "prompt": "Unapokanusha sentensi \"Mimi ninasoma kitabu\" katika wakati uliopo, muundo sahihi ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pesa»",
-            "Mpangilio usio sahihi wa viambishi katika «Bei»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Punguzo»"
+            "Mimi sisomi kitabu. (I am not reading a book - Correct present tense negation with 'si-...-i')",
+            "Mimi sinasoma kitabu (Kosa la kubakiza kiambishi '-na-')",
+            "Mimi nisomi kitabu (Kosa la kutobadili kiambishi nafsi kuwa hasi)",
+            "Mimi hasomi kitabu (Kosa la kutumia kiambishi cha nafsi ya tatu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Katika ukanushaji wa wakati uliopo kwa nafsi ya kwanza (Mimi), «ni-» inakuwa «si-», «-na-» inafutwa, na «-a» inakuwa «-i»: «sisomi»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Duka\":",
+          "prompt": "Sentensi ipi inakanusha tendo la kula (kitenzi cha silabi moja) katika wakati uliopo kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Bei»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Punguzo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pesa»"
+            "Mtoto hali chakula kwa sababu anajisikia vibaya. (The child is not eating food because he feels unwell - Correct monosyllabic negation 'hali')",
+            "Mtoto hakula chakula sasa hivi (Wakati uliopita badala ya uliopo)",
+            "Mtoto hanakula chakula mezani (Kosa la kuweka -na- na -ku-)",
+            "Mtoto hasomi chakula leo (Kitenzi kisicho na maana katika muktadha)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «kula» katika ukanushaji wa wakati uliopo kinapoteza «ku-» na kubadili «-a» kuwa «-i»: «hali»."
         }
       ]
     },
@@ -2999,17 +3008,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Duka\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni sahihi inayotawala ukanushaji wa wakati uliopo katika lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Punguzo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pesa»",
-            "Mpangilio usio sahihi wa viambishi katika «Bei»"
+            "Kiambishi cha wakati '-na-' hufutwa kabisa, viambishi nafsi hasi hutumika (si-, hu-, ha-, hatu-, ham-, hawa-), na irabu ya mwisho '-a' hubadilika kuwa '-i' kwa vitenzi vya Kibantu. (Tense marker -na- is dropped, negative subject prefixes are used, and final -a becomes -i for Bantu verbs.)",
+            "Kiambishi '-na-' hubadilishwa kuwa '-li-'.",
+            "Vitenzi vyote huongezewa herufi 'z' mwishoni.",
+            "Ukanushaji wa wakati uliopo unaweka neno 'hapana' katikati ya kitenzi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kiambishi cha wakati '-na-' hufutwa kabisa, viambishi nafsi hasi hutumika (si-, hu-, ha-, hatu-, ham-, hawa-), na irabu ya mwisho '-a' hubadilika kuwa '-i' kwa vitenzi vya Kibantu.» ndiyo kanuni kuu ya sarufi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u7-l2": {
@@ -3017,53 +3027,62 @@
     "subject": "swahili",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 2)",
+    "title": "Ukanushaji wa Wakati Uliopita (Past Tense Negation: ha-...-ku-)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.2) with authentic precision.",
+    "objective": "Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita: kubadilisha kiambishi cha wakati '-li-' kuwa '-ku-', kutumia viambishi hasi vya nafsi (si-, hu-, ha-, hatu-, ham-, hawa-), na kuhifadhi irabu ya asili ya kitenzi bila kuibadilisha.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ukanushaji wa Wakati Uliopita katika Kiswahili (Past Tense Negation: ha-...-ku- / si-...-ku-):\n\n1. **Kanuni Kuu za Ukanushaji wa Wakati Uliopita**:\n   - **Hatua ya 1 (Viambishi Hasi vya Nafsi)**: *ni-* -> **si-**, *u-* -> **hu-**, *a-* -> **ha-**, *tu-* -> **hatu-**, *m-* -> **ham-**, *wa-* -> **hawa-**.\n   - **Hatua ya 2 (Kiambishi cha Ukanusho wa Wakati Uliopita)**: Kiambishi **-li- hubadilishwa na kuwa -ku-**.\n   - **Hatua ya 3 (Irabu ya Mwisho)**: Irabu ya mwisho ya shina la kitenzi **haibadiliki kamwe (inabaki -a)** (*soma* -> *sikusoma*).\n\n2. **Mnyambuliko Kamili wa Nafsi Zote (Past Negation Paradigm)**:\n   - *nilisoma* -> **sikusoma** (I did not read)\n   - *ulisoma* -> **hukusoma** (you did not read)\n   - *alisoma* -> **hakusoma** (he/she did not read)\n   - *tulisoma* -> **hatukusoma** (we did not read)\n   - *mlisoma* -> **hamkusoma** (you all did not read)\n   - *walisoma* -> **hawakusoma** (they did not read)\n\n3. **Vitenzi vya Silabi Moja (Monosyllabic Verbs)**:\n   - Hupoteza kiambishi 'ku-' cha infinitive kwa sababu kiambishi cha ukanusho '-ku-' kinachukua nafasi yake: *kula* -> **sikula**, *kunywa* -> **hakunywa**, *kuja* -> **hawakuja**, *kwenda* -> **hatukwenda**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 7."
+          "target": "Jana mimi sikwenda sokoni na sikununua matunda kwa sababu mvua kubwa ilinyesha.",
+          "reading": "Ja-na mi-mi si-kwe-nda so-ko-ni na si-ku-nu-nua ma-tu-nda kwa sa-ba-bu mvu-a mku-bwa i-li-nye-sha. [ˈʤɑnɑ ˈmimi siˈkwɛndɑ sɔˈkɔni nɑ sikunuˈnuɑ mɑˈtundɑ kwɑ sɑˈbɑbu ˈmvuɑ mˈkubwɑ ilinɲɛˈʃɑ] (JAH-nah MEE-mee see-KWAYN-dah soh-KOH-nee nah see-koo-NOO-noo-ah mah-TOON-dah kwah sah-BAH-boo MVOO-ah M-KOO-bwah ee-lee-NYAY-shah)",
+          "translation": "Yesterday I did not go [negated past monosyllabic: sikwenda] to the market and did not buy [negated past 1st person: sikununua] fruits because heavy rain fell."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 7-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wageni hawakuja jana jioni wala hawakula chakula tulichowaandalia.",
+          "reading": "Wa-ge-ni ha-wa-ku-ja ja-na ji-o-ni wa-la ha-wa-ku-la cha-ku-la tu-li-cho-wa-a-nda-li-a. [wɑˈɡɛni hɑwɑˈkuʤɑ ˈʤɑnɑ ʤiˈɔni ˈwɑlɑ hɑwɑˈkulɑ tʃɑˈkulɑ tulitʃɔwɑɑndɑˈliɑ] (wah-GAY-nee hah-wah-KOO-jah JAH-nah jee-OH-nee WAH-lah hah-wah-KOO-lah chah-KOO-lah too-lee-choh-wah-ahn-dah-LEE-ah)",
+          "translation": "The guests did not come [negated past monosyllabic: hawakuja] yesterday evening nor did they eat [negated past monosyllabic: hawakula] the food we prepared for them."
+        },
+        {
+          "target": "Sisi hatukusahau ahadi yetu na hatukufika kwa kuchelewa mkutanoni.",
+          "reading": "Si-si ha-tu-ku-sa-hau a-ha-di ye-tu na ha-tu-ku-fi-ka kwa ku-che-le-wa mku-ta-no-ni. [ˈsisi hɑtukuˈsɑhɑu ɑˈhɑdi ˈjɛtu nɑ hɑtukuˈfikɑ kwɑ kutʃɛˈlɛwɑ mkutɑˈnɔni] (SEE-see hah-too-koo-SAH-hah-oo ah-HAH-dee YAY-too nah hah-too-koo-FEE-kah kwah koo-chay-LAY-wah m-koo-tah-noh-NEE)",
+          "translation": "We did not forget [negated past 1st plural: hatukusahau] our promise and did not arrive [negated past 1st plural: hatukufika] late to the meeting."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ukanushaji Wakati Uliopita: Badili -LI- kuwa -KU-, acha irabu ya mwisho kama ilivyo (sikusoma, hukusoma, hakusoma, hatukusoma)!"
+      ],
+      "culturalNotes": [
+        "Ukanushaji wa wakati uliopita hutumiwa sana katika masimulizi ya kihistoria na shuhuda za kimahakama na kiserikali katika nchi za Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Pesa\":",
+          "prompt": "Unapokanusha kauli \"Sisi tulisoma makala ile jana\", muundo sahihi wa wakati uliopita ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bei»",
-            "Mpangilio usio sahihi wa viambishi katika «Punguzo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Risiti»"
+            "Sisi hatukusoma makala ile jana. (We did not read that article yesterday - Correct past tense negation with 'hatu-ku-soma')",
+            "Sisi hatulisoma makala ile jana (Kosa la kubakiza kiambishi '-li-')",
+            "Sisi hatukusomi makala ile jana (Kosa la kubadili irabu kuwa '-i' katika wakati uliopita)",
+            "Sisi sikusoma makala ile jana (Kosa la upatanisho wa nafsi ya kwanza umoja badala ya wingi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Katika wakati uliopita, «tuli-» inabadilika kuwa «hatuku-» na shina linabaki «soma»: «hatukusoma»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Pesa\":",
+          "prompt": "Mtu anapoulizwa kama alikunywa chai jana asubuhi na akajibu hapana, anasema nini kwa Kiswahili fasaha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Punguzo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Risiti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bei»"
+            "Sikunywa chai jana asubuhi. (I did not drink tea yesterday morning - Correct past monosyllabic negation 'si-ku-nywa')",
+            "Sikukunywa chai jana asubuhi (Kosa la kurudia kiambishi cha 'ku')",
+            "Sinakunywa chai jana asubuhi (Kosa la wakati uliopo)",
+            "Sitakunywa chai jana asubuhi (Kosa la wakati ujao na 'jana')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «kunywa» katika ukanusho wa wakati uliopita kinakuwa «sikunywa» (hakirudii 'ku' mara mbili)."
         }
       ]
     },
@@ -3071,17 +3090,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Pesa\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha kanuni kamili na sahihi ya ukanushaji wa wakati uliopita katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Risiti»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bei»",
-            "Mpangilio usio sahihi wa viambishi katika «Punguzo»"
+            "Katika wakati uliopita, kiambishi '-li-' hubadilishwa na kuwa kiambishi '-ku-', viambishi hasi vya nafsi hutumika, na irabu ya mwisho ya kitenzi haibadiliki kamwe. (In past tense negation, -li- becomes -ku-, negative subject prefixes are prefixed, and the final vowel never changes.)",
+            "Katika wakati uliopita, kitenzi hupoteza silabi zote.",
+            "Wakati uliopita unakataza matumizi ya kiambishi '-ku-'.",
+            "Kitenzi cha wakati uliopita hubadilika kuwa nomino kinapokanushwa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Katika wakati uliopita, kiambishi '-li-' hubadilishwa na kuwa kiambishi '-ku-', viambishi hasi vya nafsi hutumika, na irabu ya mwisho ya kitenzi haibadiliki kamwe.» ndiyo kanuni halisi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u7-l3": {
@@ -3089,53 +3109,62 @@
     "subject": "swahili",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 3)",
+    "title": "Ukanushaji wa Wakati Ujao (Future Tense Negation: ha-...-ta-)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.3) with authentic precision.",
+    "objective": "Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao: kiambishi cha wakati '-ta-' hubakia bila mabadiliko, viambishi hasi vya nafsi hutumika mwanzoni, na vitenzi vya silabi moja huhifadhi kiambishi cha 'ku-'.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ukanushaji wa Wakati Ujao katika Kiswahili (Future Tense Negation: ha-...-ta- / si-...-ta-):\n\n1. **Kanuni Kuu za Ukanushaji wa Wakati Ujao**:\n   - **Hatua ya 1 (Viambishi Hasi vya Nafsi)**: *ni-* -> **si-**, *u-* -> **hu-**, *a-* -> **ha-**, *tu-* -> **hatu-**, *m-* -> **ham-**, *wa-* -> **hawa-**.\n   - **Hatua ya 2 (Kiambishi cha Wakati Ujao)**: Kiambishi **-ta- kinabaki vile vile bila kubadilika wala kufutwa**!\n   - **Hatua ya 3 (Irabu ya Mwisho)**: Irabu ya mwisho ya shina la kitenzi **haibadiliki (inabaki -a)** (*soma* -> *sitasoma*).\n\n2. **Mnyambuliko Kamili wa Nafsi Zote (Future Negation Paradigm)**:\n   - *nitasoma* -> **sitasoma** (I will not read)\n   - *utasoma* -> **hutasoma** (you will not read)\n   - *atasoma* -> **hatasoma** (he/she will not read)\n   - *tutasoma* -> **hatutasoma** (we will not read)\n   - *mtasoma* -> **hamtasoma** (you all will not read)\n   - *watasoma* -> **hawatasooma -> hawatasoma** (they will not read)\n\n3. **Vitenzi vya Silabi Moja (Monosyllabic Verbs in Future Negation)**:\n   - **Huhifadhi kiambishi 'ku-'**: *kula* -> **sitakula**, *kunywa* -> **hatakunywa**, *kuja* -> **hawatakuja**, *kwenda* -> **hatutakwenda**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 7."
+          "target": "Kesho mimi sitasafiri kwenda mbali na sitakula chakula cha mkahawani.",
+          "reading": "Ke-sho mi-mi si-ta-sa-fi-ri kwe-nda mba-li na si-ta-ku-la cha-ku-la cha mka-ha-wa-ni. [ˈkɛʃɔ ˈmimi sitɑsɑˈfiri ˈkwɛndɑ ˈmbɑli nɑ sitɑˈkulɑ tʃɑˈkulɑ tʃɑ mkɑhɑˈwɑni] (KAY-shoh MEE-mee see-tah-sah-FEE-ree KWAYN-dah M-BAH-lee nah see-tah-KOO-lah chah-KOO-lah chah m-kah-hah-wah-NEE)",
+          "translation": "Tomorrow I will not travel [negated future 1st person: sitasafiri] far and will not eat [negated future monosyllabic: sitakula] restaurant food."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 7-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi hawatachelewa kufika shuleni na hawatakosa kipindi cha kwanza.",
+          "reading": "Wa-na-fu-nzi ha-wa-ta-che-le-wa ku-fi-ka shu-le-ni na ha-wa-ta-ko-sa ki-pi-ndi cha kwa-nza. [wɑnɑˈfunzi hɑwɑtɑtʃɛˈlɛwɑ kuˈfikɑ ʃuˈlɛni nɑ hɑwɑtɑˈkɔsɑ kiˈpindi tʃɑ ˈkwɑnzɑ] (wah-nah-FOON-zee hah-wah-tah-chay-LAY-wah koo-FEE-kah shoo-LAY-nee nah hah-wah-tah-KOH-sah kee-PEEN-dee chah KWAHN-zah)",
+          "translation": "Students will not be late [negated future 3rd plural: hawatachelewa] arriving at school and will not miss [negated future 3rd plural: hawatakosa] the first period."
+        },
+        {
+          "target": "Sisi hatutavunja kanuni za usalama na hatutakwenda kule usiku.",
+          "reading": "Si-si ha-tu-ta-vu-nja ka-nu-ni za u-sa-la-ma na ha-tu-ta-kwe-nda ku-le u-si-ku. [ˈsisi hɑtutɑˈvunʤɑ kɑˈnuni zɑ usɑˈlɑmɑ nɑ hɑtutɑˈkwɛndɑ ˈkulɛ uˈsiku] (SEE-see hah-too-tah-VOON-jah kah-NOO-nee zah oo-sah-LAH-mah nah hah-too-tah-KWAYN-dah KOO-lay oo-SEE-koo)",
+          "translation": "We will not break [negated future 1st plural: hatutavunja] safety regulations and will not go [negated future monosyllabic: hatutakwenda] there at night."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ukanushaji Wakati Ujao: -TA- inabaki! Si- / Hu- / Ha- + -ta- + kitenzi (sitasoma, hutasoma, hatasoma, hatutasoma)!"
+      ],
+      "culturalNotes": [
+        "Katika mipango ya kazi na mikataba ya kijamii, kukanusha wakati ujao kwa kutumia 'hatutasahau' (we will not forget) huonyesha dhamira thabiti ya uaminifu na uwajibikaji."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Bei\":",
+          "prompt": "Unapokanusha mpango wa kusafiri kesho kwa nafsi ya pili umoja (Wewe), sentensi sahihi ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Punguzo»",
-            "Mpangilio usio sahihi wa viambishi katika «Risiti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bili»"
+            "Wewe hutasafiri kesho asubuhi. (You will not travel tomorrow morning - Correct 2nd person singular future negation 'hu-ta-safiri')",
+            "Wewe husafiri kesho asubuhi (Wakati uliopo badala ya wakati ujao)",
+            "Wewe hukusafiri kesho asubuhi (Wakati uliopita uliotatanishwa na 'kesho')",
+            "Wewe sitasafiri kesho asubuhi (Kosa la nafsi ya kwanza badala ya ya pili)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kiambishi hasi cha «Wewe» ni «hu-» kikiungana na kiambishi cha wakati ujao «-ta-» kupata «hutasafiri»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Bei\":",
+          "prompt": "Sentensi ipi inakanusha vitenzi vya silabi moja katika wakati ujao kwa usahihi kabisa?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Risiti»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bili»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Punguzo»"
+            "Wageni hawatakuja kesho kutwa na hawatakula chakula cha usiku. (Guests will not come the day after tomorrow and will not eat dinner - Flawless future monosyllabic negation)",
+            "Wageni hawataja kesho na hawatala chakula (Kosa la kufuta kiambishi 'ku-')",
+            "Wageni hawajaja jana jioni (Wakati timilifu uliotatanishwa)",
+            "Wageni hawanywi maji jana asubuhi (Mchanganyiko potofu wa nyakati)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Katika ukanushaji wa wakati ujao, vitenzi vya silabi moja huhifadhi «ku-»: «hawatakuja» na «hawatakula»."
         }
       ]
     },
@@ -3143,17 +3172,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Bei\": Which sentence is completely correct?",
+          "prompt": "Ni jambo gani la kipekee kuhusu kiambishi '-ta-' katika ukanushaji wa wakati ujao tofauti na wakati uliopo (-na-)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bili»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Punguzo»",
-            "Mpangilio usio sahihi wa viambishi katika «Risiti»"
+            "Kiambishi '-ta-' hakifutwi kamwe bali kinabakia kwenye kitenzi kikiambatanishwa na viambishi hasi vya nafsi (sitasoma, hutasoma, hatasoma). (Prefix -ta- is never dropped, but remains in the verb prefixed with negative subject markers.)",
+            "Kiambishi '-ta-' hubadilika kuwa '-ka-'.",
+            "Kiambishi '-ta-' hufutwa kila wakati.",
+            "Wakati ujao hauwezi kukanushwa katika Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kiambishi '-ta-' hakifutwi kamwe bali kinabakia kwenye kitenzi kikiambatanishwa na viambishi hasi vya nafsi (sitasoma, hutasoma, hatasoma).» ndiyo sifa ya pekee ya wakati ujao."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u7-l4": {
@@ -3161,53 +3191,62 @@
     "subject": "swahili",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 4)",
+    "title": "Ukanushaji wa Wakati Timilifu (Perfective Negation: ha-...-ja- / Bado)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia ukanushaji wa Wakati Timilifu: kubadilisha kiambishi '-me-' kuwa '-ja-' (kinachomaanisha 'not yet' / bado), kutumia viambishi hasi vya nafsi, na kuondoa 'ku-' katika vitenzi vya silabi moja.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ukanushaji wa Wakati Timilifu katika Kiswahili (Perfective Negation: ha-...-ja- / Not Yet):\n\n1. **Kanuni Kuu za Ukanushaji wa Wakati Timilifu**:\n   - **Hatua ya 1 (Viambishi Hasi vya Nafsi)**: *ni-* -> **si-**, *u-* -> **hu-**, *a-* -> **ha-**, *tu-* -> **hatu-**, *m-* -> **ham-**, *wa-* -> **hawa-**.\n   - **Hatua ya 2 (Kiambishi cha Ukanusho wa Wakati Timilifu)**: Kiambishi **-me- hubadilishwa na kuwa -ja-**.\n   - **Maana ya Kisemantiki**: Kiambishi **-ja-** kinamaanisha kuwa tendo **halijatendeka bado** (Not Yet), likiwa na matarajio ya kufanyika baadaye.\n   - **Hatua ya 3 (Irabu ya Mwisho)**: Irabu ya mwisho ya shina la kitenzi **haibadiliki (inabaki -a)** (*soma* -> *sijasoma*).\n\n2. **Mnyambuliko Kamili wa Nafsi Zote (Perfective Negation Paradigm)**:\n   - *nimesoma* -> **sijasoma** (I have not yet read)\n   - *umefika* -> **hujafika** (you have not yet arrived)\n   - *ameondoka* -> **hajaondoka** (he/she has not yet left)\n   - *tumekamilisha* -> **hatujakamilisha** (we have not yet completed)\n   - *mmemaliza* -> **hamjamaliza** (you all have not yet finished)\n   - *wameanza* -> **hawajaanza** (they have not yet started)\n\n3. **Vitenzi vya Silabi Moja (Monosyllabic Verbs in -ja-)**:\n   - **Hupoteza kiambishi 'ku-'**: *kula* -> **sijala** (I haven't eaten yet), *kunywa* -> **hajanywa**, *kuja* -> **hawajaja**, *kwenda* -> **hatujaenda**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 7."
+          "target": "Mimi sijala chakula cha mchana kwa sababu mpishi hajamaliza kupika.",
+          "reading": "Mi-mi si-ja-la cha-ku-la cha mcha-na kwa sa-ba-bu mpi-shi ha-ja-ma-li-za ku-pi-ka. [ˈmimi siˈʤɑlɑ tʃɑˈkulɑ tʃɑ mˈtʃɑnɑ kwɑ sɑˈbɑbu ˈmpiʃi hɑʤɑmɑˈlizɑ kuˈpikɑ] (MEE-mee see-JAH-lah chah-KOO-lah chah M-CHAH-nah kwah sah-BAH-boo M-PEE-shee hah-jah-mah-LEE-zah koo-PEE-kah)",
+          "translation": "I have not yet eaten [negated perfective monosyllabic: sijala] lunch because the cook has not yet finished [negated perfective 3rd person: hajamaliza] cooking."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 7-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wageni kutoka mbali hawajafika hotelini na mabasi yao hayajatua kituoni.",
+          "reading": "Wa-ge-ni ku-to-ka mba-li ha-wa-ja-fi-ka ho-te-li-ni na ma-ba-si ya-o ha-ya-ja-tu-a ki-tu-o-ni. [wɑˈɡɛni kuˈtɔkɑ ˈmbɑli hɑwɑʤɑˈfikɑ hɔtɛˈlini nɑ mɑˈbɑsi ˈjɑɔ hɑjɑʤɑˈtuɑ kituˈɔni] (wah-GAY-nee koo-TOH-kah M-BAH-lee hah-wah-jah-FEE-kah hoh-tay-LEE-nee nah mah-BAH-see YAH-oh hah-yah-jah-TOO-ah kee-too-oh-NEE)",
+          "translation": "Guests from afar have not yet arrived [negated perfective 3rd plural: hawajafika] at the hotel and their buses have not yet arrived [negated class 6: hayajatua] at the station."
+        },
+        {
+          "target": "Sisi hatujasoma kitabu kile kipya lakini mwalimu hajaanika matokeo bado.",
+          "reading": "Si-si ha-tu-ja-so-ma ki-ta-bu ki-le kpy-a la-ki-ni mwa-li-mu ha-ja-a-ni-ka ma-to-ke-o ba-do. [ˈsisi hɑtuʤɑˈsɔmɑ kiˈtɑbu ˈkilɛ ˈmpjɑ lɑˈkini mwɑˈlimu hɑʤɑɑˈnikɑ mɑtɔˈkɛɔ ˈbɑdɔ] (SEE-see hah-too-jah-SOH-mah kee-TAH-boo KEE-lay M-PYAH lah-KEE-nee mwah-LEE-moo hah-jah-ah-NEE-kah mah-toh-KAY-oh BAH-doh)",
+          "translation": "We have not yet read [negated perfective 1st plural: hatujasoma] that new book, but the teacher has not yet posted [negated perfective: hajaanika] results yet."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ukanushaji Wakati Timilifu: Badili -ME- kuwa -JA- (sijasoma = I haven't read yet, hawajaja = they haven't come yet, sijala = I haven't eaten yet)!"
+      ],
+      "culturalNotes": [
+        "Neno 'bado' (still / not yet) mara nyingi huongezwa mwishoni mwa sentensi yenye kiambishi cha '-ja-' ili kusisitiza: 'Sijala bado' (I haven't eaten yet)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Punguzo\":",
+          "prompt": "Sentensi sahihi inayokanusha \"Wageni wamefika nyumbani\" katika wakati timilifu ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Risiti»",
-            "Mpangilio usio sahihi wa viambishi katika «Bili»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Soko»"
+            "Wageni hawajafika nyumbani bado. (Guests have not yet arrived home - Correct perfective negation 'hawaja-fika')",
+            "Wageni hawamefika nyumbani (Kosa la kuweka kiambishi 'hawa-' juu ya '-me-')",
+            "Wageni hawafiki jana asubuhi (Mchanganyiko wa wakati uliopo na 'jana')",
+            "Wageni wasifike nyumbani kesho (Muundo wa utegemezi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Ukanushaji wa «wamefika» ni «hawajafika» (kiambishi «-me-» hubadilika kuwa «-ja-»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Punguzo\":",
+          "prompt": "Unapomjulisha mtu kuwa \"Hujala chakula bado lakini unajiandaa kula\", unatumia kauli gani fasaha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Bili»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Soko»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Risiti»"
+            "Mimi sijala chakula bado. (I have not yet eaten food - Correct monosyllabic perfective negation 'sijala')",
+            "Mimi sijakula chakula bado (Kosa la kubakiza 'ku' katika kiambishi cha -ja-)",
+            "Mimi simeli chakula bado (Muundo usio wa kisarufi)",
+            "Mimi sikula chakula kesho kutwa (Kutatanisha uliopita na siku zijazo)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «kula» katika ukanusho wa wakati timilifu kinapoteza «ku-» na kuwa «sijala»."
         }
       ]
     },
@@ -3215,17 +3254,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Punguzo\": Which sentence is completely correct?",
+          "prompt": "Kiambishi '-ja-' katika vitenzi vya Kiswahili hufanya kazi gani ya kisarufi na kisemantiki?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Soko»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Risiti»",
-            "Mpangilio usio sahihi wa viambishi katika «Bili»"
+            "Hukanusha wakati timilifu (-me-) na kutoa maana ya tendo ambalo halijatendeka bado (not yet) lakini linatarajiwa kutendeka. (Negates perfective aspect -me- meaning 'not yet' with expectation of future completion.)",
+            "Hueleza amri ya moja kwa moja ya kufanya kazi haraka.",
+            "Hutumika kueleza hadithi za kale za vizazi vilivyopita pekee.",
+            "Huonyesha kuwa tendo lilifanyika zamani za kale sana."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Hukanusha wakati timilifu (-me-) na kutoa maana ya tendo ambalo halijatendeka bado (not yet) lakini linatarajiwa kutendeka.» ndiyo kazi rasmi ya kiambishi «-ja-»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u7-l5": {
@@ -3233,53 +3273,62 @@
     "subject": "swahili",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 5)",
+    "title": "Muhtasari wa Ukanushaji wa Nyakati Zote (Grand Synthesis of Swahili Verb Negation)",
     "level": "A2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 7.5) with authentic precision.",
+    "objective": "Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili: Wakati Uliopo (-na- -> ha-...-i), Wakati Uliopita (-li- -> ha-...-ku-), Wakati Ujao (-ta- -> ha-...-ta-), na Wakati Timilifu (-me- -> ha-...-ja-) katika ulinganifu na ufasaha kamili.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ukanushaji wa Nyakati Zote (Grand Synthesis of Swahili Verb Negation):\n\n1. **Jedwali la Ulinganifu wa Ukanushaji (Comprehensive Negation Matrix)**:\n   - **Wakati Uliopo (-na-)**: *ninasoma* -> **sisomi** | *anakula* -> **hali** (tupa *-na-*, badili *-a* kuwa *-i*, ondoa *ku-*).\n   - **Wakati Uliopita (-li-)**: *nilisoma* -> **sikusoma** | *alikula* -> **hakula** (badili *-li-* kuwa *-ku-*, irabu ya mwisho inabaki *-a*, ondoa *ku-* ya pili).\n   - **Wakati Ujao (-ta-)**: *nitasoma* -> **sitasoma** | *atakula* -> **hatakula** (*-ta-* inabaki, hifadhi *ku-* kwa silabi moja).\n   - **Wakati Timilifu (-me-)**: *nimesoma* -> **sijasoma** | *amekula* -> **hajala** (badili *-me-* kuwa *-ja-*, ondoa *ku-*).\n\n2. **Upatanisho wa Ngeli katika Ukanushaji**:\n   - KI-VI: *hakifiki / havifiki* (uliopo), *hakikufika / havikufika* (uliopita), *hakitafika / havitafika* (ujao), *hakijafika / havijafika* (timilifu).\n   - JI-MA: *halifiki / hayafiki*, *halikufika / hayakufika*, *halitafika / hayatafika*, *halijafika / hayajafika*.\n   - N-N: *haifiki / hazifiki*, *haikufika / hazikufika*, *haitafika / hazitafika*, *haijafika / hazijafika*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 7."
+          "target": "Mimi sisomi sasa, sikusoma jana, sitasoma kesho, na sijamaliza kazi zangu.",
+          "reading": "Mi-mi si-so-mi sa-sa, si-ku-so-ma ja-na, si-ta-so-ma ke-sho, na si-ja-ma-li-za ka-zi za-ngu. [ˈmimi siˈsɔmi ˈsɑsɑ sikuˈsɔmɑ ˈʤɑnɑ sitɑˈsɔmɑ ˈkɛʃɔ nɑ siʤɑmɑˈlizɑ ˈkɑzi ˈzɑŋɡu] (MEE-mee see-SOH-mee SAH-sah, see-koo-SOH-mah JAH-nah, see-tah-SOH-mah KAY-shoh, nah see-jah-mah-LEE-zah KAH-zee ZAHN-goo)",
+          "translation": "I am not reading now [present neg: sisomi], did not read yesterday [past neg: sikusoma], will not read tomorrow [future neg: sitasoma], and have not yet finished [perfective neg: sijamaliza] my tasks."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 7-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi hawakuchelewa jana, hawachelewi leo, na hawatachelewa kesho asubuhi.",
+          "reading": "Wa-na-fu-nzi ha-wa-ku-che-le-wa ja-na, ha-wa-che-le-wi le-o, na ha-wa-ta-che-le-wa ke-sho a-su-bu-hi. [wɑnɑˈfunzi hɑwɑkutʃɛˈlɛwɑ ˈʤɑnɑ hɑwɑtʃɛˈlɛwi ˈlɛɔ nɑ hɑwɑtɑtʃɛˈlɛwɑ ˈkɛʃɔ ɑsuˈbuhi] (wah-nah-FOON-zee hah-wah-koo-chay-LAY-wah JAH-nah, hah-wah-chay-LAY-wee LAY-oh, nah hah-wah-tah-chay-LAY-wah KAY-shoh ah-soo-BOO-hee)",
+          "translation": "Students were not late yesterday [past neg: hawakuchelewa], are not late today [present neg: hawachelewi], and will not be late [future neg: hawatachelewa] tomorrow morning."
+        },
+        {
+          "target": "Umahiri wa kukanusha nyakati zote katika Kiswahili unajenga msingi imara wa mawasiliano bayana na fasaha katika nyanja zote.",
+          "reading": "U-ma-hi-ri wa ku-ka-nu-sha nya-ka-ti zo-te ka-ti-ka Ki-swa-hi-li u-na-je-nga msi-ngi i-ma-ra wa ma-wa-si-li-a-no ba-ya-na na fa-sa-ha ka-ti-ka nya-nja zo-te. [umɑˈhiri wɑ kukɑˈnuʃɑ ɲɑˈkɑti ˈzɔtɛ kɑˈtikɑ kiswɑˈhili unɑˈʤɛŋɡɑ ˈmsiŋɡi iˈmɑrɑ wɑ mɑwɑsiliˈɑnɔ bɑˈjɑnɑ nɑ fɑˈsɑhɑ kɑˈtikɑ ˈɲɑnʤɑ ˈzɔtɛ] (oo-mah-HEE-ree wah koo-kah-NOO-shah nyah-KAH-tee ZOH-tay kah-TEE-kah kee-swah-HEE-lee oo-nah-JAYN-gah m-SEEN-gee ee-MAH-rah wah mah-wah-see-lee-AH-noh bah-YAH-nah nah fah-SAH-hah kah-TEE-kah NYAHN-jah ZOH-tay)",
+          "translation": "Mastery of negating all tenses in Swahili [negation grand synthesis: ukanushaji wa nyakati] builds a solid foundation for clear and eloquent communication across all disciplines."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa Ukanushaji: Uliopo = Si-...-i, Uliopita = Si-...-ku-...-a, Ujao = Si-...-ta-...-a, Timilifu = Si-...-ja-...-a!"
+      ],
+      "culturalNotes": [
+        "Ufasaha wa kutofautisha kati ya 'sikufanya' (sikutenda wakati uliopita) na 'sijafanya' (sijatenda bado lakini ninatarajia kutenda) ni kigezo kikuu cha uzungumzaji wa kiwango cha juu katika jamii ya Waswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Risiti\":",
+          "prompt": "Sentensi ipi inajumuisha ulinganifu sahihi wa ukanushaji katika nyakati zote nne kuu za Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bili»",
-            "Mpangilio usio sahihi wa viambishi katika «Soko»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ununuzi»"
+            "Jana sikula, leo sili, kesho sitakula, na chakula cha jioni sijala bado. (Yesterday I didn't eat, today I am not eating, tomorrow I won't eat, and dinner I haven't eaten yet - Flawless multi-tense negation synthesis)",
+            "Jana silikula, leo sinakula, kesho sitakula, na bado sijakula (Mchanganyiko wa makosa mengi ya ukanushaji)",
+            "Jana sikusoma kesho na leo sitasoma jana (Mvurugiko usio na mantiki wa vielezi vya nyakati)",
+            "Chakula chote hakikula wanafunzi jana (Upotoshaji wa upatanisho wa ngeli)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Jana sikula, leo sili, kesho sitakula, na chakula cha jioni sijala bado.» inatumia miundo sahihi ya ukanusho: uliopita (sikula), uliopo (sili), ujao (sitakula), na timilifu (sijala)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Risiti\":",
+          "prompt": "Katika muhtasari wa Unit 7, ni tofauti gani muhimu ya kimaana iliyopo kati ya 'Hakufanya kazi' na 'Hajafanya kazi'?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Soko»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ununuzi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bili»"
+            "'Hakufanya kazi' inamaanisha tendo halikutendeka wakati uliopita, wakati 'Hajafanya kazi' inamaanisha hajatenda bado lakini anaweza kutenda baadaye. ('Hakufanya kazi' denotes past non-occurrence, while 'Hajafanya kazi' indicates not yet done with future expectation)",
+            "'Hakufanya' inatumika tu kwa wanawake na 'Hajafanya' kwa wanaume",
+            "Hakuna tofauti yoyote ya kimaana kati ya misemo hiyo miwili",
+            "'Hajafanya kazi' inamaanisha kazi ilikamilika zamani za kale"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Hakufanya» ni wakati uliopita (past negation), wakati «Hajafanya» ni wakati timilifu (perfective 'not yet')."
         }
       ]
     },
@@ -3287,17 +3336,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Risiti\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 7 ya Ukanushaji wa Vitenzi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 7.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ununuzi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bili»",
-            "Mpangilio usio sahihi wa viambishi katika «Soko»"
+            "Wageni hawakufika jana, hawafiki leo, hawatatutembelea kesho, na barua zao rasmi hazijawasili ofisini bado. (Guests did not arrive yesterday, are not arriving today, will not visit us tomorrow, and their official letters have not yet arrived at the office.)",
+            "Wageni hakufika jana na leo hawanafika nyumbani.",
+            "Mabasi yote hawatatua kituo wakati chakula halikuli mezani.",
+            "Ukanushaji unakataza matumizi ya maneno 'jana', 'leo', na 'kesho'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Wageni hawakufika jana, hawafiki leo, hawatatutembelea kesho, na barua zao rasmi hazijawasili ofisini bado.» inajumuisha ukanusho wa nyakati zote nne kwa ufasaha na upatanisho kamilifu wa ngeli."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u8-l1": {
