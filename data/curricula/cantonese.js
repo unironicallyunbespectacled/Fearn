@@ -9095,53 +9095,62 @@
     "subject": "cantonese",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "廣東話成語、俗語同歇後語 (Cantonese Idioms & Proverbs) (第1課)",
+    "title": "四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 (Core Cantonese Proverbs)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元22第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南商業市井智慧四大核心俗語（食得鹹魚抵得渴、邊有咁大隻蛤乸隨街跳、執輸行頭慘過敗家、扮豬食老虎）之語源背景與社交語用語境。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語俗語凝結了嶺南人數百年商業航運、市井謀生與務實進取之生活哲學，具備鮮明之形象思維與警世價值：\n\n一、四大核心市井哲學俗語深度矩陣：\n１．「食得鹹魚抵得渴」（sik6 dak1 haam4 jyu4*2 dai2 dak1 hot3）：\n- 語義：既然選擇了某種利益或冒險道路，就必須承擔隨之而來之代價、後果或艱辛。\n- 典故：舊時廣東人以鹹魚下飯，鹹魚極鹹，吃完必然口乾舌燥。比喻「敢作敢當、承擔後果」。\n\n２．「邊有咁大隻蛤乸隨街跳」（bin1 jau5 gam3 daai6 zek3 gap3 naa2 ceoi4 gaai1 tiu3）：\n- 語義：世上哪有不勞而獲、天上掉餡餅之好事？用於警惕防範詐騙與虛幻暴利誘惑。\n- 典故：「蛤乸」（田雞/青蛙）在水田難覓，絕不可能有碩大之肥蛙在繁華大街上隨意亂跳任人捕捉。\n\n３．「執輸行頭慘過敗家」（zap1 syu1 haang4 tau4 caam2 gwo3 baai6 gaa1）：\n- 語義：在競爭中落後於他人、錯失先機，比敗光家產還要令人痛心。體現嶺南人勇於爭先、敏銳捕捉商機之強烈進取心。\n\n４．「扮豬食老虎」（baan6 zyu1 sik6 lou5 fu2）：\n- 語義：故意假裝愚笨無能以麻痺對手，實則暗中積蓄實力、在關鍵時刻一舉制勝（深藏不露之韜晦之策）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 22 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 22 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 22 in communication."
+          "target": "你當初既然決定自己創業開公司，就要食得鹹魚抵得渴，預咗要日夜捱苦㗎喇。",
+          "reading": "nei5 dong1 co1 gei3 jin4 kyut3 ding6 zi6 gei2 cong3 jip6 hoi1 gung1 si1, zau6 jiu3 sik6 dak1 haam4 jyu4*2 dai2 dak1 hot3, jyu6 zo2 jiu3 jat6 je6 ngaai1 fu2 gaa3 laa3. [nei˩˧ tɔːŋ˥ tsʰɔː˥ kei˧ jiːn˨˩ kʰyːt̚˧ tɪŋ˨ tsiː˨ kei˧˥ tsʰɔːŋ˧ jiːp̚˨ hɔːi˥ kʊŋ˥ siː˥, tsɐu˨ jiu˧ sɪk̚˨ tɐk̚˥ haːm˨˩ jyː˧˥ tɐi˧˥ tɐk̚˥ hɔːt̚˧, jyː˨ tsɔː˧˥ jiu˧ jɐt˨ jɛː˨ ŋaːi˥ fuː˧˥ kaː˧ laː˧] (NEI DONG-CHOH GAY-YEEN KUET-DING JEE-GAY CHONG-YIP HOI GONG-SEE, JAU YEW SIK-DUK-HAHM-YUE DY-DUK-HOT, YUE-JOR YEW YUT-YEH NGY-FOO GAH-LAH)",
+          "translation": "Since you originally decided to start your own business, you have to endure the consequences of your choice and expect to endure hardships day and night."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元22-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢個投資計劃保證每月有三十厘回報？邊有咁大隻蛤乸隨街跳呀，擺明係騙局！",
+          "reading": "ni1 go3 tau4 zi1 gai3 waak6 bou2 zing3 mui5 jyut6 jau5 saam1 sap6 lei4 wui4 bou3? bin1 jau5 gam3 daai6 zek3 gap3 naa2 ceoi4 gaai1 tiu3 aa3, baai2 ming4 hai6 pin3 guk6! [niː˥ kɔː˧ tʰɐu˨˩ tsiː˥ kɐi˧ waːk̚˨ pou˧˥ tsɪŋ˧ muːi˩˧ jyːt̚˨ jɐu˩˧ saːm˥ sɐp̚˨ lei˨˩ wuːi˨˩ pou˧? piːn˥ jɐu˩˧ kɐm˧ taːi˨ tsɛːk̚˧ kɐp̚˧ naː˧˥ tsʰɵy˨˩ kaːi˥ tʰiːu˧ aː˧, paːi˧˥ mɪŋ˨˩ hɐi˨ pʰiːn˧ kʊk̚˨!] (NEE-GOH TAU-JEE GAI-WAAK BOU-JING MOOY-YUET YAU SAHM-SUP-LEY WUI-BOU? BEEN-YAU GUM-DY-JEK GUP-NAH CHOEY-GY-TEW AH, BAAI-MING HY PEEN-GOK!)",
+          "translation": "This investment scheme guarantees a 30 percent return every month? How could there be such a free lunch lying around? It is obviously a scam!"
+        },
+        {
+          "target": "商場競爭分秒必爭，正所謂執輸行頭慘過敗家，我哋一定要搶先推出新產品。",
+          "reading": "soeng1 coeng4 ging6 zaang1 fan1 miu5 bit1 zaang1, zing3 so2 wai6 zap1 syu1 haang4 tau4 caam2 gwo3 baai6 gaa1, ngo5 dei6 jat1 ding6 jiu3 coeng2 sin1 teoi1 ceot1 san1 caan2 ban2. [sœːŋ˥ tsʰœːŋ˨˩ kɪŋ˨ tsaːŋ˥ fɐn˥ miu˧˥ piːt̚˥ tsaːŋ˥, tsɪŋ˧ sɔː˧˥ wɐi˨ tsɐp̚˥ syː˥ haːŋ˨˩ tʰɐu˨˩ tsʰaːm˧˥ kʷɔː˧ paːi˨ kaː˥, ŋɔː˩˧ tei˨ jɐt̚˥ tɪŋ˨ jiu˧ tsʰœːŋ˧˥ siːn˥ tʰɵy˥ tsʰɵt̚˥ sɐn˥ tsʰaːn˧˥ pʰɐn˧˥] (SEUNG-CHEUNG GING-JAHNG FUN-MIU-BIT-JAHNG, JING SOH-WAI JUP-SYU-HAHNG-TAU CHAAM-GWOR-BY-GAH, NGOH-DAY YUT-DING YEW CHEUNG-SEEN TOEY-CHUT SUN-CHAAN-BUN)",
+          "translation": "Commercial competition fights for every second; as the saying goes 'missing the lead is worse than ruining the family', we must definitely launch the new product ahead of others."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【市井四大訣】食得鹹魚抵得渴，邊有蛤乸街上跳；執輸行頭慘敗家，扮豬食虎智謀高！"
+      ],
+      "culturalNotes": [
+        "「食得鹹魚抵得渴」展現了香港人「願賭服輸、務實擔當」之契約精神；「邊有咁大隻蛤乸隨街跳」則係嶺南民間防範金融詐騙之至理名言。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"下晝\":",
+          "prompt": "【防騙俗語】面對聲稱「零風險、高回報」之可疑投資宣傳，廣東人最常用之警惕俗語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：朝早錯置）",
-            "混雜生硬詞彙之不規範語句（例項：半夜未適配）",
-            "聲調助詞搭配欠妥之表達（例項：星期一誤用）"
+            "邊有咁大隻蛤乸隨街跳 (No such thing as a free lunch)",
+            "食得鹹魚抵得渴",
+            "執輸行頭慘過敗家",
+            "扮豬食老虎"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「邊有咁大隻蛤乸隨街跳」比喻天下沒有免費午餐，警惕提防被騙。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"下晝\":",
+          "prompt": "【承擔後果】告誡他人「既然選擇了高風險高回報之路，就要勇於承受隨之而來的壓力」，應引用：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：半夜未適配）",
-            "聲調助詞搭配欠妥之表達（例項：星期一誤用）",
-            "語序顛倒嘅非標準句式（例項：朝早錯置）"
+            "食得鹹魚抵得渴 (If you eat salted fish, endure the thirst)",
+            "邊有咁大隻蛤乸隨街跳",
+            "水過鴨背",
+            "阿茂整餅"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「食得鹹魚抵得渴」比喻敢作敢當、承擔自己選擇所帶來的必然代價。"
         }
       ]
     },
@@ -9149,15 +9158,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"下晝\": Which sentence is completely correct?",
+          "prompt": "【商戰心態】俗語「執輸行頭慘過敗家」（zap1 syu1 haang4 tau4 caam2 gwo3 baai6 gaa1）所體現之核心精神係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：星期一誤用）",
-            "語序顛倒嘅非標準句式（例項：朝早錯置）",
-            "混雜生硬詞彙之不規範語句（例項：半夜未適配）"
+            "強烈之搶佔商機與爭先恐後競爭意識 (Urgent competitiveness to seize first-mover advantage)",
+            "安貧樂道、與世無爭",
+            "崇尚奢侈浪費之敗家行為",
+            "消極放棄所有投資機會"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "該俗語強調商場競爭中錯失先機之痛心，體現出積極進取、爭分奪秒之搶佔商機意識。"
         }
       ],
       "passThreshold": 0.8
@@ -9168,53 +9177,62 @@
     "subject": "cantonese",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "廣東話成語、俗語同歇後語 (Cantonese Idioms & Proverbs) (第2課)",
+    "title": "經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 (Culinary Idioms)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元22第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握以嶺南飲食（海鮮、蔬果、點心、米飯）為隱喻載體之高頻成語俗語（炒魷魚、食死貓、食檸檬、食軟飯、飲頭啖湯）之深層語義機制。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「食在廣州，味在嶺南」。粵語將飲食烹飪之物理特性化為豐富生動之人際與職場隱喻：\n\n一、五大經典飲食文化成語矩陣：\n１．「炒魷魚」（caau2 jau4 jyu4*2）：\n- 語義：被解僱、開除出局。\n- 隱喻由來：炒熟之魷魚片會自然捲縮。舊時打工仔被解僱時，需自行將鋪蓋草席捲起離開，形態與炒魷魚如出一轍。\n\n２．「食死貓」（sik6 sei2 maau1）：\n- 語義：無辜背黑鍋、替人頂罪受過。\n- 隱喻由來：死貓腐臭不可食，被迫吃下死貓比喻含冤受屈、吞下不白之冤。\n\n３．「食檸檬」（sik6 ning4 mung4*2）：\n- 語義：求愛被拒絕、辦事遭人冷遇回絕（碰釘子）。\n- 隱喻由來：檸檬酸澀難當，比喻遭到拒絕時內心之酸楚與尷尬感受。\n\n４．「食軟飯」（sik6 jyun5 faan6）：\n- 語義：男子依靠女性經濟供養生活（軟飯男）。\n\n５．「飲頭啖湯」（jam2 tau4 daam6 tong1）：\n- 語義：喝第一口新鮮煲出之靚湯，比喻搶佔先機、最先享受到新行業或新政策帶來的豐厚利潤。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 22 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 22 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 22 in communication."
+          "target": "因為經濟不景氣加上公司重組，阿強尋日好不幸畀老細炒咗魷魚。",
+          "reading": "jan1 wai6 ging1 zai3 bat1 ging2 hei3 gaa1 soeng6 gung1 si1 cung4 zou2, aa3 koeng4 cam4 jat6 hou2 bat1 hang6 bei2 lou5 sai3 caau2 zo2 jau4 jyu4*2. [jɐn˥ wɐi˨ kɪŋ˥ tsɐi˧ pɐt̚˥ kɪŋ˧˥ hei˧ kaː˥ sœːŋ˨ kʊŋ˥ siː˥ tsʰʊŋ˨˩ tsou˧˥, aː˧ kʰœːŋ˨˩ tsʰɐm˨˩ jɐt˨ hou˧˥ pɐt̚˥ hɐŋ˨ pei˨ lou5 sɐi˧ tsʰaːu˧˥ tsɔː˧˥ jɐu˨˩ jyː˧˥] (YUN-WAI GING-JAI BUT-GING-HEY GAH-SEUNG GONG-SEE CHOONG-JOU, AH-KEUNG CHUM-YUT HOH BUT-HUNG BAY LOU-SY CHAU-JOR-YAU-YUE)",
+          "translation": "Due to the economic downturn and corporate restructuring, Ah Keung was unfortunately fired by the boss yesterday."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元22-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "明明係個項目經理自己簽錯字，依家竟然要成組人幫佢食死貓！",
+          "reading": "ming4 ming4 hai6 go3 hong6 muk6 ging1 lei5 zi6 gei2 cim1 co3 zi6, ji1 gaa1 ging2 jin4 jiu3 seng4 zou2 jan4 bong1 keoi5 sik6 sei2 maau1! [mɪŋ˨˩ mɪŋ˨˩ hɐi˨ kɔː˧ hɔːŋ˨ mʊk̚˨ kɪŋ˥ lei˩˧ tsiː˨ kei˧˥ tsʰiːm˥ tsʰɔː˧ tsiː˨, jiː˥ kaː˥ kɪŋ˧˥ jiːn˨˩ jiu˧ sɛːŋ˨˩ tsou˧˥ jɐn˨˩ pɔːŋ˥ kʰɵy˩˧ sɪk̚˨ sei˧˥ maːu˥!] (MING-MING HY GOH HOHNG-MOK GING-LY JEE-GAY CHEEM-CHOH-JEE, YEE-GAH GING-YEEN YEW SENG-JOU-YUN BONG KUY SIK-SAY-MAAU!)",
+          "translation": "It was clearly the project manager himself who signed the wrong name, but now the whole team is surprisingly made to take the blame for him!"
+        },
+        {
+          "target": "佢鼓起勇氣約心儀嘅女仔睇戲，點知即刻畀對方請食檸檬。",
+          "reading": "keoi5 gu2 hei2 jung5 hei3 joek3 sam1 ji4 ge3 neoi5 zai2 tai2 hei3, dim2 zi1 zik1 hak1 bei2 deoi3 fong1 cing2 sik6 ning4 mung4*2. [kʰɵy˩˧ kuː˧˥ hei˧˥ jʊŋ˩˧ hei˧ jœːk̚˧ sɐm˥ jiː˨˩ kɛː˧ nɵy˩˧ tsɐi˧˥ tʰɐi˧˥ hei˧, tiːm˧˥ tsiː˥ tsɪk̚˥ hɐk̚˥ pei˨ tɵy˧ fɔːŋ˥ tsʰɪŋ˧˥ sɪk̚˨ nɪŋ˨˩ mʊŋ˧˥] (KUY GOO-HEY YOONG-HEY YERK SUM-YEE GEH NOEY-JY TY-HEY, DEEM-JEE JIK-HUK BAY DEOY-FONG CHING-SIK-NING-MOONG)",
+          "translation": "He mustered the courage to ask out the girl he liked to a movie, only to be given the cold shoulder and rejected immediately."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【飲食隱喻歌】被炒開除「炒魷魚」，含冤受屈「食死貓」；求愛遭拒「食檸檬」，搶佔先機「頭啖湯」！"
+      ],
+      "culturalNotes": [
+        "飲食成語在粵語流行文化中無處不在。例如「請食檸檬」在港產電影與流行曲中常用作青年男女戀愛拒絕之生動修辭，幽默中帶有幾分酸楚自嘲。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"朝早\":",
+          "prompt": "【職場隱喻】在公司中被無辜栽贓、替他人頂罪受過，地道飲食成語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：半夜錯置）",
-            "混雜生硬詞彙之不規範語句（例項：星期一未適配）",
-            "聲調助詞搭配欠妥之表達（例項：週末誤用）"
+            "食死貓 (sik6 sei2 maau1 / Take the blame / Scapegoated)",
+            "炒魷魚",
+            "食檸檬",
+            "飲頭啖湯"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「食死貓」比喻背黑鍋、含冤受屈。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"朝早\":",
+          "prompt": "【商業先機】形容企業搶先進入新市場、最先享受豐厚紅利，應選用之成語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：星期一未適配）",
-            "聲調助詞搭配欠妥之表達（例項：週末誤用）",
-            "語序顛倒嘅非標準句式（例項：半夜錯置）"
+            "飲頭啖湯 (jam2 tau4 daam6 tong1 / First-mover advantage)",
+            "食死貓",
+            "炒魷魚",
+            "食軟飯"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「飲頭啖湯」比喻第一批搶先獲取最大利益者。"
         }
       ]
     },
@@ -9222,15 +9240,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"朝早\": Which sentence is completely correct?",
+          "prompt": "【社交隱喻】短語「畀人請食檸檬」在廣東話中之真正含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：週末誤用）",
-            "語序顛倒嘅非標準句式（例項：半夜錯置）",
-            "混雜生硬詞彙之不規範語句（例項：星期一未適配）"
+            "遭到對方的拒絕或冷落回絕 (Rejected / Turned down)",
+            "獲贈新鮮美味的水果禮品",
+            "被邀請參加豪華宴會",
+            "在餐廳免費獲得檸檬茶飲品"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「食檸檬」為遭到求愛拒絕或請求碰釘子之經典隱喻。"
         }
       ],
       "passThreshold": 0.8
@@ -9241,53 +9259,62 @@
     "subject": "cantonese",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "廣東話成語、俗語同歇後語 (Cantonese Idioms & Proverbs) (第3課)",
+    "title": "經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xiehouyu)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元22第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語歇後語「引子（謎面） + 註解（謎底）」之雙層結構，精通日常生活四大高頻歇後語之妙用與市井幽默感。",
     "presentation": {
-      "explanation": "",
+      "explanation": "歇後語係漢語特有之雙截言語形式，由「引子」（前半段謎面）與「註解」（後半段謎底）組成。在粵語會話中，說話者常只說前半句，聽者心領神會後半句：\n\n一、日常生活四大經典歇後語矩陣：\n１．「黃鼠狼畀雞拜年 —— 冇安好心」：\n- 語義：表面熱情和善，實則暗藏惡意、不懷好意。\n\n２．「水過鴨背 —— 唔入心 / 冇痕跡」：\n- 語義：形容聽話左耳進右耳出、完全不放在心上，或事情過去後不留任何痕跡。\n- 典故：鴨毛自帶油脂，水潑在鴨背上會瞬間滑落，無法滲透。\n\n３．「盲人食湯圓 —— 心中有數」：\n- 語義：雖然表面上不說或看不見，但內心裡對事情底細清清楚楚、心知肚明。\n\n４．「阿茂整餅 —— 冇嗰樣整嗰樣」：\n- 語義：形容人多此一舉、自找麻煩、無事生非做不必要之事情。\n- 典故：相傳廣州茶樓麵點師傅『阿茂』為了招徠顧客，每當哪種點心賣完就專門製作哪種，引申為『無事生非、多此一舉』。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 22 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 22 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 22 in communication."
+          "target": "平時對人冷冰冰嘅對手突然登門送大禮，真係黃鼠狼畀雞拜年 —— 冇安好心！",
+          "reading": "ping4 si4 deoi3 jan4 laang5 bing1 bing1 ge3 deoi3 sau2 tat1 jin4 dang1 mun4 sung3 daai6 lai5, zan1 hai6 wong4 syu2 long4 bei2 gai1 baai3 nin4 —— mou5 on1 hou2 sam1! [pʰɪŋ˨˩ siː˨˩ tɵy˧ jɐn˨˩ laːŋ˩˧ pɪŋ˥ pɪŋ˥ kɛː˧ tɵy˧ sɐu˧˥ tʰɐt̚˥ jiːn˨˩ tɐŋ˥ muːn˨˩ sʊŋ˧ taːi˨ lɐi˩˧, tsɐn˥ hɐi˨ wɔːŋ˨˩ syː˧˥ lɔːŋ˨˩ pei˨ kɐi˥ paːi˧ niːn˨˩ —— mou˩˧ ɔːn˥ hou˧˥ sɐm˥!] (PING-SEE DEOY-YUN LAHNG-BING-BING GEH DEOY-SAU TUT-YEEN DUNG-MOON SOONG DY-LY, JUN-HY WONG-SYU-LONG BAY GAI BAAI-NEEN —— MOU-ON-HOH-SUM!)",
+          "translation": "The competitor who is usually cold suddenly visited with big gifts; it is really the weasel wishing the hen Happy New Year —— with ill intentions!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元22-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "老師點樣苦口婆心勸佢，佢都當係水過鴨背，轉頭就忘記晒。",
+          "reading": "lou5 si1 dim2 joeng6*2 fu2 hau2 po4 sam1 hyun3 keoi5, keoi5 dou1 dong3 hai6 seoi2 gwo3 aap3 bui3, zyun3 tau4 zau6 mong4 gei3 saai3. [lou˧˥ siː˥ tiːm˧˥ jœːŋ˨ fuː˧˥ hɐu˧˥ pʰɔː˨˩ sɐm˥ hyn˧ kʰɵy˩˧, kʰɵy˩˧ tou˥ tɔːŋ˧ hɐi˨ sɵy˧˥ kʷɔː˧ aːp̚˧ puːi˧, tsyn˧ tʰɐu˨˩ tsɐu˨ mɔːŋ˨˩ kei˧ saːi˧] (LOU-SEE DEEM-YEUNG FOO-HAU-POH-SUM HUEN KUY, KUY DOH DONG HY SOEY-GWOR-AHP-BOOY, JUEN-TAU JAU MONG-GAY-SY)",
+          "translation": "No matter how earnestly the teacher advised him, he treated it like water off a duck's back, forgetting it all immediately."
+        },
+        {
+          "target": "你唔好見陳生平日唔出聲，其實佢對成個部門嘅賬目係盲人食湯圓 —— 心中有數。",
+          "reading": "nei5 m4 hou2 gin3 can4 saan1 ping4 jat6 m4 ceot1 seng1, kei4 sat6 keoi5 deoi3 seng4 go3 bou6 mun4 ge3 zoeng3 muk6 hai6 maang4 jan4 sik6 tong1 jyun4*2 —— sam1 zung1 jau5 sou3. [nei˩˧ m̩˨˩ hou˧˥ kiːn˧ tsʰɐn˨˩ saːn˥ pʰɪŋ˨˩ jɐt˨ m̩˨˩ tsʰɵt̚˥ sɛːŋ˥, kʰei˨˩ sɐt̚˨ kʰɵy˩˧ tɵy˧ sɛːŋ˨˩ kɔː˧ pou˨ muːn˨˩ kɛː˧ tsœːŋ˧ mʊk̚˨ hɐi˨ maːŋ˨˩ jɐn˨˩ sɪk̚˨ tʰɔːŋ˥ jyːn˧˥ —— sɐm˥ tsʊŋ˥ jɐu˩˧ sou˧] (NEI M-HOH GEEN CHUN-SAHN PING-YUT M-CHUT-SENG, KEY-SUT KUY DEOY SENG-GOH BOU-MOON GEH JEUNG-MOK HY MAHNG-YUN SIK TONG-YUEN —— SUM-JOONG-YAU-SOU)",
+          "translation": "Don't just assume Mr. Chan says nothing usually; in fact, regarding the department's accounts he is like a blind man eating tangyuan —— clearly knowing in his heart."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【歇後日常歌】黃鼠狼拜年「冇安好心」，水過鴨背「唔入心」；盲人食湯圓「心中有數」，阿茂整餅「冇嗰樣整嗰樣」！"
+      ],
+      "culturalNotes": [
+        "「阿茂整餅」係極具廣州老西關風情之經典歇後語。在香港辦公室文化中，當有人提出毫無意義之繁瑣新要求時，同事常私下笑稱『又係阿茂整餅』。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"半夜\":",
+          "prompt": "【歇後匹配】歇後語「水過鴨背」之後半段對應謎底係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：星期一錯置）",
-            "混雜生硬詞彙之不規範語句（例項：週末未適配）",
-            "聲調助詞搭配欠妥之表達（例項：紅色誤用）"
+            "唔入心 / 冇痕跡 (In one ear and out the other / No trace)",
+            "心中有數",
+            "冇嗰樣整嗰樣",
+            "冇安好心"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「水過鴨背」比喻說話如過眼雲煙、聽不進去（唔入心）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"半夜\":",
+          "prompt": "【多此一舉】形容人無事生非、多此一舉做無用功，對應之歇後語前半句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：週末未適配）",
-            "聲調助詞搭配欠妥之表達（例項：紅色誤用）",
-            "語序顛倒嘅非標準句式（例項：星期一錯置）"
+            "阿茂整餅 (aa3 mau6 zing2 beng2 / Making unnecessary trouble)",
+            "盲人食湯圓",
+            "黃鼠狼畀雞拜年",
+            "泥菩薩過江"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「阿茂整餅 —— 冇嗰樣整嗰樣」比喻多此一舉、自找麻煩。"
         }
       ]
     },
@@ -9295,15 +9322,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"半夜\": Which sentence is completely correct?",
+          "prompt": "【心知肚明】歇後語「盲人食湯圓」（maang4 jan4 sik6 tong1 jyun4*2）所表達之真實寓意係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：紅色誤用）",
-            "語序顛倒嘅非標準句式（例項：星期一錯置）",
-            "混雜生硬詞彙之不規範語句（例項：週末未適配）"
+            "心中有數、內心對底細清清楚楚 (Knowing clearly in one's heart)",
+            "完全不知道吃了多少",
+            "湯圓味道非常甜美",
+            "雙眼視力突然恢復"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「盲人食湯圓 —— 心中有數」比喻內心對事情來龍去脈與數字底細極為清楚。"
         }
       ],
       "passThreshold": 0.8
@@ -9314,53 +9341,62 @@
     "subject": "cantonese",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "廣東話成語、俗語同歇後語 (Cantonese Idioms & Proverbs) (第4課)",
+    "title": "經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical & Punning Xiehouyu)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元22第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握以歷史人物、民間信仰與粵語雙關諧音為特色之高階歇後語（泥菩薩過江、風吹雞蛋殼、神仙過鐵橋、單眼佬睇榜）之文化語義。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語歇後語融合了民間傳奇與極具智慧之諧音雙關（Pun），在民間說唱與日常侃談中廣受歡迎：\n\n一、四大人物傳奇與諧音歇後語矩陣：\n１．「泥菩薩過江 —— 自身難保」：\n- 語義：自己連保全自身都極度困難，根本無力再去顧及或援助他人。\n- 典故：泥塑之菩薩像遇到江水浸泡必然溶化崩塌。\n\n２．「風吹雞蛋殼 —— 財散人安樂」：\n- 語義：錢財散盡或破財之後，反而放下了沉重心理包袱，心情變得舒暢坦然。\n- 典故：雞蛋殼空無一物，被風吹走毫不可惜，比喻「破財消災」。\n\n３．「神仙過鐵橋 —— 包穩陣」：\n- 語義：萬無一失、絕對有把握、穩操勝券。\n- 典故：神仙本有法力，再加上堅固無比之鐵橋，雙重保險，極度穩當（包穩陣）。\n\n４．「單眼佬睇榜 —— 一目了然」：\n- 語義：一清二楚，一眼看去就完全明白。\n- 諧音雙關：只有一隻眼睛看榜單，既是『一眼（一目）』，又是『一目了然』之幽默雙關。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 22 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 22 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 22 in communication."
+          "target": "佢自己都負債累累，你仲去向佢借錢，佢依家係泥菩薩過江 —— 自身難保呀！",
+          "reading": "keoi5 zi6 gei2 dou1 fu6 zaai3 leoi5 leoi5, nei5 zung6 heoi3 hoeng3 keoi5 ze3 cin2, keoi5 ji1 gaa1 hai6 nai4 pou4 saat3 gwo3 gong1 —— zi6 san1 naan4 bou2 aa3! [kʰɵy˩˧ tsiː˨ kei˧˥ tou˥ fu˨ tsaːi˧ lɵy˩˧ lɵy˩˧, nei˩˧ tsʊŋ˨ hɵy˧ hœːŋ˧ kʰɵy˩˧ tsɛː˧ tsʰiːn˧˥, kʰɵy˩˧ jiː˥ kaː˥ hɐi˨ nɐi˨˩ pʰou4 saːt̚˧ kʷɔː˧ kɔːŋ˥ —— tsiː˨ sɐn˥ naːn˨˩ pou˧˥ aː˧!] (KUY JEE-GAY DOH FOO-JAI LOEY-LOEY, NEI JOONG HOEY HEUNG KUY JEH-CHEEN, KUY YEE-GAH HY NAI-POU-SAHT GWOR-GONG —— JEE-SUN NAHN-BOU AH!)",
+          "translation": "He is already heavily in debt himself and you still go borrow money from him; right now he is like a clay idol crossing the river —— unable to even save himself!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元22-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "放心交畀我哋團隊搞啦，以我哋廿年嘅專業經驗，今次合作係神仙過鐵橋 —— 包穩陣！",
+          "reading": "fong3 sam1 gaau1 bei2 ngo5 dei6 tyun4 deoi6*2 gaau2 laa1, ji5 ngo5 dei6 jaa6 nin4 ge3 zyun1 jip6 ging1 jim6, gam1 ci3 hap6 zok3 hai6 san4 sin1 gwo3 tit3 kiu4 —— baau1 wan2 zan6! [fɔːŋ˧ sɐm˥ kaːu˥ pei˨ ŋɔː˩˧ tei˨ tʰyːn˨˩ tɵy˧˥ kaːu˧˥ laː˥, jiː˩˧ ŋɔː˩˧ tei˨ jaː˨ niːn˨˩ kɛː˧ tsyn˥ jiːp̚˨ kɪŋ˥ jiːm˨, kɐm˥ tsʰiː˧ hɐp̚˨ tsɔːk̚˧ hɐi˨ sɐn˨˩ siːn˥ kʷɔː˧ tʰiːt̚˧ kʰiːu˨˩ —— paːu˥ wɐn˧˥ tsɐn˨!] (FONG-SUM GAU-BAY NGOH-DAY TUEN-DEOY GAU LAH, YEE NGOH-DAY YAH-NEEN GEH JUEN-YIP GING-YEEM, GUM-CHEE HUP-JOK HY SUN-SEEN GWOR-TEET-KEW —— BAAU-WUN-JUT!)",
+          "translation": "Rest assured and leave it to our team; with our 20 years of professional experience, this cooperation is like immortals crossing an iron bridge —— absolutely guaranteed!"
+        },
+        {
+          "target": "呢份財務報表分類好清晰，收入同支出嘅對比真係單眼佬睇榜 —— 一目了然。",
+          "reading": "ni1 fan6 coi4 mou6 bou3 biu2 fan1 leoi6 hou2 cing1 sik1, sau1 jap6 tung4 zi1 ceot1 ge3 deoi3 bei2 zan1 hai6 daan1 ngaan5 lou2 tai2 bong2 —— jat1 muk6 liu5 jin4. [niː˥ fɐn˨ tsʰɔːi˨˩ mou˨ pou˧ piːu˧˥ fɐn˥ lɵy˨ hou˧˥ tsʰɪŋ˥ sɪk̚˥, sɐu˥ jɐp̚˨ tʰʊŋ˨˩ tsiː˥ tsʰɵt̚˥ kɛː˧ tɵy˧ pei˧˥ tsɐn˥ hɐi˨ taːn˥ ŋaːn˩˧ lou˧˥ tʰɐi˧˥ pɔːŋ˧˥ —— jɐt̚˥ mʊk̚˨ liu˩˧ jiːn˨˩] (NEE-FUN CHOY-MOU BOU-BEW FUN-LOEY HOH CHING-SIK, SAU-YUP TOONG JEE-CHUT GEH DEOY-BAY JUN-HY DAHN-NGAHN-LOU TY-BONG —— YUT-MOK-LEW-YEEN)",
+          "translation": "This financial statement is categorized very clearly; the comparison between income and expenditure is really like a one-eyed man reading the board —— crystal clear at a single glance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【傳奇諧音訣】泥菩薩過江「難自身」，風吹蛋殼「人安樂」；神仙過鐵橋「包穩陣」，單眼佬睇榜「一目了然」！"
+      ],
+      "culturalNotes": [
+        "「包穩陣」（絕對穩當）係嶺南商旅交易時最令人心安之承諾。將「神仙過鐵橋」融入商務談判中，既顯幽默自信，又極富嶺南地域文化特色。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"星期一\":",
+          "prompt": "【萬無一失】形容事情有十足把握、絕對安全穩妥，對應之歇後語前半句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：週末錯置）",
-            "混雜生硬詞彙之不規範語句（例項：紅色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：藍色誤用）"
+            "神仙過鐵橋 (san4 sin1 gwo3 tit3 kiu4 / Absolutely guaranteed)",
+            "泥菩薩過江",
+            "風吹雞蛋殼",
+            "單眼佬睇榜"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「神仙過鐵橋 —— 包穩陣」比喻萬無一失、極其穩妥。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"星期一\":",
+          "prompt": "【自身難保】比喻連自己都難以自保、無力顧及他人，歇後語前半句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：紅色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：藍色誤用）",
-            "語序顛倒嘅非標準句式（例項：週末錯置）"
+            "泥菩薩過江 (nai4 pou4 saat3 gwo3 gong1 / Cannot even save oneself)",
+            "神仙過鐵橋",
+            "風吹雞蛋殼",
+            "阿茂整餅"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「泥菩薩過江 —— 自身難保」形容自身處境危殆、無力助人。"
         }
       ]
     },
@@ -9368,15 +9404,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"星期一\": Which sentence is completely correct?",
+          "prompt": "【雙關諧音】歇後語「單眼佬睇榜 —— 一目了然」中，「一目」所運用的修辭手法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：藍色誤用）",
-            "語序顛倒嘅非標準句式（例項：週末錯置）",
-            "混雜生硬詞彙之不規範語句（例項：紅色未適配）"
+            "雙關諧音（一隻眼睛 vs 一目了然） (Punning / Double Entendre)",
+            "誇張修辭",
+            "借代修辭",
+            "擬人修辭"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "單眼人只有一隻眼（一目），與成語「一目了然」形成絕妙雙關諧音。"
         }
       ],
       "passThreshold": 0.8
@@ -9387,53 +9423,62 @@
     "subject": "cantonese",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "廣東話成語、俗語同歇後語 (Cantonese Idioms & Proverbs) (第5課)",
+    "title": "成語、俗語與歇後語在商務與社交中之高階得體語用 (Pragmatic Deployment Mastery)",
     "level": "B2",
-    "objective": "Master Cantonese linguistics for 粵語單元22第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。",
     "presentation": {
-      "explanation": "",
+      "explanation": "掌握成語、俗語與歇後語之最高境界在於「因時因地因人」之精準語用調控：\n\n一、三大商務與社交語用場景分級：\n１．商務正式談判（莊重典雅、委婉幽默）：\n- 宜用正向自信之成語（如「飲頭啖湯」、「神仙過鐵橋 —— 包穩陣」）。\n- 避用過於粗俗或帶有強烈挫敗感之詞彙。\n２．同事日常協作（化解緊張、拉近距離）：\n- 適度運用幽默自嘲之歇後語（如「小事嚟啫」、「盲人食湯圓 —— 心中有數」），既展現親和力，又避免過於嚴肅呆板。\n３．市井街坊交流（親切熱絡、原汁原味）：\n- 靈活運用「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」，瞬間融入嶺南本土生活氛圍。\n\n二、語用失誤診斷與避坑指南：\n１．避免在嚴肅道歉時使用「算罷啦」（會被誤解為敷衍不負責任）。\n２．避免在正式合同簽約儀式上隨意使用過度市井之俚俗語。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 22 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 22 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 22 in communication."
+          "target": "喺今次大灣區科技博覽會上，我哋公司搶先推出人工智能翻譯系統，真係飲咗頭啖湯！",
+          "reading": "hai2 gam1 ci3 daai6 waan1 keoi1 fo1 gai6 bok3 laam5 wui6*2 soeng6, ngo5 dei6 gung1 si1 coeng2 sin1 teoi1 ceot1 jan4 gung1 zi3 nang4 faan1 jik6 hai6 tung2, zan1 hai6 jam2 zo2 tau4 daam6 tong1! [hɐi˩˧ kɐm˥ tsʰiː˧ taːi˨ waːn˥ kʰɵy˥ fɔː˥ kɐi˨ pɔːk̚˧ laːm˩˧ wuːi˨ sœːŋ˨, ŋɔː˩˧ tei˨ kʊŋ˥ siː˥ tsʰœːŋ˧˥ siːn˥ tʰɵy˥ tsʰɵt̚˥ jɐn˨˩ kʊŋ˥ tsiː˧ nɐŋ˨˩ faːn˥ jɪk̚˨ hɐi˨ tʰʊŋ˨, tsɐn˥ hɐi˨ jɐm˧˥ tsɔː˧˥ tʰɐu˨˩ taːm˨˩ tʰɔːŋ˥!] (HY GUM-CHEE DY-WAHN-KUY FOH-GAY BOK-LAHM-WUI SEUNG, NGOH-DAY GONG-SEE CHEUNG-SEEN TOEY-CHUT YUN-GONG-JEE-NUNG FAHN-YIK HY-TOONG, JUN-HY YUM-JOR TAU-DAHM-TONG!)",
+          "translation": "At this Greater Bay Area Tech Expo, our company took the lead in launching the AI translation system, really seizing the first-mover advantage!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元22-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "同本地客傾生意嗰陣適當講兩句地道俗語，除咗可以活躍氣氛，仲能瞬間拉近彼此距離。",
+          "reading": "tung4 bun2 dei6 haak3 king1 saang1 ji3 go2 zan6 sik1 dong3 gong2 loeng5 geui3 dei6 dou6 zuk6 jyu5, ceoi4 zo2 ho2 ji5 wut6 joek6 hei3 fan1, zung6 nang4 seon1 gaan1 laai1 kan5 bei2 ci2 keoi5 lei4. [tʰʊŋ˨˩ puːn˧˥ tei˨ haːk̚˧ kʰɪŋ˥ saːŋ˥ jiː˧ kɔː˧˥ tsɐn˨ sɪk̚˥ tɔːŋ˧ kɔːŋ˧˥ lœːŋ˩˧ kɵy˧ tei˨ tou˨ tsʊk̚˨ jyː˩˧, tsʰɵy˨˩ tsɔː˧˥ hɔː˧˥ jiː˩˧ wuːt̚˨ jœːk̚˨ hei˧ fɐn˥, tsʊŋ˨ nɐŋ˨˩ sɵn˥ kaːn˥ laːi˥ kʰɐn˩˧ pei˧˥ tsʰiː˧˥ kʰɵy˩˧ lei˨˩] (TOONG BOON-DAY HAHK KING SAHNG-YEE GOH-JUN SIK-DONG GONG LEUNG-GOEY DAY-DOU JUK-YUE, CHOEY-JOR HOH-YEE WOOT-YERK HEY-FUN, JOONG NUNG SEUN-GAHN LAI-KUN BAY-CHEE KUY-LEY)",
+          "translation": "When negotiating business with local clients, speaking a couple of authentic proverbs appropriately not only enlivens the atmosphere, but also instantly narrows the interpersonal distance."
+        },
+        {
+          "target": "做人處世最緊要明辨是非，千祈唔好聽信小人讒言，搞到自己食死貓。",
+          "reading": "zou6 jan4 cyu3 sai3 zeoi3 gan2 jiu3 ming4 bin6 si6 fei1, cin1 kei4 m4 hou2 teng1 seon3 siu2 jan4 caam4 jin4, gaau2 dou3 zi6 gei2 sik6 sei2 maau1. [tsou˨ jɐn˨˩ tsʰyː˧ sɐi˧ tsɵy˧ kɐn˧˥ jiu˧ mɪŋ˨˩ piːn˨ siː˨ fei˥, tsʰiːn˥ kʰei˨˩ m̩˨˩ hou˧˥ tʰɛːŋ˥ sɵn˧ siu˧˥ jɐn˨˩ tsʰaːm˨˩ jiːn˨˩, kaːu˧˥ tou˧ tsiː˨ kei˧˥ sɪk̚˨ sei˧˥ maːu˥] (JOU-YUN CHY-SY JEOY GUN-YEW MING-BEEN SEE-FAY, CHEEN-KEY M-HOH TENG-SEUN SIU-YUN CHAHM-YEEN, GAU-DOU JEE-GAY SIK-SAY-MAAU)",
+          "translation": "The most important thing in life is to distinguish right from wrong clearly; never listen to petty people's slander and end up being made to take the blame yourself."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【語用分寸訣】商務談判講穩陣，同事協作幽默陳；因人因地選成語，得體高情最服人！"
+      ],
+      "culturalNotes": [
+        "掌握成語俗語在香港高階商務中的得體切換，係衡量非母語人士是否具備『文化雙語能力』（Bicultural Competence）之最高標竿。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"週末\":",
+          "prompt": "【語用語境】在與香港商業合作夥伴簽約時，欲表達「我方承諾該項目絕對穩當、萬無一失」，最得體幽默之表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：紅色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：藍色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：黃色誤用）"
+            "今次合作真係神仙過鐵橋 —— 包穩陣！ (baau1 wan2 zan6 / Rock-solid)",
+            "今次合作真係阿茂整餅！",
+            "今次合作真係水過鴨背！",
+            "今次合作真係泥菩薩過江！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「神仙過鐵橋 —— 包穩陣」在商務溝通中兼具自信承諾與地道幽默。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"週末\":",
+          "prompt": "【職場自衛】告誡年輕員工「要小心核對簽名文件，避免日後替他人背黑鍋」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：藍色未適配）",
-            "聲調助詞搭配欠妥之表達（例項：黃色誤用）",
-            "語序顛倒嘅非標準句式（例項：紅色錯置）"
+            "小心核對，免得幫人食死貓。 (Avoid taking the blame for others)",
+            "小心核對，免得幫人飲頭啖湯。",
+            "小心核對，免得幫人食檸檬。",
+            "小心核對，免得幫人食軟飯。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「食死貓」為替人背黑鍋受過之專屬表達。"
         }
       ]
     },
@@ -9441,15 +9486,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"週末\": Which sentence is completely correct?",
+          "prompt": "【高情商策略】在跨文化商務社交中，巧妙運用廣東話俗語與歇後語之主要價值在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第22課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：黃色誤用）",
-            "語序顛倒嘅非標準句式（例項：紅色錯置）",
-            "混雜生硬詞彙之不規範語句（例項：藍色未適配）"
+            "活躍談判氣氛，展示文化共鳴，迅速拉近與本地夥伴之人際心理距離 (Building rapport & cultural resonance)",
+            "故意讓對方聽不懂以獲取利益",
+            "取代所有正式法律合同條款",
+            "展示自身方言優越感"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "恰當運用本土俗語能展現文化包容度與親和力，快速建立互信與心理共鳴。"
         }
       ],
       "passThreshold": 0.8
