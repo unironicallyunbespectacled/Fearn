@@ -2125,53 +2125,62 @@
     "subject": "hindi",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "अपूर्ण वर्तमान काल (Present Continuous Tense - रहा/रही/रहे) (Part 1)",
+    "title": "अपूर्ण वर्तमान काल की संरचना: धातु + रहा/रही/रहे + सहायक क्रिया",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.1) with authentic linguistic precision.",
+    "objective": "अपूर्ण वर्तमान काल (Present Continuous Tense) के निर्माण नियम, निरंतरता प्रत्ययों (रहा/रही/रहे) तथा कर्ता के लिंग-वचन अनुसार सहायक क्रिया (हूँ/हो/है/हैं) के सटीक समन्वय को सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अपूर्ण वर्तमान काल (Present Continuous Tense) का प्रयोग उन क्रियाओं के लिए किया जाता है जो बोलते समय वर्तमान में निरंतर घटित हो रही हैं:\n\n1. निर्माण का मूल सूत्र (Formula):\n   - **कर्ता + कर्म + [धातु + रहा/रही/रहे] + [हूँ/हो/है/हैं]**\n\n2. निरंतरता प्रत्यय (Continuous Aspect Suffixes):\n   - पुल्लिंग एकवचन: धातु + *'रहा'* (जैसे: पढ़ रहा, खा रहा, जा रहा)\n   - पुल्लिंग बहुवचन / आदरसूचक: धातु + *'रहे'* (जैसे: पढ़ रहे, खा रहे, जा रहे)\n   - स्त्रीलिंग एकवचन: धातु + *'रही'* (जैसे: पढ़ रही, खा रही, जा रही)\n   - स्त्रीलिंग बहुवचन: धातु + *'रही'* + अनुनासिक 'हैं' (जैसे: पढ़ रही हैं, खा रही हैं)।\n\n3. सर्वनामों के साथ पूर्ण रूपांतरण तालिका:\n   - मैं: *मैं लिख रहा हूँ* (पु.) / *मैं लिख रही हूँ* (स्त्री.) — (I am writing)\n   - तू: *तू देख रहा है* (पु.) / *तू देख रही है* (स्त्री.) — (You are watching)\n   - तुम: *तुम क्या कर रहे हो?* (पु.) / *तुम क्या कर रही हो?* (स्त्री.) — (What are you doing?)\n   - आप: *आप बोल रहे हैं* (पु.) / *आप बोल रही हैं* (स्त्री.) — (You are speaking [आदर])\n   - वह/यह: *वह जा रहा है* (पु.) / *वह जा रही है* (स्त्री.) — (He/She is going)\n   - वे/ये: *वे खेल रहे हैं* (पु.) / *वे खेल रही हैं* (स्त्री.) — (They are playing)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 5.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 5."
+          "target": "मैं इस समय हिंदी व्याकरण का एक नया पाठ पढ़ रहा हूँ।",
+          "reading": "main is samay hindi vyaakaran ka ek naya paath padh raha hoon. [mɛ̃ː ɪs səməj hɪn̪d̪iː ʋjaːkərəɳ kaː eːk nəjaː paːʈʰ pəɽʱ rəɦaː hũː] (myn ees suh-MUHY HEEN-dee vyah-kuh-RUHN kah ayk nuh-YAH pahth PUHDH ruh-HAH hoon)",
+          "translation": "I am reading a new lesson of Hindi grammar at this moment."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 5-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सभी बच्चे बाहर हरे मैदान में फुटबॉल खेल रहे हैं।",
+          "reading": "sabhi bachhe baahar hare maidaan mein football khel rahe hain. [səbʱiː bətʃːʰeː baːɦər həreː mɛːd̪aːn mẽː fʊʈbɔːl kʰeːl rəɦeː hɛ̃ː] (SUH-bhee BUHTCH-chay BAH-huhr huh-RAY my-DAHN mayn FOOT-bawl KHAYL ruh-HAY hyn)",
+          "translation": "All the children are playing football outside in the green field."
+        },
+        {
+          "target": "मेरी बहन रसोईघर में हम सबके लिए चाय बना रही है।",
+          "reading": "meri bahan rasoighar mein hum sabke liye chaay bana rahi hai. [meːriː bəɦən rəsoːiːɡʱər mẽː həm səbkeː lɪjeː tʃaːj bənaː rəɦiː hɛː] (MAY-ree BUH-huhn ruh-soy-GHUHR mayn hum SUHB-kay lee-ay CHAH-ee buh-NAH ruh-HEE hy)",
+          "translation": "My sister is making tea for all of us in the kitchen."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "काम चल रहा है = 'रहा/रहे/रही'! पुरुष एक. = पढ़ रहा है; पुरुष बहु. = पढ़ रहे हैं; स्त्री = पढ़ रही है/हैं!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी से फोन पर बात करते समय 'आप क्या कर रहे हैं?' पूछना हाल-चाल जानने का सबसे सामान्य और विनम्र तरीका है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"गाड़ी\":",
+          "prompt": "स्त्रीलिंग बहुवचन कर्ता 'लड़कियाँ' के साथ 'गीत गाना' का अपूर्ण वर्तमान काल रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 5.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बस» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ट्रेन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवाई जहाज़» का अनुचित स्थान)"
+            "लड़कियाँ गीत गा रही हैं (Girls are singing songs [fem. plural continuous])",
+            "लड़कियाँ गीत गा रहे हैं",
+            "लड़कियाँ गीत गाता है",
+            "लड़कियाँ गीत गा रही हो"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग बहुवचन के साथ 'गा रही हैं' (रही + अनुनासिक सहायक क्रिया हैं) आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"गाड़ी\":",
+          "prompt": "सर्वनाम 'आप' (आदरसूचक पुल्लिंग) के साथ 'जाना' क्रिया का सही अपूर्ण वर्तमान रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 5.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ट्रेन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवाई जहाज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बस» का अशुद्ध रूप)"
+            "आप जा रहे हैं (Aap ja rahe hain - You are going)",
+            "आप जा रहा है",
+            "आप जा रही हो",
+            "आप जाते हो"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "आदरसूचक 'आप' के साथ 'धातु + रहे + हैं' (जा रहे हैं) प्रयुक्त होता है।"
         }
       ]
     },
@@ -2179,17 +2188,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"गाड़ी\": Which sentence is completely correct?",
+          "prompt": "अपूर्ण वर्तमान काल के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 5.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवाई जहाज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बस» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ट्रेन» से संबंधित)"
+            "पिताजी समाचार देख रहे हैं और माताजी भोजन परोस रही हैं। (Father is watching news and mother is serving food.)",
+            "पिताजी समाचार देख रहा है और माताजी परोस रहे हैं।",
+            "माताजी भोजन परोसता है।",
+            "पिताजी देख रही हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पिताजी देख रहे हैं» (आदरसूचक पुल्लिंग) और «माताजी परोस रही हैं» (आदरसूचक स्त्रीलिंग) दोनों का व्याकरणिक समन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u5-l2": {
@@ -2197,53 +2207,62 @@
     "subject": "hindi",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "अपूर्ण वर्तमान काल (Present Continuous Tense - रहा/रही/रहे) (Part 2)",
+    "title": "तात्कालिक क्रियाएं और काल-वाचक अव्यय (अभी, इस समय, आजकल)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.2) with authentic linguistic precision.",
+    "objective": "तात्कालिक समय सूचक क्रिया-विशेषणों (अभी, इस समय, आजकल, फिलहाल) का अपूर्ण वर्तमान काल में स्वाभाविक प्रयोग तथा नित्य आदत बनाम तात्कालिक स्थिति के अंतर को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "वर्तमान में घटित हो रही घटनाओं की तात्कालिकता को स्पष्ट करने के लिए विशिष्ट काल-वाचक अव्ययों का प्रयोग किया जाता है:\n\n1. मुख्य तात्कालिक काल-वाचक अव्यय:\n   - *«अभी»* (Right now / Just now): मैं अभी दफ़्तर से निकल रहा हूँ।\n   - *«इस समय»* (At this moment / Currently): इस समय आकाश में बादल गरज रहे हैं।\n   - *«आजकल»* (Nowadays / Currently in progress): आजकल वह एक नई पुस्तक लिख रहा है।\n   - *«फिलहाल»* (For the time being / Presently): फिलहाल हम घर पर विश्राम कर रहे हैं।\n\n2. सामान्य वर्तमान (आदत) बनाम अपूर्ण वर्तमान (तात्कालिक):\n   - *सामान्य आदत*: मैं रोज़ सुबह चाय पीता हूँ। (I drink tea every morning.)\n   - *तात्कालिक क्रिया*: मैं अभी कॉफ़ी पी रहा हूँ। (I am drinking coffee right now.)\n   - *अस्थायी स्थिति*: आम तौर पर वह बस से जाती है, लेकिन आज वह पैदल चल रही है। (Usually she goes by bus, but today she is walking.)",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 5.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 5."
+          "target": "बाहर बहुत तेज़ बारिश हो रही है और ठंडी हवा चल रही है।",
+          "reading": "baahar bahut tez baarish ho rahi hai aur thandi hava chal rahi hai. [baːɦər bəɦʊt̪ t̪eːz baːrɪʃ hoː rəɦiː hɛː ɔːr t̪ʰəɳɖiː həʋaː tʃəl rəɦiː hɛː] (BAH-huhr buh-hoot tayz BAH-reesh hoh ruh-HEE hy owr THUHN-dee huh-VAH chuhl ruh-HEE hy)",
+          "translation": "It is raining very heavily outside and cold wind is blowing."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 5-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हम इस समय परीक्षा की तैयारी के लिए महत्वपूर्ण नोट्स बना रहे हैं।",
+          "reading": "hum is samay pareeksha ki taiyaari ke liye mahatvapoorna notes bana rahe hain. [həm ɪs səməj pəriːkʃaː kiː t̪ɛːjaːriː keː lɪjeː məɦət̪ʋəpuːrɳə noːʈs bənaː rəɦeː hɛ̃ː] (hum ees suh-MUHY puh-REEK-shah kee ty-YAH-ree kay lee-ay muh-huht-vuh-POOR-nuh nohts buh-NAH ruh-HAY hyn)",
+          "translation": "We are making important notes for exam preparation at this moment."
+        },
+        {
+          "target": "आजकल वे अपने नए घर की सजावट में व्यस्त रह रहे हैं।",
+          "reading": "aajkal ve apne naye ghar ki sajaavat mein vyast rah rahe hain. [aːdʒkəl ʋeː əpneː nəjeː ɡʱər kiː sədʒaːʋəʈ mẽː ʋjəst̪ rəɦ rəɦeː hɛ̃ː] (AHJ-kuhl way uhp-NAY nuh-YAY ghuhr kee suh-JAH-vuht mayn vyuhst ruh ruh-HAY hyn)",
+          "translation": "Nowadays they are staying busy with decorating their new house."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अभी / इस समय = Right now (अपूर्ण वर्तमान); रोज़ / हमेशा = Habit (सामान्य वर्तमान - ता/ती/ते)!"
+      ],
+      "culturalNotes": [
+        "हिंदी में 'बारिश हो रही है' (It is raining) और 'हवा चल रही है' (Wind is blowing) दोनों प्राकृतिक क्रियाओं में स्त्रीलिंग अन्वय होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बस\":",
+          "prompt": "वर्तमान में ठीक इसी क्षण हो रही क्रिया (Right now) दर्शाने के लिए कौन-सा काल-वाचक अव्यय सबसे उपयुक्त है?",
           "options": [
-            "हम इस पाठ में इकाई 5.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ट्रेन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवाई जहाज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मेट्रो» का अनुचित स्थान)"
+            "अभी / इस समय (Abhi / Is samay - Right now / At this moment)",
+            "कल",
+            "परसों",
+            "रोज़"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ठीक वर्तमान क्षण दर्शाने के लिए «अभी» अथवा «इस समय» का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बस\":",
+          "prompt": "वाक्य «बाहर तेज़ हवा ___ रही है» में उचित क्रिया-रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 5.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवाई जहाज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मेट्रो» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ट्रेन» का अशुद्ध रूप)"
+            "चल (Chal rahi hai - Wind is blowing [fem.])",
+            "दौड़",
+            "उड़",
+            "सो"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "हवा के बहने के लिए हिंदी में मानक मुहावरेदार क्रिया «चलना» (हवा चल रही है) प्रयुक्त होती है।"
         }
       ]
     },
@@ -2251,17 +2270,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बस\": Which sentence is completely correct?",
+          "prompt": "तात्कालिक क्रिया और समय-अव्यय का शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 5.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मेट्रो» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ट्रेन» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हवाई जहाज़» से संबंधित)"
+            "हम अभी दफ़्तर पहुँच रहे हैं और बैठक शुरू हो रही है। (We are reaching the office right now and the meeting is starting.)",
+            "हम अभी दफ़्तर पहुँचता है और बैठक शुरू होती है।",
+            "बैठक शुरू हो रहा है अभी।",
+            "हम रोज़ अभी पहुँच रहे हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«हम अभी दफ़्तर पहुँच रहे हैं और बैठक शुरू हो रही है» तात्कालिक वर्तमान का पूर्णतः मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u5-l3": {
@@ -2269,53 +2289,62 @@
     "subject": "hindi",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "अपूर्ण वर्तमान काल (Present Continuous Tense - रहा/रही/रहे) (Part 3)",
+    "title": "अपूर्ण वर्तमान काल में नकारात्मक वाक्य और 'नहीं' का संयोजन",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.3) with authentic linguistic precision.",
+    "objective": "अपूर्ण वर्तमान काल में 'नहीं' के सही स्थान तथा नकारात्मक वाक्यों में सहायक क्रिया (हूँ/है/हैं/हो) के अनिवार्य प्रयोग को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अपूर्ण वर्तमान काल में नकारात्मक वाक्य बनाने के नियम अत्यंत स्पष्ट हैं:\n\n1. 'नहीं' का मानक स्थान:\n   - 'नहीं' (Nahin) को हमेशा निरंतरता क्रिया-पद (रहा/रही/रहे) से पहले, धातु के ठीक आगे या धातु से पहले रखा जाता है:\n   - मानक पदक्रम: **कर्ता + [नहीं] + [धातु + रहा/रही/रहे] + [सहायक क्रिया]**\n   - उदाहरण: मैं नहीं जा रहा हूँ। (I am not going.)\n   - उदाहरण: वह खाना नहीं खा रहा है। (He is not eating food.)\n\n2. सहायक क्रिया का अनिवार्य रूप से बने रहना:\n   - सामान्य वर्तमान काल (ता/ती/ते) के विपरीत, अपूर्ण वर्तमान काल (रहा/रही/रहे) में नकारात्मक वाक्यों में सहायक क्रिया (हूँ, है, हैं, हो) सामान्यतः **नहीं हटती**:\n     - *शुद्ध*: हम काम नहीं कर रहे हैं। (We are not working.)\n     - *अशुद्ध/अपूर्ण*: हम काम नहीं कर रहे। (कम प्रचलित)\n\n3. 'नहीं' का प्रभाव:\n   - नकारात्मक वाक्य में क्रिया का लिंग और वचन कर्ता के अनुसार ही निर्धारित रहता है (जैसे: 'वह नहीं सो रही है')।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 5.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 5."
+          "target": "हम आज शाम को सिनेमा देखने नहीं जा रहे हैं।",
+          "reading": "hum aaj shaam ko cinema dekhne nahin ja rahe hain. [həm aːdʒ ʃaːm koː sɪneːmaː d̪eːkʰneː nəɦĩː dʒaː rəɦeː hɛ̃ː] (hum ahj shahm koh SEE-nay-mah DAYKH-nay nuh-HEEN JAH ruh-HAY hyn)",
+          "translation": "We are not going to watch a movie this evening."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 5-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वह अभी अपना गृहकार्य नहीं कर रहा है, बल्कि टीवी देख रहा है।",
+          "reading": "vah abhi apna grihkaary nahin kar raha hai, balki tv dekh raha hai. [ʋəh əbʱiː əpnaː ɡrɪɦkaːrjə nəɦĩː kər rəɦaː hɛː bəlkɪ ʈiːʋiː d̪eːkʰ rəɦaː hɛː] (wuh UH-bhee uhp-NAH greeh-KAHR-yuh nuh-HEEN KUHR ruh-HAH hy, BUHL-kee tee-vee DAYKH ruh-HAH hy)",
+          "translation": "He is not doing his homework right now, but rather watching TV."
+        },
+        {
+          "target": "रीता आज बाज़ार नहीं जा रही है क्योंकि उसकी तबीयत ठीक नहीं है।",
+          "reading": "reeta aaj bazaar nahin ja rahi hai kyonki uski tabiyat theek nahin hai. [riːt̪aː aːdʒ bəzaːr nəɦĩː dʒaː rəɦiː hɛː kjoː̃kɪ ʊskiː t̪əbiːjət̪ tʰiːk nəɦĩː hɛː] (REE-tah ahj buh-ZAHR nuh-HEEN JAH ruh-HEE hy KYOHN-kee OOS-kee tuh-BEE-yuht THEEK nuh-HEEN hy)",
+          "translation": "Reeta is not going to the market today because her health is not well."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रहा/रही/रहे से पहले 'नहीं' लगाओ और अंत में 'है/हैं/हूँ' ज़रूर लगाओ: 'मैं नहीं जा रहा हूँ'!"
+      ],
+      "culturalNotes": [
+        "अस्वस्थ होने पर 'मेरी तबीयत ठीक नहीं है' (My health is not well) कहना हिंदी में अनुपस्थिति या असमर्थता व्यक्त करने का सबसे विनम्र सामाजिक वाक्य है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ट्रेन\":",
+          "prompt": "वाक्य «वह नहीं पढ़ रहा ___» में अपूर्ण वर्तमान काल की पूर्णता हेतु कौन-सी सहायक क्रिया आएगी?",
           "options": [
-            "हम इस पाठ में इकाई 5.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवाई जहाज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मेट्रो» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («टिकट» का अनुचित स्थान)"
+            "है (Vah nahin padh raha hai - He is not studying)",
+            "था",
+            "हूँ",
+            "होगा"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "एकवचन अन्य पुरुष कर्ता 'वह' के साथ वर्तमान सहायक क्रिया «है» आती है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ट्रेन\":",
+          "prompt": "सकारात्मक वाक्य «वे खेल रहे हैं» का शुद्ध नकारात्मक रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 5.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मेट्रो» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («टिकट» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवाई जहाज़» का अशुद्ध रूप)"
+            "वे नहीं खेल रहे हैं (Ve nahin khel rahe hain - They are not playing)",
+            "वे खेल नहीं हैं रहे",
+            "वे मत खेल रहे हैं",
+            "वे नहीं खेलते हैं"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "मानक नकारात्मक रूप «वे नहीं खेल रहे हैं» है।"
         }
       ]
     },
@@ -2323,17 +2352,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ट्रेन\": Which sentence is completely correct?",
+          "prompt": "अपूर्ण वर्तमान नकारात्मक की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 5.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («टिकट» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हवाई जहाज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मेट्रो» से संबंधित)"
+            "छात्र शोर नहीं मचा रहे हैं और शांतिपूर्वक अपना काम कर रहे हैं। (Students are not making noise and are peacefully doing their work.)",
+            "छात्र शोर मचा नहीं रहे हैं मत।",
+            "छात्र शोर नहीं मचाता हैं।",
+            "छात्र नहीं मचा रहा है शोर।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«शोर नहीं मचा रहे हैं» में 'नहीं' का स्थान और बहुवचन क्रिया का प्रयोग पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u5-l4": {
@@ -2341,53 +2371,62 @@
     "subject": "hindi",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "अपूर्ण वर्तमान काल (Present Continuous Tense - रहा/रही/रहे) (Part 4)",
+    "title": "अपूर्ण वर्तमान में प्रश्नवाचक संरचनाएं (आप क्या कर रहे हैं?)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.4) with authentic linguistic precision.",
+    "objective": "अपूर्ण वर्तमान काल में सूचनात्मक प्रश्न (क्या कर रहे हैं, कहाँ जा रहे हैं, क्यों हँस रहे हैं) तथा हाँ/नहीं वाले प्रश्नों के सटीक पदक्रम में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "दैनिक जीवन में वर्तमान गतिविधियों के विषय में प्रश्न पूछने के लिए अपूर्ण वर्तमान काल की प्रश्नवाचक संरचनाओं का प्रयोग होता है:\n\n1. सूचनात्मक प्रश्न (Information Questions — Wh-words):\n   - प्रश्नवाचक शब्द (क्या, कहाँ, कब, क्यों, कैसे, किससे) हमेशा मुख्य क्रिया (धातु + रहा) के ठीक पहले आता है:\n     - *क्या* (What): आप इस समय **क्या कर रहे हैं**? (What are you doing?)\n     - *कहाँ* (Where): तुम कहाँ जा रहे हो? (Where are you going?)\n     - *क्यों* (Why): वह क्यों रो रही है? (Why is she crying?)\n     - *किससे* (With whom): वे किससे बात कर रहे हैं? (Whom are they talking to?)\n     - *कैसे* (How): आप यह काम कैसे कर रहे हैं? (How are you doing this work?)\n\n2. हाँ/नहीं वाले प्रश्न (Polar / Yes-No Questions):\n   - वाक्य के आरंभ में 'क्या' लगाकर प्रश्न पूछा जाता है:\n     - क्या आप मेरी आवाज़ सुन रहे हैं? (Are you listening to my voice?)\n     - उत्तर: जी हाँ, मैं आपकी बात सुन रहा हूँ। (Yes, I am listening to you.)\n     - उत्तर: जी नहीं, मुझे आवाज़ नहीं आ रही है। (No, I am not getting the voice.)",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 5.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 5."
+          "target": "क्षमा कीजिए, आप इस समय किस विषय पर चर्चा कर रहे हैं?",
+          "reading": "kshama keejiye, aap is samay kis vishay par charcha kar rahe hain? [kʃəmaː kiːdʒɪjeː aːp ɪs səməj kɪs ʋɪʂəj pər tʃərtʃaː kər rəɦeː hɛ̃ː] (kshu-MAH KEE-jee-yay, ahp ees suh-MUHY kees vee-SHUY puhr chuhr-CHAH KUHR ruh-HAY hyn)",
+          "translation": "Excuse me, on which subject are you discussing at this moment?"
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 5-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्या आप सब लोग आज शाम के संगीत समारोह में आ रहे हैं?",
+          "reading": "kya aap sab log aaj shaam ke sangeet samaaroh mein aa rahe hain? [kjaː aːp səb loːɡ aːdʒ ʃaːm keː səŋɡiːt̪ səmaːroːɦ mẽː aː rəɦeː hɛ̃ː] (kyah ahp suhb lohg ahj shahm kay suhn-GEET suh-mah-ROH mayn AH ruh-HAY hyn)",
+          "translation": "Are all of you coming to this evening's music concert?"
+        },
+        {
+          "target": "रोहन और अमित बाहर इतनी ज़ोर-ज़ोर से क्यों हँस रहे हैं?",
+          "reading": "rohan aur amit baahar itni zor-zor se kyon hans rahe hain? [roːɦən ɔːr əmɪt̪ baːɦər ɪt̪niː zoːr zoːr seː kjoː̃ həs rəɦeː hɛ̃ː] (ROH-huhn owr UH-meet BAH-huhr eet-NEE zohr-zohr say KYOHN HUHNS ruh-HAY hyn)",
+          "translation": "Why are Rohan and Amit laughing so loudly outside?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "क्या कर रहे हैं? = What are you doing? कहाँ जा रहे हैं? = Where are you going? प्रश्नवाचक शब्द क्रिया से ठीक पहले!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी परिचित से मिलते ही 'कहाँ जा रहे हैं?' पूछना औपचारिकता नहीं बल्कि स्नेह और आत्मीयता प्रकट करने का अनौपचारिक अभिवादन है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"हवाई जहाज़\":",
+          "prompt": "दैनिक बातचीत में 'What are you doing?' पूछने के लिए सबसे मानक और शिष्ट हिंदी वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 5.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मेट्रो» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («टिकट» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्टेशन» का अनुचित स्थान)"
+            "आप क्या कर रहे हैं? (Aap kya kar rahe hain? - What are you doing?)",
+            "आप कहाँ जाते हो?",
+            "क्या आप करते हैं?",
+            "आप क्यों कर रहे हैं?"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'What are you doing?' के लिए मानक वाक्य «आप क्या कर रहे हैं?» है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"हवाई जहाज़\":",
+          "prompt": "वाक्य «तुम इतनी तेज़ क्यों दौड़ ___ हो?» में रिक्त स्थान भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 5.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («टिकट» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्टेशन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मेट्रो» का अशुद्ध रूप)"
+            "रहे (Tum itni tez kyon daud rahe ho? - Why are you running so fast?)",
+            "रहा",
+            "रही",
+            "हैं"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सर्वनाम 'तुम' (पुल्लिंग) के साथ 'रहे हो' का प्रयोग होता है।"
         }
       ]
     },
@@ -2395,17 +2434,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"हवाई जहाज़\": Which sentence is completely correct?",
+          "prompt": "अपूर्ण वर्तमान प्रश्नवाचक वाक्य का सर्वथा शुद्ध रूप चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 5.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्टेशन» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मेट्रो» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («टिकट» से संबंधित)"
+            "आप आज रात को कहाँ ठहर रहे हैं और कल कब निकल रहे हैं? (Where are you staying tonight and when are you leaving tomorrow?)",
+            "आप कहाँ ठहरता है और कब निकलती है?",
+            "कहाँ आप ठहर रहे हैं क्या?",
+            "निकल रहे हैं कब आप?"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कहाँ ठहर रहे हैं» और «कब निकल रहे हैं» में प्रश्नवाचक पदक्रम और निरंतरता का समन्वय सटीक है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u5-l5": {
@@ -2413,53 +2453,62 @@
     "subject": "hindi",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "अपूर्ण वर्तमान काल (Present Continuous Tense - रहा/रही/रहे) (Part 5)",
+    "title": "स्थैतिक अवस्था बनाम गतिशील क्रिया: बैठना (बैठा है), खड़ा होना, लेटना और पहनना",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 5.5) with authentic linguistic precision.",
+    "objective": "हिंदी की स्थैतिक अवस्था सूचक क्रियाओं (बैठा है, खड़ा है, लेटा है, पहने हुए है) और गतिशील निरंतरता (बैठ रहा है, खड़ा हो रहा है) के मौलिक अंतर को समझना और शुद्ध प्रयोग करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी और अंग्रेजी व्याकरण के बीच एक अत्यंत महत्वपूर्ण संरचनात्मक अंतर 'अवस्था सूचक' (Stative) बनाम 'गतिशील' (Action) क्रियाओं में पाया जाता है:\n\n1. अवस्था (State) बनाम क्रिया की गति (Motion):\n   - *अंग्रेजी में*: 'He is sitting' और 'He is sitting down' दोनों में Continuous रूप का प्रयोग होता है।\n   - *हिंदी में अंतर*:\n     - गति/प्रक्रिया (Process of sitting): 'वह बैठ रहा है' (He is in the process of sitting down right now);\n     - अवस्था (Already seated): *«वह बैठा है»* (He is [already] seated / sitting on the chair)।\n\n2. प्रमुख स्थैतिक अवस्था सूचक क्रियाएं:\n   - *बैठना* (To sit): वह कुर्सी पर **बैठा है** (पु.एक.) / वह **बैठी है** (स्त्री.एक.) / वे **बैठे हैं** (बहु.)।\n   - *खड़ा होना* (To stand): दरवाजे पर कोई **खड़ा है** (पु.) / वह **खड़ी है** (स्त्री.) / लोग **खड़े हैं** (बहु.)।\n   - *लेटना* (To lie down): मरीज़ बिस्तर पर **लेटा है** (पु.) / वह **लेटी है** (स्त्री.)।\n   - *पहनना* (To wear): उसने नया कुरता **पहना है** अथवा वह कुरता **पहने हुए है** (Wearing clothes)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 5.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 5."
+          "target": "कक्षा में अध्यापक जी कुर्सी पर बैठे हैं और सभी छात्र खड़े हैं।",
+          "reading": "kaksha mein adhyaapak jee kursi par baithe hain aur sabhi chhaatr khade hain. [kəkʃaː mẽː əd̪ʱjaːpək dʒiː kʊrsiː pər bɛːʈʰeː hɛ̃ː ɔːr səbʱiː tʃʰaːt̪r kʰəɽeː hɛ̃ː] (KUHK-shah mayn uh-DHYAH-puhk jee KOOR-see puhr BY-thay hyn owr SUH-bhee CHHAH-truh KHUH-day hyn)",
+          "translation": "In the classroom, the respected teacher is seated on the chair and all students are standing."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 5-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वह सुंदर सफ़ेद कमीज़ और नीली पतलून पहने हुए है।",
+          "reading": "vah sundar safed kameez aur neeli patloon pahne hue hai. [ʋəh sʊn̪d̪ər səfeːd̪ kəmiːz ɔːr niːliː pət̪luːn pɛɦneː hʊeː hɛː] (wuh SOON-duhr suh-FAYD kuh-MEEZ owr NEE-lee puht-LOON PUH-hnay HOO-ay hy)",
+          "translation": "He is wearing a beautiful white shirt and blue trousers."
+        },
+        {
+          "target": "मरीज़ आराम से बिस्तर पर लेटा है और डॉक्टर दवा दे रहे हैं।",
+          "reading": "mareez aaraam se bistar par leta hai aur doctor dava de rahe hain. [məriːz aːraːm seː bɪst̪ər pər leːʈaː hɛː ɔːr ɖɔːkʈər d̪əʋaː d̪eː rəɦeː hɛ̃ː] (muh-REEZ ah-RAHM say BEES-tuhr puhr LAY-tah hy owr DAHK-tuhr duh-VAH DAY ruh-HAY hyn)",
+          "translation": "The patient is lying comfortably on the bed and the doctor is giving medicine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पहले से बैठा है = 'बैठा है' (Stative); अभी नीचे बैठ रहा है = 'बैठ रहा है' (Action)! खड़ा है, लेटा है, पहने है = स्थिति!"
+      ],
+      "culturalNotes": [
+        "भारतीय शिष्टाचार में जब कोई बड़ा या अतिथि कमरे में प्रवेश करता है, तो बैठे हुए लोग सम्मानपूर्वक 'खड़े हो जाते हैं' (stand up)।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"मेट्रो\":",
+          "prompt": "यदि कोई व्यक्ति पहले से कुर्सी पर विराजमान (Seated) है, तो उसके लिए शुद्ध हिंदी अभिव्यक्ति क्या होगी?",
           "options": [
-            "हम इस पाठ में इकाई 5.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («टिकट» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्टेशन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवाई अड्डा» का अनुचित स्थान)"
+            "वह कुर्सी पर बैठा है (Vah kursi par baitha hai - He is seated/sitting on the chair)",
+            "वह कुर्सी पर बैठ रहा है",
+            "वह कुर्सी पर बैठता हूँ",
+            "वह कुर्सी पर बैठेगा"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "बैठने की निरंतर अवस्था (Stative posture) के लिए «बैठा है» का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"मेट्रो\":",
+          "prompt": "स्त्रीलिंग कर्ता 'सीमा' के पहले से खड़े होने की स्थिति को बताने वाला वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 5.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्टेशन» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवाई अड्डा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («टिकट» का अशुद्ध रूप)"
+            "सीमा दरवाजे पर खड़ी है (Seema darvaaje par khadi hai - Seema is standing at the door)",
+            "सीमा दरवाजे पर खड़ा है",
+            "सीमा दरवाजे पर खड़े हैं",
+            "सीमा दरवाजे पर खड़ी हो रही है"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "स्त्रीलिंग एकवचन की स्थैतिक अवस्था के लिए «खड़ी है» का प्रयोग होता है।"
         }
       ]
     },
@@ -2467,17 +2516,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"मेट्रो\": Which sentence is completely correct?",
+          "prompt": "स्थैतिक अवस्था और पहनावे के सही व्याकरणिक प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 5.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हवाई अड्डा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («टिकट» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्टेशन» से संबंधित)"
+            "वह लाल कुरता पहने हुए मंच पर खड़ा है और लोग सामने बैठे हैं। (He is standing on the stage wearing a red kurta and people are seated in front.)",
+            "वह लाल कुरता पहन रहा है मंच पर खड़ा रहा है और लोग बैठ रहे हैं।",
+            "लोग खड़ा है और वह बैठी है।",
+            "मंच पर लेटा हुआ गाता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पहने हुए» (पहनावा), «खड़ा है» (खड़े होने की अवस्था) और «बैठे हैं» (बैठने की अवस्था) तीनों का प्रयोग पूर्णतः प्रामाणिक है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u6-l1": {
