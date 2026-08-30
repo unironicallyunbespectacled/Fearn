@@ -12909,56 +12909,65 @@
     "subject": "korean",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) (Part 1)",
+    "title": "인생의 변화와 운명을 통찰하는 사자성어 (Life Philosophy & Fate)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 사자성어와 고사 (Sino-Korean Four-Character Idioms).",
+    "objective": "새옹지마, 고진감래, 전화위복, 화무십일홍, 격세지감의 유래와 함의를 이해하고 고급 담화에서 운명과 세월의 무상함을 논평한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) » (제1절)의 핵심 언어 요소와 사자성어와 고사 (Sino-Korean Four-Character Idioms)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 고급 담화 및 신문 사설, 문학 평론에서 인간 만사의 변화무쌍함과 세월의 흐름을 비유하는 핵심 사자성어입니다.\n\n1. 운명과 변화의 통찰:\n- **새옹지마(塞翁之馬 - 변방 새, 늙은이 옹, 갈 지, 말 마)**: 변방 노인의 말처럼 인생의 길흉화복은 변화가 무쌍하여 예측하기 어렵다는 뜻\n- **고진감래(苦盡甘來 - 쓸 고, 다할 진, 달 감, 올 래)**: 쓴 것이 다하면 단 것이 온다는 뜻으로, 고생 끝에 반드시 낙과 보람이 찾아옴을 이르는 말\n- **전화위복(轉禍爲福 - 구를 전, 재앙 화, 될 위, 복 복)**: 재앙이 바뀌어 오히려 복이 됨\n\n2. 세월과 무상감의 통찰:\n- **화무십일홍(花無十日紅 - 꽃 화, 없을 무, 열 십, 날 일, 붉을 홍)**: 열흘 붉은 꽃이 없다는 뜻으로, 한번 번성한 권세나 부귀영화도 언젠가는 쇠퇴함을 비유\n- **격세지감(隔世之感 - 사이 뜰 격, 인간 세, 갈 지, 느낄 감)**: 딴 세대처럼 몰라보게 달라진 세상의 변화를 보며 느끼는 깊은 감회",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (28.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "사업 실패로 큰 시련을 겪었으나 포기하지 않고 재도전하여 대성공을 거두었으니 이야말로 전화위복이자 고진감래입니다.",
+          "reading": "Sa-eop silpae-ro keun siryeon-eul gyeok-eosseuna pogihaji anko jaedobjeonhayeo daeseonggong-eul geodu-eosseuni iyammallo jeonhwawibok-ija gojin-gamrae-imnida.",
+          "translation": "Though suffering great trials from business failure, challenging again without giving up brought huge success, so this is truly turning misfortune into a blessing ('전화위복') and sweet coming after bitter ('고진감래')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (28.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "인생만사는 새옹지마라 하였으니, 오늘의 작은 실패에 너무 좌절하거나 일희일비할 필요가 전혀 없습니다.",
+          "reading": "Insaengmansa-neun sae-ongjima-ra hayeosseuni, oneul-ui jageun silpae-e neomu jwajeolhageona ilhwi-ilbi-hal piryo-ga jeonhyeo eopseumnida.",
+          "translation": "Since all human affairs are like the old man's horse ('새옹지마'), there is no need at all to be overly frustrated or alternate between joy and grief over today's small setback."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (28.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "폐허가 되었던 한강변이 최첨단 스마트 도시로 눈부시게 변모한 모습을 바라보며 참으로 격세지감을 느꼈습니다.",
+          "reading": "Pyeheo-ga doe-eotdeon Hangangbyeon-i choecheomdan seumateu dosi-ro nunbusige byeonmohan moseub-eul barabomyeo cham-euro gyeokse-jigam-eul neukkyeotseumnida.",
+          "translation": "Looking at how the Hangang riverside that used to be ruins transformed dazzlingly into a state-of-the-art smart city, I truly felt a sense of a whole new world ('격세지감')."
+        },
+        {
+          "target": "권력의 영원함을 믿고 오만방자하게 행동하던 독재자도 결국 화무십일홍의 섭리 앞에 비참하게 몰락하고 말았습니다.",
+          "reading": "Gwonryeok-ui yeong-wonham-eul mitgo omanbangjahage haengdonghadeon dokjaeja-do gyeolguk hwamusip-ilhong-ui seobri ap-e bichamhage mollakhago maratseumnida.",
+          "translation": "Even the dictator who acted arrogantly believing in the eternity of power ended up falling miserably before the providence that no flower stays red for ten days ('화무십일홍')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "새옹지마로 일희일비 금지, 고진감래로 인내, 전화위복으로 위기 탈출, 격세지감으로 발전 실감!"
+      ],
+      "culturalNotes": [
+        "한국인들은 수능 시험, 취업 준비, 창업 등 인생의 중대한 고비마다 '고진감래'와 '새옹지마'를 좌우명으로 삼아 마음을 다잡고 겸손과 끈기를 유지합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "고생과 어려움을 꿋꿋이 이겨내고 나면 반드시 달콤한 행복과 결실이 찾아온다는 뜻의 사자성어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (28.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (28.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (28.1.3)."
+            "고진감래 (苦盡甘來)",
+            "양두구육 (羊頭狗肉)",
+            "주마간산 (走馬看山)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'쓴 것이 다하면 단 것이 온다'는 뜻으로 고생 끝의 보람을 나타내는 고사성어는 '고진감래'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "과거와 비교하여 세상이 놀랍고 몰라보게 달라져 다른 세상에 온 것 같은 깊은 감회를 뜻하는 사자성어는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (28.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (28.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (28.1.3)."
+            "격세지감 (隔世之感)",
+            "탁상공론 (卓上空論)",
+            "화무십일홍 (花無十日紅)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "세월이 흘러 세상의 변화가 극심하여 세대 차이를 실감할 때 느끼는 감정은 '격세지감'입니다."
         }
       ]
     },
@@ -12966,14 +12975,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 28-1)?",
+          "prompt": "재앙이나 위기가 오히려 좋은 기회나 복으로 바뀐 상황을 가장 잘 나타낸 고사성어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (28.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (28.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (28.1.3)."
+            "전화위복 (轉禍爲福)",
+            "새옹지마 (塞翁之馬)",
+            "백절불굴 (百折不屈)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "재앙(禍)이 굴러 복(福)이 된다는 뜻의 사자성어는 '전화위복'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'고진감래와 전화위복을 믿어요'(I believe in sweet after bitter and turning misfortune into blessing)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "고진감래와 전화위복을 믿어요.",
+            "고진감래와 전화위복을 믿어요"
+          ],
+          "explanation": "고진감래와 + 전화위복을 + 믿어요 = 고진감래와 전화위복을 믿어요."
         }
       ]
     }
@@ -12983,56 +13001,65 @@
     "subject": "korean",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) (Part 2)",
+    "title": "인간관계, 우정과 학문적 배움의 사자성어 (Friendship & Lifelong Learning)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 사자성어와 고사 (Sino-Korean Four-Character Idioms).",
+    "objective": "관포지교, 수어지교, 청출어람, 온고지신, 타산지석의 의미를 통달하고 인간적 신의와 학문 탐구의 태도를 고급 한국어로 표현한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) » (제2절)의 핵심 언어 요소와 사자성어와 고사 (Sino-Korean Four-Character Idioms)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "진정한 우정, 군신 간의 두터운 신뢰, 그리고 학문과 인격 수양의 기본자세를 압축적으로 보여주는 사자성어입니다.\n\n1. 참된 우정과 군신의 신의:\n- **관포지교(管鮑之交)**: 관중과 포숙아의 사귐처럼 친구의 결점과 처지를 깊이 이해하고 끝까지 믿어주는 변치 않는 진실한 우정\n- **수어지교(水魚之交)**: 물과 물고기의 관계처럼 서로 떨어질 수 없는 극히 친밀하고 두터운 교분 (유비와 제갈량의 관계에서 유래)\n\n2. 배움과 인격 도야:\n- **청출어람(靑出於藍)**: 쪽에서 뽑아낸 푸른 물감이 쪽풀보다 더 푸르다는 뜻으로, 제자가 스승보다 더 뛰어남을 비유\n- **온고지신(溫故知新)**: 옛것을 익히고 그것을 미루어 새로운 지식과 이치를 깨달음\n- **타산지석(他山之石)**: 다른 산의 거친 돌이라도 내 옥을 가는 숫돌로 쓸 수 있다는 뜻으로, 다른 사람의 하찮은 언행이나 실패조차도 자신의 인격과 역량을 닦는 교훈으로 삼음",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (28.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "스승님의 가르침을 성실히 이어받아 세계적인 석학으로 성장했으니 진정한 청출어람의 표본이라 할 수 있습니다.",
+          "reading": "Seuseungnim-ui gareuchim-eul seongsilhi i-eobada segyejeogin seokhag-euro seongjanghaesseuni jinjeonghan cheongchul-eoram-ui pyobon-ira hal su itseumnida.",
+          "translation": "Faithfully carrying on the master's teachings and growing into a world-class scholar, he can be called a true model of the pupil outshining the master ('청출어람')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (28.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "타사의 이번 실패 사례를 타산지석으로 삼아 우리 프로젝트의 안전 관리 시스템을 원점에서 전면 재검토해야 합니다.",
+          "reading": "Tasa-ui ibeon silpae sarye-reul tasan-jiseog-euro sama uri peurojekteu-ui anjeon gwanri siseutem-eul wonjeom-eseo jeonmyeon jaegeomtohaeya hamnida.",
+          "translation": "Taking the other company's recent failure case as a stone from another mountain to polish our jade ('타산지석으로 삼아'), we must re-examine our project's safety management system from scratch."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (28.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "창업 초기부터 온갖 풍파를 함께 겪으며 쌓아 올린 두 공동 창업자의 신뢰는 그야말로 관포지교이자 수어지교였습니다.",
+          "reading": "Changeop chogi-buteo on-gat pungpa-reul hamkke gyeok-eumyeo ssaha ollin du gongdong changeopja-ui sinroe-neun geuyammallo gwanpo-jigyo-ija su-eo-jigyo-yeotseumnida.",
+          "translation": "The trust between the two co-founders built up while weathering all kinds of hardships together from early startup days was truly friendship like Guan and Bao ('관포지교') and relationship like fish and water ('수어지교')."
+        },
+        {
+          "target": "전통문화의 본질적 가치를 계승하면서 현대적 감각을 접목하는 온고지신의 정신이야말로 K-컬처 혁신의 원동력입니다.",
+          "reading": "Jeontongmunhwa-ui bonjiljeok gachi-reul gyeseunghamyeonseo hyeondaejeok gamgag-eul jeopmokhaneun on-go-jisin-ui jeongsin-iyammallo Kei-keolcheo hyeoksin-ui wondongryeog-imnida.",
+          "translation": "The spirit of reviewing the old to learn the new ('온고지신'), inheriting traditional culture's essential values while blending modern sensibilities, is the driving force of K-culture innovation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "스승 넘어서면 청출어람, 옛것 익혀 새것 알면 온고지신, 남의 실수는 타산지석, 절친은 관포지교!"
+      ],
+      "culturalNotes": [
+        "한국의 교육 현장과 기업 조직에서는 스승이 제자의 성장을 격려할 때 '청출어람'을 최고의 찬사로 여기며, 타사의 위기를 비난하기보다 '타산지석'으로 삼아 자성하는 겸손을 높이 평가합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "남의 잘못이나 하찮은 실수라도 자신의 인격과 교훈을 닦는 거울로 삼는다는 뜻의 사자성어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (28.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (28.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (28.2.3)."
+            "타산지석 (他山之石)",
+            "양두구육 (羊頭狗肉)",
+            "화무십일홍 (花無十日紅)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'다른 산의 돌로 내 옥을 간다'는 뜻으로 남의 허물을 교훈 삼는 사자성어는 '타산지석'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "옛것을 연구하여 거기서 새로운 지식과 지혜를 터득한다는 뜻의 공자 학문 철학 사자성어는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (28.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (28.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (28.2.3)."
+            "온고지신 (溫故知新)",
+            "주마간산 (走馬看山)",
+            "적반하장 (賊反荷杖)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'옛것을 온(익히고) 새것을 지(알다)'는 뜻의 배움의 철학은 '온고지신'입니다."
         }
       ]
     },
@@ -13040,14 +13067,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 28-2)?",
+          "prompt": "제자가 스승의 가르침을 바탕으로 더욱 정진하여 스승보다 뛰어난 학문적 성취를 거두었을 때 쓰는 성어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (28.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (28.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (28.2.3)."
+            "청출어람 (靑出於藍)",
+            "새옹지마 (塞翁之馬)",
+            "관포지교 (管鮑之交)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "'쪽에서 난 푸른 물감이 쪽보다 더 푸르다'는 뜻으로 제자의 뛰어남을 찬양하는 성어는 '청출어람'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'온고지신과 타산지석의 자세로 배워요'(I learn with the attitude of reviewing the old to know the new and learning from others' flaws)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "온고지신과 타산지석의 자세로 배워요.",
+            "온고지신과 타산지석의 자세로 배워요"
+          ],
+          "explanation": "온고지신과 + 타산지석의 + 자세로 + 배워요 = 온고지신과 타산지석의 자세로 배워요."
         }
       ]
     }
@@ -13057,56 +13093,65 @@
     "subject": "korean",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) (Part 3)",
+    "title": "불굴의 의지, 유비무환과 도덕적 결단 (Perseverance & Ethical Resolve)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 사자성어와 고사 (Sino-Korean Four-Character Idioms).",
+    "objective": "와신상담, 백절불굴, 견리사의, 역지사지, 유비무환의 깊은 뜻을 익히고 위기 대처와 리더십 결단의 담론을 구성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) » (제3절)의 핵심 언어 요소와 사자성어와 고사 (Sino-Korean Four-Character Idioms)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "인생의 역경에 맞서는 불굴의 투지와 도덕적 결단력, 위기관리의 선제적 지혜를 담은 사자성어입니다.\n\n1. 불굴의 투지와 인내:\n- **와신상담(臥薪嘗膽 - 누울 와, 섶나무 신, 맛볼 상, 쓸개 담)**: 섶나무 위에서 잠을 자고 쓰디쓴 곰의 쓸개를 핥으며 원수를 갚거나 목표를 이루기 위해 온갖 고초를 참고 견딤\n- **백절불굴(百折不屈 - 일백 백, 꺾을 절, 아닐 불, 굽힐 굴)**: 백 번 꺾여도 결코 굽히지 않는다는 뜻으로, 수많은 좌절 앞에서도 뜻을 굽히지 않고 나아가는 강인한 의지\n\n2. 도덕적 의리와 위기 대비:\n- **견리사의(見利思義 - 볼 견, 이로울 리, 생각할 사, 옳을 의)**: 눈앞의 사사로운 이익을 보았을 때 그것이 의리에 맞고 정당한지를 먼저 생각함\n- **역지사지(易地思之 - 바꿀 역, 땅 지, 생각할 사, 갈 지)**: 처지를 바꾸어 다른 사람의 입장에서 생각해 봄\n- **유비무환(有備無患 - 있을 유, 갖출 비, 없을 무, 근심 환)**: 평소에 미리 철저히 준비해 두면 어떤 우환이나 재난도 닥치지 않음",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (28.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "국가대표 선수들은 지난 올림픽의 패배를 설욕하기 위해 4년 동안 와신상담하며 피땀 흘려 훈련에 매진했습니다.",
+          "reading": "Gukgadaepyo seonsudeul-eun jinan ollimpik-ui paebae-reul seoryokhagi wihae sa-nyeon dong-an wasinsangdamhamyeo pit-ttam heullyeo hunryeon-e maejinhaetseumnida.",
+          "translation": "To avenge the defeat of the last Olympics, the national team athletes devoted themselves to training sweating blood while enduring bitter hardships ('와신상담하며') for four years."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (28.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어떠한 거센 압력과 난관에도 굴하지 않고 백절불굴의 투지로 연구 개발에 매진하여 독자 기술을 완성했습니다.",
+          "reading": "Eotteohan geosen amnyeok-gwa nangwan-edo gulhaji anko baekjeolbulgul-ui tuji-ro yeon-gu gaebal-e maejinhayeo dokja gisul-eul wanseonghaetseumnida.",
+          "translation": "Without yielding to any fierce pressure or difficulties, they completed proprietary technology dedicating themselves to R&D with indomitable fighting spirit ('백절불굴의 투지로')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (28.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "공직자는 눈앞의 사리사욕에 흔들리지 말고 견리사의의 마음가짐으로 오직 국가와 국민의 공익을 우선해야 합니다.",
+          "reading": "Gongjikja-neun nun-ap-ui sari-sayok-e heundeulliji malgo gyeonrisa-ui-ui ma-eumgajim-euro ojik gukga-wa gungmin-ui gong-ik-eul useonhaeya hamnida.",
+          "translation": "Public officials must not be swayed by personal self-interest in front of their eyes, but prioritize public interest with an attitude of considering righteousness before profit ('견리사의의 마음가짐으로')."
+        },
+        {
+          "target": "자연재해는 예측하기 어려우므로 평소 유비무환의 자세로 방재 설비와 대피 매뉴얼을 철저히 점검해야 합니다.",
+          "reading": "Jayeonjaehae-neun yecheukhagi eoryeoumeuro pyeongso yubimuhwan-ui jase-ro bangjae seolbi-wa daepi maenyueol-eul cheoljeohi jeomgeomhaeya hamnida.",
+          "translation": "Since natural disasters are hard to predict, we must thoroughly inspect disaster prevention facilities and evacuation manuals in the posture of preparedness preventing calamity ('유비무환의 자세로')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "목표 위해 와신상담, 꺾이지 않는 백절불굴, 이익 앞엔 견리사의, 상대 입장엔 역지사지, 준비하면 유비무환!"
+      ],
+      "culturalNotes": [
+        "안중근 의사가 여순 감옥에서 순국 직전 남긴 명필 유묵 '견리사의 견위수명(見利思義 見危授命: 이익을 보거든 의를 생각하고, 위태로움을 보거든 목숨을 바쳐라)'은 한국인의 가장 숭고한 선비 정신의 귀감입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "평소에 빈틈없이 준비해 두면 뜻밖의 재앙이나 걱정거리가 생기지 않는다는 뜻의 사자성어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (28.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (28.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (28.3.3)."
+            "유비무환 (有備無患)",
+            "탁상공론 (卓上空論)",
+            "침소봉대 (針小棒大)"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'준비가 있으면 우환이 없다'는 뜻의 위기관리 사자성어는 '유비무환'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "갈등 해결과 원활한 소통을 위해 서로의 입장을 바꾸어 상대방의 처지에서 헤아려 보는 지혜를 일컫는 사자성어는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (28.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (28.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (28.3.3)."
+            "역지사지 (易地思之)",
+            "적반하장 (賊反荷杖)",
+            "와신상담 (臥薪嘗膽)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'땅(입장)을 바꾸어 그것을 생각한다'는 공감과 역지사지의 태도는 '역지사지'입니다."
         }
       ]
     },
@@ -13114,14 +13159,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 28-3)?",
+          "prompt": "어떠한 시련과 난관 앞에서도 백 번 꺾일지언정 결코 굽히지 않는 굳센 절개를 이르는 말은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (28.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (28.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (28.3.3)."
+            "백절불굴 (百折不屈)",
+            "고진감래 (苦盡甘來)",
+            "화무십일홍 (花無十日紅)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "백 번 꺾여도 굽히지 않는 불굴의 투지를 나타내는 성어는 '백절불굴'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'백절불굴의 의지와 유비무환의 자세'(Indomitable will and posture of preparedness)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "백절불굴의 의지와 유비무환의 자세",
+            "백절불굴의 의지와 유비무환의 자세."
+          ],
+          "explanation": "백절불굴의 의지와 + 유비무환의 자세 = 백절불굴의 의지와 유비무환의 자세."
         }
       ]
     }
@@ -13131,56 +13185,65 @@
     "subject": "korean",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) (Part 4)",
+    "title": "현실 비판과 모순 경계의 풍자 사자성어 (Critical Satire & Flaws)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 사자성어와 고사 (Sino-Korean Four-Character Idioms).",
+    "objective": "주마간산, 침소봉대, 양두구육, 적반하장, 탁상공론을 적재적소에 활용하여 사회적 모순과 왜곡된 행태를 논리적으로 비판한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) » (제4절)의 핵심 언어 요소와 사자성어와 고사 (Sino-Korean Four-Character Idioms)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "사회의 부조리, 허위 과장 광고, 탁상행정, 뻔뻔한 가해자의 태도를 날카롭게 꼬집고 비판할 때 쓰이는 풍자 사자성어입니다.\n\n1. 피상적 관찰과 과장·왜곡:\n- **주마간산(走馬看山 - 달릴 주, 말 마, 볼 간, 뫼 산)**: 말을 타고 달리며 산을 바라보듯 사물의 본질을 깊이 파악하지 못하고 겉핥기로 훑어봄\n- **침소봉대(針小棒大 - 바늘 침, 작을 소, 몽둥이 봉, 큰 대)**: 바늘처럼 아주 작은 일을 몽둥이처럼 크게 과장하여 떠벌림\n\n2. 겉과 속의 불일치와 파렴치한 행태:\n- **양두구육(羊頭狗肉 - 양 양, 머리 두, 개 구, 고기 육)**: 양의 머리를 걸어놓고 실제로는 개고기를 판다는 뜻으로, 겉은 그럴듯하게 번지르르하지만 속은 형편없거나 속임수를 씀\n- **적반하장(賊反荷杖 - 도둑 적, 도리어 반, 멜 하, 지팡이 장)**: 도둑이 도리어 몽둥이를 든다는 뜻으로, 잘못한 자가 오히려 성을 내며 피해자를 나무라는 뻔뻔스러운 태도\n- **탁상공론(卓上空論 - 탁자 탁, 위 상, 빌 공, 논할 론)**: 책상 위에서 펼치는 헛된 논의라는 뜻으로, 현실성이나 실현 가능성이 전혀 없는 공허한 이론",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (28.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "현장 실태 조사도 없이 탁상공론으로 수립된 정책은 예산만 낭비한 채 시민들에게 외면받고 말았습니다.",
+          "reading": "Hyeonjang siltae josa-do eopsi taksang-gongnon-euro suripdoen jeongchaek-eun yesan-man nangbihan chae simindeul-ege oemyeonbatgo maratseumnida.",
+          "translation": "Policies established through armchair theories ('탁상공론으로') without on-site field surveys ended up being shunned by citizens while only wasting budgets."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (28.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "명품 친환경 소재라고 대대적으로 홍보해 놓고 유해 물질을 사용한 것은 소비자를 기만한 전형적인 양두구육입니다.",
+          "reading": "Myeongpum chin-hwangyeong sojae-rago daedaejeog-euro hongbohae noko yuhae muljil-eul sayonghan geos-eun sobija-reul gimanhan jeonhyeongjeogin yangduguyuk-imnida.",
+          "translation": "Extensively advertising as premium eco-friendly materials while using hazardous substances is a typical selling dog meat under sheep's head ('양두구육') deceiving consumers."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (28.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "가해자가 도리어 피해자에게 화를 내며 책임을 전가하는 적반하장식 태도에 국민적 공분이 일어났습니다.",
+          "reading": "Gahaeja-ga dori-eo pihaeja-ege hwa-reul naemyeo chaegim-eul jeongahaneun jeokbanhajangsik taedo-e gungminjeok gongbun-i ireonatseumnida.",
+          "translation": "Public outrage erupted over the burglar-carrying-the-club ('적반하장식') attitude where the perpetrator 오히려 got angry at the victim shifting responsibility."
+        },
+        {
+          "target": "단순한 일회성 해프닝을 침소봉대하여 악의적인 가짜 뉴스를 퍼뜨리는 황색 언론의 행태를 강력히 규탄해야 합니다.",
+          "reading": "Dansunhan ilhoeseong haepeuning-eul chimsobongdaehayeo ag-uijeogin gajja nyuseu-reul peotteurineun hwangsaek eonron-ui haengtae-reul gangryeokhi gyutanhaeya hamnida.",
+          "translation": "We must strongly condemn yellow journalism's practice of blowing a simple one-off happening out of proportion ('침소봉대하여') to spread malicious fake news."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "겉핥기는 주마간산, 과장은 침소봉대, 사기는 양두구육, 뻔뻔하면 적반하장, 헛소리는 탁상공론!"
+      ],
+      "culturalNotes": [
+        "한국의 국회 청문회나 시사 토론 방송에서는 공직자의 부실한 답변이나 정책의 허구성을 지적할 때 '탁상공론', '적반하장', '양두구육' 등의 성어가 강력한 비판 수사로 상용됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "잘못을 저지른 사람이 도리어 큰소리를 치며 피해자에게 성을 내는 파렴치한 상황을 일컫는 사자성어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (28.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (28.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (28.4.3)."
+            "적반하장 (賊反荷杖)",
+            "온고지신 (溫故知新)",
+            "타산지석 (他山之石)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'도둑이 도리어 몽둥이를 든다'는 뜻으로 가해자의 뻔뻔함을 꼬집는 성어는 '적반하장'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "겉으로는 훌륭한 명분을 내세우지만 속으로는 전혀 딴판인 질 낮은 것을 속여 파는 행태를 뜻하는 사자성어는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (28.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (28.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (28.4.3)."
+            "양두구육 (羊頭狗肉)",
+            "유비무환 (有備無환)",
+            "백절불굴 (百折不屈)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'양의 머리를 걸고 개고기를 판다'는 표리부동과 기만의 사자성어는 '양두구육'입니다."
         }
       ]
     },
@@ -13188,14 +13251,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 28-4)?",
+          "prompt": "현실적인 실행 가능성이나 현장의 목소리를 전혀 반영하지 않은 채 책상 위에서만 맴도는 헛된 논의는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (28.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (28.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (28.4.3)."
+            "탁상공론 (卓上空論)",
+            "청출어람 (靑出於藍)",
+            "전화위복 (轉禍爲福)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "현실과 동떨어진 헛된 책상머리 논의를 '탁상공론'이라 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'탁상공론과 적반하장을 경계해야 해요'(We must guard against armchair theories and thief-turning-the-club)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "탁상공론과 적반하장을 경계해야 해요.",
+            "탁상공론과 적반하장을 경계해야 해요"
+          ],
+          "explanation": "탁상공론과 + 적반하장을 + 경계해야 해요 = 탁상공론과 적반하장을 경계해야 해요."
         }
       ]
     }
@@ -13205,56 +13277,65 @@
     "subject": "korean",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) (Part 5)",
+    "title": "사설 칼럼과 리더십 연설의 고급 사자성어 수사 실전 종합 담화",
     "level": "C1",
-    "objective": "Comprehensive mastery of 사자성어와 고사 (Sino-Korean Four-Character Idioms).",
+    "objective": "신문 사설, CEO 신년사, 학술 포럼 기조연설에서 사자성어를 적재적소에 구사하여 설득력과 품격을 극대화한 최고급 C1 한국어 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) » (제5절)의 핵심 언어 요소와 사자성어와 고사 (Sino-Korean Four-Character Idioms)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "언론사 메인 사설 칼럼 및 기업 최고경영자(CEO) 신년사에서 사자성어를 절묘하게 활용하여 메시지를 전달하는 실전 최고급 연설 모델입니다.\n\n1. 신년 CEO 기조연설 및 언론 사설 실전 모델:\n- CEO 신년사: 임직원 여러분, 지난 한 해는 유례없는 글로벌 경기 침체로 인해 참으로 험난했습니다. 그러나 인생만사는 **새옹지마(塞翁之馬)**요, 고생 끝에 낙이 온다는 **고진감래(苦盡甘來)**의 진리를 우리는 증명해 냈습니다. 경쟁사의 과오를 **타산지석(他山之石)**으로 삼고, 어떠한 파고에도 흔들리지 않는 **백절불굴(百折不屈)**의 투지로 R&D에 매진한 결과, 우리는 위기를 기회로 바꾸는 **전화위복(轉禍爲福)**의 결실을 맺었습니다. 새해에도 우리는 탁상머리 **탁상공론(卓上空論)**을 단호히 배격하고, 철저한 **유비무환(有備無患)**의 대비 태세와 옛것을 익혀 새것을 창조하는 **온고지신(溫故知新)**의 정신으로 세계 시장을 선도해 나갑시다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (28.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "사자성어를 적절히 활용한 품격 있는 연설은 청중에게 깊은 감동과 명확한 비전을 제시합니다.",
+          "reading": "Sajaseong-eo-reul jeokjeolhi hwalyonghan pumgyeok inneun yeonseol-eun cheongjung-ege gipeun gamdong-gwa myeonghwakhan bijeon-eul jesihamnida.",
+          "translation": "An elegant speech utilizing four-character idioms appropriately presents deep inspiration and a clear vision to the audience."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (28.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "위기 앞에서는 유비무환으로 대비하고, 실패 앞에서는 백절불굴의 투지로 다시 일어서야 합니다.",
+          "reading": "Wigi ap-eseoneun yubimuhwan-euro daebihago, silpae ap-eseoneun baekjeolbulgul-ui tuji-ro dasi ireoseoya hamnida.",
+          "translation": "Before a crisis, one must prepare with preparedness ('유비무환'), and before failure, one must rise again with indomitable fighting spirit ('백절불굴')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (28.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "타인의 결점이나 실패를 타산지석으로 삼아 스스로를 겸허히 돌아보는 자세가 참된 리더의 덕목입니다.",
+          "reading": "Tain-ui gyeoljeom-ina silpae-reul tasan-jiseog-euro sama seuseuro-reul gyeomheohi doraboneun jase-ga chamdoen rideo-ui deongmog-imnida.",
+          "translation": "Taking others' flaws or failures as a stone from another mountain ('타산지석') to humbly reflect on oneself is a true leader's virtue."
+        },
+        {
+          "target": "말만 번지르르한 탁상공론을 버리고 현장의 목소리에 귀 기울이는 역지사지의 소통이 절실합니다.",
+          "reading": "Mal-man beonjireureuhan taksang-gongnon-eul beorigo hyeonjang-ui moksori-e gwi giurineun yeokjisaji-ui sotong-i jeolsilhamnida.",
+          "translation": "Empathetic communication ('역지사지의 소통') discarding slick armchair theories ('탁상공론') and listening closely to voices in the field is desperately needed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "연설의 핵심: 사자성어로 뜻을 압축하고, 논리를 벼려 청중을 감화시키자!"
+      ],
+      "culturalNotes": [
+        "한국의 역대 대통령 취임사, 대학 총장 입학 축사, 대기업 신년사에는 당대의 시대정신과 나아갈 방향을 제시하기 위해 사자성어가 핵심 화두(Leading Keyword)로 반드시 채택됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "연설문에서 '옛 지혜를 바탕으로 혁신을 이루고, 철저한 사전 준비로 위험을 막자'는 취지를 표현할 때 가장 적합한 사자성어 쌍은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (28.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (28.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (28.5.3)."
+            "온고지신(溫故知新)과 유비무환(有備無患)",
+            "양두구육(羊頭狗肉)과 적반하장(賊反荷杖)",
+            "주마간산(走馬看山)과 탁상공론(卓上空論)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "옛것을 익혀 새것을 아는 '온고지신'과 준비가 있으면 근심이 없다는 '유비무환'의 결합이 완벽합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "위기 극복 연설에서 '우리는 숱한 좌절에도 꺾이지 않고 피땀 흘려 노력해 마침내 위기를 기회로 바꾸었다'를 표현하는 사자성어 조합은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (28.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (28.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (28.5.3)."
+            "백절불굴(百折不屈), 와신상담(臥薪嘗膽), 전화위복(轉禍爲福)",
+            "침소봉대(針小棒大), 탁상공론(卓上空論), 화무십일홍(花無十日紅)",
+            "양두구육(羊頭狗肉), 주마간산(走馬看山), 적반하장(賊反荷杖)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "백절불굴(꺾이지 않음), 와신상담(고초를 견딤), 전화위복(위기를 복으로 바꿈)이 완벽한 논리 조합입니다."
         }
       ]
     },
@@ -13262,14 +13343,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 사자성어와 고사 (Sino-Korean Four-Character Idioms) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 28-5)?",
+          "prompt": "다음 중 한국의 신년사 또는 칼럼 수사로서 가장 자연스럽고 모범적인 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (28.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (28.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (28.5.3)."
+            "타산지석과 온고지신의 지혜로 백절불굴의 도전을 이어갑시다.",
+            "탁상공론과 양두구육의 정신으로 새해 사업을 망쳐봅시다.",
+            "적반하장과 침소봉대로 고객을 속이는 기업이 됩시다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "'타산지석', '온고지신', '백절불굴'은 최고급 수사로서 완벽한 품격을 자랑합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'백절불굴의 도전과 전화위복의 결실'(Indomitable challenge and fruit of turning misfortune into blessing)을 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "백절불굴의 도전과 전화위복의 결실",
+            "백절불굴의 도전과 전화위복의 결실."
+          ],
+          "explanation": "백절불굴의 도전과 + 전화위복의 결실 = 백절불굴의 도전과 전화위복의 결실."
         }
       ]
     }
