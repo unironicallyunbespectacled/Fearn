@@ -13195,53 +13195,62 @@
     "subject": "cantonese",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "高階辯論與公共演說 (High Debating & Public Address) (第1課)",
+    "title": "高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 (Debate & Argumentation)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元32第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握高階政策性與哲學性辯論賽制架構（立論破題、概念界定、評判標準）、以子之矛攻子之盾反駁策略及法庭與議會辯論論辯話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在高等院校華語辯論賽及議會政策辯論中，高階論辯要求嚴密之邏輯架構與精準之修辭策略：\n\n一、辯論立論三部曲（Debate Framework）：\n１．「破題與概念界定」（po3 tai4 jyu5 koi3 nim6 gaai3 ding6）：\n- 嚴格界定辯題中爭議性核心概念之內涵與外延，搶佔理論高地。\n２．「評判標準確立」（ping4 pun3 biu1 zeon2）：\n- 「衡量某項政策是否應當推行，關鍵在於其是否符合公共利益最大化與可行性之底線」。\n３．「分論點層層遞進」（cang4 cang4 dai6 zeon3）：\n- 論點一（必要性）、論點二（可行性）、論點三（深遠效益）。\n\n二、高階反駁與攻防話語矩陣：\n- 「以子之矛，攻子之盾」（ji5 zi2 zi1 maau4 gung1 zi2 zi1 teon5）：抓取對方論據自身之不可調和內在矛盾。\n- 「防守反擊與歸謬法」（gwai1 mau6 faat3 / Reductio ad absurdum）：順著對方邏輯推導至荒謬結論以徹底擊潰其論點。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 32 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 32 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 32 in communication."
+          "target": "我方在開篇立論中明確界定核心概念，確立以社會總體福祉與可持續發展作為衡量辯題之根本標準。",
+          "reading": "ngo5 fong1 zoi6 hoi1 pin1 laap6 leon6 zung1 ming4 kok3 gaai3 ding6 hat6 sam1 koi3 nim6, kok3 laap6 ji5 se5 wui6*2 zung2 tai2 fuk1 zi2 jyu5 ho2 ci4 zuk6 faat3 zin2 zok3 wai4 hang4 loeng4 bin6 tai4 zi1 gan1 bun2 biu1 zeon2. [ŋɔː˩˧ fɔːŋ˥ tsɔːi˨ hɔːi˥ pʰiːn˥ laːp̚˨ lœːn˨ tsʊŋ˥ mɪŋ˨˩ kʰɔːk̚˧ kaːi˧ tɪŋ˨ hɐt̚˨ sɐm˥ kʰɔːi˧ niːm˨, kʰɔːk̚˧ laːp̚˨ jiː˩˧ sɛː˩˧ wuːi˨˩ tsʊŋ˧˥ tʰɐi˧˥ fʊk̚˥ tsiː˧˥ jyː˩˧ hɔː˧˥ tsʰiː˨˩ tsʊk̚˨ faːt̚˧ tsiːn˧˥ tsɔːk̚˧ wɐi˨˩ hɐŋ˨˩ lœːŋ˨˩ piːn˨ tʰɐi˨˩ tsiː˥ kɐn˥ puːn˧˥ piːu˥ tsɵn˧˥] (NGOH-FONG JOY HOI-PEEN LAHP-LEON JOONG MING-KOK GY-DING HUT-SUM KOI-NEEM, KOK-LAHP YEE SHEH-WUI JOONG-TY FOOK-JEE YUE HOH-CHEE-JUK FAHT-JEEN JOK-WAI HAHNG-LEUNG BEEN-TY JEE GUN-BOON BEW-JEON)",
+          "translation": "Our side clearly defined core concepts in the opening statement, establishing total societal well-being and sustainable development as the fundamental metric for evaluating the debate resolution."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元32-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "一辯以子之矛攻子之盾，敏銳指出對方辯友在論證過程中所暴露出之自相矛盾之處。",
+          "reading": "jat1 bin6 ji5 zi2 zi1 maau4 gung1 zi2 zi1 teon5, man5 jeoi6 zi2 ceot1 deoi3 fong1 bin6 jau5 zoi6 leon6 zing3 gwo3 cing4 zung1 so2 bau6 lou6 ceot1 zi1 zi6 soeng1 maau4 teon5 zi1 cyu3. [jɐt̚˥ piːn˨ jiː˩˧ tsiː˧˥ tsiː˥ maːu˨˩ kʊŋ˥ tsiː˧˥ tsiː˥ tʰɵn˩˧, mɐn˩˧ jɵy˨ tsiː˧˥ tsʰɵt̚˥ tɵy˧ fɔːŋ˥ piːn˨ jɐu˩˧ tsɔːi˨ lœːn˨ tsɪŋ˧ kʷɔː˧ tsʰɪŋ˨˩ tsʊŋ˥ sɔː˧˥ pɐu˨ lou˨ tsʰɵt̚˥ tsiː˥ tsiː˨ sœːŋ˥ maːu˨˩ tʰɵn˩˧ tsiː˥ tsʰyː˧] (YUT-BEEN YEE-JEE-JEE-MAU GONG-JEE-JEE-TEON, MUN-YEOY JEE-CHUT DEOY-FONG BEEN-YAU JOY LEON-JING GWOR-CHING JOONG SOH BAU-LOU-CHUT JEE JEE-SEUNG MAU-TEON JEE CHUE)",
+          "translation": "The first debater used the opponent's own spear to attack their shield, keenly pointing out the self-contradictions exposed in the opposing side's argumentation process."
+        },
+        {
+          "target": "四辯總結陳詞鏗鏘有力，層層拆解對方偽命題，成功將全場辯論節奏牢牢掌控在己方標準之內。",
+          "reading": "sei3 bin6 zung2 git3 can4 ci4 hang1 coeng1 jau5 lik6, cang4 cang4 caak3 gaai2 deoi3 fong1 ngai6 ming6 tai4, sing4 gung1 zoeng1 cyun4 coeng4 bin6 leon6 zit3 zau3 lou4 lou4 zaang1 hung3 zoi6 gei2 fong1 biu1 zeon2 zi1 noi6. [sei˧ piːn˨ tsʊŋ˧˥ kiːt̚˧ tsʰɐn˨˩ tsʰiː˨˩ hɐŋ˥ tsʰœːŋ˥ jɐu˩˧ lɪk̚˨, tsʰɐŋ˨˩ tsʰɐŋ˨˩ tsʰaːk̚˧ kaːi˧˥ tɵy˧ fɔːŋ˥ ŋɐi˨ mɪŋ˨ tʰɐi˨˩, sɪŋ˨˩ kʊŋ˥ tsœːŋ˥ tsʰyːn˨˩ tsʰœːŋ˨˩ piːn˨ lœːn˨ tsit̚˧ tsɐu˧ lou˨˩ lou˨˩ tsaːŋ˥ hʊŋ˧ tsɔːi˨ kei˧˥ fɔːŋ˥ piːu˥ tsɵn˧˥ tsiː˥ nɔːi˨] (SAY-BEEN JOONG-GEET CHUN-CHEE HUNG-CHEUNG YAU-LIK, CHUNG-CHUNG CHAAK-GAI DEOY-FONG NGY-MING-TY, SING-GONG JEUNG CHUEN-CHEUNG BEEN-LEON JEET-JAU LOU-LOU JAANG-HOONG JOY GAY-FONG BEW-JEON JEE NOY)",
+          "translation": "The concluding speech by the fourth debater was resonant and powerful, deconstructing the opponent's pseudo-propositions layer by layer and firmly controlling the rhythm of the entire debate within our own criteria."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【高階辯論訣】開篇立論界定明，評判標準立如松；以子之矛破矛盾，結辯鏗鏘奪全勝！"
+      ],
+      "culturalNotes": [
+        "香港大專辯論賽（如星島全港校際辯論比賽、大專辯論賽）歷史悠久，培養了大量香港政界、司法界及傳媒界的領袖精英。粵語辯論強調言辭犀利、引經據典與極高速度的即興臨場反駁能力。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"股票\":",
+          "prompt": "【辯論策略】在辯論中利用對方所提出的論據推導出對方自身論點自相矛盾之經典反駁技法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：保險錯置）",
-            "混雜生硬詞彙之不規範語句（例項：合約未適配）",
-            "聲調助詞搭配欠妥之表達（例項：簽名誤用）"
+            "以子之矛，攻子之盾 (Using opponent's spear against their shield)",
+            "直接人身攻擊",
+            "大聲喧嘩打斷",
+            "承認對方全對"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「以子之矛，攻子之盾」為辯論攻防中直擊對方邏輯自洽性漏洞之最高效招式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"股票\":",
+          "prompt": "【立論架構】在辯論開篇環節，確立全場論辯評判依據與核心價值導向之環節稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：合約未適配）",
-            "聲調助詞搭配欠妥之表達（例項：簽名誤用）",
-            "語序顛倒嘅非標準句式（例項：保險錯置）"
+            "確立評判標準 (Establishing Evaluation Criteria / Biu1 zeon2)",
+            "隨意講笑話",
+            "朗讀課文",
+            "宣布比賽結束"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「評判標準（Criteria）」為政策與價值辯論中決定勝負判定之核心坐標軸。"
         }
       ]
     },
@@ -13249,15 +13258,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"股票\": Which sentence is completely correct?",
+          "prompt": "【反駁方法】假定對方荒謬的主張為真、進而順著其邏輯推導出顯然荒謬絕倫之結論以反證其錯誤之邏輯方法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：簽名誤用）",
-            "語序顛倒嘅非標準句式（例項：保險錯置）",
-            "混雜生硬詞彙之不規範語句（例項：合約未適配）"
+            "歸謬法 (Reductio ad absurdum / Gwai1 mau6 faat3)",
+            "循環論證",
+            "強詞奪理",
+            "無效枚舉"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「歸謬法（Reductio ad absurdum）」為邏輯學與辯論學中極具殺傷力之反駁利器。"
         }
       ],
       "passThreshold": 0.8
@@ -13268,53 +13277,62 @@
     "subject": "cantonese",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "高階辯論與公共演說 (High Debating & Public Address) (第2課)",
+    "title": "邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Logical Fallacies Analysis)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元32第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握常見非形式邏輯謬誤（偷換概念、稻草人、滑坡謬誤、訴諸人身、假兩難）之辨識、批判剖析與精確粵語辯駁話語體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "精確識別與有力擊破邏輯謬誤（Logical Fallacies），係批判性思維與高階論辯之必備武裝：\n\n一、論辯中最常見之經典邏輯謬誤解構：\n１．「偷換概念與歧義謬誤」（tau1 wun6 koi3 nim6 / Equivocation）：\n- 在論證過程中暗中將詞語之特定含義偷換為另一完全不同之概念。\n２．「稻草人謬誤」（dou6 cou2 jan4 mau6 ng6 / Straw Man Fallacy）：\n- 故意曲解、誇大或樹立對方從未主張之極端觀點，隨後對該「稻草人」進行猛烈攻擊。\n３．「滑坡謬誤」（waat6 bo1 mau6 ng6 / Slippery Slope）：\n- 無合理因果依據地斷言某個微小開端必然會引發一連串災難性後果。\n４．「假兩難謬誤」（False Dilemma）：\n- 人為製造非黑即白之極端對立，刻意隱瞞客觀存在之中間道路。\n５．「訴諸人身」（sou3 zyu1 jan4 san1 / Ad Hominem）：\n- 不討論論點本身，而是直接攻擊論者之品格、身分或動機。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 32 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 32 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 32 in communication."
+          "target": "對方辯友樹立一個極端化之稻草人進行攻擊，試圖偷換概念以掩蓋其論證缺乏實質證據之致命硬傷。",
+          "reading": "deoi3 fong1 bin6 jau5 syu6 laap6 jat1 go3 gik6 dyun1 faa3 zi1 dou6 cou2 jan4 zeon3 hang4 gung1 gik1, si3 tou4 tau1 wun6 koi3 nim6 ji5 jim2 koi3 kei4 leon6 zing3 kyut3 faat3 sat6 zat1 zing3 geui3 zi1 zi3 ming4 ngaang6 soeng1. [tɵy˧ fɔːŋ˥ piːn˨ jɐu˩˧ syː˨ laːp̚˨ jɐt̚˥ kɔː˧ kɪk̚˨ tyːn˥ faː˧ tsiː˥ tou˨ tsʰou˧˥ jɐn˨˩ tsɵn˧ hɐŋ˨˩ kʊŋ˥ kɪk̚˥, siː˧ tʰouu˨˩ tʰɐu˥ wuːn˨ kʰɔːi˧ niːm˨ jiː˩˧ jiːm˧˥ kʰɔːi˧ kʰei˨˩ lœːn˨ tsɪŋ˧ kʰyːt̚˧ faːt̚˧ sɐt̚˨ tsɐt̚ tsɪŋ˧ kɵy˧ tsiː˥ tsiː˧ mɪŋ˨˩ ŋaːŋ˨ sœːŋ˥] (DEOY-FONG BEEN-YAU SUE-LAHP YUT-GOH GIK-DUEN-FAH JEE DOU-CHOU-YUN JEON-HAHNG GONG-GIK, SEE-TOU TAU-WOON KOI-NEEM YEE YEEM-KOI KAY LEON-JING KUET-FAHT SUT-JUT JING-GOEY JEE JEE-MING NGAANG-SEUNG)",
+          "translation": "The opposing debater set up an extreme straw man to attack, attempting to equivocate concepts to cover up the fatal weakness of their lack of substantive evidence in argumentation."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元32-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "將單一偶發個案無限上綱推導出極端毀滅性後果，係典型之滑坡謬誤，在邏輯上完全站唔住腳。",
+          "reading": "zoeng1 daan1 jat1 ngau5 faat3 go3 on3 mou4 haan6 soeng5 gong1 teoi1 dou6 ceot1 gik6 dyun1 wai2 mit6 sing3 hau6 gwo2, hai6 din2 jing4 zi1 waat6 bo1 mau6 ng6, zoi6 lo4 cap1 soeng6 cyun4 cyun4 zaam6 m4 zyu6 goek3. [tsœːŋ˥ taːn˥ jɐt̚˥ ŋɐu˩˧ faːt̚˧ kɔː˧ ɔːn˧ mouou˨˩ haːn˨ sœːŋ˩˧ kɔːŋ˥ tʰɵy˥ tou˨ tsʰɵt̚˥ kɪk̚˨ tyːn˥ wɐi˧˥ miːt̚˨ sɪŋ˧ hɐu˨ kʷɔː˧˥, hɐi˨ tiːn˧˥ jɪŋ˨˩ tsiː˥ waːt̚˨ pɔː˥ mauu˨ ŋ̩˨, tsɔːi˨ lɔː˨˩ tsʰɐp̚˥ sœːŋ˨ tsʰyːn˨˩ tsʰyːn˨˩ tsaːm˨ m̩˨˩ tsyː˨ kœːk̚˧] (JEUNG DAHN-YUT NGAU-FAHT GOH-ON MOU-HAHN SEUNG-GONG TOEY-DOU-CHUT GIK-DUEN WAI-MEET-SING HAU-GWOR, HY DEEN-YING JEE WAAT-BOH MAU-NG, JOY LOH-CHUP-SEUNG CHUEN-CHUEN JAAM M-JUE GERK)",
+          "translation": "Infinitely escalating a single isolated case to deduce extreme catastrophic consequences is a typical slippery slope fallacy, which cannot stand logically at all."
+        },
+        {
+          "target": "面對他人之合理質疑應當以事實論據理性回應，而唔係訴諸人身攻擊對方之出身背景。",
+          "reading": "min6 deoi3 taa1 jan4 zi1 hap6 lei5 zat1 ji4 jing1 dong1 ji5 sat6 sat6 leon6 geui3 lei5 sing3 wui4 jing3, ji4 m4 hai6 sou3 zyu1 jan4 san1 gung1 gik1 deoi3 fong1 zi1 ceot1 san1 bui3 ging2. [miːn˨ tɵy˧ tʰaː˥ jɐn˨˩ tsiː˥ hɐp̚˨ lei˩˧ tsɐt̚˥ jiː˨˩ jɪŋ˥ tɔːŋ˥ jiː˩˧ sɐt̚˨ sɐt̚˨ lœːn˨ kɵy˧ lei˩˧ sɪŋ˧ wuːi˨˩ jɪŋ˧, jiː˨˩ m̩˨˩ hɐi˨ sou˧ tsyː˥ jɐn˨˩ sɐn˥ kʊŋ˥ kɪk̚˥ tɵy˧ fɔːŋ˥ tsiː˥ tsʰɵt̚˥ sɐn˥ puːi˧ kɪŋ˧˥] (MEEN-DEOY TAH-YUN JEE HUP-LEY JUT-YEE YING-DONG YEE SUT-SUT LEON-GOEY LEY-SING WOOI-YING, YEE M-HY SOU-JUE YUN-SUN GONG-GIK DEOY-FONG JEE CHUT-SUN BUI-GING)",
+          "translation": "Faced with reasonable questions from others, one should respond rationally with factual evidence, rather than resorting to ad hominem attacks on the opponent's background."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【邏輯謬誤訣】稻草人立虛幻擊，偷換概念亂真實；滑坡妄推極端果，訴諸人身理虧極！"
+      ],
+      "culturalNotes": [
+        "香港中文大學哲學系教授李天命先生著有《李天命的思考藝術》、《殺腦綱》等暢銷名作，以幽默犀利、深入淺出的『天命語理分析』系統剖析各類邏輯謬誤與語言迷霧，在香港學界和大眾讀者中產生了極為深遠的啟蒙影響。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"保險\":",
+          "prompt": "【邏輯謬誤】曲解或誇大對方觀點、樹立一個虛假極端靶子進行猛烈抨擊之邏輯謬誤稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：合約錯置）",
-            "混雜生硬詞彙之不規範語句（例項：簽名未適配）",
-            "聲調助詞搭配欠妥之表達（例項：文件誤用）"
+            "稻草人謬誤 (Straw Man Fallacy / Dou6 cou2 jan4 mau6 ng6)",
+            "嚴密三段論",
+            "客觀全面分析",
+            "實事求是舉證"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「稻草人謬誤（Straw Man Fallacy）」為論辯中歪曲對手立場最常見之形式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"保險\":",
+          "prompt": "【批判思維】在論證中不反駁對方論點論據、而是直接針對論者個人道德人品或出身背景進行攻擊之謬誤係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：簽名未適配）",
-            "聲調助詞搭配欠妥之表達（例項：文件誤用）",
-            "語序顛倒嘅非標準句式（例項：合約錯置）"
+            "訴諸人身謬誤 (Ad Hominem Fallacy / Sou3 zyu1 jan4 san1)",
+            "歸納邏輯",
+            "演繹推理",
+            "實證檢驗"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「訴諸人身（Ad Hominem）」屬於典型的轉移論題與關聯性謬誤。"
         }
       ]
     },
@@ -13322,15 +13340,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"保險\": Which sentence is completely correct?",
+          "prompt": "【邏輯推演】無合理中間因果鏈條支持、斷言採取微小一步必然導致極端崩潰毀滅之後果之謬誤係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：文件誤用）",
-            "語序顛倒嘅非標準句式（例項：合約錯置）",
-            "混雜生硬詞彙之不規範語句（例項：簽名未適配）"
+            "滑坡謬誤 (Slippery Slope Fallacy / Waat6 bo1 mau6 ng6)",
+            "精確數學模型",
+            "嚴謹概率統計",
+            "反證法推理"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「滑坡謬誤（Slippery Slope）」透過無限誇大因果連鎖反應製造非理性恐慌。"
         }
       ],
       "passThreshold": 0.8
@@ -13341,53 +13359,62 @@
     "subject": "cantonese",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "高階辯論與公共演說 (High Debating & Public Address) (第3課)",
+    "title": "亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯（Logos） (Aristotelian Rhetoric)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元32第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握古典修辭學三大支柱（Ethos品格說服力、Pathos情感共鳴、Logos理性邏輯）、公共演說節奏調控（抑揚頓挫、排比鋪排）及震撼演說話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "卓越之公共演說家，深諳亞里士多德古典修辭學三要素之黃金配比與交融：\n\n一、修辭學三大核心說服力支柱（Aristotelian Triad）：\n１．「品格說服力」（Ethos / ban2 gaak3 seoi3 fuk6 lik6）：\n- 演說者展現出的誠信、專業威望、道德操守與值得信賴之人格魅力。\n２．「情感共鳴力」（Pathos / cing4 gam2 gung6 ming4）：\n- 喚起聽眾同理心、熱情、希望或正義感，使受眾產生深層心理投射。\n３．「理性邏輯力」（Logos / lei5 sing3 lo4 cap1）：\n- 依托清晰之論點架構、無懈可擊之數據實證與因果推導。\n\n二、演說修辭與聲調語音美學：\n- 「排比鋪排與氣勢磅礴」（paai4 bei2 pou1 paai4）：連用結構對稱之排比句，增強演說之感召力。\n- 「抑揚頓挫與留白節奏」（jik1 joeng4 deon6 co3）：快慢相間、高低起伏，關鍵處適當停頓留白。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 32 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 32 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 32 in communication."
+          "target": "演說家將嚴密之邏輯論證、真摯之情感共鳴與崇高之道德品格熔於一爐，深深震撼全場聽眾之靈魂。",
+          "reading": "jin2 seoi3 gaa1 zoeng1 jim4 mat6 zi1 lo4 cap1 leon6 zing3, zan1 zi3 zi1 cing4 gam2 gung6 ming4 jyu5 sung4 gou1 zi1 dou6 dak1 ban2 gaak3 jung4 jyu1 jat1 lou4, sam1 sam1 zan3 ham6 cyun4 coeng4 ting1 zung3 zi1 ling4 wan4. [jiːn˧˥ sɵy˧ kaː˥ tsœːŋ˥ jiːm˨˩ mɐt̚˨ tsiː˥ lɔː˨˩ tsʰɐp̚˥ lœːn˨ tsɪŋ˧, tsɐn˥ tsiː˧ tsiː˥ tsʰɪŋ˨˩ kɐm˧˥ kʊŋ˨ mɪŋ˨˩ jyː˩˧ sʊŋ˨˩ kou˥ tsiː˥ tou˨ tɐk̚˥ pɐn˧˥ kaːk̚˧ jʊŋ˨˩ jyː˥ jɐt̚˥ lou˨˩, sɐm˥ sɐm˥ tsɐn˧ hɐm˨ tsʰyːn˨˩ tsʰœːŋ˨˩ tʰɪŋ˥ tsʊŋ˧ tsiː˥ lɪŋ˨˩ wɐn˨˩] (YEEN-SOEY-GAH JEUNG YEEM-MUT JEE LOH-CHUP LEON-JING, JUN-JEE JEE CHING-GUM GONG-MING YUE SOONG-GOU JEE DOU-DUK BUN-GAAK YOONG YUE YUT-LOU, SUM-SUM JUN-HUM CHUEN-CHEUNG TING-JOONG JEE LING-WUN)",
+          "translation": "The orator fused rigorous logical argumentation, sincere emotional resonance, and sublime moral character in one furnace, deeply shaking the souls of the entire audience."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元32-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "演說中巧妙運用排比修辭與抑揚頓挫之聲調轉換，營造出氣勢磅礴且富有感染力之演說節奏。",
+          "reading": "jin2 seoi3 zung1 hiu2 miu6 wan6 jung6 paai4 bei2 sau1 ci4 jyu5 jik1 joeng4 deon6 co3 zi1 seng1 diu6 zyun2 wun6, jing4 zou6 ceot1 hei3 sai3 pong4 bok3 ce2 fu3 jau5 gam2 jin5 lik6 zi1 jin2 seoi3 zit3 zau3. [jiːn˧˥ sɵy˧ tsʊŋ˥ hiːu˧˥ miːu˨ wɐn˨ jʊŋ˨ pʰaːi˨˩ pei˧˥ sɐu˥ tsʰiː˨˩ jyː˩˧ jɪk̚˥ jœːŋ˨˩ tɵn˨ tsʰɔː˧ tsiː˥ sɛːŋ˥ tiːu˨ tsyːn˧˥ wuːn˨, jɪŋ˨˩ tsou˨ tsʰɵt̚˥ hei˧ sɐi˧ pʰɔːŋ˨˩ pɔːk̚˧ tsʰɛː˧˥ fuː˧ jɐu˩˧ kɐm˧˥ jiːn˩˧ lɪk̚˨ tsiː˥ jiːn˧˥ sɵy˧ tsit̚˧ tsɐu˧] (YEEN-SOEY JOONG HIU-MEW WUN-YOONG PAI-BAY SAU-CHEE YUE YIK-YEUNG DEON-CHOH JEE SENG-DEW JUEN-WOON, YING-JOU-CHUT HEY-SY PONG-BOK CHEH FOO-YAU GUM-YEEN-LIK JEE YEEN-SOEY JEET-JAU)",
+          "translation": "Skillfully deploying parallelism rhetoric and cadence pitch shifts during the address created a grandly momentum-filled and infectious oratorical rhythm."
+        },
+        {
+          "target": "在關鍵觀點提出後適當停頓留白，能給予聽眾充分之思考消化時間，令演說更具張力與深度。",
+          "reading": "zoi6 gwaan1 gin6 gun1 dim2 tai4 ceot1 hau6 sik1 dong3 ting4 deon6 lau4 baak6, nang4 kap1 jyu5 ting1 zung3 cung1 fan1 zi1 si1 haau2 siu1 faa3 si4 gaan3, ling6 jin2 seoi3 gang3 geoi6 zoeng1 lik6 jyu5 sam1 dou6. [tsɔːi˨ kʷaːn˥ kiːn˧ kuːn˥ tiːm˧˥ tʰɐi˨˩ tsʰɵt̚˥ hɐu˨ sɪk̚˥ tɔːŋ˧ tʰɪŋ˨˩ tɵn˨ lɐu˨˩ paːk̚˨, nɐŋ˨˩ kʰɐp̚˥ jyː˩˧ tʰɪŋ˥ tsʊŋ˧ tsʰʊŋ˥ fɐn˥ tsiː˥ siː˥ haːu˧˥ siːu˥ faː˧ siː˨˩ kaːn˧, lɪŋ˨ jiːn˧˥ sɵy˧ kɐŋ˧ kɵy˨ tsœːŋ˥ lɪk̚˨ jyː˩˧ sɐm˥ tou˨] (JOY GWAHN-GEEN GOON-DEEM TY-CHUT HAU SIK-DONG TING-DEON LAU-BAAK, NUNG KUP-YUE TING-JOONG CHOONG-FUN JEE SEE-HAU SIU-FAH SEE-GAHN, LING YEEN-SOEY GUNG GOEY JEUNG-LIK YUE SUM-DOU)",
+          "translation": "Appropriately pausing after presenting key viewpoints provides the audience with ample time to contemplate and digest, rendering the speech even more compelling and profound."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【修辭三要素】品格立信道德崇，情感共鳴暖融融；理性邏輯排比振，名篇演說千秋頌！"
+      ],
+      "culturalNotes": [
+        "香港的公共演說文化在立法會辯論、大律師公會演講及大學畢業典禮校長致辭中展現得淋漓盡致。高水平的粵語演說講求文白相間、字正腔圓與深厚的人文底蘊。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"合約\":",
+          "prompt": "【修辭三要素】亞里士多德修辭學中指演說者透過自身誠信、專業聲譽與道德威望贏得聽眾信任之要素係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：簽名錯置）",
-            "混雜生硬詞彙之不規範語句（例項：文件未適配）",
-            "聲調助詞搭配欠妥之表達（例項：法律誤用）"
+            "品格說服力 (Ethos / Ban2 gaak3 seoi3 fuk6)",
+            "單純靠聲音大",
+            "炫耀財富",
+            "威脅恐嚇"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「Ethos（品格說服力）」為確立演說者信譽與道德正當性之第一基石。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"合約\":",
+          "prompt": "【演說技藝】公共演講中連用三個或以上結構相同、語氣一致的對稱句子以增強說服氣勢之修辭手法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：文件未適配）",
-            "聲調助詞搭配欠妥之表達（例項：法律誤用）",
-            "語序顛倒嘅非標準句式（例項：簽名錯置）"
+            "排比 (Parallelism / Paai4 bei2)",
+            "語無倫次",
+            "重複單詞十次",
+            "小聲耳語"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「排比（Parallelism）」為演說中營造磅礴氣勢與鮮明節奏之標誌性修辭工具。"
         }
       ]
     },
@@ -13395,15 +13422,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"合約\": Which sentence is completely correct?",
+          "prompt": "【演講要素】在古典修辭學中，主要透過無可辯駁的客觀數據、實證事實與嚴密邏輯推理進行說服之要素係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：法律誤用）",
-            "語序顛倒嘅非標準句式（例項：簽名錯置）",
-            "混雜生硬詞彙之不規範語句（例項：文件未適配）"
+            "理性邏輯 (Logos / Lei5 sing3 lo4 cap1)",
+            "虛構謠言",
+            "盲目迷信",
+            "純粹情緒宣洩"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「Logos（理性邏輯）」為一切嚴謹論證與演說中最不可撼動之理性支柱。"
         }
       ],
       "passThreshold": 0.8
@@ -13414,53 +13441,62 @@
     "subject": "cantonese",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "高階辯論與公共演說 (High Debating & Public Address) (第4課)",
+    "title": "公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共識」 (Crisis Communication & Press Conferences)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元32第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握政府與大型機構新聞發言人在重大危機事件中之公眾溝通策略、發布會答問技巧（橋接法、信息框定）及高階公關政策粵語話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在突發公共危機與重大政策出台時，新聞發言人必須具備高度專業之危機溝通與記者答問應對素養：\n\n一、危機溝通核心原則（Crisis Communication Principles）：\n１．「第一時間主動通報」（First-time Active Disclosure）：\n- 掌握信息發布主動權，以客觀透明之事實壓縮謠言滋生空間。\n２．「同理心與真誠擔當」（Empathy & Responsibility）：\n- 首要表達對受影響市民之關切與慰問，承諾徹查責任。\n３．「行動導向與明確指引」（Action-oriented Guidance）：\n- 清晰列出當前已採取之救援與補救措施。\n\n二、新聞發布會應對與記者答問技巧：\n- 「橋接法」（Bridging Technique）：\n  「這確實是一個重要的問題，但我們更應當聚焦於目前最緊迫的核心環節……」。\n- 「框定信息與凝聚共識」（Framing & Consensus）：\n  「我們懇請社會各界同舟共濟，攜手共度難關」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 32 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 32 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 32 in communication."
+          "target": "新聞發言人在發布會上以誠懇態度通報最新調查進展，迅速澄清網絡謠言，及時穩定公眾情緒。",
+          "reading": "san1 man4 faat3 jin4 jan4 zoi6 faat3 bou3 wui6*2 soeng6 ji5 sing4 han2 taai3 dou6 tung1 bou3 zeoi3 san1 diu6 caa4 zeon3 zin2, seon3 cuk1 cing1 cing1 mong5 lok3 jiu4 jin4, kap6 si4 wan2 ding6 gung1 zung3 cing4 seoi5. [sɐn˥ mɐn˨˩ faːt̚˧ jiːn˨˩ jɐn˨˩ tsɔːi˨ faːt̚˧ pou˧ wuːi˨˩ sœːŋ˨ jiː˩˧ sɪŋ˨˩ hɐn˧˥ tʰaːi˧ tou˨ tʰʊŋ˥ pou˧ tsɵy˧ sɐn˥ tiːu˨ tsʰaː˨˩ tsɵn˧ tsiːn˧˥, sɵn˧ tsʰʊk̚˥ tsʰɪŋ˥ tsʰɪŋ˥ mɔːŋ˩˧ lɔːk̚˧ jiːu˨˩ jiːn˨˩, kʰɐp̚˨ siː˨˩ wɐn˧˥ tɪŋ˨ kʊŋ˥ tsʊŋ˧ tsʰɪŋ˨˩ sɵy˩˧] (SUN-MUN FAHT-YEEN-YUN JOY FAHT-BOU-WUI SEUNG YEE SING-HUN TY-DOU TOONG-BOU JEOY-SUN DEW-CHAH JEON-JEEN, SEON-CHUK CHING-CHING MONG-LOK YIU-YEEN, KUP-SEE WUN-DING GONG-JOONG CHING-SOEY)",
+          "translation": "The spokesperson reported the latest investigation progress with a sincere attitude at the press conference, swiftly clarifying online rumors and timely stabilizing public sentiment."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元32-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "面對記者之尖銳提問，發言人巧妙運用橋接技巧，引導討論回歸到受災群眾安置與善後保障之核心焦點。",
+          "reading": "min6 deoi3 gei3 ze2 zi1 zim1 jeoi6 tai4 man6, faat3 jin4 jan4 hiu2 miu6 wan6 jung6 kiu4 zip3 gei2 hiu2, jan5 dou6 tou2 leon6 wui4 gwai1 dou3 sau6 zoi1 kwan4 zung3 on1 zi3 jyu5 sin6 hau6 bou2 zoeng3 zi1 hat6 sam1 ziu1 dim2. [miːn˨ tɵy˧ kei˧˥ tsɛː˧˥ tsiː˥ tsiːm˥ jɵy˨ tʰɐi˨˩ mɐn˨, faːt̚˧ jiːn˨˩ jɐn˨˩ hiːu˧˥ miːu˨ wɐn˨ jʊŋ˨ kʰiːu˨˩ tsiːp̚˧ kei˧˥ hiːu˧˥, jɐn˩˧ tou˨ tʰouu˧˥ lœːn˨ wuːi˨˩ kʷɐi˥ tou˧ sɐu˨ tsɔːi˥ kʷʰɐn˨˩ tsʊŋ˧ ɔːn˥ tsiː˧ jyː˩˧ siːn˨ hɐu˨ pou˧˥ tsœːŋ˧ tsiː˥ hɐt̚˨ sɐm˥ tsiːu˥ tiːm˧˥] (MEEN-DEOY GAY-JEH JEE JEEM-YEOY TY-MUN, FAHT-YEEN-YUN HIU-MEW WUN-YOONG KIU-JEEP GAY-HIU, YUN-DOU TOU-LEON WOOI-GWAI DOU SAU-JOY KWAN-JOONG ON-JEE YUE SEEN-HAU BOU-JEUNG JEE HUT-SUM JEW-DEEM)",
+          "translation": "Faced with sharp questions from journalists, the spokesperson skillfully deployed bridging techniques, guiding the discussion back to the core focus of affected citizens' resettlement and aftermath security."
+        },
+        {
+          "target": "政府團隊展現出高度之危機應變能力，以公開透明之信息發布凝聚社會廣泛共識，化解公眾疑慮。",
+          "reading": "zing3 fu2 tyun4 deoi6*2 zin2 jin6 ceot1 gou1 dou6 zi1 ngai4 gei1 jing3 bin3 nang4 lik6, ji5 gung1 hoi1 tau1 ming4 zi1 seon3 sik1 faat3 bou3 jing4 zyu6 se5 wui6*2 gwong2 faan3 gung6 sik1, faa3 gaai2 gung1 zung3 ji4 leoi6. [tsɪŋ˧ fuː˧˥ tʰyːn˨˩ tɵy˧˥ tsiːn˧˥ jiːn˨ tsʰɵt̚˥ kou˥ tou˨ tsiː˥ ŋɐi˨˩ kei˥ jɪŋ˧ piːn˧ nɐŋ˨˩ lɪk̚˨, jiː˩˧ kʊŋ˥ hɔːi˥ tʰɐu˥ mɪŋ˨˩ tsiː˥ sɵn˧ sɪk̚˥ faːt̚˧ pou˧ jɪŋ˨˩ tsyː˨ sɛː˩˧ wuːi˨˩ kʷɔːŋ˧˥ faːn˧ kʊŋ˧ sɪk̚˥, faː˧ kaːi˧˥ kʊŋ˥ tsʊŋ˧ jiː˨˩ lɵy˨] (JING-FOO TUEN-DEOY JEEN-YEEN-CHUT GOU-DOU JEE NGY-GAY YING-BEEN NUNG-LIK, YEE GONG-HOI TAU-MING JEE SEON-SIK FAHT-BOU YING-JUE SHEH-WUI GWONG-FAHN GONG-SIK, FAH-GAI GONG-JOONG YEE-LOEY)",
+          "translation": "The government team demonstrated high crisis response capability, consolidating broad social consensus and dispelling public concerns through open and transparent information disclosure."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【危機溝通訣】第一時間報真情，同理擔當撫民心；橋接技巧導焦點，透明發布共識凝！"
+      ],
+      "culturalNotes": [
+        "香港政府新聞處（ISD）設有嚴格的新聞發布與危機通報機制，在颱風暴雨、公共衛生事件中實行24小時不間斷的信息通報，樹立了高效現代城市治理的典範。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"簽名\":",
+          "prompt": "【危機溝通】在突發公共危機中，機構新聞發言人所必須恪守的第一核心原則係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：文件錯置）",
-            "混雜生硬詞彙之不規範語句（例項：法律未適配）",
-            "聲調助詞搭配欠妥之表達（例項：法官誤用）"
+            "第一時間主動公開透明通報真實情況 (Immediate, proactive & transparent disclosure)",
+            "封鎖一切消息",
+            "長期保持沉默不予理睬",
+            "推卸責任給受害者"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「第一時間主動公開」為危機公關中贏得公眾信任、遏制謠言蔓延之第一黃金鐵律。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"簽名\":",
+          "prompt": "【答問技巧】發言人在面對偏頗或陷阱提問時、將話題順暢引導回機構核心信息與關鍵事實之公關技巧係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：法律未適配）",
-            "聲調助詞搭配欠妥之表達（例項：法官誤用）",
-            "語序顛倒嘅非標準句式（例項：文件錯置）"
+            "橋接法 (Bridging Technique / Kiu4 zip3 gei2 hiu2)",
+            "憤怒離場",
+            "當場辱罵記者",
+            "編造虛假謊言"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「橋接法（Bridging）」為新聞發言人掌控發布會主導權之核心專業技能。"
         }
       ]
     },
@@ -13468,15 +13504,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"簽名\": Which sentence is completely correct?",
+          "prompt": "【公關目的】高水平公共政策溝通與危機新聞發布會之最終核心歸宿在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：法官誤用）",
-            "語序顛倒嘅非標準句式（例項：文件錯置）",
-            "混雜生硬詞彙之不規範語句（例項：法律未適配）"
+            "化解公眾疑慮、保障市民知情權並凝聚全社會廣泛共識 (Dispel concerns, ensure public right to know & consolidate social consensus)",
+            "單純掩蓋機構失誤",
+            "忽悠欺騙公眾",
+            "展示官僚傲慢"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "保障公眾知情權與凝聚社會共識係現代公共政策溝通之根本價值。"
         }
       ],
       "passThreshold": 0.8
@@ -13487,53 +13523,62 @@
     "subject": "cantonese",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "高階辯論與公共演說 (High Debating & Public Address) (第5課)",
+    "title": "重大歷史名篇演說賞析與演說家風範：「思想引領」、「時代號召」、「修辭美學」 (Historic Speeches & Master Oratory)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元32第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "縱觀人類歷史，震撼人心之名篇演說往往能夠跨越時空，成為推動歷史巨輪前行之偉大力量：\n\n一、歷史名篇演說核心特徵解構：\n１．「時代號召力與歷史責任感」（si4 doi6 hou6 ziu6 lik6）：\n- 在國家民族面臨危亡或歷史轉折關頭，發出直擊人心的時代強音（如孫中山先生之救國演說、丘吉爾之抗戰演講）。\n２．「崇高思想與普世價值引領」（sou3 gou1 si1 soeng2）：\n- 追求自由、平等、正義與人類尊嚴（如馬丁·路德·金《我有一個夢想》）。\n３．「修辭美學與傳世文本結構」：\n- 意象深邃，結構嚴謹，字字珠璣，擲地有聲。\n\n二、高階演說美學評論語體：\n- 「高瞻遠矚，氣貫長虹」（gou1 zim1 jyun5 zuk1, hei3 gun3 coeng4 hung4）。\n- 「思想之深邃與語言之鏗鏘完美交融，鑄就傳世之不朽名篇」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 32 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 32 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 32 in communication."
+          "target": "呢篇歷史演說高瞻遠矚、氣貫長虹，以宏大之歷史視野同深沉之家國情懷引領住整個時代之精神走向。",
+          "reading": "ni1 pin1 lik6 si2 jin2 seoi3 gou1 zim1 jyun5 zuk1, hei3 gun3 coeng4 hung4, ji5 wang4 daai6 zi1 lik6 si2 si6 je5 tung4 sam1 cam4 zi1 gaa1 gwok3 cing4 waai4 jan5 ling5 zyu6 zing2 go3 si4 doi6 zi1 zing1 san4 zau2 hoeng3. [niː˥ pʰiːn˥ lɪk̚˨ siː˧˥ jiːn˧˥ sɵy˧ kou˥ tsiːm˥ jyːn˩˧ tsʊk̚˥, hei˧ kuːn˧ tsʰœːŋ˨˩ hʊŋ˨˩, jiː˩˧ wɐŋ˨˩ taːi˨ tsiː˥ lɪk̚˨ siː˧˥ siː˨ jɛː˩˧ tʰʊŋ˨˩ sɐm˥ tsʰɐm˨˩ tsiː˥ kaː˥ kʷɔːk̚˧ tsʰɪŋ˨˩ waːi˨˩ jɐn˩˧ lɪŋ˩˧ tsy˨ tsɪŋ˧˥ kɔː˧ siː˨˩ tɔːi˨ tsiː˥ tsɪŋ˥ sɐn˨˩ tsɐu˧˥ hœːŋ˧] (NEE-PEEN LIK-SEE YEEN-SOEY GOU-JEEM YUEN-JUK, HEY-GOON CHEUNG-HOONG, YEE WUNG-DY JEE LIK-SEE SEE-YEH TOONG SUM-CHUM JEE GAH-GWOK CHING-WAI YUN-LING-JUE JING-GOH SEE-DOY JEE JING-SUN JAU-HEUNG)",
+          "translation": "This historic address is forward-looking with boundless momentum, guiding the spiritual direction of an entire era with a grand historical vision and deep patriotism."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元32-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "演說家以深厚之人文關懷同不可撼動之道德信念，向世界發出追求平等與正義之時代強音，擲地有聲。",
+          "reading": "jin2 seoi3 gaa1 ji5 sam1 hau5 zi1 jan4 man4 gwaan1 waai4 tung4 bat1 ho2 ham6 dung6 zi1 dou6 dak1 seon3 nim6, hoeng3 sai3 gaai3 faat3 ceot1 zeoi1 kau4 ping4 dang2 jyu5 zing3 ji6 zi1 si4 doi6 koeng4 jam1, zaak6 dei6 jau5 seng1. [jiːn˧˥ sɵy˧ kaː˥ jiː˩˧ sɐm˥ hɐu˧˥ tsiː˥ jɐn˨˩ mɐn˨˩ kʷaːn˥ waːi˨˩ tʰʊŋ˨˩ pɐt̚˥ hɔː˧˥ hɐm˨ tʊŋ˨ tsiː˥ tou˨ tɐk̚˥ sɵn˧ niːm˨, hœːŋ˧ sɐi˧ kaːi˧ faːt̚˧ tsʰɵt̚˥ tsɵy˥ kʰɐu˨˩ pʰɪŋ˨˩ tɐŋ˧˥ jyː˩˧ tsɪŋ˧ jiː˨ tsiː˥ siː˨˩ tɔːi˨ kʰœːŋ˨˩ jɐm˥, tsaːk̚˨ tei˨ jɐu˩˧ sɛːŋ˥] (YEEN-SOEY-GAH YEE SUM-HAU JEE YUN-MUN GWAHN-WAI TOONG BUT-HOH-HUM-DOONG JEE DOU-DUK SEON-NEEM, HEUNG SY-GY FAHT-CHUT JOEY-KAU PING-DUNG YUE JING-YEE JEE SEE-DOY KEUNG-YUM, JAAK-DAY YAU-SENG)",
+          "translation": "With profound humanist empathy and unshakeable moral convictions, the orator delivered the resounding call of the era pursuing equality and justice to the world, striking chords with powerful resonance."
+        },
+        {
+          "target": "偉大演說之所以能夠穿越百年時空依然激勵人心，在於其超越個人恩怨、承載住人類對崇高美好之永恆追求。",
+          "reading": "wai5 daai6 jin2 seoi3 zi1 so2 ji5 nang4 gau3 cyun1 jyut6 baak3 nin4 si4 hung1 ji1 jin4 gik1 lai6 jan4 sam1, zoi6 jyu1 kei4 ciu1 jyut6 go3 jan4 jan1 jyun3, sing4 zoi3 zyu6 jan4 leoi6 deoi3 sung4 gou1 mei5 hou2 zi1 wing5 hang4 zeoi1 kau4. [wɐi˩˧ taːi˨ jiːn˧˥ sɵy˧ tsiː˥ sɔː˧˥ jiː˩˧ nɐŋ˨˩ kɐu˧ tsʰyːn˥ jyːt̚˨ paːk̚˧ niːn˨˩ siː˨˩ hʊŋ˥ jiː˥ jiːn˨˩ kɪk̚˥ lɐi˨ jɐn˨˩ sɐm˥, tsɔːi˨ jyː˥ kʰei˨˩ tsʰiːu˥ jyːt̚˨ kɔː˧ jɐn˨˩ jɐn˥ jyːn˧, sɪŋ˨˩ tsɔːi˧ tsy˨ jɐn˨˩ lɵy˨ tɵy˧ sʊŋ˨˩ kou˥ mei˩˧ hou˧˥ tsiː˥ wɪŋ˩˧ hɐŋ˨˩ tsɵy˥ kʰɐu˨˩] (WAI-DY YEEN-SOEY JEE SOH-YEE NUNG-GAU CHUEN-YUET BAAK-NEEN SEE-HOONG YEE-YEEN GIK-LY YUN-SUM, JOY-YUE KAY CHIU-YUET GOH-YUN YUN-YUEN, SING-JOY-JUE YUN-LOEY DEOY SOONG-GOU MAY-HOH JEE WING-HAHNG JOEY-KAU)",
+          "translation": "The reason great oratory can still inspire human hearts across a century of time and space lies in its transcendence of personal grievances, bearing humanity's eternal pursuit of sublime beauty."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【名篇演說訣】氣貫長虹照乾坤，家國情懷時代真；超越時空勵百代，字字鏗鏘鑄精神！"
+      ],
+      "culturalNotes": [
+        "1923年孫中山先生在香港大學大禮堂發表演說，回顧自己在香港求學歲月並直言『我之革命思想完全得自香港』。這場著名演講成為香港近代史與華人革命史上極具象徵意義的歷史篇章。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"文件\":",
+          "prompt": "【演說魅力】重大歷史名篇演說之所以能夠穿越漫長歷史時空依然震撼人心的根本原因在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：法律錯置）",
-            "混雜生硬詞彙之不規範語句（例項：法官未適配）",
-            "聲調助詞搭配欠妥之表達（例項：律師誤用）"
+            "具備崇高思想引領、強烈時代號召力與深厚人文情懷 (Sublime thought, strong era appeal & deep humanist empathy)",
+            "單純堆砌華麗辭藻",
+            "聲音調至最高分貝",
+            "迎合庸俗低級趣味"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "崇高思想價值與時代精神號召係歷史名篇演說永恆生命力之所在。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"文件\":",
+          "prompt": "【歷史名篇】1923年在香港大學發表演說、深情回顧求學歲月並指出其思想得自香港之近代偉人係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：法官未適配）",
-            "聲調助詞搭配欠妥之表達（例項：律師誤用）",
-            "語序顛倒嘅非標準句式（例項：法律錯置）"
+            "孫中山先生 (Dr. Sun Yat-sen)",
+            "愛迪生",
+            "牛頓",
+            "達爾文"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "孫中山先生於1923年在港大的歷史演說是香港近代史上的標誌性事件。"
         }
       ]
     },
@@ -13541,15 +13586,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"文件\": Which sentence is completely correct?",
+          "prompt": "【演說評價】形容一篇演說論點宏大、立意高遠、氣勢磅礴且極具感染力之經典成語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第32課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：律師誤用）",
-            "語序顛倒嘅非標準句式（例項：法律錯置）",
-            "混雜生硬詞彙之不規範語句（例項：法官未適配）"
+            "高瞻遠矚、氣貫長虹 (Forward-looking with boundless momentum)",
+            "鼠目寸光",
+            "言之無物",
+            "無病呻吟"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「高瞻遠矚、氣貫長虹」常用於評價傳世歷史名篇演說之崇高境界與雄渾氣魄。"
         }
       ],
       "passThreshold": 0.8
