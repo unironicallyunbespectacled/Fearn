@@ -11555,53 +11555,62 @@
     "subject": "urdu",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "صحافت، ادارتی تحریر اور نشریاتی میڈیا (Journalism) (Part 1)",
+    "title": "اردو صحافت کی تاریخ، سرسید، الہلال اور زمیندار (History of Urdu Journalism)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.1) with authentic precision.",
+    "objective": "اردو صحافت کی تاریخ (جامِ جہاں نما، سرسید کا تہذیب الاخلاق، مولانا آزاد کا الہلال، مولانا ظفر علی خان کا زمیندار) کے فصیح و ادبی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں صحافت کی تاریخی روایت اور قومی کردار (History of Urdu Journalism):\n\n1. **ابتدائی صحافت کے نقوش**:\n   - «**جامِ جہاں نما (1822ء)**»: اردو کا اولین باضابطہ اخبار؛\n   - «سرسید احمد خان کا '**تہذیب الاخلاق**'»: سائنسی فکر اور فکری بیداری کا نقیب۔\n\n2. **تحریکِ آزادی کی انقلابی صحافت**:\n   - «مولانا ابوالکلام آزاد کا '**الہلال**'»: پرشکوہ خطیبانہ نثر اور سامراج مخالف لہجہ؛\n   - «مولانا ظفر علی خان کا '**زمیندار**'»: برصغیر کے مسلمانوں میں آزادی کی روح پھونکنے والا اخبار۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "مولانا ابوالکلام آزاد نے 'الہلال' کے ذریعے اردو صحافت کو بلند پایہ ادبی فصاحت اور استعماری سامراج کے خلاف انقلابی شعور سے ہمکنار کیا۔",
+          "reading": "Maulana Abul Kalam Azad ne 'Al-Hilal' ke zariye Urdu sahaafat ko buland-paaya adabi fasaahat aur isti'maari saamraaj ke khilaaf inqilaabi shu'oor se hum-kinaar kiya. [mɔːlaːnaː əbʊl-kəlaːm aːzaːd̪ neː əl-hɪlaːl keː zərɪjeː ʊrd̪uː səhaːfət̪ koː bʊlənd̪-paːjaː əd̪əbiː fəsaːhət̪ ɔːr ɪst̪ɪʔmaːriː saːmraːdʒ keː xɪlaːf ɪnqɪlaːbiː ʃʊʔuːr seː həm-kɪnaːr kɪjaː] (mow-lah-NAH uh-bool-kuh-LAHM ah-ZAHD nay ahl-hee-LAHL kay zuh-ree-YAY OOR-doo suh-hah-FUHT koh boo-luhnd-PAH-yah uh-duh-BEE fuh-sah-HUHT owr ees-teeh-mah-REE sahm-RAHJ kay khee-LAHF een-qee-LAH-bee shooh-OOR say huhm-kee-NAHR kee-YAH)",
+          "translation": "Through 'Al-Hilal', Maulana Abul Kalam Azad endowed Urdu journalism with high-caliber literary eloquence [journalistic eloquence: adabi fasaahat] and revolutionary consciousness against colonial imperialism."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 28-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "مولانا ظفر علی خان کے اخبار 'زمیندار' نے اپنے بے باک اداریوں اور سیاسی نظموں کے ذریعے برصغیر کے مسلمانوں میں آزادی کا ولولہ بیدار کیا۔",
+          "reading": "Maulana Zafar Ali Khan ke akhbaar 'Zamindar' ne apnay bay-baak idaarion aur siyaasi nazmon ke zariye bar-e-saghir ke Musalmaanon mein aazaadi ka walwala baydaar kiya. [mɔːlaːnaː zəfər əliː xaːn keː əxbaːr zəmiːnd̪aːr neː əpneː beː-baːk ɪd̪aːrɪjõː ɔːr sɪjaːsiː nəzmõː keː zərɪjeː bərː-eː-səɣiːr keː mʊsəlmaːnõː mẽː aːzaːd̪iː kaː ʋəlʋəlaː beːd̪aːr kɪjaː] (mow-lah-NAH zuh-FUHR uh-LEE khahn kay uhkh-BAHR zuh-meen-DAHR nay uhp-NAY bay-BAHK ee-dah-ree-YOHN owr see-yah-SEE nuhz-MOHN kay zuh-ree-YAY buhr-ray-suh-GHEER kay moo-suhl-mah-NOHN mayn ah-zah-DEE kah wuhl-wuh-LAH bay-DAHR kee-YAH)",
+          "translation": "Maulana Zafar Ali Khan's newspaper 'Zamindar' awakened the zeal for freedom among the Muslims of the subcontinent through its fearless editorials and political poems."
+        },
+        {
+          "target": "سرسید احمد خان نے 'تہذیب الاخلاق' کے ذریعے سنجیدہ مضمون نگاری، معروضی صحافت اور علمی مکالمے کی مضبوط بنیاد رکھی۔",
+          "reading": "Sir Syed Ahmad Khan ne 'Tehzeeb-ul-Akhlaaq' ke zariye sanjeeda mazmoon-nigaari, ma'roozi sahaafat aur ilmi mukaalmay ki mazboot bunyaad rakhi. [sər sɪjːəd̪ əhməd̪ xaːn neː t̪ɛhziːb-ʊl-əxlaːq keː zərɪjeː səndʒiːd̪aː məzmuːn-nɪɡaːriː məʔruːziː səhaːfət̪ ɔːr ɪlmiː mʊkaːlmeː kiː məzbuːt̪ bʊnjaːd̪ rəkʰiː] (SIR syed uh-MUHD khahn nay tyh-ZEEB-ool-uhkh-LAHQ kay zuh-ree-YAY suhn-jee-DAH muhz-moon-nee-gah-REE, muh-roo-ZEE suh-hah-FUHT owr eel-MEE moo-kahl-MAY kee muhz-BOOT boon-YAHD ruh-KHEE)",
+          "translation": "Sir Syed Ahmad Khan laid the solid foundation of serious essay writing, objective journalism [objective journalism: ma'roozi sahaafat], and intellectual discourse through 'Tehzeeb-ul-Akhlaaq'."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اردو صحافت کے ستون: جامِ جہاں نما (اولین) + تہذیب الاخلاق (علمی) + الہلال (فصیح) + زمیندار (انقلابی)!"
+      ],
+      "culturalNotes": [
+        "مولانا ظفر علی خان کو اردو صحافت کا 'بابائے صحافت' کہا جاتا ہے جنہوں نے صحافت کو عوامی طاقت میں بدل دیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پڑھنا\":",
+          "prompt": "اردو زبان کے پہلے باضابطہ اخبار کا کیا نام تھا جو 1822ء میں کلکتہ سے جاری ہوا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («لکھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سننا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دیکھنا» کی خرابی)"
+            "جامِ جہاں نما (Jaam-e-Jahan-Numa - First historical Urdu newspaper launched in 1822)",
+            "روزنامہ جنگ",
+            "نوائے وقت",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اردو کے پہلے اخبار کا نام «جامِ جہاں نما» (1822ء) تھا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پڑھنا\":",
+          "prompt": "مولانا ابوالکلام آزاد کا شہرۂ آفاق اخبار کون سا تھا جس نے آزادی کی تحریک میں تاریخ رقم کی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سننا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دیکھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («لکھنا» کا غیر درست استعمال)"
+            "الہلال (Al-Hilal - Iconic revolutionary literary newspaper by Maulana Abul Kalam Azad)",
+            "پیسہ اخبار",
+            "اودھ پنچ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مولانا آزاد کا تاریخی اخبار «الہلال» تھا۔"
         }
       ]
     },
@@ -11609,17 +11618,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پڑھنا\": Which sentence is completely correct?",
+          "prompt": "اردو صحافت کی تاریخی روایت (History of Urdu Journalism) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دیکھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («لکھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سننا» سے متعلق)"
+            "اردو صحافت سرسید کے 'تہذیب الاخلاق' کی علمی سنجیدگی، مولانا آزاد کے 'الہلال' کی ادبی فصاحت اور مولانا ظفر علی خان کے 'زمیندار' کی انقلابی للکار کا لافانی تاریخی ورثہ ہے۔ (Urdu journalism is the immortal legacy of Sir Syed's intellectual gravity, Azad's Al-Hilal eloquence, and Zafar Ali Khan's revolutionary voice.)",
+            "اخبار نے چائے پی کر قلم کو دریا میں پھینکا تھا اور رویا تھا۔",
+            "جامِ جہاں نما صرف گاڑی کا شیشہ ہوتا ہے۔",
+            "الہلال اخبار صرف فلمی اشتہار چھاپتا تھا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو صحافت سرسید کے 'تہذیب الاخلاق' کی علمی سنجیدگی، مولانا آزاد کے 'الہلال' کی ادبی فصاحت اور مولانا ظفر علی خان کے 'زمیندار' کی انقلابی للکار کا لافانی تاریخی ورثہ ہے۔» صحافتی تاریخ کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u28-l2": {
@@ -11627,53 +11637,62 @@
     "subject": "urdu",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "صحافت، ادارتی تحریر اور نشریاتی میڈیا (Journalism) (Part 2)",
+    "title": "ادارتی تحریر، کالم نگاری اور فیچر نویسی (Editorials, Columns & Feature Writing)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.2) with authentic precision.",
+    "objective": "اخبار کے اداریے، کالم نگاری، فیچر رائٹنگ، اور تجزیاتی مضامین کے اسلوبیاتی و فکری تقاضوں پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو پرنٹ میڈیا میں اداریہ، کالم اور فیچر نگاری (Print Journalism Genres):\n\n1. **اداریہ (Editorial)**:\n   - اخبار کی ادارتی کمیٹی کی جانب سے لکھا جانے والا باضابطہ فکری اور اصولی مؤقف؛\n   - بغیر کسی نام کے اخبار کے مدیر (Editor) کی نمائندگی۔\n\n2. **کالم نگاری اور فیچر نویسی**:\n   - «**کالم نگاری (Column Writing)**»: ذاتی اسلوب، ادبی مٹھاس، طنز و مزاح اور سیاسی تجزیہ؛\n   - «**فیچر نگاری (Feature Writing)**»: واقعات کی تفصیلی تحقیق، پس منظر اور انسانی المیے کی عکاسی۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اخبار کا اداریہ کسی بھی قومی یا بین الاقوامی بحران پر اخبار کی ادارتی پالیسی اور فکری مؤقف کا آئینہ دار ہوتا ہے۔",
+          "reading": "Akhbaar ka idariya kisi bhi qawmi ya bain-ul-aqwaami buhraan par akhbaar ki idaarti policy aur fikri mauqaf ka aa'ina-daar hota hai. [əxbaːr kaː ɪd̪aːrɪjaː kɪsiː bʱiː qɔːmiː jaː bɛːn-ʊl-əqʋaːmiː bʊhraːn pər əxbaːr kiː ɪd̪aːrət̪iː pɔːlɪsiː ɔːr fɪkriː mɔːqɪf kaː aːʔiːnaː-d̪aːr hoːt̪aː hɛː] (uhkh-BAHR kah ee-dah-ree-YAH kee-SEE bhee QOW-mee yah byn-ool-uhq-VAH-mee booh-RAHN puhr uhkh-BAHR kee ee-dahr-TEE policy owr feek-REE mow-QEEF kah ah-ee-nah-DAHR hoh-TAH HY)",
+          "translation": "A newspaper's editorial [journalism: idariya] reflects the editorial policy and philosophical stance of the publication on any national or international crisis."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 28-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اردو کے نامور کالم نگاروں نے شگفتہ ادبی زبان، طنز و مزاح اور گہرے سیاسی تجزیے کو ملا کر کالم نگاری کو باقاعدہ صنف کا درجہ دیا۔",
+          "reading": "Urdu ke naamwar column nigaaron ne shagufta adabi zabaan, tanz-o-mizaah aur gehre siyaasi tajziye ko mila kar column nigaari ko baa-qaa'ida sinf ka darja diya. [ʊrd̪uː keː naːmʋər kɔːləm nɪɡaːrõː neː ʃəɡʊft̪aː əd̪əbiː zəbaːn t̪ənz-oː-mɪzaːh ɔːr ɡɛɦreː sɪjaːsiː t̪əzdʒɪjeː koː mɪlaː kər kɔːləm nɪɡaːriː koː baː-qaːʔɪd̪aː sɪnf kaː d̪ərdʒaː d̪ɪjaː] (OOR-doo kay nahm-WUHR column nee-gah-ROHN nay shuh-goof-TAH uh-duh-BEE zuh-BAHN, tuhnz-oh-mee-ZAH owr GYH-ray see-yah-SEE tuhj-zee-YAY koh mee-LAH kuhr column nee-gah-REE koh bah-qah-ee-DAH SEENF kah duhr-JAH DEE-yah)",
+          "translation": "Eminent Urdu columnists combined delightful literary language, satire, and deep political analysis to elevate column writing [column nigaari] to the status of a recognized literary genre."
+        },
+        {
+          "target": "تحقیقی فیچر نگاری میں صحافی واقعات کے پسِ پردہ محرکات اور انسانی المیوں کو مدلل اعداد و شمار کے ساتھ قاری کے سامنے لاتا ہے۔",
+          "reading": "Tehqeeqi feature nigaari mein sahaafi waaqi'aat ke pas-e-parda muharrikaat aur insaani almiyon ko mudallal aadaad-o-shumaar ke saath qaari ke saamnay laata hai. [t̪ɛhqiːqiː fiːtʃər nɪɡaːriː mẽː səhaːfiː ʋaːqɪʔaːt̪ keː pəs-eː-pərd̪aː mʊɦərːɪkaːt̪ ɔːr ɪnsaːniː əlmɪjõː koː mʊd̪əlːəl aːd̪aːd̪-oː-ʃʊmaːr keː saːt̪ʰ qaːriː keː saːmneː laːt̪aː hɛː] (tyh-qee-QEE feature nee-gah-REE mayn suh-hah-FEE wah-qee-AHT kay puhs-ay-puhr-DAH moo-huhr-ree-KAHT owr een-sah-NEE uhl-mee-YOHN koh moo-duhl-LUHL ah-DAHD-oh-shoo-MAHR kay SAHTH QAH-ree kay sahm-NAY lah-TAH HY)",
+          "translation": "In investigative feature writing, the journalist brings the background motives of events and human tragedies before the reader supported by reasoned statistics."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "پرنٹ صحافت کے اجزا: اداریہ (اخبار کی آواز) + کالم (ادبی و سیاسی تجزیہ) + فیچر (تحقیقی پس منظر)!"
+      ],
+      "culturalNotes": [
+        "اردو اخبارات میں کالم نگاری کی مقبولیت دنیا کی کسی بھی دوسری زبان کے مقابلے میں سب سے زیادہ ہے جہاں کروڑوں قارئین روزانہ کالم پڑھتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"لکھنا\":",
+          "prompt": "اخبار کے اس باضابطہ مضمون کو کیا کہتے ہیں جو بغیر مصنف کے نام کے اخبار کی پالیسی اور رائے کو ظاہر کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سننا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دیکھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چاہنا» کی خرابی)"
+            "اداریہ (Idariya / Editorial - Official institutional commentary of the newspaper)",
+            "اشتہار",
+            "کھیلوں کا اسکور",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اخبار کی باضابطہ رائے کو «اداریہ» (Editorial) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"لکھنا\":",
+          "prompt": "کسی اہم واقعے یا انسانی المیے پر گہری تحقیق، پس منظر اور اعداد و شمار کے ساتھ لکھے جانے والے طویل صحافتی مضمون کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دیکھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چاہنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سننا» کا غیر درست استعمال)"
+            "فیچر / فیچر نگاری (Feature Writing - In-depth narrative and background journalistic report)",
+            "صرف ایک سطر کی خبر",
+            "ریسیپی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "تفصیلی تحقیقی اور پس منظری مضمون کو «فیچر» (Feature) کہا جاتا ہے۔"
         }
       ]
     },
@@ -11681,17 +11700,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"لکھنا\": Which sentence is completely correct?",
+          "prompt": "ادارتی تحریر اور کالم نگاری (Editorials & Columns) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چاہنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سننا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دیکھنا» سے متعلق)"
+            "اخبار کا اداریہ سنجیدہ اور مدلل فکری مؤقف کا ترجمان ہوتا ہے جبکہ کالم نگاری اپنے شگفتہ اسلوب اور سیاسی تجزیے کے ذریعے عوامی رائے عامہ کی رہنمائی کرتی ہے۔ (A newspaper editorial represents reasoned institutional policy while column writing guides public opinion through witty style and political analysis.)",
+            "کالم نے چائے میں بسکٹ ڈبو کر رویا تھا اور گاڑی چلائی تھی۔",
+            "اداریہ صرف بازار کے بھاؤ بتانے کے لیے لکھا جاتا ہے۔",
+            "فیچر رائٹنگ میں کسی قسم کی تحقیق نہیں کی جاتی۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اخبار کا اداریہ سنجیدہ اور مدلل فکری مؤقف کا ترجمان ہوتا ہے جبکہ کالم نگاری اپنے شگفتہ اسلوب اور سیاسی تجزیے کے ذریعے عوامی رائے عامہ کی رہنمائی کرتی ہے۔» صحافتی اصناف کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u28-l3": {
@@ -11699,53 +11719,62 @@
     "subject": "urdu",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "صحافت، ادارتی تحریر اور نشریاتی میڈیا (Journalism) (Part 3)",
+    "title": "نشریاتی میڈیا، بریکنگ نیوز اور ٹاک شوز (Broadcast Media, Breaking News & Talk Shows)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.3) with authentic precision.",
+    "objective": "الیکٹرانک میڈیا (نیوز بلیٹن، بریکنگ نیوز، ٹاک شوز، اینکر پرسن، لائیو کوریج، فیلڈ بیپر) کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو الیکٹرانک میڈیا اور نشریاتی اصطلاحات (Broadcast Journalism):\n\n1. **نشریاتی خبروں کی زبان اور ڈھانچہ**:\n   - «**بریکنگ نیوز (Breaking News)**»: ہنگامی اور غیر معمولی خبر کا فوری اعلان؛\n   - «**سرخیاں / ہیڈ لائنز (Headlines)**»: گھنٹے کے آغاز پر اہم ترین خبروں کا خلاصہ؛\n   - «**نیوز کاسٹر اور اینکر پرسن**»: تلفظ کی درستگی اور باوقار اندازِ گفتگو۔\n\n2. **ٹاک شوز اور لائیو کوریج**:\n   - «پرائم ٹائم حالاتِ حاضرہ کے پروگرام (Current Affairs Talk Shows)»；\n   - «جائے وقوعہ سے نامہ نگار کا **براہِ راست بیپر (Live Beeper)**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ٹی وی اسکرین پر بریکنگ نیوز کی سرخیاں چلتے ہی نیوز اینکر نے لائیو براڈکاسٹ کے ذریعے ناظرین کو تازہ ترین صورتِ حال سے لمحہ بہ لمحہ آگاہ کیا۔",
+          "reading": "TV screen par breaking news ki surkhiyaan chaltay hi news anchor ne live broadcast ke zariye naazireen ko taaza-tareen soorat-e-haal se lamha ba-lamha aagaah kiya. [ʈiː-ʋiː skriːn pər breːkɪŋɡ njuːz kiː sʊrxɪjaː̃ tʃəlt̪eː hiː njuːz ɛːŋkər neː laːʔɪʋ brɔːɖkaːst̪ keː zərɪjeː naːzɪriːn koː t̪aːzaː-t̪əriːn suːrət̪-eː-haːl seː ləmhaː bə-ləmhaː aːɡaːh kɪjaː] (TV screen puhr breaking news kee soor-khee-YAHN chuhl-TAY HEE news anchor nay live broadcast kay zuh-ree-YAY nah-zee-REEN koh tah-zah-tuh-REEN soo-ruht-ay-HAHL say LUHM-hah buh-LUHM-hah ah-GAHH kee-YAH)",
+          "translation": "As soon as breaking news tickers ran on the TV screen, the news anchor informed the viewers minute-by-minute of the latest situation via live broadcast [broadcast: breaking news aur live broadcast]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 28-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "پرائم ٹائم کے حالاتِ حاضرہ کے پروگرام میں اینکر پرسن نے مختلف سیاسی جماعتوں کے نمائندوں سے ملکی معیشت پر تلخ اور چبھتے ہوئے سوالات کیے۔",
+          "reading": "Prime time ke haalaat-e-haazira ke programme mein anchor person ne mukhtalif siyaasi jama'aton ke numaayindon se mulki ma'eeshat par talkh aur chubhtay huay sawaalaat kiye. [praːʔɪm ʈaːʔɪm keː haːlaːt̪-eː-haːzɪraː keː proːɡraːm mẽː ɛːŋkər pərsən neː mʊxt̪əlɪf sɪjaːsiː dʒəmaːʔət̪õː keː nʊmaːjɪnd̪õː seː mʊlkiː məʔiːʃət̪ pər t̪əlq ɔːr tʃʊbʱt̪eː hʊʔeː səʋaːlaːt̪ kɪjeː] (prime time kay hah-LAHT-ay-hah-zee-RAH kay program mayn anchor person nay mookh-tuh-LEEF see-yah-SEE juh-mah-TOHN kay noo-mah-yeen-DOHN say mool-KEE muh-EE-shuht puhr TULKH owr choobh-TAY hoo-AY suh-wah-LAHT kee-YAY)",
+          "translation": "In the prime-time current affairs program, the anchor person posed pointed and penetrating questions on the national economy to representatives of various political parties."
+        },
+        {
+          "target": "فیلڈ رپورٹر نے جائے حادثہ سے براہِ راست بیپر دیتے ہوئے ریسکیو آپریشن اور امدادی کارروائیوں کی مصدقہ اطلاعات فراہم کیں۔",
+          "reading": "Field reporter ne jaa-e-haadisa se baraah-e-raast beeper daitay huay rescue operation aur imdaadi kaarwaaiyon ki musaddada ittilaa'aat faraaham keen. [fiːlɖ rɪpɔːrʈər neː dʒaːʔeː-haːd̪ɪsaː seː bəraːh-eː-raːst̪ biːpər d̪eːt̪eː hʊʔeː rɛskjuː ɔːpəreːʃən ɔːr ɪmdaːd̪iː kaːrʋaːʔɪjõː kiː mʊsəd̪ːəqaː ɪt̪ːɪlaːʔaːt̪ fəraːhəm kĩː] (field reporter nay JAH-ay-hah-dee-SAH say buh-RAH-ay-RAHST beeper DAY-tay hoo-AY rescue operation owr eem-dah-DEE kahr-wah-ee-YOHN kee moo-suhd-duh-QAH eet-tee-lah-AHT fuh-rah-HUHM KEEN)",
+          "translation": "Giving a live beeper from the scene of the accident, the field reporter provided verified information regarding the rescue operation and relief activities."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نشریاتی میڈیا: بریکنگ نیوز (فوری ٹکر) + ہیڈ لائنز + ٹاک شو (اینکر پرسن) + براہِ راست بیپر!"
+      ],
+      "culturalNotes": [
+        "پاکستان میں 2002ء کے بعد نجی ٹی وی چینلز کے آغاز نے نشریاتی صحافت اور سیاسی شعور میں ایک ہمہ گیر انقلاب برپا کیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سننا\":",
+          "prompt": "ٹیلی ویژن پر کسی ہنگامی یا غیر معمولی واقعے کی فوری نشریات کو کیا کہا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دیکھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چاہنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اسکول» کی خرابی)"
+            "بریکنگ نیوز (Breaking News - Urgent broadcast interruption for developing news)",
+            "ڈراما سیریل",
+            "موسمی گیت",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "فوری ہنگامی خبر کو «بریکنگ نیوز» (Breaking News) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سننا\":",
+          "prompt": "ٹیلی ویژن ٹاک شو کی میزبانی اور مہمانوں سے مباحثہ کروانے والے صحافی کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چاہنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اسکول» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دیکھنا» کا غیر درست استعمال)"
+            "اینکر پرسن / اینکر (Anchorperson - Current affairs program host and debate moderator)",
+            "کیمرہ مین",
+            "موسیقار",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "پروگرام کے میزبان صحافی کو «اینکر پرسن» (Anchorperson) کہتے ہیں۔"
         }
       ]
     },
@@ -11753,17 +11782,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سننا\": Which sentence is completely correct?",
+          "prompt": "نشریاتی میڈیا اور لائیو کوریج (Broadcast Journalism & Breaking News) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اسکول» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دیکھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چاہنا» سے متعلق)"
+            "نیوز روم نے بریکنگ نیوز کے ٹکرز نشر کیے جبکہ اینکر پرسن نے فیلڈ رپورٹر سے براہِ راست بیپر لے کر ناظرین کو صورتِ حال کی مصدقہ تفصیلات فراہم کیں۔ (The newsroom broadcast breaking news tickers while the anchor person took a live beeper from field reporter providing verified details.)",
+            "اینکر پرسن نے مائیک کو ہانڈی میں پکا کر گاڑی روئی تھی۔",
+            "بریکنگ نیوز صرف اخبار کے آخری صفحے پر چھپتی ہے۔",
+            "لائیو کوریج کا مطلب ریکارڈ شدہ گانے سننا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«نیوز روم نے بریکنگ نیوز کے ٹکرز نشر کیے جبکہ اینکر پرسن نے فیلڈ رپورٹر سے براہِ راست بیپر لے کر ناظرین کو صورتِ حال کی مصدقہ تفصیلات فراہم کیں۔» الیکٹرانک میڈیا کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u28-l4": {
@@ -11771,53 +11801,62 @@
     "subject": "urdu",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "صحافت، ادارتی تحریر اور نشریاتی میڈیا (Journalism) (Part 4)",
+    "title": "ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی اخلاقیات (Digital Media, Fake News & Ethics)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.4) with authentic precision.",
+    "objective": "ڈیجیٹل میڈیا، سوشل جرنلزم، فیک نیوز کے سدِ باب (Fact-checking)، صحافتی ضابطۂ اخلاق، اور پیمرا (PEMRA) کے قوانین کے بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو ڈیجیٹل میڈیا، فیک نیوز اور صحافتی اخلاقیات (Digital Journalism & Ethics):\n\n1. **ڈیجیٹل میڈیا کا دور اور چیلنجز**:\n   - «**سوشل میڈیا اور آن لائن نیوز پورٹلز**»؛\n   - «**جعلی خبریں (Fake News)** اور سنسنی خیزی (Sensationalism) کا خطرہ»؛\n   - «**حقائق کی جانچ (Fact-checking)** اور غیر جانبدارانہ تصدیق»۔\n\n2. **صحافتی اخلاقیات اور ریگولیشن**:\n   - «**صحافتی ضابطۂ اخلاق (Code of Ethics)**»: سچائی، توازن، اور غیر جانبداری؛\n   - «**پیمرا (PEMRA)**»: الیکٹرانک میڈیا کے نشریاتی قوانین کا نگران ادارہ۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ڈیجیٹل میڈیا کے موجودہ دور میں فیک نیوز اور گمراہ کن پروپیگنڈے کا مقابلہ کرنے کے لیے حقائق کی جانچ یعنی فیکٹ چیکنگ بنیادی پیشہ ورانہ تقاضا بن چکا ہے۔",
+          "reading": "Digital media ke mawjooda daur mein fake news aur gumraah-kun propaganda ka muqaabla karnay ke liye haqaa'iq ki jaanch ya'ni fact-checking bunyaadi peisha-waraana taqaaza ban chuka hai. [ɖɪdʒɪʈəl miːɖɪjaː keː mɔːdʒuːd̪aː d̪ɔːr mẽː fɛːk njuːz ɔːr ɡʊmraːh-kʊn proːpəɡɛɳɖaː kaː mʊqaːbəlaː kərneː keː lɪjeː həqaːʔɪq kiː dʒaːntʃ jəʔniː fɛkt-tʃɛkɪŋɡ bʊnjaːd̪iː peːʃə-ʋəraːnaː t̪əqaːzaː bən tʃʊkaː hɛː] (digital media kay mow-JOO-dah DOWR mayn fake news owr goom-RAHH-koon propaganda kah moo-qah-buh-LAH kuhr-NAY kay lee-AY huh-QAH-eeq kee JAHNCH yuh-NEE fact checking boon-yah-DEE pay-shuh-wah-RAH-nah tuh-QAH-zah buhn choo-KAH HY)",
+          "translation": "In the present era of digital media, verifying facts through fact-checking [digital ethics: fact-checking] has become a fundamental professional imperative to combat fake news and misleading propaganda."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 28-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "صحافتی ضابطۂ اخلاق تمام میڈیا ہاؤسز کو پابند کرتا ہے کہ وہ غیر تصدیق شدہ خبروں، سنسنی خیزی اور کسی کی پگڑی اچھالنے سے مکمل گریز کریں۔",
+          "reading": "Sahaafati zaabita-e-akhlaaq tamaam media houses ko paaband karta hai keh woh ghair-tasdeeq-shuda khabron, sansani-kheizi aur kisi ki pagri uchhaalnay se mukammal gurez karein. [səhaːfət̪iː zaːbɪt̪aː-eː-əxlaːq t̪əmaːm miːɖɪjaː haːʊsɪz koː paːbənd̪ kərt̪aː hɛː kɛh ʋoːh ɣɛːr-t̪əsdiːq-ʃʊd̪aː xəbrõː sənsəniː-xeːziː ɔːr kɪsiː kiː pəɡɽiː ʊtʃʰaːlneː seː mʊkəmːəl ɡʊreːz kərẽː] (suh-hah-fuh-TEE zah-bee-tah-ay-uhkh-LAHQ tuh-MAHM media houses koh pah-BUHND kuhr-TAH HY KYH VOH ghyr-tuhs-deeq-shoo-DAH khuhb-ROHN, suhn-suh-nee-KHAY-zee owr kee-SEE kee puhg-REE oochh-ahl-NAY say moo-kuhm-MUHL goo-RAYZ kuh-RAYN)",
+          "translation": "The journalistic code of ethics [media ethics: zaabita-e-akhlaaq] binds all media houses to completely refrain from unverified news, sensationalism, and defamation."
+        },
+        {
+          "target": "پیمرا قوانین کے تحت نفرت انگیز تقاریر اور قومی سلامتی کو نقصان پہنچانے والے نشریاتی مواد پر سخت قانونی تادیبی کارروائی عمل میں لائی جاتی ہے۔",
+          "reading": "PEMRA qawaaneen ke tehat nafrat-angeiz taqaareer aur qawmi salaamati ko nuqsaan pohanchaane waalay nashriyaati mawaad par sakht qaanooni ta'deebi kaarwaa'i amal mein laa'i jaati hai. [pɛmraː qəʋaːniːn keː t̪əɦət̪ nəfrət̪-əŋɡeːz t̪əqaːriːr ɔːr qɔːmiː səlaːmət̪iː koː nʊqsaːn pʊɦəntʃaːneː ʋaːleː nəʃrɪjaːt̪iː məʋaːd̪ pər səxt qaːnuːniː t̪əʔd̪iːbiː kaːrʋaːʔiː əməl mẽː laːʔiː dʒaːt̪iː hɛː] (PEMRA quh-wah-NEEN kay tuh-HUHT nuhf-ruht-uhn-GAYZ tuh-qah-REER owr QOW-mee suh-lah-muh-TEE koh nook-SAHN poh-huhn-chah-NAY vah-LAY nuhsh-ree-yah-TEE muh-WAHD puhr suhkh-T qah-noo-NEE tuh-dee-BEE kahr-wah-EE uh-muhl mayn LAH-ee jah-TEE HY)",
+          "translation": "Under PEMRA regulations, strict legal disciplinary action is initiated against hate speech and broadcast content detrimental to national security."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "میڈیا اخلاقیات: ڈیجیٹل جرنلزم + فیکٹ چیکنگ (انسدادِ فیک نیوز) + ضابطۂ اخلاق + پیمرا قوانین!"
+      ],
+      "culturalNotes": [
+        "سوشل میڈیا کے پھیلاؤ نے پاکستان میں روایتی میڈیا کے ساتھ ساتھ متبادل ڈیجیٹل صحافت کو ایک بڑی بااثر قوت بنا دیا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دیکھنا\":",
+          "prompt": "سوشل میڈیا پر پھیلنے والی افواہوں اور جعلی خبروں کی تصدیق اور جانچ پڑتال کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («چاہنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اسکول» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کالج» کی خرابی)"
+            "حقائق کی جانچ / فیکٹ چیکنگ (Fact-checking - Verifying truthfulness and accuracy of news)",
+            "صرف وائرل کرنا",
+            "صرف لائک کرنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "خبروں کی صداقت پرکھنے کو «فیکٹ چیکنگ» (Fact-checking) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دیکھنا\":",
+          "prompt": "پاکستان میں الیکٹرانک میڈیا اور نجی ٹی وی چینلز کے قواعد و ضوابط کی نگرانی کرنے والے ادارے کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اسکول» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کالج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چاہنا» کا غیر درست استعمال)"
+            "پیمرا / PEMRA (Pakistan Electronic Media Regulatory Authority)",
+            "واپڈا",
+            "ریلوے بورڈ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "میڈیا کے نگراں ادارے کو «پیمرا» (PEMRA) کہا جاتا ہے۔"
         }
       ]
     },
@@ -11825,17 +11864,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دیکھنا\": Which sentence is completely correct?",
+          "prompt": "ڈیجیٹل میڈیا اور صحافتی اخلاقیات (Digital Journalism & Ethics) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کالج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چاہنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اسکول» سے متعلق)"
+            "ڈیجیٹل صحافت میں فیک نیوز اور گمراہ کن پروپیگنڈے کے تدارک کے لیے فیکٹ چیکنگ اور صحافتی ضابطۂ اخلاق پر سختی سے عمل پیرا ہونا ناگزیر ہے۔ (In digital journalism, adhering strictly to fact-checking and the journalistic code of ethics is imperative to counter fake news and propaganda.)",
+            "فیک نیوز نے کیمرے کو دھو کر گاڑی چلائی تھی اور روئی تھی۔",
+            "صحافتی اخلاقیات کا مطلب صرف جھوٹی کہانیاں بنانا ہوتا ہے۔",
+            "ڈیجیٹل میڈیا پر فیکٹ چیکنگ کرنا قانوناً جرم ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ڈیجیٹل صحافت میں فیک نیوز اور گمراہ کن پروپیگنڈے کے تدارک کے لیے فیکٹ چیکنگ اور صحافتی ضابطۂ اخلاق پر سختی سے عمل پیرا ہونا ناگزیر ہے۔» میڈیا اخلاقیات کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u28-l5": {
@@ -11843,53 +11883,62 @@
     "subject": "urdu",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "صحافت، ادارتی تحریر اور نشریاتی میڈیا (Journalism) (Part 5)",
+    "title": "میڈیا، صحافت اور ابلاغیات کا جامع سمیکن (Media & Journalism Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 28.5) with authentic precision.",
+    "objective": "اردو صحافت کی تاریخ، ادارتی کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل اخلاقیات کو ایک باوقار، مدلل اور ہمہ جہت ابلاغیاتی بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "میڈیا، صحافت اور ابلاغیات کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **ابلاغیاتی نظام کے تمام شعبوں کا احاطہ**:\n   - **تاریخی ورثہ**: «'جامِ جہاں نما'، سرسید کا 'تہذیب الاخلاق' اور مولانا آزاد کا 'الہلال'»；\n   - **پرنٹ میڈیا کی فکر**: «اداریہ، کالم نگاری اور تحقیقی فیچر کا فکری وقار»؛\n   - **نشریاتی الیکٹرانک میڈیا**: «بریکنگ نیوز، لائیو کوریج، ہیڈ لائنز اور ٹاک شوز»؛\n   - **ڈیجیٹل میڈیا و اخلاقیات**: «فیکٹ چیکنگ، انسدادِ فیک نیوز اور صحافتی ضابطۂ اخلاق»۔\n\n2. **ابلاغ عامہ اور زبان کا وقار**:\n   - یہ زبان اردو کے صحافتی اداریوں، لائیو نشریات اور جدید ابلاغیات کا نقطۂ عروج ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو صحافت 'جامِ جہاں نما' اور 'الہلال' کی فکری و ادبی روایت سے لے کر آج کے 24 گھنٹے چلنے والے الیکٹرانک میڈیا اور ڈیجیٹل پلیٹ فارمز تک قومی شعور کی بیداری کا سب سے طاقتور ستون ہے۔",
+          "reading": "Urdu sahaafat 'Jaam-e-Jahan-Numa' aur 'Al-Hilal' ki fikri-o-adabi rawaayat se lay kar aaj ke chaubees ghantay chalnay waalay electronic media aur digital platforms tak qawmi shu'oor ki baydaari ka sab se taaqatwar sutoon hai. [ʊrd̪uː səhaːfət̪ dʒaːm-eː-dʒəhaːn-nʊmaː ɔːr əl-hɪlaːl kiː fɪkriː-oː-əd̪əbiː rəʋaːjət̪ seː leː kər aːdʒ keː tʃɔːbiːs ɡʱəɳʈeː tʃəlneː ʋaːleː ɪlɛktrɔːnɪk miːɖɪjaː ɔːr ɖɪdʒɪʈəl plɛʈfɔːrmz t̪ək qɔːmiː ʃʊʔuːr kiː beːd̪aːriː kaː səb seː t̪aːqət̪ʋər sʊtuːn hɛː] (OOR-doo suh-hah-FUHT JAHM-ay-juh-hahn-noo-MAH owr ahl-hee-LAHL kee feek-REE-oh-uh-duh-BEE ruh-wah-YUHT say LAY kuhr AHJ kay chow-BEES ghuhn-TAY chuhl-NAY vah-LAY electronic media owr digital platforms tuhk QOW-mee shooh-OOR kee bay-dah-REE kah SUHB say tah-quht-WUHR soo-TOON HY)",
+          "translation": "Urdu journalism, ranging from the intellectual and literary tradition of 'Jaam-e-Jahan-Numa' and 'Al-Hilal' to today's 24-hour electronic media and digital platforms, is the most powerful pillar of national consciousness [journalism synthesis]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 28-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ادارتی صفحے کی سنجیدہ فکر، نشریاتی میڈیا کی فوری رپورٹنگ اور ڈیجیٹل دور میں فیک نیوز کے خلاف سائنسی فیکٹ چیکنگ ہی آزاد اور ذمہ دار صحافت کا اصل جوہر ہے۔",
+          "reading": "Idaarti safhay ki sanjeeda fikr, nashriyaati media ki fowri reporting aur digital daur mein fake news ke khilaaf saainsi fact-checking hi aazaad aur zimma-daar sahaafat ka asal jauhar hai. [ɪd̪aːrət̪iː səfheː kiː səndʒiːd̪aː fɪkr nəʃrɪjaːt̪iː miːɖɪjaː kiː fɔːriː rɪpɔːrʈɪŋɡ ɔːr ɖɪdʒɪʈəl d̪ɔːr mẽː fɛːk njuːz keː xɪlaːf saːʔɪnsiː fɛkt-tʃɛkɪŋɡ hiː aːzaːd̪ ɔːr zɪmːə-d̪aːr səhaːfət̪ kaː əsəl dʒɔːɦər hɛː] (ee-dahr-TEE suhf-HAY kee suhn-jee-DAH feekr, nuhsh-ree-yah-TEE media kee FOW-ree reporting owr digital DOWR mayn fake news kay khee-LAHF sah-een-SEE fact-checking HEE ah-ZAHD owr zeem-muh-DAHR suh-hah-FUHT kah uh-SUHL JOW-huhr HY)",
+          "translation": "The serious thought of the editorial page, the prompt reporting of broadcast media, and scientific fact-checking against fake news in the digital era constitute the true essence of free and responsible journalism."
+        },
+        {
+          "target": "میڈیا اور صحافت کا یہ جامع سمیکن طلبا کو نہ صرف اردو کی شاندار صحافتی تاریخ سے روشناس کراتا ہے بلکہ معروضی تجزیے اور خبر کی زبان پر کامل دسترس عطا کرتا ہے۔",
+          "reading": "Media aur sahaafat ka yeh jaam'e samaykan tulba ko na sirf Urdu ki shaandaar sahaafati taareekh se roshnaas karaata hai balkeh ma'roozi tajziye aur khabar ki zabaan par kaamil dastaras ata karta hai. [miːɖɪjaː ɔːr səhaːfət̪ kaː jɛh dʒaːmɪʔ səmɛːkən t̪ʊlbaː koː nə sɪrf ʊrd̪uː kiː ʃaːndaːr səhaːfət̪iː t̪aːriːx seː roːʃnaːs kəraːt̪aː hɛː bəlkɛh məʔruːziː t̪əzdʒɪjeː ɔːr xəbər kiː zəbaːn pər kaːmɪl d̪əst̪rəs ət̪aː kərt̪aː hɛː] (media owr suh-hah-FUHT kah YEH JAH-meh suh-may-KUHN tool-BAH koh nuh SEERF OOR-doo kee shahn-DAHR suh-hah-fuh-TEE tah-REEKH say rosh-NAHS kuh-rah-TAH HY buhl-KYH muh-roo-ZEE tuhj-zee-YAY owr khuh-BUHR kee zuh-BAHN puhr KAH-meel duhs-tuh-RUHS uh-TAH kuhr-TAH HY)",
+          "translation": "This comprehensive synthesis of media and journalism not only acquaints students with the glorious journalistic history of Urdu, but also bestows complete mastery over objective analysis and the language of news."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع صحافتی سمیکن: تاریخی صحافت (الہلال) + پرنٹ میڈیا (اداریہ و کالم) + نشریاتی میڈیا (بریکنگ نیوز) + ڈیجیٹل فیکٹ چیکنگ!"
+      ],
+      "culturalNotes": [
+        "اردو زبان نے جدید ذرائع ابلاغ، ڈیجیٹل پوڈکاسٹس اور عالمی نشریات میں اپنی بے پناہ ابلاغی صلاحیت اور فصاحت کا لوہا منوایا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"چاہنا\":",
+          "prompt": "میڈیا، صحافت اور ابلاغیات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («اسکول» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کالج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («استاد» کی خرابی)"
+            "تاریخی صحافت، اداریہ و کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کا مربوط مطالعہ (Masterful synthesis of historic journalism, editorials/columns, broadcast breaking news, and digital fact-checking)",
+            "ہم نے ٹی وی اسٹوڈیو کے سامنے چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف مائیک کی تاریں لپیٹتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«تاریخی صحافت، اداریہ و کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کا مربوط مطالعہ» تمام صحافتی اسالیب کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"چاہنا\":",
+          "prompt": "میڈیا، نشریات اور ڈیجیٹل صحافت کا جامع سمیکن معاشرے کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کالج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («استاد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اسکول» کا غیر درست استعمال)"
+            "عوامی شعور کی بیداری، مصدقہ حقائق کی بروقت فراہمی اور جمہوری احتساب کا قیام (Fostering public awareness, providing timely verified facts, and establishing democratic accountability)",
+            "صرف سنسنی پھیلانا (منفی رویہ)",
+            "صرف کیمرے کے ماڈل یاد کرنا (بے فائدہ مشق)",
+            "جعلی خبروں کو فروغ دینا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ عوامی شعور کی بیداری، مصدقہ حقائق کی فراہمی اور جمہوری احتساب کا قیام یقینی بناتا ہے۔"
         }
       ]
     },
@@ -11897,17 +11946,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"چاہنا\": Which sentence is completely correct?",
+          "prompt": "میڈیا، صحافت اور ابلاغیات کے جامع سمیکن (Media & Journalism Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («استاد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اسکول» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کالج» سے متعلق)"
+            "اردو صحافت 'الہلال' کی فکری فصاحت سے لے کر ادارتی کالم نگاری، لائیو نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کے ذریعے عوامی شعور اور قومی بیداری کا عظیم الشان شاہکار ہے۔ (Urdu journalism from Al-Hilal's eloquence to editorial columns, broadcast breaking news, and digital fact-checking is a grand masterpiece of public awareness.)",
+            "اخبار نے ٹی وی کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانے کیمرے کے لینز کو کہتے ہیں۔",
+            "صحافت اور خبر کا سچائی سے کوئی تعلق نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو صحافت 'الہلال' کی فکری فصاحت سے لے کر ادارتی کالم نگاری، لائیو نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کے ذریعے عوامی شعور اور قومی بیداری کا عظیم الشان شاہکار ہے۔» ابلاغیات کا کامل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u29-l1": {
