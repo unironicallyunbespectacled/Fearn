@@ -1403,56 +1403,65 @@
     "subject": "korean",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) (Part 1)",
+    "title": "목적격 조사 을/를과 타동사 구문 (Object Particle 을/를 & Transitive Verbs)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV).",
+    "objective": "목적격 조사 '을/를'의 받침 결합 규칙을 숙지하고, 타동사(먹다, 마시다, 읽다, 보다)와 결합하여 자연스러운 직접 목적어 구문을 구성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) » (제1절)의 핵심 언어 요소와 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 동작의 직접적인 대상(Direct Object)을 표시하는 조사를 목적격 조사 '을/를'이라고 합니다. 타동사(Transitive Verb) 앞에 위치하여 목적어 역할을 수행합니다.\n\n1. 형태 결합 규칙 (Phonological Conditioning):\n명사의 마지막 음절에 받침이 있는지에 따라 '을'과 '를'을 선택합니다.\n- 받침 있는 명사 + 을: 밥 + 을 → 밥을 [ba-beul], 물 + 을 → 물을 [mu-reul], 책 + 을 → 책을 [chae-geul]\n- 받침 없는 명사 + 를: 사과 + 를 → 사과를 [sa-gwa-reul], 커피 + 를 → 커피를 [keo-pi-reul], 영화 + 를 → 영화를 [yeong-hwa-reul]\n\n2. 기본 타동사 결합 패턴:\n- 밥을 먹습니다. (I eat rice/a meal.)\n- 물을 마십니다. (I drink water.)\n- 한국어 책을 읽습니다. (I read a Korean book.)\n- 텔레비전을 봅니다. (I watch television.)\n\n3. 연음 법칙(Liaison) 주의:\n받침 있는 명사 뒤에 모음 조사 '을'이 오면 받침 자음이 뒷 음절 초성으로 넘어가 소리 납니다 (예: '음악을' → [으마글], '신문을' → [신무늘]).",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (3.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 아침에 사과를 먹습니다.",
+          "reading": "Jeo-neun achim-e sagwa-reul meokseumnida.",
+          "translation": "I eat an apple in the morning."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (3.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "시원한 물을 마십니다.",
+          "reading": "Siwonhan mul-eul masimnida.",
+          "translation": "I drink cool water."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (3.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "도서관에서 책을 읽습니다.",
+          "reading": "Doseogwan-eseo chaek-eul ikseumnida.",
+          "translation": "I read a book in the library."
+        },
+        {
+          "target": "극장에서 한국 영화를 봅니다.",
+          "reading": "Geukjang-eseo hanguk yeonghwa-reul bomnida.",
+          "translation": "I watch a Korean movie at the theater."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받침 있으면 '을'(ㅇ 받침의 동그라미 결합), 받침 없으면 '를'(ㄹ 모음 흐름)! 밥을 vs 사과를."
+      ],
+      "culturalNotes": [
+        "한국의 식사 문화에서는 '식사하셨습니까?' 또는 '밥 먹었어?'가 친근한 안부 인사로 사용됩니다. 밥과 국, 다양한 반찬을 한 상에 차려놓고 함께 나누는 정(情)의 문화가 담겨 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'커피(coffee - 받침 없음)' 명사 뒤에 목적격 조사 '을/를'을 결합할 때 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (3.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (3.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (3.1.3)."
+            "커피를",
+            "커피을",
+            "커피가"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'커피'는 받침이 없는 모음 종결 명사이므로 목적격 조사 '를'이 결합하여 '커피를'이 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'저는 음악(music - 받침 ㄱ 있음) _____ 듣습니다.' 빈칸에 들어갈 알맞은 목적격 조사는 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (3.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (3.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (3.1.3)."
+            "을",
+            "를",
+            "이"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'음악'은 받침 'ㄱ'이 있으므로 목적격 조사 '을'이 결합하여 연음 발음 [으마글]이 됩니다."
         }
       ]
     },
@@ -1460,14 +1469,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 3-1)?",
+          "prompt": "다음 중 목적격 조사의 결합이 어법에 맞고 자연스러운 문장은 어느 것입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (3.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (3.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (3.1.3)."
+            "학생이 한국어를 공부합니다.",
+            "학생이 한국어을 공부합니다.",
+            "학생이 한국어이 공부합니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'한국어'는 받침이 없으므로 '를'과 결합하여 '한국어를 공부합니다'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'물을 마십니다'(I drink water)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "물을 마십니다.",
+            "물을 마십니다"
+          ],
+          "explanation": "물(받침 ㄹ) + 을(목적격) + 마십니다 = 물을 마십니다."
         }
       ]
     }
@@ -1477,56 +1495,65 @@
     "subject": "korean",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) (Part 2)",
+    "title": "한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word Order & Scrambling)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV).",
+    "objective": "한국어의 핵심 어순인 '주어(S) + 목적어(O) + 동사/서술어(V)' 체계를 이해하고, 조사의 결합력에 기반한 어순 도치(Scrambling)를 바르게 파악한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) » (제2절)의 핵심 언어 요소와 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "영어(SVO: Subject-Verb-Object)와 달리 한국어는 기본적으로 주어-목적어-동사(SOV: Subject-Object-Verb) 어순을 따릅니다. 가장 중요한 원칙은 서술어(동사/형용사)가 반드시 문장의 맨 끝에 위치한다는 점입니다.\n\n1. 기본 SOV 어순:\n- [주어/주제] + [목적어] + [서술어(동사)]\n- 민수 씨가(S) + 사과를(O) + 먹습니다(V). (Minsu eats an apple.)\n- 저는(S) + 한국어를(O) + 공부합니다(V). (I study Korean.)\n\n2. 조사의 힘과 어순의 유연성 (Scrambling):\n한국어는 명사 뒤에 붙는 격조사(은/는, 이/가, 을/를)가 문법적 역할을 명확히 규정하므로, 동사가 끝에 오는 한 주어와 목적어의 위치가 바뀌어도 문장의 기본 의미는 유지됩니다.\n- 사과를(O) 민수 씨가(S) 먹습니다(V). (An apple, Minsu eats it. - 사과를 강조하는 도치문)\n\n3. 시간 및 장소 부사어의 위치:\n시간이나 장소를 나타내는 부사어는 보통 주어 바로 뒤나 문장 맨 앞에 옵니다.\n- [시간] [주어] [장소] [목적어] [동사]: 오늘 저는 도서관에서 책을 읽습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (3.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "민수 씨가 사과를 먹습니다.",
+          "reading": "Minsu ssi-ga sagwa-reul meokseumnida.",
+          "translation": "Minsu eats an apple (Basic SOV)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (3.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "저는 매일 한국어를 공부합니다.",
+          "reading": "Jeo-neun maeil hangugeo-reul gongbuhamnida.",
+          "translation": "I study Korean every day."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (3.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "친구가 예쁜 편지를 씁니다.",
+          "reading": "Chingu-ga yeppeun pyeonji-reul sseumnida.",
+          "translation": "A friend writes a pretty letter."
+        },
+        {
+          "target": "우리는 오늘 저녁에 영화를 봅니다.",
+          "reading": "Uri-neun oneul jeonyeok-e yeonghwa-reul bomnida.",
+          "translation": "We watch a movie this evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "한국어 어순의 황금률: '동사는 언제나 맨 끝에!' (SOV: 주어 → 목적어 → 동사 끝판왕)."
+      ],
+      "culturalNotes": [
+        "한국어는 동사가 문장 끝에 오기 때문에 '한국말은 끝까지 들어봐야 안다'는 유명한 속담이 있습니다. 긍정인지 부정인지, 시제가 무엇인지는 문장의 맨 마지막 어미를 듣고 판단합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'민수 씨', '책', '읽습니다'를 한국어의 기본 SOV 어순과 올바른 조사에 맞추어 배열한 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (3.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (3.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (3.2.3)."
+            "민수 씨가 책을 읽습니다.",
+            "민수 씨가 읽습니다 책을.",
+            "책을 읽습니다 민수 씨가."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "주어(민수 씨가) + 목적어(책을) + 동사(읽습니다) 순서의 SOV 구조가 가장 표준적이고 자연스럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "다음 중 한국어의 SOV 통사 구조에 맞게 동사가 문장 맨 끝에 올바르게 위치한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (3.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (3.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (3.2.3)."
+            "지은 씨는 커피를 마십니다.",
+            "지은 씨는 마십니다 커피를.",
+            "마십니다 지은 씨는 커피를."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "한국어는 서술어(마십니다)가 반드시 문장 끝에 와야 하므로 '지은 씨는 커피를 마십니다'가 바른 어순입니다."
         }
       ]
     },
@@ -1534,14 +1561,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 3-2)?",
+          "prompt": "영어 'I watch a movie'(SVO)를 한국어 기본 어순(SOV)으로 올바르게 번역한 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (3.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (3.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (3.2.3)."
+            "저는 영화를 봅니다.",
+            "저는 봅니다 영화를.",
+            "영화를 봅니다 저는."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "주어(저는) + 목적어(영화를) + 동사(봅니다)의 SOV 어순입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'한국어를 공부합니다'(I study Korean)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "한국어를 공부합니다.",
+            "한국어를 공부합니다"
+          ],
+          "explanation": "한국어(목적어) + 를(조사) + 공부합니다(동사) = 한국어를 공부합니다."
         }
       ]
     }
@@ -1551,56 +1587,65 @@
     "subject": "korean",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) (Part 3)",
+    "title": "여격 조사 에게/한테와 수여 동사 (Dative Particles -에게/-한테 & Giving Verbs)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV).",
+    "objective": "동작이 미치는 유정 대상(사람·동물)을 나타내는 여격 조사 '에게/한테'와 높임 조사 '께'를 익히고, 수여 동사(주다, 선물하다, 보내다) 문장을 바르게 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) » (제3절)의 핵심 언어 요소와 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 사람이나 동물 등 살아있는 유정물(Animate Entity)에게 어떤 행동을 하거나 물건을 전달할 때 사용하는 조사를 여격 조사(Dative Particle)라고 합니다.\n\n1. 여격 조사의 3가지 형태와 격식:\n- 에게 [e-ge]: 격식체, 문어체 및 표준 서술에서 두루 사용하는 보편적 여격 조사 (예: 친구에게, 동생에게)\n- 한테 [han-te]: 일상 구어체(Spoken Korean)에서 매우 자연스럽게 쓰이는 형태 (예: 친구한테, 나한테)\n- 께 [kke]: 부모님, 선생님, 웃어른 등 높여야 할 대상에게 쓰는 높임 여격 조사 (예: 부모님께, 선생님께)\n\n2. 수여 동사(Ditransitive Verbs) 문형 구조:\n[주어]가 + [받는 사람]에게/한테/께 + [물건]을/를 + [수여 동사]\n- 민수가 지은이에게 꽃을 줍니다. (Minsu gives flowers to Jieun.)\n- 제가 친구한테 이메일을 보냅니다. (I send an email to a friend.)\n- 학생이 선생님께 카네이션을 드립니다. ('주다'의 높임말 '드리다' 사용)\n\n3. 무생물 장소 착점 조사 '에'와의 구별:\n동작이 향하는 대상이 무생물 장소나 기관이면 '에게'가 아닌 '에'를 씁니다.\n- 회사에 갑니다 (O) / 회사에게 갑니다 (X)\n- 친구에게 갑니다 (O)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (3.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "민수가 지은이에게 선물을 줍니다.",
+          "reading": "Minsu-ga Jieun-i-ege seonmul-eul jumnida.",
+          "translation": "Minsu gives a present to Jieun."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (3.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "저는 친구한테 편지를 보냅니다.",
+          "reading": "Jeo-neun chingu-hante pyeonji-reul bonaemnida.",
+          "translation": "I send a letter to a friend."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (3.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "선생님께 감사 인사를 드립니다.",
+          "reading": "Seonsaengnim-kke gamsa insa-reul deurimnida.",
+          "translation": "I express words of gratitude to the teacher (Honorific Dative 께)."
+        },
+        {
+          "target": "동생에게 맛있는 빵을 사 줍니다.",
+          "reading": "Dongsaeng-ege masinneun ppang-eul sa jumnida.",
+          "translation": "I buy delicious bread for my younger sibling."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "글 쓸 때는 '에게', 말할 때는 '한테', 어른에게는 공손한 '께'!"
+      ],
+      "culturalNotes": [
+        "한국에서는 스승의 날(5월 15일)이나 어버이날(5월 8일)에 '선생님께 / 부모님께' 감사 편지를 쓰고 꽃을 달아드리는 깊은 경로효친 전통이 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'선생님(높임 대상)'에게 감사 선물을 전달할 때 결합할 가장 알맞은 높임 여격 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (3.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (3.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (3.3.3)."
+            "선생님께",
+            "선생님에게",
+            "선생님한테"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "존경과 예의를 갖추어야 하는 대상인 '선생님' 뒤에는 높임 여격 조사 '께'를 쓰는 것이 가장 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'민수가 친구(friend) _____ 생일 선물을 줍니다.' 빈칸에 들어갈 알맞은 일반 여격 조사는 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (3.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (3.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (3.3.3)."
+            "에게",
+            "을",
+            "이"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "선물을 받는 사람 대상이므로 여격 조사 '에게'가 결합하여 '친구에게'가 됩니다."
         }
       ]
     },
@@ -1608,14 +1653,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 3-3)?",
+          "prompt": "다음 중 수여문 어법에 완벽히 부합하는 문장은 어느 것입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (3.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (3.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (3.3.3)."
+            "지은이가 친구에게 편지를 보냅니다.",
+            "지은이가 친구를 편지에게 보냅니다.",
+            "지은이가 편지에게 친구를 보냅니다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "explanation": "받는 사람(친구에게) + 물건(편지를) + 동사(보냅니다) 구조가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'친구에게 선물을 줍니다'(I give a present to a friend)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "친구에게 선물을 줍니다.",
+            "친구에게 선물을 줍니다"
+          ],
+          "explanation": "친구에게(여격) + 선물을(목적격) + 줍니다(동사) = 친구에게 선물을 줍니다."
         }
       ]
     }
@@ -1625,56 +1679,65 @@
     "subject": "korean",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) (Part 4)",
+    "title": "대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Object Contractions & Ellipsis)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV).",
+    "objective": "일상 구어체에서 매우 빈번하게 사용되는 대명사 목적격 축약형(나를→날, 너를→널, 저를→절, 무엇을→뭘, 이것을→이걸)과 목적어 생략 화용론을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) » (제4절)의 핵심 언어 요소와 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어는 일상 구어체(Spoken Korean)에서 음절을 경제적이고 매끄럽게 발음하기 위해 대명사와 목적격 조사를 자주 축약(Contraction)합니다.\n\n1. 필수 대명사 목적격 축약 공식:\n- 나를 → 날 [nal] (Me - informal): 날 봐요 (Look at me)\n- 너를 → 널 [neol] (You - informal): 널 좋아해요 (I like you)\n- 저를 → 절 [jeol] (Me - polite): 절 도와주세요 (Please help me)\n- 무엇을 → 뭘 [mwol] (What): 뭘 찾으십니까? (What are you looking for?)\n- 누구를 → 누굴 [nu-gul] (Whom): 누굴 만납니까? (Whom are you meeting?)\n\n2. 지시대명사 목적격 축약형:\n- 이것을 → 이걸 [i-geol] (This thing)\n- 그것을 → 그걸 [geu-geol] (That thing near you)\n- 저것을 → 저걸 [jeo-geol] (That thing over there)\n\n3. 구어체에서의 목적격 조사 생략(Ellipsis):\n대화 상황에서 동작의 대상이 무엇인지 맥락상 명확할 때 목적격 조사 '을/를'은 아주 흔하게 생략됩니다.\n- 밥을 먹었어요? → 밥 먹었어요? (O - 완전 자연스러움)\n- 커피를 마셔요? → 커피 마셔요? (O)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (3.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "지금 무엇을 합니까? 뭘 봅니까?",
+          "reading": "Jigeum mueot-eul hamnikka? Mwol bomnikka?",
+          "translation": "What are you doing now? What are you watching?"
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (3.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이걸 한번 입어 보세요.",
+          "reading": "Igeol hanbeon ibeo boseyo.",
+          "translation": "Please try wearing this on (이것을 → 이걸)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (3.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "점심에 밥 먹었어요?",
+          "reading": "Jeomsim-e bap meogeosseoyo?",
+          "translation": "Did you have lunch? (Object particle omitted naturally)."
+        },
+        {
+          "target": "저기 저걸 보세요.",
+          "reading": "Jeogi jeogeol boseyo.",
+          "translation": "Look at that thing over there (저것을 → 저걸)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "축약 공식: '나를 = 날', '너를 = 널', '무엇을 = 뭘', '이것을 = 이걸'! 'ㄹ' 받침 하나로 날렵하게 압축!"
+      ],
+      "culturalNotes": [
+        "격식 있는 공적인 발표나 작문에서는 축약형보다 '무엇을', '이것을', '저를' 등 원래 형태를 온전히 쓰는 것이 정중하고 품위 있는 인상을 줍니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'무엇을(what)'을 일상 구어체에서 한 글자로 축약하여 부드럽게 표현한 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (3.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (3.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (3.4.3)."
+            "뭘",
+            "문",
+            "말"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'무엇을'은 구어에서 '뭘[mwol]'로 자연스럽게 축약됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'이것을(this thing)'을 가리키며 '이것을 사겠습니다'라고 할 때 쓰이는 알맞은 축약 표현은 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (3.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (3.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (3.4.3)."
+            "이걸",
+            "이건",
+            "이게"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'이것을'의 축약형은 '이걸'입니다. '이건'은 '이것은', '이게'는 '이것이'의 축약형입니다."
         }
       ]
     },
@@ -1682,14 +1745,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 3-4)?",
+          "prompt": "'Q: 지금 _____ 합니까? A: 음악을 듣습니다.' 빈칸에 들어갈 알맞은 의문 대명사 축약형은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (3.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (3.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (3.4.3)."
+            "뭘",
+            "날",
+            "널"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'무엇을 합니까?'의 축약 표현인 '뭘 합니까?'가 질문으로 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'이걸 보세요'(Look at this)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "이걸 보세요.",
+            "이걸 보세요"
+          ],
+          "explanation": "이걸(이것을의 축약형) + 보세요 = 이걸 보세요."
         }
       ]
     }
@@ -1699,56 +1771,65 @@
     "subject": "korean",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) (Part 5)",
+    "title": "일상 활동과 필수 타동사 연어 종합 (Daily Routines & Transitive Collocations)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV).",
+    "objective": "한국어의 필수 기초 타동사(사다, 타다, 만나다, 듣다, 하다)와 관용적 목적어 연어(Collocation)를 종합하여 하루 일과를 유창하게 묘사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) » (제5절)의 핵심 언어 요소와 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 기초 타동사들은 특정한 명사 목적어와 결합하여 고유한 연어(Collocation) 관계를 형성합니다. 정확한 연어를 익히면 어색한 직역을 피하고 원어민다운 한국어를 구사할 수 있습니다.\n\n1. 교통수단 + 타다(to ride/take):\n- 버스를 타다 (take a bus)\n- 지하철을 타다 (take the subway)\n- 택시를 타다 (take a taxi)\n- 자전거를 타다 (ride a bicycle)\n\n2. 여가 및 학습 활동 연어:\n- 음악을 듣다 (listen to music) - ㄷ 불규칙 동사\n- 영화를 보다 (watch a movie)\n- 친구를 만나다 (meet a friend)\n- 옷을 사다 (buy clothes)\n- 한국어를 배우다 / 가르치다 (learn / teach Korean)\n\n3. '하다' 동사 결합 파생 동사:\n동작성 명사 뒤에 '을/를 하다'가 붙어 하나의 구체적인 행위를 나타냅니다.\n- 운동을 하다 (exercise/work out)\n- 공부를 하다 (study)\n- 쇼핑을 하다 (go shopping)\n- 청소를 하다 (clean up/do cleaning)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (3.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 아침에 지하철을 탑니다.",
+          "reading": "Jeo-neun achim-e jihacheol-eul tamnida.",
+          "translation": "I take the subway in the morning."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (3.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "오후에 카페에서 친구를 만납니다.",
+          "reading": "Ohu-e kape-eseo chingu-reul mannamnida.",
+          "translation": "I meet a friend at a cafe in the afternoon."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (3.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "저녁에 공원에서 운동을 합니다.",
+          "reading": "Jeonyeok-e gongwon-eseo undong-eul hamnida.",
+          "translation": "I work out in the park in the evening."
+        },
+        {
+          "target": "방에서 조용히 음악을 듣습니다.",
+          "reading": "Bang-eseo joyonghi eumak-eul deutseumnida.",
+          "translation": "I listen to music quietly in my room."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "교통수단 탈 때는 '타다', 친구 볼 때는 '만나다', 노래 들을 때는 '듣다'!"
+      ],
+      "culturalNotes": [
+        "서울의 대중교통(지하철과 시내버스)은 세계 최고 수준의 환승 할인 시스템을 갖추고 있어 티머니(T-money) 교통카드로 '버스를 타고 지하철로 갈아타는' 일상이 매우 보편적입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "'지하철(subway - 받침 ㄹ 있음)'을 목적어로 삼아 대중교통을 탑승함을 표현하는 가장 올바른 연어는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (3.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (3.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (3.5.3)."
+            "지하철을 탑니다.",
+            "지하철을 마십니다.",
+            "지하철을 봅니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "교통수단에는 동사 '타다'가 결합하여 '지하철을 탑니다'가 자연스럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "'친구(받침 없음)'를 목적어로 하여 만남을 표현하는 올바른 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (3.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (3.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (3.5.3)."
+            "카페에서 친구를 만납니다.",
+            "카페에서 친구을 만납니다.",
+            "카페에서 친구이 만납니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'친구'는 받침이 없으므로 '를'과 결합하여 '친구를 만납니다'가 됩니다."
         }
       ]
     },
@@ -1756,14 +1837,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 3-5)?",
+          "prompt": "다음 중 동작과 목적어의 연어 관계가 올바르게 짝지어진 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (3.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (3.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (3.5.3)."
+            "공원에서 운동을 합니다.",
+            "공원에서 운동을 마십니다.",
+            "공원에서 운동을 탑니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'운동(exercise)'은 '하다' 동사와 결합하여 '운동을 합니다'가 올바른 연어입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'음악을 듣습니다'(I listen to music)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "음악을 듣습니다.",
+            "음악을 듣습니다"
+          ],
+          "explanation": "음악(목적어) + 을(조사) + 듣습니다(동사) = 음악을 듣습니다."
         }
       ]
     }
