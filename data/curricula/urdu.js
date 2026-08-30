@@ -2535,53 +2535,62 @@
     "subject": "urdu",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "فعل ماضی مطلق اور نے کا استعمال (Simple Past & Ergative نے) (Part 1)",
+    "title": "فعل ماضی مطلق لازم اور متعدی کی تقسیم (Intransitive vs. Transitive Simple Past)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.1) with authentic precision.",
+    "objective": "فعل لازم (آنا، جانا، سونا، گرنا) میں بغیر 'نے' کے ماضی مطلق کی گردان اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں فعل ماضی مطلق لازم (Intransitive Simple Past) کے اصول:\n\n1. **ماضی مطلق کا مفہوم**:\n   - وہ فعل جو گزشتہ زمانے میں کسی کام کے واقع ہونے کو بغیر کسی امدادی فعل کے بیان کرے (جیسے: آیا، گئی، سوئے)۔\n\n2. **فعل لازم کی گردان (بغیر 'نے')**:\n   - فعل لازم (Intransitive) وہ فعل ہے جس کو مفعول کی ضرورت نہیں ہوتی (جیسے: آنا، جانا، سونا، بیٹھنا، ہنسنا، گرنا، پہنچنا)؛\n   - **فعل لازم میں فاعل کے ساتھ کبھی 'نے' نہیں آتا** اور فعل ہمیشہ **فاعل** کے مطابق بدلتا ہے:\n     - مذکر واحد: «احمد **آیا**»، «لڑکا **سو گیا**»؛\n     - مؤنث واحد: «فاطمہ **آئی**»، «لڑکی **بیٹھ گئی**»؛\n     - مذکر جمع / تعظیمی: «مہمان **آئے**»، «والد صاحب **تشریف لائے**»؛\n     - مؤنث جمع: «لڑکیاں **آئیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہمارے عزیز مہمان وقت پر ائیرپورٹ پہنچے اور اپنے ہوٹل چلے گئے۔",
+          "reading": "Hamaare azeez mehmaan waqt par airport pohanchay aur apne hotel chalay gaye. [həm-aːreː əziːz mɛɦmaːn ʋəqt̪ pər eːrpɔːrʈ pɔɦʊntʃeː ɔːr əpneː hoːʈəl tʃəleː ɡəjeː] (huh-mah-RAY uh-ZEEZ muhh-MAHN VUHKT puhr airport poh-hoon-CHAY owr uhp-NAY hotel chuh-LAY guh-YAY)",
+          "translation": "Our dear guests arrived at the airport on time and went to their hotel."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 6-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "محترمہ فاطمہ صبح سویرے اپنے دفتر گئیں اور وہاں تمام انتظامی امور نمٹائے۔",
+          "reading": "Mohtarma Fatima subah sawere apne daftar gayeen aur wahaan tamaam intizaami umoor nimtaaye. [moːɦt̪ərmaː faːt̪ɪmaː sʊbəh səʋeːreː əpneː d̪əft̪ər ɡəĩː ɔːr ʋəhaː̃ t̪əmaːm ɪnt̪ɪzaːmiː ʊmuːr nɪmʈaːjeː] (moh-tuh-RUH-mah fah-tee-MAH SOO-buh suh-VAY-ray uhp-NAY duhf-TUHR guh-YEEN owr vuh-HAHN tuh-MAHM een-tee-zah-MEE oo-MOOR neem-TAH-yay)",
+          "translation": "Respected Fatima went to her office early in the morning and settled all administrative matters there."
+        },
+        {
+          "target": "ننھا بچہ پارک میں دوڑتے ہوئے پھسل کر گرا لیکن فوراً مسکرا کر اٹھ کھڑا ہوا۔",
+          "reading": "Nannha bachcha park mein daurtay hue phisal kar gira lekin fauran muskura kar uth khada hua. [nənːɦaː bətʃːaː paːrk mẽː d̪ɔːɽt̪eː hʊeː pʰɪsəl kər ɡɪraː leːkɪn fɔːrən mʊskʊraː kər ʊʈʰ kʰəɽaː hʊaː] (nuhn-NHAH buhch-CHAH park mayn dowdh-TAY hoo-AY fee-SUHL kuhr GEE-rah lay-KEEN FOW-ruhn moos-koo-RAH kuhr OOTH khuh-DAH hoo-AH)",
+          "translation": "The little child slipped and fell while running in the park, but immediately smiled and stood up."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی لازم: آنا/جانا/سونا -> نے نہیں آتا! (احمد آیا، فاطمہ گئی، مہمان آئے)!"
+      ],
+      "culturalNotes": [
+        "اردو میں 'وہ گیا نے' یا 'احمد نے ہنسا' کہنا انتہائی نامانوس اور فاش غلطی ہے؛ فعل لازم ہمیشہ علامتِ نے سے پاک رہتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ٹکٹ\":",
+          "prompt": "مؤنث واحد فاعل «عائشہ» کے ساتھ فعل لازم «جانا» کا ماضی مطلق کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («اسٹیشن» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہوائی اڈہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سڑک» کی خرابی)"
+            "گئی (Gayi - Irregular feminine singular past of intransitive verb jaana)",
+            "گیا (مذکر صیغہ)",
+            "گئیں (جمع صیغہ)",
+            "جاتی ہے (حال مطلق)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "فعل لازم 'جانا' کی مؤنث واحد ماضی شکل «گئی» ہے: «عائشہ گئی»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ٹکٹ\":",
+          "prompt": "فعل لازم «آنا» کے ساتھ کون سا جملہ نحوی طور پر بالکل درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہوائی اڈہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سڑک» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اسٹیشن» کا غیر درست استعمال)"
+            "والد صاحب تشریف لائے (Father arrived - Respectful plural past of intransitive verb without 'ne')",
+            "والد صاحب نے تشریف لائے (غلط استعمال نے)",
+            "والد صاحب نے آیا (فاش نحوی غلطی)",
+            "والد صاحب آتا ہے (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "فعل لازم میں 'نے' نہیں آتا، لہٰذا «والد صاحب تشریف لائے» درست ہے۔"
         }
       ]
     },
@@ -2589,17 +2598,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ٹکٹ\": Which sentence is completely correct?",
+          "prompt": "فعل ماضی مطلق لازم (Intransitive Past Tense) کا درست جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سڑک» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اسٹیشن» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہوائی اڈہ» سے متعلق)"
+            "شام ہوتے ہی تمام پرندے اپنے گھونسلوں میں واپس لوٹ آئے اور درختوں پر بیٹھ گئے۔ (As evening fell, all birds returned to their nests [waapas laut aaye] and sat upon the trees.)",
+            "پرندوں نے گھونسلوں میں واپس لوٹا۔",
+            "ماضی لازم میں ہمیشہ نے لگانا فرض ہے۔",
+            "لوٹ آئے کا مطلب صرف پیسہ لوٹنا ہوتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شام ہوتے ہی تمام پرندے اپنے گھونسلوں میں واپس لوٹ آئے اور درختوں پر بیٹھ گئے۔» ماضی لازم کا مکمل اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u6-l2": {
@@ -2607,53 +2617,62 @@
     "subject": "urdu",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "فعل ماضی مطلق اور نے کا استعمال (Simple Past & Ergative نے) (Part 2)",
+    "title": "علامتِ فاعل 'نے' اور مفعول کے مطابق فعل کی مطابقت (Ergative 'Ne' & Object Agreement)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.2) with authentic precision.",
+    "objective": "ماضی متعدی میں فاعل کے ساتھ 'نے' کا لازمی الحاق اور فعل کا فاعل کے بجائے مفعول کی جنس و تعداد کے مطابق بدلنا سمجھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "ماضی متعدی اور علامتِ فاعل «نے» کا سنہری قاعدہ (Ergative Case Rule):\n\n1. **فاعل کے ساتھ 'نے' کا الحاق**:\n   - جب فعل متعدی (Transitive) ہو اور ماضی مطلق میں آئے تو فاعل کے بعد لازماً «**نے**» لگایا جاتا ہے۔\n\n2. **مفعول کے مطابق فعل کی مطابقت (Object-Verb Concord)**:\n   - 'نے' لگنے کے بعد **فعل فاعل کے تابع نہیں رہتا بلکہ مفعول کی جنس اور تعداد کے مطابق بدلتا ہے**:\n     - «احمد نے **کتاب** (مؤنث) **پڑھی**» (فاعل مذکر ہے لیکن کتاب مؤنث ہونے کی وجہ سے 'پڑھی' آیا)؛\n     - «فاطمہ نے **خط** (مذکر) **لکھا**» (فاعل مؤنث ہے لیکن خط مذکر ہونے کی وجہ سے 'لکھا' آیا)؛\n     - «استاد نے **کتابیں** (مؤنث جمع) **خریدیں**»؛\n     - «لڑکوں نے **سیب** (مذکر جمع) **کھائے**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "احمد نے کتب خانے سے ایک انتہائی معلوماتی اور قیمتی کتاب خریدی۔",
+          "reading": "Ahmad ne kutub-khaane se ek intihaai ma'loomaati aur qeemti kitaab khareedi. [əɦməd̪ neː kʊt̪ʊb-xaːneː seː eːk ɪnt̪ɪhaːiː mʌʔluːmaːt̪iː ɔːr qiːmt̪iː kɪt̪aːb xəriːd̪iː] (UH-muhd nay koo-toob-khah-NAY say AYK een-tee-HAH-ee mah-loo-MAH-tee owr QEEM-tee kee-TAHB khuh-REE-dee)",
+          "translation": "Ahmad bought an extremely informative and valuable book [feminine object] from the library."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 6-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "فاطمہ نے اپنے والد محترم کے نام ایک طویل اور پرتاثیر خط لکھا۔",
+          "reading": "Fatima ne apne waalid-e-mohtaram ke naam ek taweel aur pur-taaseer khatt likha. [faːt̪ɪmaː neː əpneː ʋaːlɪd̪-eː-moːɦt̪ərəm keː naːm eːk t̪əʋiːl ɔːr pʊr-t̪aːsiːr xət̪ː lɪkʰaː] (fah-tee-MAH nay uhp-NAY vah-LEED-ay-moh-tuh-RUHM kay NAHM AYK tuh-VEEL owr poor-tah-SEER KHUHTT leekh-KHAH)",
+          "translation": "Fatima wrote a long and moving letter [masculine object] addressed to her respected father."
+        },
+        {
+          "target": "طلبہ نے امتحانات کے تمام مشکل سوالات انتہائی خوش اسلوبی سے حل کیے۔",
+          "reading": "Talaba ne imtehaanaat ke tamaam mushkil sawaalaat intihaai khush-usloobi se hal kiye. [t̪ələbaː neː ɪmt̪ɪhaːnaːt̪ keː t̪əmaːm mʊʃkɪl səʋaːlaːt̪ ɪnt̪ɪhaːiː xʊʃ-ʊsluːbiː seː həl kɪjeː] (tuh-luh-BAH nay eem-tuh-hah-NAHT kay tuh-MAHM moosh-KEEL suh-vah-LAHT een-tee-HAH-ee khoosh-oos-LOO-bee say HUHL kee-YAY)",
+          "translation": "The students solved all difficult questions of the examinations with great proficiency."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی متعدی سنہری کلیہ: فاعل + نے -> فعل مفعول کا غلام ہے! (احمد نے کتاب پڑھی، فاطمہ نے خط لکھا)!"
+      ],
+      "culturalNotes": [
+        "اردو اور ہندی کا یہ ارگیٹو نظام دنیا کی دیگر زبانوں کے مقابلے میں منفرد ہے؛ اس پر عبور حاصل کرنا فصیح اردو کی اولین ضمانت ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"اسٹیشن\":",
+          "prompt": "جملے «احمد نے چائے (مؤنث) ...» میں درست فعل کیا آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہوائی اڈہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سڑک» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شہر» کی خرابی)"
+            "پی (Pee - Feminine singular past verb agreeing with feminine object chaaye)",
+            "پیا (مذکر صیغہ)",
+            "پیے (جمع مذکر)",
+            "پیتا ہے (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مفعول 'چائے' مؤنث ہے، اس لیے فعل «پی» آئے گا: «احمد نے چائے پی»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"اسٹیشن\":",
+          "prompt": "جملے «عائشہ نے سبق (مذکر) ...» میں درست فعل کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سڑک» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شہر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہوائی اڈہ» کا غیر درست استعمال)"
+            "پڑھا (Parha - Masculine singular past verb agreeing with masculine object sabaq)",
+            "پڑھی (تانیث فاعل سے مغالطہ)",
+            "پڑھے (جمع صیغہ)",
+            "پڑھتی ہے (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مفعول 'سبق' مذکر ہے، اس لیے فعل «پڑھا» آئے گا: «عائشہ نے سبق پڑھا»۔"
         }
       ]
     },
@@ -2661,17 +2680,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"اسٹیشن\": Which sentence is completely correct?",
+          "prompt": "علامتِ فاعل 'نے' اور مفعولی مطابقت (Ergative Object Agreement) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شہر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہوائی اڈہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سڑک» سے متعلق)"
+            "ہم نے کتب میلے سے چند نایاب کتابیں خریدیں اور استاد محترم کو تحفے میں پیش کیں۔ (We bought several rare books [kitaabein - feminine plural -> khareedeen] from the book fair and presented them as gifts to the respected teacher.)",
+            "ہم نے کتاب خریدا اور پیش کیا تھا۔",
+            "نے کا مطلب صرف نفی کرنا ہوتا ہے۔",
+            "احمد نے عائشہ نے دونوں نے خط لکھی۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نے کتب میلے سے چند نایاب کتابیں خریدیں اور استاد محترم کو تحفے میں پیش کیں۔» مفعولی مطابقت کا مکمل اور مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u6-l3": {
@@ -2679,53 +2699,62 @@
     "subject": "urdu",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "فعل ماضی مطلق اور نے کا استعمال (Simple Past & Ergative نے) (Part 3)",
+    "title": "بے قاعدہ ماضی افعال (Irregular Past Verb Stems: گیا، کیا، دیا، لیا)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.3) with authentic precision.",
+    "objective": "بے قاعدہ افعال (جانا سے گیا، کرنا سے کیا، دینا سے دیا، لینا سے لیا) کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں بے قاعدہ ماضی افعال (Irregular Past Verbs) کی ساخت:\n\n1. **فعل 'جانا' (لازم — بغیر نے)**:\n   - مذکر واحد: **گیا**؛ مذکر جمع: **گئے**؛ مؤنث واحد: **گئی**؛ مؤنث جمع: **گئیں**۔\n\n2. **افعال متعدی (کرنا، دینا، لینا، پینا — 'نے' کے ساتھ)**:\n   - **کرنا** -> مذکر: **کیا / کیے**؛ مؤنث: **کی / کیں** (جیسے: «اس نے کام **کیا**»، «اس نے بات **کی**»)؛\n   - **دینا** -> مذکر: **دیا / دیے**؛ مؤنث: **دی / دیں** (جیسے: «استاد نے انعام **دیا**»، «استاد نے شاباش **دی**»)؛\n   - **لینا** -> مذکر: **لیا / لیے**؛ مؤنث: **لی / لیں** (جیسے: «ہم نے قلم **لیا**»، «ہم نے اجازت **لی**»)؛\n   - **پینا** -> مذکر: **پیا / پیے**؛ مؤنث: **پی / پئیں**۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "استاد محترم نے طلبہ کو امتحانات میں شاندار کامیابی پر مبارکباد دی اور انعامات دیے۔",
+          "reading": "Ustaad-e-mohtaram ne talaba ko imtehaanaat mein shaandaar kaamyaabi par mubaarakbaad dee aur inaamaat diye. [ʊst̪aːd̪-eː-moːɦt̪ərəm neː t̪ələbaː koː ɪmt̪ɪhaːnaːt̪ mẽː ʃaːndaːr kaːmjaːbiː pər mʊbaːrəkbaːd̪ d̪iː ɔːr ɪnaːmaːt̪ d̪ɪjeː] (oos-TAHD-ay-moh-tuh-RUHM nay tuh-luh-BAH koh eem-tuh-hah-NAHT mayn shahn-DAHR kahm-yah-BEE puhr moo-bah-ruhk-BAHD DEE owr ee-nah-MAHT dee-YAY)",
+          "translation": "The respected teacher congratulated the students on their splendid success in the exams and gave prizes [inaamaat - masculine plural -> diye]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 6-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہم نے اپنے دوست سے علمی موضوع پر تفصیلی گفتگو کی اور اس سے مفید مشورے لیے۔",
+          "reading": "Hum ne apne dost se ilmi mauzoo par tafseeli guftagoo kee aur us se mufeed mashwaray liye. [həm neː əpneː d̪oːst̪ seː ɪlmiː mɔːzuːʔ pər t̪əfsiːliː ɡʊft̪əɡuː kiː ɔːr ʊs seː mʊfiːd̪ məʃʋəreː lɪjeː] (HOOM nay uhp-NAY DOHST say EEL-mee mow-ZOO puhr tuhf-see-LEE goof-tuh-GOO KEE owr oos say moo-FEED muhsh-vuh-RAY lee-YAY)",
+          "translation": "We held a detailed conversation [guftagoo - feminine -> kee] on an academic topic with our friend and took useful suggestions [mashwaray -> liye]."
+        },
+        {
+          "target": "قافلہ شام کے وقت اپنی منزلِ مقصود پر بحفاظت اور خیریت سے پہنچ گیا۔",
+          "reading": "Qaafla shaam ke waqt apni manzil-e-maqsood par ba-hifaazat aur khairiyat se pohanch gaya. [qaːfɪlaː ʃaːm keː ʋəqt̪ əpniː mənzɪl-eː-mʌqsuːd̪ pər bə-hɪfaːzət̪ ɔːr xɛːrɪjət̪ seː pɔɦʊntʃ ɡəjaː] (QAH-fee-lah SHAHM kay VUHKT uhp-NEE muhn-ZEEL-ay-muhq-SOOD puhr buh-hee-FAH-zuht owr khy-ree-YUHT say poh-HOONCH guh-YAH)",
+          "translation": "The caravan reached its intended destination safely and securely in the evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بے قاعدہ ماضی: کرنا -> کیا/کی، دینا -> دیا/دی، لینا -> لیا/لی، جانا -> گیا/گئی!"
+      ],
+      "culturalNotes": [
+        "اردو شاعری اور ادبی داستانوں میں بے قاعدہ افعال کی خوش ترکیبی (جیسے: 'دل دیا'، 'جان لی') کلام میں بلاغت اور نغمگی پیدا کرتی ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ہوائی اڈہ\":",
+          "prompt": "مؤنث اسم «بات» کے ساتھ فعل «کرنا» کا ماضی مطلق کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سڑک» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شہر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دکان» کی خرابی)"
+            "کی (Kee - Feminine past of irregular verb karna agreeing with feminine object baat)",
+            "کیا (مذکر صیغہ)",
+            "کیے (جمع صیغہ)",
+            "کرتا تھا (ماضی استمراری)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'بات' مؤنث ہے، اس لیے فعل کی درست شکل «کی» ہے: «اس نے بات کی»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ہوائی اڈہ\":",
+          "prompt": "مذکر جمع اسم «پیسے» کے ساتھ فعل «دینا» کی ماضی شکل کیا بنے گی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شہر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دکان» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سڑک» کا غیر درست استعمال)"
+            "دیے (Diye - Masculine plural past of irregular verb dena)",
+            "دیا (واحد مذکر)",
+            "دی (واحد مؤنث)",
+            "دیں (مؤنث جمع)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مذکر جمع اسم 'پیسے' کے ساتھ فعل «دیے» آئے گا: «اس نے پیسے دیے»۔"
         }
       ]
     },
@@ -2733,17 +2762,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ہوائی اڈہ\": Which sentence is completely correct?",
+          "prompt": "بے قاعدہ ماضی افعال (Irregular Past Verbs) کا جامع اور درست جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دکان» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سڑک» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شہر» سے متعلق)"
+            "انہوں نے غریبوں کی دل کھول کر مالی مدد کی اور ان کے بچوں کو تعلیمی وظائف دیے۔ (They generously helped [madad kee - feminine] the poor financially and gave educational scholarships [wazaaif diye - masculine plural] to their children.)",
+            "انہوں نے مدد کیا اور وظائف دیا تھا۔",
+            "بے قاعدہ کا مطلب بے وقوف افعال ہوتا ہے۔",
+            "گیا اور کیا کو صرف الٹا پڑھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«انہوں نے غریبوں کی دل کھول کر مالی مدد کی اور ان کے بچوں کو تعلیمی وظائف دیے۔» بے قاعدہ ماضی افعال کا بالکل فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u6-l4": {
@@ -2751,53 +2781,62 @@
     "subject": "urdu",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "فعل ماضی مطلق اور نے کا استعمال (Simple Past & Ergative نے) (Part 4)",
+    "title": "ماضی متعدی میں 'کو' کا استعمال اور غیر شخصی فعل (Past Transitive with 'Ko')",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.4) with authentic precision.",
+    "objective": "جب جملے میں فاعل کے ساتھ 'نے' اور مفعول کے ساتھ 'کو' دونوں آئیں تو فعل کا ہمیشہ غیر شخصی مذکر واحد (دیکھا، بلایا) رہنا سمجھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "ماضی متعدی میں پرسرگ «کو» کا سنہری غیر شخصی قاعدہ (Neutral Impersonal Rule):\n\n1. **'نے' اور 'کو' کا ملاپ**:\n   - جب جملے میں فاعل کے بعد «**نے**» اور مفعول کے بعد «**کو**» دونوں موجود ہوں، تو فعل نہ فاعل کے مطابق رہتا ہے اور نہ مفعول کے مطابق!;\n   - ایسی صورت میں **فعل ہمیشہ غیر شخصی مذکر واحد (Masculine Singular - Ending in Alif)** رہتا ہے۔\n\n2. **مثالیں اور تقابل**:\n   - «احمد نے **لڑکی کو دیکھا**» (چاہے مفعول لڑکی مؤنث ہے، 'کو' کی وجہ سے فعل 'دیکھا' آئے گا، نہ کہ 'دیکھی')؛\n   - «لڑکیوں نے **استادوں کو بلایا**» (چاہے مفعول جمع ہے، فعل 'بلایا' آئے گا، نہ کہ 'بلائے')؛\n   - «پولیس نے **چوروں کو پکڑا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "احمد نے کمرے میں موجود تمام لڑکیوں کو ادب کے ساتھ سلام کیا۔",
+          "reading": "Ahmad ne kamre mein maujood tamaam ladkiyon ko adab ke saath salaam kiya. [əɦməd̪ neː kəmreː mẽː mɔːdʒuːd̪ t̪əmaːm ləɽkɪjõː koː əd̪əb keː saːt̪ʰ səlaːm kɪjaː] (UH-muhd nay kuhm-RAY mayn mow-JOOD tuh-MAHM luhd-kee-YOHN koh UH-duhb kay sahth sah-LAHM kee-YAH)",
+          "translation": "Ahmad greeted all the girls present in the room with polite respect [neutral masculine verb 'kiya']."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 6-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "عدالت نے دونوں مجرموں کو کڑی سزا سنائی اور انصاف کے تقاضے پورے کیے۔",
+          "reading": "Adaalat ne donon mujrimon ko kadi saza sunaai aur insaaf ke taqaazay pooray kiye. [əd̪aːlət̪ neː d̪oːnõː mʊdʒrɪmõː koː kəɽiː səzaː sʊnaːiː ɔːr ɪnsaːf keː t̪əqaːzeː puːreː kɪjeː] (uh-dah-LUHT nay DOH-nohn mooj-ree-MOHN koh kuh-DEE suh-ZAH soo-nah-EE owr een-SAHF kay tuh-qah-ZAY poo-RAY kee-YAY)",
+          "translation": "The court announced strict punishment to both criminals and fulfilled the demands of justice."
+        },
+        {
+          "target": "ہم نے اپنے تمام معزز اساتذہ اور مہمانوں کو سالانہ تقریب میں مدعو کیا۔",
+          "reading": "Hum ne apne tamaam mohtaram asaatiza aur mehmaanon ko saalaana taqreeb mein mad'oo kiya. [həm neː əpneː t̪əmaːm moːɦt̪ərəm əsaːt̪ɪzaː ɔːr mɛɦmaːnõː koː saːlaːnəh t̪əqriːb mẽː mʌd̪ʔuː kɪjaː] (HOOM nay uhp-NAY tuh-MAHM moh-tuh-RUHM uh-sah-tee-ZAH owr muhh-mah-NOHN koh sah-lah-NUH tuhq-REEB mayn muhd-OO kee-YAH)",
+          "translation": "We invited all our respected teachers and guests to the annual ceremony."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نے + کو کا کلیہ: فاعل نے + مفعول کو = فعل ہمیشہ مذکر واحد (دیکھا، بلایا، پکڑا)!"
+      ],
+      "culturalNotes": [
+        "جب کسی جاندار مفعول کو خاص یا معین کرنا مقصود ہو تو 'کو' کا استعمال ناگزیر ہو جاتا ہے، جس سے فعل غیر شخصی حالت اختیار کر لیتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سڑک\":",
+          "prompt": "جملے «علی نے فاطمہ کو ...» میں 'کو' کی موجودگی کی وجہ سے فعل «دیکھنا» کی کون سی شکل آئے گی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («شہر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دکان» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («روپیہ» کی خرابی)"
+            "دیکھا (Dekha - Neutral masculine singular verb form blocked by postposition 'ko')",
+            "دیکھی (تانیث کی غلطی)",
+            "دیکھے (جمع کی غلطی)",
+            "دیکھتی تھی (ماضی استمراری)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "جب مفعول کے بعد 'کو' ہو تو فعل لازماً مذکر واحد «دیکھا» ہوگا: «علی نے فاطمہ کو دیکھا»۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سڑک\":",
+          "prompt": "جملے «ہم نے اپنے اساتذہ کو ...» میں درست غیر شخصی فعل منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دکان» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («روپیہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شہر» کا غیر درست استعمال)"
+            "بلایا (Bulaaya - Impersonal masculine singular verb with object marked by 'ko')",
+            "بلائے (جمع کی غلطی)",
+            "بلائی (تانیث غلطی)",
+            "بلاتے ہیں (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'کو' کی موجودگی کی وجہ سے فعل ہمیشہ مذکر واحد «بلایا» رہے گا۔"
         }
       ]
     },
@@ -2805,17 +2844,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سڑک\": Which sentence is completely correct?",
+          "prompt": "ماضی متعدی میں 'کو' اور غیر شخصی فعل (Past Transitive with 'Ko') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («روپیہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («شہر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دکان» سے متعلق)"
+            "صدرِ محفل نے تمام معزز مہمانوں اور مندوبین کو اسٹیج پر بلایا اور انعامات تقسیم کیے۔ (The president of the gathering called [bulaaya - neutral masculine singular] all respected guests and delegates to the stage and distributed prizes.)",
+            "صدر نے تمام مہمانوں کو بلائے تھے اور روئی۔",
+            "نے اور کو ایک ساتھ آنا اردو میں ممنوع ہے۔",
+            "بلایا کا مطلب صرف بلی کی آواز نکالنا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«صدرِ محفل نے تمام معزز مہمانوں اور مندوبین کو اسٹیج پر بلایا اور انعامات تقسیم کیے۔» نے اور کو کے غیر شخصی قاعدے کا مکمل اور مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u6-l5": {
@@ -2823,53 +2863,62 @@
     "subject": "urdu",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "فعل ماضی مطلق اور نے کا استعمال (Simple Past & Ergative نے) (Part 5)",
+    "title": "فعل ماضی مطلق اور 'نے' کا جامع سمیکن و ادبی انطباق (Past Ergative Grand Synthesis)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 6.5) with authentic precision.",
+    "objective": "لازم و متعدی کا موازنہ، ارگیٹو 'نے'، مفعولی مطابقت اور غیر شخصی 'کو' کا کثیر الجملاتی ادبی و تاریخی داستان سرائی میں مکمل انطباق کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "فعل ماضی مطلق اور علامتِ 'نے' کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **لازم اور متعدی کی کامل تفریق**:\n   - لازم: «قائدِ اعظم تشریف **لائے**» (بغیر نے)؛\n   - متعدی: «قائدِ اعظم نے تاریخ ساز خطاب **فرمایا**» (نے کے ساتھ)۔\n\n2. **مفعولی مطابقت بمقابلہ غیر شخصی صیغہ**:\n   - بغیر کو: «ہم نے نئی **کتابیں خریدیں**»؛\n   - مع کو: «ہم نے تمام **کتابوں کو الماری میں رکھا**»۔\n\n3. **ادبی و تاریخی داستان سرائی**:\n   - اردو کی کلاسیکی تاریخ اور داستانوں کا پورا حسن ماضی مطلق کے ان متوازن قواعد پر منحصر ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "قائدِ اعظم نے شب و روز انتھک محنت کی، قوم کو بیدار کیا اور ایک آزاد و خودمختار وطن حاصل کیا۔",
+          "reading": "Quaid-e-Azam ne shab-o-roz anthak mehnat kee, qaum ko bedaar kiya aur ek aazaad-o-khud-mukhtaar watan haasil kiya. [qaːʔɪd̪-eː-aːzəm neː ʃəb-oː-roːz ənt̪ʰək mɛɦnət̪ kiː qɔːm koː beːd̪aːr kɪjaː ɔːr eːk aːzaːd̪-oː-xʊd̪mʊxt̪aːr ʋət̪ən haːsɪl kɪjaː] (QAH-eed-ay-AH-zuhm nay SHUHB-oh-ROHZ uhn-THUHK muhh-NUHT KEE, QOWM koh bay-DAHR kee-YAH owr AYK ah-ZAHD-oh-khood-mookh-TAHR vuh-TUHN hah-SEEL kee-YAH)",
+          "translation": "Quaid-e-Azam worked tirelessly night and day [mehnat kee], awakened the nation [qaum ko bedaar kiya], and achieved an independent and sovereign homeland [watan haasil kiya]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 6-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہم نے صبح سویرے سفر کا آغاز کیا، راستے میں خوبصورت مناظر دیکھے اور شام کو خیریت سے منزل پر پہنچ گئے۔",
+          "reading": "Hum ne subah sawere safar ka aaghaaz kiya, raaste mein khoobsurat manaazir dekhay aur shaam ko khairiyat se manzil par pohanch gaye. [həm neː sʊbəh səʋeːreː səfər kaː aːɣaːz kɪjaː raːst̪eː mẽː xuːbsuːrət̪ mənaːzɪr d̪eːkʰeː ɔːr ʃaːm koː xɛːrɪjət̪ seː mənzɪl pər pɔɦʊntʃ ɡəjeː] (HOOM nay SOO-buh suh-VAY-ray suh-FUHR kah ah-GHAHZ kee-YAH, rah-STAY mayn khoob-SOO-ruht muh-nah-ZEER day-KHAY owr SHAHM koh khy-ree-YUHT say muhn-ZEEL puhr poh-HOONCH guh-YAY)",
+          "translation": "We began our journey early in the morning [aaghaaz kiya], saw beautiful landscapes along the way [manaazir dekhay], and reached the destination safely in the evening [pohanch gaye - intransitive]."
+        },
+        {
+          "target": "اہلِ علم نے کتب خانے میں نادر مخطوطات کا مطالعہ کیا اور ان پر علمی تبصرے لکھے۔",
+          "reading": "Ahl-e-ilm ne kutub-khaane mein naadir makhtootaat ka mutaala'a kiya aur un par ilmi tabsiray likhay. [əɦl-eː-ɪlm neː kʊt̪ʊb-xaːneː mẽː naːd̪ɪr məxtuːt̪aːt̪ kaː mʊt̪aːlɪʔaː kɪjaː ɔːr ʊn pər ɪlmiː t̪əbsɪreː lɪkʰeː] (uhhl-ay-EELM nay koo-toob-khah-NAY mayn NAH-deer muhkh-too-TAHT kah moo-tah-luh-AH kee-YAH owr OON puhr EEL-mee tuhb-see-RAY leekh-KHAY)",
+          "translation": "Scholars studied rare manuscripts in the library [mutaala'a kiya] and wrote scholarly commentaries upon them [tabsiray likhay]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی سمیکن: سفر کا آغاز کیا (متعدی)، مناظر دیکھے (مفعولی مطابقت)، منزل پر پہنچ گئے (لازم)!"
+      ],
+      "culturalNotes": [
+        "اردو کی تاریخی تحریروں اور سوانح عمریوں میں ماضی مطلق کے یہ مربوط اسالیب تحریر کو تاریخی وقار اور ادبی دلکشی بخشتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"شہر\":",
+          "prompt": "لازم اور متعدی ماضی کے ملاپ کا کون سا جملہ بالکل فصیح ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دکان» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («روپیہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پیسہ» کی خرابی)"
+            "وہ لاہور گئے اور انہوں نے تاریخی قلعہ دیکھا (He went to Lahore [intransitive] and saw the historic fort [transitive])",
+            "انہوں نے لاہور گئے اور قلعہ دیکھی (فاش غلطیاں)",
+            "وہ نے قلعہ دیکھے (غلط ارگیٹو)",
+            "وہ قلعہ دیکھا تھا (ماضی بعید)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«وہ لاہور گئے» (لازم بغیر نے) اور «انہوں نے قلعہ دیکھا» (متعدی مع نے) کا امتزاج بالکل درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"شہر\":",
+          "prompt": "ماضی مطلق میں مفعولی مطابقت کا بنیادی اصول کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («روپیہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پیسہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دکان» کا غیر درست استعمال)"
+            "فاعل کے ساتھ 'نے' ہو اور مفعول کے بعد 'کو' نہ ہو تو فعل مفعول کے مطابق ہوگا (Verb agrees with unmarked object in ergative past)",
+            "فعل ہمیشہ فاعل کے مطابق رہے گا",
+            "فعل ہمیشہ مؤنث ہوگا",
+            "کوئی اصول نہیں ہے"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "جب فاعل کے ساتھ 'نے' ہو اور مفعول بغیر 'کو' کے ہو تو فعل مفعول کی تذکیر و تانیث کے مطابق بدلتا ہے۔"
         }
       ]
     },
@@ -2877,17 +2926,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"شہر\": Which sentence is completely correct?",
+          "prompt": "فعل ماضی مطلق اور 'نے' کے جامع سمیکن (Past Ergative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پیسہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دکان» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («روپیہ» سے متعلق)"
+            "ہماری ٹیم نے فائنل میچ میں شاندار کارکردگی دکھائی، حریف ٹیم کو شکست دی اور فتح کی سنہری ٹرافی اپنے نام کی۔ (Our team showed splendid performance [kaarkardagi dikhaai - feminine], defeated the rival team [hareef team ko shikast dee], and claimed the golden trophy of victory [trophy apne naam kee].)",
+            "ہماری ٹیم نے میچ جیتا اور سب بھاگ گئی۔",
+            "ماضی مطلق میں صرف گھوڑے کی سواری لکھی جاتی ہے۔",
+            "شاندار کارکردگی دکھایا اور ٹرافی جیتی تھا غلط ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہماری ٹیم نے فائنل میچ میں شاندار کارکردگی دکھائی، حریف ٹیم کو شکست دی اور فتح کی سنہری ٹرافی اپنے نام کی۔» ماضی مطلق اور نے کے تمام قواعد کا شاہکار اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u7-l1": {
