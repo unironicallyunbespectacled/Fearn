@@ -15721,85 +15721,89 @@
     "subject": "mandarin",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy) (第1讲)",
+    "title": "中国戏曲艺术美学：生旦净丑四大行当与唱念做打程式化表演 (Chinese Opera Aesthetics: Four Role Types & Chang-Nian-Zuo-Da Stylized Performance)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第1部分)。",
+    "objective": "系统掌握中国传统戏曲美学体系（四大行当生旦净丑、四功五法唱念做打手眼身步法、戏曲程式化与虚拟性美学原则）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国传统戏曲（以京剧、昆曲为代表）是综合文学、音乐、舞蹈、美术与武术的舞台艺术巅峰，具有独特的美学范式：\n\n一、四大行当体系（生、旦、净、丑）：\n1.【生（男性正面角色）】：老生（须生/戴髯口中老年人）、小生（年轻俊朗儒雅书生）、武生（武艺高强的将帅勇士）。\n2.【旦（女性角色体系）】：正旦（青衣/端庄贤良中年女子，以唱功见长）、花旦（活泼俏丽青年少女）、武旦（武打见长女将）、老旦（慈祥老年妇人）。\n3.【净（花脸/性格刚烈豪爽或阴险狡诈角色）】：勾画复杂脸谱（如红脸关羽忠勇、黑脸包公铁面、白脸曹操多疑奸诈）。\n4.【丑（三花脸/诙谐机智或滑稽反派角色）】：鼻梁勾画一小块白粉（豆腐块），分文丑与武丑。\n\n二、「四功五法」表演基本功法则：\n1.【四功（舞台四大支柱）】：唱（唱腔韵味）、念（念白律动，包括京白与韵白）、做（身段仪态）、打（武打把子功）。\n2.【五法（身体动作规矩）】：手（指法手势）、眼（眼神传神）、身（身段腰腿）、步（台步圆场）、法（程式规矩）。\n\n三、戏曲核心美学——「程式化」与「虚拟性」：\n1.【程式化】：喜怒哀乐与起卧行止皆有固定优美的舞蹈化动作规范（如理髯、抖袖、拉山膀、云手）。\n2.【虚拟性】：打破舞台物理时空限制——「三五步行遍天下，七八人百万雄兵」；一桌二椅推门上马，全凭演员精妙的写意表演！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)' in simple terms to students at the academic seminar."
+          "target": "京剧表演融「唱、念、做、打」四功于一体，通过高度程式化的身段与唱腔展现中华传统舞台艺术的精湛造诣。(Jīngjù biǎoyǎn róng 'chàng, niàn, zuò, dǎ' sìgōng yú yītǐ, tōngguò gāodù chéngshìhuà de shēnduàn yǔ chàngqiāng zhǎnxiàn Zhōnghuá chuántǒng wǔtái yìshù de jīngzhàn zàoyì.)",
+          "reading": "[t͡ɕiŋ˥.t͡ɕy˥˩ pjaʊ̯˨˩.jan˨˩˦ ʐʊŋ˧˥ 'ʈ͡ʂʰɑŋ˥˩, njɛn˥˩, t͡swɔ˥˩, ta˨˩˦' sɨ˥˩.kʊŋ˥ y˨˩˦ i˥.tʰi˨˩˦, tʰʊŋ˥.kwɔ˥˩ kaʊ̯˥.tu˥˩ ʈ͡ʂʰəŋ˧˥.ʂɨ˥˩.xwa˥˩ tɤ ʂən˥.twan˥˩ y˨˩˦ ʈ͡ʂʰɑŋ˥.t͡ɕʰjɑŋ˥ ʈ͡ʂan˨˩.ɕjɛn˥˩ ʈ͡ʂʊŋ˥.xwa˧˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥ wu˨˩.tʰaɪ̯˧˥ i˥˩.ʂu˥˩ tɤ t͡ɕiŋ˥.ʈ͡ʂan˥˩ t͡saʊ̯˥˩.i˥˩] (Jīng-jù biǎo-yǎn róng 'chàng, niàn, zuò, dǎ' sì-gōng yú yī-tǐ, tōng-guò gāo-dù chéng-shì-huà de shēn-duàn yǔ chàng-qiāng zhǎn-xiàn Zhōng-huá chuán-tǒng wǔ-tái yì-shù de jīng-zhàn zào-yì.)",
+          "translation": "Peking Opera performance integrates the four fundamental skills of 'singing, reciting, acting, and martial acrobatics,' displaying the exquisite mastery of traditional Chinese stage art through highly stylized postures and vocal tunes."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "戏曲行当严密划分为「生、旦、净、丑」，各行当在脸谱谱式、服饰穿戴与声音塑造上均有极具辨识度的美学规范。(Xìqǔ hángdang yánmì huàfēn wéi 'shēng, dàn, jìng, chǒu', gè hángdang zài liǎnpǔ pǔshì, fúshì chuāndài yǔ shēngyīn sùzào shang jūnyǒu jí jù biànshídù de měixué guīfàn.)",
+          "reading": "[ɕi˥˩.t͡ɕʰy˨˩˦ xɑŋ˧˥.tɑŋ jan˧˥.mi˥˩ xwa˥˩.fən˥ weɪ̯˧˥ 'ʂəŋ˥, tan˥˩, t͡ɕiŋ˥˩, ʈ͡ʂʰoʊ̯˨˩˦', kɤ˥˩ xɑŋ˧˥.tɑŋ t͡saɪ̯˥˩ ljan˨˩.pʰu˨˩˦ pʰu˨˩.ʂɨ˥˩, fu˧˥.ʂɨ˥˩ t͡ʂʰwan˥.taɪ̯˥˩ y˨˩˦ ʂəŋ˥.in˥ su˥˩.t͡saʊ̯˥˩ ʂɑŋ t͡ɕyn˥.joʊ̯˨˩˦ t͡ɕi˧˥ t͡ɕy˥˩ pjɛn˥˩.ʂɨ˧˥.tu˥˩ tɤ meɪ̯˨˩.ɕɥɛ˧˥ kweɪ̯˥.fan˥˩] (Xì-qǔ háng-dang yán-mì huà-fēn wéi 'shēng, dàn, jìng, chǒu', gè háng-dang zài liǎn-pǔ pǔ-shì, fú-shì chuān-dài yǔ shēng-yīn sù-zào shang jūn-yǒu jí jù biàn-shí-dù de měi-xué guī-fàn.)",
+          "translation": "Opera role types are strictly classified into 'Sheng, Dan, Jing, and Chou,' each role possessing highly recognizable aesthetic standards in facial makeup patterns, costuming, and vocal shaping."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "戏曲舞台秉持虚拟性美学原则，仅凭「一桌二椅」与演员灵动的虚拟表演，便能达到「三五步走遍天下，七八人百万雄兵」的时空自由。(Xìqǔ wǔtái bǐngchí xūnǐxìng měixué yuánzé, jǐn píng 'yī zhuō èr yǐ' yǔ yǎnyuán língdòng de xūnǐ biǎoyǎn, biàn néng dádào 'sān-wǔ bù zǒu biàn tiānxià, qī-bā rén bǎiwàn xióngbīng' de shíkōng zìyóu.)",
+          "reading": "[ɕi˥˩.t͡ɕʰy˨˩˦ wu˨˩.tʰaɪ̯˧˥ piŋ˨˩.ʈ͡ʂʰɨ˧˥ ɕy˥.ni˨˩.ɕiŋ˥˩ meɪ̯˨˩.ɕɥɛ˧˥ yɥɛn˧˥.t͡sɤ˧˥, t͡ɕin˨˩.pʰiŋ˧˥ 'i˥ ʈ͡ʂwɔ˥ aɚ˥˩ i˨˩˦' y˨˩˦ jan˨˩.yɥɛn˧˥ liŋ˧˥.tʊŋ˥˩ tɤ ɕy˥.ni˨˩ pjaʊ̯˨˩.jan˨˩˦, pjɛn˥˩ nɤŋ˧˥ ta˧˥.taʊ̯˥˩ 'san˥-wu˨˩˦ pu˥˩ t͡soʊ̯˨˩˦ pjɛn˥˩ tʰjɛn˥.ɕja˥˩, t͡ɕʰi˥-pa˥ ʐən˧˥ paɪ̯˨˩.wan˥˩ ɕjʊŋ˧˥.piŋ˥' tɤ ʂɨ˧˥.kʰʊŋ˥ t͡sɨ˥˩.joʊ̯˧˥] (Xì-qǔ wǔ-tái bǐng-chí xū-nǐ-xìng měi-xué yuán-zé, jǐn píng 'yī zhuō èr yǐ' yǔ yǎn-yuán líng-dòng de xū-nǐ biǎo-yǎn, biàn néng dá-dào 'sān-wǔ bù zǒu biàn tiān-xià, qī-bā rén bǎi-wàn xióng-bīng' de shí-kōng zì-yóu.)",
+          "translation": "The opera stage upholds the aesthetic principle of virtuality; relying merely on 'one table and two chairs' and the actors' nimble virtual performances, it achieves spatiotemporal freedom where 'three or five steps traverse the world, and seven or eight people represent a million-strong army.'"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "梅兰芳等一代宗师革新旦角艺术，将手眼身步之法与内在人物情感融会贯通，创立了享誉世界的中国戏曲演剧学派。(Méi Lánfāng děng yīdài zōngshī géxīn dànjué yìshù, jiāng shǒu-yǎn-shēn-bù zhī fǎ yǔ nèizài rénwù qínggǎn rónghuì-guàntōng, chuànglì le xiǎngyù shìjiè de Zhōngguó xìqǔ yǎnjù xuépài.)",
+          "reading": "[meɪ̯˧˥ lan˧˥.fɑŋ˥ təŋ˨˩˦ i˥.taɪ̯˥˩ t͡sʊŋ˥.ʂɨ˥ kɤ˧˥.ɕin˥ tan˥˩.t͡ɕɥɛ˧˥ i˥˩.ʂu˥˩, t͡ɕjɑŋ˥ ʂoʊ̯˨˩.jan˨˩.ʂən˥.pu˥˩ ʈ͡ʂɨ˥ fa˨˩˦ y˨˩˦ neɪ̯˥˩.t͡saɪ̯˥˩ ʐən˧˥.u˥˩ t͡ɕʰiŋ˧˥.kan˨˩˦ ʐʊŋ˧˥.xweɪ̯˥˩-kwan˥˩.tʰʊŋ˥, t͡ʂʰwaŋ˥˩.li˥˩ lɤ ɕjaŋ˨˩.y˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ tɤ ʈ͡ʂʊŋ˥.kwo˧˥ ɕi˥˩.t͡ɕʰy˨˩˦ jan˨˩.t͡ɕy˥˩ ɕɥɛ˧˥.pʰaɪ̯˥˩] (Méi Lán-fāng děng yī-dài zōng-shī gé-xīn dàn-jué yì-shù, jiāng shǒu-yǎn-shēn-bù zhī fǎ yǔ nèi-zài rén-wù qíng-gǎn róng-huì-guàn-tōng, chuàng-lì le xiǎng-yù shì-jiè de Zhōng-guó xì-qǔ yǎn-jù xué-pài.)",
+          "translation": "Masters of a generation like Mei Lanfang innovated the Dan role art, seamlessly integrating techniques of hands, eyes, body, and steps with internal character emotions, establishing a world-renowned Chinese opera acting school."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "生旦净丑行当立，唱念做打四功齐；手眼身步神韵聚，三五步走天下棋！"
+      ],
+      "culturalNotes": [
+        "京剧的旦行大师梅兰芳与西方戏剧大师斯坦尼斯拉夫斯基、布莱希特并称为「世界三大戏剧表演体系」，其写意程式化表演代表了东方戏剧的至高美学峰巅。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第1讲）的标准汉语规范？",
+          "prompt": "中国传统戏曲中对演员基本功训练所概括的「四功」是指：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (27.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (27.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (27.1.w3)"
+            "唱、念、做、打 (Singing, Reciting, Acting, Martial acrobatics)",
+            "吃、喝、拉、撒",
+            "摸、爬、滚、打",
+            "说、学、逗、唱"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "戏曲「四功」为唱、念、做、打；相声的基本功才是说、学、逗、唱。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中国戏曲中端庄娴静、以高超唱功为主要特征的女性角色行当被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "青衣 / 正旦 (Qingyi / Zhengdan)",
+            "文丑",
+            "武生",
+            "架子花脸"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「青衣」（正旦）是京剧等剧种中端庄严肃的中青年女性主角，以典雅唱腔见长。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的正式语境下，最准确得体的表达是哪一项？（第27.1题）",
+          "prompt": "戏曲舞台上用来形容以高度写意虚拟的手法打破时空限制的经典美学俗谚是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (27.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (27.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (27.1.x3)"
+            "三五步行遍天下，七八人百万雄兵 (Three steps cross the realm, seven people form an army)",
+            "台上无戏台下看热闹",
+            "台上一分钟台下十年功",
+            "演戏的疯子看戏的傻子"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「三五步行遍天下，七八人百万雄兵」准确概括了中国戏曲时空虚拟性与写意性的美学本质。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u27-l1）所要求的高阶语言表达？",
+          "prompt": "在传统戏曲脸谱色彩美学中，通常用来象征人物忠义、耿直与勇猛的脸谱主色调是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (27.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (27.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (27.1.y3)"
+            "红色（如关羽）(Red: representing loyalty and righteousness)",
+            "白色（象征奸诈多疑）",
+            "金色（象征神佛妖魔）",
+            "灰色"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "在京剧脸谱中，红色代表忠勇正义（如关公），黑色代表刚直不阿（如包拯），白色代表阴险奸诈（如曹操）。"
         }
       ]
     },
@@ -15807,25 +15811,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的掌握程度，请选出表述完全正确的标准范句（测试 27-1）：",
+          "prompt": "请选出下列中国戏曲美学系统评析中概念最精准、艺术概括最透彻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (27.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (27.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (27.1.z3)"
+            "中国戏曲以「生旦净丑」构建行当谱系，以「唱念做打」与「手眼身步法」熔铸表演功法；通过高度程式化的身段与虚拟写意的舞台调度，达成「一桌二椅演春秋，三五步走遍天下」的超时空自由，确立了东方演剧美学的世界级巅峰！(行当分类准确、四功五法齐备、程式化与虚拟性美学分析精辟入理)",
+            "京剧就是穿戏服在台上乱跑乱叫，生旦净丑是四个人的名字。(语言浅薄可笑完全无知)",
+            "唱念做打被青衣生旦在脸谱虚拟性。(概念胡乱堆砌毫无逻辑)",
+            "戏曲表演必须完全按照西方写实主义电影的实景来搭舞台。(完全背离戏曲写意假定性美学本质)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段全面概括了戏曲的行当体系、四功五法、程式化规范与虚拟性美学特质，文字典雅流畅。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u27-l1）的核心关键词（例如「传统艺术」）：",
+          "prompt": "请输入传统戏曲中与「生、旦、净」并列的四大基本行当之一（擅长幽默滑稽、鼻梁涂白粉的行当名；拼音为 chǒu）：",
           "acceptedAnswers": [
-            "传统艺术",
-            "传统艺术：戏",
-            "传统艺术：戏曲、国画与书法"
+            "丑",
+            "丑行",
+            "丑角"
           ],
-          "explanation": "正确的核心关键词为「传统艺术」。"
+          "explanation": "「丑」是戏曲四大行当（生旦净丑）之一，俗称三花脸或小花脸，分为文丑与武丑。"
         }
       ],
       "passThreshold": 0.8
@@ -15836,85 +15840,89 @@
     "subject": "mandarin",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy) (第2讲)",
+    "title": "文人写意水墨画：气韵生动、墨分五色与留白意境 (Literati Ink Wash Painting: Spirit Resonance, Five Inks & White Space Aesthetics)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第2部分)。",
+    "objective": "系统掌握中国文人水墨画美学理论（南齐谢赫六法气韵生动、墨分五色干湿浓淡、计白当黑留白艺术、诗书画印四位一体）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国传统文人水墨画以道家玄学与禅宗美学为精神底色，追求神形兼备与物我合一的超然意境：\n\n一、南齐谢赫《古画品录》「绘画六法」（中国画论最高纲领）：\n1.【气韵生动（第一要义）】：画作散发的内在生命活力与精神风神。\n2.【骨法用笔】：以书法线条为骨架，中锋、侧锋、逆锋刚劲有力。\n3.【应物象形】与【随类赋彩】：根据物象特征准确造型与赋色。\n4.【经营位置】：构图布局、主次宾主、开合起伏。\n5.【传移模写】：临摹传承前贤经典笔墨。\n\n二、水墨技法体系——「墨分五色」与皴擦点染：\n1.【墨分五色】：焦、浓、重、淡、清（或干、湿、浓、淡、渴）。水与墨的精妙交融幻化出无限层次。\n2.【皴法（山石纹理技法）】：披麻皴（柔和山水）、斧劈皴（刚硬岩壁）、米点皴（烟雨迷蒙）。\n\n三、文人画核心哲学境界——「留白」与「诗书画印」：\n1.【计白当黑，虚实相生】：空白处并非虚无，而是天地灵气与无穷烟波的流淌（无墨处皆成妙境）。\n2.【诗书画印四位一体】：以诗言志、以书入画、以画写意、以印固神，展示文人全方位的修养境界。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)' in simple terms to students at the academic seminar."
+          "target": "中国文人水墨画将「气韵生动」奉为至高审美准则，强调画家借笔墨抒发胸中逸气而非单纯摹写客观物象。(Zhōngguó wénrén shuǐmòhuà jiāng 'qìyùn shēngdòng' fèng wéi zhìgāo shěnměi zhǔnzé, qiángdiào huàjiā jiè bǐmò shūfā xiōngzhōng yìqì ér fēi dānchún móxiě kèguān wùxiàng.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwo˧˥ wən˧˥.ʐən˧˥ ʂweɪ̯˨˩.mwo˥˩.xwa˥˩ t͡ɕjɑŋ˥ 't͡ɕʰi˥˩.yŋ˥˩ ʂəŋ˥.tʊŋ˥˩' fəŋ˥˩ weɪ̯˧˥ ʈ͡ʂɨ˥˩.kaʊ̯˥ ʂən˨˩.meɪ̯˨˩ ʈ͡ʂu˨˩.t͡sɤ˧˥, t͡ɕʰjɑŋ˧˥.tjaʊ̯˥˩ xwa˥˩.t͡ɕja˥ t͡ɕjɛ˥˩ pi˨˩.mwo˥˩ ʂu˥.fa˥ ɕjʊŋ˥.ʈ͡ʂʊŋ˥ i˥˩.t͡ɕʰi˥˩ aɚ˧˥ feɪ̯˥ tan˥.ʈ͡ʂʰwən˧˥ mwo˧˥.ɕjɛ˨˩˦ kʰɤ˥˩.kwan˥ wu˥˩.ɕjaŋ˥˩] (Zhōng-guó wén-rén shuǐ-mò-huà jiāng 'qì-yùn shēng-dòng' fèng wéi zhì-gāo shěn-měi zhǔn-zé, qiáng-diào huà-jiā jiè bǐ-mò shū-fā xiōng-zhōng yì-qì ér fēi dān-chún mó-xiě kè-guān wù-xiàng.)",
+          "translation": "Chinese literati ink wash painting reveres 'spirit resonance and life vitality' as the supreme aesthetic criterion, emphasizing that the painter expresses spiritual untrammeled feeling through brush and ink rather than merely copying objective objects."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "画家巧妙运用「墨分五色」与干湿浓淡的丰富变化，在宣纸上营造出烟云变幻、层次深邃的江南山水胜景。(Huàjiā qiǎomiào yùnyòng 'mò fēn wǔsè' yǔ gān-shī nóng-dàn de fēngfù biànhuà, zài xuānzhǐ shang yíngzào chū yānyún biànhuàn, céngcì shēnsuì de Jiāngnán shānshuǐ shèngjǐng.)",
+          "reading": "[xwa˥˩.t͡ɕja˥ t͡ɕʰjaʊ̯˨˩.mjaʊ̯˥˩ yn˥˩.jʊŋ˥˩ 'mwo˥˩ fən˥ u˨˩˦.sɤ˥˩' y˨˩˦ kan˥-ʂɨ˥ nʊŋ˧˥-tan˥˩ tɤ fəŋ˥.fu˥˩ pjɛn˥˩.xwa˥˩, t͡saɪ̯˥˩ ɕɥɛn˥.ʈ͡ʂɨ˨˩˦ ʂɑŋ iŋ˧˥.t͡saʊ̯˥˩ t͡ʂʰu˥ jɛn˥.jyn˧˥ pjɛn˥˩.xwan˥˩, t͡sʰəŋ˧˥.t͡sʰɨ˥˩ ʂən˥.sweɪ̯˥˩ tɤ t͡ɕjɑŋ˥.nan˧˥ ʂan˥.ʂweɪ̯˨˩˦ ʂəŋ˥˩.t͡ɕiŋ˨˩˦] (Huà-jiā qiǎo-miào yùn-yòng 'mò fēn wǔ-sè' yǔ gān-shī nóng-dàn de fēng-fù biàn-huà, zài xuān-zhǐ shang yíng-zào chū yān-yún biàn-huàn, céng-cì shēn-suì de Jiāng-nán shān-shuǐ shèng-jǐng.)",
+          "translation": "The painter ingeniously utilizes the rich variations of 'five ink colors' and dry-wet, thick-light contrasts, creating a magnificent landscape of Jiangnan with shifting mist and profound layering on Xuan paper."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "传统国画讲求「计白当黑」与留白艺术，大片未着笔墨的空白处正是虚实相生、言有尽而意无穷的空灵化境。(Chuántǒng guóhuà jiǎngqiú 'jì bái dāng hēi' yǔ liúbái yìshù, dàpiàn wèizhuó bǐmò de kòngbáichù zhèngshì xū-shí xiāngshēng, yán yǒu jìn ér yì wúqióng de kōnglíng huàjìng.)",
+          "reading": "[t͡ʂʰwan˧˥.tʰʊŋ˧˥ kwo˧˥.xwa˥˩ t͡ɕjɑŋ˨˩.t͡ɕʰjoʊ̯˥ 't͡ɕi˥˩ paɪ̯˧˥ tɑŋ˥ xeɪ̯˥' y˨˩˦ ljoʊ̯˧˥.paɪ̯˧˥ i˥˩.ʂu˥˩, ta˥˩.pʰjɛn˥˩ weɪ̯˥˩.ʈ͡ʂwɔ˧˥ pi˨˩.mwo˥˩ tɤ kʰʊŋ˥.paɪ̯˧˥.t͡ʂʰu˥˩ ʈ͡ʂəŋ˥˩.ʂɨ˥˩ ɕy˥-ʂɨ˧˥ ɕjaŋ˥.ʂəŋ˥, jan˧˥ joʊ̯˨˩˦ t͡ɕin˥˩ aɚ˧˥ i˥˩ wu˧˥.t͡ɕʰjʊŋ˧˥ tɤ kʰʊŋ˥.liŋ˧˥ xwa˥˩.t͡ɕiŋ˥˩] (Chuán-tǒng guó-huà jiǎng-qiú 'jì bái dāng hēi' yǔ liú-bái yì-shù, dà-piàn wèi-zhuó bǐ-mò de kòng-bái-chù zhèng-shì xū-shí xiāng-shēng, yán yǒu jìn ér yì wú-qióng de kōng-líng huà-jìng.)",
+          "translation": "Traditional Chinese painting emphasizes 'regarding white space as black ink' and the art of leaving blank space; large expanses untouched by brush and ink represent the ethereal realm where void and solid generate each other, and resonance lingers endlessly beyond expression."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "历代文人画将「诗、书、画、印」完美熔铸于一体，使画作成为彰显文人深厚学养与超然品格的综合艺术结晶。(Lìdài wénrénhuà jiāng 'shī, shū, huà, yìn' wánměi róngzhù yú yītǐ, shǐ huàzuò chéngwéi zhāngxiǎn wénrén shēnhòu xuéyǎng yǔ chāorán pǐngé de zōnghé yìshù jiéjīng.)",
+          "reading": "[li˥˩.taɪ̯˥˩ wən˧˥.ʐən˧˥.xwa˥˩ t͡ɕjɑŋ˥ 'ʂɨ˥, ʂu˥, xwa˥˩, in˥˩' wan˧˥.meɪ̯˨˩˦ ʐʊŋ˧˥.ʈ͡ʂu˥˩ y˨˩˦ i˥.tʰi˨˩˦, ʂɨ˨˩˦ xwa˥˩.t͡swɔ˥˩ ʈ͡ʂʰəŋ˧˥.weɪ̯˧˥ ʈ͡ʂɑŋ˥.ɕjan˨˩˦ wən˧˥.ʐən˧˥ ʂən˥.xoʊ̯˥˩ ɕɥɛ˧˥.jaŋ˨˩˦ y˨˩˦ t͡ʂʰaʊ̯˧˥.ʐan˧˥ pʰin˨˩.kɤ˧˥ tɤ t͡sʊŋ˥.xɤ˧˥ i˥˩.ʂu˥˩ t͡ɕjɛ˧˥.t͡ɕiŋ˥] (Lì-dài wén-rén-huà jiāng 'shī, shū, huà, yìn' wán-měi róng-zhù yú yī-tǐ, shǐ huà-zuò chéng-wéi zhāng-xiǎn wén-rén shēn-hòu xué-yǎng yǔ chāo-rán pǐn-gé de zōng-hé yì-shù jié-jīng.)",
+          "translation": "Literati paintings of successive dynasties perfectly forged 'poetry, calligraphy, painting, and seal carving' into an integrated whole, making the artwork a comprehensive artistic crystallization manifesting the literati's profound scholarship and transcendent character."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "气韵生动六法首，墨分五色干湿守；计白当黑留白韵，诗书画印文人久！"
+      ],
+      "culturalNotes": [
+        "宋代文豪苏轼评价唐代大诗人王维的文人画：「味摩诘之诗，诗中有画；观摩诘之画，画中有诗。」确立了中国文人画诗画交融的至高美学范型。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第2讲）的标准汉语规范？",
+          "prompt": "南齐谢赫在《古画品录》中提出的中国传统绘画理论「六法」之首、最高审美评价标准是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (27.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (27.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (27.2.w3)"
+            "气韵生动 (Spirit Resonance & Vitality)",
+            "五颜六色",
+            "照猫画虎",
+            "涂脂抹粉"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「气韵生动」被谢赫列为绘画六法之首，是中国古代绘画理论的最高纲领。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中国水墨画在处理纸上空白与着墨部分关系时，体现道家虚实相生哲学的经典原则是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "计白当黑 / 留白 (Regard blank space as ink / White space art)",
+            "密不透风全部涂黑",
+            "乱涂乱画不留一点空",
+            "白纸一张不画任何东西"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「计白当黑」是清代书法家邓石如与古代画论的核心命题，强调空白处同样蕴含深邃意境。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的正式语境下，最准确得体的表达是哪一项？（第27.2题）",
+          "prompt": "中国古代水墨画中用来形容单一墨汁在宣纸上通过水分调节呈现丰富明暗层次的术语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (27.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (27.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (27.2.x3)"
+            "墨分五色 (Five colors of ink: 焦、浓、重、淡、清)",
+            "五彩缤纷",
+            "黑白颠倒",
+            "一团漆黑"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「墨分五色」指中国水墨画仅用黑墨与水调配出的丰富焦、浓、重、淡、清等层次色彩。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u27-l2）所要求的高阶语言表达？",
+          "prompt": "集文学、书法、绘画与金石篆刻于一幅作品之中的文人画完美艺术形式被称为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (27.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (27.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (27.2.y3)"
+            "诗书画印四位一体 (Four-in-one synthesis: Poetry, Calligraphy, Painting & Seal)",
+            "装模作样",
+            "画蛇添足",
+            "买椟还珠"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「诗书画印」是文人画成熟时期的标志性审美形态，体现了文人的全能艺术修养。"
         }
       ]
     },
@@ -15922,25 +15930,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的掌握程度，请选出表述完全正确的标准范句（测试 27-2）：",
+          "prompt": "请选出下列关于文人水墨画美学体系阐发最深刻、艺术品评最精到的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (27.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (27.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (27.2.z3)"
+            "文人水墨画以谢赫六法之「气韵生动」为灵魂，依托「骨法用笔」与「墨分五色」的无穷变幻构筑意境；秉持「计白当黑」的虚实辩证，在大片留白中包孕天地灵气；更熔「诗、书、画、印」于一体，借物抒情，展现了中国士大夫超然高洁的心性追求！(六法气韵、骨法用笔、墨分五色、计白当黑留白、诗书画印四位一体，文人画美学体系阐发完备精湛)",
+            "画国画就是用黑墨水在宣纸上乱画山水，画得不像就说自己是写意文人画。(语言粗俗讽刺完全无知)",
+            "计白当黑被墨分五色在气韵生动诗书画印。(术语杂乱堆砌)",
+            "文人水墨画必须使用西方透视法则和油画颜料才能算优秀。(完全背离传统水墨画意象美学规律)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统全面地阐释了谢赫六法、笔墨技法、留白辩证法以及诗书画印四位一体的文人画美学体系。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u27-l2）的核心关键词（例如「传统艺术」）：",
+          "prompt": "请输入中国传统绘画中用来比喻将画纸空白处当作墨色一样精心布局构思的四字经典画论成语（例如「」；拼音为 jì bái dāng hēi）：",
           "acceptedAnswers": [
-            "传统艺术",
-            "传统艺术：戏",
-            "传统艺术：戏曲、国画与书法"
+            "计白当黑"
           ],
-          "explanation": "正确的核心关键词为「传统艺术」。"
+          "explanation": "成语「计白当黑」是中国书画留白美学中最著名的经典法则，强调虚白与实黑同样具有艺术生命。"
         }
       ],
       "passThreshold": 0.8
@@ -15951,85 +15957,89 @@
     "subject": "mandarin",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy) (第3讲)",
+    "title": "汉字书法演变史：甲金篆隶楷行草五体源流与笔墨风骨 (History of Chinese Calligraphy: Evolution of Five Scripts & Brushstroke Character)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第3部分)。",
+    "objective": "系统掌握汉字书法五体演变史（甲骨文/金文 -> 篆书 -> 隶书/隶变 -> 草书 -> 楷书/楷书四大家 -> 行书/书圣王羲之兰亭集序与天下三大行书）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国书法是将文字书写提升为纯粹精神与视觉艺术的中华文化瑰宝，经历了三千余年的五体演进：\n\n一、汉字五体演变源流脉络：\n1.【甲骨文与金文（殷商西周）】：刻于龟甲兽骨或铸于青铜器（钟鼎文），古朴神秘、瘦硬挺拔。\n2.【篆书（秦代李斯）】：大篆与小篆。小篆线条圆转对称、结构均齐庄重。\n3.【隶书（秦汉「隶变」）】：汉字演变的关键转折点！由圆变方，形成「蚕头雁尾、一波三折」的波磔笔法（如《曹全碑》《张迁碑》），标志着古文字向今文字的飞跃。\n4.【草书（汉唐张旭、怀素）】：章草、今草与狂草。张旭怀素「颠张醉素」，笔走龙蛇，将情感释放推向极境。\n5.【楷书（正书/真书）】：唐代楷书四大家（欧阳询、颜真卿、柳公权、元代赵孟頫）。「颜筋柳骨」——颜体雄浑饱满、柳体挺拔瘦硬，确立法度之极。\n6.【行书（介于楷草之间）】：行云流水、舒展自如。\n\n二、「天下三大行书」传世杰作：\n1.【天下第一行书】：东晋王羲之《兰亭集序》（二十个「之」字各具姿态，飘若浮云、矫若惊龙）。\n2.【天下第二行书】：唐代颜真卿《祭侄文稿》（国仇家恨凝于笔端，涂抹跌宕，悲壮忠烈）。\n3.【天下第三行书】：北宋苏轼《黄州寒食帖》（贬谪黄州之凄苦旷达，字形随情感起伏自然生发）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)' in simple terms to students at the academic seminar."
+          "target": "从殷商甲骨文、秦代小篆到汉代隶书，「隶变」彻底打破了象形线条，奠定了现代汉字方块字形的结构根基。(Cóng Yīn-Shāng jiǎgǔwén, Qín-dài xiǎozhuàn dào Hàn-dài lìshū, 'lìbiàn' chèdǐ dǎpò le xiàngxíng xiàntiáo, diàndìng le xiàndài Hànzì fāngkuàizìxíng de jiégòu gēnjī.)",
+          "reading": "[t͡sʰʊŋ˧˥ in˥-ʂɑŋ˥ t͡ɕja˨˩.ku˨˩˦.wən˧˥, t͡ɕʰin˧˥.taɪ̯˥˩ ɕjaʊ̯˨˩.ʈ͡ʂwan˥˩ taʊ̯˥˩ xan˥˩.taɪ̯˥˩ li˥˩.ʂu˥, 'li˥˩.pjɛn˥˩' t͡ʂʰɤ˥˩.ti˨˩˦ ta˨˩.pʰwɔ˥˩ lɤ ɕjaŋ˥˩.ɕiŋ˧˥ ɕjɛn˥˩.tʰjaʊ̯˧˥, tjɛn˥˩.tiŋ˥˩ lɤ ɕjɛn˥˩.taɪ̯˥˩ xan˥˩.t͡sɨ˥˩ fɑŋ˥.kʰwaɪ̯˥˩.t͡sɨ˥˩.ɕiŋ˧˥ tɤ t͡ɕjɛ˧˥.koʊ̯˥˩ kən˥.t͡ɕi˥] (Cóng Yīn-Shāng jiǎ-gǔ-wén, Qín-dài xiǎo-zhuàn dào Hàn-dài lì-shū, 'lì-biàn' chè-dǐ dǎ-pò le xiàng-xíng xiàn-tiáo, diàn-dìng le xiàn-dài Hàn-zì fāng-kuài-zì-xíng de jié-gòu gēn-jī.)",
+          "translation": "From the Shang oracle bones and Qin small seal script to the Han clerical script, the 'clerical script transformation' thoroughly broke away from pictographic lines, establishing the structural foundation of modern square Chinese characters."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "书圣王羲之所作《兰亭集序》被誉为「天下第一行书」，其笔势行云流水、二十个「之」字各具风姿且无一雷同。(Shūshèng Wáng Xīzhī suǒzuò 《Lántíngjí Xù》 bèi yùwéi 'tiānxià dì-yī xíngshū', qí bǐshì xíngyún-liúshuǐ, èrshí gè 'zhī' zì gè jù fēngzī qiě wú yī léitóng.)",
+          "reading": "[ʂu˥.ʂəŋ˥˩ wɑŋ˧˥ ɕi˥.ʈ͡ʂɨ˥ swɔ˨˩.t͡swɔ˥˩ 《lan˧˥.tʰiŋ˧˥.t͡ɕi˧˥ ɕy˥˩》 peɪ̯˥˩ y˥˩.weɪ̯˧˥ 'tʰjɛn˥.ɕja˥˩ ti˥˩-i˥ ɕiŋ˧˥.ʂu˥', t͡ɕʰi˧˥ pi˨˩.ʂɨ˥˩ ɕiŋ˧˥.jyn˧˥-ljoʊ̯˧˥.ʂweɪ̯˨˩˦, aɚ˥˩.ʂɨ˧˥ kɤ 'ʈ͡ʂɨ˥' t͡sɨ˥˩ kɤ˥˩ t͡ɕy˥˩ fəŋ˥.t͡sɨ˥ t͡ɕʰjɛ˨˩˦ wu˧˥ i˥ leɪ̯˧˥.tʰʊŋ˧˥] (Shū-shèng Wáng Xī-zhī suǒ-zuò 《Lán-tíng-jí Xù》 bèi yù-wéi 'tiān-xià dì-yī xíng-shū', qí bǐ-shì xíng-yún-liú-shuǐ, èr-shí gè 'zhī' zì gè jù fēng-zī qiě wú yī léi-tóng.)",
+          "translation": "The 'Preface to the Poems Collected from the Orchid Pavilion' composed by Sage of Calligraphy Wang Xizhi is lauded as the 'Foremost Running Script under Heaven'; its brushwork flows like moving clouds and flowing water, with each of the twenty 'zhi' characters possessing a distinct posture without any repetition."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "楷书四大家欧、颜、柳、赵各领风骚，世称「颜筋柳骨」，分别以雄浑饱满与瘦硬挺拔展现了崇高的法度与刚正气节。(Kǎishū sì dàjiā Ōu, Yán, Liǔ, Zhào gè lǐng fēngsāo, shì chēng 'Yán-jīn Liǔ-gǔ', fēnbié yǐ xiónghún bǎomǎn yǔ shòuyìng tǐngbá zhǎnxiàn le chónggāo de fǎdù yǔ gāngzhèng qìjié.)",
+          "reading": "[kʰaɪ̯˨˩.ʂu˥ sɨ˥˩ ta˥˩.t͡ɕja˥ oʊ̯˥, jan˧˥, ljoʊ̯˨˩˦, ʈ͡ʂaʊ̯˥˩ kɤ˥˩ liŋ˨˩˦ fəŋ˥.saʊ̯˥, ʂɨ˥˩ ʈ͡ʂʰəŋ˥ 'jan˧˥-t͡ɕin˥ ljoʊ̯˨˩-ku˨˩˦', fən˥.pjɛ˧˥ i˨˩˦ ɕjʊŋ˧˥.xwn˧˥ paʊ̯˨˩.man˨˩˦ y˨˩˦ ʂoʊ̯˥˩.iŋ˥˩ tʰiŋ˨˩.pa˧˥ ʈ͡ʂan˨˩.ɕjɛn˥˩ lɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ tɤ fa˨˩.tu˥˩ y˨˩˦ kɑŋ˥.ʈ͡ʂəŋ˥˩ t͡ɕʰi˥˩.t͡ɕjɛ˧˥] (Kǎi-shū sì dà-jiā Ōu, Yán, Liǔ, Zhào gè lǐng fēng-sāo, shì chēng 'Yán-jīn Liǔ-gǔ', fēn-bié yǐ xióng-hún bǎo-mǎn yǔ shòu-yìng tǐng-bá zhǎn-xiàn le chóng-gāo de fǎ-dù yǔ gāng-zhèng qì-jié.)",
+          "translation": "The Four Masters of Regular Script—Ou, Yan, Liu, and Zhao—each possessed distinct brilliance, historically known as 'Yan sinew and Liu bone,' manifesting sublime structural rules and upright moral integrity through vigorous fullness and lean strength respectively."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "唐代张旭与怀素以狂草闻名，其挥毫若疾风骤雨、笔走龙蛇，将书法艺术的情感释放与浪漫主义推向巅峰。(Tángdài Zhāng Xù yǔ Huáisù yǐ kuángcǎo wénmíng, qí huīháo ruò jífēng-zhòuyǔ, bǐzǒu-lóngshé, jiāng shūfǎ yìshù de qínggǎn shìfàng yǔ làngmànzhǔyì tuī xiàng diānfēng.)",
+          "reading": "[tʰɑŋ˧˥.taɪ̯˥˩ ʈ͡ʂɑŋ˥ ɕy˥˩ y˨˩˦ xwaɪ̯˧˥.su˥˩ i˨˩˦ kʰwɑŋ˧˥.t͡sʰaʊ̯˨˩˦ wən˧˥.miŋ˧˥, t͡ɕʰi˧˥ xweɪ̯˥.xaʊ̯˧˥ ʐwɔ˥˩ t͡ɕi˧˥.fəŋ˥-ʈ͡ʂoʊ̯˥˩.y˨˩˦, pi˨˩.t͡soʊ̯˨˩-lʊŋ˧˥.ʂɤ˧˥, t͡ɕjɑŋ˥ ʂu˥.fa˨˩˦ i˥˩.ʂu˥˩ tɤ t͡ɕʰiŋ˧˥.kan˨˩˦ ʂɨ˥˩.fɑŋ˥˩ y˨˩˦ lɑŋ˥˩.man˥˩.ʈ͡ʂu˨˩.i˥˩ tʰweɪ̯˥ ɕjaŋ˥˩ tjɛn˥.fəŋ˥] (Táng-dài Zhāng Xù yǔ Huái-sù yǐ kuáng-cǎo wén-míng, qí huī-háo ruò jí-fēng-zhòu-yǔ, bǐ-zǒu-lóng-shé, jiāng shū-fǎ yì-shù de qíng-gǎn shì-fàng yǔ làng-màn-zhǔ-yì tuī xiàng diān-fēng.)",
+          "translation": "Zhang Xu and Huaisu of the Tang dynasty were renowned for wild cursive script; wielding their brushes like a tempest and letting brushstrokes dance like dragons and snakes, they propelled the emotional release and romanticism of calligraphy to its peak."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "篆隶楷行草五体，隶变方正筑根基；兰亭行书天下冠，颜筋柳骨铸风姿！"
+      ],
+      "culturalNotes": [
+        "汉字书法是世界上极少数将文字书写发展为纯视觉抽象艺术的传统之一，在点画撇捺的俯仰提按中凝聚了中华民族的宇宙观与人格力量。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第3讲）的标准汉语规范？",
+          "prompt": "在汉字字体演变史上，彻底打破古文字象形轮廓、奠定现代方块汉字笔画结构基础的关键转折是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (27.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (27.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (27.3.w3)"
+            "隶变（秦汉时期篆书向隶书的演变）(Clerical script transformation: 汉字由圆变方奠定方块字基础)",
+            "简化字运动",
+            "仓颉造字",
+            "印刷术发明"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「隶变」是汉字发展史上最重大的转折点，将圆转象形的篆书改造成方折平直的笔画，标志着今文字时代的到来。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "被历代尊称为「书圣」、创作了天下第一行书《兰亭集序》的东晋大书法家是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "王羲之 (Wang Xizhi)",
+            "欧阳询",
+            "柳公权",
+            "赵孟頫"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "王羲之被誉为中国「书圣」，其《兰亭集序》被公认为「天下第一行书」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的正式语境下，最准确得体的表达是哪一项？（第27.3题）",
+          "prompt": "后世用来高度评价唐代楷书大家颜真卿与柳公权在笔力和结构上各自鲜明风格的著名术语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (27.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (27.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (27.3.x3)"
+            "颜筋柳骨 (Yan's sinew and Liu's bone: 颜体浑厚筋力、柳体清劲骨力)",
+            "肥肉瘦肉",
+            "粗枝大叶",
+            "平淡无奇"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「颜筋柳骨」赞誉颜真卿楷书筋肉丰满雄健，柳公权楷书骨力刚劲硬挺，代表了唐楷的最高成就。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u27-l3）所要求的高阶语言表达？",
+          "prompt": "颜真卿在惊闻侄儿英勇抗击安史之乱叛军牺牲后悲愤挥毫、被誉为「天下第二行书」的传世巨作是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (27.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (27.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (27.3.y3)"
+            "《祭侄文稿》 (Draft of a Requiem to My Nephew)",
+            "《黄州寒食帖》",
+            "《多宝塔碑》",
+            "《玄秘塔碑》"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "颜真卿《祭侄文稿》被称为天下第二行书，字字饱含忠烈悲痛之气，是极富情感力量的书法极品。"
         }
       ]
     },
@@ -16037,25 +16047,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的掌握程度，请选出表述完全正确的标准范句（测试 27-3）：",
+          "prompt": "请选出下列汉字书法史论述中脉络最清晰、审美鉴赏最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (27.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (27.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (27.3.z3)"
+            "汉字五体演变贯通三千年文明脉络：甲骨金文庄严古朴，秦篆圆劲肃穆，「隶变」化圆为方奠定方块汉字之基；草书如张旭怀素笔走龙蛇抒发狂放浪漫，楷书聚欧颜柳赵立万世法度并铸「颜筋柳骨」；王羲之《兰亭集序》更以行云流水之神韵冠绝天下行书，展现了中华书法无与伦比的笔墨风骨！(五体源流脉络清晰、隶变转折定位精准、书圣名家特色阐发透彻)",
+            "书法就是毛笔写字，五种字体随便写，王羲之和颜真卿谁字写得大谁就厉害。(语言极度荒诞幼稚)",
+            "隶变被天下第一行书在颜筋柳骨五体。(生硬拼凑逻辑错乱)",
+            "草书必须一笔一划写得像印刷体一样规整才符合规范。(完全曲解草书写意连绵的艺术本质)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将甲金篆隶楷行草五体演变、隶变历史意义、书圣兰亭及颜筋柳骨楷书法度融为一体，论述高度专业精当。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u27-l3）的核心关键词（例如「传统艺术」）：",
+          "prompt": "请输入东晋书圣王羲之创作的、被誉为「天下第一行书」的传世名篇标题（例如《》；拼音为 Lántíngjí Xù）：",
           "acceptedAnswers": [
-            "传统艺术",
-            "传统艺术：戏",
-            "传统艺术：戏曲、国画与书法"
+            "兰亭集序",
+            "兰亭序",
+            "《兰亭集序》",
+            "《兰亭序》"
           ],
-          "explanation": "正确的核心关键词为「传统艺术」。"
+          "explanation": "《兰亭集序》（《兰亭序》）是东晋王羲之的登峰造极之作，被尊为天下第一行书。"
         }
       ],
       "passThreshold": 0.8
@@ -16066,85 +16077,89 @@
     "subject": "mandarin",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy) (第4讲)",
+    "title": "文房四宝、金石篆刻与中国传统工艺匠心 (Four Treasures of the Study, Seal Carving & Traditional Craftsmanship)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第4部分)。",
+    "objective": "系统掌握文房四宝（湖笔、徽墨、宣纸、端砚）、金石篆刻（铁笔丹心、朱文阴阳文、方寸乾坤）与中华传统非遗工艺匠心精神（景泰蓝、紫砂壶、缂丝）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国传统器物美学与工艺匠心将物质功能与精神审美提升至化境，凝聚了文人雅士的文脉寄托与大国工匠的精湛技艺：\n\n一、文人书斋核心——「文房四宝」四大名品：\n1.【湖笔（浙江湖州善琏）】：具备「尖、齐、圆、健」四德，笔锋聚拢如锥，富有弹性与吸墨力。\n2.【徽墨（安徽歙县/休宁）】：以松烟、油烟为原料，加入麝香等名贵香料捣制，「拈来轻、磨来清、严冬不冻、盛夏不胶、落纸如漆」。\n3.【宣纸（安徽泾县）】：「纸寿千年、墨韵万变」。分生宣（吸水渗化强，宜写意水墨）、熟宣（经胶矾加工不渗水，宜工笔重彩）、半熟宣。\n4.【端砚（广东肇庆端溪）】：四大名砚之首（端砚、歙砚、洮河砚、澄泥砚），石质细腻润滑，「发墨而不损毫，呵气即可研墨」。\n\n二、金石篆刻——方寸之间见乾坤：\n1.【印宗秦汉与铁笔丹心】：以刀代笔在石材（寿山石、青田石、昌化石、巴林石）上刻铸篆书文字。\n2.【朱文与白文】：\n- 朱文（阳文）：字形凸起着印泥，印出为红底白字。\n- 白文（阴文）：字形凹陷刻除，印出为红底留白字。\n\n三、传统非遗手工艺与大国「匠心精神」：\n1. 景泰蓝（铜胎掐丝珐琅）、宜兴紫砂壶、苏州缂丝（一寸缂丝一寸金）。\n2. 匠心精神：一生择一事，精益求精，道技合一。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)' in simple terms to students at the academic seminar."
+          "target": "湖笔、徽墨、宣纸、端砚被誉为「文房四宝」，千百年来为中国文人墨客的书画创作提供了至臻至美的媒介载体。(Húbǐ, Huīmò, Xuānzhǐ, Duānyàn bèi yùwéi 'wénfáng sìbǎo', qiānbǎi nián lái wèi Zhōngguó wénrén-mòkè de shūhuà chuàngzuò tígōng le zhìzhēn-zhìměi de méijiè zàitǐ.)",
+          "reading": "[xu˧˥.pi˨˩˦, xweɪ̯˥.mwo˥˩, ɕɥɛn˥.ʈ͡ʂɨ˨˩˦, twan˥.jɛn˥˩ peɪ̯˥˩ y˥˩.weɪ̯˧˥ 'wən˧˥.fɑŋ˧˥ sɨ˥˩.paʊ̯˨˩˦', t͡ɕʰjɛn˥.paɪ̯˨˩˦ njɛn˧˥ laɪ̯˧˥ weɪ̯˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ wən˧˥.ʐən˧˥-mwo˥˩.kʰɤ˥˩ tɤ ʂu˥.xwa˥˩ t͡ʂʰwaŋ˥˩.t͡swɔ˥˩ tʰi˧˥.kʊŋ˥ lɤ ʈ͡ʂɨ˥˩.ʈ͡ʂən˥-ʈ͡ʂɨ˥˩.meɪ̯˨˩˦ tɤ meɪ̯˧˥.t͡ɕjɛ˥˩ t͡saɪ̯˥˩.tʰi˨˩˦] (Hú-bǐ, Huī-mò, Xuān-zhǐ, Duān-yàn bèi yù-wéi 'wén-fáng sì-bǎo', qiān-bǎi nián lái wèi Zhōng-guó wén-rén-mò-kè de shū-huà chuàng-zuò tí-gōng le zhì-zhēn-zhì-měi de méi-jiè zài-tǐ.)",
+          "translation": "Hu brush, Hui ink, Xuan paper, and Duan inkstone are acclaimed as the 'Four Treasures of the Study,' providing a consummate medium for the calligraphy and painting creations of Chinese literati for thousands of years."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "优质宣纸以其「纸寿千年、墨韵润泽」的卓越品质，成为中国水墨书画历经岁月沧桑仍能完好保存的关键。(Yōuzhì Xuānzhǐ yǐ qí 'zhǐ shòu qiānnián, mòyùn rùnzé' de zhuóyuè pǐnzhì, chéngwéi Zhōngguó shuǐmò shūhuà lìjīng suìyuè cāngsāng réng néng wánhǎo bǎocún de guānjiàn.)",
+          "reading": "[joʊ̯˥.ʈ͡ʂɨ˥˩ ɕɥɛn˥.ʈ͡ʂɨ˨˩˦ i˨˩˦ t͡ɕʰi˧˥ 'ʈ͡ʂɨ˨˩˦ ʂoʊ̯˥˩ t͡ɕʰjɛn˥.njɛn˧˥, mwo˥˩.yŋ˥˩ ʐwn˥˩.t͡sɤ˧˥' tɤ ʈ͡ʂwɔ˧˥.yɛ˥˩ pʰin˨˩.ʈ͡ʂɨ˥˩, ʈ͡ʂʰəŋ˧˥.weɪ̯˧˥ ʈ͡ʂʊŋ˥.kwo˧˥ ʂweɪ̯˨˩.mwo˥˩ ʂu˥.xwa˥˩ li˥˩.t͡ɕiŋ˥ sweɪ̯˥˩.yɛ˥˩ t͡sʰɑŋ˥.sɑŋ˥ ʐəŋ˧˥ nɤŋ˧˥ wan˧˥.xaʊ̯˨˩˦ paʊ̯˨˩.t͡sʰwn˧˥ tɤ kwan˥.t͡ɕjɛn˥] (Yōu-zhì Xuān-zhǐ yǐ qí 'zhǐ shòu qiān-nián, mò-yùn rùn-zé' de zhuó-yuè pǐn-zhì, chéng-wéi Zhōng-guó shuǐ-mò shū-huà lì-jīng suì-yuè cāng-sāng réng néng wán-hǎo bǎo-cún de guān-jiàn.)",
+          "translation": "High-quality Xuan paper, with its outstanding quality of 'living for a thousand years and lustrously retaining ink rhyme,' has become the key to Chinese ink calligraphy and paintings being perfectly preserved through the vicissitudes of time."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "篆刻艺术家在方寸印石之间运刀如笔，融合秦汉玺印古法与文人书法意趣，展现了金石交融的独特金石气象。(Zhuànkè yìshùjiā zài fāngcùn yìnshí zhījiān yùndāo rú bǐ, rónghé Qín-Hàn xǐyìn gǔfǎ yǔ wénrén shūfǎ yìqù, zhǎnxiàn le jīn-shí jiāoróng de dútè jīnshí qìxiàng.)",
+          "reading": "[ʈ͡ʂwan˥˩.kʰɤ˥˩ i˥˩.ʂu˥˩.t͡ɕja˥ t͡saɪ̯˥˩ fɑŋ˥.t͡sʰwn˥˩ in˥˩.ʂɨ˧˥ ʈ͡ʂɨ˥.t͡ɕjɛn˥ yn˥˩.taʊ̯˥ ʐu˧˥ pi˨˩˦, ʐʊŋ˧˥.xɤ˧˥ t͡ɕʰin˧˥-xan˥˩ ɕi˨˩.in˥˩ ku˨˩.fa˨˩˦ y˨˩˦ wən˧˥.ʐən˧˥ ʂu˥.fa˨˩˦ i˥˩.t͡ɕʰy˥˩, ʈ͡ʂan˨˩.ɕjɛn˥˩ lɤ t͡ɕin˥-ʂɨ˧˥ t͡ɕjaʊ̯˥.ʐʊŋ˧˥ tɤ tu˧˥.tʰɤ˥˩ t͡ɕin˥.ʂɨ˧˥ t͡ɕʰi˥˩.ɕjaŋ˥˩] (Zhuàn-kè yì-shù-jiā zài fāng-cùn yìn-shí zhī-jiān yùn-dāo rú bǐ, róng-hé Qín-Hàn xǐ-yìn gǔ-fǎ yǔ wén-rén shū-fǎ yì-qù, zhǎn-xiàn le jīn-shí jiāo-róng de dú-tè jīn-shí qì-xiàng.)",
+          "translation": "Seal carving artists wield knives like brushes on square inches of seal stone, blending the ancient methods of Qin-Han official seals with literati calligraphy taste, displaying a unique aesthetic presence of bronze and stone resonance."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "从景泰蓝的掐丝点蓝到宜兴紫砂的泥料手工成型，非遗工匠以一生择一事的专注精研，诠释了精益求精的中华匠心精神。(Cóng Jǐngtài lán de qiāsī-diǎnlán dào Yíxīng zǐshā de níliào shǒugōng chéngxíng, fēiyí gōngjiàng yǐ yīshēng zé yīshì de zhuānzhù jīngyán, quánshì le jīngyì-qiújīng de Zhōnghuá jiàngxīn jīngshén.)",
+          "reading": "[t͡sʰʊŋ˧˥ t͡ɕiŋ˨˩.tʰaɪ̯˥˩ lan˧˥ tɤ t͡ɕʰja˥.sɨ˥-tjan˨˩.lan˧˥ taʊ̯˥˩ i˧˥.ɕiŋ˥ t͡sɨ˨˩.ʂa˥ tɤ ni˧˥.ljaʊ̯˥˩ ʂoʊ̯˨˩.kʊŋ˥ ʈ͡ʂʰəŋ˧˥.ɕiŋ˧˥, feɪ̯˥.i˧˥ kʊŋ˥.t͡ɕjɑŋ˥˩ i˨˩˦ i˥.ʂəŋ˥ t͡sɤ˧˥ i˥.ʂɨ˥˩ tɤ ʈ͡ʂwan˥.ʈ͡ʂu˥˩ t͡ɕiŋ˥.jɛn˧˥, t͡ɕʰɥan˧˥.ʂɨ˥˩ lɤ t͡ɕiŋ˥.i˥˩-t͡ɕʰjoʊ̯˧˥.t͡ɕiŋ˥ tɤ ʈ͡ʂʊŋ˥.xwa˧˥ t͡ɕjɑŋ˥˩.ɕin˥ t͡ɕiŋ˥.ʂən˧˥] (Cóng Jǐng-tài lán de qiā-sī-diǎn-lán dào Yí-xīng zǐ-shā de ní-liào shǒu-gōng chéng-xíng, fēi-yí gōng-jiàng yǐ yī-shēng zé yī-shì de zhuān-zhù jīng-yán, quán-shì le jīng-yì-qiú-jīng de Zhōng-huá jiàng-xīn jīng-shén.)",
+          "translation": "From the filigree and enamel filling of Cloisonné to the hand-forming of clay in Yixing purple clay pottery, intangible cultural heritage artisans interpret the Chinese craftsman spirit of excellence through a lifetime dedicated to perfecting one craft."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "湖笔徽墨宣端砚，文房四宝雅名延；方寸篆刻金石韵，匠心独运照千年！"
+      ],
+      "culturalNotes": [
+        "宣纸的制作技艺极为复杂，需经上百道工序、历时数年方能制成，被联合国教科文组织列入人类非物质文化遗产代表作名录。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第4讲）的标准汉语规范？",
+          "prompt": "在中华文人传统中，「文房四宝」四大著名产地名品分别对应的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (27.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (27.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (27.4.w3)"
+            "湖笔、徽墨、宣纸、端砚 (Hu brush, Hui ink, Xuan paper, Duan inkstone)",
+            "铅笔、圆珠笔、白纸、橡皮",
+            "油画棒、水彩笔、白板、黑板",
+            "毛笔、打印机、复印纸、订书机"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「湖笔、徽墨、宣纸、端砚」代表了中国传统书斋文化中品质最高、底蕴最深厚的文房四宝代表名品。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "金石篆刻中，将印章文字刻成凹陷、蘸印泥盖出后印文呈现红底白字效果的刻法被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "白文 / 阴文 (White text / Intaglio: 凹陷刻除文字呈现红底留白)",
+            "朱文 / 阳文",
+            "雕版印刷",
+            "水墨晕染"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "印章刻法中，白文（阴文）刻去字画凹陷留下空白；朱文（阳文）保留凸起线条盖出红色文字。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的正式语境下，最准确得体的表达是哪一项？（第27.4题）",
+          "prompt": "在宣纸分类中，未经胶矾加工、吸水渗墨能力极强、最适合创作大写意水墨山水画的纸张类型是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (27.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (27.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (27.4.x3)"
+            "生宣 (Raw Xuan paper: 渗墨晕染效果极佳)",
+            "熟宣 (经胶矾加工不渗水)",
+            "报纸",
+            "砂纸"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "生宣吸水性与渗透性极佳，能产生极丰富的水墨晕染层次，是大写意画作的首选媒介。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u27-l4）所要求的高阶语言表达？",
+          "prompt": "形容非遗传承人一生执着专注、追求技艺达到极致完美的崇高职业精神的词语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (27.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (27.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (27.4.y3)"
+            "工匠精神 / 匠心独运 (Craftsman spirit / Ingenious craftsmanship)",
+            "偷工减料",
+            "粗制滥造",
+            "得过且过"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「工匠精神」（匠心独运）体现了中华民族精益求精、专注严谨、追求道技合一的卓越品质。"
         }
       ]
     },
@@ -16152,25 +16167,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的掌握程度，请选出表述完全正确的标准范句（测试 27-4）：",
+          "prompt": "请选出下列文房四宝、篆刻与传统工艺论述中阐发最精妙、内涵最丰富的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (27.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (27.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (27.4.z3)"
+            "湖笔、徽墨、宣纸与端砚共筑「文房四宝」千古风雅，宣纸纸寿千年、墨韵润泽，奠定水墨永恒载体；金石篆刻运铁笔于方寸之间，朱白交错中尽展秦汉金石气度；从景泰蓝之掐丝点蓝到紫砂之巧夺天工，中华匠人以一生择一事的专注，诠释了道技合一的崇高匠心精神！(文房四宝特性、金石篆刻阴阳朱白艺术、非遗工艺匠心精神融合论述精湛绝伦)",
+            "文房四宝就是四个写字工具，刻章就是路边刻橡皮图章，匠人就是普通工人干活。(语言极度轻蔑庸俗)",
+            "宣纸端砚被朱文白文在景泰蓝工匠精神。(词语生硬堆砌无逻辑)",
+            "生宣是指完全不吸水的防水纸，专门用来包食物。(完全颠倒生宣吸水渗化的物理特性)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将文房四宝的物态审美、金石篆刻的方寸气象与非遗大国工匠精神进行了全面、准确且高屋建瓴的阐发。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u27-l4）的核心关键词（例如「传统艺术」）：",
+          "prompt": "请输入产自安徽泾县、以「纸寿千年、润墨生辉」闻名中外的文房四宝名纸名称（拼音为 Xuānzhǐ）：",
           "acceptedAnswers": [
-            "传统艺术",
-            "传统艺术：戏",
-            "传统艺术：戏曲、国画与书法"
+            "宣纸"
           ],
-          "explanation": "正确的核心关键词为「传统艺术」。"
+          "explanation": "「宣纸」产于中国安徽省泾县，是中国水墨书画的最高等级专用纸张，享誉全球。"
         }
       ],
       "passThreshold": 0.8
@@ -16181,85 +16194,89 @@
     "subject": "mandarin",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy) (第5讲)",
+    "title": "国粹流芳、东方美学与中华艺术精神跨时空综合叙事篇章 (Comprehensive Traditional Chinese Arts Narrative: Essence of Oriental Aesthetics)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：京剧程式化表演（生旦净丑）、文人写意水墨画留白艺术、汉字书法五体演变。 (第5部分)。",
+    "objective": "融会贯通中国戏曲行当程式（生旦净丑/唱念做打）、文人水墨（气韵生动/墨分五色/计白当黑留白）、书法五体（篆隶楷行草/兰亭序/颜筋柳骨）与文房金石工艺，独立撰写辞藻华美、哲思深邃、具有高度东方美学鉴赏力的综合论述篇章。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是中华传统艺术美学的集大成终章，将戏曲、水墨、书法与文房金石熔铸于一体，展现了中华艺术超越物质形骸、直通天地精神的永恒魅力：\n\n一、中华传统艺术四大支柱美学体系精粹：\n1. 舞台时空（戏曲）：生旦净丑分行当，唱念做打见真章。「一桌二椅演尽千秋，三五步走行遍天下」，虚拟程式化表演将舞台假定性美学推至极致。\n2. 纸墨意境（国画）：南齐六法以「气韵生动」为宗，「墨分五色」兼纳干湿浓淡，「计白当黑」留白天地宽，诗书画印相得益彰。\n3. 线条风骨（书法）：甲金篆隶楷行草五体演进，「隶变」奠定方块汉字骨架；书圣王羲之《兰亭集序》行云流水，唐楷「颜筋柳骨」立千秋法度，狂草张旭怀素龙飞凤舞抒性灵。\n4. 案头匠心（金石工艺）：湖笔徽墨宣纸端砚铸就文房四宝，方寸印石铁笔丹心运乾坤，非遗大国工匠道技合一、精益求精。\n\n二、全景式中华传统艺术美学综合范文赏析：\n- 国粹流芳，文脉千载；东方美学，气象万千。回望华夏艺苑，戏曲以「生旦净丑」各展风采，融「唱念做打」于一身，一桌二椅幻化万千乾坤，三五台步走遍万里山河，尽显写意程式之绝妙；水墨丹青以谢赫六法「气韵生动」为极则，画家挥毫运「墨分五色」，更兼「计白当黑」之深邃留白，在无墨处造化空灵天地，融诗书画印于一纸；书法之美更以篆隶楷行草五体贯通千秋，「隶变」铸就方块汉字风骨，书圣羲之《兰亭集序》飘若浮云、矫若惊龙，「颜筋柳骨」刚正立则，颠狂草圣龙蛇飞动；更有文房四宝笔墨纸砚凝芳案头，方寸篆刻朱白相映见天地，非遗工匠一生择一事精雕细琢。戏曲之声腔、水墨之烟云、书法之风骨、工艺之匠心，共同构筑了中华传统艺术超凡脱俗的精神高地，在世界文明百花园中绽放出历久弥新的永恒华彩！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)' in simple terms to students at the academic seminar."
+          "target": "中国传统艺术融戏曲之程式、水墨之写意、书法之风骨与工艺之匠心于一炉，构筑了独树一帜的东方美学精神高地。(Zhōngguó chuántǒng yìshù róng xìqǔ zhī chéngshì, shuǐmò zhī xiěyì, shūfǎ zhī fēnggǔ yǔ gōngyì zhī jiàngxīn yú yī lú, gòuzhù le dúshù-yīzhì de dōngfāng měixué jīngshén gāodì.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwo˧˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥ i˥˩.ʂu˥˩ ʐʊŋ˧˥ ɕi˥˩.t͡ɕʰy˨˩˦ ʈ͡ʂɨ˥ ʈ͡ʂʰəŋ˧˥.ʂɨ˥˩, ʂweɪ̯˨˩.mwo˥˩ ʈ͡ʂɨ˥ ɕjɛ˨˩.i˥˩, ʂu˥.fa˨˩˦ ʈ͡ʂɨ˥ fəŋ˥.ku˨˩˦ y˨˩˦ kʊŋ˥.i˥˩ ʈ͡ʂɨ˥ t͡ɕjɑŋ˥˩.ɕin˥ y˨˩˦ i˥ lu˧˥, koʊ̯˥˩.ʈ͡ʂu˥˩ lɤ tu˧˥.ʂu˥˩-i˥.ʈ͡ʂɨ˥˩ tɤ tʊŋ˥.fɑŋ˥ meɪ̯˨˩.ɕɥɛ˧˥ t͡ɕiŋ˥.ʂən˧˥ kaʊ̯˥.ti˥˩] (Zhōng-guó chuán-tǒng yì-shù róng xì-qǔ zhī chéng-shì, shuǐ-mò zhī xiě-yì, shū-fǎ zhī fēng-gǔ yǔ gōng-yì zhī jiàng-xīn yú yī lú, gòu-zhù le dú-shù-yī-zhì de dōng-fāng měi-xué jīng-shén gāo-dì.)",
+          "translation": "Traditional Chinese arts integrate the stylization of opera, the freehand brushwork of ink painting, the structural strength of calligraphy, and the craftsmanship of applied arts into one furnace, constructing a unique spiritual highland of Oriental aesthetics."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "戏曲以「唱念做打」虚拟万千气象，水墨以「计白当黑」吞吐宇宙云烟，书法以「行云流水」挥洒性灵风骨，尽显天人合一之化境。(Xìqǔ yǐ 'chàng-niàn-zuò-dǎ' xūnǐ wànqiān qìxiàng, shuǐmò yǐ 'jì bái dāng hēi' tūntǔ yǔzhòu yūnyān, shūfǎ yǐ 'xíngyún-liúshuǐ' huīsǎ xìnglíng fēnggǔ, jìnxiǎn tiānrén-héyī zhī huàjìng.)",
+          "reading": "[ɕi˥˩.t͡ɕʰy˨˩˦ i˨˩˦ 'ʈ͡ʂʰɑŋ˥˩-njɛn˥˩-t͡swɔ˥˩-ta˨˩˦' ɕy˥.ni˨˩ wan˥˩.t͡ɕʰjɛn˥ t͡ɕʰi˥˩.ɕjaŋ˥˩, ʂweɪ̯˨˩.mwo˥˩ i˨˩˦ 't͡ɕi˥˩ paɪ̯˧˥ tɑŋ˥ xeɪ̯˥' tʰwn˥.tʰu˨˩˦ y˨˩.ʈ͡ʂoʊ̯˥ jyn˥.jɛn˥, ʂu˥.fa˨˩˦ i˨˩˦ 'ɕiŋ˧˥.jyn˧˥-ljoʊ̯˧˥.ʂweɪ̯˨˩˦' xweɪ̯˥.sa˨˩˦ ɕiŋ˥˩.liŋ˧˥ fəŋ˥.ku˨˩˦, t͡ɕin˥˩.ɕjan˨˩˦ tʰjɛn˥.ʐən˧˥-xɤ˧˥.i˥ ʈ͡ʂɨ˥ xwa˥˩.t͡ɕiŋ˥˩] (Xì-qǔ yǐ 'chàng-niàn-zuò-dǎ' xū-nǐ wàn-qiān qì-xiàng, shuǐ-mò yǐ 'jì bái dāng hēi' tūn-tǔ yǔ-zhòu yūn-yān, shū-fǎ yǐ 'xíng-yún-liú-shuǐ' huī-sǎ xìng-líng fēng-gǔ, jìn-xiǎn tiān-rén-hé-yī zhī huà-jìng.)",
+          "translation": "Opera visualizes myriad phenomena through 'singing, reciting, acting, and acrobatics,' ink wash breathes cosmic mist through 'regarding white as black,' and calligraphy expresses spiritual character through 'flowing clouds and moving water,' fully revealing the supreme realm of harmony between heaven and man."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "案头文房四宝墨香永驻，方寸金石印章朱白交辉，精绝非遗工艺承载着代代相传的中华匠人精魂。(Àntóu wénfáng sìbǎo mòxiāng yǒngzhù, fāngcùn jīnshí yìnzhāng zhū-bái jiāohuī, jīngjué fēiyí gōngyì chéngzài zhe dàidài-xiāngchuán de Zhōnghuá jiàngrén jīnghún.)",
+          "reading": "[an˥˩.tʰoʊ̯˧˥ wən˧˥.fɑŋ˧˥ sɨ˥˩.paʊ̯˨˩˦ mwo˥˩.ɕjɑŋ˥ jʊŋ˨˩.ʈ͡ʂu˥˩, fɑŋ˥.t͡sʰwn˥˩ t͡ɕin˥.ʂɨ˧˥ in˥˩.ʈ͡ʂɑŋ˥ ʈ͡ʂu˥-paɪ̯˧˥ t͡ɕjaʊ̯˥.xweɪ̯˥, t͡ɕiŋ˥.t͡ɕɥɛ˧˥ feɪ̯˥.i˧˥ kʊŋ˥.i˥˩ ʈ͡ʂʰəŋ˧˥.t͡saɪ̯˥˩ ʈ͡ʂɤ taɪ̯˥˩.taɪ̯˥˩-ɕjaŋ˥.t͡ʂʰwan˧˥ tɤ ʈ͡ʂʊŋ˥.xwa˧˥ t͡ɕjɑŋ˥˩.ʐən˧˥ t͡ɕiŋ˥.xwn˧˥] (Àn-tóu wén-fáng sì-bǎo mò-xiāng yǒng-zhù, fāng-cùn jīn-shí yìn-zhāng zhū-bái jiāo-huī, jīng-jué fēi-yí gōng-yì chéng-zài zhe dài-dài-xiāng-chuán de Zhōng-huá jiàng-rén jīng-hún.)",
+          "translation": "Ink fragrance permanently lingers over the Four Treasures on the study desk, vermilion and white intertwine in square-inch stone seals, and exquisite intangible craftsmanship carries the soul of Chinese artisans passed down through generations."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "守护与光大中华传统国粹艺术，让沉淀千年的东方美学在新时代焕发出更加璀璨夺目的世界性魅力！(Shǒuhù yǔ guāngdà Zhōnghuá chuántǒng guócuì yìshù, ràng chéndiàn qiānnián de dōngfāng měixué zài xīn shídài huànfā chū gèngjiā cuǐcàn duómù de shìjièxìng mèilì!)",
+          "reading": "[ʂoʊ̯˨˩.xu˥˩ y˨˩˦ kwaŋ˥.ta˥˩ ʈ͡ʂʊŋ˥.xwa˧˥ t͡ʂʰwan˧˥.tʰʊŋ˧˥ kwo˧˥.t͡sʰweɪ̯˥˩ i˥˩.ʂu˥˩, ʐɑŋ˥˩ t͡ʂʰən˧˥.tjɛn˥˩ t͡ɕʰjɛn˥.njɛn˧˥ tɤ tʊŋ˥.fɑŋ˥ meɪ̯˨˩.ɕɥɛ˧˥ t͡saɪ̯˥˩ ɕin˥ ʂɨ˧˥.taɪ̯˥˩ xwan˥˩.fa˥ t͡ʂʰu˥ kɤŋ˥˩.t͡ɕja˥ t͡sʰweɪ̯˨˩˦.t͡sʰan˥˩ twɔ˧˥.mu˥˩ tɤ ʂɨ˥˩.t͡ɕjɛ˥˩.ɕiŋ˥˩ meɪ̯˥˩.li˥˩] (Shǒu-hù yǔ guāng-dà Zhōng-huá chuán-tǒng guó-cuì yì-shù, ràng chén-diàn qiān-nián de dōng-fāng měi-xué zài xīn shí-dài huàn-fā chū gèng-jiā cuǐ-càn duó-mù de shì-jiè-xìng mèi-lì!)",
+          "translation": "Safeguarding and magnifying traditional Chinese national essence arts enables Oriental aesthetics, accumulated over millennia, to radiate even more dazzling global charm in the new era!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "戏曲水墨书法齐，东方美学立天梯；文房金石匠心照，国粹流芳展宏姿！"
+      ],
+      "culturalNotes": [
+        "东方艺术美学强调整体写意与内在神韵，不拘泥于外在物象之形似，将艺术创作视为涤荡心灵、体悟天道与修养人格的生命实践。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」（第5讲）的标准汉语规范？",
+          "prompt": "在中华传统国粹艺术综合体系中，将「戏曲舞台虚拟程式、水墨留白写意、书法线条风骨与文房金石匠心」融为一体的核心美学特质是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的核心语法法则与应用范例 (27.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (27.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (27.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (27.5.w3)"
+            "写意精神与虚实相生的东方美学意境 (Freehand spirit & Oriental aesthetic realm of void and solid)",
+            "照搬西方现代摄影技术",
+            "杂乱无章的随便涂抹",
+            "完全没有任何文化内涵的娱乐活动"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "写意精神与虚实相生、气韵生动构成了中国戏曲、国画、书法与金石工艺共同的美学灵魂。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "形容中华优秀传统艺术历经千百年岁月流逝依然散发浓郁芳香与强大生命力的成语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "国粹流芳 (The national essence radiates eternal fragrance)",
+            "过眼云烟",
+            "昙花一现",
+            "销声匿迹"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「国粹流芳」形容民族传统艺术精华历经岁月洗礼而流芳百世、长盛不衰。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的正式语境下，最准确得体的表达是哪一项？（第27.5题）",
+          "prompt": "请选出下列传统艺术综合评析中概括最精辟、辞藻最斐然的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (27.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (27.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (27.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (27.5.x3)"
+            "国粹流芳融会千秋：戏曲生旦净丑虚实写意，水墨气韵生动计白当黑，书法五体演进颜筋柳骨兰亭风流，文房四宝金石印章匠心独运。东方艺术以意构境、神形兼备，铸就了世界艺术之林不朽的璀璨丰碑！(戏曲、水墨、书法、文房金石融会贯通，全景概括中华美学精神)",
+            "中国传统艺术很多，戏曲很好听，水墨画很好看，毛笔字很漂亮。(语言苍白浅陋毫无艺术审美品味)",
+            "计白当黑被唱念做打在五体演变匠心独运。(概念生硬拼凑逻辑错乱)",
+            "写意水墨画不需要任何基本功只要乱泼墨就能成功。(完全曲解水墨画写意与笔墨法度的关系)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项将戏曲、水墨、书法、文房金石四大艺术支柱的美学精髓融会贯通，语言典雅博大。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u27-l5）所要求的高阶语言表达？",
+          "prompt": "在中国书画美学中，用来形容作品不仅形貌逼真更蕴含内在生动神韵的经典成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (27.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (27.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (27.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (27.5.y3)"
+            "神形兼备 (Possessing both exquisite external form and internal spirit)",
+            "画饼充饥",
+            "形式主义",
+            "空洞无物"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「神形兼备」是中国传统艺术批评的至高标准，要求艺术作品在外在形态与内在神采上达到完美统一。"
         }
       ]
     },
@@ -16267,25 +16284,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「传统艺术：戏曲、国画与书法 (Traditional Opera, Ink Painting & Calligraphy)」的掌握程度，请选出表述完全正确的标准范句（测试 27-5）：",
+          "prompt": "请选出下列中华传统国粹艺术精神与东方美学综合语篇中格局最宏大、品鉴最深邃、辞采最雅致的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (27.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (27.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (27.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (27.5.z3)"
+            "国粹流芳，气象万千。中国戏曲以生旦净丑与唱念做打运筹帷幄，一桌二椅演尽千秋沧桑；文人水墨以气韵生动为宗，墨分五色巧借计白当黑吞吐宇宙；书法五体由篆隶至真草，隶变化圆为方，羲之兰亭如行云流水，颜筋柳骨立千古风范；更有文房四宝墨香永驻，金石印章方寸乾坤，非遗工匠一生守一艺。东方艺术神形兼备、道技合一，在人类文明百花园中绽放永恒东方光彩！(戏曲水墨书法文房金石四大体系全景贯通，辞章华彩博大，东方美学精神淋漓尽致)",
+            "古代艺术包括唱戏、画画、写字和刻章，这些老东西现在大家还要继续看。(语言极度轻浮白俗)",
+            "国粹流芳被隶变在生旦净丑计白当黑。(词句断裂毫无语法逻辑)",
+            "传统戏曲必须废除唱念做打改成现代话剧才算进步。(恶意否定传统戏曲本体美学价值)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇全景融通戏曲程式、文人水墨、书法五体、文房四宝与金石匠心，论证严密，气魄雄浑，文辞典雅，堪称东方美学论述的极品之作。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u27-l5）的核心关键词（例如「传统艺术」）：",
+          "prompt": "请输入中国传统艺术批评中用来形容一件杰出艺术作品在外在形式与内在精神风貌上均达到至臻至美境界的核心四字成语（例如「」；拼音为 shén-xíng jiānbèi）：",
           "acceptedAnswers": [
-            "传统艺术",
-            "传统艺术：戏",
-            "传统艺术：戏曲、国画与书法"
+            "神形兼备"
           ],
-          "explanation": "正确的核心关键词为「传统艺术」。"
+          "explanation": "成语「神形兼备」是中国古代美学中衡量文学艺术作品达到形神统一最高境界的经典评语。"
         }
       ],
       "passThreshold": 0.8
