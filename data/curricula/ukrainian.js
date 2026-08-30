@@ -2125,53 +2125,62 @@
     "subject": "ukrainian",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "Знахідний відмінок неістот та істот (Accusative Case) (Part 1)",
+    "title": "Знахідний відмінок неістот чоловічого та середнього роду: прямий додаток та збіг із називним відмінком (Accusative Inanimate)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 5.1) with authentic linguistic precision.",
+    "objective": "Опанувати синтаксичну функцію знахідного відмінка неістот (кого? що?) як прямого додатка після перехідних дієслів та правило збігу з формою називного відмінка.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Знахідний відмінок (Accusative Case / кого? що?) означає об'єкт, на який безпосередньо спрямована дія (прямий додаток / Direct Object):\n\n1. Основне граматичне правило для неістот (Inanimate Nouns):\n- Для всіх іменників неістот чоловічого та середнього роду форма знахідного відмінка повністю ЗБІГАЄТЬСЯ з формою називного відмінка (Accusative = Nominative).\n\n2. Чоловічий рід (неістоти):\n- «Називний: стіл / підручник / поїзд» -> «Знахідний: Я бачу стіл / підручник / поїзд».\n- «Я купую свіжий хліб і запашний чай».\n\n3. Середній рід (усі іменники):\n- «Називний: вікно / місто / море / завдання» -> «Знахідний: Ми любимо рідне місто, бачимо синє море та виконуємо домашнє завдання».\n\n4. Перехідні дієслова, що вимагають знахідного відмінка без прийменника:\n- «Бачити», «читати», «писати», «купувати», «слухати», «любити», «розуміти», «знати».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Щоранку я купую свіжий хліб, смачне масло та запашну каву.",
+          "reading": "[ʃtʃɔˈrɑŋku jɑ kuˈpuju ˈsʲwʲiʒɪj xlʲib, smɐtʃˈnɛ ˈmɑslɔ tɑ zɐpɐʃˈnu ˈkɑwu] (shchoh-RAHN-koo yah koo-POO-yoo SVEE-zhyi khleeb, smahch-NEH MAHS-loh tah zah-pahsh-NOO KAH-voo)",
+          "translation": "Every morning I buy fresh bread, delicious butter, and aromatic coffee."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 5-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Туристи із захопленням оглядають старовинний львівський замок і величний собор.",
+          "reading": "[tuˈrɪstɪ iz zɐxɔpˈlɛnʲːɐm ɔɦlʲɑˈdɑjutʲ stɐrɔˈwɪnːɪj ˈlʲwʲiwskɪj ˈzɑmɔk i wɛˈlɪtʃnɪj sɔˈbɔr] (too-RYS-ty eez zah-khohp-LEN-nyahm oh-hlyah-DAH-yoot' stah-roh-VYN-nyi LVEEV-s'kyi ZAH-mohk ee veh-LYCH-nyi soh-BOHR)",
+          "translation": "Tourists admire the ancient Lviv castle and majestic cathedral with delight."
+        },
+        {
+          "target": "Ми уважно слухаємо цікаве радіо та дивимося новий документальний фільм.",
+          "reading": "[mɪ uˈwɑʒnɔ ˈsluxɑjɛmɔ t͡sʲiˈkɑwɛ ˈrɑdʲiɔ tɑ ˈdɪwɪmɔsʲɑ nɔˈwɪj dɔkumɛnˈtɑlʲnɪj fʲilʲm] (my oo-VAHZH-noh SLOO-khah-yeh-moh tsee-KAH-veh RAH-dee-oh tah DY-vy-mohs-yah noh-VYI doh-koo-men-TAHL'-nyi feel'm)",
+          "translation": "We attentively listen to interesting radio and watch a new documentary film."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Стіл і замок, місто й море — у знахіднім без змін стоять у розмові!"
+      ],
+      "culturalNotes": [
+        "В українській мові прямий додаток без прийменника при перехідних дієсловах завжди маркує конкретність об'єкта, на відміну від родового відмінка при запереченні або частковості."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Автобус\":",
+          "prompt": "Оберіть речення, в якому іменник середнього роду вжито у формі знахідного відмінка без зміни форми:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.1.",
-            "Неправильне відмінкове узгодження зі словом «Поїзд»",
-            "Порушення законів евфонії та словотворення для «Літак»",
-            "Стилістично некоректна синтаксична конструкція з «Метро»"
+            "Я щовечора відчиняю вікно, щоб провітрити кімнату. (Accusative neuter inanimate)",
+            "Я щовечора відчиняю вікна для протягу.",
+            "Я щовечора біля вікна сиджу.",
+            "Я щовечора у вікні бачу місяць."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменник середнього роду «вікно» виступає прямим додатком після перехідного дієслова «відчиняю» і збігається з називним відмінком."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Автобус\":",
+          "prompt": "Як змінюється форма іменника чоловічого роду неістоти «комп'ютер» у знахідному відмінку однини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.1.",
-            "Порушення законів евфонії та словотворення для «Літак»",
-            "Стилістично некоректна синтаксична конструкція з «Метро»",
-            "Неправильне відмінкове узгодження зі словом «Поїзд»"
+            "Залишається незмінною: Я вмикаю комп'ютер (Accusative = Nominative for inanimate masculine)",
+            "Набуває закінчення -а: комп'ютера",
+            "Набуває закінчення -у: комп'ютеру",
+            "Набуває закінчення -ом: комп'ютером"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Для неістот чоловічого роду знахідний відмінок збігається з називним: «купую комп'ютер»."
         }
       ]
     },
@@ -2179,17 +2188,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Автобус\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де всі прямі додатки є неістотами у знахідному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.1.",
-            "Стилістично некоректна синтаксична конструкція з «Метро»",
-            "Неправильне відмінкове узгодження зі словом «Поїзд»",
-            "Порушення законів евфонії та словотворення для «Літак»"
+            "Учень читає підручник, пише конспект та малює плакат.",
+            "Учень читає студента, пише викладача та малює друга.",
+            "Учень від підручника пише конспектом для плаката.",
+            "Учень підручнику пише конспекту на плакаті."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Слова «підручник», «конспект», «плакат» — неістоти чоловічого роду у знахідному відмінку (збігаються з називним)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u5-l2": {
@@ -2197,53 +2207,62 @@
     "subject": "ukrainian",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "Знахідний відмінок неістот та істот (Accusative Case) (Part 2)",
+    "title": "Знахідний відмінок іменників жіночого роду: закінчення -у / -ю та нульове закінчення III відміни (Accusative Feminine)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 5.2) with authentic linguistic precision.",
+    "objective": "Опанувати творення знахідного відмінка жіночого роду (тверда основа на -у, м'яка основа на -ю, незмінні форми III відміни на приголосний).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Іменники жіночого роду в знахідному відмінку завжди чітко змінюють своє закінчення (за винятком III відміни):\n\n1. Тверда група (іменники на «-а») -> закінчення «-у»:\n- «Книга -> читаю книгу»\n- «Кава -> п'ю каву»\n- «Вода -> п'ю воду»\n- «Україна -> люблю Україну»\n- «Мова -> вивчаю українську мову»\n- «Мама -> цілую маму»\n\n2. М'яка та мішана групи (іменники на «-я») -> закінчення «-ю»:\n- «Пісня -> співаю пісню»\n- «Земля -> обробляю землю»\n- «Стаття -> пишу наукову статтю»\n- «Надія -> маю щиру надію»\n- «Бабуся -> обіймаю бабусю»\n\n3. Іменники III відміни (жіночий рід з основою на приголосний):\n- Збігаються з називним відмінком: «ніч -> люблю тиху ніч», «радість -> відчуваю радість», «любов -> дарую любов».\n\n4. Узгодження прикметників жіночого роду:\n- Прикметники жіночого роду набувають закінчення «-у» (тверда група) або «-ю» (м'яка група): «смачн-у каву», «нов-у сукню», «син-ю хустку».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я щиро люблю свою рідну Україну та її багату співучу мову.",
+          "reading": "[jɑ ˈʃtʃirɔ lʲubˈlʲu swɔˈju ˈrʲidnu ukrɐˈjinu tɑ jiji bɐˈɦɑtu sʲpʲiˈwutʃu ˈmɔwu] (yah SHCHEE-roh lyoo-BLYOO svoh-YOO REED-noo oo-krah-YEE-noo tah yee-YEE bah-HAH-too spee-VOO-choo MOH-voo)",
+          "translation": "I sincerely love my native Ukraine and its rich, melodic language."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 5-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Оксана читає нову наукову статтю та уважно аналізує кожну сторінку.",
+          "reading": "[ɔkˈsɑnɐ tʃɪˈtɑjɛ nɔˈwu nɐuˈkɔwu stɐtʲˈtʲu tɑ uˈwɑʒnɔ ɐnɐlʲiˈzujɛ ˈkɔʒnu stɔˈrʲinku] (ohk-SAH-nah chy-TAH-yeh noh-VOO nah-oo-KOH-voo staht-TYOO tah oo-VAHZH-noh ah-nah-lee-ZOO-yeh KOHZH-noo stoh-REEN-koo)",
+          "translation": "Oksana reads a new scientific article and attentively analyzes every page."
+        },
+        {
+          "target": "Ми відчуваємо безмежну радість і щиру любов у родинному колі.",
+          "reading": "[mɪ wʲidtʃuˈwɑjɛmɔ bɛzˈmɛʒnu ˈrɑdʲisʲtʲ i ˈʃtʃiru lʲuˈbɔw u rɔˈdɪnːɔmu ˈkɔlʲi] (my veed-choo-VAH-yeh-moh bez-MEZH-noo RAH-deest' ee SHCHEE-roo lyoo-BOV oo roh-DYN-noh-moo KOH-lee)",
+          "translation": "We feel boundless joy and sincere love in the family circle."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Буква «-а» на «-у» збігає, буква «-я» на «-ю» лунає: бачу пісню, пий кавусю — все у знахіднім я пізнаю!"
+      ],
+      "culturalNotes": [
+        "Фраза «Я люблю Україну!» зі знахідним відмінком слова «Україна» є найважливішим виявом національної гідності та патріотизму для кожного українця."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Поїзд\":",
+          "prompt": "Поставте слово «книга» у форму знахідного відмінка однини в реченні «Я читаю цікаву ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.2.",
-            "Неправильне відмінкове узгодження зі словом «Літак»",
-            "Порушення законів евфонії та словотворення для «Метро»",
-            "Стилістично некоректна синтаксична конструкція з «Квиток»"
+            "Книгу (Accusative feminine in -u)",
+            "Книги",
+            "Книзі",
+            "Книгою"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Іменник жіночого роду твердої групи «книга» у знахідному відмінку набуває закінчення «-у»: «читаю цікаву книгу»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Поїзд\":",
+          "prompt": "Яке закінчення матиме іменник «пісня» у знахідному відмінку однини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.2.",
-            "Порушення законів евфонії та словотворення для «Метро»",
-            "Стилістично некоректна синтаксична конструкція з «Квиток»",
-            "Неправильне відмінкове узгодження зі словом «Літак»"
+            "Закінчення -ю: співаю пісню (Feminine soft stem in -ia takes -iu)",
+            "Закінчення -у: співаю пісну",
+            "Закінчення -і: співаю пісні",
+            "Закінчення -е: співаю пісне"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменники жіночого роду м'якої групи на «-я» у знахідному відмінку мають закінчення «-ю»: «пісню»."
         }
       ]
     },
@@ -2251,17 +2270,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Поїзд\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому всі іменники та прикметники жіночого роду правильно вжиті у знахідному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.2.",
-            "Стилістично некоректна синтаксична конструкція з «Квиток»",
-            "Неправильне відмінкове узгодження зі словом «Літак»",
-            "Порушення законів евфонії та словотворення для «Метро»"
+            "Вранці ми п'ємо гарячу запашну каву та слухаємо гарну українську пісню.",
+            "Вранці ми п'ємо гаряча запашна кава та слухаємо гарна українська пісня.",
+            "Вранці ми п'ємо гарячої запашної кави та слухаємо гарній українській пісні.",
+            "Вранці ми п'ємо гарячим запашним кавом та слухаємо гарним українським піснем."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Гарячу запашну каву» та «гарну українську пісню» — бездоганні форми знахідного відмінка жіночого роду з узгодженими прикметниками."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u5-l3": {
@@ -2269,53 +2289,62 @@
     "subject": "ukrainian",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "Знахідний відмінок неістот та істот (Accusative Case) (Part 3)",
+    "title": "Знахідний відмінок істот чоловічого роду: категорія істоти та збіг із родовим відмінком (-а / -я) (Accusative Animate Masculine)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 5.3) with authentic linguistic precision.",
+    "objective": "Опанувати граматичну категорію істот чоловічого роду в знахідному відмінку та правило збігу з родовим відмінком (Accusative = Genitive).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові діє фундаментальна граматична опозиція між істотами (люди, тварини) та неістотами (предмети, явища):\n\n1. Правило для істот чоловічого роду (Animate Masculine Nouns):\n- Форма знахідного відмінка іменників-істот чоловічого роду повністю ЗБІГАЄТЬСЯ з формою родового відмінка (Accusative = Genitive):\n  • Тверда основа -> закінчення «-а»: «брат -> бачу брата», «студент -> запитую студента», «друг -> зустрічаю друга», «кіт -> годую кота», «пес -> кличу пса».\n  • М'яка основа -> закінчення «-я»: «вчитель -> слухаю вчителя», «лікар -> відвідую лікаря», «Андрій -> знаю Андрія», «хлопець -> бачу хлопця».\n\n2. Контрастне порівняння істота vs неістота:\n- Неістота (Accusative = Nominative): «Я бачу новий стіл / тролейбус / телефон».\n- Істота (Accusative = Genitive): «Я бачу нового студента / викладача / лікаря».\n\n3. Узгодження прикметників для істот:\n- Прикметники чоловічого роду при іменниках-істотах також набувають форми родового відмінка: «-ого» / «-ього» («бачу добр-ого друга», «знаю син-ього птаха»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "В університеті я зустрів свого давнього друга та мудрого викладача.",
+          "reading": "[w unʲiwɛrsɪˈtɛtʲi jɑ zusˈtrʲiw swɔˈjɔɦɔ ˈdɑwnʲɔɦɔ ˈdruɦɑ tɑ ˈmudrɔɦɔ wɪklɐdɐˈtʃɑ] (v oo-nee-ver-sy-TEH-tee yah zoo-STREEV svoh-YOH-hoh DAHV-n'oh-hoh DROO-hah tah MOO-droh-hoh vy-klah-dah-CHAH)",
+          "translation": "At the university I met my old friend and a wise lecturer."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 5-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Маленький хлопчик лагідно гладить пухнастого кота та вірного собаку.",
+          "reading": "[mɐˈlɛnʲkɪj ˈxlɔptʃɪk ˈlɑɦʲidnɔ ˈɦlɑdʲitʲ puxˈnɑstɔɦɔ kɔˈtɑ tɑ ˈwʲirnɔɦɔ sɔˈbɑku] (mah-LEN'-kyi KLOHP-chyk LAH-heed-noh HLAH-deet' pookh-NAHS-toh-hoh koh-TAH tah VEER-noh-hoh soh-BAH-koo)",
+          "translation": "The little boy gently pets the fluffy cat and faithful dog."
+        },
+        {
+          "target": "Ми щодня бачимо талановитого лікаря в сучасній міській лікарні.",
+          "reading": "[mɪ ʃtʃɔdʲˈnʲɑ ˈbɑtʃɪmɔ tɐlɐnɔˈwɪtɔɦɔ ˈlʲikɐrʲɑ w suˈtʃɑsnʲij mʲisʲˈkʲij ˈlʲikɐrnʲi] (my shchohd-NYAH BAH-chy-moh tah-lah-noh-VY-toh-hoh LEE-kahr-yah v soo-CHAHS-neey mees'-KEEY lee-KAHR-nee)",
+          "translation": "Every day we see the talented doctor in the modern municipal hospital."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Якщо істота — звук «-а» чи «-я» додай, форму родового для знахідного відкривай!"
+      ],
+      "culturalNotes": [
+        "Розрізнення істот і неістот у знахідному відмінку є прадавньою категорією слов'янської мовної картини світу, що ставить людину і живу природу в особливий граматичний статус."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Літак\":",
+          "prompt": "Оберіть речення, в якому іменник-істота чоловічого роду правильно вжитий у знахідному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.3.",
-            "Неправильне відмінкове узгодження зі словом «Метро»",
-            "Порушення законів евфонії та словотворення для «Квиток»",
-            "Стилістично некоректна синтаксична конструкція з «Вокзал»"
+            "Я бачу свого рідного брата біля входу в театр. (Animate masculine Accusative = Genitive)",
+            "Я бачу свій рідний брат біля входу в театр.",
+            "Я бачу своєму рідному брату біля входу в театр.",
+            "Я бачу своїм рідним братом біля входу в театр."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Слово «брат» є істотою, тому в знахідному відмінку має форму родового відмінка: «бачу брата»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Літак\":",
+          "prompt": "У якому варіанті правильно протиставлено неістоту та істоту в знахідному відмінку?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.3.",
-            "Порушення законів евфонії та словотворення для «Квиток»",
-            "Стилістично некоректна синтаксична конструкція з «Вокзал»",
-            "Неправильне відмінкове узгодження зі словом «Метро»"
+            "Купую журнал (неістота) — чекаю журналіста (істота) (Inanimate = Nom, Animate = Gen)",
+            "Купую журнала — чекаю журналіст",
+            "Купую журналом — чекаю журналістом",
+            "Купую журналі — чекаю журналісті"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Неістота збігається з називним («журнал»), а істота має закінчення -а («журналіста»)."
         }
       ]
     },
@@ -2323,17 +2352,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Літак\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де допущено помилку у формі знахідного відмінка іменника-істоти:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.3.",
-            "Стилістично некоректна синтаксична конструкція з «Вокзал»",
-            "Неправильне відмінкове узгодження зі словом «Метро»",
-            "Порушення законів евфонії та словотворення для «Квиток»"
+            "Студенти поважають свій викладач за високий професіоналізм.",
+            "Студенти поважають свого викладача за високий професіоналізм.",
+            "Ми запрошуємо відомого письменника на творчу зустріч.",
+            "Діти годують маленького кошеня і песика."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Іменник «викладач» є істотою чоловічого роду, тому у знахідному відмінку вимагає форми «свого викладача» замість «свій викладач»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u5-l4": {
@@ -2341,53 +2371,62 @@
     "subject": "ukrainian",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "Знахідний відмінок неістот та істот (Accusative Case) (Part 4)",
+    "title": "Знахідний відмінок особових займенників: безприйменникові форми та форми з початковим «н-» (Accusative Pronouns)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 5.4) with authentic linguistic precision.",
+    "objective": "Опанувати відмінювання особових займенників у знахідному відмінку (мене, тебе, його/нього, її/неї, нас, вас, їх/них) та появу приставного звука [н] після прийменників.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Особові займенники у знахідному відмінку виступають прямими додатками або об'єктами прийменникового керування:\n\n1. Парадигма особових займенників у знахідному відмінку:\n- Я -> мене («Ти чуєш мене?»)\n- Ти -> тебе («Я люблю тебе!»)\n- Він -> його / після прийменника: на нього, про нього, через нього\n- Вона -> її / після прийменника: на неї, про неї, крізь неї\n- Воно -> його / після прийменника: на нього\n- Ми -> нас («Вони запрошують нас у гості»)\n- Ви -> вас («Ми щиро вітаємо вас!»)\n- Вони -> їх / після прийменника: на них, про них, крізь них\n\n2. Фонетичне правило появи приставного «н-»:\n- Після будь-якого просторового чи граматичного прийменника (в, на, за, про, через) форми 3-ї особи (він, вона, воно, вони) ОБОВ'ЯЗКОВО отримують початковий приголосний [н]: «на нього», «про неї», «крізь них».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Я щиро дякую вам за допомогу і з нетерпінням чекаю на вас.",
+          "reading": "[jɑ ˈʃtʃirɔ ˈdʲɑkuju wɑm zɑ dɔpɔˈmɔɦu i z nɛtɛrˈpʲinʲːɐm tʃɛˈkɑju nɑ wɑs] (yah SHCHEE-roh DYAH-koo-yoo vahm zah doh-poh-MOH-hoo ee z neh-ter-PEEN-nyahm cheh-KAH-yoo nah vahs)",
+          "translation": "I sincerely thank you for the help and eagerly look forward to seeing you."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 5-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Він уважно дивиться на неї та слухає кожне її слово.",
+          "reading": "[wʲin uˈwɑʒnɔ ˈdɪwɪt͡sʲːɑ nɑ ˈnɛji tɑ ˈsluxɑjɛ ˈkɔʒnɛ jiji ˈslɔwɔ] (VEEN oo-VAHZH-noh DY-vyt-syah nah NEH-yee tah SLOO-khah-yeh KOHZH-neh yee-YEE SLOH-voh)",
+          "translation": "He looks at her attentively and listens to her every word."
+        },
+        {
+          "target": "Ми добре знаємо їх і часто запрошуємо на наші родинні свята.",
+          "reading": "[mɪ ˈdɔbrɛ znɑˈjɛmɔ jix i ˈtʃɑstɔ zɐprɔˈʃujɛmɔ nɑ ˈnɑʃi rɔˈdɪnːi ˈsʲwʲɑtɐ] (my DOH-breh znah-YEH-moh yeekh ee CHAHS-toh zah-proh-SHOO-yeh-moh nah NAH-shee roh-DYN-nee SVYAH-tah)",
+          "translation": "We know them well and often invite them to our family celebrations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Мене й тебе, нас і вас — знахідний кличе повсякчас; З прийменником приставне «н-» не забувай: на нього й на неї поглядай!"
+      ],
+      "culturalNotes": [
+        "Вживання форм із приставним [н] («на нього», «через неї») є найважливішою рисою правильної української мовної культури, що запобігає калькуванню."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Метро\":",
+          "prompt": "Оберіть правильну форму займенника 3-ї особи чоловічого роду з прийменником «на» у знахідному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.4.",
-            "Неправильне відмінкове узгодження зі словом «Квиток»",
-            "Порушення законів евфонії та словотворення для «Вокзал»",
-            "Стилістично некоректна синтаксична конструкція з «Аеропорт»"
+            "Дивлюся на нього (Accusative 3rd person with prepositional n-)",
+            "Дивлюся на його",
+            "Дивлюся на йому",
+            "Дивлюся на нім"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Після прийменника займенник 3-ї особи обов'язково набуває початкового приставного «н»: «на нього»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Метро\":",
+          "prompt": "Поставте займенник «ти» у форму знахідного відмінка у виразі «Я чудово розумію ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.4.",
-            "Порушення законів евфонії та словотворення для «Вокзал»",
-            "Стилістично некоректна синтаксична конструкція з «Аеропорт»",
-            "Неправильне відмінкове узгодження зі словом «Квиток»"
+            "Тебе (I understand you - Accusative)",
+            "Тобі",
+            "Тобою",
+            "Ти"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Займенник «ти» у знахідному відмінку має форму «тебе»."
         }
       ]
     },
@@ -2395,17 +2434,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Метро\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де особові займенники у знахідному відмінку вжиті граматично правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.4.",
-            "Стилістично некоректна синтаксична конструкція з «Аеропорт»",
-            "Неправильне відмінкове узгодження зі словом «Квиток»",
-            "Порушення законів евфонії та словотворення для «Вокзал»"
+            "Викладач запитує мене, а я уважно слухаю його та дивлюся на нього.",
+            "Викладач запитує мені, а я уважно слухаю його та дивлюся на його.",
+            "Викладач запитує мною, а я уважно слухаю йому та дивлюся на ньому.",
+            "Викладач запитує я, а я уважно слухаю він та дивлюся на він."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Запитує мене» (прямий додаток), «слухаю його» (без прийменника), «дивлюся на нього» (з прийменником і приставним н-) — бездоганні форми."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u5-l5": {
@@ -2413,53 +2453,62 @@
     "subject": "ukrainian",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "Знахідний відмінок неістот та істот (Accusative Case) (Part 5)",
+    "title": "Знахідний відмінок із просторовими прийменниками напрямку та руху: «в/у», «на», «за», «крізь», «через» (Accusative of Motion)",
     "level": "A1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 5.5) with authentic linguistic precision.",
+    "objective": "Опанувати вживання знахідного відмінка з прийменниками в/у, на, за, крізь, через для позначення мети й напрямку руху (Куди?) на противагу місцевому відмінку (Де?).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Знахідний відмінок відповідає на питання «Куди?» (Direction / Destination) при дієсловах руху (йти, їхати, бігти, летіти, прямувати):\n\n1. Прийменники «в / у» та «на» з питанням «Куди?» (Знахідний відмінок):\n- «У місто / в університет / у Львів / в Україну» (напрямок усередину).\n- «На виставку / на концерт / на вокзал / на площу» (напрямок на відкриту площину або захід).\n\n2. Диференціація «Куди? (Знахідний)» vs «Де? (Місцевий)»:\n- Знахідний (рух, динаміка): «Я йду в парк / на пошту».\n- Місцевий (знаходження, статика): «Я гуляю в парку / на пошті».\n\n3. Прийменники «через» та «крізь»:\n- «Через»: подолання перешкоди чи простору («переходити через вулицю», «їхати через міст»).\n- «Крізь»: рух крізь товщу («пробиватися крізь туман», «дивитися крізь вікно»).\n\n4. Прийменник «за» (рух за межі або по щось):\n- «Сонце сідає за обрій», «іти за хлібом (Орудний)» vs «зайти за ріг (Знахідний)».\n\n5. Закони евфонії прийменників «в / у»:\n- «Їдемо в Одесу» (після голосного перед голосним) vs «Ідемо у Львів» (між приголосними).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Завтра вранці ми вирушаємо в Київ на всеукраїнську наукову конференцію.",
+          "reading": "[ˈzɑwtrɐ ˈwrɑnt͡sʲi mɪ wɪruˈʃɑjɛmɔ w ˈkɪjiw nɑ wsɛukrɐˈjinʲsʲku nɐuˈkɔwu kɔnfɛˈrɛntsʲiju] (ZAHV-trah VRAHN-tsee my vy-roo-SHAH-yeh-moh v KY-yeev nah vseh-oo-krah-YEEN-s'koo nah-oo-KOH-voo kohn-feh-REN-tsee-yoo)",
+          "translation": "Tomorrow morning we set out to Kyiv for the all-Ukrainian scientific conference."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 5-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Пішоходи безпечно переходять через широку вулицю по зеленому переходу.",
+          "reading": "[pʲiʃɔˈxɔdɪ bɛzˈpɛtʃnɔ pɛrɛˈxɔdʲɑtʲ ˈtʃɛrɛz ʃɪˈrɔku ˈwulɪt͡sʲu pɔ zɛˈlɛnɔmu pɛrɛˈxɔdu] (pee-shoh-KHOH-dy bez-PEHCH-noh peh-reh-KHOHD-yaht' CHEH-rez shy-ROH-koo VOO-ly-tsoo poh zeh-LEH-noh-moo peh-reh-KHOH-doo)",
+          "translation": "Pedestrians safely cross the wide street at the green crosswalk."
+        },
+        {
+          "target": "Яскраве сонячне проміння пробивається крізь густі хмари.",
+          "reading": "[jɐsˈkrɑwɛ ˈsɔnʲɑtʃnɛ prɔˈmʲinʲːɑ prɔbɪˈwɑjɛt͡sʲːɑ krʲizʲ husʲˈtʲi ˈxmɑrɪ] (yahs-KRAH-veh SOH-nyahch-neh proh-MEEN-nyah proh-by-VAH-yet-syah kreez' hoos-TEE KHMAH-ry)",
+          "translation": "Bright sunlight breaks through the dense clouds."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Куди?» — у місто, на вокзал, через річку і місток; Знахідний напрямку покаже кожен крок!"
+      ],
+      "culturalNotes": [
+        "Вживання конструкції «в Україну» (замість застарілої та ідеологічно маркованої колоніальної конструкції з «на») є суворою державною та академічною нормою сучасної української мови."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Квиток\":",
+          "prompt": "Оберіть речення, де прийменник зі знахідним відмінком позначає напрямок руху (питання «Куди?»):",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.5.",
-            "Неправильне відмінкове узгодження зі словом «Вокзал»",
-            "Порушення законів евфонії та словотворення для «Аеропорт»",
-            "Стилістично некоректна синтаксична конструкція з «Вулиця»"
+            "Ми поспішаємо на цікаву лекцію в головний корпус університету. (Motion towards: Accusative)",
+            "Ми сидимо на цікавій лекції в головному корпусі.",
+            "Ми говорили про цікаву лекцію вчора.",
+            "Ми задоволені цікавою лекцією сьогодні."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Конструкція «поспішаємо на лекцію в корпус» відповідає на питання «Куди?» і вимагає знахідного відмінка."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Квиток\":",
+          "prompt": "Який прийменник найкраще підходить для позначення подолання перешкоди в реченні «Ми їдемо ... міст через Дніпро»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.5.",
-            "Порушення законів евфонії та словотворення для «Аеропорт»",
-            "Стилістично некоректна синтаксична конструкція з «Вулиця»",
-            "Неправильне відмінкове узгодження зі словом «Вокзал»"
+            "Через (Through/across + Accusative)",
+            "У",
+            "На",
+            "При"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Прийменник «через» зі знахідним відмінком позначає рух крізь простір або подолання мосту / річки: «через міст»."
         }
       ]
     },
@@ -2467,17 +2516,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Квиток\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому дотримано правил української мови щодо позначення напрямку поїздки до суверенної держави:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 5.5.",
-            "Стилістично некоректна синтаксична конструкція з «Вулиця»",
-            "Неправильне відмінкове узгодження зі словом «Вокзал»",
-            "Порушення законів евфонії та словотворення для «Аеропорт»"
+            "Міжнародна делегація з офіційним візитом прибуває в Україну.",
+            "Міжнародна делегація з офіційним візитом прибуває на Україну.",
+            "Міжнародна делегація з офіційним візитом прибуває до Україні.",
+            "Міжнародна делегація з офіційним візитом прибуває у Україною."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Нормативною формою для позначення напрямку руху до суверенної держави Україна є «в Україну» (знахідний відмінок з прийменником в)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u6-l1": {
