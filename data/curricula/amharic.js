@@ -9039,85 +9039,62 @@
     "subject": "amharic",
     "unit": 20,
     "lessonNumber": 1,
-    "title": "ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice) (ክፍል 1)",
+    "title": "የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voice Morphology & Syntax)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተገብሮ ግስ አወቃቀር (ተ- ቅጥያ)، በዜና እና በጽሑፍ ውስጥ ድርጊትን ማጉላት። (ክፍል 1)።",
+    "objective": "ተገብሮ ግስን በተለያዩ የጊዜና የድርጊት ክፍሎች (ኃላፊ፣ ኃላፊ-ቀጣይ፣ ዘንድ፣ ንዑስ አንቀጽ) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የተገብሮ ግስ አወቃቀርና የጊዜ እርባታዎች (Passive Forms Across Tenses):\n\n፩. የኃላፊ ጊዜ ተገብሮ (Past Passive):\n- ተ- + ስርወ-ግስ: ተጻፈ (was written)፣ ተሰራ (was built/made)፣ ተዘጋጀ (was prepared)።\n\n፪. የወደፊት እና የአሁን ቀጣይ ተገብሮ (Present/Future & Continuous Passive):\n- ይጻፋል (it will be / is written)፣ ይሰራል (it will be built)።\n- እየተጻፈ ነው (it is being written)፣ እየተሰራ ነው (it is being constructed)።\n\n፫. የፍጻሜ ጊዜ ተገብሮ (Perfect / Gerundive Passive):\n- ተጽፏል (it has been written)፣ ተሰርቷል (it has been built/done)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)' to the students."
+          "target": "አዲሱ የጤና ጣቢያ በዘመናዊ የህክምና መሣሪያዎች ተሟልቶ ለህዝብ አገልግሎት እየተሰጠበት ነው።",
+          "reading": "Addisu yät’ena t’abiya bäzämänawi yähəkkəmənna mässariyawočč tämwalto lähəzb agäglot əyyätässätt’äbät näw. [ʔadːiˈsu jɛtʼeˈna tʼabiˈja bɛzɛmɛnaˈwi jɛhɨkːɨmɨnːa mɛsːarijaˈwotʃː tɛmʷalˈto ləhɨzb ʔaɡɛɡˈlot ʔɨjːɛtɛsːɛtʼːɛˈbɛt nɛw] (ahd-dee-SOO yeh-t'ay-NAH t'ah-bee-YAH beh-zeh-meh-nah-WEE yeh-huk-kuh-mun-NAH mes-sah-ree-yah-WOHCH tem-wahl-TOH luh-huz-B ah-geg-LOHT uy-yeh-tes-set'-t'eh-BET new)",
+          "translation": "The new health station has been fulfilled with modern medical equipment and service is being given to the public."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ይህ ጥናታዊ ጽሑፍ በታዋቂ ፕሮፌሰሮች ተገምግሞ በዓለም አቀፍ ጆርናል ላይ ታተመ።",
+          "reading": "Yəh t’ənatawi ts’əhuf bätawaqi pirofesäročč tägämgəmo bä'aläm aqäf ğornal lay tattämä. [jɨh tʼɨnaˈtawi tsʼɨˈhuf bɛtawaˈkʼi pirofesɛˈrotʃː tɛɡɛmɡɨˈmo bɛʔaˈlɛm ʔaˈkʼɛf dʒorˈnal laj tatːɛˈmɛ] (yuh t'uh-nah-TAH-wee ts'uh-HOOF beh-tah-wah-K'EE pee-roh-feh-seh-ROHCH teh-gem-guh-MOH beh-AH-lem ah-K'EF jor-NAHL lye taht-teh-MEH)",
+          "translation": "This research paper was reviewed by renown professors and published in an international journal."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ለከተማው ህዝብ የሚሆን ንጹህ የመጠጥ ውሃ ፕሮጀክት በሚገባ ተጠናቆ ተመረቀ።",
+          "reading": "Läkätämaw həzb yämmihon nəts’uh yämät’ät’ wəha piroğäkt bämigäba tät’änaqqo tämärräqä. [lɛkɛtɛˈmaw hɨzb jɛmːiˈhon nɨtsʼuh jɛmɛˈtʼɛtʼ wɨˈha pirodʒɛkt bɛmiɡɛˈba tɛtʼɛnakʼːo tɛmɛrːɛˈkʼɛ] (leh-keh-teh-MAHW huz-B yem-mee-HOHN nuts'-OOH yeh-meh-t'et' wuh-HAH pee-roh-JEKT beh-mee-geh-BAH teh-t'eh-nahk'-K'OH teh-mer-reh-K'EH)",
+          "translation": "A clean drinking water project for the city's population was properly finalized and inaugurated."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Tense Shift: Past (ተጻፈ) -> Continuous (እየተጻፈ ነው) -> Perfect (ተጽፏል)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ህዝባዊ ፕሮጀክቶች ምረቃ ላይ 'ተመረቀ' እና 'ተጠናቀቀ' የሚሉ ተገብሮ ቃላት የስራውን መጠናቀቅ ለማብሰር በስፋት ይሠራባቸዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«The project is being constructed» የሚለውን በአማርኛ ተገብሮ ቀጣይ ጊዜ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (20.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (20.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (20.1.w3)"
+            "ፕሮጀክቱ እየተገነባ ነው። (The project is being constructed - Continuous passive)",
+            "ፕሮጀክቱ ተገነባ",
+            "ፕሮጀክቱ ይገነባል",
+            "ፕሮጀክት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እየተገነባ ነው» በአሁን ሰዓት እየተከናወነ ያለ ተገብሮ ቀጣይ ድርጊትን ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u20-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The book has been published' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (20.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (20.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (20.1.x3)"
+            "መጽሐፉ ታትሟል። (The book has been published - Perfect passive aspect)",
+            "መጽሐፉ ታተመ",
+            "መጽሐፉ ይታተማል",
+            "መጽሐፉ አልታተመም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (20.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (20.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (20.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ታትሟል» የድርጊቱን መጠናቀቅ የሚያሳይ የፍጻሜ ጊዜ ተገብሮ ግስ ነው።"
         }
       ]
     },
@@ -9125,24 +9102,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 20-1):",
+          "prompt": "የተገብሮ ግስ የጊዜ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (20.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (20.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (20.1.z3)"
+            "ተዘጋጀ (Past)، እየተዘጋጀ ነው (Continuous)، ተዘጋጅቷል (Perfect) እና ይዘጋጃል (Future)።",
+            "አረንጓዴ፣ ቢጫ፣ ቀይ እና ነጭ።",
+            "ሰኞ፣ ማክሰኞ እና እሮብ።",
+            "በአማርኛ ተገብሮ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የተገብሮ ግስን ዋና ዋና የጊዜ እርባታዎች በሙሉ ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u20-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተገብሮ»):",
+          "prompt": "'ተገብሮ / Passive' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተገብሮ",
             "ተገብሮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተገብሮ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተገብሮ» (Tägäbro) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9153,85 +9129,62 @@
     "subject": "amharic",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice) (ክፍል 2)",
+    "title": "ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing the Agent with Prepositions)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተገብሮ ግስ አወቃቀር (ተ- ቅጥያ)، በዜና እና በጽሑፍ ውስጥ ድርጊትን ማጉላት። (ክፍል 2)።",
+    "objective": "በተገብሮ ዓረፍተ ነገር ውስጥ ድርጊት ፈጻሚውን በ«በ... አማካኝነት» / «በ... በኩል» ማሳወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "በተገብሮ ዓረፍተ ነገር ውስጥ ድርጊት ፈጻሚን የመግለጽ ሰዋሰዋዊ ህግ (Agentive Markers):\n\n፩. ዋና ዋና መስተዋድዳዊ አገላለጾች:\n- «በ... አማካኝነት» (Through / by means of):\n  «ውሳኔው በሚኒስቴሩ አማካኝነት ተላለፈ» (The decision was passed through the ministry)።\n- «በ... በኩል» (On the part of / by):\n  «ድጋፉ በበጎ አድራጊዎች በኩል ተሰጠ» (The support was given on the part of benefactors)።\n- «በ... እጅ» (By the hand of):\n  «ስዕሉ በታላቁ ሰዓሊ እጅ ተሳለ» (The painting was drawn by the great artist's hand)።\n\n፪. የአገባብ አጠቃቀም:\n- ድርጊቱ የተፈጸመበትን ተደራጊ በማስቀደም ድርጊት ፈጻሚውን በመስተዋድድ ማያያዝ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)' to the students."
+          "target": "የሰላም ስምምነቱ በሽምግልና ኮሚቴው አማካኝነት በይፋ ተፈረመ።",
+          "reading": "Yäsälam səməmmənätu bäšəmgəlna komitew amakanyənät bäyəfa täfärrämä. [jɛsɛˈlam sɨmɨmːɨˈnɛtu bɛʃɨmɡɨlˈna komiˈtew ʔamakaɲɨˈnɛt bɛjɨˈfa tɛfɛrːɛˈmɛ] (yeh-seh-LAHM suh-mum-muh-NAY-too beh-shum-gul-NAH koh-mee-TAY-woo ah-mah-kahn-yuh-NET beh-yuh-FAH teh-fer-reh-MEH)",
+          "translation": "The peace agreement was officially signed through the mediation committee."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አዲሱ የቴክኖሎጂ ፈጠራ በሀገር ውስጥ መሃንዲሶች በኩል ወደ ስራ ገባ።",
+          "reading": "Addisu yätekənoloğği fät’t’ära bähagär wəst’ mähandəsočč bäkkul wädä səra gäbba. [ʔadːiˈsu jɛteknoloˈdʒi fɛtʼːɛˈra bɛhaˈɡɛr wɨstʼ mɛhandɨˈsotʃː bɛkːul wɛˈdɛ sɨˈra ɡɛbːa] (ahd-dee-SOO yeh-tek-noh-loh-JEE fet'-t'eh-RAH beh-hah-GER woos-T' meh-hahn-duh-SOHCH bek-KOOL weh-DEH suh-RAH geb-BAH)",
+          "translation": "The new technological innovation went into operation on the part of domestic engineers."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የታሪካዊው ህንፃ ቅርጽ በጥንታዊ አናፂዎች እጅ በሚያምር ሁኔታ ተቀርጾ ተሰራ።",
+          "reading": "Yätarikawiw hənts’a qərts’ bät’əntawi anats’iwočč əğğ bämmiyamər huneta täqərtso täsärra. [jɛtariˈkawiw hɨnˈtsʼa kʼɨrtsʼ bɛtʼɨntaˈwi ʔanatsʼiˈwotʃː ʔɨdʒː bɛmːijaˈmɨr huˈneta tɛkʼɨrˈtso tɛsɛrːa] (yeh-tah-ree-KAH-weew hun-TS'AH k'ur-TS' beh-t'un-tah-WEE ah-nah-ts'ee-WOHCH uhj bem-mee-yah-MUR hoo-nay-TAH teh-k'ur-TSOH teh-ser-RAH)",
+          "translation": "The shape of the historical building was carved and crafted beautifully by the hand of ancient builders."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Agent Tags: በ... አማካኝነት (Through agent) / በ... በኩል (By party) / በ... እጅ (By hands)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህላዊ ሽምግልና 'በሽማግሌዎች አማካኝነት' ጉዳዮች መቋጨታቸው ህጋዊና ማህበራዊ ተቀባይነትን ያረጋግጣል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«The letter was sent through the embassy» የሚለውን በአማርኛ ድርጊት ፈጻሚውን በመስተዋድድ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (20.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (20.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (20.2.w3)"
+            "ደብዳቤው በኤምባሲው አማካኝነት ተላከ። (The letter was sent through the embassy - Agent with በ... አማካኝነት)",
+            "ደብዳቤው ተላከ",
+            "ኤምባሲው ደብዳቤ ላከ",
+            "ደብዳቤ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በኤምባሲው አማካኝነት» ድርጊት ፈጻሚውን አካል በትክክል ያመለክታል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u20-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The book was authored by scholars' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (20.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (20.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (20.2.x3)"
+            "መጽሐፉ በምሁራኑ በኩል ተዘጋጀ። (The book was prepared on the part of scholars - Accurate agentive passive)",
+            "ምሁራኑ መጽሐፉን አነበቡ",
+            "መጽሐፉ ጠፋ",
+            "ምሁራን የሉም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (20.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (20.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (20.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በምሁራኑ በኩል ተዘጋጀ» ድርጊት ፈጻሚውን በትክክል ያሳውቃል።"
         }
       ]
     },
@@ -9239,24 +9192,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 20-2):",
+          "prompt": "ድርጊት ፈጻሚን የሚያመለክቱ መስተዋድዳዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (20.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (20.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (20.2.z3)"
+            "በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ እና በ... አማካሪነት።",
+            "ከ... በላይ፣ ከ... በታች እና በ... ውስጥ።",
+            "ትናንት፣ ዛሬ እና ከነገ ወዲያ።",
+            "በአማርኛ ድርጊት ፈጻሚ አይገለጽም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ በተገብሮ ዓረፍተ ነገር ውስጥ ፈጻሚን ለመግለጽ የሚያገለግሉ ዋና ዋና አገላለጾችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u20-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተገብሮ»):",
+          "prompt": "'አማካኝነት / Means, agency, mediation' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተገብሮ",
-            "ተገብሮ"
+            "አማካኝነት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተገብሮ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አማካኝነት» (Amakanyənät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9267,85 +9219,62 @@
     "subject": "amharic",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice) (ክፍል 3)",
+    "title": "ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive Voice in News & Official Journalism)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተገብሮ ግስ አወቃቀር (ተ- ቅጥያ)، በዜና እና በጽሑፍ ውስጥ ድርጊትን ማጉላት። (ክፍል 3)።",
+    "objective": "በዜና፣ በመንግሥት መግለጫዎችና በህጋዊ ሰነዶች ውስጥ ተገብሮ ግስን በሙያዊ ደረጃ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ተገብሮ ግስ በዜና እና ይፋዊ መግለጫዎች ውስጥ (Journalistic & Official Passive):\n\n፩. የዜና ቋንቋ ባህሪያት:\n- ዜናና ይፋዊ መግለጫዎች ገለልተኛ፣ ሚዛናዊና መደበኛ ቃና እንዲኖራቸው ተገብሮ ግስ በስፋት ጥቅም ላይ ይውላል።\n\n፪. ዋና ዋና ይፋዊ ተገብሮ አገላለጾች:\n- «ስብሰባ ተካሄደ» (Meeting was held)\n- «ውይይት ተደረገ» (Discussion was conducted)\n- «አዋጅ ታወጀ» (Proclamation was declared)\n- «ስምምነት ተፈረመ» (Agreement was signed)\n- «ውሳኔ ተላለፈ» (Decision was passed)\n- «መግለጫ ተሰጠ» (Statement was issued)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)' to the students."
+          "target": "በአፍሪካ ህብረት አዳራሽ የአህጉሪቱ መሪዎች የተሳተፉበት ታላቅ ጉባኤ በስኬት ተካሄደ።",
+          "reading": "Bä'afrika həbrät adaraš yä'ahəguritu märiwočč yätäsattäfubät talaq guba'e bäsəket täkahedä. [bɛʔafriˈka hɨbˈrɛt ʔadaˈraʃ jɛʔahɨɡuˈritu mɛriˈwotʃː jɛtɛsatːɛfuˈbɛt taˈlakʼ ɡubaˈʔe bɛsɨˈket tɛkaˈhedɛ] (beh-ahf-ree-KAH hub-RET ah-dah-RAHSH yeh-ah-huh-goo-REE-too meh-ree-WOHCH yeh-teh-saht-teh-foo-BET tah-LAHK' goo-bah-AY beh-suh-KAYT teh-kah-HAY-deh)",
+          "translation": "A grand summit involving the continent's leaders was successfully held at the African Union hall."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የአዲስ አበባ ከተማ አስተዳደር ያወጣው አዲስ የግብር አዋጅ በይፋ ታወጀ።",
+          "reading": "Yä'addis Abäba kätäma astädadär yawät’t’aw addis yägəbər awagğ bäyəfa tawwäğä. [jɛʔadːis ʔabɛˈba kɛtɛˈma ʔastɛdaˈdɛr jawɛtʼːaw ʔadːis jɛɡɨˈbɨr ʔaˈwadʒ bɛjɨˈfa tawːɛˈdʒɛ] (yeh-ahd-DEES ah-beh-BAH keh-teh-MAH ahs-teh-dah-DER yah-wut'-t'ah-WOO ahd-DEES yeh-gub-UR ah-WAHJ beh-yuh-FAH taw-WEHJ-jeh)",
+          "translation": "The new tax proclamation issued by the Addis Ababa City Administration was officially declared."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በሁለቱ ሀገራት መካከል የኢኮኖሚና የንግድ ትብብር ስምምነት ዛሬ ተፈረመ።",
+          "reading": "Bähulättu hagärat mäkkakäl yä'ikonomiynna yänəgd təbbəbər səməmmənät zarre täfärrämä. [bɛhulɛtːu haɡɛˈrat mɛkːaˈkɛl jɛʔikonoˈmijnːa jɛnɨɡd tɨbːɨˈbɨr sɨmɨmːɨˈnɛt zaˈre tɛfɛrːɛˈmɛ] (beh-hoo-let-TOO hah-geh-RAHT mek-kah-KEL yeh-ee-koh-noh-MEEN-nah yeh-nug-D tub-buh-BUR suh-mum-muh-NET zah-RAY teh-fer-reh-MEH)",
+          "translation": "An economic and trade cooperation agreement between the two countries was signed today."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "News Lexicon: ተካሄደ (Held) + ተፈረመ (Signed) + ታወጀ (Declared) + ተሰጠ (Given)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ቴሌቪዥንና በኢትዮጵያ ዜና አገልግሎት (ENA) የዜና አርዕስተ ዜናዎች አብዛኛውን ጊዜ በተገብሮ ግስ አወቃቀር ይቀርባሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«A peace agreement was signed» የሚለውን በዜና ቋንቋ ተገብሮ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (20.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (20.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (20.3.w3)"
+            "የሰላም ስምምነት ተፈረመ። (A peace agreement was signed - Formal journalistic passive)",
+            "የሰላም ስምምነት ፈረሙ",
+            "ስምምነቱ ጠፋ",
+            "ምንም ስምምነት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ተፈረመ» በዜናና በሰነዶች ውስጥ ጥቅም ላይ የሚውል መደበኛ ተገብሮ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u20-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'A meeting was held' የሚለውን በአማርኛ የዜና ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (20.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (20.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (20.3.x3)"
+            "ስብሰባ ተካሄደ። (A meeting was held - Formal institutional news passive)",
+            "ስብሰባ አደረጉ",
+            "ስብሰባ ተሰረዘ",
+            "ስብሰባ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (20.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (20.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (20.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ስብሰባ ተካሄደ» በመደበኛ የዜና ዘገባዎች ውስጥ እጅግ የተለመደ ተገብሮ መዋቅር ነው።"
         }
       ]
     },
@@ -9353,24 +9282,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 20-3):",
+          "prompt": "በዜና እና ይፋዊ ሰነዶች ውስጥ የሚዘወተሩ ተገብሮ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (20.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (20.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (20.3.z3)"
+            "ተካሄደ፣ ተፈረመ፣ ታወጀ፣ ተላለፈ እና ተመረቀ።",
+            "በላ፣ ጠጣ፣ ሳቀ እና አለቀሰ።",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ።",
+            "በዜና ውስጥ ተገብሮ ግስ አይገባም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ በዜናና ይፋዊ ጽሑፎች ውስጥ በስፋት የሚሠራባቸውን ተገብሮ ግሶች ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u20-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተገብሮ»):",
+          "prompt": "'ተካሄደ / Was held, was conducted' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተገብሮ",
-            "ተገብሮ"
+            "ተካሄደ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተገብሮ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተካሄደ» (Täkahedä) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9381,85 +9309,62 @@
     "subject": "amharic",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice) (ክፍል 4)",
+    "title": "ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-to-Passive Transformations)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተገብሮ ግስ አወቃቀር (ተ- ቅጥያ)، በዜና እና በጽሑፍ ውስጥ ድርጊትን ማጉላት። (ክፍል 4)።",
+    "objective": "ንቁ (Active) ዓረፍተ ነገሮችን ወደ ተገብሮ (Passive) እና ተገብሮን ወደ ንቁ ዓረፍተ ነገር መቀየር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ንቁ (Active) ወደ ተገብሮ (Passive) የመቀየር ሰዋሰዋዊ ደንቦች:\n\n፩. የለውጥ ደረጃዎች:\n- ፩: የንቁ ዓረፍተ ነገሩ ተሳቢ (-ን) ወደ ተገብሮ ዓረፍተ ነገሩ ባለቤትነት ይቀየራል።\n- ፪: የንቁ ዓረፍተ ነገሩ ባለቤት በ«በ... አማካኝነት» / «በ... በኩል» ድርጊት ፈጻሚ ይሆናል።\n- ፫: ግሱ ከንቁ ወደ ተገብሮ («ተ-» ቅድመ-ቅጥያ) ይቀየራል።\n\n፪. ምሳሌያዊ ለውጦች:\n- ንቁ: «መንግሥት አዲሱን መንገድ ገነባ።»\n- ተገብሮ: «አዲሱ መንገድ በመንግሥት ተገነባ።»\n- ንቁ: «ፖሊስ ወንጀለኛውን ያዘ።»\n- ተገብሮ: «ወንጀለኛው በፖሊስ ተያዘ።»",
       "examples": [
         {
-          "target": "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)' to the students."
+          "target": "ንቁ: «መምህሩ ፈተናውን አዘጋጀ።» -> ተገብሮ: «ፈተናው በመምህሩ ተዘጋጀ።»",
+          "reading": "Nəqu: «Mämhəru fätänawən azäggağğä.» -> Tägäbro: «Fätänaw bämämhəru täzäggağğä.» [nɨkʼu mɛmhɨˈru fɛtɛnaˈwɨn ʔazɛɡːaˈdʒːɛ tɛɡɛbˈro fɛtɛˈnaw bɛmɛmhɨˈru tɛzɛɡːaˈdʒːɛ] (nuh-K'OO: mem-huh-ROO feh-teh-nah-WUN ah-zeg-GAHJ-jeh -> teh-geb-ROH: feh-teh-NAHW beh-mem-huh-ROO teh-zeg-GAHJ-jeh)",
+          "translation": "Active: 'The teacher prepared the exam.' -> Passive: 'The exam was prepared by the teacher.'"
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ንቁ: «ህዝቡ ዛፎችን ተከለ።» -> ተገብሮ: «ዛፎቹ በህዝቡ ተተከሉ።»",
+          "reading": "Nəqu: «Həzbu zafoččən täkkälä.» -> Tägäbro: «Zafočču bähəzbu tättäkkälu.» [nɨkʼu hɨzˈbu zafoˈtʃːɨn tɛkːɛˈlɛ tɛɡɛbˈro zafoˈtʃːu bɛhɨzˈbu tɛtːɛkːɛˈlu] (nuh-K'OO: huz-BOO zah-fohch-CHOON tek-keh-LEH -> teh-geb-ROH: zah-fohch-CHOO beh-huz-BOO tet-tek-keh-LOO)",
+          "translation": "Active: 'The people planted trees.' -> Passive: 'The trees were planted by the people.'"
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ንቁ: «ደራሲው ድንቅ ልብ-ወለድ ጻፈ።» -> ተገብሮ: «ድንቁ ልብ-ወለድ በደራሲው ተጻፈ።»",
+          "reading": "Nəqu: «Därasiw dənq ləbb-wäläd t’afä.» -> Tägäbro: «Dənqu ləbb-wäläd bädärasiw tät’afä.» [nɨkʼu dɛraˈsiw dɨnkʼ lɨbːwɛˈlɛd tʼaˈfɛ tɛɡɛbˈro dɨnˈkʼu lɨbːwɛˈlɛd bɛdɛraˈsiw tɛtʼaˈfɛ] (nuh-K'OO: deh-rah-SEEW dunk' lub-weh-LED t'ah-FEH -> teh-geb-ROH: dun-K'OO lub-weh-LED beh-deh-rah-SEEW teh-t'ah-FEH)",
+          "translation": "Active: 'The author wrote a wonderful novel.' -> Passive: 'The wonderful novel was written by the author.'"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Flip & Tag: Subject <-> Object (-ን drops) & Verb gains ተ- (ተዘጋጀ / ተተከለ / ተጻፈ)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ስነ-ጽሁፍ ውስጥ የድርጊት አድራጊውን ከመጥቀስ ይልቅ ለድርጊቱ ውጤት ቅድሚያ መስጠት የትህትናና የክብደት መገለጫ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«መሐንዲሱ ድልድዩን ሰራ» የሚለውን ንቁ ዓረፍተ ነገር ወደ ተገብሮ በትክክል የቀየረው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (20.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (20.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (20.4.w3)"
+            "ድልድዩ በመሐንዲሱ ተሰራ። (The bridge was built by the engineer - Correct passive transformation)",
+            "መሐንዲሱ ድልድዩን ሰራ",
+            "ድልድዩ መሐንዲሱን ሰራ",
+            "ምንም ድልድይ አልተሰራም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ተሳቢው 'ድልድዩ' ባለቤት ሆኖ፣ ባለቤቱ 'በመሐንዲሱ' ተብሎ፣ ግሱ 'ተሰራ' ተብሎ ተገብሮ ሆኗል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u20-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'ተማሪዎቹ ክፍሉን አጸዱ' የሚለውን ወደ ተገብሮ በትክክል የቀየረው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (20.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (20.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (20.4.x3)"
+            "ክፍሉ በተማሪዎቹ ተጸዳ። (The classroom was cleaned by the students - Accurate passive transformation)",
+            "ተማሪዎቹ ክፍሉን አጸዱ",
+            "ክፍሉ ተማሪዎቹን አጸዳ",
+            "ክፍሉ አልተጸዳም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (20.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (20.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (20.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ክፍሉ በተማሪዎቹ ተጸዳ» ትክክለኛውን የተገብሮ አወቃቀር ህግ ጠብቋል።"
         }
       ]
     },
@@ -9467,24 +9372,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 20-4):",
+          "prompt": "የንቁ ወደ ተገብሮ ለውጥ መሰረታዊ ህግ ምን ይመስላል?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (20.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (20.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (20.4.z3)"
+            "ተሳቢው ባለቤት ይሆናል፣ ባለቤቱ በመስተዋድድ ይያያዛል፣ ግሱ ደግሞ በ«ተ-» ቅድመ-ቅጥያ ተገብሮ ይሆናል።",
+            "ቃላት በሙሉ ወደ ስም ይቀየራሉ።",
+            "ምንም ዓይነት ለውጥ አይደረግም።",
+            "ተገብሮ ወደ ንቁ አይቀየርም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የተገብሮ ለውጥ ደንቦችን ሙሉ በሙሉ ያብራራል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u20-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተገብሮ»):",
+          "prompt": "'ለውጥ / Transformation, change' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተገብሮ",
-            "ተገብሮ"
+            "ለውጥ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተገብሮ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ለውጥ» (Läwt’) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -9495,85 +9399,62 @@
     "subject": "amharic",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice) (ክፍል 5)",
+    "title": "የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand Synthesis & Formal Journalistic Passive Discourse)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተገብሮ ግስ አወቃቀር (ተ- ቅጥያ)، በዜና እና በጽሑፍ ውስጥ ድርጊትን ማጉላት። (ክፍል 5)።",
+    "objective": "የተገብሮ ግስን፣ ድርጊት ፈጻሚ መስተዋድዶችንና የዜና ዘገባዎችን ያቀናጀ የተሟላ ይፋዊ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳ አጠቃላይ ሰዋሰዋዊ ውህደት እና የተገብሮ ግስ ማጠቃለያ:\n\n፩. የተገብሮ ግስ የጊዜ እርባታዎች:\n- ኃላፊ (ተዘጋጀ)፣ አሁን ቀጣይ (እየተዘጋጀ ነው)፣ ፍጻሜ (ተዘጋጅቷል)፣ ወደፊት (ይዘጋጃል)።\n\n፪. ድርጊት ፈጻሚ መስተዋድዶች:\n- በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ።\n\n፫. ይፋዊ የዜና ቋንቋ:\n- ውይይት ተካሄደ፣ አዋጅ ታወጀ፣ ስምምነት ተፈረመ፣ ሽልማት ተሰጠ።\n\n፬. ንቁ ወደ ተገብሮ ልውውጥ:\n- የተሳቢና የባለቤት ሚና መቀያየር እና የግስ ቅርጽ ለውጥ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)' to the students."
+          "target": "ታላቁ የህዳሴ ግድብ በኢትዮጵያውያን የተቀናጀ አቅም ተገንብቶ ለምርቃት በቅቷል።",
+          "reading": "Talaqu yähəddase gədəb bä'ityop’yawayan yätäqänannağğä aqəm tägänbəto lämərriqat bäqtwal. [taˈlakʼu jɛhɨdːaˈse ɡɨdɨb bɛʔitjopʼjaˈwɨjan jɛtɛkʼɛnanːaˈdʒːɛ ʔaˈkʼɨm tɛɡɛnˈbɨto ləmɨrːiˈkʼat bɛkʼˈtʷal] (tah-LAH-k'oo yeh-hud-dah-SAY guh-DUB beh-eet-yoh-p'yah-WUH-yahn yeh-teh-k'en-nahn-NAHJ-jeh ah-K'UM teh-gen-BUH-toh luh-mur-ree-K'AHT bek'-TWAHL)",
+          "translation": "The Grand Renaissance Dam was constructed by Ethiopians' coordinated capacity and became ready for inauguration."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በሚኒስቴሩ በኩል የቀረበው የልማት ፖሊሲ በፓርላማው አባላት ሙሉ ድምፅ ጸደቀ።",
+          "reading": "Bäministew bäkkul yäqärräbäw yäləmat polisi bäparlamaw abalat mulu dəmts’ ts’äddäqä. [bɛminisˈtew bɛkːul jɛkʼɛrːɛˈbɛw jɛlɨˈmat poliˈsi bɛparlaˈmaw ʔabaˈlat muˈlu dɨmtsʼ tsʼɛdːɛˈkʼɛ] (beh-mee-nees-TAY-woo bek-KOOL yeh-k'er-reh-BEH-wun yeh-luh-MAHT poh-lee-SEE beh-pahr-lah-MAHW ah-bah-LAHT moo-LOO dum-TS' ts'ed-deh-K'EH)",
+          "translation": "The development policy presented on the part of the ministry was approved with full votes by parliament members."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ዓለም አቀፍ የኪነ-ጥበብ ፌስቲቫል በባህልና ቱሪዝም ሚኒስቴር አማካኝነት በድምቀት ተከበረ።",
+          "reading": "Aläm aqäf yäkinä-t’əbäb festival bäbahlənna turizm minister amakanyənät bädəmqät täkäbbärä. [ʔaˈlɛm ʔaˈkʼɛf jɛkinɛtʼɨˈbɛb fesˈtival bɛbahlɨnːa tuˈrizm minisˈter ʔamakaɲɨˈnɛt bɛdɨmˈkʼɛt tɛkɛbːɛˈrɛ] (ah-LEM ah-K'EF yeh-kee-neh-t'uh-BEB fes-tee-VAHL beh-bah-hlun-NAH too-REEZ-um mee-nees-TER ah-mah-kahn-yuh-NET beh-dum-K'ET teh-keb-beh-REH)",
+          "translation": "An international arts festival was colorfully celebrated through the Ministry of Culture and Tourism."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 20: Passive Flow (ተገነባ / ጸደቀ / ተከበረ) + Agents (በ... አማካኝነት / በ... በኩል)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ይፋዊ የመንግሥትና የዲፕሎማሲ ንግግሮች የተገብሮ ግስን ውበት በመጠቀም የጋራ ስኬቶችንና ሀገራዊ ራዕዮችን በከፍተኛ ክብር ያስተላልፋሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ ይፋዊ የተገብሮ ዜና ዘገባ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (20.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (20.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (20.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (20.5.w3)"
+            "ስምምነቱ በሁለቱ ሀገራት መሪዎች አማካኝነት በይፋ ተፈረመ። (Complete official passive news sentence with agentive preposition)",
+            "ምንም ስምምነት የለም",
+            "ሁሉም ቃላት ተራ ናቸው",
+            "ዜና የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የተገብሮ ግስን (ተፈረመ) እና ድርጊት ፈጻሚውን (በ... አማካኝነት) በትክክል ያዛምዳል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u20-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የተገብሮ ግስንና ድርጊት ፈጻሚን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (20.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (20.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (20.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (20.5.x3)"
+            "አዲሱ ሆስፒታል በጤና ጥበቃ ሚኒስቴር አማካኝነት ተገንብቶ ተመረቀ። (The new hospital was built and inaugurated through the Ministry of Health - Accurate integrated passive sentence)",
+            "ምንም ሆስፒታል አልተሰራም",
+            "ሚኒስቴሩ ጠፋ",
+            "ሆስፒታል የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ተገብሮ ግስ እና ድርጊት ፈጻሚ (Passive Voice)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (20.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (20.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (20.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (20.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ምርጫ የተገብሮ ግሶችንና ድርጊት ፈጻሚውን በመስተዋድድ በትክክል ያቀናጃል።"
         }
       ]
     },
@@ -9581,24 +9462,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 20-5):",
+          "prompt": "የክፍል 20 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (20.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (20.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (20.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (20.5.z3)"
+            "የተገብሮ ግስ የጊዜ እርባታዎች፣ ድርጊት ፈጻሚ መስተዋድዶች (በ... አማካኝነት/በኩል)፣ የዜና ተገብሮ ቃላት እና ንቁ ወደ ተገብሮ ልውውጥ ተካተዋል።",
+            "ይህ ክፍል ስለ እንስሳት ብቻ ነው።",
+            "በአማርኛ ተገብሮ ግስ አይጠቀምም።",
+            "ሁሉም ዜናዎች በንቁ ግስ ብቻ ይጻፋሉ።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 20ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u20-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ተገብሮ»):",
+          "prompt": "'ተገብሮ / Passive' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ተገብሮ",
             "ተገብሮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ተገብሮ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተገብሮ» (Tägäbro) ነው።"
         }
       ],
       "passThreshold": 0.8
