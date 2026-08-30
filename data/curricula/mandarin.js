@@ -9858,85 +9858,89 @@
     "subject": "mandarin",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "被字句与受事主语句 (The BEI Passive Voice) (第1讲)",
+    "title": "「被」字句句法结构、施事省略与语义色彩演变（负面受损 vs 中性褒义） (The 'Bei' Passive Structure & Pragmatic Evolution)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第1部分)。",
+    "objective": "系统掌握现代汉语「被」字句句法结构、施事者省略规则，深刻理解被动句由传统「负面受损」向现代学术与科技「中性褒义」拓展的语用演变历程。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「被」字句是现代汉语中用于凸显动作受事者、表达被动状态的核心句法范式：\n\n一、「被」字句基本句型结构：\n- 句法框架：受事主语（动作承受者） + 被 + [施事者（动作发出者）] + 及物动词 + 其他成分（补语/动态助词）。\n- 范例说明：他的论文被国际权威期刊录用了、自行车被小偷偷走了。\n\n二、施事者的可省略性规则：\n- 在书面语「被」字句中，施事者可以出现也可以省略（例如：会议被推迟了、任务被圆满完成了）。\n- 施事者省略主要用于施事者未知、不便说明或上下文语境中施事者显而易见的情形。\n\n三、「被」字句语义情感色彩的历史演进：\n1. 传统典型语义（多用于表达负面消极、遭受损失或不愉快的结果）：\n- 范例：衣服被大雨淋湿了、钱包被小偷偷走了、花瓶被猫打碎了。\n2. 现代汉语与学术科技语境扩展（广泛应用于中性事实陈述与积极褒义表彰）：\n- 范例：优秀科研团队被评选为国家级先进集体、长城被联合国列为世界文化遗产、新方案被董事会一致通过。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '被字句与受事主语句 (The BEI Passive Voice)' in simple terms to students at the academic seminar."
+          "target": "他的学术论文经过三轮严格的同行专家双盲评审，终于被国际顶级期刊正式录用并发表。(Tā de xuéshù lùnwén jīngguò sān lún yángé de tóngháng zhuānjiā shuāngmáng píngshěn, zhōngyú bèi guójì dǐngjí qīkān zhèngshì lùyòng bìng fābiǎo.)",
+          "reading": "[tʰa˥ tɤ ɕɥɛ˧˥.ʂu˥˩ lwən˥˩.wən˧˥ t͡ɕiŋ˥.kwo˥˩ san˥ lwən˧˥ jan˧˥.kɤ˧˥ tɤ tʰʊŋ˧˥.xɑŋ˧˥ ʈ͡ʂwan˥.t͡ɕja˥ ʂwaŋ˥.maŋ˧˥ pʰiŋ˧˥.ʂən˨˩˦, ʈ͡ʂʊŋ˥.y˧˥ peɪ̯˥˩ kwo˧˥.t͡ɕi˥˩ tiŋ˨˩.t͡ɕi˧˥ t͡ɕʰi˥.kʰan˥ ʈ͡ʂəŋ˥˩.ʂɨ˥˩ lu˥˩.jʊŋ˥˩ piŋ˥˩ fa˥.pjaʊ̯˨˩˦] (Tā de xué-shù lùn-wén jīng-guò sān lún yán-gé de tóng-háng zhuān-jiā shuāng-máng píng-shěn, zhōng-yú bèi guó-jì dǐng-jí qī-kān zhèng-shì lù-yòng bìng fā-biǎo.)",
+          "translation": "After three rounds of strict double-blind peer review by peer experts, his academic paper was finally officially accepted and published by a top international journal."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "昨天突降暴雨，因为出门时忘了带伞，他的衣服和背包全被倾盆大雨淋湿了。(Zuótiān tū jiàng bàoyǔ, yīnwèi chūmén shí wàng le dài sǎn, tā de yīfu hé bèibāo quán bèi qīngpén dàyǔ línshī le.)",
+          "reading": "[t͡swɔ˧˥.tʰjɛn˥ tʰu˥ t͡ɕjaŋ˥˩ paʊ̯˥˩.y˨˩˦, in˥.weɪ̯˥˩ t͡ʂʰu˥.mən˧˥ ʂɨ˧˥ wɑŋ˥˩ lɤ taɪ̯˥˩ san˨˩˦, tʰa˥ tɤ i˥.fu xɤ˧˥ peɪ̯˥˩.paʊ̯˥ t͡ɕʰyɛn˧˥ peɪ̯˥˩ t͡ɕʰiŋ˥.pʰən˧˥ ta˥˩.y˨˩˦ lin˧˥.ʂɨ˥ lɤ] (Zuó-tiān tū jiàng bào-yǔ, yīn-wèi chū-mén shí wàng le dài sǎn, tā de yī-fu hé bèi-bāo quán bèi qīng-pén dà-yǔ lín-shī le.)",
+          "translation": "Yesterday a torrential rain suddenly fell; because he forgot to bring an umbrella when going out, his clothes and backpack were completely drenched by the pouring rain."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "这座历经六百年风雨沧桑的古代木构建筑，已被联合国教科文组织正式列入《世界遗产名录》。(Zhè zuò lìjīng liùbǎi nián fēngyǔ-cāngsāng de gǔdài mùgòu jiànzhù, yǐ bèi Liánhéguó Jiàokēwén Zǔzhī zhèngshì lièrù 'Shìjiè Yíchǎn Mínglù'.)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡swoʊ̯˥˩ li˥˩.t͡ɕiŋ˥ ljoʊ̯˥˩.paɪ̯˨˩˦ njɛn˧˥ fɤŋ˥.y˨˩˦.t͡sʰɑŋ˥.sɑŋ˥ tɤ ku˨˩.taɪ̯˥˩ mu˥˩.koʊ̯˥˩ t͡ɕjɛn˥˩.ʈ͡ʂu˥˩, i˨˩˦ peɪ̯˥˩ ljɛn˧˥.xɤ˧˥.kwɔ˧˥ t͡ɕjaʊ̯˥˩.kʰɤ˥.wən˧˥ t͡su˨˩.ʈ͡ʂɨ˥ ʈ͡ʂəŋ˥˩.ʂɨ˥˩ ljɛ˥˩.ʐu˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ i˧˥.t͡ɕʰan˨˩˦ miŋ˧˥.lu˥˩] (Zhè zuò lì-jīng liù-bǎi nián fēng-yǔ-cāng-sāng de gǔ-dài mù-gòu jiàn-zhù, yǐ bèi Lián-hé-guó Jiào-kē-wén Zǔ-zhī zhèng-shì liè-rù 'Shì-jiè Yí-chǎn Míng-lù'.)",
+          "translation": "This ancient timber-structure building, which has experienced six hundred years of vicissitudes of wind and rain, has been officially inscribed on the World Heritage List by UNESCO."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "青年科研团队凭借卓越的技术攻关成果，在全国科技创新大会上被授予国家最高荣誉奖章。(Qīngnián kēyán tuánduì píngjiè zhuóyuè de jìshù gōngjiān chéngguǒ, zài quánguó kējì chuàngxīn dàhuì shang bèi shòuyǔ guójiā zuìgāo róngyù jiǎngzhāng.)",
+          "reading": "[t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.jan˧˥ tʰwan˧˥.tweɪ̯˥˩ pʰiŋ˧˥.t͡ɕjɛ˥˩ ʈ͡ʂwɔ˧˥.jɥɛ˥˩ tɤ t͡ɕi˥˩.ʂu˥˩ kʊŋ˥.t͡ɕjɛn˥ ʈ͡ʂʰəŋ˧˥.kwo˨˩˦, t͡saɪ̯˥˩ t͡ɕʰyɛn˧˥.kwɔ˧˥ kʰɤ˥.t͡ɕi˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ ta˥˩.xweɪ̯˥˩ ʂɑŋ peɪ̯˥˩ ʂoʊ̯˥˩.y˨˩˦ kwo˧˥.t͡ɕja˥ t͡sweɪ̯˥˩.kaʊ̯˥ ʐʊŋ˧˥.y˥˩ t͡ɕjaŋ˨˩.ʈ͡ʂɑŋ˥] (Qīng-nián kē-yán tuán-duì píng-jiè zhuó-yuè de jì-shù gōng-jiān chéng-guǒ, zài quán-guó kē-jì chuàng-xīn dà-huì shang bèi shòu-yǔ guó-jiā zuì-gāo róng-yù jiǎng-zhāng.)",
+          "translation": "Relying on outstanding achievements in technological tackling, the young scientific research team was awarded the state's highest honor medal at the National Science and Technology Innovation Conference."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "被字句式受事领，施事可现亦可省；传统多表受损害，现代评选录用兴！"
+      ],
+      "culturalNotes": [
+        "被动句是汉语由古代「表受害遭受」向现代「表客观中性与表彰荣誉」演变的生动体现。现代汉语在新闻报道与学术论著中大量使用中性被动句。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「被字句与受事主语句 (The BEI Passive Voice)」（第1讲）的标准汉语规范？",
+          "prompt": "在书面语「被」字句中，关于动作的施事者（动作发出者），下列说明正确的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (17.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (17.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (17.1.w3)"
+            "施事者可以出现，也可以省略 (Agent can appear or be omitted in written '被' passive)",
+            "施事者必须强制出现绝对不能省略",
+            "施事者必须放在句首",
+            "施事者必须是形容词"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "在书面语「被」字句中，施事者可以根据语境需要出现或省略。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一项「被」字句体现了现代汉语在学术与荣誉表彰领域的积极褒义用法？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "张教授被授予国家杰出科学家荣誉称号。(Positive honorific passive: 被授予)",
+            "他的自行车被小偷偷了。",
+            "他的衣服被墨水弄脏了。",
+            "玻璃杯被风吹碎了。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「被授予荣誉称号」是现代汉语中典型的积极褒义被动句用法。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「被字句与受事主语句 (The BEI Passive Voice)」的正式语境下，最准确得体的表达是哪一项？（第17.1题）",
+          "prompt": "要表达「这篇重要学术论文已被顶级期刊正式发表」，最规范严谨的被动句是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (17.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (17.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (17.1.x3)"
+            "这篇学术论文已被顶级期刊正式发表。(Standard passive sentence with definite patient)",
+            "这篇学术论文被发表顶级期刊。",
+            "顶级期刊这篇学术论文被发表。",
+            "这篇学术论文被很发表。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "受事主语在前，被 + 施事者 + 副词 + 动词，结构严谨。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u17-l1）所要求的高阶语言表达？",
+          "prompt": "在句子「会议被推迟到下周举行」中，施事者被省略的原因是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (17.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (17.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (17.1.y3)"
+            "施事者在语境中显而易见或重点在于突出「会议推迟」这一客观结果 (Focus on the result)",
+            "因为汉语不能表达人",
+            "因为打字太累了",
+            "因为动词不能带施事"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "省略施事者能够更好地将语义焦点置于受事对象及其结果状态上。"
         }
       ]
     },
@@ -9944,25 +9948,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「被字句与受事主语句 (The BEI Passive Voice)」的掌握程度，请选出表述完全正确的标准范句（测试 17-1）：",
+          "prompt": "请选出下列「被」字句中主受关系最清晰、动补搭配最严谨、语体最得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (17.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (17.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (17.1.z3)"
+            "经过严格的资质审查与全员无记名投票，李博士被全体代表一致推选为新一届学术委员会主席。(受事、施事、状语与及物动词配合完美)",
+            "李博士被推选。(成分残缺没有补语)",
+            "全体代表被李博士推选为主席。(主受关系彻底颠倒错乱)",
+            "李博士被学术委员会推选很。(语法严重错误)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在受事主语、施事者「全体代表」、修饰语及结果补语的配合上达到了现代汉语的最高规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u17-l1）的核心关键词（例如「被字句与」）：",
+          "prompt": "请输入现代汉语书面语中作为被动标志的核心单字介词（拼音为 bèi）：",
           "acceptedAnswers": [
-            "被字句与",
-            "被字句与受事",
-            "被字句与受事主语句"
+            "被"
           ],
-          "explanation": "正确的核心关键词为「被字句与」。"
+          "explanation": "字词「被」是现代汉语书面语被动句最核心的标记介词。"
         }
       ],
       "passThreshold": 0.8
@@ -9973,85 +9975,89 @@
     "subject": "mandarin",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "被字句与受事主语句 (The BEI Passive Voice) (第2讲)",
+    "title": "口语被动标记「叫 / 让 / 给」与书面语被动范式「为......所...... / 由 / 予以」 (Colloquial & Formal Passive Markers)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第2部分)。",
+    "objective": "系统掌握口语体被动标记「叫/让/给」及其「施事绝不可省」铁律，熟练运用书面语典雅被动范式「为...所... / 由... / 予以...」，掌握精准的语体分寸感。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代汉语被动句在不同语体（Register）中具有鲜明的分工与专属句法标记体系：\n\n一、口语体被动标记体系（「叫 / 让 / 给」）：\n1.「受事主语 + 叫 (jiào) / 让 (ràng) + 施事者 + (给) + 动词 + 补语」：\n- 核心语法铁律：【施事者绝对不能省略】！\n- 病句：*钱包叫偷了。 改正：钱包**叫小偷（给）**偷走了 / 钱包被偷了。\n- 助词「给」的强化作用：常置于动词前面，起到加强被动动作语气的作用（例如：新买的雨伞让大风给吹跑了）。\n\n二、典雅书面语与公文被动范式：\n1.「为......所......」典雅书面被动结构：\n- 句法框架：受事 + 为 + 施事 + 所 + 及物动词。\n- 范例说明：他的崇高品质为世人所敬仰、历史规律不为个人意志所转移。\n2.「由......（负责/主持/审定）」职能分工被动范式：\n- 范例说明：该项国家重点研发课题由张院士亲自领衔主持。\n3.「予以 + 双音节动词」公文被动处置范式：\n- 范例说明：对违规行为予以严厉批评、对符合条件的申请予以正式批准。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '被字句与受事主语句 (The BEI Passive Voice)' in simple terms to students at the academic seminar."
+          "target": "散会之后，他放在会议室长桌上的工作笔记本不知叫谁给顺手带走了。(Sànhuì zhīhòu, tā fàng zài huìyìshì chángzhuō shang de gōngzuò bǐjìběn bùzhī jiào shuí gěi shùnshǒu dàizǒu le.)",
+          "reading": "[san˥˩.xweɪ̯˥˩ ʈ͡ʂɨ˥.xoʊ̯˥˩, tʰa˥ fɑŋ˥˩ t͡saɪ̯˥˩ xweɪ̯˥˩.i˥˩.ʂɨ˥˩ ʈ͡ʂʰɑŋ˧˥.ʈ͡ʂwɔ˥ ʂɑŋ tɤ kʊŋ˥.t͡swoʊ̯˥˩ pi˨˩.t͡ɕi˥˩.pən˨˩˦ pu˥.ʈ͡ʂɨ˥ t͡ɕjaʊ̯˥˩ ʂweɪ̯˧˥ keɪ̯˨˩˦ ʂwən˥˩.ʂoʊ̯˨˩˦ taɪ̯˥˩.t͡swoʊ̯˨˩˦ lɤ] (Sàn-huì zhī-hòu, tā fàng zài huì-yì-shì cháng-zhuō shang de gōng-zuò bǐ-jì-běn bù-zhī jiào shuí gěi shùn-shǒu dài-zǒu le.)",
+          "translation": "After the meeting adjourned, the work notebook he left on the long table in the meeting room was picked up and taken away by someone without him knowing."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "科学家的崇高爱国精神与无私奉献品格，将永远为后世人民所深切缅怀与由衷敬仰。(Kēxuéjiā de chónggāo àiguó jīngshén yǔ wúsī fèngxiàn pǐngé, jiāng yǒngyuǎn wéi hòushì rénmín suǒ shēnqiè miǎnhuái yǔ yóuzhōng jìngyǎng.)",
+          "reading": "[kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ tɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ aɪ̯˥˩.kwɔ˧˥ t͡ɕiŋ˥.ʂən˧˥ y˨˩˦ u˧˥.sɨ˥ fəŋ˥˩.ɕjɛn˥˩ pʰin˨˩.kɤ˧˥, t͡ɕjaŋ˥ jʊŋ˨˩.jɥɛn˨˩˦ weɪ̯˧˥ xoʊ̯˥˩.ʂɨ˥˩ ʐən˧˥.min˧˥ swɔ˨˩˦ ʂən˥.t͡ɕʰjɛ˥˩ mjɛn˨˩.xwaɪ̯˧˥ y˨˩˦ joʊ̯˧˥.ʈ͡ʂʊŋ˥ t͡ɕiŋ˥˩.jɑŋ˨˩˦] (Kē-xué-jiā de chóng-gāo ài-guó jīng-shén yǔ wú-sī fèng-xiàn pǐn-gé, jiāng yǒng-yuǎn wéi hòu-shì rén-mín suǒ shēn-qiè miǎn-huái yǔ yóu-zhōng jìng-yǎng.)",
+          "translation": "The lofty patriotic spirit and selfless dedication of scientists will forever be deeply remembered and sincerely revered by future generations."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "这一项关乎城市长远规划的重大科研课题，已由国家科技部正式立项并予以全额资金支持。(Zhè yí xiàng guānhū chéngshì chángyuǎn guīhuà de zhòngdà kēyán kètí, yǐ yóu guójiā Kējìbù zhèngshì lìxiàng bìng yǔyǐ quán'é zījīn zhīchí.)",
+          "reading": "[ʈ͡ʂɤ˥˩ i˥ ɕjaŋ˥˩ kwan˥.xu˥ ʈ͡ʂʰəŋ˧˥.ʂɨ˥˩ ʈ͡ʂʰɑŋ˧˥.jɥɛn˨˩˦ kweɪ̯˥.xwa˥˩ tɤ ʈ͡ʂʊŋ˥˩.ta˥˩ kʰɤ˥.jan˧˥ kʰɤ˥˩.tʰi˧˥, i˨˩˦ joʊ̯˧˥ kwo˧˥.t͡ɕja˥ kʰɤ˥.t͡ɕi˥˩.pu˥˩ ʈ͡ʂəŋ˥˩.ʂɨ˥˩ li˥˩.ɕjaŋ˥˩ piŋ˥˩ y˨˩˦.i˨˩˦ t͡ɕʰyɛn˧˥.ɤ˧˥ t͡sɨ˥.t͡ɕin˥ ʈ͡ʂɨ˥.ʈ͡ʂʰɨ˧˥] (Zhè yí xiàng guān-hū chéng-shì cháng-yuǎn guī-huà de zhòng-dà kē-yán kè-tí, yǐ yóu guó-jiā Kē-jì-bù zhèng-shì lì-xiàng bìng yǔ-yǐ quán-é zī-jīn zhī-chí.)",
+          "translation": "This major scientific research project concerning long-term urban planning has been officially approved by the Ministry of Science and Technology and granted full financial support."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "刚晾在阳台上的白衬衫突然让大风给吹落到楼下草坪里了。(Gāng liàng zài yángtái shang de bái chènshān tūrán ràng dàfēng gěi chuīluò dào lóuxià cǎopíng lǐ le.)",
+          "reading": "[kɑŋ˥ ljaŋ˥˩ t͡saɪ̯˥˩ jɑŋ˧˥.tʰaɪ̯˧˥ ʂɑŋ tɤ paɪ̯˧˥ t͡ʂʰən˥˩.ʂan tʰu˥.ʐan˧˥ ʐɑŋ˥˩ ta˥˩.fɤŋ˥ keɪ̯˨˩˦ t͡ʂʰweɪ̯˥.lwɔ˥˩ taʊ̯˥˩ loʊ̯˧˥.ɕja˥˩ t͡sʰaʊ̯˨˩.pʰiŋ˧˥ li˨˩˦ lɤ] (Gāng liàng zài yáng-tái shang de bái chèn-shān tū-rán ràng dà-fēng gěi chuī-luò dào lóu-xià cǎo-píng lǐ le.)",
+          "translation": "The white shirt just hung out on the balcony was suddenly blown down to the lawn downstairs by a gust of strong wind."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "叫让被动施事实，绝不可省必带施；为所公文显典雅，由与予以律法知！"
+      ],
+      "culturalNotes": [
+        "口语中常用「叫/让/给」表达生活中的偶发与受损情境，生动接地气；而在公文、学术论著与庄重演说中，则必须使用「为...所...」或「由...予以...」体现严谨崇高的公文规范。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「被字句与受事主语句 (The BEI Passive Voice)」（第2讲）的标准汉语规范？",
+          "prompt": "在现代汉语口语中，使用介词「叫」或「让」构成被动句时，施事者（动作发出者）的规则是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (17.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (17.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (17.2.w3)"
+            "施事者必须强制出现，绝对不能省略 (Agent must be explicitly stated in '叫/让' passive)",
+            "施事者可以随时省略",
+            "施事者必须放在句首",
+            "施事者只能是代词"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「叫/让」构成被动句时，施事者绝对不可省略（必须说「叫谁偷了 / 让风吹了」）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在庄重的书面语中，表达「他的高尚品德被全世界人民所称赞」最典雅的书面语被动范式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "为世人所称赞 (Classical written passive: 为...所...)",
+            "叫世人称赞",
+            "让世人给称赞了",
+            "被世人弄称赞了"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「为......所......」是现代汉语中继承自古汉语的典雅书面语被动结构。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「被字句与受事主语句 (The BEI Passive Voice)」的正式语境下，最准确得体的表达是哪一项？（第17.2题）",
+          "prompt": "在公文与法律文书中表达「由有关部门给予批准」，最地道的词汇搭配是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (17.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (17.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (17.2.x3)"
+            "由主管部门予以批准 (Official administrative passive: 由...予以批准)",
+            "叫主管部门给批准了",
+            "让主管部门批准一下",
+            "被主管部门批准做"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「由主管部门予以批准」是公文行政中最标准的规范表达。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u17-l2）所要求的高阶语言表达？",
+          "prompt": "下列哪一个口语被动句犯了「在叫/让句中错误省略施事者」的语法病句？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (17.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (17.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (17.2.y3)"
+            "*我的雨伞叫拿走了。(Incorrect: Missing agent in '叫' passive)",
+            "我的雨伞叫同桌给拿走了。",
+            "我的雨伞让大风吹坏了。",
+            "我的雨伞被拿走了。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「叫」后缺少施事者，应改为「叫人拿走了」或使用「被拿走了」。"
         }
       ]
     },
@@ -10059,25 +10065,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「被字句与受事主语句 (The BEI Passive Voice)」的掌握程度，请选出表述完全正确的标准范句（测试 17-2）：",
+          "prompt": "请选出下列公文与学术被动句中语体风格最典雅庄重、语法结构最严谨的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (17.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (17.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (17.2.z3)"
+            "该项重大前沿科技攻关方案已由国家专家评审委员会严格审定，并由科研发展基金予以全额立项资助。(由...审定，由...予以资助，公文体被动典范)",
+            "这个项目让专家给看了，叫国家给钱了。(口语粗俗不合公文规范)",
+            "项目被搞好了由很多人。(语序严重混乱颠倒)",
+            "方案为专家予以批准叫委员会。(句式杂糅不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在公文被动标记「由......审定」与「予以全额立项资助」的使用上展现了极高的公文写作规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u17-l2）的核心关键词（例如「被字句与」）：",
+          "prompt": "请输入古代汉语传承至今、用于典雅书面被动结构的核心双字句式标志（例如「」世人「」敬仰，前字为 wéi 后字为 suǒ）：",
           "acceptedAnswers": [
-            "被字句与",
-            "被字句与受事",
-            "被字句与受事主语句"
+            "为...所...",
+            "为所",
+            "为……所……"
           ],
-          "explanation": "正确的核心关键词为「被字句与」。"
+          "explanation": "结构「为......所......」是汉语古典与现代典雅书面语的核心被动范式。"
         }
       ],
       "passThreshold": 0.8
@@ -10088,85 +10094,89 @@
     "subject": "mandarin",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "被字句与受事主语句 (The BEI Passive Voice) (第3讲)",
+    "title": "意义被动句（受事主语句）与显性「被」字句的句法界限 (Notional Passives vs Explicit Bei)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第3部分)。",
+    "objective": "深刻掌握现代汉语意义被动句（受事主语句）的生成机理与适用条件，坚决克服「欧化滥用被字句」语言病态，熟练运用地道自然的汉语意合被动句。",
     "presentation": {
-      "explanation": "",
+      "explanation": "汉语属于重「意合」而非重「形态」的语言。在绝大多数日常与学术交际中，汉语更倾向于使用不带任何被动标记的「意义被动句（受事主语句）」：\n\n一、意义被动句（受事主语句）的句法机理与特征：\n- 句法形式：主语（无生命/逻辑受事者） + 谓语及物动词 + 补语/助词（形式上完全是主动句，但逻辑语义上是受事被动）。\n- 成立条件：主语通常是无生命的物品、事务或材料，由于缺乏自主能动性，在语境中绝不会被误解为动作的发出者。\n- 范例说明：作业写完了、衣服洗干净了、饭做好了、信寄出去了、茶喝光了、电脑修好了。\n\n二、坚决杜绝「欧化滥用被字句」病态语言：\n- 很多学习者受母语（如英语 Passive Voice）负迁移影响，生硬机械地套用「被」字，产生大量蹩脚病句：\n1. 欧化病句：*这本小说被我读完了。 自然汉语：**这本小说我读完了** / **这本小说读完了**。\n2. 欧化病句：*晚饭被妈妈做好了。 自然汉语：**妈妈做好晚饭了** / **晚饭做好了**。\n3. 欧化病句：*门被关上了。 自然汉语：**门关上了** / **门关好了**。\n\n三、显性「被」字句与意义被动句的分工法则：\n1. 用意义被动句：陈述自然动作的完成、位置移动或日常状态变化。\n2. 用显性「被」字句：强调遭受不利影响、外力强行作用、责任追究或正式表彰任命。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '被字句与受事主语句 (The BEI Passive Voice)' in simple terms to students at the academic seminar."
+          "target": "经过近三个月的集中攻关，这篇博士学位论文终于全部修改完毕并提交送审了。(Jīngguò jìn sān ge yuè de jízhōng gōngjiān, zhè piān bóshì xuéwèi lùnwén zhōngyú quánbù xiūgǎi wánbì bìng tíjiāo sòngshěn le.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ t͡ɕin˥˩ san˥ kɤ jɥɛ˥˩ tɤ t͡ɕi˧˥.ʈ͡ʂʊŋ˥ kʊŋ˥.t͡ɕjɛn˥, ʈ͡ʂɤ˥˩ pʰjɛn˥ pwo˧˥.ʂɨ˥˩ ɕɥɛ˧˥.weɪ̯˥˩ lwən˥˩.wən˧˥ ʈ͡ʂʊŋ˥.y˧˥ t͡ɕʰyɛn˧˥.pu˥˩ ɕjoʊ̯˥.kaɪ̯˨˩˦ wan˧˥.pi˥˩ piŋ˥˩ tʰi˧˥.t͡ɕjaʊ̯ sʊŋ˥˩.ʂən˨˩˦ lɤ] (Jīng-guò jìn sān ge yuè de jí-zhōng gōng-jiān, zhè piān bó-shì xué-wèi lùn-wén zhōng-yú quán-bù xiū-gǎi wán-bì bìng tí-jiāo sòng-shěn le.)",
+          "translation": "After nearly three months of concentrated tackling, this doctoral dissertation was finally completely revised and submitted for review."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "会议室里的多媒体投影仪和音响设备已经调试好了，学术讲座可以随时准时开始。(Huìyìshì lǐ de duōméitǐ tóuyǐngyí hé yīnxiǎng shèbèi yǐjīng tiáoshì hǎo le, xuéshù jiǎngzuò kěyǐ suíshí zhǔnshí kāishǐ.)",
+          "reading": "[xweɪ̯˥˩.i˥˩.ʂɨ˥˩ li˨˩˦ tɤ twɔ˥.meɪ̯˨˩.tʰi˨˩˦ tʰoʊ̯˧˥.iŋ˨˩.i˧˥ xɤ˧˥ in˥.ɕjaŋ˨˩˦ ʂɤ˥˩.peɪ̯˥˩ i˨˩˦.t͡ɕiŋ˥ tʰjaʊ̯˧˥.ʂɨ˥˩ xaʊ̯˨˩˦ lɤ, ɕɥɛ˧˥.ʂu˥˩ t͡ɕjaŋ˨˩.t͡swoʊ̯˥˩ kʰɤ˨˩.i˨˩˦ sweɪ̯˧˥.ʂɨ˧˥ ʈ͡ʂwən˨˩.ʂɨ˧˥ kʰaɪ̯˥.ʂɨ˨˩˦] (Huì-yì-shì lǐ de duō-méi-tǐ tóu-yǐng-yí hé yīn-xiǎng shè-bèi yǐ-jīng tiáo-shì hǎo le, xué-shù jiǎng-zuò kě-yǐ suí-shí zhǔn-shí kāi-shǐ.)",
+          "translation": "The multimedia projector and audio equipment in the meeting room have already been tuned, and the academic lecture can start on time at any moment."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "刚出锅的热气腾腾的正宗北京烤鸭切好了，请各位远道而来的尊贵宾客趁热品尝。(Gāng chū guō de rèqì-téngténg de zhèngzhōng Běijīng kǎoyā qiē hǎo le, qǐng gèwèi yuǎndào-érlái de zūnguì bīnkè chènrè pǐncháng.)",
+          "reading": "[kɑŋ˥ t͡ʂʰu˥ kwo˥ tɤ ʐɤ˥˩.t͡ɕʰi˥˩.tʰəŋ˧˥.tʰəŋ˧˥ tɤ ʈ͡ʂəŋ˥˩.ʈ͡ʂʊŋ˥ peɪ̯˨˩.t͡ɕiŋ˥ kʰaʊ̯˨˩.ja˥ t͡ɕʰjɛ˥ xaʊ̯˨˩˦ lɤ, t͡ɕʰiŋ˨˩˦ kɤ˥˩.weɪ̯˥˩ jɥɛn˨˩.taʊ̯˥˩.aɚ˧˥.laɪ̯˧˥ tɤ t͡swən˥.kweɪ̯˥˩ pin˥.kʰɤ˥˩ t͡ʂʰən˥˩.ʐɤ˥˩ pʰin˨˩.t͡ʂʰɑŋ˧˥] (Gāng chū guō de rè-qì-téng-téng de zhèng-zhōng Běi-jīng kǎo-yā qiē hǎo le, qǐng gè-wèi yuǎn-dào-ér-lái de zūn-guì bīn-kè chèn-rè pǐn-cháng.)",
+          "translation": "The piping hot, authentic Beijing roast duck just out of the oven has been sliced; distinguished guests who have come from afar, please taste it while it is hot."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "汉语习惯多用受事主语句表达自然完结的动作，避免无节制地机械套用欧化被字句。(Hànyǔ xíguàn duō yòng shòushì zhǔyǔjù biǎodá zìrán wánjié de dòngzuò, bìmiǎn wújiézhì de jīxiè tàoyòng ōuhuà bèizìjù.)",
+          "reading": "[xan˥˩.y˨˩ ɕi˧˥.kwan˥˩ twɔ˥ jʊŋ˥˩ ʂoʊ̯˥˩.ʂɨ˥˩ ʈ͡ʂu˨˩.y˨˩.t͡ɕy˥˩ pjaʊ̯˨˩.ta˧˥ t͡sɨ˥˩.ʐan˧˥ wan˧˥.t͡ɕjɛ˧˥ tɤ tʊŋ˥˩.t͡swoʊ̯˥˩, pi˥˩.mjɛn˨˩˦ u˧˥.t͡ɕjɛ˧˥.ʈ͡ʂɨ˥˩ tɤ t͡ɕi˥.ɕjɛ˥˩ tʰaʊ̯˥˩.jʊŋ˥˩ oʊ̯˥.xwa˥˩ peɪ̯˥˩.t͡sɨ˥.t͡ɕy˥˩] (Hàn-yǔ xí-guàn duō yòng shòu-shì zhǔ-yǔ-jù biǎo-dá zì-rán wán-jié de dòng-zuò, bì-miǎn wú-jié-zhì de jī-xiè tào-yòng ōu-huà bèi-zì-jù.)",
+          "translation": "Chinese customary usage mostly uses patient-subject sentences to express naturally concluded actions, avoiding the unconstrained mechanical misapplication of Europeanized 'bei' passive sentences."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "无生命物当主语，意义被动自然叙；饭做好来信寄出，莫套欧化乱用被！"
+      ],
+      "culturalNotes": [
+        "「意合为上」是汉语独步世界语言之林的精粹特征。掌握受事主语句，能够让留学生的中文表达彻底脱离生硬的翻译腔，达到地道自然的高级境地。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「被字句与受事主语句 (The BEI Passive Voice)」（第3讲）的标准汉语规范？",
+          "prompt": "要表达「晚饭已经准备妥当，可以开饭了」，最地道自然的现代汉语表达是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (17.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (17.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (17.3.w3)"
+            "晚饭做好了，大家快来吃吧。(Natural notional passive / patient-subject sentence)",
+            "晚饭被做好了，大家快来吃吧。(Awkward Europeanized passive)",
+            "晚饭被妈妈做好了大家吃。",
+            "大家被晚饭做好了。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「晚饭做好了」是典型的受事主语句，地道自然，绝不可滥加「被」字。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一项属于典型的「欧化被动语法病句（滥用被字句）」？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "*这杯水被我喝完了。(Awkward Europeanized passive: should be 这杯水我喝完了)",
+            "这杯水我喝完了。",
+            "水喝光了。",
+            "服务员端来了一杯水。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "普通饮水动作应用「这杯水我喝完了」或受事主语句，滥加「被」属于欧化病句。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「被字句与受事主语句 (The BEI Passive Voice)」的正式语境下，最准确得体的表达是哪一项？（第17.3题）",
+          "prompt": "关于意义被动句（受事主语句）的主语特征，下列说明完全正确的是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (17.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (17.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (17.3.x3)"
+            "主语通常是无生命的物品或事项，在逻辑上是动作的承受者 (Inanimate patient subject)",
+            "主语必须是有生命的动物或人",
+            "主语必须是能愿动词",
+            "句子必须强制带有「被」字"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "无生命受事主语与动补结构的搭配构成了汉语经典的受事主语句。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u17-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一个句子是地道规范的受事主语句？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (17.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (17.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (17.3.y3)"
+            "房间打扫干净了，被褥也换新了。(Spotlessly natural patient-subject sentence)",
+            "房间被小明打扫干净了，被褥被换新了。(欧化重复累赘)",
+            "小明把房间被打扫干净了。(句式严重杂糅)",
+            "房间打扫在小明。(语序错误)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「房间打扫干净了」受事为主语，动词后带补语，表意极其地道利落。"
         }
       ]
     },
@@ -10174,25 +10184,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「被字句与受事主语句 (The BEI Passive Voice)」的掌握程度，请选出表述完全正确的标准范句（测试 17-3）：",
+          "prompt": "请选出下列句子中语言最地道纯正、毫无欧化翻译腔的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (17.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (17.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (17.3.z3)"
+            "实验报告已经校对完毕并打印出来了，随时可以交给导师审阅。(地道受事主语句，动补搭配行云流水)",
+            "实验报告被校对完毕了并且被打印出来了。(欧化滥用被字，语言僵硬生涩)",
+            "导师被实验报告校对完了。(主受关系错乱)",
+            "实验报告被打印在电脑。(语病严重)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句准确使用受事主语句交代实验报告的完成状态，完全摆脱了欧化被动痕迹，纯正自然。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u17-l3）的核心关键词（例如「被字句与」）：",
+          "prompt": "请输入现代汉语中用于指代以逻辑承受者充当语法主语的经典句式名称（例如「」主语句，拼音为 shòushì）：",
           "acceptedAnswers": [
-            "被字句与",
-            "被字句与受事",
-            "被字句与受事主语句"
+            "受事",
+            "受事主语句",
+            "受事主语"
           ],
-          "explanation": "正确的核心关键词为「被字句与」。"
+          "explanation": "术语「受事」或「受事主语句」是语言学中指称客体作主语的经典语法范畴。"
         }
       ],
       "passThreshold": 0.8
@@ -10203,85 +10213,89 @@
     "subject": "mandarin",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "被字句与受事主语句 (The BEI Passive Voice) (第4讲)",
+    "title": "「被」字句否定词、能愿动词与时间状语位置法则 (Adverbials, Negation & Modals in BEI Sentences)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第4部分)。",
+    "objective": "彻底掌握「被」字句修饰语位置铁律：否定副词（没/不/别）、能愿动词（想/能/会/可以/应该/必须）及时间副词必须一律置于「被」字之前的语序规则。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语「被」字句中，各类修饰性状语的位置具有与「把」字句完全一致的句法铁律：\n\n一、否定副词的绝对位置：【必须置于「被」字之前】！\n- 核心否定词：没（没有）、不、别、决不、从未等。\n- 句法框架：受事主语 + [否定副词] + 被 + (施事者) + 及物动词 + 补语。\n1. 病句：*他的计划被大家没发现。 改正：他的计划**没被**大家发现。\n2. 病句：*真相被谎言不掩盖。 改正：真相**不被**谎言掩盖。\n3. 病句：*贵重仪器被风雨别淋湿了。 改正：贵重仪器**别被**风雨淋湿了。\n\n二、能愿动词（情态动词）的绝对位置：【必须置于「被」字之前】！\n- 核心能愿动词：想、要、能、能够、会、可以、应该、应当、必须、可能等。\n- 句法框架：受事主语 + [能愿动词] + 被 + (施事者) + 及物动词 + 补语。\n1. 病句：*这栋老建筑被拆迁可能会。 改正：这栋老建筑**可能会被**拆迁。\n2. 病句：*学术成果被专家应该认可。 改正：学术成果**应该被**专家认可。\n\n三、时间副词与状语的位置：【通常置于「被」字之前】！\n- 常见时间副词：已经、立刻、马上、常常、总、刚刚等。\n- 范例：系统漏洞**已经被**工程师修复了、这项决定**立刻被**全员知晓了。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '被字句与受事主语句 (The BEI Passive Voice)' in simple terms to students at the academic seminar."
+          "target": "幸亏数据备份系统运行稳定，核心科研实验数据才没有被突如其来的电脑病毒所损坏。(Xìngkuī shùjù bèifèn xìtǒng yùnxíng wěndìng, héxīn kēyán shíyàn shùjù cái méiyǒu bèi tūrúqílái de diànnǎo bìngdú suǒ sǔnhuài.)",
+          "reading": "[ɕiŋ˥˩.kʰweɪ̯ ʂu˥˩.t͡ɕy˥˩ peɪ̯˥˩.fən˥˩ ɕi˥˩.tʰʊŋ˨˩˦ jyn˥˩.ɕiŋ˧˥ wən˨˩.tiŋ˥˩, xɤ˧˥.ɕin˥ kʰɤ˥.jan˧˥ ʂɨ˧˥.jɛn˥˩ ʂu˥˩.t͡ɕy˥˩ t͡sʰaɪ̯˧˥ meɪ̯˧˥.joʊ̯˨˩˦ peɪ̯˥˩ tʰu˥.ʐu˧˥.t͡ɕʰi˧˥.laɪ̯˧˥ tɤ tjɛn˥˩.naʊ̯˨˩˦ piŋ˥˩.tu˧˥ swɔ˨˩˦ swən˨˩˦.xwaɪ̯˥˩] (Xìng-kuī shù-jù bèi-fèn xì-tǒng yùn-xíng wěn-dìng, hé-xīn kē-yán shí-yàn shù-jù cái méi-yǒu bèi tū-rú-qí-lái de diàn-nǎo bìng-dú suǒ sǔn-huài.)",
+          "translation": "Fortunately, the data backup system operated stably, so the core scientific experimental data was not damaged by the sudden computer virus."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "只要方案论证严密详实，这项极具创新潜力的前沿科研计划就一定会获得评委的一致认可。(Zhǐyào fāng'àn lùnzhèng yánmì xiángshí, zhè xiàng jí jù chuàngxīn qiánlì de qiányán kēyán jìhuà jiù yídìng huì bèi píngwěi de yízhì rènkě.)",
+          "reading": "[ʈ͡ʂɨ˨˩˦.jaʊ̯˥˩ fɑŋ˥.an˥˩ lwen˥˩.ʈ͡ʂəŋ˥˩ jan˧˥.mi˥˩ ɕjaŋ˧˥.ʂɨ˧˥, ʈ͡ʂɤ˥˩ ɕjaŋ˥˩ t͡ɕi˧˥ t͡ɕy˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ t͡ɕʰjɛn˧˥.li˥˩ tɤ t͡ɕʰjɛn˧˥.jan˧˥ kʰɤ˥.jan˧˥ t͡ɕi˥˩.xwa˥˩ t͡ɕjoʊ̯˥˩ i˧˥.tiŋ˥˩ xweɪ̯˥˩ peɪ̯˥˩ pʰiŋ˨˩.weɪ̯˨˩˦ tɤ i˥.ʈ͡ʂɨ˥˩ ʐən˥˩.kʰɤ˨˩˦] (Zhǐ-yào fāng-'àn lùn-zhèng yán-mì xiáng-shí, zhè xiàng jí jù chuàng-xīn qián-lì de qián-yán kē-yán jì-huà jiù yí-dìng huì bèi píng-wěi de yí-zhì rèn-kě.)",
+          "translation": "As long as the project demonstration is rigorous and detailed, this cutting-edge research plan with immense innovation potential will definitely be unanimously recognized by the judges."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "无论面对多么严峻的学术质疑，真正的科学真理永远都不会被暂时的偏见所掩盖。(Wúlùn miànduì duōme yánjùn de xuéshù zhìyí, zhēnzhèng de kēxué zhēnlǐ yǒngyuǎn dōu bú huì bèi zànshí de piānjiàn suǒ yǎngài.)",
+          "reading": "[u˧˥.lwən˥˩ mjɛn˥˩.tweɪ̯˥˩ twɔ˥.mɤ jan˧˥.t͡ɕyn˥˩ tɤ ɕɥɛ˧˥.ʂu˥˩ ʈ͡ʂɨ˥˩.i˧˥, ʈ͡ʂən˥.ʈ͡ʂəŋ˥˩ tɤ kʰɤ˥.ɕɥɛ˧˥ ʈ͡ʂən˥.li˨˩˦ jʊŋ˨˩.jɥɛn˨˩˦ toʊ̯˥ pu˥ xweɪ̯˥˩ peɪ̯˥˩ t͡san˥˩.ʂɨ˧˥ tɤ pʰjɛn˥.t͡ɕjɛn˥˩ swɔ˨˩˦ jan˨˩.kaɪ̯˥˩] (Wú-lùn miàn-duì duō-me yán-jùn de xué-shù zhì-yí, zhēn-zhèng de kē-xué zhēn-lǐ yǒng-yuǎn dōu bú huì bèi zàn-shí de piān-jiàn suǒ yǎn-gài.)",
+          "translation": "No matter how severe the academic skepticism faced, true scientific truth will never be overshadowed by temporary prejudice."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们在户外考察时一定要保管好随身行李，千万不要让贵重仪器被风雨淋湿。(Wǒmen zài hùwài kǎochá shí yídìng yào bǎoguǎn hǎo suíshēn xínglǐ, qiānwàn búyào ràng guìzhòng yíqì bèi fēngyǔ línshī.)",
+          "reading": "[wɔ˨˩.mən t͡saɪ̯˥˩ xu˥˩.waɪ̯˥˩ kʰaʊ̯˨˩.ʈ͡ʂʰa˧˥ ʂɨ˧˥ i˧˥.tiŋ˥˩ jaʊ̯˥˩ paʊ̯˨˩.kwan˨˩˦ xaʊ̯˨˩˦ sweɪ̯˧˥.ʂən˥ ɕiŋ˧˥.li˨˩, t͡ɕʰjɛn˥.wan˥˩ pu˥.jaʊ̯˥˩ ʐɑŋ˥˩ kweɪ̯˥˩.ʈ͡ʂʊŋ˥˩ i˧˥.t͡ɕʰi˥˩ peɪ̯˥˩ fɤŋ˥.y˨˩˦ lin˧˥.ʂɨ˥] (Wǒ-men zài hù-wài kǎo-chá shí yí-dìng yào bǎo-guǎn hǎo suí-shēn xíng-lǐ, qiān-wàn bú-yào ràng guì-zhòng yí-qì bèi fēng-yǔ lín-shī.)",
+          "translation": "When conducting field inspections outdoors, we must take good care of our personal luggage, and must never let precision instruments be drenched by wind and rain."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "没不别与会可能，全在被字前头行；状语排在介词前，语序严谨句式清！"
+      ],
+      "culturalNotes": [
+        "否定词和能愿动词置于「被」前的规则，与「把」字句完全遵循同一句法语序逻辑。掌握这种对称统一的语序原则，能够大幅提升汉语语法构建的准确度。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「被字句与受事主语句 (The BEI Passive Voice)」（第4讲）的标准汉语规范？",
+          "prompt": "在「被」字句中，否定副词（没/不/别）和能愿动词（能/会/应该/必须）的正确语法位置是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (17.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (17.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (17.4.w3)"
+            "必须一律置于介词「被」字的前面 (Must be placed BEFORE '被')",
+            "必须置于主要动词的后面",
+            "必须置于句末",
+            "必须置于施事者和动词之间"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "否定词与能愿动词必须统一置于「被」字之前。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「真正的学术真理永远不会被谎言所掩盖」，语序完全正确的一项是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "真理永远不会被谎言所掩盖。(Negation & modal '不会' precedes '被')",
+            "真理被谎言永远不会掩盖。",
+            "真理被不会谎言掩盖。",
+            "真理谎言被不会所掩盖。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "否定能愿词组「不会」必须置于「被」字前：不会被谎言所掩盖。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「被字句与受事主语句 (The BEI Passive Voice)」的正式语境下，最准确得体的表达是哪一项？（第17.4题）",
+          "prompt": "下列哪一项「被」字句中的否定词位置是完全错误的病句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (17.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (17.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (17.4.x3)"
+            "*这台仪器被工程师没有修好。(Incorrect: '没有' misplaced after '被')",
+            "这台仪器没有被工程师修好。",
+            "这台仪器还没修好。",
+            "工程师没有把这台仪器修好。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "否定词「没有」错误置于「被」字之后，应改为「没有被工程师修好」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u17-l4）所要求的高阶语言表达？",
+          "prompt": "在句子「这项创新技术应该被广泛推广到基层」中，能愿动词「应该」修饰的是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (17.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (17.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (17.4.y3)"
+            "整个后接的被动谓语短语「被广泛推广到基层」 (Modifying the whole passive predicate)",
+            "仅仅修饰主语「这项创新技术」",
+            "仅仅修饰介词「被」",
+            "修饰名词「基层」"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "能愿动词置于「被」前，充当全句的状语修饰整个被动谓语短语。"
         }
       ]
     },
@@ -10289,25 +10303,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「被字句与受事主语句 (The BEI Passive Voice)」的掌握程度，请选出表述完全正确的标准范句（测试 17-4）：",
+          "prompt": "请选出下列句子中否定词与能愿动词位置最规范、论述最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (17.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (17.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (17.4.z3)"
+            "任何具有前瞻性的科研探索都不应该被短期的功利思想所束缚，而必须被赋予充分的探索自由。(「不应该被...束缚」、「必须被赋予...」，语序极其严密规范)",
+            "科研探索被短期的功利思想不应该束缚。(否定能愿词位置严重颠倒)",
+            "探索被必须赋予自由。(能愿词误置于被后)",
+            "科研探索被功利思想束缚不应该。(句式彻底崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句中「不应该被......」与「必须被......」精准契合了现代汉语被动句状语前置的铁律规则。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u17-l4）的核心关键词（例如「被字句与」）：",
+          "prompt": "请输入表达主观意愿与责任「理当如此」的核心两字能愿动词（例如「」被重视，拼音为 yīnggāi）：",
           "acceptedAnswers": [
-            "被字句与",
-            "被字句与受事",
-            "被字句与受事主语句"
+            "应该",
+            "应当"
           ],
-          "explanation": "正确的核心关键词为「被字句与」。"
+          "explanation": "词语「应该」或「应当」是现代汉语中表达情理要求与义务的核心能愿动词。"
         }
       ],
       "passThreshold": 0.8
@@ -10318,85 +10331,89 @@
     "subject": "mandarin",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "被字句与受事主语句 (The BEI Passive Voice) (第5讲)",
+    "title": "学术表彰、历史见证与科技荣光综合被动叙事篇章 (Comprehensive Academic Honors, Historical Legacy & Passive Narrative)",
     "level": "B1",
-    "objective": "全面掌握与熟练运用本课核心内容：介词「被/叫/让」构成的被动句、受事主语句及被动句的负面与中性语用色彩。 (第5部分)。",
+    "objective": "融会贯通现代汉语被字句肯定/否定式、口语体与公文体被动标记（为...所... / 由...予以...）及意义被动句，独立撰写文体庄重、气势宏阔的学术表彰与科技荣光综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将显性被动句（被）、公文与书面典雅被动式（为...所... / 由...予以...）、口语被动（叫/让/给）及意义被动句（受事主语句）熔铸于宏大叙事中，是汉语篇章写作达到高阶水准的集中体现：\n\n一、学术荣誉、科技突破与历史传承叙事脉络：\n1. 科技攻坚成果诞生：关键核心技术难关被青年科学家团队彻底攻克，新成果刚一公布就立刻被国际权威学界争相报道。\n2. 国家表彰与荣誉授予：杰出贡献者被国家授予最高科技功勋奖章，并由国家发展基金予以持续重点资助。\n3. 受事主语句自然交待：所有评审程序全部严格完成，表彰决定也由大会主席团正式宣布。\n4. 历史丰碑与精神铭记：科学家们科技报国的崇高品格，将永远为共和国光辉史册所铭记，为亿万人民所由衷敬仰！\n\n二、全景式科技荣光与学术表彰综合纪实范文赏析：\n- 在国家科学技术奖励大会上，庄严雄壮的国歌声在大礼堂内回荡。经过长达十年的自主攻关，困扰我国高端制造业发展的关键核心技术难关，终于被青年科研攻坚团队彻底攻克了！这一颠覆性的重大创新成果刚一公布，就立刻被国内外权威学术媒体争相报道与高度赞誉。在热烈的掌声中，领衔专家被国家领导人亲自授予了国家最高科学技术奖章，该项目后续的产业化应用也将由国家重点研发计划予以全额专项支持。所有的评奖材料与技术报告均已整理归档完毕，并由国家档案馆永久珍藏。老一辈与新一代科学家胸怀祖国、勇攀高峰的奉献精神，将永远为共和国的光辉史册所深切铭记，永远为全体华夏儿女所由衷崇敬！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '被字句与受事主语句 (The BEI Passive Voice)' in simple terms to students at the academic seminar."
+          "target": "这项颠覆性的量子通信科研成果刚一问世，就立刻被国内外权威学术媒体争相报道与高度赞誉。(Zhè xiàng diānfùxìng de liàngzǐ tōngxìn kēyán chéngguǒ gāng yí wènshì, jiù lìkè bèi guónèi-wài quánwēi xuéshù méitǐ zhēngxiāng bàodào yǔ gāodù zànyù.)",
+          "reading": "[ʈ͡ʂɤ˥˩ ɕjaŋ˥˩ tjɛn˥.fu˥˩.ɕiŋ˥˩ tɤ ljaŋ˥˩.t͡sɨ˨˩˦ tʰʊŋ˥.ɕin˥˩ kʰɤ˥.jan˧˥ ʈ͡ʂʰəŋ˧˥.kwo˨˩˦ kɑŋ˥ i˥ wən˥˩.ʂɨ˥˩, t͡ɕjoʊ̯˥˩ li˥˩.kʰɤ˥˩ peɪ̯˥˩ kwo˧˥.neɪ̯˥˩.waɪ̯˥˩ t͡ɕʰyɛn˧˥.weɪ̯˥ ɕɥɛ˧˥.ʂu˥˩ meɪ̯˨˩.tʰi˨˩˦ ʈ͡ʂəŋ˥.ɕjaŋ˥ paʊ̯˥˩.taʊ̯˥˩ y˨˩˦ kaʊ̯˥.tu˥˩ t͡san˥˩.y˥˩] (Zhè xiàng diān-fù-xìng de liàng-zǐ tōng-xìn kē-yán chéng-guǒ gāng yí wèn-shì, jiù lì-kè bèi guó-nèi-wài quán-wēi xué-shù méi-tǐ zhēng-xiāng bào-dào yǔ gāo-dù zàn-yù.)",
+          "translation": "As soon as this subversive quantum communication scientific research achievement came out, it was immediately reported in competition and highly praised by authoritative academic media at home and abroad."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "经过长达五年的艰苦自主攻关，核心芯片卡脖子技术难关终于被青年科学家攻坚团队彻底攻克了。(Jīngguò cháng dá wǔ nián de jiānkǔ zìzhǔ gōngjiān, héxīn xīnpiàn qiǎbǒzi jìshù nánguān zhōngyú bèi qīngnián kēxuéjiā gōngjiān tuánduì chèdǐ gōngkè le.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ ʈ͡ʂʰɑŋ˧˥ ta˧˥ u˨˩˦ njɛn˧˥ tɤ t͡ɕjɛn˥.kʰu˨˩˦ t͡sɨ˥˩.ʈ͡ʂu˨˩˦ kʊŋ˥.t͡ɕjɛn˥, xɤ˧˥.ɕin˥ ɕin˥.pʰjɛn˥˩ t͡ɕʰja˨˩˦.pwo˨˩.t͡sɨ t͡ɕi˥˩.ʂu˥˩ nan˧˥.kwan˥ ʈ͡ʂʊŋ˥.y˧˥ peɪ̯˥˩ t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ kʊŋ˥.t͡ɕjɛn˥ tʰwan˧˥.tweɪ̯˥˩ t͡ʂʰɤ˥˩.ti˨˩˦ kʊŋ˥.kʰɤ˥ lɤ] (Jīng-guò cháng dá wǔ nián de jiān-kǔ zì-zhǔ gōng-jiān, hé-xīn xīn-piàn qiǎ-bǒ-zi jì-shù nán-guān zhōng-yú bèi qīng-nián kē-xué-jiā gōng-jiān tuán-duì chè-dǐ gōng-kè le.)",
+          "translation": "After five years of arduous independent tackling, the technical bottleneck difficulty of core chips was finally thoroughly overcome by the young scientists' tackling team."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "老一辈科学家为祖国繁荣甘于奉献的崇高精神，将永远为共和国历史所深切铭记与代代传颂。(Lǎo yí bèi kēxuéjiā wèi zǔguó fánróng gānyú fèngxiàn de chónggāo jīngshén, jiāng yǒngyuǎn wéi gònghéguó lìshǐ suǒ shēnqiè míngjì yǔ dàidài chuánsòng.)",
+          "reading": "[laʊ̯˨˩˦ i˥ peɪ̯˥˩ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ weɪ̯˥˩ t͡su˨˩.kwɔ˧˥ fan˧˥.ʐʊŋ˧˥ kan˥.y˧˥ fəŋ˥˩.ɕjɛn˥˩ tɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ t͡ɕiŋ˥.ʂən˧˥, t͡ɕjaŋ˥ jʊŋ˨˩.jɥɛn˨˩˦ weɪ̯˧˥ kʊŋ˥˩.xɤ˧˥.kwɔ˧˥ li˥˩.ʂɨ˨˩˦ swɔ˨˩˦ ʂən˥.t͡ɕʰjɛ˥˩ miŋ˧˥.t͡ɕi˥˩ y˨˩˦ taɪ̯˥˩.taɪ̯˥˩ t͡ʂʰwan˧˥.sʊŋ˥˩] (Lǎo yí bèi kē-xué-jiā wèi zǔ-guó fán-róng gān-yú fèng-xiàn de chóng-gāo jīng-shén, jiāng yǒng-yuǎn wéi gòng-hé-guó lì-shǐ suǒ shēn-qiè míng-jì yǔ dài-dài chuán-sòng.)",
+          "translation": "The lofty spirit of the older generation of scientists willing to dedicate themselves to the prosperity of the motherland will forever be deeply remembered and praised across generations by the history of the Republic."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "青年学者的杰出贡献得到了国家的崇高嘉奖，他们不仅被授予科技创新功勋奖章，更被全社会推选为时代楷模。(Qīngnián xuézhě de jiéchū gòngxiàn dédào le guójiā de chónggāo jiājiǎng, tāmen bùjǐn bèi shòuyǔ kējì chuàngxīn gōngxūn jiǎngzhāng, gèng bèi quán shèhuì tuīxuǎn wéi shídài kǎimó.)",
+          "reading": "[t͡ɕʰiŋ˥.njɛn˧˥ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ tɤ t͡ɕjɛ˧˥.t͡ʂʰu˥ kʊŋ˥˩.ɕjɛn˥˩ tɤ˧˥.taʊ̯˥˩ lɤ kwo˧˥.t͡ɕja˥ tɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ t͡ɕja˥.t͡ɕjaŋ˨˩˦, tʰa˥.mən pu˥.t͡ɕin˨˩˦ peɪ̯˥˩ ʂoʊ̯˥˩.y˨˩˦ kʰɤ˥.t͡ɕi˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ kʊŋ˥.ɕyn˥ t͡ɕjaŋ˨˩.ʈ͡ʂɑŋ˥, kɤŋ˥˩ peɪ̯˥˩ t͡ɕʰyɛn˧˥ ʂɤ˥˩.xweɪ̯˥˩ tʰweɪ̯˥.ɕɥan˨˩˦ weɪ̯˧˥ ʂɨ˧˥.taɪ̯˥˩ kʰaɪ̯˨˩.mwɔ˧˥] (Qīng-nián xué-zhě de jié-chū gòng-xiàn dé-dào le guó-jiā de chóng-gāo jiā-jiǎng, tā-men bù-jǐn bèi shòu-yǔ kē-jì chuàng-xīn gōng-xūn jiǎng-zhāng, gèng bèi quán shè-huì tuī-xuǎn wéi shí-dài kǎi-mó.)",
+          "translation": "The outstanding contributions of young scholars received lofty commendations from the state; they were not only awarded the technological innovation meritorious medal, but also chosen by the entire society as role models of the era."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "争相报道赞誉隆，难关攻克铸伟功；为史所铭传万代，时代楷模建丰功！"
+      ],
+      "culturalNotes": [
+        "在国家科技奖颁奖等重大历史时刻，融合运用「被授予、为...所铭记、由...予以资助」等丰富被动句式，能够极具感染力地传达家国情怀与时代崇敬。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「被字句与受事主语句 (The BEI Passive Voice)」（第5讲）的标准汉语规范？",
+          "prompt": "在科技表彰综合叙事语篇中，串联「成果被媒体报道 -> 难关被攻克 -> 专家被授予奖章 -> 精神为历史所铭记」的逻辑主线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「被字句与受事主语句 (The BEI Passive Voice)」的核心语法法则与应用范例 (17.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (17.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (17.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (17.5.w3)"
+            "被争相报道 -> 难关被彻底攻克 -> 被授予功勋奖章 -> 为共和国历史所深切铭记 (Coherent progression of diverse passive constructions)",
+            "大家都不关心 -> 难关自己解决了 -> 没有奖章 -> 谁也记不住",
+            "只用把字句不用任何被动句",
+            "全篇全是病句"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格融合显性「被」字句与书面语「为......所......」，气魄宏大。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「推选为时代楷模」中的「楷模」意思是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "值得全社会学习的崇高榜样与模范人物 (Role model / Paragon of the era)",
+            "普通路人",
+            "反面典型",
+            "毫无作为的人"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「楷模」是形容具有崇高品德与卓越功勋、堪为世人典范的核心成语词汇。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「被字句与受事主语句 (The BEI Passive Voice)」的正式语境下，最准确得体的表达是哪一项？（第17.5题）",
+          "prompt": "请选出下列荣誉表彰叙事中被动句式融合最典范、文采最斐然的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (17.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (17.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (17.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (17.5.x3)"
+            "科研团队攻克的重大成果不仅被国际顶刊录用，其核心负责人更被授予国家最高荣誉，其奉献精神将永远为后世所铭记。(被录用、被授予、为后世所铭记，句式极度典雅)",
+            "成果被搞出来了，专家被给钱了。(用语粗鄙平淡)",
+            "团队被国际顶刊录用在成果。(语序混乱颠倒)",
+            "为后世所铭记被奉献精神。(句法结构破碎)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在多种被动句式的切换、动补配合及公文典雅度上达到了最高标准。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u17-l5）所要求的高阶语言表达？",
+          "prompt": "在历史叙事中表达某事物的深远影响将被后人代代传唱颂扬，最典雅的四字成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (17.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (17.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (17.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (17.5.y3)"
+            "代代传颂 / 传为佳话 (Praised generation after generation / passed down as fine tale)",
+            "无人问津",
+            "销声匿迹",
+            "过眼云烟"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「代代传颂」是表达历史功勋与精神代代相传的典范成语。"
         }
       ]
     },
@@ -10404,25 +10421,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「被字句与受事主语句 (The BEI Passive Voice)」的掌握程度，请选出表述完全正确的标准范句（测试 17-5）：",
+          "prompt": "请选出下列学术表彰与科技荣光综合叙事语篇中句法最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (17.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (17.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (17.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (17.5.z3)"
+            "在国家科技攻关的壮阔征程中，无数颠覆性难题被青年科学家团队彻底攻克。他们不仅被授予共和国最高科学技术奖章，其卓越成果更是被全社会广泛应用转化。这种科技报国的无私情怀，必将永远为伟大历史所深切铭记，为亿万人民所由衷敬仰！(全篇融合被字句、受事主语句与「为...所...」，气势磅礴，文采卓越)",
+            "大家做了很多实验，被发了奖金，大家都很高兴。(语言浅白立意狭隘)",
+            "难题被攻克在青年科学家，被授予奖章有很多。(语序错乱语法残缺)",
+            "为历史所铭记在奖章被给予。(句式杂糅不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在被动语态体系的综合驾驭、思想立意的高度与词章文采上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u17-l5）的核心关键词（例如「被字句与」）：",
+          "prompt": "请输入表达值得世人学习效仿的杰出榜样核心两字名词（例如时代「」，拼音为 kǎimó）：",
           "acceptedAnswers": [
-            "被字句与",
-            "被字句与受事",
-            "被字句与受事主语句"
+            "楷模"
           ],
-          "explanation": "正确的核心关键词为「被字句与」。"
+          "explanation": "词语「楷模」是现代汉语中指称崇高典范与时代榜样的经典名词。"
         }
       ],
       "passThreshold": 0.8
