@@ -7238,85 +7238,62 @@
     "subject": "amharic",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life) (ክፍል 1)",
+    "title": "የቤት ውስጥ ክፍሎች (Rooms of the House)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤት ኪራይ፣ የቤት ውስጥ ክፍሎች እና ቁሳቁሶች፣ የቦታ መገኛ መግለጫዎች። (ክፍል 1)።",
+    "objective": "የቤት ውስጥ ክፍሎችን (ሳሎን፣ መኝታ ቤት፣ ማብሰያ/ወጥ ቤት፣ መታጠቢያ ቤት፣ በረንዳ፣ ጓሮ) መለየትና መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ዋና ዋና የቤት ውስጥ ክፍሎች እና ተግባራቸው:\n\n፩. የቤት ክፍሎች:\n- ሳሎን: እንግዳ የሚቀበሉበትና ቤተሰብ በአንድነት የሚሰበሰብበት ዋና ክፍል ነው።\n- መኝታ ቤት: ለማረፍና ለመተኛት የሚያገለግል ክፍል ነው።\n- ማብሰያ / ወጥ ቤት: ምግብ የሚዘጋጅበትና የሚበስልበት ክፍል ነው።\n- መታጠቢያ ቤት: ሰውነትን ለመታጠብና ንጽሕናን ለመጠበቅ የሚያገለግል ነው።\n- በረንዳ: ንጹህ አየር የሚወስዱበትና የሚያርፉበት የውጭ መተላለፊያ ነው።\n- ጓሮ / ግቢ: አትክልት የሚተከልበትና ዛፎች ያሉበት የቤት ጀርባ ነው።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«በ... ክፍል ውስጥ» (Inside the ... room):\n- «ቤተሰቡ በሳሎን ውስጥ ተሰብስቧል»\n- «እናት በማብሰያ ቤት ውስጥ ምግብ ታዘጋጃለች»።",
       "examples": [
         {
-          "target": "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)' to the students."
+          "target": "አዲሱ ቤታችን ሰፊ ሳሎን፣ ሦስት መኝታ ቤቶች እና ዘመናዊ ማብሰያ ቤት አለው።",
+          "reading": "Addisu betaččən säfi salon, sost mänyəta betoččənna zämänawi mabsäya bet alläw. [ʔadːiˈsu beˈtatʃːɨn sɛˈfi saˈlon sost mɛɲɨˈta beˈtotʃːɨnːa zɛmɛnaˈwi mabˈsɛja bet ʔalːɛw] (ahd-dee-SOO bay-tahch-CHUN seh-FEE sah-LOHN, sohst men-yuh-TAH bay-TOHCH-choon-nah zeh-meh-nah-WEE mahb-SEH-yah bayt AHL-lew)",
+          "translation": "Our new house has a spacious living room, three bedrooms, and a modern kitchen."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እናት በማብሰያ ቤት ውስጥ ጣፋጭ ምግብ እያዘጋጀች እኛ በረንዳ ላይ ቡና እንጠጣለን።",
+          "reading": "Ənnat bämabsäya bet wəst’ t’əfač’ məgəb əyazzäggağäčč ənya bärända lay bunna ənnət’ät’allän. [ʔɨnːat bɛmabˈsɛja bet wɨstʼ tʼɨˈfatʃʼ mɨɡb ʔɨjazːɛɡːaˈdʒɛtʃː ʔɨɲa bɛrɛnˈda laj bunːa ʔɨnːɨtʼɛˈtʼalːɛn] (un-NAHT beh-mahb-SEH-yah bayt woos-T' t'uh-FAHCH mug-B uh-yahz-zeg-gah-JEHCH un-YAH beh-ren-DAH lye boon-NAH un-nuh-t'eh-T'AHL-len)",
+          "translation": "While mother is preparing delicious food inside the kitchen, we drink coffee on the veranda."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በቤታችን ጓሮ ውስጥ ሎሚ፣ ጌሾ እና የተለያዩ አትክልቶችን ተክለናል።",
+          "reading": "Bäbetaččən gwaro wəst’ lomi, gešo əndihum yätäläyyayu atkəltəwoččən täklänall. [bɛbeˈtatʃːɨn ɡʷaˈro wɨstʼ loˈmi ɡeˈʃo ʔɨndiˈhum jɛtɛlɛjːaˈju ʔatkɨltɨwoˈtʃːɨn tɛkˈlɛnalː] (beh-bay-tahch-CHUN gwah-ROH woos-T' loh-MEE, gay-SHOH un-dee-HOOM yeh-teh-ley-yah-YOO aht-kul-tuh-wohch-CHUN tek-LEH-nahl)",
+          "translation": "In our house's backyard, we have planted lemons, gesho, and various vegetables."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "House Blueprint: ሳሎን (Living) + መኝታ ቤት (Bedroom) + ማብሰያ ቤት (Kitchen) + በረንዳ (Porch)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል ሳሎን እንግዶች በክብር የሚስተናገዱበትና የቡና ስነ-ስርዓት በሳርና በዕጣን ታጅቦ የሚካሄድበት ዋና የቤት ማዕከል ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Living room, bedroom, and kitchen» የሚለውን በአማርኛ ትክክለኛ የክፍል ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (16.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (16.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (16.1.w3)"
+            "ሳሎን፣ መኝታ ቤት እና ማብሰያ ቤት (Living room, bedroom, and kitchen - Correct house rooms)",
+            "መኪና፣ አውቶቡስ እና ባቡር",
+            "እርሳስ፣ ደብተር እና መጽሐፍ",
+            "ሱሪ፣ ሸሚዝ እና ኮት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሳሎን»፣ «መኝታ ቤት» እና «ማብሰያ ቤት» ሦስቱን ዋና ዋና የቤት ክፍሎችን ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u16-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Food is prepared in the kitchen' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (16.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (16.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (16.1.x3)"
+            "ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል። (Food is prepared in the kitchen - Accurate household location)",
+            "ምግብ በመኝታ ቤት ይዘጋጃል",
+            "ምግብ በመታጠቢያ ቤት ይበስላል",
+            "ወጥ ቤት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (16.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (16.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (16.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል» የምግብ ማብሰል ተግባር የሚከናወንበትን ክፍል በትክክል ያሳያል።"
         }
       ]
     },
@@ -7324,24 +7301,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 16-1):",
+          "prompt": "የቤት ውስጥ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (16.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (16.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (16.1.z3)"
+            "ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት፣ መታጠቢያ ቤት፣ በረንዳ እና ጓሮ።",
+            "ቡና፣ ሻይ፣ ወተት እና ጭማቂ።",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ።",
+            "በአማርኛ የቤት ክፍሎች ስም የላቸውም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት ክፍሎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u16-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መኖሪያ»):",
+          "prompt": "'ሳሎን / Living room' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መኖሪያ",
-            "መኖሪያ"
+            "ሳሎን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መኖሪያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሳሎን» (Salon) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7352,85 +7328,62 @@
     "subject": "amharic",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life) (ክፍል 2)",
+    "title": "የቤት እቃዎች እና ቁሳቁሶች (Furniture & Household Items)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤት ኪራይ፣ የቤት ውስጥ ክፍሎች እና ቁሳቁሶች፣ የቦታ መገኛ መግለጫዎች። (ክፍል 2)።",
+    "objective": "የቤት እቃዎችን (ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ዋና ዋና የቤት እቃዎች እና ቁሳቁሶች:\n\n፩. የቤት እቃዎች (Furniture):\n- ሶፋ: በሳሎን ውስጥ ለመቀመጫ የሚያገለግል ምቹ እቃ።\n- አልጋ: ለመኝታ የሚያገለግል ፍራሽ ያለው እቃ።\n- ጠረጴዛ እና ወንበር: ለመመገቢያና ለንባብ የሚያገለግሉ።\n- ቁም ሣጥን: ልብሶችንና ንብረቶችን ለማስቀመጥ የሚያገለግል።\n\n፪. የኤሌክትሮኒክስ እና የማብሰያ እቃዎች:\n- ፍሪጅ (ማቀዝቀዣ): ምግቦች እንዳይበላሹ የሚያቀዘቅዝ።\n- ምድጃ: ወጥ የሚሰራበትና እንጀራ የሚጋገዝበት የኤሌክትሪክ ወይም የጋዝ እቃ።\n- መጋረጃ እና ምንጣፍ: ክፍሉን የሚያስውቡና የሚያሞቁ።",
       "examples": [
         {
-          "target": "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)' to the students."
+          "target": "ለአዲሱ ሳሎናችን ምቹ የሆነ የቆዳ ሶፋ፣ የእንጨት ጠረጴዛ እና ውብ ምንጣፍ ገዛን።",
+          "reading": "Lä'addisu salonaččən məč’u yähonä yäqoda sofa, yä'ənč’ät t’äräp’p’eza əndihum wəbb mənət’af gäzzan. [lɛʔadːiˈsu saloˈnatʃːɨn mɨtʃʼu jɛhoˈnɛ jɛkʼoˈda soˈfa jɛʔɨntʃʼɛt tʼɛrɛpʼːeˈza ʔɨndiˈhum wɨbː mɨnɨˈtʼaf ɡɛzːan] (leh-ahd-dee-SOO sah-loh-NAHCH-chun muh-CH'OO yeh-HOH-neh yeh-k'oh-DAH soh-FAH, yeh-un-ch'ET t'eh-rep'-PAY-zah un-dee-HOOM wub-B muh-nuh-T'AHF gez-ZAHN)",
+          "translation": "For our new living room we bought a comfortable leather sofa, a wooden table, and a beautiful carpet."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በመኝታ ቤቱ ውስጥ ሰፊ ድርብ አልጋ እና ባለ ሦስት በር ቁም ሣጥን ተቀምጧል።",
+          "reading": "Bämänyəta betu wəst’ säfi dərəbb alga əndihum balä sost bärr qum sat’ən täqämət’wall. [bɛmɛɲɨˈta beˈtu wɨstʼ sɛˈfi dɨˈrɨbː ʔalˈɡa ʔɨndiˈhum baˈlɛ sost bɛrː kʼum satʼn tɛkʼɛmɨˈtʼwalː] (beh-men-yuh-TAH bay-TOO woos-T' seh-FEE duh-RUB ah-L-gah un-dee-HOOM bah-LEH sohst ber-R k'oom SAHT'-un teh-k'eh-mut'-WAHL)",
+          "translation": "Inside the bedroom, a wide double bed and a three-door wardrobe are placed."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በማብሰያ ቤቱ ውስጥ አዲሱ ፍሪጅ እና ዘመናዊው የኤሌክትሪክ ምድጃ ተገጥመዋል።",
+          "reading": "Bämabsäya betu wəst’ addisu fəridğ əndihum zämänawiw yä'elektrik mədəğğa tägät’məwall. [bɛmabˈsɛja beˈtu wɨstʼ ʔadːiˈsu fɨˈridʒ ʔɨndiˈhum zɛmɛnaˈwiw jɛʔɛlekˈtrik mɨdɨdʒːa tɛɡɛtʼmɨˈwalː] (beh-mahb-SEH-yah bay-TOO woos-T' ahd-dee-SOO fuh-REEJ un-dee-HOOM zeh-meh-nah-WEE-woo yeh-eh-lek-TREEK muh-duj-JAH teh-get'-muh-WAHL)",
+          "translation": "Inside the kitchen, the new refrigerator and the modern electric stove have been installed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Furniture Suite: ሶፋ (Sofa) + አልጋ (Bed) + ጠረጴዛ (Table) + ቁም ሣጥን (Wardrobe)!"
+      ],
+      "culturalNotes": [
+        "በባህላዊ የኢትዮጵያ ቤት ውስጥ 'በርጩማ' (ባለ ሦስት እግር የእንጨት መቀመጫ) እና 'መስቀያ' ጥንታዊና ተወዳጅ የቤት ቁሳቁሶች ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Sofa, bed, table, and wardrobe» የሚለውን በአማርኛ ትክክለኛ የቤት እቃዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (16.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (16.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (16.2.w3)"
+            "ሶፋ፣ አልጋ፣ ጠረጴዛ እና ቁም ሣጥን (Sofa, bed, table, and wardrobe - Correct furniture items)",
+            "ስልክ፣ ቴሌቪዥን እና ሬዲዮ",
+            "ሹካ፣ ማንኪያ እና ቢላዋ",
+            "ሸሚዝ፣ ሱሪ እና ጫማ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሶፋ»፣ «አልጋ»፣ «ጠረጴዛ» እና «ቁም ሣጥን» ዋና ዋና የቤት ውስጥ እቃዎችን ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u16-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'A large wardrobe is in the bedroom' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (16.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (16.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (16.2.x3)"
+            "በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ። (A large wardrobe is in the bedroom - Accurate furniture statement)",
+            "ቁም ሣጥን በመንገድ ላይ አለ",
+            "ምንም እቃ የለም",
+            "አልጋ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (16.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (16.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (16.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ» የቁም ሣጥኑን መገኛና መጠን በትክክል ያሳያል።"
         }
       ]
     },
@@ -7438,24 +7391,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 16-2):",
+          "prompt": "የቤት እቃዎችንና ቁሳቁሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (16.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (16.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (16.2.z3)"
+            "ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ እና ምንጣፍ።",
+            "አውሮፕላን፣ መርከብ እና ሄሊኮፕተር።",
+            "ድንጋይ፣ አሸዋ እና ሲሚንቶ ብቻ።",
+            "በአማርኛ የቤት እቃዎች ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት እቃዎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u16-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መኖሪያ»):",
+          "prompt": "'ጠረጴዛ / Table' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መኖሪያ",
-            "መኖሪያ"
+            "ጠረጴዛ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መኖሪያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ጠረጴዛ» (T’äräp’p’eza) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7466,85 +7418,62 @@
     "subject": "amharic",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life) (ክፍል 3)",
+    "title": "የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying & Lease Agreements)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤት ኪራይ፣ የቤት ውስጥ ክፍሎች እና ቁሳቁሶች፣ የቦታ መገኛ መግለጫዎች። (ክፍል 3)።",
+    "objective": "የቤት ኪራይና ግዢ ቃላትን (ኪራይ፣ ተከራይ፣ አከራይ፣ ውል፣ ቅድመ ክፍያ፣ ደላላ) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቤት ኪራይ፣ ግዢ እና ህጋዊ ውል መዋቅሮች:\n\n፩. የኪራይና የግዢ ቃላት:\n- ኪራይ: በየወሩ የሚከፈል የመኖሪያ ቤት ክፍያ።\n- አከራይ: የቤቱ ባለቤት ሆኖ ቤቱን ለሌላ ሰው የሚያከራይ።\n- ተከራይ: የኪራይ ገንዘብ ከፍሎ በቤቱ ውስጥ የሚኖር።\n- ደላላ: አከራይና ተከራይን የሚያገናኝ መካከለኛ ባለሙያ።\n- የቤት ውል: በአከራይና በተከራይ መካከል የሚደረግ ህጋዊ የጽሑፍ ስምምነት።\n- ቅድመ ክፍያ: ውል ሲፈረም አስቀድሞ የሚከፈል የተቀማጭ ገንዘብ።\n\n፪. ሰዋሰዋዊ አገባብ:\n«ቤት መከራየት እፈልጋለሁ» (I want to rent a house):\n- «የወሩ ኪራይ ስንት ነው?»\n- «የስድስት ወር ቅድመ ክፍያ ከፍዬ ውል ፈረምኩ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)' to the students."
+          "target": "በከተማዋ መሀል ለትራንስፖርት ምቹ የሆነ ባለ ሁለት መኝታ ቤት ተከራየሁ።",
+          "reading": "Bä-kätämawa mähäl lätiransport məč’u yähonä balä hulätt mänyəta bet täkärayyähu. [bɛkɛtɛmaˈwa mɛˈhɛl lɛtiransˈport mɨtʃʼu jɛhoˈnɛ baˈlɛ huˈlɛtː mɛɲɨˈta bet tɛkɛraˈjːɛhu] (beh-keh-teh-mah-WAH meh-HEL leh-tee-rahns-POHRT muh-CH'OO yeh-HOH-neh bah-LEH hoo-LET-t muh-nuh-TAH bayt teh-keh-ry-YEH-hoo)",
+          "translation": "In the center of the city, I rented a two-bedroom house convenient for transportation."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ከአከራዩ ጋር የሁለት ዓመት የቤት ኪራይ ውል ተፈራርመን የቅድመ ክፍያ ከፈልን።",
+          "reading": "Kä'akärayu gara yähulätt ʿamät yäbet kiray wəl täfärarrəmän yäqəddəmä kəffəya käfäln. [kɛʔakɛraˈju ɡaˈra jɛhuˈlɛtː ʔaˈmɛt jɛbet kiˈraj wɨl tɛfɛrarːɨˈmɛn jɛkʼɨdːɨˈmɛ kɨfːɨˈja kɛˈfɛln] (keh-ah-keh-rah-YOO gah-RAH yeh-hoo-LET-t ah-MET yeh-BAYT kee-RY wul teh-feh-rahr-ruh-MEN yeh-k'ud-duh-MEH kuf-fuh-YAH keh-FEL-un)",
+          "translation": "We signed a two-year house lease agreement with the landlord and paid the deposit."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ደላላው ተስማሚ ቤት እንድናገኝና ከአከራዩ ጋር እንድንደራደር ረዳን።",
+          "reading": "Dälalaw täsmami bet əndənnagänyənna kä'akärayu gara əndənnədäraddär rəddan. [dɛlaˈlaw tɛsmaˈmi bet ʔɨndɨnːaˈɡɛɲɨnːa kɛʔakɛraˈju ɡaˈra ʔɨndɨnːɨdɛradːɛr rɨdːan] (deh-lah-LAHW tes-mah-MEE bayt un-dun-nah-GEN-yun-nah keh-ah-keh-rah-YOO gah-RAH un-dun-nuh-deh-rahd-DER rud-DAHN)",
+          "translation": "The broker helped us find a suitable house and negotiate with the landlord."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Lease Cycle: አከራይ (Landlord) + ተከራይ (Tenant) + ውል (Contract) + ኪራይ (Rent)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ከተሞች የመኖሪያ ቤት ሲከራይ የጽሑፍ ውል ማዘጋጀትና በሕግ ክፍል ማስመዝገብ ሁለቱንም ወገኖች ከክርክር የሚጠብቅ አስፈላጊ አሰራር ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Signing a house rental contract» የሚለውን በአማርኛ ትክክለኛ የኪራይ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (16.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (16.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (16.3.w3)"
+            "የቤት ኪራይ ውል መፈረም (Signing a house rental contract - Correct legal leasing action)",
+            "ቤት መስበር",
+            "ውል መቅደድ",
+            "ኪራይ አለመክፈል"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የቤት ኪራይ ውል መፈረም» ህጋዊውን የስምምነት ድርጊት በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u16-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I paid the deposit to the landlord' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (16.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (16.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (16.3.x3)"
+            "ለአከራዩ የቅድመ ክፍያ ከፈልኩ። (I paid the deposit to the landlord - Accurate rental payment)",
+            "አከራይ አልከፈልኩም",
+            "ምንም ቤት አልተከራየሁም",
+            "ቅድመ ክፍያ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (16.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (16.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (16.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ለአከራዩ የቅድመ ክፍያ ከፈልኩ» ክፍያውንና ተቀባዩን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -7552,24 +7481,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 16-3):",
+          "prompt": "የቤት ኪራይና ውል ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (16.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (16.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (16.3.z3)"
+            "የቤት ኪራይ፣ አከራይ፣ ተከራይ፣ ደላላ፣ ህጋዊ ውል እና ቅድመ ክፍያ።",
+            "ስኒ፣ ድስት እና ጭልፋ።",
+            "ኮት፣ ከረባት እና ጓንት።",
+            "በአማርኛ የኪራይ ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኪራይና ውል ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u16-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መኖሪያ»):",
+          "prompt": "'ኪራይ / Rent, lease payment' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መኖሪያ",
-            "መኖሪያ"
+            "ኪራይ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መኖሪያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ኪራይ» (Kiray) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7580,85 +7508,62 @@
     "subject": "amharic",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life) (ክፍል 4)",
+    "title": "የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatial Relations & Prepositions)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤት ኪራይ፣ የቤት ውስጥ ክፍሎች እና ቁሳቁሶች፣ የቦታ መገኛ መግለጫዎች። (ክፍል 4)።",
+    "objective": "የቦታ መገኛ መስተዋድዶችን (ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ/ጎን፣ መካከል) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቦታ መገኛና አንጻራዊ አቀማመጥ መስተዋድዶች:\n\n፩. የመገኛ ቃላት (Spatial Prepositions):\n- በ... ላይ: በአንድ ነገር የላይኛው ክፍል ላይ (On / upon)።\n- በ... ሥር: ከአንድ ነገር በታች ወይም ከስር (Under / beneath)።\n- በ... ውስጥ: በአንድ ነገር ውስጣዊ ክፍል (Inside)።\n- በ... ውጭ: ከአንድ ነገር ወጣ ብሎ (Outside)።\n- በ... ፊት ለፊት: በአንድ ነገር ፊት ትይዩ (In front of)።\n- በ... ጀርባ / ኋላ: ከአንድ ነገር በስተጀርባ (Behind)።\n- በ... አጠገብ / ጎን: በአንድ ነገር ቅርበት (Beside / next to)።\n- በ... መካከል: በሁለት ወይም በብዙ ነገሮች መሃል (Between / among)።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«በ + [ስም] + [የቦታ መስተዋድድ] + አለ / ተቀምጧል»:\n- «መጽሐፉ በጠረጴዛው ላይ አለ»\n- «ድመቷ ከአልጋው ሥር ተኝታለች»።",
       "examples": [
         {
-          "target": "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)' to the students."
+          "target": "መጽሐፉና የብርጭቆው ማስቀመጫ በጠረጴዛው ላይ ተቀምጠዋል።",
+          "reading": "Mäts’hafuna yäbərč’əqqow masqämäč’a bät’äräp’p’ezaw lay täqämət’äwall. [mɛtsʼhaˈfuna jɛbɨrtʃʼɨkʼːow maskʼɛmɛˈtʃʼa bɛtʼɛrɛpʼːeˈzaw laj tɛkʼɛmɨˈtʼɛwalː] (mets'-HAH-foo-nah yeh-bur-ch'uk'-K'OH mahs-k'eh-meh-CH'AH beh-t'eh-rep'-PAY-zow lye teh-k'eh-mut'-EH-wahl)",
+          "translation": "The book and the glass holder are placed on the table."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ቴሌቪዥኑ በሶፋው ፊት ለፊት ሲሆን ምንጣፉ በክፍሉ መካከል ተዘርግቷል።",
+          "reading": "Televizyənu bäsofaw fit läfit sihon mənət’afu bäkəfəlu mäkkakäl täzärgətwall. [televizˈjɨnu bɛsoˈfaw fit ləˈfit siˈhon mɨnɨˈtʼafu bɛkɨfˈlu mɛkːaˈkɛl tɛzɛrɡɨˈtwalː] (tay-lay-veez-YUH-noo beh-soh-FOW feet leh-FEET see-HOHN muh-nuh-T'AH-foo beh-kuf-LOO mek-kah-KEL teh-zer-gut-WAHL)",
+          "translation": "While the television is in front of the sofa, the carpet is spread in the middle of the room."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ቁልፌን ከቁም ሣጥኑ ጀርባ በድንገት አገኘሁት።",
+          "reading": "Qulfen käqum sat’ənu ğärba bädəngät agänyähut. [kʼulˈfen kɛkʼum satʼɨˈnu dʒɛrˈba bɛdɨnˈɡɛt ʔaɡɛˈɲɛhut] (k'ool-FAYN keh-k'oom sah-t'uh-NOO jer-BAH beh-dun-GET ah-gen-YEH-hoot)",
+          "translation": "I accidentally found my key behind the wardrobe."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Spatial Compass: ላይ (On) + ሥር (Under) + ፊት ለፊት (In front) + ጀርባ (Behind)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ሰዋሰው የቦታ መስተዋድዶች ሁልጊዜ 'በ...' ወይም 'ከ...' ከሚለው ቅድመ-መስተዋድድ ጋር ተጣምረው እንደ ድርብ መስተዋድድ ያገለግላሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«The book is on the table» የሚለውን በአማርኛ ትክክለኛ የቦታ መስተዋድድ የተጠቀመው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (16.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (16.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (16.4.w3)"
+            "መጽሐፉ በጠረጴዛው ላይ አለ። (The book is on the table - Correct spatial preposition)",
+            "መጽሐፉ ጠረጴዛ ነው",
+            "መጽሐፉ ጠረጴዛ የለውም",
+            "መጽሐፍ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በጠረጴዛው ላይ» የሚለው ድርብ መስተዋድድ የቦታ መገኛን በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u16-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The shoes are under the bed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (16.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (16.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (16.4.x3)"
+            "ጫማዎቹ ከአልጋው ሥር ናቸው። (The shoes are under the bed - Accurate spatial location)",
+            "ጫማዎቹ አልጋ ላይ ናቸው",
+            "ጫማ አልጋ ነው",
+            "ጫማ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (16.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (16.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (16.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ከአልጋው ሥር ናቸው» ከአልጋ በታች መሆናቸውን በትክክል ያመለክታል።"
         }
       ]
     },
@@ -7666,24 +7571,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 16-4):",
+          "prompt": "የቦታ መገኛ መስተዋድዶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (16.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (16.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (16.4.z3)"
+            "ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ እና መካከል ናቸው።",
+            "ትናንት፣ ዛሬ እና ነገ።",
+            "ቀይ፣ ቢጫ እና አረንጓዴ።",
+            "በአማርኛ የቦታ መስተዋድዶች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታ መገኛ መስተዋድዶችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u16-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መኖሪያ»):",
+          "prompt": "'ውስጥ / Inside, within' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መኖሪያ",
-            "መኖሪያ"
+            "ውስጥ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መኖሪያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ውስጥ» (Wəst’) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7694,85 +7598,62 @@
     "subject": "amharic",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life) (ክፍል 5)",
+    "title": "የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand Synthesis & Housing Discourse)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤት ኪራይ፣ የቤት ውስጥ ክፍሎች እና ቁሳቁሶች፣ የቦታ መገኛ መግለጫዎች። (ክፍል 5)።",
+    "objective": "ክፍሎችን፣ የቤት እቃዎችን፣ የኪራይ ውልንና የቦታ መገኛ መስተዋድዶችን ያቀናጀ የተሟላ የቤት ኑሮ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፮ አጠቃላይ ሰዋሰዋዊ ውህደት እና የመኖሪያ ቤት ተግባቦት ማጠቃለያ:\n\n፩. የቤት ክፍሎች:\n- ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት፣ መታጠቢያ ቤት፣ በረንዳ፣ ጓሮ።\n\n፪. የቤት እቃዎች:\n- ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ።\n\n፫. የቤት ኪራይ እና ውል:\n- አከራይ፣ ተከራይ፣ ደላላ፣ ህጋዊ ውል፣ ቅድመ ክፍያ።\n\n፬. የቦታ መገኛ መስተዋድዶች:\n- ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ፣ መካከል (በ... ላይ፣ በ... ሥር)።",
       "examples": [
         {
-          "target": "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)' to the students."
+          "target": "አዲስ ቤት ተከራይተን ውል ከፈረምን በኋላ እቃዎቻችንን በየክፍሉ ውስጥ በሚገባ አደራጀን።",
+          "reading": "Addis bet täkärayətän wəl käfärrämən bähwala əqawoččaččənən bäyyäkəfəlu wəst’ bämigäba addärrağğän. [ʔadːis bet tɛkɛraˈjɨtɛn wɨl kɛfɛrːəˈmɨn bɛhʷaˈla ʔɨkʼawotʃːaˈtʃːɨnɨn bɛjːɛkɨfˈlu wɨstʼ bɛmiɡɛˈba ʔadːɛrːadʒːɛn] (ahd-DEES bayt teh-keh-ry-TEN wul keh-fer-ruh-MUN beh-hwah-LAH uh-k'ah-wohch-CHAHCH-chun-un bey-yeh-kuf-LOO woos-T' beh-mee-geh-BAH ahd-der-RAHJ-jen)",
+          "translation": "After renting a new house and signing the contract, we properly organized our belongings inside each room."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በሳሎኑ መካከል ውብ ምንጣፍ ተነጥፎ ሶፋው በቴሌቪዥኑ ፊት ለፊት ተቀምጧል።",
+          "reading": "Bäsalonu mäkkakäl wəbb mənət’af tänät’fo sofaw bä-televizyənu fit läfit täqämət’wall. [bɛsaloˈnu mɛkːaˈkɛl wɨbː mɨnɨˈtʼaf tɛnɛtʼˈfo soˈfaw bɛtelevizˈjɨnu fit ləˈfit tɛkʼɛmɨˈtʼwalː] (beh-sah-loh-NOO mek-kah-KEL wub-B muh-nuh-T'AHF teh-net'-FOH soh-FAW beh-tay-lay-veez-YUH-noo feet leh-FEET teh-k'eh-mut'-WAHL)",
+          "translation": "In the middle of the living room, a beautiful carpet is laid and the sofa is placed in front of the television."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ጎረቤቶቻችንን እና ጓደኞቻችንን በበረንዳችን ላይ በደስታ ተቀብለን የቡና ስነ-ስርዓት አደረግን።",
+          "reading": "Gworäbetoččaččənənənna gwadänyoččaččənən bäbärändaččən lay bädässəta täqäbbəlän yäbunna sənä-sərʿat adärrägn. [ɡʷorɛbetoˈtʃːatʃːɨnɨnːa ɡʷadɛɲoˈtʃːatʃːɨnɨn bɛbɛrɛnˈdatʃːɨn laj bɛdɛsːɨˈta tɛkʼɛbːɨˈlɛn jɛbunːa sɨnɛsɨrˈʔat ʔadɛrːɛɡn] (gwoh-reh-bay-TOHCH-chahch-CHUN-un-nah gwah-den-yohch-CHAHCH-chun-un beh-beh-ren-DAHCH-chun lye beh-des-suh-TAH teh-k'eb-buh-LEN yeh-boon-NAH suh-neh-sur-AHT ah-der-REG-un)",
+          "translation": "We happily welcomed our neighbors and friends on our veranda and conducted a coffee ceremony."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Home Harmony: Shelter (ቤት) + Furniture (እቃዎች) + Contract (ውል) + Arrangement (አቀማመጥ)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል አዲስ ቤት ሲገባ 'ምርቃት' ወይም 'የቤት ምርቃት' ተብሎ ጎረቤቶችና ዘመዶች ተጠርተው የሚደረግ ታላቅ የምስጋናና የደስታ በዓል አለ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የመኖሪያ ቤት አደረጃጀትና የኪራይ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (16.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (16.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (16.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (16.5.w3)"
+            "ቤት ተከራየን፣ ውል ፈረምን፣ እንዲሁም የቤት እቃዎችን በየክፍሉ ውስጥ አደራጀን። (Complete housing, lease, and arrangement synthesis)",
+            "ቤት የለንም",
+            "ምንም እቃ አልገዛንም",
+            "ውል አልፈረምንም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ መከራየትን፣ ውል መፈረምንና እቃዎችን ማደራጀትን በአንድነት ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u16-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የቤት እቃዎችንና የቦታ መገኛ መስተዋድዶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (16.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (16.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (16.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (16.5.x3)"
+            "ሶፋው በሳሎኑ ውስጥ በጠረጴዛው ፊት ለፊት ተቀምጧል። (The sofa is placed in the living room in front of the table - Integrated spatial furniture sentence)",
+            "ሶፋ የለም",
+            "ጠረጴዛው ተሰብሯል",
+            "ምንም ክፍል የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«መኖሪያ ቤት እና የቤት እቃዎች (Housing & Home Life)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (16.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (16.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (16.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (16.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የቤት እቃውን (ሶፋ)፣ ክፍሉን (ሳሎን) እና የቦታ መገኛውን (ፊት ለፊት) በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -7780,24 +7661,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 16-5):",
+          "prompt": "የክፍል 16 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (16.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (16.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (16.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (16.5.z3)"
+            "የቤት ውስጥ ክፍሎች (ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት)፣ የቤት እቃዎችና ቁሳቁሶች፣ የቤት ኪራይና ህጋዊ ውል፣ እንዲሁም የቦታ መገኛ መስተዋድዶች ተካተዋል።",
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው።",
+            "በአማርኛ የቤት ቃላት የሉም።",
+            "ሁሉም ክፍሎች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 16ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u16-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «መኖሪያ»):",
+          "prompt": "'መኖሪያ ቤት / Residential house, home' የሚለውን ሐረግ በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "መኖሪያ",
+            "መኖሪያ ቤት",
             "መኖሪያ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «መኖሪያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «መኖሪያ ቤት» (Mänoriya bet) ወይም «መኖሪያ» ነው።"
         }
       ],
       "passThreshold": 0.8
