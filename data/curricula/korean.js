@@ -3703,56 +3703,65 @@
     "subject": "korean",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) (Part 1)",
+    "title": "동작의 역동적 진행상 어미 (-고 있다)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다).",
+    "objective": "발화 시점에 어떤 동작이 실시간으로 진행되고 있음을 나타내는 진행상 어미 '-고 있다'의 결합 구조와 주체 높임 형태('-고 계시다')를 완벽히 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) » (제1절)의 핵심 언어 요소와 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 현재 발화 시점에 동작이 계속해서 진행 중임을 나타낼 때는 동사 어간 뒤에 진행상 어미 '-고 있다'를 결합합니다.\n\n1. 형태 결합 규칙:\n- 동사 어간의 받침 유무와 관계없이 어간에 바로 '-고 있다'를 붙입니다.\n  - 먹다 → 먹고 있어요 (am/is/are eating)\n  - 마시다 → 마시고 있어요 (am/is/are drinking)\n  - 읽다 → 읽고 있어요 (am/is/are reading)\n  - 공부하다 → 공부하고 있어요 (am/is/are studying)\n  - 청소하다 → 청소하고 있어요 (am/is/are cleaning)\n\n2. 주체 높임 형태 ('-고 계시다'):\n주어가 존경과 예우의 대상(선생님, 부모님, 사장님 등)일 때는 '있다' 대신 높임 특수 용언 '계시다'를 사용하여 '-고 계시다 / -고 계십니다'로 표현합니다.\n- \"선생님께서 교실에서 학생들을 가르치고 계십니다.\"\n- \"아버지께서 거실에서 신문을 읽고 계세요.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (8.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "지금 도서관에서 한국어 시험을 준비하고 있어요.",
+          "reading": "Jigeum doseogwan-eseo hangug-eo siheom-eul junbihago isseoyo.",
+          "translation": "I am preparing for the Korean exam at the library right now."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (8.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어머니께서 주방에서 저녁 식사를 만들고 계세요.",
+          "reading": "Eomeoni-kkeseo jubang-eseo jeonyeok siksa-reul mandeulgo gyeseyo.",
+          "translation": "Mother is making dinner in the kitchen (Honorific Progressive)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (8.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "친구와 함께 카페에서 시원한 아이스커피를 마시고 있어요.",
+          "reading": "Chingu-wa hamkke kape-eseo siwonhan aiseukeopi-reul masigo isseoyo.",
+          "translation": "I am drinking cool iced coffee with a friend at the cafe."
+        },
+        {
+          "target": "지하철 안에서 많은 사람들이 스마트폰을 보고 있습니다.",
+          "reading": "Jihacheol an-eseo maneun saramdeul-i seumateupon-eul bogo itseumnida.",
+          "translation": "Many people are looking at their smartphones on the subway."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "동작 진행 중일 땐 동사 뒤에 '-고 있다'! 어른께는 공손하게 '-고 계시다'!"
+      ],
+      "culturalNotes": [
+        "전화 통화에서 '지금 뭐 하고 있어요?'는 한국인들이 대화를 시작할 때 상대방의 현재 상황을 배려하며 묻는 가장 일상적인 안부 질문입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '공부하다(to study)'를 현재 동작 진행형으로 나타낸 올바른 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (8.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (8.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (8.1.3)."
+            "공부하고 있어요",
+            "공부해 있어요",
+            "공부하겠어요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "동작의 진행은 동사 어간에 '-고 있다'가 결합한 '공부하고 있어요'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'선생님께서 책을 _____' 빈칸에 들어갈 가장 알맞은 주체 높임 진행 표현은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (8.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (8.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (8.1.3)."
+            "읽고 계십니다",
+            "읽고 있습니다",
+            "읽어 있습니다"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "주어가 '선생님'이므로 '있다'의 높임 형태인 '읽고 계십니다'가 가장 예의 바릅니다."
         }
       ]
     },
@@ -3760,14 +3769,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 8-1)?",
+          "prompt": "'A: 지금 어디에서 뭐 해요? B: 식당에서 친구와 밥을 _____.' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (8.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (8.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (8.1.3)."
+            "먹고 있어요",
+            "먹어 있어요",
+            "먹겠어요"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "현재 식사 동작을 진행 중임을 나타내므로 '먹고 있어요'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'책을 읽고 있어요'(I am reading a book)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "책을 읽고 있어요.",
+            "책을 읽고 있어요"
+          ],
+          "explanation": "책을(목적어) + 읽고 있어요(읽다의 진행형) = 책을 읽고 있어요."
         }
       ]
     }
@@ -3777,56 +3795,65 @@
     "subject": "korean",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) (Part 2)",
+    "title": "완료된 동작의 결과 상태 지속 (-아/어 있다)",
     "level": "A2",
-    "objective": "Comprehensive mastery of 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다).",
+    "objective": "동작이 완료된 후 그 결과 상태가 계속 유지되고 있음을 나타내는 '-아/어 있다'의 상적 의미와 자동사 결합 필수 제약을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) » (제2절)의 핵심 언어 요소와 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "보조용언 '-아/어 있다'는 동작 자체가 일어나는 중이 아니라, 동작이 끝난 뒤 그로 인해 형성된 '결과 상태(Resultant State)'가 지속됨을 나타냅니다.\n\n1. 자동사(Intransitive Verbs) 결합 제약:\n'-아/어 있다'는 목적어를 취하지 않는 자동사 또는 피동사와 결합합니다 (타동사 결합 불가).\n- 자세/위치 동사:\n  - 앉다 (to sit) → 의자에 앉아 있어요 (is seated in a chair)\n  - 서다 (to stand) → 문 앞에 서 있어요 (is standing in front of the door)\n  - 눕다 (to lie) → 침대에 누워 있어요 (is lying in bed)\n- 상태/피동 동사:\n  - 열리다 (to be open) → 창문이 열려 있어요 (The window is open)\n  - 닫히다 (to be closed) → 문이 닫혀 있어요 (The door is closed)\n  - 피다 (to bloom) → 정원에 장미꽃이 피어 있어요 (Roses are in bloom)\n  - 떨어지다 (to fall) → 낙엽이 떨어져 있어요 (Fallen leaves lie on the ground)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (8.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "손님들이 로비 소파에 편하게 앉아 있습니다.",
+          "reading": "Sonnimdeul-i robi sopa-e pyeonhage anja itseumnida.",
+          "translation": "The guests are seated comfortably on the lobby sofa."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (8.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "환기를 위해 교실 창문이 활짝 열려 있어요.",
+          "reading": "Hwangi-reul wihae gyosil changmun-i hwaljjak yeollyeo isseoyo.",
+          "translation": "The classroom window is wide open for ventilation."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (8.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "봄이 와서 공원에 화사한 벚꽃이 활짝 피어 있어요.",
+          "reading": "Bom-i waseo gongwon-e hwasahan beotkkochi hwaljjak pieo isseoyo.",
+          "translation": "Spring has come, and brilliant cherry blossoms are in full bloom in the park."
+        },
+        {
+          "target": "안내 데스크 앞에 한 남자가 조용히 서 있습니다.",
+          "reading": "Annae deseukeu ap-e han namja-ga joyonghi seo itseumnida.",
+          "translation": "A man is standing quietly in front of the information desk."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "동작이 끝난 후 상태가 계속될 땐 '-아/어 있다'! 앉아 있다, 서 있다, 열려 있다, 피어 있다!"
+      ],
+      "culturalNotes": [
+        "한국의 봄철 뉴스에서는 '전국에 벚꽃이 만발해 있습니다 / 피어 있습니다'라는 상태 지속 표현으로 꽃의 만개 소식을 전합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "의자에 사람이 착석을 마친 채 계속 머물러 있는 상태를 가장 자연스럽게 묘사한 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (8.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (8.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (8.2.3)."
+            "의자에 앉아 있어요.",
+            "의자에 앉고 있어요.",
+            "의자에 앉겠어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "착석이 완료된 결과 상태가 지속되는 것은 '-아/어 있다'를 쓴 '앉아 있어요'가 가장 표준적입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'창문이 닫힌 상태'를 올바르게 묘사한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (8.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (8.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (8.2.3)."
+            "창문이 닫혀 있어요.",
+            "창문이 닫아 있어요.",
+            "창문이 닫고 있어요."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "피동사 '닫히다'의 어간에 '-어 있다'가 결합하여 '닫혀 있어요'가 올바릅니다."
         }
       ]
     },
@@ -3834,14 +3861,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 8-2)?",
+          "prompt": "다음 중 '-아/어 있다'의 문법 규칙(자동사 결합 제약)에 완벽히 부합하는 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (8.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (8.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (8.2.3)."
+            "공원에 예쁜 꽃이 피어 있어요.",
+            "친구가 밥을 먹어 있어요.",
+            "내가 책을 읽어 있어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'-아/어 있다'는 타동사(밥을 먹다, 책을 읽다)와 결합할 수 없으며, 자동사인 '피다'와 결합한 '피어 있어요'가 유일하게 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'문이 열려 있어요'(The door is open)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "문이 열려 있어요.",
+            "문이 열려 있어요"
+          ],
+          "explanation": "문이(주어) + 열려 있어요(열리다 + 어 있다) = 문이 열려 있어요."
         }
       ]
     }
@@ -3851,56 +3887,65 @@
     "subject": "korean",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) (Part 3)",
+    "title": "진행상 '-고 있다'와 상태 지속상 '-아/어 있다'의 결정적 문법 대비",
     "level": "A2",
-    "objective": "Comprehensive mastery of 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다).",
+    "objective": "실시간 동작 진행(-고 있다)과 완료 후 결과 지속(-아/어 있다)의 의미 차이를 구별하고 타동사 대 자동사의 문법적 제약을 정밀하게 적용한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) » (제3절)의 핵심 언어 요소와 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 두 가지 지속상(Continuatives)인 '-고 있다'와 '-아/어 있다'는 다음과 같은 결정적인 차이를 지닙니다.\n\n1. 의미적 차이 (Action vs Resultant State):\n- '-고 있다': 지금 이 순간 주어가 어떤 행위(Action)를 끊임없이 실행 중임.\n  - 예: 학교에 가고 있어요 (I am walking/traveling toward school).\n- '-아/어 있다': 주어가 행위를 마친 후 그 자리에 그대로 상태(State)를 유지하고 있음.\n  - 예: 선생님이 교실에 가 계십니다 (The teacher went to the classroom and is staying there).\n\n2. 통사적 제약 (Transitivity Constraint):\n- 타동사 (목적어를 취하는 동사): 오직 '-고 있다'만 결합 가능.\n  - 밥을 먹고 있다 (O) / *밥을 먹어 있다 (X)\n  - 책을 읽고 있다 (O) / *책을 읽어 있다 (X)\n- 자동사 (자세, 상태 동사): 주로 '-아/어 있다'로 자연스러운 상태를 표현.\n  - 의자에 앉아 있다 (O - 착석 상태) / 의자에 앉고 있다 (? - 엉덩이를 내리는 중)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (8.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 지금 도서관에 가고 있어요. (이동 중인 동작)",
+          "reading": "Jeo-neun jigeum doseogwan-e gago isseoyo.",
+          "translation": "I am going to the library right now (Action in progress)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (8.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선생님은 지금 회의실에 가 계세요. (도착하여 머무는 상태)",
+          "reading": "Seonsaengnim-eun jigeum hoewisil-e ga gyeseyo.",
+          "translation": "The teacher has gone to the meeting room and is staying there (Resultant state)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (8.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "지하철 역 앞에 사람들이 줄을 서 있습니다.",
+          "reading": "Jihacheol yeok ap-e saramdeul-i jul-eul seo itseumnida.",
+          "translation": "People are standing in line in front of the subway station (State of standing)."
+        },
+        {
+          "target": "방 안에서 음악을 크게 틀고 춤을 추고 있어요.",
+          "reading": "Bang an-eseo eumak-eul keuge teulgo chum-eul chugo isseoyo.",
+          "translation": "I turned up the music in my room and am dancing (Dynamic action)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "타동사는 오직 '-고 있다'만(밥을 먹고 있다)! 자리에 머무는 자세/상태는 '-아/어 있다'(앉아 있다)!"
+      ],
+      "culturalNotes": [
+        "한국어에서 사람이 죽거나 사라지지 않고 살아 있음을 나타낼 때도 '살아 있다'처럼 '-아 있다' 형태를 사용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "다음 중 비문법적인 잘못된 문장은 어느 것입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (8.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (8.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (8.3.3)."
+            "친구가 도서관에서 신문을 읽어 있어요.",
+            "친구가 도서관에서 신문을 읽고 있어요.",
+            "친구가 도서관 의자에 앉아 있어요."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'신문을 읽다'는 타동사이므로 '-아/어 있다'와 결합할 수 없어 '읽어 있어요'는 비문법적입니다 ('읽고 있어요'가 올바름)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "지하철을 타고 친구를 만나러 '이동 중인 동작'을 가장 정확하게 표현한 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (8.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (8.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (8.3.3)."
+            "지금 강남역으로 가고 있어요.",
+            "지금 강남역으로 가 있어요.",
+            "지금 강남역으로 갔었어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "이동 동작이 실시간 진행 중일 때는 '-고 있다'를 쓴 '가고 있어요'가 올바릅니다."
         }
       ]
     },
@@ -3908,14 +3953,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 8-3)?",
+          "prompt": "'-고 있다'와 '-아/어 있다'의 결합 규칙에 대한 설명 중 옳은 것은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (8.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (8.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (8.3.3)."
+            "목적어를 취하는 타동사는 '-아/어 있다'와 결합할 수 없고 '-고 있다'와만 결합한다.",
+            "모든 타동사는 '-아/어 있다'와 자유롭게 결합한다.",
+            "'-고 있다'는 사람이 죽었을 때만 쓴다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "타동사는 '-아/어 있다'와 결합할 수 없으며 오직 '-고 있다'만 가능합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'사람들이 서 있어요'(People are standing)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "사람들이 서 있어요.",
+            "사람들이 서 있어요"
+          ],
+          "explanation": "사람들이(주어) + 서 있어요(서다 + 어 있다) = 사람들이 서 있어요."
         }
       ]
     }
@@ -3925,56 +3979,65 @@
     "subject": "korean",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) (Part 4)",
+    "title": "신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect)과 '-고 있다'",
     "level": "A2",
-    "objective": "Comprehensive mastery of 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다).",
+    "objective": "'입다', '쓰다', '신다', '끼다' 등 신체 착용 동사가 '-고 있다'와 결합할 때 동작 진행과 착용 완료 상태를 동시에 나타낼 수 있는 독특한 한국어 상적 특성을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) » (제4절)의 핵심 언어 요소와 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "신체에 의복이나 장신구를 걸치는 '착용 동사(Verbs of Wearing)'는 한국어에서 대단히 독특한 상(Aspect)적 특징을 지닙니다.\n\n1. 신체 부위별 착용 동사 매칭:\n- 옷 (상의/하의/외투): 입다 → 코트를 입다, 청바지를 입다\n- 모자, 안경, 마스크 (머리/얼굴): 쓰다 → 모자를 쓰다, 안경을 쓰다\n- 신발, 양말 (발): 신다 → 운동화를 신다, 구두를 신다\n- 장갑, 반지 (손/손가락): 끼다 → 가죽 장갑을 끼다, 반지를 끼다\n- 시계, 팔찌 (손목): 차다 → 손목시계를 차다\n- 넥타이, 스카프 (목): 매다 / 두르다\n\n2. 착용 동사 + '-고 있다'의 이중적 상(Dual Aspect):\n착용 동사에 '-고 있다'가 붙으면 문맥에 따라 두 가지 의미를 모두 가집니다.\n- 의미 1 (동작 진행): 지금 옷에 팔을 넣으며 착용하는 동작 중임.\n- 의미 2 (착용 상태 지속 - 90% 이상): 이미 옷/모자를 착용한 채로 그 상태를 유지하고 있음.\n  - 예: \"민수 씨는 오늘 검은색 정장을 입고 있어요.\" (검은 정장을 입은 상태임)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (8.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저기 빨간색 모자를 쓰고 있는 사람이 제 동생이에요.",
+          "reading": "Jeogi ppalgansaek moja-reul sseugo inneun saram-i je dongsaeng-ieyo.",
+          "translation": "The person wearing a red hat over there is my younger sibling."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (8.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "오늘 날씨가 추워서 두꺼운 패딩 코트를 입고 있어요.",
+          "reading": "Oneul nalssi-ga chuwoseo dukkeoun paeding koteu-reul ipgo isseoyo.",
+          "translation": "Because the weather is cold today, I am wearing a thick padded coat."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (8.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "편한 운동화를 신고 공원을 산책했어요.",
+          "reading": "Pyeonhan undonghwa-reul singo gongwon-eul sanchaekhaesseoyo.",
+          "translation": "I wore comfortable sneakers and took a walk in the park."
+        },
+        {
+          "target": "선생님은 항상 멋진 뿔테 안경을 쓰고 계십니다.",
+          "reading": "Seonsaengnim-eun hangsang meotjin ppulte angyeong-eul sseugo gyesimnida.",
+          "translation": "The teacher is always wearing stylish horn-rimmed glasses."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "옷은 '입고', 모자는 '쓰고', 신발은 '신고', 반지는 '끼고'! 착용한 채로 있을 때도 '-고 있다'!"
+      ],
+      "culturalNotes": [
+        "한국어에서는 신체 부위마다 결합하는 착용 동사가 매우 엄격히 구별됩니다. 모자를 '입다'나 신발을 '쓰다'라고 말하면 매우 어색하므로 부위별 동사를 정확히 외워야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'안경(glasses)'을 착용할 때 결합하는 올바른 착용 동사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (8.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (8.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (8.4.3)."
+            "쓰다 (안경을 쓰다)",
+            "입다 (안경을 입다)",
+            "신다 (안경을 신다)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "얼굴이나 머리에 착용하는 것은 동사 '쓰다'를 사용하므로 '안경을 쓰다'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'운동화(sneakers)'를 발에 신은 상태를 묘사한 올바른 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (8.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (8.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (8.4.3)."
+            "새 운동화를 신고 있어요.",
+            "새 운동화를 쓰고 있어요.",
+            "새 운동화를 끼고 있어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "발에 착용하는 신발류는 '신다'를 쓰므로 '신고 있어요'가 정확합니다."
         }
       ]
     },
@@ -3982,14 +4045,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 8-4)?",
+          "prompt": "'손에 따뜻한 가죽 장갑을 _____.' 빈칸에 알맞은 착용 동사는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (8.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (8.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (8.4.3)."
+            "끼고 있어요",
+            "입고 있어요",
+            "신고 있어요"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "explanation": "손이나 손가락에 끼우는 장신구/보호구는 '끼다'를 쓰므로 '끼고 있어요'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'모자를 쓰고 있어요'(I am wearing a hat)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "모자를 쓰고 있어요.",
+            "모자를 쓰고 있어요"
+          ],
+          "explanation": "모자를(목적어) + 쓰고 있어요(쓰다의 착용 진행/상태형) = 모자를 쓰고 있어요."
         }
       ]
     }
@@ -3999,56 +4071,65 @@
     "subject": "korean",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) (Part 5)",
+    "title": "진행과 상태를 활용한 사진 및 공간 풍경 묘사 담화",
     "level": "A2",
-    "objective": "Comprehensive mastery of 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다).",
+    "objective": "사진 속 인물들의 역동적 행동(-고 있다)과 사물 및 배경의 정적인 배치 상태(-아/어 있다)를 조화롭게 엮어 풍부한 묘사 담화를 구성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) » (제5절)의 핵심 언어 요소와 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "실제 사진이나 공간 풍경을 한국어로 묘사할 때는 인물의 동작과 사물의 상태를 명확히 구분하여 서술하는 담화 전략이 필요합니다.\n\n1. 이원적 묘사 서술 공식:\n- 인물의 능동적 행위 (Dynamic Action) → 동사 + '-고 있다':\n  - \"한 여성이 벤치에 앉아서 커피를 마시고 있어요.\"\n  - \"아이들이 잔디밭에서 공놀이를 하고 있어요.\"\n- 사물과 배경의 정적인 배치 (Static State) → 자동사/피동사 + '-아/어 있다':\n  - \"테이블 위에 꽃병이 놓여 있어요.\"\n  - \"벽에는 아름다운 유화 그림이 걸려 있어요.\"\n  - \"창문이 활짝 열려 있어요.\"\n\n2. 실전 카페 사진 묘사 모델:\n- \"이 사진은 아늑한 도심 카페의 오후 풍경입니다.\"\n- \"창가 쪽에는 두 남녀가 마주 앉아 있습니다.\"\n- \"한 사람은 노트북으로 문서를 작성하고 있고, 다른 사람은 따뜻한 아메리카노를 마시고 있습니다.\"\n- \"테이블 위에는 달콤한 조각 케이크가 놓여 있고, 벽에는 은은한 조명이 켜져 있습니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (8.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "창가 테이블 위에 예쁜 유리 화병이 놓여 있어요.",
+          "reading": "Changga teibeul wi-e yeoppeun yuri hwabyeong-i noyeo isseoyo.",
+          "translation": "A pretty glass vase is placed on the window table (Resultant state of '놓이다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (8.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "공원 잔디밭에서 아이들이 신나게 공을 차고 있어요.",
+          "reading": "Gongwon jandibat-eseo aideul-i sinnage gong-eul chago isseoyo.",
+          "translation": "Children are excitedly kicking a ball on the park lawn (Action in progress)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (8.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "벽에 유명한 화가의 풍경화 그림이 걸려 있습니다.",
+          "reading": "Byeog-e yumyeonghan hwaga-ui punggyeonghwa geurim-i geollyeo itseumnida.",
+          "translation": "A landscape painting by a famous artist is hanging on the wall."
+        },
+        {
+          "target": "소파 옆 테이블에는 커피 잔과 책 한 권이 놓여 있습니다.",
+          "reading": "Sopa yeop teibeul-eneun keopi jan-gwa chaek han gwon-i noyeo itseumnida.",
+          "translation": "A coffee cup and a book are placed on the table next to the sofa."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "사람의 행동은 '-고 있다', 물건의 놓인 상태는 '-아/어 있다'! 두 날개로 완성하는 완벽한 묘사!"
+      ],
+      "culturalNotes": [
+        "한국어능력시험(TOPIK) 쓰기와 말하기 시험에서는 그림이나 사진을 보고 상황을 묘사하는 문제가 단골로 출제되며, '-고 있다'와 '-아/어 있다'의 정확한 구분이 핵심 채점 기준입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "벽에 그림이 '걸려 있는 상태'를 묘사할 때 가장 알맞은 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (8.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (8.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (8.5.3)."
+            "그림이 걸려 있어요.",
+            "그림이 걸고 있어요.",
+            "그림이 걸렸겠어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "피동사 '걸리다'에 상태 지속 어미 '-어 있다'가 결합한 '걸려 있어요'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "테이블 위에 책이 '놓여 있는 상태'를 바르게 표현한 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (8.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (8.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (8.5.3)."
+            "책이 놓여 있어요.",
+            "책이 놓고 있어요.",
+            "책이 놓겠어요."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'놓이다(to be placed)'의 상태 지속형인 '놓여 있어요'가 정확합니다."
         }
       ]
     },
@@ -4056,14 +4137,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 8-5)?",
+          "prompt": "사진 묘사에서 '인물의 진행 동작'과 '사물의 지속 상태'가 모두 올바르게 사용된 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (8.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (8.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (8.5.3)."
+            "소파에 앉아 있는 사람이 커피를 마시고 있어요.",
+            "소파에 앉고 있는 사람이 커피를 마셔 있어요.",
+            "소파에 앉겠는 사람이 커피를 마셨겠어요."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "착석 상태('앉아 있는')와 음료 섭취 동작('마시고 있어요')이 완벽하게 결합되었습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'꽃병이 놓여 있어요'(The vase is placed)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "꽃병이 놓여 있어요.",
+            "꽃병이 놓여 있어요"
+          ],
+          "explanation": "꽃병이(주어) + 놓여 있어요(놓이다 + 어 있다) = 꽃병이 놓여 있어요."
         }
       ]
     }
