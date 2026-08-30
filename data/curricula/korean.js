@@ -2323,56 +2323,65 @@
     "subject": "korean",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) (Part 1)",
+    "title": "하십시오체 평서문 종결어미 (-ㅂ니다 / -습니다)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 격식체 하십시오체 (Formal Style -ㅂ니다/습니다).",
+    "objective": "받침 유무에 따른 하십시오체 평서문 어미 결합 규칙(모음 어간 + -ㅂ니다, 자음 어간 + -습니다)을 숙지하고, 비음화 발음을 정확히 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) » (제1절)의 핵심 언어 요소와 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 '하십시오체'는 가장 격식 있고 예의를 갖춘 최고 등급의 공손 종결어미입니다. 공적인 자리, 비즈니스, 뉴스, 군대, 발표 등에서 주로 사용됩니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 (받침 없음) + -ㅂ니다:\n  - 어간 마지막 글자의 받침 위치에 'ㅂ'이 들어가 결합합니다.\n  - 가다 → 갑니다 [감니다]\n  - 오다 → 옵니다 [옴니다]\n  - 마시다 → 마십니다 [마심니다]\n  - 공부하다 → 공부합니다 [공부함니다]\n- 자음 종결 어간 (받침 있음) + -습니다:\n  - 먹다 → 먹습니다 [먹씀니다]\n  - 읽다 → 읽습니다 [익씀니다]\n  - 닫다 → 닫습니다 [닫씀니다]\n  - 좋다 → 좋습니다 [조씀니다]\n\n2. 비음화(Nasalization) 필수 발음 법칙:\n받침 'ㅂ' 뒤에 비음 'ㄴ'이 연결될 때 받침 'ㅂ'은 비음 [ㅁ]으로 동화되어 소리 납니다.\n- 표기: 갑니다 → 발음: [감니다]\n- 표기: 마십니다 → 발음: [마심니다]\n- 표기: 합니다 → 발음: [함니다]",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (5.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 한국 무역 회사에 다닙니다.",
+          "reading": "Jeo-neun hanguk muyeok hoesa-e danimnida.",
+          "translation": "I work at a Korean trading company."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (5.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "아침마다 신문을 정독합니다.",
+          "reading": "Achimmada sinmun-eul jeongdokhamnida.",
+          "translation": "I read the newspaper closely every morning."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (5.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "도서관에서 전공 서적을 읽습니다.",
+          "reading": "Doseogwan-eseo jeongong seojeog-eul ikseumnida.",
+          "translation": "I read major textbooks at the library."
+        },
+        {
+          "target": "오늘 날씨가 대단히 좋습니다.",
+          "reading": "Oneul nalssi-ga daedanhi josseumnida.",
+          "translation": "The weather is exceptionally good today."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "모음 어간에는 쏙 들어가는 'ㅂ니다'(갑니다), 받침 어간에는 든든한 '습니다'(먹습니다)! 발음은 항상 [ㅁ니다]."
+      ],
+      "culturalNotes": [
+        "한국의 직장이나 비즈니스 미팅에서는 상대방에 대한 존중과 프로페셔널한 신뢰감을 주기 위해 첫 만남과 회의에서 반드시 하십시오체를 사용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '가다(to go - 모음 종결)' 어간 뒤에 결합할 올바른 하십시오체 평서문 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (5.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (5.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (5.1.3)."
+            "갑니다",
+            "가습니다",
+            "가입니다"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㅂ니다'가 결합하여 '갑니다[감니다]'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "동사 '먹다(to eat - 받침 ㄱ 있음)'의 올바른 하십시오체 활용형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (5.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (5.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (5.1.3)."
+            "먹습니다",
+            "먹ㅂ니다",
+            "먹입니다"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'먹다'는 받침이 있는 자음 종결 어간이므로 '-습니다'와 결합하여 '먹습니다[먹씀니다]'가 됩니다."
         }
       ]
     },
@@ -2380,14 +2389,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 5-1)?",
+          "prompt": "'회사에서 열심히 _____ (I work diligently at the company).' 빈칸에 들어갈 올바른 격식체 서술어는 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (5.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (5.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (5.1.3)."
+            "일합니다",
+            "일하습니다",
+            "일먹습니다"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "explanation": "'일하다'의 어간 '일하'는 모음 종결이므로 '-ㅂ니다'가 결합하여 '일합니다[일함니다]'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'신문을 읽습니다'(I read the newspaper)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "신문을 읽습니다.",
+            "신문을 읽습니다"
+          ],
+          "explanation": "신문을(목적어) + 읽습니다(읽다 + 습니다) = 신문을 읽습니다."
         }
       ]
     }
@@ -2397,56 +2415,65 @@
     "subject": "korean",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) (Part 2)",
+    "title": "하십시오체 의문문 종결어미 (-ㅂ니까 / -습니까)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 격식체 하십시오체 (Formal Style -ㅂ니다/습니다).",
+    "objective": "공적 회의, 인터뷰, 고객 응대 상황에서 표준적으로 쓰이는 하십시오체 의문문 어미 '-ㅂ니까 / -습니까'를 체득하고 자연스러운 문답을 구성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) » (제2절)의 핵심 언어 요소와 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "하십시오체의 의문문은 평서문 어미 '-ㅂ니다/습니다'의 '다' 자리에 '까'를 교체하여 '-ㅂ니까 / -습니까'로 만듭니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 + -ㅂ니까?\n  - 가다 → 갑니까? [감니까?]\n  - 보다 → 봅니까? [봄니까?]\n  - 공부하다 → 공부합니까? [공부함니까?]\n- 자음 종결 어간 + -습니까?\n  - 먹다 → 먹습니까? [먹씀니까?]\n  - 듣다 → 듣습니까? [듣씀니까?]\n  - 작다 → 작습니까? [작씀니까?]\n\n2. 공적 질의 및 응답 패턴 (Q&A):\n- Q: 지금 어디에 갑니까? (Where are you going now?)\n- A: 서울역에 갑니다. (I am going to Seoul Station.)\n- Q: 한국어를 좋아합니까? (Do you like Korean?)\n- A: 네, 아주 좋아합니다. (Yes, I like it very much.)\n- Q: 한국 음식을 자주 먹습니까? (Do you eat Korean food often?)\n- A: 네, 자주 먹습니다. (Yes, I eat it often.)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (5.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "지금 어디에 갑니까?",
+          "reading": "Jigeum eodi-e gamnikka?",
+          "translation": "Where are you going right now?"
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (5.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "한국 생활이 재미있습니까?",
+          "reading": "Hanguk saenghwal-i jaemi-isseumnikka?",
+          "translation": "Is living in Korea interesting?"
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (5.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "회의가 몇 시에 시작합니까?",
+          "reading": "Hoewi-ga myeot si-e sijak-hamnikka?",
+          "translation": "What time does the meeting begin?"
+        },
+        {
+          "target": "한국 노래를 자주 듣습니까?",
+          "reading": "Hanguk norae-reul jaju deutseumnikka?",
+          "translation": "Do you often listen to Korean songs?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "평서문은 '다'로 끝나고, 질문할 때는 '까?'로 끝난다! 갑니다 → 갑니까?, 먹습니다 → 먹습니까?"
+      ],
+      "culturalNotes": [
+        "공항, 호텔, 백화점 등의 서비스직 직원이 고객에게 정중하게 문의할 때 '무엇을 도와드릴까요?' 또는 '어떤 상품을 찾으십니까?'처럼 하십시오체 의문문을 필수적으로 사용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'보다(to see - 모음 어간)'를 격식체 의문문으로 바꿀 때 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (5.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (5.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (5.2.3)."
+            "봅니까?",
+            "보습니까?",
+            "보입니까?"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'보다'는 모음 종결 어간이므로 '-ㅂ니까'가 결합하여 '봅니까?'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'음악을 자주 _____? (Do you often listen to music?)' 빈칸에 들어갈 알맞은 격식체 의문사는 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (5.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (5.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (5.2.3)."
+            "듣습니까",
+            "듣ㅂ니까",
+            "듣입니까"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'듣다'는 받침이 있는 자음 종결 어간이므로 '-습니까'와 결합하여 '듣습니까?'가 됩니다."
         }
       ]
     },
@@ -2454,14 +2481,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 5-2)?",
+          "prompt": "다음 중 하십시오체 의문문의 문법과 철자가 올바른 문장은 어느 것입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (5.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (5.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (5.2.3)."
+            "한국어를 공부합니까?",
+            "한국어를 공부하습니까?",
+            "한국어를 공부하입니다?"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'공부하다'의 모음 어간 뒤에 '-ㅂ니까'가 결합한 '공부합니까?'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'어디에 갑니까'(Where are you going)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "어디에 갑니까?",
+            "어디에 갑니까"
+          ],
+          "explanation": "어디에(장소 의문사) + 갑니까(가다 + ㅂ니까) = 어디에 갑니까?"
         }
       ]
     }
@@ -2471,56 +2507,65 @@
     "subject": "korean",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) (Part 3)",
+    "title": "ㄹ 탈락 불규칙 용언의 하십시오체 활용 (삽니다, 압니다, 만듭니다)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 격식체 하십시오체 (Formal Style -ㅂ니다/습니다).",
+    "objective": "어간 끝 받침 'ㄹ'이 'ㄴ, ㅂ, ㅅ, 오' 앞에서 탈락하는 'ㄹ 탈락' 규칙을 이해하고, 하십시오체 결합 시 어형 변화를 정확하게 산출한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) » (제3절)의 핵심 언어 요소와 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 용언 활용에서 가장 빈번하게 일어나는 불규칙 중 하나는 'ㄹ 탈락(ㄹ-Drop)'입니다.\n\n1. ㄹ 탈락의 음운 법칙:\n어간의 끝 받침이 'ㄹ'인 동사/형용사가 자음 'ㄴ, ㅂ, ㅅ, 오'로 시작하는 어미를 만나면 받침 'ㄹ'이 완전히 탈락합니다.\n\n2. 하십시오체 어미(-ㅂ니다/-ㅂ니까)와의 결합 과정:\n어미 '-ㅂ니다/ㅂ니까'는 'ㅂ'으로 시작하므로, 받침 'ㄹ'이 탈락한 후 빈 받침 자리에 'ㅂ'이 들어가 결합합니다.\n- 살다 (to live): 살 - ㄹ + ㅂ니다 → 삽니다 [삼니다] (살습니다 X)\n- 알다 (to know): 알 - ㄹ + ㅂ니다 → 압니다 [암니다] (알습니다 X)\n- 만들다 (to make): 만들 - ㄹ + ㅂ니다 → 만듭니다 [만듬니다]\n- 팔다 (to sell): 팔 - ㄹ + ㅂ니다 → 팝니다 [팜니다]\n- 열다 (to open): 열 - ㄹ + ㅂ니다 → 엽니다 [염니다]\n- 멀다 (to be far): 멀 - ㄹ + ㅂ니다 → 멉니다 [멈니다]\n- 길다 (to be long): 길 - ㄹ + ㅂ니다 → 깁니다 [김니다]",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (5.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 부모님과 함께 서울에 삽니다.",
+          "reading": "Jeo-neun bumonim-gwa hamkke Seoul-e samnida.",
+          "translation": "I live in Seoul together with my parents (살다 → 삽니다)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (5.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "저는 그 사실을 아주 잘 압니다.",
+          "reading": "Jeo-neun geu sasir-eul aju jal amnida.",
+          "translation": "I know that fact very well (알다 → 압니다)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (5.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "식당 주방에서 맛있는 불고기를 만듭니다.",
+          "reading": "Sikdang jubang-eseo masinneun bulgogi-reul mandeumnida.",
+          "translation": "They make delicious bulgogi in the restaurant kitchen (만들다 → 만듭니다)."
+        },
+        {
+          "target": "백화점은 아침 10시 30분에 문을 엽니다.",
+          "reading": "Baekhwajeom-eun achim yeolsi samsipbun-e mun-eul yeomnida.",
+          "translation": "The department store opens its doors at 10:30 AM (열다 → 엽니다)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ㄹ 탈락 암기 공식: '나/보/소/오' 앞에서는 'ㄹ'이 도망간다! 살다 → 삽니다, 알다 → 압니다, 만들다 → 만듭니다."
+      ],
+      "culturalNotes": [
+        "한국어 학습자가 가장 흔히 범하는 오류가 '살습니다', '알습니다'라고 말하는 것입니다. 'ㄹ' 받침 동사는 하십시오체에서 항상 '삽니다', '압니다'로 바뀜을 꼭 기억해야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "동사 '살다(to live)'에 하십시오체 평서문 어미가 결합할 때 'ㄹ 탈락'이 적용된 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (5.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (5.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (5.3.3)."
+            "삽니다",
+            "살습니다",
+            "살입니다"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'살다'의 어간 받침 'ㄹ'이 탈락하고 '-ㅂ니다'가 결합하여 '삽니다[삼니다]'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "동사 '만들다(to make)'의 올바른 하십시오체 활용형은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (5.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (5.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (5.3.3)."
+            "만듭니다",
+            "만들습니다",
+            "만들입니다"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'만들다'의 'ㄹ'이 탈락하여 '만듭니다[만듬니다]'가 됩니다."
         }
       ]
     },
@@ -2528,14 +2573,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 5-3)?",
+          "prompt": "'A: 한국어 선생님의 성함을 _____? (Do you know the teacher's name?)' 빈칸에 들어갈 알맞은 ㄹ 탈락 의문형은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (5.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (5.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (5.3.3)."
+            "압니까",
+            "알습니까",
+            "알입니까"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'알다'의 받침 'ㄹ'이 탈락하고 '-ㅂ니까'가 붙어 '압니까?'가 올바릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'서울에 삽니다'(I live in Seoul)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "서울에 삽니다.",
+            "서울에 삽니다"
+          ],
+          "explanation": "서울에(장소) + 삽니다(살다의 ㄹ탈락 하십시오체) = 서울에 삽니다."
         }
       ]
     }
@@ -2545,56 +2599,65 @@
     "subject": "korean",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) (Part 4)",
+    "title": "공적 담화와 격식체 사용 맥락 (발표, 뉴스, 비즈니스, 환영사)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 격식체 하십시오체 (Formal Style -ㅂ니다/습니다).",
+    "objective": "공식 행사, 뉴스 보도, 비즈니스 프레젠테이션, 자기소개 면접 등 공적 담화(Public Discourse) 상황에서 하십시오체를 품격 있게 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) » (제4절)의 핵심 언어 요소와 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "하십시오체는 단순한 문법 어미를 넘어 화자의 공적인 태도와 격조를 담아내는 담화 양식(Register)입니다.\n\n1. 주요 공적 담화 상황:\n- 공식 프레젠테이션 및 발표:\n  - \"안녕하십니까? 오늘 신제품 개발 성과에 대해 발표하겠습니다.\"\n- 대중 연설 및 환영사:\n  - \"내빈 여러분, 참석해 주셔서 진심으로 감사합니다.\"\n- 뉴스 보도 및 방송 앵커 멘트:\n  - \"오늘의 주요 뉴스를 전해 드리겠습니다.\"\n- 지하철 및 항공기 기내 안내 방송:\n  - \"잠시 후 인천국제공항에 도착하겠습니다. 안전벨트를 착용해 주시기 바랍니다.\"\n- 취업 면접 및 공식 자기소개:\n  - \"안녕하십니까? 지원자 김민수입니다. 성실하게 임하겠습니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (5.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "안녕하십니까? 만나서 반갑습니다.",
+          "reading": "Annyeonghasimnikka? Mannaseo bangapseumnida.",
+          "translation": "Hello (Formal)? It is a pleasure to meet you."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (5.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "지금부터 1분기 연구 결과를 발표하겠습니다.",
+          "reading": "Jigeumbuteo ilbungi yeongu gyeolgwa-reul balpyohagetseumnida.",
+          "translation": "From now, I will present the first-quarter research results."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (5.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "저희 행사에 참석해 주셔서 대단히 감사합니다.",
+          "reading": "Jeohui haengsa-e chamseokhae jusyeoseo daedanhi gamsahamnida.",
+          "translation": "Thank you very much for attending our event."
+        },
+        {
+          "target": "잠시 후 목적지에 도착하겠습니다.",
+          "reading": "Jamsi hu mokjeokji-e dochakhagetseumnida.",
+          "translation": "We will arrive at the destination shortly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "공식 석상, 뉴스, 발표에서는 언제나 '안녕하십니까 / 반갑습니다 / 감사합니다' 3종 세트!"
+      ],
+      "culturalNotes": [
+        "한국의 대중교통 안내 방송이나 국가적 행사에서는 청중 전체에 대한 최고의 예우를 표하기 위해 100% 하십시오체 종결어미를 사용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "공식 프레젠테이션을 시작할 때 청중에게 건네는 가장 격조 높은 첫인사 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (5.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (5.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (5.4.3)."
+            "안녕하십니까? 오늘 발표를 시작하겠습니다.",
+            "안녕? 오늘 발표할게.",
+            "안녕하세요? 발표 시작해요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "공식 프레젠테이션에서는 하십시오체를 사용하여 '안녕하십니까? 오늘 발표를 시작하겠습니다'라고 여는 것이 가장 품격 있습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "행사에 참석한 귀빈들에게 깊은 감사를 표하는 가장 올바른 격식체 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (5.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (5.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (5.4.3)."
+            "참석해 주셔서 대단히 감사합니다.",
+            "참석해 줘서 정말 고마워.",
+            "참석해 줘서 감사해요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "공식 감사 표현으로는 '대단히 감사합니다'가 가장 표준적이고 정중합니다."
         }
       ]
     },
@@ -2602,14 +2665,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 5-4)?",
+          "prompt": "다음 중 비즈니스 면접 상황에 가장 어울리는 격식체 자기소개 문장은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (5.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (5.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (5.4.3)."
+            "안녕하십니까? 기획팀 지원자 박지은입니다.",
+            "안녕! 기획팀에 지원한 지은이야.",
+            "안녕하세요! 기획팀 지은이에요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "explanation": "취업 면접과 같은 최고 격식 자리에서는 하십시오체인 '안녕하십니까? ... 지원자 박지은입니다'가 표준입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'만나서 반갑습니다'(Nice to meet you - Formal)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "만나서 반갑습니다.",
+            "만나서 반갑습니다"
+          ],
+          "explanation": "만나서(연결형) + 반갑습니다(반갑다의 하십시오체) = 만나서 반갑습니다."
         }
       ]
     }
@@ -2619,56 +2691,65 @@
     "subject": "korean",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) (Part 5)",
+    "title": "해요체 대 하십시오체의 화용론적 교체 전략 (Discourse Style Switching)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 격식체 하십시오체 (Formal Style -ㅂ니다/습니다).",
+    "objective": "한국어 실제 담화에서 공식적 틀을 잡는 하십시오체(-ㅂ니다)와 세부 내용의 교감을 이끄는 해요체(-아요/어요)의 자연스러운 스타일 전환(Style Switching) 전략을 습득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) » (제5절)의 핵심 언어 요소와 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "원어민의 실제 담화에서는 하나의 말하기 양식만을 고집하지 않고, 하십시오체와 해요체를 전략적으로 교차(Code-Switching)하여 사용합니다.\n\n1. 담화 스타일 전환의 기본 공식:\n- 도입부 (Opening - 하십시오체): 공적 신뢰성과 정중함 확보\n  - \"여러분, 안녕하십니까? 오늘 강연을 맡은 김 교수입니다.\"\n- 본론부 (Body Content - 해요체 중심):\n  - 청중과의 친밀한 심리적 거리 좁히기 및 생생한 설명\n  - \"오늘 다룰 주제는 한국의 전통 건축이에요. 사진을 보시면 지붕의 곡선이 참 아름답지요?\"\n- 종결부 (Closing - 하십시오체):\n  - 공손한 마무리 및 감사\n  - \"이상으로 강연을 마치겠습니다. 경청해 주셔서 대단히 감사합니다.\"\n\n2. 화용론적 기능 요약:\n- 하십시오체: 공식성, 거리감(Respectful Distance), 선언적 선포, 의전\n- 해요체: 친근함, 공감대 형성, 부드러운 설득, 대화적 소통",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (5.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "안녕하십니까? 지금부터 제품 시연을 시작하겠습니다.",
+          "reading": "Annyeonghasimnikka? Jigeumbuteo jepum siyeon-eul sijakhagetseumnida.",
+          "translation": "Hello. From now, we will begin the product demonstration (Formal Opening)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (5.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이 스마트폰은 화면이 정말 넓고 가벼워요.",
+          "reading": "I seumateupon-eun hwamyeon-i jeongmal neolpgo gabyeowoyo.",
+          "translation": "This smartphone has a really wide screen and is light (Friendly Body)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (5.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "궁금한 점이 있으시면 편하게 질문해 주세요.",
+          "reading": "Gunggeumhan jeom-i isseusimyeon pyeonhage jilmunhae juseyo.",
+          "translation": "If you have questions, please feel free to ask (Polite Request)."
+        },
+        {
+          "target": "끝까지 경청해 주셔서 진심으로 감사합니다.",
+          "reading": "Kkeutkkaji gyeongcheonghae jusyeoseo jinsim-euro gamsahamnida.",
+          "translation": "Thank you sincerely for listening until the end (Formal Closing)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "처음과 끝은 깍듯하게 '합니다', 중간 설명은 다정하게 '해요'!"
+      ],
+      "culturalNotes": [
+        "유튜브 방송이나 TV 예능에서도 진행자들은 오프닝과 클로징에는 '시청자 여러분, 안녕하십니까/감사합니다'를 쓰고, 본 방송 토크에서는 자연스러운 해요체로 소통합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "공식 발표의 '마무리 인사(Closing)'로 가장 알맞은 격식체 종결 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (5.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (5.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (5.5.3)."
+            "경청해 주셔서 대단히 감사합니다.",
+            "들어줘서 고마워요.",
+            "다음에 또 봐."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "발표의 공적인 마무리는 '경청해 주셔서 대단히 감사합니다'가 가장 예의 바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "도입부에서 공적 예의를 갖추는 하십시오체 인사말로 가장 알맞은 것은 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (5.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (5.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (5.5.3)."
+            "안녕하십니까?",
+            "안녕?",
+            "잘 있었어?"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "공식적인 오프닝 인사로는 '안녕하십니까?'가 표준입니다."
         }
       ]
     },
@@ -2676,14 +2757,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 격식체 하십시오체 (Formal Style -ㅂ니다/습니다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 5-5)?",
+          "prompt": "한국어 담화에서 하십시오체와 해요체를 번갈아 사용하는 주된 화용론적 이유는 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (5.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (5.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (5.5.3)."
+            "공적인 예의와 청중과의 친근한 유대감을 조화롭게 유지하기 위해",
+            "단어를 잊어버렸을 때 둘러대기 위해",
+            "문법 규칙이 존재하지 않기 때문에"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "공적 신뢰성(하십시오체)과 친밀한 소통(해요체)을 조화롭게 구사하기 위한 전략적 선택입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'대단히 감사합니다'(Thank you very much - Formal)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "대단히 감사합니다.",
+            "대단히 감사합니다"
+          ],
+          "explanation": "대단히(부사) + 감사합니다(감사하다의 하십시오체) = 대단히 감사합니다."
         }
       ]
     }
