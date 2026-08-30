@@ -5083,56 +5083,65 @@
     "subject": "korean",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) (Part 1)",
+    "title": "필수 당위성과 당위적 의무 어미 (-아/어야 하다 / 되다)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 의무와 금지 표현 (Obligation & Prohibition).",
+    "objective": "어떤 행위가 필연적 의무이자 당위임을 나타내는 '-아/어야 하다 / 되다'의 모음 조화 결합 규칙을 완벽히 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) » (제1절)의 핵심 언어 요소와 의무와 금지 표현 (Obligation & Prohibition)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 주어가 반드시 완수해야 하는 의무(Obligation)나 상황적 당위성(Necessity)을 나타낼 때는 동사 어간 뒤에 '-아/어야 하다' 또는 '-아/어야 되다'를 결합합니다 (Must / Have to).\n\n1. 형태 결합 규칙 (모음 조화):\n- 양성 모음 (ㅏ, ㅗ) 어간 + -아야 하다/되다:\n  - 가다 → 가야 해요 / 가야 돼요 (must go)\n  - 보다 → 봐야 해요 / 봐야 돼요 (must watch/see)\n  - 받다 → 받아야 해요 (must receive)\n  - 닫다 → 닫아야 해요 (must close)\n- 음성 모음 (ㅓ, ㅜ, ㅡ, ㅣ 등) 어간 + -어야 하다/되다:\n  - 먹다 → 먹어야 해요 / 먹어야 돼요 (must eat)\n  - 읽다 → 읽어야 해요 (must read)\n  - 쓰다 → 써야 해요 (must write/use)\n  - 지키다 → 지켜야 해요 (must keep/obey)\n- '하다' 동사 → 해야 하다/되다:\n  - 공부하다 → 공부해야 해요 (must study)\n  - 제출하다 → 제출해야 해요 (must submit)\n\n2. '-아/어야 하다' vs '-아/어야 되다':\n- '-아/어야 하다': 공적인 발표, 규정, 문어체에서 규범적 당위성을 강조할 때 쓰임.\n- '-아/어야 되다': 일상 구어체 대화에서 부드럽고 자연스럽게 의무를 전달할 때 널리 쓰임.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (11.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "내일 아침 일찍 중요한 회의가 있어서 일찍 일어나야 해요.",
+          "reading": "Naeil achim iljjik jungyohan hoewi-ga isseoseo iljjik ireonaya haeyo.",
+          "translation": "I have an important meeting early tomorrow morning, so I must wake up early ('-아/어야 하다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (11.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "한국어 시험에 합격하기 위해 매일 단어를 50개씩 외워야 돼요.",
+          "reading": "Hangug-eo siheom-e hapgyeokhagi wihae maeil daneo-reul osipgaessik oewoya dwaeyo.",
+          "translation": "To pass the Korean exam, I have to memorize 50 vocabulary words every day ('-아/어야 되다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (11.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "도서관에서 빌린 책은 다음 주 금요일까지 반드시 반납해야 합니다.",
+          "reading": "Doseogwan-eseo billin chaek-eun daeum ju geumyoil-kkaji bandeusi bannaphaeya hamnida.",
+          "translation": "Books borrowed from the library must be returned by next Friday."
+        },
+        {
+          "target": "건강을 위해 하루에 물을 최소 2리터 이상 마셔야 합니다.",
+          "reading": "Geon-gang-eul wihae haru-e mul-eul choeso iriteo isang masyeoya hamnida.",
+          "translation": "For health, you must drink at least 2 liters of water a day."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "양성은 '-아야 해요', 음성은 '-어야 해요', 하다는 '해야 돼요'! 피할 수 없는 의무의 공식!"
+      ],
+      "culturalNotes": [
+        "한국의 직장 문화에서는 상사가 지시할 때 '이 보고서는 내일까지 작성해 주셔야 합니다'처럼 존칭 '-시-'를 결합한 '-셔야 합니다' 형태가 널리 쓰입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "동사 '가다(to go)'의 올바른 의무 당위 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (11.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (11.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (11.1.3)."
+            "가야 해요 (가야 돼요)",
+            "가어야 해요",
+            "가아야 돼요"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'가다'의 어간 '가-'는 양성 모음 ㅏ로 끝나므로 '-아야'와 축약되어 '가야 해요'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "동사 '먹다(to eat)'에 의무 어미가 결합한 올바른 형태는 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (11.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (11.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (11.1.3)."
+            "먹어야 해요 (먹어야 돼요)",
+            "먹아야 해요",
+            "먹해야 돼요"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'먹다'의 어간 모음은 음성 모음 'ㅓ'이므로 '-어야 해요'가 결합합니다."
         }
       ]
     },
@@ -5140,14 +5149,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 11-1)?",
+          "prompt": "'숙제를 오늘 밤까지 반드시 _____ (I must finish the homework).' 빈칸에 알맞은 '끝내다'의 의무형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (11.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (11.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (11.1.3)."
+            "끝내야 해요",
+            "끝나야 해요",
+            "끝내어야 해요"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "'끝내다'의 어간 끝 'ㅐ'에 '-어야'가 축약되어 '끝내야 해요'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'일찍 자야 해요'(I have to go to sleep early)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "일찍 자야 해요.",
+            "일찍 자야 해요"
+          ],
+          "explanation": "일찍(부사) + 자야 해요(자다 + 아야 하다) = 일찍 자야 해요."
         }
       ]
     }
@@ -5157,56 +5175,65 @@
     "subject": "korean",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) (Part 2)",
+    "title": "행위 불허와 조건부 금지 규범 어미 (-면 안 되다)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 의무와 금지 표현 (Obligation & Prohibition).",
+    "objective": "어떤 행위를 결코 해서는 안 됨을 규정하는 사회적/법적 금지 어미 '-(으)면 안 되다'의 형태 결합 및 화용 규칙을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) » (제2절)의 핵심 언어 요소와 의무와 금지 표현 (Obligation & Prohibition)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "조건 연결어미 '-(으)면'과 부정 부사 '안', 동사 '되다'가 결합한 '-(으)면 안 되다'는 '만약 그 행위를 한다면 도덕적/규정상 용납될 수 없다'는 절대적 금지(Prohibition: Must not)를 나타냅니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 or 'ㄹ' 받침 어간 + -면 안 되다:\n  - 가다 → 가면 안 돼요 (must not go)\n  - 피우다 → 담배를 피우면 안 돼요 (must not smoke)\n  - 만들다 → 만들면 안 돼요 (must not make)\n  - 열다 → 문을 열면 안 돼요 (must not open the door)\n- 'ㄹ' 제외 자음 종결 어간 + -으면 안 되다:\n  - 먹다 → 먹으면 안 돼요 (must not eat)\n  - 찍다 → 사진을 찍으면 안 돼요 (must not take photos)\n  - 밟다 → 잔디를 밟으면 안 됩니다 (must not step on the lawn)\n  - 앉다 → 여기에 앉으면 안 됩니다 (must not sit here)\n\n2. 공공장소 안내문과 규범 준수:\n- \"이곳은 금연 구역이므로 흡연하시면 안 됩니다.\"\n- \"박물관 내부에서는 플래시를 터뜨리면 안 됩니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (11.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "이곳은 금연 구역이니 담배를 피우면 안 됩니다.",
+          "reading": "Igot-eun geum-yeon guyeok-ini dambae-reul piumyeon an doemnida.",
+          "translation": "This is a non-smoking area, so you must not smoke here ('-면 안 되다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (11.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "시험 중에는 옆 사람과 이야기를 나누면 안 돼요.",
+          "reading": "Siheom jung-eneun yeop saram-gwa iyagi-reul nanumyeon an dwaeyo.",
+          "translation": "During the exam, you must not talk with the person next to you."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (11.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "도서관 열람실 안에서는 음식물을 먹으면 안 됩니다.",
+          "reading": "Doseogwan yeollamsil an-eseoneun eumsikmul-eul meog-eumyeon an doemnida.",
+          "translation": "You must not eat food inside the library reading room."
+        },
+        {
+          "target": "안전선 밖으로 몸을 내밀면 안 돼요.",
+          "reading": "Anjeonseon bakkeuro mom-eul naemilmyeon an dwaeyo.",
+          "translation": "You must not lean your body outside the safety line."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받침 없으면 '-면 안 돼요'(가면 안 돼), 받침 있으면 '-으면 안 돼요'(먹으면 안 돼)! 금지의 붉은 신호등!"
+      ],
+      "culturalNotes": [
+        "한국의 버스 및 지하철 등 대중교통에서는 뚜껑이 없는 테이크아웃 음료를 들고 탑승하면 승차 거부를 당할 수 있으며, '음료를 들고 타시면 안 됩니다'라는 안내 방송이 나옵니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'담배를 피우다(to smoke)'를 행위 금지형으로 올바르게 표현한 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (11.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (11.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (11.2.3)."
+            "담배를 피우면 안 돼요.",
+            "담배를 피우으면 안 돼요.",
+            "담배를 피워야 안 돼요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'피우다'는 모음 종결 어간이므로 '-면 안 돼요'가 결합하여 '피우면 안 돼요'가 올바릅니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'사진을 찍다(to take photos - 자음 받침)'를 금지형으로 바르게 나타낸 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (11.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (11.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (11.2.3)."
+            "사진을 찍으면 안 됩니다.",
+            "사진을 찍면 안 됩니다.",
+            "사진을 찍어야 안 됩니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'찍다'는 자음 받침이 있으므로 '-으면 안 됩니다'가 결합합니다."
         }
       ]
     },
@@ -5214,14 +5241,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 11-2)?",
+          "prompt": "'공원 잔디밭에 _____ (You must not enter).' 빈칸에 알맞은 '들어가다'의 금지형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (11.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (11.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (11.2.3)."
+            "들어가면 안 됩니다",
+            "들어가으면 안 됩니다",
+            "들어가면 돼요"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'들어가다'는 모음 종결 어간이므로 '-면 안 됩니다'가 결합합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'여기서 담배를 피우면 안 돼요'(You must not smoke here)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "여기서 담배를 피우면 안 돼요.",
+            "여기서 담배를 피우면 안 돼요"
+          ],
+          "explanation": "여기서 + 담배를 + 피우면 안 돼요 = 여기서 담배를 피우면 안 돼요."
         }
       ]
     }
@@ -5231,56 +5267,65 @@
     "subject": "korean",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) (Part 3)",
+    "title": "행위 허가 '-아/어도 되다'와 행위 금지 '-면 안 되다'의 대칭적 화용",
     "level": "B1",
-    "objective": "Comprehensive mastery of 의무와 금지 표현 (Obligation & Prohibition).",
+    "objective": "허락을 구하고 승인하는 '-아/어도 되다'와 이를 거절/금지하는 '-면 안 되다'의 대칭적 화용 구조를 완벽히 이해한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) » (제3절)의 핵심 언어 요소와 의무와 금지 표현 (Obligation & Prohibition)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "어떤 행동을 해도 되는지 질문하고 허락하거나 금지할 때 '-아/어도 되다'와 '-면 안 되다'가 완벽한 대칭 쌍을 이룹니다.\n\n1. 허가 구문 ('-아/어도 되다' - May / Permitted to do):\n- \"여기 앉아도 돼요?\" (May I sit here?)\n- \"네, 앉으셔도 됩니다.\" (Yes, you may sit here.)\n- \"실내에서 사진을 찍어도 돼요.\" (You may take photos inside.)\n\n2. 대칭적 문답 담화 모델:\n- 질문: \"선생님, 지금 교실에 들어가도 돼요?\"\n  - 긍정 허가 (Permission granted): \"네, 지금 들어와도 돼요.\"\n  - 부정 금지 (Prohibited): \"아니요, 아직 청소 중이니까 들어가면 안 돼요.\"\n- 질문: \"여기 주차해도 돼요?\"\n  - 긍정 허가: \"네, 여기에 세우셔도 돼요.\"\n  - 부정 금지: \"아니요, 여기는 장애인 전용 구역이라서 주차하시면 안 됩니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (11.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 여기에 잠깐 앉아도 돼요? B: 네, 편하게 앉으셔도 돼요.",
+          "reading": "A: Yeogi-e jamkkan anjado dwaeyo? B: Ne, pyeonhage anjeusyeodo dwaeyo.",
+          "translation": "A: May I sit here for a moment? B: Yes, you may sit comfortably ('-아/어도 되다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (11.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "A: 전시관 안에서 사진을 찍어도 돼요? B: 아니요, 찍으면 안 됩니다.",
+          "reading": "A: Jeonsigwan an-eseo sajin-eul jjigeodo dwaeyo? B: Aniyo, jjigeumyeon an doemnida.",
+          "translation": "A: May I take photos inside the exhibition hall? B: No, you must not take photos ('-면 안 되다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (11.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "수업 중에 급한 일이 있으면 잠시 밖에 나가도 됩니다.",
+          "reading": "Sueop jung-e geuphan il-i isseumyeon jamsi bakke nagado doemnida.",
+          "translation": "If you have urgent business during class, you may go outside for a moment."
+        },
+        {
+          "target": "공연 중에는 스마트폰 화면을 켜면 안 됩니다.",
+          "reading": "Gong-yeon jung-eneun seumateupon hwamyeon-eul kyeomyeon an doemnida.",
+          "translation": "During the performance, you must not turn on the smartphone screen."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "허락을 구할 땐 '-아/어도 돼요?', 승낙할 땐 '해도 돼요', 거절/금지할 땐 '-면 안 돼요'!"
+      ],
+      "culturalNotes": [
+        "상대방의 공간이나 물건을 이용하기 전에 '잠깐 써도 돼요?' 또는 '여기에 앉아도 돼요?'라고 사전에 양해를 구하는 것은 한국에서 필수적인 배려 화법입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'여기 앉아도 돼요?'라는 질문에 대해 거절 및 금지를 나타내는 가장 적절한 대답은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (11.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (11.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (11.3.3)."
+            "아니요, 여기에 앉으면 안 돼요.",
+            "네, 여기에 앉으면 안 돼요.",
+            "아니요, 여기에 앉아도 돼요."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "거절과 금지는 '아니요'와 함께 '-면 안 돼요'를 사용한 첫 번째 대답이 완벽합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'창문을 열어도 됩니까?'라는 정중한 허가 질문에 알맞은 승인 답변은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (11.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (11.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (11.3.3)."
+            "네, 창문을 여셔도 됩니다.",
+            "네, 창문을 열면 안 됩니다.",
+            "아니요, 창문을 여셔도 돼요."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "허가를 승인할 때는 '네'와 함께 '-아/어도 되다(존칭: -으셔도 되다)'를 씁니다."
         }
       ]
     },
@@ -5288,14 +5333,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 11-3)?",
+          "prompt": "다음 중 허가와 금지의 문답이 문법과 맥락상 가장 완벽한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (11.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (11.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (11.3.3)."
+            "A: 지금 질문해도 돼요? B: 네, 편하게 질문하셔도 돼요.",
+            "A: 지금 질문해도 돼요? B: 네, 질문하면 안 돼요.",
+            "A: 지금 질문하면 안 돼요? B: 아니요, 질문해야 해요."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "허가 질문('질문해도 돼요?')에 대해 친절하게 허가('질문하셔도 돼요')한 첫 번째 대화가 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'사진을 찍어도 돼요'(You may take photos)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "사진을 찍어도 돼요.",
+            "사진을 찍어도 돼요"
+          ],
+          "explanation": "사진을 + 찍어도 돼요(찍다 + 어도 되다) = 사진을 찍어도 돼요."
         }
       ]
     }
@@ -5305,56 +5359,65 @@
     "subject": "korean",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) (Part 4)",
+    "title": "불필요 및 비의무 표현 (-지 않아도 되다 / 안 -아/어도 되다)",
     "level": "B1",
-    "objective": "Comprehensive mastery of 의무와 금지 표현 (Obligation & Prohibition).",
+    "objective": "의무를 면제해주어 '그렇게 할 필요가 없다(No need to / Don't have to)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) » (제4절)의 핵심 언어 요소와 의무와 금지 표현 (Obligation & Prohibition)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "의무 표현('-아/어야 하다')의 부정은 금지('-면 안 되다')뿐만 아니라, 의무를 해제해 주는 '불필요/비의무(-지 않아도 되다)'의 영역이 존재합니다.\n\n1. 형태 결합 및 구조:\n- 동사 어간 + '-지 않아도 되다' / '안 + 동사-아/어도 되다':\n  - 오다 → 내일 학교에 오지 않아도 돼요 / 안 와도 돼요 (You don't have to come tomorrow)\n  - 내다 → 입장료를 내지 않아도 됩니다 (You don't need to pay admission fee)\n  - 서두르다 → 서두르지 않아도 돼요 (No need to hurry)\n  - 먹다 → 다 안 먹어도 돼요 / 다 먹지 않아도 돼요 (You don't have to eat it all)\n\n2. '금지'와 '불필요'의 결정적 구분:\n- 금지 (Prohibition): \"먹으면 안 돼요!\" (You MUST NOT eat - 먹으면 탈이 나거나 규정 위반임)\n- 불필요 (Exemption): \"다 안 먹어도 돼요.\" (You DON'T HAVE TO eat all - 남겨도 괜찮음)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (11.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "내일은 공휴일이라서 회사에 출근하지 않아도 됩니다.",
+          "reading": "Naeil-eun gonghyuil-iraseo hoesa-e chulgeunhaji anhado doemnida.",
+          "translation": "Tomorrow is a public holiday, so you do not have to come to work ('-지 않아도 되다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (11.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "시간이 아직 충분하니 너무 서두르지 않아도 돼요.",
+          "reading": "Sigan-i ajik chungbunhani neomu seodureuji anhado dwaeyo.",
+          "translation": "We still have plenty of time, so you don't need to rush."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (11.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "이 미술관은 무료 관람이라서 표를 사지 않아도 돼요.",
+          "reading": "I misulgwan-eun muryo gwallam-iraseo pyo-reul saji anhado dwaeyo.",
+          "translation": "This art museum is free admission, so you don't have to buy a ticket."
+        },
+        {
+          "target": "배가 부르면 억지로 다 먹지 않아도 괜찮습니다.",
+          "reading": "Bae-ga bureumyeon eokjiro da meokji anhado gwaenchanseumnida.",
+          "translation": "If you are full, it is okay not to force yourself to eat everything."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "안 해도 괜찮을 땐 '-지 않아도 돼요'! 해야 할 의무를 덜어주는 마법의 말!"
+      ],
+      "culturalNotes": [
+        "한국의 식사 자리에서 손님이 배불러할 때 주인이나 선배가 '무리해서 다 안 드셔도 돼요'라고 권하는 것은 상대방을 편안하게 해주는 따뜻한 배려의 표현입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'내일 일찍 일어날 필요가 없다(No need to wake up early)'를 나타낸 올바른 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (11.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (11.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (11.4.3)."
+            "내일 일찍 일어나지 않아도 돼요.",
+            "내일 일찍 일어나면 안 돼요.",
+            "내일 일찍 일어나야 돼요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "의무의 면제/불필요는 '-지 않아도 되다'를 사용하므로 '일어나지 않아도 돼요'가 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'돈을 내지 않아도 된다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (11.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (11.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (11.4.3)."
+            "돈을 안 내도 돼요.",
+            "돈을 내면 안 돼요.",
+            "돈을 내야 돼요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'안 -아/어도 되다'는 불필요 표현이므로 '돈을 안 내도 돼요'가 올바릅니다."
         }
       ]
     },
@@ -5362,14 +5425,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 11-4)?",
+          "prompt": "'금지(Must not)'와 '불필요(Don't have to)'의 짝이 올바르게 묶인 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (11.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (11.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (11.4.3)."
+            "금지: 가면 안 돼요 / 불필요: 가지 않아도 돼요",
+            "금지: 가지 않아도 돼요 / 불필요: 가면 안 돼요",
+            "금지: 가야 돼요 / 불필요: 가지 마세요"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "'-면 안 되다'는 금지, '-지 않아도 되다'는 불필요를 나타냅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'안 와도 돼요'(You don't have to come)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "안 와도 돼요.",
+            "안 와도 돼요"
+          ],
+          "explanation": "안 + 오다 + 아도 되다 = 안 와도 돼요."
         }
       ]
     }
@@ -5379,56 +5451,65 @@
     "subject": "korean",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) (Part 5)",
+    "title": "공공시설 이용 규칙 및 예절 에티켓 실전 담화",
     "level": "B1",
-    "objective": "Comprehensive mastery of 의무와 금지 표현 (Obligation & Prohibition).",
+    "objective": "미술관, 도서관, 극장, 병원 등 공공장소에서 허가, 금지, 의무 표현을 정확히 구사하여 공공 규칙 안내 및 질문 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) » (제5절)의 핵심 언어 요소와 의무와 금지 표현 (Obligation & Prohibition)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "공공장소의 에티켓과 이용 수칙을 주제로 대화할 때는 의무('-아/어야 하다'), 금지('-면 안 되다'), 허가('-아/어도 되다') 표현을 조화롭게 결합합니다.\n\n1. 공공장소별 핵심 안내 수칙 모델:\n- 도서관 (Library):\n  - \"열람실 안에서는 휴대전화를 무음으로 설정해야 합니다.\"\n  - \"통화를 하실 때는 복도로 나가셔야 합니다.\"\n  - \"음료수는 뚜껑이 있는 용기만 반입하셔도 됩니다.\"\n- 미술관 (Art Museum):\n  - \"작품은 눈으로만 감상하시고 절대 손으로 만지시면 안 됩니다.\"\n  - \"플래시 없이 일반 사진 촬영은 하셔도 됩니다.\"\n- 병원 (Hospital):\n  - \"진료 10분 전까지 도착하셔서 접수하셔야 합니다.\"\n  - \"검사실 안에는 금속 물질을 가지고 들어가시면 안 됩니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (11.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 미술관 안에서 사진을 찍어도 되나요? B: 네, 하지만 플래시는 켜면 안 됩니다.",
+          "reading": "A: Misulgwan an-eseo sajin-eul jjigeodo doenayo? B: Ne, hajiman peullaesi-neun kyeomyeon an doemnida.",
+          "translation": "A: May I take photos inside the art museum? B: Yes, but you must not turn on the flash."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (11.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "도서관에서는 다른 사람들을 위해 조용히 해야 합니다.",
+          "reading": "Doseogwan-eseoneun dareun saramdeul-eul wihae joyonghi haeya hamnida.",
+          "translation": "In the library, you must stay quiet for the sake of others ('-아/어야 하다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (11.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "병원에 오실 때는 신분증이나 건강보험증을 꼭 챙겨 오셔야 돼요.",
+          "reading": "Byeongwon-e osil ttae-neun sinbunjeung-ina geon-gangboheomjeung-eul kkok chaenggyeo osyeoya dwaeyo.",
+          "translation": "When you come to the hospital, you must bring your ID or health insurance card."
+        },
+        {
+          "target": "비행기 이착륙 중에는 전자기기 전원을 꺼야 합니다.",
+          "reading": "Bihaenggi ichangnyuk jung-eneun jeonjagigi jeonwon-eul kkeoya hamnida.",
+          "translation": "During airplane takeoff and landing, you must turn off the power of electronic devices."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "허락은 '-아/어도 되다', 금지는 '-면 안 되다', 지킬 것은 '-아/어야 하다'로 품격 있는 에티켓 완성!"
+      ],
+      "culturalNotes": [
+        "한국의 영화관이나 공연장에서는 공연 시작 직전에 '휴대전화는 진동이나 비행기 탑승 모드로 전환해 주시기 바랍니다'라는 에티켓 영상이 상영됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "미술관 관람 규칙으로 가장 적절한 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (11.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (11.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (11.5.3)."
+            "작품을 손으로 만지면 안 됩니다.",
+            "작품을 손으로 만져야 합니다.",
+            "작품을 손으로 만지지 않아도 됩니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "작품 훼손 방지를 위한 공공 규칙이므로 금지 표현인 '만지면 안 됩니다'가 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의무와 금지(-아/어야 하다, -면 안 되다) (Obligation) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "도서관 이용 수칙 중 올바른 의무 표현은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (11.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (11.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (11.5.3)."
+            "열람실 안에서는 조용히 해야 합니다.",
+            "열람실 안에서는 크게 떠들어야 합니다.",
+            "열람실 안에서는 노래를 불러도 됩니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "도서관 열람실에서는 정숙이 의무이므로 '조용히 해야 합니다'가 올바릅니다."
         }
       ]
     },
@@ -5436,14 +5517,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 의무와 금지 표현 (Obligation & Prohibition) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 11-5)?",
+          "prompt": "공공장소 에티켓 안내 대화 중 문맥과 규범이 가장 자연스러운 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (11.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (11.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (11.5.3)."
+            "A: 전시관에 음료수를 들고 들어가도 돼요? B: 아니요, 음식물은 가지고 들어가시면 안 됩니다.",
+            "A: 전시관에 음료수를 들고 들어가도 돼요? B: 네, 음료수는 버려야 합니다.",
+            "A: 전시관에 음료수를 들고 들어가면 안 돼요? B: 네, 들고 들어가야 돼요."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "음료 반입 여부 질문에 정중하게 금지 규칙을 안내한 첫 번째 대화가 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'조용히 해야 합니다'(You must stay quiet)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "조용히 해야 합니다.",
+            "조용히 해야 합니다"
+          ],
+          "explanation": "조용히(부사) + 해야 합니다(하다 + 여야 합니다) = 조용히 해야 합니다."
         }
       ]
     }
