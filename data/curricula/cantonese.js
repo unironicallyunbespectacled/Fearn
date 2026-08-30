@@ -13605,53 +13605,62 @@
     "subject": "cantonese",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "嶺南傳統建築與園林美學 (Lingnan Architecture & Gardens) (第1課)",
+    "title": "嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantonese Vernacular Architecture)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元33第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南廣府傳統民居結構（鑊耳封火山牆、三間兩廊、青磚石腳）、天井採光導風及適應濕熱氣候之高階建築美學話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "嶺南廣府傳統民居建築，凝聚住嶺南先民適應亞熱帶季風濕熱氣候之非凡生態智慧：\n\n一、廣府傳統民居核心結構矩陣：\n１．「鑊耳封火山牆」（wok6 ji5 fung1 saan1 saan1 coeng4）：\n- 山牆狀如鑊耳，線條優美圓潤；兼具隔絕火患封火、抵禦颱風之實用功能，並寓意官運亨通「獨佔鰲頭」。\n２．「三間兩廊與天井冷巷」（saam1 gaan1 loeng5 long4 jyu5 tin1 zeng2）：\n- 正廳居中，兩側設廂房；透過天井與狹長「冷巷」形成強大煙囪拔風對流效應，加速自然通風排熱。\n３．「青磚石腳與蠔殼牆」（cing1 zyun1 sek6 goek3）：\n- 花崗岩條石奠基以防潮防蛀，青磚砌牆隔熱冬暖夏涼；沿海更以生蠔殼築牆（蠔殼屋）。\n\n二、生態適應哲學：\n- 「順應氣候，因地制宜，遮陽隔熱，導風散熱」（seon6 jing3 hei3 hau6, jan1 dei6 zai3 ji4）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 33 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 33 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 33 in communication."
+          "target": "廣府傳統鑊耳屋依託高聳之山牆防火防風，巧妙利用天井同冷巷形成空氣對流，實現卓越之自然散熱排濕。",
+          "reading": "gwong2 fu2 cyun4 tung4 wok6 ji5 uk1 ji1 tok3 gou1 sung2 zi1 saan1 coeng4 fong4 fo2 fong4 fung1, hiu2 miu6 lei6 jung6 tin1 zeng2 tung4 laang5 hong6*2 jing4 sing4 hung1 hei3 deoi3 lau4, sat6 jin6 zoek3 jyu4 zi1 zi6 jin4 saan3 jit6 paai4 sap1. [kʷɔːŋ˧˥ fuː˧˥ tsʰyːn˨˩ tʰʊŋ˨˩ wɔːk̚˨ jiː˩˧ ʊk̚˥ jiː˥ tʰɔːk̚˧ kou˥ sʊŋ˧˥ tsiː˥ saːn˥ tsʰœːŋ˨˩ fɔːŋ˨˩ fɔː˧˥ fɔːŋ˨˩ fʊŋ˥, hiːu˧˥ miːu˨ lei˨ jʊŋ˨ tʰiːn˥ tseŋ˧˥ tʰʊŋ˨˩ laːŋ˩˧ hɔːŋ˨ jɪŋ˨˩ sɪŋ˨˩ hʊŋ˥ hei˧ tɵy˧ lɐu˨˩, sɐt̚˨ jiːn˨ tsœːk̚˧ jyː˨˩ tsiː˥ tsiː˨ jiːn˨˩ saːn˧ jiːt̚˨ pʰaːi˨˩ sɐp̚˥] (GWONG-FOO CHUEN-TOONG WOK-YEE-OOK YEE-TOK GOU-SOONG JEE SAHN-CHEUNG FONG-FOH FONG-FOONG, HIU-MEW LEY-YOONG TEEN-JENG TOONG LAANG-HOHNG YING-SING HOONG-HEY DEOY-LAU, SUT-YEEN JERK-YUE JEE JEE-YEEN SAHN-YEET PY-SUP)",
+          "translation": "Cantonese traditional wok-ear houses rely on towering gable walls to prevent fire and wind, skillfully utilizing courtyards and cold alleyways to create air convection, achieving outstanding natural heat dissipation and dehumidification."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元33-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "青磚石腳與精美雕飾交相輝映，展現出嶺南民居樸實厚重而又靈動雅緻之獨特建築美學風貌。",
+          "reading": "cing1 zyun1 sek6 goek3 jyu5 zing1 mei5 diu1 sik1 gaau1 soeng1 fai2 jing2, zin2 jin6 ceot1 ling5 naam4 man4 geoi1 pok3 sat6 hau5 zung6 ji4 jau6 ling4 dung6 ngaa5 zi3 zi1 duk6 dak6 gin3 zuk6 mei5 hok6 fung1 maau6. [tsʰɪŋ˥ tsyn˥ sɛːk̚˨ kœːk̚˧ jyː˩˧ tsɪŋ˥ mei˩˧ tiːu˥ sɪk̚˥ kaːu˥ sœːŋ˥ fɐi˧˥ jɪŋ˧˥, tsiːn˧˥ jiːn˨ tsʰɵt̚˥ lɪŋ˩˧ naːm˨˩ mɐn˨˩ kɵy˥ pʰɔːk̚˧ sɐt̚˨ hɐu˧˥ tsʊŋ˨ jiː˨˩ jɐu˨ lɪŋ˨˩ tʊŋ˨ ŋaː˩˧ tsi˧ tsiː˥ tʊk̚˨ tɐk̚˨ kiːn˧ tsʊk̚˨ mei˩˧ hɔːk̚˨ fʊŋ˥ maːu˨] (CHING-JUEN SEK-GERK YUE JING-MAY DEW-SIK GAU-SEUNG FY-YING, JEEN-YEEN-CHUT LING-NAHM MUN-GOEY POK-SUT HAU-JOONG YEE-YAU LING-DOONG NGAH-JEE JEE DUK-DUK GEEN-JUK MAY-HOK FOONG-MAU)",
+          "translation": "Blue-brick walls and stone bases shine in harmony with exquisite carvings, demonstrating the unique architectural aesthetic style of Lingnan vernacular dwellings that is both plain-sturdy and dynamically elegant."
+        },
+        {
+          "target": "嶺南建築師深入發掘傳統民居之採光遮陽智慧，將其融入現代綠色低碳建築設計之中。",
+          "reading": "ling5 naam4 gin3 zuk6 si1 sam1 jap6 faat3 gwat1 cyun4 tung4 man4 geoi1 zi1 coi2 gwong1 ze1 joeng4 zi3 wai3, zoeng1 kei4 jung4 jap6 jin6 doi6 luk6 sik1 dai1 taan3 gin3 zuk6 cit3 gai3 zi1 zung1. [lɪŋ˩˧ naːm˨˩ kiːn˧ tsʊk̚˨ siː˥ sɐm˥ jɐp̚˨ faːt̚˧ kʷɐt̚˥ tsʰyːn˨˩ tʰʊŋ˨˩ mɐn˨˩ kɵy˥ tsiː˥ tsʰɔːi˧˥ kʷɔːŋ˥ tsɛː˥ jœːŋ˨˩ tsiː˧ wɐi˧, tsœːŋ˥ kʰei˨˩ jʊŋ˨˩ jɐp̚˨ jiːn˨ tɔːi˨ lʊk̚˨ sɪk̚˥ tɐi˥ tʰaːn˧ kiːn˧ tsʊk̚˨ tsʰiːt̚˧ kɐi˧ tsiː˥ tsʊŋ˥] (LING-NAHM GEEN-JUK-SEE SUM-YUP FAHT-GWUT CHUEN-TOONG MUN-GOEY JEE CHOY-GWONG JEH-YEUNG JEE-WAI, JEUNG KAY YOONG-YUP YEEN-DOY LUK-SIK DY-TAHN GEEN-JUK CHEET-GY JEE JOONG)",
+          "translation": "Lingnan architects deeply excavate the daylighting and shading wisdom of traditional dwellings, integrating it into contemporary green and low-carbon architectural designs."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【廣府民居訣】鑊耳山牆防風火，天井冷巷引清風；青磚石腳基石固，嶺南民居千載通！"
+      ],
+      "culturalNotes": [
+        "廣東珠三角與香港新界保留了大量歷史鑊耳屋古村落（如廣州沙灣古鎮、佛山逢簡水鄉、香港屏山文物徑覲廷書室）。鑊耳山牆在古代唯有考取功名或獲官府特許之望族方可建造，象徵宗族榮耀。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"法律\":",
+          "prompt": "【廣府建築】嶺南傳統民居中狀如鑊耳、具備防火防風實用功能且象徵獨佔鰲頭之特色山牆稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：法官錯置）",
-            "混雜生硬詞彙之不規範語句（例項：律師未適配）",
-            "聲調助詞搭配欠妥之表達（例項：法庭誤用）"
+            "鑊耳屋 / 鑊耳封火山牆 (Wok-ear gable wall / Wok6 ji5 uk1)",
+            "哥特式尖頂",
+            "羅馬圓形穹頂",
+            "茅草圓錐頂"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「鑊耳封火山牆」為嶺南廣府民居最具標誌性與辨識度之傳統建築符號。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"法律\":",
+          "prompt": "【通風智慧】嶺南民居利用狹窄通道與天井高差加速室內熱空氣排出、引入涼風之生態通風構造係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：律師未適配）",
-            "聲調助詞搭配欠妥之表達（例項：法庭誤用）",
-            "語序顛倒嘅非標準句式（例項：法官錯置）"
+            "天井與冷巷 (Courtyards and Cold Alleys / Tin1 zeng2 jyu5 laang5 hong6)",
+            "全封閉玻璃幕牆",
+            "地下密閉地窖",
+            "加厚實心牆體"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「冷巷」利用狹管效應（Venturi Effect）與拔風對流，為濕熱嶺南提供天然降溫空調。"
         }
       ]
     },
@@ -13659,15 +13668,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"法律\": Which sentence is completely correct?",
+          "prompt": "【生態適應】嶺南傳統民居建築在構造上最核心之整體設計指導哲學係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：法庭誤用）",
-            "語序顛倒嘅非標準句式（例項：法官錯置）",
-            "混雜生硬詞彙之不規範語句（例項：律師未適配）"
+            "因地制宜、遮陽隔熱、導風散熱與防潮排濕 (Contextual adaptation, sun shading, natural ventilation & moisture removal)",
+            "單純模仿北方防寒厚牆",
+            "完全忽略本地濕熱氣候",
+            "只追求形式奢華浪費"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "因地制宜適應濕熱氣候係嶺南傳統建築最寶貴之生態建築智慧。"
         }
       ],
       "passThreshold": 0.8
@@ -13678,53 +13687,62 @@
     "subject": "cantonese",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "嶺南傳統建築與園林美學 (Lingnan Architecture & Gardens) (第2課)",
+    "title": "嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元33第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南古典園林造園藝術（順德清暉園、番禺餘蔭山房、佛山梁園、東莞可園）、縮龍成寸小中見大構景手法及滿洲窗水石花木美學。",
     "presentation": {
-      "explanation": "",
+      "explanation": "嶺南四大古典名園代表了嶺南文人園林藝術之巔峰，展現出不同於江南園林之獨特風骨：\n\n一、嶺南四大古典名園代表：\n１．「順德清暉園」：\n- 佈局精巧，水木清華，融嶺南庭院與水鄉風貌於一體。\n２．「番禺餘蔭山房」：\n- 「縮龍成寸，小中見大」，在三畝有限空間內巧妙佈局深柳堂、臨池別館與玲瓏水榭。\n３．「東莞可園」：\n- 空間連通，迴廊曲折，「可羨人間福地，可思洞天福地」。\n４．「佛山梁園」：\n- 以奇石巧布、水系靈動與文人書畫意境見長。\n\n二、嶺南園林造園美學核心手法：\n- 「求實兼蓄，空間通透」：廣泛採用彩色滿洲窗、蠔殼漏窗、通透敞廳。\n- 「園中有園，景外有景，借景入境」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 33 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 33 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 33 in communication."
+          "target": "番禺餘蔭山房以「縮龍成寸、小中見大」之精妙手法，在有限庭院內構建出層次極其豐富之山水意境。",
+          "reading": "pun1 jyu4 jyu4 jam3 saan1 fong4 ji5 \"suk1 lung4 sing4 cyun3, siu2 zung1 gin3 daai6\" zi1 zing1 miu6 sau2 faat3, zoi6 jau5 haan6 ting4 jyun4 noi6 gau3 gin3 ceot1 cang4 ci3 gik6 kei4 fung1 fu3 zi1 saan1 seoi2 ji3 ging3. [pʰuːn˥ jyː˩˧ jyː˨˩ jɐm˧ saːn˥ fɔːŋ˨˩ jiː˩˧ \"sʊk̚˥ lʊŋ˨˩ sɪŋ˨˩ tsʰyn˧, siːu˧˥ tsʊŋ˥ kiːn˧ taːi˨\" tsiː˥ tsɪŋ˥ miːu˨ sɐu˧˥ faːt̚˧, tsɔːi˨ jɐu˩˧ haːn˨ tʰɪŋ˨˩ jyːn˨˩ nɔːi˨ kɐu˧ kiːn˧ tsʰɵt̚˥ tsʰɐŋ˨˩ tsʰiː˧ kɪk̚˨ kʰei˨˩ fʊŋ˥ fuː˧ tsiː˥ saːn˥ sɵy˧˥ jiː˧ kɪŋ˧] (POON-YUE YUE-YUM SAHN-FONG YEE \"SUK-LONG SING-CHUEN, SIU-JOONG GEEN-DY\" JEE JING-MEW SAU-FAHT, JOY YAU-HAHN TING-YUEN NOY GAU-GEEN-CHUT CHUNG-CHEE GIK-KAY FOONG-FOO JEE SAHN-SOEY YEE-GING)",
+          "translation": "Panyu Yuyin Shanfang, through the exquisite technique of 'condensing the dragon into an inch and seeing the great in the small', constructed an extremely rich layering of landscape scenery within limited courtyard grounds."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元33-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "清暉園內彩色滿洲窗與靈動水景相互倒映，展現出嶺南文人園林兼收並蓄、雅緻通透之非凡格調。",
+          "reading": "cing1 fai1 jyun4 noi6 coi2 sik1 mun5 zau1 coeng1 jyu5 ling4 dung6 seoi2 ging2 soeng1 hu6 dou3 jing2, zin2 jin6 ceot1 ling5 naam4 man4 jan4 jyun4 lam4 zim1 sau1 bing3 cuk1, ngaa5 zi3 tung1 tau3 zi1 fei1 faan4 gaak3 diu6. [tsʰɪŋ˥ fɐi˥ jyːn˨˩ nɔːi˨ tsʰɔːi˧˥ sɪk̚˥ muːn˩˧ tsɐu˥ tsʰœːŋ˥ jyː˩˧ lɪŋ˨˩ tʊŋ˨ sɵy˧˥ kɪŋ˧˥ sœːŋ˥ wuː˨ tou˧ jɪŋ˧˥, tsiːn˧˥ jiːn˨ tsʰɵt̚˥ lɪŋ˩˧ naːm˨˩ mɐn˨˩ jɐn˨˩ jyːn˨˩ lɐm˨˩ tsiːm˥ sɐu˥ pɪŋ˧ tsʰʊk̚˥, ŋaː˩˧ tsi˧ tʰʊŋ˥ tʰɐu˧ tsiː˥ fei˥ faːn˨˩ kaːk̚˧ tiːu˨] (CHING-FY YUEN-NOY CHOY-SIK MOON-JAU CHEUNG YUE LING-DOONG SOEY-GING SEUNG-WOO DOU-YING, JEEN-YEEN-CHUT LING-NAHM MUN-YUN YUEN-LUM JEEM-SAU BING-CHUK, NGAH-JEE TOONG-TAU JEE FAY-FAHN GAAK-DEW)",
+          "translation": "Inside Qinghui Garden, colored Manchu stained-glass windows and dynamic water features reflect each other, demonstrating the extraordinary style of Lingnan literati gardens that is inclusive, elegant, and permeable."
+        },
+        {
+          "target": "嶺南名園注重引水入園與因勢構景，使亭台樓閣與奇花異木融為一體，達到天人合一之至美境界。",
+          "reading": "ling5 naam4 ming4 jyun4 zyu3 zung6 jan5 seoi2 jap6 jyun4 jyu5 jan1 sai3 gau3 ging2, si2 ting4 toi4 lau4 gok3 jyu5 kei4 faa1 ji6 muk6 jung4 wai4 jat1 tai2, daat6 dou3 tin1 jan4 hap6 jat1 zi1 zi3 mei5 ging2 gaai3. [lɪŋ˩˧ naːm˨˩ mɪŋ˨˩ jyːn˨˩ tsyː˧ tsʊŋ˨ jɐn˩˧ sɵy˧˥ jɐp̚˨ jyːn˨˩ jyː˩˧ jɐn˥ sɐi˧ kɐu˧ kɪŋ˧˥, siː˧˥ tʰɪŋ˨˩ tʰɔːi˨˩ lɐu˨˩ kɔːk̚˧ jyː˩˧ kʰei˨˩ faː˥ jiː˨ mʊk̚˨ jʊŋ˨˩ wɐi˨˩ jɐt̚˥ tʰɐi˧˥, taːt̚˨ tou˧ tʰiːn˥ jɐn˨˩ hɐp̚˨ jɐt̚˥ tsiː˥ tsiː˧ mei˩˧ kɪŋ˧˥ kaːi˧] (LING-NAHM MING-YUEN JUE-JOONG YUN-SOEY YUP-YUEN YUE YUN-SY GAU-GING, SEE TING-TOY LOU-GOK YUE KAY-FAH YEE-MUK YOONG-WAI YUT-TY, DAHT-DOU TEEN-YUN HUP-YUT JEE JEE-MAY GING-GY)",
+          "translation": "Famous Lingnan gardens emphasize channeling water into the grounds and constructing scenery according to terrain, integrating pavilions and towers with rare flora, achieving the supreme state of harmony between nature and humanity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【四大名園訣】清暉水木滿洲窗，餘蔭縮龍成寸長；梁園奇石可園秀，嶺南園林天下芳！"
+      ],
+      "culturalNotes": [
+        "香港的九龍寨城公園（Kowloon Walled City Park）採用了經典江南與嶺南園林交融的造園手法；荔枝角公園內的『嶺南之風』更是全港最具規模的現代古典嶺南文人園林。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"法官\":",
+          "prompt": "【名園名言】番禺餘蔭山房在有限的三畝土地內創造出極其開闊深遠之山水層次，其最著名之造園格言係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：律師錯置）",
-            "混雜生硬詞彙之不規範語句（例項：法庭未適配）",
-            "聲調助詞搭配欠妥之表達（例項：審判誤用）"
+            "縮龍成寸，小中見大 (Condensing dragon to an inch, seeing the great in the small)",
+            "大興土木，耗資巨萬",
+            "全盤西化，照抄洋樓",
+            "寸草不生，鋪滿水泥"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「縮龍成寸，小中見大」為嶺南園林在方寸之間營造萬千氣象之核心造園哲學。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"法官\":",
+          "prompt": "【園林構件】嶺南園林中將西洋彩色玻璃與傳統木格扇巧妙結合、呈現絢麗光影效果之標誌性窗櫺裝飾係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：法庭未適配）",
-            "聲調助詞搭配欠妥之表達（例項：審判誤用）",
-            "語序顛倒嘅非標準句式（例項：律師錯置）"
+            "滿洲窗 (Manchu Stained-glass Windows / Mun5 zau1 coeng1)",
+            "普通塑料窗",
+            "鋁合金推拉窗",
+            "鋼化防盜窗"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「滿洲窗」為嶺南園林中西文化交融與光影美學之璀璨明珠。"
         }
       ]
     },
@@ -13732,15 +13750,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"法官\": Which sentence is completely correct?",
+          "prompt": "【名園總攬】以下哪一組完全屬於中國著名的「嶺南四大名園」：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：審判誤用）",
-            "語序顛倒嘅非標準句式（例項：律師錯置）",
-            "混雜生硬詞彙之不規範語句（例項：法庭未適配）"
+            "順德清暉園、番禺餘蔭山房、佛山梁園、東莞可園 (Qinghui, Yuyin, Liangyuan, Keyuan)",
+            "拙政園、留園、網師園、滄浪亭",
+            "頤和園、圓明園、避暑山莊、北海公園",
+            "凡爾賽宮、楓丹白露、無憂宮、冬宮"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "清暉園、餘蔭山房、梁園、可園合稱為嶺南古典園林之四大代表瑰寶。"
         }
       ],
       "passThreshold": 0.8
@@ -13751,53 +13769,62 @@
     "subject": "cantonese",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "嶺南傳統建築與園林美學 (Lingnan Architecture & Gardens) (第3課)",
+    "title": "嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Lingnan Architectural Decorative Arts)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元33第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握嶺南古建築傳統裝飾工藝「三雕一塑一嵌」（木雕、石雕、磚雕、灰塑、嵌瓷）、廣州陳家祠代表作工藝特徵及吉祥文化寓意話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "嶺南古建築裝飾工藝以極致精巧、色彩斑斕與寓意吉祥著稱，被譽為「三雕一塑一嵌瓷」：\n\n一、嶺南五大古建裝飾工藝體系：\n１．「木雕」（muk6 diu1）：\n- 多層透雕、貼金金漆木雕（如潮州金漆木雕），刀法繁複，層次分明。\n２．「磚雕與石雕」（zyun1 diu1 jyu5 sek6 diu1）：\n- 水磨青磚精雕細刻（掛口、門楣），線條細若遊絲；花崗岩石雕基座柱礎沉穩莊重。\n３．「灰塑 / 灰批」（fui1 sok3）：\n- 採用石灰、紙筋、稻草等材料在屋脊、山牆上立體堆塑，耐日曬雨淋。\n４．「嵌瓷 / 剪瓷雕」（ham3 ci4）：\n- 剪切彩色瓷片拼接鑲嵌於屋頂脊飾，歷經百年風雨依然色彩絢麗。\n\n二、集大成之巔峰代表：\n- 廣州陳家祠（陳氏書院）：被譽為「嶺南建築藝術之明珠」，薈萃五大工藝之極致精華。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 33 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 33 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 33 in communication."
+          "target": "廣州陳家祠薈萃咗木雕、石雕、磚雕、灰塑同嵌瓷五大傳統工藝，堪稱嶺南建築裝飾藝術之集大成之作。",
+          "reading": "gwong2 zau1 can4 gaa1 ci4 wui6 seoi3 zo2 muk6 diu1, sek6 diu1, zyun1 diu1, fui1 sok3 tung4 ham3 ci4 ng5 daai6 cyun4 tung4 gung1 ngai6, ham1 cing1 ling5 naam4 gin3 zuk6 zong1 sik1 ngai6 seot6 zi1 zaap6 daai6 sing4 zi1 zok3. [kʷɔːŋ˧˥ tsɐu˥ tsʰɐn˨˩ kaː˥ tsʰiː˨˩ wuːi˨ sɵy˧ tsɔː˧˥ mʊk̚˨ tiːu˥, sɛːk̚˨ tiːu˥, tsyn˥ tiːu˥, fuːi˥ sɔːk̚˧ tʰʊŋ˨˩ hɐm˧ tsʰiː˨˩ ŋ̩˩˧ taːi˨ tsʰyːn˨˩ tʰʊŋ˨˩ kʊŋ˥ ŋɐi˨, hɐm˥ tsʰɪŋ˥ lɪŋ˩˧ naːm˨˩ kiːn˧ tsʊk̚˨ tsɔːŋ˥ sɪk̚˥ ŋɐi˨ sɵt̚˨ tsiː˥ tsaːp̚˨ taːi˨ sɪŋ˨˩ tsiː˥ tsɔːk̚˧] (GWONG-JAU CHUN-GAH-CHEE WUI-SOEY-JOR MUK-DEW, SEK-DEW, JUEN-DEW, FOOY-SOK TOONG HUM-CHEE NGG-DY CHUEN-TOONG GONG-NGY, HUM-CHING LING-NAHM GEEN-JUK JONG-SIK NGY-SUT JEE JAHP-DY-SING JEE JOK)",
+          "translation": "The Chen Clan Ancestral Hall in Guangzhou brings together the five traditional crafts of wood carving, stone carving, brick carving, plaster molding, and ceramic mosaic, ranking as the masterpiece of Lingnan architectural decorative art."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元33-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "屋脊上之灰塑與嵌瓷歷經百年風雨侵蝕依然色彩斑斕，生動呈現出嶺南佳果與歷史神話典故之民俗圖景。",
+          "reading": "uk1 zek3 soeng6 zi1 fui1 sok3 jyu5 ham3 ci4 lik6 ging1 baak3 nin4 fung1 jyu5 cam1 sik1 ji1 jin4 sik1 coi2 baan1 laan4, sang1 dung6 cing4 jin6 ceot1 ling5 naam4 gaai1 gwo2 jyu5 lik6 si2 san4 waa6*2 din2 gu3 zi1 man4 zuk6 tou4 ging2. [ʊk̚˥ tsɛːk̚˧ sœːŋ˨ tsiː˥ fuːi˥ sɔːk̚˧ jyː˩˧ hɐm˧ tsʰiː˨˩ lɪk̚˨ kɪŋ˥ paːk̚˧ niːn˨˩ fʊŋ˥ jyː˩˧ tsʰɐm˥ sɪk̚˥ jiː˥ jiːn˨˩ sɪk̚˥ tsʰɔːi˧˥ paːn˥ laːn˨˩, sɐŋ˥ tʊŋ˨ tsʰɪŋ˨˩ jiːn˨ tsʰɵt̚˥ lɪŋ˩˧ naːm˨˩ kaːi˥ kʷɔː˧˥ jyː˩˧ lɪk̚˨ siː˧˥ sɐn˨˩ waː˨ tiːn˧˥ kuː˧ tsiː˥ mɐn˨˩ tsʊk̚˨ tʰou˨˩ kɪŋ˧˥] (OOK-JEK SEUNG JEE FOOY-SOK YUE HUM-CHEE LIK-GING BAAK-NEEN FOONG-YUE CHUM-SIK YEE-YEEN SIK-CHOY BAHN-LAHN, SUNG-DOONG CHING-YEEN-CHUT LING-NAHM GY-GWOR YUE LIK-SEE SUN-WAH DEEN-GOO JEE MUN-JUK TOU-GING)",
+          "translation": "The lime plaster relief and ceramic shard mosaics atop the roof ridges, having endured a century of wind and rain erosion, remain colorful, vividly presenting folklore scenes of Lingnan fruits and historical mythological allegories."
+        },
+        {
+          "target": "多層透雕金漆木雕刀工精絕，將嶺南民間工匠之極致匠心展現得淋漓盡致。",
+          "reading": "do1 cang4 tau3 diu1 gam1 cat1 muk6 diu1 dou1 gung1 zing1 zyut6, zoeng1 ling5 naam4 man4 gaan1 gung1 zoeng6 zi1 gik6 zi3 zoeng6 sam1 zin2 jin6 dak1 lam4 lei4 zeon6 zi3. [tɔː˥ tsʰɐŋ˨˩ tʰɐu˧ tiːu˥ kɐm˥ tsʰɐt̚˥ mʊk̚˨ tiːu˥ tou˥ kʊŋ˥ tsɪŋ˥ tsyːt̚˧, tsœːŋ˥ lɪŋ˩˧ naːm˨˩ mɐn˨˩ kaːn˥ kʊŋ˥ tsœːŋ˨ tsiː˥ kɪk̚˨ tsiː˧ tsœːŋ˨ sɐm˥ tsiːn˧˥ jiːn˨ tɐk̚˥ lɐm˨˩ lei˨˩ tsɵn˨ tsiː˧] (DOH-CHUNG TAU-DEW GUM-CHUT MUK-DEW DOU-GONG JING-JUET, JEUNG LING-NAHM MUN-GAHN GONG-JEUNG JEE GIK-JEE JEUNG-SUM JEEN-YEEN-DUK LUM-LEY JEON-JEE)",
+          "translation": "The multi-layered openwork gold lacquer woodcarving boasts exquisite knife craftsmanship, demonstrating the ultimate artisan spirit of Lingnan folk craftsmen to the fullest."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【三雕一塑訣】金漆木雕透層樓，磚石雕刻細緻求；灰塑嵌瓷傲風雨，陳家祠裏百藝悠！"
+      ],
+      "culturalNotes": [
+        "廣東灰塑與嵌瓷已被列入國家級非物質文化遺產名錄。香港很多傳統廟宇（如上環文武廟、筲箕灣天后廟、大澳關帝廟）的屋脊上均保留著精美完好的石灣陶塑（瓦脊公仔）與灰塑壁畫。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"律師\":",
+          "prompt": "【建築工藝】以石灰、礦物顏料及植物纖維為原料、在嶺南古建築屋脊與山牆上立體堆塑之耐風雨傳統工藝係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：法庭錯置）",
-            "混雜生硬詞彙之不規範語句（例項：審判未適配）",
-            "聲調助詞搭配欠妥之表達（例項：起訴誤用）"
+            "灰塑 / 灰批 (Lime Plaster Relief / Fui1 sok3)",
+            "普通水泥塗抹",
+            "油漆塗鴉",
+            "石膏翻模"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「灰塑」為嶺南古建屋脊抵禦亞熱帶狂風暴雨侵蝕之獨門傳統工藝。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"律師\":",
+          "prompt": "【古建明珠】匯聚木雕、石雕、磚雕、灰塑、陶塑、嵌瓷等全部工藝精華、被譽為嶺南建築裝飾藝術明珠之廣州古蹟係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：審判未適配）",
-            "聲調助詞搭配欠妥之表達（例項：起訴誤用）",
-            "語序顛倒嘅非標準句式（例項：法庭錯置）"
+            "陳家祠 / 陳氏書院 (Chen Clan Ancestral Hall / Can4 gaa1 ci4)",
+            "黃埔軍校舊址",
+            "廣州電視塔",
+            "天河體育中心"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "廣州陳家祠為嶺南傳統民間建築裝飾藝術最高成就之集大成者。"
         }
       ]
     },
@@ -13805,15 +13832,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"律師\": Which sentence is completely correct?",
+          "prompt": "【工藝特點】將廢棄或特製的彩色瓷片精確剪裁後拼貼於屋脊龍鳳花鳥飾物上之傳統屋頂裝飾工藝稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：起訴誤用）",
-            "語序顛倒嘅非標準句式（例項：法庭錯置）",
-            "混雜生硬詞彙之不規範語句（例項：審判未適配）"
+            "嵌瓷 / 剪瓷雕 (Ceramic Mosaic / Ham3 ci4)",
+            "單純玻璃鋼翻制",
+            "普通彩繪木板",
+            "金屬鍍膜"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「嵌瓷（剪瓷雕）」為潮汕及嶺南地區傲立屋頂風雨百年不褪色之精湛非遺工藝。"
         }
       ],
       "passThreshold": 0.8
@@ -13824,53 +13851,62 @@
     "subject": "cantonese",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "嶺南傳統建築與園林美學 (Lingnan Architecture & Gardens) (第4課)",
+    "title": "香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Historic Buildings & Shophouses)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元33第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港近代城市建築形態演進（唐樓、騎樓底、前舖後居）、中西合璧折衷主義風格、法定古蹟評級及文創活化保育話語體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港近代建築景觀融合了嶺南傳統與西方殖民古典主義，形成了獨一無二之城市肌理：\n\n一、香港近代特色建築形態：\n１．「唐樓與騎樓底」（tong4 lau4 jyu5 ke4 lau4 dai2）：\n- 下層臨街柱廊向外延伸形成人行步道騎樓底，可遮陽避雨；「下舖上居、前舖後居」，商業與居住高度融合。\n２．「中西合璧折衷主義風格」：\n- 如景賢里（中式宮殿屋頂搭配西方鋼筋混凝土結構）、藍屋建築群（灣仔活化典範）、雷生春（深水埗中醫跌打名樓）。\n\n二、歷史建築評級與活化保育：\n- 「法定古蹟」：依法受最高級別保護，禁止拆卸。\n- 「歷史建築評級」：一級、二級、三級歷史建築評定。\n- 「活化歷史建築夥伴計劃」：活化保育注入文創新生命。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 33 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 33 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 33 in communication."
+          "target": "香港戰前唐樓之騎樓底設計既為行街市民遮陽擋雨，又營造出親切緊密之街坊社區生活氛圍。",
+          "reading": "hoeng1 gong2 zin3 cin4 tong4 lau4 zi1 ke4 lau4 dai2 cit3 gai3 gei3 wai4 hang4 gaai1 si5 man4 ze1 joeng4 dong2 jyu5, jau6 jing4 zou6 ceot1 can1 cit3 gan2 mat6 zi1 gaai1 fong1 se5 keoi1 sang1 wut6 fan1 wai4. [hœːŋ˥ kʷɔːŋ˧˥ tsiːn˧ tsʰiːn˨˩ tʰɔːŋ˨˩ lɐu˨˩ tsiː˥ kʰɛː˨ lɐu˨˩ tɐi˧˥ tsʰiːt̚˧ kɐi˧ kei˧ wɐi˨˩ hɐŋ˨˩ kaːi˥ siː˩˧ mɐn˨˩ tsɛː˥ jœːŋ˨˩ tɔːŋ˧˥ jyː˩˧, jɐu˨ jɪŋ˨˩ tsou˨ tsʰɵt̚˥ tsʰɐn˥ tsʰiːt̚˧ kɐn˧˥ mɐt̚˨ tsiː˥ kaːi˥ fɔːŋ˥ sɛː˩˧ kʰɵy˥ sɐŋ˥ wuːt̚˨ fɐn˥ wɐi˨˩] (HEUNG-GONG JEEN-CHEEN TONG-LOU JEE KAY-LOU-DY CHEET-GY GAY WAI HAHNG-GY SEE-MUN JEH-YEUNG DONG-YUE, YAU YING-JOU-CHUT CHUN-CHEET GUN-MUT JEE GY-FONG SHEH-KOEY SUNG-WOOT FUN-WAI)",
+          "translation": "The verandah arcade design of pre-war Hong Kong shophouses not only provided shade and rain protection for pedestrians, but also created an intimate and close neighborhood community living atmosphere."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元33-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "深水埗雷生春堂透過活化保育工程轉型為中醫藥保健中心，成功實現歷史古蹟與現代社區服務之完美融合。",
+          "reading": "sam1 seoi2 bou6*2 leoi4 sang1 ceon1 tong4 tau3 gwo3 wut6 faa3 bou2 juk6 gung1 cing4 zyun2 jing4 wai4 zung1 ji1 joek6 bou2 gin6 zung1 sam1, sing4 gung1 sat6 jin6 lik6 si2 gu2 zik1 jyu5 jin6 doi6 se5 keoi1 fuk6 mou6 zi1 jyun4 mei5 jung4 hap6. [sɐm˥ sɵy˧˥ pou˧˥ lɵy˨˩ sɐŋ˥ tsʰɵn˥ tʰɔːŋ˨˩ tʰɐu˧ kʷɔː˧ wuːt̚˨ faː˧ pou˧˥ jʊk̚˨ kʊŋ˥ tsʰɪŋ˨˩ tsyːn˧˥ jɪŋ˨˩ wɐi˨˩ tsʊŋ˥ jiː˥ jœːk̚˨ pou˧˥ kiːn˨ tsʊŋ˥ sɐm˥, sɪŋ˨˩ kʊŋ˥ sɐt̚˨ jiːn˨ lɪk̚˨ siː˧˥ kuː˧˥ tsik̚˨ jyː˩˧ jiːn˨ tɔːi˨ sɛː˩˧ kʰɵy˥ fʊk̚˨ mouou˨ tsiː˥ jyːn˨˩ mei˩˧ jʊŋ˨˩ hɐp̚˨] (SUM-SOEY-POU LOY-SUNG-CHUN-TONG TAU-GWOR WOOT-FAH BOU-YUK GONG-CHING JUEN-YING WAI JOONG-YEE-YERK BOU-GEEN JOONG-SUM, SING-GONG SUT-YEEN LIK-SEE GOO-JIK YUE YEEN-DOY SHEH-KOEY FOOK-MOU JEE YUEN-MAY YOONG-HUP)",
+          "translation": "Lui Seng Chun in Sham Shui Po was transformed into a Chinese medicine and healthcare center through revitalization and conservation projects, successfully realizing a perfect fusion of historic monuments and modern community services."
+        },
+        {
+          "target": "香港特區政府推行活化歷史建築夥伴計劃，在保留城市歷史肌理之同時為老舊建築注入全新生命力。",
+          "reading": "hoeng1 gong2 dak6 keoi1 zing3 fu2 teoi1 hang4 wut6 faa3 lik6 si2 gin3 zuk6 fo2 bun6 gai3 waak6, zoi6 bou2 lau4 sing4 si5 lik6 si2 gei1 lei5 zi1 tung4 si4 wai4 lou5 gau6 gin3 zuk6 zyu3 jap6 cyun4 san1 sang1 ming6 lik6. [hœːŋ˥ kʷɔːŋ˧˥ tɐk̚˨ kʰɵy˥ tsɪŋ˧ fuː˧˥ tʰɵy˥ hɐŋ˨˩ wuːt̚˨ faː˧ lɪk̚˨ siː˧˥ kiːn˧ tsʊk̚˨ fɔː˧˥ puːn˨ kɐi˧ waːk̚˨, tsɔːi˨ pou˧˥ lɐu˨˩ sɪŋ˨˩ siː˨ lɪk̚˨ siː˧˥ kei˥ lei˩˧ tsiː˥ tʰʊŋ˨˩ siː˨˩ wɐi˨˩ lou˧˥ kɐu˨ kiːn˧ tsʊk̚˨ tsyː˧ jɐp̚˨ tsʰyːn˨˩ sɐn˥ sɐŋ˥ mɪŋ˨ lɪk̚˨] (HEUNG-GONG DUK-KOEY JING-FOO TOEY-HAHNG WOOT-FAH LIK-SEE GEEN-JUK FOH-BOON GY-WAAK, JOY BOU-LAU SING-SEE LIK-SEE GAY-LEY JEE TOONG-SEE WAI LOU-GAU GEEN-JUK JUE-YUP CHUEN-SUN SUNG-MING-LIK)",
+          "translation": "The Hong Kong SAR Government implemented the Revitalising Historic Buildings Through Partnership Scheme, injecting brand-new vitality into old heritage buildings while preserving the urban historical fabric."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港島古建訣】唐樓騎樓遮風雨，中西合璧世間稀；雷生春堂施仁術，活化保育展新姿！"
+      ],
+      "culturalNotes": [
+        "灣仔的『藍屋建築群』榮獲聯合國教科文組織（UNESCO）亞太區文化遺產保護獎之最高榮譽『卓越獎』，開創了『留屋留人』的基層社區保育活化新典範。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"法庭\":",
+          "prompt": "【香港建築】香港近代典型街道景觀中下層形成通廊人行步道、上居下舖之嶺南中西混合商住建築稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：審判錯置）",
-            "混雜生硬詞彙之不規範語句（例項：起訴未適配）",
-            "聲調助詞搭配欠妥之表達（例項：辯護誤用）"
+            "唐樓與騎樓底 (Tong Lau Shophouses & Verandahs / Tong4 lau4)",
+            "現代玻璃超高層",
+            "野營帆布帳篷",
+            "單純地下防空洞"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「唐樓與騎樓底」為香港十九世紀末至戰前最核心之城市街區形態特徵。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"法庭\":",
+          "prompt": "【古蹟活化】香港深水埗荔枝角道交界、由雷氏家族捐出並成功活化為浸會大學中醫藥保健中心之名建築係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：起訴未適配）",
-            "聲調助詞搭配欠妥之表達（例項：辯護誤用）",
-            "語序顛倒嘅非標準句式（例項：審判錯置）"
+            "雷生春 (Lui Seng Chun / Leoi4 sang1 ceon1)",
+            "中環怡和大廈",
+            "環球貿易廣場ICC",
+            "香港摩天輪"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「雷生春堂」為香港歷史建築活化保育最著名的成功示範標杆之一。"
         }
       ]
     },
@@ -13878,15 +13914,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"法庭\": Which sentence is completely correct?",
+          "prompt": "【保育理念】現代城市可持續規劃中對待老舊歷史建築群最進步之保護保育理念係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：辯護誤用）",
-            "語序顛倒嘅非標準句式（例項：審判錯置）",
-            "混雜生硬詞彙之不規範語句（例項：起訴未適配）"
+            "有機活化、保留歷史肌理並注入現代社區生命力 (Adaptive reuse, preserving urban fabric & community revitalization)",
+            "全盤推倒夷為平地起豪宅",
+            "全封閉鎖死禁止任何人進入",
+            "塗抹劣質油漆遮蓋所有痕跡"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「有機活化保育」在保留歷史記憶與文脈的同時賦予古建築現代實用功能。"
         }
       ],
       "passThreshold": 0.8
@@ -13897,53 +13933,62 @@
     "subject": "cantonese",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "嶺南傳統建築與園林美學 (Lingnan Architecture & Gardens) (第5課)",
+    "title": "現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、「天人合一」 (Modern Lingnan Urbanism)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元33第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握現代嶺南建築學派大師（夏昌世、莫伯治、何鏡堂院士）之核心規劃思想、空間通透庭園交融理念及當代綠色低碳城市可持續哲學。",
     "presentation": {
-      "explanation": "",
+      "explanation": "現代嶺南建築學派在融匯現代主義與嶺南本土氣候特徵方面，創立了享譽國際之中國地域性建築理論：\n\n一、現代嶺南建築學派奠基人與核心哲學：\n１．奠基巨匠與代表作：\n- 夏昌世（遮陽與隔熱通風理論先驅）、莫伯治（廣州白雲賓館、白天鵝賓館故鄉水室內園林）、何鏡堂院士（上海世博會中國館、侵華日軍南京大屠殺遇難同胞紀念館擴建）。\n２．「現代嶺南建築三大核心原則」：\n- 「空間通透與庭園交融」：打破室內外絕對界限，將自然山水引入建築核心。\n- 「在地氣候主動適應」：遮陽板、架空層、通風採光天井之現代化重構。\n- 「文化傳承與現代形式之辯證」：以現代鋼筋混凝土演繹嶺南傳統神韻。\n\n二、城市空間規劃最高境界：\n- 「天人合一，城園共生，綠色低碳，可持續發展」（tin1 jan4 hap6 jat1, sing4 jyun4 gung6 sang1）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 33 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 33 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 33 in communication."
+          "target": "現代嶺南建築大師將傳統庭園景觀巧妙引入現代高層建築內部，營造出空間通透、天人合一之極致美感。",
+          "reading": "jin6 doi6 ling5 naam4 gin3 zuk6 daai6 si1 zoeng1 cyun4 tung4 ting4 jyun4 ging2 gun1 hiu2 miu6 jan5 jap6 jin6 doi6 gou1 cang4 gin3 zuk6 noi6 bou6, jing4 zou6 ceot1 hung1 gaan1 tung1 tau3, tin1 jan4 hap6 jat1 zi1 gik6 zi3 mei5 gam2. [jiːn˨ tɔːi˨ lɪŋ˩˧ naːm˨˩ kiːn˧ tsʊk̚˨ taːi˨ siː˥ tsœːŋ˥ tsʰyːn˨˩ tʰʊŋ˨˩ tʰɪŋ˨˩ jyːn˨˩ kɪŋ˧˥ kuːn˥ hiːu˧˥ miːu˨ jɐn˩˧ jɐp̚˨ jiːn˨ tɔːi˨ kou˥ tsʰɐŋ˨˩ kiːn˧ tsʊk̚˨ nɔːi˨ pou˨, jɪŋ˨˩ tsou˨ tsʰɵt̚˥ hʊŋ˥ kaːn˥ tʰʊŋ˥ tʰɐu˧, tʰiːn˥ jɐn˨˩ hɐp̚˨ jɐt̚˥ tsiː˥ kɪk̚˨ tsiː˧ mei˩˧ kɐm˧˥] (YEEN-DOY LING-NAHM GEEN-JUK DY-SEE JEUNG CHUEN-TOONG TING-YUEN GING-GOON HIU-MEW YUN-YUP YEEN-DOY GOU-CHUNG GEEN-JUK NOY-BOU, YING-JOU-CHUT HOONG-GAHN TOONG-TAU, TEEN-YUN HUP-YUT JEE GIK-JEE MAY-GUM)",
+          "translation": "Modern Lingnan architectural masters skillfully introduced traditional courtyard landscapes inside modern high-rise buildings, creating an ultimate aesthetic of spatial permeability and harmony between nature and humanity."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元33-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "白天鵝賓館首創在大型現代中庭內設置「故鄉水」園林景觀，開創咗現代建築與嶺南傳統文脈融合之光輝範例。",
+          "reading": "baak6 tin1 ngo4 ban1 gun2 sau2 cong3 zoi6 daai6 jing4 jin6 doi6 zung1 ting4 noi6 cit3 zi3 \"gu3 hoeng1 seoi2\" jyun4 lam4 ging2 gun1, hoi1 cong3 zo2 jin6 doi6 gin3 zuk6 jyu5 ling5 naam4 cyun4 tung4 man4 mak6 jung4 hap6 zi1 gwong1 fai1 faan6 lai6. [paːk̚˨ tʰiːn˥ ŋɔː˨˩ pɐn˥ kuːn˧˥ sɐu˧˥ tsʰɔːŋ˧ tsɔːi˨ taːi˨ jɪŋ˨˩ jiːn˨ tɔːi˨ tsʊŋ˥ tʰɪŋ˨˩ nɔːi˨ tsʰiːt̚˧ tsiː˧ \"kuː˧ hœːŋ˥ sɵy˧˥\" jyːn˨˩ lɐm˨˩ kɪŋ˧˥ kuːn˥, hɔːi˥ tsʰɔːŋ˧ tsɔː˧˥ jiːn˨ tɔːi˨ kiːn˧ tsʊk̚˨ jyː˩˧ lɪŋ˩˧ naːm˨˩ tsʰyːn˨˩ tʰʊŋ˨˩ mɐn˨˩ mɐk̚˨ jʊŋ˨˩ hɐp̚˨ tsiː˥ kʷɔːŋ˥ fɐi˥ faːn˨ lɐi˨] (BAAK-TEEN-NGOH BUN-GOON SAU-CHONG JOY DY-YING YEEN-DOY JOONG-TING NOY CHEET-JEE \"GOO-HEUNG-SOEY\" YUEN-LUM GING-GOON, HOI-CHONG-JOR YEEN-DOY GEEN-JUK YUE LING-NAHM CHUEN-TOONG MUN-MUK YOONG-HUP JEE GWONG-FY FAHN-LY)",
+          "translation": "The White Swan Hotel pioneered the installation of the 'Hometown Waters' garden landscape within a large modern atrium, establishing a glorious exemplar of fusing modern architecture with Lingnan traditional cultural heritage."
+        },
+        {
+          "target": "當代嶺南城市規劃秉持綠色低碳理念，倡導「城在園中、園在城中」之可持續生態宜居空間構想。",
+          "reading": "dong1 doi6 ling5 naam4 sing4 si5 kwai1 waak6 bing2 ci4 luk6 sik1 dai1 taan3 lei5 nim6, coeng3 dou6 \"sing4 zoi6 jyun4 zung1, jyun4 zoi6 sing4 zung1\" zi1 ho2 ci4 zuk6 sang1 taai3 ji4 geoi1 hung1 gaan1 gau3 soeng2. [tɔːŋ˥ tɔːi˨ lɪŋ˩˧ naːm˨˩ sɪŋ˨˩ siː˨ kʰwɐi˥ waːk̚˨ pɪŋ˧˥ tsʰiː˨˩ lʊk̚˨ sɪk̚˥ tɐi˥ tʰaːn˧ lei˩˧ niːm˨, tsʰœːŋ˧ tou˨ \"sɪŋ˨˩ tsɔːi˨ jyːn˨˩ tsʊŋ˥, jyːn˨˩ tsɔːi˨ sɪŋ˨˩ tsʊŋ˥\" tsiː˥ hɔː˧˥ tsʰiː˨˩ tsʊk̚˨ sɐŋ˥ tʰaːi˧ jiː˨˩ kɵy˥ hʊŋ˥ kaːn˥ kɐu˧ sœːŋ˧˥] (DONG-DOY LING-NAHM SING-SEE KWAI-WAAK BING-CHEE LUK-SIK DY-TAHN LEY-NEEM, CHEUNG-DOU \"SING JOY YUEN-JOONG, YUEN JOY SING-JOONG\" JEE HOH-CHEE-JUK SUNG-TY YEE-GOEY HOONG-GAHN GAU-SEUNG)",
+          "translation": "Contemporary Lingnan urban planning adheres to green and low-carbon principles, advocating a sustainable, ecological, and livable spatial vision of 'the city within the garden and the garden within the city'."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【現代嶺南訣】空間通透納明光，故鄉水美白天鵝；城園共生生態好，天人合一萬載歌！"
+      ],
+      "culturalNotes": [
+        "廣州白天鵝賓館由霍英東先生與廣東省政府合資興建，1983年開業，是中國第一家中外合作的五星級賓館，其『故鄉水』景觀承載了數代海內外華僑與粵港同胞的故土鄉愁。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"審判\":",
+          "prompt": "【現代建築】廣州白天鵝賓館在中庭內首創、將嶺南傳統水石園林搬入現代五星級酒店之著名室內景觀係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：起訴錯置）",
-            "混雜生硬詞彙之不規範語句（例項：辯護未適配）",
-            "聲調助詞搭配欠妥之表達（例項：證人誤用）"
+            "故鄉水 (Hometown Waters / Gu3 hoeng1 seoi2)",
+            "人工真雪滑雪場",
+            "室內高速賽車道",
+            "巨型金屬旋轉木馬"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "白天鵝賓館「故鄉水」室內園林為現代嶺南建築與鄉愁意象融合之世界經典。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"審判\":",
+          "prompt": "【建築大師】設計上海世博會中國館（東方之冠）、侵華日軍南京大屠殺遇難同胞紀念館擴建之現代嶺南學派院士建築師係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：辯護未適配）",
-            "聲調助詞搭配欠妥之表達（例項：證人誤用）",
-            "語序顛倒嘅非標準句式（例項：起訴錯置）"
+            "何鏡堂院士 (Academician He Jingtang)",
+            "貝聿銘",
+            "梁思成",
+            "林徽因"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "何鏡堂院士為當代嶺南建築學派旗幟性人物及中國工程院院士。"
         }
       ]
     },
@@ -13951,15 +13996,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"審判\": Which sentence is completely correct?",
+          "prompt": "【規劃哲學】現代嶺南建築學派在城市空間與建築設計中最核心之空間哲學特徵係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第33課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：證人誤用）",
-            "語序顛倒嘅非標準句式（例項：起訴錯置）",
-            "混雜生硬詞彙之不規範語句（例項：辯護未適配）"
+            "空間通透、庭園交融、在地氣候主動適應與天人合一 (Spatial permeability, courtyard integration, climate adaptability & harmony with nature)",
+            "全封閉單一火柴盒結構",
+            "完全脫離周圍自然環境",
+            "徹底封閉不通風無採光"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "空間通透、庭園交融與在地氣候適應係現代嶺南建築學派立足世界建築之林的根本靈魂。"
         }
       ],
       "passThreshold": 0.8
