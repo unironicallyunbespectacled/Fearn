@@ -19739,85 +19739,89 @@
     "subject": "arabic",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "المناظرة الفكرية والخطابة العليا (High Debating & Oratory) (الدرس 1)",
+    "title": "أدب المناظرة وعلم الجدل وفلسفة الحوار (Adab al-Bahth wa al-Munazarah: Dialectic Protocol)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدب الحوار والمناظرة، الحجج المنطقية، وأساليب الخطابة الأكاديمية والمحافل العامة. (الجزء 1).",
+    "objective": "إتقان أصول «علم آداب البحث والمناظرة» والجدل الأكاديمي: وظائف السائل والمجيب، مراتب الاعتراض المنطقي (المنع، النقض، المعارضة، والإلزام)، والتحرر من آفات المكابرة والمغالطة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد «عِلْمُ آدَابِ البَحْثِ وَالمُنَاظَرَةِ» من أرقى العلوم العقلية والمنطقية التي أبدعها علماء الحضارة العربية الإسلامية لضبط قواعد الحوار الفكري ومنع الجدل العقيم:\n\nأولاً: أطراف المناظرة ووظائفهما المنهجية:\n1. **المُدَّعِي (المُجِيبُ)**: مَن يطرح الدعوى؛ وواجبه أن يُدلل عليها بالبرهان إن نُقلت («إِنْ كُنْتَ نَاقِلًا فَالصِّحَّةُ، أَوْ كُنْتَ مُدَّعِيًا فَالدَّلِيلُ»).\n2. **السَّائِلُ (المُعْتَرِضُ)**: مَن يناقش الدعوى؛ وواجبه توجيه الاعتراضات المنطقية المنضبطة.\n\nثانياً: المراتب الأربع للاعتراض المنطقي الأصولي:\n1. **المَنْعُ (Inhibition / Denial)**: مطالبة الخصم بالدليل على مقدمة معينة من مقدمات استدلاله.\n2. **النَّقْضُ (Refutation by Counterexample)**: إبطال دليل الخصم بإثبات تخلف الحكم مع وجود العلة (إيراد مثال ناقض).\n3. **المُعَارَضَةُ (Counter-Argumentation)**: إقامة دليل مستقل يقابل دليل الخصم ويثبت نقيض دعواه.\n4. **الإِلْزَامُ وَالإِفْحَامُ (Conclusive Refutation)**: إلزام الخصم بلوازم فاسدة أو متناقضة تترتب على قوله حتى يرجع إلى الحق.\n\nثالثاً: آداب المناظرة الحقة والتحرر من آفات الجدل:\n- غاية المناظرة ظهور الحق لا انتصار الذات («مَا نَاظَرْتُ أَحَدًا إِلَّا وَدِدْتُ أَنَّ اللَّهَ يُظْهِرُ الحَقَّ عَلَى لِسَانِهِ» - الإمام الشافعي).\n- تجنب **المُكَابَرَةِ** (جحد الحق بعد ظهوره)، و**المُغَالَطَةِ** (تلبيس الباطل ثوب الحق)، و**المُصَادَرَةِ عَلَى المَطْلُوبِ** (جعل النتيجة نفسها مقدمة).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المناظرة الفكرية والخطابة العليا (High Debating & Oratory)' to students in an accurate academic style."
+          "target": "يَقْضِي أَدَبُ المُنَاظَرَةِ بِالقَاعِدَةِ الذَّهَبِيَّةِ: «إِنْ كُنْتَ نَاقِلًا فَالصِّحَّةُ، أَوْ كُنْتَ مُدَّعِيًا فَالدَّلِيلُ».(Yaqḍī adabu al-munāẓarati bi-al-qāʿidati adh-dhahabiyyah: «In kunta nāqilan fa-aṣ-ṣiḥḥah, aw kunta muddaʿiyan fa-ad-dalīl».)",
+          "reading": "[jaq.dˤiː ʔa.da.bu‿l.mu.naː.zˤa.ra.ti bil.qaː.ʕi.da.ti‿ð.ða.ha.bij.jah: «ʔin kun.ta naː.qi.lan fasˤ.sˤiħ.ħah, ʔaw kun.ta mud.da.ʕi.jan fad.da.liːl»] (Yaq-ḍī a-da-bu al-mu-nā-ẓa-ra-ti bi-al-qā-ʿi-da-ti adh-dha-ha-biy-yah: «In kun-ta nā-qi-lan fa-aṣ-ṣiḥ-ḥah, aw kun-ta mud-da-ʿi-yan fa-ad-da-līl».)",
+          "translation": "Debating protocol dictates the golden maxim: 'If you are quoting, prove authenticity; and if you are claiming, provide evidence'."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَتَدَرَّجُ المُعْتَرِضُ فِي مَرَاتِبِ الجَدَلِ بَدْءًا مِنَ المَنْعِ ثُمَّ النَّقْضِ وُصُولًا إِلَى المُعَارَضَةِ البُرْهَانِيَّةِ.(Yatadarraju al-muʿtariḍu fī marātibi al-jadali badʾan min al-manʿi thumma an-naqḍi wuṣūlan ilā al-muʿāraḍati al-burhāniyyah.)",
+          "reading": "[ja.ta.dar.ra.ʒu‿l.muʕ.ta.ri.dˤu fiː ma.raː.ti.bi‿l.ʒa.da.li bad.ʔan mi.nal.man.ʕi θum.man.naq.dˤi wu.sˤuː.lan ʔi.lal.mu.ʕaː.ra.dˤa.ti‿l.bur.haː.nij.jah] (Ya-ta-dar-ra-ju al-muʿ-ta-ri-ḍu fī ma-rā-ti-bi al-ja-da-li bad-ʾan min al-man-ʿi thum-ma an-naq-ḍi wu-ṣū-lan i-lā al-mu-ʿā-ra-ḍa-ti al-bur-hā-niy-yah.)",
+          "translation": "The objector ascends through ranks of dialectic starting from inhibition, then refutation, reaching demonstrative counter-argument."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "كَانَ الإِمَامُ الشَّافِعِيُّ يُنَاظِرُ ابْتِغَاءَ ظُهُورِ الحَقِّ لَا انْتِصَارًا لِلذَّاتِ أَوْ طَلَبًا لِلْغَلَبَةِ المَمْجُوجَةِ.(Kāna al-imāmu ash-Shāfiʿiyyu yunāẓiru ibtighāʾa ẓuhūri al-ḥaqqi lā intiṣāran li-dh-dhāti aw ṭalaban li-l-ghalabati al-mamjūjah.)",
+          "reading": "[kaː.na‿l.ʔi.maː.mu‿ʃ.ʃaː.fi.ʕij.ju ju.naː.zˤi.ru‿b.ti.ɣaː.ʔa zˤu.huː.ri‿l.ħaq.qi laː‿n.ti.sˤaː.ran lið.ðaː.ti ʔaw tˤa.la.ban lil.ɣa.la.ba.ti‿l.mam.ʒuː.ʒah] (Kā-na al-i-mā-mu ash-Shā-fi-ʿiy-yu yu-nā-ẓi-ru ib-ti-ghā-ʾa ẓu-hū-ri al-ḥaq-qi lā in-ti-ṣā-ran lidh-dhā-ti aw ṭa-la-ban lil-gha-la-ba-ti al-mam-jū-jah.)",
+          "translation": "Imam al-Shafi'i debated seeking the emergence of truth, not for self-victory or demanding repulsive dominance."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تُبْطِلُ المُنَاظَرَةُ الرَّصِينَةُ شُبَهَ المُكَابَرَةِ وَالمُغَالَطَاتِ المَنْطِقِيَّةَ بِالبُرْهَانِ السَّاطِعِ وَالحُجَّةِ النَّاصِعَةِ.(Tubṭilu al-munāẓaratu ar-raṣīnatu shubaha al-mukābarati wa-al-mughālaṭāti al-manṭiqiyyata bi-al-burhāni as-sāṭiʿi wa-al-ḥujjati an-nāṣiʿah.)",
+          "reading": "[tub.tˤi.lu‿l.mu.naː.zˤa.ra.tu‿r.ra.sˤiː.na.tu ʃu.ba.ha‿l.mu.kaː.ba.ra.ti wal.mu.ɣaː.la.tˤaː.ti‿l.man.tˤi.qij.ja.ta bil.bur.haː.ni‿s.saː.tˤi.ʕi wal.ħuʒ.ʒa.ti‿n.naː.sˤi.ʕah] (Tub-ṭi-lu al-mu-nā-ẓa-ra-tu ar-ra-ṣī-na-tu shu-ba-ha al-mu-kā-ba-ra-ti wal-mu-ghā-la-ṭā-ti al-man-ṭi-qiy-ya-ta bi-al-bur-hā-ni as-sā-ṭi-ʿi wal-ḥuj-ja-ti an-nā-ṣi-ʿah.)",
+          "translation": "Rigorous debating invalidates sophistries of stubbornness and logical fallacies with radiant proof and lucid argument."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَدَبُ المُنَاظَرَةِ لِلْعُقُولِ شِفَاءُ، حَقٌّ وَبُرْهَانٌ وَنُورُ ضِيَاءِ!"
+      ],
+      "culturalNotes": [
+        "شكلت المناظرات العلمية الكبرى في مجالس الخلفاء والوزراء (كالمأمون وعضد الدولة وسيف الدولة) المحرك الأكبر للازدهار الفكري والفلسفي في الحضارة العربية الإسلامية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» (الدرس 1)؟",
+          "prompt": "ما هي القاعدة المنهجية التأسيسية التي تحكم كل دعوى أو نقل في علم آداب البحث والمناظرة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (33.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (33.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (33.1.w3)"
+            "«إِنْ كُنْتَ نَاقِلًا فَالصِّحَّةُ، أَوْ كُنْتَ مُدَّعِيًا فَالدَّلِيلُ» (If quoting verify; if claiming prove)",
+            "الصوت العالي يثبت صحة الدعوى دائماً",
+            "رفض الاستماع إلى الخصم ومقاطعته باستمرار",
+            "الاعتماد على التخمين والحدس المجرد"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "القاعدة الذهبية تلزم الناقل بالتحقق من صحة السند، والمدعي بتقديم البرهان والدليل المنطقي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا يُقصد بـ «النَّقْضِ» (Refutation) كأحد مراتب الاعتراض في المناظرة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "إِبْطَالُ دَلِيلِ الخَصْمِ بِإِيرَادِ مِثَالٍ نَاقِضٍ يَتَخَلَّفُ فِيهِ الحُكْمُ مَعَ وُجُودِ العِلَّةِ (Disproving by counterexample where ruling fails despite cause)",
+            "الموافقة الكاملة على كلام الخصم دون نقاش",
+            "سب الخصم والطعن في خلقه",
+            "الانسحاب من قاعة المناظرة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "النقض هو إظهار بطلان دليل الخصم عبر إيراد صورة أو مثال ناقض يتحقق فيه الوصف دون أن يثبت الحكم."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u33-l1):",
+          "prompt": "اختر المقصد السامي والغاية الأخلاقية العليا للمناظرة العلمية الرصينة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (33.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (33.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (33.1.x3)"
+            "«ظُهُورُ الحَقِّ وَبَيَانُ الصَّوَابِ سَوَاءٌ أَجَرَى عَلَى لِسَانِ المُنَاظِرِ أَوْ لِسَانِ خَصْمِهِ». ('Emergence of truth whether uttered by the debater or his opponent.')",
+            "إحراج الخصم والسخرية من آرائه أمام الجمهور",
+            "كسب الرهانات المالية",
+            "مناظرة جدل منع نقض معارضة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "غاية المناظرة الحقة هي التوصل إلى الصواب والحق بتجرد، والاعتراف به فور بيانه بالبرهان."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)»؟",
+          "prompt": "ما إعراب كلمة «شُبَهَ» في جملة: «تُبْطِلُ المُنَاظَرَةُ شُبَهَ المُكَابَرَةِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (33.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (33.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (33.1.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«المُنَاظَرَةُ» فاعل مرفوع، و«شُبَهَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -19825,24 +19829,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 33-1)؟",
+          "prompt": "اختر النص الحواري الأكاديمي الذي يحلل قواعد علم آداب البحث والمناظرة بأعلى معايير الإتقان المعرفي والرصانة الفصيحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (33.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (33.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (33.1.z3)"
+            "يُمَثِّلُ «عِلْمُ آدَابِ البَحْثِ وَالمُنَاظَرَةِ» قِمَّةَ التَّحَضُّرِ العَقْلِيِّ فِي التُّرَاثِ العَرَبِيِّ؛ حَيْثُ يُحَرِّرُ الخِطَابَ مِنْ هَيْمَنَةِ الانْفِعَالِ وَالمُكَابَرَةِ إِلَى رِحَابِ البُرْهَانِ المَنْطِقِيِّ، مُتَدَرِّجًا عَبْرَ مَرَاتِبِ الِاعْتِرَاضِ الرَّصِينَةِ مِنَ المَنْعِ وَالنَّقْضِ إِلَى المُعَارَضَةِ وَالإِلْزَامِ، لِتَغْدُوَ المُنَاظَرَةُ مَيْدَانًا شَرِيفًا لِكَشْفِ الحَقِيقَةِ وَتَلَاقِي العُقُولِ عَلَى سُلْطَانِ الحُجَّةِ وَصِدْقِ البَيَانِ. ('Ilm Adab al-Bahth wa al-Munazarah' represents the summit of intellectual civility in Arab heritage; where it liberates discourse from emotion and stubbornness into realms of logical proof, ascending through rigorous objection ranks from inhibition and refutation to counter-argument and binding conclusion, making debating an honorable arena for unveiling truth and meeting of minds under authority of argument and veracity of eloquence.)",
+            "المناظرة هي حوار بين شخصين يختلفان في الرأي أمام الجمهور.",
+            "مناظرة جدل سائل مجيب منع نقض معارضة إلزام سكون فتحة ضمة تنوين.",
+            "لا قيمة للمناظرة والجدل في تطور العلوم الإنسانية."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب فلسفة علم المناظرة وآدابه وأطواره الاستدلالية الأربعة (المنع، النقض، المعارضة، الإلزام) والغاية الأخلاقية للبحث."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u33-l1) باللغة العربية (مثال: «المناظرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم العلم المنطقي الذي يضبط قواعد الحوار وأدب السائل والمجيب (اكتب: «آداب البحث والمناظرة» أو «علم المناظرة»؛ بدون تشكيل):",
           "acceptedAnswers": [
+            "آداب البحث والمناظرة",
+            "علم المناظرة",
             "المناظرة",
-            "المناظرة"
+            "علم الجدل",
+            "اداب البحث والمناظرة",
+            "آدَابُ البَحْثِ وَالمُنَاظَرَةِ",
+            "المُنَاظَرَة"
           ],
-          "explanation": "المصطلح الصحيح هو «المناظرة»."
+          "explanation": "العلم هو «آداب البحث والمناظرة» أو «علم المناظرة» (Adab al-Bahth wa al-Munazarah)."
         }
       ],
       "passThreshold": 0.8
@@ -19853,85 +19862,89 @@
     "subject": "arabic",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "المناظرة الفكرية والخطابة العليا (High Debating & Oratory) (الدرس 2)",
+    "title": "بناء الحجج المنطقية ودحض المغالطات الفكرية (Logical Argumentation & Dismantling Fallacies)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدب الحوار والمناظرة، الحجج المنطقية، وأساليب الخطابة الأكاديمية والمحافل العامة. (الجزء 2).",
+    "objective": "إتقان هندسة الحجج المنطقية الصورية والاستقرائية، وكشف وتفكيك أشهر المغالطات الفكرية والجدلية (مغالطة رجل القش، الشخصنة، التعميم المتسرع، المصادرة على المطلوب، والاستدلال الدائري).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يرتكز التفكير النقدي والمناظرة العليا على التمييز الدقيق بين **الحُجَّةِ البُرْهَانِيَّةِ السَّلِيمَةِ** و**المُغَالَطَةِ المَنْطِقِيَّةِ (Logical Fallacy)**:\n\nأولاً: أنواع الحجج المنطقية:\n1. **القِيَاسُ المَنْطِقِيُّ البُرْهَانِيُّ (Deductive Syllogism)**:\n   - الانتقال من الكلي إلى الجزئي بيقين تام؛ يتكون من: مقدمة كبرى، مقدمة صغرى، ونتيجة لازمة (مثل: «كُلُّ إِنْسَانٍ فَانٍ، سُقْرَاطُ إِنْسَانٌ، إِذَنْ: سُقْرَاطُ فَانٍ»).\n2. **الاسْتِقْرَاءُ (Induction)**:\n   - تتبع الجزئيات للوصول إلى حكم كلي عام (استقراء تام يفيد القطع، واستقراء ناقص يفيد الرجحان).\n3. **التَّمْثِيلُ وَالقِيَاسُ التَّمْثِيلِيُّ (Analogy)**:\n   - إلحاق فرع بأصل لعلة جامعة بينهما.\n\nثانياً: تفكيك أشهر المغالطات المنطقية المعاصرة:\n1.【مُغَالَطَةُ رَجُلِ القَشِّ (Straw Man)】:\n   - تحريف حجة الخصم وتبسيطها بصورة مشوهة يسهل الهجوم عليها ثم الادعاء بإسقاط رأيه الأصلي.\n2.【مُغَالَطَةُ الشَّخْصَنَةِ (Ad Hominem / الطَّعْنُ فِي الشَّخْصِ)】:\n   - مهاجمة ذات القائل أو نسبه أو دوافعه بدلاً من تفنيد حجته وموضوع دعواه.\n3.【مُغَالَطَةُ التَّعْمِيمِ المُتَسَرِّعِ (Hasty Generalization)】:\n   - استخلاص نتيجة كلية عامة من عينات جزئية شاذة أو غير كافية.\n4.【المُصَادَرَةُ عَلَى المَطْلُوبِ وَالاسْتِدْلَالُ الدَّائِرِيُّ (Begging the Question / Circular Reasoning)】:\n   - تضمين النتيجة المطلوب إثباتها في صلب المقدمات الاستدلالية.\n5.【مُغَالَطَةُ المَنْحَدَرِ الزَّلِقِ (Slippery Slope)】:\n   - الادعاء بأن خطوة صغيرة أولى ستؤدي حتماً إلى سلسلة كوارث دون دليل سببي قاطع.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المناظرة الفكرية والخطابة العليا (High Debating & Oratory)' to students in an accurate academic style."
+          "target": "تَعْتَمِدُ الحُجَّةُ البُرْهَانِيَّةُ عَلَى مُقَدِّمَاتٍ يَقِينِيَّةٍ تَنْتِجُ عَنْهَا نَتِيجَةٌ لَازِمَةٌ لَا تَقْبَلُ الشَّكَّ.(Taʿtamidu al-ḥujjatu al-burhāniyyatu ʿalā muqaddimātin yaqīniyyatin tantuju ʿanhā natījatun lāzimatun lā taqbalu ash-shakk.)",
+          "reading": "[taʕ.ta.mi.du‿l.ħuʒ.ʒa.tu‿l.bur.haː.nij.ja.tu ʕa.laː mu.qad.di.maː.tin ja.qiː.nij.ja.tin tan.tu.ʒu ʕan.haː na.tiː.ʒa.tun laː.zi.ma.tun laː taq.ba.lu‿ʃ.ʃakk] (Taʿ-ta-mi-du al-ḥuj-ja-tu al-bur-hā-niy-ya-tu ʿa-lā mu-qad-di-mā-tin ya-qī-niy-ya-tin tan-tu-ju ʿan-hā na-tī-ja-tun lā-zi-ma-tun lā taq-ba-lu ash-shakk.)",
+          "translation": "The demonstrative argument relies on certain premises resulting in an inescapable conclusion admitting no doubt."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَقُومُ مُغَالَطَةُ رَجُلِ القَشِّ عَلَى تَحْرِيفِ مَوْقِفِ الخَصْمِ لِإِيهَامِ الجُمْهُورِ بِدَحْضِ رَأْيِهِ الحَقِيقِيِّ.(Taqūmu mughālaṭatu rajuli al-qashshi ʿalā taḥrīfi mawqifi al-khaṣmi li-īhāmi al-jumhūri bi-daḥḍi raʾyihi al-ḥaqīqiyy.)",
+          "reading": "[ta.quː.mu mu.ɣaː.la.tˤa.tu ra.ʒu.li‿l.qaʃ.ʃi ʕa.laː taħ.riː.fi maw.qi.fi‿l.xasˤ.mi li.ʔiː.haː.mi‿l.ʒum.huː.ri bi.daħ.dˤi raʔ.ji.hi‿l.ħa.qiː.qijj] (Ta-qū-mu mu-ghā-la-ṭa-tu ra-ju-li al-qash-shi ʿa-lā taḥ-rī-fi maw-qi-fi al-khaṣ-mi li-ī-hā-mi al-jum-hū-ri bi-daḥ-ḍi raʾ-yi-hi al-ḥa-qī-qiyy.)",
+          "translation": "Straw man fallacy is based on distorting the opponent's position to delude the audience into believing his real opinion was refuted."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَلْجَأُ العَاجِزُ عَنِ البُرْهَانِ إِلَى مُغَالَطَةِ الشَّخْصَنَةِ لِمُهَاجَمَةِ ذَاتِ القَائِلِ دُونَ نَقْدِ الفِكْرَةِ.(Yaljaʾu al-ʿājizu ʿan al-burhāni ilā mughālaṭati ash-shakhṣanati li-muhājamati dhāti al-qāʾili dūna naqdi al-fikrah.)",
+          "reading": "[jal.ʒa.ʔu‿l.ʕaː.ʒi.zu ʕa.nil.bur.haː.ni ʔi.laː mu.ɣaː.la.tˤa.ti‿ʃ.ʃax.sˤa.na.ti li.mu.haː.ʒa.ma.ti ðaː.ti‿l.qaː.ʔi.li duː.na naq.di‿l.fik.rah] (Yal-ja-ʾu al-ʿā-ji-zu ʿan al-bur-hā-ni i-lā mu-ghā-la-ṭa-ti ash-shakh-ṣa-na-ti li-mu-hā-ja-ma-ti dhā-ti al-qā-ʾi-li dū-na naq-di al-fik-rah.)",
+          "translation": "One unable to demonstrate proof resorts to ad hominem fallacy to attack the speaker's person without critiquing the idea."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَكْشِفُ الفِكْرُ النَّقْدِيُّ زَيْفَ التَّعْمِيمِ المُتَسَرِّعِ الَّذِي يَبْنِي أَحْكَامًا كُلِّيَّةً عَلَى شَوَاهِدَ نَادِرَةٍ.(Yakshifu al-fikru an-naqdiyyu zayfa at-taʿmīmi al-mutasarriʿi al-ladhī yabnī aḥkāman kulliyyatan ʿalā shawāhida nādirah.)",
+          "reading": "[jak.ʃi.fu‿l.fik.ru‿n.naq.dij.ju zaj.fa‿t.taʕ.miː.mi‿l.mu.ta.sar.ri.ʕi‿l.la.ðiː jab.niː ʔaħ.kaː.man kul.lij.ja.tan ʕa.laː ʃa.waː.hi.da naː.di.rah] (Yak-shi-fu al-fik-ru an-naq-diy-yu zay-fa at-taʿ-mī-mi al-mu-ta-sar-ri-ʿi al-la-dhī yab-nī aḥ-kā-man kul-liy-ya-tan ʿa-lā sha-wā-hi-da nā-di-rah.)",
+          "translation": "Critical thinking exposes the falsehood of hasty generalization which constructs universal rulings upon rare instances."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بُرْهَانُنَا صِدْقٌ وَعَقْلٌ صَرِيحْ، وَالمُغَالَطَاتُ هَبَاءٌ يَطِيحْ!"
+      ],
+      "culturalNotes": [
+        "ألف علماء المنطق المسلمون (مثل ابن سينا في *الشفاء* والغزالي في *معيار العلم* و*محك النظر*) مصنفات موسوعية في كشف المغالطات السفسطائية وتهذيب العقول بالبرهان اليقيني."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» (الدرس 2)؟",
+          "prompt": "ما هي المغالطة المنطقية التي يرتكبها من يهاجم نسب الخصم أو صفاته الشخصية متجاهلاً أدلته؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (33.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (33.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (33.2.w3)"
+            "مُغَالَطَةُ الشَّخْصَنَةِ (Ad Hominem / الطَّعْنُ فِي الشَّخْصِ)",
+            "مغالطة رجل القش",
+            "الاستقراء التام",
+            "القياس البرهاني"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الشخصنة (Ad Hominem) هي الهروب من مناقشة الفكرة بالطعن في شخص القائل وصفاته."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا يُقصد بـ «مغالطة رجل القش» (Straw Man Fallacy)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "تَحْرِيفُ حُجَّةِ الخَصْمِ وَتَشْوِيهُهَا بِصُورَةٍ هَشَّةٍ لِيَسْهُلَ إِسْقَاطُهَا بَدَلًا مِنْ نَقْدِ رَأْيِهِ الحَقِيقِيِّ (Distorting opponent's argument into a fragile straw man to easily refute)",
+            "استخدام أسماء مستعارة في النقاش",
+            "إحضار دمية مصنوعة من القش إلى المناظرة",
+            "الاستدلال بالآيات والأحاديث الصحيحة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "رجل القش هو اختلاق نسخة مشوهة وضعيفة من حجة الخصم لمهاجمتها وإيهام الجمهور بالانتصار الزائف."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u33-l2):",
+          "prompt": "اختر سمة «القياس البرهاني» (Deductive Demonstration) الصارم في المنطق الأصولي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (33.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (33.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (33.2.x3)"
+            "«إِذَا صَحَّتِ المُقَدِّمَاتُ وَانْضَبَطَتِ الهَيْئَةُ لَزِمَتِ النَّتِيجَةُ قَطْعًا وَبِلَا ارْتِيَابٍ». ('If premises are true and form is valid, the conclusion follows necessarily beyond doubt.')",
+            "النتيجة تخالف المقدمات دائماً",
+            "الاعتماد على الظن والاحتمال الضعيف",
+            "حجة منطق قياس برهان مغالطة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "القياس البرهاني المنتج يولد نتيجة قطعية لازمة وحتمية عند صحة المقدمات وسلامة التركيب الصوري."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)»؟",
+          "prompt": "ما إعراب كلمة «زَيْفَ» في جملة: «يَكْشِفُ الفِكْرُ زَيْفَ المُغَالَطَاتِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (33.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (33.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (33.2.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الفِكْرُ» فاعل مرفوع، و«زَيْفَ» مفعول به منصوب وعلامة نصبه الفتحة."
         }
       ]
     },
@@ -19939,24 +19952,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 33-2)؟",
+          "prompt": "اختر النص النقدي التفكيكي الذي يحلل هندسة الحجج وكشف المغالطات بأعلى درجات الدقة الإبستمولوجية والبيان:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (33.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (33.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (33.2.z3)"
+            "يَرْتَقِي العَقْلُ النَّقْدِيُّ فِي المُنَاظَرَاتِ العُلْيَا بِتَمْيِيزِ الحُجَجِ البُرْهَانِيَّةِ اليَقِينِيَّةِ مِنَ السَّفْسَطَةِ وَالمُغَالَطَاتِ الفِكْرِيَّةِ؛ فَيَفْضَحُ تَحْرِيفَ «رَجُلِ القَشِّ»، وَيَدْحَضُ عَبَثَ «الشَّخْصَنَةِ»، وَيُفَكِّكُ وَهْمَ «التَّعْمِيمِ المُتَسَرِّعِ» وَ«الاسْتِدْلَالِ الدَّائِرِيِّ»، لِيَبْنِيَ مَنْظُومَةً حِوَارِيَّةً نَاصِعَةً تَعْتَمِدُ عَلَى تَرَابُطِ المُقَدِّمَاتِ وَسَلَامَةِ النَّتَائِجِ فِي ضَوْءِ الحَقِيقَةِ وَالبُرْهَانِ. (The critical intellect in high debates ascends by distinguishing certain demonstrative arguments from sophistry and intellectual fallacies; exposing 'straw man' distortion, refuting 'ad hominem' futility, and dismantling the illusion of 'hasty generalization' and 'circular reasoning', to build a lucid dialogic system relying on premise coherence and conclusion validity in the light of truth and demonstration.)",
+            "الحجج المنطقية هي كلام مرتب لإقناع الناس بالفكرة.",
+            "حجة برهان مغالطة رجل قش شخصنة تعميم متسرع سكون فتحة ضمة تنوين.",
+            "تنجح المغالطات دائما في هزيمة الحجج الصحيحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستعرض ببراعة: التمييز بين البرهان والسفسطة، وأشهر المغالطات المنطقية المعاصرة ودور التفكير النقدي في تفكيكها."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u33-l2) باللغة العربية (مثال: «المناظرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الخطأ الاستدلالي الصوري أو غير الصوري في الحجة (اكتب: «المغالطة المنطقية» أو «المغالطة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المناظرة",
-            "المناظرة"
+            "المغالطة المنطقية",
+            "المغالطة",
+            "مغالطة منطقية",
+            "مغالطة",
+            "مغالطه منطقيه",
+            "المُغَالَطَةُ المَنْطِقِيَّةُ",
+            "المُغَالَطَة"
           ],
-          "explanation": "المصطلح الصحيح هو «المناظرة»."
+          "explanation": "المصطلح هو «المغالطة المنطقية» (Logical Fallacy)."
         }
       ],
       "passThreshold": 0.8
@@ -19967,85 +19985,89 @@
     "subject": "arabic",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "المناظرة الفكرية والخطابة العليا (High Debating & Oratory) (الدرس 3)",
+    "title": "فنون الخطابة الكبرى واستراتيجيات الإقناع والتأثير (Grand Oratory Arts & Persuasive Rhetoric)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدب الحوار والمناظرة، الحجج المنطقية، وأساليب الخطابة الأكاديمية والمحافل العامة. (الجزء 3).",
+    "objective": "إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية: أركان الخطبة (الاستهلال، العرض، وحسن الخاتمة)، مثلث التأثير الأرسطي-العربي (Logos, Ethos, Pathos)، وتقنيات الإلقاء والتنغيم والوقف.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُمثل «الخَطَابَةُ» قمة الفنون القولية المباشرة التي تُخاطب الجماهير لإقناع العقول واستنهاض الهمم، ولها أصول بلاغية وصوتية رصينة:\n\nأولاً: أركان الخطبة الفصحى البليغة:\n1. **المُقَدِّمَةُ وَبَرَاعَةُ الِاسْتِهْلَالِ (Exordium)**:\n   - افتتاح الخطبة ببراعة استهلال آسرة تدل على الموضوع دون تصريح مباشر، وتستجلب انتباه السامعين.\n2. **العَرْضُ وَهَنْدَسَةُ الحُجَجِ (Body & Argumentation)**:\n   - عرض الأفكار بتسلسل منطقي متماسك، والتدرج من الحجج القوية إلى الأقوى، واستخدام التمثيل والبرهان.\n3. **الخَاتِمَةُ وَفَصْلُ الخِطَابِ (Peroration)**:\n   - تلخيص المقاصد في عبارات جزلة مكثفة، وترك أثر وجداني وعقلي خالد يدعو إلى العمل والتغيير.\n\nثانياً: مثلث التأثير والإقناع (The Triad of Persuasion):\n1. **الحُجَّةُ العَقْلِيَّةُ (Logos / سُلْطَانُ البُرْهَانِ)**: قوة الأدلة المنطقية، الإحصاءات، والبناء الاستدلالي المتين.\n2. **المِصْدَاقِيَّةُ وَالمَكَانَةُ الأَخْلَاقِيَّةُ (Ethos / هَيْبَةُ الخَطِيبِ)**: صدق المتحدث، نزاهته، وحكمته التي تبني جسر الثقة مع المتلقي.\n3. **الاسْتِجَاشَةُ الوِجْدَانِيَّةُ (Pathos / مُلَامَسَةُ القُلُوبِ)**: إثارة المشاعر النبيلة، العاطفة الصادقة، واستنهاض الضمائر الحية.\n\nثالثاً: مهارات الأداء الصوتي والجسدي (Delivery & Vocalics):\n- **النَّبْرُ وَالتَّنْغِيمُ (Stress & Intonation)**: رفع الصوت وخفضه بحسب مقتضى المعنى وتلوين النبرات.\n- **الوَقَفَاتُ الخِطَابِيَّةُ (Rhetorical Pauses)**: وقفة الاستيعاب بعد الفكرة المحورية لمنح السامع فرصة التأمل.\n- **لُغَةُ الجَسَدِ الرَّصِينَةُ**: النظرات الشاملة، الإيماءات الموزونة، والحضور القيادي الواثق.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المناظرة الفكرية والخطابة العليا (High Debating & Oratory)' to students in an accurate academic style."
+          "target": "تَقُومُ الخَطَابَةُ العُلْيَا عَلَى مُثَلَّثِ التَّأْثِيرِ: قُوَّةِ البُرْهَانِ، مِصْدَاقِيَّةِ الخَطِيبِ، وَاسْتِجَاشَةِ الوِجْدَانِ.(Taqūmu al-khaṭābatu al-ʿulyā ʿalā muthallathi at-taʾthīr: quwwati al-burhān, miṣdāqiyyati al-khaṭīb, wa-istijāshati al-wijdān.)",
+          "reading": "[ta.quː.mu‿l.xa.tˤaː.ba.tu‿l.ʕul.jaː ʕa.laː mu.θal.la.θi‿t.taʔ.θiːr: quw.wa.ti‿l.bur.haːn, misˤ.daː.qij.ja.ti‿l.xa.tˤiːb, was.ti.ʒaː.ʃa.ti‿l.wiʒ.daːn] (Ta-qū-mu al-kha-ṭā-ba-tu al-ʿul-yā ʿa-lā mu-thal-la-thi at-taʾ-thīr: quw-wa-ti al-bur-hān, miṣ-dā-qiy-ya-ti al-kha-ṭīb, wa-is-ti-jā-sha-ti al-wij-dān.)",
+          "translation": "Grand oratory is founded upon the triad of persuasion: strength of proof, speaker's credibility, and emotional resonance."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَمْتَازُ بَرَاعَةُ الِاسْتِهْلَالِ بِجَذْبِ قُلُوبِ السَّامِعِينَ وَعُقُولِهِمْ فِي اللَّحَظَاتِ الأُولَى مِنَ الخُطْبَةِ.(Tamtāzu barāʿatu al-istihlāli bi-jadhbi qulūbi as-sāmiʿīna wa-ʿuqūlihim fī al-laḥaẓāti al-ūlā min al-khuṭbah.)",
+          "reading": "[tam.taː.zu ba.raː.ʕa.tu‿l.ʔis.tih.laː.li bi.ʒað.bi qu.luː.bi‿s.saː.mi.ʕiː.na wa.ʕu.quː.li.him fil.la.ħa.zˤaː.ti‿l.ʔuː.laː mi.nal.xutˤ.bah] (Tam-tā-zu ba-rā-ʿa-tu al-is-tih-lā-li bi-jadh-bi qu-lū-bi as-sā-mi-ʿī-na wa-ʿu-qū-li-him fī al-la-ḥa-ẓā-ti al-ū-lā min al-khuṭ-bah.)",
+          "translation": "Brilliant opening is distinguished by captivating the hearts and minds of listeners in the first moments of the speech."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَمْنَحُ الوَقَفَاتُ الخِطَابِيَّةُ المَدْرُوسَةُ الكَلَامَ هَيْبَةً وَتُتِيحُ لِلْمُتَلَقِّي اسْتِيعَابَ الفِكْرَةِ المَرْكَزِيَّةِ.(Tamnaḥu al-waqafātu al-khiṭābiyyatu al-madrūsatu al-kalāma haybatan wa-tutīḥu li-l-mutalaqqī istiʿāba al-fikrati al-markaziyyah.)",
+          "reading": "[tam.na.ħu‿l.wa.qa.faː.tu‿l.xi.tˤaː.bij.ja.tu‿l.mad.ruː.sa.tu‿l.ka.laː.ma haj.ba.tan wa.tu.tiː.ħu lil.mu.ta.laq.qiː‿s.ti.ʕaː.ba‿l.fik.ra.ti‿l.mar.ka.zij.jah] (Tam-na-ḥu al-wa-qa-fā-tu al-khi-ṭā-biy-ya-tu al-mad-rū-sa-tu al-ka-lā-ma hay-ba-tan wa-tu-tī-ḥu lil-mu-ta-laq-qī is-ti-ʿā-ba al-fik-ra-ti al-mar-ka-ziy-yah.)",
+          "translation": "Calculated rhetorical pauses grant speech majesty and allow the recipient to assimilate the central idea."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَتَوَّجُ الخَطِيبُ البَلِيغُ خُطْبَتَهُ بِخَاتِمَةٍ مُكَرِّسَةٍ لِفَصْلِ الخِطَابِ تَبْقَى عَالِقَةً فِي الأَذْهَانِ.(Yutawwiju al-khaṭību al-balīghu khuṭbatahu bi-khātimatin mukarrisatin li-faṣli al-khiṭābi tabqā ʿāliqatan fī al-adhhān.)",
+          "reading": "[ju.taw.wi.ʒu‿l.xa.tˤiː.bu‿l.ba.liː.ɣu xutˤ.ba.ta.hu bi.xaː.ti.ma.tin mu.kar.ri.sa.tin li.fasˤ.lil.xi.tˤaː.bi tab.qaː ʕaː.li.qa.tan fil.ʔað.haːn] (Yu-taw-wi-ju al-kha-ṭī-bu al-ba-lī-ghu khuṭ-ba-ta-hu bi-khā-ti-ma-tin mu-kar-ri-sa-tin li-faṣ-li al-khi-ṭā-bi tab-qā ʿā-li-qa-tan fī al-adh-hān.)",
+          "translation": "The eloquent orator crowns his speech with a peroration cementing decisive discourse that remains lingering in minds."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "خَطَابَةُ الفَصْلِ نِدَاءُ النُّفُوسْ، حُجَجٌ وَعَزْمٌ يُنِيرُ الدُّرُوسْ!"
+      ],
+      "culturalNotes": [
+        "كانت الخطابة في التراث العربي ديوان القيادة والحكمة وسلاح السلم والحرب، واشتهر خطباء العرب كقس بن ساعدة وسحبان وائل وعلي بن أبي طالب ببلاغة تأسر الألباب وتغير مجرى التاريخ."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» (الدرس 3)؟",
+          "prompt": "ما هي الأركان الثلاثة البنيوية للخطبة الكلاسيكية المعيارية في البلاغة العربية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (33.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (33.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (33.3.w3)"
+            "المُقَدِّمَةُ (بَرَاعَةُ الِاسْتِهْلَالِ)، العَرْضُ (هَنْدَسَةُ الحُجَجِ)، وَالخَاتِمَةُ (فَصْلُ الخِطَابِ) (Introduction/exordium, body/arguments, & peroration)",
+            "الوزن، القافية، والروي فقط",
+            "السؤال، الجواب، والاعتراض",
+            "الاسم، الفعل، والحرف"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أركان الخطبة الثلاثة: المقدمة الاستهلالية الآسرة، العرض الحجاجي المتماسك، والخاتمة الجامعة الحاسمة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو مثلث التأثير والإقناع (The Triad of Persuasion) في فن الخطابة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الحُجَّةُ العَقْلِيَّةُ (Logos)، المِصْدَاقِيَّةُ الأَخْلَاقِيَّةُ (Ethos)، وَالاسْتِجَاشَةُ الوِجْدَانِيَّةُ (Pathos) (Rational proof, ethical ethos, & emotional pathos)",
+            "المال والشهرة والسلطة",
+            "الصراخ السريع والتكرار العشوائي",
+            "الطباق والجناس والسجع فقط"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "مثلث الإقناع يجمع بين: الإقناع المنطقي (Logos)، مصداقية وهيبة المتحدث (Ethos)، ومخاطبة المشاعر النبيلة (Pathos)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u33-l3):",
+          "prompt": "ما أهمية «الوقفات الخطابية» (Rhetorical Pauses) والتنغيم الصوتي في إلقاء الخطب؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (33.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (33.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (33.3.x3)"
+            "«تَمْنَحُ الكَلَامَ هَيْبَةً وَتُرَبِّي التَّشْوِيقَ وَتُتِيحُ لِلْمُسْتَمِعِ اسْتِيعَابَ المَعَانِي المَرْكَزِيَّةِ». ('Grant speech majesty, cultivate suspense, and allow listeners to assimilate core meanings.')",
+            "للسماح للخطيب بالنوم على المنبر",
+            "لإخفاء نسيان الكلمات فقط",
+            "خطابة إلقاء استهلال خاتمة تنغيم سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الوقفات الموزونة والتنغيم تبرز الفكرة المركزية، تشوق السامع، وتمنح الخطاب وقاراً وتأثيراً عميقاً."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)»؟",
+          "prompt": "ما إعراب كلمة «خُطْبَتَهُ» في جملة: «يُتَوِّجُ الخَطِيبُ خُطْبَتَهُ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (33.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (33.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (33.3.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الخَطِيبُ» فاعل مرفوع، و«خُطْبَتَ» مفعول به منصوب وعلامة نصبه الفتحة، والهاء مضاف إليه."
         }
       ]
     },
@@ -20053,24 +20075,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 33-3)؟",
+          "prompt": "اختر النص البلاغي الخطابي الذي يحلل استراتيجيات الإقناع وهندسة التأثير الجماهيري بأعلى مستويات الجزالة والفصاحة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (33.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (33.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (33.3.z3)"
+            "تَتَبَوَّأُ الخَطَابَةُ العُلْيَا ذِرْوَةَ الإِقْنَاعِ البَلَاغِيِّ حِينَ يَتَّحِدُ سِحْرُ اللَّفْظِ بِجَلَالِ المَوْقِفِ؛ فَتَبْدَأُ بِبَرَاعَةِ اسْتِهْلَالٍ تَأْسِرُ الأَفْئِدَةَ، وَتَتَسَلْسَلُ فِي عَرْضٍ حِجَاجِيٍّ يَمْزُجُ صَلَابَةَ البُرْهَانِ بِنُبْلِ المَقْصِدِ وَلَهَبِ العَاطِفَةِ الصَّادِقَةِ، لِتَتَوَّجَ بِفَصْلِ خِطَابٍ يَهُزُّ الأَسْمَاعَ، مَدْعُومَةً بِفُنُونِ النَّبْرِ وَالتَّنْغِيمِ وَالوَقَفَاتِ الخِطَابِيَّةِ الَّتِي تُحَوِّلُ الكَلِمَاتِ إِلَى قُوَّةٍ تَبْنِي الوَعْيَ وَتَصْنَعُ المَجْدَ. (Grand oratory occupies the zenith of rhetorical persuasion when verbal magic unites with majestic stance; opening with brilliant captivating introduction, flowing in argumentative body merging solid proof with noble intent and sincere emotion's flame, crowned by decisive discourse shaking hearings, reinforced by vocalics, intonation and rhetorical pauses transforming words into a power shaping consciousness and forging glory.)",
+            "الخطابة فن قديم كان يستعمله العرب في الجاهلية والإسلام.",
+            "خطابة استهلال عرض خاتمة لوغوس إيثوس باثوس نبر تنغيم وقفات سكون فتحة ضمة.",
+            "فقدت الخطابة دورها تماما في العصر الحديث بسبب وسائل التواصل."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستجمع عناصر الخطابة الكبرى: براعة الاستهلال، التماسك الحجاجي، مثلث التأثير، فصاحة الخاتمة، والمهارات الصوتية التعبيرية."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u33-l3) باللغة العربية (مثال: «المناظرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن النثري الشفهي الذي يلقى أمام الجمهور للتأثير والإقناع (اكتب: «الخطابة» أو «فن الخطابة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المناظرة",
-            "المناظرة"
+            "الخطابة",
+            "فن الخطابة",
+            "خطابة",
+            "فن خطابة",
+            "الخَطَابَةُ",
+            "الخَطَابَة"
           ],
-          "explanation": "المصطلح الصحيح هو «المناظرة»."
+          "explanation": "الفن هو «الخطابة» (Oratory / Rhetorical Speech)."
         }
       ],
       "passThreshold": 0.8
@@ -20081,85 +20107,89 @@
     "subject": "arabic",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "المناظرة الفكرية والخطابة العليا (High Debating & Oratory) (الدرس 4)",
+    "title": "روائع المناظرات والخطب التاريخية في التراث العربي (Masterpiece Historical Debates & Orations)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدب الحوار والمناظرة، الحجج المنطقية، وأساليب الخطابة الأكاديمية والمحافل العامة. (الجزء 4).",
+    "objective": "إتقان تحليل عيون التراث الخطابي والجدلي: مناظرة السيرافي ومتى بن يونس (بين النحو والمنطق)، خطبة قس بن ساعدة في سوق عكاظ، خطبة طارق بن زياد، وروائع نهج البلاغة للإمام علي بن أبي طالب.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تزخر الذاكرة العربية بروائع خالدة من الخطب والمناظرات التي أسست لوعي الأمة وشكلت مفاخر لغوية خالدة:\n\nأولاً: مناظرة السيرافي ومتى بن يونس (320 هـ) - صدام النحو والمنطق:\n- **الموضوع**: هل المنطق اليوناني معيار عالمي للعقل، أم أنه منطق لغوي أسير اللسان الإغريقي يحتاج إلى النحو العربي لفهمه؟\n- ناظر أبو سعيد السيرافي (شيخ النحاة) متى بن يونس (فيلسوف المنطق)، وأفحمه بأن المنطق لا يستغني عن بيان اللغة وتراكيبها.\n\nثانياً: خطبة قس بن ساعدة الإيادي في سوق عكاظ:\n- أعظم خطبة حكيمة في الجاهلية مهدت للتوحيد، افتتحها بالنداء الخالد:\n  «**أَيُّهَا النَّاسُ، اسْمَعُوا وَعُوا، إِنَّهُ مَنْ عَاشَ مَات، وَمَنْ مَاتَ فَات، وَكُلُّ مَا هُوَ آتٍ آت... لَيْلٌ دَاج، وَنَهَارٌ سَاج، وَسَمَاءٌ ذَاتُ أَبْرَاج...**».\n\nثالثاً: خطبة طارق بن زياد في فتح الأندلس (92 هـ):\n- قمة الاستنهاض والشجاعة الخطابية:\n  «**أَيُّهَا النَّاسُ، أَيْنَ المَفَرُّ؟ البَحْرُ مِنْ وَرَائِكُمْ، وَالعَدُوُّ أَمَامَكُمْ، وَلَيْسَ لَكُمْ وَاللَّهِ إِلَّا الصِّدْقُ وَالصَّبْرُ...**».\n\nرابعاً: روائع الإمام علي بن أبي طالب في «نهج البلاغة»:\n- قمة الفصاحة العلوية التي قيل عنها: «دون كلام الخالق وفوق كلام المخلوق».\n- كالخطبة الشقشقية، والخطب الفريدة التي ارتجلها خالية من الألف أو خالية من النقط، مجسداً القدرة اللغوية المطلقة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المناظرة الفكرية والخطابة العليا (High Debating & Oratory)' to students in an accurate academic style."
+          "target": "أَفْحَمَ السِّيرَافِيُّ مَتَّى بْنَ يُونُسَ فِي مُنَاظَرَةِ النَّحْوِ وَالمَنْطِقِ مُثْبِتًا أَنَّ المَعَانِيَ لَا تَنْفَصِلُ عَنْ بَيَانِ اللِّسَانِ.(Afḥama as-Sīrāfiyyu Mattā bna Yūnusa fī munāẓarati an-naḥwi wa-al-manṭiqi muthbitan anna al-maʿāniya lā tanfaṣilu ʿan bayāni al-lisān.)",
+          "reading": "[ʔaf.ħa.ma‿s.siː.raː.fij.ju mat.tab.na juː.nu.sa fiː mu.naː.zˤa.ra.ti‿n.naħ.wi wal.man.tˤi.qi muθ.bi.tan ʔan.nal.ma.ʕaː.ni.ja laː tan.fa.sˤi.lu ʕan ba.jaː.ni‿l.li.saːn] (Af-ḥa-ma as-Sī-rā-fiy-yu Mat-tā bna Yū-nu-sa fī mu-nā-ẓa-ra-ti an-naḥ-wi wal-man-ṭi-qi muth-bi-tan an-na al-ma-ʿā-ni-ya lā tan-fa-ṣi-lu ʿan ba-yā-ni al-li-sān.)",
+          "translation": "Al-Sirafi silenced Matta ibn Yunus in the debate of grammar and logic proving that meanings are inseparable from linguistic eloquence."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "خَلَّدَ قُسُّ بْنُ سَاعِدَةَ فِي سُوقِ عُكَاظَ خُطْبَتَهُ البَلِيغَةَ: «مَنْ عَاشَ مَاتَ، وَمَنْ مَاتَ فَاتَ، وَكُلُّ مَا هُوَ آتٍ آتٍ».(Khallada Qussu ibnu Sāʿidata fī sūqi ʿUkāẓa khuṭbatahu al-balīghah: «Man ʿāsha māt, wa-man māta fāt, wa-kullu mā huwa ātin āt».)",
+          "reading": "[xal.la.da qus.su‿b.nu saː.ʕi.da.ta fiː suː.qi ʕu.kaː.zˤa xutˤ.ba.ta.hu‿l.ba.liː.ɣah: «man ʕaː.ʃa maːt, wa.man maː.ta faːt, wa.kul.lu maː hu.wa ʔaː.tin ʔaːt»] (Khal-la-da Qus-su ib-nu Sā-ʿi-da-ta fī sū-qi ʿU-kā-ẓa khuṭ-ba-ta-hu al-ba-lī-ghah: «Man ʿā-sha māt, wa-man mā-ta fāt, wa-kul-lu mā hu-wa ā-tin āt».)",
+          "translation": "Quss ibn Sa'idah immortalized at Souq Ukaz his eloquent oration: 'Whoever lives dies, whoever dies is gone, and everything that is coming shall come'."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "اسْتَنْهَضَ طَارِقُ بْنُ زِيَادٍ هِمَمَ جَيْشِهِ بِخِطَابٍ خَالِدٍ صَدَعَ فِيهِ: «البَحْرُ مِنْ وَرَائِكُمْ وَالعَدُوُّ أَمَامَكُمْ».(Istanhaḍa Ṭāriqu ibnu Ziyādin himama jayshihi bi-khiṭābin khālidin ṣadaʿa fīh: «Al-baḥru min warāʾikum wa-al-ʿaduwwu amāmakum».)",
+          "reading": "[ʔis.tan.ha.dˤa tˤaː.ri.qu‿b.nu zi.jaː.din hi.ma.ma ʒaj.ʃi.hi bi.xi.tˤaː.bin xaː.li.din sˤa.da.ʕa fiːh: «ʔal.baħ.ru min wa.raː.ʔi.kum wal.ʕa.duw.wu ʔa.maː.ma.kum»] (Is-tan-ha-ḍa Ṭā-ri-qu ib-nu Zi-yā-din hi-ma-ma jay-shi-hi bi-khi-ṭā-bin khā-li-din ṣa-da-ʿa fīh: «Al-baḥ-ru min wa-rā-ʾi-kum wal-ʿa-duw-wu a-mā-ma-kum».)",
+          "translation": "Tariq ibn Ziyad invigorated his army's resolve with an immortal speech proclaiming: 'The sea is behind you and the enemy is before you'."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تُمَثِّلُ خُطَبُ نَهْجِ البَلَاغَةِ ذِرْوَةَ الإِعْجَازِ النَّثْرِيِّ الفَصِيحِ بِمَا تَحْمِلُهُ مِنْ حِكْمَةٍ وَجَلَالٍ وَبَيَانٍ آسِرٍ.(Tumaththilu khuṭabu Nahji al-Balāghati dhirwata al-iʿjāzi an-nathriyyi al-faṣīḥi bi-mā taḥmiluhu min ḥikmatin wa-jalālin wa-bayānin āsir.)",
+          "reading": "[tu.maθ.θi.lu xu.tˤa.bu nah.ʒi‿l.ba.laː.ɣa.ti ðir.wa.ta‿l.ʔiʕ.ʒaː.zi‿n.naθ.rij.ji‿l.fa.sˤiː.ħi bi.maː taħ.mi.lu.hu min ħik.ma.tin wa.ʒa.laː.lin wa.ba.jaː.nin ʔaː.sir] (Tu-math-thi-lu khu-ṭa-bu Nah-ji al-Ba-lā-gha-ti dhir-wa-ta al-iʿ-jā-zi an-nath-riy-yi al-fa-ṣī-ḥi bi-mā taḥ-mi-lu-hu min ḥik-ma-tin wa-ja-lā-lin wa-ba-yā-nin ā-sir.)",
+          "translation": "The sermons of Nahj al-Balaghah represent the pinnacle of eloquent prose marvel in the wisdom, majesty, and captivating rhetoric they carry."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سِيرَافِيٌّ وَقُسٌّ وَطَارِقُ الأَمْجَادْ، خُطَبٌ تُنِيرُ بِهَا الدُّنْيَا عَلَى الآبَادْ!"
+      ],
+      "culturalNotes": [
+        "يُعد كتاب «الإمتاع والمؤانسة» لأبي حيان التوحيدي المصدر الأوثق الذي نقل النص الكامل لمناظرة السيرافي ومتى بن يونس، والتي تُدرس اليوم في جامعات أكسفورد والسوربون كأعظم سجال حضاري بين فلسفة اللغة والمنطق."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» (الدرس 4)؟",
+          "prompt": "ما هي القضية الفلسفية واللغوية الكبرى التي دارت حولها مناظرة أبي سعيد السيرافي ومتى بن يونس الشهيرة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (33.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (33.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (33.4.w3)"
+            "العَلَاقَةُ بَيْنَ النَّحْوِ العَرَبِيِّ وَالمَنْطِقِ اليُونَانِيِّ؛ وَأَسْبَقِيَّةُ بَيَانِ اللُّغَةِ عَلَى قَوَاعِدِ التَّفْكِيرِ (Relation between Arabic grammar & Greek logic; priority of linguistic eloquence)",
+            "تفضيل الشعر على النثر",
+            "أسباب سقوط الدولة الأموية",
+            "أوزان بحور الشعر العربي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "دارت المناظرة حول علاقة النحو بالمنطق وأثبت السيرافي أن المنطق لا يمكن أن يستقل عن البنية النحوية والدلالية للغة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "من هو الخطيب الجاهلي الحكيم صاحب خطبة سوق عكاظ الشهيرة: «أيها الناس اسمعوا وعوا...»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "قُسُّ بْنُ سَاعِدَةَ الإِيَادِيُّ (Quss ibn Sa'idah al-Iyadi)",
+            "عنترة بن شداد",
+            "امرؤ القيس",
+            "طرفة بن العبد"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "قس بن ساعدة الإيادي هو أشهر خطباء الجاهلية وحكمائها الممهدين للتوحيد."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u33-l4):",
+          "prompt": "اختر العبارة الخطابية الافتتاحية الخالدة للقائد طارق بن زياد في فتح الأندلس:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (33.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (33.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (33.4.x3)"
+            "«أَيُّهَا النَّاسُ، أَيْنَ المَفَرُّ؟ البَحْرُ مِنْ وَرَائِكُمْ، وَالعَدُوُّ أَمَامَكُمْ، وَلَيْسَ لَكُمْ وَاللَّهِ إِلَّا الصِّدْقُ وَالصَّبْرُ». ('O people, where is escape? The sea is behind you, and the enemy is before you...')",
+            "السلام عليكم ورحمة الله وبركاته كيف حالكم اليوم",
+            "يا قوم ناموا ولا تستيقظوا",
+            "خطب تراث سيرافي متى قس طارق سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه الجملة هي أشهر افتتاحية حماسية في تاريخ الخطابة العسكرية العربية لاستنهاض الهمم والثبات."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)»؟",
+          "prompt": "ما إعراب كلمة «خُطْبَتَهُ» في جملة: «خَلَّدَ قُسٌّ خُطْبَتَهُ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (33.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (33.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (33.4.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«قُسٌّ» فاعل مرفوع، و«خُطْبَتَ» مفعول به منصوب وعلامة نصبه الفتحة، والهاء ضمير متصل في محل جر مضاف إليه."
         }
       ]
     },
@@ -20167,24 +20197,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 33-4)؟",
+          "prompt": "اختر النص التراثي والتحليلي الشامل الذي يوثق عيون الخطب والمناظرات التاريخية بأرقى درجات البلاغة العربية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (33.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (33.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (33.4.z3)"
+            "شَهِدَ التَّارِيخُ العَرَبِيُّ رَوَائِعَ خَالِدَةً مِنَ البَيَانِ الجَدَلِيِّ وَالخَطَابِيِّ الَّتِي غَيَّرَتْ مَجْرَى الفِكْرِ وَالأَحْدَاثِ؛ حَيْثُ جَسَّدَتْ مُنَاظَرَةُ السِّيرَافِيِّ وَمَتَّى بْنِ يُونُسَ صِرَاعَ اللُّغَةِ وَالمَنْطِقِ، وَأَطْلَقَ قُسُّ بْنُ سَاعِدَةَ فِي عُكَاظَ صَرْخَةَ التَّوْحِيدِ وَالحِكْمَةِ، بَيْنَمَا هَزَّتْ خُطْبَةُ طَارِقِ بْنِ زِيَادٍ صُفُوفَ الفَاتِحِينَ، لِتَتَوَّجَ هٰذِهِ العَبْقَرِيَّةُ بِرَوَائِعِ «نَهْجِ البَلَاغَةِ» شَاهِدًا خَالِدًا عَلَى سُمُوِّ اللِّسَانِ العَرَبِيِّ وَإِعْجَازِهِ النَّثْرِيِّ. (Arab history witnessed immortal masterpieces of dialectic and rhetorical eloquence that altered the course of thought and events; where the debate of al-Sirafi and Matta ibn Yunus embodied the struggle of language and logic, Quss ibn Sa'idah launched the cry of monotheism and wisdom at Ukaz, while Tariq ibn Ziyad's speech shook conqueror ranks, crowning this genius with 'Nahj al-Balaghah' masterpieces as an eternal witness to Arabic linguistic sublimity and prose inimitability.)",
+            "خطب العرب ومناظراتهم كثيرة في كتب التاريخ والأدب.",
+            "مناظرات خطب تاريخ سيرافي متى قس طارق نهج بلاغة سكون فتحة ضمة تنوين.",
+            "نسي الناس جميع خطب التراث العربي القديم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يستوعب قمم التراث الخطابي والمناظراتي: السيرافي ومتى (النحو والمنطق)، قس بن ساعدة (الحكمة والتوحيد)، طارق بن زياد (الشجاعة والقيادة)، ونهج البلاغة (القمة النثرية)."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u33-l4) باللغة العربية (مثال: «المناظرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الكتاب التراثي الشهير الذي يضم خطب ورسائل وحِكَم الإمام علي بن أبي طالب (اكتب: «نهج البلاغة»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المناظرة",
-            "المناظرة"
+            "نهج البلاغة",
+            "نهج البلاغه",
+            "كتاب نهج البلاغة",
+            "نَهْجُ البَلَاغَةِ",
+            "نَهْج البَلَاغَة"
           ],
-          "explanation": "المصطلح الصحيح هو «المناظرة»."
+          "explanation": "الكتاب هو «نهج البلاغة» (Nahj al-Balaghah)."
         }
       ],
       "passThreshold": 0.8
@@ -20195,85 +20228,89 @@
     "subject": "arabic",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "المناظرة الفكرية والخطابة العليا (High Debating & Oratory) (الدرس 5)",
+    "title": "حوار المحفل الفكري والمناظرة الأكاديمية الكبرى (Intellectual Forum Colloquium & Grand Academic Debate)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: أدب الحوار والمناظرة، الحجج المنطقية، وأساليب الخطابة الأكاديمية والمحافل العامة. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الثالثة والثلاثين: أدب البحث والمناظرة، تفكيك المغالطات وهندسة الحجج، أسرار الخطابة ومثلث التأثير، وروائع التراث الخطابي في مناظرة أكاديمية كبرى بالمحفل الفكري الدولي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الثالثة والثلاثين (مستوى C2 الأعلى كفاءة) من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس، ندمج فنون المناظرة الفكرية والخطابة العليا في مناظرة أكاديمية كبرى تدور في المحفل الفكري الدولي بين عميد كلية اللغات والعلوم الإنسانية (د. ماهر) وممثلة معهد الدراسات الاستراتيجية (د. أروى):\n\nمحاور المناظرة الكبرى الشاملة:\n1.【أدب البحث والمناظرة】: «قَوَاعِدُ السَّائِلِ وَالمُجِيبِ»، «المَنْعُ وَالنَّقْضُ وَالمُعَارَضَةُ»، و«الِالْتِزَامُ بِأَخْلَاقِيَّاتِ الحِوَارِ».\n2.【هندسة الحجج وتفكيك المغالطات】: «القِيَاسُ البُرْهَانِيُّ»، «كَشْفُ رَجُلِ القَشِّ وَالشَّخْصَنَةِ»، و«تَفْنِيدُ التَّعْمِيمِ المُتَسَرِّعِ».\n3.【فنون الخطابة ومثلث التأثير】: «بَرَاعَةُ الِاسْتِهْلَالِ وَفَصْلُ الخِطَابِ»، «مُثَلَّثُ اللُّوغُوس وَالإِيثُوس وَالبَاثُوس»، و«إِيقَاعُ النَّبْرِ وَالوَقَفَاتِ».\n4.【الامتداد التراثي الحي】: استلهام روح مناظرة السيرافي ومتى، وفصاحة خطباء الفصحى في صياغة خطاب عربي عالمي مستنير.\n5.【الرؤية الفكرية المعاصرة】: دور الخطابة والمناظرة في ترسيخ ثقافة الحوار العقلاني وبناء مجتمعات المعرفة والعدالة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المناظرة الفكرية والخطابة العليا (High Debating & Oratory)' to students in an accurate academic style."
+          "target": "مَرْحَبًا دُكْتُورَة أَرْوَى، كَيْفَ نُوَظِّفُ قَوَاعِدَ المُنَاظَرَةِ وَالخَطَابَةِ العُلْيَا لِبِنَاءِ خِطَابٍ فِكْرِيٍّ مُعَاصِرٍ يَأْسِرُ العُقُولَ؟(Marḥaban duktūrah Arwā, kayfa nuwaẓẓifu qawāʿida al-munāẓarati wa-al-khaṭābati al-ʿulyā li-bināʾi khiṭābin fikriyyin muʿāṣirin yaʾsiru al-ʿuqūl?)",
+          "reading": "[mar.ħa.ban duk.tuː.rah ʔar.waː, kaj.fa nu.wazˤ.zˤi.fu qa.waː.ʕi.da‿l.mu.naː.zˤa.ra.ti wal.xa.tˤaː.ba.ti‿l.ʕul.jaː li.bi.naː.ʔi xi.tˤaː.bin fik.rij.jin mu.ʕaː.sˤi.rin jaʔ.si.ru‿l.ʕu.quːl?] (Mar-ḥa-ban duk-tū-rah Ar-wā, kay-fa nu-waẓ-ẓi-fu qa-wā-ʿi-da al-mu-nā-ẓa-ra-ti wal-kha-ṭā-ba-ti al-ʿul-yā li-bi-nā-ʾi khi-ṭā-bin fik-riy-yin mu-ʿā-ṣi-rin yaʾ-si-ru al-ʿu-qūl?)",
+          "translation": "Welcome Dr. Arwa, how do we employ the rules of debating and grand oratory to build contemporary intellectual discourse captivating minds?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا دُكْتُور مَاهِر؛ إِنَّ الخِطَابَ الرَّصِينَ يَجْمَعُ بَيْنَ صَلَابَةِ المَنْطِقِ فِي المُنَاظَرَةِ وَسِحْرِ البَيَانِ فِي الخَطَابَةِ؛ فَنُفَنِّدُ المُغَالَطَاتِ بِالبُرْهَانِ وَنَسْتَنْهِضُ الهِمَمَ بِفَصْلِ الخِطَابِ.(Ahlan duktūr Māhir; inna al-khiṭāba ar-raṣīna yajmaʿu bayna ṣalābati al-manṭiqi fī al-munāẓarati wa-siḥri al-bayāni fī al-khaṭābah; fa-nufannidu al-mughālaṭāti bi-al-burhāni wa-nastanhiḍu al-himama bi-faṣli al-khiṭāb.)",
+          "reading": "[ʔah.lan duk.tuːr maː.hir; ʔin.na‿l.xi.tˤaː.ba‿r.ra.sˤiː.na jaʒ.ma.ʕu baj.na sˤa.laː.ba.ti‿l.man.tˤi.qi fil.mu.naː.zˤa.ra.ti wa.siħ.ri‿l.ba.jaː.ni fil.xa.tˤaː.bah; fa.nu.fan.ni.du‿l.mu.ɣaː.la.tˤaː.ti bil.bur.haː.ni wa.nas.tan.hi.dˤu‿l.hi.ma.ma bi.fasˤ.lil.xi.tˤaːb] (Ah-lan duk-tūr Mā-hir; in-na al-khi-ṭā-ba ar-ra-ṣī-na yaj-ma-ʿu bay-na ṣa-lā-ba-ti al-man-ṭi-qi fī al-mu-nā-ẓa-ra-ti wa-siḥ-ri al-ba-yā-ni fī al-kha-ṭā-bah; fa-nu-fan-ni-du al-mu-ghā-la-ṭā-ti bi-al-bur-hān wa-nas-tan-hi-ḍu al-hi-ma-ma bi-faṣ-li al-khi-ṭāb.)",
+          "translation": "Welcome Dr. Mahir; rigorous discourse unites logic's solidity in debating with eloquence's magic in oratory; so we refute fallacies through proof and invigorate resolves with decisive speech."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "حَيْثُ يُحَرِّرُنَا أَدَبُ البَحْثِ مِنَ الشَّخْصَنَةِ وَالمُكَابَرَةِ، بَيْنَمَا يَمْنَحُنَا مُثَلَّثُ الإِقْنَاعِ قُوَّةَ الحُضُورِ وَالمِصْدَاقِيَّةَ الأَخْلَاقِيَّةَ.(Ḥaythu yuḥarrirunā adabu al-baḥthi min ash-shakhṣanati wa-al-mukābarah, baynamā yamnaḥunā muthallathu al-iqnāʿi quwwata al-ḥuḍūri wa-al-miṣdāqiyyata al-akhlāqiyyah.)",
+          "reading": "[ħaj.θu ju.ħar.ri.ru.naː ʔa.da.bu‿l.baħ.θi mi.na‿ʃ.ʃax.sˤa.na.ti wal.mu.kaː.ba.rah, baj.na.maː jam.na.ħu.naː mu.θal.la.θu‿l.ʔiq.naː.ʕi quw.wa.ta‿l.ħu.dˤuː.ri wal.misˤ.daː.qij.ja.ta‿l.ʔax.laː.qij.jah] (Ḥay-thu yu-ḥar-ri-ru-nā a-da-bu al-baḥ-thi min ash-shakh-ṣa-na-ti wal-mu-kā-ba-rah, bay-na-mā yam-na-ḥu-nā mu-thal-la-thu al-iq-nā-ʿi quw-wa-ta al-ḥu-ḍū-ri wal-miṣ-dā-qiy-ya-ta al-akh-lā-qiy-yah.)",
+          "translation": "Where debating etiquette frees us from ad hominem and stubbornness, while the persuasion triad grants us presence power and ethical credibility."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لِتَظَلَّ المُنَاظَرَةُ وَالخَطَابَةُ مَنَارَتَيْنِ خَالِدَتَيْنِ تَقُودَانِ العَقْلَ العَرَبِيَّ نَحْوَ مَرَاتِبِ الرِّيَادَةِ وَالتَّنْوِيرِ.(Li-taẓalla al-munāẓaratu wa-al-khaṭābatu manāratayni khālidatayni taqūdāni al-ʿaqla al-ʿarabiyya naḥwa marātibi ar-riyādati wa-at-tanwīr.)",
+          "reading": "[li.ta.zˤal.la‿l.mu.naː.zˤa.ra.tu wal.xa.tˤaː.ba.tu ma.naː.ra.taj.ni xaː.li.da.taj.ni ta.quː.daː.ni‿l.ʕaq.la‿l.ʕa.ra.bij.ja naħ.wa ma.raː.ti.bi‿r.ri.jaː.da.ti wat.tan.wiːr] (Li-ta-ẓal-la al-mu-nā-ẓa-ra-tu wal-kha-ṭā-ba-tu ma-nā-ra-tay-ni khā-li-da-tay-ni ta-qū-dā-ni al-ʿaq-la al-ʿa-ra-biy-ya naḥ-wa ma-rā-ti-bi ar-ri-yā-da-ti wa-at-tan-wīr.)",
+          "translation": "So debating and oratory remain two eternal beacons leading the Arab intellect toward ranks of leadership and enlightenment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي مَحْفَلِ الفِكْرِ يَعْلُو الحِوَارْ، عِلْمٌ وَصِدْقٌ كَنُورِ النَّهَارْ!"
+      ],
+      "culturalNotes": [
+        "يُعد إتقان المناظرة الفكرية والخطابة العليا أعلى مراتب التمكن التواصلي والقيادي في اللغة العربية الفصحى (مستوى C2 Mastery)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» (الدرس 5)؟",
+          "prompt": "ما هو التكامل الجوهري بين فن «المناظرة» وفن «الخطابة» في قيادة الفكر وتوجيه الرأي العام؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)» بأسلوب أكاديمي دقيق (33.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (33.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (33.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (33.5.w3)"
+            "المُنَاظَرَةُ لِتَحْقِيقِ الصَّوَابِ وَدَحْضِ الشُّبَهِ بِالبُرْهَانِ، وَالخَطَابَةُ لِإِيصَالِ المَعْنَى وَاسْتِنْهَاضِ الهِمَمِ بِمُثَلَّثِ الإِقْنَاعِ (Debating for verifying truth & refuting doubts via proof; Oratory for delivering meaning & motivating via persuasion triad)",
+            "أنهما يعتمدان على التضليل والمغالطة فقط",
+            "أن الخطابة للشعر والمناظرة للرياضيات",
+            "لا يوجد أي تكامل بينهما"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المناظرة توفر الركيزة المنطقية الصلبة وكشف المغالطات، بينما تمنح الخطابة قوة الإلقاء والتأثير الوجداني والقيادي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف يُواجه المناظر الحصيف محاولات الخصم اللجوء إلى مغالطة «الشخصنة» أو «رجل القش»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِإِعَادَةِ تَأْطِيرِ النِّقَاشِ نَحْوَ جَوْهَرِ الفِكْرَةِ، وَكِشْفِ التَّحْرِيفِ بِهُدُوءٍ وَالاحْتِكَامِ لِلْبُرْهَانِ المَوْضُوعِيِّ (Reframing debate to core idea, exposing distortion calmly & appealing to objective proof)",
+            "بالرد بالشتائم ومهاجمة الخصم شخصياً",
+            "بالبكاء ومغادرة القاعة",
+            "بقبول التحريف والتنازل عن الحقيقة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الرد الأصولي الحصيف هو إعادة النقاش إلى مساره الموضوعي وفضح محاولة الخصم الهروب من مواجهة الحجة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u33-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تلخص فلسفة الحوار الأكاديمي الراقي بأعلى درجات البلاغة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (33.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (33.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (33.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (33.5.x3)"
+            "— كَيْفَ نَصْنَعُ حِوَارًا حَضَارِيًّا خَالِدًا؟ — حِينَ نَجْعَلُ العَقْلَ رَائِدَنَا، وَالبُرْهَانَ سِلَاحَنَا، وَاحْتِرَامَ الحَقِيقَةِ غَايَتَنَا الكُبْرَى دُونَ كِبْرٍ أَوْ مُكَابَرَةٍ. (— How do we forge an eternal civilizational dialogue? — When we make reason our guide, proof our weapon, and respect for truth our ultimate objective without arrogance or obstinacy.)",
+            "— هل شاركت في مسابقة المناظرات الجامعية؟ — نعم شاركت مع فريقي الأسبوع الماضي.",
+            "— كم دقيقة مدة الخطبة في المحفل؟ — تستغرق عشر دقائق فقط.",
+            "— حوار محفل فكري مناظرة خطابة سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة تعبر عن جوهر الحوار الحضاري القائم على هداية العقل وسلطان البرهان والتجرد في طلب الحقيقة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المناظرة الفكرية والخطابة العليا (High Debating & Oratory)»؟",
+          "prompt": "ما إعراب كلمة «مَنَارَتَيْنِ» في قولنا: «لِتَظَلَّ المُنَاظَرَةُ وَالخَطَابَةُ مَنَارَتَيْنِ خَالِدَتَيْنِ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (33.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (33.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (33.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (33.5.y3)"
+            "خَبَرُ يَظَلَّ مَنْصُوبٌ بِاليَاءِ لِأَنَّهُ مُثَنًّى (Predicate of yaẓalla in accusative dual with yā')",
+            "اسم يظل مرفوع بالألف",
+            "مفعول به منصوب بالياء",
+            "حال منصوبة بالياء"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«المُنَاظَرَةُ» اسم يظل مرفوع، و«مَنَارَتَيْنِ» خبر يظل منصوب وعلامة نصبه الياء لأنه مثنى."
         }
       ]
     },
@@ -20281,24 +20318,30 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 33-5)؟",
+          "prompt": "اختر النص الحواري الفكري والخطابي الشامل الذي يدمج مخرجات الوحدة الثالثة والثلاثين بأكملها (أدب المناظرة، الحجج ودحض المغالطات، فنون الخطابة، وتراث المناظرات الكبرى):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (33.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (33.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (33.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (33.5.z3)"
+            "د. مَاهِر: «دُكْتُورَة أَرْوَى، كَيْفَ نُلَخِّصُ عَبْقَرِيَّةَ المُنَاظَرَةِ الفِكْرِيَّةِ وَالخَطَابَةِ العُلْيَا فِي تَشْكِيلِ الوَعْيِ وَقِيَادَةِ الرَّأْيِ؟» — د. أَرْوَى: «إِنَّهَا سِيَادَةُ العَقْلِ وَسِحْرُ البَيَانِ؛ حَيْثُ يُؤَصِّلُ «عِلْمُ آدَابِ البَحْثِ وَالمُنَاظَرَةِ» مَرَاتِبَ المَنْعِ وَالنَّقْضِ وَالمُعَارَضَةِ مُفْنِيًا أَوْهَامَ رَجُلِ القَشِّ وَالشَّخْصَنَةِ، بَيْنَمَا تَرْتَقِي «الخَطَابَةُ العُلْيَا» بِالأَفْئِدَةِ عَبْرَ بَرَاعَةِ الِاسْتِهْلَالِ وَمُثَلَّثِ الإِقْنَاعِ وَفَصْلِ الخِطَابِ، مُسْتَلْهِمَةً رَوَائِعَ السِّيرَافِيِّ وَقُسٍّ وَطَارِقٍ وَنَهْجِ البَلَاغَةِ، لِيَغْدُوَ الحِوَارُ مَنَارَةً لِلْحَقِّ وَمَعْرَجًا لِلْإِبْدَاعِ الإِنْسَانِيِّ». (Dr. Mahir: 'Dr. Arwa, how do we summarize the genius of intellectual debating and grand oratory in shaping consciousness and leading opinion?' — Dr. Arwa: 'It is the sovereignty of intellect and magic of eloquence; where 'Adab al-Bahth wa al-Munazarah' roots ranks of inhibition, refutation and counter-argument eliminating straw man and ad hominem illusions, while 'Grand Oratory' elevates hearts via brilliant opening, persuasion triad and decisive speech, drawing inspiration from masterpieces of al-Sirafi, Quss, Tariq and Nahj al-Balaghah, making dialogue a beacon of truth and ascent of human creativity.')",
+            "د. ماهر: هل كانت المناظرة الأكاديمية ممتعة اليوم؟ — د. أروى: نعم كانت مناظرة شيقة واستمتعنا بها.",
+            "حوار فكري خطابي شامل مناظرة جدل مغالطات خطابة استهلال خاتمة سكون فتحة ضمة تنوين.",
+            "توقفت فنون المناظرة والخطابة عن التأثير في العصر الحاضر."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة التركيب المعرفي والأسلوبي الشامل في دمج: أدب المناظرة ومراتبها، تفكيك المغالطات، استراتيجيات الخطابة ومثلث التأثير، وروائع التراث الخطابي في نسق حضاري رصين."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u33-l5) باللغة العربية (مثال: «المناظرة»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفن الحواري المنطقي الذي يتناظر فيه طرفان لإظهار الحق بالحجة والدليل (اكتب: «المناظرة» أو «المناظرة الفكرية»؛ بدون تشكيل):",
           "acceptedAnswers": [
             "المناظرة",
-            "المناظرة"
+            "المناظرة الفكرية",
+            "مناظرة",
+            "مناظرة فكرية",
+            "المناظره",
+            "المناظره الفكريه",
+            "المُنَاظَرَةُ",
+            "المُنَاظَرَة"
           ],
-          "explanation": "المصطلح الصحيح هو «المناظرة»."
+          "explanation": "الفن هو «المناظرة» أو «المناظرة الفكرية» (Debate / Munazarah)."
         }
       ],
       "passThreshold": 0.8
