@@ -18072,85 +18072,89 @@
     "subject": "mandarin",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "宪法法律与司法制度 (Constitutional & Legal System) (第1讲)",
+    "title": "宪法根本大法与国家根本制度：依宪治国、合宪性审查与人权法治保障 (Constitutional Supremacy: Rule of Law, Constitutional Review & Human Rights)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第1部分)。",
+    "objective": "系统掌握宪法根本大法最高法律地位、依宪治国与依宪执政、合宪性审查机制、公民基本权利与国家尊重保障人权等高阶宪法学法理与公法语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "宪法是国家的根本大法，是治国安邦的总章程，具有最高的法律地位、法律权威与法律效力：\n\n一、宪法最高法律地位与国家根本制度：\n1.【根本大法与最高法律效力】：\n- 宪法规定国家的根本制度和根本任务（人民民主专政、人民代表大会制度为根本政治制度）。\n- 宪法具有最高的法律效力，一切法律、行政法规、地方性法规都不得同宪法相抵触，一切违反宪法的行为都必须予以追究。\n2.【依宪治国与依宪执政】：\n- 依法治国首先要坚持依宪治国，依法执政首先要坚持依宪执政。\n\n二、合宪性审查与宪法权威维护机制：\n1.【合宪性审查（Constitutional Review）】：全国人大常委会依法对各类规范性文件进行合宪性审查与备案审查，坚决纠正违宪违法法规，维护国家法制统一。\n2.【宪法宣誓制度】：国家工作人员在就职时必须公开向宪法庄严宣誓，树立宪法信仰。\n\n三、宪法基本权利与人权法治保障：\n- 宪法明文规定「国家尊重和保障人权」；公民在法律面前一律平等；依法保障公民的人身自由、人格尊严、财产权、监督权等基本权利。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '宪法法律与司法制度 (Constitutional & Legal System)' in simple terms to students at the academic seminar."
+          "target": "宪法是国家的根本大法，具有最高的法律地位、法律权威与法律效力，一切法律法规均不得与宪法相抵触。(Xiànfǎ shì guójiā de gēnběn dàfǎ, jùyǒu zuìgāo de fǎlǜ dìwèi, fǎlǜ quánwēi yǔ fǎlǜ xiàolì, yīqiè fǎlǜ fǎguī jūn bùdé yǔ xiànfǎ xiāng dǐchù.)",
+          "reading": "[ɕjɛn˥˩.fa˨˩˦ ʂɨ˥˩ kwo˧˥.t͡ɕja˥ tɤ kən˥.pən˨˩ ta˥˩.fa˨˩˦, t͡ɕy˥˩.joʊ̯˨˩˦ tweɪ̯˥˩.kaʊ̯˥ tɤ fǎ.ly˥˩ ti˥˩.weɪ̯˥˩, fǎ.ly˥˩ t͡ɕʰyɛn˧˥.weɪ̯˥ y˨˩˦ fǎ.ly˥˩ ɕjaʊ̯˥˩.li˥˩, i˥.t͡ɕʰjɛ˥˩ fǎ.ly˥˩ fǎ.kweɪ̯˥ t͡ɕyn˥ pu˥.tɤ˧˥ y˨˩˦ ɕjɛn˥˩.fa˨˩˦ ɕjaŋ˥ ti˨˩.ʈ͡ʂʰu˥˩] (Xiàn-fǎ shì guó-jiā de gēn-běn dà-fǎ, jù-yǒu zuì-gāo de fǎ-lǜ dì-wèi, fǎ-lǜ quán-wēi yǔ fǎ-lǜ xiào-lì, yī-qiè fǎ-lǜ fǎ-guī jūn bù-dé yǔ xiàn-fǎ xiāng dǐ-chù.)",
+          "translation": "The Constitution is the fundamental law of the state, possessing supreme legal status, legal authority, and legal force; no laws or regulations may conflict with the Constitution."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "健全全流程合宪性审查与规范性文件备案审查机制，是维护国家法制统一与宪法崇高尊严的根本制度保障。(Jiànquán quán-liúchéng héxiànxìng shěnchá yǔ guīfànxìng wénjiàn bèi'àn shěnchá jīzhì, shì wéihù guójiā fǎzhì tǒngyī yǔ xiànfǎ chónggāo zūnyán de gēnběn zhìdù bǎozhàng.)",
+          "reading": "[t͡ɕjɛn˥˩.t͡ɕʰyɛn˧˥ t͡ɕʰyɛn˧˥-ljoʊ̯˧˥.ʈ͡ʂʰəŋ˧˥ xɤ˧˥.ɕjɛn˥˩.ɕiŋ˥˩ ʂən˨˩.t͡ʂʰa˧˥ y˨˩˦ kweɪ̯˥.fan˥˩.ɕiŋ˥˩ wən˧˥.t͡ɕjɛn˥˩ peɪ̯˥˩.an˥˩ ʂən˨˩.t͡ʂʰa˧˥ t͡ɕi˥.ʈ͡ʂɨ˥, ʂɨ˥˩ weɪ̯˧˥.xu˥˩ kwo˧˥.t͡ɕja˥ fǎ.ʈ͡ʂɨ˥˩ tʰʊŋ˨˩.i˥ y˨˩˦ ɕjɛn˥˩.fa˨˩˦ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ t͡swn˥.jan˧˥ tɤ kən˥.pən˨˩ ʈ͡ʂɨ˥˩.tu˥˩ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩] (Jiàn-quán quán-liú-chéng hé-xiàn-xìng shěn-chá yǔ guī-fàn-xìng wén-jiàn bèi-'àn shěn-chá jī-zhì, shì wéi-hù guó-jiā fǎ-zhì tǒng-yī yǔ xiàn-fǎ chóng-gāo zūn-yán de gēn-běn zhì-dù bǎo-zhàng.)",
+          "translation": "Perfecting the whole-process constitutional review and normative document record-review mechanism is the fundamental institutional guarantee for maintaining national legal unity and the supreme dignity of the Constitution."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "国家庄严确立并严格践行「尊重和保障人权」的宪法原则，确保全体公民在法律适用与权利保护面前一律平等。(Guójiā zhuāngyán quèlì bìng yángé jiànxíng \"zūnzhòng hé bǎozhàng rénquán\" de xiànfǎ yuánzé, quèbǎo quántǐ gōngmín zài fǎlǜ shìyòng yǔ quánlì bǎohù miànqián yīlǜ píngděng.)",
+          "reading": "[kwo˧˥.t͡ɕja˥ ʈ͡ʂwaŋ˥.jan˧˥ t͡ɕʰɥɛ˥.li˥˩ piŋ˥˩ jan˧˥.kɤ˧˥ t͡ɕjɛn˥˩.ɕiŋ˧˥ \"t͡swn˥.ʈ͡ʂʊŋ˥˩ xɤ˧˥ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩ ʐən˧˥.t͡ɕʰyɛn˧˥\" tɤ ɕjɛn˥˩.fa˨˩˦ yɥɛn˧˥.t͡sɤ˧˥, t͡ɕʰɥɛ˥.paʊ̯˨˩˦ t͡ɕʰyɛn˧˥.tʰi˨˩˦ kʊŋ˥.min˧˥ t͡saɪ̯˥˩ fǎ.ly˥˩ ʂɨ˥˩.jʊŋ˥˩ y˨˩˦ t͡ɕʰyɛn˧˥.li˥˩ paʊ̯˨˩.xu˥˩ mjɛn˥˩.t͡ɕʰjɛn˧˥ i˥.ly˥˩ pʰiŋ˧˥.tɤŋ˨˩˦] (Guó-jiā zhuāng-yán què-lì bìng yán-gé jiàn-xíng \"zūn-zhòng hé bǎo-zhàng rén-quán\" de xiàn-fǎ yuán-zé, què-bǎo quán-tǐ gōng-mín zài fǎ-lǜ shì-yòng yǔ quán-lì bǎo-hù miàn-qián yī-lǜ píng-děng.)",
+          "translation": "The state solemnly established and rigorously practices the constitutional principle of 'respecting and safeguarding human rights', ensuring that all citizens are equal before legal application and rights protection."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "实行国家工作人员就职宪法宣誓制度，旨在彰显宪法权威并激励公职人员忠于宪法、恪尽职守。(Shíxíng guójiā gōngzuò rényuán jiùzhí xiànfǎ xuānshì zhìdù, zhìzài zhāngxiǎn xiànfǎ quánwēi bìng jīlì gōngzhí rényuán zhōngyú xiànfǎ, kèjìn-zhíshǒu.)",
+          "reading": "[ʂɨ˧˥.ɕiŋ˧˥ kwo˧˥.t͡ɕja˥ kʊŋ˥.t͡swɔ˥˩ ʐən˧˥.yɥɛn˧˥ t͡ɕjoʊ̯˥˩.ʈ͡ʂɨ˧˥ ɕjɛn˥˩.fa˨˩˦ ɕyɛn˥.ʂɨ˥˩ ʈ͡ʂɨ˥˩.tu˥˩, ʈ͡ʂɨ˥˩.t͡saɪ̯˥˩ ʈ͡ʂɑŋ˥.ɕjan˨˩˦ ɕjɛn˥˩.fa˨˩˦ t͡ɕʰyɛn˧˥.weɪ̯˥ piŋ˥˩ t͡ɕi˥.li˥˩ kʊŋ˥.ʈ͡ʂɨ˧˥ ʐən˧˥.yɥɛn˧˥ ʈ͡ʂʊŋ˥.y˧˥ ɕjɛn˥˩.fa˨˩˦, kʰɤ˥˩.t͡ɕin˥˩-ʈ͡ʂɨ˧˥.ʂoʊ̯˨˩˦] (Shí-xíng guó-jiā gōng-zuò rén-yuán jiù-zhí xiàn-fǎ xuān-shì zhì-dù, zhì-zài zhāng-xiǎn xiàn-fǎ quán-wēi bìng jī-lì gōng-zhí rén-yuán zhōng-yú xiàn-fǎ, kè-jìn-zhí-shǒu.)",
+          "translation": "Implementing the constitutional oath system for state functionaries upon taking office aims to demonstrate constitutional authority and inspire public officials to be loyal to the Constitution and scrupulously fulfill their duties."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "宪法根本效力尊，违宪无效法制纯；合宪审查人权保，就职宣誓铸法魂！"
+      ],
+      "culturalNotes": [
+        "每年12月4日为中国「国家宪法日」。设立宪法宣誓制度与开展全社会宪法宣传，是培育社会主义宪法文化、弘扬宪法精神的重大举措。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「宪法法律与司法制度 (Constitutional & Legal System)」（第1讲）的标准汉语规范？",
+          "prompt": "在现代法治国家法律渊源效力位阶中，规定国家根本任务与根本制度、具有最高法律效力的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (31.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (31.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (31.1.w3)"
+            "宪法 (The Constitution)",
+            "部门规章",
+            "地方政府通告",
+            "行业内部倡议"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "宪法是国家的根本法，处于整个法律体系的核心与顶端，具有最高的法律效力。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "全国人大常委会对行政法规、地方性法规及司法解释是否符合宪法精神进行审查并纠正的法律监督机制被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "合宪性审查与备案审查 (Constitutional review & record-review)",
+            "随意翻看",
+            "民间投票",
+            "商业审核"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "合宪性审查是维护国家法制统一、保障宪法权威和有效实施的关键宪法监督机制。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「宪法法律与司法制度 (Constitutional & Legal System)」的正式语境下，最准确得体的表达是哪一项？（第31.1题）",
+          "prompt": "我国宪法明确载明的关于公民基本权利保障的最核心宪法原则是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (31.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (31.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (31.1.x3)"
+            "国家尊重和保障人权 (The State respects and preserves human rights)",
+            "权力高于一切",
+            "金钱决定权利",
+            "特权不受限制"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「国家尊重和保障人权」是写入我国宪法的崇高原则，是法治建设的核心价值导向。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u31-l1）所要求的高阶语言表达？",
+          "prompt": "国家公职人员在正式就职履职时，面向国旗国徽公开进行庄严承诺的法定仪式是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (31.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (31.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (31.1.y3)"
+            "宪法宣誓 (Constitutional Oath)",
+            "发朋友圈打卡",
+            "签署商业广告",
+            "请客吃饭聚餐"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "实行宪法宣誓制度旨在增强公职人员的宪法观念，激励公职人员忠于宪法、遵守宪法。"
         }
       ]
     },
@@ -18158,25 +18162,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「宪法法律与司法制度 (Constitutional & Legal System)」的掌握程度，请选出表述完全正确的标准范句（测试 31-1）：",
+          "prompt": "请选出下列关于宪法根本地位与依宪治国论述中法理最精严、表述最规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (31.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (31.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (31.1.z3)"
+            "宪法是国家的根本大法，具有最高的法律地位、法律权威与法律效力。坚持依法治国首先要坚持依宪治国，坚持依法执政首先要坚持依宪执政。通过完善全流程合宪性审查机制维护法制统一，严格践行「国家尊重和保障人权」的宪法原则，落实就职宪法宣誓制度，确保国家各项事业在宪法轨道上规范运行！(宪法地位、依宪治国执政、合宪审查、人权保障与宪法宣誓全景精辟论述，公法学典范)",
+            "宪法就是一本普通的参考书，平时办案根本用不上。(严重违背宪法最高法地位常识)",
+            "合宪性审查被依宪治国在宪法宣誓人权保障最高效力。(词句断裂错乱拼凑)",
+            "地方政府制定的红头文件效力可以凌驾于国家宪法之上。(极其严重的违法错误言论)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了宪法最高效力、依宪治国原则、合宪审查与人权法治保障，法理清晰，逻辑严谨。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u31-l1）的核心关键词（例如「宪法法律」）：",
+          "prompt": "请输入全国人大常委会依法对行政法规、司法解释等规范性文件是否同宪法相抵触进行审查纠正的核心五字机制名称（拼音为 héxiànxìng shěnchá）：",
           "acceptedAnswers": [
-            "宪法法律",
-            "宪法法律与司",
-            "宪法法律与司法制度"
+            "合宪性审查"
           ],
-          "explanation": "正确的核心关键词为「宪法法律」。"
+          "explanation": "术语「合宪性审查」是维护国家宪法权威与法制统一的根本宪法监督制度。"
         }
       ],
       "passThreshold": 0.8
@@ -18187,85 +18189,89 @@
     "subject": "mandarin",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "宪法法律与司法制度 (Constitutional & Legal System) (第2讲)",
+    "title": "民法典时代与私权保护体系：物权、合同、人格权与侵权责任 (Civil Code: Property, Contracts, Personality Rights & Torts)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第2部分)。",
+    "objective": "系统掌握《中华人民共和国民法典》七编架构（物权/合同/人格权/侵权责任等）、基本原则（诚信/公序良俗/绿色）、人格权独立成编创新及民商私权法理语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "《中华人民共和国民法典》是新中国第一部以「法典」命名的法律，被誉为「社会生活的百科全书」和「民事权利的宣言书」：\n\n一、民法典七编科学体系：\n1.【总则编】：民事主体（自然人/法人/非法人组织）、民事权利能力与行为能力、民事法律行为、诉讼时效（普通时效三年）。\n2.【物权编】：物权法定原则、所有权（国家/集体/私人）、用益物权（新设「居住权」）、担保物权（抵押/质押/留置）、善意取得制度。\n3.【合同编】：契约自由与意思自治、合同订立履行、合同解除、违约责任（继续履行/补救措施/赔偿损失/定金罚则）。\n4.【人格权编（中国首创独立成编）】：生命权、身体权、健康权、姓名权、肖像权、名誉权、荣誉权、隐私权与个人信息保护（严防人脸识别滥用与深度伪造）。\n5.【婚姻家庭编与继承编】：倡导优良家风、离婚冷静期（30天）、继承人宽恕制度、遗产管理人制度。\n6.【侵权责任编】：过错责任、无过错责任、高空抛物连带追偿、惩罚性赔偿（知识产权/生态环境侵权）。\n\n二、民法典基本原则（民法灵魂）：\n- 平等原则、自愿原则、公平原则、诚信原则（民法「帝王条款」）、守法与公序良俗原则、绿色原则（节约资源、保护生态）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '宪法法律与司法制度 (Constitutional & Legal System)' in simple terms to students at the academic seminar."
+          "target": "《民法典》作为社会生活的百科全书，构建了涵盖物权、合同、人格权与侵权责任的完备私权保护体系。(《Mínfǎdiǎn》 zuòwéi shèhuì shēnghuó de bǎikē quánshū, gòujiàn le hángài wùquán, hétong, réngéquán yǔ qīnquán zérèn de wánbèi sīquán bǎohù tǐxì.)",
+          "reading": "[《min˧˥.fa˨˩˦.tjan˨˩˦》 t͡swɔ˥˩.weɪ̯˧˥ ʂɤ˥˩.xweɪ̯˥˩ ʂəŋ˥.xwo˧˥ tɤ paɪ̯˨˩.kʰɤ˥ t͡ɕʰyɛn˧˥.ʂu˥, koʊ̯˥˩.t͡ɕjɛn˥˩ lɤ xan˧˥.kaɪ̯˥˩ u˥˩.t͡ɕʰyɛn˧˥, xɤ˧˥.tʰʊŋ, ʐən˧˥.kɤ˧˥.t͡ɕʰyɛn˧˥ y˨˩˦ t͡ɕʰin˥.t͡ɕʰyɛn˧˥ t͡sɤ˧˥.ʐən˥˩ tɤ wan˧˥.peɪ̯˥˩ sɨ˥.t͡ɕʰyɛn˧˥ paʊ̯˨˩.xu˥˩ tǐ.ɕi˥˩] (《Mín-fǎ-diǎn》 zuò-wéi shè-huì shēng-huó de bǎi-kē quán-shū, gòu-jiàn le hán-gài wù-quán, hé-tong, rén-gé-quán yǔ qīn-quán zé-rèn de wán-bèi sī-quán bǎo-hù tǐ-xì.)",
+          "translation": "As the encyclopedia of social life, the Civil Code constructs a complete private rights protection system covering property, contracts, personality rights, and tort liability."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "人格权独立成编是民法典编纂的重大制度创新，为公民隐私权、肖像权及个人信息安全筑牢了坚不可摧的法治盾牌。(Réngéquán dúlì chéng biān shì mínfǎdiǎn biānzuǎn de zhòngdà zhìdù chuàngxīn, wèi gōngmín yǐnsīquán, xiàoxiàngquán jí gèrén xìnxī ānquán zhùláo le jiānbùkěcuī de fǎzhì dùnpái.)",
+          "reading": "[ʐən˧˥.kɤ˧˥.t͡ɕʰyɛn˧˥ tu˧˥.li˥˩ ʈ͡ʂʰəŋ˧˥ pjɛn˥ ʂɨ˥˩ min˧˥.fa˨˩˦.tjan˨˩˦ pjɛn˥.t͡swǎn tɤ ʈ͡ʂʊŋ˥˩.ta˥˩ ʈ͡ʂɨ˥˩.tu˥˩ t͡ʂʰwaŋ˥˩.ɕin˥, weɪ̯˥˩ kʊŋ˥.min˧˥ in˨˩.sɨ˥.t͡ɕʰyɛn˧˥, ɕjaʊ̯˥˩.ɕjaŋ˥˩.t͡ɕʰyɛn˧˥ t͡ɕi˧˥ kɤ˥˩.ʐən˧˥ ɕin˥˩.ɕi˥ an˥.t͡ɕʰyɛn˧˥ ʈ͡ʂu˥˩.laʊ̯˧˥ lɤ t͡ɕjɛn˥.pu˥.kʰɤ˨˩.t͡sʰweɪ̯˥ tɤ fǎ.ʈ͡ʂɨ˥˩ twən˥˩.pʰaɪ̯˧˥] (Rén-gé-quán dú-lì chéng biān shì mín-fǎ-diǎn biān-zuǎn de zhòng-dà zhì-dù chuàng-xīn, wèi gōng-mín yǐn-sī-quán, xiào-xiàng-quán jí gè-rén xìn-xī ān-quán zhù-láo le jiān-bù-kě-cuī de fǎ-zhì dùn-pái.)",
+          "translation": "The independent compilation of personality rights is a major institutional innovation in the codification of the Civil Code, forging an indestructible legal shield for citizens' right to privacy, portrait rights, and personal information security."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "民事主体在从事民事活动中应当恪守诚实信用与公序良俗原则，秉持意思自治，依法享有民事权利并承担相应义务。(Mínshì zhǔtǐ zài cóngshì mínshì huódòng zhōng yīngdāng kèshǒu chéngshí xìnyòng yǔ gōngxù-liángsú yuánzé, bǐngchí yìsi zìzhì, yīfǎ xiǎngyǒu mínshì quánlì bìng chéngdān xiāngyìng yìwù.)",
+          "reading": "[min˧˥.ʂɨ˥˩ ʈ͡ʂu˨˩.tʰi˨˩˦ t͡saɪ̯˥˩ t͡sʰʊŋ˧˥.ʂɨ˥˩ min˧˥.ʂɨ˥˩ xwo˧˥.tʊŋ˥˩ ʈ͡ʂʊŋ˥ in˥.tɑŋ˥ kʰɤ˥˩.ʂoʊ̯˨˩˦ ʈ͡ʂʰəŋ˧˥.ʂɨ˧˥ ɕin˥˩.jʊŋ˥˩ y˨˩˦ kʊŋ˥.ɕy˥˩-ljaŋ˧˥.su˧˥ yɥɛn˧˥.t͡sɤ˧˥, piŋ˨˩.ʈ͡ʂʰɨ˧˥ i˥˩.sɨ˥˩ t͡sɨ˥˩.ʈ͡ʂɨ˥˩, i˥.fa˨˩˦ ɕjaŋ˨˩.joʊ̯˨˩˦ min˧˥.ʂɨ˥˩ t͡ɕʰyɛn˧˥.li˨˩˦ piŋ˥˩ ʈ͡ʂʰəŋ˧˥.tan˥ ɕjaŋ˥.iŋ˥˩ i˥˩.u˥˩] (Mín-shì zhǔ-tǐ zài cóng-shì mín-shì huó-dòng zhōng yīng-dāng kè-shǒu chéng-shí xìn-yòng yǔ gōng-xù-liáng-sú yuán-zé, bǐng-chí yì-si zì-zhì, yī-fǎ xiǎng-yǒu mín-shì quán-lì bìng chéng-dān xiāng-yìng yì-wù.)",
+          "translation": "Civil subjects engaged in civil activities shall abide by the principles of good faith and public order and good morals, uphold autonomy of will, and enjoy civil rights and assume corresponding obligations according to law."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "物权编创设的「居住权」制度与侵权责任编确立的「高空抛物连带责任追偿」，生动彰显了现代法治以人为本的民生关怀。(Wùquán biān chuàngshè de \"jūzhùquán\" zhìdù yǔ qīnquán zérèn biān quèlì de \"gāokōng pāowù liándài zérèn zhuīcháng\", shēngdòng zhāngxiǎn le xiàndài fǎzhì yǐrénwéiběn de mínshēng guānhuái.)",
+          "reading": "[u˥˩.t͡ɕʰyɛn˧˥ pjɛn˥ t͡ʂʰwaŋ˥˩.ʂɤ˥˩ tɤ \"t͡ɕy˥.ʈ͡ʂu˥˩.t͡ɕʰyɛn˧˥\" ʈ͡ʂɨ˥˩.tu˥˩ y˨˩˦ t͡ɕʰin˥.t͡ɕʰyɛn˧˥ t͡sɤ˧˥.ʐən˥˩ pjɛn˥ t͡ɕʰɥɛ˥.li˥˩ tɤ \"kaʊ̯˥.kʰʊŋ˥ pʰaʊ̯˥.u˥˩ ljan˧˥.taɪ̯˥˩ t͡sɤ˧˥.ʐən˥˩ ʈ͡ʂweɪ̯˥.ʈ͡ʂʰɑŋ˧˥\", ʂəŋ˥.tʊŋ˥˩ ʈ͡ʂɑŋ˥.ɕjan˨˩˦ lɤ ɕjɛn˥˩.taɪ̯˥˩ fǎ.ʈ͡ʂɨ˥˩ i˨˩˦.ʐən˧˥.weɪ̯˧˥.pən˨˩˦ tɤ min˧˥.ʂəŋ˥ kwan˥.xwaɪ̯˧˥] (Wù-quán biān chuàng-shè de \"jū-zhù-quán\" zhì-dù yǔ qīn-quán zé-rèn biān què-lì de \"gāo-kōng pāo-wù lián-dài zé-rèn zhuī-cháng\", shēng-dòng zhāng-xiǎn le xiàn-dài fǎ-zhì yǐ-rén-wéi-běn de mín-shēng guān-huái.)",
+          "translation": "The 'right of habitation' created in the Property Part and the joint liability compensation for objects thrown from heights established in Tort Liability vividly demonstrate the people-centered livelihood care of modern rule of law."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "民法宝典七编全，人格独立隐私安；诚信自愿公序守，居住物权保民权！"
+      ],
+      "culturalNotes": [
+        "民法典将「人格权」独立成编，彰显了对人的尊严的极致尊重，被国际法学界誉为21世纪民法典编纂的里程碑式中国方案。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「宪法法律与司法制度 (Constitutional & Legal System)」（第2讲）的标准汉语规范？",
+          "prompt": "在《中华人民共和国民法典》中，被称为民法基本原则中统领民商事活动的「帝王条款」是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (31.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (31.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (31.2.w3)"
+            "诚信原则 / 诚实信用原则 (Principle of Good Faith)",
+            "利益最大化原则",
+            "谁强谁有理原则",
+            "霸王条款优先原则"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "诚信原则要求民事主体在民事活动中恪守诺言、诚实不欺，是民法公认的「帝王条款」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "《民法典》物权编中新增设的、为满足养老或住房保障需求而设立的用益物权类型是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "居住权 (Right of Habitation)",
+            "随意拆迁权",
+            "霸占房屋权",
+            "无偿转让权"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「居住权」是民法典物权编创设的新型用益物权，有效保障弱势群体「房子住得踏实」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「宪法法律与司法制度 (Constitutional & Legal System)」的正式语境下，最准确得体的表达是哪一项？（第31.2题）",
+          "prompt": "《民法典》将哪一编予以独立编纂，在世界民法典编纂史上开创了强化隐私权与人尊严保护的先河？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (31.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (31.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (31.2.x3)"
+            "人格权编 (Personality Rights Part)",
+            "商业广告编",
+            "企业合并编",
+            "网络游戏编"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "人格权独立成编是中国民法典对世界民事立法体系作出的原创性重大制度贡献。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u31-l2）所要求的高阶语言表达？",
+          "prompt": "在民法典侵权责任中，针对恶意严重侵犯知识产权或故意污染生态环境的行为适用的惩戒性法律责任是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (31.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (31.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (31.2.y3)"
+            "惩罚性赔偿 (Punitive Damages)",
+            "批评教育了事",
+            "口头表扬",
+            "免除所有赔偿"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "惩罚性赔偿（Punitive damages）打破了传统的填平原则，对严重恶意侵权行为予以严厉制裁。"
         }
       ]
     },
@@ -18273,25 +18279,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「宪法法律与司法制度 (Constitutional & Legal System)」的掌握程度，请选出表述完全正确的标准范句（测试 31-2）：",
+          "prompt": "请选出下列关于《民法典》体系特征与法治精神评述最准确、最深刻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (31.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (31.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (31.2.z3)"
+            "《民法典》作为新时代民事权利宣言书与社会生活百科全书，构建起七编融通的私权保障大厦：恪守诚信与公序良俗基本原则；创设物权编「居住权」以解民生之忧；首创「人格权编」独立成编，对隐私权、肖像权与个人信息构筑严密法治防线；确立侵权惩罚性赔偿遏制恶意侵权。民法典通篇贯穿以人民为中心的法治人文关怀！(七编体系、诚信原则、居住权、人格权独立成编、惩罚性赔偿全景精辟解读)",
+            "民法典只管借钱还钱的事，跟老百姓的日常生活和人格尊严没有关系。(严重常识性错误)",
+            "民法典被物权编在居住权人格权侵权责任诚信原则。(词汇乱序堆砌)",
+            "只要签订了合同，即便违反公序良俗和法律底线也是完全有效的。(严重违背民法基本原则)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了《民法典》的编纂创新、核心编目、基本原则与人文精神，法理见解极具深度。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u31-l2）的核心关键词（例如「宪法法律」）：",
+          "prompt": "请输入《民法典》物权编新创设的、为保障特定人群居住生活需求设立的核心三字用益物权名称（拼音为 jūzhùquán）：",
           "acceptedAnswers": [
-            "宪法法律",
-            "宪法法律与司",
-            "宪法法律与司法制度"
+            "居住权"
           ],
-          "explanation": "正确的核心关键词为「宪法法律」。"
+          "explanation": "权利「居住权」是民法典物权编最重要的制度创新之一。"
         }
       ],
       "passThreshold": 0.8
@@ -18302,85 +18306,89 @@
     "subject": "mandarin",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "宪法法律与司法制度 (Constitutional & Legal System) (第3讲)",
+    "title": "刑法理论与刑罚适用：罪刑法定、构成要件、正当防卫与罪责刑相适应 (Criminal Law: Legality, Elements of Crime, Self-Defense & Proportionality)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第3部分)。",
+    "objective": "系统掌握现代刑法三大基本原则（罪刑法定/罪责刑相适应/法律面前人人平等）、犯罪构成阶层论、正当防卫「法不能向不法让步」法理及量刑裁量语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "刑法是规定犯罪、刑事责任和刑罚的法律，是惩罚犯罪与保障人权的利剑与盾牌：\n\n一、刑法三大铁律基本原则：\n1.【罪刑法定原则（法治根基）】：\n-「法律明文规定为犯罪行为的，依照法律定罪处刑；法律没有明文规定为犯罪行为的，不得定罪处刑。」坚决杜绝类推解释与法外定罪。\n2.【法律面前人人平等原则】：任何人犯罪在适用法律上一律平等，不允许任何人有超越法律的特权。\n3.【罪责刑相适应原则】：刑罚的轻重应当与犯罪分子所犯罪行和承担的刑事责任相适应，罚当其罪。\n\n二、犯罪构成体系与排除犯罪事由：\n1.【犯罪构成要素】：主客观相统一（客观不法行为与主观罪过/故意/过失）。\n2.【正当防卫（刑法第二十条）】：\n- 为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在进行的不法侵害，而采取的制止不法侵害的行为，对不法侵害人造成损害的，属于正当防卫，不负刑事责任。\n-「法不能向不法让步」：对正在进行的行凶、杀人、抢劫、强奸、绑架以及其他严重危及人身安全的暴力犯罪采取防卫行为，造成不法侵害人伤亡的，属于特殊防卫，不负刑事责任。\n\n三、刑罚体系与精准裁量：\n- 主刑（管制、拘役、有期徒刑、无期徒刑、死刑）与附加刑（罚金、剥夺政治权利、没收财产）；严格适用自首、立功等法定从宽情节。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '宪法法律与司法制度 (Constitutional & Legal System)' in simple terms to students at the academic seminar."
+          "target": "罪刑法定原则乃现代刑法之基石，坚决恪守「法无明文规定不为罪、法无明文规定不处罚」的人权保障铁律。(Zuì-xíng fǎdìng yuánzé nǎi xiàndài xíngfǎ zhī jīshí, jiānjué kèshǒu \"fǎ wú míngwén guīdìng bù wéi zuì, fǎ wú míngwén guīdìng bù chǔfá\" de rénquán bǎohàng tiělǜ.)",
+          "reading": "[t͡sweɪ̯˥˩-ɕiŋ˧˥ fǎ.tiŋ˥˩ yɥɛn˧˥.t͡sɤ˧˥ naɪ̯˨˩˦ ɕjɛn˥˩.taɪ̯˥˩ ɕiŋ˧˥.fa˨˩˦ ʈ͡ʂɨ˥ t͡ɕi˥.ʂɨ˧˥, t͡ɕjɛn˥.t͡ɕyɛ˧˥ kʰɤ˥˩.ʂoʊ̯˨˩˦ \"fǎ wu˧˥ miŋ˧˥.wən˧˥ kweɪ̯˥.tiŋ˥˩ pu˥ weɪ̯˧˥ t͡sweɪ̯˥˩, fǎ wu˧˥ miŋ˧˥.wən˧˥ kweɪ̯˥.tiŋ˥˩ pu˥ ʈ͡ʂʰu˨˩.fa˨˩˦\" tɤ ʐən˧˥.t͡ɕʰyɛn˧˥ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩ tʰjɛ˨˩.ly˥˩] (Zuì-xíng fǎ-dìng yuán-zé nǎi xiàn-dài xíng-fǎ zhī jī-shí, jiān-jué kè-shǒu \"fǎ wú míng-wén guī-dìng bù wéi zuì, fǎ wú míng-wén guī-dìng bù chǔ-fá\" de rén-quán bǎo-zhàng tiě-lǜ.)",
+          "translation": "The principle of legality is the bedrock of modern criminal law, resolutely abiding by the iron law of human rights protection: 'no crime and no punishment without a prior legal provision'."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "司法机关重申「法不能向不法让步」的法治正义，依法严格界定正当防卫与防卫过当的法律边界，坚决为见义勇为者撑腰。(Sīfǎ jīgān chóngshēn \"fǎ bùnéng xiàng bùfǎ ràngbù\" de fǎzhì zhèngyì, yīfǎ yángé jièdìng zhèngdàng fángwèi yǔ fángwèi guòdàng de fǎlǜ biānjiè, jiānjué wèi jiànyì-yǒngwéi zhě chēngyāo.)",
+          "reading": "[sɨ˥.fa˨˩˦ t͡ɕi˥.kwan˥ ʈ͡ʂʰʊŋ˧˥.ʂən˥ \"fǎ pu˥.nəŋ˧˥ ɕjaŋ˥˩ pu˥.fǎ ʐɑŋ˥˩.pu˥˩\" tɤ fǎ.ʈ͡ʂɨ˥˩ ʈ͡ʂəŋ˥˩.i˥˩, i˥.fa˨˩˦ jan˧˥.kɤ˧˥ t͡ɕjɛ˥˩.tiŋ˥˩ ʈ͡ʂəŋ˥˩.tɑŋ˥˩ fɑŋ˧˥.weɪ̯˥˩ y˨˩˦ fɑŋ˧˥.weɪ̯˥˩ kwo˥˩.tɑŋ˥˩ tɤ fǎ.ly˥˩ pjɛn˥.t͡ɕjɛ˥˩, t͡ɕjɛn˥.t͡ɕyɛ˧˥ weɪ̯˥˩ t͡ɕjɛn˥˩.i˥˩-jʊŋ˨˩.weɪ̯˧˥ ʈ͡ʂɤ˨˩˦ ʈ͡ʂʰəŋ˥.jaʊ̯˥] (Sī-fǎ jī-guān chóng-shēn \"fǎ bù-néng xiàng bù-fǎ ràng-bù\" de fǎ-zhì zhèng-yì, yī-fǎ yán-gé jiè-dìng zhèng-dàng fáng-wèi yǔ fáng-wèi guò-dàng de fǎ-lǜ biān-jiè, jiān-jué wèi jiàn-yì-yǒng-wéi zhě chēng-yāo.)",
+          "translation": "Judicial organs reiterated the rule-of-law justice that 'the law shall not yield to the unlawful', strictly defining the legal boundaries between justified defense and excessive defense according to law, resolutely backing those who act bravely for a just cause."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "裁判量刑必须坚持罪责刑相适应原则，根据犯罪事实、性质、情节及对社会的危害程度精准适用刑罚。(Cáipàn liàngxíng bìxū jiānchí zuì-zé-xíng xiāng shìyìng yuánzé, gēnjù fànzuì shìshí, xìngzhì, qíngjié jí duì shèhuì de wēihài chéngdù jīngzhǔn shìyòng xíngfá.)",
+          "reading": "[t͡sʰaɪ̯˧˥.pʰan˥˩ ljaŋ˥˩.ɕiŋ˧˥ pi˥˩.ɕy˥ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ t͡sweɪ̯˥˩-t͡sɤ˧˥-ɕiŋ˧˥ ɕjaŋ˥ ʂɨ˥˩.iŋ˥˩ yɥɛn˧˥.t͡sɤ˧˥, kən˥.t͡ɕy˥˩ fan˥˩.t͡sweɪ̯˥˩ ʂɨ˥˩.ʂɨ˧˥, ɕiŋ˥˩.ʈ͡ʂɨ˥˩, t͡ɕʰiŋ˧˥.t͡ɕjɛ˧˥ t͡ɕi˧˥ tweɪ̯˥˩ ʂɤ˥˩.xweɪ̯˥˩ tɤ weɪ̯˥.xaɪ̯˥˩ ʈ͡ʂʰəŋ˧˥.tu˥˩ t͡ɕiŋ˥.ʈ͡ʂwn˨˩˦ ʂɨ˥˩.jʊŋ˥˩ ɕiŋ˧˥.fa˨˩˦] (Cái-pàn liàng-xíng bì-xū jiān-chí zuì-zé-xíng xiāng shì-yìng yuán-zé, gēn-jù fàn-zuì shì-shí, xìng-zhì, qíng-jié jí duì shè-huì de wēi-hài chéng-dù jīng-zhǔn shì-yòng xíng-fá.)",
+          "translation": "Sentencing adjudication must adhere to the principle of proportionality between crime, responsibility, and punishment, precisely applying penalties according to the facts, nature, circumstances, and degree of social harm of the crime."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "认定犯罪必须严格查明主客观相一致的构成要件，坚决排除非法证据，严防客观归罪与刑讯逼供。(Rèndìng fànzuì bìxū yángé chámíng zhǔ-kèguān xiāng yīzhì de gòuchéng yàojiàn, jiānjué páichú fēifǎ zhèngjù, yánfáng kèguān guīzuì yǔ xíngxùn bīgōng.)",
+          "reading": "[ʐən˥˩.tiŋ˥˩ fan˥˩.t͡sweɪ̯˥˩ pi˥˩.ɕy˥ jan˧˥.kɤ˧˥ ʈ͡ʂʰa˧˥.miŋ˧˥ ʈ͡ʂu˨˩.kʰɤ˥˩.kwan˥ ɕjaŋ˥ i˥.ʈ͡ʂɨ˥˩ tɤ koʊ̯˥˩.ʈ͡ʂʰəŋ˧˥ jaʊ̯˥˩.t͡ɕjɛn˥˩, t͡ɕjɛn˥.t͡ɕyɛ˧˥ pʰaɪ̯˧˥.t͡ʂʰu˥ feɪ̯˥.fa˨˩˦ ʈ͡ʂəŋ˥˩.t͡ɕy˥˩, jan˧˥.fɑŋ˧˥ kʰɤ˥˩.kwan˥ kweɪ̯˥.t͡sweɪ̯˥˩ y˨˩˦ ɕiŋ˧˥.ɕyn˥˩ pi˥.kʊŋ˥] (Rèn-dìng fàn-zuì bì-xū yán-gé chá-míng zhǔ-kè-guān xiāng yī-zhì de gòu-chéng yào-jiàn, jiān-jué pái-chú fēi-fǎ zhèng-jù, yán-fáng kè-guān guī-zuì yǔ xíng-xùn bī-gōng.)",
+          "translation": "Establishing a crime must strictly ascertain the constituent elements with unity of subjective and objective aspects, resolutely exclude illegal evidence, and strictly prevent strict liability and extortion of confessions under torture."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "罪刑法定明文定，罪责相应量刑公；法不让步防卫正，排除非法正义浓！"
+      ],
+      "culturalNotes": [
+        "刑法第二十条关于正当防卫的司法激活，彻底扭转了过去「谁死伤谁有理」的陈旧和稀泥司法惯性，成为中国法治进步与公平正义的标志性事件。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「宪法法律与司法制度 (Constitutional & Legal System)」（第3讲）的标准汉语规范？",
+          "prompt": "现代刑法学中，要求「法律没有明文规定为犯罪的，不得定罪处刑」的核心基本原则是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (31.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (31.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (31.3.w3)"
+            "罪刑法定原则 (Principle of Legality / Nullum crimen sine lege)",
+            "法官自由心证原则",
+            "依情代理原则",
+            "长官意志原则"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "罪刑法定原则是现代法治文明惩治犯罪与防范国家刑罚权滥用的最核心原则。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在司法实践中，彰显正义底线、明确公民面对正在进行的严重暴力不法侵害时享有特殊防卫权的法治箴言是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "法不能向不法让步 (The law shall not yield to the unlawful)",
+            "谁闹谁有理",
+            "各打五十大板",
+            "多一事不如少一事"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「法不能向不法让步」是最高司法机关激活正当防卫制度的核心价值灵魂。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「宪法法律与司法制度 (Constitutional & Legal System)」的正式语境下，最准确得体的表达是哪一项？（第31.3题）",
+          "prompt": "刑法中要求刑罚裁量的轻重必须与犯罪分子所犯罪行大小及刑事责任相匹配的原则是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (31.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (31.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (31.3.x3)"
+            "罪责刑相适应原则 (Principle of Proportionality in Sentencing)",
+            "轻罪重判原则",
+            "重罪轻判原则",
+            "随心所欲原则"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "罪责刑相适应原则确保刑罚公正裁量，做到罚当其罪、罪刑均衡。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u31-l3）所要求的高阶语言表达？",
+          "prompt": "在刑事犯罪事实认定中，严防仅凭客观后果即盲目定罪、坚决贯彻主客观相统一的刑法底线是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (31.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (31.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (31.3.y3)"
+            "反对客观归罪 (Oppose Strict Liability / Objective Attribution without Mens Rea)",
+            "只看结果不问主观",
+            "随意推定动机",
+            "一概从重处罚"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "反对客观归罪要求必须同时具备主观罪过（故意或过失）与客观危害行为方能定罪。"
         }
       ]
     },
@@ -18388,25 +18396,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「宪法法律与司法制度 (Constitutional & Legal System)」的掌握程度，请选出表述完全正确的标准范句（测试 31-3）：",
+          "prompt": "请选出下列关于现代刑法基本法理与正当防卫述评最深刻、最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (31.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (31.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (31.3.z3)"
+            "现代刑法恪守人权保障与惩罚犯罪的双重使命：以罪刑法定原则筑牢「法无明文规定不为罪」的法治底线；以罪责刑相适应原则实现刑罚裁量的实体公正；在正当防卫认定中坚决贯彻「法不能向不法让步」的正义精神，划清防卫过当边界，坚决为见义勇为者撑腰；严格坚持主客观相统一，排除非法证据，严密防范客观归罪！(罪刑法定、罪责刑相适应、法不能向不法让步正当防卫、主客观相统一，刑法精义剖析登峰造极)",
+            "只要有人受伤，防卫的人就必须承担刑事责任，这叫公平。(严重歪曲刑法防卫制度的错误论调)",
+            "罪刑法定被正当防卫在罪责刑相适应法不能向不法让步。(词语机械拼凑)",
+            "只要法官觉得一个人该判死刑，即便没有法律明文规定也可以判。(公然违背罪刑法定原则的极端错误言论)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将罪刑法定原则、罪责刑相适应、正当防卫理念与证据排除融通一体，评析极其专业透彻。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u31-l3）的核心关键词（例如「宪法法律」）：",
+          "prompt": "请输入刑法中规定犯罪与刑罚必须由法律预先明文规定的最核心四字原则（例如「原则」；拼音为 zuì-xíng fǎdìng）：",
           "acceptedAnswers": [
-            "宪法法律",
-            "宪法法律与司",
-            "宪法法律与司法制度"
+            "罪刑法定",
+            "罪刑法定原则"
           ],
-          "explanation": "正确的核心关键词为「宪法法律」。"
+          "explanation": "原则「罪刑法定」是现代刑法的立足之基与人权保障铁律。"
         }
       ],
       "passThreshold": 0.8
@@ -18417,85 +18424,89 @@
     "subject": "mandarin",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "宪法法律与司法制度 (Constitutional & Legal System) (第4讲)",
+    "title": "司法审判制度、证据法学与程序正义 (Judicial System, Law of Evidence & Procedural Justice)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第4部分)。",
+    "objective": "系统掌握两审终审制与审判监督程序、证据裁判原则与证明标准（排除合理怀疑）、非法证据排除规则、看得见的正义与司法体制改革法理语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "司法是维护社会公平正义的最后一道防线，现代司法审判依托严密的诉讼程序与证据法学体系：\n\n一、审判组织与审级制度体系：\n1.【四级法院与两审终审制】：\n- 基层法院、中级法院、高级法院、最高人民法院。\n- 当事人不服一审裁判可在法定期限内提起上诉；二审判决即为生效判决；对已生效判决存在重大法定事由可申请「审判监督程序（再审）」。\n2.【合议制与人民陪审员制度】：依法组成合议庭审理重大案件，引入人民陪审员促进司法民主。\n\n二、证据法学与证明标准（事实认定的基石）：\n1.【证据裁判原则】：认定案件事实必须以经过法庭质证的合法有效证据为依据，禁止法官主观臆断。\n2.【刑事证明标准】：「证据确实、充分，排除合理怀疑（Beyond Reasonable Doubt）」。\n3.【非法证据排除规则（Exclusionary Rule）】：凡采取刑讯逼供等非法方法收集的犯罪嫌疑人供述、证人证言，应当依法予以排除，不得作为定案依据。\n\n三、程序正义与「看得见的正义」：\n-「正义不仅要实现，而且要以看得见的方式实现。」坚持审判公开（公开审判、裁判文书公开、审判流程公开）、保障律师辩护权与当事人诉讼权利，让公平正义经得起历史检验！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '宪法法律与司法制度 (Constitutional & Legal System)' in simple terms to students at the academic seminar."
+          "target": "证据裁判原则要求认定案件事实必须以合法有效的证据为依据，刑事定罪必须达到「证据确实充分、排除合理怀疑」的法定证明标准。(Zhèngjù cáipàn yuánzé yāoqiú rèndìng ànjiàn shìshí bìxū yǐ héfǎ yǒuxiào de zhèngjù wéi yījù, xíngshì dìngzuì bìxū dádào \"zhèngjù quèshí chōngfèn, páichú hélǐ huáiyí\" de fǎdìng zhèngmíng biāozhǔn.)",
+          "reading": "[ʈ͡ʂəŋ˥˩.t͡ɕy˥˩ t͡sʰaɪ̯˧˥.pʰan˥˩ yɥɛn˧˥.t͡sɤ˧˥ jaʊ̯˥.t͡ɕʰjoʊ̯˥ ʐən˥˩.tiŋ˥˩ an˥˩.t͡ɕjɛn˥˩ ʂɨ˥˩.ʂɨ˧˥ pi˥˩.ɕy˥ i˨˩˦ xɤ˧˥.fa˨˩˦ joʊ̯˨˩˦.ɕjaʊ̯˥˩ tɤ ʈ͡ʂəŋ˥˩.t͡ɕy˥˩ weɪ̯˧˥ i˥.t͡ɕy˥˩, ɕiŋ˧˥.ʂɨ˥˩ tiŋ˥˩.t͡sweɪ̯˥˩ pi˥˩.ɕy˥ ta˧˥.taʊ̯˥˩ \"ʈ͡ʂəŋ˥˩.t͡ɕy˥˩ t͡ɕʰɥɛ˥˩.ʂɨ˧˥ ʈ͡ʂʰʊŋ˥.fən˥˩, pʰaɪ̯˧˥.t͡ʂʰu˥ xɤ˧˥.li˨˩˦ xwaɪ̯˧˥.i˧˥\" tɤ fǎ.tiŋ˥˩ ʈ͡ʂəŋ˥˩.miŋ˧˥ pjaʊ̯˥.ʈ͡ʂwn˨˩˦] (Zhèng-jù cái-pàn yuán-zé yāo-qiú rèn-dìng àn-jiàn shì-shí bì-xū yǐ hé-fǎ yǒu-xiào de zhèng-jù wéi yī-jù, xíng-shì dìng-zuì bì-xū dá-dào \"zhèng-jù què-shí chōng-fèn, pái-chú hé-lǐ huái-yí\" de fǎ-dìng zhèng-míng biāo-zhǔn.)",
+          "translation": "The principle of adjudication by evidence requires that establishing case facts must be based on lawful and valid evidence, and criminal conviction must reach the statutory proof standard of 'the evidence is reliable and sufficient, excluding reasonable doubt'."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "严格落实非法证据排除规则，坚决防范冤假错案，是捍卫司法公正与程序正义的底线防线。(Yángé luòshí fēifǎ zhèngjù páichú guīzé, jiānjué fángfàn yuān-jiǎ-cuò'àn, shì hànwèi sīfǎ gōngzhèng yǔ chéngxù zhèngyì de dǐxiàn fángxiàn.)",
+          "reading": "[jan˧˥.kɤ˧˥ lwɔ˥˩.ʂɨ˧˥ feɪ̯˥.fa˨˩˦ ʈ͡ʂəŋ˥˩.t͡ɕy˥˩ pʰaɪ̯˧˥.t͡ʂʰu˥ kweɪ̯˥.t͡sɤ˧˥, t͡ɕjɛn˥.t͡ɕyɛ˧˥ fɑŋ˧˥.fan˥˩ yɥɛn˥-t͡ɕja˨˩˦-t͡sʰwɔ˥˩.an˥˩, ʂɨ˥˩ xan˥˩.weɪ̯˥˩ sɨ˥.fa˨˩˦ kʊŋ˥.ʈ͡ʂəŋ˥˩ y˨˩˦ ʈ͡ʂʰəŋ˧˥.ɕy˥˩ ʈ͡ʂəŋ˥˩.i˥˩ tɤ ti˨˩.ɕjɛn˥˩ fɑŋ˧˥.ɕjɛn˥˩] (Yán-gé luò-shí fēi-fǎ zhèng-jù pái-chú guī-zé, jiān-jué fáng-fàn yuān-jiǎ-cuò-'àn, shì hàn-wèi sī-fǎ gōng-zhèng yǔ chéng-xù zhèng-yì de dǐ-xiàn fáng-xiàn.)",
+          "translation": "Strictly implementing the exclusionary rule for illegal evidence and resolutely preventing miscarriages of justice is the bottom-line defense for safeguarding judicial impartiality and procedural justice."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "健全行政诉讼与公益诉讼审判机制，有利于强化对行政公权力的依法监督，切实维护国家利益与社会公共利益。(Jiànquán xíngzhèng sùsòng yǔ gōngyì sùsòng shěnpàn jīzhì, yǒulì yú qiánghuà duì xíngzhèng gōngquánlì de yīfǎ jiāndū, qièshí wéihù guójiā lìyì yǔ shèhuì gōnggòng lìyì.)",
+          "reading": "[t͡ɕjɛn˥˩.t͡ɕʰyɛn˧˥ ɕiŋ˧˥.ʈ͡ʂəŋ˥˩ su˥˩.sʊŋ˥˩ y˨˩˦ kʊŋ˥.i˥˩ su˥˩.sʊŋ˥˩ ʂən˨˩.pʰan˥˩ t͡ɕi˥.ʈ͡ʂɨ˥, joʊ̯˨˩˦.li˥˩ y˨˩˦ t͡ɕʰjaŋ˧˥.xwa˥˩ tweɪ̯˥˩ ɕiŋ˧˥.ʈ͡ʂəŋ˥˩ kʊŋ˥.t͡ɕʰyɛn˧˥.li˨˩˦ tɤ i˥.fa˨˩˦ t͡ɕjɛn˥.tu˥, t͡ɕʰjɛ˥˩.ʂɨ˧˥ weɪ̯˧˥.xu˥˩ kwo˧˥.t͡ɕja˥ li˥˩.i˥˩ y˨˩˦ ʂɤ˥˩.xweɪ̯˥˩ kʊŋ˥.kʊŋ˥˩ li˥˩.i˥˩] (Jiàn-quán xíng-zhèng sù-sòng yǔ gōng-yì sù-sòng shěn-pàn jī-zhì, yǒu-lì yú qiáng-huà duì xíng-zhèng gōng-quán-lì de yī-fǎ jiān-dū, qiè-shí wéi-hù guó-jiā lì-yì yǔ shè-huì gōng-gòng lì-yì.)",
+          "translation": "Perfecting administrative litigation and public interest litigation trial mechanisms is conducive to strengthening lawful supervision over administrative public power and practically safeguarding national interests and social public interests."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "现代法治牢固确立「正义不仅要实现，而且要以看得见的方式实现」的崇高司法理念，让人民群众在每一个司法案件中都感受到公平正义。(Xiàndài fǎzhì láogù quèlì \"zhèngyì bùjǐn yào shíxiàn, érqiě yào yǐ kàndéjiàn de fāngshì shíxiàn\" de chónggāo sīfǎ lǐniàn, ràng rénmín qúnzhòng zài měi yī gè sīfǎ ànjiàn zhōng dōu gǎnshòudào gōngpíng zhèngyì.)",
+          "reading": "[ɕjɛn˥˩.taɪ̯˥˩ fǎ.ʈ͡ʂɨ˥˩ laʊ̯˧˥.ku˥˩ t͡ɕʰɥɛ˥.li˥˩ \"ʈ͡ʂəŋ˥˩.i˥˩ pu˥.t͡ɕin˨˩˦ jaʊ̯˥˩ ʂɨ˧˥.ɕjɛn˥˩, ɑr˧˥.t͡ɕʰjɛ˨˩˦ jaʊ̯˥˩ i˨˩˦ kʰan˥˩.tɤ.t͡ɕjɛn˥˩ tɤ fɑŋ˥.ʂɨ˥˩ ʂɨ˧˥.ɕjɛn˥˩\" tɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ sɨ˥.fa˨˩˦ li˨˩.njɛn˥˩, ʐɑŋ˥˩ ʐən˧˥.min˧˥ t͡ɕʰyn˧˥.ʈ͡ʂʊŋ˥˩ t͡saɪ̯˥˩ meɪ̯˨˩˦ i˥ kɤ˥˩ sɨ˥.fa˨˩˦ an˥˩.t͡ɕjɛn˥˩ ʈ͡ʂʊŋ˥ toʊ̯˥ kan˨˩˦.ʂoʊ̯˥˩.taʊ̯˥˩ kʊŋ˥.pʰiŋ˧˥ ʈ͡ʂəŋ˥˩.i˥˩] (Xiàn-dài fǎ-zhì láo-gù què-lì \"zhèng-yì bù-jǐn yào shí-xiàn, ér-qiě yào yǐ kàn-dé-jiàn de fāng-shì shí-xiàn\" de chóng-gāo sī-fǎ lǐ-niàn, ràng rén-mín qún-zhòng zài měi yī gè sī-fǎ àn-jiàn zhōng dōu gǎn-shòu-dào gōng-píng zhèng-yì.)",
+          "translation": "Modern rule of law firmly established the sublime judicial concept that 'justice must not only be done, but must also be seen to be done', allowing the people to perceive fairness and justice in every judicial case."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "证据裁判排除疑，非法排除冤案离；程序正义看得见，公平司法天地齐！"
+      ],
+      "culturalNotes": [
+        "「努力让人民群众在每一个司法案件中感受到公平正义」，是中国司法体制改革的核心目标，推动审判公开、保障当事人诉权、实现实体正义与程序正义并重。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「宪法法律与司法制度 (Constitutional & Legal System)」（第4讲）的标准汉语规范？",
+          "prompt": "在刑事诉讼中，对被告人定罪必须达到的法定最高证明标准是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (31.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (31.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (31.4.w3)"
+            "证据确实、充分，排除合理怀疑 (Beyond reasonable doubt)",
+            "大概差不多可能是有罪",
+            "根据法官直觉判断",
+            "只要原告起诉就算有罪"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「证据确实、充分，排除合理怀疑」是刑事诉讼定罪的法定最高证明标准，确保无辜者不受刑事追究。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在法庭审判中，对采用刑讯逼供等违法手段获取的口供依法予以排除、不得作为定案依据的制度是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "非法证据排除规则 (Exclusionary Rule of Illegal Evidence)",
+            "照单全收制度",
+            "秘密审判制度",
+            "刑讯逼供合法化"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "非法证据排除规则是防范冤假错案、维护被追诉人基本人权与程序正义的底线铁律。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「宪法法律与司法制度 (Constitutional & Legal System)」的正式语境下，最准确得体的表达是哪一项？（第31.4题）",
+          "prompt": "西方法谚与现代诉讼法学中强调审判程序公开透明、保障当事人看得见感受得到正义的崇高格言是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (31.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (31.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (31.4.x3)"
+            "正义不仅要实现，而且要以看得见的方式实现 (Justice must not only be done, but must be seen to be done)",
+            "程序只是形式不重要",
+            "秘密审判效率最高",
+            "胜者为王败者为寇"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「正义不仅要实现，而且要以看得见的方式实现」强调了程序正义对实体正义的不可替代性。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u31-l4）所要求的高阶语言表达？",
+          "prompt": "对于已经发生法律效力的裁判，若发现确有错误或有足以推翻原判的新证据时，启动纠错重审的救济程序是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (31.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (31.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (31.4.y3)"
+            "审判监督程序 / 再审程序 (Trial Supervision / Retrial Procedure)",
+            "一审程序",
+            "普通二审上诉",
+            "撤回起诉"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "审判监督程序（再审）是针对生效裁判设立的法定纠错纠冤司法救济机制。"
         }
       ]
     },
@@ -18503,25 +18514,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「宪法法律与司法制度 (Constitutional & Legal System)」的掌握程度，请选出表述完全正确的标准范句（测试 31-4）：",
+          "prompt": "请选出下列关于现代司法审判制度、证据法学与程序正义论述最完整、最透彻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (31.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (31.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (31.4.z3)"
+            "司法公正依托严密的证据法则与正当程序：证据裁判原则确立了以事实为依据、以法律为准绳的定案准则；刑事审判定罪坚决恪守「排除合理怀疑」的法定证明标准；严格落实非法证据排除规则，从源头上斩断刑讯逼供与冤假错案；坚持审判公开与程序正义，让公平正义以看得见的方式得以实现，筑牢法治社会最后一道坚固防线！(证据裁判、排除合理怀疑、非法证据排除、程序正义全景精准论述)",
+            "法官审案只要凭个人主观好恶判决就行，不需要任何证据和法庭质证。(完全违背法治基本常识)",
+            "排除合理怀疑被证据裁判在非法证据排除程序正义审判公开。(词句无序堆砌乱码)",
+            "程序正义就是繁文缛节，为了快速破案完全可以采取任何刑讯手段。(严重违反宪法与诉讼法的人权保障原则)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将证据裁判、排除合理怀疑证明标准、非法证据排除规则与程序正义理念融汇贯通，法理深邃，立论严谨。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u31-l4）的核心关键词（例如「宪法法律」）：",
+          "prompt": "请输入刑事诉讼中要求排除一切不合常理疑点、达到定罪最高证明标准的六字法定术语（例如「、证据确实充分」；拼音为 páichú hélǐ huáiyí）：",
           "acceptedAnswers": [
-            "宪法法律",
-            "宪法法律与司",
-            "宪法法律与司法制度"
+            "排除合理怀疑"
           ],
-          "explanation": "正确的核心关键词为「宪法法律」。"
+          "explanation": "术语「排除合理怀疑」是现代刑事司法定罪的最高证明标准。"
         }
       ],
       "passThreshold": 0.8
@@ -18532,85 +18541,89 @@
     "subject": "mandarin",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "宪法法律与司法制度 (Constitutional & Legal System) (第5讲)",
+    "title": "良法善治、法治中国建设与人类法治文明综合叙事篇章 (Comprehensive Rule of Law: Good Laws, Good Governance & China's Legal Civilization)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：宪法原则、民商法典编纂、诉讼裁判法理及法治现代化专业术语。 (第5部分)。",
+    "objective": "全面融通宪法至上（依宪治国/合宪审查）、民法典私权保护（人格权/物权/诚信公序）、刑法正义（罪刑法定/罪责刑相适应/法不能向不法让步）、诉讼证据法学与程序正义（排除合理怀疑/司法公开/看得见的正义），撰写气势磅礴、法理精严、展现「良法善治」宏伟蓝图的法治中国综合论述篇章。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是宪法法律、司法制度与现代法治文明的巅峰综合篇章，展现了当代中国法治建设与制度现代化的宏伟画卷：\n\n一、现代法治中国建设四大核心支柱精粹：\n1. 宪法统摄（公法之基）：宪法是根本大法，坚持依宪治国、依宪执政，完善合宪性审查，庄严落实「国家尊重和保障人权」与宪法宣誓制度。\n2. 民法奠基（私权大厦）：以《民法典》七编为核心，恪守诚信与公序良俗，首创「人格权编」守护人的尊严与隐私，以物权合同构建现代市场经济私权保障体系。\n3. 刑法制衡（正义底线）：恪守「罪刑法定」与「罪责刑相适应」，激活刑法正当防卫制度，践行「法不能向不法让步」，反对客观归罪与主观臆断。\n4. 司法守护（程序正义）：坚持证据裁判原则与「排除合理怀疑」证明标准，严格落实非法证据排除规则，让正义以「看得见的方式」实现，让人民群众在每一个司法案件中感受到公平正义。\n\n二、全景式良法善治与法治中国综合范文赏析：\n- 国无常强，无常弱；奉法者强则国强，奉法者弱则国弱。法治兴则国兴，法治强则国强。法治是人类文明进步的重要标志，是治国理政的基本方式。回望当代法治中国建设的伟大实践：我们以宪法为根本大法，坚持依宪治国与依宪执政，以严密的合宪性审查维护国家法制统一，让「尊重和保障人权」的庄严承诺化为生动的法治现实；以《民法典》编纂开启私权保护新纪元，人格权独立成编捍卫生命尊严与隐私安宁，物权合同与诚信原则筑牢市场经济秩序；以严正刑法守护社会正义底线，恪守罪刑法定铁律，让「法不能向不法让步」成为全社会的法治正气；以精密的诉讼证据制度捍卫程序正义，坚持证据裁判与排除合理怀疑，严惩非法证据以防冤错，让公平正义以看得见的方式昭彰天下！统筹推进科学立法、严格执法、公正司法、全民守法，中华法治文明必将以其兼收并蓄的博大胸襟与良法善治的卓越实践，为人类法治文明发展贡献历久弥新的东方智慧！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '宪法法律与司法制度 (Constitutional & Legal System)' in simple terms to students at the academic seminar."
+          "target": "国无常强，无常弱；奉法者强则国强，奉法者弱则国弱。全面推进依法治国是国家治理领域一场广泛而深刻的伟大革命。(Guó wú cháng qiáng, wú cháng ruò; fèngfǎ zhě qiáng zé guó qiáng, fèngfǎ zhě ruò zé guó ruò. Quánmiàn tuījìn yīfǎ zhìguó shì guójiā zhìlǐ lǐngyù yī chǎng guǎnfàn ér shēnkè de wěidà gémìng.)",
+          "reading": "[kwo˧˥ wu˧˥ ʈ͡ʂʰɑŋ˧˥ t͡ɕʰjaŋ˧˥, wu˧˥ ʈ͡ʂʰɑŋ˧˥ ʐwɔ˥˩; fəŋ˥˩.fa˨˩˦ ʈ͡ʂɤ˨˩˦ t͡ɕʰjaŋ˧˥ t͡sɤ˧˥ kwo˧˥ t͡ɕʰjaŋ˧˥, fəŋ˥˩.fa˨˩˦ ʈ͡ʂɤ˨˩˦ ʐwɔ˥˩ t͡sɤ˧˥ kwo˧˥ ʐwɔ˥˩. t͡ɕʰyɛn˧˥.mjɛn˥˩ tʰweɪ̯˥.t͡ɕin˥˩ i˥.fa˨˩˦ ʈ͡ʂɨ˥˩.kwo˧˥ ʂɨ˥˩ kwo˧˥.t͡ɕja˥ ʈ͡ʂɨ˥˩.li˨˩˦ liŋ˨˩.y˥˩ i˥ ʈ͡ʂʰɑŋ˨˩˦ kwan˨˩.fan˥˩ ɑr˧˥ ʂən˥.kʰɤ˥ tɤ weɪ̯˨˩.ta˥˩ kɤ˧˥.miŋ˥˩] (Guó wú cháng qiáng, wú cháng ruò; fèng-fǎ zhě qiáng zé guó qiáng, fèng-fǎ zhě ruò zé guó ruò. Quán-miàn tuī-jìn yī-fǎ zhì-guó shì guó-jiā zhì-lǐ lǐng-yù yī chǎng guǎng-fàn ér shēn-kè de wěi-dà gé-mìng.)",
+          "translation": "No country is permanently strong, nor permanently weak; if those who uphold the law are strong, the country will be strong; if they are weak, the country will be weak. Comprehensively advancing the rule of law is a broad and profound great revolution in national governance."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "坚持依宪治国与依宪执政，以《民法典》筑牢私权保护堡垒，以严正刑法坚守「法不能向不法让步」的正义底线，奠定了法治大厦的坚实基石。(Jiānchí yīxiàn zhìguó yǔ yīxiàn zhízhèng, yǐ 《Mínfǎdiǎn》 zhùláo sīquán bǎohù bǎolěi, yǐ yánzhèng xíngfǎ jiānshǒu \"fǎ bùnéng xiàng bùfǎ ràngbù\" de zhèngyì dǐxiàn, diàndìng le fǎzhì dàshà de jiānshí jīshí.)",
+          "reading": "[t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ i˥.ɕjɛn˥˩ ʈ͡ʂɨ˥˩.kwo˧˥ y˨˩˦ i˥.ɕjɛn˥˩ ʈ͡ʂɨ˥˩.ʈ͡ʂəŋ˥˩, i˨˩˦ 《min˧˥.fa˨˩˦.tjan˨˩˦》 ʈ͡ʂu˥˩.laʊ̯˧˥ sɨ˥.t͡ɕʰyɛn˧˥ paʊ̯˨˩.xu˥˩ paʊ̯˨˩.leɪ̯˨˩˦, i˨˩˦ jan˧˥.ʈ͡ʂəŋ˥˩ ɕiŋ˧˥.fa˨˩˦ t͡ɕjɛn˥.ʂoʊ̯˨˩˦ \"fǎ pu˥.nəŋ˧˥ ɕjaŋ˥˩ pu˥.fǎ ʐɑŋ˥˩.pu˥˩\" tɤ ʈ͡ʂəŋ˥˩.i˥˩ ti˨˩.ɕjɛn˥˩, tjɛn˥˩.tiŋ˥˩ lɤ fǎ.ʈ͡ʂɨ˥˩ ta˥˩.ʂa˥˩ tɤ t͡ɕjɛn˥.ʂɨ˧˥ t͡ɕi˥.ʂɨ˧˥] (Jiān-chí yī-xiàn zhì-guó yǔ yī-xiàn zhí-zhèng, yǐ 《Mín-fǎ-diǎn》 zhù-láo sī-quán bǎo-hù bǎo-lěi, yǐ yán-zhèng xíng-fǎ jiān-shǒu \"fǎ bù-néng xiàng bù-fǎ ràng-bù\" de zhèng-yì dǐ-xiàn, diàn-dìng le fǎ-zhì dà-shà de jiān-shí jī-shí.)",
+          "translation": "Adhering to governing the country and exercising state power in accordance with the Constitution, fortifying the fortress of private rights protection with the Civil Code, and upholding the justice baseline that 'the law shall not yield to the unlawful' with rigorous criminal law laid the solid foundation for the rule-of-law edifice."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "秉持证据裁判与程序正义准则，让公平正义以看得见、摸得着的方式充分彰显，切实保障公民合法权益不受非法侵害。(Bǐngchí zhèngjù cáipàn yǔ chéngxù zhèngyì zhǔnzé, ràng gōngpíng zhèngyì yǐ kàndéjiàn, mōdézháo de fāngshì chōngfèn zhāngxiǎn, qièshí bǎozhàng gōngmín héfǎ quányì bù shòu fēifǎ qīnhài.)",
+          "reading": "[piŋ˨˩.ʈ͡ʂʰɨ˧˥ ʈ͡ʂəŋ˥˩.t͡ɕy˥˩ t͡sʰaɪ̯˧˥.pʰan˥˩ y˨˩˦ ʈ͡ʂʰəŋ˧˥.ɕy˥˩ ʈ͡ʂəŋ˥˩.i˥˩ ʈ͡ʂwn˨˩.t͡sɤ˧˥, ʐɑŋ˥˩ kʊŋ˥.pʰiŋ˧˥ ʈ͡ʂəŋ˥˩.i˥˩ i˨˩˦ kʰan˥˩.tɤ.t͡ɕjɛn˥˩, mwo˥.tɤ.ʈ͡ʂaʊ̯˧˥ tɤ fɑŋ˥.ʂɨ˥˩ ʈ͡ʂʰʊŋ˥.fən˥˩ ʈ͡ʂɑŋ˥.ɕjan˨˩˦, t͡ɕʰjɛ˥˩.ʂɨ˧˥ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩ kʊŋ˥.min˧˥ xɤ˧˥.fa˨˩˦ t͡ɕʰyɛn˧˥.i˥˩ pu˥ ʂoʊ̯˥˩ feɪ̯˥.fa˨˩˦ t͡ɕʰin˥.xaɪ̯˥˩] (Bǐng-chí zhèng-jù cái-pàn yǔ chéng-xù zhèng-yì zhǔn-zé, ràng gōng-píng zhèng-yì yǐ kàn-dé-jiàn, mō-dé-zháo de fāng-shì chōng-fèn zhāng-xiǎn, qiè-shí bǎo-zhàng gōng-mín hé-fǎ quán-yì bù shòu fēi-fǎ qīn-hài.)",
+          "translation": "Upholding the principles of adjudication by evidence and procedural justice allows fairness and justice to be fully manifested in visible and tangible ways, practically safeguarding citizens' lawful rights and interests from unlawful infringement."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "统筹推进科学立法、严格执法、公正司法、全民守法，中华民族必将在良法善治的康庄大道上铸就法治文明新辉煌！(Tǒngchóu tuījìn kēxué lìfǎ, yángé zhífǎ, gōngzhèng sīfǎ, quánmín shǒufǎ, Zhōnghuá mínzú bìjiāng zài liángfǎ-shànzhì de kāngzhuāng dàdào shang zhùjiù fǎzhì wénmíng xīn huīhuáng!)",
+          "reading": "[tʰʊŋ˨˩.t͡ʂʰoʊ̯˧˥ tʰweɪ̯˥.t͡ɕin˥˩ kʰɤ˥.ɕɥɛ˧˥ li˥˩.fa˨˩˦, jan˧˥.kɤ˧˥ ʈ͡ʂɨ˧˥.fa˨˩˦, kʊŋ˥.ʈ͡ʂəŋ˥˩ sɨ˥.fa˨˩˦, t͡ɕʰyɛn˧˥.min˧˥ ʂoʊ̯˨˩.fa˨˩˦, ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ pi˥˩.t͡ɕjɑŋ˥ t͡saɪ̯˥˩ ljaŋ˧˥.fa˨˩˦-ʂan˥˩.ʈ͡ʂɨ˥˩ tɤ kʰɑŋ˥.ʈ͡ʂwaŋ˥ ta˥˩.taʊ̯˥˩ ʂɑŋ ʈ͡ʂu˥˩.t͡ɕjoʊ̯˥˩ fǎ.ʈ͡ʂɨ˥˩ wən˧˥.miŋ˧˥ ɕin˥ hweɪ̯˥.xwaŋ˧˥] (Tǒng-chóu tuī-jìn kē-xué lì-fǎ, yán-gé zhí-fǎ, gōng-zhèng sī-fǎ, quán-mín shǒu-fǎ, Zhōng-huá mín-zú bì-jiāng zài liáng-fǎ-shàn-zhì de kāng-zhuāng dà-dào shang zhù-jiù fǎ-zhì wén-míng xīn huī-huáng!)",
+          "translation": "Coordinating the promotion of scientific legislation, strict law enforcement, impartial administration of justice, and universal law-abiding, the Chinese nation will surely forge new splendors of legal civilization on the broad avenue of good laws and good governance!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "宪法统摄民法典，刑法正义证据显；良法善治天下定，法治中国铸巨篇！"
+      ],
+      "culturalNotes": [
+        "「科学立法、严格执法、公正司法、全民守法」是全面依法治国的十六字总方针，推动法治国家、法治政府、法治社会一体建设。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「宪法法律与司法制度 (Constitutional & Legal System)」（第5讲）的标准汉语规范？",
+          "prompt": "在全面推进法治中国建设的宏伟蓝图中，用来概括法治国家最高价值追求与制度治理理想的四字法学概念是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「宪法法律与司法制度 (Constitutional & Legal System)」的核心语法法则与应用范例 (31.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (31.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (31.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (31.5.w3)"
+            "良法善治 (Good laws and good governance)",
+            "任性妄为",
+            "权钱交易",
+            "朝令夕改"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「良法善治」是现代法治的精髓，良法是善治的前提，善治是良法的目标。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中国特色社会主义法治建设新十六字方针中，处于防范社会纠纷、维护公平正义最后防线地位的是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "公正司法 (Impartial administration of justice)",
+            "随意执法",
+            "主观臆断",
+            "秘密审判"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "公正是司法的灵魂和生命，公正司法是维护社会公平正义的最后一道防线。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「宪法法律与司法制度 (Constitutional & Legal System)」的正式语境下，最准确得体的表达是哪一项？（第31.5题）",
+          "prompt": "请选出下列全面依法治国综合论述中立论最高远、法理最严整的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (31.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (31.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (31.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (31.5.x3)"
+            "法治兴则国兴，良法善治奠定复兴之基：宪法统领依宪治国与人权保障，民法典守护民事私权与人格尊严，刑法严守罪刑法定与正当防卫，司法审判坚持证据裁判与程序正义。科学立法、严格执法、公正司法与全民守法一体推进，谱写中华法治文明辉煌新篇！(宪法、民法典、刑法正义、司法程序与十六字方针全景精辟总结)",
+            "法治就是公安局抓小偷，法官随便判判刑，不需要什么高深的法理。(语言极度简陋口语化)",
+            "良法善治被依宪治国民法典正当防卫排除合理怀疑。(词句生硬堆砌)",
+            "只要经济发展快，法律制度完善与否完全无关紧要。(完全违背全面依法治国战略)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项全景融通了宪法、民法典、刑法、司法证据与法治中国总方针，立论高瞻远瞩，法理透彻。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u31-l5）所要求的高阶语言表达？",
+          "prompt": "战国法家经典《韩非子》中论述法律与国家兴衰关系、被当代法治建设广泛引用的千古名句是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (31.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (31.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (31.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (31.5.y3)"
+            "奉法者强则国强，奉法者弱则国弱 (If those who uphold the law are strong, the country will be strong)",
+            "得过且过天下太平",
+            "人不为己天诛地灭",
+            "信马由缰顺其自然"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「奉法者强则国强，奉法者弱则国弱」深刻揭示了严格执法与尊法守法对国家强盛的决定性作用。"
         }
       ]
     },
@@ -18618,25 +18631,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「宪法法律与司法制度 (Constitutional & Legal System)」的掌握程度，请选出表述完全正确的标准范句（测试 31-5）：",
+          "prompt": "请选出下列关于法治中国建设、良法善治与法治文明综合语篇中格局最恢弘、法理最精严、文辞最雅正的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (31.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (31.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (31.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (31.5.z3)"
+            "国无常强，无常弱；奉法者强则国强，奉法者弱则国弱。当代中国法治建设展现出气势磅礴的文明气象：以宪法为统帅，依宪治国与合宪审查筑牢公法之基；以《民法典》为宝典，人格独立与物权契约构筑私权大厦；以严正刑法为利剑，罪刑法定与「法不能向不法让步」坚守正义底线；以证据裁判与程序正义为天平，排除合理怀疑以铸就看得见的正义。统筹推进科学立法、严格执法、公正司法、全民守法，良法善治必将护航中华民族行稳致远！(全篇结构严谨宏大，贯通宪法、民法典、刑法、司法证据与十六字方针，法理精严，气势恢宏，法学政论巅峰之作)",
+            "法治社会就是法律条文越多越好，法官权力越大越好。(盲目片面违背法治限权精神)",
+            "良法善治被宪法民法典刑法证据裁判程序正义十六字方针。(概念杂乱拼凑毫无语法文采)",
+            "古代法家治国和现代法治完全一样，都是用严刑峻法吓唬老百姓。(混淆古代法家法制与现代人权法治本质区别)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇全景熔铸宪法依宪治国、民法典私权保护、刑法罪刑法定与正当防卫、司法证据裁判与十六字法治方针，思想深邃，文采斐然，堪称法学汉语的最高范本。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u31-l5）的核心关键词（例如「宪法法律」）：",
+          "prompt": "请输入形容现代法治国家既有科学完备之良好法律、又有公正高效之良好治理的核心四字法学成语（例如「天下大定」；拼音为 liángfǎ-shànzhì）：",
           "acceptedAnswers": [
-            "宪法法律",
-            "宪法法律与司",
-            "宪法法律与司法制度"
+            "良法善治"
           ],
-          "explanation": "正确的核心关键词为「宪法法律」。"
+          "explanation": "成语「良法善治」是现代法治国家的最高境界与终极治理目标。"
         }
       ],
       "passThreshold": 0.8
