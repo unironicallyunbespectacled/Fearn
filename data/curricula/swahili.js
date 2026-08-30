@@ -485,53 +485,62 @@
     "subject": "swahili",
     "unit": 1,
     "lessonNumber": 1,
-    "title": "Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 1)",
+    "title": "Matamshi ya Kiswahili, Irabu na Silabi (Phonetics, Vowels & Open Syllables)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Salamu na Heshima za Kwanza with authentic precision.",
+    "objective": "Kuelewa mfumo wa kifonolojia wa Kiswahili sanifu, irabu tano safi (a, e, i, o, u), kanuni ya mkazo kwenye silabi ya pili kutoka mwisho (penultimate stress), na salamu za msingi za hali (Hujambo / Sijambo).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mfumo wa Kifonolojia na Matamshi ya Kiswahili Sanifu (Swahili Phonology & Greetings):\n\n1. **Irabu Tano Safi (Five Pure Vowels)**:\n   - Kiswahili kina irabu tano zisizobadilika: **a** [a], **e** [ɛ], **i** [i], **o** [ɔ], **u** [u].\n   - Hakuna difthongi changamano kama za Kiingereza; kila irabu hutamkwa waziwazi.\n\n2. **Kanuni ya Mkazo wa Maneno (Penultimate Word Stress)**:\n   - Karibu maneno yote ya Kiswahili hubeba mkazo kwenye **silabi ya pili kutoka mwisho** (penultimate syllable):\n     - *ki-TA-bu* (kitabu / book), *m-wa-LI-mu* (mwalimu / teacher), *ha-BA-ri* (habari / news).\n\n3. **Muundo wa Silabi Wazi (Open Syllables - CV)**:\n   - Silabi za asili ya Kibantu huishia na irabu (Consonant + Vowel):\n     - *ba-ba*, *ma-ma*, *sa-la-ma*.\n\n4. **Salamu ya Hali ya Msingi (Basic State Greetings)**:\n   - *Hujambo?* (Je, huna jambo/tatizo? / How are you? - kwa mtu mmoja) -> *Sijambo!* (Sina jambo / I am fine!)\n   - *Hamjambo?* (Je, hamna jambo? / How are you all?) -> *Hatujambo!* (Hatuna jambo / We are fine!)",
       "examples": [
         {
-          "target": "Habari za asubuhi, bwana mwalimu!",
-          "reading": "[hɑˈbɑri zɑ ɑsuˈbuhi, ˈbwɑnɑ mwɑˈlimu] (hah-BAH-ree zah ah-soo-BOO-hee)",
-          "translation": "Good morning, teacher!"
+          "target": "Hujambo bwana, habari za asubuhi? - Sijambo, nzuri sana!",
+          "reading": "[huˈʤɑmbɔ ˈbwɑnɑ hɑˈbɑri zɑ ɑsuˈbuhi - siˈʤɑmbɔ ˈnzuri ˈsɑnɑ] (hoo-JAHM-boh BWAH-nah, hah-BAH-ree zah ah-soo-BOO-hee? - see-JAHM-boh, N-ZOO-ree SAH-nah!)",
+          "translation": "How are you [greeting singular: hujambo] sir, how is the morning news? - I am well [response: sijambo], very good!"
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 1-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Katika lugha ya Kiswahili, mkazo wa neno daima huangukia kwenye silabi ya pili kutoka mwisho.",
+          "reading": "[kɑˈtikɑ ˈluɣɑ jɑ kiswɑˈhili ˈmkɑzɔ wɑ ˈnɛnɔ ˈdɑimɑ huɑŋɡuˈkiɑ ˈkwɛnjɛ siˈlɑbi jɑ ˈpili kuˈtɔkɑ ˈmwiʃɔ] (kah-TEE-kah LOO-ghah yah kee-swah-HEE-lee, M-KAH-zoh wah NAY-noh DAH-ee-mah hoo-ahn-goo-KEE-ah KWAY-nyay see-LAH-bee yah PEE-lee koo-TOH-kah MWEE-shoh)",
+          "translation": "In the Swahili language, word stress [phonetic rule: mkazo wa neno] always falls upon the second syllable from the end (penultimate)."
+        },
+        {
+          "target": "Irabu za Kiswahili ni tano safi: a, e, i, o, u, bila mivutano tata.",
+          "reading": "[iˈrɑbu zɑ kiswɑˈhili ni ˈtɑnɔ ˈsɑfi: ɑ, ɛ, i, ɔ, u, ˈbilɑ mivuˈtɑnɔ ˈtɑtɑ] (ee-RAH-boo zah kee-swah-HEE-lee nee TAH-noh SAH-fee: ah, eh, ee, oh, oo, BEE-lah mee-voo-TAH-noh TAH-tah)",
+          "translation": "Swahili vowels [five pure vowels: irabu tano] are five pure sounds: a, e, i, o, u, without complex diphthongs."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kumbuka mkazo: Sikiliza silabi ya pili kutoka mwisho: ki-SWA-hi-li, ha-BA-ri, si-JAM-bo!"
+      ],
+      "culturalNotes": [
+        "Katika utamaduni wa Waswahili, kusalimiana ni wajibu wa kijamii unaojenga heshima, urafiki na mshikamano kabla ya kuanza mazungumzo yoyote."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Hujambo\":",
+          "prompt": "Mtu anapokuuliza \"Hujambo?\", jibu sahihi na sanifu la Kiswahili ni lipi?",
           "options": [
-            "Habari za asubuhi, bwana mwalimu!",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Habari»",
-            "Mpangilio usio sahihi wa viambishi katika «Asante»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Tafadhali»"
+            "Sijambo! (I am fine / I have no problems - Standard first-person singular response)",
+            "Hatujambo (Majibu ya wingi badala ya umoja)",
+            "Kwaheri (Kauli ya kuagana)",
+            "Marahaba (Jibu la salamu ya Shikamoo pekee)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Salamu ya umoja «Hujambo?» (You have no problem?) hujibiwa kwa «Sijambo!» (I have no problem)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Hujambo\":",
+          "prompt": "Katika matamshi ya maneno ya Kiswahili kama 'mwalimu' na 'kitabu', mkazo wa sauti huwekwa wapi?",
           "options": [
-            "Habari za asubuhi, bwana mwalimu!",
-            "Mpangilio usio sahihi wa viambishi katika «Asante»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Tafadhali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Habari»"
+            "Kwenye silabi ya pili kutoka mwisho (Penultimate syllable stress: mwa-LI-mu, ki-TA-bu)",
+            "Kwenye silabi ya mwisho kabisa kila mara",
+            "Kwenye herufi ya kwanza bila kujali silabi",
+            "Hakuna mkazo wowote katika matamshi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kanuni kuu ya kifonolojia ya Kiswahili ni mkazo kuangukia kwenye silabi ya pili kutoka mwisho."
         }
       ]
     },
@@ -539,17 +548,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Hujambo\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi sahihi inayoelezea matamshi na salamu ya msingi ya Kiswahili:",
           "options": [
-            "Habari za asubuhi, bwana mwalimu!",
-            "Matumizi yasiyo sanifu ya muktadha wa «Tafadhali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Habari»",
-            "Mpangilio usio sahihi wa viambishi katika «Asante»"
+            "Kiswahili kina irabu tano safi na mkazo kwenye silabi ya pili kutoka mwisho, na salamu ya 'Hujambo' hujibiwa kwa 'Sijambo'. (Swahili has five pure vowels with penultimate stress, and Hujambo is answered with Sijambo.)",
+            "Mkazo wa Kiswahili huwekwa kwenye neno la mwisho la sentensi nzima kila mara.",
+            "Irabu za Kiswahili hutamkwa kwa mtindo wa kumeza sauti zote za mwisho.",
+            "Neno 'Hujambo' halina jibu lolote katika mazungumzo sanifu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kiswahili kina irabu tano safi na mkazo kwenye silabi ya pili kutoka mwisho, na salamu ya 'Hujambo' hujibiwa kwa 'Sijambo'.» ndiyo kauli fasaha na sahihi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u1-l2": {
@@ -557,53 +567,62 @@
     "subject": "swahili",
     "unit": 1,
     "lessonNumber": 2,
-    "title": "Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 2)",
+    "title": "Salamu za Heshima na Maamkizi ya Wazee (Respectful Greetings: Shikamoo & Marahaba)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Kujitambulisha na Majina with authentic precision.",
+    "objective": "Kutambua na kutumia salamu za heshima kwa wazee na wakubwa (Shikamoo na Marahaba) pamoja na salamu za vipindi vya siku (asubuhi, mchana, jioni, usiku).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Adabu ya Salamu za Heshima katika Jamii ya Waswahili (Respectful Greetings & Time-of-Day):\n\n1. **Salamu ya Heshima kwa Wazee na Wakubwa (Shikamoo na Marahaba)**:\n   - Mdogo humwamkia mkubwa au mzazi: **Shikamoo** (kutoka chimbuko la kihistoria: *Nashika miguu yako* kwa staha na heshima).\n   - Mkubwa hujibu kwa upole na baraka: **Marahaba** (kutoka Kiarabu: *Nimeikubali heshima yako kwa furaha na upendo*).\n   - Ni kosa kubwa la kiadabu kutomwamkia mzee 'Shikamoo' katika jamii ya Afrika Mashariki.\n\n2. **Salamu za Vipindi vya Siku (Time-Based Inquiries with 'Habari za...')**:\n   - *Habari za asubuhi?* (Good morning / How is the morning?)\n   - *Habari za mchana?* (Good afternoon / How is the afternoon?)\n   - *Habari za jioni?* (Good evening / How is the evening?)\n   - *Habari za usiku?* (Good night / How is the night?)\n\n3. **Majibu ya Kawaida ya 'Habari za...'**:\n   - **Nzuri** (Good / fine)\n   - **Salama** (Peaceful / peaceful news)\n   - **Safi** (Clean / great)\n   - **Njema** (Well / pleasant)",
       "examples": [
         {
-          "target": "Jina langu ni Juma, ninafurahi kukufahamu.",
-          "reading": "[ˈʤinɑ ˈlɑŋɡu ni ˈʤumɑ, ninɑfuˈrɑhi kukufɑˈhɑmu] (JEE-nah LAHN-goo)",
-          "translation": "My name is Juma, I am glad to know you."
+          "target": "Shikamoo bibi yangu mpendwa! - Marahaba mjukuu wangu, habari za shule?",
+          "reading": "[ʃikɑˈmɔː ˈbibi ˈjɑŋɡu mˈpɛndwɑ - mɑrɑˈhɑbɑ mˈʤukuː ˈwɑŋɡu hɑˈbɑri zɑ ˈʃulɛ] (shee-kah-MOH BEE-bee YAHN-goo M-pen-DWAH! - mah-rah-HAH-bah M-joo-KOO WAHN-goo, hah-BAH-ree zah SHOO-lay?)",
+          "translation": "My respects [respectful elder greeting: shikamoo] beloved grandmother! - My blessing [elder response: marahaba] my grandchild, how is school?"
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 1-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kutoa salamu ya 'Shikamoo' ni ishara kuu ya staha na adabu kwa mtu mwenye umri mkubwa.",
+          "reading": "Ku-to-a sa-la-mu ya Shi-ka-mo-o ni i-sha-ra ku-u ya sta-ha na a-da-bu kwa m-tu mwe-nye u-m-ri m-ku-bwa. [kuˈtɔɑ sɑˈlɑmu jɑ ʃikɑˈmɔː ni iˈʃɑrɑ ˈkuː jɑ ˈstɑhɑ nɑ ɑˈdɑbu kwɑ ˈmtu ˈmwɛnjɛ ˈumri mˈkubwɑ] (koo-TOH-ah sah-LAH-moo yah shee-kah-MOH nee ee-SHAH-rah KOO yah STAH-hah nah ah-DAH-boo kwah M-too MWEN-yay OOM-ree M-KOO-bwah)",
+          "translation": "Offering the greeting 'Shikamoo' [social etiquette: kutoa heshima] is a paramount sign of modesty and respect for an elder person."
+        },
+        {
+          "target": "Habari za mchana mwalimu mwema? - Nzuri sana, asante kwa heshima.",
+          "reading": "Ha-ba-ri za m-cha-na mwa-li-mu mwe-ma? - Nzu-ri sa-na, a-san-te kwa he-shi-ma. [hɑˈbɑri zɑ mˈtʃɑnɑ mwɑˈlimu ˈmwɛmɑ - ˈnzuri ˈsɑnɑ ɑˈsɑntɛ kwɑ hɛˈʃimɑ] (hah-BAH-ree zah M-CHAH-nah mwah-LEE-moo MWAY-mah? - N-ZOO-ree SAH-nah, ah-SAHN-tay kwah hay-SHEE-mah)",
+          "translation": "Good afternoon [afternoon greeting: habari za mchana] good teacher? - Very good, thank you for the respect."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Shikamoo -> Marahaba: Mdogo hutoa heshima (Shikamoo), mkubwa hurudisha baraka (Marahaba)!"
+      ],
+      "culturalNotes": [
+        "Kwenye mwambao wa Afrika Mashariki, hata mtu mzima akikutana na mzee mwenye umri wa kumzaa, bado anawajibika kumsalimia kwa 'Shikamoo'."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Habari\":",
+          "prompt": "Mwanafunzi anapokutana na mwalimu wake asubuhi, anapaswa kutumia salamu gani ya heshima?",
           "options": [
-            "Jina langu ni Juma, ninafurahi kukufahamu.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Asante»",
-            "Mpangilio usio sahihi wa viambishi katika «Tafadhali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kwaheri»"
+            "Shikamoo mwalimu! (Respectful greeting for elders/teachers - responded to with Marahaba)",
+            "Hujambo mtoto wangu (Salamu ya mkubwa kwa mdogo)",
+            "Kwaheri ya kuonana (Kauli ya kuondoka)",
+            "Samahani tu (Kauli ya kuomba radhi bila salamu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Mwanafunzi humheshimu mwalimu au mzee kwa kumsalimia «Shikamoo»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Habari\":",
+          "prompt": "Mtu mzima akiamkiwa 'Shikamoo', jibu lake fasaha na lenye staha ni gani?",
           "options": [
-            "Jina langu ni Juma, ninafurahi kukufahamu.",
-            "Mpangilio usio sahihi wa viambishi katika «Tafadhali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kwaheri»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Asante»"
+            "Marahaba! (I accept your respect with pleasure - Standard response from elder to younger)",
+            "Sijambo tu (Jibu la Hujambo badala ya Shikamoo)",
+            "Nzuri sana (Jibu la Habari za...)",
+            "Karibu chai (Mwaliko wa chakula badala ya jibu la salamu)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Salamu ya «Shikamoo» daima hujibiwa kwa neno «Marahaba»."
         }
       ]
     },
@@ -611,17 +630,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Habari\": Which sentence is completely correct?",
+          "prompt": "Tambua jozi sahihi ya salamu ya heshima na jibu lake katika utamaduni wa Kiswahili:",
           "options": [
-            "Jina langu ni Juma, ninafurahi kukufahamu.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kwaheri»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Asante»",
-            "Mpangilio usio sahihi wa viambishi katika «Tafadhali»"
+            "Salamu: Shikamoo! -> Jibu: Marahaba! (Greeting: Shikamoo! -> Response: Marahaba!)",
+            "Salamu: Shikamoo! -> Jibu: Kwaheri!",
+            "Salamu: Habari za asubuhi? -> Jibu: Shikamoo!",
+            "Salamu: Hujambo? -> Jibu: Marahaba!"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Salamu: Shikamoo! -> Jibu: Marahaba!» ndiyo jozi pekee iliyo sahihi na sanifu kijamii."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u1-l3": {
@@ -629,53 +649,62 @@
     "subject": "swahili",
     "unit": 1,
     "lessonNumber": 3,
-    "title": "Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 3)",
+    "title": "Kujitambulisha, Majina na Ukoo (Self-Introduction & Origin)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Shukrani na Adabu za Kijamii with authentic precision.",
+    "objective": "Kujifunza jinsi ya kujitambulisha kwa ufasaha, kutaja majina (Jina langu ni / Naitwa), kuuliza majina ya wengine, na kueleza asili na utaifa.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kujitambulisha na Kueleza Asili kwa Kiswahili (Self-Introduction, Names & Nationality):\n\n1. **Kutaja Jina Lako (Stating Your Name)**:\n   - **Jina langu ni [Jina]** (My name is [Name]).\n   - **Naitwa [Jina]** (I am called [Name]).\n   - **Mimi ni [Jina]** (I am [Name]).\n\n2. **Kuuliza Jina la Mtu Mwingine (Asking Someone's Name)**:\n   - *Wewe unaitwa nani?* (What is your name? / Who are you called?)\n   - *Jina lako nani?* au *Jina lako ni nani?* (What is your name?)\n\n3. **Kueleza Asili, Nchi na Makazi (Origin & Country of Residence)**:\n   - *Ninatoka nchi ya Kenya / Tanzania / Uganda.* (I come from Kenya / Tanzania / Uganda.)\n   - *Mimi ni Mtanzania / Mkenya / Mwafrika.* (I am a Tanzanian / Kenyan / African.)\n   - *Ninakaa / Ninaishi katika mji wa Nairobi / Mombasa / Arusha.* (I live in the city of...)\n\n4. **Maneno ya Kufurahia Ufahamiano**:\n   - *Ninafurahi kukufahamu.* (I am glad to know you / Pleased to meet you.)\n   - *Nafurahi kukuona.* (Glad to see you.)",
       "examples": [
         {
-          "target": "Asante sana kwa msaada wako na ukarimu.",
-          "reading": "[ɑˈsɑntɛ ˈsɑnɑ kwɑ msɑˈɑdɑ ˈwɑkɔ] (ah-SAHN-teh SAH-nah)",
-          "translation": "Thank you very much for your help and generosity."
+          "target": "Jina langu ni Amina, mimi ni mwanafunzi ninayetoka mji wa Dar es Salaam.",
+          "reading": "Ji-na la-ngu ni A-mi-na, mi-mi ni mwa-na-fu-nzi ni-na-ye-to-ka m-ji wa Dar es Sa-laam. [ˈʤinɑ ˈlɑŋɡu ni ɑˈminɑ ˈmimi ni mwɑnɑˈfunzi ninɑjɛˈtɔkɑ ˈmʤi wɑ dɑːr ɛs sɑˈlɑːm] (JEE-nah LAHN-goo nee ah-MEE-nah, MEE-mee nee mwah-nah-FOON-zee nee-nah-yay-TOH-kah M-jee wah dahr ays sah-LAHM)",
+          "translation": "My name is Amina [self-introduction: jina langu ni], I am a student coming from the city of Dar es Salaam."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 1-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wewe unaitwa nani na unatoka nchi gani ya Afrika Mashariki?",
+          "reading": "We-we u-na-i-twa na-ni na u-na-to-ka n-chi ga-ni ya A-fri-ka Ma-sha-ri-ki? [ˈwɛwɛ unɑˈitwɑ ˈnɑni nɑ unɑˈtɔkɑ ˈntʃi ˈɡɑni jɑ ɑˈfrikɑ mɑʃɑˈriki] (WAY-way oo-nah-EE-twah NAH-nee nah oo-nah-TOH-kah N-chee GAH-nee yah ah-FREE-kah mah-shah-REE-kee)",
+          "translation": "What is your name [interrogative: unaitwa nani] and what country of East Africa do you come from?"
+        },
+        {
+          "target": "Mimi naitwa Juma, ninafurahi sana kukufahamu na kufanya urafiki nawe.",
+          "reading": "Mi-mi na-i-twa Ju-ma, ni-na-fu-ra-hi sa-na ku-ku-fa-ha-mu na ku-fa-nya u-ra-fi-ki na-we. [ˈmimi nɑˈitwɑ ˈʤumɑ ninɑfuˈrɑhi ˈsɑnɑ kukufɑˈhɑmu nɑ kuˈfɑɲɑ urɑˈfiki ˈnɑwɛ] (MEE-mee nah-EE-twah JOO-mah, nee-nah-foo-RAH-hee SAH-nah koo-koo-fah-HAH-moo nah koo-FAH-nyah oo-rah-FEE-kee NAH-way)",
+          "translation": "I am called Juma, I am very glad to know you [pleased to meet you: ninafurahi kukufahamu] and build a friendship with you."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kujitambulisha: Jina langu ni... + Ninatoka... + Ninafurahi kukufahamu!"
+      ],
+      "culturalNotes": [
+        "Watu wa Afrika Mashariki hupenda kutambua asili ya mtu na ukoo wake kwa wema, kwani ukarimu na ujirani mwema huanza na kufahamiana majina."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Asante\":",
+          "prompt": "Unapotaka kumwambia rafiki mpya jina lako kwa lugha ya heshima, utasema nini?",
           "options": [
-            "Asante sana kwa msaada wako na ukarimu.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Tafadhali»",
-            "Mpangilio usio sahihi wa viambishi katika «Kwaheri»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Samahani»"
+            "Jina langu ni Juma, ninafurahi kukufahamu. (My name is Juma, pleased to meet you - Authentic introduction)",
+            "Wewe nenda zako haraka (Kauli isiyo na adabu)",
+            "Sina jina lolote duniani (Kauli isiyo na mantiki)",
+            "Kwaheri ya usiku (Kuagana badala ya kujitambulisha)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kauli sahihi ya kujitambulisha ni «Jina langu ni...» ikifuatiwa na «ninafurahi kukufahamu»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Asante\":",
+          "prompt": "Sentensi gani inauliza kwa usahihi nchi anayotoka mgeni?",
           "options": [
-            "Asante sana kwa msaada wako na ukarimu.",
-            "Mpangilio usio sahihi wa viambishi katika «Kwaheri»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Samahani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Tafadhali»"
+            "Wewe unatoka nchi gani? (What country do you come from? - Grammatically precise inquiry)",
+            "Wewe unakula nchi gani sasa? (Kitenzi kisicho sahihi)",
+            "Nchi yako inalala wapi usiku? (Matumizi mabaya ya maana)",
+            "Jina lako linakimbia wapi? (Kauli isiyo na maana)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Swali sahihi la kijiografia na kiuraia ni «Wewe unatoka nchi gani?»."
         }
       ]
     },
@@ -683,17 +712,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Asante\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya utambulisho iliyo kamili na fasaha kulingana na kanuni za Kiswahili:",
           "options": [
-            "Asante sana kwa msaada wako na ukarimu.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Samahani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Tafadhali»",
-            "Mpangilio usio sahihi wa viambishi katika «Kwaheri»"
+            "Naitwa Baraka, ninatoka Tanzania na ninafurahi sana kukufahamu. (My name is Baraka, I come from Tanzania and I am very pleased to meet you.)",
+            "Mimi kitabu kiko mezani ninatoka asubuhi sana.",
+            "Jina langu anaitwa kula chakula cha jioni.",
+            "Wewe ni nani kwanini unatembea bila jina?"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Naitwa Baraka, ninatoka Tanzania na ninafurahi sana kukufahamu.» ndiyo sentensi kamili ya kujitambulisha."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u1-l4": {
@@ -701,53 +731,62 @@
     "subject": "swahili",
     "unit": 1,
     "lessonNumber": 4,
-    "title": "Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 4)",
+    "title": "Shukrani, Radhi, na Maombi (Gratitude, Apologies & Politeness)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Kuomba Radhi na Heshima with authentic precision.",
+    "objective": "Kuelewa na kutumia maneno ya staha ya Kiswahili: kutoa shukrani (Asante / Asanteni), kuomba radhi (Samahani / Niwie radhi), na kuomba msaada (Tafadhali / Naomba).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Lugha ya Staha, Shukrani na Kuomba Radhi (Swahili Politeness & Etiquette):\n\n1. **Kutoa Shukrani (Expressing Gratitude)**:\n   - **Asante** (Thank you - kwa mtu mmoja).\n   - **Asante sana** (Thank you very much).\n   - **Asanteni** / **Asanteni sana** (Thank you all - kwa watu wengi).\n   - Majibu ya shukrani: *Karibu* (You are welcome - umoja) / *Karibuni* (wingi), au *Bila samaha* / *Si kitu* (Don't mention it / It is nothing).\n\n2. **Kuomba Radhi na Msamaha (Apologizing)**:\n   - **Samahani** (Excuse me / Sorry - neno la kawaida la adabu).\n   - **Niwie radhi** (Pardon me / Forgive me - kauli rasmi ya heshima kubwa).\n   - *Samahani kwa kuchelewa.* (Sorry for being late.)\n\n3. **Kuomba Kitu o Msaada kwa Upole (Polite Requests)**:\n   - **Tafadhali** (Please).\n   - **Naomba...** (I request / May I have...):\n     - *Naomba maji ya kunywa tafadhali.* (May I have drinking water please.)\n     - *Naomba unisaidie.* (Please assist me.)",
       "examples": [
         {
-          "target": "Samahani, naomba unielekeze njia ya kwenda sokoni.",
-          "reading": "[sɑmɑˈhɑni, nɑˈɔmbɑ uniɛlɛˈkɛzɛ ˈnʤiɑ] (sah-mah-HAH-nee)",
-          "translation": "Excuse me, please direct me on the way to the market."
+          "target": "Asante sana kwa ukarimu wako na chakula kitamu ulichotuandalia.",
+          "reading": "A-san-te sa-na kwa u-ka-ri-mu wa-ko na cha-ku-la ki-ta-mu u-li-cho-twa-nda-li-a. [ɑˈsɑntɛ ˈsɑnɑ kwɑ ukɑˈrimu ˈwɑkɔ nɑ tʃɑˈkulɑ kiˈtɑmu ulitʃɔtwɑndɑˈliɑ] (ah-SAHN-tay SAH-nah kwah oo-kah-REE-moo WAH-koh nah chah-KOO-lah kee-TAH-moo oo-lee-choh-twahn-dah-LEE-ah)",
+          "translation": "Thank you very much [gratitude: asante sana] for your hospitality and the delicious food you prepared for us."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 1-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Samahani kaka, naomba unielekeze njia fupi ya kufika kituo cha basi.",
+          "reading": "Sa-ma-ha-ni ka-ka, na-o-mba u-ni-e-le-ke-ze nji-a fu-pi ya ku-fi-ka ki-tu-o cha ba-si. [sɑmɑˈhɑni ˈkɑkɑ nɑˈɔmbɑ uniɛlɛˈkɛzɛ ˈnʤiɑ ˈfupi jɑ kuˈfikɑ kiˈtuɔ tʃɑ ˈbɑsi] (sah-mah-HAH-nee KAH-kah, nah-OHM-bah oo-nee-ay-lay-KAY-zay N-JEE-ah FOO-pee yah koo-FEE-kah kee-TOO-oh chah BAH-see)",
+          "translation": "Excuse me brother [apology/attention: samahani], I request [polite request: naomba] that you direct me on the shortest path to reach the bus station."
+        },
+        {
+          "target": "Tafadhali karibu ndani ya nyumba yetu, jisikie uko nyumbani kwako.",
+          "reading": "Ta-fa-dha-li ka-ri-bu nda-ni ya nyu-mba ye-tu, ji-si-ki-e u-ko nyu-mba-ni kwa-ko. [tɑfɑˈðɑli kɑˈribu ˈndɑni jɑ ˈɲumbɑ ˈjɛtu ʤisiˈkiɛ ˈukɔ ɲumbɑˈni ˈkwɑkɔ] (tah-fah-THAH-lee kah-REE-boo N-DAH-nee yah NYOOM-bah YAY-too, jee-see-KEE-ay OO-koh nyoom-bah-NEE KWAH-koh)",
+          "translation": "Please [politeness: tafadhali] welcome inside our home [hospitality: karibu ndani], feel as though you are at your own home."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Staha ya Waswahili: Asante (Shukrani) + Samahani (Radhi) + Tafadhali / Naomba (Ombi)!"
+      ],
+      "culturalNotes": [
+        "Neno 'Karibu' ni nembo ya ukarimu wa watu wa Afrika Mashariki; mtu husema 'Karibu' hata anapokula chakula ili kumwalika mpitanjia ashiriki naye."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Tafadhali\":",
+          "prompt": "Mtu anapokusaidia kubeba mzigo mzito, neno gani la staha unapaswa kumwambia?",
           "options": [
-            "Samahani, naomba unielekeze njia ya kwenda sokoni.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kwaheri»",
-            "Mpangilio usio sahihi wa viambishi katika «Samahani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Karibu»"
+            "Asante sana kwa msaada wako! (Thank you very much for your help - Authentic expression of gratitude)",
+            "Ondoka haraka sitaki kukuona (Kauli ya ukali na dharau)",
+            "Nenda kalale sasa (Kauli isiyofaa)",
+            "Hujambo bibi (Salamu isiyoendana na tendo lililofanyika)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kushukuru kwa msaada uliotendewa hufanywa kwa kusema «Asante sana»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Tafadhali\":",
+          "prompt": "Unapotaka kumwomba mtu akupishe njia kwa heshima, unatumia neno gani la kwanza?",
           "options": [
-            "Samahani, naomba unielekeze njia ya kwenda sokoni.",
-            "Mpangilio usio sahihi wa viambishi katika «Samahani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Karibu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kwaheri»"
+            "Samahani, naomba njia tafadhali. (Excuse me, may I pass please - Polite attention-getter)",
+            "Wewe toka mbele yangu! (Kauli isiyo na adabu)",
+            "Kwaheri ya kuonana (Kuagana badala ya kuomba njia)",
+            "Chakula kiko wapi? (Swali lisilohusika na njia)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Neno «Samahani» au «Naomba njia tafadhali» hutumika kuomba nafasi kwa heshima."
         }
       ]
     },
@@ -755,17 +794,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Tafadhali\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha matumizi bora ya shukrani na adabu za lugha ya Kiswahili:",
           "options": [
-            "Samahani, naomba unielekeze njia ya kwenda sokoni.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Karibu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kwaheri»",
-            "Mpangilio usio sahihi wa viambishi katika «Samahani»"
+            "Samahani kaka, naomba msaada wa kuelekezwa njia, na asante sana kwa ukarimu wako. (Excuse me brother, I request help with directions, and thank you very much for your hospitality.)",
+            "Mimi nataka kila kitu sasa hivi bila kusema tafadhali au asante.",
+            "Asante inasemwa tu wakati mtu anapopoteza vitu vyake vyote.",
+            "Samahani inamaanisha kukataa kuongea na mtu yeyote yule."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Samahani kaka, naomba msaada wa kuelekezwa njia, na asante sana kwa ukarimu wako.» inajumuisha maneno yote makuu ya adabu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u1-l5": {
@@ -773,53 +813,62 @@
     "subject": "swahili",
     "unit": 1,
     "lessonNumber": 5,
-    "title": "Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 5)",
+    "title": "Kuagana na Matashi Mema (Farewells, Well Wishes & Unit 1 Synthesis)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Kuagana na Matakwa Mema with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 1: Matamshi na irabu, Shikamoo na Marahaba, Kujitambulisha, Shukrani na Staha, pamoja na kauli za kuagana (Kwaheri / Kwaherini) na matashi mema ya safari na usingizi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kuagana, Matashi Mema na Muhtasari Mkuu wa Unit 1 (Farewells, Well Wishes & Synthesis):\n\n1. **Kauli za Kuagana (Farewell Expressions)**:\n   - **Kwaheri** (Goodbye - kwa mtu mmoja / singular).\n   - **Kwaherini** (Goodbye - kwa watu wengi / plural).\n   - **Kwaheri ya kuonana** (Goodbye until we meet again).\n   - **Tutaonana baadaye** (See you later) / **Tutaonana kesho** (See you tomorrow).\n\n2. **Matashi Mema ya Safari na Mapumziko (Well Wishes)**:\n   - **Safari njema!** (Safe journey! / Have a good trip!) -> Jibu: *Asante, tuombee!* au *Asante sana!*\n   - **Usiku mwema!** (Good night!) -> Jibu: *Usiku mwema, nawe pia!*\n   - **Ndoto njema!** (Sweet dreams!) / **Ulale salama!** (Sleep peacefully!)\n   - **Kazi njema!** (Have a good workday!)\n\n3. **Muhtasari wa Unit 1 (Unit 1 Synthesis)**:\n   - Mkazo kwenye silabi ya pili kutoka mwisho (*ki-SWA-hi-li*).\n   - Salamu za wazee (*Shikamoo -> Marahaba*).\n   - Utambulisho (*Jina langu ni... / Naitwa... / Ninatoka...*).\n   - Adabu (*Asante, Samahani, Tafadhali, Karibu*).\n   - Kuagana (*Kwaheri, Safari njema, Tutaonana*).",
       "examples": [
         {
-          "target": "Kwaheri ya kuonana, nakutakia siku njema!",
-          "reading": "[kwɑˈhɛri jɑ kuɔˈnɑnɑ, nɑkutɑˈkiɑ ˈsiku ˈnʤɛmɑ] (kwah-HEH-ree)",
-          "translation": "Goodbye until we meet again, I wish you a good day!"
+          "target": "Kwaherini marafiki zangu wote, tutaonana kesho asubuhi darasani kwa amani.",
+          "reading": "Kwa-he-ri-ni ma-ra-fi-ki za-ngu wo-te, tu-ta-o-na-na ke-sho a-su-bu-hi da-ra-sa-ni kwa a-ma-ni. [kwɑhɛˈrini mɑrɑˈfiki ˈzɑŋɡu ˈwɔtɛ tutɑɔˈnɑnɑ ˈkɛʃɔ ɑsuˈbuhi dɑrɑˈsɑni kwɑ ɑˈmɑni] (kwah-hay-REE-nee mah-rah-FEE-kee ZAHN-goo WOH-tay, too-tah-oh-NAH-nah KAY-shoh ah-soo-BOO-hee dah-rah-SAH-nee kwah ah-MAH-nee)",
+          "translation": "Goodbye all [farewell plural: kwaherini] my friends, we will see each other tomorrow morning [see you tomorrow: tutaonana kesho] in class peacefully."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 1-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Safari njema unaposafiri kuelekea kisiwa cha Unguja kule Zanzibar.",
+          "reading": "Sa-fa-ri nje-ma u-na-po-sa-fi-ri ku-e-le-ke-a ki-si-wa cha U-ngu-ja ku-le Za-nzi-bar. [sɑˈfɑri ˈnʤɛmɑ unɑpɔsɑˈfiri kuɛlɛˈkɛɑ kiˈsiwɑ tʃɑ uˈŋɡuʤɑ ˈkulɛ zɑnziˈbɑr] (sah-FAH-ree N-JAY-mah oo-nah-poh-sah-FEE-ree koo-ay-lay-KAY-ah kee-SEE-wah chah oon-GOO-jah KOO-lay zahn-zee-BAHR)",
+          "translation": "Safe journey [well wishes for travel: safari njema] as you travel towards the island of Unguja over there in Zanzibar."
+        },
+        {
+          "target": "Usiku mwema na ulale salama uwe na ndoto njema hadi mapambazuko.",
+          "reading": "U-si-ku mwe-ma na u-la-le sa-la-ma u-we na ndo-to nje-ma ha-di ma-pa-mba-zu-ko. [uˈsiku ˈmwɛmɑ nɑ uˈlɑlɛ sɑˈlɑmɑ ˈuwɛ nɑ ˈndɔtɔ ˈnʤɛmɑ ˈhɑdi mɑpɑmbɑˈzukɔ] (oo-SEE-koo MWAY-mah nah oo-LAH-lay sah-LAH-mah OO-way nah N-DOH-toh N-JAY-mah HAH-dee mah-pahm-bah-ZOO-koh)",
+          "translation": "Good night [night well wish: usiku mwema] and sleep peacefully, may you have sweet dreams [sweet dreams: ndoto njema] until dawn."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mzunguko kamili wa salamu: Salamu (Hujambo/Shikamoo) -> Utambulisho (Jina) -> Adabu (Asante) -> Kuagana (Kwaheri/Safari njema)!"
+      ],
+      "culturalNotes": [
+        "Kuagana kwa matashi mema kama 'Safari njema' au 'Usiku mwema' huambatana na dua na nia ya amani, inayoonyesha upendo wa dhati wa jamii za Waswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kwaheri\":",
+          "prompt": "Unapoagana na kundi la watu wengi jioni baada ya mkutano, kauli gani sahihi ya wingi inatumika?",
           "options": [
-            "Kwaheri ya kuonana, nakutakia siku njema!",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Samahani»",
-            "Mpangilio usio sahihi wa viambishi katika «Karibu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha asubuhi»"
+            "Kwaherini nyote, na usiku mwema! (Goodbye to all of you, and good night - Plural farewell and evening wish)",
+            "Kwaheri wewe peke yako (Kauli ya umoja badala ya wingi)",
+            "Shikamoo wote (Salamu ya kuanza badala ya kuagana)",
+            "Habari za asubuhi (Salamu ya asubuhi badala ya jioni)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kwa watu wengi (wingi), hutumika «Kwaherini» ikiambatana na matashi ya «usiku mwema»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kwaheri\":",
+          "prompt": "Mgeni anapopanda ndege au basi kuanza safari ndefu, unamtakia nini kwa Kiswahili fasaha?",
           "options": [
-            "Kwaheri ya kuonana, nakutakia siku njema!",
-            "Mpangilio usio sahihi wa viambishi katika «Karibu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha asubuhi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Samahani»"
+            "Safari njema na ufike salama! (Safe journey and arrive peacefully - Authentic travel wish)",
+            "Kazi mbaya huko unakokwenda (Kauli hasi isiyofaa)",
+            "Lala hapa kitandani sasa (Kauli isiyoendana na safari)",
+            "Samahani sina chakula (Kauli isiyohusika)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Matashi mema ya msafiri ni «Safari njema» au «Ufike salama»."
         }
       ]
     },
@@ -827,17 +876,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kwaheri\": Which sentence is completely correct?",
+          "prompt": "Chagua muhtasari sahihi unaojumuisha kanuni zote kuu za salamu na adabu za Unit 1 ya Kiswahili:",
           "options": [
-            "Kwaheri ya kuonana, nakutakia siku njema!",
-            "Matumizi yasiyo sanifu ya muktadha wa «Chakula cha asubuhi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Samahani»",
-            "Mpangilio usio sahihi wa viambishi katika «Karibu»"
+            "Unit 1 inajumuisha mkazo wa silabi ya pili, salamu za heshima (Shikamoo/Marahaba), kujitambulisha kwa jina na nchi, maneno ya staha (Asante/Samahani), na kuagana kwa matashi mema (Kwaheri/Safari njema). (Unit 1 synthesizes penultimate stress, respect greetings, self-introduction, politeness, and farewells.)",
+            "Unit 1 inafundisha tu maneno magumu ya kisayansi bila salamu wala heshima yoyote.",
+            "Katika Kiswahili hakuna tofauti kati ya kuamkia mtoto mdogo na kumwamkia mzee.",
+            "Kuagana na mtu hufanywa kwa kusema Shikamoo kila wakati bila kutumia Kwaheri."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Unit 1 inajumuisha mkazo wa silabi ya pili, salamu za heshima (Shikamoo/Marahaba), kujitambulisha kwa jina na nchi, maneno ya staha (Asante/Samahani), na kuagana kwa matashi mema (Kwaheri/Safari njema).» ndio muhtasari kamili wa Unit 1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u2-l1": {
