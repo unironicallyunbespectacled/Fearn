@@ -4087,85 +4087,62 @@
     "subject": "amharic",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes) (ክፍል 1)",
+    "title": "ዋና ዋና የቤተሰብ አባላት (Core Immediate Family Terms)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤተሰብ አባላት መጠሪያዎች፣ እና የባለቤትነት ቅጥያዎች (-ኤ፣ -ህ፣ -ሽ፣ -ኡ፣ -ዋ)። (ክፍል 1)።",
+    "objective": "ዋና ዋና የቤተሰብ አባላትን (አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል፣ ሚስት) እና ቀለል ያሉ የባለቤትነት ቅጥያዎችን መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቅርብ ቤተሰብ አባላት መጠሪያዎች (Immediate Family Members):\n\n፩. መሰረታዊ የቤተሰብ መጠሪያዎች:\n- «አባት»: «አባቴ» (My father)\n- «እናት»: «እናቴ» (My mother)\n- «ወንድም»: «ወንድሜ» (My brother)\n- «እህት»: «እህቴ» (My sister)\n- «ልጅ»: «ወንድ ልጅ» / «ሴት ልጅ» -> «ልጄ» (My child)\n- «ባል»: «ባሌ» (My husband)\n- «ሚስት»: «ሚስቴ» (My wife)።\n\n፪. ጥያቄ እና መልስ:\n- «ስንት ወንድሞች እና እህቶች አሉህ/አሉሽ?»\n- «ሁለት ወንድሞች እና አንዲት እህት አሉኝ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)' to the students."
+          "target": "አባቴና እናቴ በመምህርነት ሙያ ለረጅም ዓመታት ህዝባቸውን አገልግለዋል።",
+          "reading": "Abatennanna ənatte bämämhərənnät muya läräğğəm amätat həzbaččäwən agälgəlwall. [ʔabaˈtenːanːa ʔɨˈnatːe bɛmɛmhɨrɨnːɛt muˈja lɨrɛdʒːɨm amɛˈtat hɨzbaˈtʃːɛwɨn ʔaɡɛlɡɨlˈwal] (ah-BAH-tayn-nahn-nah uh-NAH-tay beh-mem-huh-RUN-net moo-YAH luh-rej-JUM ah-meh-TAHT huz-bahch-CHEW-un ah-gel-guhl-WAHL)",
+          "translation": "My father and my mother served their people in the teaching profession for many years."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ታላቅ ወንድሜ እና ታናሽ እህቴ በዩኒቨርሲቲ ውስጥ ህክምና እና ምህንድስና ያጠናሉ።",
+          "reading": "Talaq wändəmme ənna tanaš əhətte bäyunivärsiti wəst’ həkmənna ənna məhəndəsənna yat’änallu. [taˈlakʼ wɛnˈdɨmːe ɨnːa taˈnaʃ ʔɨˈhɨtːe bɛjunivɛrsiˈti wɨstʼ hɨkˈmɨnːa ɨnːa mɨhɨndɨˈsɨnːa jatʼɛˈnalːu] (tah-LAH-k' wen-DUM-may un-nah tah-NAHSH uh-HUT-tay beh-yoo-nee-ver-see-TEE woos-T' huk-MUN-nah un-nah muh-hun-duh-SUN-nah yah-t'eh-NAHL-loo)",
+          "translation": "My older brother and my younger sister study medicine and engineering at the university."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኔ እና ባለቤቴ (ሚስቴ) ቆንጆ ሴት ልጅ እና ጎበዝ ወንድ ልጅ ወልደናል።",
+          "reading": "Əne ənna baläbette (mistte) qonğo set ləğ ənna gobäz wänd ləğ wäldänall. [ʔɨˈne ɨnːa balɛˈbetːe misˈtːe kʼonˈdʒo set lɨdʒ ɨnːa ɡoˈbɛz wɛnd lɨdʒ wɛlˈdɛnal] (uh-NAY un-nah bah-leh-BAY-tay [mees-TAY] k'ohn-JOH sayt luhj un-nah goh-BEZ wend luhj wel-DEH-nahl)",
+          "translation": "My spouse (wife) and I have had a beautiful daughter and a clever son."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Nuclear Family: አባት (Father) + እናት (Mother) | ወንድም (Brother) + እህት (Sister) | ልጅ (Child)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል ውስጥ 'ባለቤቴ' (My household owner / partner) የሚለው ቃል ለባልም ሆነ ለሚስት በትህትና የሚሰጥ የትዳር አጋር መጠሪያ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«My mother and my father» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (9.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (9.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (9.1.w3)"
+            "እናቴ እና አባቴ (My mother and my father - Correct first-person possessive nouns)",
+            "እህቴ እና ወንድሜ",
+            "ልጄ እና አጎቴ",
+            "አያቴ ብቻ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እናቴ» (My mother) እና «አባቴ» (My father) ትክክለኛ የመጀመሪያ መደብ ባለቤትነት ቅጥያን (-ኤ) ይዘዋል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u9-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I have an older brother and a younger sister' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (9.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (9.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (9.1.x3)"
+            "አንድ ታላቅ ወንድም እና አንዲት ታናሽ እህት አሉኝ። (Correct sibling age distinction and gender agreement)",
+            "ወንድም የለኝም እህት የለኝም።",
+            "አያቴ ትላንትና መጣ።",
+            "ልጆቼ ትምህርት ቤት ሄዱ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (9.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (9.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (9.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ታላቅ ወንድም» (older brother) እና «ታናሽ እህት» (younger sister) የዕድሜ ደረጃን በትክክል ያሳያሉ።"
         }
       ]
     },
@@ -4173,24 +4150,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 9-1):",
+          "prompt": "የቅርብ ቤተሰብ አባላትን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (9.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (9.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (9.1.z3)"
+            "አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል እና ሚስት።",
+            "ጠረጴዛ፣ ወንበር እና ደብተር።",
+            "ቀኝ፣ ግራ እና አደባባይ።",
+            "ትላንትና እና ዛሬ ብቻ።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቅርብ ቤተሰብ መጠሪያዎችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u9-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የቤተሰብ»):",
+          "prompt": "'እናት / Mother' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የቤተሰብ",
-            "የቤተሰብ"
+            "እናት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የቤተሰብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «እናት» (Ənat) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4201,85 +4177,62 @@
     "subject": "amharic",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes) (ክፍል 2)",
+    "title": "የተዘረጋ የቤተሰብ አውታር (Extended Family & Kinship Terms)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤተሰብ አባላት መጠሪያዎች፣ እና የባለቤትነት ቅጥያዎች (-ኤ፣ -ህ፣ -ሽ፣ -ኡ፣ -ዋ)። (ክፍል 2)።",
+    "objective": "የተዘረጋ ቤተሰብን (አያት፣ አጎት፣ አክስት፣ የአጎት ልጅ፣ ምራት፣ አማች) በትክክል መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የተዘረጋ ቤተሰብ እና የዝምድና መጠሪያዎች (Extended Family Terms):\n\n፩. የትውልድ ደረጃዎች:\n- «አያት»: የወንድ አያት / የሴት አያት -> «አያቴ»\n- «የልጅ ልጅ» -> «የልጅ ልጆቼ» (My grandchildren)።\n\n፪. አጎቶች እና አክስቶች:\n- «አጎት» (Uncle - የእናት ወይም የአባት ወንድም)\n- «አክስት» (Aunt - የእናት ወይም የአባት እህት)\n- «የአጎት ልጅ» / «የአክስት ልጅ» (Cousin)።\n\n፫. የጋብቻ ዝምድና (In-Laws):\n- «አማች» (In-law: Father/Mother-in-law, Brother-in-law, Son-in-law)\n- «ምራት» (Daughter-in-law)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)' to the students."
+          "target": "በበዓል ቀን ወደ አያቴ መንደር ሄደን አጎቶቼንና አክስቶቼን በሙሉ ተሰብስበን ጠየቅን።",
+          "reading": "Bäbä'al qän wädä ayyatte mändär hedän agottoččenna akəsttoččen bämulu täsäbsəbän t’äyyäqn. [bɛbɛʔal kʼɛn wɛdɛ ʔajːaˈtːe mɛnˈdɛr heˈdɨn ʔaɡotːoˈtʃːenːa ʔakɨstːoˈtʃːen bɛmuˈlu tɛsɛbˈsɨbɛn tʼɛjːɛkʼn] (beh-beh-AHL k'en weh-DEH eye-YAH-tay men-DER hay-DUN ah-goht-TOHCH-chayn-nah ah-kust-TOHCH-chayn beh-MOO-loo teh-seb-suh-BEN t'ey-yuh-K'UN)",
+          "translation": "On the holiday, we went to my grandparent's village and visited all my uncles and aunts together."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የአጎቴ ልጅ እና እኔ በአንድ ትምህርት ቤት ውስጥ አብረን ተምረን አደግን።",
+          "reading": "Yä'agotte ləğ ənna əne bä'and təməhərt bet wəst’ abrän tämərän adägn. [jɛʔaˈɡotːe lɨdʒ ɨnːa ʔɨˈne bɛʔand tɨmɨhɨrt bet wɨstʼ ʔabˈrɛn tɛmɨˈrɛn ʔadɛɡn] (yeh-ah-GOHT-tay luhj un-nah uh-NAY beh-AHND tuh-muh-HURT bayt woos-T' ahb-REN teh-muh-REN ah-DEG-un)",
+          "translation": "My uncle's child (cousin) and I grew up studying together in the same school."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አያቴ የልጅ ልጆቻቸውን በጉልበታቸው ላይ እያስቀመጡ አስደናቂ ተረቶችን ይነግሩናል።",
+          "reading": "Ayyatte yäləğ ləğoččaččäwən bägulbätaččäw lay əyask’ämmät’u asdännaqi tärätoččən yənägrunall. [ʔajːaˈtːe jɛlɨdʒ lɨdʒoˈtʃːatʃːɛwɨn bɛɡulbɛtaˈtʃːɛw laj ʔɨjaskʼɛmːɛˈtʼu ʔasdɛnːaˈkʼi tɛrɛˈtotʃːɨn jɨnɛɡruˈnal] (eye-YAH-tay yeh-luhj luh-johch-CHAHCH-chew-un beh-gool-beh-TAHCH-chew lye uh-yahs-k'em-meh-T'OO ahs-den-NAH-k'ee teh-reh-TOHCH-chun yuh-neg-roo-NAHL)",
+          "translation": "My grandparents seat their grandchildren on their knees and tell us fascinating folktales."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kinship Web: አያት (Grandparent) -> አጎት/አክስት (Uncle/Aunt) -> የአጎት ልጅ (Cousin) -> አማች/ምራት (In-laws)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የተዘረጋ ቤተሰብ (Extended family) በጣም የተሳሰረ ሲሆን፣ የአጎትና የአክስት ልጆች እንደ እውነተኛ ወንድምና እህት ይቆጠራሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "የእናትህን ወይም የአባትህን ወንድም ምን ብለህ ትጠራዋለህ?",
           "options": [
-            "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (9.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (9.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (9.2.w3)"
+            "አጎት (Uncle - Brother of mother or father)",
+            "አክስት",
+            "አያት",
+            "ምራት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የእናት ወይም የአባት ወንድም «አጎት» (Uncle) ይባላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u9-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'My grandmother tells folktales to her grandchildren' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (9.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (9.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (9.2.x3)"
+            "አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ። (Correct grandmother and grandchildren sentence)",
+            "አጎቴ መኪና ነዳ።",
+            "ጓደኛዬ ትምህርት ቤት ሄደ።",
+            "ምንም ዘመድ የለኝም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (9.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (9.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (9.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ» አያትንና የልጅ ልጆችን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -4287,24 +4240,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 9-2):",
+          "prompt": "የተዘረጋ ቤተሰብ መጠሪያዎችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (9.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (9.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (9.2.z3)"
+            "አያት (Grandparent)፣ አጎት (Uncle)፣ አክስት (Aunt) እና የአጎት ልጅ (Cousin)።",
+            "አያት ማለት ልጅ ማለት ነው።",
+            "አጎት እና አክስት አንድ ናቸው።",
+            "በአማርኛ የዝምድና መጠሪያ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ቁልፍ የተዘረጋ ቤተሰብ ቃላትን በትክክል ያጣመረ ነው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u9-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የቤተሰብ»):",
+          "prompt": "'አያት / Grandparent' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የቤተሰብ",
-            "የቤተሰብ"
+            "አያት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የቤተሰብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አያት» (Ayat) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4315,85 +4267,62 @@
     "subject": "amharic",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes) (ክፍል 3)",
+    "title": "የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehensive Possessive Suffix Paradigm)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤተሰብ አባላት መጠሪያዎች፣ እና የባለቤትነት ቅጥያዎች (-ኤ፣ -ህ፣ -ሽ፣ -ኡ፣ -ዋ)። (ክፍል 3)።",
+    "objective": "የባለቤትነት ቅጥያዎችን በሁሉም መደቦች (-ኤ/-ዬ፣ -ህ፣ -ሽ፣ -ዎ፣ -ኡ/-ው፣ -ዋ፣ -አችን፣ -አችሁ፣ -አቸው) በትክክል ማያያዝ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የባለቤትነት ቅጥያዎች ሰንጠረዥ (Possessive Suffix Paradigm):\n\nበተናባቢ ለሚያልቁ ቃላት (ለምሳሌ: ቤት):\n- የኔ: ቤት-ኤ\n- ያንተ: ቤት-ህ\n- ያንቺ: ቤት-ሽ\n- የእርስዎ: ቤት-ዎ / ቤት-ዎት\n- የሱ: ቤት-ኡ\n- የሷ: ቤት-ዋ / ቤቷ\n- የኛ: ቤት-አችን\n- የእናንተ: ቤት-አችሁ\n- የነሱ: ቤት-አቸው።\n\nበአናባቢ ለሚያልቁ ቃላት (ለምሳሌ: ውሻ):\n- ውሻ-ዬ፣ ውሻ-ህ፣ ውሻ-ሽ፣ ውሻ-ው፣ ውሻ-ዋ፣ ውሻ-ችን፣ ውሻ-ችሁ፣ ውሻ-ቸው።",
       "examples": [
         {
-          "target": "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)' to the students."
+          "target": "ቤታችን ለከተማው ማእከል ቅርብ ስለሆነ ትራንስፖርት ማግኘት ለእኛ በጣም ቀላል ነው።",
+          "reading": "Betaččən läkätämaw ma'əkäl qərb səlähonä transport magnyät lä'ənnya bät’am qällal näw. [beˈtatʃːɨn lɛkɛtɛˈmaw maʔɨˈkɛl kʼɨrb sɨlɛˈhonɛ transˈport maɡˈɲɛt lɨʔɨɲa bɛtʼam kʼɛlːal nɛw] (bay-TAHCH-chun leh-keh-teh-MAH-w mah-uh-KEL k'urb suh-leh-HOH-neh trahns-POHRT mahg-NYET luh-un-NYAH beh-T'AHM k'el-LAHL now)",
+          "translation": "Since our house is near to the city center, getting transit is very easy for us."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "መምህራችሁ በክፍል ውስጥ የሰጣችሁን የቤት ስራ በትጋት አጠናቃችሁ ሰራችሁን?",
+          "reading": "Mämhəraččəhu bäkəfəl wəst’ yäsät’t’aččəhun yäbet səra bätəgat at’änaqqaččəhu särraččəhun? [mɛmhɨˈratʃːɨhu bɛkɨfl wɨstʼ jɛsɛtʼːaˈtʃːɨhun jɛbet sɨra bɛtɨˈɡat ʔatʼɛnakʼːaˈtʃːɨhu sɛrːaˈtʃːɨhun] (mem-huh-RAHCH-choo beh-kuf-L woos-T' yeh-set'-t'ahch-CHOO-hun yeh-BAYT suh-RAH beh-tuh-GAHT ah-t'eh-nahk'-k'ahch-CHOO ser-RAHCH-choon?)"
+          ,"translation": "Did you diligently finish and do the homework that your teacher gave you in class?"
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የጓደኛዬ መኪና አዲስ ሲሆን፣ ቤተሰቦቻቸው ግን በከተማ ዳርቻ ይኖራሉ።",
+          "reading": "Yägwadänyayye mäkina addis sihon, betäsäboččaččäw gən bäkätäma darəčča yənorallu. [jɛɡʷadɛˈɲajːe mɛkiˈna ʔadːis siˈhon betɛsɛboˈtʃːatʃːɛw ɡɨn bɛkɛtɛma darɨˈtʃːa jɨnoˈralːu] (yeh-gwah-den-YAY-yay meh-kee-NAH ahd-DEES see-HOHN, bay-teh-seb-ohch-CHAHCH-chew gun beh-keh-teh-mah dah-ruhch-CHAH yuh-noh-RAHL-loo)",
+          "translation": "While my friend's car is new, their family lives on the outskirts of the city."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Suffix Rules: Consonants take -ኤ, -ኡ, -አችን | Vowels take -ዬ, -ው, -ችን!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ስሞችን በባለቤትነት ቅጥያ ማያያዝ እጅግ የተለመደ ሲሆን፣ ተውላጠ ስሞችን (የኔ፣ የኛ) ለብቻ ከመጠቀም ይልቅ ቅጥያዎችን መጠቀም የተዋበ የአነጋገር ዘይቤ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Our school» የሚለውን ትክክለኛ የባለቤትነት ቅጥያ በመጠቀም የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (9.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (9.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (9.3.w3)"
+            "ትምህርት ቤታችን (Our school - Correct -አችን first-person plural suffix)",
+            "ትምህርት ቤቴ",
+            "ትምህርት ቤታችሁ",
+            "ትምህርት ቤታቸው"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ትምህርት ቤታችን» የኛ (our) የሚለውን የብዙ ቁጥር ቅጥያ (-አችን) በትክክል ይዟል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u9-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Your (plural) books are on the table' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (9.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (9.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (9.3.x3)"
+            "መጽሐፎቻችሁ በጠረጴዛው ላይ ናቸው። (Your [pl] books are on the table - Correct -አችሁ suffix)",
+            "መጽሐፌ የለም።",
+            "መጽሐፋቸው ተቃጠለ።",
+            "መጽሐፍ አልገዛሁም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (9.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (9.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (9.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«መጽሐፎቻችሁ» (Your books) የሁለተኛ መደብ ብዙ ቅጥያን (-አችሁ) በትክክል ያሳያል።"
         }
       ]
     },
@@ -4401,24 +4330,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 9-3):",
+          "prompt": "የባለቤትነት ቅጥያዎችን አጠቃቀም በትክክል ያሳየው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (9.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (9.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (9.3.z3)"
+            "ቤቴ (My house)፣ ቤትህ (Your house)፣ ቤታችን (Our house)፣ ቤታቸው (Their house)።",
+            "ቤቴ ማለት የእናንተ ቤት ነው።",
+            "ቅጥያዎች ለስሞች አይጨመሩም።",
+            "በአማርኛ የባለቤትነት ቅጥያ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የባለቤትነት ቅጥያዎችን በትክክል ያቀርባል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u9-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የቤተሰብ»):",
+          "prompt": "'ቤታችን / Our house' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የቤተሰብ",
-            "የቤተሰብ"
+            "ቤታችን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የቤተሰብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤታችን» (Betaččən) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4429,85 +4357,62 @@
     "subject": "amharic",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes) (ክፍል 4)",
+    "title": "የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Culture, Elder Respect & Gatherings)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤተሰብ አባላት መጠሪያዎች፣ እና የባለቤትነት ቅጥያዎች (-ኤ፣ -ህ፣ -ሽ፣ -ኡ፣ -ዋ)። (ክፍል 4)።",
+    "objective": "የቤተሰብ ስብሰባዎችን፣ ለታላላቆች ክብር መስጠትን፣ እና ማህበራዊ የዝምድና አገላለጾችን መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ የቤተሰብ ባህል እና ማህበራዊ እሴቶች (Family Values & Cultural Practices):\n\n፩. ለታላላቆች አክብሮት መስጠት:\n- «ታላላቆችን ማክበር»\n- «ምርቃት»: አባቶች እና እናቶች ሲመርቁ «እደጉ፣ ተባረኩ!» ይላሉ።\n- «እጅ መንሳት» / «ሰላምታ»።\n\n፪. የቤተሰብ ስብሰባ እና በዓላት:\n- «የቤተሰብ ስብሰባ»\n- «ሰርግ»\n- «እድር» / «እቁብ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)' to the students."
+          "target": "ልጆች ታላላቆቻቸውን ሲያገኙ በትህትና እጅ ነስተው የአባቶችንና የእናቶችን ምርቃት ይቀበላሉ።",
+          "reading": "Ləğočč talalaqwoččaččäwən siyagänyu bätəhətna əğž nästäw yä'abatoččənna yä'ənatoččən mərraqat yəqqäbbälallu. [lɨˈdʒotʃː talalakʼʷoˈtʃːatʃːɛwɨn sijaɡɛɲu bɛtɨhɨtˈna ɨdʒ nɛsˈtɛw jɛʔabatoˈtʃːɨnːa jɛʔɨnatoˈtʃːɨn mɨrːaˈkʼat jɨkʼːɛbːɛˈlalːu] (luh-JOHCH tah-lah-lah-k'wohch-CHAHCH-chew-un see-yah-gen-YOO beh-tuh-hut-NAH uhj nes-TEW yeh-ah-bah-tohch-CHUN-nah yeh-uh-nah-tohch-CHUN mur-rah-K'AHT yuhk-k'eb-beh-LAHL-loo)",
+          "translation": "When children meet their elders, they greet respectfully and receive the blessings of fathers and mothers."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በሰርግ እና በበዓል ወቅት መላው የተዘረጋ ቤተሰብ በአንድነት ተሰብስቦ በደስታ ያከብራል።",
+          "reading": "Bäsärg ənna bäbä'al wäqt məllaw yätäzärägga betäsäb bä'andənnät täsäbsəbo bädästa yakäbrall. [bɛsɛrɡ ɨnːa bɛbɛʔal wɛkʼt mɨlːaw jɛtɛzɛrɛɡːa betɛsɛb bɛʔanˈdɨnːɛt tɛsɛbˈsɨbo bɛdɛsˈta jakɛbˈral] (beh-SERG un-nah beh-beh-AHL wehk'-T' mul-LOW yeh-teh-zeh-reg-GAH bay-teh-seb beh-ahn-DUN-net teh-seb-suh-BOH beh-des-TAH yah-keb-RAHL)",
+          "translation": "During weddings and holidays, the whole extended family gathers together and celebrates with joy."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የቤተሰብ ፍቅር እና ትብብር ለማህበረሰባችን ጥንካሬ እና ሰላም መሰረት ነው።",
+          "reading": "Yäbetäsäb fəqr ənna təbbəbər lämahəbäräsäbaččən t’ənkarre ənna sälam mäsärät näw. [jɛbetɛˈsɛb fɨkʼr ɨnːa tɨbːɨˈbɨr lɨmahɨbɛrɛsɛˈbatʃːɨn tʼɨnkaˈrːe ɨnːa sɛˈlam mɛsɛˈrɛt nɛw] (yeh-bay-teh-SEB fuk'-R un-nah tub-buh-BUR luh-mah-huh-beh-reh-seh-BAHCH-chun t'un-kahr-RAY un-nah seh-LAHM meh-seh-RET now)",
+          "translation": "Family love and cooperation are the foundation for the strength and peace of our community."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ethiopian Heritage: አክብሮት (Respect) + ምርቃት (Blessing) + ሰርግ (Wedding) + ትብብር (Cooperation)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል ውስጥ አረጋውያን እና ታላላቆች የሚሰጡት 'ምርቃት' (Blessing) እጅግ ከፍተኛ መንፈሳዊና ማህበራዊ ክብር አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ታላላቆችን ሲያከብሩ እና ሲመርቁ የሚነገር ቁልፍ ቃል የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (9.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (9.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (9.4.w3)"
+            "ምርቃት (Elder blessing - Core cultural value of elder respect)",
+            "ጠብ",
+            "ቁጣ",
+            "ስድብ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ምርቃት» የታላላቆች በጎ ምኞትና ጸሎት መግለጫ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u9-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Family love and cooperation are strong' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (9.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (9.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (9.4.x3)"
+            "የቤተሰብ ፍቅር እና ትብብር ጠንካራ ነው። (Family love and solidarity are strong - Accurate cultural expression)",
+            "ቤተሰብ የለንም።",
+            "በዓል አንወድም።",
+            "ሰርግ አይከበርም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (9.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (9.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (9.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ዓረፍተ ነገር የቤተሰብ ፍቅርንና ትብብርን በትክክል ይገልጻል።"
         }
       ]
     },
@@ -4515,24 +4420,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 9-4):",
+          "prompt": "የኢትዮጵያን የቤተሰብ ባህልና እሴቶችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (9.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (9.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (9.4.z3)"
+            "ታላላቆችን ማክበር፣ ምርቃት መቀበል፣ በበዓላት በአንድነት መሰብሰብ እና መተሳሰብ።",
+            "ቤተሰብ አብሮ አይበላም አይጠጣም።",
+            "ለታላላቆች ሰላምታ አይሰጥም።",
+            "በአማርኛ ሰርግ አይከበርም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የማህበራዊና የቤተሰብ ባህል እሴቶችን ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u9-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የቤተሰብ»):",
+          "prompt": "'ምርቃት / Blessing (from elders)' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የቤተሰብ",
-            "የቤተሰብ"
+            "ምርቃት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የቤተሰብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ምርቃት» (Mərraqat) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -4543,85 +4447,62 @@
     "subject": "amharic",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes) (ክፍል 5)",
+    "title": "የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Synthesis & Extended Family Discourse)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የቤተሰብ አባላት መጠሪያዎች፣ እና የባለቤትነት ቅጥያዎች (-ኤ፣ -ህ፣ -ሽ፣ -ኡ፣ -ዋ)። (ክፍል 5)።",
+    "objective": "የቅርብና የተዘረጋ ቤተሰብን፣ የባለቤትነት ቅጥያዎችን እና የባህል እሴቶችን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፱ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. የቅርብ ቤተሰብ: አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባለቤት\n\n፪. የተዘረጋ ቤተሰብ: አያት፣ አጎት፣ አክስት፣ የአጎት ልጅ፣ አማች\n\n፫. የባለቤትነት ቅጥያዎች: -ኤ/-ዬ፣ -ህ፣ -ሽ፣ -ኡ/-ው፣ -ዋ፣ -አችን፣ -አችሁ፣ -አቸው\n\n፬. ባህላዊ እሴቶች: አክብሮት፣ ምርቃት፣ የቤተሰብ ስብሰባ፣ ሰርግ",
       "examples": [
         {
-          "target": "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)' to the students."
+          "target": "በዓመታዊው የቤተሰብ ስብሰባ ላይ አያቶቻችን፣ አጎቶቻችንና የአጎት ልጆቻችን በሙሉ በደስታ ተገናኙ።",
+          "reading": "Bä'amätawiw yäbetäsäb səbsäba lay ayyatoččaččən, agottoččaččənna yä'agott ləğoččaččən bämulu bädästa tägänanyu. [bɛʔamɛtaˈwiw jɛbetɛˈsɛb sɨbˈsɛba laj ʔajːatoˈtʃːatʃːɨn ʔaɡotːoˈtʃːatʃːɨnːa jɛʔaˈɡot lɨdʒoˈtʃːatʃːɨn bɛmuˈlu bɛdɛsˈta tɛɡɛˈnaɲu] (beh-ah-meh-tah-WEE-w yeh-bay-teh-SEB sub-seh-BAH lye eye-yah-tohch-CHAHCH-chun, ah-goht-tohch-CHAHCH-chun-nah yeh-ah-GOHT luh-johch-CHAHCH-chun beh-MOO-loo beh-des-TAH teh-geh-NAHN-yoo)",
+          "translation": "At the annual family gathering, our grandparents, our uncles, and our cousins all happily reunited."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኛ የታላላቆቻችንን ምክር ሰምተን ምርቃታቸውን ተቀብለን በሰላም ወደ ቤታችን ተመለስን።",
+          "reading": "Ənnya yätalalaqwoččaččənən məkər sämətän mərraqataččäwən täqäbbəlän bäsälam wädä betaččən tämälläsn. [ʔɨɲa jɛtalalakʼʷoˈtʃːatʃːɨnɨn mɨˈkɨr sɛmɨˈtɛn mɨrːakʼaˈtatʃːɛwɨn tɛkʼɛbːɨˈlɛn bɛsɛˈlam wɛdɛ beˈtatʃːɨn tɛmɛlːɛsn] (un-NYAH yeh-tah-lah-lah-k'wohch-CHAHCH-chun-un muh-KUR seh-muh-TEN mur-rah-k'ah-TAHCH-chew-un teh-k'eb-buh-LEN beh-seh-LAHM weh-DEH bay-TAHCH-chun teh-mel-LES-un)",
+          "translation": "We listened to our elders' advice, received their blessing, and returned peacefully to our home."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ትክክለኛ የባለቤትነት ቅጥያዎችን መጠቀም የቤተሰብ ግንኙነትን በግልጽ ለመግለጽ ያስችላል።",
+          "reading": "Təkəkkəlänya yäbaläbetənnät qət’t’əyawoččən mät’t’äqäm yäbetäsäb gənənyunnätən bäğəlts lämägläts yasčəlall. [tɨkɨkːɨˈlɛɲa jɛbalɛbetɨnːɛt kʼɨtʼːɨjaˈwotʃːɨn mɛtʼːɛˈkʼɛm jɛbetɛˈsɛb ɡɨnɨɲunːɛˈtɨn bɛɡɨlts lɨmɛɡˈlɛts jasˈtʃɨlal] (tuh-kuhk-kuh-LEN-yah yeh-bah-leh-bay-tun-NET k'ut'-t'uh-yah-wohch-CHUN met'-t'eh-K'EM yeh-bay-teh-SEB gun-un-yoon-NET-un beh-GULTS luh-meg-LETS yahs-chuh-LAHL)",
+          "translation": "Using accurate possessive suffixes makes it possible to express family relationships clearly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis: Nuclear + Extended + Suffixes (-ኤ/-አችን/-አቸው) + Blessings (ምርቃት)!"
+      ],
+      "culturalNotes": [
+        "የቤተሰብ ታሪክንና የዘር ሐረግን ጠንቅቆ ማወቅ በኢትዮጵያ ማህበረሰብ ዘንድ የማንነትና የክብር መገለጫ ተደርጎ ይወሰዳል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የቤተሰብ፣ የዝምድና እና የባለቤትነት ቅጥያዎችን ያጣመረው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (9.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (9.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (9.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (9.5.w3)"
+            "አያቶቻችን፣ ወላጆቻችን እና ልጆቻችን በቤታችን ተሰብስበው በዓሉን አከበሩ። (Integrated family and possessive syntax)",
+            "መኪና ብቻ ነዳን።",
+            "አቅጣጫው ወደ ቀኝ ነው።",
+            "ምንም ቤተሰብ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ አያቶችን፣ ወላጆችን፣ ልጆችንና የባለቤትነት ቅጥያዎችን በአንድነት አቀናጅቷል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u9-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የተዘረጋ ቤተሰብንና ምርቃትን በአንድ ላይ የያዘው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (9.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (9.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (9.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (9.5.x3)"
+            "አጎቶቻችንና አክስቶቻችን መጥተው ምርቃት ሰጡን። (Our uncles and aunts came and gave us blessings - Comprehensive sentence)",
+            "አጎቴ መጽሐፍ አልገዛም።",
+            "ትላንትና ዝናብ ዘነበ።",
+            "ታሪፉ ሃያ ብር ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የቤተሰብ ግንኙነት እና የባለቤትነት ቅጥያዎች (Family & Possessive Suffixes)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (9.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (9.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (9.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (9.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የተዘረጋ ቤተሰብን (አጎቶች፣ አክስቶች) እና ምርቃትን ያዛምዳል።"
         }
       ]
     },
@@ -4629,24 +4510,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 9-5):",
+          "prompt": "የክፍል 9 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (9.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (9.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (9.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (9.5.z3)"
+            "የቅርብና የተዘረጋ ቤተሰብ አባላት፣ የባለቤትነት ቅጥያዎች (በሁሉም መደቦች)፣ እንዲሁም የቤተሰብ ባህልና ምርቃት ተካተዋል።",
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው።",
+            "በአማርኛ የቤተሰብ መጠሪያዎች አይለዩም።",
+            "ምንም ሰዋሰዋዊ ህግ አልተማርንም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 9ን የተሟላ ይዘት ያጠቃልላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u9-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የቤተሰብ»):",
+          "prompt": "'ቤተሰብ / Family' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የቤተሰብ",
-            "የቤተሰብ"
+            "ቤተሰብ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የቤተሰብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤተሰብ» (Betäsäb) ነው።"
         }
       ],
       "passThreshold": 0.8
