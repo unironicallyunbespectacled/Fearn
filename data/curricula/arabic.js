@@ -6419,85 +6419,89 @@
     "subject": "arabic",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "المستقبل وحروف النصب (Future & Subjunctive) (الدرس 1)",
+    "title": "التعبير عن المستقبل بحرفي السين وسوف (The Future Markers: Sa- & Sawfa)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: التعبير عن المستقبل بحرفي (السين وسوف)، وأدوات نصب الفعل المضارع (أن، لن، كي، حتى، لام التعليل). (الجزء 1).",
+    "objective": "إتقان التعبير عن الخطط المستقبلية القريبة والبعيدة باستخدام حرفي الاستقبال (السين وسَوْفَ)، ومعرفة حكم بقاء الفعل المضارع مرفوعًا بعدهما.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يتحول الفعل المضارع من الدلالة على الحاضر إلى المستقبل بدخول أحد حرفي الاستقبال:\n\nأولاً: حَرْفَا الاسْتِقْبَالِ فِي اللُّغَةِ العَرَبِيَّةِ:\n1.【السِّينُ «سَـ» (The Prefix Sa-)】:\n   - حرف استقبال للمستقبل القريب (Near Future).\n   - يتصل مباشرة بأول الفعل المضارع دون مسافة فاصلة:\n   - «سَأُسَافِرُ غَدًا» [sa-usāfiru ghadan] (I will travel tomorrow).\n   - «سَيَصِلُ الضُّيُوفُ قَرِيبًا» [sa-yaṣilu aḍ-ḍuyūfu qarīban].\n2.【سَوْفَ (Sawfa)】:\n   - كلمة منفصلة تدل على الاستقبال للمستقبل البعيد والخطط الممتدة (Distant / Long-term Future):\n   - «سَوْفَ نَبْنِي مَشْرُوعَنَا بَعْدَ التَّخَرُّجِ» (We will build our project after graduation).\n   - «سَوْفَ يُحَقِّقُ أَحْلَامَهُ بِالعَمَلِ الجَادِّ».\n\nثانياً: الحُكْمُ الإِعْرَابِيُّ لِلْفِعْلِ بَعْدَهُمَا:\n- لا تُؤَثِّرُ «السِّينُ» وَ«سَوْفَ» فِي إِعْرَابِ الفِعْلِ؛ فَيَبْقَى الفِعْلُ المُضَارِعُ **مَرْفُوعًا بِالضَّمَّةِ الظَّاهِرَةِ** (أو ثبوت النون للأفعال الخمسة):\n  - «سَيَكْتُبُ» (فعل مضارع مرفوع بالضمة).\n  - «سَوْفَ تَعْمَلُونَ» (فعل مضارع مرفوع بثبوت النون).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المستقبل وحروف النصب (Future & Subjunctive)' to students in an accurate academic style."
+          "target": "سَأَبْدَأُ دِرَاسَتِي الجَامِعِيَّةَ فِي فَصْلِ الخَرِيفِ القَادِمِ بِعَزِيمَةٍ وَإِصْرَارٍ.(Sa-abdaʾu dirāsatī al-jāmiʿiyyata fī faṣli al-kharīfi al-qādimi bi-ʿazīmatin wa-iṣrār.)",
+          "reading": "[sa.ʔab.da.ʔu di.raː.sa.tiː‿l.ʒaː.mi.ʕij.ja.ta fiː fasˤ.li‿l.xa.riː.fi‿l.qaː.di.mi bi.ʕa.ziː.ma.tin wa.ʔisˤ.raːr] (Sa-ab-da-ʾu di-rā-sa-tī al-jā-mi-ʿiy-ya-ta fī faṣ-li al-kha-rī-fi al-qā-di-mi bi-ʿa-zī-ma-tin wa-iṣ-rār.)",
+          "translation": "I will start my university studies in the coming autumn semester with determination and persistence."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "سَوْفَ نَبْنِي مَشْرُوعَنَا التِّجَارِيَّ الخَاصَّ بَعْدَ اكْتِسَابِ الخِبْرَةِ اللَّازِمَةِ.(Sawfa nabnī mashrūʿanā al-khāṣṣa baʿda iktisābi al-khibrati al-lāzimah.)",
+          "reading": "[saw.fa nab.niː maʃ.ruː.ʕa.naː‿t.ti.ʒaː.rij.ja‿l.xaːsˤ.sˤa baʕ.da‿ik.ti.saː.bi‿l.xib.ra.ti‿l.laː.zi.mah] (Saw-fa nab-nī mash-rū-ʿa-nā at-ti-jā-riy-ya al-khāṣ-ṣa baʿ-da ik-ti-sā-bi al-khib-ra-ti al-lā-zi-mah.)",
+          "translation": "We will build our private commercial project after acquiring the necessary experience."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَدْخُلُ السِّينُ عَلَى المُضَارِعِ لِلْمُسْتَقْبَلِ القَرِيبِ، بَيْنَمَا تَدُلُّ «سَوْفَ» عَلَى المُسْتَقْبَلِ البَعِيدِ.(Tadkhulu as-sīnu ʿalā al-muḍāriʿi li-l-mustaqbali al-qarīb, baynamā tadullu 'sawfa' ʿalā al-mustaqbali al-baʿīd.)",
+          "reading": "[tad.xu.lu‿s.siː.nu ʕa.laː‿l.mu.dˤaː.ri.ʕi lil.mus.taq.ba.li‿l.qa.riːb, baj.na.maː ta.dul.lu «saw.fa» ʕa.laː‿l.mus.taq.ba.li‿l.ba.ʕiːd] (Tad-khu-lu as-sī-nu ʿa-lā al-mu-ḍā-ri-ʿi li-l-mus-taq-ba-li al-qa-rīb, bay-na-mā ta-dul-lu 'saw-fa' ʿa-lā al-mus-taq-ba-li al-ba-ʿīd.)",
+          "translation": "The letter Seen enters upon the present tense for the near future, while 'sawfa' indicates the distant future."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "سَيَحْصُلُ المُتَفَوِّقُونَ عَلَى مِنْحَةٍ دِرَاسِيَّةٍ فِي أَعْرَقِ الجَامِعَاتِ العَالَمِيَّةِ.(Sa-yaḥṣulu al-mutafawwiqūna ʿalā minḥatin dirāsiyyatin fī aʿraqi al-jāmiʿāti al-ʿālamiyyah.)",
+          "reading": "[sa.jaħ.sˤu.lu‿l.mu.ta.faw.wi.quː.na ʕa.laː min.ħa.tin di.raː.sij.ja.tin fiː ʔaʕ.ra.qi‿l.ʒaː.mi.ʕaː.ti‿l.ʕaː.la.mij.jah] (Sa-yaḥ-ṣu-lu al-mu-ta-faw-wi-qū-na ʿa-lā min-ḥa-tin di-rā-siy-ya-tin fī aʿ-ra-qi al-jā-mi-ʿā-ti al-ʿā-la-miy-yah.)",
+          "translation": "The high-achieving students will receive an academic scholarship in the most prestigious global universities."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سِينٌ لِقُرْبِ غَدٍ تَمْضِي مُتَّصِلَهْ، وَسَوْفَ تَبْنِي لِبُعْدِ الأَمْرِ أَمَلَهْ!"
+      ],
+      "culturalNotes": [
+        "التخطيط للمستقبل وعلو الهمة من أنبل الصفات التي حثت عليها الحكمة العربية، حيث قيل: «بِقَدْرِ الكَدِّ تُكْتَسَبُ المَعَالِي، وَمَنْ طَلَبَ العُلَا سَهِرَ اللَّيَالِي»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» (الدرس 1)؟",
+          "prompt": "ما هو الحرف المتصل الذي يدخل على الفعل المضارع ليدل على المستقبل القريب؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (11.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (11.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (11.1.w3)"
+            "السِّينُ «سَـ» (The prefix Sa-)",
+            "حرف اللام",
+            "حرف الباء",
+            "حرف الواو"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "السين «سَـ» حرف استقبال يتصل بالمضارع مباشرة ويدل على المستقبل القريب: «سَأَكْتُبُ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الإعراب الصحيح للفعل المضارع بعد «سَوْفَ» في جملة «سَوْفَ نَنْجَحُ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (Indicative with Ḍammah)",
+            "منصوب بالفتحة",
+            "مجزوم بالسكون",
+            "مبني على الفتح"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«سَوْفَ» و«السين» لا تؤثران في إعراب الفعل المضارع؛ فيظل مرفوعًا بالضمة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u11-l1):",
+          "prompt": "اختر الجملة التي تعبر عن خطة مستقبلية بعيدة باستخدام «سَوْفَ»:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (11.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (11.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (11.1.x3)"
+            "سَوْفَ أُؤَسِّسُ شَرِكَتِي الهَنْدَسِيَّةَ بَعْدَ عَشْرِ سَنَوَاتٍ. (I will establish my engineering company after ten years.)",
+            "سوف أسافر أمس إلى المطار",
+            "سوف سافرت في الصيف الماضي",
+            "خطة مستقبل سوف سين سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف «سَوْفَ» مع المضارع «أُؤَسِّسُ» للدلالة على المدى الزمني البعيد بصحة تامة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المستقبل وحروف النصب (Future & Subjunctive)»؟",
+          "prompt": "كيف تكتب جملة «سوف أذهب» باستخدام حرف الاستقبال المتصل؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (11.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (11.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (11.1.y3)"
+            "سَأَذْهَبُ (Sa-adhhabu)",
+            "سوفأذهب",
+            "س اذهب",
+            "أساذهب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "تتصل السين بالفعل مباشرة دون مسافة: «سَأَذْهَبُ»."
         }
       ]
     },
@@ -6505,24 +6509,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 11-1)؟",
+          "prompt": "اختر الفقرة التي توظف حرفي الاستقبال «السين» و«سوف» للتفريق بين القريب والبعيد بدقة نحوية تامة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (11.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (11.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (11.1.z3)"
+            "سَأُقَدِّمُ أَوْرَاقِي لِلْجَامِعَةِ غَدًا صَبَاحًا؛ وَسَوْفَ أُوَاصِلُ دِرَاسَتِي الأَكَادِيمِيَّةَ حَتَّى أَنَالَ شَهَادَةَ الدُّكْتُورَاهِ فِي المُسْتَقْبَلِ. (I will submit my papers to the university tomorrow morning; and I will continue my academic study until I obtain the PhD degree in the future.)",
+            "سأقدم أوراقي أمس وسوف واصلت دراستي بالماضي خطأ.",
+            "مستقبل سين سوف غدا سنوات دكتوراه سكون فتحة ضمة.",
+            "لن يدرس الطالب ولن يقدم اوراقه ابدا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تستخدم «سَأُقَدِّمُ» لغد (القريب) و«سَوْفَ أُوَاصِلُ» للمستقبل البعيد ببيان وفصاحة كاملة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u11-l1) باللغة العربية (مثال: «المستقبل»):",
+          "prompt": "اكتب باللغة العربية الفصحى حرف الاستقبال المنفصل الذي يدل على المستقبل البعيد (اكتب: «سوف»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المستقبل",
-            "المستقبل"
+            "سوف",
+            "سَوْفَ",
+            "سَوْف"
           ],
-          "explanation": "المصطلح الصحيح هو «المستقبل»."
+          "explanation": "الحرف المنفصل هو «سوف»."
         }
       ],
       "passThreshold": 0.8
@@ -6533,85 +6538,89 @@
     "subject": "arabic",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "المستقبل وحروف النصب (Future & Subjunctive) (الدرس 2)",
+    "title": "حرف النصب والمصدرية «أَنْ» والتعبير عن الرغبات (Subjunctive Particle 'An' & Desires)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: التعبير عن المستقبل بحرفي (السين وسوف)، وأدوات نصب الفعل المضارع (أن، لن، كي، حتى، لام التعليل). (الجزء 2).",
+    "objective": "إتقان استخدام حرف النصب والمصدرية «أَنْ» مع أفعال الرغبة والرجاء (أُرِيدُ، أَرْجُو، أَتَمَنَّى، يَجِبُ)، وإعراب المضارع المنصوب بالفتحة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد حرف النصب «أَنْ» من أكثر الأدوات استعمالاً في الربط بين الأفعال والتعبير عن الإرادة:\n\nأولاً: حَرْفُ النَّصْبِ وَالمَصْدَرِيَّةِ «أَنْ» (Subjunctive 'An'):\n- يدخل على الفعل المضارع فينصبه بـ **الفَتْحَةِ الظَّاهِرَةِ** (Subjunctive):\n  - «أَنْ أَتَعَلَّمَ» [an ataʿallama] | «أَنْ تَنْجَحَ» [an tanjaḥa].\n  - في الأفعال الخمسة يُنصب بحذف النون: «أَنْ تَتَخَرَّجُوا».\n\nثانياً: أفعال الرغبة والطلب التي تقترن بـ «أَنْ»:\n1.【أُرِيدُ أَنْ... (I want to...)】: «أُرِيدُ أَنْ أُصْبِحَ طَبِيبًا جَرَّاحًا».\n2.【أَرْجُو أَنْ... (I hope to...)】: «أَرْجُو أَنْ تُحَقِّقَ النَّجَاحَ».\n3.【أَتَمَنَّى أَنْ... (I wish to...)】: «أَتَمَنَّى أَنْ أُسَافِرَ حَوْلَ العَالَمِ».\n4.【يَجِبُ أَنْ... / يَنْبَغِي أَنْ... (It is necessary to/must)】: «يَجِبُ أَنْ نَجْتَهِدَ فِي دِرَاسَتِنَا».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المستقبل وحروف النصب (Future & Subjunctive)' to students in an accurate academic style."
+          "target": "أُرِيدُ أَنْ أَدْرُسَ الهَنْدَسَةَ المِعْمَارِيَّةَ فِي جَامِعَةِ دِمَشْقَ لِأُسَاهِمَ فِي إِعْمَارِ وَطَنِي.(Urīdu an adrusa al-handasata al-miʿmāriyyata fī jāmiʿati Dimashqa li-usāhima fī iʿmāri waṭanī.)",
+          "reading": "[ʔu.riː.du ʔan ʔad.ru.sa‿l.han.da.sa.ta‿l.miʕ.maː.rij.ja.ta fiː ʒaː.mi.ʕa.ti di.maʃ.qa li.ʔu.saː.hi.ma fiː ʔiʕ.maː.ri wa.tˤa.niː] (U-rī-du an ad-ru-sa al-han-da-sa-ta al-miʿ-mā-riy-ya-ta fī jā-mi-ʿa-ti Di-mash-qa li-u-sā-hi-ma fī iʿ-mā-ri wa-ṭa-nī.)",
+          "translation": "I want to study architectural engineering at Damascus University to contribute to building my homeland."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "يَرْجُو كُلُّ طَالِبٍ أَنْ يَتَفَوَّقَ فِي امْتِحَانَاتِهِ النِّهَائِيَّةِ بِأَعْلَى الدَّرَجَاتِ.(Yarjū kullu ṭālibin an yatafawwaqa fī imtiḥānātihi an-nihāʾiyyati bi-aʿlā ad-darajāt.)",
+          "reading": "[jar.ʒuː kul.lu tˤaː.li.bin ʔan ja.ta.faw.wa.qa fiː‿im.ti.ħaː.naː.ti.hi‿n.ni.haː.ʔij.ja.ti bi.ʔaʕ.laː‿d.da.ra.ʒaːt] (Yar-jū kul-lu ṭā-li-bin an ya-ta-faw-wa-qa fī im-ti-ḥā-nā-ti-hi an-ni-hā-ʾiy-ya-ti bi-aʿ-lā ad-da-ra-jāt.)",
+          "translation": "Every student hopes to excel in his final examinations with the highest grades."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُنْصَبُ الفِعْلُ المُضَارِعُ بِالفَتْحَةِ الظَّاهِرَةِ إِذَا سُبِقَ بِحَرْفِ النَّصْبِ «أَنْ».(Yunṣabu al-fiʿlu al-muḍāriʿu bi-l-fatḥati aẓ-ẓāhirati idhā subiqa bi-ḥarfi an-naṣbi 'an'.)",
+          "reading": "[jun.sˤa.bu‿l.fiʕ.lu‿l.mu.dˤaː.ri.ʕu bil.fat.ħa.ti‿zˤ.zˤaː.hi.ra.ti ʔi.ðaː su.bi.qa bi.ħar.fi‿n.nasˤ.bi «ʔan»] (Yun-ṣa-bu al-fiʿ-lu al-mu-ḍā-ri-ʿu bi-l-fat-ḥa-ti aẓ-ẓā-hi-ra-ti i-dhā su-bi-qa bi-ḥar-fi an-naṣ-bi 'an'.)",
+          "translation": "The present tense verb is made subjunctive with manifest fathah when preceded by the subjunctive particle 'an'."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَجِبُ عَلَيْنَا أَنْ نَحْتَرِمَ مُعَلِّمِينَا وَأَنْ نَسْتَفِيدَ مِنْ تَجَارِبِهِمُ القَيِّمَةِ.(Yajibu ʿalaynā an naḥtarima muʿallimīnā wa-an nastafīda min tajāribihimu al-qayyimah.)",
+          "reading": "[ja.ʒi.bu ʕa.laj.naː ʔan naħ.ta.ri.ma mu.ʕal.li.miː.naː wa.ʔan nas.ta.fiː.da min ta.ʒaː.ri.bi.hi.mu‿l.qaj.ji.mah] (Ya-ji-bu ʿa-lay-nā an naḥ-ta-ri-ma mu-ʿal-li-mī-nā wa-an nas-ta-fī-da min ta-jā-ri-bi-hi-mu al-qay-yi-mah.)",
+          "translation": "It is incumbent upon us to respect our teachers and to benefit from their valuable experiences."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَنْ حَرْفُ نَصْبٍ لِلرَّجَاءِ يَفْتَحُ الأَفْعَالْ، فَيَنْصِبُ الآتِيَ دَوْمًا بِأَبْهَى حَالْ!"
+      ],
+      "culturalNotes": [
+        "جامعة دمشق (أُسست عام 1903م باسم الجامعة السورية) تُعد من أقدم الجامعات الحديثة في العالم العربي وتميزت بتدريس الطب والهندسة باللغة العربية الفصحى."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» (الدرس 2)؟",
+          "prompt": "ما هي علامة إعراب الفعل المضارع «أَدْرُسَ» بعد حرف النصب «أَنْ» في «أُرِيدُ أَنْ أَدْرُسَ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (11.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (11.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (11.2.w3)"
+            "الفَتْحَةُ الظَّاهِرَةُ (Subjunctive Fatḥah)",
+            "الضمة الظاهرة",
+            "السكون",
+            "الكسرة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«أَنْ» أداة نصب تنصب الفعل المضارع بالفتحة الظاهرة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "أي الأفعال التالية يُستخدم للتعبير عن التمني والرجاء مقترنًا بـ «أَنْ»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَتَمَنَّى أَنْ / أَرْجُو أَنْ (I wish to / I hope to)",
+            "أكلت أن",
+            "كتبت أن",
+            "نمت أن"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«أَتَمَنَّى أَنْ» و«أَرْجُو أَنْ» هما الفعلان النموذجيان للتعبير عن الرغبات والآمال."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u11-l2):",
+          "prompt": "اختر الجملة المضبوطة إعرابيًا بدقة مع أداة النصب «أَنْ»:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (11.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (11.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (11.2.x3)"
+            "أَرْجُو أَنْ أُوَفَّقَ فِي خِدْمَةِ مُجْتَمَعِي وَأَهْلِي. (I hope to succeed in serving my community and family.)",
+            "أرجو أن أوفقُ بالضم بعد أن خطأ",
+            "أرجو أن أوفقْ بالسكون",
+            "رجاء أن توفيق سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«أُوَفَّقَ» فعل مضارع منصوب بالفتحة الظاهرة لوقوعه بعد «أَنْ»."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المستقبل وحروف النصب (Future & Subjunctive)»؟",
+          "prompt": "ما المعنى الدقيق للتركيب «يَجِبُ أَنْ نَعْمَلَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (11.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (11.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (11.2.y3)"
+            "يَتَحَتَّمُ وَيَلْزَمُ عَلَيْنَا العَمَلُ (We must / It is necessary that we work)",
+            "ربما نعمل غدا",
+            "لن نعمل ابدا",
+            "عملنا في الماضي"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«يَجِبُ أَنْ» تدل على الإلزام والوجوب المؤكد."
         }
       ]
     },
@@ -6619,24 +6628,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 11-2)؟",
+          "prompt": "اختر النص الذي يصف الطموح الجامعي باستخدام «أَنْ» المصدرية الناصبة للمضارع بإتقان تام:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (11.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (11.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (11.2.z3)"
+            "يَسْعَى الشَّابُّ الطَّمُوحُ إِلَى أَنْ يُطَوِّرَ مَهَارَاتِهِ، وَيَأْمُلُ أَنْ يُصْبِحَ مُتَرْجِمًا بَارِعًا يَنْقُلُ ثَقَافَاتِ العَالَمِ إِلَى لُغَتِهِ الأُمِّ. (The ambitious young man strives to develop his skills, and hopes to become a brilliant translator transferring world cultures to his mother tongue.)",
+            "يسعى الشاب ان يطورُ ويأمل ان يصبحُ بالضم في المضارع المنصوب.",
+            "طموح شاب ترجمة لغات مهارات سكون فتحة ضمة كسرة.",
+            "لا يريد الشاب ان يتعلم اي لغة جديدة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يضبط الأفعال بعد «أَنْ» بالفتحة «يُطَوِّرَ، يُصْبِحَ» مع فصاحة دلالية رفيعة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u11-l2) باللغة العربية (مثال: «المستقبل»):",
+          "prompt": "اكتب باللغة العربية الفصحى حرف النصب والمصدرية المستخدم بعد «أُرِيدُ» (اكتب: «أن»؛ بهمزتها):",
           "acceptedAnswers": [
-            "المستقبل",
-            "المستقبل"
+            "أن",
+            "أَنْ",
+            "ان"
           ],
-          "explanation": "المصطلح الصحيح هو «المستقبل»."
+          "explanation": "الحرف هو «أَنْ»."
         }
       ],
       "passThreshold": 0.8
@@ -6647,85 +6657,89 @@
     "subject": "arabic",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "المستقبل وحروف النصب (Future & Subjunctive) (الدرس 3)",
+    "title": "حرف النفي والنصب «لَنْ» ونفي المستقبل (Future Negation with 'Lan')",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: التعبير عن المستقبل بحرفي (السين وسوف)، وأدوات نصب الفعل المضارع (أن، لن، كي، حتى، لام التعليل). (الجزء 3).",
+    "objective": "إتقان نفي المستقبل المؤكد باستخدام أداة النفي والنصب «لَنْ»، وإعراب المضارع المنصوب بالفتحة بعدها، والتفريق بينها وبين نفي الماضي «لَمْ» والحاضر «لَا».",
     "presentation": {
-      "explanation": "",
+      "explanation": "«لَنْ» حرف نفي ونصب واستقبال يختص بنفي وقوع الفعل في المستقبل نفيًا قاطعًا:\n\nأولاً: عَمَلُ «لَنْ» وَدَلَالَتُهَا (Function & Meaning of 'Lan'):\n- تنفي الفعل المضارع في **المُسْتَقْبَلِ** نفيًا مؤكدًا، وتنصبه بـ **الفَتْحَةِ الظَّاهِرَةِ**:\n  - «لَنْ أَتَأَخَّرَ عَنِ المَوْعِدِ» [lan ata'akh-khara] (I will not be late for the appointment).\n  - «لَنْ نَسْتَسْلِمَ لِلْفَشَلِ» [lan nastaslima] (We will not surrender to failure).\n\nثانياً: علامات نصب المضارع بعد «لَنْ»:\n1.【الفتحة الظاهرة】: إذا كان صحيح الآخر أو معتلاً بالواو أو الياء («لَنْ يَكْتُبَ»، «لَنْ يَدْعُوَ»، «لَنْ يَقْضِيَ»).\n2.【الفتحة المقدرة】: إذا كان معتلاً بالألف للتعذر («لَنْ يَسْعَى»).\n3.【حذف النون】: إذا كان من الأفعال الخمسة («لَنْ يَتَخَلَّوْا عَنْ أَهْدَافِهِمْ»).\n\nثالثاً: المقارنة الذهبية بين أدوات النفي (Comparison of Negation Tools):\n- «مَا / لَمْ» -> لنفي الماضي («مَا كَتَبَ» / «لَمْ يَكْتُبْ»).\n- «لَا» -> لنفي الحاضر والعادة («لَا يَكْتُبُ الآنَ»).\n- «لَنْ» -> لنفي المستقبل قطعًا («لَنْ يَكْتُبَ غَدًا»).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المستقبل وحروف النصب (Future & Subjunctive)' to students in an accurate academic style."
+          "target": "لَنْ أَتَأَخَّرَ عَنْ مُحَاضَرَاتِي الجَامِعِيَّةِ، وَلَنْ أُهْمِلَ وَاجِبَاتِي الدِّرَاسِيَّةَ أَبَدًا.(Lan ata'akh-khara ʿan muḥāḍarātī al-jāmiʿiyyah, wa-lan uhmila wājibātī ad-dirāsiyyata abadā.)",
+          "reading": "[lan ʔa.ta.ʔax.xa.ra ʕan mu.ħaː.dˤa.raː.tiː‿l.ʒaː.mi.ʕij.jah, wa.lan ʔuh.mi.la waː.ʒi.baː.tiː‿d.di.raː.sij.ja.ta ʔa.ba.daː] (Lan a-ta-ʾakh-kha-ra ʿan mu-ḥā-ḍa-rā-tī al-jā-mi-ʿiy-yah, wa-lan uh-mi-la wā-ji-bā-tī ad-di-rā-siy-ya-ta a-ba-dā.)",
+          "translation": "I will not be late for my university lectures, and I will never neglect my study assignments."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "لَنْ يَنْدَمَ الإِنْسَانُ الَّذِي يُخَطِّطُ لِمُسْتَقْبَلِهِ بِعِنَايَةٍ وَيَسْتَشِيرُ أَهْلَ الخِبْرَةِ.(Lan yandama al-insānu alladhī yukhaṭṭiṭu li-mustaqbalihi bi-ʿināyatin wa-yastashīru ahla al-khibrah.)",
+          "reading": "[lan jan.da.ma‿l.ʔin.saː.nu‿l.la.ðiː ju.xatˤ.tˤi.tˤu li.mus.taq.ba.li.hi bi.ʕi.naː.ja.tin wa.jas.ta.ʃiː.ru ʔah.la‿l.xib.rah] (Lan yan-da-ma al-in-sā-nu al-la-dhī yu-khaṭ-ṭi-ṭu li-mus-taq-ba-li-hi bi-ʿi-nā-ya-tin wa-yas-ta-shī-ru ah-la al-khib-rah.)",
+          "translation": "The person who plans for his future carefully and consults experts will not regret."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "«لَنْ» حَرْفُ نَفْيٍ وَنَصْبٍ وَاسْتِقْبَالٍ يَنْصِبُ المُضَارِعَ وَيَنْفِي حُدُوثَهُ فِي المُسْتَقْبَلِ.(Lan ḥarfu nafyin wa-naṣbin wa-stiqbālin yanṣibu al-muḍāriʿa wa-yanfī ḥudūthahu fī al-mustaqbal.)",
+          "reading": "[«lan» ħar.fu naf.jin wa.nasˤ.bin was.tiq.baː.lin jan.sˤi.bu‿l.mu.dˤaː.ri.ʕa wa.jan.fiː ħu.duː.θa.hu fiː‿l.mus.taq.bal] ('Lan' ḥar-fu naf-yin wa-naṣ-bin wa-is-tiq-bā-lin yan-ṣi-bu al-mu-ḍā-ri-ʿa wa-yan-fī ḥu-dū-tha-hu fī al-mus-taq-bal.)",
+          "translation": "'Lan' is a particle of negation, subjunctive, and future that makes the present tense accusative and denies its occurrence in the future."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لَنْ يَفْشَلَ مَنْ يَبْذُلُ جُهْدَهُ بِإِخْلَاصٍ، بَلْ سَيَنَالُ النَّجَاحَ المُسْتَحَقَّ.(Lan yafshala man yabdhulu juhdahu bi-ikhlāṣ, bal sa-yanālu an-najāḥa al-mustaḥaqq.)",
+          "reading": "[lan jaf.ʃa.la man jab.ðu.lu ʒuh.da.hu bi.ʔix.laːsˤ, bal sa.ja.naː.lu‿n.na.ʒaː.ħa‿l.mus.ta.ħaqq] (Lan yaf-sha-la man yab-dhu-lu juh-da-hu bi-ikh-lāṣ, bal sa-ya-nā-lu an-na-jā-ḥa al-mus-ta-ḥaqq.)",
+          "translation": "He who exerts his effort with sincerity will not fail, but rather will attain well-deserved success."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "لَنْ تَنْفِيَ الآتِي بِنَصْبٍ قَاطِعٍ فَتَّاكْ، فَتْحٌ عَلَى الفِعْلِ يُضِيءُ مَسْرَاكْ!"
+      ],
+      "culturalNotes": [
+        "العزيمة التي لا تلين خلدها الشاعر العربي أبو القاسم الشابي في قوله: «إذا الشّعْبُ يَوْمًا أرَادَ الحَيَاةَ ... فَلا بُدّ أنْ يَسْتَجِيبَ القَدَر»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» (الدرس 3)؟",
+          "prompt": "ما هو التأثير النحوي لحرف «لَنْ» على الفعل المضارع الصحيح الآخر؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (11.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (11.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (11.3.w3)"
+            "يَنْصِبُهُ بِالفَتْحَةِ الظَّاهِرَةِ (Subjunctive with Fatḥah)",
+            "يجزمه بالسكون",
+            "يرفعه بالضمة",
+            "يبنيه على الكسر"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«لَنْ» حرف نفي ونصب واستقبال ينصب الفعل المضارع بالفتحة الظاهرة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الزمن الذي تنفيه أداة «لَنْ» في اللغة العربية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "المُسْتَقْبَلُ قَطْعًا (Future tense)",
+            "الماضي فقط",
+            "الحاضر والماضي معا",
+            "ليس له زمن"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«لَنْ» تختص بنفي المستقبل نفيًا مؤكدًا."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u11-l3):",
+          "prompt": "اختر الجملة التي تعبر عن نفي مستقبلي مؤكد ومضبوط نحويًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (11.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (11.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (11.3.x3)"
+            "لَنْ نَتَخَلَّى عَنْ مَبَادِئِنَا السَّامِيَةِ مَهْمَا كَانَتِ التَّحَدِّيَاتُ. (We will not abandon our noble principles whatever the challenges may be.)",
+            "لن نتخلىُ بالضم بعد لن",
+            "لن نتخلىْ بالسكون",
+            "نفي مستقبل لن مبادئ سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«لَنْ نَتَخَلَّى» نفي للمستقبل بفتحة مقدرة على الألف منع من ظهورها التعذر."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المستقبل وحروف النصب (Future & Subjunctive)»؟",
+          "prompt": "ما الفرق بين «لَمْ يَكْتُبْ» و«لَنْ يَكْتُبَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (11.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (11.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (11.3.y3)"
+            "«لَمْ» تَنْفِي المَاضِي بِالجَزْمِ، وَ«لَنْ» تَنْفِي المُسْتَقْبَلَ بِالنَّصْبِ (Lam negates past with jussive, Lan negates future with subjunctive)",
+            "كلاهما ينفيان الماضي",
+            "كلاهما ينفيان الحاضر",
+            "لا فرق بينهما"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«لَمْ» جازمة للماضي، بينما «لَنْ» ناصبة للمستقبل."
         }
       ]
     },
@@ -6733,24 +6747,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 11-3)؟",
+          "prompt": "اختر الفقرة التي توظف حرف النفي «لَنْ» في سياق الإصرار وعدم التراجع عن الأهداف المستقبلية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (11.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (11.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (11.3.z3)"
+            "قَالَ الخِرِّيجُ بِثِقَةٍ: «لَنْ أَقْبَلَ بِأَقَلَّ مِنَ التَّمَيُّزِ، وَلَنْ أَتَوَانَى عَنْ تَطْوِيرِ قُدُرَاتِي، لِأَنَّ النَّجَاحَ الحَقِيقِيَّ يَتَطَلَّبُ مُثَابَرَةً دَائِمَةً». (The graduate said with confidence: 'I will not accept less than excellence, and I will not hesitate in developing my capabilities, because true success requires permanent perseverance.')",
+            "قال الخريج بالماضي فقط بلا نفي مستقبلي.",
+            "نفي لن فتحة تميز قدرات نجاح سكون فتحة ضمة.",
+            "استسلم الخريج وقرر عدم العمل نهائيا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «لَنْ أَقْبَلَ، وَلَنْ أَتَوَانَى» لنفي التراجع المستقبلي بفتحة ظاهرة ومقدرة في نسق أدبي بليغ."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u11-l3) باللغة العربية (مثال: «المستقبل»):",
+          "prompt": "اكتب باللغة العربية الفصحى حرف النصب والنفي الذي ينفي وقوع الفعل في المستقبل (اكتب: «لن»):",
           "acceptedAnswers": [
-            "المستقبل",
-            "المستقبل"
+            "لن",
+            "لَنْ"
           ],
-          "explanation": "المصطلح الصحيح هو «المستقبل»."
+          "explanation": "الحرف هو «لن»."
         }
       ],
       "passThreshold": 0.8
@@ -6761,85 +6775,89 @@
     "subject": "arabic",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "المستقبل وحروف النصب (Future & Subjunctive) (الدرس 4)",
+    "title": "أدوات التعليل والغاية: كَيْ، حَتَّى، ولام التعليل (Subjunctive Particles of Purpose: Kay, Ḥattā, Li-)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: التعبير عن المستقبل بحرفي (السين وسوف)، وأدوات نصب الفعل المضارع (أن، لن، كي، حتى، لام التعليل). (الجزء 4).",
+    "objective": "إتقان أدوات نصب الفعل المضارع الدالة على التعليل والغاية (كَيْ / لِكَيْ، حَتَّى، لَامُ التَّعْلِيلِ «لِـ»)، وإعراب المضارع المنصوب بالفتحة بعدها.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُستخدم أدوات التعليل والغاية لبيان سبب حدوث الفعل والهدف المرجو منه:\n\nأولاً: أَدَوَاتُ التَّعْلِيلِ وَالغَايَةِ النَّاصِبَةِ (Subjunctive Particles of Purpose):\n1.【كَيْ / لِكَيْ (In order to / So that)】:\n   - تفيد التعليل وتنصب الفعل المضارع بـ **الفَتْحَةِ الظَّاهِرَةِ**:\n   - «أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي حَيَاتِي» [li-kay anjaḥa].\n2.【حَتَّى (Until / In order that)】:\n   - تفيد الغاية أو التعليل وتنصب الفعل المضارع:\n   - «اجْتَهِدْ حَتَّى تُحَقِّقَ أَمَلَكَ» [ḥattā tuḥaqqiqa amataka].\n3.【لَامُ التَّعْلِيلِ «لِـ» (Lam of Purpose)】:\n   - لام مكسورة تدخل على المضارع لبيان العلة، وتنصبه بأن مضمرة:\n   - «سَافَرْتُ لِأَتَعَلَّمَ لُغَاتٍ جَدِيدَةً» [li-ataʿallama].\n\nثانياً: التَّفْرِيقُ بَيْنَ لَامِ الجَرِّ وَلَامِ التَّعْلِيلِ:\n- 【لَامُ الجَرِّ】: تدخل على الأسماء وتجرها بالكسرة («ذَهَبْتُ لِـلمَكْتَبَةِ»).\n- 【لَامُ التَّعْلِيلِ】: تدخل على الأفعال المضارعة وتنصبها بالفتحة («ذَهَبْتُ لِـأَقْرَأَ كِتَابًا»).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المستقبل وحروف النصب (Future & Subjunctive)' to students in an accurate academic style."
+          "target": "أَدْرُسُ اللُّغَةَ العَرَبِيَّةَ لِأَفْهَمَ القُرْآنَ الكَرِيمَ وَأَتَذَوَّقَ أَدَبَ الشُّعَرَاءِ وَالبُلَغَاءِ.(Adrusu al-lughata al-ʿarabiyyata li-afhama al-Qurʾāna al-karīma wa-atadhawwaqa adaba ash-shuʿarāʾi wa-al-bulaghāʾ.)",
+          "reading": "[ʔad.ru.su‿l.lu.ɣa.ta‿l.ʕa.ra.bij.ja.ta li.ʔaf.ha.ma‿l.qur.ʔaː.na‿l.ka.riː.ma wa.ʔa.ta.ðaw.wa.qa ʔa.da.ba‿ʃ.ʃu.ʕa.raː.ʔi wal.bu.la.ɣaːʔ] (Ad-ru-su al-lu-gha-ta al-ʿa-ra-biy-ya-ta li-af-ha-ma al-Qur-ʾā-na al-ka-rī-ma wa-a-ta-dhaw-wa-qa a-da-ba ash-shu-ʿa-rā-ʾi wa-al-bu-la-ghā-ʾ.)",
+          "translation": "I study the Arabic language in order to understand the Holy Quran and appreciate the literature of poets and orators."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "اسْتَيْقِظْ مُبَكِّرًا كَيْ تَلْحَقَ بِقِطَارِ الصَّبَاحِ دُونَ أَنْ تَتَأَخَّرَ.(Istayqiẓ mubakkiran kay talḥaqa bi-qiṭāri aṣ-ṣabāḥi dūna an tata'akh-khar.)",
+          "reading": "[ʔis.taj.qizˤ mu.bak.ki.ran kaj tal.ħa.qa bi.qi.tˤaː.ri‿sˤ.sˤa.baː.ħi duː.na ʔan ta.ta.ʔax.xar] (Is-tay-qiẓ mu-bak-ki-ran kay tal-ḥa-qa bi-qi-ṭā-ri aṣ-ṣa-bā-ḥi dū-na an ta-ta-ʾakh-khar.)",
+          "translation": "Wake up early in order to catch the morning train without being late."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تَنْصِبُ «كَيْ» وَ«حَتَّى» وَ«لَامُ التَّعْلِيلِ» الفِعْلَ المُضَارِعَ لِبَيَانِ الغَايَةِ وَالسَّبَبِ.(Tanṣibu 'kay' wa-'ḥattā' wa-'lāmu at-taʿlīl' al-fiʿla al-muḍāriʿa li-bayāni al-ghāyati wa-as-sabab.)",
+          "reading": "[tan.sˤi.bu «kaj» wa.«ħat.taː» wa.«laː.mu‿t.taʕ.liːl» al.fiʕ.la‿l.mu.dˤaː.ri.ʕa li.ba.jaː.ni‿l.ɣaː.ja.ti was.sa.bab] (Tan-ṣi-bu 'kay' wa-'ḥat-tā' wa-'lā-mu at-taʿ-līl' al-fiʿ-la al-mu-ḍā-ri-ʿa li-ba-yā-ni al-ghā-ya-ti wa-as-sa-bab.)",
+          "translation": "'Kay', 'hatta', and the lam of purpose make the present tense subjunctive to explain purpose and cause."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "وَاصَلَ العُلَمَاءُ البَحْثَ حَتَّى يَكْتَشِفُوا العِلَاجَ المُنَاسِبَ لِلأَمْرَاضِ المُسْتَعْصِيَةِ.(Wāṣala al-ʿulamāʾu al-baḥtha ḥattā yaktashifū al-ʿilāja al-munāsiba li-l-amrāḍi al-mustaʿṣiyah.)",
+          "reading": "[waː.sˤa.la‿l.ʕu.la.maː.ʔu‿l.baħ.θa ħat.taː jak.ta.ʃi.fuː‿l.ʕi.laː.ʒa‿l.mu.naː.si.ba lil.ʔam.raː.dˤi‿l.mus.taʕ.sˤi.jah] (Wā-ṣa-la al-ʿu-la-mā-ʾu al-baḥ-tha ḥat-tā yak-ta-shi-fū al-ʿi-lā-ja al-mu-nā-si-ba li-l-am-rā-ḍi al-mus-taʿ-ṣi-yah.)",
+          "translation": "Scientists continued the research until they discovered the appropriate treatment for incurable diseases."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "كَيْ لِلتَّعْلِيلِ وَحَتَّى تُرَى، وَاللَّامُ تَنْصِبُ فِعْلَ مَنْ شَمَّرَا!"
+      ],
+      "culturalNotes": [
+        "ربط الغاية بالوسيلة من ركائز الفكر الإنساني العربي، حيث قال ابن خلدون في مقدمته عن ارتباط التعلم بالصنائع والعمران البشري."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» (الدرس 4)؟",
+          "prompt": "ما هي الأداة التي تعني «من أجل أن» وتنصب الفعل المضارع بالفتحة؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (11.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (11.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (11.4.w3)"
+            "كَيْ / لِكَيْ (In order to / So that)",
+            "لم الجازمة",
+            "ما النافية",
+            "قد التحقيقية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«كَيْ / لِكَيْ» أداة تعليل ناصبة للمضارع: «أَتَعَلَّمُ لِكَيْ أَتَفَوَّقَ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو نوع اللام في جملة «جِئْتُ لِأَسْتَفِيدَ» وما عملها؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "لَامُ التَّعْلِيلِ، تَنْصِبُ الفِعْلَ المُضَارِعَ (Lam of purpose, causes subjunctive)",
+            "لام الجر تجر الاسم فقط",
+            "لام التوكيد",
+            "لام الأمر الجازمة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«لِأَسْتَفِيدَ» اللام هنا لام التعليل، وتنصب الفعل المضارع بالفتحة."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u11-l4):",
+          "prompt": "اختر الجملة التي توظف «حَتَّى» الناصبة للمضارع لبيان الغاية والوصول إلى الهدف:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (11.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (11.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (11.4.x3)"
+            "سَأَجْتَهِدُ فِي دِرَاسَتِي حَتَّى أَنَالَ المَرْتَبَةَ الأُولَى. (I will strive in my study until I achieve the first rank.)",
+            "سأجتهد حتى أنالُ بالضم بعد حتى",
+            "اجتهد حتى انال بالسكون",
+            "غاية حتى دراسة سكون فتحة"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«أَنَالَ» فعل مضارع منصوب بالفتحة بعد «حَتَّى» الدالة على الغاية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المستقبل وحروف النصب (Future & Subjunctive)»؟",
+          "prompt": "ما علامة نصب الأفعال الخمسة بعد «كَيْ» و«حَتَّى»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (11.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (11.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (11.4.y3)"
+            "حَذْفُ النُّونِ (Dropping of Nūn)",
+            "الفتحة المقدرة",
+            "السكون",
+            "ثبوت النون"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الأفعال الخمسة تنصب بحذف النون: «لِتَنْجَحُوا» أصلها «تنجحون»."
         }
       ]
     },
@@ -6847,24 +6865,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 11-4)؟",
+          "prompt": "اختر الفقرة التي تدمج أدوات التعليل والغاية (كي، حتى، لام التعليل) بأسلوب بياني سليم وإعراب دقيق:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (11.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (11.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (11.4.z3)"
+            "يَتَدَرَّبُ المُهَنْدِسُونَ يَوْمِيًّا لِيَكْتَسِبُوا الخِبْرَةَ، وَيَقْرَؤُونَ المَرَاجِعَ كَيْ يُوَسِّعُوا مَعَارِفَهُمْ، وَيُوَاظِبُونَ عَلَى العَمَلِ حَتَّى يُنْجِزُوا المَشْرُوعَ بِإِتْقَانٍ. (Engineers train daily in order to acquire experience, and read references so that they expand their knowledge, and persist in work until they complete the project with perfection.)",
+            "يتدرب المهندسون بثبوت النون في كل الافعال بعد ادوات النصب خطأ.",
+            "ادوات تعليل كي حتى لام التعليل سكون فتحة ضمة.",
+            "لم يتدرب المهندسون وتوقف المشروع نهائيا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف «لِيَكْتَسِبُوا»، «كَيْ يُوَسِّعُوا»، «حَتَّى يُنْجِزُوا» بحذف النون للأفعال الخمسة المنصوبة بنسق لغوي فائق."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u11-l4) باللغة العربية (مثال: «المستقبل»):",
+          "prompt": "اكتب باللغة العربية الفصحى أداة التعليل المكونة من حرفين وتبدأ بالكاف (اكتب: «كي»):",
           "acceptedAnswers": [
-            "المستقبل",
-            "المستقبل"
+            "كي",
+            "كَيْ"
           ],
-          "explanation": "المصطلح الصحيح هو «المستقبل»."
+          "explanation": "الأداة هي «كي»."
         }
       ],
       "passThreshold": 0.8
@@ -6875,85 +6893,89 @@
     "subject": "arabic",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "المستقبل وحروف النصب (Future & Subjunctive) (الدرس 5)",
+    "title": "حوار التخرج الجامعي والطموحات المهنية المستقبلية (University Graduation & Career Goals Dialogue)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: التعبير عن المستقبل بحرفي (السين وسوف)، وأدوات نصب الفعل المضارع (أن، لن، كي، حتى، لام التعليل). (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة: أدوات المستقبل (سـ، سوف)، ونواصب المضارع (أن، لن، كي، حتى، لام التعليل) في حوار تخرج وطموحات مهنية راقٍ ومؤثر.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الحادية عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات النحوية للمستقبل وأدوات النصب في حوار فكري طموح يدور بين خريجين جامعيين متميزين (طارق ومريم) على مدرج الجامعة بعد حفل التخرج، يناقشان فيه خططهما المستقبلية وتطلعاتهما لخدمة المجتمع:\n\nمحاور النص الحواري الشامل:\n1.【التعبير عن الاستقبال القريب والبعيد】: «سَنَبْدَأُ رِحْلَتَنَا المِهْنِيَّةَ»، «سَوْفَ نُحَقِّقُ أَحْلَامَنَا».\n2.【توظيف (أَنْ) مع أفعال الرغبة والإرادة】: «أُرِيدُ أَنْ أَدْرُسَ»، «أَرْجُو أَنْ أُوَفَّقَ».\n3.【توظيف نفي المستقبل بـ (لَنْ)】: «لَنْ نَتَوَقَّفَ عَنِ التَّعَلُّمِ»، «لَنْ نَسْتَسْلِمَ لِلصِّعَابِ».\n4.【توظيف أدوات التعليل والغاية (كَيْ، حَتَّى، لام التعليل)】: «لِأُسَاهِمَ فِي الإِعْمَارِ»، «كَيْ أَبْتَكِرَ حُلُولًا»، «حَتَّى أَنَالَ الدُّكْتُورَاهَ».\n5.【الاعتزاز بالعلم وخدمة الوطن والأمة】: تسخير العلوم الحديثة واللغات لبناء مستقبل زاهر.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'المستقبل وحروف النصب (Future & Subjunctive)' to students in an accurate academic style."
+          "target": "سَوْفَ نَتَخَرَّجُ مِنَ الجَامِعَةِ الشَّهْرَ القَادِمَ، وَسَأَبْدَأُ العَمَلَ لِكَيْ أَكْتَسِبَ خِبْرَةً مَيْدَانِيَّةً.(Sawfa natakharraju min al-jāmiʿati ash-shahra al-qādim, wa-sa-abdaʾu al-ʿamala li-kay aktasiba khibratan maydāniyyah.)",
+          "reading": "[saw.fa na.ta.xar.ra.ʒu mi.na‿l.ʒaː.mi.ʕa.ti‿ʃ.ʃah.ra‿l.qaː.dim, wa.sa.ʔab.da.ʔu‿l.ʕa.ma.la li.kaj ʔak.ta.si.ba xib.ra.tan maj.daː.nij.jah] (Saw-fa na-ta-khar-ra-ju mi-na al-jā-mi-ʿa-ti ash-shah-ra al-qā-dim, wa-sa-ab-da-ʾu al-ʿa-ma-la li-kay ak-ta-si-ba khib-ra-tan may-dā-niy-yah.)",
+          "translation": "We will graduate from university next month, and I will start working in order to gain practical field experience."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أُرِيدُ أَنْ أُسَافِرَ إِلَى الخَارِجِ لِأُكْمِلَ دِرَاسَتِي العُلْيَا فِي مَجَالِ الذَّكَاءِ الِاصْطِنَاعِيِّ.(Urīdu an usāfira ilā al-khāriji li-ukmila dirāsatī al-ʿulyā fī majāli adh-dhakāʾi al-iṣṭināʿiyy.)",
+          "reading": "[ʔu.riː.du ʔan ʔu.saː.fi.ra ʔi.laː‿l.xaː.ri.ʒi li.ʔuk.mi.la di.raː.sa.tiː‿l.ʕul.jaː fiː ma.ʒaː.li‿ð.ða.kaː.ʔi‿l.ʔisˤ.tˤi.naː.ʕijj] (U-rī-du an u-sā-fi-ra i-lā al-khā-ri-ji li-uk-mi-la di-rā-sa-tī al-ʿul-yā fī ma-jā-li adh-dha-kā-ʾi al-iṣ-ṭi-nā-ʿiyy.)",
+          "translation": "I want to travel abroad to complete my postgraduate studies in the field of artificial intelligence."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "لَنْ أَتَرَدَّدَ فِي مُوَاصَلَةِ التَّعَلُّمِ حَتَّى أَحْصُلَ عَلَى دَرَجَةِ الدُّكْتُورَاهِ بِامْتِيَازٍ.(Lan ataraddada fī muwāṣalati at-taʿallumi ḥattā aḥṣula ʿalā darajati ad-duktūrāhi bi-mtiyāz.)",
+          "reading": "[lan ʔa.ta.rad.da.da fiː mu.waː.sˤa.la.ti‿t.ta.ʕal.lu.mi ħat.taː ʔaħ.sˤu.la ʕa.laː da.ra.ʒa.ti‿d.duk.tuː.raː.hi bim.ti.jaːz] (Lan a-ta-rad-da-da fī mu-wā-ṣa-la-ti at-ta-ʿal-lu-mi ḥat-tā aḥ-ṣu-la ʿa-lā da-ra-ja-ti ad-duk-tū-rā-hi bi-im-ti-yāz.)",
+          "translation": "I will not hesitate to continue learning until I obtain the PhD degree with distinction."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَسْعَى جَمِيعًا لِنَبْنِيَ وَطَنَنَا وَنُسَاهِمَ فِي تَقَدُّمِهِ وَازْدِهَارِهِ فِي المُسْتَقْبَلِ المُشْرِقِ.(Nasʿā jamīʿan li-nabniya waṭananā wa-nusāhima fī taqaddumihi wa-zdihārihi fī al-mustaqbali al-mushriq.)",
+          "reading": "[nas.ʕaː ʒa.miː.ʕan li.nab.ni.ja wa.tˤa.na.naː wa.nu.saː.hi.ma fiː ta.qad.du.mi.hi waz.di.haː.ri.hi fiː‿l.mus.taq.ba.li‿l.muʃ.riq] (Nas-ʿā ja-mī-ʿan li-nab-ni-ya wa-ṭa-na-nā wa-nu-sā-hi-ma fī ta-qad-du-mi-hi wa-iz-di-hā-ri-hi fī al-mus-taq-ba-li al-mush-riq.)",
+          "translation": "We all strive in order to build our homeland and contribute to its progress and prosperity in the bright future."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سَنَبْنِي غَدَنَا بِـ (أَنْ) وَ(لَنْ) وَ(كَيْ)، فَيَبْدُو الفَضَاءُ لَنَا مُشْرِقَ الضَّيْ!"
+      ],
+      "culturalNotes": [
+        "الجامعات العربية العريقة خرجت عبر التاريخ أجيالاً من العلماء والمهندسين والأطباء والأدباء الذين أثروا الحضارة الإنسانية بالمعرفة والاكتشافات."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» (الدرس 5)؟",
+          "prompt": "في حوار التخرج، ما هو تخصص الدراسات العليا الذي تسعى مريم لإكماله؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «المستقبل وحروف النصب (Future & Subjunctive)» بأسلوب أكاديمي دقيق (11.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (11.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (11.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (11.5.w3)"
+            "الذَّكَاءُ الِاصْطِنَاعِيُّ (Artificial Intelligence)",
+            "التاريخ القديم فقط",
+            "الطب البيطري",
+            "السياحة والفنادق"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أوضحت مريم رغبتها: «أُرِيدُ أَنْ أُسَافِرَ لِأُكْمِلَ دِرَاسَتِي فِي الذَّكَاءِ الِاصْطِنَاعِيِّ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو إعراب الفعل «لِنَبْنِيَ» في جملة «نَسْعَى لِنَبْنِيَ وَطَنَنَا»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مُضَارِعٌ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ بَعْدَ لَامِ التَّعْلِيلِ (Subjunctive with Fatḥah after Lam of Purpose)",
+            "مرفوع بالضمة المقدرة",
+            "مجزوم بالسكون",
+            "مبني على الفتح"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الفعل معتل بالياء، وتظهر الفتحة على الياء لخفتها بعد لام التعليل: «لِنَبْنِيَ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u11-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تعبر عن الطموح المهني وتوظيف أدوات النصب والاستقبال ببراعة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (11.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (11.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (11.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (11.5.x3)"
+            "— مَاذَا سَتَفْعَلُ بَعْدَ التَّخَرُّجِ؟ — سَوْفَ أَلْتَحِقُ بِمَرْكَزِ أَبْحَاثٍ لِكَيْ أُطَوِّرَ مَشَارِيعِي، وَلَنْ أَتَوَقَّفَ عَنِ الِابْتِكَارِ. (— What will you do after graduation? — I will join a research center in order to develop my projects, and I will not stop innovating.)",
+            "— تخرجت امس في السوق بدون مستقبل.",
+            "— كم الحساب؟ — الحساب كان غدا في المحطة.",
+            "— تخرج مستقبل سين سوف كي لن سكون."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف «سَتَفْعَلُ، سَوْفَ أَلْتَحِقُ، لِكَيْ أُطَوِّرَ، لَنْ أَتَوَقَّفَ» بنسق حواري طبيعي ورفيع."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «المستقبل وحروف النصب (Future & Subjunctive)»؟",
+          "prompt": "ما معنى عبارة «بِامْتِيَازٍ» في الشهادات الأكاديمية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (11.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (11.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (11.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (11.5.y3)"
+            "بِمَرْتَبَةِ الشَّرَفِ وَالتَّفَوُّقِ العَالِي (With distinction / honors)",
+            "بدرجة مقبولة فقط",
+            "بدون امتحانات",
+            "شهادة حضور"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«بِامْتِيَازٍ» هي أعلى درجات التقدير الأكاديمي الدالة على التفوق والتميز."
         }
       ]
     },
@@ -6961,24 +6983,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 11-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الحادية عشرة بأكملها (السين، سوف، أن، لن، كي، حتى، لام التعليل، والطموحات المستقبلية):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (11.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (11.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (11.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (11.5.z3)"
+            "وَقَفَ طَارِقٌ وَمَرْيَمُ فِي حَفْلِ التَّخَرُّجِ، فَقَالَ طَارِقٌ: «سَأَبْدَأُ التَّدْرِيبَ غَدًا لِكَيْ أَكْتَسِبَ خِبْرَةً، وَسَوْفَ أُسَافِرُ حَتَّى أَنَالَ الدُّكْتُورَاهَ»، فَرَدَّتْ مَرْيَمُ: «أُرِيدُ أَنْ أُبْدِعَ فِي بَرْمَجَةِ الذَّكَاءِ الِاصْطِنَاعِيِّ، وَلَنْ أَتَرَدَّدَ فِي خِدْمَةِ وَطَنِي لِنَبْنِيَ مَعًا مُسْتَقْبَلًا عَظِيمًا». (Tariq and Maryam stood at the graduation ceremony, so Tariq said: 'I will start training tomorrow so that I acquire experience, and I will travel until I obtain the PhD,' so Maryam replied: 'I want to innovate in programming artificial intelligence, and I will not hesitate to serve my country in order that we build together a great future.')",
+            "تخرج طارق ومريم بالافعال الماضية فقط بلا مستقبل ولا ادوات نصب.",
+            "حفل تخرج سين سوف ان لن كي حتى لام تعليل سكون فتحة.",
+            "رفض الطلاب استلام الشهادات وغادروا الحفل مسرعين."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة أدوات الاستقبال ونواصب المضارع وأفعال الرغبة والعلة والغاية في سياق سردي ملهم وناصع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u11-l5) باللغة العربية (مثال: «المستقبل»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الحفل الذي يقام بمناسبة إنهاء الدراسة الجامعية (اكتب: «تخرج»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "المستقبل",
-            "المستقبل"
+            "تخرج",
+            "تَخَرُّجٌ",
+            "تَخَرُّج",
+            "التخرج"
           ],
-          "explanation": "المصطلح الصحيح هو «المستقبل»."
+          "explanation": "المصطلح هو «تخرج»."
         }
       ],
       "passThreshold": 0.8
