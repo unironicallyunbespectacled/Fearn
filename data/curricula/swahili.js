@@ -2125,53 +2125,62 @@
     "subject": "swahili",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 1)",
+    "title": "Muundo wa Kitenzi katika Wakati Ujao (-ta-) (Verb Morphology of the Future Tense -ta-)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.1) with authentic precision.",
+    "objective": "Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili: Kiambishi Nafsi (SP) + Kiambishi cha Wakati Ujao (-ta-) + Shina la Kitenzi kwa nafsi zote sita (Mimi, Wewe, Yeye, Sisi, Ninyi, Wao).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muundo wa Kitenzi katika Wakati Ujao (Simple Future Tense -ta- Morphology):\n\n1. **Kiambishi cha Wakati Ujao (-ta-)**:\n   - Matendo yatakayotendeka mbeleni (Simple Future Tense) huwakilishwa na kiambishi **-ta-**.\n\n2. **Mnyambuliko wa Nafsi Zote Sita (Conjugation Paradigm)**:\n   - *Mimi* (I): **ni-** + **ta-** + **soma** -> **nitasoma** (I will read / I will study)\n   - *Wewe* (You sg): **u-** + **ta-** + **soma** -> **utasoma** (You will read)\n   - *Yeye* (He/She): **a-** + **ta-** + **soma** -> **atasoma** (He/She will read)\n   - *Sisi* (We): **tu-** + **ta-** + **soma** -> **tutasoma** (We will read)\n   - *Ninyi* (You pl): **m-** + **ta-** + **soma** -> **mtasoma** (You all will read)\n   - *Wao* (They): **wa-** + **ta-** + **soma** -> **watasoma** (They will read)\n\n3. **Vitenzi vya Kawaida (Regular Verbs)**:\n   - *safiri* (travel) -> *nitasafiri* (I will travel)\n   - *jenga* (build) -> *watajenga* (they will build)\n   - *shinda* (win/succeed) -> *tutashinda* (we will win)\n   - *saidia* (help) -> *atasaidia* (he will help)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 5."
+          "target": "Kesho asubuhi nitasoma makala mpya na kaka yangu ataandika ripoti ya kazi.",
+          "reading": "Ke-sho a-su-bu-hi ni-ta-so-ma ma-ka-la mpy-a na ka-ka ya-ngu a-ta-a-ndi-ka ri-po-ti ya ka-zi. [ˈkɛʃɔ ɑsuˈbuhi nitɑˈsɔmɑ mɑˈkɑlɑ ˈmpjɑ nɑ ˈkɑkɑ ˈjɑŋɡu ɑtɑɑnˈdikɑ riˈpɔti jɑ ˈkɑzi] (KAY-shoh ah-soo-BOO-hee nee-tah-SOH-mah mah-KAH-lah M-PYAH nah KAH-kah YAHN-goo ah-tah-ahn-DEE-kah ree-POH-tee yah KAH-zee)",
+          "translation": "Tomorrow morning I will read [future 1st person: nitasoma] a new article and my brother will write [future 3rd person: ataandika] a work report."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 5-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi wote watafanya mtihani wao na watashinda kwa alama za juu.",
+          "reading": "Wa-na-fu-nzi wo-te wa-ta-fa-nya mti-ha-ni wa-o na wa-ta-shi-nda kwa a-la-ma za ju-u. [wɑnɑˈfunzi ˈwɔtɛ wɑtɑˈfɑɲɑ mtiˈhɑni ˈwɑɔ nɑ wɑtɑˈʃindɑ kwɑ ɑˈlɑmɑ zɑ ˈʤuː] (wah-nah-FOON-zee WOH-tay wah-tah-FAH-nyah m-tee-HAH-nee WAH-oh nah wah-tah-SHEEN-dah kwah ah-LAH-mah zah JOO-oo)",
+          "translation": "All students will take [future 3rd plural: watafanya] their exam and will succeed [future 3rd plural: watashinda] with high marks."
+        },
+        {
+          "target": "Sisi tutasafiri kwenda mji wa Dodoma wiki ijayo ili kuhudhuria mkutano.",
+          "reading": "Si-si tu-ta-sa-fi-ri kwe-nda m-ji wa Do-do-ma wi-ki i-ja-yo i-li ku-hu-dhu-ri-a mku-ta-no. [ˈsisi tutɑsɑˈfiri ˈkwɛndɑ ˈmʤi wɑ dɔˈdɔmɑ ˈwiki iˈʤɑjɔ ˈili kuhuðuˈriɑ mkuˈtɑnɔ] (SEE-see too-tah-sah-FEE-ree KWAYN-dah M-jee wah doh-DOH-mah WEE-kee ee-JAH-yoh EE-lee koo-hoo-thoo-REE-ah m-koo-TAH-noh)",
+          "translation": "We will travel [future 1st plural: tutasafiri] to the city of Dodoma next week in order to attend a conference."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Wakati Ujao: Kiambishi cha Kesho ni -TA- (ni-TA-soma, u-TA-soma, a-TA-soma, tu-TA-soma, m-TA-soma, wa-TA-soma)!"
+      ],
+      "culturalNotes": [
+        "Jiji la Dodoma ni makao makuu ya serikali ya Jamhuri ya Muungano wa Tanzania, likiwa katikati ya nchi na kitovu cha bunge la taifa."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Gari\":",
+          "prompt": "Sentensi sahihi inayoelezea tendo litakalofanyika kesho na nafsi ya pili umoja (Wewe) ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Basi»",
-            "Mpangilio usio sahihi wa viambishi katika «Treni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndege»"
+            "Wewe utasoma kitabu hiki kesho asubuhi. (You will read this book tomorrow morning - Correct 2nd person singular future 'u-ta-soma')",
+            "Wewe ulisoma kitabu hiki kesho asubuhi (Kosa la kutumia wakati uliopita kwa neno 'kesho')",
+            "Wewe wanasoma kitabu hiki kesho (Kosa la upatanisho wa nafsi)",
+            "Wewe titasoma kitabu hiki kesho (Kiambishi kisicho sahihi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kiambishi nafsi cha «Wewe» ni «u-» kikiungana na kiambishi cha wakati ujao «-ta-» kupata «utasoma»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Gari\":",
+          "prompt": "Unapoelezea mpango wa wanafunzi (Wao) kusafiri wiki ijayo, sentensi ipi ni sanifu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Treni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndege»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Basi»"
+            "Wanafunzi watasafiri kwenda mbugani wiki ijayo. (Students will travel to the park next week - Correct 3rd person plural future tense)",
+            "Wanafunzi alisafiri kwenda mbugani wiki ijayo (Kosa la wakati na umoja)",
+            "Wanafunzi ninatesafiri wiki ijayo (Kosa la muundo wa kitenzi)",
+            "Wanafunzi walisafiri kesho asubuhi (Kutatanisha 'walisafiri' na 'kesho')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kwa nafsi ya tatu wingi (Wao/Wanafunzi), kitenzi sahihi cha wakati ujao ni «watasafiri»."
         }
       ]
     },
@@ -2179,17 +2188,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Gari\": Which sentence is completely correct?",
+          "prompt": "Chagua kanuni sahihi inayofafanua muundo wa wakati ujao katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndege»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Basi»",
-            "Mpangilio usio sahihi wa viambishi katika «Treni»"
+            "Kitenzi cha wakati ujao kinatumia kiambishi cha wakati '-ta-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-ta-soma). (Future tense verb uses tense marker -ta- between subject prefix and verb root.)",
+            "Wakati ujao unatumia kiambishi '-li-' pekee.",
+            "Wakati ujao hauwezi kutumika na vitenzi vinavyoanza na herufi 's'.",
+            "Kiambishi cha wakati ujao huwekwa mwishoni kabisa mwa sentensi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kitenzi cha wakati ujao kinatumia kiambishi cha wakati '-ta-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-ta-soma).» ndiyo kanuni ya sarufi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u5-l2": {
@@ -2197,53 +2207,62 @@
     "subject": "swahili",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 2)",
+    "title": "Vitenzi vya Silabi Moja katika Wakati Ujao (Monosyllabic Verbs in Future Tense: Kula, Kunywa, Kuja, Kwenda)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.2) with authentic precision.",
+    "objective": "Kutambua na kutumia vitenzi vyenye shina la silabi moja (kula, kunywa, kuja, kwenda) katika wakati ujao (-ta-), ambavyo huhifadhi kiambishi 'ku-' kwa sababu za kifonolojia.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vitenzi vya Silabi Moja katika Wakati Ujao (Monosyllabic Verbs with -ta-):\n\n1. **Kuhifadhi Kiambishi 'ku-' (Retention of 'ku-' in Future Tense)**:\n   - Vitenzi vyenye shina la silabi moja **huvumilia na kubakiza kiambishi 'ku-'** katika wakati ujao (**-ta-**):\n     - *-la* (eat) -> *ni-ta-**ku**-la* -> **nitakula** (I will eat)\n     - *-nywa* (drink) -> *a-ta-**ku**-nywa* -> **atakunywa** (he will drink)\n     - *-ja* (come) -> *wa-ta-**ku**-ja* -> **watakuja** (they will come)\n     - *-enda* (go) -> *tu-ta-**kwe**-nda* -> **tutakwenda** (we will go)\n     - *-fa* (die) -> *a-ta-**ku**-fa* -> **atakufa** (he will die)\n     - *-wa* (be/become) -> *i-ta-**ku**-wa* -> **itakuwa** (it will be)\n\n2. **Mifano ya Sentensi za Kila Siku**:\n   - *Mchana tutakula chakula kitamu.* (In the afternoon we will eat delicious food.)\n   - *Wageni watakuja kesho.* (Guests will come tomorrow.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 5."
+          "target": "Mchana wa leo wageni watakula pilau ya kuku na watakunywa juisi baridi.",
+          "reading": "Mcha-na wa le-o wa-ge-ni wa-ta-ku-la pi-la-u ya ku-ku na wa-ta-ku-nywa ju-i-si ba-ri-di. [mˈtʃɑnɑ wɑ ˈlɛɔ wɑˈɡɛni wɑtɑˈkulɑ piˈlɑu jɑ ˈkuku nɑ wɑtɑˈkuɲwɑ ʤuˈisi bɑˈridi] (M-CHAH-nah wah LAY-oh wah-GAY-nee wah-tah-KOO-lah pee-LAH-oo yah KOO-koo nah wah-tah-KOO-nywah joo-EE-see bah-REE-dee)",
+          "translation": "This afternoon guests will eat [future monosyllabic -la: watakula] chicken pilau and will drink [future monosyllabic -nywa: watakunywa] cold juice."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 5-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwalimu wetu atakuja darasani saa tatu asubuhi na atakwenda maktaba baadaye.",
+          "reading": "Mwa-li-mu we-tu a-ta-ku-ja da-ra-sa-ni sa-a ta-tu a-su-bu-hi na a-ta-kwe-nda ma-kta-ba ba-a-da-ye. [mwɑˈlimu ˈwɛtu ɑtɑˈkuʤɑ dɑrɑˈsɑni ˈsɑː ˈtɑtu ɑsuˈbuhi nɑ ɑtɑˈkwɛndɑ mɑkˈtɑbɑ bɑɑˈdɑjɛ] (mwah-LEE-moo WAY-too ah-tah-KOO-jah dah-rah-SAH-nee SAH-ah TAH-too ah-soo-BOO-hee nah ah-tah-KWAYN-dah mahk-TAH-bah bah-ah-DAH-yay)",
+          "translation": "Our teacher will come [future monosyllabic -ja: atakuja] to class at 9:00 AM and will go [future monosyllabic -enda: atakwenda] to the library afterward."
+        },
+        {
+          "target": "Sisi tutakula chakula cha jioni pamoja na tutakunywa chai yenye viungo.",
+          "reading": "Si-si tu-ta-ku-la cha-ku-la cha ji-o-ni pa-mo-ja na tu-ta-ku-nywa cha-i ye-nye viu-ngo. [ˈsisi tutɑˈkulɑ tʃɑˈkulɑ tʃɑ ʤiˈɔni pɑˈmɔʤɑ nɑ tutɑˈkuɲwɑ ˈtʃɑi ˈjɛnjɛ viˈuŋɡɔ] (SEE-see too-tah-KOO-lah chah-KOO-lah chah jee-OH-nee pah-MOH-jah nah too-tah-KOO-nywah CHAH-ee YAYN-yay vee-OON-goh)",
+          "translation": "We will eat [future monosyllabic: tutakula] dinner together and will drink [future monosyllabic: tutakunywa] spiced tea."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Silabi Moja na -TA-: 'Ku-' inabaki: nitakula, atakunywa, watakuja, tutakwenda!"
+      ],
+      "culturalNotes": [
+        "Pilau ya viungo vya Zanzibar (karafuu, mdalasini, iliki na bizari) ni chakula kikuu cha heshima katika sherehe na sikukuu za Waswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Basi\":",
+          "prompt": "Chagua kitenzi sahihi cha wakati ujao kinachomaanisha \"Mimi nitakunywa maji safi\":",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Treni»",
-            "Mpangilio usio sahihi wa viambishi katika «Ndege»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pikipiki»"
+            "nitakunywa (I will drink - Correct retention of 'ku-' in future tense for monosyllabic stem -nywa)",
+            "nitanywa (Kosa la kuondoa kiambishi 'ku-')",
+            "nitalikunywa (Mchanganyiko potofu wa viambishi viwili vya wakati)",
+            "niliyakunywa (Wakati uliopita badala ya ujao)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «-nywa» ni cha silabi moja, hivyo huhifadhi «ku-» katika wakati ujao: «nitakunywa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Basi\":",
+          "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja katika wakati ujao kwa usahihi wa kisarufi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Ndege»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pikipiki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Treni»"
+            "Wageni watakuja kesho mchana na watakula chakula chetu kitamu. (Guests will come tomorrow afternoon and eat our delicious food - Flawless future monosyllabic usage)",
+            "Wageni wataja kesho na watala chakula chetu (Kosa la kufuta 'ku-')",
+            "Wageni walikuja kesho asubuhi (Kutatanisha 'walikuja' na 'kesho')",
+            "Wageni wanakula chakula jana mchana (Mchanganyiko wa wakati uliopo na 'jana')"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Vitenzi sanifu vyenye kuhifadhi «ku-» katika wakati ujao ni «watakuja» na «watakula»."
         }
       ]
     },
@@ -2251,17 +2270,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Basi\": Which sentence is completely correct?",
+          "prompt": "Kwanini vitenzi kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati ujao (-ta-)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Pikipiki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Treni»",
-            "Mpangilio usio sahihi wa viambishi katika «Ndege»"
+            "Kwa sababu ni vitenzi vya silabi moja vinavyohitaji silabi ya ziada ili mkazo wa sauti utue kwenye silabi ya pili kutoka mwisho. (Because they are monosyllabic verbs requiring 'ku-' for penultimate syllable stress.)",
+            "Kwa sababu herufi 'k' ni herufi ya bahati katika Kiswahili.",
+            "Kwa sababu havina mashina ya vitenzi.",
+            "Ni kosa la kimazungumzo lisilo na maelezo ya kisarufi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kwa sababu ni vitenzi vya silabi moja vinavyohitaji silabi ya ziada ili mkazo wa sauti utue kwenye silabi ya pili kutoka mwisho.» ndiyo kanuni kuu ya kifonolojia."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u5-l3": {
@@ -2269,53 +2289,62 @@
     "subject": "swahili",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 3)",
+    "title": "Viashiria vya Nyakati Zijazo na Mipango (Future Time Adverbials & Planning)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.3) with authentic precision.",
+    "objective": "Kutumia vielezi vya wakati ujao (kesho, keshokutwa, wiki ijayo, mwezi ujao, baadaye) na kupanga mipango ya baadaye katika sentensi zilizopangwa vizuri.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vielezi vya Wakati Ujao na Mipango ya Baadaye (Future Time Adverbials & Strategic Planning):\n\n1. **Msamiati wa Vielezi vya Wakati Ujao (Future Markers)**:\n   - **kesho** (tomorrow): *Kesho nitakwenda ofisini.*\n   - **keshokutwa** (day after tomorrow): *Keshokutwa tutamaliza kazi.*\n   - **mtondo** (three days from now / day after keshokutwa)\n   - **wiki ijayo** (next week): *Wiki ijayo tutaanza semina.*\n   - **mwezi ujao** (next month): *Mwezi ujao watasafiri.*\n   - **mwaka ujao / mwakani** (next year): *Mwaka ujao tutajenga nyumba.*\n   - **baadaye / bado kidogo** (later / in a little while): *Baadaye tutazungumza.*\n\n2. **Kueleza Mipango na Malengo (Expressing Plans)**:\n   - *Nina mpango wa...* (I have a plan to...)\n   - *Tunanuia kufanya...* (We intend to do...)\n   - *Tutaanza mapema ili tukamilishe kwa wakati.* (We will start early so we finish on time.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 5."
+          "target": "Kesho kutwa tutaanza ujenzi wa kituo kipya cha afya katika kijiji chetu.",
+          "reading": "Ke-sho ku-twa tu-ta-a-nza u-je-nzi wa ki-tu-o kpy-a cha a-fya ka-ti-ka ki-ji-ji che-tu. [ˈkɛʃɔ ˈkutwɑ tutɑˈɑnzɑ uˈʤɛnzi wɑ kiˈtuɔ ˈmpjɑ tʃɑ ˈɑfjɑ kɑˈtikɑ kiˈʤiʤi ˈtʃɛtu] (KAY-shoh KOO-twah too-tah-AHN-zah oo-JAYN-zee wah kee-TOO-oh M-PYAH chah AH-fyah kah-TEE-kah kee-jee-JEE CHAY-too)",
+          "translation": "The day after tomorrow [future adverbial: keshokutwa] we will start construction of a new health center in our village."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 5-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mwezi ujao familia yetu itasafiri kwenda Zanzibar kwa mapumziko ya likizo.",
+          "reading": "Mwe-zi u-ja-o fa-mi-li-a ye-tu i-ta-sa-fi-ri kwe-nda Za-nzi-bar kwa ma-pu-mzi-ko ya li-ki-zo. [ˈmwɛzi uˈʤɑɔ fɑmiˈliɑ ˈjɛtu itɑsɑˈfiri ˈkwɛndɑ zɑnziˈbɑr kwɑ mɑpumˈzikɔ jɑ liˈkizɔ] (MWAY-zee oo-JAH-oh fah-mee-LEE-ah YAY-too ee-tah-sah-FEE-ree KWAYN-dah zahn-zee-BAHR kwah mah-poom-ZEE-koh yah lee-KEE-zoh)",
+          "translation": "Next month [future adverbial: mwezi ujao] our family will travel to Zanzibar for holiday relaxation."
+        },
+        {
+          "target": "Baadaye jioni marafiki zangu watakuja nyumbani kwetu ili kujadili mipango ya biashara.",
+          "reading": "Ba-a-da-ye ji-o-ni ma-ra-fi-ki za-ngu wa-ta-ku-ja nyu-mba-ni kwe-tu i-li ku-ja-di-li mi-pa-ngo ya bi-a-sha-ra. [bɑɑˈdɑjɛ ʤiˈɔni mɑrɑˈfiki ˈzɑŋɡu wɑtɑˈkuʤɑ ɲumbɑˈni ˈkwɛtu ˈili kuʤɑˈdili miˈpɑŋɡɔ jɑ biɑˈʃɑrɑ] (bah-ah-DAH-yay jee-OH-nee mah-rah-FEE-kee ZAHN-goo wah-tah-KOO-jah nyoom-bah-NEE KWAY-too EE-lee koo-jah-DEE-lee mee-PAHN-goh yah bee-ah-SHAH-rah)",
+          "translation": "Later this evening [future adverbial: baadaye jioni] my friends will come to our house in order to discuss business plans."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vipindi vya Mbeleni: Kesho (tomorrow), Keshokutwa (day after tomorrow), Wiki ijayo (next week), Mwakani (next year)!"
+      ],
+      "culturalNotes": [
+        "Kisiwa cha Unguja na Pemba (Zanzibar) kinajulikana kimataifa kama 'Visiwa vya Viungo' kutokana na kilimo chake kikubwa cha karafuu na vanila."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Treni\":",
+          "prompt": "Kielezi kipi cha wakati kinamaanisha siku inayofuata baada ya kesho (Day after tomorrow)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndege»",
-            "Mpangilio usio sahihi wa viambishi katika «Pikipiki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Tiketi»"
+            "Keshokutwa (Day after tomorrow - Accurate future time marker)",
+            "Jana (Siku iliyopita kabla ya leo)",
+            "Juzi (Siku mbili zilizopita)",
+            "Zamani (Wakati wa kale)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Neno «Keshokutwa» linamaanisha siku inayofuata baada ya kesho (the day after tomorrow)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Treni\":",
+          "prompt": "Sentensi ipi inaonyesha mpango madhubuti wa wakati ujao kwa mtiririko sahihi wa kisarufi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Pikipiki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Tiketi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndege»"
+            "Mwezi ujao tutajenga darasa jipya na mwalimu mpya atawasili. (Next month we will build a new classroom and a new teacher will arrive - Consistent future plan)",
+            "Mwezi ujao tulijenga darasa jipya jana asubuhi (Kosa kubwa la kuchanganya ujao na uliopita)",
+            "Kesho asubuhi mwalimu alifika darasani mapema (Kutatanisha 'kesho' na 'alifika')",
+            "Mwakani ninasoma darasa hili jana usiku (Mvurugiko wa nyakati)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mwezi ujao tutajenga darasa jipya na mwalimu mpya atawasili.» inaoanisha vielezi vya wakati ujao na vitenzi vya «-ta-» kwa usahihi."
         }
       ]
     },
@@ -2323,17 +2352,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Treni\": Which sentence is completely correct?",
+          "prompt": "Chagua vielezi vinavyotumika kueleza wakati ujao pekee katika lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Tiketi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndege»",
-            "Mpangilio usio sahihi wa viambishi katika «Pikipiki»"
+            "Kesho, keshokutwa, wiki ijayo, mwezi ujao, mwakani, baadaye. (Tomorrow, day after tomorrow, next week, next month, next year, later.)",
+            "Jana, juzi, juzi juzi, mwaka jana, zamani za kale.",
+            "Sasa hivi, hivi punde, papo hapo, wakati huu.",
+            "Zamani, kale, wakati ule wa wazee wa zamani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kesho, keshokutwa, wiki ijayo, mwezi ujao, mwakani, baadaye.» ndivyo vielezi halisi vya wakati ujao."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u5-l4": {
@@ -2341,53 +2371,62 @@
     "subject": "swahili",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 4)",
+    "title": "Upatanisho wa Ngeli Mbalimbali katika Wakati Ujao (Noun Class Concord with Future Tense -ta-)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.4) with authentic precision.",
+    "objective": "Kutambua upatanisho wa kisarufi wa ngeli nyingine (KI-VI, M-MI, JI-MA, N-N) katika wakati ujao (-ta-) na jinsi viambishi ngeli vinavyoungana na kitenzi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli Tofauti katika Wakati Ujao (Concord across Noun Classes with -ta-):\n\n1. **Ngeli ya KI-VI (Classes 7/8)**:\n   - Umoja (**ki-**): *Kiti **ki**tatengenezwa.* (The chair will be repaired.)\n   - Wingi (**vi-**): *Viti **vi**tatengenezwa.* (The chairs will be repaired.)\n   - *Kitabu **ki**tachapishwa.* / *Vitabu **vi**tachapishwa.*\n\n2. **Ngeli ya M-MI (Classes 3/4)**:\n   - Umoja (**u-**): *Mti **u**tamea.* (The tree will sprout.)\n   - Wingi (**i-**): *Miti **i**tamea.* (Trees will sprout.)\n   - *Mto **u**tapungua.* / *Mito **i**tapungua.*\n\n3. **Ngeli ya JI-MA (Classes 5/6)**:\n   - Umoja (**li-**): *Gari **li**tafika.* (The car will arrive.)\n   - Wingi (**ya-**): *Magari **ya**tafika.* (Cars will arrive.)\n   - *Tunda **li**taiva.* / *Matunda **ya**taiva.*\n\n4. **Ngeli ya N-N (Classes 9/10)**:\n   - Umoja (**i-**): *Ndege **i**tatua.* (The airplane will land.)\n   - Wingi (**zi-**): *Ndege **zi**tatua.* (Airplanes will land.)\n   - *Nyumba **i**tajengwa.* / *Nyumba **zi**tajengwa.*",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 5."
+          "target": "Gari jipya litawasili bandarini kesho na treni ya umeme itaanza safari zake.",
+          "reading": "Ga-ri ji-pya li-ta-wa-si-li ba-nda-ri-ni ke-sho na tre-ni ya u-me-me i-ta-a-nza sa-fa-ri za-ke. [ˈɡɑri ˈʤipjɑ litɑwɑˈsili bɑndɑˈrini ˈkɛʃɔ nɑ ˈtrɛni jɑ uˈmɛmɛ itɑˈɑnzɑ sɑˈfɑri ˈzɑkɛ] (GAH-ree JEE-pyah lee-tah-wah-SEE-lee bahn-dah-REE-nee KAY-shoh nah TRAY-nee yah oo-MAY-may ee-tah-AHN-zah sah-FAH-ree ZAH-kay)",
+          "translation": "The new car will arrive [class 5 JI-MA: litawasili] at the port tomorrow and the electric train will begin [class 9 N-N: itaanza] its trips."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 5-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Miti ya matunda itazaa matunda mengi msimu ujao na wakulima watafurahi.",
+          "reading": "Mi-ti ya ma-tu-nda i-ta-za-a ma-tu-nda me-ngi msi-mu u-ja-o na wa-ku-li-ma wa-ta-fu-ra-hi. [ˈmiti jɑ mɑˈtundɑ itɑˈzɑː mɑˈtundɑ ˈmɛŋɡi msiˈmu uˈʤɑɔ nɑ wɑkuˈlimɑ wɑtɑfuˈrɑhi] (MEE-tee yah mah-TOON-dah ee-tah-ZAH-ah mah-TOON-dah MAYN-gee msee-MOO oo-JAH-oh nah wah-koo-LEE-mah wah-tah-foo-RAH-hee)",
+          "translation": "Fruit trees will produce [class 4 M-MI: itazaa] plenty of fruits next season and farmers will rejoice [class 2 A-WA: watafurahi]."
+        },
+        {
+          "target": "Nyumba zote zitapambwa kwa taa za rangi wakati wa sikukuu ya mwaka mpya.",
+          "reading": "Nyu-mba zo-te zi-ta-pa-mbwa kwa ta-a za ra-ngi wa-ka-ti wa si-ku-ku-u ya mwa-ka mpy-a. [ˈɲumbɑ ˈzɔtɛ zitɑˈpɑmbwɑ kwɑ ˈtɑː zɑ ˈrɑŋɡi wɑˈkɑti wɑ sikukuˈu jɑ ˈmwɑkɑ ˈmpjɑ] (NYOOM-bah ZOH-tay zee-tah-PAHM-bwah kwah TAH-ah zah RAHN-gee wah-KAH-tee wah see-koo-KOO-oo yah MWAH-kah M-PYAH)",
+          "translation": "All houses will be decorated [class 10 N-N plural: zitapambwa] with colored lights during the new year holiday."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Upatanisho na -TA-: KI->kitafika, VI->vitafika, M/MI->utafika/itafika, JI/MA->litafika/yatafika, N/N->itafika/zitafika!"
+      ],
+      "culturalNotes": [
+        "Reli ya kisasa ya mwendo kasi (SGR - Standard Gauge Railway) nchini Tanzania na Kenya imebadilisha usafiri wa Afrika Mashariki na kuunganisha miji mikuu kwa kasi ya juu."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ndege\":",
+          "prompt": "Sentensi ipi ina upatanisho sahihi wa wakati ujao kwa nomino ya Ngeli ya 7 (Kitabu)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pikipiki»",
-            "Mpangilio usio sahihi wa viambishi katika «Tiketi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kituo»"
+            "Kitabu kizuri kitachapishwa wiki ijayo. (The good book will be published next week - Correct Class 7 future prefix 'ki-ta-')",
+            "Kitabu kizuri litachapishwa wiki ijayo (Kosa la kutumia kiambishi cha JI-MA)",
+            "Kitabu kizuri yatachapishwa wiki ijayo (Kosa la kutumia wingi wa JI-MA)",
+            "Kitabu kizuri watachapishwa wiki ijayo (Kosa la kutumia kiambishi cha watu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Kitabu» (umoja katika Ngeli ya KI-VI) huchukua kiambishi cha kitenzi «ki-», hivyo katika wakati ujao huwa «kitachapishwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ndege\":",
+          "prompt": "Unapozungumzia magari mengi yatakayofika (Ngeli ya 6 JI-MA wingi), kitenzi sahihi cha wakati ujao ni kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Tiketi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kituo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pikipiki»"
+            "Magari mengi yatawasili mjini kesho. (Many cars will arrive in town tomorrow - Correct Class 6 future prefix 'ya-ta-')",
+            "Magari mengi litawasili mjini kesho (Kosa la kutumia umoja 'li-')",
+            "Magari mengi zitawasili mjini kesho (Kosa la kutumia kiambishi cha N-N)",
+            "Magari mengi watawasili mjini kesho (Kosa la kuchukulia magari kama watu)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino ya wingi «Magari» (Ngeli ya JI-MA) huchukua kiambishi cha kitenzi «ya-», hivyo katika wakati ujao huwa «yatawasili»."
         }
       ]
     },
@@ -2395,17 +2434,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ndege\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi na sanifu wa wakati ujao katika ngeli mbalimbali:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kituo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Pikipiki»",
-            "Mpangilio usio sahihi wa viambishi katika «Tiketi»"
+            "Chakula kitamu kitaandaliwa mezani, gari jipya litafika, na nyumba mpya zitajengwa mjini. (Delicious food will be prepared [ki-], new car will arrive [li-], and new houses will be built [zi-].)",
+            "Chakula kitamu litafika mezani na magari yote kitanunuliwa.",
+            "Miti yote zitaanguka wakati gari jipya watafika nyumbani.",
+            "Nyumba zote itajengwa na vitabu vyote litafunguliwa kesho."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Chakula kitamu kitaandaliwa mezani, gari jipya litafika, na nyumba mpya zitajengwa mjini.» inafuata upatanisho kamili wa ngeli za KI-VI (ki-), JI-MA (li-), na N-N (zi-) katika wakati ujao."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u5-l5": {
@@ -2413,53 +2453,62 @@
     "subject": "swahili",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 5)",
+    "title": "Muhtasari wa Wakati Ujao (-ta-) (Simple Future Tense Grand Synthesis)",
     "level": "A1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 5.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 5: mnyambuliko wa nafsi zote katika wakati ujao (-ta-), vitenzi vya silabi moja (kula, kunywa, kuja, kwenda), vielezi vya siku zijazo (kesho, keshokutwa, mwezi ujao), na upatanisho wa ngeli zote katika sentensi changamano.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Wakati Ujao (-ta-) (Simple Future Tense Grand Synthesis):\n\n1. **Kanuni Kuu ya Wakati Ujao**:\n   - Kiambishi **-ta-** kinaashiria vitendo vyote vitakavyotendeka mbeleni.\n   - Muundo: `Kiambishi Nafsi + -ta- + Shina la Kitenzi` (*nitasoma, utasoma, atasoma, tutasoma, mtasoma, watasoma*).\n\n2. **Vitenzi vya Silabi Moja**:\n   - Huhifadhi kiambishi 'ku-': *nitakula, atakunywa, watakuja, tutakwenda*.\n\n3. **Vielezi vya Siku Zijazo**:\n   - *Kesho, keshokutwa, wiki ijayo, mwezi ujao, mwakani, baadaye*.\n\n4. **Upatanisho wa Ngeli Zote**:\n   - A-WA (*atasoma / watasoma*), KI-VI (*kitajengwa / vitajengwa*), M-MI (*utamea / itamea*), JI-MA (*litafika / yatafika*), N-N (*itakamilika / zitakamilika*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 5."
+          "target": "Kesho sisi tutajifunza mada mpya ya Kiswahili, tutakula matunda, na tutapanga safari yetu.",
+          "reading": "Ke-sho si-si tu-ta-ji-fu-nza ma-da mpy-a ya Ki-swa-hi-li, tu-ta-ku-la ma-tu-nda, na tu-ta-pa-nga sa-fa-ri ye-tu. [ˈkɛʃɔ ˈsisi tutɑʤiˈfunzɑ ˈmɑdɑ ˈmpjɑ jɑ kiswɑˈhili tutɑˈkulɑ mɑˈtundɑ nɑ tutɑˈpɑŋɡɑ sɑˈfɑri ˈjɛtu] (KAY-shoh SEE-see too-tah-jee-FOON-zah MAH-dah M-PYAH yah kee-swah-HEE-lee, too-tah-KOO-lah mah-TOON-dah, nah too-tah-PAHN-gah sah-FAH-ree YAY-too)",
+          "translation": "Tomorrow we will learn a new Swahili topic [future 1st pl: tutajifunza], will eat fruits [future monosyllabic: tutakula], and will plan our journey [future: tutapanga]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 5-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wanafunzi wote watamaliza masomo yao kwa mafanikio na watachangia maendeleo ya taifa.",
+          "reading": "Wa-na-fu-nzi wo-te wa-ta-ma-li-za ma-so-mo ya-o kwa ma-fa-ni-ki-o na wa-ta-cha-ngi-a ma-e-nde-le-o ya ta-i-fa. [wɑnɑˈfunzi ˈwɔtɛ wɑtɑmɑˈlizɑ mɑˈsɔmɔ ˈjɑɔ kwɑ mɑfɑniˈkiɔ nɑ wɑtɑtʃɑˈŋɡiɑ mɑɛndɛˈlɛɔ jɑ tɑˈifɑ] (wah-nah-FOON-zee WOH-tay wah-tah-mah-LEE-zah mah-SOH-moh YAH-oh kwah mah-fah-nee-KEE-oh nah wah-tah-chahn-GEE-ah mah-ayn-day-LAY-oh yah tah-EE-fah)",
+          "translation": "All students will complete [future 3rd pl: watamaliza] their studies successfully and will contribute [future 3rd pl: watachangia] to national development."
+        },
+        {
+          "target": "Wakati ujao wenye kiambishi '-ta-' unaweka matumaini na mikakati ya maisha katika lugha ya Kiswahili kwa mtazamo chanya.",
+          "reading": "Wa-ka-ti u-ja-o we-nye ki-a-mbi-shi '-ta-' u-na-we-ka ma-tu-ma-i-ni na mi-ka-ka-ti ya ma-i-sha ka-ti-ka lu-gha ya Ki-swa-hi-li kwa mta-za-mo cha-nya. [wɑˈkɑti uˈʤɑɔ ˈwɛnjɛ kiɑmˈbiʃi -tɑ- unɑˈwɛkɑ mɑtumɑˈini nɑ mikɑˈkɑti jɑ mɑˈiʃɑ kɑˈtikɑ ˈluɣɑ jɑ kiswɑˈhili kwɑ mtɑˈzɑmɔ ˈtʃɑɲɑ] (wah-KAH-tee oo-JAH-oh WAYN-yay kee-ahm-BEE-shee '-ta-' oo-nah-WAY-kah mah-too-mah-EE-nee nah mee-kah-KAH-tee yah mah-EE-shah kah-TEE-kah LOO-ghah yah kee-swah-HEE-lee kwah m-tah-ZAH-moh CHAH-nyah)",
+          "translation": "The simple future tense with prefix '-ta-' [future tense synthesis: wakati ujao] articulates hopes and life strategies in the Swahili language with a positive outlook."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa -TA-: Kesho nitasoma, tutakula pilau, treni itafika, na maisha yatasonga mbele!"
+      ],
+      "culturalNotes": [
+        "Kuelewa wakati ujao kunamjengea mwanafunzi uwezo wa kupanga shughuli za kibiashara, usafiri, na maendeleo katika ukanda mzima wa Afrika Mashariki na Kati."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Pikipiki\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati ujao (-ta-) kwa vitenzi vya kawaida na vitenzi vya silabi moja?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Tiketi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kituo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uwanja wa ndege»"
+            "Wanafunzi watasoma kwa bidii na kesho watakula chakula cha mchana pamoja. (Students will study diligently and tomorrow eat lunch together - Harmonious future tense synthesis)",
+            "Wanafunzi walisoma kwa bidii na kesho watala chakula (Kosa la kuangusha kiambishi 'ku-' na kuchanganya wakati)",
+            "Wanafunzi watasoma jana asubuhi (Kutatanisha wakati ujao na neno 'jana')",
+            "Vitabu vyote watasoma wanafunzi wote kesho (Mpangilio usiofaa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Wanafunzi watasoma kwa bidii na kesho watakula chakula cha mchana pamoja.» inatumia kitenzi cha kawaida «watasoma» na kitenzi cha silabi moja «watakula» kwa usahihi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Pikipiki\":",
+          "prompt": "Katika muhtasari wa Unit 5, ni jambo gani la msingi kuhusu kiambishi '-ta-' katika vitenzi vya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Kituo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uwanja wa ndege»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Tiketi»"
+            "Kiambishi '-ta-' kinaeleza tendo litakalofanyika mbeleni, kikiungana na viambishi vyote vya ngeli na kuhifadhi 'ku-' kwa vitenzi vya silabi moja. (Prefix -ta- expresses future actions across all noun classes, retaining 'ku-' for monosyllabic verbs)",
+            "Kiambishi '-ta-' kinatumika tu kueleza hadithi za kale za vizazi vilivyopita",
+            "Kiambishi '-ta-' kinakataza matumizi ya maneno kama 'kesho'",
+            "Hakuna tofauti ya kisarufi kati ya '-ta-' na '-li-'"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kiambishi «-ta-» kinaeleza vitendo vitakavyotendeka siku zijazo na huhifadhi «ku-» kwa vitenzi vya silabi moja."
         }
       ]
     },
@@ -2467,17 +2516,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Pikipiki\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 5 ya Wakati Ujao katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 5.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uwanja wa ndege»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Tiketi»",
-            "Mpangilio usio sahihi wa viambishi katika «Kituo»"
+            "Kesho asubuhi wageni wote watakuja nyumbani kwetu, tutakunywa chai ya viungo pamoja, na tutapanga safari ya kutembelea mji wa Zanzibar. (Tomorrow morning all guests will come to our home, we will drink spiced tea together, and we will plan a trip to visit Zanzibar city.)",
+            "Kesho asubuhi wageni wote alikuja nyumbani na jana tutakunywa chai.",
+            "Wageni wote litakunywa chai wakati wazee walisoma hadithi kesho.",
+            "Wakati ujao unakataza matumizi ya neno 'kesho' na 'keshokutwa'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kesho asubuhi wageni wote watakuja nyumbani kwetu, tutakunywa chai ya viungo pamoja, na tutapanga safari ya kutembelea mji wa Zanzibar.» inajumuisha mada zote za Unit 5 kwa ufasaha wa hali ya juu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u6-l1": {
