@@ -4,7 +4,11 @@ const path = require('path');
 const ROOT_DIR = path.resolve(__dirname, '..');
 const currDir = path.join(ROOT_DIR, 'data/curricula');
 
-const files = fs.readdirSync(currDir).filter(f => f.endsWith('.js') && !f.endsWith('.ledger.js'));
+const targetSubjects = process.argv.slice(2).map(s => s.replace('.js', '').replace('.ledger', ''));
+let files = fs.readdirSync(currDir).filter(f => f.endsWith('.js') && !f.endsWith('.ledger.js'));
+if (targetSubjects.length > 0) {
+  files = files.filter(f => targetSubjects.includes(f.replace('.js', '')));
+}
 
 console.log('================================================================================================================================');
 console.log('             FEARN OMNISCIENT ADVERSARIAL QUALITY GATE & ZERO-BLIND-SPOT AUDIT                                                  ');
