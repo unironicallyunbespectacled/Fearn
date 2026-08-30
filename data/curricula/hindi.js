@@ -10325,53 +10325,62 @@
     "subject": "hindi",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "पर्यावरण, कृषि और मानसून जल प्रबंधन (Ecology & Agriculture) (Part 1)",
+    "title": "पारिस्थितिकी, जैव विविधता और वन्यजीव संरक्षण (Ecology, Biodiversity & Wildlife Conservation)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.1) with authentic linguistic precision.",
+    "objective": "पारिस्थितिकी तंत्र (Ecosystem), जैव विविधता (Biodiversity), संरक्षित वन्यजीव अभयारण्य तथा संकटापन्न प्रजातियों के संरक्षण से जुड़ी उच्च स्तरीय वैज्ञानिक एवं विधिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "पारिस्थितिकी, जैव विविधता और पर्यावरण संरक्षण के प्रमुख वैज्ञानिक व विधिक पारिभाषिक नियम:\n\n1. **पारिस्थितिकी एवं पर्यावास शब्दावली**:\n   - **पारिस्थितिकी तंत्र** — जैविक और अजैविक घटकों के मध्य ऊर्जा और पोषक तत्वों के चक्र का एकीकृत प्राकृतिक तंत्र;\n   - **जैव विविधता** — किसी विशिष्ट भौगोलिक क्षेत्र में पाए जाने वाले वनस्पतियों, जीवों और सूक्ष्मजीवों की प्रजातीय समृद्धि;\n   - **प्राकृतिक पर्यावास** — वन्यजीवों और वनस्पतियों के स्वाभाविक रूप से फलने-फूलने का मूल प्राकृतिक परिवेश।\n\n2. **वन्यजीव संरक्षण और विधिक तंत्र**:\n   - **राष्ट्रीय उद्यान एवं वन्यजीव अभयारण्य** — वन्यजीवों के निर्बाध संरक्षण हेतु सरकार द्वारा अधिसूचित संरक्षित वन क्षेत्र;\n   - **संकटग्रस्त एवं विलुप्तप्राय प्रजातियाँ** — वे जीव जिनकी संख्या अत्यधिक कम हो गई है और जिन्हें विशेष विधिक सुरक्षा की आवश्यकता है;\n   - **प्रोजेक्ट टाइगर एवं वन्यजीव गलियारे** — बाघों और हाथियों के सुरक्षित आवागमन हेतु विकसित संरक्षित गलियारे।\n\n3. **पर्यावरणीय संतुलन के उपाय**:\n   - *वनों की अंधाधुंध कटाई रोकना, बड़े पैमाने पर वनरोपण करना और मानवीय कार्बन पदचिह्न को नियंत्रित करना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 25.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 25."
+          "target": "हिमालयी पारिस्थितिकी तंत्र में जैव विविधता का संरक्षण और संकटग्रस्त वन्यजीव प्रजातियों की सुरक्षा वैश्विक पर्यावरण संतुलन हेतु अत्यंत अनिवार्य है।",
+          "reading": "Himaalayee paaristhitiki tantr mein jaiv vividhata ka sanrakshan aur sankatgrast vanyajeev prajaatiyon ki suraksha vaishvik paryaavaran santulan hetu atyant anivaarya hai. [hɪmaːləjiː paːrɪst̪ʰɪt̪ɪkiː t̪ən̪t̪r mẽː dʒɛːʋ ʋɪʋɪd̪ʱt̪aː kaː sənkrəkʃəɳ ɔːr səŋkəʈɡrəst̪ ʋənjədʒiːʋ prədʒaːt̪ɪjõː kiː sʊrəkʃaː ʋɛːʃʋɪk pərjaːʋərəɳ sən̪t̪ʊlən ɦeːt̪ʊ ət̪jən̪t̪ ənɪʋaːrjə hɛː] (hee-mah-luh-YEE pah-rees-thee-tee-KEE TUHN-truh mayn jyv vee-veedh-TAH kah suhn-RUK-shuhn owr suhn-kuht-GRUHST vuhn-yuh-JEEV pruh-jah-tee-YOHN kee soo-RUK-shah vy-SHVEEK puhr-yah-vuh-RUHN suhn-too-LUHN HAY-too uht-YUHNT uh-nee-VAHR-yuh hy)",
+          "translation": "The conservation of biodiversity in the Himalayan ecosystem and the protection of endangered wildlife species is utterly indispensable for global ecological balance."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 25-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "राष्ट्रीय उद्यानों और संरक्षित वनों में अवैध शिकार पर कड़े विधिक प्रतिबंध लगाने से बाघों और एक-सींग वाले गैंडों की संख्या में उल्लेखनीय वृद्धि दर्ज की गई है।",
+          "reading": "raashtreey udyaanon aur sanrakshit vanon mein avaidh shikaar par kade vidhik pratibandh lagaane se baaghon aur ek-seeng vaale gaindon ki sankhya mein ullekhaneey vriddhi darj ki gayi hai. [raːʂʈriːj ʊdjaːnõː ɔːr sənkrəkʃɪt̪ ʋənõː mẽː əʋɛːd̪ʱ ʃɪkaːr pər kəɽeː ʋɪd̪ʱɪk prət̪ɪbən̪d̪ʱ ləɡaːneː seː baːɡʱõː ɔːr eːksiːŋɡ ʋaːleː ɡɛːɳɖõː kiː səŋkʰjaː mẽː ʊlːeːkʰniːj ʋrɪd̪ːʱɪ d̪ərdʒ kiː ɡəjiː hɛː] (rahsh-TREE-yuh ood-yah-NOHN owr suhn-ruhk-SHEET vuh-NOHN mayn uh-VYDH shee-KAHR puhr KUH-day vee-DHEEK pruh-tee-BUHNDH luh-gah-NAY say BAH-ghohn owr ayk-SEENG VAH-lay gyn-DOHN kee SUHNKH-yah mayn ool-lay-khuh-NEE-yuh VREED-dhee duhrj kee GUH-yee hy)",
+          "translation": "Imposing stringent legal prohibitions on poaching in national parks and protected forests has resulted in a noteworthy increase in the population of tigers and one-horned rhinoceroses."
+        },
+        {
+          "target": "व्यापक वनरोपण अभियानों और जनजातीय समुदायों की सक्रिय भागीदारी के माध्यम से क्षरित वन क्षेत्रों को पुनः हरा-भरा बनाकर कार्बन पदचिह्न को घटाया जा सकता है।",
+          "reading": "vyaapak vanropan abhiyaanon aur janajaateey samudaayon ki sakriy bhaageedaari ke maadhyam se ksharit van kshetron ko punah hara-bhara banaakar carbon padchihn ko ghataaya ja sakta hai. [ʋjaːpək ʋənroːpəɳ əbʱɪjaːnõː ɔːr dʒəndʒaːt̪iːj səmʊdaːjõː kiː səkriːj bʱaːɡiːdaːriː keː maːd̪ʱjəm seː kʃərɪt̪ ʋən kʃeːt̪rõː koː pʊnəɦ ɦəraːbʱəraː bənaːkər kaːrbən pəd̪tʃɪɦn koː ɡʱəʈaːjaː dʒaː səktaː hɛː] (vyah-PUHK vuhn-roh-PUHN uh-bhee-yah-NOHN owr juhn-jah-TEE-yuh suh-moo-dah-YOHN kee suhk-REE-yuh bhah-gee-dah-REE kay MAHDH-yuhm say KSHUH-reet vuhn kshay-TROHN koh POO-nuh huh-rah-bhuh-RAH buh-NAH-kuhr carbon puhd-CHEEHN koh ghuh-tah-YAH JAH suhk-tah hy)",
+          "translation": "By making degraded forest tracts lush green again through massive afforestation campaigns and active participation of tribal communities, the carbon footprint can be reduced."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पारिस्थितिकी: जैव विविधता (biodiversity), अभयारण्य (sanctuary), वनरोपण (afforestation), संकटग्रस्त (endangered)!"
+      ],
+      "culturalNotes": [
+        "राजस्थान का विश्नोई समाज पेड़ों और वन्यजीवों (विशेषकर काले हिरण और खेजड़ी वृक्ष) की रक्षा के लिए अपने प्राणों की आहुति देने वाले विश्व के सबसे पहले पर्यावरण संरक्षकों में गिना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बड़ा\":",
+          "prompt": "किसी भौगोलिक क्षेत्र में विभिन्न प्रकार के जीव-जंतुओं और वनस्पतियों की प्रचुरता को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 25.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छोटा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लंबा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नाटा» का अनुचित स्थान)"
+            "जैव विविधता (Jaiv vividhata - Biodiversity [variety of plant and animal life])",
+            "रेत का टीला (मरुस्थल संरचना)",
+            "कारखाना क्षेत्र (औद्योगिक क्षेत्र)",
+            "सड़क जाल (परिवहन नेटवर्क)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "जीव-जंतुओं और वनस्पतियों की प्रजातीय विविधता को «जैव विविधता» (Biodiversity) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बड़ा\":",
+          "prompt": "वन्यजीवों की सुरक्षा और प्राकृतिक संवर्धन हेतु सरकार द्वारा घोषित सुरक्षित क्षेत्र को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 25.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लंबा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नाटा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छोटा» का अशुद्ध रूप)"
+            "वन्यजीव अभयारण्य (Vanyajeev abhayaaranya - Wildlife Sanctuary [protected wildlife habitat])",
+            "क्रिकेट स्टेडियम (खेल मैदान)",
+            "बस टर्मिनल (यात्री स्टेशन)",
+            "खरीदारी केंद्र (मॉल)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "वन्यजीवों के लिए आरक्षित एवं संरक्षित प्राकृतिक क्षेत्र को «अभयारण्य» (Sanctuary) कहा जाता है।"
         }
       ]
     },
@@ -10379,17 +10388,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बड़ा\": Which sentence is completely correct?",
+          "prompt": "पारिस्थितिकी, पर्यावरण और वन्यजीव संरक्षण (Ecology & Wildlife Conservation) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 25.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नाटा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छोटा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लंबा» से संबंधित)"
+            "प्राकृतिक पर्यावासों का संरक्षण और जैव विविधता की सुरक्षा मानव जाति के सतत अस्तित्व और पर्यावरणीय संतुलन का मूल आधार है। (The conservation of natural habitats and the protection of biodiversity is the fundamental basis of humanity's sustainable existence and ecological balance.)",
+            "जंगल के सारे पेड़ कल रात को बाज़ार में बिक रहे थे।",
+            "वन्यजीवों को मार डालो ताकि जंगल खाली हो जाए।",
+            "पर्यावरण संतुलन के लिए प्रदूषण बढ़ाना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्राकृतिक पर्यावासों का संरक्षण और जैव विविधता की सुरक्षा... मूल आधार है» पारिस्थितिकी विज्ञान का परिपक्व और प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u25-l2": {
@@ -10397,53 +10407,62 @@
     "subject": "hindi",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "पर्यावरण, कृषि और मानसून जल प्रबंधन (Ecology & Agriculture) (Part 2)",
+    "title": "भारतीय कृषि, फसल चक्र और जैविक खेती (Indian Agriculture, Crop Rotation & Organic Farming)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.2) with authentic linguistic precision.",
+    "objective": "भारतीय ऋतु आधारित फसल चक्रों (ख़रीफ़, रबी, जायद), जैविक कृषि पद्धतियों, मृदा स्वास्थ्य तथा केंचुआ खाद की प्रामाणिक कृषि शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय कृषि प्रणाली, फसल चक्र और प्राकृतिक खेती के प्रमुख पारिभाषिक नियम:\n\n1. **ऋतु आधारित फसल वर्गीकरण**:\n   - **ख़रीफ़ की फसलें** — मानसून के आगमन पर बोई जाने वाली मानसूनी फसलें (धान, मक्का, ज्वार, बाजरा, कपास);\n   - **रबी की फसलें** — शीतकाल में बोई और वसंत ऋतु में काटी जाने वाली फसलें (गेहूँ, जौ, चना, सरसों, मटर);\n   - **जायद की फसलें** — ग्रीष्म ऋतु में अल्प समय में उगाई जाने वाली फसलें (तरबूज, खरबूजा, खीरा, ककड़ी)।\n\n2. **मृदा स्वास्थ्य और फसल चक्र**:\n   - **फसल चक्र** — भूमि की उर्वरा शक्ति बनाए रखने हेतु निश्चित क्रम में फसलों को अदल-बदल कर बोने की वैज्ञानिक पद्धति;\n   - **मृदा परीक्षण एवं पोषक तत्व** — नाइट्रोजन, फास्फोरस और पोटाश का मिट्टी में संतुलन सुनिश्चित करना।\n\n3. **जैविक एवं प्राकृतिक कृषि**:\n   - **जैविक खाद एवं वर्मीकम्पोस्ट** — केंचुआ खाद और गोबर खाद द्वारा मिट्टी को रासायनिक मुक्त बनाना;\n   - **जीवामृत एवं प्राकृतिक कीटनाशक** — नीम के अर्क और छाछ द्वारा कीट प्रबंधन करना।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 25.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 25."
+          "target": "भारतीय किसान मानसून की प्रथम वर्षा के आगमन के साथ ही ख़रीफ़ की मुख्य फसलों जैसे धान, मक्का और बाजरे की बुआई पूरी निष्ठा से प्रारंभ करते हैं।",
+          "reading": "Bhaarteey kisaan maansoon ki pratham varsha ke aagaman ke saath hi khareef ki mukhya faslon jaise dhaan, makka aur baajre ki buaai poori nishtha se praarambh karte hain. [bʱaːrt̪iːj kɪsaːn maːnsuːn kiː prət̪ʰəm ʋərʂaː keː aːɡmən keː saːt̪ʰ ɦiː kʰəriːf kiː mʊkʰjə fəslõː dʒɛːseː d̪ʱaːn məkːaː ɔːr baːdʒreː kiː bʊaːiː puːriː nɪʂʈʰaː seː praːrəmbʱ kərt̪eː hɛ̃ː] (bhahr-TEE-yuh kee-SAHN mahn-SOON kee PRUH-thuhm vuhr-SHAH kay ah-guh-MUHN kay sahth hee khuh-REEF kee MOOKH-yuh fuhs-LOHN jy-SAY dOrigin, muhk-KAH owr bahj-RAY kee boo-AH-ee POO-ree neesh-THAH say prah-RUHMBH KUHR-tay hyhn)",
+          "translation": "Indian farmers commence the sowing of major Kharif crops such as paddy, maize, and pearl millet with utmost devotion right with the arrival of the first monsoon showers."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 25-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रासायनिक उर्वरकों के स्थान पर प्राकृतिक जैविक खाद और केंचुआ खाद का प्रयोग करने से खेतों की मृदा की प्राकृतिक उर्वरा शक्ति निरंतर संवर्धित होती है।",
+          "reading": "raasaayanik urvarakon ke sthaan par praakritik jaivik khaad aur kenchua khaad ka prayog karne se kheton ki mrida ki praakritik urvara shakti nirantar sanvardhit hoti hai. [raːsaːjnɪk ʊrʋərkõː keː st̪ʰaːn pər praːkrɪt̪ɪk dʒɛːʋɪk kʰaːd̪ ɔːr keːntʃʊaː kʰaːd̪ kaː prəjoːɡ kərneː seː kʰeːtõː kiː mrɪd̪aː kiː praːkrɪt̪ɪk ʊrʋəraː ʃəkt̪ɪ nɪrən̪t̪ər sənʋərd̪ʱɪt̪ hoːt̪iː hɛː] (rah-sah-yuh-NEEK oor-vuh-ruh-KOHN kay sthahn puhr prah-kree-TEEK jy-VEEK khahd owr kayn-CHOO-ah khahd kah pruh-YOHG KUHR-nay say khay-TOHN kee mree-DAH kee prah-kree-TEEK oor-vuh-RAH SHUHK-tee nee-ruhn-TUHR suhn-vuhr-DHEET HOH-tee hy)",
+          "translation": "Using natural organic manure and vermicompost in place of synthetic chemical fertilizers continuously enhances the inherent fertile vitality of agricultural soil."
+        },
+        {
+          "target": "कृषि वैज्ञानिकों ने किसानों को भूमि की पोषक गुणवत्ता सुधारने और अधिक पैदावार पाने हेतु दलहनी फसलों के साथ फसल चक्र अपनाने का परामर्श दिया।",
+          "reading": "krishi vaijnyaanikon ne kisaanon ko bhoomi ki poshak gunvatta sudhaarne aur adhik paidavaar paane hetu dalhani faslon ke saath fasal chakr apnaane ka paraamarsh diya. [krɪʂɪ ʋɛːdʒɲaːnɪkõː neː kɪsaːnõː koː bʱuːmɪ kiː poːʂək ɡʊɳʋət̪ːaː sʊd̪ʱaːrneː ɔːr əd̪ʱɪk pɛːd̪aːʋaːr paːneː ɦeːt̪ʊ d̪əlɦəniː fəslõː keː saːt̪ʰ fəsəl tʃəkrə əpnaːneː kaː pəraːmərʃ d̪ɪjaː] (KREE-shee vy-gyah-nee-KOHN nay kee-sah-NOHN koh BHOO-mee kee poh-SHUHK goon-vuht-TAH soo-dhar-NAY owr uh-DHEEK py-dah-VAHR pah-NAY HAY-too duhl-huh-NEE fuhs-LOHN kay sahth FUH-suhl CHUHK-ruh uhp-nah-NAY kah puh-rah-MUHRSH DEE-yah)",
+          "translation": "Agricultural scientists advised farmers to adopt crop rotation involving leguminous crops to improve soil nutrient quality and achieve higher yields."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कृषि चक्र: ख़रीफ़ (मानसूनी धान/मक्का), रबी (शीतकालीन गेहूँ/चना), जैविक खाद (केंचुआ खाद)!"
+      ],
+      "culturalNotes": [
+        "भारत का सिक्किम राज्य विश्व का प्रथम 100% पूर्ण जैविक राज्य (Fully Organic State) घोषित हो चुका है, जहाँ खेती में रासायनिक खादों का प्रयोग पूर्णतः वर्जित है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"छोटा\":",
+          "prompt": "मानसून के समय बोई जाने वाली फसलें (जैसे धान, मक्का) किस कृषि ऋतु के अंतर्गत आती हैं?",
           "options": [
-            "हम इस पाठ में इकाई 25.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लंबा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नाटा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («तेज़» का अनुचित स्थान)"
+            "ख़रीफ़ की फसलें (Khareef ki faslen - Kharif crops [monsoon crop cycle])",
+            "रबी की फसलें (शीतकालीन चक्र)",
+            "जायद की फसलें (ग्रीष्मकालीन चक्र)",
+            "शीतगृह फसलें (भंडारण फसलें)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "मानसून के आरंभ में बोई जाने वाली मानसूनी फसलों को «ख़रीफ़ की फसलें» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"छोटा\":",
+          "prompt": "मिट्टी की उर्वरता बनाए रखने के लिए केंचुओं द्वारा तैयार की गई जैविक खाद (Vermicompost) को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 25.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नाटा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («तेज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लंबा» का अशुद्ध रूप)"
+            "वर्मीकम्पोस्ट / केंचुआ खाद (Vermicompost / Kenchua khaad - Earthworm-based organic fertilizer)",
+            "प्लास्टिक चूर्ण (हानिकारक अपशिष्ट)",
+            "सीमेंट लेप (निर्माण सामग्री)",
+            "कीटनाशक ज़हर (रासायनिक विष)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "केंचुओं के माध्यम से कार्बनिक कचरे से बनाई गई उत्तम जैविक खाद को «केंचुआ खाद» या «वर्मीकम्पोस्ट» कहते हैं।"
         }
       ]
     },
@@ -10451,17 +10470,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"छोटा\": Which sentence is completely correct?",
+          "prompt": "भारतीय कृषि और जैविक खेती (Indian Agriculture & Organic Farming) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 25.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («तेज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लंबा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नाटा» से संबंधित)"
+            "फसल चक्र का वैज्ञानिक अनुपालन और प्राकृतिक जैविक खाद का प्रयोग भूमि की उर्वरा शक्ति और किसानों की आर्थिक समृद्धि का मूल मंत्र है। (Scientific adherence to crop rotation and the use of natural organic manure is the fundamental key to soil fertility and farmers' economic prosperity.)",
+            "किसान खेतों में पेट्रोल डालकर फसल जला रहे हैं।",
+            "फसल चक्र बंद कर दो ताकि खेत बंजर हो जाएं।",
+            "गेहूँ की बुआई केवल समुद्र के पानी में होती है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«फसल चक्र का वैज्ञानिक अनुपालन और प्राकृतिक जैविक खाद का प्रयोग... मूल मंत्र है» कृषि विज्ञान का परिपूर्ण वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u25-l3": {
@@ -10469,53 +10489,62 @@
     "subject": "hindi",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "पर्यावरण, कृषि और मानसून जल प्रबंधन (Ecology & Agriculture) (Part 3)",
+    "title": "मानसून जलवायु, जल संरक्षण और वर्षा जल संचयन (Monsoon Meteorology, Water Conservation & Rainwater Harvesting)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.3) with authentic linguistic precision.",
+    "objective": "भारतीय मानसूनी जलवायु प्रणाली, वर्षा जल संचयन (Rainwater Harvesting), भूजल पुनर्भरण तथा पारंपरिक जल संरचनाओं (बावड़ी, जोहड़) की समृद्ध शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "मानसून जलवायु विज्ञान, जल प्रबंधन और पारंपरिक जल संरचनाओं के मानक नियम:\n\n1. **मानसूनी जलवायु और मौसम चक्र**:\n   - **दक्षिण-पश्चिम मानसून** — हिंद महासागर से उठने वाली आर्द्र मानसूनी हवाएं जो भारत की 75% से अधिक वार्षिक वर्षा प्रदान करती हैं;\n   - **निवर्तमान मानसून** — शीतकाल में कोरोमंडल तट (तमिलनाडु) पर वर्षा करने वाला लौटता हुआ मानसूनी तंत्र;\n   - **अल नीनो और ला नीना** — प्रशांत महासागर के तापमान में परिवर्तन जो मानसूनी वर्षा को सीधे प्रभावित करते हैं।\n\n2. **वर्षा जल संचयन एवं भूजल पुनर्भरण**:\n   - **वर्षा जल संचयन** — छतों और खुले प्रांगणों से वर्षा के जल को गड्ढों व टंकियों में सुरक्षित एकत्र करने की विधि;\n   - **भूजल पुनर्भरण** — वर्षा के जल को भूमिगत जलस्रोतों (एक्विफर) तक पहुँचाकर भूजल स्तर को ऊपर उठाना;\n   - **सूक्ष्म सिंचाई तकनीक** — बूंद-बूंद (ड्रिप) सिंचाई और फव्वारा प्रणाली द्वारा जल का न्यूनतम अपव्यय।\n\n3. **पारंपरिक भारतीय जल संरचनाएं**:\n   - **बावड़ी / झालरा** (सीढ़ीदार कुएं — राजस्थान व गुजरात);\n   - **जोहड़ एवं तालाब** (वर्षा जल रोकने वाले पारंपरिक कच्चे बाँध);\n   - **आहार-पाइन प्रणाली** (बिहार का पारंपरिक बाढ़ व सिंचाई प्रबंधन तंत्र)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 25.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 25."
+          "target": "भारतीय अर्थव्यवस्था और संपूर्ण कृषि उत्पादन का मुख्य आधार दक्षिण-पश्चिम मानसून की समयबद्ध और संतुलित मानसूनी वर्षा पर निर्भर करता है।",
+          "reading": "Bhaarteey arthavyavastha aur sampoorna krishi utpaadan ka mukhya aadhaar dakshin-pashchim maansoon ki samaybaddh aur santulit maansooni varsha par nirbhar karta hai. [bʱaːrt̪iːj ərt̪ʰʋjəʋəst̪ʰaː ɔːr səmbuːrɳ krɪʂɪ ʊt̪paːd̪ən kaː mʊkʰjə aːd̪ʱaːr d̪əkʃɪɳ pəʃtʃɪm maːnsuːn kiː səməjbəd̪ːʱ ɔːr sən̪t̪ʊlɪt̪ maːnsuːniː ʋərʂaː pər nɪrbʱər kərt̪aː hɛː] (bhahr-TEE-yuh uhrth-vyuh-vuhs-THAH owr suhm-POOR-nuh KREE-shee oot-pah-DUHN kah MOOKH-yuh ah-DHAHR DUHK-sheen-PUSH-cheem mahn-SOON kee suh-muy-BUHDH owr suhn-too-LEET mahn-soo-NEE vuhr-SHAH puhr neer-BHUHR KUHR-tah hy)",
+          "translation": "The fundamental basis of the Indian economy and total agricultural output hinges upon the timely and well-distributed rainfall of the Southwest Monsoon."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 25-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "राजस्थान और गुजरात के शुष्क क्षेत्रों में प्राचीन बावड़ियों और जोहड़ों का जीर्णोद्धार कर वर्षा जल संचयन से गिरते भूजल स्तर को सफलतापूर्वक सुधारा गया है।",
+          "reading": "Rajasthan aur Gujarat ke shushk kshetron mein praacheen baawadiyon aur johadon ka jeernoddhaar kar varsha jal sanchayan se girte bhoojal star ko safaltapoorvak sudhaara gaya hai. [raːdʒəst̪ʰaːn ɔːr ɡʊdʒraːt̪ keː ʃʊʃk kʃeːt̪rõː mẽː praːtʃiːn baːʋɽɪjõː ɔːr dʒoːɦəɽõː kaː dʒiːrɳoːd̪ːʱaːr kər ʋərʂaː dʒəl səntʃəjən seː ɡɪrt̪eː bʱuːdʒəl st̪ər koː səfəlt̪aːpuːrʋək sʊd̪ʱaːraː ɡəjaː hɛː] (rah-juhs-THAHN owr gooj-RAHT kay SHOOSHK kshay-TROHN mayn prah-CHEEN bah-vuh-dee-YOHN owr joh-huh-DOHN kah jeer-nohd-DHAHR kuhr vuhr-SHAH juhl suhn-chuh-YUN say GEER-tay BHOO-juhl STUHR koh suh-fuhl-tah-POOR-vuhk soo-dhah-RAH GUH-yah hy)",
+          "translation": "In the arid regions of Rajasthan and Gujarat, restoring ancient stepwells and Johads to harvest rainwater has successfully improved the depleting groundwater levels."
+        },
+        {
+          "target": "कृषि भूमि में बूंद-बूंद सिंचाई और फव्वारा प्रणाली अपनाने से सिंचाई जल की भारी बर्बादी रुकती है और प्रत्येक बूँद का सर्वोत्तम सदुपयोग सुनिश्चित होता है।",
+          "reading": "krishi bhoomi mein boond-boond sinchaai aur favvaara pranaali apnaane se sinchaai jal ki bhaari barbaadi rukti hai aur pratyek boond ka sarvottam sadupayog sunishchit hota hai. [krɪʂɪ bʱuːmɪ mẽː buːn̪d̪buːn̪d̪ sɪntʃaːiː ɔːr fəʋːaːraː prəɳaːliː əpnaːneː seː sɪntʃaːiː dʒəl kiː bʱaːriː bərbaːd̪iː rʊkt̪iː hɛː ɔːr prətjeːk buːn̪d̪ kaː sərʋoːt̪ːəm səd̪ʊpəjoːɡ sʊnɪʃtʃɪt̪ hoːt̪aː hɛː] (KREE-shee BHOO-mee mayn boond-BOOND seen-CHAH-ee owr fuhv-vah-RAH pruh-nah-LEE uhp-nah-NAY say seen-CHAH-ee juhl kee BHAH-ree buhr-bah-DEE ROOK-tee hy owr pruht-YAYK BOOND kah suhr-voht-TUHM suh-doop-YOHG soo-neesh-CHEET HOH-tah hy)",
+          "translation": "Adopting drip irrigation and sprinkler systems on agricultural land prevents immense wastage of irrigation water and ensures optimum utilization of every single drop."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "जल प्रबंधन: दक्षिण-पश्चिम मानसून, वर्षा जल संचयन (rainwater harvesting), बावड़ी (stepwell), ड्रिप सिंचाई (drip)!"
+      ],
+      "culturalNotes": [
+        "भारत के जलपुरुष (Waterman of India) डॉ. राजेंद्र सिंह ने राजस्थान के सूखे गाँवों में पारंपरिक जोहड़ बनाकर सूख चुकी सात नदियों को पुनर्जीवित कर दिया।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"लंबा\":",
+          "prompt": "वर्षा के पानी को टंकियों, तालाबों या भूमिगत ढांचों में सुरक्षित एकत्र करने की विधि को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 25.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नाटा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («तेज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («धीमा» का अनुचित स्थान)"
+            "वर्षा जल संचयन (Varsha jal sanchayan - Rainwater Harvesting [water conservation technique])",
+            "जल का अपव्यय (पानी बहाना)",
+            "बाढ़ का प्रकोप (प्राकृतिक आपदा)",
+            "सूखा पड़ना (वर्षा का अभाव)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "वर्षा के जल को एकत्र कर उपयोग हेतु सुरक्षित रखने को «वर्षा जल संचयन» (Rainwater Harvesting) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"लंबा\":",
+          "prompt": "राजस्थान व गुजरात की ऐतिहासिक सीढ़ीदार जल संरचना (Stepwell) को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 25.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («तेज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («धीमा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नाटा» का अशुद्ध रूप)"
+            "बावड़ी / झालरा (Baawadi / Jhaalra - Historic Stepwell [traditional water storage architecture])",
+            "पानी का नल (आधुनिक नल)",
+            "प्लास्टिक की बाल्टी (घरेलू पात्र)",
+            "फव्वारा (उद्यान सजावट)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सीढ़ियों द्वारा जल स्तर तक पहुँचने वाले पारंपरिक कुओं को «बावड़ी» (Stepwell) कहा जाता है।"
         }
       ]
     },
@@ -10523,17 +10552,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"लंबा\": Which sentence is completely correct?",
+          "prompt": "मानसून जलवायु और जल संरक्षण (Monsoon & Water Harvesting) का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 25.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («धीमा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नाटा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («तेज़» से संबंधित)"
+            "वर्षा जल संचयन और आधुनिक सूक्ष्म सिंचाई प्रणालियों का व्यापक प्रसार गिरते भूजल संकट का स्थायी और प्रभावी समाधान प्रस्तुत करता है। (Widespread adoption of rainwater harvesting and modern micro-irrigation systems offers a permanent and effective solution to the depleting groundwater crisis.)",
+            "भूजल को पूरा खाली कर दो ताकि कोई पानी न पी सके।",
+            "वर्षा जल संचयन करने से बादल नाराज़ हो जाते हैं।",
+            "मानसून के समय सभी नदियाँ सूख जाती हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«वर्षा जल संचयन और आधुनिक सूक्ष्म सिंचाई प्रणालियों का व्यापक प्रसार... स्थायी और प्रभावी समाधान प्रस्तुत करता है» जल विज्ञान का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u25-l4": {
@@ -10541,53 +10571,62 @@
     "subject": "hindi",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "पर्यावरण, कृषि और मानसून जल प्रबंधन (Ecology & Agriculture) (Part 4)",
+    "title": "जलवायु परिवर्तन, नवीकरणीय ऊर्जा और सतत विकास (Climate Change, Renewable Energy & Sustainable Development)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.4) with authentic linguistic precision.",
+    "objective": "जलवायु परिवर्तन (Climate Change), भूमंडलीय तापन (Global Warming), नवीकरणीय ऊर्जा (सौर व पवन ऊर्जा) तथा चक्रीय अर्थव्यवस्था की परिष्कृत शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जलवायु परिवर्तन, हरित ऊर्जा और सतत विकास के मानक पारिभाषिक नियम:\n\n1. **जलवायु संकट और भूमंडलीय तापन**:\n   - **भूमंडलीय तापन** — ग्रीनहाउस गैसों (कार्बन डाइऑक्साइड, मीथेन) के उत्सर्जन से पृथ्वी के औसत तापमान में निरंतर वृद्धि;\n   - **चरम मौसमी घटनाएं** — असमय सूखा, भीषण चक्रवात, अतिवृष्टि तथा हिमनदों (ग्लेशियर) का तेजी से पिघलना;\n   - **कार्बन तटस्थता** — जितना कार्बन उत्सर्जित हो, उतना ही अवशोषित कर शुद्ध शून्य उत्सर्जन का लक्ष्य पाना।\n\n2. **नवीकरणीय एवं स्वच्छ ऊर्जा**:\n   - **सौर ऊर्जा एवं पवन ऊर्जा** — सूर्य के प्रकाश और वायु गति से विद्युत उत्पादन करने वाले प्रदूषण-मुक्त ऊर्जा स्रोत;\n   - **हरित हाइड्रोजन एवं जैव ईंधन** — जीवाश्म ईंधनों (कोयला, पेट्रोल) के स्थान पर स्वच्छ वैकल्पिक ईंधनों का विकास;\n   - **अंतर्राष्ट्रीय सौर गठबंधन** — सौर ऊर्जा विस्तार हेतु भारत द्वारा स्थापित वैश्विक संगठन।\n\n3. **सतत विकास एवं चक्रीय अर्थव्यवस्था**:\n   - **चक्रीय अर्थव्यवस्था** — वस्तुओं के पुनः उपयोग, पुनर्चक्रण और कचरा न्यूनतम करने का आर्थिक मॉडल;\n   - **सतत विकास लक्ष्य** — पर्यावरण संरक्षण के साथ गरीबी उन्मूलन और समग्र मानव कल्याण के वैश्विक लक्ष्य।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 25.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 25."
+          "target": "भूमंडलीय तापन के दुष्प्रभावों से निपटने के लिए भारत ने सौर ऊर्जा और पवन ऊर्जा जैसी नवीकरणीय ऊर्जा स्रोतों के विस्तार में वैश्विक नेतृत्व संभाला है।",
+          "reading": "Bhoomandaleey taapan ke dushprabhaavon se nipatne ke liye Bhaarat ne saur oorja aur pavan oorja jaisi naveekaraneey oorja sroton ke vistaar mein vaishvik netritva sambhaala hai. [bʱuːməɳɖəlɪjə t̪aːpən keː d̪ʊʂprəbʱaːʋõː seː nɪpəʈneː keː lɪjeː bʱaːrət̪ neː sɔːr uːrdʒaː ɔːr pəʋən uːrdʒaː dʒɛːsiː nəʋiːkərɳiːj uːrdʒaː sroːt̪õː keː ʋɪst̪aːr mẽː ʋɛːʃʋɪk neːt̪rɪt̪ʋə səmbaːlaː hɛː] (bhoo-muhn-duh-LEE-yuh TAH-puhn kay doosh-pruh-BHAH-vohn say nee-PUHT-nay kay lee-ay BHAH-ruht nay sowr OOR-jah owr PUH-vuhn OOR-jah jy-SEE nuh-vee-kuh-ruh-NEE-yuh OOR-jah SROH-tohn kay vees-TAHR mayn vy-SHVEEK nay-t有り-TVUH suhm-BHAH-lah hy)",
+          "translation": "To combat the adverse impacts of global warming, India has assumed global leadership in expanding renewable energy sources such as solar and wind energy."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 25-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अंतर्राष्ट्रीय सौर गठबंधन के माध्यम से विकासशील देशों को सस्ती, स्वच्छ और निर्बाध हरित ऊर्जा उपलब्ध कराने का ऐतिहासिक संकल्प लिया गया है।",
+          "reading": "Antarraashtreey Saur Gathbandhan ke maadhyam se vikaassheel deshon ko sastee, svachchh aur nirbaadh harit oorja uplabdh karaane ka aitihasik sankalp liya gaya hai. [ən̪t̪ərraːʂʈriːj sɔːr ɡət̪ʰbən̪d̪ʱən keː maːd̪ʱjəm seː ʋɪkaːsʃiːl d̪eːʃõː koː səst̪iː sʋətʃʰː ɔːr nɪrbaːd̪ʱ ɦərɪt̪ uːrdʒaː ʊpləbd̪ʱ kəraːneː kaː ɛːt̪ɪhaːsɪk səŋkəlp lɪjaː ɡəjaː hɛː] (uhn-tuhr-rahsh-TREE-yuh sowr guhth-BUHN-dhuhn kay MAHDH-yuhm say vee-kahs-SHEEL day-SHOHN koh suhs-TEE, SVAHCHH owr neer-BAHDH huh-REET OOR-jah oop-LUHBDH kuh-rah-NAY kah ay-tee-HAH-seek suhn-KUHLP lee-YAH GUH-yah hy)",
+          "translation": "Through the International Solar Alliance, a historic pledge has been made to make affordable, clean, and uninterrupted green energy available to developing nations."
+        },
+        {
+          "target": "सतत विकास और चक्रीय अर्थव्यवस्था को बढ़ावा देने हेतु औद्योगिक उत्पादन में शून्य अपशिष्ट उत्सर्जन और पुनर्चक्रण को अनिवार्य बनाया जा रहा है।",
+          "reading": "satat vikaas aur chakreey arthavyavastha ko badhaava dene hetu audyogik utpaadan mein shoonya apshisht utsarjan aur punarchakran ko anivaarya banaaya ja raha hai. [sət̪ət̪ ʋɪkaːs ɔːr tʃəkriːj ərt̪ʰʋjəʋəst̪ʰaː koː bəɖʱaːʋaː d̪eːneː ɦeːt̪ʊ ɔːdjoːɡɪk ʊt̪paːd̪ən mẽː ʃuːnjə əpʃɪʂʈ ʊtsərdʒən ɔːr pʊnərtʃəkrəɳ koː ənɪʋaːrjə bənaːjaː dʒaː rəɦaː hɛː] (suh-TUHT vee-KAHS owr chuhk-REE-yuh uhrth-vyuh-vuhs-THAH koh buh-DHAH-vah DAY-nay HAY-too ow-dyoh-GEEK oot-pah-DUHN mayn SHOON-yuh uhp-SHEESHT oot-SUHR-juhn owr poo-nuhr-CHUH-kruhn koh uh-nee-VAHR-yuh buh-nah-YAH JAH ruh-HAH hy)",
+          "translation": "To foster sustainable development and a circular economy, zero waste discharge and recycling are being made mandatory in industrial manufacturing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "हरित विकास: भूमंडलीय तापन (global warming), सौर ऊर्जा (solar), चक्रीय अर्थव्यवस्था (circular economy), सतत विकास!"
+      ],
+      "culturalNotes": [
+        "भारत ने 2070 तक 'शुद्ध शून्य कार्बन उत्सर्जन' (Net Zero Emissions) प्राप्त करने और 2030 तक अपनी 50% विद्युत क्षमता गैर-जीवाश्म स्रोतों से पूरी करने का लक्ष्य रखा है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नाटा\":",
+          "prompt": "ग्रीनहाउस गैसों के उत्सर्जन से पृथ्वी के औसत तापमान में होने वाली वैश्विक वृद्धि को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 25.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («तेज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («धीमा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नया» का अनुचित स्थान)"
+            "भूमंडलीय तापन / ग्लोबल वॉर्मिंग (Bhoomandaleey taapan / Global Warming [climate change warming trend])",
+            "हिमयुग का आगमन (शीतलन प्रक्रिया)",
+            "समुद्र का सूखना (काल्पनिक घटना)",
+            "दिन-रात का चक्र (दैनिक घूर्णन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ग्रीनहाउस प्रभाव के कारण धरती के तापमान में निरंतर वृद्धि को «भूमंडलीय तापन» (Global Warming) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नाटा\":",
+          "prompt": "उत्पादित वस्तुओं के पुनः उपयोग, मरम्मत और पुनर्चक्रण पर आधारित आर्थिक मॉडल को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 25.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («धीमा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नया» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («तेज़» का अशुद्ध रूप)"
+            "चक्रीय अर्थव्यवस्था (Chakreey arthavyavastha - Circular Economy [zero-waste regenerative economy])",
+            "कचरा फेंकने की प्रणाली (अपव्ययी व्यवस्था)",
+            "विनाशकारी अर्थव्यवस्था (हानिकारक मॉडल)",
+            "स्थानीय हाट बाज़ार (साधारण बाज़ार)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अपशिष्ट को समाप्त कर संसाधनों के निरंतर पुनर्चक्रण पर आधारित मॉडल को «चक्रीय अर्थव्यवस्था» (Circular Economy) कहते हैं।"
         }
       ]
     },
@@ -10595,17 +10634,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नाटा\": Which sentence is completely correct?",
+          "prompt": "जलवायु परिवर्तन और नवीकरणीय ऊर्जा (Climate Action & Green Energy) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 25.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नया» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («तेज़» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («धीमा» से संबंधित)"
+            "जीवाश्म ईंधनों पर निर्भरता कम करके नवीकरणीय ऊर्जा और सतत जीवनशैली अपनाना भावी पीढ़ियों के सुरक्षित भविष्य के लिए अपरिहार्य है। (Reducing dependence on fossil fuels and adopting renewable energy and sustainable lifestyles is imperative for the secure future of coming generations.)",
+            "कोयले और पेट्रोल का धुआं बढ़ाओ ताकि वातावरण काला हो जाए।",
+            "सौर ऊर्जा का प्रयोग मत करो ताकि बिजली बंद हो जाए।",
+            "पर्यावरण प्रदूषण से मनुष्य अमर हो जाता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जीवाश्म ईंधनों पर निर्भरता कम करके... अपरिहार्य है» जलवायु नीति और पर्यावरण दर्शन का श्रेष्ठ वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u25-l5": {
@@ -10613,53 +10653,62 @@
     "subject": "hindi",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "पर्यावरण, कृषि और मानसून जल प्रबंधन (Ecology & Agriculture) (Part 5)",
+    "title": "पर्यावरण नीति व कृषि समेकन का समग्र विश्लेषण (Comprehensive Ecological Policy, Agro-economics & Climate Action Synthesis)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 25.5) with authentic linguistic precision.",
+    "objective": "वैदिक पंचमहाभूत दर्शन (Five Elements Philosophy), राष्ट्रीय पर्यावरण नीति, जलवायु-अनुकूल कृषि तथा वैश्विक जलवायु संधि के समग्र शास्त्रीय विमर्श में पूर्ण निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "पर्यावरण दर्शन, कृषि अर्थशास्त्र और वैश्विक जलवायु नीति का परिष्कृत संश्लेषण:\n\n1. **भारतीय वैदिक पर्यावरण दर्शन (पंचमहाभूत)**:\n   - **पंचमहाभूत तत्व** — पृथ्वी (भूमि), आपः (जल), तेजः (अग्नि/ऊर्जा), वायु (पवन) तथा आकाश (अंतरिक्ष);\n   - **'ईशा वास्यमिदं सर्वम्'** — समस्त प्रकृति में ईश्वरीय चेतना का वास है, अतः प्रकृति का दोहन नहीं बल्कि संरक्षण और सम्मान होना चाहिए;\n   - **'माता भूमिः पुत्रोऽहं पृथिव्याः'** — पृथ्वी हमारी माता है और हम सब इसके पुत्र हैं (अथर्ववेद का भूमि सूक्त)।\n\n2. **जलवायु अनुकूल कृषि एवं खाद्य सुरक्षा**:\n   - **जलवायु सहिष्णु फसल किस्में** — सूखे और बाढ़ को सहन करने वाले उन्नत मोटे अनाज (श्री अन्न - मिलेट्स — ज्वार, बाजरा, रागी);\n   - **खाद्य सुरक्षा और न्यूनतम समर्थन मूल्य** — किसानों की आर्थिक सुरक्षा और आम जनता हेतु पोषण सुरक्षा का समन्वय।\n\n3. **वैश्विक पर्यावरण कूटनीति एवं संधि**:\n   - **पेरिस जलवायु समझौता** — वैश्विक तापमान वृद्धि को 1.5 डिग्री सेल्सियस तक सीमित रखने का अंतर्राष्ट्रीय संकल्प;\n   - **मिशन लाइफ (पर्यावरण के लिए जीवनशैली)** — पर्यावरण अनुकूल दैनिक जीवनशैली अपनाने का वैश्विक जन-आंदोलन।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 25.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 25."
+          "target": "भारतीय वैदिक दर्शन में प्रकृति को माता मानकर पंचमहाभूतों के प्रति कृतज्ञता और सह-अस्तित्व की जो परंपरा रही है, वही आधुनिक पर्यावरण संकट का शाश्वत समाधान है।",
+          "reading": "Bhaarteey vaidik darshan mein prakriti ko maata maankar panchmahaabhooton ke prati kritajnyata aur sah-astitwa ki jo parampara rahi hai, vahi aadhunik paryaavaran sankat ka shaashwat samaadhaan hai. [bʱaːrt̪iːj ʋɛːd̪ɪk d̪ərʃən mẽː prəkrɪt̪ɪ koː maːt̪aː maːnkər pəntʃməkhaːbʱuːt̪õː keː prət̪ɪ krɪt̪ədʒɲət̪aː ɔːr səɦəst̪ɪt̪ʋə kiː dʒoː pərəmpəraː rəɦiː hɛː ʋəɦiː aːd̪ʱʊnɪk pərjaːʋərəɳ səŋkəʈ kaː ʃaːʃʋət̪ səmaːd̪ʱaːn hɛː] (bhahr-TEE-yuh vy-DEEK duhr-SHUHN mayn pruh-KREE-tee koh MAH-tah MAHN-kuhr puhnch-muh-hah-BHOO-tohn kay pruh-TEE kree-tuhj-nyuh-TAH owr suh-uhs-TEET-vuh kee joh puh-ruhm-puh-RAH ruh-HEE hy, VUH-hee ah-dhoo-NEEK puhr-yah-vuh-RUHN suhn-KUHT kah shahsh-VUHT suh-mah-DHAHN hy)",
+          "translation": "The profound tradition in Indian Vedic philosophy of regarding Nature as Mother and observing gratitude and coexistence toward the Five Great Elements is itself the eternal solution to the modern environmental crisis."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 25-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जलवायु अनुकूल कृषि तकनीकों, उन्नत मौसम पूर्वानुमान और सामुदायिक जल प्रबंधन के समन्वय से किसानों की फसल उपज और आर्थिक आय दोनों को पूर्ण सुरक्षा मिलती है।",
+          "reading": "jalvaayu anukool krishi takneekon, unnat mausam poorvaanumaan aur saamudaayik jal prabandhan ke samanvay se kisaanon ki fasal upaj aur aarthik aay donon ko poorna suraksha milti hai. [dʒəlʋaːjʊ ənʊkuːl krɪʂɪ t̪əkniːkõː ʊnːət̪ mɔːsəm puːrʋaːnʊmaːn ɔːr səmʊdaːjɪk dʒəl prəbən̪d̪ʱən keː səmənʋəj seː kɪsaːnõː kiː fəsəl ʊpədʒ ɔːr aːrt̪ʰɪk aːj d̪oːnõː koː puːrɳ sʊrəkʃaː mɪlt̪iː hɛː] (juhl-vah-YOO uh-noo-KOOL KREE-shee tuhk-nee-KOHN, oon-NUHT mow-SUHM poor-vah-noo-MAHN owr sah-moo-dah-YEEK juhl pruh-BUHN-dhuhn kay suh-muhn-VUY say kee-sah-NOHN kee FUH-suhl OO-puhj owr ahr-THEEK ahy doh-NOHN koh POOR-nuh soo-RUK-shah MEEL-tee hy)",
+          "translation": "The coordination of climate-resilient farming techniques, advanced weather forecasting, and community water management affords complete security to both crop yield and economic income of farmers."
+        },
+        {
+          "target": "विश्व पर्यावरण शिखर सम्मेलन में सभी राष्ट्रों ने आने वाली पीढ़ियों के सुरक्षित भविष्य हेतु कार्बन तटस्थता और प्रकृति-आधारित सतत समाधानों को लागू करने का संकल्प दोहराया।",
+          "reading": "vishva paryaavaran shikhar sammelan mein sabhi raashtron ne aane vaali peedhiyon ke surakshit bhavishya hetu carbon tatashthata aur prakriti-aadhaarit satat samaadhaanon ko laagoo karne ka sankalp dohraaya. [ʋɪʃʋə pərjaːʋərəɳ ʃɪkʰər səmːeːlən mẽː səbʱiː raːʂʈrõː neː aːneː ʋaːliː piːɽʱɪjõː keː sʊrəkʃɪt̪ bʱəʋɪʂjə ɦeːt̪ʊ kaːrbən t̪əʈəst̪ʰt̪aː ɔːr prəkrɪt̪ɪ aːd̪ʱaːrɪt̪ sət̪ət̪ səmaːd̪ʱaːnõː koː laːɡuː kərneː kaː səŋkəlp d̪oːɦraːjaː] (VEESH-vuh puhr-yah-vuh-RUHN shee-KHUHR suhm-MAY-luhn mayn SUH-bhee rahsh-TROHN nay AH-nay vah-LEE peed-hee-YOHN kay soo-ruhk-SHEET bhuh-veesh-YUH HAY-too carbon tuh-tuhsh-thuh-TAH owr pruh-KREE-tee-ah-dhah-REET suh-TUHT suh-mah-dhah-NOHN koh lah-GOO KUHR-nay kah suhn-KUHLP doh-rah-YAH)",
+          "translation": "At the World Environment Summit, all nations reiterated their resolve to implement carbon neutrality and nature-based sustainable solutions for the secure future of generations to come."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पर्यावरण समेकन: पंचमहाभूत (भूमि/जल/अग्नि/वायु/आकाश), जलवायु अनुकूल कृषि, मिशन लाइफ (Mission LiFE)!"
+      ],
+      "culturalNotes": [
+        "भारत ने संयुक्त राष्ट्र में 'मिशन लाइफ' (Lifestyle for Environment) का वैश्विक विचार प्रस्तुत किया, जो प्रकृति के साथ सामंजस्यपूर्ण और संयमित जीवन जीने की भारतीय परंपरा पर आधारित है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"तेज़\":",
+          "prompt": "भारतीय वैदिक दर्शन के अनुसार संपूर्ण सृष्टि का निर्माण किन पाँच मूलभूत तत्वों (पंचमहाभूत) से हुआ है?",
           "options": [
-            "हम इस पाठ में इकाई 25.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («धीमा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नया» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पुराना» का अनुचित स्थान)"
+            "पृथ्वी, जल, अग्नि, वायु और आकाश (Prithvi, Jal, Agni, Vayu aur Aakash - Earth, Water, Fire, Air and Space [Five Sacred Cosmic Elements])",
+            "सोना, चाँदी, ताँबा, लोहा और पीतल (धातु वर्ग)",
+            "प्लास्टिक, काँच, सीमेंट, ईंट और रेत (भवन सामग्री)",
+            "चावल, गेहूँ, दाल, चीनी और नमक (खाद्य सामग्री)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "वैदिक दर्शन में सृष्टि के पाँच मूल तत्वों को «पंचमहाभूत» (पृथ्वी, जल, अग्नि, वायु, आकाश) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"तेज़\":",
+          "prompt": "कम पानी और विपरीत मौसम में भी उगने वाले पौष्टिक मोटे अनाजों (जैसे ज्वार, बाजरा, रागी) को क्या नाम दिया गया है?",
           "options": [
-            "हम इस पाठ में इकाई 25.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नया» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पुराना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («धीमा» का अशुद्ध रूप)"
+            "श्री अन्न / मिलेट्स (Shree Anna / Millets - Nutri-cereals / Climate-resilient traditional coarse grains)",
+            "जंक फ़ूड (अस्वास्थ्यकर भोजन)",
+            "फास्ट फ़ूड (शीघ्र भोजन)",
+            "शीतल पेय (कोल्ड ड्रिंक)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "जलवायु-सहिष्णु और अत्यधिक पोषक मोटे अनाजों को भारत में आधिकारिक रूप से «श्री अन्न» (Millets) कहा गया है।"
         }
       ]
     },
@@ -10667,17 +10716,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"तेज़\": Which sentence is completely correct?",
+          "prompt": "पर्यावरण दर्शन, कृषि नीति और जलवायु संतुलन (Ecological Policy & Agro-synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 25.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पुराना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («धीमा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नया» से संबंधित)"
+            "प्रकृति के पंचमहाभूतों का आदर, जैविक कृषि का विस्तार और नवीकरणीय ऊर्जा का अंगीकार ही मानवता और पृथ्वी के सुरक्षित सह-अस्तित्व की अंतिम गारंटी है। (Reverence for the Five Elements of nature, expansion of organic farming, and adoption of renewable energy is the ultimate guarantee of the secure coexistence of humanity and the Earth.)",
+            "प्रकृति को नष्ट कर दो ताकि कोई जीवित न रहे।",
+            "श्री अन्न को ज़मीन में दबाकर भूल जाना चाहिए।",
+            "पंचमहाभूतों से पर्यावरण खराब होता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रकृति के पंचमहाभूतों का आदर, जैविक कृषि का विस्तार... सुरक्षित सह-अस्तित्व की अंतिम गारंटी है» वैदिक व आधुनिक पर्यावरण दर्शन का सर्वोच्च संश्लेषण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u26-l1": {
