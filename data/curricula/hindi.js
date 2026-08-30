@@ -485,53 +485,62 @@
     "subject": "hindi",
     "unit": 1,
     "lessonNumber": 1,
-    "title": "देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) (Part 1)",
+    "title": "देवनागरी लिपि का परिचय, स्वर-मात्राएं और बुनियादी अभिवादन",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for देवनागरी लिपि और प्रारंभिक शिष्टाचार with authentic linguistic precision.",
+    "objective": "देवनागरी वर्णमाला के मूल स्वरूप, स्वरों (ह्रस्व व दीर्घ), शिरोरेखा, अंतर्निहित 'अ' ध्वनि तथा बुनियादी अभिवादनों (नमस्ते, नमस्कार, सुप्रभात) का सटीक उच्चारण और प्रयोग सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "देवनागरी एक अत्यंत समृद्ध और वैज्ञानिक अक्षरात्मक (Abugida) लिपि है, जो बाएं से दाएं लिखी जाती है और प्रत्येक वर्ण के ऊपर एक क्षैतिज रेखा होती है जिसे «शिरोरेखा» कहते हैं:\n\n1. स्वर और मात्राओं की व्यवस्था:\n   - मूल स्वर: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ, अं (अनुस्वार), अः (विसर्ग)।\n   - प्रत्येक व्यंजन में 'अ' की ध्वनि स्वाभाविक रूप से जुड़ी होती है (जैसे: क् + अ = क)। अन्य स्वरों को दर्शाने के लिए व्यंजनों के साथ मात्राएं लगाई जाती हैं: ा (आ), ि (इ), ी (ई), ु (उ), ू (ऊ), े (ए), ै (ऐ), ो (ओ), ौ (औ)।\n\n2. प्रारंभिक शिष्टाचार और अभिवादन:\n   - «नमस्ते» अथवा «नमस्कार» — दोनों हाथ जोड़कर किया जाने वाला पारंपरिक और सार्वभौमिक भारतीय अभिवादन है जो दिन के किसी भी समय प्रयोग किया जा सकता है।\n   - «सुप्रभात» — प्रातःकाल के समय मंगलकामना व्यक्त करने हेतु प्रयुक्त होता है।\n   - «शुभ संध्या» — सायंकाल के समय कुशलक्षेम और अभिवादन हेतु प्रयुक्त होता है।\n   - «शुभ रात्रि» — रात्रि के समय विदा लेते समय मंगलकामना हेतु कहा जाता है।\n\n3. वाक्य संरचना का नियम:\n   - हिंदी में सामान्य वाक्य का पदक्रम कर्ता + कर्म + क्रिया (Subject-Object-Verb) होता है, जैसे: «मेरा नाम रोहन है» (कर्ता: मेरा नाम, पूरक: रोहन, क्रिया: है)।",
       "examples": [
         {
-          "target": "नमस्ते, आप कैसे हैं?",
-          "reading": "namaste, aap kaise hain? [nəməsteː, aːp kɛːseː hɛ̃ː] (NUH-muh-stay, AHP KY-say HYN)",
-          "translation": "Hello, how are you?"
+          "target": "नमस्ते! मेरा नाम रोहन है।",
+          "reading": "namaste! meraa naam rohan hai. [nəməsteː meːraː naːm roːɦən hɛː] (nuh-muhs-TAY! may-rah nahm ROH-huhn hy)",
+          "translation": "Hello! My name is Rohan."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 1-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "सुप्रभात! आप आज कैसे हैं?",
+          "reading": "suprabhaat! aap aaj kaise hain? [sʊprəbʱaːt aːp aːdʒ kɛːseː hɛ̃ː] (soo-pruh-BHAHT! ahp ahj KY-say hyn?)",
+          "translation": "Good morning! How are you today?"
+        },
+        {
+          "target": "शुभ संध्या, अध्यापक जी!",
+          "reading": "shubh sandhyaa, adhyaapak jee! [ʃʊbʱ sən̪d̪ʱjaː əd̪ʱjaːpək dʒiː] (shoobh suhn-DHYAH, uh-DHYAH-puhk jee!)",
+          "translation": "Good evening, respected teacher!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "दोनों हाथ जोड़कर 'नमन' करें — «नमस्ते»; सुबह का शुभ सूर्य — «सुप्रभात»; रात की मीठी नींद — «शुभ रात्रि»!"
+      ],
+      "culturalNotes": [
+        "«नमस्ते» शब्द संस्कृत के 'नमस्' (प्रणाम) और 'ते' (आपको) से बना है, जिसका अर्थ है 'मैं आपके भीतर की दिव्यता को नमन करता हूँ'।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नमस्ते\":",
+          "prompt": "हिंदी में दिन के किसी भी समय आदरपूर्वक अभिवादन करने के लिए सबसे उपयुक्त और सार्वभौमिक शब्द कौन-सा है?",
           "options": [
-            "नमस्ते, आप कैसे हैं?",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («धन्यवाद» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कृपया» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अलविदा» का अनुचित स्थान)"
+            "नमस्ते / नमस्कार (Namaste / Namaskar - Universal respectful greeting)",
+            "अलविदा",
+            "माफ़ कीजिए",
+            "धन्यवाद"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«नमस्ते» और «नमस्कार» हिंदी में सबसे सामान्य और आदरसूचक पारंपरिक अभिवादन हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नमस्ते\":",
+          "prompt": "देवनागरी लिपि में अक्षरों के ऊपर खींची जाने वाली क्षैतिज रेखा को क्या कहा जाता है?",
           "options": [
-            "नमस्ते, आप कैसे हैं?",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कृपया» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अलविदा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («धन्यवाद» का अशुद्ध रूप)"
+            "शिरोरेखा (Shirorekha - Top horizontal hanging line in Devanagari)",
+            "मात्रा",
+            "हलन्त",
+            "अनुस्वार"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "देवनागरी लिपि में वर्णों के शीर्ष पर लगाई जाने वाली रेखा को «शिरोरेखा» कहते हैं।"
         }
       ]
     },
@@ -539,17 +548,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नमस्ते\": Which sentence is completely correct?",
+          "prompt": "प्रातःकाल मिलने पर शिष्टाचारवश किसी से क्या कहना सबसे उचित होगा?",
           "options": [
-            "नमस्ते, आप कैसे हैं?",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अलविदा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («धन्यवाद» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कृपया» से संबंधित)"
+            "सुप्रभात! आप कैसे हैं? (Good morning! How are you?)",
+            "शुभ रात्रि, कल मिलेंगे।",
+            "अलविदा, फिर मिलेंगे।",
+            "माफ़ कीजिए, मुझे जाना है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "सुबह के समय मिलने पर «सुप्रभात!» कहकर कुशलक्षेम पूछना मानक शिष्टाचार है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u1-l2": {
@@ -557,53 +567,62 @@
     "subject": "hindi",
     "unit": 1,
     "lessonNumber": 2,
-    "title": "देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) (Part 2)",
+    "title": "व्यंजन वर्गीकरण, महाप्राण-अल्पप्राण और शिष्टाचार के शब्द",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for व्यक्तिगत परिचय और नाम पूछना with authentic linguistic precision.",
+    "objective": "देवनागरी व्यंजनों के उच्चारण-स्थान (कण्ठ्य, तालव्य, मूर्धन्य, दन्त्य, ओष्ठ्य), अल्पप्राण/महाप्राण भेद, नुक़्ता ध्वनियों तथा शिष्टाचार सूचक शब्दों (धन्यवाद, कृपया, माफ़ कीजिए) को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी वर्णमाला का व्यंजन तंत्र पूर्णतः ध्वन्यात्मक और वैज्ञानिक नियमों पर आधारित है, जहाँ प्रत्येक वर्ण का उच्चारण स्थान निश्चित है:\n\n1. स्पर्श व्यंजन वर्ग (उच्चारण स्थान के आधार पर पांच वर्ग):\n   - क-वर्ग (कण्ठ्य ध्वनि): क, ख, ग, घ, ङ (कंठ से उच्चारित);\n   - च-वर्ग (तालव्य ध्वनि): च, छ, ज, झ, ञ (कठोर तालु से उच्चारित);\n   - ट-वर्ग (मूर्धन्य ध्वनि): ट, ठ, ड, ढ, ण (मूर्धा या तालु के ऊपरी भाग से जीभ मोड़कर);\n   - त-वर्ग (दन्त्य ध्वनि): त, थ, द, ध, न (दांतों के स्पर्श से उच्चारित);\n   - प-वर्ग (ओष्ठ्य ध्वनि): प, फ, ब, भ, म (दोनों होंठों के स्पर्श से उच्चारित)।\n\n2. अल्पप्राण और महाप्राण का ध्वन्यात्मक भेद:\n   - अल्पप्राण: जिन वर्णों के उच्चारण में कम वायु और हल्की ध्वनि निकलती है (क, ग, च, ज, ट, ड, त, द, प, ब)।\n   - महाप्राण: जिन वर्णों के उच्चारण में श्वास वायु हकार जैसी भारी ध्वनि के साथ निकलती है (ख, घ, छ, झ, ठ, ढ, थ, ध, फ, भ)। जैसे: 'कल' (बीता/आने वाला दिन) बनाम 'खल' (दुष्ट व्यक्ति)।\n\n3. नुक़्ता ध्वनियां और शिष्टाचार शब्दावली:\n   - नुक़्ता (़) लगाकर अरबी-फ़ारसी मूल की ध्वनियां लिखी जाती हैं: क़, ख़, ग़, ज़, फ़।\n   - «धन्यवाद» अथवा «शुक्रिया» — किसी के उपकार या सहायता के प्रति कृतज्ञता प्रकट करने हेतु प्रयुक्त होता है।\n   - «कृपया» — किसी से विनम्र अनुरोध अथवा याचना करने हेतु वाक्य के आरंभ में प्रयुक्त होता है।\n   - «माफ़ कीजिए» अथवा «क्षमा कीजिए» — भूल स्वीकारने या ध्यान आकर्षित करने हेतु कहा जाता है।",
       "examples": [
         {
-          "target": "मेरा नाम राहुल है, आपसे मिलकर बहुत खुशी हुई।",
-          "reading": "meraa naam rahul hai, aapse milkar bahut khushi hui [meːraː naːm raːɦʊl hɛː] (MAY-rah NAHM)",
-          "translation": "My name is Rahul, very pleased to meet you."
+          "target": "आपकी सहायता के लिए बहुत-बहुत धन्यवाद।",
+          "reading": "aapki sahayata ke liye bahut-bahut dhanyavaad. [aːpkiː səɦaːjət̪aː keː lɪjeː bəɦʊt̪ bəɦʊt̪ d̪ʱənjəʋaːd̪] (ahp-kee suh-HAH-yuh-tah kay lee-ay buh-hoot buh-hoot dhuhn-yuh-VAHD)",
+          "translation": "Thank you very much for your help."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 1-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कृपया यहाँ बैठिए और पानी पीजिए।",
+          "reading": "kripaya yahaan baithiye aur paani peejiye. [krɪpəjaː jəɦaː̃ bɛːʈʰɪjeː ɔːr paːniː piːdʒɪjeː] (krih-puh-YAH yuh-HAHN by-thee-yay owr PAH-nee pee-jee-yay)",
+          "translation": "Please sit here and drink water."
+        },
+        {
+          "target": "माफ़ कीजिए, क्या आप हिंदी बोलते हैं?",
+          "reading": "maaf kijiye, kya aap hindi bolte hain? [maːf kiːdʒɪjeː kjaː aːp hɪn̪d̪iː boːlteː hɛ̃ː] (mahf KEE-jee-yay, kyah ahp HEEN-dee bohl-tay hyn?)",
+          "translation": "Excuse me, do you speak Hindi?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अल्पप्राण = हल्की फूंक (क, त, प); महाप्राण = भारी श्वास (ख, थ, फ); आभार = धन्यवाद; विनय = कृपया; भूल = माफ़ कीजिए!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी व्यक्ति के नाम या पद के पीछे 'जी' लगाना (जैसे: वर्मा जी, डॉक्टर जी, पिताजी) गहरे सम्मान और आत्मीयता का प्रतीक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"धन्यवाद\":",
+          "prompt": "हिंदी में किसी से विनम्रतापूर्वक अनुरोध (Request) करते समय वाक्य के आरंभ में किस शिष्टाचार शब्द का प्रयोग होता है?",
           "options": [
-            "मेरा नाम राहुल है, आपसे मिलकर बहुत खुशी हुई।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कृपया» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अलविदा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («माफ़ कीजिए» का अनुचित स्थान)"
+            "कृपया (Kripaya - Please)",
+            "अलविदा",
+            "नहीं",
+            "क्यों"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "विनम्र अनुरोध के लिए «कृपया» (Please) का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"धन्यवाद\":",
+          "prompt": "इनमें से कौन-सा व्यंजन युग्म 'अल्पप्राण' और 'महाप्राण' का सटीक उदाहरण है?",
           "options": [
-            "मेरा नाम राहुल है, आपसे मिलकर बहुत खुशी हुई।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अलविदा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («माफ़ कीजिए» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कृपया» का अशुद्ध रूप)"
+            "क और ख (क = अल्पप्राण, ख = महाप्राण)",
+            "म और न",
+            "र और ल",
+            "य और व"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'क' अल्पप्राण (कम वायु) है और 'ख' महाप्राण (अधिक वायु) है।"
         }
       ]
     },
@@ -611,17 +630,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"धन्यवाद\": Which sentence is completely correct?",
+          "prompt": "यदि आपसे अनजाने में कोई त्रुटि हो जाए या किसी का ध्यान आकर्षित करना हो, तो क्या कहना सबसे उचित होगा?",
           "options": [
-            "मेरा नाम राहुल है, आपसे मिलकर बहुत खुशी हुई।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («माफ़ कीजिए» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कृपया» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अलविदा» से संबंधित)"
+            "माफ़ कीजिए! (Excuse me / Forgive me!)",
+            "धन्यवाद!",
+            "अलविदा!",
+            "सुप्रभात!"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "क्षमा मांगने या ध्यान आकर्षित करने के लिए «माफ़ कीजिए!» या «क्षमा कीजिए!» का प्रयोग होता है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u1-l3": {
@@ -629,53 +649,62 @@
     "subject": "hindi",
     "unit": 1,
     "lessonNumber": 3,
-    "title": "देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) (Part 3)",
+    "title": "संयुक्त व्यंजन, हलन्त और व्यक्तिगत परिचय की मूल संरचना",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for आभार प्रदर्शन और धन्यवाद with authentic linguistic precision.",
+    "objective": "हलन्त (्), संयुक्त व्यंजनों (क्ष, त्र, ज्ञ, श्र) के निर्माण तथा व्यक्तिगत परिचय के बुनियादी वाक्यों (मेरा नाम... है, मैं... से हूँ, आपसे मिलकर खुशी हुई) में महारत हासिल करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब दो अथवा दो से अधिक व्यंजन बिना किसी मध्यवर्ती स्वर के परस्पर संयुक्त होते हैं, तो उन्हें 'संयुक्त व्यंजन' अथवा 'संयुक्ताक्षर' कहा जाता है:\n\n1. हलन्त (्) का व्याकरणिक नियम:\n   - जब किसी व्यंजन के नीचे तिरछी रेखा (हलन्त) लगाई जाती है, तो इसका अर्थ है कि वह वर्ण स्वर-रहित (आधा) है।\n   - जब आधा वर्ण अपने आगे वाले पूर्ण वर्ण से मिलता है तो संयुक्त रूप बनता है, जैसे: न् + य = न्य (धन्यवाद), स्र + त = स्त (नमस्ते)।\n\n2. चार प्रमुख पारम्परिक संयुक्ताक्षर:\n   - क्ष = क् + ष (उदाहरण: क्षमा, रक्षा, कक्षा);\n   - त्र = त् + र (उदाहरण: छात्र, मित्र, पत्र);\n   - ज्ञ = ज् + ञ (मानक उच्चारण 'ग्य' [ɡjə], उदाहरण: ज्ञान, ज्ञानी);\n   - श्र = श् + र (उदाहरण: श्रीमान, श्रीमती, परिश्रम)।\n\n3. व्यक्तिगत परिचय के प्रामाणिक वाक्य प्रारूप:\n   - अपना शुभ नाम बताना: «मेरा नाम [नाम] है।» (जैसे: मेरा नाम अमित है)।\n   - अपना मूल स्थान/देश बताना: «मैं [स्थान] से हूँ।» (जैसे: मैं भारत से हूँ)।\n   - भेंट पर प्रसन्नता प्रकट करना: «आपसे मिलकर बहुत खुशी हुई।» अथवा «आपसे मिलकर प्रसन्नता हुई।»\n   - अपना निवास और पेशा बताना: «मैं दिल्ली में रहता हूँ और मैं एक छात्र हूँ।» (स्त्रीलिंग में 'रहती हूँ')।",
       "examples": [
         {
-          "target": "आपकी इस मदद के लिए बहुत-बहुत धन्यवाद।",
-          "reading": "aapki is madad ke liye bahut-bahut dhanyavaad [aːpkiː ɪs məd̪əd̪ keː lɪjeː d̪ʱənjəʋaːd̪] (DHUN-yuh-vahd)",
-          "translation": "Thank you very much for this assistance."
+          "target": "मेरा नाम अमित है और मैं भारत से हूँ।",
+          "reading": "meraa naam amit hai aur main bhaarat se hoon. [meːraː naːm əmɪt̪ hɛː ɔːr mɛ̃ː bʱaːrət̪ seː hũː] (may-rah nahm UH-meet hy owr myn BHAH-ruht say hoon)",
+          "translation": "My name is Amit and I am from India."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 1-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आपसे मिलकर बहुत खुशी हुई, प्रिया जी।",
+          "reading": "aapse milkar bahut khushi hui, priya jee. [aːpseː mɪlkər bəɦʊt̪ kʰʊʃiː hʊiː prɪjaː dʒiː] (AHP-say MEEL-kuhr buh-hoot KHOO-shee hoo-ee, PREE-yah jee)",
+          "translation": "Very pleased to meet you, Priya ji."
+        },
+        {
+          "target": "मैं नई दिल्ली में रहता हूँ और छात्र हूँ।",
+          "reading": "main naee dillee mein rahta hoon aur chhaatr hoon. [mɛ̃ː nəiː d̪ɪlːiː mẽː rɛɦt̪aː hũː ɔːr tʃʰaːt̪rə hũː] (myn nuh-ee DEEL-lee mayn RUH-huh-tah hoon owr CHHAH-truh hoon)",
+          "translation": "I live in New Delhi and I am a student."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "आधा अक्षर = हलन्त (्); क्+ष = क्ष, त्+र = त्र; परिचय: 'मेरा नाम... है' + 'आपसे मिलकर खुशी हुई'!"
+      ],
+      "culturalNotes": [
+        "भारतीय संस्कृति में किसी नए व्यक्ति से मिलने पर हाथ जोड़कर 'आपसे मिलकर बहुत खुशी हुई' कहना अत्यंत शिष्ट और आत्मीय माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कृपया\":",
+          "prompt": "हिंदी में अपना नाम बताते समय किस वाक्य-संरचना का प्रयोग किया जाता है?",
           "options": [
-            "आपकी इस मदद के लिए बहुत-बहुत धन्यवाद।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अलविदा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («माफ़ कीजिए» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शुभकामनाएँ» का अनुचित स्थान)"
+            "मेरा नाम [नाम] है। (Mera naam [Name] hai - My name is...)",
+            "तुम नाम कौन है।",
+            "आप नाम क्या हो।",
+            "हमारा नाम था।"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अपना नाम बताने के लिए मानक संरचना «मेरा नाम [नाम] है» है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कृपया\":",
+          "prompt": "देवनागरी में 'क्ष' वर्ण किन दो व्यंजनों के मेल से बनता है?",
           "options": [
-            "आपकी इस मदद के लिए बहुत-बहुत धन्यवाद।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («माफ़ कीजिए» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शुभकामनाएँ» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अलविदा» का अशुद्ध रूप)"
+            "क् + ष (k + sh = ksh)",
+            "त् + र",
+            "श् + र",
+            "ज् + ञ"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'क्ष' संयुक्ताक्षर 'क्' और 'ष' के संयोग से निर्मित होता है।"
         }
       ]
     },
@@ -683,17 +712,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कृपया\": Which sentence is completely correct?",
+          "prompt": "नए परिचित से शिष्टाचारपूर्वक 'आपसे मिलकर बहुत प्रसन्नता हुई' कहने का सबसे प्रामाणिक हिंदी वाक्य कौन-सा है?",
           "options": [
-            "आपकी इस मदद के लिए बहुत-बहुत धन्यवाद।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («शुभकामनाएँ» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अलविदा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («माफ़ कीजिए» से संबंधित)"
+            "आपसे मिलकर बहुत खुशी हुई। (Very pleased to meet you.)",
+            "माफ़ कीजिए, आप कहाँ हैं?",
+            "कृपया मुझे रास्ता बताइए।",
+            "अलविदा, कल मिलेंगे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«आपसे मिलकर बहुत खुशी हुई» शिष्टाचार और प्रसन्नता व्यक्त करने का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u1-l4": {
@@ -701,53 +731,62 @@
     "subject": "hindi",
     "unit": 1,
     "lessonNumber": 4,
-    "title": "देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) (Part 4)",
+    "title": "अनुस्वार, अनुनासिक (चन्द्रबिन्दु) और आदरसूचक सर्वनाम",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for क्षमा याचना और औपचारिक निवेदन with authentic linguistic precision.",
+    "objective": "अनुस्वार (ं) और अनुनासिक/चन्द्रबिन्दु (ँ) के ध्वन्यात्मक अंतर तथा संबोधन सर्वनामों (तू, तुम, आप) एवं सहायक क्रिया 'होना' (हूँ, हो, है, हैं) के समन्वय को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "नासिक्य ध्वनियों का शुद्ध उच्चारण तथा सर्वनामों में आदर की कोटि हिंदी भाषा की पहचान हैं:\n\n1. अनुस्वार (ं) और अनुनासिक (ँ) का अंतर:\n   - अनुस्वार (ं): यह एक शुद्ध नासिक्य व्यंजन ध्वनि है, जो पंचम वर्णों (ङ, ञ, ण, न, म) के स्थान पर बिंदु के रूप में प्रयुक्त होती है (जैसे: गंगा, पंच, दंत, कंबल)।\n   - अनुनासिक (ँ): यह स्वर की नासिका से निकलने वाली ध्वनि है, जिसमें श्वास मुख और नासिका दोनों से एक साथ निकलती है (जैसे: आँख, चाँद, गाँव, हँसना)।\n   - अर्थ भेद का उदाहरण: 'हंस' (एक सुंदर पक्षी) बनाम 'हँस' (हँसने की क्रिया)।\n\n2. संबोधन सर्वनामों में आदर का स्तर:\n   - «तू» — अति-अनौपचारिक / घनिष्ठ (परम मित्रों, छोटे बालकों या ईश्वर के लिए प्रयुक्त; अन्यथा असभ्य माना जाता है)।\n   - «तुम» — अनौपचारिक / समवयस्क मित्रों अथवा अपनों के लिए (क्रिया रूप: 'हो')।\n   - «आप» — औपचारिक / आदरसूचक (बड़ों, गुरुजनों, अपरिचितों व सम्मानीय जनों के लिए; क्रिया रूप: बहुवचन 'हैं')।\n\n3. 'होना' सहायक क्रिया का वर्तमान काल समन्वय:\n   - मैं के साथ → हूँ (जैसे: मैं छात्र हूँ);\n   - तू के साथ → है (जैसे: तू कहाँ है);\n   - तुम के साथ → हो (जैसे: तुम अच्छे मित्र हो);\n   - वह / यह के साथ → है (जैसे: वह डॉक्टर है);\n   - आप / वे / ये / हम के साथ → हैं (जैसे: आप बहुत दयालु हैं)।",
       "examples": [
         {
-          "target": "माफ़ कीजिए, क्या आप मुझे रास्ता बता सकते हैं?",
-          "reading": "maaf kijiye, kya aap mujhe raasta bata sakte hain? [maːf kiːdʒɪjeː] (MAHF KEE-jee-yay)",
-          "translation": "Excuse me, could you tell me the way?"
+          "target": "आप बहुत दयालु और समझदार हैं।",
+          "reading": "aap bahut dayalu aur samajhdaar hain. [aːp bəɦʊt̪ d̪əjaːluː ɔːr səmədʒʱd̪aːr hɛ̃ː] (ahp buh-hoot duh-YAH-loo owr suh-muhzh-DAHR hyn)",
+          "translation": "You are very kind and sensible."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 1-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "मैं एक विश्वविद्यालय का छात्र हूँ।",
+          "reading": "main ek vishvavidyalay ka chhaatr hoon. [mɛ̃ː eːk ʋɪʃʋəʋɪd̪jaːləj kaː tʃʰaːt̪rə hũː] (myn ayk veesh-wuh-veed-YAH-luy kah CHHAH-truh hoon)",
+          "translation": "I am a university student."
+        },
+        {
+          "target": "तुम मेरे सबसे अच्छे और सच्चे मित्र हो।",
+          "reading": "tum mere sabse achhe aur sachhe mitra ho. [t̪ʊm meːreː səbseː ətʃːʰeː ɔːr sətʃːeː mɪt̪rə hoː] (toom may-ray SUHB-say UHTCH-chhay owr SUHTCH-chhay MEET-ruh hoh)",
+          "translation": "You are my best and true friend."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "बिंदु (ं) = ठोस नासिक्य (गंगा); चन्द्रबिन्दु (ँ) = नासिका स्वर (चाँद); सर्वनाम: मैं हूँ, तुम हो, आप हैं!"
+      ],
+      "culturalNotes": [
+        "अपरिचितों या व्यावसायिक संवाद में हमेशा 'आप' का ही प्रयोग करना चाहिए। हिंदी में एकवचन आदरणीय व्यक्ति के लिए भी बहुवचन क्रिया 'हैं' लगाई जाती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अलविदा\":",
+          "prompt": "आदरणीय व्यक्ति के लिए सर्वनाम 'आप' के साथ 'होना' क्रिया का कौन-सा वर्तमान रूप प्रयुक्त होता है?",
           "options": [
-            "माफ़ कीजिए, क्या आप मुझे रास्ता बता सकते हैं?",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («माफ़ कीजिए» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शुभकामनाएँ» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वागत» का अनुचित स्थान)"
+            "हैं (Aap hain - You are [honorific plural])",
+            "हूँ",
+            "हो",
+            "था"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सर्वनाम 'आप' के साथ आदरार्थ हमेशा बहुवचन क्रिया «हैं» (hain) आती है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अलविदा\":",
+          "prompt": "शब्द 'चाँद' और 'गाँव' में प्रयुक्त नासिक्य चिह्न को क्या कहते हैं?",
           "options": [
-            "माफ़ कीजिए, क्या आप मुझे रास्ता बता सकते हैं?",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शुभकामनाएँ» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वागत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («माफ़ कीजिए» का अशुद्ध रूप)"
+            "अनुनासिक / चन्द्रबिन्दु (Chandrabindu - Nasalized vowel marker)",
+            "अनुस्वार",
+            "विसर्ग",
+            "हलन्त"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अर्धचन्द्र के ऊपर बिंदु वाले चिह्न को «अनुनासिक» या «चन्द्रबिन्दु» (ँ) कहा जाता है।"
         }
       ]
     },
@@ -755,17 +794,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अलविदा\": Which sentence is completely correct?",
+          "prompt": "व्याकरण और आदर की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
-            "माफ़ कीजिए, क्या आप मुझे रास्ता बता सकते हैं?",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वागत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («माफ़ कीजिए» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («शुभकामनाएँ» से संबंधित)"
+            "आप कहाँ से हैं और आप क्या करते हैं? (Where are you from and what do you do?)",
+            "आप कहाँ से हो और क्या करता है?",
+            "तुम कहाँ से हैं और क्या करूँ?",
+            "मैं कहाँ से हो और क्या हैं?"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«आप कहाँ से हैं और आप क्या करते हैं?» में 'आप' के साथ 'हैं' का व्याकरणसम्मत समन्वय है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u1-l5": {
@@ -773,53 +813,62 @@
     "subject": "hindi",
     "unit": 1,
     "lessonNumber": 5,
-    "title": "देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) (Part 5)",
+    "title": "बुनियादी प्रश्नवाचक शब्द, हाँ/नहीं और विदाई के शिष्टाचार",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for विदाई और पुनः मिलने की आशा with authentic linguistic precision.",
+    "objective": "क-वर्ग के मूल प्रश्नवाचक शब्दों (क्या, कौन, कहाँ, कब, क्यों, कैसे), हाँ/नहीं स्वीकारात्मक-नकारात्मक उत्तरों तथा विदाई शिष्टाचार (अलविदा, फिर मिलेंगे) में निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में जिज्ञासा प्रकट करने, प्रश्न पूछने और विदाई लेने के प्रमुख शिष्टाचार नियम निम्नलिखित हैं:\n\n1. क-वर्ग के प्रमुख प्रश्नवाचक शब्द:\n   - «क्या» — वस्तु या बात जानने हेतु (What); वाक्य के आरंभ में आने पर हाँ/नहीं वाले प्रश्न का निर्माण करता है।\n   - «कौन» — व्यक्ति या कर्ता की पहचान जानने हेतु (Who)।\n   - «कहाँ» — स्थान अथवा दिशा की जानकारी हेतु (Where)।\n   - «कब» — समय या काल जानने हेतु (When)।\n   - «क्यों» — कारण अथवा प्रयोजन जानने हेतु (Why)।\n   - «कैसे / कैसी / कैसा» — स्थिति, ढंग अथवा प्रकार जानने हेतु (How)।\n\n2. स्वीकारात्मक और नकारात्मक उत्तर:\n   - «हाँ» अथवा आदरपूर्वक «जी हाँ» — स्वीकृति या सहमति प्रकट करने हेतु।\n   - «नहीं» अथवा आदरपूर्वक «जी नहीं» — असहमति या निषेध प्रकट करने हेतु।\n   - नियम: यदि प्रश्न के आरंभ में 'क्या' हो (जैसे: «क्या आप भारतीय हैं?»), तो उत्तर «जी हाँ, मैं भारतीय हूँ» अथवा «जी नहीं» होगा।\n\n3. विदाई और मंगलकामना के मानक वाक्यांश:\n   - «अलविदा» — औपचारिक विदाई का शब्द (Goodbye)।\n   - «फिर मिलेंगे» — पुनः भेंट की आशा व्यक्त करते हुए विदा लेना (See you again)।\n   - «अपना ख्याल रखिए» — आत्मीयता से स्वास्थ्य व सुरक्षा की कामना करना (Take care)।\n   - «शुभ यात्रा» — यात्रा पर जाने वाले व्यक्ति को मंगलकामना देना (Bon voyage)।",
       "examples": [
         {
-          "target": "अलविदा, कल सुबह कार्यालय में मिलते हैं।",
-          "reading": "alvida, kal subah kaaryalay mein milte hain [əlwɪd̪aː, kəl sʊbəh] (uhl-vee-DAH)",
-          "translation": "Goodbye, see you tomorrow morning at the office."
+          "target": "क्या आप चाय लेंगे? जी हाँ, धन्यवाद!",
+          "reading": "kya aap chaay lenge? jee haan, dhanyavaad! [kjaː aːp tʃaːj leːŋgeː dʒiː hãː d̪ʱənjəʋaːd̪] (kyah ahp CHAH-ee LAYN-gay? jee HAHN, dhuhn-yuh-VAHD!)",
+          "translation": "Would you like tea? Yes please, thank you!"
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 1-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आपका शुभ नाम क्या है और आप कहाँ रहते हैं?",
+          "reading": "aapka shubh naam kya hai aur aap kahaan rahte hain? [aːpkaː ʃʊbʱ naːm kjaː hɛː ɔːr aːp kəɦaː̃ rɛɦt̪eː hɛ̃ː] (AHP-kah shoobh NAHM kyah hy owr ahp kuh-HAHN RUH-huh-tay hyn?)",
+          "translation": "What is your good name and where do you live?"
+        },
+        {
+          "target": "अलविदा मित्र, अपना ख्याल रखिए और फिर मिलेंगे!",
+          "reading": "alvida mitra, apna khyal rakhiye aur phir milenge! [əlwɪd̪aː mɪt̪rə əpnaː kʰjaːl rəkʰɪjeː ɔːr pʰɪr mɪleːŋgeː] (uhl-vee-DAH MEET-ruh, UHP-nah khyahl RUHKH-ee-yay owr feer mee-LAYN-gay!)",
+          "translation": "Goodbye friend, take care and see you again!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "सवाल के 'क': क्या, कौन, कहाँ, कब, क्यों, कैसे; आदर से उत्तर: जी हाँ / जी नहीं; विदाई: 'फिर मिलेंगे' व 'अलविदा'!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी का नाम पूछते समय 'आपका शुभ नाम क्या है?' (What is your auspicious name?) कहना अत्यंत शिष्ट और सुरुचिपूर्ण माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"माफ़ कीजिए\":",
+          "prompt": "हिंदी में किसी से 'Where' (स्थान के बारे में) पूछने के लिए कौन-सा प्रश्नवाचक शब्द प्रयोग किया जाता है?",
           "options": [
-            "अलविदा, कल सुबह कार्यालय में मिलते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शुभकामनाएँ» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वागत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नाश्ता» का अनुचित स्थान)"
+            "कहाँ (Kahaan - Where)",
+            "कब",
+            "क्यों",
+            "कौन"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्थान पूछने के लिए «कहाँ» (Where) का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"माफ़ कीजिए\":",
+          "prompt": "बातचीत समाप्त होने पर 'See you again' कहने के लिए सबसे स्वाभाविक हिंदी वाक्यांश कौन-सा है?",
           "options": [
-            "अलविदा, कल सुबह कार्यालय में मिलते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वागत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नाश्ता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शुभकामनाएँ» का अशुद्ध रूप)"
+            "फिर मिलेंगे (Phir milenge - See you again)",
+            "सुप्रभात",
+            "माफ़ कीजिए",
+            "स्वागत है"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "पुनः मिलने की आशा व्यक्त करते हुए विदा लेते समय «फिर मिलेंगे» कहा जाता है।"
         }
       ]
     },
@@ -827,17 +876,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"माफ़ कीजिए\": Which sentence is completely correct?",
+          "prompt": "यदि कोई आपसे पूछे «क्या आप छात्र हैं?», तो आदरपूर्वक स्वीकारात्मक उत्तर क्या होगा?",
           "options": [
-            "अलविदा, कल सुबह कार्यालय में मिलते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नाश्ता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («शुभकामनाएँ» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वागत» से संबंधित)"
+            "जी हाँ, मैं छात्र हूँ। (Yes, I am a student.)",
+            "अलविदा, मैं जाता हूँ।",
+            "सुप्रभात, आप कौन हैं?",
+            "माफ़ कीजिए, कहाँ है?"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जी हाँ, मैं छात्र हूँ» आदरपूर्वक और व्याकरणसम्मत स्वीकारात्मक उत्तर है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u2-l1": {
