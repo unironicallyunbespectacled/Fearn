@@ -13108,85 +13108,62 @@
     "subject": "amharic",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science) (ክፍል 1)",
+    "title": "የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Forest Conservation & Ecosystem)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የደን ጥበቃ፣ የውሃ ሀብት አስተዳደር እና የዘላቂ ልማት ውይይቶች። (ክፍል 1)።",
+    "objective": "የደን ሀብትን፣ የስነ-ምህዳር (Ecosystem) ሚዛንን፣ ብዝሃ-ህይወትንና የዛፍ ተከላ ጥቅምን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የደን ጥበቃ እና የስነ-ምህዳር ሚዛን መዋቅር:\n\n፩. የስነ-ምህዳር መሰረታዊ ቃላት:\n- ደን፣ ስነ-ምህዳር፣ የተፈጥሮ ሚዛን፣ ብዝሃ-ህይወት እና አየር ንብረት።\n- ዛፍ መትከል እና የተፈጥሮ ሀብት ጥበቃ።\n\n፪. ዋና መርሆዎች:\n- ደኖች የምድር ሳንባ በመሆናቸው ንጹህ አየር ይሰጣሉ፤ የአፈር መሸርሸርን ይከላከላሉ፤ የዱር አራዊትን መጠለያ በመሆን የተፈጥሮ ሚዛንን ይጠብቃሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)' to the students."
+          "target": "ደኖችን መንከባከብ እና ዛፎችን መትከል የስነ-ምህዳር ሚዛንን ለመጠበቅ ቀዳሚ ተግባር ነው።",
+          "reading": "Dänoččən mänkäbbakäb ənna zafoččən mätkäl yäsənä-məhəddar mizanən lämät’t’äbäq qäddami tägəbar näw. [dɛnoˈtʃːɨn mɛnkɛbːaˈkɛb ʔɨnːa zafoˈtʃːɨn mɛtˈkɛl jɛsɨnɛmɨhɨdːar miˈzanɨn ləmɛtʼːɛˈbɛkʼ kʼɛdːaˈmi tɛɡɨˈbar nɛw] (deh-NOHCH-chun men-keb-bah-KEB un-nah zah-FOHCH-chun met-KEL yeh-suh-neh-muh-hud-DAHR mee-ZAHN-un luh-met'-t'eh-BEK' k'ed-dah-MEE teg-uh-BAHR new)",
+          "translation": "Caring for forests and planting trees is the primary task for maintaining ecological balance."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የብዝሃ-ህይወት መመናመን በአካባቢው አየር ንብረት እና በህያዋን ፍጥረታት ላይ ከባድ አደጋ ያስከትላል።",
+          "reading": "Yäbəzəha-həywät mämmänammän bä'akababiw ayyär nəbrät ənna bəhəyawwan fət’rätat lay käbbad adäga yasəkättəlall. [jɛbɨzɨhahɨjˈwɛt mɛmːɛnaˈmːɛn bɛʔakaˈbabiw ʔajːɛr nɨbˈrɛt ʔɨnːa bɛhɨjawːan fɨtʼrɛˈtat laj kɛbːad ʔadɛˈɡa jasɨkɛtːɨˈlalː] (yeh-buh-zuh-hah-huy-WET mem-meh-nahm-MEN beh-ah-kah-bah-BEEW uhy-YER nub-RET un-nah beh-huh-yah-WAHN fut'-ruh-TAHT lye keb-BAHD ah-deh-GAH yah-suh-ket-tuh-LAHL)",
+          "translation": "The depletion of biodiversity causes serious harm to the local climate and living creatures."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ህብረተሰቡ የተፈጥሮ ሀብትን በዘላቂነት ለመጠቀም የሚያስችሉ ተግባራትን በስፋት እያከናወነ ይገኛል።",
+          "reading": "Həbrätäsäbu yätäfät’ro habtən bäzälaqinnät lämät’t’äqäm yämiyasčəlu tägəbaratən bäsəfat əyyakkanäwänä yəggänyal. [hɨbrɛtɛsɛˈbu jɛtɛfɛtʼˈro habˈtɨn bɛzɛlaˈkʼinːɛt ləmɛtʼːɛˈkʼɛm jɛmijasˈtʃɨlu tɛɡɨbaˈratɨn bɛsɨˈfat ʔɨjːakːanɛˈwɛnɛ jɨɡːɛˈɲal] (hub-reh-teh-seh-BOO yeh-teh-fet'-ROH hahb-TUN beh-zeh-lah-K'EEN-net luh-met'-t'eh-K'EM yeh-mee-yahs-chuh-LOO teg-uh-bah-RAH-tun beh-suh-FAHT uhy-yahk-kah-neh-weh-NEH yug-gen-YAHL)",
+          "translation": "Society is extensively carrying out practices that enable the sustainable utilization of natural resources."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ecology Terms: ደን (Forest) + ስነ-ምህዳር (Ecosystem) + ብዝሃ-ህይወት (Biodiversity) + ሚዛን (Balance)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ታሪክ አድባራትና አብያተ ክርስቲያናት ጥንታዊ ደኖችን ለዘመናት ጠብቀው በማቆየት የሀገሪቱ ዋነኛ የደን ባንክ ሆነው አገልግለዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Ecosystem» የሚለውን ሳይንሳዊ ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (29.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (29.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (29.1.w3)"
+            "ስነ-ምህዳር (Ecosystem - Living organism and environmental interaction)",
+            "ስነ-ዜማ",
+            "ስነ-ምድር",
+            "ስነ-ልሳን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ስነ-ምህዳር» ህያዋን ፍጥረታት ከአካባቢያቸው ጋር ያላቸውን መስተጋብር የሚያጠና የሳይንስ ዘርፍ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u29-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Biodiversity' የሚለውን ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (29.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (29.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (29.1.x3)"
+            "ብዝሃ-ህይወት (Biodiversity - Variety of plant and animal life)",
+            "አንድነት ብቻ",
+            "ድርቅ",
+            "በረሃ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (29.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (29.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (29.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ብዝሃ-ህይወት» በተወሰነ አካባቢ የሚገኙ የተለያዩ እፅዋትና እንስሳት ዝርያዎች ጥምረት ነው።"
         }
       ]
     },
@@ -13194,24 +13171,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 29-1):",
+          "prompt": "የደን ጥበቃ እና የስነ-ምህዳር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (29.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (29.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (29.1.z3)"
+            "ደን፣ ስነ-ምህዳር፣ ብዝሃ-ህይወት፣ የተፈጥሮ ሚዛን እና ዛፍ።",
+            "ወረቀት፣ እስክሪብቶ፣ ላጲስ እና ደብተር።",
+            "ጫማ፣ ካልሲ፣ ሱሪ እና ኮት።",
+            "በአማርኛ ስነ-ምህዳር የሚባል የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የስነ-ምህዳር እና የደን ጥበቃ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u29-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአካባቢ»):",
+          "prompt": "'ስነ-ምህዳር / Ecosystem' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአካባቢ",
-            "የአካባቢ"
+            "ስነ-ምህዳር",
+            "ሥነ-ምህዳር",
+            "ስነ ምህዳር",
+            "ሥነ ምህዳር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአካባቢ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-ምህዳር» ወይም «ሥነ-ምህዳር» (Sənä-məhəddar) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13222,85 +13201,62 @@
     "subject": "amharic",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science) (ክፍል 2)",
+    "title": "የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Water Management & GERD)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የደን ጥበቃ፣ የውሃ ሀብት አስተዳደር እና የዘላቂ ልማት ውይይቶች። (ክፍል 2)።",
+    "objective": "የኢትዮጵያን የውሃ ሀብት (የአባይ ወንዝ)፣ የህዳሴ ግድብን የኤሌክትሪክ ኃይል ማመንጨትና ዘላቂ አጠቃቀምን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የውሃ ሀብት እና የታላቁ ህዳሴ ግድብ መዋቅር:\n\n፩. የውሃ ሀብት መሰረታዊ ቃላት:\n- ውሃ፣ ወንዝ፣ አባይ፣ ግድብ፣ ህዳሴ እና የውሃ ሙሌት።\n- ንጹህ ታዳሽ ኃይል (Hydroelectric renewable power)።\n\n፪. የታላቁ ህዳሴ ግድብ ፋይዳ:\n- አባይ ወንዝ ላይ የተገነባው ታላቁ የህዳሴ ግድብ ለኢትዮጵያና ለቀጣናው የኤሌክትሪክ ኃይል በማመንጨት የኢኮኖሚ እድገትን ያፋጥናል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)' to the students."
+          "target": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ በአባይ ወንዝ ላይ የተገነባ የህዝቦች የአንድነት እና የታዳሽ ኃይል ማመንጫ ነው።",
+          "reading": "Talaqu yä'Ityop’əya Həddase Gəddəb bä'Abay wänz lay yätägännäba yähəzəbočč yä'andənnät ənna yätaddaš hayəl mamänča näw. [taˈlaku jɛʔitjoˈpʼɨja hɨdːaˈse ɡɨdːɨb bɛʔaˈbaj wɛnz laj jɛtɛɡɛnːɛˈba jɛhɨzɨˈbotʃː jɛʔandɨnːɛt ʔɨnːa jɛtadːaʃ hajɨl mamɛnˈtʃa nɛw] (tah-LAH-koo yeh-eet-yoh-P'EE-yah hud-dah-SAY gud-DUB beh-ah-BYE wenz lye yeh-teh-gen-neh-BAH yeh-huh-zuh-bohch-CH yeh-ahn-dun-NET un-nah yeh-tahd-DAHSH hy-UL mah-men-CHAH new)",
+          "translation": "The Grand Ethiopian Renaissance Dam built upon the Abay River is a source of unity and renewable energy generation for the peoples."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የውሃ ሀብትን በአግባቡ ማስተዳደር ለግብርና፣ ለኃይል አቅርቦት እና ለመጠጥ ውሃ ዋስትና ወሳኝ ነው።",
+          "reading": "Yäwəha habtən bä'agbabu mastädadär lägəbərənna, lähayəl aqrəbot ənna lämät’ät’ wəha wastənna wäsany näw. [jɛwɨˈha habˈtɨn bɛʔaɡˈbabu mastɛdaˈdɛr ləɡɨbɨrɨnːa ləhaˈjɨl ʔakʼrɨˈbot ʔɨnːa ləmɛtʼɛtʼ wɨˈha wasˈtɨnːa wɛˈsaɲ nɛw] (yeh-wuh-HAH hahb-TUN beh-ahg-BAH-boo mahs-teh-dah-DER luh-guh-buh-run-NAH, luh-hy-UL ahk'-ruh-BOHT un-nah luh-met'-ET' wuh-HAH wahs-tuhn-NAH weh-SAHN-y new)",
+          "translation": "Proper management of water resources is crucial for agriculture, energy supply, and drinking water security."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ኢትዮጵያ የምስራቅ አፍሪካ የውሃ ማማ በመባል የምትታወቅ የተትረፈረፈ የተፈጥሮ ፈሳሽ ያላት ሀገር ናት።",
+          "reading": "Ityop’əya yäMəsəraq Afərika yäwəha mama bämäbbal yämməttəttawwäq yätətərräfärräfä yätäfät’ro fäsaš yallat hagär nat. [ʔitjoˈpʼɨja jɛmɨsɨˈrakʼ ʔafɨriˈka jɛwɨˈha maˈma bɛmɛbːal jɛmːɨtːawːɛkʼ jɛtɨtɨrːɛfɛrːɛfɛ jɛtɛfɛtʼˈro fɛˈsaʃ jalːat haˈɡɛr nat] (eet-yoh-P'EE-yah yeh-muh-suh-RAHK' ah-fuh-ree-KAH yeh-wuh-HAH mah-MAH beh-meb-BAHL yem-mut-tahw-WEK' yeh-tuh-tur-reh-fer-reh-FEH yeh-teh-fet'-ROH feh-SAHSH yahl-LAHT hah-GER naht)",
+          "translation": "Ethiopia is a country endowed with abundant natural flows, known as the water tower of East Africa."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Water & Dam: አባይ (Blue Nile) + ግድብ (Dam) + ህዳሴ (Renaissance) + ኃይል (Energy) + የውሃ ማማ (Water Tower)!"
+      ],
+      "culturalNotes": [
+        "የአባይ ወንዝ በኢትዮጵያውያን ዘፈኖችና ግጥሞች ውስጥ ለዘመናት ሲወደስ የኖረ የሀገሪቱ የህይወትና የታሪክ ፈሳሽ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በአባይ ወንዝ ላይ የተገነባው ታላቁ የኢትዮጵያ የኤሌክትሪክ ኃይል ማመንጫ ግድብ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (29.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (29.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (29.2.w3)"
+            "የህዳሴ ግድብ (Grand Ethiopian Renaissance Dam - GERD)",
+            "አዋሽ ግድብ",
+            "ጣና ግድብ",
+            "ዝዋይ ግድብ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የህዳሴ ግድብ» በአባይ ወንዝ ላይ በኢትዮጵያውያን አቅም የተገነባ ታላቅ የኃይል ማመንጫ ግድብ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u29-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Dam / Reservoir' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (29.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (29.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (29.2.x3)"
+            "ግድብ (Dam, water reservoir structure)",
+            "ድልድይ",
+            "መንገድ",
+            "ህንፃ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (29.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (29.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (29.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ግድብ» ውሃን በማቆር ለኃይል ወይም ለመስኖ አገልግሎት የሚውል የውሃ መዋቅር ነው።"
         }
       ]
     },
@@ -13308,24 +13264,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 29-2):",
+          "prompt": "የውሃ ሀብት እና የህዳሴ ግድብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (29.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (29.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (29.2.z3)"
+            "ውሃ፣ አባይ፣ ህዳሴ ግድብ፣ ታዳሽ ኃይል፣ ወንዝ እና መስኖ።",
+            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት።",
+            "ጠረጴዛ፣ ወንበር እና አልጋ።",
+            "በኢትዮጵያ ወንዝ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የውሃ ሀብትና የህዳሴ ግድብ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u29-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአካባቢ»):",
+          "prompt": "'ግድብ / Dam, reservoir' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአካባቢ",
-            "የአካባቢ"
+            "ግድብ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአካባቢ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ግድብ» (Gəddəb) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13336,85 +13291,62 @@
     "subject": "amharic",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science) (ክፍል 3)",
+    "title": "የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አሻራ (Soil Conservation & Green Legacy)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የደን ጥበቃ፣ የውሃ ሀብት አስተዳደር እና የዘላቂ ልማት ውይይቶች። (ክፍል 3)።",
+    "objective": "የአፈር መሸርሸርን መከላከል፣ የአየር ንብረት ለውጥን (Climate Change) መቋቋምና የአረንጓዴ አሻራ መርሃ-ግብርን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአፈር ጥበቃ፣ የአየር ንብረት ለውጥ እና አረንጓዴ አሻራ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- አፈር መሸርሸር (Soil erosion) / እርከን ስራ (Terracing)\n- አየር ንብረት ለውጥ (Climate change) / ድርቅ (Drought)\n- አረንጓዴ አሻራ (Green Legacy Initiative) / ችግኝ መትከል (Planting saplings)።\n\n፪. ዋና እርምጃዎች:\n- በየዓመቱ በቢሊዮኖች የሚቆጠሩ ችግኞችን በመትከል የተራቆቱ መሬቶችን ማልበስ፣ የአፈር ለምነትን መመለስና የሙቀት አማቂ ጋዞችን መቀነስ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)' to the students."
+          "target": "የአረንጓዴ አሻራ መርሃ-ግብር በቢሊዮኖች የሚቆጠሩ ችግኞችን በመትከል ሀገሪቱን በደን እንድትሸፈን አድርጓል።",
+          "reading": "Yä'Aränəgwarde Ašara märəha-gəbər bäbiliyonočč yämmiqqot’t’äru čəggənyoččən bämätkäl hagäritun bädän əndətəššäffän adrəgwal. [jɛʔarɛnɡʷarˈde ʔaˈʃara mərhaɡɨˈbɨr bɛmilijoˈnotʃː jɛmːikʼːotʼːɛˈru tʃɨɡːɨˈɲotʃːɨn bɛmɛtˈkɛl haɡɛriˈtun bɛdɛn ʔndɨtɨʃːɛfːɛn ʔadrɨɡˈwal] (yeh-ah-ren-gwar-DAY ah-shah-RAH mer-hah-guh-BUR beh-bee-lee-yoh-NOHCH yem-mik'-k'oht'-t'eh-ROO chug-gun-yohch-CHUN beh-met-KEL hah-geh-ree-TOON beh-DEN un-duh-tuhsh-shef-FEN ahd-rug-WAHL)",
+          "translation": "The Green Legacy Initiative has caused the country to be covered in forest by planting billions of saplings."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ገበሬዎች የተራቆቱ ተራሮችን በእርከን ስራ በማከም የአፈር መሸርሸርን እና ድርቅን ተከላከሉ።",
+          "reading": "Gäbärewočč yätäraqotut kärarocčən bä'ərkän səra bamakäm yä'afär mäšäršärən ənna dərəqən täkälakkälu. [ɡɛbareˈwotʃː jɛtɛrakʼoˈtut kɛraˈrotʃːɨn bɛʔɨrˈkɛn sɨˈra bamaˈkɛm jɛʔaˈfɛr mɛʃɛrˈʃɛrɨn ʔɨnːa dɨrˈkʼɨn tɛkɛlakːɛˈlu] (geh-bah-ray-WOHCH yeh-teh-rah-k'oh-TOOT keh-rah-ROHCH-chun beh-ur-KEN suh-RAH bah-mah-KEM yeh-ah-FER meh-sher-SHEH-run un-nah dur-K'UN teh-keh-lahk-keh-LOO)",
+          "translation": "Farmers protected against soil erosion and drought by treating denuded mountains with terracing."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የአየር ንብረት ለውጥን ለመቋቋም የሚደረገው አለም አቀፍ ጥረት የጋራ ትብብርን ይጠይቃል።",
+          "reading": "Yä'Ayyär nəbrät läwt’ən lämäqqwqwam yämmiddärägäw aläm aqäf t’ərät yägara təbbəbbərən yət’äyyəqal. [jɛʔajːɛr nɨbˈrɛt ləwtʼɨn ləmɛkʼʷkʼʷam jɛmːidːɛrɛˈɡɛw ʔaˈlɛm ʔaˈkʼɛf tʼɨˈrɛt jɛɡaˈra tɨbːɨbːɨˈrɨn jɨtʼɛjːɨˈkʼal] (yeh-uhy-YER nub-RET lewt'-UN luh-mek'-k'wah-K'WAHM yem-mid-deh-reh-GEW ah-LEM ah-K'EF t'uh-RET yeh-gah-RAH tub-bub-buh-RUN yuh-t'ey-yuh-K'AHL)",
+          "translation": "The global effort made to resist climate change demands collective cooperation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Green Terms: አረንጓዴ አሻራ (Green Legacy) + ችግኝ (Sapling) + እርከን (Terrace) + አፈር ጥበቃ (Soil Conservation)!"
+      ],
+      "culturalNotes": [
+        "የአረንጓዴ አሻራ ንቅናቄ በኢትዮጵያ በየዓመቱ በክረምት ወራት በሚሊዮኖች የሚቆጠሩ ዜጎች ተሳትፈው ችግኝ የሚተክሉበት ህዝባዊ ባህል ሆኗል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "የአፈር መሸርሸርን ለመከላከል በተራራማ አካባቢዎች የሚሰራው የድንጋይ ወይም የአፈር አጥር ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (29.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (29.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (29.3.w3)"
+            "እርከን (Terracing - Stone/soil soil conservation structure)",
+            "ፎቅ",
+            "አውራ ጎዳና",
+            "ድልድይ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እርከን» ተራራማ መሬት በዝናብ ውሃ እንዳይታጠብ የሚገነባ የአፈር ጥበቃ ዘዴ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u29-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Sapling, seedling' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (29.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (29.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (29.3.x3)"
+            "ችግኝ (Sapling, young plant / seedling)",
+            "ግንድ",
+            "ቅርፊት",
+            "ስር"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (29.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (29.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (29.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ችግኝ» ለመትከል የተዘጋጀ ለጋና ወጣት ተክል ነው።"
         }
       ]
     },
@@ -13422,24 +13354,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 29-3):",
+          "prompt": "የአረንጓዴ አሻራ እና የአፈር ጥበቃ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (29.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (29.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (29.3.z3)"
+            "አረንጓዴ አሻራ፣ ችግኝ፣ እርከን፣ አፈር ጥበቃ እና አየር ንብረት።",
+            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ።",
+            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ።",
+            "በአማርኛ ችግኝ የሚባል ቃል የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የአረንጓዴ አሻራ እና የአፈር ጥበቃ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u29-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአካባቢ»):",
+          "prompt": "'ችግኝ / Sapling, seedling' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአካባቢ",
-            "የአካባቢ"
+            "ችግኝ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአካባቢ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ችግኝ» (Čəggəny) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13450,85 +13381,62 @@
     "subject": "amharic",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science) (ክፍል 4)",
+    "title": "ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National Parks & Wildlife Conservation)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የደን ጥበቃ፣ የውሃ ሀብት አስተዳደር እና የዘላቂ ልማት ውይይቶች። (ክፍል 4)።",
+    "objective": "የኢትዮጵያን ብሔራዊ ፓርኮች (ሰሜን ተራሮች፣ ባሌ) እና ብርቅዬ እንስሳትን (ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ) መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ ብሔራዊ ፓርኮች እና ብርቅዬ እንስሳት መዋቅር:\n\n፩. ታዋቂ ብሔራዊ ፓርኮች:\n- የሰሜን ተራሮች ብሔራዊ ፓርክ (ራስ ዳሸን ተራራ)\n- የባሌ ተራሮች ብሔራዊ ፓርክ (ሰነቴ ፕላቶ)።\n\n፪. በኢትዮጵያ ብቻ የሚገኙ ብርቅዬ እንስሳት (Endemic Wildlife):\n- ዋሊያ አይቤክስ (Walia Ibex)\n- ጭላዳ ዝንጀሮ (Gelada Baboon)\n- የኢትዮጵያ ቀይ ቀበሮ (Ethiopian Red Wolf/Fox)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)' to the students."
+          "target": "ዋሊያ አይቤክስ በሰሜን ተራሮች ብሔራዊ ፓርክ ብቻ የሚገኝ ብርቅዬ የኢትዮጵያ የዱር እንስሳ ነው።",
+          "reading": "Waliya Ayəbäks bäSämen Täraročč Bəherawi Park bəčča yämmiggäny bərəqəye yä'Ityop’əya yädur ənəsəsa näw. [waˈlija ʔajɨˈbɛks bɛsɛˈmen tɛraˈrotʃː bɨheˈrawi park bɨtʃːa jɛmːiɡːɛɲ bɨrɨkʼɨˈje jɛʔitjoˈpʼɨja jɛdur ʔɨnɨsɨˈsa nɛw] (wah-LEE-yah eye-BEKS beh-seh-MEN teh-rah-ROHCH buh-hay-rah-WEE PAHRK buhch-CHAH yem-mig-GEN-y bur-uk'-uh-YAY yeh-eet-yoh-P'EE-yah yeh-DOOR un-uh-suh-SAH new)",
+          "translation": "The Walia Ibex is a rare Ethiopian wild animal found solely in Semien Mountains National Park."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የባሌ ተራሮች ብሔራዊ ፓርክ የቀይ ቀበሮ ዋነኛ መኖሪያ እና የውሃ ምንጭ ሆኖ ያገለግላል።",
+          "reading": "YäBale Täraročč Bəherawi Park yäQäyy Qäbäro wanänya mänoriya ənna yäwəha mənč’ hono yagäləgəlal. [jɛbaˈle tɛraˈrotʃː bɨheˈrawi park jɛkʼɛjː kʼɛbɛˈro wanɛˈɲa mɛnoˈrija ʔɨnːa jɛwɨˈha mɨntʃʼ hoˈno jaɡɛlɨɡɨˈlal] (yeh-bah-LAY teh-rah-ROHCH buh-hay-rah-WEE PAHRK yeh-k'ey-Y k'eh-beh-ROH wah-neh-NYAH meh-noh-REE-yah un-nah yeh-wuh-HAH mun-CH' hoh-NOH yah-gel-uh-guh-LAHL)",
+          "translation": "Bale Mountains National Park serves as the principal habitat of the Red Fox and as a water catchment."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የዱር አራዊትን ከህገ-ወጥ አደን መጠበቅ ለቱሪዝም እድገት እና ለሀገር ገጽታ ታላቅ ፋይዳ አለው።",
+          "reading": "Yädur arawitən kähəggä-wät’ adän mät’t’äbäq läturizəm ədəggät ənna lähagär gäts’əta talaq fayəda alläw. [jɛdur ʔaraˈwitɨn kɛhɨɡːɛwɛtʼ ʔaˈdɛn mɛtʼːɛˈbɛkʼ lətuˈrizm ʔɨdɨɡːɛt ʔɨnːa ləhaˈɡɛr ɡɛtsʼɨˈta taˈlakʼ fajɨˈda ʔalːɛw] (yeh-DOOR ah-rah-WEE-tun keh-hug-geh-WET' ah-DEN met'-t'eh-BEK' luh-too-REEZ-um ud-ug-GAYT un-nah luh-hah-GER get-ts'uh-TAH tah-LAHK' fah-yuh-DAH ahl-LEW)",
+          "translation": "Protecting wild animals from illegal hunting holds great benefit for tourism development and national image."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Endemic Wildlife: ዋሊያ (Walia Ibex) + ጭላዳ (Gelada Baboon) + ቀይ ቀበሮ (Red Fox) + ብሔራዊ ፓርክ (National Park)!"
+      ],
+      "culturalNotes": [
+        "የሰሜን ተራሮች ብሔራዊ ፓርክ አስደናቂ የተፈጥሮ ገደላገደል እና የመሬት አቀማመጥ ያለው በመሆኑ የአፍሪካ ጣሪያ (Roof of Africa) በመባል ይጠራል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በሰሜን ተራሮች ገደላገደል ላይ ብቻ የሚኖረውና በኢትዮጵያ ብቻ የሚገኘው ብርቅዬ የሜዳ ፍየል ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (29.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (29.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (29.4.w3)"
+            "ዋሊያ አይቤክስ (Walia Ibex - Rare endemic mountain ibex)",
+            "አንበሳ",
+            "ነብር",
+            "ዝሆን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ዋሊያ» በኢትዮጵያ ሰሜን ተራሮች ብቻ የሚገኝ ታዋቂ ብርቅዬ የዱር እንስሳ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u29-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'National park' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (29.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (29.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (29.4.x3)"
+            "ብሔራዊ ፓርክ (National park - Protected conservation area)",
+            "የቤት ግቢ",
+            "የገበያ ቦታ",
+            "የከተማ አዳራሽ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (29.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (29.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (29.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ብሔራዊ ፓርክ» የዱር አራዊትና የተፈጥሮ ሀብት በጥበቃ ስር የሚቆዩበት ህጋዊ ክልል ነው።"
         }
       ]
     },
@@ -13536,24 +13444,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 29-4):",
+          "prompt": "የኢትዮጵያን ብርቅዬ የዱር እንስሳት እና ፓርኮች ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (29.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (29.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (29.4.z3)"
+            "ብሔራዊ ፓርክ፣ ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ፣ ሰሜን እና ባሌ።",
+            "ልብስ፣ ጫማ፣ ካልሲ እና ባርኔጣ።",
+            "ዳቦ፣ ስንዴ፣ ገብስ እና ጤፍ።",
+            "በኢትዮጵያ ብርቅዬ እንስሳት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ብርቅዬ እንስሳትንና ብሔራዊ ፓርኮችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u29-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአካባቢ»):",
+          "prompt": "'ዋሊያ / Walia Ibex, endemic mountain capra' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአካባቢ",
-            "የአካባቢ"
+            "ዋሊያ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአካባቢ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዋሊያ» (Waliya) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13564,85 +13471,62 @@
     "subject": "amharic",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science) (ክፍል 5)",
+    "title": "የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand Synthesis & Environmental Sustainability)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የደን ጥበቃ፣ የውሃ ሀብት አስተዳደር እና የዘላቂ ልማት ውይይቶች። (ክፍል 5)።",
+    "objective": "የደን ጥበቃን፣ የውሃ አስተዳደርን፣ የአረንጓዴ አሻራንና የብሔራዊ ፓርኮችን ፍልስፍና ያቀናጀ የተሟላ የአካባቢ ሳይንስ ውይይት ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፱ አጠቃላይ የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት ማጠቃለያ:\n\n፩. ደንና ስነ-ምህዳር:\n- ደን፣ ስነ-ምህዳር፣ ብዝሃ-ህይወት፣ የተፈጥሮ ሚዛን።\n\n፪. የውሃ ሀብትና ታላቁ ህዳሴ ግድብ:\n- ውሃ፣ አባይ፣ ህዳሴ ግድብ፣ ታዳሽ ኃይል፣ መስኖ።\n\n፫. አፈርና አረንጓዴ አሻራ:\n- አረንጓዴ አሻራ፣ ችግኝ፣ እርከን ስራ፣ የአፈር ጥበቃ።\n\n፬. ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት:\n- ሰሜን ተራሮች፣ ባሌ፣ ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)' to the students."
+          "target": "የኢትዮጵያ የአካባቢ ጥበቃ በደን ልማት፣ በህዳሴ ግድብ፣ በአረንጓዴ አሻራ እና በፓርኮች ጥበቃ የተሳሰረ ነው።",
+          "reading": "Yä'Ityop’əya yä'akababi t’əbäqa bädän ləmat, bäHəddase Gəddəb, bä'Aränəgwarde Ašara ənna bäparkočč t’əbäqa yätäsassärä näw. [jɛʔitjoˈpʼɨja jɛʔakaˈbabi tʼɨˈbɛkʼa bɛdɛn lɨˈmat bɛhɨdːaˈse ɡɨdːɨb bɛʔarɛnɡʷarˈde ʔaˈʃara ʔɨnːa bɛparˈkotʃː tʼɨˈbɛkʼa jɛtɛsasːɛˈrɛ nɛw] (yeh-eet-yoh-P'EE-yah yeh-ah-kah-bah-BEE t'uh-beh-K'AH beh-DEN luh-MAHT, beh-hud-dah-SAY gud-DUB, beh-ah-ren-gwar-DAY ah-shah-RAH un-nah beh-pahr-KOHCH t'uh-beh-K'AH yeh-teh-sahs-seh-REH new)",
+          "translation": "Ethiopia's environmental conservation is intertwined through forestry development, the Renaissance Dam, the Green Legacy, and park preservation."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የተፈጥሮ ሀብትን በኃላፊነት መንከባከብ ለቀጣዩ ትውልድ የበለጸገች እና አረንጓዴ ሀገርን ለማውረስ ዋስትና ነው።",
+          "reading": "Yätäfät’ro habtən bähalafinnät mänkäbbakäb läqät’t’ayu təwəld yäbäläts’ägäčč ənna aränəgwarde hagärən lämawräs wastənna näw. [jɛtɛfɛtʼˈro habˈtɨn bɛhalaˈfinːɛt mɛnkɛbːaˈkɛb ləkʼɛtʼːaˈju tɨˈwɨld jɛbɛlɛtsʼɛˈɡɛtʃː ʔɨnːa ʔarɛnɡʷarˈde haˈɡɛrɨn ləmawˈrɛs wasˈtɨnːa nɛw] (yeh-teh-fet'-ROH hahb-TUN beh-hah-lah-FEEN-net men-keb-bah-KEB luh-k'et'-tah-YOO tuh-WULD yeh-beh-leh-ts'eh-GECH un-nah ah-ren-gwar-DAY hah-GEH-run luh-mow-RES wahs-tuhn-NAH new)",
+          "translation": "Responsibly nurturing natural resources is a guarantee to bequeath a prosperous and green nation unto the next generation."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ዜጎች በችግኝ ተከላ እና በዱር አራዊት ጥበቃ ላይ በንቃት በመሳተፍ ዘላቂ ልማትን እያረጋገጡ ነው።",
+          "reading": "Zegočč bäčəggəny täkkäla ənna bädur arawit t’əbäqa lay bänəqat bämässatäf zälaqi ləmatən əyyarrägaggät’u naččäw. [zeˈɡotʃː bɛtʃɨɡːɨɲ tɛkːɛˈla ʔɨnːa bɛdur ʔaraˈwit tʼɨˈbɛkʼa laj bɛnɨˈkʼat bɛmɛsːaˈtɛf zɛlaˈkʼi lɨˈmatɨn ʔɨjːarːɛɡaɡːɛˈtʼu naˈtʃːɛw] (zay-GOHCH beh-chug-GUN-y tek-keh-LAH un-nah beh-DOOR ah-rah-WEET t'uh-beh-K'AH lye beh-nuh-K'AHT beh-mes-sah-TEF zeh-lah-K'EE luh-MAH-tun uhy-yahr-reh-gahg-geh-T'OO nahch-CHEW)",
+          "translation": "Citizens are ensuring sustainable development by actively participating in sapling planting and wildlife preservation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 29: Forest (ደን) + Water (ህዳሴ ግድብ) + Green Legacy (ችግኝ) + Parks (ዋሊያ/ቀይ ቀበሮ)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ የአረንጓዴ ኢኮኖሚ ስትራቴጂን በመከተል ለአፍሪካና ለዓለም አቀፍ የአካባቢ ጥበቃ አርአያ የሚሆን ተግባራዊ እንቅስቃሴ በማድረግ ላይ ትገኛለች።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የአካባቢ ሳይንስ እና የተፈጥሮ ሀብት ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (29.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (29.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (29.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (29.5.w3)"
+            "የኢትዮጵያ የአካባቢ ጥበቃ በደን ልማት፣ በህዳሴ ግድብ፣ በአረንጓዴ አሻራ እና በፓርኮች ጥበቃ የተሳሰረ ነው። (Complete environmental synthesis combining forestry, GERD, Green Legacy, and national parks)",
+            "ምንም የተፈጥሮ ሀብት የለም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "አካባቢ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ ደንን፣ ውሃን፣ አረንጓዴ አሻራንና ብሔራዊ ፓርኮችን በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u29-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የአካባቢ ጥበቃን እና የተፈጥሮ ሀብትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (29.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (29.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (29.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (29.5.x3)"
+            "ህብረተሰቡ ችግኝ በመትከል እና ደኖችን በመንከባከብ የስነ-ምህዳር ሚዛንን ጠበቀ። (The community preserved ecological balance by planting saplings and caring for forests - Accurate unified sentence)",
+            "ምንም እንክብካቤ አልተደረገም",
+            "ደን የለም",
+            "ችግኝ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአካባቢ ጥበቃ እና የተፈጥሮ ሀብት (Environmental Science)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (29.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (29.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (29.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (29.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ችግኝ ተከላን እና የስነ-ምህዳር ጥበቃን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -13650,24 +13534,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 29-5):",
+          "prompt": "የክፍል 29 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (29.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (29.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (29.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (29.5.z3)"
+            "የደን ጥበቃ፣ የውሃ ሀብትና የህዳሴ ግድብ፣ የአረንጓዴ አሻራ ችግኞች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል።",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።",
+            "በኢትዮጵያ ፓርክ አልነበረም።",
+            "ሁሉም ወንዞች ተመሳሳይ ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 29ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u29-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአካባቢ»):",
+          "prompt": "'አካባቢ / Environment, surrounding' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአካባቢ",
-            "የአካባቢ"
+            "አካባቢ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአካባቢ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አካባቢ» (Akababi) ነው።"
         }
       ],
       "passThreshold": 0.8
