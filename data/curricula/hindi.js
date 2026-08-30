@@ -3355,53 +3355,62 @@
     "subject": "hindi",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "भविष्यत् काल और विनम्र अनुरोध (Future Tense & Polite) (Part 1)",
+    "title": "सामान्य भविष्यत् काल के प्रत्यय (-ऊँगा/-ऊँगी, -एगा/-एगी, -एंगे/-एंगी, -ओगे/-ओगी)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.1) with authentic linguistic precision.",
+    "objective": "सामान्य भविष्यत् काल (Simple Future Tense) के पुरुष, लिंग और वचन के अनुसार प्रत्यय नियमों तथा क्रिया अन्वय में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "सामान्य भविष्यत् काल (Simple Future Tense) भविष्य में होने वाली निश्चित या सामान्य क्रियाओं को दर्शाता है:\n\n1. निर्माण का सूत्र (Formula):\n   - **धातु + भविष्यत् प्रत्यय** (भविष्यत् काल में 'ने' कभी नहीं लगता! क्रिया हमेशा कर्ता के लिंग-वचन का अनुसरण करती है):\n\n2. सर्वनामों के अनुसार पूर्ण प्रत्यय तालिका:\n   - **मैं** (1st Sing): धातु + *-ऊँगा* (पु.) / *-ऊँगी* (स्त्री.) → मैं पढ़ूँगा / मैं पढ़ूँगी (I will read)\n   - **तू** (2nd Intimate): धातु + *-एगा* (पु.) / *-एगी* (स्त्री.) → तू जाएगा / तू जाएगी (You will go)\n   - **तुम** (2nd Fam): धातु + *-ओगे* (पु.) / *-ओगी* (स्त्री.) → तुम खेलोगे / तुम खेलोगी (You will play)\n   - **वह / यह** (3rd Sing): धातु + *-एगा* (पु.) / *-एगी* (स्त्री.) → वह लिखेगा / वह लिखेगी (He/She will write)\n   - **हम** (1st Plur): धातु + *-एंगे* (पु.) / *-एंगी* (स्त्री.) → हम देखेंगे / हम देखेंगी (We will see)\n   - **आप** (2nd Polite): धातु + *-एंगे* (पु.) / *-एंगी* (स्त्री.) → आप बोलेंगे / आप बोलेंगी (You will speak)\n   - **वे / ये** (3rd Plur): धातु + *-एंगे* (पु.) / *-एंगी* (स्त्री.) → वे आएँगे / वे आएँगी (They will come)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 8.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 8."
+          "target": "मैं कल शाम को अपने सभी पुराने मित्रों के साथ नई फ़िल्म देखने जाऊँगा।",
+          "reading": "main kal shaam ko apne sabhi puraane mitron ke saath nayi film dekhne jaoonga. [mɛ̃ː kəl ʃaːm koː əpneː səbʱiː pʊraːneː mɪt̪rõː keː saːt̪ʰ nəiː fɪlm d̪eːkʰneː dʒaːuː̃ɡaː] (myn kuhl shahm koh uhp-NAY SUH-bhee poo-RAH-nay MEET-rohn kay sahth nuh-EE feelm DAYKH-nay jah-OON-gah)",
+          "translation": "I will go to watch a new movie with all my old friends tomorrow evening."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 8-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्या आप कल सुबह की विशेष और महत्वपूर्ण बैठक में भाग लेंगे?",
+          "reading": "kya aap kal subah ki vishesh aur mahatvapoorna baithak mein bhaag lenge? [kjaː aːp kəl sʊbəh kiː ʋɪʃeːʂ ɔːr məɦət̪ʋəpuːrɳə bɛːʈʰək mẽː bʱaːɡ leːŋɡeː] (kyah ahp kuhl SOO-buh kee vee-SHAYSH owr muh-huht-vuh-POOR-nuh BY-thuhk mayn bhahg LENG-gay)",
+          "translation": "Will you participate in tomorrow morning's special and important meeting?"
+        },
+        {
+          "target": "हम अगले सप्ताह अपनी अंतिम परीक्षा समाप्त होने के बाद शिमला जाएँगे।",
+          "reading": "hum agle saptaah apni antim pareeksha samaapt hone ke baad Shimla jaayenge. [həm əɡleː səptaːɦ əpniː ənt̪ɪm pəriːkʃaː səmaːpt̪ hoːneː keː baːd̪ ʃɪmlaː dʒaːẽːɡeː] (hum uhg-LAY suhp-TAH uhp-NEE UHN-teem puh-REEK-shah suh-MAHPT hoh-NAY kay bahd SHEEM-lah jah-ENG-gay)",
+          "translation": "We will go to Shimla next week after our final exams are over."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "मैं = -ऊँगा/-ऊँगी; तुम = -ओगे/-ओगी; वह = -एगा/-एगी; हम/आप/वे = -एंगे/-एंगी! भविष्य में NO 'ने'!"
+      ],
+      "culturalNotes": [
+        "आदरणीय व्यक्तियों से बात करते समय हमेशा बहुवचन भविष्यत् रूप '-एंगे' (जैसे: 'आप कब आएँगे?') का प्रयोग करना अनिवार्य शिष्टाचार है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बिल\":",
+          "prompt": "सर्वनाम 'मैं' (स्त्रीलिंग) के साथ 'लिखना' क्रिया का सामान्य भविष्यत् काल क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 8.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बाज़ार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खरीदारी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («क्रेडिट कार्ड» का अनुचित स्थान)"
+            "लिखूँगी (Likhoongi - I will write [fem. singular])",
+            "लिखूँगा",
+            "लिखेगी",
+            "लिखोगी"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "प्रथम पुरुष स्त्रीलिंग एकवचन 'मैं' के साथ 'धातु + -ऊँगी' (लिखूँगी) प्रयुक्त होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बिल\":",
+          "prompt": "सर्वनाम 'तुम' (पुल्लिंग) के साथ 'गाना गाना' का सही भविष्यत् रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 8.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खरीदारी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («क्रेडिट कार्ड» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बाज़ार» का अशुद्ध रूप)"
+            "गाओगे (Gaaoge - You will sing [fam. masc.])",
+            "गाएगा",
+            "गाएँगे",
+            "गाऊँगा"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'तुम' पुल्लिंग के साथ 'धातु + -ओगे' (गाओगे) आता है।"
         }
       ]
     },
@@ -3409,17 +3418,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बिल\": Which sentence is completely correct?",
+          "prompt": "सामान्य भविष्यत् काल के लिंग-वचन समन्वय वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («क्रेडिट कार्ड» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बाज़ार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खरीदारी» से संबंधित)"
+            "कल सभी छात्राएं पुरस्कार वितरण समारोह में भाग लेंगी और गीत गाएँगी। (All girl students will participate in the prize distribution ceremony and sing songs tomorrow.)",
+            "कल सभी छात्राएं भाग लेंगे और गाएगा।",
+            "छात्राओं ने भाग लेंगी।",
+            "छात्राएं भाग लेगा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«भाग लेंगी» और «गाएँगी» दोनों स्त्रीलिंग बहुवचन भविष्यत् रूप हैं और कर्ता के साथ पूर्णतः संगत हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u8-l2": {
@@ -3427,53 +3437,62 @@
     "subject": "hindi",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "भविष्यत् काल और विनम्र अनुरोध (Future Tense & Polite) (Part 2)",
+    "title": "अनियमित भविष्यत् धातुएं: होना, लेना, देना और करना",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.2) with authentic linguistic precision.",
+    "objective": "अनियमित भविष्यत् धातु रूपों (होना → होगा/होगी/होंगे, लेना → लूँगा/लेंगे, देना → दूँगा/देंगे, करना → करूँगा/करेंगे) की संरचना और शुद्ध उच्चारण को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "कुछ अत्यंत महत्वपूर्ण और दैनिक व्यवहार की धातुओं के भविष्यत् रूप थोड़े संकुचित और अनियमित होते हैं:\n\n1. 'होना' (To be / happen):\n   - मैं: *होऊँगा / होऊँगी*\n   - वह: *होगा / होगी* (It/He/She will be)\n   - हम/आप/वे: *होंगे / होंगी* (They will be)\n   - तुम: *होगे / होगी*।\n\n2. 'लेना' (To take):\n   - मैं: *लूँगा / लूँगी*\n   - वह: *लेगा / लेगी*\n   - हम/आप/वे: *लेंगे / लेंगी*\n   - तुम: *लोगो / लोगी*।\n\n3. 'देना' (To give):\n   - मैं: *दूँगा / दूँगी*\n   - वह: *देगा / देगी*\n   - हम/आप/वे: *देंगे / देंगी*\n   - तुम: *दोगे / दोगी*।\n\n4. 'करना' (To do):\n   - मैं: *करूँगा / करूँगी*\n   - वह: *करेगा / करेगी*\n   - हम/आप/वे: *करेंगे / करेंगी*\n   - तुम: *करोगे / करोगी*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 8.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 8."
+          "target": "मैं आपको इस पुरानी पुस्तक के बदले में अपना नया रोचक उपन्यास दूँगा।",
+          "reading": "main aapko is puraani pustak ke badle mein apna naya rochak upanyaas doonga. [mɛ̃ː aːpkoː ɪs pʊraːniː pʊst̪ək keː bəd̪leː mẽː əpnaː nəjaː roːtʃək ʊpənjaːs d̪uː̃ɡaː] (myn ahp-KOH ees poo-RAH-nee POOS-tuhk kay BUHD-lay mayn uhp-NAH nuh-YAH ROH-chuhk oop-uhn-YAHS DOON-gah)",
+          "translation": "I will give you my new interesting novel in exchange for this old book."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 8-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कल दोपहर तक पहाड़ी क्षेत्र में मौसम बहुत सुहावना और ठंडा होगा।",
+          "reading": "kal dopahar tak pahaadi kshetra mein mausam bahut suhaavana aur thanda hoga. [kəl d̪oːpɛɦər t̪ək pəɦaːɽiː kʃeːt̪rə mẽː mɔːsəm bəɦʊt̪ sʊɦaːʋnaː ɔːr t̪ʰəɳɖaː hoːɡaː] (kuhl doh-PUH-huhr tuhk puh-HAH-dee KSHAY-truh mayn MOW-suhm buh-hoot soo-HAH-vuh-nah owr THUHN-dah HOH-gah)",
+          "translation": "By tomorrow afternoon the weather in the hilly region will be very pleasant and cold."
+        },
+        {
+          "target": "हम सब मिलकर कल शाम को इस गंभीर विषय पर एक महत्वपूर्ण निर्णय लेंगे।",
+          "reading": "hum sab milkar kal shaam ko is gambheer vishay par ek mahatvapoorna nirnay lenge. [həm səb mɪlkər kəl ʃaːm koː ɪs ɡəmbiːr ʋɪʂəj pər eːk məɦət̪ʋəpuːrɳə nɪrɳəj leːŋɡeː] (hum suhb MEEL-kuhr kuhl shahm koh ees guhm-BHEER vee-SHUY puhr ayk muh-huht-vuh-POOR-nuh NEER-nuy LENG-gay)",
+          "translation": "All of us together will take an important decision on this serious subject tomorrow evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "लेना → लूँगा/लेंगे; देना → दूँगा/देंगे; करना → करूँगा/करेंगे; होना → होगा/होंगे!"
+      ],
+      "culturalNotes": [
+        "लेन-देन के व्यवहार में 'मैं आपको कल रुपये दे दूँगा' (I will give you money tomorrow) में संयुक्त क्रिया 'दे देना' का बहुत प्रयोग होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बाज़ार\":",
+          "prompt": "सर्वनाम 'हम' के साथ 'करना' क्रिया का शुद्ध भविष्यत् रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 8.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खरीदारी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («क्रेडिट कार्ड» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नकद» का अनुचित स्थान)"
+            "करेंगे (Karenge - We will do [masc. plural])",
+            "करूँगा",
+            "करेगा",
+            "करोगे"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'हम' (पुल्लिंग बहुवचन) के साथ 'करना' का रूप «करेंगे» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बाज़ार\":",
+          "prompt": "वाक्य «मैं कल आपको उत्तर ___» में 'देना' (पुल्लिंग एकवचन) का सही रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («क्रेडिट कार्ड» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नकद» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खरीदारी» का अशुद्ध रूप)"
+            "दूँगा (Doonga - I will give [masc. singular])",
+            "देंगे",
+            "देगा",
+            "दोगे"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'मैं' के साथ 'देना' का पुल्लिंग एकवचन रूप «दूँगा» होता है।"
         }
       ]
     },
@@ -3481,17 +3500,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बाज़ार\": Which sentence is completely correct?",
+          "prompt": "अनियमित भविष्यत् धातुओं का शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नकद» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खरीदारी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («क्रेडिट कार्ड» से संबंधित)"
+            "हम आपकी पूरी सहायता करेंगे और आपको सही मार्गदर्शन देंगे। (We will do all your help and will give you right guidance.)",
+            "हम सहायता करूँगा और दूँगा।",
+            "हम ने सहायता करेंगे।",
+            "सहायता करोगे हम।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सहायता करेंगे» और «मार्गदर्शन देंगे» दोनों 'हम' के साथ पूर्णतः शुद्ध अनियमित भविष्यत् रूप हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u8-l3": {
@@ -3499,53 +3519,62 @@
     "subject": "hindi",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "भविष्यत् काल और विनम्र अनुरोध (Future Tense & Polite) (Part 3)",
+    "title": "संभाव्य भविष्यत् काल / उपशामक क्रिया (Subjunctive Mood: शायद वह आए, क्या हम चलें?)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.3) with authentic linguistic precision.",
+    "objective": "संभावना, संदेह, इच्छा, विनम्र प्रस्ताव और अनुमति व्यक्त करने वाले संभाव्य भविष्यत् / उपशामक रूप (Subjunctive Mood) की संरचना व प्रयोग को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संभाव्य वर्तमान/भविष्यत् (Subjunctive Mood) का प्रयोग उन क्रियाओं के लिए होता है जो निश्चित नहीं हैं, बल्कि संभावना (Possibility), इच्छा (Wish), संदेह (Doubt) अथवा विनम्र अनुमति (Permission) हैं:\n\n1. निर्माण का सरल नियम:\n   - सामान्य भविष्यत् काल के रूपों में से अंतिम **'-गा / -गे / -गी' हटा देने पर** संभाव्य (Subjunctive) रूप प्राप्त होता है:\n     - मैं: धातु + *-ऊँ* → मैं जाऊँ? (May I go?)\n     - तू: धातु + *-ए* → तू पढ़े\n     - तुम: धातु + *-ओ* → तुम सुनो\n     - वह/यह: धातु + *-ए* → वह आए (He may come)\n     - हम/आप/वे/ये: धातु + *-एं* → हम चलें? (Shall we leave?) / आप देखें (May you see) / वे आएँ (They may come)।\n\n2. प्रमुख संभाव्य सूचक शब्द (Triggers):\n   - *शायद* (Perhaps): शायद आज रात बारिश **हो**।\n   - *हो सकता है कि* (It is possible that): हो सकता है कि वह समय पर **पहुँचे**।\n   - *काश* (I wish): काश मैं उड़ **सकूँ**!\n   - *अनुमति / प्रस्ताव*: क्या अब हम **चलें**? (Shall we go now?)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 8.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 8."
+          "target": "शायद आज शाम को बहुत तेज़ वर्षा हो और मौसम सुहावना हो जाए।",
+          "reading": "shaayad aaj shaam ko bahut tez varsha ho aur mausam suhaavana ho jaaye. [ʃaːjəd̪ aːdʒ ʃaːm koː bəɦʊt̪ t̪eːz ʋərʂaː hoː ɔːr mɔːsəm sʊɦaːʋnaː hoː dʒaːeː] (SHAH-yuhd ahj shahm koh buh-hoot tayz VUHR-shah hoh owr MOW-suhm soo-HAH-vuh-nah hoh JAH-ay)",
+          "translation": "Perhaps it may rain very heavily this evening and the weather may become pleasant."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 8-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "यदि आपकी अनुमति हो, तो क्या अब हम सब भोजन करने के लिए बैठें?",
+          "reading": "yadi aapki anumati ho, to kya ab hum sab bhojan karne ke liye baithein? [jəd̪ɪ aːpkiː ənʊmət̪ɪ hoː t̪oː kjaː əb həm səb bʱoːdʒən kərneː keː lɪjeː bɛːʈʰẽː] (YUH-dee ahp-KEE uh-NOO-muh-tee hoh, toh kyah uhb hum suhb BHOJ-uhn KUHR-nay kay lee-ay BY-thayn)",
+          "translation": "If you permit, shall all of us sit down to have food now?"
+        },
+        {
+          "target": "हो सकता है कि हमारे मुख्य अतिथि कल सुबह की पहली उड़ान से दिल्ली पहुँचें।",
+          "reading": "ho sakta hai ki hamaare mukhya atithi kal subah ki pehli udaan se Dilli pahunchein. [hoː səktaː hɛː kɪ həmaːreː mʊkʰjə ət̪ɪt̪ʰɪ kəl sʊbəh kiː pɛɦliː ʊɽaːn seː d̪ɪlːiː pəɦʊntʃẽː] (hoh SUHK-tah hy kee huh-MAH-ray MOOKH-yuh uh-TEE-thee kuhl SOO-buh kee PUH-h-lee oo-DAHN say DEEL-lee puh-HOON-chayn)",
+          "translation": "It is possible that our chief guest may reach Delhi by the first flight tomorrow morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Future से 'गा/गे/गी' हटाओ = Subjunctive पाओ! मैं जाऊँ? (Shall I go?), हम चलें? (Shall we leave?), शायद आए (May come)!"
+      ],
+      "culturalNotes": [
+        "बैठक या बातचीत समाप्त करते समय 'अच्छा, अब हम चलें?' (Alright, shall we take leave now?) कहना अत्यंत शिष्ट विदाई वाक्य है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"खरीदारी\":",
+          "prompt": "किसी से विनम्रतापूर्वक विदा माँगते समय 'Shall we leave now?' के लिए कौन-सा वाक्य प्रयुक्त होता है?",
           "options": [
-            "हम इस पाठ में इकाई 8.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («क्रेडिट कार्ड» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नकद» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («घर» का अनुचित स्थान)"
+            "क्या अब हम चलें? (Kya ab hum chalein? - Shall we leave now? [subjunctive proposal])",
+            "हम चलेंगे क्या?",
+            "हम चले थे क्या?",
+            "हम जा रहे हैं क्या?"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "विनम्र प्रस्ताव या अनुमति के लिए उपशामक रूप «क्या अब हम चलें?» का प्रयोग होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"खरीदारी\":",
+          "prompt": "वाक्य «शायद वह आज न ___» में संभाव्य क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नकद» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («घर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («क्रेडिट कार्ड» का अशुद्ध रूप)"
+            "आए (Aaye - May come [subjunctive 3rd sing])",
+            "आएगा",
+            "आया",
+            "आता है"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'शायद' के साथ संभावना दर्शाने के लिए उपशामक रूप «आए» प्रयुक्त होता है।"
         }
       ]
     },
@@ -3553,17 +3582,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"खरीदारी\": Which sentence is completely correct?",
+          "prompt": "संभाव्य रूप (Subjunctive Mood) का शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («घर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («क्रेडिट कार्ड» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नकद» से संबंधित)"
+            "हो सकता है कि कल बर्फ़बारी हो और रास्ते बंद हो जाएँ। (It is possible that snowfall may occur tomorrow and roads may get blocked.)",
+            "हो सकता है कि कल बर्फ़बारी होगा और बंद होंगे।",
+            "हो सकता है बर्फ़बारी हुई थी।",
+            "शायद बर्फ़बारी होती है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«हो» और «हो जाएँ» दोनों 'हो सकता है कि' के साथ शुद्ध उपशामक रूप हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u8-l4": {
@@ -3571,53 +3601,62 @@
     "subject": "hindi",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "भविष्यत् काल और विनम्र अनुरोध (Future Tense & Polite) (Part 4)",
+    "title": "आज्ञार्थक और विनम्र अनुरोध के स्तर: तू (जा), तुम (जाओ), आप (आइए) और अति-विनम्र (आइएगा)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.4) with authentic linguistic precision.",
+    "objective": "हिंदी में सामाजिक संबंधों, आदर और औपचारिकता के चार आज्ञार्थक स्तरों (तू, तुम, आप, आइएगा) तथा निषेधात्मक 'मत' और 'न' के सटीक प्रयोग में महारत हासिल करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में आज्ञा, निर्देश और अनुरोध के चार सामाजिक स्तर होते हैं:\n\n1. आज्ञार्थक के चार स्तर (Four Imperative Tiers):\n   - **1. 'तू' (घनिष्ठ/निम्न)**: धातु का मूल रूप → तू पढ़! तू जा! तू खा! (अत्यंत निकट मित्र या छोटे बच्चों के लिए)\n   - **2. 'तुम' (अनौपचारिक/समान)**: धातु + *-ओ* → तुम पढ़ो! तुम जाओ! तुम खाओ! (अनियमित: करो, लो, दो, पियो)\n   - **3. 'आप' (मानक शिष्ट/आदर)**: धातु + *-इए* → आप पढ़िए, आप जाइए, आप बैठिए (अनियमित: कीजिए, लीजिए, दीजिए, पीजिए)\n   - **4. 'अति-विनम्र / भावी अनुरोध' (Super-Polite / Future Request)**: धातु + *-इएगा* → आप कल ज़रूर **आइएगा**, कृपया चाय **पीजिएगा**, इसे ध्यान से **रखिएगा**।\n\n2. निषेधात्मक शब्द ('मत' बनाम 'न'):\n   - आदेश में 'नहीं' का प्रयोग अमानक माना जाता है;\n   - दृढ निषेध: **'मत'** (जैसे: शोर मत करो! झूठ मत बोलो!)\n   - विनम्र निषेध: **'न'** (जैसे: कृपया वहाँ न जाएँ, चिंता न कीजिए)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 8.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 8."
+          "target": "कृपया यहाँ आरामकुर्सी पर बैठिए और गरमा-गरम अदरक वाली चाय पीजिए।",
+          "reading": "kripaya yahaan aaraamkursi par baithiye aur garma-garam adrak vaali chaay peejiye. [krɪpəjaː jəɦaː̃ aːraːmkʊrsiː pər bɛːʈʰɪjeː ɔːr ɡərmaː ɡərəm əd̪rək ʋaːliː tʃaːj piːdʒɪjeː] (krip-YAH yuh-HAHN ah-rahm-KOOR-see puhr BY-thee-yay owr guhr-mah-GUH-ruhm UHD-ruhk vah-lee CHAH-ee PEE-jee-yay)",
+          "translation": "Please sit on the armchair here and have piping hot ginger tea."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 8-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कल शाम के हमारे पारिवारिक सांस्कृतिक समारोह में आप सपरिवार अवश्य आइएगा।",
+          "reading": "kal shaam ke hamaare paarivaarik saamskritik samaaroh mein aap saparivaar avashya aayiyega. [kəl ʃaːm keː həmaːreː paːrɪʋaːrɪk saː̃skrɪt̪ɪk səmaːroːɦ mẽː aːp səpərɪʋaːr əʋəʃjə aːjɪjeːɡaː] (kuhl shahm kay huh-MAH-ray pah-ree-VAH-reek sahn-SKREE-teek suh-mah-ROH mayn ahp suh-puh-ree-VAHR uh-VUHSH-yuh ah-YEE-yay-gah)",
+          "translation": "Please do come along with your entire family to our family cultural gathering tomorrow evening."
+        },
+        {
+          "target": "कक्षा में बिल्कुल शोर मत करो और ध्यानपूर्वक अपनी पाठ्यपुस्तक पढ़ो।",
+          "reading": "kaksha mein bilkul shor mat karo aur dhyaanpoorvak apni paathyapustak padho. [kəkʃaː mẽː bɪlkʊl ʃoːr mət̪ kəroː ɔːr d̪ʱjaːnpuːrʋək əpniː paːʈʰjəpʊst̪ək pəɽʱoː] (KUHK-shah mayn BEEL-kool shohr muht KUH-roh owr DHYAHN-poor-vuhk uhp-NEE pahtth-yuh-POOS-tuhk PUHDH-oh)",
+          "translation": "Do not make noise at all in the classroom and read your textbook attentively."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "तुम = -ओ (जाओ); आप = -इए (जाइए); अति-विनम्र/भविष्य = -इएगा (आइएगा)! आदेश में 'मत' लगाओ, 'नहीं' नहीं!"
+      ],
+      "culturalNotes": [
+        "निमंत्रण पत्रिकाओं और औपचारिक निमंत्रणों में 'सपरिवार पधारिएगा' (Kindly grace the occasion with family) लिखना भारतीय आतिथ्य की सर्वोच्च विनम्रता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"क्रेडिट कार्ड\":",
+          "prompt": "अति-विनम्रतापूर्वक भविष्य के लिए निमंत्रण देने हेतु कौन-सा क्रिया रूप सबसे उपयुक्त है?",
           "options": [
-            "हम इस पाठ में इकाई 8.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नकद» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («घर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कमरा» का अनुचित स्थान)"
+            "आइएगा (Aayiyega - Super-polite future request)",
+            "आओ",
+            "आ",
+            "आएगा"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भविष्य के आदरयुक्त एवं स्नेहपूर्ण निमंत्रण हेतु «आइएगा» (धातु + -इएगा) सर्वश्रेष्ठ रूप है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"क्रेडिट कार्ड\":",
+          "prompt": "वाक्य «यहाँ शोर ___ करो» में मानक निषेधात्मक शब्द भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («घर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कमरा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नकद» का अशुद्ध रूप)"
+            "मत (Mat - Prohibitive marker for imperatives)",
+            "नहीं",
+            "नाहीं",
+            "बिना"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "आज्ञार्थक वाक्यों में निषेध के लिए मानक शब्द «मत» प्रयुक्त होता है।"
         }
       ]
     },
@@ -3625,17 +3664,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"क्रेडिट कार्ड\": Which sentence is completely correct?",
+          "prompt": "आदरसूचक और शिष्ट अनुरोध का सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कमरा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नकद» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («घर» से संबंधित)"
+            "कृपया यह महत्वपूर्ण प्रपत्र भर दीजिए और हस्ताक्षर कर दीजिएगा। (Please fill this important form and kindly sign it.)",
+            "यह प्रपत्र भरो और हस्ताक्षर करो तुम।",
+            "कृपया नहीं शोर कीजिए।",
+            "प्रपत्र भरिए नहीं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«भर दीजिए» और «कर दीजिएगा» शिष्ट और अति-विनम्र अनुरोध के सटीक रूप हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u8-l5": {
@@ -3643,53 +3683,62 @@
     "subject": "hindi",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "भविष्यत् काल और विनम्र अनुरोध (Future Tense & Polite) (Part 5)",
+    "title": "भविष्यत् काल में शर्त-वाक्य (Conditional Future: अगर... तो... / जब... तब...)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 8.5) with authentic linguistic precision.",
+    "objective": "शर्त-सूचक अव्ययों (अगर/यदि... तो..., जब... तब...) के साथ भविष्यत् काल की मिश्रित वाक्य संरचनाओं और कार्य-कारण संबंधों के निर्माण में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भविष्य की शर्तों और उनके परिणामों को व्यक्त करने के लिए 'शर्त-वाक्य' (Conditional Sentences) का प्रयोग होता है:\n\n1. मुख्य संरचनात्मक सूत्र (Formulas):\n   - **संरचना 1**: अगर / यदि + [भविष्यत् काल], तो + [भविष्यत् काल]\n     - अगर तुम मेहनत **करोगे**, तो अवश्य सफल **होगे**। (If you work hard, you will succeed.)\n   - **संरचना 2**: अगर / यदि + [संभाव्य रूप], तो + [भविष्यत् काल]\n     - यदि मौसम साफ़ **हो**, तो हम सैर पर **जाएँगे**। (If weather is clear, we will go for a walk.)\n   - **संरचना 3**: जब + [भविष्यत् काल], तब + [भविष्यत् काल]\n     - जब तुम दिल्ली **आओगे**, तब हम लाल किला देखने **चलेंगे**। (When you come to Delhi, then we will go to see the Red Fort.)\n\n2. नित्य-संबंधी युग्म (Correlative Pairs):\n   - अगर / यदि ... तो (If ... then)\n   - जब ... तब (When ... then)\n   - जहाँ ... वहाँ (Where ... there)\n   - जैसा ... वैसा (As ... so)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 8.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 8."
+          "target": "यदि आप प्रतिदिन नियमपूर्वक अभ्यास करेंगे, तो बहुत जल्दी धाराप्रवाह हिंदी बोलेंगे।",
+          "reading": "yadi aap pratidin niyampoorvak abhyaas karenge, to bahut jaldi dhaarapravaah hindi bolenge. [jəd̪ɪ aːp prət̪ɪd̪ɪn nɪjəmpuːrʋək əbʱjaːs kərẽːɡeː t̪oː bəɦʊt̪ dʒəldiː d̪ʱaːraːprəʋaːɦ hɪn̪d̪iː boːlẽːɡeː] (YUH-dee ahp pruh-tee-DEEN NEE-yuhm-poor-vuhk uhb-HYAHS KUH-reng-gay, toh buh-hoot JUHL-dee dhah-rah-pruh-VAH HEEN-dee BOH-leng-gay)",
+          "translation": "If you practice regularly every day, you will speak fluent Hindi very soon."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 8-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अगर कल सुबह मौसम बिल्कुल साफ़ रहेगा, तो हम सब सवेरे ही नौका-विहार के लिए चलेंगे।",
+          "reading": "agar kal subah mausam bilkul saaf rahega, to hum sab savere hi nauka-vihaar ke liye chalenge. [əɡər kəl sʊbəh mɔːsəm bɪlkʊl saːf rəɦeːɡaː t̪oː həm səb səʋeːreː ɦiː nɔːkaː ʋɪɦaːr keː lɪjeː tʃəlẽːɡeː] (UH-guhr kuhl SOO-buh MOW-suhm BEEL-kool sahf ruh-HAY-gah, toh hum suhb suh-VAY-ray hee NOW-kah vee-HAHR kay lee-ay CHUH-leng-gay)",
+          "translation": "If the weather remains completely clear tomorrow morning, then all of us will leave early for boating."
+        },
+        {
+          "target": "जब आप मुख्य रेलवे स्टेशन पर पहुँचेंगे, तब मैं आपको लेने के लिए बाहर गाड़ी लेकर आऊँगा।",
+          "reading": "jab aap mukhya railway station par pahunchenge, tab main aapko lene ke liye baahar gaadi lekar aaoonga. [dʒəb aːp mʊkʰjə reːlʋeː sʈeːʃən pər pəɦʊntʃẽːɡeː t̪əb mɛ̃ː aːpkoː leːneː keː lɪjeː baːɦər ɡaːɽiː leːkər aːuː̃ɡaː] (juhb ahp MOOKH-yuh RAYL-way STAY-shuhn puhr puh-HOON-cheng-gay, tuhb myn ahp-KOH LAY-nay kay lee-ay BAH-huhr GAH-dee LAY-kuhr ah-OON-gah)",
+          "translation": "When you arrive at the main railway station, then I will come outside with a car to receive you."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अगर करोगे → तो होगे; जब आओगे → तब चलेंगे! 'अगर... तो...' और 'जब... तब...' का नित्य संबंध!"
+      ],
+      "culturalNotes": [
+        "अतिथियों के स्वागत में 'जब भी आप आएँगे, हम हाज़िर रहेंगे' (Whenever you come, we will be at your service) कहना भारतीय परंपरा की आतिथ्य भावना को दर्शाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नकद\":",
+          "prompt": "शर्त-वाक्य «अगर आप परिश्रम करेंगे, ___ अवश्य सफल होंगे» में उचित नित्य-संबंधी योजक क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 8.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («घर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कमरा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रसोई» का अनुचित स्थान)"
+            "तो (To - Then [correlative to agar/yadi])",
+            "तब",
+            "परंतु",
+            "क्योंकि"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'अगर / यदि' के साथ परिणाम उपवाक्य में नित्य-संबंधी योजक «तो» आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नकद\":",
+          "prompt": "वाक्य «जब घंटी बजेगी, तब सभी छात्र कक्षा में ___» में उचित भविष्यत् क्रिया भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कमरा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रसोई» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («घर» का अशुद्ध रूप)"
+            "जाएँगे (Jaayenge - Will go [masc. plural])",
+            "जाएगा",
+            "गए थे",
+            "जाता है"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "छात्र (पुल्लिंग बहुवचन) के साथ भविष्यत् काल में «जाएँगे» आता है।"
         }
       ]
     },
@@ -3697,17 +3746,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नकद\": Which sentence is completely correct?",
+          "prompt": "शर्त-सूचक भविष्यत् वाक्य का सर्वथा शुद्ध और सुसंगत रूप चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 8.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रसोई» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («घर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कमरा» से संबंधित)"
+            "अगर आप समय पर स्टेशन पहुँचेंगे, तो आपको गाड़ी मिल जाएगी। (If you reach the station on time, you will get the train.)",
+            "अगर आप पहुँचेंगे तब गाड़ी मिली थी।",
+            "जब आप पहुँचेंगे तो गाड़ी मिल जाएगी।",
+            "अगर आप पहुँचा तो गाड़ी मिलेगी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«अगर... पहुँचेंगे, तो... मिल जाएगी» में शर्त और परिणाम का व्याकरणिक संबंध पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u9-l1": {
