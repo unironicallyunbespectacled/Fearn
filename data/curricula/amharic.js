@@ -1836,85 +1836,62 @@
     "subject": "amharic",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (ክፍል 1)",
+    "title": "የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present & Habitual Tense Conjugation)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአሁን እና የልማዳዊ ጊዜ የግስ እርባታ፣ ባለቤትና ማሰሪያ አንቀጽ ማዛመድ። (ክፍል 1)።",
+    "objective": "የአማርኛ የአሁን እና ልማዳዊ ጊዜ የግስ እርባታን (መማር -> እማራለሁ፣ ትማራለህ፣ ትማሪያለሽ፣ ይማራል፣ ትማራለች፣ እንማራለን፣ ትማራላችሁ፣ ይማራሉ) ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአሁን እና የልማዳዊ ጊዜ ግስ እርባታ:\n\nበአማርኛ ቋንቋ አንድ ድርጊት በአሁኑ ወቅት እየተከናወነ መሆኑን ወይም በተደጋጋሚ/በልማድ የሚፈጸም መሆኑን ለመግለጽ የሚከተሉት ቅጥያዎች በግሱ ላይ ይገባሉ:\n\n፩. የ«መማር» ግስ እርባታ:\n- «እኔ»: እ- ... -አለሁ -> «እማራለሁ»\n- «አንተ»: ት- ... -አለህ -> «ትማራለህ»\n- «አንቺ»: ት- ... -ያለሽ -> «ትማሪያለሽ»\n- «እርስዎ»: ይ- ... -አሉ -> «ይማራሉ»\n- «እሱ»: ይ- ... -አል -> «ይማራል»\n- «እሷ»: ት- ... -አለች -> «ትማራለች»\n- «እኛ»: እን- ... -አለን -> «እንማራለን»\n- «እናንተ»: ት- ... -አላችሁ -> «ትማራላችሁ»\n- «እነሱ»: ይ- ... -አሉ -> «ይማራሉ»።\n\n፪. የግስ ቅርጽ:\n- የአሁን ጊዜ ግስ ሁልጊዜ ከባለቤቱ ጋር በጾታ እና በቁጥር መስማማት አለበት።",
       "examples": [
         {
-          "target": "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)' to the students."
+          "target": "እኔ በትምህርት ቤት ውስጥ አማርኛ እና እንግሊዝኛ እማራለሁ።",
+          "reading": "Əne bätəməhərt bet wəst’ amarəngya ənna əngəlizəngya əmmarallähu. [ɨˈne bɨtɨmˈhɨrt bet wɨstʼ amaˈrɨɲːa ɨnːa ɨnɡliˈzɨɲːa ɨmːaˈralːɨhu] (uh-NAY buh-tum-HURT bayt woos-T' ah-mah-RUN-nyah un-nah un-gluh-ZUN-nyah uhm-mah-RAHL-luh-hoo)",
+          "translation": "I study Amharic and English inside the school."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሱ መጽሐፍ ያነባል፣ እሷ ደግሞ ደብተር ትጽፋለች።",
+          "reading": "Əssu mäs’haf yannäbbabball, əsswa dägmo däbtär təs’əfalläčč. [ɨsːu mɨsˤˈhaf janːɨbːaˈbal ɨsːwa dɛɡˈmo dɛbˈtɛr tɨsˤɨˈfalːɛtʃː] (uhs-SOO mus'-HAHF yahn-nub-bah-BAHL, uhs-SWAH deg-MOH deb-TUR tuh-ts'uh-FAHL-lech)",
+          "translation": "He reads a book, and she writes in a notebook."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኛ በየቀኑ አዳዲስ የቋንቋ ትምህርቶችን አብረን እንማራለን።",
+          "reading": "Əngya bäyyäqänu addaddis yäqwanqwa təməhərtoččən abrän ənnəmmarallän. [ɨɲa bɛjːɛkʼɛˈnu adːadˈdis jɛkʼʷanˈkʼʷa tɨmɨhɨrˈtotʃːɨn abˈrɛn ɨnːɨmːaˈralːɛn] (un-NYAH beh-yeh-k'eh-NOO ahd-dahd-DEES yeh-k'wahn-K'WAH tum-hur-TOHCH-chun ahb-REN un-nuhm-mah-RAHL-len)",
+          "translation": "We learn new language lessons together every day."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Present Tense Prefixes & Suffixes: እኔ=እ-...-አለሁ, አንተ=ት-...-አለህ, እሱ=ይ-...-አል, እሷ=ት-...-አለች, እኛ=እን-...-አለን, እነሱ=ይ-...-አሉ!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል እውቀትን መገብየትና 'ትምህርት የብርሃን ቁልፍ ነው' የሚለው አባባል ለትምህርት ያለውን ከፍተኛ ክብር ያሳያል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«እኔ» (I) ከሚለው የግል ተውላጠ ስም ጋር «መማር» (To Learn) የሚለው ግስ በአሁን ጊዜ እንዴት ይረባል?",
           "options": [
-            "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (4.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (4.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (4.1.w3)"
+            "እማራለሁ (I learn - Correct first-person singular present tense)",
+            "ይማራል",
+            "ትማራለች",
+            "እንማራለን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እኔ» በሚሆንበት ጊዜ «እ- ... -አለሁ» ቅጥያ ገብቶ «እማራለሁ» ይሆናል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u4-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "«እሷ» (She) ከሚለው ባለቤት ጋር የሚስማማውን የአሁን ጊዜ ግስ ይምረጡ:",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (4.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (4.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (4.1.x3)"
+            "ትጽፋለች (She writes - Correct feminine singular present tense)",
+            "ይጽፋል",
+            "እጽፋለሁ",
+            "ይጽፋሉ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (4.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (4.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (4.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለእሷ የሚስማማው የአሁን ጊዜ ቅጥያ «ት- ... -አለች» (ትጽፋለች) ነው።"
         }
       ]
     },
@@ -1922,24 +1899,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 4-1):",
+          "prompt": "የአሁን እና ልማዳዊ ጊዜ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (4.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (4.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (4.1.z3)"
+            "እኔ እማራለሁ፣ እሱ ይማራል፣ እሷ ትማራለች፣ እኛ እንማራለን።",
+            "እኔ ይማራል፣ እሱ እማራለሁ።",
+            "እኛ ይማራሉ፣ እናንተ እንማራለን።",
+            "እሷ ትማራለህ፣ አንተ ትማራለች።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ሙሉውን የግስ እርባታ ስምምነት ጠብቋል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u4-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ቀላል»):",
+          "prompt": "'እማራለሁ / I learn' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ቀላል",
-            "ቀላል"
+            "እማራለሁ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ቀላል» ነው።"
+          "explanation": "ትክክለኛው ቃል «እማራለሁ» (Əmmarallähu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1950,85 +1926,62 @@
     "subject": "amharic",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (ክፍል 2)",
+    "title": "የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Routines & Common Verbs)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአሁን እና የልማዳዊ ጊዜ የግስ እርባታ፣ ባለቤትና ማሰሪያ አንቀጽ ማዛመድ። (ክፍል 2)።",
+    "objective": "የዕለት ተዕለት ተግባራትን የሚገልጹ ዋና ዋና ግሶችን (መነሳት፣ መብላት፣ መጠጣት፣ መሥራት፣ መሄድ፣ መተኛት) በአሁን ጊዜ መተግበር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዕለት ተዕለት ተግባራት እና የተለመዱ ግሶች:\n\n፩. ቁልፍ የዕለት ተዕለት ግሶች:\n- «መነሳት»: በጠዋት እነሳለሁ\n- «መብላት»: ቁርስ እበላለሁ\n- «መጠጣት»: ቡና እጠጣለሁ፣ ውኃ ትጠጣለች\n- «መሥራት»: ሥራ እሠራለሁ\n- «መሄድ»: ወደ ሥራ ይሄዳል\n- «መመለስ»: ወደ ቤት እንመለሳለን\n- «መተኛት»: በምሽት እተኛለሁ።\n\n፪. የዕለት ተዕለት የጊዜ አገባቦች:\n- «በጠዋት» (In the morning)\n- «በቀትር» ወይም «በምሳ ሰዓት» (At lunchtime)\n- «ከሰዓት በኋላ» (In the afternoon)\n- «በምሽት» ወይም «በማታ» (In the evening/at night)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)' to the students."
+          "target": "እኔ ሁልጊዜ ጠዋት በሁለት ሰዓት እነሳለሁ፣ ቁርስ እበላለሁ፣ ከዚያም ቡና እጠጣለሁ።",
+          "reading": "Əne huləggize t’äwat bähulätt sä'at ənäsallähu, qurs əbälallähu, käzziyam bunna ət’ät’t’allähu. [ɨˈne hulɨɡːiˈze tʼɨˈwat bɨhuˈlɛtː sɨˈʔat ɨnɛsaˈlːɨhu kʼurs ɨbɛlaˈlːɨhu kɛzːiˈjam bunːa ɨtʼɛtʼːaˈlːɨhu] (uh-NAY hoo-lug-GEE-zay t'uh-WAHT buh-hoo-LET suh-AHT uh-neh-SAHL-luh-hoo, k'oors uh-beh-LAHL-luh-hoo, kez-zee-YAHM boon-NAH uh-t'et'-t'AHL-luh-hoo)",
+          "translation": "I always wake up at 8:00 AM in the morning, eat breakfast, and then drink coffee."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አባቴ ጠዋት ወደ ሥራ ይሄዳል፣ ማታ ደግሞ ወደ ቤት ይመለሳል።",
+          "reading": "Abbate t’äwat wädä səra yəhedall, mata dägmo wädä bet yəmmälläsall. [abːaˈte tʼɨˈwat wɛdɛ sɨˈra jɨheˈdalː maˈta dɛɡˈmo wɛdɛ bet jɨmːɛlːɛˈsalː] (ahb-bah-TAY t'uh-WAHT weh-DEH suh-RAH yuh-hay-DAHL, mah-TAH deg-MOH weh-DEH bayt yuhm-mel-leh-SAHL)",
+          "translation": "My father goes to work in the morning and returns home at night."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እናት እና ልጆቷ ከሰዓት በኋላ ጣፋጭ ምሳ ያበስላሉ።",
+          "reading": "Ənnat ənna ləjoččwa käsä'at bähwala t’afac’ məsa yabäsəlalu. [ɨnːat ɨnːa lɨdʒoˈtʃːwa kɛsɨˈʔat bɛhʷaˈla tʼaˈfatʃʼ mɨˈsa jabɨsɨˈlalu] (un-NAHT un-nah luh-johch-WAH keh-suh-AHT beh-HWAH-lah t'ah-FAHCH muh-SAH yah-buh-suh-LAH-loo)",
+          "translation": "The mother and her children cook a delicious lunch in the afternoon."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Routine order: እነሳለሁ (wake up) -> እበላለሁ (eat) -> እሠራለሁ (work) -> እመለሳለሁ (return) -> እተኛለሁ (sleep)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ የቡና ስነ-ስርዓት (Coffee Ceremony) የጠዋትና የከሰዓት ማህበራዊ ግንኙነት ዋና መገለጫ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ቁርስ እበላለሁ» በሚለው አረፍተ ነገር ውስጥ «እበላለሁ» የሚለው ቃል ትርጉም ምንድን ነው?",
           "options": [
-            "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (4.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (4.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (4.2.w3)"
+            "እኔ እበላለሁ / I eat (Correct first-person singular verb of መብላት)",
+            "እሱ ይበላል",
+            "እሷ ትጠጣለች",
+            "እኛ እንሄዳለን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እበላለሁ» ከ«መብላት» ግስ የወጣ የአንደኛ መደብ ነጠላ የአሁን ጊዜ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u4-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ለአንድ ወንድ 'ወደ ሥራ ትሄዳለህ?' ብሎ ለመጠየቅ ትክክለኛው አገላለጽ የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (4.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (4.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (4.2.x3)"
+            "ወደ ሥራ ትሄዳለህ? (Do you go to work? [to male] - Correct masculine routine question)",
+            "ወደ ሥራ እሄዳለሁ?",
+            "ወደ ሥራ ይሄዳሉ?",
+            "ወደ ሥራ ትሄጃለሽ?"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (4.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (4.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (4.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለአንድ ወንድ «ትሄዳለህ?» ተብሎ ይጠየቃል።"
         }
       ]
     },
@@ -2036,24 +1989,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 4-2):",
+          "prompt": "የዕለት ተዕለት ተግባራትን ቅደም ተከተል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (4.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (4.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (4.2.z3)"
+            "በጠዋት እነሳለሁ፣ ቁርስ እበላለሁ፣ ወደ ሥራ እሄዳለሁ፣ ማታ እተኛለሁ።",
+            "ማታ እነሳለሁ፣ በጠዋት እተኛለሁ፣ ወደ ቤት እሄዳለሁ።",
+            "ቁርስ እተኛለሁ፣ ሥራ እጠጣለሁ።",
+            "በአማርኛ የዕለት ተግባራት አይገለጹም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የዕለት ተዕለት ተግባራት ቅደም ተከተልና ግሶች ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u4-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ቀላል»):",
+          "prompt": "'እበላለሁ / I eat' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ቀላል",
-            "ቀላል"
+            "እበላለሁ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ቀላል» ነው።"
+          "explanation": "ትክክለኛው ቃል «እበላለሁ» (Əbälallähu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2064,85 +2016,62 @@
     "subject": "amharic",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (ክፍል 3)",
+    "title": "የጊዜ አመልካች ቃላት እና ድግግሞሽ (Adverbs of Time & Frequency)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአሁን እና የልማዳዊ ጊዜ የግስ እርባታ፣ ባለቤትና ማሰሪያ አንቀጽ ማዛመድ። (ክፍል 3)።",
+    "objective": "የድግግሞሽ እና የጊዜ ተውሳከ-ግሶችን (ሁልጊዜ፣ በየቀኑ፣ አንዳንዴ/አልፎ አልፎ፣ ዛሬ፣ ነገ፣ አሁን) ከአሁን ጊዜ ግሶች ጋር አቀናጅቶ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የጊዜ እና የድግግሞሽ አመልካች ቃላት:\n\n፩. የድግግሞሽ ቃላት:\n- «ሁልጊዜ»: ሁልጊዜ ጠዋት እጸልያለሁ\n- «በየቀኑ»: በየቀኑ ስፖርት እሠራለሁ\n- «አንዳንዴ» ወይም «አልፎ አልፎ»: አንዳንዴ ሻይ እጠጣለሁ\n- «በጭራሽ» (ከአሉታዊ ግስ ጋር): በጭራሽ አልዋሽም።\n\n፪. የጊዜ ተውሳከ-ግሶች:\n- «ዛሬ»: ዛሬ ብዙ ሥራ አለብኝ\n- «ነገ»: ነገ ወደ ገበያ እንሄዳለን\n- «አሁን»: አሁን ትምህርት እንጀምራለን\n- «ትላንት»።\n\n፫. በአረፍተ ነገር ውስጥ ያለው ቦታ:\n- በአማርኛ የጊዜና የድግግሞሽ ቃላት አብዛኛውን ጊዜ ከባለቤቱ ቀጥሎ ወይም በዓረፍተ ነገሩ መጀመሪያ ላይ ይመጣሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)' to the students."
+          "target": "እኔ በየቀኑ ጠዋት የአካል ብቃት እንቅስቃሴ አደርጋለሁ።",
+          "reading": "Əne bäyyäqänu t’äwat yä'akal bəqat ənqəsəqqase adärgallähu. [ɨˈne bɛjːɛkʼɛˈnu tʼɨˈwat jɛʔaˈkal bɨˈkʼat ɨnkʼɨsɨkʼːaˈse adɛrˈɡalːɨhu] (uh-NAY beh-yeh-k'eh-NOO t'uh-WAHT yeh-ah-KAHL buh-K'AHT un-k'uh-suk'-KAH-say ah-der-GAHL-luh-hoo)",
+          "translation": "I do physical exercise every day in the morning."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኛ ሁልጊዜ ቅዳሜና እሁድ ቤተሰቦቻችንን እንጠይቃለን።",
+          "reading": "Əngya huləggize qədamenna əhud betäsäbočaččənən ənnət’äyyəqallän. [ɨɲa hulɨɡːiˈze kʼɨdaˈmenːa ɨˈhud betɛsɨboˈtʃatʃːɨnɨn ɨnːɨtʼɛjːɨˈkʼalːɛn] (un-NYAH hoo-lug-GEE-zay k'uh-dah-MAYN-nah uh-HOOD bay-tuh-sub-oh-chahch-CHUN-un un-nuh-t'ey-yuh-K'AHL-len)",
+          "translation": "We always visit our families on Saturday and Sunday."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ዛሬ ትምህርት አለን፣ ነገ ግን ዕረፍት እንወስዳለን።",
+          "reading": "Zare təməhərt allän, nägä gən əräft ənnəwäsədallän. [zaˈre tɨmˈhɨrt alːɛn nɛˈɡɛ ɡɨn ɨrɛfˈt ɨnːɨwɛsɨˈdalːɛn] (zah-RAY tum-HURT ahl-LEN, neh-GEH gun uh-REF-t un-nuh-weh-suh-DAHL-len)",
+          "translation": "Today we have class, but tomorrow we will take a rest."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Time words: ሁልጊዜ (always), በየቀኑ (daily), አንዳንዴ (sometimes), ዛሬ (today), ነገ (tomorrow), አሁን (now)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የቀን አቆጣጠር የሳምንቱ ቀናት (ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ አርብ፣ ቅዳሜ፣ እሁድ) ማህበራዊና ሃይማኖታዊ ፋይዳ አላቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«በየቀኑ» (Every day) የሚለው ቃል በአረፍተ ነገር ውስጥ የሚያሳየው ምንን ነው?",
           "options": [
-            "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (4.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (4.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (4.3.w3)"
+            "የድርጊትን የዕለት ተዕለት ድግግሞሽ (Daily frequency of an action - Correct meaning of በየቀኑ)",
+            "ያለፈን ጊዜ ብቻ",
+            "የቦታ ርቀትን",
+            "የስም ጾታን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በየቀኑ» የድርጊትን የየቀን ድግግሞሽ ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u4-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Tomorrow we will study together' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (4.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (4.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (4.3.x3)"
+            "ነገ አብረን እንማራለን። (Tomorrow we study together - Correct adverb + verb)",
+            "ትላንት አብረን እንማራለን።",
+            "አሁን ብቻ ተማርን።",
+            "በጭራሽ አንማርም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (4.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (4.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (4.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ነገ» (Tomorrow) ከወደፊት/አሁን ጊዜ ግስ «እንማራለን» ጋር በትክክል ይጣመራል።"
         }
       ]
     },
@@ -2150,24 +2079,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 4-3):",
+          "prompt": "የጊዜና የድግግሞሽ አመልካች ቃላትን ትክክለኛ ትርጉም ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (4.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (4.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (4.3.z3)"
+            "ሁልጊዜ (Always)፣ በየቀኑ (Every day)፣ ዛሬ (Today)፣ ነገ (Tomorrow)፣ አሁን (Now)።",
+            "ሁልጊዜ (Never)፣ ዛሬ (Yesterday)።",
+            "ነገ (Today)፣ አሁን (Tomorrow)።",
+            "በየቀኑ (Once a year)።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የቃላት ፍቺ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u4-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ቀላል»):",
+          "prompt": "'ሁልጊዜ / Always' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ቀላል",
-            "ቀላል"
+            "ሁልጊዜ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ቀላል» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሁልጊዜ» (Huləggize) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2178,85 +2106,62 @@
     "subject": "amharic",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (ክፍል 4)",
+    "title": "የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present Tense: አል- ... -ም / አይ- ... -ም)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአሁን እና የልማዳዊ ጊዜ የግስ እርባታ፣ ባለቤትና ማሰሪያ አንቀጽ ማዛመድ። (ክፍል 4)።",
+    "objective": "የአሁን እና የልማዳዊ ጊዜ ግሶችን በአሉታዊ ቅጥያዎች (አል- ... -ም / አይ- ... -ም / አት- ... -ም / አን- ... -ም) ማርባት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአሁን ጊዜ አሉታዊ የግስ እርባታ:\n\nበአማርኛ ቋንቋ የአሁን ጊዜን ወደ አሉታዊ ለመቀየር በግሱ መጀመሪያ ላይ «አል-/አ-/አት-/አይ-/አን-» እንዲሁም በመጨረሻ ላይ «-ም» ይገባል:\n\n፩. አሉታዊ የግስ እርባታ (ለምሳሌ «መብላት»):\n- «እኔ»: አል- ... -ም -> «አልበላም»\n- «አንተ»: አት- ... -ም -> «አትበላም»\n- «አንቺ»: አት- ... -ም -> «አትበዪም»\n- «እርስዎ»: አይ- ... -ም -> «አይበሉም»\n- «እሱ»: አይ- ... -ም -> «አይበላም»\n- «እሷ»: አት- ... -ም -> «አትበላም»\n- «እኛ»: አን- ... -ም -> «አንበላም»\n- «እናንተ»: አት- ... -ም -> «አትበሉም»\n- «እነሱ»: አይ- ... -ም -> «አይበሉም»።\n\n፪. ማስታወሻ:\n- በአሉታዊ አረፍተ ነገር ውስጥ የ«-አለሁ/-አለህ» ረዳት ቅጥያዎች ተወግደው «-ም» ይተካል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)' to the students."
+          "target": "እኔ ቡና አልጠጣም፣ ሻይ ግን እጠጣለሁ።",
+          "reading": "Əne bunna alt’ät’am, šay gən ət’ät’t’allähu. [ɨˈne bunːa altʼɛˈtʼam ʃaj ɡɨn ɨtʼɛtʼːaˈlːɨhu] (uh-NAY boon-NAH ahl-t'eh-T'AHM, shy gun uh-t'et'-t'AHL-luh-hoo)",
+          "translation": "I don't drink coffee, but I drink tea."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሱ ስጋ አይበላም፣ አትክልት ብቻ ይበላል።",
+          "reading": "Əssu səga aybälam, atkəlt bəčča yəbälall. [ɨsːu sɨˈɡa ajbɛˈlam atˈkɨlt bɨtʃːa jɨbɛˈlalː] (uhs-SOO suh-GAH eye-beh-LAHM, aht-KULT buhch-CHAH yuh-beh-LAHL)",
+          "translation": "He does not eat meat; he only eats vegetables."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኛ በክረምት ወራት ወደ ወንዝ አንሄድም።",
+          "reading": "Əngya bäkərremt wärat wädä wänz anhedəm. [ɨɲa bɨkɨrɛmˈt wɛˈrat wɛdɛ wɛnz anheˈdɨm] (un-NYAH buh-kuh-REMT weh-RAHT weh-DEH wenz ahn-hay-DUM)",
+          "translation": "We do not go to the river during the rainy season."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Negative Formula: አል- (I don't), አት- (you don't), አይ- (he doesn't), አን- (we don't) + VERB + -ም!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የጾም ወቅት የእንስሳት ተዋጽኦ (ስጋ፣ ወተት፣ ቅቤ) አይበላም፤ አትክልትና ጥራጥሬ ብቻ ይመገባሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«እኔ አልበላም» በሚለው አረፍተ ነገር ውስጥ አሉታዊነትን ያመጡት ቅጥያዎች የትኞቹ ናቸው?",
           "options": [
-            "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (4.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (4.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (4.4.w3)"
+            "«አል-» እና «-ም» (Negative prefix al- and suffix -m - Correct negation markers)",
+            "«እ-» እና «-አለሁ»",
+            "«ት-» እና «-አለች»",
+            "«ይ-» እና «-አል»"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ለአንደኛ መደብ አሉታዊ ቅጥያዎች «አል-» እና «-ም» (አልበላም) ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u4-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ለአንድ ወንድ 'You don't study' ለማለት ትክክለኛው አሉታዊ ግስ የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (4.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (4.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (4.4.x3)"
+            "አትማርም (You don't study [to male] - Correct masculine negative verb)",
+            "አልማርም",
+            "አይማርም",
+            "አንማርም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (4.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (4.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (4.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለአንተ «አት- ... -ም» (አትማርም) ይባላል።"
         }
       ]
     },
@@ -2264,24 +2169,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 4-4):",
+          "prompt": "የአሁን ጊዜ አሉታዊ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (4.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (4.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (4.4.z3)"
+            "እኔ አልጠጣም፣ እሱ አይጠጣም፣ እሷ አትጠጣም፣ እኛ አንጠጣም።",
+            "እኔ አይጠጣም፣ እሱ አልጠጣም።",
+            "እኛ አትጠጣም፣ እናንተ አንጠጣም።",
+            "በአማርኛ አሉታዊ ቅጥያ -ም የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን አሉታዊ የግስ እርባታ ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u4-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ቀላል»):",
+          "prompt": "'አልበላም / I do not eat' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ቀላል",
-            "ቀላል"
+            "አልበላም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ቀላል» ነው።"
+          "explanation": "ትክክለኛው ቃል «አልበላም» (Albälam) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -2292,85 +2196,62 @@
     "subject": "amharic",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (ክፍል 5)",
+    "title": "የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Synthesis & Daily Routine Discourse)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የአሁን እና የልማዳዊ ጊዜ የግስ እርባታ፣ ባለቤትና ማሰሪያ አንቀጽ ማዛመድ። (ክፍል 5)።",
+    "objective": "የአሁን ጊዜ አዎንታዊና አሉታዊ ግሶችን፣ የዕለት ተዕለት ተግባራትን እና የጊዜ ተውሳከ-ግሶችን በማቀናጀት የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፬ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. አዎንታዊ የአሁን ጊዜ እርባታ:\n- እኔ እሠራለሁ፣ አንተ ትሠራለህ፣ አንቺ ትሠሪያለሽ፣ እሱ ይሠራል፣ እሷ ትሠራለች፣ እኛ እንሠራለን፣ እናንተ ትሠራላችሁ፣ እነሱ ይሠራሉ።\n\n፪. አሉታዊ የአሁን ጊዜ እርባታ:\n- እኔ አልሠራም፣ አንተ አትሠራም፣ አንቺ አትሠሪም፣ እሱ አይሠራም፣ እሷ አትሠራም፣ እኛ አንሠራም፣ እናንተ አትሠሩም፣ እነሱ አይሠሩም።\n\n፫. የዕለት ተዕለት ተግባራት:\n- በጠዋት መነሳት፣ ቁርስ መብላት፣ ቡና መጠጣት፣ ወደ ሥራ መሄድ፣ መማር፣ ማታ መተኛት።\n\n፬. የጊዜ እና የድግግሞሽ ቃላት:\n- ሁልጊዜ፣ በየቀኑ፣ አንዳንዴ፣ ዛሬ፣ ነገ፣ አሁን።",
       "examples": [
         {
-          "target": "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)' to the students."
+          "target": "እኔ በየቀኑ ጠዋት በጊዜ እነሳለሁ፣ ሻይ እጠጣለሁ፣ ነገር ግን ቡና አልጠጣም።",
+          "reading": "Əne bäyyäqänu t’äwat bägize ənäsallähu, šay ət’ät’t’allähu, nägär gən bunna alt’ät’am. [ɨˈne bɛjːɛkʼɛˈnu tʼɨˈwat bɛɡiˈze ɨnɛsaˈlːɨhu ʃaj ɨtʼɛtʼːaˈlːɨhu nɛˈɡɛr ɡɨn bunːa altʼɛˈtʼam] (uh-NAY beh-yeh-k'eh-NOO t'uh-WAHT buh-gee-ZAY uh-neh-SAHL-luh-hoo, shy uh-t'et'-t'AHL-luh-hoo, neh-GER gun boon-NAH ahl-t'eh-T'AHM)",
+          "translation": "I wake up on time every morning and drink tea, but I do not drink coffee."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ተማሪዎቹ ዛሬ በትምህርት ቤት ውስጥ አዳዲስ ቃላትን ይማራሉ፣ አያረፍዱምም።",
+          "reading": "Tämariwočču zare bätəməhərt bet wəst’ addaddis qalatan yəmmaralu, ayaräfəduməm. [tɛmariwoˈtʃːu zaˈre bɨtɨmˈhɨrt bet wɨstʼ adːadˈdis kʼalaˈtɨn jɨmːaˈralu ajarɨfɨˈdumɨm] (teh-mah-ree-wohch-CHOO zah-RAY buh-tum-HURT bayt woos-T' ahd-dahd-DEES k'ah-lah-TUN yuhm-mah-RAH-loo, eye-ah-ruh-fuh-DOO-mum)",
+          "translation": "The students study new words in school today, and they are not late."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኛ ሁልጊዜ አብረን እንሠራለን፤ ሥራችንንም በደስታ እንጨርሳለን።",
+          "reading": "Əngya huləggize abrän ənnəśärallän; śəraččənənəm bädässəta ənnəč’ärrəsallän. [ɨɲa hulɨɡːiˈze abˈrɛn ɨnːɨsɨˈralːɛn sɨratʃːɨnɨˈnɨm bɛdɛsːɨˈta ɨnːɨtʃʼɛrːɨˈsalːɛn] (un-NYAH hoo-lug-GEE-zay ahb-REN un-nuh-suh-RAHL-len; suh-rahch-CHUN-un-num buh-des-suh-TAH un-nuh-ch'er-ruh-SAHL-len)",
+          "translation": "We always work together and finish our work with joy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Synthesis Checklist: Subject (እኔ/እኛ) + Adverb (በየቀኑ/ሁልጊዜ) + Positive Verb (እሠራለሁ) vs Negative Verb (አልሠራም)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ማህበረሰብ 'ሥራ ክብር ነው' በሚለው መርህ ጠንክሮ መሥራትንና የዕለት ተዕለት ተግባርን በታማኝነት ማከናወንን ያበረታታል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«እኔ ሻይ እጠጣለሁ፣ ነገር ግን ቡና አልጠጣም» በሚለው ዓረፍተ ነገር ውስጥ አዎንታዊ እና አሉታዊ ግሶቹ የትኞቹ ናቸው?",
           "options": [
-            "መምህሩ የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (4.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (4.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (4.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (4.5.w3)"
+            "«እጠጣለሁ» አዎንታዊ ሲሆን «አልጠጣም» አሉታዊ ነው (Correct identification of positive and negative verbs)",
+            "ሁለቱም አዎንታዊ ናቸው",
+            "ሁለቱም አሉታዊ ናቸው",
+            "ምንም ግስ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እጠጣለሁ» (I drink) አዎንታዊ ሲሆን «አልጠጣም» (I don't drink) አሉታዊ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u4-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ከሚከተሉት ውስጥ የዕለት ተዕለት ተግባርን፣ የጊዜ አመልካችን እና ትክክለኛ የግስ ስምምነትን ያሟላው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (4.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (4.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (4.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (4.5.x3)"
+            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን። (We go to school every day in the morning - Correct routine syntax)",
+            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እሄዳለሁ።",
+            "እሱ ሁልጊዜ ቁርስ አልበላም።",
+            "እነሱ ዛሬ ሥራ ይሠራሉ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (4.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (4.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (4.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (4.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን» ባለቤትና ማሰሪያ አንቀጹን በትክክል ያዛመደ ነው።"
         }
       ]
     },
@@ -2378,24 +2259,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 4-5):",
+          "prompt": "የክፍል 4ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (4.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (4.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (4.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (4.5.z3)"
+            "የአሁን ጊዜ ግሶች በአዎንታዊ (እ-...-አለሁ) እና በአሉታዊ (አል-...-ም) ይረባሉ፤ ከጊዜና ድግግሞሽ ቃላት ጋር ይጣመራሉ።",
+            "በአማርኛ ግሶች የአሁን ጊዜ የላቸውም።",
+            "አሉታዊ ለማድረግ ቃሉን መደጋገም ብቻ በቂ ነው።",
+            "ለብዙ ቁጥር እና ለነጠላ ቁጥር ግስ አንድ ዓይነት ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 4ን ሰዋሰዋዊ መዋቅር ሙሉ በሙሉ ያጠቃልላል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u4-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ቀላል»):",
+          "prompt": "'እንማራለን / We learn' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ቀላል",
-            "ቀላል"
+            "እንማራለን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ቀላል» ነው።"
+          "explanation": "ትክክለኛው ቃል «እንማራለን» (Ənnəmmarallän) ነው።"
         }
       ],
       "passThreshold": 0.8
