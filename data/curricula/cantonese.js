@@ -1305,53 +1305,62 @@
     "subject": "cantonese",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "數字、時間同日期 (Numbers, Time & Date) (第1課)",
+    "title": "基數一至十與入聲韻尾辨析 (Numbers 1-10 & Checked Tone Finals -p, -t, -k)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元3第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語基數一至十之標準發音，並深入辨析入聲塞音韻尾（-p, -t, -k）之唯閉不發音特徵。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語完整保留中古漢語入聲韻尾系統。基數一至十之語音結構充分展現入聲塞音唯閉音特徵：\n\n一、基數一至十發音序列：\n１．一（jat1）：陰入聲，以舌尖塞音 [-t̚] 收尾。\n２．二（ji6）：陽去聲，低平調。\n３．三（saam1）：陰平聲，雙唇鼻音 [-m] 閉唇收尾。\n４．四（sei3）：陰去聲，中平調。\n５．五（ng5）：陽上聲，鼻音獨立成音節。\n６．六（luk6）：陽入聲，以舌根塞音 [-k̚] 喉部收尾。\n７．七（cat1）：陰入聲，送氣塞擦音聲母配舌尖塞音 [-t̚] 收尾。\n８．八（baat3）：中入聲，長元音配舌尖塞音 [-t̚] 收尾。\n９．九（gau2）：陰上聲，高升調。\n１０．十（sap6）：陽入聲，以雙唇塞音 [-p̚] 緊閉雙唇收尾。\n\n二、入聲韻尾核心要領：\n粵語入聲韻尾 [-p̚]、[-t̚]、[-k̚] 均為「唯閉音」，即發音器官到位阻斷氣流後即刻停頓，絕不可爆破出聲。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 3 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 3 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 3 in communication."
+          "target": "一、二、三、四、五、六、七、八、九、十。",
+          "reading": "jat1, ji6, saam1, sei3, ng5, luk6, cat1, baat3, gau2, sap6. [jɐt̚˥, jiː˨, saːm˥, sei˧, ŋ̍˩˧, lʊk̚˨, tsʰɐt̚˥, paːt̚˧, kɐu˧˥, sɐp̚˨] (YUT, YEE, SAHM, SAY, NG, LOOK, CHUT, BAHT, GAU, SUP)",
+          "translation": "One, two, three, four, five, six, seven, eight, nine, ten."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元3-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢度一共有七位客人同八杯熱奶茶。",
+          "reading": "ni1 dou6 jat1 gung6 jau5 cat1 wai2 haak3 jan4 tung4 baat3 bui1 jit6 naai5 caa4. [niː˥ tou˨ jɐt̚˥ kʊŋ˨ jɐu˩˧ tsʰɐt̚˥ wɐi˧˥ haːk̚˧ jɐn˨˩ tʰʊŋ˨˩ paːt̚˧ puːi˥ jiːt̚˨ naːi˩˧ tsʰaː˨˩] (NEE-DOH YUT-GOONG YAU CHUT-WY HAHK-YUN TOONG BAHT-BOOY YEET NY-CHAH)",
+          "translation": "There are seven guests and eight cups of hot milk tea in total here."
+        },
+        {
+          "target": "我買咗六個蘋果同十個橙。",
+          "reading": "ngo5 maai5 zo2 luk6 go3 ping4 gwo2 tung4 sap6 go3 caang2. [ŋɔː˩˧ maːi˩˧ tsɔː˧˥ lʊk̚˨ kɔː˧ pʰɪŋ˨˩ kʷɔː˧˥ tʰʊŋ˨˩ sɐp̚˨ kɔː˧ tsʰaːŋ˧˥] (NGOH MY-JOR LOOK-GOH PING-GWOR TOONG SUP-GOH CHAHNG)",
+          "translation": "I bought six apples and ten oranges."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【入聲收尾法】讀「十」（sap6）時雙唇緊閉不開，讀「一」（jat1）、「七」（cat1）、「八」（baat3）時舌尖頂住上齒齦停住，讀「六」（luk6）時舌根頂住軟顎，短促有力！"
+      ],
+      "culturalNotes": [
+        "在香港傳統文化中，數字「八」（baat3）因與「發」（faat3，發財）諧音而極受喜愛；數字「三」（saam1）諧音「生」（生猛活力）；數字「四」（sei3）諧音「死」（sei2）則在樓層編號或車牌選擇時常被避忌。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"蝦餃\":",
+          "prompt": "【入聲辨析】以下邊一組數字在粵語中全部屬於入聲字（以 -p, -t, -k 收尾）？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：燒賣錯置）",
-            "混雜生硬詞彙之不規範語句（例項：叉燒包未適配）",
-            "聲調助詞搭配欠妥之表達（例項：腸粉誤用）"
+            "一 (jat1)、六 (luk6)、七 (cat1)、八 (baat3)、十 (sap6)",
+            "二 (ji6)、三 (saam1)、四 (sei3)、五 (ng5)、九 (gau2)",
+            "三 (saam1)、五 (ng5)、九 (gau2)",
+            "二 (ji6)、四 (sei3)、八 (baat3)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "一(-t)、六(-k)、七(-t)、八(-t)、十(-p) 均為入聲字。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"蝦餃\":",
+          "prompt": "【語音細節】粵語「十」（sap6）嘅韻尾屬於邊種入聲塞音？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：叉燒包未適配）",
-            "聲調助詞搭配欠妥之表達（例項：腸粉誤用）",
-            "語序顛倒嘅非標準句式（例項：燒賣錯置）"
+            "雙唇塞音 [-p̚]（發音結束時緊閉雙唇）",
+            "舌尖塞音 [-t̚]",
+            "舌根塞音 [-k̚]",
+            "雙唇鼻音 [-m]"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「十」（sap6）以雙唇閉塞音 [-p̚] 結尾。"
         }
       ]
     },
@@ -1359,15 +1368,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"蝦餃\": Which sentence is completely correct?",
+          "prompt": "【文化音韻】廣東人喜愛數字「八」（baat3），主要因為其發音與邊個吉祥詞語諧音？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：腸粉誤用）",
-            "語序顛倒嘅非標準句式（例項：燒賣錯置）",
-            "混雜生硬詞彙之不規範語句（例項：叉燒包未適配）"
+            "發（faat3，發財富貴）",
+            "生（saang1，生生不息）",
+            "福（fuk1，幸福安康）",
+            "吉（gat1，大吉大利）"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「八」（baat3）與「發」（faat3）同韻且音近，象徵發財興旺。"
         }
       ],
       "passThreshold": 0.8
@@ -1378,53 +1387,62 @@
     "subject": "cantonese",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "數字、時間同日期 (Numbers, Time & Date) (第2課)",
+    "title": "百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thousands & ji6 vs loeng5)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元3第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握百、千、萬之大數表達，並嚴格掌握量詞前使用「兩」（loeng5）而非「二」（ji6）之語法規範。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語在較大數詞系統及量詞修飾搭配上有嚴格語法分工：\n\n一、數級單位：\n１．十（sap6）、百（baak3）、千（cin1）、萬（maan6）。\n２．特殊合音字：廿（jaa6，二十）、卅（saa1，三十）。例如「廿蚊」（二十元）、「卅歲」（三十歲）。\n\n二、「二」（ji6）與「兩」（loeng5）之核心區別：\n１．基數報數、序數及複合數尾數用「二」：如「一二三」、「第二個」、「十二」、「廿二」。\n２．量詞前面修飾名詞必須用「兩」：如「兩個人」（兩個人）、「兩部車」（兩輛車）、「兩杯水」（兩杯水），絕對不可說成「*二個人」。\n３．百、千、萬數詞單位前通常用「兩」：如「兩百」（二百）、「兩千」（二千）、「兩萬」（二萬）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 3 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 3 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 3 in communication."
+          "target": "呢件外套標價八百八十蚊，抵唔抵買呀？",
+          "reading": "ni1 gin6 ngoi6 tou3 biu1 gaa3 baat3 baak3 baat3 sap6 man1, dai2 m4 dai2 maai5 aa3? [niː˥ kiːn˨ ŋɔːi˨ tʰou˧ piːu˥ kaː˧ paːt̚˧ paːk̚˧ paːt̚˧ sɐp̚˨ mɐn˥, tɐi˧˥ m̩˨˩ tɐi˧˥ maːi˩˧ aː˧] (NEE-GEEN NGOI-TOE BEW-GAH BAHT-BAHK BAHT-SUP MUN, DY M-DY MY AH?)",
+          "translation": "This coat is marked at 880 dollars, is it worth buying?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元3-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我哋兩個人一共叫咗三籠點心同兩碗粥。",
+          "reading": "ngo5 dei6 loeng5 go3 jan4 jat1 gung6 giu3 zo2 saam1 lung4 dim2 sam1 tung4 loeng5 wun2 zuk1. [ŋɔː˩˧ tei˨ lœːŋ˩˧ kɔː˧ jɐn˨˩ jɐt̚˥ kʊŋ˨ kiːu˧ tsɔː˧˥ saːm˥ lʊŋ˨˩ tiːm˧˥ sɐm˥ tʰʊŋ˨˩ lœːŋ˩˧ wuːn˧˥ tsʊk̚˥] (NGOH-DAY LEUNG-GOH YUN YUT-GOONG GEW-JOR SAHM-LOONG DEEM-SUM TOONG LEUNG-WOON JOOK)",
+          "translation": "The two of us ordered three baskets of dim sum and two bowls of congee in total."
+        },
+        {
+          "target": "佢每個月人工有兩萬幾蚊。",
+          "reading": "keoi5 mui5 go3 jyut6 jan4 gung1 jau5 loeng5 maan6 gei2 man1. [kʰɵy˩˧ muːi˩˧ kɔː˧ jyːt̚˨ jɐn˨˩ kʊŋ˥ jɐu˩˧ lœːŋ˩˧ maːn˨ kei˧˥ mɐn˥] (KUY MOOY-GOH YEET YUN-GOONG YAU LEUNG-MAHN-GAY MUN)",
+          "translation": "His/her monthly salary is over twenty thousand dollars."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【搭配口訣】量詞當前「兩」字立，百千萬前「兩」相宜；報數排位方用「二」，分工嚴明莫混疑！"
+      ],
+      "culturalNotes": [
+        "在香港日常口語中，貨幣單位「元」習慣講成「蚊」（man1）。例如「十蚊」（十元）、「一百蚊」（一百元）、「一千蚊」（一千元），極具地道市井特色。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"燒賣\":",
+          "prompt": "【量詞搭配】欲表達「兩位朋友」，正確之粵語詞組係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：叉燒包錯置）",
-            "混雜生硬詞彙之不規範語句（例項：腸粉未適配）",
-            "聲調助詞搭配欠妥之表達（例項：春卷誤用）"
+            "兩位朋友 (loeng5 wai2 pang4 jau5)",
+            "二位朋友 (ji6 wai2 pang4 jau5)",
+            "雙位朋友 (soeng1 wai2 pang4 jau5)",
+            "個位朋友 (go3 wai2 pang4 jau5)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "量詞前表示數量「二」必須使用「兩」（loeng5）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"燒賣\":",
+          "prompt": "【口語縮合】粵語日常生活中「廿蚊」所代表之具體金額係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：腸粉未適配）",
-            "聲調助詞搭配欠妥之表達（例項：春卷誤用）",
-            "語序顛倒嘅非標準句式（例項：叉燒包錯置）"
+            "二十元",
+            "十二元",
+            "二百元",
+            "兩千元"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「廿」（jaa6）係「二十」之合音字，「廿蚊」即二十元。"
         }
       ]
     },
@@ -1432,15 +1450,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"燒賣\": Which sentence is completely correct?",
+          "prompt": "【語法判斷】以下邊句句子在「二」與「兩」之使用上完全合乎粵語語法規範？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：春卷誤用）",
-            "語序顛倒嘅非標準句式（例項：叉燒包錯置）",
-            "混雜生硬詞彙之不規範語句（例項：腸粉未適配）"
+            "我今日喺書店買咗兩本書同兩支筆。",
+            "我今日喺書店買咗二本書同二支筆。",
+            "呢架巴士係第二兩架。",
+            "我有二個阿哥。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "修飾量詞「本」、「支」必須使用「兩」（兩本書、兩支筆）。"
         }
       ],
       "passThreshold": 0.8
@@ -1451,53 +1469,62 @@
     "subject": "cantonese",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "數字、時間同日期 (Numbers, Time & Date) (第3課)",
+    "title": "鐘點表達：「點」、「個字」與「半」 (Telling Time: dim2, go3 zi6, bun3)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元3第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語鐘點系統，熟練運用「點」（小時）、「個字」（五分鐘單位）及「半」（三十分鐘）精確報時。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話之時間報時系統極具地域特色，其中以「字」計分之傳統源遠流長：\n\n一、核心時間單位：\n１．「點」（dim2）：小時/點鐘。如「三點」（三點鐘）。\n２．「半」（bun3）：半小時/三十分鐘。如「三點半」（3:30）。\n３．「個字」（go3 zi6）：以鐘錶錶盤上之 1 至 12 數字為基準，指針每走過一個大格（5分鐘）即為「一個字」：\n   - 「一個字」＝ 5分鐘（如三點一個字 ＝ 3:05）\n   - 「兩個字」＝ 10分鐘（如三點兩個字 ＝ 3:10）\n   - 「三個字」＝ 15分鐘（如三點三個字 ＝ 3:15 / 一刻鐘）\n   - 「九個字」＝ 45分鐘（如三點九個字 ＝ 3:45 / 三刻鐘）\n\n二、差時表達：\n「差」（caa1）表相欠。如「差一個字四點」（3:55，差五分鐘到四點）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 3 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 3 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 3 in communication."
+          "target": "依家幾多點呀？依家係下晝三點三個字。",
+          "reading": "ji1 gaa1 gei2 do1 dim2 aa3? ji1 gaa1 hai6 haa6 zau3 saam1 dim2 saam1 go3 zi6. [jiː˥ kaː˥ kei˧˥ tɔː˥ tiːm˧˥ aː˧? jiː˥ kaː˥ hɐi˨ haː˨ tsɐu˧ saːm˥ tiːm˧˥ saːm˥ kɔː˧ tsiː˨] (YEE-GAH GAY-DOH DEEM AH? YEE-GAH HY HAH-JAU SAHM-DEEM SAHM-GOH-JEE)",
+          "translation": "What time is it now? It is now 3:15 in the afternoon."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元3-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我哋約咗聽朝十點半喺地鐵站大堂等。",
+          "reading": "ngo5 dei6 joek3 zo2 ting1 ziu1 sap6 dim2 bun3 hai2 dei6 tit3 zaam6 daai6 tong4 dang2. [ŋɔː˩˧ tei˨ jœːk˧ tsɔː˧˥ tʰɪŋ˥ tsiːu˥ sɐp̚˨ tiːm˧˥ puːn˧ hɐi˩˧ tei˨ tʰiːt̚˧ tsaːm˨ taːi˨ tʰɔːŋ˨˩ tɐŋ˧˥] (NGOH-DAY YEUK-JOR TING-JEW SUP-DEEM-BOON HY DAY-TEET JAHM DY-TONG DUNG)",
+          "translation": "We agreed to wait in the MTR station concourse at 10:30 tomorrow morning."
+        },
+        {
+          "target": "仲有差兩個字就到六點，大家準備收工啦。",
+          "reading": "zung6 jau5 caa1 loeng5 go3 zi6 zau6 dou3 luk6 dim2, daai6 gaa1 zeon2 bei6 sau1 gung1 laa1. [tsʊŋ˨ jɐu˩˧ tsʰaː˥ lœːŋ˩˧ kɔː˧ tsiː˨ tsɐu˨ tou˧ lʊk̚˨ tiːm˧˥, taːi˨ kaː˥ tsɵn˧˥ pei˨ sɐu˥ kʊŋ˥ laː˥] (JOONG-YAU CHAH LEUNG-GOH-JEE JAU-DOH LOOK-DEEM, DY-GAH JUEN-BAY SAU-GOONG LAH)",
+          "translation": "There are still ten minutes until six o'clock, everyone get ready to finish work."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【錶盤記憶法】鐘錶錶盤數字一至十二，指針每行一格即「一個字」（五分鐘）；三格十五分即「三個字」，六格三十分即「半」！"
+      ],
+      "culturalNotes": [
+        "在香港街頭詢問時間，最道地問法係「唔該請問依家幾點？」（m4 goi1 cing2 man6 ji1 gaa1 gei2 dim2?）。在商務會議或日程安排中，「三個字」（15分鐘）同「九個字」（45分鐘）使用頻率極高。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"叉燒包\":",
+          "prompt": "【時間換算】粵語「四點三個字」所對應之精確時間係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：腸粉錯置）",
-            "混雜生硬詞彙之不規範語句（例項：春卷未適配）",
-            "聲調助詞搭配欠妥之表達（例項：蛋撻誤用）"
+            "4:15",
+            "4:03",
+            "4:30",
+            "4:45"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「三個字」代表錶盤數字 3，即 3 × 5 ＝ 15 分鐘，故為 4:15。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"叉燒包\":",
+          "prompt": "【時間表達】欲表達「差十分鐘到八點」（即 7:50），最道地之粵語句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：春卷未適配）",
-            "聲調助詞搭配欠妥之表達（例項：蛋撻誤用）",
-            "語序顛倒嘅非標準句式（例項：腸粉錯置）"
+            "差兩個字八點 (caa1 loeng5 go3 zi6 baat3 dim2)",
+            "差十分鐘八點",
+            "八點差兩個字",
+            "八點過兩個字"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「差兩個字八點」係表示 7:50 最地道之粵語說法。"
         }
       ]
     },
@@ -1505,15 +1532,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"叉燒包\": Which sentence is completely correct?",
+          "prompt": "【生活問答】當對方回答「依家兩點九個字」時，錶盤上之時間係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：蛋撻誤用）",
-            "語序顛倒嘅非標準句式（例項：腸粉錯置）",
-            "混雜生硬詞彙之不規範語句（例項：春卷未適配）"
+            "2:45",
+            "2:09",
+            "2:15",
+            "2:30"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「九個字」對應 9 × 5 ＝ 45 分鐘，故為 2:45。"
         }
       ],
       "passThreshold": 0.8
@@ -1524,53 +1551,62 @@
     "subject": "cantonese",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "數字、時間同日期 (Numbers, Time & Date) (第4課)",
+    "title": "星期、月份與今日/聽日/琴日 (Days of the Week, Months & Time Adverbs)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元3第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話之日期與時間座標體系結構完整，兼具傳統與現代口語特徵：\n\n一、星期表達系統：\n１．「星期」系統：星期一至星期六，星期日（sing1 kei4 jat6）。\n２．「禮拜」系統（口語更為地道常用）：禮拜一至禮拜六，禮拜日（lai5 baai3 jat6）或禮拜天。\n\n二、日期時間座標詞：\n１．「今日」（gam1 jat6）：今天。\n２．「聽日」（ting1 jat6）：明天；「聽朝」（ting1 ziu1）：明早。\n３．「琴日」或「尋日」（kam4 jat6 / cam4 jat6）：昨天；「琴晚」（kam4 maan5）：昨晚。\n４．「後日」（hau6 jat6）：後天；「前日」（cin4 jat6）：前天。\n\n三、月份與日期：\n１．月份：一月（jat1 jyut6）至十二月（sap6 ji6 jyut6）。\n２．日/號：口語多用「號」（hou6），如「五月八號」（五月八日）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 3 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 3 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 3 in communication."
+          "target": "今日係星期三，聽日下晝我有個重要會議。",
+          "reading": "gam1 jat6 hai6 sing1 kei4 saam1, ting1 jat6 haa6 zau3 ngo5 jau5 go3 zung6 jiu3 wui6 ji5. [kɐm˥ jɐt̚˨ hɐi˨ sɪŋ˥ kʰei˨˩ saːm˥, tʰɪŋ˥ jɐt̚˨ haː˨ tsɐu˧ ŋɔː˩˧ jɐu˩˧ kɔː˧ tsʊŋ˨ jiu˧ wuːi˨ jiː˩˧] (GUM-YUT HY SING-KAY-SAHM, TING-YUT HAH-JAU NGOH YAU-GOH JOONG-YEW WOOEY-YEE)",
+          "translation": "Today is Wednesday; I have an important meeting tomorrow afternoon."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元3-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我哋每個禮拜日都去茶樓飲茶食點心。",
+          "reading": "ngo5 dei6 mui5 go3 lai5 baai3 jat6 dou1 heoi3 caa4 lau4 jam2 caa4 sik6 dim2 sam1. [ŋɔː˩˧ tei˨ muːi˩˧ kɔː˧ lɐi˩˧ paːi˧ jɐt̚˨ tou˥ hɵy˧ tsʰaː˨˩ lɐu˨˩ jɐm˧˥ tsʰaː˨˩ sɪk̚˨ tiːm˧˥ sɐm˥] (NGOH-DAY MOOY-GOH LY-BY-YUT DOH HOY CHAH-LAU YUM-CHAH SIK DEEM-SUM)",
+          "translation": "We go to the teahouse to drink tea and eat dim sum every Sunday."
+        },
+        {
+          "target": "琴晚落咗成晚大雨，今日天氣好涼爽。",
+          "reading": "kam4 maan5 lok6 zo2 seng4 maan5 daai6 jyu5, gam1 jat6 tin1 hei3 hou2 loeng4 song2. [kʰɐm˨˩ maːn˩˧ lɔːk˨ tsɔː˧˥ sɛːŋ˨˩ maːn˩˧ taːi˨ jyː˩˧, kɐm˥ jɐt̚˨ tʰiːn˥ hei˧ hou˧˥ lœːŋ˨˩ sɔːŋ˧˥] (KUM-MAHN LOK-JOR SENG-MAHN DY-YOO, GUM-YUT TEEN-HAY HOH LEUNG-SONG)",
+          "translation": "It rained heavily all night last night; today's weather is very cool."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【時間鏈條記】琴日（昨天）已過去，今日（今天）在手中，聽日（明天）展希望；禮拜今日歡聚時！"
+      ],
+      "culturalNotes": [
+        "在香港社會，約定聚會或詢問行程時，「禮拜」（lai5 baai3）與「星期」（sing1 kei4）完全等價互通，例如「呢個禮拜六」即「這個星期六」，口語極具人情味。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"腸粉\":",
+          "prompt": "【詞彙對應】粵語口語中「聽日」（ting1 jat6）所指之時間係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：春卷錯置）",
-            "混雜生硬詞彙之不規範語句（例項：蛋撻未適配）",
-            "聲調助詞搭配欠妥之表達（例項：菠蘿油誤用）"
+            "明天",
+            "昨天",
+            "今天",
+            "後天"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「聽日」（ting1 jat6）即現代標準漢語之「明天」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"腸粉\":",
+          "prompt": "【日常對話】「琴晚」（kam4 maan5）在粵語中表達之真實時間係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：蛋撻未適配）",
-            "聲調助詞搭配欠妥之表達（例項：菠蘿油誤用）",
-            "語序顛倒嘅非標準句式（例項：春卷錯置）"
+            "昨晚",
+            "今晚",
+            "明晚",
+            "後晚"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「琴晚 / 尋晚」（kam4 maan5）即「昨晚 / 昨天晚上」。"
         }
       ]
     },
@@ -1578,15 +1614,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"腸粉\": Which sentence is completely correct?",
+          "prompt": "【語境應用】同事問「你禮拜日有冇空？」，其中「禮拜日」意指：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：菠蘿油誤用）",
-            "語序顛倒嘅非標準句式（例項：春卷錯置）",
-            "混雜生硬詞彙之不規範語句（例項：蛋撻未適配）"
+            "星期日",
+            "星期一",
+            "星期六",
+            "工作日"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「禮拜日」（lai5 baai3 jat6）即星期日。"
         }
       ],
       "passThreshold": 0.8
@@ -1597,53 +1633,62 @@
     "subject": "cantonese",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "數字、時間同日期 (Numbers, Time & Date) (第5課)",
+    "title": "約定時間與會面句式 (Making Appointments & Scheduling)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元3第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "靈活運用「約喺...」、「幾點見」以及「得唔得閒」等高頻句式進行商務與社交約定。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在廣東話社交與商務溝通中，精確禮貌約定時間地點係極為關鍵之實用技能：\n\n一、核心預約句式：\n１．詢問空閒：「你聽日下晝得唔得閒呀？」（你明天下午有空嗎？）\n２．商議時間：「我哋幾點見面好呀？」（我們幾點見面好呢？）\n３．指定時間地點：「我哋約喺聽朝十點中環地鐵站出口見啦。」（我們約在明早十點中環地鐵站出口見吧。）\n\n二、確認與變更約定：\n１．確認約定：「好呀，咁就一言為定啦！」（好啊，那就說定了！）\n２．改期禮貌用語：「真係唔好意思，我聽日有啲事，可唔可以改去後日呀？」（真的很不好意思，我明天有點事，能不能改到後天呢？）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 3 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 3 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 3 in communication."
+          "target": "陳先生，請問你聽日下晝兩點半得唔得閒開個短會？",
+          "reading": "can4 sin1 saang1, cing2 man6 nei5 ting1 jat6 haa6 zau3 loeng5 dim2 bun3 dak1 m4 dak1 haan4 hoi1 go3 dyun2 wui6? [tsʰɐn˨˩ siːn˥ saːŋ˥, tsʰɪŋ˧˥ mɐn˨ nei˩˧ tʰɪŋ˥ jɐt̚˨ haː˨ tsɐu˧ lœːŋ˩˧ tiːm˧˥ puːn˧ tɐk̚˥ m̩˨˩ tɐk̚˥ haːn˨˩ hɔːi˥ kɔː˧ tyːn˧˥ wuːi˨] (CHUN SEEN-SAHNG, CHING-MUN NAY TING-YUT HAH-JAU LEUNG-DEEM-BOON DUK M-DUK-HAHN HOY-GOH DUEN-WOOEY?)",
+          "translation": "Mr. Chan, are you free tomorrow afternoon at 2:30 to have a short meeting?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元3-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "好呀，無問題，我哋到時見！",
+          "reading": "hou2 aa3, mou4 man6 tai4, ngo5 dei6 dou3 si4 gin3! [hou˧˥ aː˧, mou˨˩ mɐn˨ tʰɐi˨˩, ŋɔː˩˧ tei˨ tou˧ siː˨˩ kiːn˧] (HOH AH, MOU MUN-TY, NGOH-DAY DOH-SEE GEEN!)",
+          "translation": "Great, no problem, see you then!"
+        },
+        {
+          "target": "咁我哋就一言為定，禮拜五下晝四點見啦。",
+          "reading": "gam2 ngo5 dei6 zau6 jat1 jin4 wai4 ding6, lai5 baai3 ng5 haa6 zau3 sei3 dim2 gin3 laa1. [kɐm˧˥ ŋɔː˩˧ tei˨ tsɐu˨ jɐt̚˥ jiːn˨˩ wɐi˨˩ tɪŋ˨, lɐi˩˧ paːi˧ ŋ̍˩˧ haː˨ tsɐu˧ sei˧ tiːm˧˥ kiːn˧ laː˥] (GUM NGOH-DAY JAU YUT-YEEN-WY-DING, LY-BY-NG HAH-JAU SAY-DEEM GEEN LAH)",
+          "translation": "Then it is a deal; see you Friday afternoon at four o'clock."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【預約三部曲】先問「得唔得閒」（是否有空），再定「幾點邊度」（時間地點），最後「一言為定」（敲定約會）！"
+      ],
+      "culturalNotes": [
+        "香港節奏緊湊，約定會面講求守時（準時 zeon2 si4）。若因交通延誤，宜提前致電或發訊息告知對方「唔好意思，塞緊車，我大概遲兩個字到」（不好意思，堵車中，我大約遲到十分鐘），展現專業教養。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"春卷\":",
+          "prompt": "【商務約定】欲禮貌詢問合作方「您明天上午是否有空」，最得體之粵語句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：蛋撻錯置）",
-            "混雜生硬詞彙之不規範語句（例項：菠蘿油未適配）",
-            "聲調助詞搭配欠妥之表達（例項：凍檸茶誤用）"
+            "請問你聽朝得唔得閒？ (cing2 man6 nei5 ting1 ziu1 dak1 m4 dak1 haan4?)",
+            "你聽朝做乜嘢？",
+            "你聽朝走先喇！",
+            "你聽朝唔好意思！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「請問你聽朝得唔得閒？」係商務與社交詢問時間最得體禮貌之句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"春卷\":",
+          "prompt": "【敲定約定】雙方商定好會面時間地點後，表示「就這麼說定了」之經典成語句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：菠蘿油未適配）",
-            "聲調助詞搭配欠妥之表達（例項：凍檸茶誤用）",
-            "語序顛倒嘅非標準句式（例項：蛋撻錯置）"
+            "一言為定 (jat1 jin4 wai4 ding6)",
+            "得閒飲茶 (dak1 haan4 jam2 caa4)",
+            "唔該借借 (m4 goi1 ze3 ze3)",
+            "早晨你好 (zou2 san4 nei5 hou2)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「一言為定」（jat1 jin4 wai4 ding6）表示雙方一致同意、敲定約定。"
         }
       ]
     },
@@ -1651,15 +1696,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"春卷\": Which sentence is completely correct?",
+          "prompt": "【情境應對】若因突發事務需向朋友延遲會面十分鐘，最適當之地道說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第3課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：凍檸茶誤用）",
-            "語序顛倒嘅非標準句式（例項：蛋撻錯置）",
-            "混雜生硬詞彙之不規範語句（例項：菠蘿油未適配）"
+            "唔好意思，我有啲事，大概遲兩個字到。 (m4 hou2 ji3 si3, ngo5 jau5 di1 si6, daai6 koi3 ci4 loeng5 go3 zi6 dou3.)",
+            "多謝禮物，我走先喇。",
+            "早晨李先生，聽日見。",
+            "請問最近嘅洗手間喺邊度？"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「遲兩個字到」精確表達遲到 10 分鐘，並以「唔好意思」禮貌致歉。"
         }
       ],
       "passThreshold": 0.8
