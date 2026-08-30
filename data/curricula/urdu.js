@@ -3241,7 +3241,7 @@
           "prompt": "ماضی قریب اور ماضی بعید کے بنیادی فرق کی درست وضاحت کیا ہے؟",
           "options": [
             "ماضی قریب میں امدادی فعل 'ہے' آتا ہے اور ماضی بعید میں 'تھا' (Present auxiliary 'hai' vs. Past auxiliary 'tha')",
-            "دونوں میں کوئی فرق نہیں",
+            "دونوں زمانوں میں کوئی نحوی فرق نہیں (غلط نظریہ)",
             "ماضی قریب میں نے نہیں آتا",
             "ماضی بعید صرف کل کے لیے ہے"
           ],
@@ -4554,7 +4554,7 @@
           "options": [
             "ارادے اور بیرونی حالات کے درمیان انسانی کشمکش اور عزم کا اظہار (Human struggle and resolve between intent and circumstance)",
             "صرف وقت کا ضیاع",
-            "صرف پرانی یادیں",
+            "صرف پرانی یادوں کا اعادہ (محدود مفہوم)",
             "بے معنی الفاظ"
           ],
           "answerIndex": 0,
@@ -6194,7 +6194,7 @@
           "options": [
             "افعال کی زنجیر کو مربوط، رواں، پرتاثیر اور فصیح ادبی پیرائے میں ڈھال دینا (Transforming chains of actions into coherent, flowing, powerful, and eloquent prose)",
             "صرف الفاظ کی گنتی بڑھانا",
-            "صرف لغت کو دہرانا",
+            "صرف لغت کے مادہ الفاظ کی تکرار (محدود افادیت)",
             "بے معنی تکرار کرنا"
           ],
           "answerIndex": 0,
@@ -7013,9 +7013,9 @@
           "prompt": "فعلِ مجہول کا جامع سمیکن اردو نثر کو کیا اسلوب عطا کرتا ہے؟",
           "options": [
             "سرکاری، قانونی اور اخلاقی بیانات کو فاعل کے غیر ضروری ذکر سے آزاد کر کے باوقار اور متوازن بنانا (Giving formal, legal, and moral prose dignified balance without unnecessary agent mention)",
-            "صرف جملوں کی لمبائی بڑھانا",
-            "صرف لغت کے الفاظ دہرانا",
-            "بے معنی تکرار پیدا کرنا"
+            "فقط جملوں کی طوالت میں غیر ضروری اضافہ کرنا (بے مقصد)",
+            "ادبی اصطلاحات کو محض دکھاوے کے لیے استعمال کرنا (کمزور فہم)",
+            "غیر معیاری اور بازاری الفاظ کا انتخاب کرنا"
           ],
           "answerIndex": 0,
           "explanation": "یہ بیانیے کو غیر ذاتی، باوقار، قانونی اور متوازن ادبی حسن بخشتا ہے۔"
@@ -7423,9 +7423,9 @@
           "prompt": "متعدی افعال کا جامع سمیکن اردو بیانیے کو کیا خوبی عطا کرتا ہے؟",
           "options": [
             "فاعل، مفعول اور واسطہ فاعل کے باہمی تعلق کو مکمل وضاحت اور ادبی روانی کے ساتھ بیان کرنا (Expressing relationships between subject, object, and intermediary agent with full clarity and flowing eloquence)",
-            "صرف جملے کو طویل کرنا",
-            "صرف لغت کو دہرانا",
-            "بے معنی بحث پیدا کرنا"
+            "صرف جملے کو طویل کرنا (لا حاصل)",
+            "صرف سببی افعال کے اوزان رٹنا (محدود دائرہ)",
+            "بے معنی بحث پیدا کرنا (غیر موزوں)"
           ],
           "answerIndex": 0,
           "explanation": "یہ افعال کے باہمی رشتوں اور واسطہ فاعل کے کردار کو فصاحت سے واضح کرتا ہے۔"
@@ -7833,9 +7833,9 @@
           "prompt": "شرطیہ اور امتناعی جملوں کا جامع سمیکن اردو نثر کو کیا فکری حسن عطا کرتا ہے؟",
           "options": [
             "امکانات، شرائط، رکاوٹوں، انتباہات اور تاریخی حسرتوں کو ایک ہی شاندار اور پرشکوہ بیانیے میں سمو دینا (Integrating possibilities, conditions, obstacles, warnings, and regrets in grand eloquent prose)",
-            "صرف جملے کو لمبا بنانا",
-            "صرف لغت کو دہرانا",
-            "بے معنی بحث پیدا کرنا"
+            "صرف جملے کو لمبا بنانا (بے مقصد)",
+            "صرف فرضی شرائط کی دہرائی کرنا (محدود فہم)",
+            "بے معنی قیاسات میں الجھنا (غیر منطقی)"
           ],
           "answerIndex": 0,
           "explanation": "یہ امکانات، شرائط، رکاوٹوں اور تاریخی حسرتوں کو پرشکوہ بیانیے میں سمو دیتا ہے۔"
@@ -8243,9 +8243,9 @@
           "prompt": "بلاواسطہ اور بالواسطہ کلام کا جامع سمیکن تاریخی بیانیے کو کیا خوبی بخشتا ہے؟",
           "options": [
             "اصل تاریخی اقوال کی حرمت کو برقرار رکھتے ہوئے ان کی عصری تشریح اور انتظامی احکامات کو ایک باوقار تسلسل میں پیش کرنا (Preserving original quotes while integrating contemporary analysis and directives seamlessly)",
-            "صرف صفحات بھرنا",
-            "صرف لغت کو دہرانا",
-            "بے معنی تکرار پیدا کرنا"
+            "صرف صفحات بھرنا (بے فائدہ مشق)",
+            "صرف اقوال کی زبانی تکرار کرنا (محدود بیانیہ)",
+            "بے معنی تکرار پیدا کرنا (غیر معیاری)"
           ],
           "answerIndex": 0,
           "explanation": "یہ اصل اقوال کی حرمت کے ساتھ تجزیاتی و انتظامی تسلسل قائم کرتا ہے۔"
@@ -8275,53 +8275,62 @@
     "subject": "urdu",
     "unit": 20,
     "lessonNumber": 1,
-    "title": "دفتری اردو اور کاروباری خط و کتابت (Corporate Urdu) (Part 1)",
+    "title": "دفتری خطوط، القاب و آداب اور رسمی آغاز (Official Letters & Formal Salutations)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.1) with authentic precision.",
+    "objective": "دفتری مراسلت کے روایتی و جدید القاب (بخدمت جناب، عالی جناب، مکرمی)، عنوان اور باوقار رسمی تمہید کے اصولوں پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں دفتری خطوط اور سرکاری مراسلت کے بنیادی آداب (Corporate & Administrative Urdu - Salutations):\n\n1. **سرکاری و دفتری القاب (Formal Titles & Salutations)**:\n   - مکتوب الیہ کے عہدے کے مطابق موزوں لقب کا انتخاب:\n     - «**بخدمت جناب** ڈائریکٹر صاحب / سیکرٹری صاحب»؛\n     - «**عالی جناب / محترم المقام**»؛\n     - «**مکرم و محترم وائس چانسلر صاحب**»۔\n\n2. **عنوان کا تعین (Subject Line)**:\n   - خط کا مقصد ایک جامع اور واضح سطر میں بیان کیا جاتا ہے:\n     - «**عنوان**: درخواست برائے حصولِ این او سی / فراہمیِ سہولیات»۔\n\n3. **رسمی دفتری تمہید (Opening Formula)**:\n   - «نہایت ادب و احترام کے ساتھ **گزارش ہے کہ**...»؛\n   - «مسمی (نام) ولد (والد کا نام) التماس گزار ہے کہ...»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "بخدمت جناب سیکرٹری صاحب، نہایت ادب سے گزارش ہے کہ ہماری بستی میں پینے کے صاف پانی کی فراہمی کے لیے فوری اقدامات کیے جائیں۔",
+          "reading": "Bakhidmat janaab secretary saahib, nihaayat adab se guzaarish hai keh hamaari basti mein peenay ke saaf paani ki faraahami ke liye fowri iqdaamaat kiye jaayein. [bəxɪd̪mət̪ dʒənaːb sɪkrəʈriː saːhɪb nɪhaːjət̪ əd̪əb seː ɡʊzaːrɪʃ hɛː kɛh həm-aːriː bəst̪iː mẽː piːneː keː saːf paːniː kiː fəraːhəmiː keː lɪjeː fɔːriː ɪqdaːmaːt̪ kɪjeː dʒaːʔẽː] (buh-KHEED-muht juh-NAHB secretary sah-HEEB, nee-HAH-yuht UH-duhb say goo-ZAH-reesh HY KYH huh-mah-REE buhs-TEE mayn PEE-nay kay SAHF pah-NEE kee fuh-rah-huh-MEE kay lee-AY FOW-ree eeq-dah-MAHT kee-YAY jah-AYN)",
+          "translation": "To the respected Secretary, it is submitted with utmost respect that immediate steps be taken for the provision of clean drinking water in our settlement [formal petition: bakhidmat janaab]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 20-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "محترم المقام مینیجنگ ڈائریکٹر، مسمی احمد خان ولد سلیم خان آپ کے معزز ادارے میں اسسٹنٹ مینیجر کے عہدے کے لیے اپنی درخواست برائے غور پیش کرتا ہے۔",
+          "reading": "Muhtaram-ul-maqaam managing director, musamma Ahmad Khan walad Saleem Khan aap ke mo'azzaz idaaray mein assistant manager ke ohday ke liye apni darkhwaast baraay ghowr pesh karta hai. [mʊɦt̪ərəm-ʊl-məqaːm mænɪdʒɪŋɡ ɖaːɪrɛkʈər mʊsəmːaː əɦməd̪ xaːn ʋələd̪ səliːm xaːn aːp keː mʊʔəzːəz ɪd̪aːreː mẽː əsɪsʈənt̪ mænɪdʒər keː ʊɦd̪eː keː lɪjeː əpniː d̪ərxaːst̪ bəraːjeː ɣɔːr peːʃ kərt̪aː hɛː] (mooh-tuh-RUHM-ool-muh-QAHM managing director, moo-suhm-MAH uhh-MUHD khahn VUH-luhd suh-LEEM khahn AHP kay moo-uhz-ZUHZ ee-dah-RAY mayn assistant manager kay OHH-day kay lee-AY uhp-NEE duhr-KHAHST buh-RAH-yay GHOWR PAYSH kuhr-TAH HY)",
+          "translation": "Respected Managing Director, the named Ahmad Khan son of Saleem Khan submits his application for consideration for the post of Assistant Manager in your prestigious institution."
+        },
+        {
+          "target": "مکرم و محترم وائس چانسلر صاحب، یونیورسٹی کے سالانہ کانووکیشن میں شرکت کا دعوت نامہ موصول ہوا، جس پر میں آپ کا دلی شکریہ ادا کرتا ہوں۔",
+          "reading": "Mukarram-o-muhtaram vice chancellor saahib, university ke saalaana convocation mein shirkat ka da'wat-naama mausool hua, jis par main aap ka dili shukriya ada karta hoon. [mʊkərːəm-oː-mʊɦt̪ərəm ʋaːʔɪs tʃaːnsələr saːhɪb juːnɪʋərsɪʈiː keː saːlaːnaː kaːnʋoːkeːʃən mẽː ʃɪrkət̪ kaː d̪əʔʋət̪-naːmaː mɔːsuːl hʊʔaː dʒɪs pər mɛ̃ː aːp kaː d̪ɪliː ʃʊkrɪjaː əd̪aː kərt̪aː huː̃] (moo-kuhr-RUHM-oh-mooh-tuh-RUHM vice chancellor sah-HEEB, university kay sah-LAH-nah convocation mayn sheer-KUHT kah dah-vuht-NAH-mah mow-SOOL hoo-AH, JEES puhr MYN AHP kah DEE-lee shook-ree-YAH uh-DAH kuhr-TAH HOON)",
+          "translation": "Respected and esteemed Vice Chancellor, the invitation to attend the university's annual convocation was received, for which I express my heartfelt gratitude."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "دفتری القاب فارمولا: بخدمت جناب (مکتوب الیہ) + عنوان: درخواست برائے... + جنابِ عالی، گزارش ہے کہ!"
+      ],
+      "culturalNotes": [
+        "اردو کی سرکاری اور دفتری زبان میں تکلف اور احترام کے مخصوص سانچے صدیوں کی بیوروکریٹک روایت اور شائستگی کا مظہر ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دادا\":",
+          "prompt": "سرکاری خط کے آغاز میں مکتوب الیہ کے لیے فصیح ترین دفتری تعبیر کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دادی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بیٹا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بیٹی» کی خرابی)"
+            "بخدمت جناب... (Bakhidmat janaab - Standard formal administrative Urdu salutation)",
+            "ارے صاحب سنیں (غیر شائستہ)",
+            "تم کو خط لکھا ہے (غیر رسمی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "سرکاری و دفتری خطوط کے آغاز کے لیے «بخدمت جناب...» فصیح ترین تعبیر ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دادا\":",
+          "prompt": "کسی سرکاری درخواست کا مقصد بیان کرنے کے لیے کون سا لفظ لکھا جاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بیٹا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بیٹی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دادی» کا غیر درست استعمال)"
+            "عنوان: درخواست برائے... (Unwaan: Darkhwaast baraay - Subject line header)",
+            "قصہ: ہم بتاتے ہیں کہ (غیر معیاری)",
+            "شاید کہ ہم کہیں (بے ربط)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "درخواست کے موضوع کے لیے «عنوان: درخواست برائے...» لکھا جاتا ہے۔"
         }
       ]
     },
@@ -8329,17 +8338,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دادا\": Which sentence is completely correct?",
+          "prompt": "دفتری خطوط اور رسمی آغاز (Official Letters & Salutations) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بیٹی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دادی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بیٹا» سے متعلق)"
+            "بخدمت جناب چیف ایگزیکٹو آفیسر، عنوان: پراجیکٹ رپورٹ برائے منظوری، نہایت احترام کے ساتھ گزارش ہے کہ رواں سہ ماہی کی مفصل جائزہ رپورٹ ملاحظے کے لیے پیش کی جاتی ہے۔ (To Chief Executive Officer, Subject: Project Report for Approval, it is submitted with great respect that quarterly review report is presented.)",
+            "بخدمت صاحب گاڑی روتی تھی کھانا کھایا تھا۔",
+            "دفتری خطوط میں عنوان کا لکھنا منع ہے۔",
+            "القاب صرف نجی خطوط میں لکھے جاتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«بخدمت جناب چیف ایگزیکٹو آفیسر، عنوان: پراجیکٹ رپورٹ برائے منظوری، نہایت احترام کے ساتھ گزارش ہے کہ رواں سہ ماہی کی مفصل جائزہ رپورٹ ملاحظے کے لیے پیش کی جاتی ہے۔» دفتری مراسلت کا مکمل اور باوقار نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u20-l2": {
@@ -8347,53 +8357,62 @@
     "subject": "urdu",
     "unit": 20,
     "lessonNumber": 2,
-    "title": "دفتری اردو اور کاروباری خط و کتابت (Corporate Urdu) (Part 2)",
+    "title": "کاروباری معاہدات، شراکت داری اور شرائطِ نامہ (Contracts & Agreements)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.2) with authentic precision.",
+    "objective": "معاہداتی اصطلاحات (فریقِ اول، فریقِ ثانی، شرائط و ضوابط، زرِ ضمانت، بقایا جات) اور قانونی زبان کے استعمال پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں کاروباری معاہدات اور قانونی شرائطِ نامہ (Contracts & Business Agreements):\n\n1. **معاہداتی فریقین کی تعیین (Parties in Agreement)**:\n   - «**فریقِ اول**» (Party of the First Part) بمقابلہ «**فریقِ دوم / فریقِ ثانی**» (Party of the Second Part)۔\n\n2. **معاہداتی جملوں کی نحوی ساخت (Contractual Syntax)**:\n   - «یہ معاہدہ باہمی رضامندی سے طے پایا ہے کہ...»；\n   - «معاہدے کی **شق نمبر تین کے تحت** خریدار پابند ہوگا کہ...»；\n   - «**زرِ ضمانت** (Security Deposit) کی عدم ادائیگی پر معاہدہ منسوخ تصور ہوگا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "یہ کاروباری شراکت نامہ فریقِ اول اور فریقِ دوم کے مابین باہمی رضا مندی سے طے پایا ہے کہ تمام منافع اور نقصانات برابر تقسیم ہوں گے۔",
+          "reading": "Yeh kaarobaari sharaakat-naama fareeq-e-awwal aur fareeq-e-dom ke mabain baahami raza-mandi se tay paaya hai keh tamaam munaafa aur nuqsaanaat baraabar taqseem hon gay. [jɛh kaːroːbaːriː ʃəraːkət̪-naːmaː fəriːq-eː-əʋːəl ɔːr fəriːq-eː-d̪oːm keː məbɛːn baːhəmiː rəzaː-mənd̪iː seː t̪ɛː paːjaː hɛː kɛh t̪əmaːm mʊnaːfəʔ ɔːr nʊqsaːnaːt̪ bəraːbər t̪əqsiːm hõː ɡeː] (YEH kah-roh-bah-REE shuh-rah-kuht-NAH-mah fuh-REE-qay-uhv-VUHL owr fuh-REE-qay-DOHM kay muh-BYN bah-huh-MEE ruh-zah-muhn-DEE say TY PAH-yah HY KYH tuh-MAHM moo-NAH-fah owr nooq-sah-NAHT buh-rah-BUHR tuhq-SEEM HOHN gay)",
+          "translation": "This business partnership deed is agreed between the first party and second party by mutual consent that all profits and losses will be shared equally [contractual: sharaakat-naama]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 20-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "معاہدے کی شق نمبر تین کے تحت خریدار پر لازم ہے کہ وہ سامان کی ترسیل کے بعد پندرہ یوم کے اندر تمام بقایا جات کلیئر کرے۔",
+          "reading": "Muaahidat ki shiqq number teen ke tehat khareedaar par laazim hai keh woh saamaan ki tarseel ke baad pandrah yaum ke andar tamaam baqaaya-jaat clear karay. [mʊʔaːhɪd̪eː kiː ʃɪqː nəmbr tiːn keː t̪əɦət̪ xəriːd̪aːr pər laːzɪm hɛː kɛh ʋoːh saːmaːn kiː t̪ərsiːl keː baːd̪ pənd̪rəh jɔːm keː ənd̪ər t̪əmaːm bəqaːjaː-dʒaːt̪ kliːjər kəreː] (moo-AH-hee-day kee SHEEQQ number TEEN kay tuh-HUHT khuh-ree-DAHR puhr LAH-zeem HY KYH VOH sah-MAHN kee tuhr-SEEL kay BAHD puhn-drah YOWM kay uhn-DUHR tuh-MAHM buh-qah-yah-JAHT clear kuh-RAY)",
+          "translation": "Under clause number three of the contract, it is mandatory on the buyer that he clear all dues within fifteen days after delivery of goods [legal stipulation: shiqq number teen]."
+        },
+        {
+          "target": "اگر کسی ناگزیر حادثے کے باعث کام میں تاخیر واقع ہو تو فریقِ ثانی کو تین دن کے اندر تحریری اطلاع دینا لازمی ہوگا۔",
+          "reading": "Agar kisi naa-guzeer haadsay ke baa'is kaam mein taakheer waaqi ho to fareeq-e-saani ko teen din ke andar tehreeri ittela dena laazmi hoga. [əɡər kɪsiː naː-ɡʊziːr haːd̪seː keː baːʔɪs kaːm mẽː t̪aːxiːr ʋaːqɪʔ hoː t̪oː fəriːq-eː-saːniː koː tiːn d̪ɪn keː ənd̪ər t̪əɦriːriː ɪt̪ːɪlaː d̪eːnaː laːzmiː hoːɡaː] (UH-guhr kee-SEE nah-goo-ZEER hahd-SAY kay BAH-ees KAHM mayn tah-KHEER VAH-quh hoh TOH fuh-REE-qay-sah-NEE koh TEEN DEEN kay uhn-DUHR tuhh-ree-REE eet-tuh-LAH day-NAH LAHZ-mee hoh-GAH)",
+          "translation": "If delay occurs in work due to an unavoidable incident, it will be mandatory for the second party to give written notice within three days [legal clause: tehreeri ittela]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "معاہداتی الفاظ: فریقِ اول و ثانی + شق نمبر + باہمی رضامندی + زرِ ضمانت و بقایا جات!"
+      ],
+      "culturalNotes": [
+        "پاکستان اور جنوبی ایشیا کی قانونی عدالتوں اور کارپوریٹ سیکٹر میں اردو معاہدات مستند عدالتی دستاویز کے طور پر تسلیم کیے جاتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دادی\":",
+          "prompt": "معاہدے میں دوسری پارٹی کے لیے مستند قانونی اصطلاح کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بیٹا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بیٹی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوست» کی خرابی)"
+            "فریقِ ثانی / فریقِ دوم (Fareeq-e-saani / Fareeq-e-dom - Party of the second part in legal Urdu)",
+            "دوسرا آدمی (غیر رسمی)",
+            "سامنے والا خریدار (عام بول چال)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "قانونی اردو میں دوسری پارٹی کے لیے «فریقِ ثانی» یا «فریقِ دوم» لکھا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دادی\":",
+          "prompt": "کسی معاہدے کی دفعہ یا شق کے لیے قانونی لفظ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بیٹی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوست» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بیٹا» کا غیر درست استعمال)"
+            "شق نمبر... (Shiqq number - Clause number in contracts)",
+            "بات نمبر...",
+            "سطر نمبر...",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "معاہدے کی دفعات کو «شق» (Clause) کہا جاتا ہے۔"
         }
       ]
     },
@@ -8401,17 +8420,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دادی\": Which sentence is completely correct?",
+          "prompt": "کاروباری معاہدات اور شرائطِ نامہ (Contracts & Agreements) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دوست» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بیٹا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («بیٹی» سے متعلق)"
+            "معاہدے کی شرائط کے مطابق اگر فریقِ ثانی نے مقررہ مدت میں تعمیراتی کام مکمل نہ کیا تو فریقِ اول کو زرِ ضمانت ضبط کرنے کا مکمل قانونی حق حاصل ہوگا۔ (According to contract terms, if second party fails to complete construction in time, first party will have full legal right to forfeit security deposit.)",
+            "معاہدے نے کھانا کھایا تھا رویا تھا۔",
+            "فریق کا لفظ صرف فوج کے لیے بولا جاتا ہے۔",
+            "اردو معاہدوں میں دستخط کی ضرورت نہیں ہوتی۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«معاہدے کی شرائط کے مطابق اگر فریقِ ثانی نے مقررہ مدت میں تعمیراتی کام مکمل نہ کیا تو فریقِ اول کو زرِ ضمانت ضبط کرنے کا مکمل قانونی حق حاصل ہوگا۔» قانونی و معاہداتی اردو کا فصیح شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u20-l3": {
@@ -8419,53 +8439,62 @@
     "subject": "urdu",
     "unit": 20,
     "lessonNumber": 3,
-    "title": "دفتری اردو اور کاروباری خط و کتابت (Corporate Urdu) (Part 3)",
+    "title": "دفتری احکامات، نوٹیفکیشن اور دفتری یادداشت (Office Memorandums & Orders)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.3) with authentic precision.",
+    "objective": "دفتری یادداشت (Office Memorandum)، دفتری حکم نامے، سرکلر اور اصطلاح 'تا حکمِ ثانی' کے نفاذ پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں دفتری احکامات، نوٹیفکیشن اور یادداشت (Office Memorandums & Orders):\n\n1. **دفتری یادداشت و حکم نامہ (Office Order & Notification)**:\n   - انتظامی فیصلوں کے نفاذ کے لیے جاری کیے جانے والے رسمی مراسلے:\n     - «**دفتری حکم نامہ نمبر...**»؛\n     - «تمام متعلقہ افسران کو **مطلع کیا جاتا ہے کہ**...»۔\n\n2. **اہم دفتری اصطلاحات**:\n   - «**تا حکمِ ثانی** (Until further notice)»؛\n   - «**بصورتِ دیگر تادیبی کارروائی عمل میں لائی جائے گی** (Otherwise disciplinary action will be taken)»؛\n   - «**فوری طور پر نافذ العمل ہوگا** (Will be effective immediately)»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "دفتری حکم نامے کے مطابق تمام عملے کو ہدایت کی جاتی ہے کہ وہ صبح نو بجے بائیومیٹرک حاضری یقینی بنائیں، بصورتِ دیگر نصف یوم کی تنخواہ وضع کی جائے گی۔",
+          "reading": "Daftari hukm-naamay ke mutaabiq tamaam amlay ko hidaayat ki jaati hai keh woh subh nau bajay biometric haaziri yaqeeni banaayein, ba-soorat-e-deegar nisf yaum ki tankhwaah waza ki jaaye gi. [d̪əft̪əriː hʊkm-naːmeː keː mʊt̪aːbɪq t̪əmaːm əmleː koː hɪd̪aːjət̪ kiː dʒaːt̪iː hɛː kɛh ʋoːh sʊbəh nɔː bədʒeː baːjoːmɛʈrɪk haːzɪriː jəqiːniː bənaːʔẽː bə-suːrət̪-eː-d̪iːɡər nɪsf jɔːm kiː t̪ənxaːh ʋəzəʔ kiː dʒaːjeː ɡiː] (duhf-tuh-REE hookm-nah-MAY kay moo-tah-BEEQ tuh-MAHM uhm-LAY koh hee-dah-YUHT kee jah-TEE HY KYH VOH SOO-buh NOW buh-JAY biometric hah-zee-REE yuh-qee-NEE buh-nah-AYN, buh-SOO-ruh-tay-dee-GUHR NEESF YOWM kee tuhn-KHAHH vuh-ZUH kee jah-YAY gee)",
+          "translation": "According to the office order, all staff is directed to ensure biometric attendance at 9:00 AM, otherwise half day's salary will be deducted [administrative directive]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 20-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "تا حکمِ ثانی تمام افسران کے بیرونِ ملک دوروں پر فوری پابندی عائد کی جاتی ہے تاکہ ہنگامی ترقیاتی منصوبوں کی نگرانی کی جا سکے۔",
+          "reading": "Taa hukm-e-saani tamaam afsaraan ke baiyroon-e-mulk dauron par fowri paabandi aa'id ki jaati hai taake hangaami taraqqiyaati mansoobon ki nigraani ki ja sakay. [t̪aː hʊkm-eː-saːniː t̪əmaːm əfsəraːn keː bɛːruːn-eː-mʊlk d̪ɔːrõː pər fɔːriː paːbənd̪iː aːʔɪd̪ kiː dʒaːt̪iː hɛː t̪aːkɛh həŋɡaːmiː t̪ərəqːɪjaːt̪iː mənsuːbõː kiː nɪɡraːniː kiː dʒaː səkeː] (TAH HOOK-may-sah-NEE tuh-MAHM uhf-suh-RAHN kay by-ROO-nay-MOOLK dow-ROHN puhr FOW-ree pah-buhn-DEE ah-EED kee jah-TEE HY TAH-keh huhn-gah-MEE tuh-ruhq-qee-yah-TEE muhn-soo-BOHN kee neeg-rah-NEE kee jah suh-KAY)",
+          "translation": "Until further notice, an immediate ban is placed on foreign visits of all officers so that monitoring of emergency development projects can be undertaken [administrative: taa hukm-e-saani]."
+        },
+        {
+          "target": "کمپنی کی انتظامیہ نے واضح کیا ہے کہ سالانہ کارکردگی بونس صرف ان ملازمین کو دیا جائے گا جنہوں نے اپنے اہداف سو فیصد مکمل کیے۔",
+          "reading": "Company ki intizaamiya ne waazeh kiya hai keh saalaana kaarkardagi bonus sirf un mulaazmeen ko diya jaaye ga jinhon ne apne ahdaaf sau feesad mukammal kiye. [kəmpniː kiː ɪnt̪ɪzaːmɪjaː neː ʋaːzɪh kɪjaː hɛː kɛh saːlaːnaː kaːrkərd̪əɡiː boːnəs sɪrf ʊn mʊlaːzmẽː koː d̪ɪjaː dʒaːjeː ɡaː dʒɪnhõː neː əpneː ɛɦd̪aːf sɔː fiːsəd̪ mʊkəmːəl kɪjeː] (company kee een-tee-zah-mee-YAH nay VAH-zeh kee-YAH HY KYH sah-LAH-nah kahr-kuhr-duh-GEE bonus SEERF OON moo-lahz-MAYN koh dee-YAH jah-YAY gah jeen-HOHN nay uhp-NAY uhh-DAHF SOW fee-SUHD moo-kuhm-MUHL kee-YAY)",
+          "translation": "The company management has clarified that the annual performance bonus will only be given to those employees who completed their targets 100%."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "دفتری احکامات: دفتری حکم نامہ + تا حکمِ ثانی (اگلے حکم تک) + تادیبی کارروائی + نافذ العمل!"
+      ],
+      "culturalNotes": [
+        "سرکاری دفاتر میں 'تا حکمِ ثانی' (Until further orders) ایک انتہائی مؤثر اور روایتی قانونی اصطلاح کے طور پر مستعمل ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بیٹا\":",
+          "prompt": "سرکاری نوٹیفکیشن میں «اگلے حکم تک» کے لیے فصیح ترین اصطلاح کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («بیٹی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوست» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آج» کی خرابی)"
+            "تا حکمِ ثانی (Taa hukm-e-saani - Until further notice / orders in official Urdu)",
+            "جب تک نیا آرڈر نہ آئے (غیر رسمی)",
+            "کل تک کے لیے (محدود)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "دفتری اردو میں 'اگلے حکم تک' کے لیے «تا حکمِ ثانی» بولا اور لکھا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بیٹا\":",
+          "prompt": "کسی سرکاری حکم کی خلاف ورزی پر کی جانے والی قانونی کارروائی کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوست» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بیٹی» کا غیر درست استعمال)"
+            "تادیبی کارروائی (Ta'deebi kaar-rawaai - Disciplinary action)",
+            "دوستی کی بات",
+            "سادہ کارروائی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "قواعد کی خلاف ورزی پر «تادیبی کارروائی» کی جاتی ہے۔"
         }
       ]
     },
@@ -8473,17 +8502,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بیٹا\": Which sentence is completely correct?",
+          "prompt": "دفتری احکامات اور نوٹیفکیشن (Office Memorandums & Orders) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («بیٹی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دوست» سے متعلق)"
+            "دفتری یادداشت کے تحت مطلع کیا جاتا ہے کہ تمام ملازمین کی سالانہ تعطیلات تا حکمِ ثانی منسوخ کر دی گئی ہیں اور عدمِ تعمیل پر تادیبی کارروائی عمل میں لائی جائے گی۔ (It is notified via office memorandum that annual leaves are canceled until further orders and disciplinary action will be taken for non-compliance.)",
+            "دفتری یادداشت نے کھانا کھایا تھا رویا تھا۔",
+            "تا حکمِ ثانی صرف کرکٹ میچ میں بولا جاتا ہے۔",
+            "دفتری نوٹیفکیشن زبانی جاری ہوتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«دفتری یادداشت کے تحت مطلع کیا جاتا ہے کہ تمام ملازمین کی سالانہ تعطیلات تا حکمِ ثانی منسوخ کر دی گئی ہیں اور عدمِ تعمیل پر تادیبی کارروائی عمل میں لائی جائے گی۔» دفتری نوٹیفکیشن کا مکمل نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u20-l4": {
@@ -8491,53 +8521,62 @@
     "subject": "urdu",
     "unit": 20,
     "lessonNumber": 4,
-    "title": "دفتری اردو اور کاروباری خط و کتابت (Corporate Urdu) (Part 4)",
+    "title": "اختتامیہ، دعائیہ کلمات اور دستخطی آداب (Formal Closings & Signatures)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.4) with authentic precision.",
+    "objective": "دفتری و کاروباری خطوط کے اختتامی کلمات (فقط والسلام، العارض، نیازمند، آپ کا مخلص) اور دستخطی پروٹوکول پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں خطوط کا اختتامیہ اور دستخطی آداب (Formal Closings & Signatures):\n\n1. **سرکاری درخواستوں کا اختتامیہ (Petitions Closing)**:\n   - «**العارض** (The Petitioner)» / «**نیازمند / طالبِ دعا**»۔\n\n2. **دفتری و کاروباری خطوط کا اختتامیہ (Business Closings)**:\n   - «**فقط والسلام** (With regards and peace)»；\n   - «**آپ کا مخلص / مخلصین** (Yours sincerely)»；\n   - «**ہمہ وقت آپ کی خدمت کے لیے حاضر**»۔\n\n3. **دستخط اور مہر (Signature & Official Seal)**:\n   - نام، عہدہ اور دفتری مہر کی درست ترتیب۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "امید ہے کہ آپ میری درخواست پر ہمدردانہ غور فرماتے ہوئے فوری احکامات صادر فرمائیں گے، فقط والسلام آپ کا مخلص اور نیاز مند۔",
+          "reading": "Umeed hai keh aap meri darkhwaast par hamdardaana ghowr farmaatay huay fowri ehkaamaat saadir farmaayein gay, faqat was-salaam aap ka mukhlis aur niyaazmand. [ʊmːiːd̪ hɛː kɛh aːp meːriː d̪ərxaːst̪ pər həmd̪ərdaːnaː ɣɔːr fərmaːt̪eː hʊʔeː fɔːriː ɛɦkaːmaːt̪ saːd̪ɪr fərmaːʔẽː ɡeː fəqət̪ ʋəs-səlaːm aːp kaː mʊxlɪs ɔːr nɪjaːzmənd̪] (oom-MEED HY KYH AHP may-REE duhr-KHAHST puhr huhm-duhr-DAH-nah GHOWR fuhr-mah-TAY hoo-AY FOW-ree eh-kah-MAHT sah-DEER fuhr-mah-AYN gay, FUH-quht vuhs-suh-LAHM AHP kah mookh-LEES owr nee-yahz-MUHND)",
+          "translation": "It is hoped that you will issue immediate orders considering my request sympathetically; with best regards, yours sincerely and humble applicant [formal closing: faqat was-salaam]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 20-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہم آپ کے کاروباری تعاون کے شکر گزار ہیں اور مستقبل میں مزید مضبوط شراکت داری کے متمنی ہیں، مخلصین: ایگزیکٹو بورڈ ممبران۔",
+          "reading": "Hum aap ke kaarobaari ta'aawun ke shukr-guzaar hain aur mustaqbil mein mazeed mazboot sharaakat-daari ke mutamanni hain, mukhleseen: executive board members. [həm aːp keː kaːroːbaːriː t̪əʔaːʋʊn keː ʃʊkr-ɡʊzaːr hɛ̃ː ɔːr mʊst̪əqbɪl mẽː məziːd̪ məzbuːt̪ ʃəraːkət̪-d̪aːriː keː mʊt̪əmənːiː hɛ̃ː mʊxlɪsiːn ɛɡzɛkʈɪʋ boːrɖ mɛmbrbaːn] (HOOM AHP kay kah-roh-bah-REE tuh-AH-voon kay shookr-goo-ZAHR HYN owr moos-tuhq-BEEL mayn muh-ZEED muhz-BOOT shuh-rah-kuht-dah-REE kay moo-tuh-muhn-NEE HYN, mookh-lee-SEEN: executive board members)",
+          "translation": "We are grateful for your business cooperation and look forward to even stronger partnership in the future; sincerely: Executive Board Members."
+        },
+        {
+          "target": "پیش کردہ تجاویز پر فوری عمل درآمد کے لیے دفتری فائل منظوری کے واسطے پیشِ خدمت ہے، دستخط: اسسٹنٹ ڈائریکٹر ایڈمنسٹریشن۔",
+          "reading": "Pesh-karda tajaweez par fowri amal-daraamad ke liye daftari file manzoori ke waastay pesh-e-khidmat hai, dastkhat: assistant director administration. [peːʃ-kərd̪aː t̪ədʒaːʋiːz pər fɔːriː əməl-d̪əraːməd̪ keː lɪjeː d̪əft̪əriː faːʔɪl mənzuːriː keː ʋaːst̪eː peːʃ-eː-xɪd̪mət̪ hɛː d̪əst̪xət̪ əsɪsʈənt̪ ɖaːɪrɛkʈər æɖmɪnɪsʈreːʃən] (PAYSH-kuhr-dah tuh-jah-VEEZ puhr FOW-ree UH-muhl-duh-rah-MUHD kay lee-AY duhf-tuh-REE file muhn-zoo-REE kay VAHS-tay PAYSH-ay-KHEED-muht HY, duhs-tuh-KHUHT: assistant director administration)",
+          "translation": "For immediate implementation of submitted proposals, the official file is presented for approval; signature: Assistant Director Administration."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اختتامی کلمات: فقط والسلام (رسمی خط) + العارض (درخواست) + آپ کا مخلص (کاروباری مراسلت)!"
+      ],
+      "culturalNotes": [
+        "اردو خط و کتابت میں اختتامی دعائیہ کلمات اور دستخط سے پہلے 'فقط والسلام' لکھنا کلاسیکی شرافت اور مکمل مراسلاتی شائستگی کی علامت مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بیٹی\":",
+          "prompt": "سرکاری درخواست کے آخر میں درخواست گزار کے لیے فصیح ترین اصطلاح کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوست» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کل» کی خرابی)"
+            "العارض (Al-aariz - The petitioner / applicant in official Urdu petitions)",
+            "خط والا (عام بول چال)",
+            "پیچھے والا بندہ (غیر شائستہ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "درخواست گزار کے لیے درخواست کے آخر میں «العارض» یا «نیازمند» لکھا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بیٹی\":",
+          "prompt": "رسمی اور کاروباری خطوط کا فصیح روایتی اختتامیہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوست» کا غیر درست استعمال)"
+            "فقط والسلام، آپ کا مخلص (Faqat was-salaam, aap ka mukhlis - Classic formal closing)",
+            "چلو اب خط ختم (غیر مناسب)",
+            "پھر ملیں گے روئیں گے (بے جوڑ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "خط کے باوقار اختتام کے لیے «فقط والسلام، آپ کا مخلص» لکھا جاتا ہے۔"
         }
       ]
     },
@@ -8545,17 +8584,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بیٹی\": Which sentence is completely correct?",
+          "prompt": "اختتامیہ اور دستخطی آداب (Formal Closings & Signatures) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دوست» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آج» سے متعلق)"
+            "امید ہے کہ آپ ادارے کی مالی معاونت کی منظوری مرحمت فرمائیں گے، فقط والسلام، آپ کا نیازمند و خیر اندیش، دستخط و مہر: پرنسپل پبلک کالج۔ (Hope you will grant approval of financial aid; with best regards, your humble well-wisher, signature and seal: Principal.)",
+            "امید ہے خط پڑھا تھا رویا تھا۔",
+            "العارض کا لفظ صرف شعر کے آخر میں لکھا جاتا ہے۔",
+            "دستخط ہمیشہ خط کے اوپر لکھے جاتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«امید ہے کہ آپ ادارے کی مالی معاونت کی منظوری مرحمت فرمائیں گے، فقط والسلام، آپ کا نیازمند و خیر اندیش، دستخط و مہر: پرنسپل پبلک کالج۔» دفتری خطوط کے اختتامیہ کا کامل اور مستند شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u20-l5": {
@@ -8563,53 +8603,62 @@
     "subject": "urdu",
     "unit": 20,
     "lessonNumber": 5,
-    "title": "دفتری اردو اور کاروباری خط و کتابت (Corporate Urdu) (Part 5)",
+    "title": "دفتری اور کاروباری خط و کتابت کا جامع سمیکن (Corporate Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 20.5) with authentic precision.",
+    "objective": "دفتری القاب، عنوان، تمہید، معاہداتی شقیں، انتظامی احکامات، اور باوقار اختتامیہ کو ایک مکمل سرکاری مراسلے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "دفتری اور کاروباری خط و کتابت کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **دفتری مراسلت کا مکمل شاہکار ڈھانچہ**:\n   - **القاب و آداب**: «بخدمت جناب چیئرمین صاحب»؛\n   - **عنوان**: «عنوان: مشترکہ توسیعی منصوبے کی حتمی منظوری بابت»؛\n   - **تمہید**: «نہایت ادب سے گزارش ہے کہ...»؛\n   - **معاہداتی شرائط**: «فریقِ اول اور دوم کے مابین تمام شقیں طے پا چکی ہیں»؛\n   - **دفتری احکامات**: «زرِ ضمانت کے اجرا کا حکم صادر فرمایا جائے تاکہ تا حکمِ ثانی کام بلا تعطل جاری رہے»؛\n   - **شائستہ اختتامیہ**: «فقط والسلام، آپ کا مخلص و نیاز مند»۔\n\n2. **انتظامی و کارپوریٹ بلندی**:\n   - یہ متوازن اور شستہ زبان اردو کے اعلیٰ ترین دفتری اور سفارتی پروٹوکول کی عکاس ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "بخدمت جناب چیئرمین صاحب، عنوان: توسیعی منصوبے کی منظوری بابت، نہایت ادب سے گزارش ہے کہ فریقِ اول اور دوم کے مابین مشترکہ منصوبے کی تمام شقیں مکمل ہو چکی ہیں، انتظامیہ سے استدعا ہے کہ زرِ ضمانت کے اجرا کا حکم صادر فرمائیں تاکہ تا حکمِ ثانی کام بلا تعطل جاری رہے، فقط والسلام آپ کا مخلص ڈائریکٹر پراجیکٹس۔",
+          "reading": "Bakhidmat janaab chairman saahib, unwaan: tawsee'ee mansoobay ki manzoori baabat, nihaayat adab se guzaarish hai keh fareeq-e-awwal aur dom ke mabain mushtarka mansoobay ki tamaam shiqqein mukammal ho chuki hain, intizaamiya se istid'a hai keh zar-e-zamaanat ke ijra ka hukm saadir farmaayein taake taa hukm-e-saani kaam bila ta'attul jaari rahay, faqat was-salaam aap ka mukhlis director projects. [bəxɪd̪mət̪ dʒənaːb tʃɛːrmən saːhɪb ʊnʋaːn t̪ɔːsiːʔiː mənsuːbeː kiː mənzuːriː baːbət̪ nɪhaːjət̪ əd̪əb seː ɡʊzaːrɪʃ hɛː kɛh fəriːq-eː-əʋːəl ɔːr d̪oːm keː məbɛːn mʊʃt̪ərkaː mənsuːbeː kiː t̪əmaːm ʃɪqːẽː mʊkəmːəl hoː tʃʊkiː hɛ̃ː ɪnt̪ɪzaːmɪjaː seː ɪst̪ɪd̪ʔaː hɛː kɛh zər-eː-zəmaːnət̪ keː ɪdʒraː kaː hʊkm saːd̪ɪr fərmaːʔẽː t̪aːkɛh t̪aː hʊkm-eː-saːniː kaːm bɪlaː t̪əʔət̪ːʊl dʒaːriː rəheː fəqət̪ ʋəs-səlaːm aːp kaː mʊxlɪs ɖaːɪrɛkʈər prɔːdʒɛkʈs] (buh-KHEED-muht juh-NAHB chairman sah-HEEB, OON-vahn: tow-SEE-ee muhn-soo-BAY kee muhn-zoo-REE BAH-buht, nee-HAH-yuht UH-duhb say goo-ZAH-reesh HY KYH fuh-REE-qay-uhv-VUHL owr DOHM kay muh-BYN moosh-tuhr-KAH muhn-soo-BAY kee tuh-MAHM sheeq-QAYN moo-kuhm-MUHL hoh CHOO-kee HYN, een-tee-zah-mee-YAH say ees-teed-AH HY KYH zuh-ray-zuh-mah-NUHT kay eej-RAH kah HOOKM sah-DEER fuhr-mah-AYN TAH-keh TAH HOOK-may-sah-NEE KAHM bee-LAH tuh-uht-TOOL jah-REE ruh-HAY, FUH-quht vuhs-suh-LAHM AHP kah mookh-LEES director projects)",
+          "translation": "To the respected Chairman, Subject: Regarding approval of expansion project, it is submitted with utmost respect that all clauses of the joint project between first and second party have been completed, requested to issue order for release of security deposit so work continues without interruption until further notice; with best regards, yours sincerely Director Projects."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 20-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "محترم مینیجر صاحب، کمپنی کے باہمی تجارتی معاہدے کی توثیق کے لیے یہ دفتری مراسلہ پیشِ خدمت ہے تاکہ تمام فریقین اپنے واجبات بروقت ادا کریں۔",
+          "reading": "Muhtaram manager saahib, company ke baahami tijaarti muaahidat ki tawseeq ke liye yeh daftari muraasla pesh-e-khidmat hai taake tamaam fareeqain apne waajibaat bar-waqt ada karein. [mʊɦt̪ərəm mænɪdʒər saːhɪb kəmpniː keː baːhəmiː t̪ɪdʒaːrt̪iː mʊʔaːhɪd̪eː kiː t̪ɔːsiːq keː lɪjeː jɛh d̪əft̪əriː mʊraːslaː peːʃ-eː-xɪd̪mət̪ hɛː t̪aːkɛh t̪əmaːm fəriːqɛːn əpneː ʋaːdʒɪbaːt̪ bər-ʋəqt̪ əd̪aː kərẽː] (mooh-tuh-RUHM manager sah-HEEB, company kay bah-huh-MEE tee-JAHR-tee moo-AH-hee-day kee tow-SEEQ kay lee-AY YEH duhf-tuh-REE moo-rah-suh-LAH PAYSH-ay-KHEED-muht HY TAH-keh tuh-MAHM fuh-ree-QAYN uhp-NAY vah-jee-BAHT buhr-VUHKT uh-DAH kuh-REYN)",
+          "translation": "Respected Manager, this official communication is presented for validation of the company's mutual commercial agreement so that all parties pay their dues in time."
+        },
+        {
+          "target": "عالی جناب، تعلیمی وظائف کی منصفانہ تقسیم کے لیے تیار کردہ نیا دفتری لائحۂ عمل برائے دستخط و منظوری پیش کیا جاتا ہے۔",
+          "reading": "Aali janaab, ta'leemi wazaa'if ki munsifaana taqseem ke liye tayyaar-karda naya daftari laa'iha-e-amal baraay dastkhat-o-manzoori pesh kiya jaata hai. [aːliː dʒənaːb t̪əʔliːmiː ʋəzaːʔɪf kiː mʊnsɪfaːnaː t̪əqsiːm keː lɪjeː t̪əjːaːr-kərd̪aː nəjaː d̪əft̪əriː laːʔɪhaː-eː-əməl bəraːjeː d̪əst̪xət̪-oː-mənzuːriː peːʃ kɪjaː dʒaːt̪aː hɛː] (AH-lee juh-NAHB, tuh-lee-MEE vuh-zah-EEF kee moon-see-FAH-nah tuhq-SEEM kay lee-AY ty-YAHR-kuhr-dah NY-ah duhf-tuh-REE lah-ee-HAH-ay-UH-muhl buh-RAH-yay duhs-tuh-KHUHT-oh-muhn-zoo-REE PAYSH kee-YAH jah-TAH HY)",
+          "translation": "Honorable Sir, the new official plan of action prepared for fair distribution of educational scholarships is presented for signature and approval."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع دفتری سمیکن: بخدمت جناب (القاب) + عنوان (موضوع) + فریقین و شقیں (معاہدہ) + تا حکمِ ثانی (حکم) + فقط والسلام (اختتامیہ)!"
+      ],
+      "culturalNotes": [
+        "اردو زبان میں سرکاری اور کارپوریٹ مراسلت کا یہ جامع سانچہ قومی زبان کو انتظامی، معاشی اور قانونی سطح پر خود کفیل بنانے کی سب سے بڑی دلیل ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دوست\":",
+          "prompt": "دفتری مراسلت کے جامع امتزاج کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («آج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پرسوں» کی خرابی)"
+            "بخدمت جناب، عنوان، فریقین کی شقیں، تا حکمِ ثانی اور فقط والسلام (Masterful synthesis of salutation, subject, contractual clauses, administrative order, and formal closing)",
+            "جناب ہم نے خط لکھا تھا اور رویا تھا (بے ربط الفاظ)",
+            "وہ دفتری کام کرتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«بخدمت جناب، عنوان، فریقین کی شقیں، تا حکمِ ثانی اور فقط والسلام» تمام دفتری اسالیب کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دوست\":",
+          "prompt": "دفتری اردو کا جامع سمیکن سرکاری اور کاروباری امور کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پرسوں» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آج» کا غیر درست استعمال)"
+            "انتظامی فیصلوں، معاہداتی حقوق اور دفتری احکامات کو انتہائی باوقار، قطعی اور شفاف قانونی پیرائے میں محفوظ کرنا (Preserving administrative decisions, contractual rights, and orders with dignified clarity)",
+            "صرف دفتری فائلوں کا بوجھ بڑھانا (غیر تعمیری)",
+            "صرف دفتری لغت کے الفاظ یاد کرنا (محدود دائرہ)",
+            "بے معنی بیانات جاری کرنا (غیر ذمہ دارانہ)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ فیصلوں، حقوق اور احکامات کو شفاف اور باوقار قانونی پیرائے میں محفوظ کرتا ہے۔"
         }
       ]
     },
@@ -8617,17 +8666,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دوست\": Which sentence is completely correct?",
+          "prompt": "دفتری اور کاروباری خط و کتابت کے جامع سمیکن (Corporate Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پرسوں» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آج» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کل» سے متعلق)"
+            "بخدمت جناب ڈائریکٹر جنرل، عنوان: تجارتی معاہدے کی توثیق بابت، فریقِ اول و دوم کے مابین طے شدہ شرائط کے تحت تمام امور مکمل ہیں، استدعا ہے کہ حتمی منظوری صادر فرمائیں تاکہ تا حکمِ ثانی کام جاری رہے، فقط والسلام العارض۔ (To Director General, Subject: Commercial Agreement Validation, under agreed terms between parties all matters are complete, requested for approval so work continues until further orders; regards, petitioner.)",
+            "بخدمت ڈائریکٹر کھانا کھایا تھا گاڑی روتی تھی۔",
+            "جامع سمیکن صرف پرانے خطوط میں ہوتا تھا۔",
+            "دفتری زبان میں انگریزی کے بغیر خط نہیں لکھا جا سکتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«بخدمت جناب ڈائریکٹر جنرل، عنوان: تجارتی معاہدے کی توثیق بابت، فریقِ اول و دوم کے مابین طے شدہ شرائط کے تحت تمام امور مکمل ہیں، استدعا ہے کہ حتمی منظوری صادر فرمائیں تاکہ تا حکمِ ثانی کام جاری رہے، فقط والسلام العارض۔» دفتری و کاروباری خط و کتابت کا مکمل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u21-l1": {
