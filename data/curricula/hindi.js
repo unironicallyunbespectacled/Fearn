@@ -12375,53 +12375,62 @@
     "subject": "hindi",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "वैज्ञानिक अनुसंधान और तकनीकी विमर्श (Scientific Discourse) (Part 1)",
+    "title": "भारतीय अंतरिक्ष अनुसंधान (ISRO), चंद्रयान व गगनयान मिशन (Space Research, ISRO & Missions)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.1) with authentic linguistic precision.",
+    "objective": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO), प्रक्षेपण यान (PSLV/GSLV/LVM3), क्रायोजेनिक रॉकेट इंजन तथा चंद्रयान/गगनयान अभियानों की तकनीकी शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय अंतरिक्ष कार्यक्रम, रॉकेट विज्ञान और उपग्रह अभियानों की मानक तकनीकी शब्दावली:\n\n1. **भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)**:\n   - **संस्थापक एवं दृष्टि** — डॉ. विक्रम साराभाई द्वारा स्थापित, अंतरिक्ष प्रौद्योगिकी का राष्ट्र निर्माण और जनकल्याण में उपयोग;\n   - **सतीश धवन अंतरिक्ष केंद्र (श्रीहरिकोटा)** — उपग्रहों और रॉकेटों का मुख्य प्रक्षेपण केंद्र।\n\n2. **प्रक्षेपण यान एवं रॉकेट प्रोपल्शन**:\n   - **पीएसएलवी (PSLV)** — ध्रुवीय उपग्रह प्रक्षेपण यान (इसरो का भरोसेमंद वर्कहॉर्स);\n   - **एलवीएम-3 (LVM3 / GSLV Mk III)** — बाहुबली रॉकेट, जो भारी उपग्रहों और मानव मिशनों हेतु प्रयुक्त होता है;\n   - **क्रायोजेनिक इंजन** — अत्यधिक निम्न तापमान पर तरल हाइड्रोजन और तरल ऑक्सीजन ईंधन का प्रणोदन।\n\n3. **ऐतिहासिक अंतरिक्ष अभियान**:\n   - *चंद्रयान (चंद्रमा के दक्षिणी ध्रुव पर विक्रम लैंडर व प्रज्ञान रोवर की सफल लैंडिंग), मंगलयान (मार्स ऑर्बिटर मिशन), आदित्य-एल1 (सौर वेधशाला) तथा गगनयान (मानव युक्त अंतरिक्ष उड़ान)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 30.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 30."
+          "target": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने चंद्रयान अभियान के माध्यम से चंद्रमा के दक्षिणी ध्रुव पर विक्रम लैंडर की सफल सॉफ्ट लैंडिंग कर ऐतिहासिक कीर्तिमान रचा।",
+          "reading": "Bhaarateey antariksh anusandhaan sangathan (ISRO) ne Chandrayaan abhiyaan ke maadhyam se chandrama ke dakshini dhruv par Vikram lander ki safal soft landing kar itihaasik keertimaan racha. [bʱaːrt̪iːj ən̪t̪rɪkʃ ənʊsən̪d̪ʱaːn səŋɡət̪ʰən ɪsroː neː tʃən̪d̪rəjaːn əbʱɪjaːn keː maːd̪ʱjəm seː tʃən̪d̪rəmaː keː d̪əkʃɪɳiː d̪ʱrʊʋ pər ʋɪkrəm lɛːɳɖər kiː səpʰəl sɔːfʈ lɛːɳɖɪŋɡ kər ɪt̪ɪɦaːsɪk kiːrt̪ɪmaːn rətʃaː] (bhahr-TEE-yuh uhn-tuh-REEKSH uh-noo-suhn-DHAHN suhn-guh-THUHN ISRO nay Chuhn-druh-YAHN uh-bhee-YAHN kay MAHDH-yuhm say chuhn-druh-MAH kay duhk-shee-NEE DHRUHV puhr VEEK-ruhm lander kee suh-FUHL soft landing kuhr ee-tee-HAH-seek keer-tee-MAHN ruh-CHAH)",
+          "translation": "The Indian Space Research Organisation (ISRO) created a historic record through the Chandrayaan mission by achieving a successful soft landing of the Vikram lander on the South Pole of the Moon."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 30-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "स्वदेशी क्रायोजेनिक इंजन से युक्त भारी प्रक्षेपण यान एलवीएम-3 ने संचार उपग्रहों को भू-समकालिक अंतरण कक्षा में सटीकता से स्थापित किया।",
+          "reading": "svadeshi cryogenic engine se yukt bhaari prakshepan yaan LVM-3 ne sanchaar upagrahon ko bhoo-samakaalik antaran kaksha mein sateekata se sthaapit kiya. [sʋəd̪eːʃiː kraːjoːdʒɛnɪk ɛndʒɪn seː jʊkt̪ bʱaːriː prəkʃeːpəɳ jaːn ɛlʋiːɛm-t̪iːn neː səntʃaːr ʊpɡrəɦõː koː bʱuː-səmkaːlɪk ən̪t̪rəɳ kəkʃaː mẽː sətniːkt̪aː seː st̪ʰaːpɪt̪ kɪjaː] (svuh-DAY-shee cryogenic engine say YOOKT BHAH-ree pruhk-shay-PUHN YAHN LVM-3 nay suhn-CHAHR oop-guh-ruh-HOHN koh BHOO-suhm-kah-LEEK uhn-tuh-RUHN KUHK-shah mayn suh-tee-kuh-TAH say sthah-PEET kee-YAH)",
+          "translation": "Equipped with an indigenous cryogenic engine, the heavy launch vehicle LVM-3 precisely injected communication satellites into Geosynchronous Transfer Orbit."
+        },
+        {
+          "target": "गगनयान मिशन के अंतर्गत भारतीय अंतरिक्ष यात्रियों को पृथ्वी की निचली कक्षा में भेजने और सुरक्षित वापसी हेतु क्रू मॉड्यूल का परीक्षण किया गया।",
+          "reading": "Gaganyaan mission ke antargat Bhaarateey antariksh yaatriyon ko prithvi ki nichli kaksha mein bhejne aur surakshit vaapasi hetu crew module ka pareekshan kiya gaya. [ɡəɡənjaːn mɪʃən keː ən̪t̪ərɡət̪ bʱaːrt̪iːj ən̪t̪rɪkʃ jaːtrijõː koː prɪt̪ʰʋiː kiː nɪtʃliː kəkʃaː mẽː bʱeːdʒneː ɔːr sʊrəkʃɪt̪ ʋaːpsiː ɦeːt̪ʊ kruː moːɖjuːl kaː pəriːkʃəɳ kɪjaː ɡəjaː] (guh-guhn-YAHN mission kay uhn-tuhr-GUHT bhahr-TEE-yuh uhn-tuh-REEKSH yaht-ree-YOHN koh PREETH-vee kee neech-LEE KUHK-shah mayn BHAYJ-nay owr soo-ruhk-SHEET vah-puh-SEE HAY-too crew module kah puh-reek-SHUHN kee-YAH guh-YAH)",
+          "translation": "Under the Gaganyaan mission, the crew module was tested to send Indian astronauts into Low Earth Orbit and ensure their safe return."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अंतरिक्ष विज्ञान: इसरो (ISRO), प्रक्षेपण यान (PSLV/LVM3), क्रायोजेनिक इंजन, चंद्रयान-गगनयान!"
+      ],
+      "culturalNotes": [
+        "भारत सरकार ने 23 अगस्त को (जिस दिन चंद्रयान-3 का लैंडर चंद्रमा पर उतरा) आधिकारिक रूप से 'राष्ट्रीय अंतरिक्ष दिवस' (National Space Day) घोषित किया है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"परीक्षा\":",
+          "prompt": "भारत की राष्ट्रीय अंतरिक्ष एजेंसी का पूरा नाम क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 30.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परिणाम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पुस्तकालय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («डिग्री» का अनुचित स्थान)"
+            "भारतीय अंतरिक्ष अनुसंधान संगठन / इसरो (ISRO - Indian Space Research Organisation)",
+            "भारतीय खाद्य निगम (अनाज भंडारण)",
+            "भारतीय रेलवे निगम (ट्रेन संचालन)",
+            "भारतीय डाक विभाग (डाक सेवा)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भारत के अंतरिक्ष अभियानों और उपग्रह प्रक्षेपण का संचालन «भारतीय अंतरिक्ष अनुसंधान संगठन» (ISRO) करता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"परीक्षा\":",
+          "prompt": "रॉकेट में अत्यधिक निम्न तापमान पर तरल हाइड्रोजन और तरल ऑक्सीजन ईंधन का उपयोग करने वाले इंजन को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 30.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पुस्तकालय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («डिग्री» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परिणाम» का अशुद्ध रूप)"
+            "क्रायोजेनिक इंजन (Cryogenic Rocket Engine - Liquid hydrogen/oxygen super-cooled propellant system)",
+            "डीजल इंजन (ट्रक इंजन)",
+            "भाप इंजन (कोयला इंजन)",
+            "पेट्रोल इंजन (स्कूटर इंजन)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अत्यधिक शीतलन तापमान पर कार्य करने वाले उच्च दक्षता रॉकेट इंजन को «क्रायोजेनिक इंजन» (Cryogenic Engine) कहा जाता है।"
         }
       ]
     },
@@ -12429,17 +12438,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"परीक्षा\": Which sentence is completely correct?",
+          "prompt": "भारतीय अंतरिक्ष अनुसंधान और रॉकेट विज्ञान (Space Research & Rocket Science) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 30.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («डिग्री» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («परिणाम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पुस्तकालय» से संबंधित)"
+            "स्वदेशी प्रक्षेपण यानों, क्रायोजेनिक तकनीक और चंद्रयान-गगनयान अभियानों ने भारत को वैश्विक अंतरिक्ष अर्थव्यवस्था में अग्रणी शक्ति बना दिया है। (Indigenous launch vehicles, cryogenic technology, and the Chandrayaan-Gaganyaan missions have made India a leading power in the global space economy.)",
+            "रॉकेट केवल दीवाली पर चलाने वाले पटाखे होते हैं।",
+            "इसरो का काम केवल सिनेमा हॉल के टिकट बेचना है।",
+            "चंद्रमा पर पानी केवल नल खोलकर बहाया गया था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«स्वदेशी प्रक्षेपण यानों, क्रायोजेनिक तकनीक और चंद्रयान-गगनयान अभियानों... अग्रणी शक्ति बना दिया है» अंतरिक्ष विज्ञान का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u30-l2": {
@@ -12447,53 +12457,62 @@
     "subject": "hindi",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "वैज्ञानिक अनुसंधान और तकनीकी विमर्श (Scientific Discourse) (Part 2)",
+    "title": "कृत्रिम बुद्धिमत्ता, मशीन लर्निंग और क्वांटम कंप्यूटिंग (AI, Machine Learning & Quantum Computing)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.2) with authentic linguistic precision.",
+    "objective": "कृत्रिम बुद्धिमत्ता (AI), तंत्रिका नेटवर्क (Neural Networks), प्राकृतिक भाषा संसाधन (NLP) तथा क्वांटम कंप्यूटिंग की उच्च तकनीकी शब्दावली में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "कृत्रिम बुद्धिमत्ता (एआई), मशीन लर्निंग और क्वांटम सूचना विज्ञान के मानक नियम:\n\n1. **कृत्रिम बुद्धिमत्ता (Artificial Intelligence)**:\n   - **मशीन लर्निंग एवं डीप लर्निंग** — विशाल डेटा सेटों से प्रतिमान (पैटर्न) सीखकर स्वतः सुधार करने वाले अल्गोरिदम;\n   - **कृत्रिम तंत्रिका नेटवर्क (ANN)** — मानव मस्तिष्क के न्यूरॉन्स की संरचना पर आधारित बहुस्तरीय कंप्यूटेशनल मॉडल;\n   - **प्राकृतिक भाषा संसाधन (NLP)** — कंप्यूटर द्वारा मानव भाषा को समझना, अनुवाद करना और नया पाठ उत्पन्न करना।\n\n2. **क्वांटम कंप्यूटिंग (Quantum Computing)**:\n   - **क्यूबिट (Qubit)** — क्वांटम बिट, जो बाइनरी 0 और 1 के बजाय दोनों स्थितियों में एक साथ रह सकता है;\n   - **क्वांटम सुपरपोजिशन एवं एंटैंगलमेंट** — भौतिकी के क्वांटम सिद्धांतों द्वारा समानांतर एवं अति-द्रुत गणना क्षमता।\n\n3. **नैतिकता और भविष्य**:\n   - *डेटा गोपनीयता, एल्गोरिथमिक पूर्वाग्रह (बायस) का निवारण तथा मानव-केंद्रित सुरक्षित एआई का विकास।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 30.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 30."
+          "target": "कृत्रिम बुद्धिमत्ता और डीप लर्निंग के तंत्रिका नेटवर्क जटिल डेटा का विश्लेषण कर चिकित्सा, कृषि और मौसम पूर्वानुमान में क्रांतिकारी परिवर्तन ला रहे हैं।",
+          "reading": "Kritrim buddhimaata aur deep learning ke tantrika network jatil data ka vishleshan kar chikitsa, krishi aur mausam poorvaanumaan mein kraantikaari parivartan la rahe hain. [krɪt̪rɪm bʊd̪ːʱɪmaːt̪aː ɔːr ɖiːp lərnɪŋɡ keː t̪ən̪t̪rɪkaː nɛʈʋərk dʒəʈɪl ɖeːʈaː kaː ʋɪʃleːʂəɳ kər tʃɪkɪt̪saː krɪʂɪ ɔːr mɔːsəm puːrʋaːnʊmaːn mẽː kraːn̪t̪ɪkaːriː pərɪʋərt̪ən laː rəɦeː hɛ̃ː] (KREE-treem bood-dhee-MAH-tah owr deep learning kay tuhn-TREE-kah network juh-TEEL data kah veesh-LAY-shuhn kuhr chee-KEET-sah, KREE-shee owr MOW-suhm poor-vah-noo-MAHN mayn krahn-tee-KAH-ree puh-ree-VUHR-tuhn LAH ruh-HAY hyhn)",
+          "translation": "Artificial Intelligence and the neural networks of deep learning are bringing revolutionary changes to medicine, agriculture, and weather forecasting through complex data analysis."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 30-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्वांटम कंप्यूटिंग के क्यूबिट्स सुपरपोजिशन और एंटैंगलमेंट के भौतिक सिद्धांतों पर कार्य करते हुए पारंपरिक कंप्यूटरों से लाखों गुना तीव्र गणना करते हैं।",
+          "reading": "Quantum computing ke qubits superposition aur entanglement ke bhautik siddhaanton par kaarya karte hue paaramparik computeron se laakhon guna teevr ganana karte hain. [kʋaːnʈəm kəmpjuːʈɪŋɡ keː kjuːbɪʈs sʊpərpəzɪʃən ɔːr ɛnʈɛŋɡəlmɛnʈ keː bʱɔːt̪ɪk sɪd̪ːʱaːn̪t̪õː pər kaːrjə kərt̪eː ɦʊeː paːrəmpərɪk kəmpjuːʈərõː seː laːkʰõː ɡʊnaː t̪iːʋrə ɡəɳnaː kərt̪eː hɛ̃ː] (quantum computing kay qubits superposition owr entanglement kay BHOW-teek seed-DHAHN-tohn puhr KAHR-yuh KUHR-tay hoo-AY pah-ruhm-puh-REEK computeron say LAH-khon GOO-nah TEE-vruh guh-nuh-NAH KUHR-tay hyhn)",
+          "translation": "Operating on the physical principles of superposition and entanglement, the qubits of quantum computing perform calculations millions of times faster than classical computers."
+        },
+        {
+          "target": "बड़े भाषा मॉडल (एलएलएम) और प्राकृतिक भाषा संसाधन तकनीक बहुभाषी अनुवाद और संवाद को मानवीय स्तर की सहजता प्रदान कर रहे हैं।",
+          "reading": "bade bhaasha model (LLM) aur praakritik bhaasha sansaadhan takneek bahubhaashi anuvaad aur samvaad ko maanveey star ki sahajata pradaan kar rahe hain. [bəɽeː bʱaːʂaː moːɖəl ɔːr praːkrt̪ɪk bʱaːʂaː sənsaːd̪ʱən t̪əkniːk bəɦʊbʱaːʂiː ənʊʋaːd̪ ɔːr səmʋaːd̪ koː maːnʋiːj st̪ər kiː səɦədʒt̪aː prəd̪aːn kər rəɦeː hɛ̃ː] (BUH-day bhah-SHAH model owr prah-KREE-teek bhah-SHAH suhn-sah-DHUHN tuhk-NEEK buh-hoo-bhah-SHEE uh-noo-VAHD owr suhm-VAHD koh mahn-VEE-yuh STUHR kee suh-huhj-TAH pruh-DAHN kuhr ruh-HAY hyhn)",
+          "translation": "Large language models (LLMs) and natural language processing technology are providing human-level fluency to multilingual translation and dialogue."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "एआई व क्वांटम: तंत्रिका नेटवर्क (neural net), प्राकृतिक भाषा संसाधन (NLP), क्यूबिट, सुपरपोजिशन!"
+      ],
+      "culturalNotes": [
+        "भारत सरकार ने 'राष्ट्रीय क्वांटम मिशन' (National Quantum Mission) और 'इंडिया एआई मिशन' को मंजूरी दी है, जिसका उद्देश्य क्वांटम कंप्यूटिंग और स्वदेशी एआई नवाचार में भारत को वैश्विक केंद्र बनाना है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"परिणाम\":",
+          "prompt": "मानव मस्तिष्क के न्यूरॉन्स की कार्यप्रणाली से प्रेरित होकर बनाए गए कंप्यूटर एल्गोरिदम को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 30.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पुस्तकालय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («डिग्री» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कलम» का अनुचित स्थान)"
+            "कृत्रिम तंत्रिका नेटवर्क (Artificial Neural Networks - Multi-layered computational learning models)",
+            "टेलीफोन केबल नेटवर्क (तार कनेक्शन)",
+            "सड़क परिवहन नेटवर्क (सड़कें)",
+            "रेडियो प्रसारण नेटवर्क (रेडियो स्टेशन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "मानव मस्तिष्क की भांति सीखने वाले कम्प्यूटेशनल मॉडल को «कृत्रिम तंत्रिका नेटवर्क» (Neural Network) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"परिणाम\":",
+          "prompt": "क्वांटम कंप्यूटर में सूचना की मूल इकाई क्या होती है, जो सुपरपोजिशन में 0 और 1 दोनों अवस्थाओं में रह सकती है?",
           "options": [
-            "हम इस पाठ में इकाई 30.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («डिग्री» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कलम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पुस्तकालय» का अशुद्ध रूप)"
+            "क्यूबिट (Qubit / Quantum Bit - Fundamental unit of quantum computing information)",
+            "बाइनरी बाइट (पारंपरिक मेमोरी)",
+            "किलोग्राम (वजन माप)",
+            "सेंटीमीटर (दूरी माप)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "क्वांटम कंप्यूटिंग की आधारभूत सूचना इकाई को «क्यूबिट» (Qubit) कहा जाता है।"
         }
       ]
     },
@@ -12501,17 +12520,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"परिणाम\": Which sentence is completely correct?",
+          "prompt": "कृत्रिम बुद्धिमत्ता और क्वांटम तकनीक (AI & Quantum Computing) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 30.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कलम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पुस्तकालय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («डिग्री» से संबंधित)"
+            "जिम्मेदार कृत्रिम बुद्धिमत्ता और क्वांटम कंप्यूटिंग का अनुसंधान मानव जीवन को सुगम बनाने और जटिल वैज्ञानिक चुनौतियों को हल करने का नया क्षितिज है। (Research in responsible artificial intelligence and quantum computing is a new horizon for simplifying human life and solving complex scientific challenges.)",
+            "एआई का काम केवल रोबोट बनाकर लोगों से झगड़ा कराना है।",
+            "क्वांटम का अर्थ केवल टीवी पर कार्टून देखना होता है।",
+            "कंप्यूटर को पानी में डुबोकर धोना ही क्वांटम कंप्यूटिंग है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जिम्मेदार कृत्रिम बुद्धिमत्ता और क्वांटम कंप्यूटिंग का अनुसंधान... नया क्षितिज है» आधुनिक प्रौद्योगिकी का प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u30-l3": {
@@ -12519,53 +12539,62 @@
     "subject": "hindi",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "वैज्ञानिक अनुसंधान और तकनीकी विमर्श (Scientific Discourse) (Part 3)",
+    "title": "जैव प्रौद्योगिकी, जीन संपादन और संक्रामक रोग नियंत्रण (Biotechnology, Gene Editing & Immunology)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.3) with authentic linguistic precision.",
+    "objective": "जैव प्रौद्योगिकी (Biotechnology), क्रिस्पर-कैस9 जीन संपादन (CRISPR-Cas9), पुनः संयोजक डीएनए तकनीक तथा वैक्सीन प्रतिरक्षा विज्ञान की पारिभाषिक शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जैव प्रौद्योगिकी, जीनोमिक्स और चिकित्सा विज्ञान के मानक नियम:\n\n1. **जैव प्रौद्योगिकी एवं आनुवंशिक अभियांत्रिकी**:\n   - **पुनः संयोजक डीएनए तकनीक (Recombinant DNA)** — विभिन्न जीवों के डीएनए अंशों को जोड़कर नए लाभकारी प्रोटीनों का उत्पादन;\n   - **जीनोम अनुक्रमण (Genome Sequencing)** — किसी जीव के संपूर्ण डीएनए अनुक्रम का सटीक मानचित्रण तैयार करना।\n\n2. **जीन संपादन (Gene Editing - CRISPR-Cas9)**:\n   - **आणविक कैंची** — डीएनए के विशिष्ट दोषपूर्ण खंड को काटकर सही अनुक्रम से प्रतिस्थापित करने की अत्यंत सटीक तकनीक;\n   - **उपयोग** — सिकल सेल एनीमिया, थैलेसीमिया जैसी वंशानुगत बीमारियों का उपचार तथा जलवायु-सहनशील बीजों का निर्माण।\n\n3. **टीकाकरण एवं संक्रामक रोग नियंत्रण**:\n   - *एम-आरएनए (mRNA) वैक्सीन प्रौद्योगिकी, एंटीबॉडी निर्माण तथा महामारियों की रोकथाम हेतु निगरानी तंत्र।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 30.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 30."
+          "target": "क्रिस्पर-कैस9 जैसी आधुनिक जीन संपादन तकनीकों ने आनुवंशिक रोगों के स्थायी उपचार और कीट-प्रतिरोधी फसलों के विकास में नए द्वार खोले हैं।",
+          "reading": "CRISPR-Cas9 jaisi aadhunik gene sampaadan takneekon ne aanuvanshik rogon ke sthaayi upchaar aur keet-pratirodhi faslon ke vikaas mein naye dvaar khole hain. [krɪspər-kɛːs-nɔː dʒɛːsiː aːd̪ʱʊnɪk dʒiːn səmbaːd̪ən t̪əkniːkõː neː aːnʊʋənʃɪk roːɡõː keː st̪ʰaːjiː ʊptʃaːr ɔːr kiːʈ-prət̪ɪroːd̪ʱiː pʰəslõː keː ʋɪkaːs mẽː nəjeː d̪ʋaːr kʰoːleː hɛ̃ː] (CRISPR-Cas9 JY-see ah-dhoo-NEEK gene suhm-pah-DUHN tuhk-NEE-kohn nay ah-noo-vuhn-SHEEK roh-GOHN kay sthah-YEE oop-CHAHR owr keet-pruh-tee-ROH-dhee fuhs-LOHN kay vee-KAHS mayn nuh-YAY DVAHR KHOH-lay hyhn)",
+          "translation": "Modern gene editing technologies like CRISPR-Cas9 have opened new frontiers in the permanent cure of genetic diseases and the development of pest-resistant crops."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 30-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जैव प्रौद्योगिकीविदों ने पुनः संयोजक डीएनए तकनीक के माध्यम से जीवनरक्षक टीकों और मोनोक्लोनल एंटीबॉडीज का त्वरित निर्माण संभव किया।",
+          "reading": "jaiv praudyogikividon ne punah-sanyojak DNA takneek ke maadhyam se jeevan-rakshak teekon aur monoclonal antibodies ka tvarit nirmaan sambhav kiya. [dʒɛːʋ prɔːd̪joːɡɪkɪʋɪd̪õː neː pʊnəɦ-sənjoːdʒək ɖiːɛnɛː t̪əkniːk keː maːd̪ʱjəm seː dʒiːʋən-rəkʃək ʈiːkõː ɔːr moːnoːkloːnəl ɛnʈiːbɔːɖiːz kaː t̪ʋərɪt̪ nɪrmaːɳ səmbʱəʋ kɪjaː] (jyv prow-dyoh-gee-kee-vee-DOHN nay poo-nuh-suhn-YOH-juhk DNA tuhk-NEEK kay MAHDH-yuhm say JEE-vuhn-RUHK-shuhk tee-KOHN owr monoclonal antibodies kah TVUH-reet neer-MAHN suhm-BHUHV kee-YAH)",
+          "translation": "Biotechnologists made the rapid production of life-saving vaccines and monoclonal antibodies possible through recombinant DNA technology."
+        },
+        {
+          "target": "संक्रामक महामारियों की रोकथाम हेतु आणविक स्तर पर वायरस के जीनोम अनुक्रमण द्वारा नए म्यूटेशनों की समय रहते पहचान की जाती है।",
+          "reading": "sankraamak mahaamaariyon ki rokthaam hetu aanavik star par virus ke genome anukraman dvaara naye mutations ki samay rahte pahchaan ki jaati hai. [səŋkraːmək məɦaːmaːrijõː kiː roːkt̪ʰaːm ɦeːt̪ʊ aːɳəʋɪk st̪ər pər ʋaːɪrəs keː dʒiːnoːm ənʊkrəməɳ d̪ʋaːraː nəjeː mjuːʈeːʃənz kiː səməj rəɦt̪eː pəɦtʃaːn kiː dʒaːt̪iː hɛː] (suhng-krah-MUHK muh-hah-mah-ree-YOHN kee rohk-THAHM HAY-too ah-nuh-VEEK STUHR puhr virus kay genome uh-noo-kruh-MUHN dvaah-RAH nuh-YAY mutations kee SUH-muy ruh-huh-TAY puhh-CHAHN kee JAH-tee hy)",
+          "translation": "To prevent infectious epidemics, new mutations are identified in time at the molecular level through viral genome sequencing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "बायोटेक: जीन संपादन (CRISPR-Cas9), पुनः संयोजक डीएनए, जीनोम अनुक्रमण, एम-आरएनए वैक्सीन!"
+      ],
+      "culturalNotes": [
+        "हैदराबाद की जीनोम वैली (Genome Valley) और पुणे भारत के प्रमुख बायोटेक क्लस्टर हैं, जिन्होंने वैश्विक स्तर पर किफायती टीकों और जीवनरक्षक दवाओं का निर्माण कर भारत को 'दुनिया की फार्मेसी' का दर्जा दिलाया।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पुस्तकालय\":",
+          "prompt": "डीएनए के किसी विशिष्ट खंड को सटीकता से काटने और बदलने वाली आणविक कैंची तकनीक का नाम क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 30.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («डिग्री» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कलम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैंक» का अनुचित स्थान)"
+            "क्रिस्पर-कैस9 (CRISPR-Cas9 - Precision molecular gene editing tool)",
+            "दर्जी की कैंची (कपड़ा काटना)",
+            "घास काटने की मशीन (बागवानी)",
+            "लकड़ी की आरी (बढ़ई का औजार)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सटीक जीन संपादन करने वाली आणविक तकनीक को «क्रिस्पर-कैस9» (CRISPR-Cas9) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पुस्तकालय\":",
+          "prompt": "किसी जीव के डीएनए में मौजूद सभी जीनों के क्रम का पूर्ण अध्ययन और मानचित्रण करने को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 30.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कलम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैंक» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («डिग्री» का अशुद्ध रूप)"
+            "जीनोम अनुक्रमण (Genome Sequencing - Complete mapping of an organism's DNA base pairs)",
+            "रक्तचाप नापना (दबाव जांच)",
+            "आंखों का चश्मा (दृष्टि जांच)",
+            "वजन तोलना (शारीरिक भार)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "डीएनए के सभी क्षारों का क्रम निर्धारित करने की विधि को «जीनोम अनुक्रमण» (Genome Sequencing) कहते हैं।"
         }
       ]
     },
@@ -12573,17 +12602,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पुस्तकालय\": Which sentence is completely correct?",
+          "prompt": "जैव प्रौद्योगिकी और जीन संपादन (Biotechnology & Genetics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 30.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैंक» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («डिग्री» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कलम» से संबंधित)"
+            "जीन संपादन और पुनः संयोजक डीएनए तकनीक आनुवंशिक व्याधियों के उन्मूलन और कृषि उत्पादकता बढ़ाने में क्रांतिकारी वरदान सिद्ध हो रही हैं। (Gene editing and recombinant DNA technology are proving to be revolutionary boons in eradicating genetic disorders and enhancing agricultural productivity.)",
+            "बायोटेक्नोलॉजी का मतलब जंगल के पेड़ काटकर आग लगाना है।",
+            "जीनोम सीक्वेंसिंग केवल जादू का मंतर पढ़ना होता है।",
+            "टीकाकरण से हमेशा बचना चाहिए ताकि बीमारियां फैल सकें।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जीन संपादन और पुनः संयोजक डीएनए तकनीक... क्रांतिकारी वरदान सिद्ध हो रही हैं» जैव प्रौद्योगिकी का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u30-l4": {
@@ -12591,53 +12621,62 @@
     "subject": "hindi",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "वैज्ञानिक अनुसंधान और तकनीकी विमर्श (Scientific Discourse) (Part 4)",
+    "title": "नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और नैनो-प्रौद्योगिकी (Renewable Energy, Green Hydrogen & Nanotech)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.4) with authentic linguistic precision.",
+    "objective": "हरित हाइड्रोजन (Green Hydrogen), सौर फोटोवोल्टाइक सेल, नैनो-प्रौद्योगिकी तथा सेमीकंडक्टर फैब्रिकेशन की समकालीन तकनीकी शब्दावली में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "नवीकरणीय ऊर्जा, हरित हाइड्रोजन और नैनो-प्रौद्योगिकी के मानक नियम:\n\n1. **हरित हाइड्रोजन अर्थव्यवस्था (Green Hydrogen)**:\n   - **जल का इलेक्ट्रोलिसिस** — सौर अथवा पवन ऊर्जा से पानी के अणुओं ($H_2O$) को हाइड्रोजन और ऑक्सीजन में विभाजित करना;\n   - **शून्य कार्बन उत्सर्जन** — परिवहन, इस्पात और उर्वरक उद्योगों को प्रदूषण-मुक्त ईंधन प्रदान करना।\n\n2. **उन्नत सौर और बैटरी प्रौद्योगिकी**:\n   - **सौर फोटोवोल्टाइक (PV) सेल** — पेरोव्स्काइट और सिलिकॉन आधारित सौर पैनलों की दक्षता में वृद्धि;\n   - **सॉलिड-स्टेट व लिथियम-आयन बैटरी** — ऊर्जा भंडारण और इलेक्ट्रिक वाहनों हेतु उच्च ऊर्जा घनत्व।\n\n3. **नैनो-प्रौद्योगिकी एवं सेमीकंडक्टर**:\n   - *1 से 100 नैनोमीटर पैमाने पर पदार्थों का नियंत्रण कर अति-सूक्ष्म माइक्रोचिप्स, कार्बन नैनोट्यूब और स्मार्ट सेंसर्स का निर्माण।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 30.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 30."
+          "target": "हरित हाइड्रोजन और उन्नत सौर ऊर्जा प्रणालियां शून्य कार्बन उत्सर्जन (नेट ज़ीरो) का वैश्विक लक्ष्य प्राप्त करने में सर्वाधिक महत्वपूर्ण भूमिका निभा रही हैं।",
+          "reading": "Harit hydrogen aur unnat saur oorja pranaaliyaan shoonya carbon utsarjan (net zero) ka vaishvik lakshya praapt karne mein sarvaadhik mahatvapoorna bhoomika nibha rahi hain. [ɦərɪt̪ ɦaːɪɖroːdʒən ɔːr ʊnːət̪ sɔːr uːrdʒaː prənaːlɪjaː̃ ʃuːnjə kaːrbən ʊtsərdʒən nɛʈ ziːroː kaː ʋɛːʃʋɪk ləkʃjə praːpt̪ kərneː mẽː sərʋaːd̪ʱɪk məɦət̪ʋəpuːrɳ bʱuːmɪkaː nɪbʱaː rəɦiː hɛ̃ː] (HUH-reet hydrogen owr OON-nuht SOWR OOR-jah pruh-nah-lee-YAHN SHOON-yuh carbon oot-suhr-JUHN net zero kah vy-SHVEEK LUKSH-yuh PRAHPT KUHR-nay mayn suhr-vah-DHEEK muh-huht-vuh-POOR-nuh bhoo-mee-KAH nee-BHAH ruh-HEE hyhn)",
+          "translation": "Green hydrogen and advanced solar energy systems are playing the most vital role in achieving the global goal of net zero carbon emissions."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 30-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "नैनो-प्रौद्योगिकी के माध्यम से आणविक स्तर पर निर्मित नैनो-कणों का उपयोग सेमीकंडक्टर चिप्स और सटीक औषधि वितरण में किया जा रहा है।",
+          "reading": "Nano-praudyogiki ke maadhyam se aanavik star par nirmit nano-kanon ka upayog semiconductor chips aur sateek aushadhi vitaran mein kiya ja raha hai. [nɛːnoː-prɔːd̪joːɡɪkiː keː maːd̪ʱjəm seː aːɳəʋɪk st̪ər pər nɪrmɪt̪ nɛːnoː-kəɳõː kaː ʊpjoːɡ sɛmiːkənɖəkʈər tʃɪps ɔːr sətniːk ɔːʂəd̪ʱiː ʋɪt̪rəɳ mẽː kɪjaː dʒaː rəɦaː hɛː] (nano-prow-dyoh-gee-KEE kay MAHDH-yuhm say ah-nuh-VEEK STUHR puhr neer-MEET nano-kuh-NOHN kah oop-YOHG semiconductor chips owr suh-TEEK ow-shuh-DHEE vee-tuh-RUHN mayn kee-YAH JAH ruh-HAH hy)",
+          "translation": "Nano-particles synthesized at the molecular scale through nanotechnology are being utilized in semiconductor chips and targeted drug delivery."
+        },
+        {
+          "target": "सॉलिड-स्टेट बैटरी तकनीक इलेक्ट्रिक वाहनों को अधिक सुरक्षा, त्वरित चार्जिंग और लंबी दूरी तय करने की क्षमता प्रदान कर रही है।",
+          "reading": "Solid-state battery takneek electric vaahanon ko adhik suraksha, tvarit charging aur lambi doori tay karne ki kshamata pradaan kar rahi hai. [sɔːlɪɖ-steːʈ bɛːʈriː t̪əkniːk ɪlɛkʈrɪk ʋaːɦnõː koː əd̪ʱɪk sʊrəkʃaː t̪ʋərɪt̪ tʃaːrdʒɪŋɡ ɔːr ləmbiː d̪uːriː t̪əj kərneː kiː kʃəmt̪aː prəd̪aːn kər rəɦiː hɛː] (solid-state battery tuhk-NEEK electric vah-huh-NOHN koh uh-DHEEK soo-ruhk-SHAH, TVUH-reet charging owr LUHM-bee doo-REE TUY KUHR-nay kee kshuh-muh-TAH pruh-DAHN kuhr ruh-HEE hy)",
+          "translation": "Solid-state battery technology is providing electric vehicles with enhanced safety, rapid charging, and long-range driving capability."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "हरित तकनीक: ग्रीन हाइड्रोजन, सौर सेल (PV), नैनो-प्रौद्योगिकी, सेमीकंडक्टर फैब्रिकेशन!"
+      ],
+      "culturalNotes": [
+        "गुजरात के धोलेरा और असम के मोरीगांव में भारत के प्रथम अत्याधुनिक सेमीकंडक्टर फैब्रिकेशन संयंत्र (Semiconductor Fabs) स्थापित किए जा रहे हैं, जो देश को चिप निर्माण में आत्मनिर्भर बनाएंगे।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"डिग्री\":",
+          "prompt": "सौर अथवा पवन ऊर्जा से पानी के इलेक्ट्रोलिसिस द्वारा उत्पादित प्रदूषण-मुक्त स्वच्छ हाइड्रोजन को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 30.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कलम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैंक» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खाता» का अनुचित स्थान)"
+            "हरित हाइड्रोजन / ग्रीन हाइड्रोजन (Green Hydrogen - Zero-carbon fuel produced via water electrolysis using renewables)",
+            "काला कोयला (जीवाश्म ईंधन)",
+            "मिट्टी का तेल (केरोसिन)",
+            "लकड़ी का बुरादा (चूल्हे का ईंधन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अक्षय ऊर्जा से जल के विद्युत अपघटन द्वारा बनने वाली स्वच्छ हाइड्रोजन को «हरित हाइड्रोजन» (Green Hydrogen) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"डिग्री\":",
+          "prompt": "अति-सूक्ष्म पैमाने (1 से 100 नैनोमीटर) पर पदार्थों के हेरफेर और अनुप्रयोग के विज्ञान को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 30.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैंक» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खाता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कलम» का अशुद्ध रूप)"
+            "नैनो-प्रौद्योगिकी / नैनोटेक्नोलॉजी (Nanotechnology - Manipulation of matter at the nanoscale)",
+            "भवन निर्माण (सिविल इंजीनियरिंग)",
+            "लकड़ी की नक्काशी (काष्ठ कला)",
+            "कपड़ा सिलाई (दर्जी विज्ञान)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "परमाणु और आणविक स्तर पर काम करने वाली सूक्ष्म तकनीक को «नैनो-प्रौद्योगिकी» (Nanotechnology) कहा जाता है।"
         }
       ]
     },
@@ -12645,17 +12684,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"डिग्री\": Which sentence is completely correct?",
+          "prompt": "नवीकरणीय ऊर्जा और नैनो-प्रौद्योगिकी (Green Energy & Nanotechnology) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 30.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खाता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कलम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैंक» से संबंधित)"
+            "हरित हाइड्रोजन, सेमीकंडक्टर निर्माण और नैनो-प्रौद्योगिकी का समन्वय ही 21वीं सदी में सतत आर्थिक विकास और ऊर्जा आत्मनिर्भरता की कुंजी है। (The synthesis of green hydrogen, semiconductor manufacturing, and nanotechnology is the key to sustainable economic development and energy independence in the 21st century.)",
+            "ऊर्जा बचाने के लिए सभी फैक्ट्रियां बंद कर देनी चाहिए।",
+            "ग्रीन हाइड्रोजन केवल हरे रंग का एक कपड़ा होता है।",
+            "नैनो-प्रौद्योगिकी का अर्थ केवल खिलौना बनाना है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«हरित हाइड्रोजन, सेमीकंडक्टर निर्माण और नैनो-प्रौद्योगिकी का समन्वय... ऊर्जा आत्मनिर्भरता की कुंजी है» हरित ऊर्जा का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u30-l5": {
@@ -12663,53 +12703,62 @@
     "subject": "hindi",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "वैज्ञानिक अनुसंधान और तकनीकी विमर्श (Scientific Discourse) (Part 5)",
+    "title": "वैज्ञानिक दृष्टिकोण, अनुसंधान नीति व महा-समेकन (Scientific Temperament, Research Policy & Synthesis)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 30.5) with authentic linguistic precision.",
+    "objective": "संविधान के अनुच्छेद 51(क)(ज) के वैज्ञानिक दृष्टिकोण, राष्ट्रीय अनुसंधान फाउंडेशन (NRF), पेटेंट व नवाचार नीति के समग्र विमर्श में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "वैज्ञानिक अनुसंधान नीति, नवाचार पारिस्थितिकी तंत्र और वैज्ञानिक दृष्टिकोण का समग्र संश्लेषण:\n\n1. **संवैधानिक दायित्व: वैज्ञानिक दृष्टिकोण (Scientific Temper)**:\n   - **अनुच्छेद 51(क)(ज)** — प्रत्येक भारतीय नागरिक का मूल कर्तव्य है कि वह वैज्ञानिक दृष्टिकोण, मानवतावाद, जिज्ञासा तथा सुधार की भावना का विकास करे;\n   - **अंधविश्वास एवं रूढ़िवादिता का शमन** — साक्ष्य-आधारित तर्कशीलता और आलोचनात्मक चिंतन को प्रोत्साहन।\n\n2. **राष्ट्रीय अनुसंधान एवं नवाचार नीति**:\n   - **राष्ट्रीय अनुसंधान फाउंडेशन (Anusandhan NRF)** — विश्वविद्यालयों और अनुसंधान प्रयोगशालाओं में मौलिक व अनुप्रयुक्त शोध हेतु वृहद वित्तपोषण;\n   - **बौद्धिक संपदा एवं पेटेंट** — स्वदेशी आविष्कारों का संरक्षण और प्रौद्योगिकी व्यावसायीकरण।\n\n3. **भारतीय विज्ञान की गौरवशाली परंपरा**:\n   - *आर्यभट्ट, वराहमिहिर और सुश्रुत से लेकर सी. वी. रमन (नोबेल पुरस्कार 1930), जगदीश चंद्र बसु, सत्येंद्र नाथ बोस (बोसॉन कण), मेघनाद साहा और डॉ. एपीजे अब्दुल कलाम का शाश्वत योगदान।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 30.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 30."
+          "target": "भारतीय संविधान के अनुच्छेद 51(क)(ज) के अनुसार प्रत्येक नागरिक का मूल कर्तव्य है कि वह वैज्ञानिक दृष्टिकोण, मानवतावाद और ज्ञानार्जन की भावना का विकास करे।",
+          "reading": "Bhaarateey samvidhaan ke anuched 51(A)(h) ke anusaar pratyek naagrik ka mool kartavya hai ki vah vaijnyaanik drishtikon, maanavataavaad aur jnyaanaarjan ki bhaavana ka vikaas kare. [bʱaːrt̪iːj səmʋɪd̪ʱaːn keː ənʊtʃʰeːd̪ ɪkjaːʋən kə dʒə keː ənʊsaːr prətjeːk naːɡrɪk kaː muːl kərt̪əʋjə hɛː kɪ ʋəɦ ʋɛːdʒɲaːnɪk drɪʂʈɪkoːɳ maːnʋt̪aːʋaːd̪ ɔːr dʒɲaːnaːrdʒən kiː bʱaːʋnaː kaː ʋɪkaːs kəreː] (bhahr-TEE-yuh suhm-vee-DHAHN kay uh-noo-CHHAYD 51(A)(h) kay uh-noo-SAHR pruht-YAYK nahg-REEK kah MOOL kuhr-TUHV-yuh hy kee vuh vy-jnyah-NEEK dreesh-tee-KOHN, mah-nuhv-tah-VAHD owr jnyah-nahr-JUHN kee bhahv-NAH kah vee-KAHS kuh-RAY)",
+          "translation": "According to Article 51A(h) of the Indian Constitution, it is the fundamental duty of every citizen to develop the scientific temper, humanism, and the spirit of inquiry and reform."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 30-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "राष्ट्रीय अनुसंधान फाउंडेशन और नवाचार नीतियां विश्वविद्यालयों में मौलिक शोध और प्रयोगशाला से उद्योग तक प्रौद्योगिकी हस्तांतरण को गति प्रदान करती हैं।",
+          "reading": "Raashtreey anusandhaan foundation aur navaachaar neetiyaan vishvavidyaalayon mein maulik shodh aur prayogshaala se udyog tak praudyogiki hastaantaran ko gati pradaan karti hain. [raːʂʈriːj ənʊsən̪d̪ʱaːn fɑːʊnɖeːʃən ɔːr nəʋaːtʃaːr niːt̪ɪjaː̃ ʋɪʃʋəʋɪd̪jaːljõː mẽː mɔːlɪk ʃoːd̪ʱ ɔːr prəjoːɡʃaːlaː seː ʊd̪joːɡ t̪ək prɔːd̪joːɡɪkiː ɦəst̪aːn̪t̪rəɳ koː ɡət̪ɪ prəd̪aːn kərt̪iː hɛ̃ː] (rahsh-TREE-yuh uh-noo-suhn-DHAHN foundation owr nuh-vah-CHAHR nee-tee-YAHN veesh-vuh-veed-yah-luh-YOHN mayn MOW-leek SHOHDH owr pruh-yohg-SHAH-lah say ood-YOHG tuhk prow-dyoh-gee-KEE huhs-tahn-tuh-RUHN koh GUH-tee pruh-DAHN KUHR-tee hyhn)",
+          "translation": "The National Research Foundation and innovation policies accelerate fundamental research in universities and the transfer of technology from laboratory to industry."
+        },
+        {
+          "target": "सर सी. वी. रमन, होमी जहांगीर भाभा और डॉ. एपीजे अब्दुल कलाम की वैज्ञानिक विरासत भारत को वैश्विक ज्ञान अर्थव्यवस्था का सशक्त केंद्र बनाती है।",
+          "reading": "Sir C. V. Raman, Homi Jehangir Bhabha aur Dr. A. P. J. Abdul Kalam ki vaijnyaanik viraasat Bhaarat ko vaishvik jnyaan arthavyavastha ka sashakt kendr banaati hai. [sər siː ʋiː rəmən hoːmiː dʒəɦaːŋɡiːr bʱaːbʱaː ɔːr ɖɔːkʈər eː piː dʒeː əbd̪ʊl kəlaːm kiː ʋɛːdʒɲaːnɪk ʋɪraːsət̪ bʱaːrət̪ koː ʋɛːʃʋɪk dʒɲaːn ərt̪ʰʋjəʋəst̪ʰaː kaː səʃəkt̪ keːn̪d̪r bənaːt̪iː hɛː] (Sir C. V. Raman, HOH-mee juh-hahn-GEER BHAH-bhah owr Dr. A. P. J. Abdul Kalam kee vy-jnyah-NEEK vee-rah-SUHT BHAH-ruht koh vy-SHVEEK jnyahn uhrth-vyuh-vuhs-THAH kah suh-SHUKT KAYN-druh buh-nah-TEE hy)",
+          "translation": "The scientific legacy of Sir C. V. Raman, Homi Jehangir Bhabha, and Dr. A. P. J. Abdul Kalam makes India a formidable center of the global knowledge economy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "विज्ञान समेकन: अनुच्छेद 51(क)(ज) वैज्ञानिक दृष्टिकोण, अनुसंधान फाउंडेशन (NRF), रमन प्रभाव!"
+      ],
+      "culturalNotes": [
+        "प्रतिवर्ष 28 फरवरी को 'राष्ट्रीय विज्ञान दिवस' (National Science Day) मनाया जाता है, क्योंकि इसी दिन 1928 में सर सी. वी. रमन ने 'रमन प्रभाव' (Raman Effect) की युगांतरकारी खोज की थी, जिसके लिए उन्हें भौतिकी का नोबेल पुरस्कार मिला।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कलम\":",
+          "prompt": "भारतीय संविधान के किस अनुच्छेद में वैज्ञानिक दृष्टिकोण, मानवतावाद और सुधार की भावना के विकास को नागरिकों का मूल कर्तव्य बताया गया है?",
           "options": [
-            "हम इस पाठ में इकाई 30.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैंक» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खाता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ऋण» का अनुचित स्थान)"
+            "अनुच्छेद 51(क)(ज) (Article 51A(h) - Fundamental duty to develop scientific temper and humanism)",
+            "अनुच्छेद 1 (संघ का नाम)",
+            "अनुच्छेद 14 (समानता का अधिकार)",
+            "अनुच्छेद 21 (प्राण व दैहिक स्वतंत्रता)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "संविधान के «अनुच्छेद 51(क)(ज)» में वैज्ञानिक दृष्टिकोण का विकास प्रत्येक नागरिक का मूल कर्तव्य है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कलम\":",
+          "prompt": "प्रकाश प्रकीर्णन के विख्यात 'रमन प्रभाव' (Raman Effect) की खोज हेतु भौतिकी का नोबेल पुरस्कार प्राप्त करने वाले प्रथम भारतीय वैज्ञानिक कौन थे?",
           "options": [
-            "हम इस पाठ में इकाई 30.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खाता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ऋण» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैंक» का अशुद्ध रूप)"
+            "सर सी. वी. रमन (Sir C. V. Raman - Nobel Laureate in Physics 1930 for Raman Scattering)",
+            "रवींद्रनाथ टैगोर (साहित्य नोबेल)",
+            "अमर्त्य सेन (अर्थशास्त्र नोबेल)",
+            "कैलाश सत्यार्थी (शांति नोबेल)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "1930 में भौतिकी का नोबेल पुरस्कार जीतने वाले महान भारतीय वैज्ञानिक «सर सी. वी. रमन» थे।"
         }
       ]
     },
@@ -12717,17 +12766,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कलम\": Which sentence is completely correct?",
+          "prompt": "वैज्ञानिक अनुसंधान और नवाचार नीति (Scientific Research & Innovation Policy) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 30.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ऋण» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैंक» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खाता» से संबंधित)"
+            "वैज्ञानिक दृष्टिकोण का राष्ट्रीय प्रसार, मौलिक अनुसंधान का सुदृढ़ीकरण और अत्याधुनिक नवाचार ही भारत को आत्मनिर्भर व विश्वगुरु बनाने का सशक्त आधार हैं। (The national proliferation of scientific temperament, consolidation of fundamental research, and cutting-edge innovation are the potent foundations for making India self-reliant and a global leader.)",
+            "वैज्ञानिक अनुसंधान पर पैसा खर्च करना समय और धन की बर्बादी है।",
+            "विज्ञान की पुस्तकों को जलाकर केवल अंधविश्वास मानना चाहिए।",
+            "राष्ट्रीय विज्ञान दिवस पर वैज्ञानिकों का उपहास उड़ाना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«वैज्ञानिक दृष्टिकोण का राष्ट्रीय प्रसार, मौलिक अनुसंधान का सुदृढ़ीकरण... सशक्त आधार हैं» वैज्ञानिक चेतना का सर्वोच्च प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u31-l1": {
