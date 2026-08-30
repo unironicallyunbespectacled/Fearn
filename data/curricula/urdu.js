@@ -13195,53 +13195,62 @@
     "subject": "urdu",
     "unit": 32,
     "lessonNumber": 1,
-    "title": "سفارتی آداب اور دوطرفہ معاہدات (Diplomacy & Treaties) (Part 1)",
+    "title": "علمِ بیان کے ارکان: تشبیہ، استعارہ، مجازِ مرسل اور کنایہ (Ilm-ul-Bayan: Simile, Metaphor & Metonymy)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.1) with authentic precision.",
+    "objective": "علمِ بیان کے چار اساسی ارکان: تشبیہ (Simile)، استعارہ (Metaphor)، مجازِ مرسل (Synecdoche / Metonymy)، اور کنایہ (Metonymic Concealment) کے بلاغتی اصولوں پر کامل مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں علمِ بیان کے چار بنیادی بلاغتی ستون (Ilm-ul-Bayan - Science of Rhetoric):\n\n1. **تشبیہ اور استعارہ کا امتیاز**:\n   - «**تشبیہ (Simile)**: کسی چیز کو دوسری چیز کے مانند قرار دینا (مشبہ، مشبہ بہ، وجہِ شبہ، حرفِ تشبیہ)»؛\n   - «**استعارہ (Metaphor)**: لفظ کو اس کے حقیقی معنی کی بجائے ادھار لے کر استعمال کرنا (مستعار لہ، مستعار منہ، وجہِ جامع)»۔\n\n2. **مجازِ مرسل اور کنایہ**:\n   - «**مجازِ مرسل (Metonymy / Synecdoche)**: غیر حقیقی معنی میں استعمال جہاں تشبیہ کے علاوہ دیگر قرائن موجود ہوں»؛\n   - «**کنایہ (Concealed Allusion)**: صریح بات کی بجائے پردۂ اخفا میں اشارہ کرنا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "علمِ بیان میں استعارہ تشبیہ سے زیادہ بلیغ اور پرتاثیر ہوتا ہے کیونکہ اس میں مشبہ کو عین مشبہ بہ ہی فرض کر لیا جاتا ہے۔",
+          "reading": "Ilm-ul-Bayaan mein isti'aara tashbeeh se zyaada baleegh aur pur-taaseer hota hai kyonkeh is mein mushabbah ko ain mushabbah-bihi hi farz kar liya jaata hai. [ɪlm-ʊl-bəjaːn mẽː ɪst̪ɪʔaːraː t̪əʃbiːh seː zjaːd̪aː bəliːɣ ɔːr pʊr-t̪aːsiːr hoːt̪aː hɛː kjõːkɛh ɪs mẽː mʊʃəbːəh koː əɛn mʊʃəbːəh-bɪhiː hiː fərz kər lɪjaː dʒaːt̪aː hɛː] (EELM-ool-buh-YAHN mayn ees-tee-AH-rah tuhsh-BEEH say ZYAH-dah buh-LEEGH owr poor-tah-SEER hoh-TAH HY kyohn-KYH ees mayn moo-shuhb-BAH koh AYN moo-shuhb-bah-bee-HEE HEE fuhrz kuhr LEE-yah jah-TAH HY)",
+          "translation": "In the science of rhetoric (Ilm-ul-Bayan) [classical rhetoric: Ilm-ul-Bayaan], a metaphor (Isti'aara) is more eloquent and impactful than a simile because the subject is assumed to be identical to the metaphoric vehicle."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 32-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کنائے کا استعمال کلام کو شائستگی اور پردۂ اخفا عطا کرتا ہے جہاں اصل مفہوم کا ادراک سیاق و سباق سے ہوتا ہے۔",
+          "reading": "Kinaaye ka istemaal kalaam ko shaayastagi aur parda-e-ikhfa ata karta hai jahaan asal mafhoom ka idraak siyaaq o sabaaq se hota hai. [kɪnaːjeː kaː ɪst̪ɪʔmaːl kəlaːm koː ʃaːjəst̪əɡiː ɔːr pərd̪aː-eː-ɪxfaː ət̪aː kərt̪aː hɛː dʒəhãː əsl məfhuːm kaː ɪd̪raːk sɪjaːq oː səbaːq seː hoːt̪aː hɛː] (kee-nah-YAY kah ees-tyh-MAHL kuh-LAHM koh shah-yuhs-tuh-GEE owr puhr-dah-ay-eekh-FAH uh-TAH kuhr-TAH HY juh-HAHN uh-SUHL muhf-HOOM kah eed-RAHK see-YAHQ oh suh-BAHQ say hoh-TAH HY)",
+          "translation": "The use of metonymic concealment (Kinaaya) bestows politeness and subtle veil upon discourse, where the true intent is comprehended from the context."
+        },
+        {
+          "target": "مجازِ مرسل کے ذریعے جب ہم 'بادام کھانا عقل بڑھاتا ہے' کہتے ہیں تو سبب بول کر مسبب مراد لیا جاتا ہے۔",
+          "reading": "Majaaz-e-mursal ke zariye jab hum 'badaam khaana aql barhaata hai' kehtay hain to sabab bol kar musabbab muraad liya jaata hai. [mədʒaːz-eː-mʊrsəl keː zərɪjeː dʒəb həm baːd̪aːm kʰaːnaː əql bəɽʱaːt̪aː hɛː kɛɦt̪eː hɛ̃ː t̪oː səbəb boːl kər mʊsəbːəb mʊraːd̪ lɪjaː dʒaːt̪aː hɛː] (muh-JAHZ-ay-moor-SUHL kay zuh-ree-YAY JUHB hum bah-DAHM khah-NAH UHQL buhr-hah-TAH HY kyh-TAY HYN toh suh-BUHB bohl kuhr moo-suhb-BUHB moo-RAHD LEE-yah jah-TAH HY)",
+          "translation": "Through synecdoche / metonymy (Majaaz-e-Mursal), when we say 'eating almonds increases intellect', the cause (almonds) is stated to denote the effect (cognitive nourishment)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "علمِ بیان کے چار ارکان: تشبیہ (مانند) + استعارہ (عین ہونا) + مجازِ مرسل (علاقۂ غیر تشبیہ) + کنایہ (پوشیدہ اشارہ)!"
+      ],
+      "culturalNotes": [
+        "مرزا غالب اور میر تقی میر کے اشعار علمِ بیان کے استعارات اور کنایات کے اعلیٰ ترین کلاسیکی نمونے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"تجارت\":",
+          "prompt": "علمِ بیان کی اس صنعت کو کیا کہتے ہیں جس میں لفظ کو ادھار لے کر کسی چیز کے لیے ہو بہو استعمال کیا جائے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دستاویز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دستخط» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اصول» کی خرابی)"
+            "استعارہ (Isti'aara / Metaphor - Direct figurative borrowing without comparative particles)",
+            "صرف سیدھی گفتگو",
+            "صرف املا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ کے ادھار استعمال کو بلاغت میں «استعارہ» (Metaphor) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"تجارت\":",
+          "prompt": "کلام میں کسی بات کو براہِ راست کہنے کی بجائے پردے اور اشارے میں بیان کرنے کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دستخط» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اصول» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دستاویز» کا غیر درست استعمال)"
+            "کنایہ (Kinaaya - Metonymic concealment and indirect subtle allusion)",
+            "صرف اونچی آواز میں بولنا",
+            "صرف تالی بجانا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "پردۂ اخفا میں گفتگو کو بلاغت میں «کنایہ» کہا جاتا ہے۔"
         }
       ]
     },
@@ -13249,17 +13258,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"تجارت\": Which sentence is completely correct?",
+          "prompt": "علمِ بیان اور فصاحت (Ilm-ul-Bayan & Rhetoric) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اصول» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دستاویز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دستخط» سے متعلق)"
+            "علمِ بیان کے چار ارکان تشبیہ، استعارہ، مجازِ مرسل اور کنایہ نثری و شعری کلام کو غیر معمولی حسن، گہرائی اور فصاحت و بلاغت عطا کرتے ہیں۔ (The four pillars of Ilm-ul-Bayan—simile, metaphor, synecdoche, and metonymy—endow speech with sublime eloquence.)",
+            "استعارے نے کنائے کو پلیٹ میں رکھ کر گاڑی چلائی تھی رویا تھا۔",
+            "تشبیہ صرف آئینے کو صاف کرنے کا کپڑا ہے۔",
+            "علمِ بیان کا ادب اور زبان کی خوبصورتی سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«علمِ بیان کے چار ارکان تشبیہ، استعارہ، مجازِ مرسل اور کنایہ نثری و شعری کلام کو غیر معمولی حسن، گہرائی اور فصاحت و بلاغت عطا کرتے ہیں۔» علمِ بیان کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u32-l2": {
@@ -13267,53 +13277,62 @@
     "subject": "urdu",
     "unit": 32,
     "lessonNumber": 2,
-    "title": "سفارتی آداب اور دوطرفہ معاہدات (Diplomacy & Treaties) (Part 2)",
+    "title": "علمِ بدیع: صنایعِ لفظی و معنوی (Ilm-ul-Badee': Verbal & Conceptual Embellishments)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.2) with authentic precision.",
+    "objective": "علمِ بدیع کی صنائعِ لفظی (تجنیس، ترصیع، سجع) اور صنائعِ معنوی (تضاد، مراعاۃ النظیر، لف و نشر، حسنِ تعلیل) پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں علمِ بدیع اور کلام کی صنائع و بدائع (Ilm-ul-Badee' - Embellishments):\n\n1. **صنائعِ لفظی (Verbal Embellishments)**:\n   - «**تجنیس (Paronomasia / Pun)**: دو ہم آواز یا ہم شکل الفاظ کے مختلف معانی (تجنیسِ تام، ناقص)»؛\n   - «**سجع و ترصیع (Rhymed Cadence)**: جملوں کے اواخر میں الفاظ کا ہم وزن ہونا»۔\n\n2. **صنائعِ معنوی (Conceptual Embellishments)**:\n   - «**صنعتِ تضاد / طباق (Antithesis)**: دو متضاد مفاہیم کو یکجا کرنا»；\n   - «**مراعاۃ النظیر (Semantic Harmony)**: ایک موضوع سے متعلق ہم رشتہ الفاظ لانا»；\n   - «**لف و نشر مرتب (Arranged Correspondence)** اور **حسنِ تعلیل (Poetic Causality)**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "صنعتِ لف و نشر مرتب میں کلام کے حسن کو چار چاند لگ جاتے ہیں جب ہر دعوے کے جواب میں متناسب دلیل پیش کی جاتی ہے۔",
+          "reading": "San'at-e-laff-o-nashr-e-murattab mein kalaam ke husn ko chaar chaand lag jaatay hain jab har da'way ke jawaab mein mutanaasib daleel peish ki jaati hai. [sənʔət̪-eː-ləfː-oː-nəʃr-eː-mʊrət̪ːəb mẽː kəlaːm keː hʊsn koː tʃaːr tʃaːnd̪ ləɡ dʒaːt̪eː hɛ̃ː dʒəb hər d̪aːʔʋeː keː dʒəʋaːb mẽː mʊt̪ənaːsɪb d̪əliːl peːʃ kiː dʒaːt̪iː hɛː] (suhn-UHT-ay-LUHF-foh-NUSH-ray-moo-ruht-TUHB mayn kuh-LAHM kay HOOSN koh CHAHR CHAHND luhg jah-TAY HYN JUHB HUHR DAH-way kay juh-WAHB mayn moo-tuh-NAH-seeb duh-LEEL paysh kee jah-TEE HY)",
+          "translation": "In the rhetorical art of arranged correspondence (Laff-o-Nashr Murattab) [embellishment: laff-o-nashr], the elegance of discourse multiplies when corresponding proofs are presented in precise symmetry to previous claims."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 32-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "شاعر نے مراعاۃ النظیر کی صنعت استعمال کرتے ہوئے گل، بلبل، شاخ، چمن اور بہار کو ایک ہی خوبصورت بیت میں پرو دیا۔",
+          "reading": "Shaa'ir ne muraa'aat-un-nazeer ki san'at istemaal kartay huway gul, bulbul, shaakh, chaman aur bahaar ko aik hi khoobsoorat bait mein piro diya. [ʃaːʔɪr neː mʊraːʔaːt̪-ʊn-nəziːr kiː sənʔət̪ ɪst̪ɪʔmaːl kərt̪eː hʊʔeː ɡʊl bʊlbʊl ʃaːx tʃəmən ɔːr bəhaːr koː eːk hiː xuːbsuːrət̪ bɛːt̪ mẽː pɪroː d̪ɪjaː] (shah-EER nay moo-rah-AHT-oon-nuh-ZEER kee suhn-UHT ees-tyh-MAHL kuhr-TAY hoo-WAY gool, bool-bool, shahkh, chuh-muhn owr buh-HAHR koh AYK HEE khoob-soo-RUHT byth mayn pee-ROH DEE-yah)",
+          "translation": "Employing the device of semantic congruence (Mura'at-un-Nazeer), the poet woven rose, nightingale, bough, garden, and spring within a single exquisite couplet."
+        },
+        {
+          "target": "حسنِ تعلیل میں کسی فطری واقعے کی کوئی ایسی شاعرانہ اور نکتہ ورانہ وجہ بیان کی جاتی ہے جو حقیقت میں نہیں ہوتی لیکن کلام کو مسحور کر دیتی ہے۔",
+          "reading": "Husn-e-ta'leel mein kisi fitri waaqi'ay ki koi aisi shaa'iraana aur nukta-warana wajah bayaan ki jaati hai jo haqeeqat mein naheen hoti lekin kalaam ko mashoor kar daiti hai. [hʊsn-eː-t̪əʔliːl mẽː kɪsiː fɪt̪riː ʋaːqɪʔeː kiː koːʔiː ɛːsiː ʃaːʔɪraːnaː ɔːr nʊqt̪aː-ʋərənaː ʋədʒəh bəjaːn kiː dʒaːt̪iː hɛː dʒoː həqiːqət̪ mẽː nəhĩː hoːt̪iː leːkɪn kəlaːm koː mɛshuːr kər d̪eːt̪iː hɛː] (HOOSN-ay-tuh-LEEL mayn kee-SEE feet-REE wah-qee-AY kee koh-EE AY-see shah-ee-rah-NAH owr nook-tuh-wuh-ruh-NAH wuh-JUH buh-YAHN kee jah-TEE HY joh huh-qee-QUHT mayn nuh-HEEN hoh-TEE lay-KEEN kuh-LAHM koh muhs-HOOR kuhr day-TEE HY)",
+          "translation": "In poetic causality (Husn-e-Ta'leel), an imaginative and subtle poetic cause is ascribed to a natural phenomenon that has no factual basis but enchants the audience."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "علمِ بدیع: تجنیس (ہم آواز) + تضاد (الٹ) + مراعاۃ النظیر (ہم رشتہ) + حسنِ تعلیل (شاعرانہ سبب)!"
+      ],
+      "culturalNotes": [
+        "میر انیس اور مرزا دبیر کے مرثیوں میں علمِ بدیع اور حسنِ تعلیل کی نادر ترین مثالیں ملتی ہیں جنہوں نے اردو شاعری کو لافانی بنا دیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دستاویز\":",
+          "prompt": "کلام میں ایسے الفاظ لانا جو ایک دوسرے کے ساتھ باہمی تعلق رکھتے ہوں (جیسے تیر، کمان، شکار) کیا کہلاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دستخط» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اصول» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قانون» کی خرابی)"
+            "مراعاۃ النظیر / تناسب (Mura'at-un-Nazeer - Semantic congruence of interrelated words)",
+            "صرف جھگڑا",
+            "صرف غلط بیانی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ہم رشتہ الفاظ لانے کو «مراعاۃ النظیر» کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دستاویز\":",
+          "prompt": "کسی قدرتی امر کی شاعرانہ اور دلکش خیالی وجہ تراشنے کی صنعت کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اصول» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قانون» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دستخط» کا غیر درست استعمال)"
+            "حسنِ تعلیل (Husn-e-Ta'leel - Poetic ascription of imaginative causality to a natural event)",
+            "صرف شکایت کرنا",
+            "صرف خواب دیکھنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "شاعرانہ سبب بیان کرنے کو «حسنِ تعلیل» کہا جاتا ہے۔"
         }
       ]
     },
@@ -13321,17 +13340,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دستاویز\": Which sentence is completely correct?",
+          "prompt": "علمِ بدیع اور صنائعِ لفظی و معنوی (Ilm-ul-Badee' & Embellishments) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («قانون» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دستخط» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اصول» سے متعلق)"
+            "علمِ بدیع کی صنایع جیسے تجنیس، تضاد، مراعاۃ النظیر اور حسنِ تعلیل کلاسیکی اردو نثر و نظم کو نغمگی، توازن اور ندرتِ خیال سے مالامال کرتی ہیں۔ (Embellishments of Ilm-ul-Badee' like paronomasia, antithesis, and poetic causality enrich Urdu with cadence and novelty.)",
+            "علمِ بدیع نے کھڑکی کھول کر گاڑی پر چائے گرائی تھی رویا تھا۔",
+            "تجنیس کا مطلب صرف بازار سے پھل خریدنا ہوتا ہے۔",
+            "حسنِ تعلیل صرف گاڑی کے انجن کی خرابی کو کہتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«علمِ بدیع کی صنایع جیسے تجنیس، تضاد، مراعاۃ النظیر اور حسنِ تعلیل کلاسیکی اردو نثر و نظم کو نغمگی، توازن اور ندرتِ خیال سے مالامال کرتی ہیں۔» علمِ بدیع کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u32-l3": {
@@ -13339,53 +13359,62 @@
     "subject": "urdu",
     "unit": 32,
     "lessonNumber": 3,
-    "title": "سفارتی آداب اور دوطرفہ معاہدات (Diplomacy & Treaties) (Part 3)",
+    "title": "کلاسیکی خطابت اور مناظرانہ اسلوب (Classical Oratory, Rhetoric & Polemics)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.3) with authentic precision.",
+    "objective": "کلاسیکی خطابت، مقفیٰ و مسجع نثر، مناظرانہ استدلال، مولانا ابوالکلام آزاد اور نواب محسن الملک کے خطیبانہ اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں شاندار خطابت اور مناظرانہ اسلوب کی تاریخ (Classical Oratory & Rhetoric):\n\n1. **خطابت کے عناصرِ ترکیبی**:\n   - «**فصاحتِ کلام اور شکوہِ الفاظ**»؛\n   - «**مقفیٰ و مسجع نثر (Rhymed & Cadenced Prose)**»؛\n   - «لحن، آواز کے توقفات (Pauses) اور سامعین کے جذبات کی تسخیر»۔\n\n2. **عظیم خطیبانہ اسالیب**:\n   - «**مولانا ابوالکلام آزاد** کی آتشیں اور پرشکوہ خطابت»；\n   - «**مناظرانہ اسلوب (Polemics)**: عقلی و نقلی دلائل سے حریف کو قائل کرنا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "مولانا ابوالکلام آزاد کی خطابت اور نثر الفاظ کے پرشکوہ دریا کی مانند تھی جو سامعین کے قلوب کو مسخر کر لیتی تھی۔",
+          "reading": "Maulana Abul Kalam Azad ki khataabat aur nasr alfaaz ke pur-shikwah darya ki maanand thi jo saami'een ke quloob ko musakhkhar kar laiti thi. [mɔːlaːnaː əbʊl-kəlaːm aːzaːd̪ kiː xətcomb-aːbət̪ ɔːr nəscomb-r əlfaːz keː pʊr-ʃɪkʋaː d̪ərjaː kiː maːnənd̪ t̪ʰiː dʒoː saːmɪʔiːn keː qʊluːb koː mʊsəxːər kər ltiː t̪ʰiː] (mow-lah-NAH uh-bool-kuh-LAHM ah-ZAHD kee khuh-tah-BUHT owr NUHSR uhl-FAHZ kay poor-sheek-WAH duhr-YAH kee MAH-nuhnd THEE joh sah-mee-EEN kay qoo-LOOB koh moo-suhkh-KHAHR kuhr lay-TEE THEE)",
+          "translation": "The oratory and prose of Maulana Abul Kalam Azad [high oratory: khataabat] flowed like a majestic river of magnificent words that conquered the hearts of listeners."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 32-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "کلاسیکی خطیب اپنے کلام میں مسجع اور مقفیٰ جملوں کے ذریعے دلائل کو ایسا نغمگی اور وزن بخشتا تھا کہ مجمع ہمہ تن گوش ہو جاتا تھا۔",
+          "reading": "Kalaasiki khateeb apnay kalaam mein musajja aur muqaffa jumlon ke zariye dalaa'il ko aisa naghmagi aur wazan bakhshta tha keh majma hama-tan gosh ho jaata tha. [klaːsiːkiː xətcomb-iːb əpneː kəlaːm mẽː mʊsədʒːaː ɔːr mʊqəfːaː dʒʊmlõː keː zərɪjeː d̪əlaːʔɪl koː ɛːsaː nəɣməɡiː ɔːr ʋəzən bəxʃt̪aː t̪ʰaː kɛh mədʒməʔ həmə-t̪ən ɡoːʃ hoː dʒaːt̪aː t̪ʰaː] (klah-see-KEE khuh-TEEB uhp-NAY kuh-LAHM mayn moo-suhj-JAH owr moo-quhf-FAH joom-LOHN kay zuh-ree-YAY duh-LAH-eel koh AY-sah nuhgh-muh-GEE owr WUH-zuhn buhkhsh-TAH THAH kyh MUHJ-mah huh-muh-TUHN GOHSH hoh jah-TAH THAH)",
+          "translation": "Through rhymed and cadenced sentences, the classical orator endowed arguments with such musicality and weight that the entire audience listened with rapt attention."
+        },
+        {
+          "target": "مناظرانہ اسلوب میں فریقِ ثانی کے شبہات کا مسکت اور عقلی رد ایسے پرزور لہجے میں کیا جاتا ہے جس میں زبان کی فصاحت عروج پر ہوتی ہے۔",
+          "reading": "Munaaziraana usloob mein fareeq-e-saani ke shubhaat ka muskat aur aqli radd aisay pur-zor lehjay mein kiya jaata hai jis mein zabaan ki fasaahat urooj par hoti hai. [mʊnaːzɪraːnaː ʊsluːb mẽː fəriːq-eː-saːniː keː ʃʊbhaːt̪ kaː mʊskət̪ ɔːr əqliː rədː ɛːseː pʊr-zoːr lɛɦdʒeː mẽː kɪjaː dʒaːt̪aː hɛː dʒɪs mẽː zəbaːn kiː fəsaːhət̪ ʊruːdʒ pər hoːt̪iː hɛː] (moo-nah-zee-rah-NAH oos-LOOB mayn fuh-REEQ-ay-SAH-nee kay shoob-HAHT kah moos-KUHT owr uhq-LEE RUHDD AY-say poor-ZOHR lyh-JAY mayn kee-YAH jah-TAH HY JEES mayn zuh-BAHN kee fuh-sah-HUHT oo-ROOJ puhr hoh-TEE HY)",
+          "translation": "In polemical discourse, the doubts of the counter-party are met with a conclusive and rational refutation in a forceful tone where linguistic eloquence reaches its pinnacle."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "کلاسیکی خطابت: شکوہِ الفاظ + مسجع و مقفیٰ نثر + لحن و تاثر + مناظرانہ مسکت دلائل!"
+      ],
+      "culturalNotes": [
+        "تحریکِ پاکستان کے جلسوں میں قائدِ اعظم اور مسلم لیگ کے رہنماؤں کی تقاریر نے کروڑوں دلوں میں آزادی کی تڑپ جگا دی۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دستخط\":",
+          "prompt": "اس نثری انداز کو کیا کہتے ہیں جس میں جملوں کے ٹکڑے ہم قافیہ اور ہم وزن ہوں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («اصول» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قانون» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («عدالت» کی خرابی)"
+            "مسجع و مقفیٰ نثر (Rhymed and rhythmic cadenced prose - Musajja and Muqaffa)",
+            "صرف عام روزمرہ بات چیت",
+            "صرف خاموشی",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ہم قافیہ اور ہم وزن نثر کو «مسجع و مقفیٰ نثر» کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دستخط\":",
+          "prompt": "دلائل اور منطق کے زور پر مخالف فریق کے اعتراضات کا لاجواب رد کرنے والے اسلوبِ بیان کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قانون» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («عدالت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اصول» کا غیر درست استعمال)"
+            "مناظرانہ اسلوب / مسکت استدلال (Polemical discourse / Conclusive debate style)",
+            "صرف جھگڑا کرنا",
+            "صرف میدان چھوڑنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "دلائل سے مخالف کو قائل کرنے کو «مناظرانہ اسلوب» کہا جاتا ہے۔"
         }
       ]
     },
@@ -13393,17 +13422,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دستخط\": Which sentence is completely correct?",
+          "prompt": "کلاسیکی خطابت اور مناظرانہ اسلوب (Classical Oratory & Polemics) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («عدالت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اصول» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («قانون» سے متعلق)"
+            "کلاسیکی خطابت میں مولانا ابوالکلام آزاد کا پرشکوہ اسلوب، مسجع و مقفیٰ کلام اور مناظرانہ استدلال مجمع کو مسحور اور فکری طور پر مسخر کر دیتا ہے۔ (Maulana Azad's magnificent style, cadenced prose, and polemical reasoning in classical oratory conquer minds.)",
+            "خطابت نے لاؤڈ اسپیکر کو کڑاہی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔",
+            "مناظرانہ اسلوب صرف گلی محلے کے شور شرابے کو کہتے ہیں۔",
+            "مسجع نثر میں کوئی قافیہ یا وزن نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«کلاسیکی خطابت میں مولانا ابوالکلام آزاد کا پرشکوہ اسلوب، مسجع و مقفیٰ کلام اور مناظرانہ استدلال مجمع کو مسحور اور فکری طور پر مسخر کر دیتا ہے۔» خطابت کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u32-l4": {
@@ -13411,53 +13441,62 @@
     "subject": "urdu",
     "unit": 32,
     "lessonNumber": 4,
-    "title": "سفارتی آداب اور دوطرفہ معاہدات (Diplomacy & Treaties) (Part 4)",
+    "title": "عہدِ اکبری و مغلیہ انشا اور تاریخ نویسی کی نثر (Mughal Historiographical Prose: Insha)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.4) with authentic precision.",
+    "objective": "مغلیہ دور کی انشا پردازی، شاہی فرامین، تاریخ نویسی (ابوالفضل کی اکبر نامہ)، اور وقائع نگاری کے پرشکوہ کلاسیکی اسلوب پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو اور فارسی انشا پردازی کی شاہانہ و درباری روایات (Mughal Insha & Historiography):\n\n1. **انشا نویسی کے شاہانہ اسالیب**:\n   - «**انشا پردازی (Epistolary Grandeur)**: خطوط، شاہی فرامین اور القاب و آداب کا تنوع»؛\n   - «**درباری اسلوب**: پرشکوہ فارسی و عربی تراکیب کی جڑت»۔\n\n2. **تاریخ نویسی اور وقائع نگاری**:\n   - «**ابوالفضل کا اکبر نامہ اور آئینِ اکبری**»；\n   - «وقائع نگاری اور تاریخی واقعات کو فصیح نثری پیرائے میں ڈھالنا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "مغلیہ دور کی انشا پردازی اور شاہی فرامین میں القاب و آداب کی شان اور لغت کا تنوع درباری شکوہ کی علامت تھا۔",
+          "reading": "Mughliya daur ki insha-pardaazi aur shaahi faraameen mein alqaab o aadaab ki shaan aur lughat ka tanawwo darbaari shikwah ki alaamat tha. [mʊɣlɪjaː d̪ɔːr kiː ɪnʃaː-pərdaːziː ɔːr ʃaːhiː fəraːmiːn mẽː əlqaːb oː aːd̪aːb kiː ʃaːn ɔːr lʊɣət̪ kaː t̪ənəʋːʊʔ d̪ərbaːriː ʃɪkʋaː kiː əlaːmət̪ t̪ʰaː] (moogh-LEE-yah DOWR kee een-shah-puhr-dah-ZEE owr shah-HEE fuh-rah-MEEN mayn uhl-QAHB oh ah-DAHB kee SHAHN owr loo-GHUHT kah tuh-nuhv-WOO duhr-bah-REE sheek-WAH kee uh-lah-MUHT THAH)",
+          "translation": "In the Mughal era, epistolary craftsmanship (Insha-pardazi) [Mughal prose: insha-pardaazi] and royal decrees embodied courtly grandeur through magnificent honorifics and rich vocabulary."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 32-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "وقائع نگاروں نے عہدِ رفتہ کی تاریخ رقم کرتے ہوئے مقفیٰ نثر، نادر تمثیلات اور تاریخی فصاحت کے بے نظیر نمونے چھوڑے۔",
+          "reading": "Waqaa'i-nigaaron ne ahd-e-rafta ki taareekh raqam kartay huway muqaffa nasr, naadir tamseelaat aur taareekhi fasaahat ke bay-nazeer namoonay chhoray. [ʋəqaːʔɪʔ-nɪɡaːrõː neː əhd̪-eː-rəft̪aː kiː t̪aːriːx rəqəm kərt̪eː hʊʔeː mʊqəfːaː nəscomb-r naːd̪ɪr t̪əmsiːlaːt̪ ɔːr t̪aːriːxiː fəsaːhət̪ keː beː-nəziːr nəmuːneː tʃʰoːɽeː] (wuh-qah-ee-nee-gah-ROHN nay uhh-DAY-ruhf-TAH kee tah-REEKH ruh-QUHM kuhr-TAY hoo-WAY moo-quhf-FAH NUHSR, nah-DEER tuhm-see-LAHT owr tah-ree-KHEE fuh-sah-HUHT kay bay-nuh-ZEER nuh-moo-NAY chhoh-RAY)",
+          "translation": "Chroniclers penned the history of bygone eras, leaving behind unparalleled monuments of rhymed prose, rare allegories, and historical eloquence."
+        },
+        {
+          "target": "اردو نثر نے اس کلاسیکی انشا سے عربی و فارسی کی پرشکوہ تراکیب مستعار لے کر اپنے ذخیرۂ الفاظ کو غیر معمولی رفعت بخشی۔",
+          "reading": "Urdu nasr ne is kalaasiki insha se Arabi o Faarsi ki pur-shikwah taraakeeb musta'aar lay kar apnay zakheera-e-alfaaz ko ghair-ma'mooli rif'at bakhshi. [ʊrd̪uː nəscomb-r neː ɪs klaːsiːkiː ɪnʃaː seː ərəbiː oː faːrsiː kiː pʊr-ʃɪkʋaː t̪əraːkiːb mʊst̪əʔaːr ltiː kər əpneː zəxiːraː-eː-əlfaːz koː ɣɛːr-məʔmuːliː rɪfʔət̪ bəxʃiː] (OOR-doo NUHSR nay ees klah-see-KEE een-SHAH say uh-ruh-BEE oh fahr-SEE kee poor-sheek-WAH tuh-rah-KEEB moos-tuh-AHR lay kuhr uhp-NAY zuh-khee-rah-ay-uhl-FAHZ koh ghyr-muh-moo-LEE reef-UHT buhkhsh-EE)",
+          "translation": "Urdu prose borrowed magnificent Arabic and Persian compounds from this classical Insha, endowing its lexicon with extraordinary elevation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مغلیہ انشا نویسی: شاہی فرامین + القاب و آداب + وقائع نگاری (اکبر نامہ) + پرشکوہ درباری نثر!"
+      ],
+      "culturalNotes": [
+        "دہلی اور لکھنؤ کے درباروں میں انشا پردازی سرکاری مراسلت کے ساتھ ساتھ ادیبوں کے علمی و ادبی وقار کا معیار سمجھی جاتی تھی۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"اصول\":",
+          "prompt": "کلاسیکی دور میں شاہی خطوط، فرامین اور ادبی مراسلت تحریر کرنے کے باقاعدہ فن کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («قانون» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («عدالت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جج» کی خرابی)"
+            "انشا پردازی / انشا نویسی (Insha-pardazi - Classical art of ornate epistolography and drafting royal edicts)",
+            "صرف خاکہ کشی",
+            "صرف ٹائپنگ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "شائستہ و پرشکوہ خطوط اور فرامین کے فن کو «انشا پردازی» کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"اصول\":",
+          "prompt": "تاریخ کے روزمرہ واقعات اور درباری حالات کو باضابطہ قلمبند کرنے والے مؤرخ کو کیا کہا جاتا تھا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («عدالت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قانون» کا غیر درست استعمال)"
+            "وقائع نگار / وقائع نویس (Waqai-nigar - Official court chronicler recording historical events)",
+            "صرف گاہک",
+            "صرف ڈاکیا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "تاریخی احوال قلمبند کرنے والے کو «وقائع نگار» کہتے ہیں۔"
         }
       ]
     },
@@ -13465,17 +13504,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"اصول\": Which sentence is completely correct?",
+          "prompt": "عہدِ مغلیہ کی انشا پردازی اور تاریخ نویسی (Mughal Insha & Historiography) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جج» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («قانون» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («عدالت» سے متعلق)"
+            "مغلیہ عہد کی انشا پردازی، شاہی فرامین اور ابوالفضل کی تاریخ نویسی نے اردو نثری اسلوب کو القاب و آداب کا شکوہ اور الفاظ کی نادر رفعت عطا کی۔ (Mughal Insha, royal edicts, and Abul Fazl's historiography endowed Urdu prose with grandeur of honorifics.)",
+            "انشا پردازی نے قلم کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔",
+            "وقائع نگار صرف اخبار بیچنے والے لڑکے کو کہتے ہیں۔",
+            "مغلیہ نثر میں کوئی ادبی یا لسانی خوبی نہیں تھی۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«مغلیہ عہد کی انشا پردازی، شاہی فرامین اور ابوالفضل کی تاریخ نویسی نے اردو نثری اسلوب کو القاب و آداب کا شکوہ اور الفاظ کی نادر رفعت عطا کی۔» انشا پردازی کا مستند ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u32-l5": {
@@ -13483,53 +13523,62 @@
     "subject": "urdu",
     "unit": 32,
     "lessonNumber": 5,
-    "title": "سفارتی آداب اور دوطرفہ معاہدات (Diplomacy & Treaties) (Part 5)",
+    "title": "اعلیٰ نثری بلاغت اور کلاسیکی خطابت کا جامع سمیکن (Classical Rhetoric & High Oratory Grand Synthesis)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 32.5) with authentic precision.",
+    "objective": "علمِ بیان، علمِ بدیع کے صنایع، کلاسیکی خطابت، اور مغلیہ انشا پردازی کو ایک عظیم الشان، پرشکوہ اور فصیح نثری شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اعلیٰ نثری بلاغت اور کلاسیکی خطابت کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **نثری و بلاغتی فنون کا ہمہ گیر امتزاج**:\n   - **علمِ بیان**: «تشبیہ، استعارہ، مجازِ مرسل اور کنایہ کی فسوں کاری»；\n   - **علمِ بدیع**: «تجنیس، تضاد، مراعاۃ النظیر، لف و نشر اور حسنِ تعلیل کی نغمگی»；\n   - **کلاسیکی خطابت**: «مولانا ابوالکلام آزاد کا مسجع کلام اور مناظرانہ مسکت استدلال»；\n   - **شاہانہ انشا پردازی**: «مغلیہ تاریخ نویسی اور وقائع نگاری کا پرشکوہ پیرایہ»۔\n\n2. **اردو کی نثری عظمت اور بلاغتی عروج**:\n   - یہ زبان اردو کی کلاسیکی نثر، خطیبانہ معرکوں اور ادبی نفاست کا نقطۂ کمال ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو کی اعلیٰ نثری بلاغت علمِ بیان کے استعاروں، علمِ بدیع کے صنایع اور مولانا آزاد کی سحر انگیز خطابت کے سنگم سے تشکیل پاتی ہے۔",
+          "reading": "Urdu ki a'la nasri balaaghat Ilm-ul-Bayaan ke isti'aaron, Ilm-ul-Badee' ke sanaaye aur Maulana Azad ki sehar-angeiz khataabat ke sangam se tashkeel paati hai. [ʊrd̪uː kiː aːʔlaː nəscomb-riː bəlaːɣət̪ ɪlm-ʊl-bəjaːn keː ɪst̪ɪʔaːrõː ɪlm-ʊl-bəd̪iːʔ keː sənaːjeː ɔːr mɔːlaːnaː aːzaːd̪ kiː sɛhər-əŋɡeːz xətcomb-aːbət̪ keː səŋɡəm seː t̪əʃkiːl paːt̪iː hɛː] (OOR-doo kee AHH-lah NUHS-ree buh-LAH-ghuht EELM-ool-buh-YAHN kay ees-tee-AH-rohn, EELM-ool-buh-DEE kay suh-NAH-yay owr mow-lah-NAH ah-ZAHD kee sy-huhr-uhn-GAYZ khuh-tah-BUHT kay suhn-GUHM say tuhsh-KEEL pah-TEE HY)",
+          "translation": "Urdu's supreme prose rhetoric [rhetorical synthesis: nasri balaaghat] is forged at the confluence of Ilm-ul-Bayan's metaphors, Ilm-ul-Badee's embellishments, and Maulana Azad's mesmerizing oratory."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 32-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "تشبیہ و استعارہ جب مسجع و مقفیٰ کلاسیکی انشا اور شعلہ نوا خطیبانہ ترنم کے ساتھ گھل مل جاتے ہیں تو نثر شاعری سے بھی زیادہ دلکش اور باوقار بن جاتی ہے۔",
+          "reading": "Tashbeeh o isti'aara jab musajja o muqaffa kalaasiki insha aur sho'la-nawa khateebaana tarannum ke saath ghul mil jaatay hain to nasr shaa'iri se bhi zyaada dilkash aur baa-waqaar ban jaati hai. [t̪əʃbiːh oː ɪst̪ɪʔaːraː dʒəb mʊsədʒːaː oː mʊqəfːaː klaːsiːkiː ɪnʃaː ɔːr ʃoːʔlaː-nəʋaː xətcomb-iːbaːnaː t̪ərənːʊm keː saːt̪ʰ ɡʱʊl mɪl dʒaːt̪eː hɛ̃ː t̪oː nəscomb-r ʃaːʔɪriː seː bʱiː zjaːd̪aː d̪ɪlkəʃ ɔːr baː-ʋəqaːr bən dʒaːt̪iː hɛː] (tuhsh-BEEH oh ees-tee-AH-rah JUHB moo-suhj-JAH oh moo-quhf-FAH klah-see-KEE een-SHAH owr shoh-lah-nuh-WAH khuh-tee-bah-NAH tuh-ruhn-NOOM kay SAHTH ghool MEEL jah-TAY HYN toh NUHSR shah-ee-REE say BHEE ZYAH-dah deel-KUHSH owr bah-wuh-QAHR buhn jah-TEE HY)",
+          "translation": "When simile and metaphor harmonize with rhymed classical Insha and fiery oratorical melody, prose becomes even more enchanting and dignified than poetry."
+        },
+        {
+          "target": "اعلیٰ نثری بلاغت اور خطابت کا یہ جامع سمیکن طلباء کو اردو کے اعلیٰ ترین کلاسیکی و ادبی اسالیب، شکوہِ الفاظ اور نثری شاہکاروں کی تخلیق پر کامل دسترس عطا کرتا ہے۔",
+          "reading": "A'la nasri balaaghat aur khataabat ka yeh jaam'e samaykan tulba ko Urdu ke a'la-tareen kalaasiki o adabi asaaleeb, shikwah-e-alfaaz aur nasri shaahkaaron ki takhleeq par kaamil dastaras ata karta hai. [aːʔlaː nəscomb-riː bəlaːɣət̪ ɔːr xətcomb-aːbət̪ kaː jɛh dʒaːmɪʔ səmɛːkən t̪ʊlbaː koː ʊrd̪uː keː aːʔlaː-t̪əriːn klaːsiːkiː oː əd̪əbiː əsaːliːb ʃɪkʋaː-eː-əlfaːz ɔːr nəscomb-riː ʃaːhkaːrõː kiː t̪əxliːq pər kaːmɪl d̪əst̪rəs ət̪aː kərt̪aː hɛː] (AHH-lah NUHS-ree buh-LAH-ghuht owr khuh-tah-BUHT kah YEH JAH-meh suh-may-KUHN tool-BAH koh OOR-doo kay AHH-lah-tuh-REEN klah-see-KEE oh uh-duh-BEE uh-sah-LEEB, sheek-wah-ay-uhl-FAHZ owr NUHS-ree shah-h-kah-ROHN kee tuhkh-LEEQ puhr KAH-meel duhs-tuh-RUHS uh-TAH kuhr-TAH HY)",
+          "translation": "This grand synthesis of supreme rhetoric and oratory endows students with total mastery over Urdu's highest classical and literary styles, lexical grandeur, and the creation of prose masterpieces."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع بلاغتی سمیکن: علمِ بیان (استعارہ) + علمِ بدیع (صنائع) + کلاسیکی خطابت (مسجع نثر) + مغلیہ انشا پردازی!"
+      ],
+      "culturalNotes": [
+        "اردو کی بلاغت نے برصغیر کے علمی، ادبی اور سیاسی میدانوں میں خطابت اور انشا پردازی کا وہ معیار قائم کیا جس کی مثال دنیا کے کسی دوسرے ادب میں نہیں ملتی۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"قانون\":",
+          "prompt": "اعلیٰ نثری بلاغت، صنایعِ بدیع اور کلاسیکی خطابت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («عدالت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («وکیل» کی خرابی)"
+            "علمِ بیان، علمِ بدیع کی صنایع، مسجع خطابت اور مغلیہ انشا پردازی کا مربوط بلاغتی مطالعہ (Masterful synthesis of rhetoric, stylistic embellishments, cadenced oratory, and Mughal Insha)",
+            "ہم نے بلاغت کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف پرانے مائیک کی تاریں گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«علمِ بیان، علمِ بدیع کی صنایع، مسجع خطابت اور مغلیہ انشا پردازی کا مربوط بلاغتی مطالعہ» بلاغت کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"قانون\":",
+          "prompt": "اعلیٰ نثری بلاغت اور خطابت کا جامع سمیکن اردو کے ادیب یا طالب علم کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جج» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («وکیل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («عدالت» کا غیر درست استعمال)"
+            "پرتاثیر اندازِ تحریر، شعلہ نوا خطابت، ادبی نفاست اور شکوہِ الفاظ پر عبور (Impactful writing, fiery oratory, literary elegance, and mastery over lexical grandeur)",
+            "صرف شور مچانا (منفی رویہ)",
+            "صرف غلط تلفظ بولنا (بے فائدہ مشق)",
+            "ادبی قواعد کو ترک کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ پرتاثیر تحریر، شعلہ نوا خطابت، ادبی نفاست اور شکوہِ الفاظ پر عبور بخشتا ہے۔"
         }
       ]
     },
@@ -13537,17 +13586,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"قانون\": Which sentence is completely correct?",
+          "prompt": "اعلیٰ نثری بلاغت اور کلاسیکی خطابت کے جامع سمیکن (Classical Rhetoric & High Oratory Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («وکیل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («عدالت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جج» سے متعلق)"
+            "علمِ بیان کے نادر استعارے، علمِ بدیع کی دلکش صنایع، ابوالکلام آزاد کی مسجع خطابت اور مغلیہ انشا پردازی اردو نثر و ادب کا تابندہ اور پرشکوہ تاج محل ہیں۔ (Rare metaphors, embellishments of Badee', cadenced oratory, and Mughal Insha are the luminous Taj Mahal of Urdu prose.)",
+            "بلاغت نے خطابت کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانے لاؤڈ اسپیکر کی بیٹری کو کہتے ہیں۔",
+            "نثری بلاغت کا اردو ادب کی تاریخ سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«علمِ بیان کے نادر استعارے، علمِ بدیع کی دلکش صنایع، ابوالکلام آزاد کی مسجع خطابت اور مغلیہ انشا پردازی اردو نثر و ادب کا تابندہ اور پرشکوہ تاج محل ہیں۔» نثری بلاغت کا شاہکار ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u33-l1": {
