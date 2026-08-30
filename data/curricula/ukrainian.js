@@ -7455,53 +7455,62 @@
     "subject": "ukrainian",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "Наказовий спосіб та форми ввічливості (Imperative Mood) (Part 1)",
+    "title": "Прості синтетичні форми наказового способу: 2-га особа (-и/-іть vs ∅/-те)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 18.1) with authentic linguistic precision.",
+    "objective": "Опанувати творення простих синтетичних форм наказового способу 2-ї особи однини й множини (-и / -іть, нульове закінчення ∅ / -те, -й / -йте) та правила чергування звуків у корені.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Наказовий спосіб (Imperative Mood) виражає спонукання до дії, прохання, наказ, пораду, заборону чи дозвіл:\n\n1. 2-га особа однини (наказ одній особі на «ти»):\n   - Закінчення «-И» мають дієслова:\n     * з наголосом на закінченні: пиши́, неси́, роби́, кажі́, іди́, печи́;\n     * з основою на збіг двох і більше приголосних: підкре́сли, розка́жи, переві́р (переві́ри).\n   - Чисту основу (нульове закінчення «-∅» зі знаком м'якшення або без нього) мають дієслова з ненаголошеним закінченням:\n     * на м'який приголосний: сядь, стань, глянь, кинь, вір, мір, готуй (готу́й-те);\n     * на губний або шиплячий (без знака м'якшення): ріж, сип, економ, насип.\n\n2. 2-га особа множини (наказ групі осіб або ввічливе на «ви»):\n   - До форми на «-и» додається закінчення «-ІТЬ»: пишіть, несіть, робіть, кажіть, ідіть, допоможіть.\n   - До форми на чисту основу додається закінчення «-ТЕ»: сядьте, станьте, гляньте, читайте, працюйте, економте.\n\n3. Чергування звуків у корені дієслів:\n   - Чергування голосних [о], [е] з [і]: ходити -> ходи́ / ході́ть, робити -> роби́ / робі́ть, допомогти -> допоможи́ / допоможі́ть.\n   - Чергування приголосних: пекти -> печи́ / печі́ть, берегти -> бережи́ / бережі́ть.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Шановні студенти, уважно прочитайте інструкцію та запишіть результати досліду.",
+          "reading": "[ʃɐˈnɔwnʲi stuˈdɛntɪ, uˈwɑʒnɔ prɔtʃɪˈtɑjtɛ instˈrukt͡sʲiju tɑ zɐpɪˈʃitʲ rɛzulʲˈtɑtɪ ˈdɔsʲlʲidu] (shah-NOHV-nee stoo-DEN-ty, oo-VAHZH-noh proh-chy-TAHY-teh eens-TROOK-tsee-yoo tah zah-py-SHEET' reh-zool'-TAH-ty DOHS-ly-doo)",
+          "translation": "Dear students, read the instruction carefully and write down the results of the experiment."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 18-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Сядьте зручніше та уважно послухайте повідомлення головного архітектора.",
+          "reading": "[ˈsʲɑdʲtɛ zrutʃˈnʲiʃɛ tɑ uˈwɑʒnɔ pɔsˈluxɐjtɛ pɔwʲiˈdɔmlɛnʲːɑ ɦɔlɔwˈnɔɦɔ ɐrxʲiˈtɛktɔrɐ] (SYAHD'-teh zrooch-NEE-sheh tah oo-VAHZH-noh pohs-LOO-khahy-teh poh-vee-DOHM-len-nyah hoh-lohv-NOH-hoh ahr-khee-TEHK-toh-rah)",
+          "translation": "Sit comfortably and listen attentively to the report of the chief architect."
+        },
+        {
+          "target": "Бережіть рідну мову, збагачуйте свій словниковий запас і щодня говоріть українською!",
+          "reading": "[bɛrɛˈʒitʲ ˈrʲidnu ˈmɔwu, zbɐˈɦɑtʃujtɛ swʲij slɔwnɪkɔˈwɪj zɑˈpɑs i ʃtʃɔdʲˈnʲɑ ɦɔwɔˈrʲitʲ ukrɐˈjinʲsʲkɔju] (beh-reh-ZHEET' REED-noo MOH-voo, zbah-HAH-chooy-teh sveey slohv-ny-koh-VYY zah-PAHS ee shchohd-NYAH hoh-voh-REET' oo-krah-YEEN-s'koh-yoo)",
+          "translation": "Cherish your native language, enrich your vocabulary, and speak Ukrainian every day!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Наголос на кінці — «пиши́ / пиші́ть»; наголос на основі — «чи́тай / чита́йте»!"
+      ],
+      "culturalNotes": [
+        "Звертання на «ви» з формою 2-ї особи множини (на «-іть / -те») є наріжним каменем української ввічливої культури спілкування."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Температура\":",
+          "prompt": "Оберіть правильну форму 2-ї особи множини наказового способу від дієслова «написати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.1.",
-            "Неправильне відмінкове узгодження зі словом «Голова»",
-            "Порушення законів евфонії та словотворення для «Серце»",
-            "Стилістично некоректна синтаксична конструкція з «Очі»"
+            "Напишіть (Correct imperative suffix -іть with stem alternation)",
+            "Напишете",
+            "Напишіте",
+            "Написайте"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Форма 2-ї особи множини наказового способу — «напишіть» (форма «напишете» є дійсним способом майбутнього часу)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Температура\":",
+          "prompt": "Яка форма наказового способу дієслова «сісти» (2-га особа однини) є правильною?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.1.",
-            "Порушення законів евфонії та словотворення для «Серце»",
-            "Стилістично некоректна синтаксична конструкція з «Очі»",
-            "Неправильне відмінкове узгодження зі словом «Голова»"
+            "Сядь (Bare soft root with soft sign ь in imperative)",
+            "Сяди",
+            "Сідайся",
+            "Сідь"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативна форма 2-ї особи однини — «сядь» (множина — «сядьте»)."
         }
       ]
     },
@@ -7509,17 +7518,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Температура\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ дієслова стоять у формі наказового способу:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.1.",
-            "Стилістично некоректна синтаксична конструкція з «Очі»",
-            "Неправильне відмінкове узгодження зі словом «Голова»",
-            "Порушення законів евфонії та словотворення для «Серце»"
+            "Бережіть, працюйте, допоможи, збагачуй.",
+            "Бережете, працюєте, допоміг, збагачує.",
+            "Берегти, працювати, допомога, збагачення.",
+            "Бережіте, працювайти, поможіть, давай пиши."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Всі дієслова першого рядка мають нормативні закінчення наказового способу: «-іть», «-те», «-и», «-й»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u18-l2": {
@@ -7527,53 +7537,62 @@
     "subject": "ukrainian",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "Наказовий спосіб та форми ввічливості (Imperative Mood) (Part 2)",
+    "title": "Інклюзивний наказ: 1-ша особа множини (-мо/-імо) та заборона «давайте»",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 18.2) with authentic linguistic precision.",
+    "objective": "Опанувати творення форми спільної дії 1-ї особи множини наказового способу (-мо / -імо: ходімо, робімо, працюймо) та категорично викорінити суржикове калькування з «давайте...».",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові заклик до спільної дії (разом зі співрозмовником — Inclusive Imperative) виражається спеціальними синтетичними формами 1-ї особи множини:\n\n1. Творення форм 1-ї особи множини:\n   - Закінчення «-ІМО» (під наголосом): ході́мо, пиші́мо, робі́мо, бері́мо, несі́мо, кажі́мо, станьмо (стані́мо).\n   - Закінчення «-МО» (після голосних та чистих основ): працю́ймо, чита́ймо, зва́жмо, бу́дьмо, слу́хаймо, захища́ймо.\n\n2. КАТЕГОРИЧНА СТИЛІСТИЧНА ЗАБОРОНА (Суржикове «давайте...»):\nКонструкції на кшталт «давайте підемо», «давайте робити», «давайте поговоримо» є грубим калькуванням з російської мови та паразитизмом!\n   - Неправильно (калька): *Давайте почнемо збори*, *Давайте заспіваємо*, *Давайте будемо друзями*.\n   - Правильно (автентична українська норма):\n     * «Розпочнімо збори!» / «Почнімо збори!»\n     * «Заспіваймо пісню!»\n     * «Будьмо друзями!»\n     * «Ходімо на прогулянку!»\n     * «Поговорімо про важливі справи!»\n\n3. Значення та урочистість:\nФорма на «-імо / -мо» звучить енергійно, гідно та піднесено (традиційний заклик: «Будьмо!», «Борімося — поборемо!»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Колеги, об'єднаймо наші зусилля та якнайшвидше завершімо цей масштабний проєкт!",
+          "reading": "[kɔˈlɛɦɪ, ɔbʲjɛdˈnɑjmɔ ˈnɑʃʲi zuˈsɪlʲːɑ tɑ jɐknɐjˈʃwɪdʃɛ zɐwɛrˈʃimɔ t͡sɛj mɐʃˈtɑbnɪj prɔˈjɛkt] (koh-LEH-hy, ohb-yed-NAHY-moh NAH-shee zoo-SYL-lyah tah yahk-nahy-SHVYD-sheh zah-vehr-SHEE-moh tsey mahsh-TAHB-nyy proh-YEHKT)",
+          "translation": "Colleagues, let us unite our efforts and finish this large-scale project as quickly as possible!"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 18-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ходімо разом на головну площу міста підтримати нашу талановиту молодь.",
+          "reading": "[xɔˈdʲimɔ ˈrɑzɔm nɑ ɦɔlɔwˈnu ˈplɔʃtʃu ˈmʲistɐ pʲidˈtrɪmɐtɪ ˈnɑʃu tɐlɐnɔˈwɪtu ˈmɔlɔdʲ] (khoh-DEE-moh RAH-zohm nah hoh-lohv-NOO PLOHSH-choo MEES-tah peed-TRY-mah-ty NAH-shoo tah-lah-noh-VY-too MOH-lohd')",
+          "translation": "Let us go together to the main square of the city to support our talented youth."
+        },
+        {
+          "target": "Шануймо нашу славетну історію, бережімо культуру та пишаймося рідною землею!",
+          "reading": "[ʃɐˈnujmɔ ˈnɑʃu slɐˈwɛtnu isˈtɔrʲiju, bɛrɛˈʒimɔ kulʲˈturu tɑ pɪˈʃɑjmɔsʲɑ ˈrʲidnɔju zɛmˈlɛju] (shah-NOOY-moh NAH-shoo slah-VET-noo ees-TOH-ry-yoo, beh-reh-ZHEE-moh kool'-TOO-roo tah py-SHAHY-mohs'-yah REED-noh-yoo zem-LEH-yoo)",
+          "translation": "Let us respect our illustrious history, cherish our culture, and be proud of our native land!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Забудь суржикове «давайте зробимо» — кажи по-українськи гордо: «Зробімо!», «Ходімо!», «Будьмо!»"
+      ],
+      "culturalNotes": [
+        "Шевченкове геніальне гасло «Борітеся — поборете!» та заклик «Борімося!» є символами української національної незламності."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Голова\":",
+          "prompt": "Як нормативно висловити заклик до початку роботи без калькованого «давайте»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.2.",
-            "Неправильне відмінкове узгодження зі словом «Серце»",
-            "Порушення законів евфонії та словотворення для «Очі»",
-            "Стилістично некоректна синтаксична конструкція з «Руки»"
+            "Почнімо працювати! / Розпочинаймо! (Correct 1st person plural imperative with -імо/-мо)",
+            "Давайте почнемо працювати",
+            "Давайте будемо працювати",
+            "Давай починати"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною формою спільної дії є синтетична форма «Почнімо!» або «Розпочинаймо!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Голова\":",
+          "prompt": "Оберіть правильну форму 1-ї особи множини наказового способу від дієслова «піти / іти»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.2.",
-            "Порушення законів евфонії та словотворення для «Очі»",
-            "Стилістично некоректна синтаксична конструкція з «Руки»",
-            "Неправильне відмінкове узгодження зі словом «Серце»"
+            "Ходімо! / Ідімо! (Inclusive imperative ending in -імо)",
+            "Давайте підемо!",
+            "Давайте йти!",
+            "Ідемоте!"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "В українській літературній мові заклик до руху виражається словом «Ходімо!» або «Ідімо!»."
         }
       ]
     },
@@ -7581,17 +7600,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Голова\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому заклик до спільної дії сформульовано з бездоганним дотриманням культури українського мовлення:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.2.",
-            "Стилістично некоректна синтаксична конструкція з «Руки»",
-            "Неправильне відмінкове узгодження зі словом «Серце»",
-            "Порушення законів евфонії та словотворення для «Очі»"
+            "Поговорімо відверто про всі труднощі та спільно знайдімо найкраще рішення.",
+            "Давайте поговоримо відверто про всі труднощі та знайдемо рішення.",
+            "Давайте будемо говорити відверто про проблеми.",
+            "Давай поговорити відверто про всі справи."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Поговорімо» та «знайдімо» — це чисті синтетичні форми наказового способу без чужорідного «давайте»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u18-l3": {
@@ -7599,53 +7619,62 @@
     "subject": "ukrainian",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "Наказовий спосіб та форми ввічливості (Imperative Mood) (Part 3)",
+    "title": "Описові форми 3-ї особи з частками «хай / нехай» (3rd Person Imperatives)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 18.3) with authentic linguistic precision.",
+    "objective": "Опанувати творення та стилістику аналітичних форм наказового способу 3-ї особи однини і множини за допомогою часток хай/нехай + форми теперішнього або майбутнього часу.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Для вираження спонукання, наказу, дозволу, побажання або благословення, спрямованого на третю особу чи групу осіб (він, вона, воно, вони), вживаються описові аналітичні конструкції:\n\n1. Граматична модель:\n   - «Частка ХАЙ або НЕХАЙ + Дієслово 3-ї особи теперішнього або простого майбутнього часу»:\n     * Хай живе Україна! (Long live Ukraine!)\n     * Нехай вони розкажуть про свої досягнення.\n     * Хай щастить тобі на життєвому шляху!\n     * Нехай кожен студент напише відгук.\n\n2. Стилістична диференціація часток «хай» та «нехай»:\n   - «Нехай» — більш урочиста, офіційна, монументальна частка, властива публіцистичному, офіційно-діловому та поетичному стилям («Нехай буде проклята війна!», «Нехай комісія ухвалить рішення»).\n   - «Хай» — динамічніша, більш емоційна, лаконічна, широко вживана в розмовній мові та ліриці («Хай сонечко світить», «Хай щастить!»).\n\n3. Орфографія:\nЧастки «хай» і «нехай» пишуться з дієсловами ЗАВЖДИ ОКРЕМО.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Хай живе, міцніє та вічно процвітає наша вільна й незалежна Україна!",
+          "reading": "[xɑj ʒɪˈwɛ, mʲit͡sʲˈnʲijɛ tɑ ˈwʲitʃnɔ prɔt͡swʲiˈtɑjɛ ˈnɑʃɐ ˈwʲilʲnɐ j nɛzɐˈlɛʒnɐ ukrɐˈjinɐ] (khahy zhy-VEH, meets-NEE-yeh tah VEETCH-noh proh-tsvee-TAH-yeh NAH-shah VEEL'-nah y neh-zah-LEHZH-nah oo-krah-YEE-nah)",
+          "translation": "May our free and independent Ukraine live, grow stronger, and flourish forever!"
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 18-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Нехай юні науковці самостійно оберуть тему для свого дипломного дослідження.",
+          "reading": "[nɛˈxɑj ˈjunʲi nɐuˈkɔwt͡sʲi sɐmɔsʲˈtʲijnɔ ɔbɛˈrutʲ ˈtɛmu dlʲɑ swɔˈjɔɦɔ dɪpˈlɔmnɔɦɔ dɔsʲˈlʲidʒɛnʲːɑ] (neh-KHAHY YOO-nee nah-oo-KOV-tsee sah-mohs-TEEY-noh oh-beh-ROOT' TEH-moo dlyah swoh-YOH-hoh dyp-LOHM-noh-hoh dohs-LEED-zhen-nyah)",
+          "translation": "Let the young researchers choose the topic for their diploma thesis independently."
+        },
+        {
+          "target": "Хай у вашому домі завжди панують мир, достаток, взаєморозуміння та щира любов!",
+          "reading": "[xɑj u ˈwɑʃɔmu ˈdɔmʲi zɐwʒˈdɪ pɐˈnujutʲ mɪr, dɔsˈtɑtɔk, wzɐjɛmɔrɔzuˈmʲinʲːɑ tɑ ˈʃtʃɪrɐ lʲuˈbɔw] (khahy oo VAH-shoh-moo DOH-mee zahvz-HDY pah-NOO-yoot' myr, dohs-TAH-tohk, vzah-yeh-moh-roh-zoo-MEEN-nyah tah SHCHY-rah lyoo-BOHV)",
+          "translation": "May peace, prosperity, mutual understanding, and sincere love always reign in your home!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Наказ або побажання для «він/вона/вони» — додай «хай / нехай» окремо: «Хай живе!», «Нехай скажуть!»"
+      ],
+      "culturalNotes": [
+        "Традиційне українське побажання успіху «Хай щастить!» є одним із найпопулярніших доброзичливих виразів у щоденній комунікації."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Серце\":",
+          "prompt": "Як утворюється форма наказового способу для 3-ї особи однини від дієслова «працювати»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.3.",
-            "Неправильне відмінкове узгодження зі словом «Очі»",
-            "Порушення законів евфонії та словотворення для «Руки»",
-            "Стилістично некоректна синтаксична конструкція з «Родина»"
+            "Хай працює / Нехай працює (Analytic imperative with particle хай/нехай)",
+            "Працюй",
+            "Працюйте",
+            "Працюймо"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Наказовий спосіб 3-ї особи утворюється аналітично за допомогою часток хай/нехай + дієслово: «хай працює»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Серце\":",
+          "prompt": "Як пишеться частка «нехай» із дієсловом (нехай прийде)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.3.",
-            "Порушення законів евфонії та словотворення для «Руки»",
-            "Стилістично некоректна синтаксична конструкція з «Родина»",
-            "Неправильне відмінкове узгодження зі словом «Очі»"
+            "Окремо (нехай прийде)",
+            "Разом (нехайприйде)",
+            "Через дефіс (нехай-прийде)",
+            "З апострофом (нехай'прийде)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Частки «хай» і «нехай» пишуться з дієсловами окремо."
         }
       ]
     },
@@ -7653,17 +7682,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Серце\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення з правильно утвореною та стилістично бездоганною формою 3-ї особи наказового способу:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.3.",
-            "Стилістично некоректна синтаксична конструкція з «Родина»",
-            "Неправильне відмінкове узгодження зі словом «Очі»",
-            "Порушення законів евфонії та словотворення для «Руки»"
+            "Нехай кожен громадянин сумлінно виконує свої професійні обов'язки.",
+            "Давай кожен громадянин виконує обов'язки.",
+            "Хай громадянин виконуй обов'язки.",
+            "Нехай би громадянин виконав би обов'язки."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Конструкція «Нехай + виконує» (3-тя особа) є абсолютно нормативною."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u18-l4": {
@@ -7671,53 +7701,62 @@
     "subject": "ukrainian",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "Наказовий спосіб та форми ввічливості (Imperative Mood) (Part 4)",
+    "title": "Заперечний наказ та аспектологічні нюанси (Negative Imperatives & Aspect)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 18.4) with authentic linguistic precision.",
+    "objective": "Опанувати вираження заборони та застереження в наказовому способі за допомогою частки НЕ та диференціацію видів дієслова (недоконаний вид — заборона; доконаний вид — застереження від випадкової помилки).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Заперечний наказ в українській мові утворюється додаванням заперечної частки «НЕ» до дієслова в наказовому способі. При цьому вибір виду дієслова кардинально змінює зміст мовленнєвого акту:\n\n1. Заборона або прохання не здійснювати дію -> НЕДОКОНАНИЙ вид:\nВиражає категоричну заборону, прохання не робити чогось узагалі або припинити дію, що вже розпочалася:\n   - «Не відчиняйте вікно!» (категорична заборона);\n   - «Не хвилюйтеся, все буде гаразд» (прохання заспокоїтися);\n   - «Не запізнюйтеся на ранкові заняття»;\n   - «Не перебивайте співрозмовника».\n\n2. Застереження від випадкової шкоди чи небажаного наслідку -> ДОКОНАНИЙ вид:\nВиражає пересторогу, попередження про можливу небезпеку або випадкову неприємність:\n   - «Гляди не впади на слизькій дорозі!» (пересторога, warning);\n   - «Дивись не загуби важливі документи!»;\n   - «Не розбий коштовну вазу!»;\n   - «Не забудьте паспорт перед виходом».\n\n3. Ввічливе формулювання прохання:\nДля максимальної тактовності використовуються форми «Будь ласка, не...», «Просимо не...» («Просимо не користуватися телефонами під час вистави»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Будь ласка, не турбуйтеся завчасно і спокійно дочекайтеся офіційних результатів.",
+          "reading": "[budʲ ˈlɑskɐ, nɛ turbujˈtɛsʲɑ zɑwtʃɐsˈnɔ i spɔˈkijnɔ dɔtʃɛˈkɑjtɛsʲɑ ɔfʲit͡sʲijˈnɪx rɛzulʲˈtɑtʲiw] (bood' LAHS-kah, neh toor-booy-TEHS'-yah zahv-chahs-NOH ee spoh-KEEY-noh doh-cheh-KAHY-tehs'-yah oh-fee-tseey-NYKH reh-zool'-TAH-teew)",
+          "translation": "Please do not worry prematurely and calmly wait for the official results."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 18-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Будьте надзвичайно уважні на крутому схилі: дивіться не послизніться на мокрому камінні!",
+          "reading": "[ˈbudʲtɛ nɐdzwɪˈtʃɑjnɔ uˈwɑʒnʲi nɑ kruˈtɔmu ˈsxɪlʲi: dɪˈwʲitʲsʲɑ nɛ pɔslɪzˈnʲitʲsʲɑ nɑ ˈmɔkrɔmu kɐˈmʲinʲːi] (BOOD'-teh nahd-zvy-CHAHY-noh oo-VAHZH-nee nah kroo-TOH-moo SKHY-lee: dy-VEET'-syah neh poh-slyz-NEET'-syah nah MOHK-roh-moo kah-MEEN-nyee)",
+          "translation": "Be extraordinarily careful on the steep slope: take care not to slip on wet stones!"
+        },
+        {
+          "target": "Шановні відвідувачі, просимо не торкатися музейних експонатів руками.",
+          "reading": "[ʃɐˈnɔwnʲi wʲidˈwʲiduwɐtʃʲi, prɔˈsɪmɔ nɛ tɔrˈkɑtɪsʲɑ muˈzɛjnɪx ɛkspɔˈnɑtʲiw ruˈkɑmɪ] (shah-NOHV-nee veed-VEE-doo-vah-chee, proh-SY-moh neh tohr-KAH-tys'-yah moo-ZEY-nykh eks-poh-NAH-teew roo-KAH-my)",
+          "translation": "Dear visitors, we request you not to touch the museum exhibits with your hands."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Категорична заборона — «не робіть» (недоконаний вид); застереження від біди — «дивись не впади» (доконаний вид)!"
+      ],
+      "culturalNotes": [
+        "Етикетне словосполучення «Будь ласка» в українській мові завжди пишеться ОКРЕМО (на відміну від калькованого російського «пожалуйста») і виділяється комами."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Очі\":",
+          "prompt": "Який вид дієслова використовується у застереженні від випадкової прикрої події «Обережно, не ... ключі!»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.4.",
-            "Неправильне відмінкове узгодження зі словом «Руки»",
-            "Порушення законів евфонії та словотворення для «Родина»",
-            "Стилістично некоректна синтаксична конструкція з «Батько»"
+            "Доконаний вид (Не загуби! - Warning against accidental loss)",
+            "Недоконаний вид (Не губи)",
+            "Умовний спосіб",
+            "Інфінітив пасивного стану"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Для застереження від випадкової небажаної дії використовується доконаний вид: «не загуби»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Очі\":",
+          "prompt": "Як правильно пишеться етикетний вираз «будь ласка»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.4.",
-            "Порушення законів евфонії та словотворення для «Родина»",
-            "Стилістично некоректна синтаксична конструкція з «Батько»",
-            "Неправильне відмінкове узгодження зі словом «Руки»"
+            "Окремо (будь ласка)",
+            "Через дефіс (будь-ласка)",
+            "Разом (будьласка)",
+            "З апострофом (будь'ласка)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "За чинним українським правописом вираз «будь ласка» пишеться виключно окремо у два слова."
         }
       ]
     },
@@ -7725,17 +7764,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Очі\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де заперечний наказ виражає загальну заборону дії в недоконаному виді:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.4.",
-            "Стилістично некоректна синтаксична конструкція з «Батько»",
-            "Неправильне відмінкове узгодження зі словом «Руки»",
-            "Порушення законів евфонії та словотворення для «Родина»"
+            "Не запізнюйтеся на міжнародні переговори, цінуйте час партнерів.",
+            "Дивись не запізнися на потяг!",
+            "Гляди не впусти телефон у воду!",
+            "Не забудь вимкнути світло перед виходом."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Не запізнюйтеся» — це форма недоконаного виду, що позначає загальну заборону регулярної дії."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u18-l5": {
@@ -7743,53 +7783,62 @@
     "subject": "ukrainian",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "Наказовий спосіб та форми ввічливості (Imperative Mood) (Part 5)",
+    "title": "Прагматика етикету: кличний відмінок та спонукання (Vocative + Imperative)",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 18.5) with authentic linguistic precision.",
+    "objective": "Опанувати гармонійне поєднання наказового способу з кличним відмінком у різних регістрах спілкування (офіційному, академічному, дружньому) та етикетні формули ввічливого звертання.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Справжня культура українського мовлення вимагає нерозривної єдності між спонукальною формою дієслова (наказовим способом) та адресатом мовлення у КЛИЧНОМУ відмінку:\n\n1. Синтаксичне узгодження звертання та наказового способу:\n   - Офіційно-діловий та шанобливий регістр (Кличний відмінок + 2-га особа множини на «-іть / -те»):\n     * «Пане професоре, дозвольте поставити запитання!»;\n     * «Оксано Петрівно, підпишіть, будь ласка, цей наказ»;\n     * «Шановні колеги, погляньте на екран».\n   - Дружній та неформальний регістр (Кличний відмінок + 2-га особа однини на «-и / -∅»):\n     * «Андрію, допоможи мені розібратися!»;\n     * «Маріє, розкажи про свою поїздку»;\n     * «Друже, тримайся міцніше!».\n\n2. Формули мовного етикету при спонуканні:\n   - Вибачення перед проханням: «Перепрошую, чи не могли б ви...», «Даруйте на слові, зверніть увагу...»;\n   - Прохання дозволу: «Дозвольте зайти», «Дозвольте висловити думку»;\n   - Ввічлива згода: «Будь ласка», «З приємністю», «Радо допоможу»;\n   - Тактовна відмова: «На жаль, зараз не маю можливості», «Перепрошую, але змушений відмовити».\n\n3. Пунктуація: Звертання в кличному відмінку завжди виділяється комами (або знаком оклику на початку речення).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Пане ректоре, дозвольте представити вам почесних гостей нашого університету.",
+          "reading": "[ˈpɑnɛ ˈrɛktɔrɛ, dɔzˈwɔlʲtɛ prɛdstɐˈwɪtɪ wɑm pɔˈtʃɛsnɪx ɦɔsˈtɛj ˈnɑʃɔɦɔ unʲiwɛrsɪˈtɛtu] (PAH-neh REHK-toh-reh, dohz-VOHL'-teh pred-stah-VY-ty vahm poh-CHEHS-nykh hohs-TEY NAH-shoh-hoh oo-nee-vehr-sy-TEH-too)",
+          "translation": "Mr. Rector, allow me to introduce the guests of honor of our university to you."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 18-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Оксано Миколаївно, перевірте, будь ласка, фінансові звіти за минулий квартал.",
+          "reading": "[ɔkˈsɑnɔ mɪkɔˈlɑjiwnɔ, pɛrɛˈwʲirtɛ, budʲ ˈlɑskɐ, fʲinɐnˈsɔwʲi ˈzwʲitɪ zɑ mɪˈnulɪj kwɐrˈtɑl] (ohk-SAH-noh my-koh-LAH-yeev-noh, peh-reh-VEER-teh, bood' LAHS-kah, fee-nahn-SOH-vee ZVEE-ty zah my-NOO-lyy kvahr-TAHL)",
+          "translation": "Oksana Mykolayivna, please check the financial reports for the past quarter."
+        },
+        {
+          "target": "Друже мій, ніколи не сумнівайся у власних силах і сміливо йди вперед!",
+          "reading": "[ˈdruʒɛ mʲij, ˈnʲikɔlɪ nɛ sumnʲiˈwɑjsʲɑ u ˈwlɑsnɪx ˈsɪlɐx i smʲiˈlɪwɔ jdɪ wpɛˈrɛd] (DROO-zheh meey, NEE-koh-ly neh soom-nee-VAHY-syah oo VLAHS-nykh SY-lahkh ee smee-LY-voh ydy vpeh-RED)",
+          "translation": "My friend, never doubt your own strength and boldly go forward!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Звертаєшся з наказом — обов'язково став ім'я в кличний відмінок: «Оксано, допоможи!», «Пане директоре, розгляньте!»"
+      ],
+      "culturalNotes": [
+        "Поєднання кличного відмінка з дієсловами ввічливості («перепрошую», «будь ласка», «дозвольте») є візитною карткою шляхетного українського міського мовлення."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Руки\":",
+          "prompt": "Оберіть речення, в якому звертання та наказ граматично узгоджено з бездоганною точністю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.5.",
-            "Неправильне відмінкове узгодження зі словом «Родина»",
-            "Порушення законів евфонії та словотворення для «Батько»",
-            "Стилістично некоректна синтаксична конструкція з «Мати»"
+            "Пані Олено, передайте, будь ласка, протокол засідання. (Vocative case + polite imperative)",
+            "Пані Олена, передайте, будь ласка, протокол.",
+            "Пані Олено, передай, будь ласка, протокол.",
+            "Пані Олену, передайте протокол."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Пані Олено» (кличний відмінок) гармонійно поєднується з ввічливою формою 2-ї особи множини «передайте»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Руки\":",
+          "prompt": "Яка етикетна формула ввічливого звернення є питомо українською для привернення уваги?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.5.",
-            "Порушення законів евфонії та словотворення для «Батько»",
-            "Стилістично некоректна синтаксична конструкція з «Мати»",
-            "Неправильне відмінкове узгодження зі словом «Родина»"
+            "Перепрошую, дозвольте запитати... (Authentic Ukrainian polite phrase)",
+            "Вибачаюсь, можна спитати",
+            "Я вибачаюся",
+            "Слухайте сюди"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативною етикетною формулою є «Перепрошую, дозвольте...» (зворот «вибачаюся» є стилістично некоректним)."
         }
       ]
     },
@@ -7797,17 +7846,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Руки\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ норми кличного відмінка, правопису та наказового способу дотримано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 18.5.",
-            "Стилістично некоректна синтаксична конструкція з «Мати»",
-            "Неправильне відмінкове узгодження зі словом «Родина»",
-            "Порушення законів евфонії та словотворення для «Батько»"
+            "Шановний пане професоре, будь ласка, висловіть свою експертну думку.",
+            "Шановний пан професор, будь ласка, висловіть свою думку.",
+            "Шановний пане професоре, будь-ласка, висловіть свою думку.",
+            "Шановний пане професор, будь ласка, вислови свою думку."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому варіанті кличний відмінок «пане професоре», правопис «будь ласка» (окремо без дефіса) та форма «висловіть» є бездоганними."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u19-l1": {
