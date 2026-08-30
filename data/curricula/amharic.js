@@ -14916,85 +14916,62 @@
     "subject": "amharic",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric) (ክፍል 1)",
+    "title": "የሰምና ወርቅ ቅኔ ጥበብ እና ድርብ ትርጉም (Wax & Gold Sem-ənna-Wärq Poetics)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሰምና ወርቅ ቅኔ ጥበብ፣ የላቁ ፈሊጣዊ አነጋገሮች እና የአደባባይ ንግግር። (ክፍል 1)።",
+    "objective": "የሰምና ወርቅን የቅኔ መዋቅር፣ የውጫዊና ውስጣዊ ትርጉምን ጥበብ መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሰምና ወርቅ ቅኔ ጥበብ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ሰም (Surface meaning / Wax) / ወርቅ (Hidden meaning / Gold)\n- ህብር (Double-entendre) / ቅኔ (Poetic verse)\n- ምስጢር (Secret / Subtext) / ቅኔያዊ ስልት።\n\n፪. ዋና መርሆዎች:\n- ሰምና ወርቅ ላዩን ሰም አድርጎ የውስጡን ጥልቅ መልእክት እንደ ወርቅ ደብቆ የማቅረብ የኢትዮጵያ የስነ-ጽሁፍ ጥበብ ነው።",
       "examples": [
         {
-          "target": "መምህሩ የ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (33.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)' to the students."
+          "target": "ገጣሚው በሰምና ወርቅ ጥበብ በመጠቀም ማህበራዊ ሂሱን በሚያምር ድርብ ትርጉም አቀረበ።",
+          "reading": "Gät’amiw bäsäm ənna wärq t’əbäb bämät’t’äqäm mahəbärawi hisun bämiyamər dərəb tərəgum aqärräbä. [ɡətʼaˈmiw bəsəm ʔɨnːa wərkʼ tʼɨˈbəb bəmətʼːɛˈkʼəm mahɨbɛraˈwi hiˈsun bəmijaˈmɨr dɨrɨb tɨrɨˈɡum ʔakʼɛrːəˈbɛ] (geh-t'ah-MEE-woo beh-SEM un-nah WERK' t'uh-BEB beh-mut'-t'eh-K'EM mah-huh-beh-rah-WEE hee-SOON beh-mee-yah-MUR duh-RUB tuh-ruh-GOOM ah-k'er-reh-BEH)",
+          "translation": "The poet presented his social critique through beautiful double-entendre using the art of Wax and Gold."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (33.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የቅኔው ሰም ግልጽ ቢመስልም እውነተኛው ወርቅ ግን በጥልቅ አስተውሎት የሚገኝ ምስጢር ነው።",
+          "reading": "Yäqənew säm gəlts bimäsləm əwənätänyaw wärq gən bät’əlq astäwəlot yämmiggäny məsət’ir näw. [jəkʼɨˈnew səm ɡɨltsʼ biˈmɛslɨm ʔɨwɨnətɛˈɲaw wərkʼ ɡɨn bətʼɨlkʼ ʔastəwɨˈlot jəmːiɡːəɲ mɨsɨˈtʼir nɛw] (yeh-k'uh-NAY-woo SEM gults' bee-mes-LUM uh-wuh-neh-ten-YOW WERK' gun beh-t'ul-K' ahs-tew-uh-LOHT yem-meeg-GEN-y muh-suh-T'EER new)",
+          "translation": "Though the poem's wax appears straightforward, the genuine gold is a secret discovered through deep reflection."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (33.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (33.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የህብር ቃላት አጠቃቀም ለአማርኛ ስነ-ጽሑፍ የላቀ ውበት እና ምናባዊ ጥልቀት ይሰጣል።",
+          "reading": "Yähəbər qalat at’ät’äqam lä’Amarənya sənä-ts’əhuf yälaqä wəbät ənna mənabawi t’əlqät yəsät’all. [jəhɨˈbɨr kʼaˈlat ʔatʼətʼəˈkʼam ləʔamaˈrɨɲa sɨnəˈtsʼɨhuf jəlaˈkʼə wɨˈbət ʔɨnːa mɨnabaˈwi tʼɨlˈkʼət jəsəˈtʼalː] (yeh-huh-BUR k'ah-LAHT ah-t'ut'-t'eh-K'AHM luh-ah-mah-RUN-yah suh-neh-TS'UH-hoof yeh-lah-K'EH wuh-BET un-nah muh-nah-bah-WEE t'ul-K'ET yuh-set'-AHL)",
+          "translation": "The use of double-entendre words imparts exquisite beauty and imaginative depth to Amharic literature."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Wax and Gold: ሰም (Wax/Surface) + ወርቅ (Gold/Core) + ህብር (Double Meaning) + ቅኔ (Verse)!"
+      ],
+      "culturalNotes": [
+        "የሰምና ወርቅ ቅኔ ጥበብ ከግዕዝ የቅኔ ቤቶች (እንደ ዋሽራና ጎንደር) ጀምሮ በአማርኛ ሥነ-ጽሑፍና የዕለት ተዕለት ውይይት ውስጥ ከፍተኛ ቦታ አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በአማርኛ ስነ-ግጥም ውስጥ ላዩን ግልጽ አድርጎ የውስጡን ጥልቅና ድብቅ መልእክት የማስተላለፍ ጥበብ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (33.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (33.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (33.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (33.1.w3)"
+            "ሰምና ወርቅ (Wax & Gold - Dual-layered poetic rhetoric)",
+            "ቀጥተኛ ንግግር",
+            "ተራ ቃላት",
+            "ስድብ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሰምና ወርቅ» ውጫዊውን (ሰም) እና ውስጣዊውን (ወርቅ) አጣምሮ የያዘ የላቀ ስነ-ጽሁፋዊ ዘይቤ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u33-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Double-entendre, dual meaning' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (33.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (33.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (33.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (33.1.x3)"
+            "ህብር / ድርብ ትርጉም (Double-entendre / polysemic meaning)",
+            "አንድ ትርጉም",
+            "የተሳሳተ ቃል",
+            "ትርጉም አልባ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (33.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (33.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (33.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (33.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ህብር» ወይም ድርብ ትርጉም በአንድ ቃል ውስጥ ሁለት የተለያዩ መልእክቶችን የማስተላለፍ ጥበብ ነው።"
         }
       ]
     },
@@ -15002,24 +14979,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 33-1):",
+          "prompt": "የሰምና ወርቅ እና የቅኔ ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (33.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (33.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (33.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (33.1.z3)"
+            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ድርብ ትርጉም እና ምስጢር።",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ።",
+            "ጠረጴዛ፣ ወንበር እና በር።",
+            "በአማርኛ ቅኔ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የሰምና ወርቅ ቅኔ መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u33-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የላቀ»):",
+          "prompt": "'ቅኔ / Poetic hymn, verse' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የላቀ",
-            "የላቀ"
+            "ቅኔ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የላቀ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅኔ» (Qəne) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -15030,85 +15006,62 @@
     "subject": "amharic",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric) (ክፍል 2)",
+    "title": "የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Proverbs & Idiomatic Expressions)",
     "level": "C2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የሰምና ወርቅ ቅኔ ጥበብ፣ የላቁ ፈሊጣዊ አነጋገሮች እና የአደባባይ ንግግር። (ክፍል 2)።",
+    "objective": "የአማርኛ ምሳሌያዊ አነጋገሮችን፣ የፈሊጦች አጠቃቀምን እና ማህበራዊ ፍልስፍናን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የፈሊጥ እና የምሳሌያዊ አነጋገሮች መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ፈሊጥ (Idiom) / ምሳሌያዊ አነጋገር (Proverb)\n- ተረትና ምሳሌ (Traditional proverb) / አባባል (Saying)\n- ጥበብ (Wisdom) / የቋንቋ ውበት።\n\n፪. ዋና መርሆዎች:\n- ምሳሌያዊ አነጋገሮች የማህበረሰቡን የሺህ ዓመታት ልምድ፣ ጥበብና ፍልስፍና በአጭርና በኃይለኛ አገላለጽ ያጠቃልላሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (33.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)' to the students."
+          "target": "«ድር ቢያብር አንበሳ ያስር» የሚለው ታዋቂ ምሳሌያዊ አነጋገር የአንድነትን እና የትብብርን ኃይል ያስተምራል።",
+          "reading": "«Dər biabbər anəbässa yasər» yämmiləw tawaqi məsaleyawi anägagär yä’andənnätən ənna yätərəbbərən hayəl yasətämərall. [«dɨr biʔabːər ʔanəbəsːa jaˈsɨr» jəmːiˈlɨw tawaˈkʼi mɨsaleˈjawi ʔanəɡaˈɡər jəʔandɨˈnːɛtɨn ʔɨnːa jətɨrɨbːɨˈrɨn haˈjɨl jasɨtɛmɨˈralː] («dur bee-ahb-BUR ahn-bes-SAH yah-SUR» yem-mee-LEW tah-wah-K'EE muh-sah-lay-YAH-wee ah-neh-gah-GER yeh-ahn-dun-neh-TUN un-nah yeh-tuh-roob-buh-RUN high-UL yahs-teh-muh-RAHL)",
+          "translation": "The famous proverb 'When spider webs unite, they can tie a lion' teaches the power of unity and cooperation."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (33.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አረጋዊው ሰው ንግግራቸውን በፈሊጣዊ አነጋገሮች በማስዋብ ጥልቅ ማህበራዊ ምክር ለወጣቶች ለገሱ።",
+          "reading": "Arägawiw säw nəgəgəraččäwən bäfälit’awi anägagäročč bamaswabb t’əlq mahəbärawi məkr läwät’t’atočč läggäsu. [ʔarəɡaˈwiw sɛw nɨɡɨɡɨraˈtʃːəwɨn bəfəlitʼaˈwi ʔanəɡaɡəˈrotʃː bamasˈwabb tʼɨlkʼ mahɨbɛraˈwi mɨkr ləwətʼːaˈtotʃː ləɡːəˈsu] (ah-reh-gah-WEE-woo sew nuh-guh-guh-rahch-CHEW-un beh-feh-lee-t'ah-WEE ah-neh-gah-geh-ROHCH bah-mahs-wahb t'ul-K' mah-huh-beh-rah-WEE mukr luh-wet'-t'ah-TOHCH leg-geh-SOO)",
+          "translation": "The elder adorned their speech with idiomatic expressions, bestowing profound social counsel upon the youth."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (33.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (33.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ፈሊጦችን በአግባቡ መጠቀም የአማርኛ ቋንቋ ተናጋሪዎችን የንግግር ደረጃ እና ባህላዊ ብስለት ያሳያል።",
+          "reading": "Fälit’oččən bä’agəbabu mät’t’äqäm yä’Amarənya qwanəqwa tänagariwoččən yänəgəgər däräğa ənna bahəlawi bəsəlät yasäyyall. [fəlitʼoˈtʃːɨn bəʔaɡɨˈbabu mətʼːɛˈkʼəm jəʔamaˈrɨɲa kʼʷanɨˈkʼʷa tənagariˈwotʃːɨn jənɨɡɨˈɡɨr dərəˈdʒa ʔɨnːa bahɨlaˈwi bɨsɨˈlɛt jasəjːalː] (feh-lee-t'OHCH-chun beh-ah-guh-BAH-boo mut'-t'eh-K'EM yeh-ah-mah-RUN-yah k'wahn-k'wah teh-nah-gah-ree-WOHCH-chun yeh-nuh-guh-GUR deh-reh-JAH un-nah bah-huh-lah-WEE buh-suh-LET yah-seh-yuhl-LAHL)",
+          "translation": "Using idioms properly demonstrates Amharic speakers' level of discourse and cultural maturity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Proverbs: ምሳሌያዊ አነጋገር (Proverb) + ፈሊጥ (Idiom) + ተረትና ምሳሌ (Lore) + ጥበብ (Wisdom)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ባህል 'ያለ ምሳሌ ንግግር፣ ያለ ጨው ወጥ' ይባላል፤ ይህም ምሳሌያዊ አነጋገር ለንግግር ጣዕምና ጥልቀት የሚሰጥ መሆኑን ያመለክታል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ድር ቢያብር አንበሳ ያስር» የሚለው የአማርኛ አባባል በምን አይነት የስነ-ጽሑፍ ዘውግ ይመደባል?",
           "options": [
-            "መምህሩ የ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (33.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (33.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (33.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (33.2.w3)"
+            "ምሳሌያዊ አነጋገር (Proverb / maxim of collective wisdom)",
+            "የዜና ዘገባ",
+            "የህግ ድንጋጌ",
+            "የሂሳብ ቀመር"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አባባል የአንድነትን ጥቅም የሚያስተምር ጥንታዊ ምሳሌያዊ አነጋገር ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u33-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Idiomatic expression' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (33.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (33.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (33.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (33.2.x3)"
+            "ፈሊጣዊ አነጋገር (Idiomatic expression / metaphorical phrase)",
+            "ቀጥተኛ ትርጉም",
+            "የፊደል ስህተት",
+            "ተራ ድምፅ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (33.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (33.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (33.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (33.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ፈሊጣዊ አነጋገር» ቃላቱ ከቀጥተኛ ትርጉማቸው ውጭ ልዩ ባህላዊ መልእክት የሚያስተላልፉበት መንገድ ነው።"
         }
       ]
     },
@@ -15116,24 +15069,293 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 33-2):",
+          "prompt": "የፈሊጥ እና የምሳሌያዊ አነጋገር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (33.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (33.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (33.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (33.2.z3)"
+            "ምሳሌያዊ አነጋገር፣ ፈሊጥ፣ ተረትና ምሳሌ፣ ጥበብ እና አባባል።",
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ።",
+            "ፈረስ፣ በቅሎ እና አህያ።",
+            "በአማርኛ ምሳሌያዊ አነጋገር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የምሳሌያዊ አነጋገሮች እና የፈሊጥ ቁልፍ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u33-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የላቀ»):",
+          "prompt": "'ፈሊጥ / Idiom, figure of speech' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የላቀ",
-            "የላቀ"
+            "ፈሊጥ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የላቀ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ፈሊጥ» (Fälit’) ነው።"
+        }
+      ],
+      "passThreshold": 0.8
+    }
+  },
+  "am-u33-l3": {
+    "id": "am-u33-l3",
+    "subject": "amharic",
+    "unit": 33,
+    "lessonNumber": 3,
+    "title": "የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Oratory & Persuasive Rhetoric)",
+    "level": "C2",
+    "objective": "የአደባባይ አንደበተ-ርቱዕነትን፣ የንግግር ስነ-ዘዴን እና የማሳመን ጥበብን መተንተን።",
+    "presentation": {
+      "explanation": "የአደባባይ ንግግር እና የማሳመን ጥበብ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- አደባባይ ንግግር (Public oratory) / አንደበተ ርቱዕ (Eloquent orator)\n- ማሳመን (Persuasion / Convincing) / ቅላጼ (Intonation / Tone)\n- ተናጋሪ (Speaker) / አድማጭ (Audience)።\n\n፪. ዋና መርሆዎች:\n- አንደበተ ርቱዕ ተናጋሪ ሀሳቡን በግልጽ፣ በስሜት እና በማስረጃ አዋቅሮ አድማጩን በንግግሩ ጥበብ ያሳምናል።",
+      "examples": [
+        {
+          "target": "አንደበተ ርቱዕ ተናጋሪው በአደባባይ ባደረገው ኃይለኛ ንግግር መላውን ህዝብ አሳመነ።",
+          "reading": "Anədäbätä rətu’ tänagariw bä’adäbabay badärrägäw hayəlänya nəgəgər mälawən həzb asammänä. [ʔanɨdəbətə rɨtuʔ tənagaˈriw bəʔadəbaˈbaj badərːəˈɡəw hajɨlɛˈɲa nɨɡɨˈɡɨr mɛlaˈwɨn hɨzb ʔasamːəˈnɛ] (ahn-duh-beh-teh ruh-TOO teh-nah-gah-REE-woo beh-ah-deh-bah-BYE bah-der-reh-GEW high-leh-NYAH nuh-guh-GUR meh-LAH-wun huzb ah-sahm-meh-NEH)",
+          "translation": "The eloquent orator convinced the entire public through the powerful speech delivered in the forum."
+        },
+        {
+          "target": "ተናጋሪው የድምፅ ቅላጼውን እና የሰውነት እንቅስቃሴውን በማስተካከል የአድማጮችን ቀልብ ሳበ።",
+          "reading": "Tänagariw yädəmts’ qəllats’ewən ənna yäsäwənnät ənqəsəqasewən bamasətäkakkäl yä’adəmač’oččən qäləb sabä. [tənagaˈriw jədɨmtsʼ kʼɨlːaˈtsʼewɨn ʔɨnːa jəsəwɨˈnːɛt ʔɨnkʼɨsɨkʼaˈsewɨn bamasɨtəkaˈkːəl jəʔadɨmaˈtʃʼotʃːɨn kʼəlɨb saˈbɛ] (teh-nah-gah-REE-woo yeh-dum-TS' k'ul-lah-ts'ay-WUN un-nah yeh-seh-wun-NET un-k'uh-suh-k'ah-say-WUN bah-mahs-teh-kahk-KEL yeh-ah-duh-mah-CH'OHCH-chun k'el-UB sah-BEH)",
+          "translation": "The speaker captured the audience's attention by calibrating vocal intonation and body posture."
+        },
+        {
+          "target": "የማሳመን ጥበብ ምክንያታዊ ማስረጃዎችን ከስሜት ውህደት ጋር በአግባቡ በማዋቀር ላይ የተመሰረተ ነው።",
+          "reading": "Yämasammän t’əbäb məkənyatawi masräğawoččən käsəmet wəhədät gara bä’agəbabu bamawaqär lay yätämässärätä näw. [jəmasamːən tʼɨˈbəb mɨkɨnjaˈtawi masrədʒaˈwotʃːɨn kəsɨˈmet wɨhɨˈdət ɡar bəʔaɡɨˈbabu bamawaˈkʼər laj jətəməsːəˈrətə nɛw] (yeh-mah-sahm-MEN t'uh-BEB muh-kun-yah-TAH-wee mahs-reh-jah-WOHCH-chun keh-suh-MAYT wuh-huh-DET gahr beh-ah-guh-BAH-boo bah-mah-wah-K'ER lye yeh-teh-mes-seh-reh-TEH new)",
+          "translation": "The art of persuasion is founded upon structuring logical evidence appropriately with emotional resonance."
+        }
+      ],
+      "mnemonics": [
+        "Public Oratory: አንደበተ ርቱዕ (Eloquent) + አደባባይ ንግግር (Oratory) + ማሳመን (Persuasion) + ቅላጼ (Cadence)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል በአደባባይ ሸንጎ፣ በሰርግና በሀገር ጉዳይ ላይ አንደበተ-ርቱዕ ተናጋሪዎች ከፍተኛ ክብርና አድናቆት ይሰጣቸዋል።"
+      ]
+    },
+    "guidedPractice": {
+      "items": [
+        {
+          "prompt": "ንግግርን በሚገባ አሳምሮ የሚናገር፣ ቃላትን የሚያውቅና ህዝብን የማሳመን ችሎታ ያለው ሰው ምን ይባላል?",
+          "options": [
+            "አንደበተ ርቱዕ (Eloquent orator / articulate speaker)",
+            "ዲዳ",
+            "ዝምተኛ",
+            "ተመልካች"
+          ],
+          "answerIndex": 0,
+          "explanation": "«አንደበተ ርቱዕ» በንግግር ችሎታው እና በማሳመን ጥበቡ የተመሰገነ ተናጋሪ ነው።"
+        }
+      ]
+    },
+    "independentPractice": {
+      "items": [
+        {
+          "prompt": "'Persuasive speech' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
+          "options": [
+            "አሳማኝ ንግግር (Persuasive speech / compelling oration)",
+            "ተራ ወሬ",
+            "የስልክ ጥሪ",
+            "ጩኸት"
+          ],
+          "answerIndex": 0,
+          "explanation": "«አሳማኝ ንግግር» በአድማጮች ልብ እና አእምሮ ላይ ተጽዕኖ የሚያሳድር የተዋቀረ ንግግር ነው።"
+        }
+      ]
+    },
+    "checkpointTest": {
+      "items": [
+        {
+          "type": "multiple-choice",
+          "prompt": "የአደባባይ ንግግር እና የማሳመን ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
+          "options": [
+            "አደባባይ ንግግር፣ አንደበተ ርቱዕ፣ ማሳመን፣ ቅላጼ እና አድማጭ።",
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ።",
+            "ሰዓት፣ ቴሌቪዥን እና ሬዲዮ።",
+            "በአደባባይ ንግግር አይደረግም።"
+          ],
+          "answerIndex": 0,
+          "explanation": "የመጀመሪያው አማራጭ የአደባባይ ንግግር እና የማሳመን ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'ንግግር / Speech, discourse' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
+          "acceptedAnswers": [
+            "ንግግር"
+          ],
+          "explanation": "ትክክለኛው ቃል «ንግግር» (Nəgəgər) ነው።"
+        }
+      ],
+      "passThreshold": 0.8
+    }
+  },
+  "am-u33-l4": {
+    "id": "am-u33-l4",
+    "subject": "amharic",
+    "unit": 33,
+    "lessonNumber": 4,
+    "title": "ዘይቤያዊ አገላለጾች እና ስነ-ጽሑፋዊ ውበት (Literary Metaphor & Stylistics)",
+    "level": "C2",
+    "objective": "ዘይቤያዊ አገላለጾችን፣ ተምሳሌቶችንና የስነ-ጽሑፍ ውበትን መተንተን።",
+    "presentation": {
+      "explanation": "የዘይቤ እና የስነ-ጽሑፍ ውበት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ዘይቤ (Metaphor / Stylistic device) / ተምሳሌት (Symbolism)\n- ማነጻጸሪያ (Simile / Comparison) / ስነ-ጽሑፋዊ ውበት (Literary aesthetics)\n- ግጥማዊ ስልት (Poetic style) / ምናብ (Imagination)።\n\n፪. ዋና መርሆዎች:\n- ዘይቤያዊ አገላለጾች አንድን ሀሳብ ከሌላ የተፈጥሮ ወይም የህይወት ክስተት ጋር በማነጻጸር ጥልቅ ምስልን በምናብ ይፈጥራሉ።",
+      "examples": [
+        {
+          "target": "ደራሲው ማራኪ ዘይቤዎችን እና ተምሳሌታዊ ምስሎችን በመጠቀም የልቦለዱን ውበት አጎላ።",
+          "reading": "Därasiw maraki zäybewoččən ənna tämsaletawi məsəloččən bämät’t’äqäm yäləbbollädun wəbät agwolla. [dəraˈsiw maraˈki zəjbeˈwotʃːɨn ʔɨnːa təmˈsaletawi mɨsɨˈlotʃːɨn bəmətʼːɛˈkʼəm jəlɨbːolːəˈdun wɨˈbət ʔaɡʷolːa] (deh-rah-SEE-woo mah-rah-KEE zay-bay-WOHCH-chun un-nah tem-sah-lay-tah-WEE muh-suh-LOHCH-chun beh-mut'-t'eh-K'EM yeh-lub-bohl-leh-DOON wuh-BET ah-GWOHL-lah)",
+          "translation": "The author heightened the beauty of the novel by using captivating metaphors and symbolic imagery."
+        },
+        {
+          "target": "በግጥሙ ውስጥ የቀረበው ጥልቅ ማነጻጸሪያ የአንባቢውን ምናብ በማነሳሳት ልዩ ስሜት ፈጠረ።",
+          "reading": "Bägət’mu wəsət’ yäqärräbäw t’əlq manäts’ats’äriya yä’anəbabiwən mənab bamanässasat ləyyu səmet fät’t’ärä. [bəɡɨtʼˈmu wɨstʼ jəkʼɛrːəˈbəw tʼɨlkʼ manətsʼaˈtsʼərija jəʔanɨbaˈbiwɨn mɨˈnab bamanəsːaˈsat lɨjːu sɨˈmet fətʼːəˈrɛ] (beh-gut'-MOO woos-T' yeh-k'er-reh-BEW t'ul-K' mah-net-ts'ah-ts'eh-REE-yah yeh-ahn-bah-BEE-wun muh-NAHB bah-mahn-es-sah-SAHT luhy-YOO suh-MAYT fet'-t'eh-REH)",
+          "translation": "The profound simile presented within the poem evoked a singular emotion by stirring the reader's imagination."
+        },
+        {
+          "target": "የአማርኛ ስነ-ጽሑፍ በዘይቤያዊ ሀብቱ እና በልሳነ-ጥበቡ በዓለም አቀፍ ደረጃ የታወቀ ነው።",
+          "reading": "Yä'Amarənya sənä-ts’əhuf bäzäybeyawi habətu ənna bäləsanä-t’əbäbu bä’aläm aqäf däräğa yätawwäqä näw. [jəʔamaˈrɨɲa sɨnəˈtsʼɨhuf bəzəjbeˈjawi habɨˈtu ʔɨnːa bəlɨsanətʼɨˈbəbu bəʔaˈlɛm ʔaˈkʼɛf dərəˈdʒa jətawːəˈkʼə nɛw] (yeh-ah-mah-RUN-yah suh-neh-TS'UH-hoof beh-zay-bay-YAH-wee hahb-uh-TOO un-nah beh-luh-sah-neh-t'uh-BEH-boo beh-ah-LEM ah-K'EF deh-reh-JAH yeh-tow-weh-K'EH new)",
+          "translation": "Amharic literature is renowned globally for its stylistic wealth and linguistic artistry."
+        }
+      ],
+      "mnemonics": [
+        "Literary Style: ዘይቤ (Metaphor) + ተምሳሌት (Symbolism) + ማነጻጸሪያ (Simile) + ምናብ (Imagination)!"
+      ],
+      "culturalNotes": [
+        "እንደ ከበደ ሚካኤል፣ ፀጋዬ ገብረመድህን እና ሀዲስ አለማየሁ ያሉ ታላላቅ ደራሲያን የአማርኛን ዘይቤያዊ ውበት ወደ ላቀ ደረጃ አድርሰውታል።"
+      ]
+    },
+    "guidedPractice": {
+      "items": [
+        {
+          "prompt": "አንድን ነገር ከሌላ ነገር ጋር በባህሪ ወይም በመልክ በማነጻጸር የሚገለጽ የስነ-ጽሑፍ ዘዴ ምን ይባላል?",
+          "options": [
+            "ዘይቤ / ማነጻጸሪያ (Metaphor / Simile - Comparative stylistic device)",
+            "ተራ መግለጫ",
+            "የቁጥር ሰንጠረዥ",
+            "የሳይንስ ቀመር"
+          ],
+          "answerIndex": 0,
+          "explanation": "«ዘይቤ» እና «ማነጻጸሪያ» ሀሳብን በውበት እና በምስል ለማቅረብ የሚረዱ የስነ-ጽሁፍ መሳሪያዎች ናቸው።"
+        }
+      ]
+    },
+    "independentPractice": {
+      "items": [
+        {
+          "prompt": "'Symbolism, allegorical emblem' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
+          "options": [
+            "ተምሳሌት (Symbolism, emblematic representation)",
+            "ስህተት",
+            "ድብቅ ቃል",
+            "ቀጥተኛ ትርጉም"
+          ],
+          "answerIndex": 0,
+          "explanation": "«ተምሳሌት» አንድን ረቂቅ ሀሳብ በተጨባጭ ምስል ወክሎ የማቅረብ ጥበብ ነው።"
+        }
+      ]
+    },
+    "checkpointTest": {
+      "items": [
+        {
+          "type": "multiple-choice",
+          "prompt": "የዘይቤ እና የስነ-ጽሑፍ ውበት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
+          "options": [
+            "ዘይቤ፣ ተምሳሌት፣ ማነጻጸሪያ፣ ስነ-ጽሑፋዊ ውበት እና ምናብ።",
+            "ጠረጴዛ፣ አልጋ፣ ምንጣፍ እና መጋረጃ።",
+            "ዳቦ፣ ወተት፣ ቅቤ እና ማር።",
+            "በስነ-ጽሑፍ ዘይቤ የለም።"
+          ],
+          "answerIndex": 0,
+          "explanation": "የመጀመሪያው አማራጭ የዘይቤ እና የስነ-ጽሑፍ ውበት ቁልፍ ቃላትን በሙሉ ይዟል።"
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'ዘይቤ / Style, metaphor' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
+          "acceptedAnswers": [
+            "ዘይቤ"
+          ],
+          "explanation": "ትክክለኛው ቃል «ዘይቤ» (Zäybe) ነው።"
+        }
+      ],
+      "passThreshold": 0.8
+    }
+  },
+  "am-u33-l5": {
+    "id": "am-u33-l5",
+    "subject": "amharic",
+    "unit": 33,
+    "lessonNumber": 5,
+    "title": "የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand Synthesis & Rhetorical Mastery)",
+    "level": "C2",
+    "objective": "ሰምና ወርቅን፣ ፈሊጣዊ አነጋገሮችን፣ የአደባባይ ንግግርንና ዘይቤዎችን ያቀናጀ የላቀ የስነ-ቃል ጥበብ ውይይት ማካሄድ።",
+    "presentation": {
+      "explanation": "የክፍል ፴፫ አጠቃላይ የላቀ የአማርኛ ዘይቤ፣ ቅኔ እና የአደባባይ ንግግር ማጠቃለያ:\n\n፩. ሰምና ወርቅ:\n- ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ድርብ ትርጉም፣ ምስጢር።\n\n፪. ፈሊጦችና ምሳሌያዊ አነጋገሮች:\n- ፈሊጥ፣ ምሳሌያዊ አነጋገር፣ ተረትና ምሳሌ፣ ጥበብ።\n\n፫. አደባባይ ንግግርና ማሳመን:\n- አንደበተ ርቱዕ፣ አደባባይ ንግግር፣ ማሳመን፣ ቅላጼ።\n\n፬. ዘይቤና ስነ-ጽሑፋዊ ውበት:\n- ዘይቤ፣ ተምሳሌት፣ ማነጻጸሪያ፣ ምናብ።",
+      "examples": [
+        {
+          "target": "አንደበተ ርቱዕ ተናጋሪው ሰምና ወርቅን፣ ፈሊጦችንና ዘይቤዎችን አዋህዶ ያቀረበው ንግግር የአድማጮቹን ልብ ማረከ።",
+          "reading": "Anədäbätä rətu’ tänagariw säm ənna wärqən, fälit’oččən ənna zäybewoččən awahədo yaqärräbäw nəgəgər yä’adəmač’oččun ləbb marräkä. [ʔanɨdəbətə rɨtuʔ tənagaˈriw səm ʔɨnːa wərˈkʼɨn, fəlitʼoˈtʃːɨn ʔɨnːa zəjbeˈwotʃːɨn ʔawahɨˈdo jakʼɛrːəˈbəw nɨɡɨˈɡɨr jəʔadɨmaˈtʃʼotʃːun lɨbː maˈrːəkə] (ahn-duh-beh-teh ruh-TOO teh-nah-gah-REE-woo SEM un-nah WERK'-un, feh-lee-t'OHCH-chun un-nah zay-bay-WOHCH-chun ah-wah-huh-DOH yah-k'er-reh-BEW nuh-guh-GUR yeh-ah-duh-mah-CH'OHCH-choon lubb MAHR-reh-keh)",
+          "translation": "The eloquent orator's speech, synthesizing Wax and Gold, idioms, and metaphors, captivated the audience's hearts."
+        },
+        {
+          "target": "የአማርኛ ስነ-ጽሑፍ እና የቅኔ ጥበብ በድርብ ትርጉም እና በተምሳሌታዊ ውበት የዳበረ ጥልቅ ቅርስ ነው።",
+          "reading": "Yä'Amarənya sənä-ts’əhuf ənna yäqəne t’əbäb bädərəb tərəgum ənna bätämsaletawi wəbät yädabbärä t’əlq qərs näw. [jəʔamaˈrɨɲa sɨnəˈtsʼɨhuf ʔɨnːa jəkʼɨˈne tʼɨˈbəb bədɨrɨb tɨrɨˈɡum ʔɨnːa bətəmˈsaletawi wɨˈbət jədabːəˈrə tʼɨlkʼ kʼɨrs nɛw] (yeh-ah-mah-RUN-yah suh-neh-TS'UH-hoof un-nah yeh-k'uh-NAY t'uh-BEB beh-duh-RUB tuh-ruh-GOOM un-nah beh-tem-sah-lay-tah-WEE wuh-BET yeh-dahb-beh-REH t'ul-K' k'urs new)",
+          "translation": "Amharic literature and the art of Qene constitute a profound heritage enriched by double meaning and symbolic beauty."
+        },
+        {
+          "target": "በአደባባይ ንግግር ውስጥ ፈሊጣዊ አነጋገሮችን እና ማራኪ ቅላጼን መጠቀም የማሳመን ኃይልን ከፍ ያደርጋል።",
+          "reading": "Bä'adäbabay nəgəgər wəsət’ fälit’awi anägagäroččən ənna maraki qəllats’en mät’t’äqäm yämasammän hayələn kəff yadärgall. [bəʔadəbaˈbaj nɨɡɨˈɡɨr wɨstʼ fəlitʼaˈwi ʔanəɡaɡəˈrotʃːɨn ʔɨnːa maraˈki kʼɨlːaˈtsʼen mətʼːɛˈkʼəm jəmasamːən haˈjɨlɨn kɨfː jadɛrˈɡalː] (beh-ah-deh-bah-BYE nuh-guh-GUR woos-T' feh-lee-t'ah-WEE ah-neh-gah-geh-ROHCH-chun un-nah mah-rah-KEE k'ul-lah-ts'ayn mut'-t'eh-K'EM yeh-mah-sahm-MEN high-LUN kuff yah-der-GAHL)",
+          "translation": "Employing idiomatic expressions and captivating cadence in public oratory elevates persuasive power."
+        }
+      ],
+      "mnemonics": [
+        "Grand Synthesis 33: Wax & Gold (ሰምና ወርቅ) + Proverbs (ምሳሌያዊ አነጋገር) + Eloquence (አንደበተ ርቱዕ) + Stylistics (ዘይቤ)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ስነ-ቃል እና ስነ-ጽሑፍ በሺህ ዓመታት የንግግር፣ የቅኔ እና የፍልስፍና ውይይቶች የዳበረ ጥልቅ ባህላዊ ሀብት አለው።"
+      ]
+    },
+    "guidedPractice": {
+      "items": [
+        {
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የሰምና ወርቅ፣ የፈሊጥ እና የአደባባይ ንግግር ውህደትን የያዘው የትኛው ነው?",
+          "options": [
+            "አንደበተ ርቱዕ ተናጋሪው ሰምና ወርቅን፣ ፈሊጦችንና ዘይቤዎችን አዋህዶ ያቀረበው ንግግር የአድማጮቹን ልብ ማረከ። (Complete synthesis combining Wax & Gold, idioms, metaphors, and public eloquence)",
+            "ምንም ንግግር አልተደረገም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "ቅኔ የለም"
+          ],
+          "answerIndex": 0,
+          "explanation": "ይህ አማራጭ ሰምና ወርቅን፣ ፈሊጦችን፣ ዘይቤዎችንና አንደበተ-ርቱዕነትን በአንድነት ያጠቃለለ ነው።"
+        }
+      ]
+    },
+    "independentPractice": {
+      "items": [
+        {
+          "prompt": "የቅኔ ጥበብን እና ዘይቤያዊ ውበትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
+          "options": [
+            "ገጣሚው በሰምና ወርቅ እና በተምሳሌታዊ ዘይቤ የተዋበ ድንቅ ቅኔ ተቀኘ። (The poet composed a wondrous Qene adorned with Wax & Gold and symbolic metaphor - Accurate unified sentence)",
+            "ምንም ግጥም አልተጻፈም",
+            "ዘይቤ አያስፈልግም",
+            "ቃላት የሉም"
+          ],
+          "answerIndex": 0,
+          "explanation": "ይህ አማራጭ የሰምና ወርቅ ቅኔን እና ዘይቤያዊ ውበትን በትክክል ያዛምዳል።"
+        }
+      ]
+    },
+    "checkpointTest": {
+      "items": [
+        {
+          "type": "multiple-choice",
+          "prompt": "የክፍል 33 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
+          "options": [
+            "የሰምና ወርቅ ቅኔ ጥበብ፣ ፈሊጣዊና ምሳሌያዊ አነጋገሮች፣ የአደባባይ ንግግርና ማሳመን፣ እንዲሁም ዘይቤያዊ አገላለጾች ተካተዋል።",
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው።",
+            "በአማርኛ ስነ-ጽሑፍ የለም።",
+            "ሁሉም ፈሊጦች ተመሳሳይ ናቸው።"
+          ],
+          "answerIndex": 0,
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 33ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'ወርቅ / Gold, hidden poetic meaning' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
+          "acceptedAnswers": [
+            "ወርቅ"
+          ],
+          "explanation": "ትክክለኛው ቃል «ወርቅ» (Wärq) ነው።"
         }
       ],
       "passThreshold": 0.8
