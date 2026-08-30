@@ -9939,85 +9939,62 @@
     "subject": "amharic",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions) (ክፍል 1)",
+    "title": "የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Across All Tenses)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የጊዜ አሉታዊ ቅርጾች (አል...ም)، ልዩ የንግግር ዘይቤዎች። (ክፍል 1)።",
+    "objective": "በኃላፊ (አልጻፈም)፣ በአሁን/ወደፊት (አይጽፍም) እና በቀጣይ/ፍጻሜ (አልጻፈም ነበር / አልተጻፈም) አሉታዊ አረፍተ ነገሮችን ማዋቀር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የተለያዩ የጊዜ አሉታዊ ቅርጾች ሰዋሰዋዊ ደንቦች (Negation Across Tenses):\n\n፩. የኃላፊ ጊዜ አሉታዊ (Past Negation: አል- + ግስ + -ም):\n- አልሄደም (He didn't go) / አልበላችም (She didn't eat) / አልመጡም (They didn't come)።\n\n፪. የወደፊት እና የአሁን ጊዜ አሉታዊ (Present/Future Negation: አይ- / አል- + ግስ + -ም):\n- አይሄድም (He won't go / doesn't go) / አትሄድም (She doesn't go) / አንሄድም (We don't go)።\n\n፫. በንዑስ አንቀጽ ውስጥ አሉታዊነት (Subordinate Negation without «-ም»):\n- ሳይሄድ (Without him going) / ሳያጠና (Without studying) / ባይመጣ (If he doesn't come)።",
       "examples": [
         {
-          "target": "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)' to the students."
+          "target": "ተማሪው ትምህርቱን በሚገባ ስላላጠና በፈተናው ወቅት የሚፈለገውን ውጤት አላመጣም።",
+          "reading": "Tämariw təməhərtun bämigäba səlalat’änna bäfätänaw wäqt yämmiffällägäwən wət’et alamät’am. [tɛmaˈriw tɨmɨhɨrˈtun bɛmiɡɛˈba sɨlalatʼɛnːa bɛfɛtɛˈnaw wɛkʼt jɛmːifːɛlːɛɡɛˈwɨn wɨtʼet ʔalamɛˈtʼam] (teh-mah-REEW tuh-muh-hur-TOON beh-mee-geh-BAH sul-lah-lah-t'en-NAH beh-feh-teh-NAHW wehk'-T yem-meef-fel-leh-GEH-wun wut'-AYT ah-lah-meh-T'AHM)",
+          "translation": "Because the student did not study his lessons properly, he did not bring the expected result during the exam."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሱ ወደ ስብሰባው አይመጣም፤ ምክንያቱም አስቀድሞ ፈቃድ አልጠየቀም።",
+          "reading": "Əssu wädä səbsäbaw aymät’am; məkənyatum asqäddəmo fäqad alt’äyyäqäm. [ʔɨsːu wɛˈdɛ sɨbsɛˈbaw ʔajmɛˈtʼam mɨkɨnˈjatum ʔaskʼɛdːɨˈmo fɛˈkʼad ʔaltʼɛjːɛˈkʼɛm] (us-SOO weh-DEH sub-seh-BAHW eye-meh-T'AHM; muh-kun-YAH-toom ahs-k'ed-duh-MOH feh-K'AHD ahl-t'ey-yeh-K'EM)",
+          "translation": "He will not come to the meeting, because he did not ask for permission beforehand."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ምንም ዓይነት ጥናት ሳይደረግ አዲስ ፕሮጀክት መጀመር ትክክል አይደለም።",
+          "reading": "Mənəm aynät t’ənat sayəddärräg addis piroğäkt mäğämmär təkkəkəl aydälläm. [mɨˈnɨm ʔajˈnɛt tʼɨˈnat saˈjɨdːɛrːɛɡ ʔadːis pirodʒɛkt mɛdʒɛmːɛr tɨkːɨˈkɨl ʔajdɛlːɛm] (muh-NUM eye-NET t'uh-NAHT sah-yud-der-REG ahd-DEES pee-roh-JEKT meh-jem-MER tuk-kuh-KUL eye-del-LEM)",
+          "translation": "Starting a new project without any study being conducted is not correct."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Negation Rule: Main clause = አል/አይ + Verb + -ም; Subordinate clause = ሳ-/ባ- + Verb (NO -ም)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ንግግር ውስጥ አሉታዊ መልስ ሲሰጥ 'አይደለም' ወይም 'አልችልም' ከማለት ይልቅ በአክብሮት 'ይቅርታ፣ አሁን አይመቸኝም' በማለት ጨዋነትን መግለጽ የተለመደ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«He did not write the letter» የሚለውን በአማርኛ የኃላፊ ጊዜ አሉታዊ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (22.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (22.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (22.1.w3)"
+            "ደብዳቤውን አልጻፈም። (He did not write the letter - Past negation አል...ም)",
+            "ደብዳቤውን ጻፈ",
+            "ደብዳቤውን አይጽፍም",
+            "ደብዳቤ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«አልጻፈም» በኃላፊ ጊዜ ውስጥ የተፈጸመ አሉታዊ ድርጊትን በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u22-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Without him eating' የሚለውን በንዑስ አንቀጽ አሉታዊ ቅርጽ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (22.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (22.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (22.1.x3)"
+            "ሳይበላ (Without him eating - Subordinate negation without -ም)",
+            "አልበላም",
+            "እየበላ",
+            "ይበላል"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (22.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (22.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (22.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "በንዑስ አንቀጽ ውስጥ አሉታዊ ቅጥያ «ሳ-» ሲገባ «-ም» አይጨመርም።"
         }
       ]
     },
@@ -10025,24 +10002,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 22-1):",
+          "prompt": "የአማርኛ አሉታዊ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (22.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (22.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (22.1.z3)"
+            "አልጻፈም (ኃላፊ)፣ አይጽፍም (የአሁን/ወደፊት)፣ ሳይጽፍ (ንዑስ አንቀጽ) እና አልጻፈም ነበር (ያለፈ ፍጻሜ)።",
+            "ቀይ፣ ሰማያዊ እና አረንጓዴ።",
+            "ቤት፣ በር እና መስኮት።",
+            "በአማርኛ አሉታዊ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ የግስ እርባታዎችን በአግባቡ ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u22-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አሉታዊ»):",
+          "prompt": "'አልጻፈም / He did not write' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አሉታዊ",
-            "አሉታዊ"
+            "አልጻፈም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አሉታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አልጻፈም» (Alts’afäm) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10053,85 +10029,62 @@
     "subject": "amharic",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions) (ክፍል 2)",
+    "title": "ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Negative Pronouns & Particles)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የጊዜ አሉታዊ ቅርጾች (አል...ም)، ልዩ የንግግር ዘይቤዎች። (ክፍል 2)።",
+    "objective": "አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን (ማንም፣ ምንም፣ የትም፣ በፍጹም፣ ከቶ) ከአሉታዊ ግስ ጋር ማጣመር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ልዩ አሉታዊ ቃላትና አጠቃቀማቸው (Negative Pronouns & Polar Words):\n\n፩. አሉታዊ ተውላጠ ስሞች (Negative Pronouns):\n- ማንም + አሉታዊ ግስ (Nobody / no one / anyone):\n  «ማንም አልመጣም» (Nobody came)።\n- ምንም + አሉታዊ ግስ (Nothing / anything):\n  «ምንም አላየሁም» (I saw nothing)።\n- የትም + አሉታዊ ግስ (Nowhere / anywhere):\n  «የትም አልሄድኩም» (I went nowhere)።\n\n፪. አጽንኦት ሰጪ አሉታዊ ቃላት (Emphatic Negative Adverbs):\n- በፍጹም (Never / not at all / absolutely not)\n- ከቶ / ከቶውንም (Never / by no means)።",
       "examples": [
         {
-          "target": "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)' to the students."
+          "target": "በስብሰባው አዳራሽ ውስጥ ማንም ሰው አልተገኘም፤ ክፍሉም ጭር ብሏል።",
+          "reading": "Bäsəbsäbaw adaraš wəst’ manəm säw altägänyäm; kəflum č’ərr bəlwal. [bɛsɨbsɛˈbaw ʔadaˈraʃ wɨstʼ maˈnɨm sɛw ʔaltɛɡɛˈɲɛm kɨfˈlum tʃʼɨrː bəlˈwal] (beh-sub-seh-BAHW ah-dah-RAHSH woos-T' MAH-num sew ahl-teh-gen-YEM; kuf-LOOM ch'ur-R bul-WAHL)",
+          "translation": "Nobody was found in the meeting hall; and the room was completely deserted."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ስለ ጉዳዩ ምንም ዓይነት መረጃ የለኝም፤ ስለዚህ አስተያየት አልሰጥም።",
+          "reading": "Səlä guddayu mənəm aynät märäğa yällänyəm; səläzzih astäyayat alsät’əm. [sɨlɛ ɡuddaˈju mɨˈnɨm ʔajˈnɛt mɛrɛˈdʒa jɛlːɛˈɲɨm sɨlɛzːih ʔastɛjaˈjat ʔalsɛˈtʼɨm] (sul-leh good-dah-YOO muh-NUM eye-NET meh-reh-JAH yel-len-YUM; suh-lez-ZEEH ahs-teh-yah-YAHT ahl-set'-UM)",
+          "translation": "I have no information whatsoever about the matter; therefore, I will not give a comment."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ህዝባዊ እምነትን የሚያጎድፍ ተግባር በፍጹም አንፈጽምም፤ ከቶውንም አንፈቅድም።",
+          "reading": "Həzbawi əmnätən yämmiyagodəf tägbar bäfəts’um anfäts’məm; kätowənəm anfäqdəm. [hɨzbaˈwi ʔɨmˈnɛtɨn jɛmːijaɡoˈdɨf tɛɡˈbar bɛfɨtsʼum ʔanfɛtsʼˈmɨm kɛtoˈwɨnɨm ʔanfɛkʼˈdɨm] (huz-bah-WEE um-neh-TOON yem-meey-ah-goh-DUF teg-BAHR beh-futs'-OOM ahn-fets'-MUM; keh-toh-wuh-NUM ahn-fek'-DUM)",
+          "translation": "We will absolutely not commit an act that undermines public trust; by no means will we allow it."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Double Negative Rule: ማንም/ምንም + አሉታዊ ግስ (ማንም አልመጣም = Nobody came)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ 'ማንም' እና 'ምንም' ከግዴታ አሉታዊ ግስ ጋር አብረው ይገባሉ (Double Concord)። ይህ ሰዋሰዋዊ ህግ ሀሳብን አጥርቶ ለማስቀመጥ ወሳኝ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I saw nothing» የሚለውን በአማርኛ አሉታዊ ተውላጠ ስም በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (22.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (22.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (22.2.w3)"
+            "ምንም አላየሁም። (I saw nothing - Correct pronoun ምንም + negative verb)",
+            "ሁሉንም አየሁ",
+            "አንድ ነገር አየሁ",
+            "ምንም የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ምንም» ከአሉታዊ ግስ (አላየሁም) ጋር ተጣምሮ 'ምንም አላየሁም' (I saw nothing) የሚል ትክክለኛ ትርጉም ይሰጣል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u22-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Nobody knows' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (22.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (22.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (22.2.x3)"
+            "ማንም አያውቅም። (Nobody knows - Correct pronoun ማንም + negative verb)",
+            "ሁሉም ያውቃል",
+            "ሰው ያውቃል",
+            "ማንም ያውቃል"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (22.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (22.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (22.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ማንም» ከአሉታዊ ግስ «አያውቅም» ጋር መግባት አለበት።"
         }
       ]
     },
@@ -10139,24 +10092,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 22-2):",
+          "prompt": "አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (22.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (22.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (22.2.z3)"
+            "ማንም፣ ምንም፣ የትም፣ በፍጹም እና ከቶውንም።",
+            "ሁልጊዜ፣ አንዳንዴ እና አሁን።",
+            "ጠረጴዛ፣ ደብተር እና ወንበር።",
+            "በአማርኛ አሉታዊ ተውላጠ ስም የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን ያካትታል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u22-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አሉታዊ»):",
+          "prompt": "'በፍጹም / Absolutely not, never' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አሉታዊ",
-            "አሉታዊ"
+            "በፍጹም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አሉታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «በፍጹም» (Bäfəts’um) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10167,85 +10119,62 @@
     "subject": "amharic",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions) (ክፍል 3)",
+    "title": "የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic Expressions & Figures of Speech)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የጊዜ አሉታዊ ቅርጾች (አል...ም)، ልዩ የንግግር ዘይቤዎች። (ክፍል 3)።",
+    "objective": "የአማርኛ የፈሊጥ አነጋገሮችን (ሆድ ሰፊ፣ እጅ ረጅም፣ ዐይን አፋር፣ እግር አወጣ) እና ዘይቤያዊ አገላለጾችን መረዳት።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአማርኛ ፈሊጦች እና የንግግር ዘይቤዎች (Amharic Idioms & Stylistic Expressions):\n\n፩. የሰው ባህሪ ገላጭ ፈሊጦች:\n- «ሆድ ሰፊ» (Patient / tolerant / forgiving; lit. wide stomach)\n- «እጅ ረጅም» (Thief / kleptomaniac / generous depending on context; lit. long hand)\n- «ዐይን አፋር» (Shy / bashful; lit. eye-shyer)\n- «አንገተ ደንዳና» (Stubborn / obstinate; lit. stiff-necked)።\n\n፪. የተግባር እና የሁኔታ ፈሊጦች:\n- «እግር አወጣ» (Became mobile / began wandering; lit. grew legs)\n- «ጆሮ ዳባ ልበስ አለ» (Ignored / turned a deaf ear)\n- «ልቡ ተሰበረ» (Became heartbroken)።",
       "examples": [
         {
-          "target": "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)' to the students."
+          "target": "ሽማግሌው እጅግ ሆድ ሰፊ ሰው ስለሆኑ ማንኛውንም በደል በይቅርታ ያልፋሉ።",
+          "reading": "Šəmagəllew əğğəg hod säffi säw səlähonu mannyanyawənəm bädäl bäyəqərta yalfalu. [ʃɨmaɡɨlːew ʔɨdʒːɨɡ hod sɛfːi sɛw sɨlɛhoˈnu manːaɲaˈwɨnɨm bɛˈdɛl bɛjɨkʼɨrˈta jalfaˈlu] (shuh-mah-gul-LAY-woo uhj-JUG hohd SEF-fee sew sul-leh-hoh-NOO mahn-nyahn-yah-wuh-NUM beh-DEL beh-yuh-k'ur-TAH yahl-fah-LOO)",
+          "translation": "Because the elder is a very patient and forgiving person, he overlooks any grievance with forgiveness."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ልጁ ዐይን አፋር ስለነበር በብዙ ሰዎች ፊት ቀርቦ ለመናገር ተቸገረ።",
+          "reading": "Ləğu ayn afar səllänäbbär bäbəzu säwočč fit qärbo lämänägär täčäggärä. [lɨˈdʒu ʔajn ʔaˈfar sɨlːɛnɛbːɛr bɛbɨˈzu sɛwoˈtʃː fit kʼɛrˈbo ləmɛnɛˈɡɛr tɛtʃɛɡːɛˈrɛ] (luh-JOO eyen ah-FAHR sul-leh-neb-BER beh-buh-ZOO sew-wohch FEET k'er-BOH luh-meh-neh-GER teh-cheg-geh-REH)",
+          "translation": "Because the child was shy, he found it difficult to come forward and speak in front of many people."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የቀረበለትን ጥሪ ጆሮ ዳባ ልበስ በማለት አላስፈላጊ ችግር ውስጥ ወደቀ።",
+          "reading": "Yäqärräbälätən t’ərri ğoro daba ləbäs bamalät alasfällagi čəggər wəst’ wäddäqä. [jɛkʼɛrːɛbɛˈlɛtɨn tʼɨrːi dʒoˈro daˈba lɨˈbɛs bamaˈlɛt ʔalasfɛlːaˈɡi tʃɨɡːɨr wɨstʼ wɛdːɛˈkʼɛ] (yeh-k'er-reh-beh-LET-un t'ur-REE joh-ROH dah-BAH luh-BES bah-mah-LET ah-lahs-fel-lah-GEE chug-GUR woos-T' wed-deh-K'EH)",
+          "translation": "By turning a deaf ear to the invitation extended to him, he fell into unnecessary trouble."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Idiom Wisdom: ሆድ ሰፊ = Patient / ዐይን አፋር = Shy / ጆሮ ዳባ ልበስ = Turn deaf ear!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ስነ-ንግግር ፈሊጣዊ አነጋገሮችን መጠቀም የአማርኛ ቋንቋን ውበት፣ ጥልቀትና የባህል ፍልስፍናን ለመግለጽ ከፍተኛ ሚና አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ሆድ ሰፊ» የሚለው የአማርኛ ፈሊጣዊ አነጋገር ትክክለኛ ትርጉም ምንድን ነው?",
           "options": [
-            "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (22.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (22.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (22.3.w3)"
+            "ትዕግሥተኛ፣ ይቅር ባይና ሰፊ አመለካከት ያለው ሰው። (Patient and forgiving person - True idiom meaning)",
+            "ብዙ ምግብ የሚበላ ሰው",
+            "የታመመ ሰው",
+            "ሆድ የሌለው ሰው"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሆድ ሰፊ» በትዕግሥትና በይቅር ባይነት የሚታወቅን ሰው የሚያመለክት ታዋቂ ፈሊጥ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u22-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'He turned a deaf ear' የሚለውን የአማርኛ ፈሊጥ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (22.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (22.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (22.3.x3)"
+            "ጆሮ ዳባ ልበስ አለ። (He turned a deaf ear / ignored - Accurate Amharic idiom)",
+            "ጆሮው ታመመ",
+            "በደንብ ሰማ",
+            "ጆሮ የለውም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (22.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (22.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (22.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ጆሮ ዳባ ልበስ አለ» የቀረበለትን ምክር ወይም ጥሪ ችላ የማለት ፈሊጥ ነው።"
         }
       ]
     },
@@ -10253,24 +10182,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 22-3):",
+          "prompt": "የአማርኛ ፈሊጣዊ አነጋገሮችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (22.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (22.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (22.3.z3)"
+            "ሆድ ሰፊ፣ ዐይን አፋር፣ ጆሮ ዳባ ልበስ እና አንገተ ደንዳና።",
+            "ሰኞ፣ ማክሰኞ፣ እሮብ እና ሐሙስ።",
+            "ዳቦ፣ ወተት፣ ስጋ እና እንቁላል።",
+            "በአማርኛ ፈሊጣዊ አነጋገር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአማርኛ ፈሊጣዊ አነጋገሮችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u22-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አሉታዊ»):",
+          "prompt": "'ፈሊጥ / Idiom, idiomatic expression' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አሉታዊ",
-            "አሉታዊ"
+            "ፈሊጥ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አሉታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ፈሊጥ» (Fälit’) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10281,85 +10209,62 @@
     "subject": "amharic",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions) (ክፍል 4)",
+    "title": "የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Markers & Poetic Devices)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የጊዜ አሉታዊ ቅርጾች (አል...ም)، ልዩ የንግግር ዘይቤዎች። (ክፍል 4)።",
+    "objective": "የአጽንኦት ቅጥያዎችን (-ማ፣ -ስ፣ -ኮ) እና ቅኔያዊ ዘይቤዎችን በአረፍተ ነገር ውስጥ መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአጽንኦት ቅጥያዎች እና ቅኔያዊ ዘይቤዎች (Emphatic Particles & Rhetoric):\n\n፩. ዋና ዋና የአጽንኦት ቅጥያዎች:\n- «-ማ» (Indeed / as for / certainly): «እሱማ ያውቃል» (As for him, he certainly knows)።\n- «-ስ» (What about / and as for): «አንተስ ምን ትላለህ?» (And what about you, what do you say?)።\n- «-ኮ» (You know / indeed): «ነግሬሃለሁኮ» (I told you indeed, you know!)።\n\n፪. አጽንኦት ሰጪ ቃላት:\n- «እንኳ» (Even / at least): «ስልክ እንኳ አልደወለም» (He didn't even call)።\n- «እንጂ» (Indeed / but rather): «እሱ እንጂ ሌላ ሰው አይደለም» (It is him indeed, not another person)።",
       "examples": [
         {
-          "target": "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)' to the students."
+          "target": "እሱማ በትምህርቱ እጅግ ጎበዝ ነው፤ አንተስ ምን ለማጥናት አቅደሃል?",
+          "reading": "Əssuma bätəməhərtu əğğəg gobäz näw; antäs mən lamat’nat aqədähal? [ʔɨsːuˈma bɛtɨmɨhɨrˈtu ʔɨdʒːɨɡ ɡoˈbɛz nɛw ʔanˈtɛs mɨn lamatʼˈnat ʔakʼɨdɛˈhal] (us-SOO-mah beh-tuh-muh-hur-TOO uhj-JUG goh-BEZ new; ahn-TES mun lah-maht'-NAHT ah-k'uh-deh-HAHL?)",
+          "translation": "As for him, he is certainly very clever in his studies; and what about you, what do you plan to study?"
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አስፈላጊውን ምክር ሁሉ ሰጥቼዋለሁኮ፤ ሆኖም ግን አልሰማኝ አለ።",
+          "reading": "Asfällagiwən məkər hullu sät’ət’t’ewallähu-ko; honom gən alsämany alä. [ʔasfɛlːaɡiˈwɨn mɨˈkɨr hulːu sɛtʼɨtʼːeˈwalːɛhuko hoˈnom ɡɨn ʔalsɛˈmaɲ ʔaˈlɛ] (ahs-fel-lah-GEE-wun muh-KUR hool-LOO set'-ut'-TAY-wahl-leh-hoo-koh; hoh-NOHM gun ahl-seh-MAHN-y ah-LEH)",
+          "translation": "I gave him all necessary advice, you know; however, he refused to listen to me."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በዚህ ከባድ ወቅት አንዲት መልካም ቃል እንኳ ማግኘት ትልቅ ብርታት ይሆናል።",
+          "reading": "Bäzzih käbbad wäqt andit mälkam qal ənkwa magnyät talaq bərtat yəhonal. [bɛzːih kɛbːad wɛkʼt ʔanˈdit mɛlˈkam kʼal ʔɨnˈkʷa maɡˈɲɛt taˈlakʼ bɨrˈtat jɨhoˈnal] (bez-ZEEH keb-BAHD wehk'-T ahn-DEET mel-KAHM k'ahl un-KWAH mahg-NYET tah-LAHK' bur-TAHT yuh-hoh-NAHL)",
+          "translation": "In this difficult time, finding even a single kind word becomes a great source of strength."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Emphasis Markers: -ማ (Indeed/As for) / -ስ (What about) / -ኮ (You know) / እንኳ (Even)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ንግግር ውስጥ '-ኮ' እና '-ማ' የጠበቀ ማህበራዊ ቅርበትንና ወዳጅነትን የሚያሳዩ የድምፅ ቃና ማጉያዎች ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«As for me, I finished» የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (22.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (22.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (22.4.w3)"
+            "እኔማ ጨረስኩ። (As for me, I finished - Emphatic particle -ማ)",
+            "እኔ ጨረስኩ",
+            "አልጨረስኩም",
+            "ስራ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እኔማ» በርዕሰ-ጉዳዩ ላይ ልዩ አጽንኦት ለመስጠት የሚያገለግል ትክክለኛ አገላለጽ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u22-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'What about you?' የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (22.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (22.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (22.4.x3)"
+            "አንተስ? / አንቺስ? (What about you? - Contrastive question marker -ስ)",
+            "አንተ ማን ነህ?",
+            "የት ነህ?",
+            "ስምህ ማን ነው?"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (22.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (22.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (22.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«-ስ» ወደ ሌላኛው ተናጋሪ ሀሳቡን ለማዞርና አጽንኦት ለመስጠት የሚያገለግል ቅጥያ ነው።"
         }
       ]
     },
@@ -10367,24 +10272,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 22-4):",
+          "prompt": "የአማርኛ አጽንኦት ሰጪ ቅጥያዎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (22.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (22.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (22.4.z3)"
+            "-ማ፣ -ስ፣ -ኮ፣ እንኳ እና እንጂ።",
+            "ትልቅ፣ ትንሽ፣ ረጅም እና አጭር።",
+            "ውሃ፣ ጭማቂ እና ወተት።",
+            "በአማርኛ አጽንኦት ሰጪ ቅጥያ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአጽንኦት ቅጥያዎችንና ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u22-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አሉታዊ»):",
+          "prompt": "'እንኳ / Even, at least' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አሉታዊ",
-            "አሉታዊ"
+            "እንኳ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አሉታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «እንኳ» (Ənkwa) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -10395,85 +10299,62 @@
     "subject": "amharic",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions) (ክፍል 5)",
+    "title": "የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand Synthesis & Idiomatic Negative Discourse)",
     "level": "B2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የጊዜ አሉታዊ ቅርጾች (አል...ም)، ልዩ የንግግር ዘይቤዎች። (ክፍል 5)።",
+    "objective": "ሁሉንም አሉታዊ የግስ እርባታዎች፣ ልዩ አሉታዊ ቃላትን፣ ፈሊጣዊ አነጋገሮችንና የአጽንኦት ዘይቤዎችን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፪ አጠቃላይ ሰዋሰዋዊ ውህደት እና የልዩ ዘይቤዎች ማጠቃለያ:\n\n፩. አሉታዊ የግስ እርባታዎች:\n- ኃላፊ (አልጻፈም)፣ የአሁን/ወደፊት (አይጽፍም)፣ ንዑስ አንቀጽ (ሳይጽፍ)።\n\n፪. ልዩ አሉታዊ ቃላት:\n- ማንም፣ ምንም፣ የትም፣ በፍጹም፣ ከቶውንም።\n\n፫. ፈሊጣዊ አነጋገሮች:\n- ሆድ ሰፊ፣ ዐይን አፋር፣ ጆሮ ዳባ ልበስ፣ እጅ ረጅም።\n\n፬. የአጽንኦት ቅጥያዎችና ዘይቤዎች:\n- -ማ፣ -ስ፣ -ኮ፣ እንኳ፣ እንጂ።",
       "examples": [
         {
-          "target": "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)' to the students."
+          "target": "እሱማ ሆድ ሰፊ ሰው ስለሆነ ማንንም አያስከፋም፤ በፍጹም ክፉ አይናገርም።",
+          "reading": "Əssuma hod säffi säw səlähonä mannəmən ayasəkäfam; bäfəts’um kəfu aynägärəm. [ʔɨsːuˈma hod sɛfːi sɛw sɨlɛhoˈnɛ manːɨˈmɨn ʔajasɨkɛˈfam bɛfɨtsʼum kɨˈfu ʔajnɛɡɛˈrɨm] (us-SOO-mah hohd SEF-fee sew sul-leh-hoh-NEH mahn-nuh-MUN eye-ahs-kuh-FAHM; beh-futs'-OOM kuh-FOO eye-neh-geh-RUM)",
+          "translation": "As for him, because he is a patient and forgiving person, he offends no one; he never speaks evil at all."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ስለ ጉዳዩ ምንም ዓይነት ጥናት ሳይደረግ በፍጹም ውሳኔ ማስተላለፍ አይቻልምኮ።",
+          "reading": "Səlä guddayu mənəm aynät t’ənat sayəddärräg bäfəts’um wəsane mastälaläf ayəččaləm-ko. [sɨlɛ ɡuddaˈju mɨˈnɨm ʔajˈnɛt tʼɨˈnat saˈjɨdːɛrːɛɡ bɛfɨtsʼum wɨsaˈne mastɛlaˈlɛf ʔajɨtʃːaˈlɨmko] (sul-leh good-dah-YOO muh-NUM eye-NET t'uh-NAHT sah-yud-der-REG beh-futs'-OOM wuh-sah-NAY mahs-teh-lah-LEF eye-yuhch-chah-LUM-koh)",
+          "translation": "Without any study being conducted about the matter, it is absolutely impossible to pass a decision, you know."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ምክርን ጆሮ ዳባ ልበስ ማለት ተገቢ አይደለም፤ ይልቁንም በጥሞና ማዳመጥ ትልቅ ብልህነት ነው።",
+          "reading": "Məkərən ğoro daba ləbäs malät tägäbi aydälläm; yəlqunəm bät’əmona madamät’ talaq bələhnät näw. [mɨkɨˈrɨn dʒoˈro daˈba lɨˈbɛs maˈlɛt tɛɡɛˈbi ʔajdɛlːɛm jɨlˈkʼunɨm bɛtʼɨmoˈna maˈdamɛtʼ taˈlakʼ bɨlɨhˈnɛt nɛw] (muh-kuh-RUN joh-ROH dah-BAH luh-BES mah-LET teh-geh-BEE eye-del-LEM; yul-K'OO-num beh-t'uh-moh-NAH mah-dah-MET tah-LAHK' buh-luh-huh-NET new)",
+          "translation": "Turning a deaf ear to advice is not appropriate; rather, listening attentively is great wisdom."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Synthesis 22 Mastery: Negation (አል...ም/አይ...ም) + Polar (ማንም/ምንም) + Idiom (ሆድ ሰፊ) + Emphasis (-ማ/-ኮ)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ስነ-ጽሁፍና የውይይት ባህል አሉታዊ ሀሳቦችን በጨዋነት፣ በፈሊጣዊ ጥበብና በአጽንኦት ቅጥያዎች አዋዝቶ የማቅረብ የላቀ ፍልስፍና አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ አሉታዊ መዋቅርን፣ ፈሊጥንና አጽንኦትን ያጣመረው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (22.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (22.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (22.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (22.5.w3)"
+            "እሱማ ሆድ ሰፊ ሰው ስለሆነ ማንም አይከፋበትምኮ። (Complete synthesis: emphasis -ማ/-ኮ, idiom ሆድ ሰፊ, negative pronoun/verb ማንም አይከፋበትም)",
+            "ምንም የለም",
+            "ሁሉም ቃላት ተራ ናቸው",
+            "ፈሊጥ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ አጽንኦት (-ማ፣ -ኮ)፣ ፈሊጥ (ሆድ ሰፊ) እና አሉታዊ መዋቅርን (ማንም አይከፋበትም) በአንድ ላይ ያጣመረ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u22-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ልዩ አሉታዊ ቃላትንና ፈሊጥን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (22.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (22.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (22.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (22.5.x3)"
+            "ስለ ጉዳዩ ማንም ምንም አያውቅም፤ ሆኖም ግን ጆሮ ዳባ ልበስ አንበል ። (Nobody knows anything about the matter; however let us not turn a deaf ear - Balanced idiomatic negative sentence)",
+            "ምንም አናውቅም",
+            "ጆሮ የለም",
+            "ሰው የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አሉታዊ አረፍተ ነገሮች እና ልዩ ዘይቤዎች (Negation & Special Constructions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (22.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (22.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (22.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (22.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ዓረፍተ ነገር አሉታዊ ተውላጠ ስሞችን (ማንም፣ ምንም) እና ፈሊጥን (ጆሮ ዳባ ልበስ) በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -10481,24 +10362,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 22-5):",
+          "prompt": "የክፍል 22 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (22.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (22.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (22.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (22.5.z3)"
+            "የተለያዩ የጊዜ አሉታዊ ቅርጾች፣ ልዩ አሉታዊ ቃላት (ማንም/ምንም/በፍጹም)፣ ፈሊጣዊ አነጋገሮች (ሆድ ሰፊ/ጆሮ ዳባ ልበስ) እና የአጽንኦት ቅጥያዎች (-ማ/-ስ/-ኮ) ተካተዋል።",
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው።",
+            "በአማርኛ አሉታዊ አረፍተ ነገር የለም።",
+            "ሁሉም ፈሊጦች ተመሳሳይ ትርጉም አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 22ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u22-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አሉታዊ»):",
+          "prompt": "'ዘይቤ / Style, figure of speech' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አሉታዊ",
-            "አሉታዊ"
+            "ዘይቤ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አሉታዊ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ዘይቤ» (Zäybe) ነው።"
         }
       ],
       "passThreshold": 0.8
