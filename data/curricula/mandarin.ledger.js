@@ -4,13 +4,14 @@
   var LEDGER = {
   "subject": "mandarin",
   "fullRoadmapLength": 170,
-  "authoredInFull": [],
-  "stubOnly": [
+  "authoredInFull": [
     "zh-u1-l1",
     "zh-u1-l2",
     "zh-u1-l3",
     "zh-u1-l4",
-    "zh-u1-l5",
+    "zh-u1-l5"
+  ],
+  "stubOnly": [
     "zh-u2-l1",
     "zh-u2-l2",
     "zh-u2-l3",
@@ -177,8 +178,8 @@
     "zh-u34-l4",
     "zh-u34-l5"
   ],
-  "lastCompletedLessonId": null,
-  "nextToAuthor": "zh-u1-l1"
+  "lastCompletedLessonId": "zh-u1-l5",
+  "nextToAuthor": "zh-u2-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['mandarin'] = LEDGER;

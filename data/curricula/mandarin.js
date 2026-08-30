@@ -485,85 +485,89 @@
     "subject": "mandarin",
     "unit": 1,
     "lessonNumber": 1,
-    "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (第1讲)",
+    "title": "汉语拼音系统概论：声母、单韵母与发音部位 (Pinyin Initials & Single Finals)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第1部分)。",
+    "objective": "掌握汉语拼音的基本音节结构，熟练发准六个核心单韵母（a, o, e, i, u, ü）与第一组基础声母（b, p, m, f, d, t, n, l）的发音要领与拼读规则。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代标准汉语普通话的每一个基本音节，通常由声母、韵母与声调三个核心要素共同构成。声母位于音节开头，韵母紧随其后构成音节主体，声调则贯穿整个音节的音高升降变化。掌握拼音是准确拼读汉字、规范普通话发音与实现计算机汉字输入的基石。\n\n一、六个核心单韵母的发音生理机制与唇舌要领：\n1. ɑ（央低不圆唇元音）：发音时口腔自然大幅度张开，舌头平放于口腔底部，舌位居中不前不后，声带自然振动，声音洪亮清晰，示范汉字如「爸爸」、「大马」、「大家」。\n2. o（后半高圆唇元音）：发音时舌身显著向后缩，舌面后部适度隆起，双唇自然聚拢呈饱满圆形，声音圆润，示范汉字如「我」、「波涛」、「坡度」。\n3. e（后半高不圆唇元音）：发音时舌位与 o 完全一致，但嘴角向左右两侧自然舒展呈扁平状，双唇绝不拢圆，示范汉字如「哥哥」、「白鹅」、「饥饿」。\n4. i（前高不圆唇元音）：发音时舌尖轻抵下门齿背，舌面前部向硬腭高高隆起，嘴角向两边展开如微笑，气流自舌面与硬腭之间通过，示范汉字如「你」、「弟弟」、「衣服」。\n5. u（后高圆唇元音）：发音时舌身后缩，舌面后部向软腭高高隆起，双唇用力聚拢向前突出成极小圆孔，示范汉字如「五」、「大路」、「房屋」。\n6. ü（前高圆唇元音）：发音舌位与 i 完全一致，关键在于保持舌位不动的同时将双唇拢圆向前突出成撮口状，气流均匀呼出，示范汉字如「绿叶」、「下雨」、「金鱼」。\n\n二、第一组核心声母的发音部位与阻气方式：\n1. 双唇音：b（双唇紧闭阻碍气流，除阻时不送气清塞音，如「八个」）；p（双唇紧闭阻气，除阻时伴随强烈爆发气流之送气清塞音，如「害怕」）；m（双唇闭合，软腭下垂，声带颤动且气流由鼻腔透出之浊鼻音，如「妈妈」）。\n2. 唇齿音：f（上门齿轻触下唇内边缘形成狭窄缝隙，气流摩擦而出之清擦音，如「出发」）。\n3. 舌尖中音：d（舌尖紧抵上齿龈形成阻塞，除阻时不送气清塞音，如「大门」）；t（舌尖抵上齿龈阻气，除阻时伴随强烈爆发气流之送气清塞音，如「他们」）；n（舌尖顶住上齿龈，气流振动声带完全自鼻腔透出之浊鼻音，如「你好」）；l（舌尖抵上齿龈中央，气流从舌头两旁畅通流出之浊边音，如「六月」）。\n\n三、两拼音节拼读法则：\n拼读时遵循「前音轻短后音重，两音相连猛一碰」的基本原理，声母快速滑向韵母，一气呵成形成完整音节。声母发音务必轻微短促，韵母则须饱满响亮。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '汉语拼音、声调与基础问候 (Pinyin & Greetings)' in simple terms to students at the academic seminar."
+          "target": "妈妈 (māma)",
+          "reading": "[ˈma˥.ma] (mā-ma)",
+          "translation": "Mother / Mom"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "爸爸 (bàba)",
+          "reading": "[ˈpa˥˩.pa] (bà-ba)",
+          "translation": "Father / Dad"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "大马 (dàmǎ)",
+          "reading": "[ta˥˩.ma˨˩˦] (dà-mǎ)",
+          "translation": "Big horse"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "绿叶 (lǜyè)",
+          "reading": "[ly˥˩.jɛ˥˩] (lǜ-yè)",
+          "translation": "Green leaf"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "张大嘴巴 ɑ ɑ ɑ，圆圆嘴巴 o o o，白鹅倒影 e e e，牙齿对齐 i i i，突出嘴巴 u u u，吹起笛子 ü ü ü！"
+      ],
+      "culturalNotes": [
+        "《汉语拼音方案》于1958年由第一届全国人民代表大会第五次会议正式批准推行，现已成为联合国与国际标准化组织公认的汉字罗马化国际标准。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第1讲）的标准汉语规范？",
+          "prompt": "单韵母「ü」在发音时的核心唇形与舌位要领是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (1.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (1.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (1.1.w3)"
+            "舌位与「i」完全相同，但双唇拢圆呈小圆孔（撮口呼）。 (Rounding lips while holding the i tongue position)",
+            "舌位与「u」完全相同，双唇展开呈扁平状。",
+            "张大嘴巴，舌头平放于口腔底部。",
+            "舌尖轻触上齿背，嘴角向两侧用力拉开。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "单韵母 ü 是前高圆唇元音，其舌位与前高不圆唇元音 i 完全一致，关键在于保持双唇紧圆向前突出。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在声母「b」与「p」的发音对比中，两者最关键的区别在于：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "气流强弱：b 是不送气音，而 p 是强烈送气音。 (b is unaspirated [p], while p is aspirated [pʰ])",
+            "发音部位：b 是双唇音，而 p 是唇齿音。",
+            "声带状态：b 声带剧烈振动，而 p 声带完全不振动。",
+            "鼻腔通道：b 走鼻腔气流，而 p 走口腔气流。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "普通话中的 b 和 p 均为双唇清塞音，二者的核心对立在于不送气与送气的强弱气流差异。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的正式语境下，最准确得体的表达是哪一项？（第1.1题）",
+          "prompt": "请选出下列声母中属于「唇齿音」的声母：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (1.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (1.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (1.1.x3)"
+            "f (上齿接触下唇形成窄缝呼气) (Labiodental fricative f)",
+            "b (双唇闭合不送气塞音)",
+            "m (双唇闭合鼻音)",
+            "d (舌尖抵住上齿龈塞音)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "在汉语拼音系统中，声母 f 是唯一的唇齿音，发音时上门齿轻触下唇内缘摩擦出声。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u1-l1）所要求的高阶语言表达？",
+          "prompt": "声母「d」与韵母「a」拼读组成汉字「大」时，正确的拼音标注为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (1.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (1.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (1.1.y3)"
+            "dà (第四声，去声全降调) (Fourth tone dà)",
+            "tā (送气音，第一声)",
+            "bà (双唇音，第四声)",
+            "nǎ (鼻音，第三声)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "汉字「大」由声母 d 和韵母 a 拼合而成，声调为第四声（去声），拼音为 dà。"
         }
       ]
     },
@@ -571,25 +575,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的掌握程度，请选出表述完全正确的标准范句（测试 1-1）：",
+          "prompt": "下列哪一组词语的声母全部属于「舌尖中音（d, t, n, l）」？",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (1.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (1.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (1.1.z3)"
+            "地图 (dìtú)、男女 (nánnǚ)、大路 (dàlù)",
+            "爸爸 (bàba)、妈妈 (māma)、头发 (tóufa)",
+            "白皮 (báipí)、面包 (miànbāo)、大门 (dàmén)",
+            "飞机 (fēijī)、跑步 (pǎobù)、绿草 (lǜcǎo)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「地图 (d, t)」、「男女 (n, n)」、「大路 (d, l)」的所有声母均属于舌尖中音（d, t, n, l）。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u1-l1）的核心关键词（例如「汉语拼音」）：",
+          "prompt": "请输入由声母「m」和单韵母「a」组成的第一声亲属称谓词汉字（例如「妈」）：",
           "acceptedAnswers": [
-            "汉语拼音",
-            "汉语拼音、声",
-            "汉语拼音、声调与基础问候"
+            "妈",
+            "妈妈"
           ],
-          "explanation": "正确的核心关键词为「汉语拼音」。"
+          "explanation": "汉字「妈 / 妈妈」读音为 mā / māma，由声母 m 与韵母 a 拼合，为普通话第一声。"
         }
       ],
       "passThreshold": 0.8
@@ -600,85 +603,89 @@
     "subject": "mandarin",
     "unit": 1,
     "lessonNumber": 2,
-    "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (第2讲)",
+    "title": "普通话四声调值、五度标记法与轻声规律 (The Four Tones & Neutral Tone)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第2部分)。",
+    "objective": "系统掌握普通话四个基本声调的调类、五度调值变化曲线、标调位置口诀以及轻声音节的发音特征。",
     "presentation": {
-      "explanation": "",
+      "explanation": "汉语属于高度发达的声调语言，声调具有不可替代的区别词义之核心功能。音节的声母与韵母即便完全相同，若声调相异，所代表的汉字与概念亦截然不同，失之毫厘谬以千里。\n\n一、普通话四大基本声调与五度标记法调值体系：\n1. 第一声（阴平，调值 55 高平调）：发音时音高始终保持在最高点 5 度，声音高亢平稳且持续饱满，气息平稳均匀，如汉字「妈」、「三」、「高」、「飞」、「天」。\n2. 第二声（阳平，调值 35 中升调）：发音由中等音高 3 度平滑上升至最高点 5 度，音势微扬向上，如爬坡般持续升起，如汉字「麻」、「十」、「国」、「白」、「来」。\n3. 第三声（上声，调值 214 降升调）：单念时音高由次低音 2 度先平缓降至最低音 1 度，再强劲扬升至次高音 4 度，波折分明，如汉字「马」、「我」、「好」、「水」、「北」。\n4. 第四声（去声，调值 51 全降调）：发音由最高音 5 度迅猛垂直骤降至最低音 1 度，短促有力、坚决果断，如高山流水一落千丈，如汉字「骂」、「大」、「去」、「对」、「看」。\n\n二、经典同音四声辨析范例：\n普通话以声调区分词义的典型体现：mā（妈，母亲） -> má（麻，亚麻） -> mǎ（马，骏马） -> mà（骂，责备）。四个字声韵完全相同，但声调各异，含义完全独立。\n\n三、轻声的发音本质与常见规律：\n轻声是普通话音节在语流连读时产生的一种特殊的音变弱化现象，发音特点是音长显著变短、音强显著减弱，拼写时不标注调号：\n1. 重叠亲属称谓词的后一音节：如「妈妈」、「爸爸」、「哥哥」、「姐姐」、「弟弟」、「妹妹」。\n2. 常用语法虚词与结构助词：如助词「你的」、「吃了」、「看着」、「走吧」、「好吗」。\n3. 常用名词后缀：如「桌子」、「石头」、「木头」、「朋友们」、「学生们」。\n\n四、声调符号标调位置口诀：\n汉语拼音标注声调符号严格遵循主元音响度顺序：「有 ɑ 不放过，没 ɑ 找 o e；i u 并列标在后，单个韵母不用说。」（例如 bái 标在 ɑ 上，duō 标在 o 上，guì 标在 i 上，liù 标在 u 上）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '汉语拼音、声调与基础问候 (Pinyin & Greetings)' in simple terms to students at the academic seminar."
+          "target": "妈妈骑马，马慢，妈妈骂马。(Māma qí mǎ, mǎ màn, māma mà mǎ.)",
+          "reading": "[ˈma˥.ma t͡ɕʰi˧˥ ma˨˩˦, ma˨˩˦ man˥˩, ˈma˥.ma ma˥˩ ma˨˩˦] (Mā-ma qí mǎ, mǎ màn, mā-ma mà mǎ.)",
+          "translation": "Mom rides a horse; the horse is slow; Mom scolds the horse."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "哥哥的桌子 (gēge de zhuōzi)",
+          "reading": "[ˈkɤ˥.kɤ tɤ ˈt͡swɔ˥.t͡sɨ] (gē-ge de zhuō-zi)",
+          "translation": "Elder brother's table"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我的朋友 (wǒ de péngyou)",
+          "reading": "[wɔ˨˩ tɤ ˈpʰɤŋ˧˥.joʊ] (wǒ de péng-you)",
+          "translation": "My friend"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "八百把刀 (bā bǎi bǎ dāo)",
+          "reading": "[pa˥ paɪ̯˧˥ pa˨˩˦ taʊ̯˥] (bā bǎi bǎ dāo)",
+          "translation": "Eight hundred knives"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "一声高平 55 像条线，二声上升 35 爬上山，三声下坡又上坡 214 转个弯，四声下降 51 往下窜！"
+      ],
+      "culturalNotes": [
+        "著名语言学家赵元任先生创立的「五度制调值标记法」，将人类发音自然音域划分为 1 至 5 度，精准刻画了汉语四声的音高轨迹，现已被国际语音学界广泛采纳。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第2讲）的标准汉语规范？",
+          "prompt": "在普通话声调中，调值为「51（高降调）」的声调是哪一个？",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (1.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (1.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (1.2.w3)"
+            "第四声（去声） (Fourth tone / Falling tone 51)",
+            "第一声（阴平 55）",
+            "第二声（阳平 35）",
+            "第三声（上声 214）"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "第四声（去声）的五度调值为 51，发音特点是由最高度 5 迅速降到最低度 1，短促有力。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "关于拼音标调位置，复合韵母「iu」和「ui」的标调原则是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "「i 和 u 并列标在后」：iu 标在 u 上，ui 标在 i 上。 (When i and u appear together, tone mark goes on the second letter)",
+            "始终优先标在 i 上。",
+            "始终优先标在 u 上。",
+            "随机标注在第一个元音字母上。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "按照标调口诀「i u 并列标在后」，在 iu 组合中标在 u 上（如 liù），在 ui 组合中标在 i 上（如 guì）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的正式语境下，最准确得体的表达是哪一项？（第1.2题）",
+          "prompt": "下列词语中，第二个音节属于「轻声」的是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (1.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (1.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (1.2.x3)"
+            "桌子 (zhuōzi) (Suffix -zi takes neutral tone)",
+            "中国 (Zhōngguó)",
+            "汉语 (Hànyǔ)",
+            "学生 (xuéshēng)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "名词后缀「子（zi）」在「桌子、椅子、杯子」等词中均弱化为轻声，读作 zhuōzi。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u1-l2）所要求的高阶语言表达？",
+          "prompt": "请选出声调调类顺序严格符合「一、二、三、四声」的一组词语：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (1.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (1.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (1.2.y3)"
+            "山 (shān) -> 羊 (yáng) -> 马 (mǎ) -> 大 (dà) (Tone sequence: 1st -> 2nd -> 3rd -> 4th)",
+            "马 (mǎ) -> 山 (shān) -> 大 (dà) -> 羊 (yáng)",
+            "羊 (yáng) -> 大 (dà) -> 山 (shān) -> 马 (mǎ)",
+            "大 (dà) -> 马 (mǎ) -> 羊 (yáng) -> 山 (shān)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "山（shān，一声）、羊（yáng，二声）、马（mǎ，三声）、大（dà，四声），严格对应阴平、阳平、上声、去声。"
         }
       ]
     },
@@ -686,25 +693,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的掌握程度，请选出表述完全正确的标准范句（测试 1-2）：",
+          "prompt": "下列哪一个句子的拼音声调标注完全正确且轻声处理得当？",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (1.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (1.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (1.2.z3)"
+            "爸爸和妈妈去买西瓜。(Bàba hé māma qù mǎi xīguā.)",
+            "Bàbà hé māmā qù mǎi xīguā.",
+            "Bàba hè māma qú mài xǐguǎ.",
+            "Bába hé mamá qū mài xīguà."
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「Bàba」和「māma」后字为轻声，「hé」为二声，「qù」为四声，「mǎi」为三声，「xīguā」均为一声，标注完全准确。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u1-l2）的核心关键词（例如「汉语拼音」）：",
+          "prompt": "请输入表示「骏马」的第三声（上声）单字汉字（拼音为 mǎ）：",
           "acceptedAnswers": [
-            "汉语拼音",
-            "汉语拼音、声",
-            "汉语拼音、声调与基础问候"
+            "马"
           ],
-          "explanation": "正确的核心关键词为「汉语拼音」。"
+          "explanation": "汉字「马」读音为 mǎ，为普通话第三声（上声 214 调）。"
         }
       ],
       "passThreshold": 0.8
@@ -715,85 +720,89 @@
     "subject": "mandarin",
     "unit": 1,
     "lessonNumber": 3,
-    "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (第3讲)",
+    "title": "核心音变规律：三声连读变调与「一」、「不」的音变规律 (Mandarin Tone Sandhi)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第3部分)。",
+    "objective": "掌握普通话最重要的音变规律：两个第三声连读变第二声、半三声规律，以及高频字「一」和「不」在不同语境下的变调法则。",
     "presentation": {
-      "explanation": "",
+      "explanation": "普通话在实际连续言语流动中，音节相连发音时受前后语音的相互制约与发音省力原则驱动，往往发生声调变化，此即「变调」现象。掌握变调是使普通话发音流畅、自然、地道的核心关键。\n\n一、三声相连连读变调规律：\n1. 两个第三声相连：前一个第三声音节必须变读为第二声（阳平 35 调），后一个第三声保持原调（214 调值转换为 35 加 214）。在书面拼写时依然标注原词本调，但口语发音必须按变调读出：\n- 你好（拼写作 nǐ hǎo，实际口语读作 ní hǎo）\n- 可以（拼写作 kě yǐ，实际口语读作 ké yǐ）\n- 水果（拼写作 shuǐ guǒ，实际口语读作 shuí guǒ）\n- 很好（拼写作 hěn hǎo，实际口语读作 hén hǎo）\n- 语法（拼写作 yǔ fǎ，实际口语读作 yú fǎ）\n- 手表（拼写作 shǒu biǎo，实际口语读作 shóu biǎo）\n\n2. 半三声（半上声）规则：\n当第三声音节位于第一声、第二声、第四声或轻声音节之前时，该第三声仅读出前半段的低平降势（调值由 214 简化为 21），后半段的扬升部分完全省略：\n- 北京（第三声在第一声前，实际读 Běi[21] + jīng[55]）\n- 语言（第三声在第二声前，实际读 yǔ[21] + yán[35]）\n- 好看（第三声在第四声前，实际读 hǎo[21] + kàn[51]）\n- 喜欢（第三声在第一声前，实际读 xǐ[21] + huān[55]）\n\n二、「一」的变调核心法则：\n1. 单念、位于词句末尾或表示序数时读本调第一声（阴平 55 调）：如「第一」、「一二三」、「统一」、「初一」。\n2. 在第四声音节前变读为第二声（阳平 35 调）：如「一个」、「一定」、「一次」、「一块」、「一片」。\n3. 在第一声、第二声、第三声音节前一律变读为第四声（去声 51 调）：如「一天」、「一年」、「一起」、「一本」、「一双」。\n\n三、「不」的变调核心法则：\n1. 单念或位于第一声、第二声、第三声音节前时，保持本调第四声（去声 51 调）：如「不行」、「不好」、「不高」、「不来」、「不吃」。\n2. 在第四声音节前一律变读为第二声（阳平 35 调）：如「不是」、「不对」、「不要」、「不必」、「不去」。\n3. 嵌在动词或补语中间时读轻声：如「去不去」、「对不起」、「差不多」、「好不好」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '汉语拼音、声调与基础问候 (Pinyin & Greetings)' in simple terms to students at the academic seminar."
+          "target": "你好！我想买一个新鲜的水果。(Nǐ hǎo! Wǒ xiǎng mǎi yí gè xīnxiān de shuǐguǒ.)",
+          "reading": "[ni˧˥ xaʊ˨˩˦! wɔ˨˩ ɕjɑŋ˧˥ maɪ̯˨˩˦ i˧˥ kɤ˥˩ ɕin˥.ɕjɛn˥ tɤ ʂweɪ̯˧˥ kwɔ˨˩˦] (Nǐ hǎo! Wǒ xiǎng mǎi yí gè xīn-xiān de shuǐ-guǒ.)",
+          "translation": "Hello! I would like to buy a fresh fruit."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这不是一本普通的书。(Zhè bú shì yì běn pǔtōng de shū.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pu˧˥ ʂɨ˥˩ i˥˩ pən˨˩ pʰu˨˩.tʰʊŋ˥ tɤ ʂu˥] (Zhè bú shì yì běn pǔ-tōng de shū.)",
+          "translation": "This is not an ordinary book."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我们一起去北京。(Wǒmen yìqǐ qù Běijīng.)",
+          "reading": "[wɔ˨˩.mən i˥˩.t͡ɕʰi˨˩˦ t͡ɕʰy˥˩ peɪ̯˨˩.t͡ɕiŋ˥] (Wǒ-men yì-qǐ qù Běi-jīng.)",
+          "translation": "We go to Beijing together."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "对不对？很好！(Duì bu duì? Hěn hǎo!)",
+          "reading": "[tweɪ̯˥˩ pu tweɪ̯˥˩? xən˧˥ xaʊ˨˩˦] (Duì bu duì? Hěn hǎo!)",
+          "translation": "Right or wrong? Very good!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "两三相连前变二（你好读 ní hǎo）；「一」「不」遇到四声变二声（一个 yí gè，不是 bú shì）；「一」遇非四变四声（一天 yì tiān，一起 yì qǐ）！"
+      ],
+      "culturalNotes": [
+        "在正式汉语拼音书写规范中，变调词语一般只标本调（如「你好」标 nǐ hǎo，「一个」标 yī gè），但初级教材为了帮助学习者发准口语，常直接标注变调后实际发音。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第3讲）的标准汉语规范？",
+          "prompt": "在日常口语中，双音节词「你好」的实际发音声调变化为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (1.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (1.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (1.3.w3)"
+            "前字变为第二声：ní hǎo (3rd + 3rd sandhi becomes 2nd + 3rd)",
+            "两字都变为第二声：ní háo",
+            "后字变为第四声：nǐ hào",
+            "前字保持第三声，后字变为轻声：nǐ hao"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "根据三声变调规则，两个第三声音节相连时，前字由 214 调变为第二声 35 调，即读作「ní hǎo」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在短语「不是」和「不同」中，否定词「不」的实际发音声调分别为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "「不是」读 bú（第二声），「不同」读 bù（第四声）。 (bù becomes bú before 4th tone shì, stays bù before 2nd tone tóng)",
+            "两处都读第二声（bú shì, bú tóng）。",
+            "两处都读第四声（bù shì, bù tóng）。",
+            "「不是」读 bù，「不同」读 bú。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「不」在第四声「是」前变读第二声（bú shì）；在非第四声「同（第二声）」前保持本调第四声（bù tóng）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的正式语境下，最准确得体的表达是哪一项？（第1.3题）",
+          "prompt": "在短语「一个苹果」和「一天时间」中，「一」的实际变调读音分别是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (1.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (1.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (1.3.x3)"
+            "一个 (yí gè, 二声)，一天 (yì tiān, 四声) (yī becomes yí before 4th tone, becomes yì before 1st tone)",
+            "一个 (yì gè)，一天 (yí tiān)",
+            "两处均读第一声原调 (yī gè, yī tiān)",
+            "两处均读第二声 (yí gè, yí tiān)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「个」是第四声，故「一」变读第二声 yí gè；「天」是第一声，故「一」变读第四声 yì tiān。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u1-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一个词语在前字发音时必须执行「三声变第二声」的变调？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (1.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (1.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (1.3.y3)"
+            "可以 (kěyǐ -> kéyǐ) (Both are 3rd tone, kě becomes ké)",
+            "老师 (lǎoshī) (3rd + 1st tone)",
+            "北方 (běifāng) (3rd + 1st tone)",
+            "雨衣 (yǔyī) (3rd + 1st tone)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「可以 (kě + yǐ)」两个音节均为第三声，故前字必须变调为第二声「kéyǐ」。"
         }
       ]
     },
@@ -801,25 +810,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的掌握程度，请选出表述完全正确的标准范句（测试 1-3）：",
+          "prompt": "请判断下列句子中「一」和「不」的变调标注完全正确的是哪一项？",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (1.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (1.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (1.3.z3)"
+            "他一定不去参加会议。(Tā yí dìng bú qù cānjiā huìyì.)",
+            "Tā yì dìng bù qù cānjiā huìyì.",
+            "Tā yī dìng bù qù cānjiā huìyì.",
+            "Tā yí dìng bù qù cānjiā huìyì."
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「定」与「去」均为第四声，其前面的「一」与「不」均须变调为第二声：yí dìng 与 bú qù。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u1-l3）的核心关键词（例如「汉语拼音」）：",
+          "prompt": "请输入由两个第三声字组成的中国最经典日常问候语（汉字为「你好」）：",
           "acceptedAnswers": [
-            "汉语拼音",
-            "汉语拼音、声",
-            "汉语拼音、声调与基础问候"
+            "你好"
           ],
-          "explanation": "正确的核心关键词为「汉语拼音」。"
+          "explanation": "汉字「你好」由两个第三声字（nǐ + hǎo）构成，实际口语中前字变调读作「ní hǎo」。"
         }
       ],
       "passThreshold": 0.8
@@ -830,85 +837,89 @@
     "subject": "mandarin",
     "unit": 1,
     "lessonNumber": 4,
-    "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (第4讲)",
+    "title": "基础日常问候与敬称：你好、您好与师生交际礼节 (Daily Greetings & Honorifics)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第4部分)。",
+    "objective": "掌握普通话日常问候语（你好/您好/早上好/老师好）、人称敬称区分以及基础近况询问（你好吗/我很好）的语用交际场景。",
     "presentation": {
-      "explanation": "",
+      "explanation": "汉语问候语体系深刻凝聚了中华传统文化中注重人伦秩序、尊师重道、尊长爱幼与谦逊和睦的礼仪精神，在人际交往中具有核心语用地位：\n\n一、核心问候语与人称敬称的严格分野：\n1. 「你好！」：适用范围最广泛的普适性日常问候语，主要用于平辈同侪、普通朋友、同事以及同龄初识者之间。\n2. 「您好！」：专用尊称敬语。「您」字在结构上由「你」字底置「心」字构成，表征「由衷将对方放在心上」。专用于长辈、师长、尊长领导或商业客户，表达庄重尊敬。\n3. 「你们好！」：用于面向两位或两位以上群体时的复数问候。\n\n二、「称谓 + 好」定向问候句式：\n在中文正式社交与校园礼节中，面对特定长辈或职场人士，最得体规范的问候是将身份称谓置于「好」字之前：\n- 老师好！（问候授课教师与学者）\n- 王经理好！（问候职场上级与商务伙伴）\n- 叔叔好！ / 阿姨好！（问候长辈亲友）\n- 大家好！（面向全体听众与同仁的开场问候）\n\n三、基于时间维度的日常礼貌问候：\n1. 早上好 / 早！（清晨问候，熟人之间单道一声「早」格外亲切自然）\n2. 下午好！（午后商务与日常工作问候）\n3. 晚上好！（傍晚及夜间聚会、晚间课程问候）\n\n四、近况询问与经典应答会话闭环：\n- 问：你好吗？（「吗」为是非疑问语气助词，用于询问对方近期生活与身体状况）\n- 答：我很好，谢谢！你呢？（先表述自身良好状态，再行礼貌致谢，继而使用「呢」字承前反问对方状况）\n- 答：我也很好。（副词「也」作为状语，必须置于主语之后、形容词谓语「很好」之前，表示情况相同）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '汉语拼音、声调与基础问候 (Pinyin & Greetings)' in simple terms to students at the academic seminar."
+          "target": "张老师，您好！早上好！(Zhāng lǎoshī, nín hǎo! Zǎoshang hǎo!)",
+          "reading": "[ʈ͡ʂɑŋ˥ laʊ˨˩.ʂɨ˥, nin˧˥ xaʊ˨˩˦! t͡saʊ˨˩.ʂaŋ xaʊ˨˩˦] (Zhāng lǎo-shī, nín hǎo! Zǎo-shang hǎo!)",
+          "translation": "Teacher Zhang, hello (respectful)! Good morning!"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "同学们好！大家请坐。(Tóngxuémen hǎo! Dàjiā qǐng zuò.)",
+          "reading": "[tʰʊŋ˧˥.ɕɥɛ˧˥.mən xaʊ˨˩˦! ta˥˩.t͡ɕja˥ t͡ɕʰiŋ˨˩ t͡swɔ˥˩] (Tóng-xué-men hǎo! Dà-jiā qǐng zuò.)",
+          "translation": "Hello, students! Everyone please sit down."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "——你好吗？——我很好，谢谢，你呢？(—Nǐ hǎo ma? —Wǒ hěn hǎo, xièxie, nǐ ne?)",
+          "reading": "[—ni˧˥ xaʊ˨˩˦ ma? —wɔ˨˩ xən˧˥ xaʊ˨˩˦, ɕjɛ˥˩.ɕjɛ, ni˨˩˦ nɤ?] (—Nǐ hǎo ma? —Wǒ hěn hǎo, xiè-xie, nǐ ne?)",
+          "translation": "—How are you? —I am very well, thank you, and you?"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我也很好，很高兴认识你！(Wǒ yě hěn hǎo, hěn gāoxìng rènshi nǐ!)",
+          "reading": "[wɔ˨˩ jɛ˨˩ xən˧˥ xaʊ˨˩˦, xən˨˩ kaʊ̯˥.ɕiŋ˥˩ ʐən˥˩.ʂɨ ni˨˩˦] (Wǒ yě hěn hǎo, hěn gāo-xìng rèn-shi nǐ!)",
+          "translation": "I am also very well, very glad to meet you!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "长辈师长用「您好」，平辈朋友用「你好」；称谓在前好在后（老师好），心存敬意礼节高！"
+      ],
+      "culturalNotes": [
+        "在传统中国师生关系中，「尊师重道」至为关键。学生见到老师通常必须使用「老师好」或「您好」，直呼其名或使用平辈的「你好」会被视作不合礼仪。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第4讲）的标准汉语规范？",
+          "prompt": "在大学校园中初次见到授课教授时，最得体、最礼貌的中文问候语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (1.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (1.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (1.4.w3)"
+            "教授，您好！ (Professor, hello [respectful]!)",
+            "喂，你好！",
+            "老头好！",
+            "你叫什么名字？"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "对师长使用尊称「您好」或「职务/称谓 + 您好」是中文中标准而得体的礼貌问候方式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "对方询问「你好吗？」时，最自然标准的礼貌回应结构是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我很好，谢谢！你呢？ (I am very well, thank you! And you?)",
+            "我是学生，谢谢你。",
+            "你很好，我也好。",
+            "我不认识你。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "标准回应模式为先回答自身状态「我很好」，致谢「谢谢」，再回问对方「你呢？」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的正式语境下，最准确得体的表达是哪一项？（第1.4题）",
+          "prompt": "清晨遇到邻居或同事时，最简洁亲切的中文问候是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (1.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (1.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (1.4.x3)"
+            "早！ / 早上好！ (Zǎo! / Zǎoshang hǎo!)",
+            "晚安！",
+            "下午好！",
+            "再见！"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "清晨时分汉语常用「早上好」或单字「早！」进行亲切问候。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u1-l4）所要求的高阶语言表达？",
+          "prompt": "在句子「我也很好」中，副词「也」的正确语序位置是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (1.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (1.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (1.4.y3)"
+            "紧跟在主语「我」之后，形容词谓语「很好」之前。 (Placed directly after subject and before predicate)",
+            "放在句子的最开头：也我很好。",
+            "放在句子的最末尾：我很好也。",
+            "放在「很」和「好」之间：我很也好。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "在汉语语法中，副词「也」作为状语，必须位于主语之后、谓语成分之前。"
         }
       ]
     },
@@ -916,25 +927,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的掌握程度，请选出表述完全正确的标准范句（测试 1-4）：",
+          "prompt": "请选出下列对话中语序与语用逻辑完全正确的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (1.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (1.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (1.4.z3)"
+            "甲：王老师，您好！ 乙：你好，李华！早上好！",
+            "甲：王老师，你呢！ 乙：我也老师好！",
+            "甲：您好吗王老师？ 乙：我是好谢谢！",
+            "甲：大家早！ 乙：不客气对不起！"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "学生对老师使用敬称「您好」，老师对学生亲切回复「你好」并道「早上好」，完全符合语用礼仪。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u1-l4）的核心关键词（例如「汉语拼音」）：",
+          "prompt": "请输入由「你」加上「心」字底构成的第二人称尊称汉字（拼音为 nín）：",
           "acceptedAnswers": [
-            "汉语拼音",
-            "汉语拼音、声",
-            "汉语拼音、声调与基础问候"
+            "您"
           ],
-          "explanation": "正确的核心关键词为「汉语拼音」。"
+          "explanation": "汉字「您」为「你」的敬称，用于长辈、师长或客户，表示由衷尊敬。"
         }
       ],
       "passThreshold": 0.8
@@ -945,85 +954,89 @@
     "subject": "mandarin",
     "unit": 1,
     "lessonNumber": 5,
-    "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (第5讲)",
+    "title": "日常礼貌应答、致谢道歉与道别用语 (Polite Expressions & Conversational Etiquette)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：普通话声母、韵母、四声声调、轻声与变调规则，日常问候与礼貌用语。 (第5部分)。",
+    "objective": "掌握中文核心礼貌用语（谢谢/不客气、对不起/没关系、请/请问）以及各类道别表达（再见/明天见/回头见）的完整交际闭环。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中文日常人际交往极度强调礼尚往来与谦和体谅，掌握致谢、道歉、请求与道别的成对礼貌应答体系，是构建良好和谐交际关系的基石：\n\n一、致谢与礼貌应答的完整交际闭环：\n1. 表达感谢：\n- 谢谢！（最通用的基础道谢）\n- 谢谢你！ / 谢谢您！（定向致谢，对师长长辈用「您」）\n- 非常感谢！ / 十分感谢！（程度更深的真挚感谢）\n- 太感谢你了！（充满由衷感叹语气的诚挚谢意）\n2. 礼貌应答（用以消除对方的心理负担与亏欠感）：\n- 不客气！（最标准的通用礼貌回应）\n- 不用谢！（亲切随和的回应）\n- 别客气！（劝慰对方不必过于拘谨客套）\n\n二、道歉与宽慰应答的完整交际闭环：\n1. 表达歉意：\n- 对不起！（语义较重，专用于造成实质性过失、延误或打扰时）\n- 不好意思！（语气柔和委婉，多用于轻度打扰、借光借过或提出微小请求时）\n2. 宽慰应答：\n- 没关系！（表示毫无大碍、完全无需挂怀的标准回应）\n- 没事！ / 没事儿！（口语中极其自然随和的宽慰用语）\n\n三、礼貌请求词「请」的高频应用模式：\n动词「请」置于动词动作之前，赋予整个句子以尊重谦逊的礼貌色彩：\n- 请进！（热情欢迎客人进门）\n- 请坐！（礼貌邀请客人就座）\n- 请喝茶！（中华传统待客礼节）\n- 请问...（问路、求助、咨询信息时的黄金开场敬语）\n\n四、丰富多样的道别表达体系：\n1. 再见！（最通用的道别语，字面含义为「再次相见」）\n2. 明天见！（次日继续相逢的职场与校园常用语）\n3. 一会儿见！（短暂离别后当天稍后即聚）\n4. 下周见！（周末告别时的周期性道别用语）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '汉语拼音、声调与基础问候 (Pinyin & Greetings)' in simple terms to students at the academic seminar."
+          "target": "——太感谢你了！——不客气，这是我应该做的。(—Tài gǎnxiè nǐ le! —Bú kèqi, zhè shì wǒ yīnggāi zuò de.)",
+          "reading": "[—tʰaɪ̯˥˩ kan˨˩.ɕjɛ˥˩ ni˨˩˦ lɤ! —pu˧˥ kʰɤ˥˩.t͡ɕʰi, ʈ͡ʂɤ˥˩ ʂɨ˥˩ wɔ˨˩ iŋ˥.kaɪ̯ t͡swɔ˥˩ tɤ] (—Tài gǎn-xiè nǐ le! —Bú kè-qi, zhè shì wǒ yīng-gāi zuò de.)",
+          "translation": "—Thank you so much! —You're welcome, this is what I should do."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "——对不起，我迟到了。——没关系，请进！(—Duìbuqǐ, wǒ chídào le. —Méi guānxi, qǐng jìn!)",
+          "reading": "[—tweɪ̯˥˩.pu.t͡ɕʰi˨˩˦, wɔ˨˩ ʈ͡ʂʰi˧˥.taʊ̯˥˩ lɤ. —meɪ̯˧˥ kwan˥.ɕi, t͡ɕʰiŋ˨˩ t͡ɕin˥˩!] (—Duì-bu-qǐ, wǒ chí-dào le. —Méi guān-xi, qǐng jìn!)",
+          "translation": "—I'm sorry, I'm late. —It doesn't matter, please come in!"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "请问，图书馆在哪里？(Qǐngwèn, túshūguǎn zài nǎlǐ?)",
+          "reading": "[t͡ɕʰiŋ˨˩.wən˥˩, tʰu˧˥.ʂu˥.kwan˨˩˦ t͡saɪ̯˥˩ na˧˥.li˨˩˦?] (Qǐng-wèn, tú-shū-guǎn zài nǎ-lǐ?)",
+          "translation": "Excuse me, where is the library?"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "今天很高兴，我们明天见！(Jīntiān hěn gāoxìng, wǒmen míngtiān jiàn!)",
+          "reading": "[t͡ɕin˥.tʰjɛn˥ xən˨˩ kaʊ̯˥.ɕiŋ˥˩, wɔ˨˩.mən miŋ˧˥.tʰjɛn˥ t͡ɕjɛn˥˩!] (Jīn-tiān hěn gāo-xìng, wǒ-men míng-tiān jiàn!)",
+          "translation": "Very happy today, see you tomorrow!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "谢谢对不客气，对不起配没关系；礼貌问路用「请问」，道别相期「明天见」！"
+      ],
+      "culturalNotes": [
+        "汉字「再见」由「再（again）」和「见（see）」组成，蕴含着对未来再次相遇的期盼，比单纯的离开更具人情温度。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第5讲）的标准汉语规范？",
+          "prompt": "当别人向你真诚道谢说「谢谢你！」时，最得体的礼貌回应是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的核心语法法则与应用范例 (1.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (1.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (1.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (1.5.w3)"
+            "不客气！ / 不用谢！ (Bú kèqi! / Bú yòng xiè! - You're welcome!)",
+            "对不起！",
+            "没关系！",
+            "再见！"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "回应感谢的固定礼貌用语是「不客气」或「不用谢」，而「没关系」是用于回应道歉的。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "如果不小心踩到了别人的脚，最准确表达歉意的句子是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "对不起！ / 不好意思！ (Duìbuqǐ! / Bù hǎoyìsi! - I am sorry!)",
+            "没关系！",
+            "不客气！",
+            "谢谢你！"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "发生过失时应主动表达歉意「对不起」或「不好意思」，受影响的一方才会回答「没关系」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的正式语境下，最准确得体的表达是哪一项？（第1.5题）",
+          "prompt": "在向陌生路人询问地铁站位置前，最礼貌的起首敬语是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (1.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (1.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (1.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (1.5.x3)"
+            "请问... (Qǐngwèn... - Excuse me, may I ask...)",
+            "谢谢...",
+            "对不起...",
+            "没关系..."
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "向人打听信息或问路时，句首使用「请问（Qǐngwèn）」是最标准地道的中文礼貌表达。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u1-l5）所要求的高阶语言表达？",
+          "prompt": "同事下班离开办公室时，如果约定好第二天上班碰面，最自然的道别是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (1.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (1.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (1.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (1.5.y3)"
+            "明天见！ (Míngtiān jiàn! - See you tomorrow!)",
+            "不客气！",
+            "请问！",
+            "对不起！"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「明天见」直接指明次日相聚，是在职场和学校中最自然亲切的道别语。"
         }
       ]
     },
@@ -1031,25 +1044,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「汉语拼音、声调与基础问候 (Pinyin & Greetings)」的掌握程度，请选出表述完全正确的标准范句（测试 1-5）：",
+          "prompt": "选出下列日常交际对话中回应搭配完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (1.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (1.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (1.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (1.5.z3)"
+            "甲：非常感谢您的帮助！ 乙：不客气，不用谢！",
+            "甲：非常感谢您的帮助！ 乙：对不起，没关系！",
+            "甲：对不起，我来晚了！ 乙：不客气，请坐吧！",
+            "甲：明天见！ 乙：我也很好，谢谢！"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "对「感谢」回应「不客气 / 不用谢」，完全符合汉语标准交际应答规则。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u1-l5）的核心关键词（例如「汉语拼音」）：",
+          "prompt": "请输入由两个相同汉字组成的中文最常用道谢词（拼音为 xièxie）：",
           "acceptedAnswers": [
-            "汉语拼音",
-            "汉语拼音、声",
-            "汉语拼音、声调与基础问候"
+            "谢谢"
           ],
-          "explanation": "正确的核心关键词为「汉语拼音」。"
+          "explanation": "汉字「谢谢」是中文中最基础、最通用的表达感谢的词汇。"
         }
       ],
       "passThreshold": 0.8
