@@ -11555,53 +11555,62 @@
     "subject": "cantonese",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "現代香港文學與流行文化 (Modern HK Literature & Cinema) (第1課)",
+    "title": "香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New School Wuxia Literature)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元28第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港新派武俠小說宗師（金庸、梁羽生）之俠義精神綱領（俠之大者，為國為民）、文白相間敘事修辭及其在當代全球華語流行文化中之深遠影響。",
     "presentation": {
-      "explanation": "",
+      "explanation": "二十世紀五十年代起於香港報章連載之「新派武俠小說」，以金庸、梁羽生為代表，開創了華語通俗文學之巔峰：\n\n一、新派武俠核心精神與文學特質：\n１．俠義精神之至高境界：\n- 「俠之大者，為國為民」（haap6 zi1 daai6 ze2, wai4 gwok3 wai4 man4）：金庸《射鵰英雄傳》郭靖名言，將傳統武俠之個人恩怨昇華為家國情懷。\n\n２．文白相間之雅健文風：\n- 融合傳統文言文之簡練厚重與白話文之生動流暢，善用四字成語與古典詩詞意境。\n\n３．武學哲學名言與高頻典故：\n- 「無招勝有招，飛花摘葉皆可傷人」（mou4 ziu1 sing3 jau5 ziu1）：《笑傲江湖》獨孤九劍與《倚天屠龍記》太極哲學，寓意擺脫形式拘泥、直達化境。\n- 「人在江湖，身不由己」（jan4 zoi6 gong1 wu4, san1 bat1 jau4 gei2）：古龍名句，道盡社會關係與命運牽絆之無奈。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 28 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 28 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 28 in communication."
+          "target": "金庸武俠小說深刻詮釋咗「俠之大者，為國為民」之崇高理念，影響咗全球數以億計之華人讀者。",
+          "reading": "gam1 jung4 mou5 haap6 siu2 syut3 sam1 hak1 cyun4 sik1 zo2 \"haap6 zi1 daai6 ze2, wai4 gwok3 wai4 man4\" zi1 sung4 gou1 lei5 nim3, jing2 hoeng2 zo2 cyun4 kau4 sou3 ji5 jik1 gai3 zi1 waa4 jan4 duk6 ze2. [kɐm˥ jʊŋ˨˩ mouou˩˧ haːp̚˨ siːu˧˥ syːt̚˧ sɐm˥ hɐk̚˥ tsʰyːn˨˩ sɪk̚˥ tsɔː˧˥ \"haːp̚˨ tsiː˥ taːi˨ tsɛː˧˥, wɐi˨˩ kʷɔːk̚˧ wɐi˨˩ mɐn˨˩\" tsiː˥ sʊŋ˨˩ kou˥ lei˩˧ niːm˧, jɪŋ˧˥ hœːŋ˧˥ tsɔː˧˥ tsʰyːn˨˩ kʰɐu˨˩ sou˧ jiː˩˧ jɪk̚˥ kɐi˧ tsiː˥ waː˨˩ jɐn˨˩ tʊk̚˨ tsɛː˧˥] (GUM-YOONG MOU-HAHP SIU-SYUT SUM-HUK CHUEN-SIK-JOR \"HAHP JEE DY-JEH, WAI-GWOK WAI-MUN\" JEE SOONG-GOU LEY-NEEM, YING-HEUNG-JOR CHUEN-KAU SOU-YEE-YIK-GY JEE WAH-YUN DUK-JEH)",
+          "translation": "Jin Yong's martial arts novels profoundly interpreted the sublime philosophy of 'the greatest chivalry lies in serving the nation and its people', influencing hundreds of millions of Chinese readers worldwide."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元28-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "獨孤九劍所講求之「無招勝有招」，不僅係武學至高境界，亦蘊含咗順應自然、打破教條之人生智慧。",
+          "reading": "duk6 gu1 gau2 gim3 so2 gong2 kau4 zi1 \"mou4 ziu1 sing3 jau5 ziu1\", bat1 gan2 hai6 mou5 hok6 zi3 gou1 ging2 gaai3, jik6 wan3 ham4 zo2 seon6 jing3 zi6 jin4, daa2 po3 gaau3 tiu4 zi1 jan4 sang1 zi3 wai3. [tʊk̚˨ kuː˥ kɐu˧˥ kiːm˧ sɔː˧˥ kɔːŋ˧˥ kʰɐu˨˩ tsiː˥ \"mouou˨˩ tsiːu˥ sɪŋ˧ jɐu˩˧ tsiːu˥\", pɐt̚˥ kɐn˧˥ hɐi˨ mouou˩˧ hɔːk̚˨ tsiː˧ kou˥ kɪŋ˧˥ kaːi˧, jɪk̚˨ wɐn˧ hɐm˨˩ tsɔː˧˥ sɵn˨ jɪŋ˧ tsiː˨ jiːn˨˩, taː˧˥ pʰɔː˧ kaːu˧ tʰiːu˨˩ tsiː˥ jɐn˨˩ sɐŋ˥ tsiː˧ wɐi˧] (DUK-GOO GAU-GEEM SOH GONG-KAU JEE \"MOU-JEW SING YAU-JEW\", BUT-GUN HY MOU-HOK JEE-GOU GING-GY, YIK WUN-HUM-JOR SEON-YING JEE-YEEN, DAH-POH GAU-TEW JEE YUN-SUNG JEE-WAI)",
+          "translation": "The concept of 'no move surpasses having moves' in Nine Swords of Dugu is not only the supreme realm of martial arts, but also embodies the life wisdom of following nature and breaking dogma."
+        },
+        {
+          "target": "梁羽生將古典詩詞與嶺南歷史掌故融入武俠小說，開創出文采斐然、典雅醇厚之新派流派。",
+          "reading": "loeng4 jyu5 sang1 zoeng1 gu2 din2 si1 ci4 jyu5 ling5 naam4 lik6 si1 zoeng2 gu3 jung4 jap6 mou5 haap6 siu2 syut3, hoi1 cong3 ceot1 man4 coi2 fei2 jin4, din2 ngaa5 seon4 hau5 zi1 san1 paai3 lau4 paai3. [lœːŋ˨˩ jyː˩˧ sɐŋ˥ tsœːŋ˥ kuː˧˥ tiːn˧˥ siː˥ tsʰiː˨˩ jyː˩˧ lɪŋ˩˧ naːm˨˩ lɪk̚˨ siː˥ tsœːŋ˧˥ kuː˧ jʊŋ˨˩ jɐp̚˨ mouou˩˧ haːp̚˨ siːu˧˥ syːt̚˧, hɔːi˥ tsʰɔːŋ˧ tsʰɵt̚˥ mɐn˨˩ tsʰɔːi˧˥ fei˧˥ jiːn˨˩, tiːn˧˥ ŋaː˩˧ sɵn˨˩ hɐu˧˥ tsiː˥ sɐn˥ pʰaːi˧ lɐu˨˩ pʰaːi˧] (LEUNG YUE-SUNG JEUNG GOO-DEEN SEE-CHEE YUE LING-NAHM LIK-SEE JEUNG-GOO YOONG-YUP MOU-HAHP SIU-SYUT, HOI-CHONG-CHUT MUN-CHOY FAY-YEEN, DEEN-NGAH SEON-HAU JEE SUN-PY LAU-PY)",
+          "translation": "Liang Yusheng integrated classical poetry and Lingnan historical anecdotes into martial arts fiction, pioneering a new genre characterized by brilliant literary elegance and profound refinement."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【金庸武俠訣】俠之大者為國民，文白相間筆生神；無招勝招臻化境，倚天笑傲動乾坤！"
+      ],
+      "culturalNotes": [
+        "查良鏞（金庸）在香港創辦《明報》，其在副刊連載的十五部武俠小說被譽為『有華人的地方，就有金庸的武俠小說』。香港文化博物館特設『金庸館』以表彰其對世界文學與文化的卓越貢獻。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"同意\":",
+          "prompt": "【武俠精神】金庸小說《射鵰英雄傳》中郭靖所道出、代表中華俠義文化至高境界之名言係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：反對錯置）",
-            "混雜生硬詞彙之不規範語句（例項：考慮未適配）",
-            "聲調助詞搭配欠妥之表達（例項：決定誤用）"
+            "俠之大者，為國為民 (The greatest chivalry lies in serving the nation & people)",
+            "事不關己，己不勞心",
+            "人不為己，天誅地滅",
+            "得過且過，逍遙快活"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「俠之大者，為國為民」為金庸武俠哲學中將個人武藝昇華至家國擔當之核心綱領。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"同意\":",
+          "prompt": "【武學哲理】形容超越一切固定招式套路、順應對手形勢直達武學與思維化境之經典成語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：考慮未適配）",
-            "聲調助詞搭配欠妥之表達（例項：決定誤用）",
-            "語序顛倒嘅非標準句式（例項：反對錯置）"
+            "無招勝有招 (No moves surpass fixed moves / Supreme formlessness)",
+            "生搬硬套",
+            "墨守成規",
+            "按部就班"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「無招勝有招」為獨孤九劍與太極拳哲學中破除形式拘泥之至高境地。"
         }
       ]
     },
@@ -11609,15 +11618,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"同意\": Which sentence is completely correct?",
+          "prompt": "【文學宗師】在香港創辦《明報》並著有《天龍八部》、《笑傲江湖》、《鹿鼎記》等經典武俠巨作之大師係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：決定誤用）",
-            "語序顛倒嘅非標準句式（例項：反對錯置）",
-            "混雜生硬詞彙之不規範語句（例項：考慮未適配）"
+            "金庸（查良鏞） (Louis Cha / Jin Yong)",
+            "魯迅",
+            "張愛玲",
+            "老舍"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "金庸（查良鏞）為二十世紀華語文學界最負盛名之武俠小說泰斗。"
         }
       ],
       "passThreshold": 0.8
@@ -11628,53 +11637,62 @@
     "subject": "cantonese",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "現代香港文學與流行文化 (Modern HK Literature & Cinema) (第2課)",
+    "title": "香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Modern HK Literature)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元28第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港現代主義與本土純文學代表作家（劉以鬯、西西）之標誌性文本、意識流寫作手法、對倒結構及香港本土城市認同書寫。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港現代都市文學以其獨特之現代主義實驗與對本土生存經驗之細膩凝視著稱：\n\n一、劉以鬯與中國現代主義小說高峰：\n１．《酒徒》（1963年）：\n- 中國第一部意識流長篇小說，深刻揭示了現代商業社會中純文學藝術家之精神苦悶與內心掙扎。\n２．《對倒》（1972年 / 雙連郵票結構）：\n- 透過一老一少（淳于白與亞杏）在香港街頭互不相識卻交錯並行的平行蒙太奇敘事，啟發了王家衛導演拍出電影名作《花樣年華》。\n\n二、西西與香港本土城市自覺：\n１．《我城》（1974年）：\n- 以阿果等青年之童稚純真視角（Defamiliarization），重新凝視七十年代香港之街道、樓宇、天橋與草根生活，首次確立了以「我城」為核心之香港本土文化身分認同。\n２．語言特色：\n- 頑童體、語法拆解、融匯粵語口語節奏與童話般詩意文字。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 28 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 28 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 28 in communication."
+          "target": "劉以鬯先生嘅《對倒》以雙線平行結構描繪香港都市百態，成為世界現代主義文學之瑰寶。",
+          "reading": "lau4 ji5 coeng3 sin1 saang1 ge3 \"deoi3 dou2\" ji5 soeng1 sin3 ping4 hang4 git3 gau3 miu4 kui2 hoeng1 gong2 dou1 si5 baak3 taai3, sing4 wai4 sai3 gaai3 jin6 doi6 zyu2 ji6 man4 hok6 zi1 gwai1 bou2. [lɐu˨˩ jiː˩˧ tsʰœːŋ˧ siːn˥ saːŋ˥ kɛː˧ \"tɵy˧ tou˧˥\" jiː˩˧ sœːŋ˥ siːn˧ pʰɪŋ˨˩ hɐŋ˨˩ kiːt̚˧ kɐu˧ miːu˨˩ kʰɵy˧˥ hœːŋ˥ kʷɔːŋ˧˥ tou˥ siː˨ paːk̚˧ tʰaːi˧, sɪŋ˨˩ wɐi˨˩ sɐi˧ kaːi˧ jiːn˨ tɔːi˨ tsyː˧˥ jiː˨ mɐn˨˩ hɔːk̚˨ tsiː˥ kʷɐi˥ pou˧˥] (LAU YEE-CHEUNG SEEN-SAHNG GEH \"DEOY-DOU\" YEE SEUNG-SEEN PING-HAHNG GEET-GAU MEW-KOEY HEUNG-GONG DOU-SEE BAAK-TY, SING-WAI SY-GY YEEN-DOY JUE-YEE MUN-HOK JEE GWAI-BOU)",
+          "translation": "Mr. Liu Yichang's 'Tête-bêche' depicted myriad aspects of urban Hong Kong through a dual-line parallel structure, becoming a gem of world modernist literature."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元28-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "西西在《我城》入面用清新純真之語言描繪草根市民生活，深刻建立起屬於香港人自己之本土文化認同。",
+          "reading": "sai1 sai1 zoi6 \"ngo5 sing4\" jap6 min6 jung6 cing1 san1 seon4 zan1 zi1 jyu5 jin4 miu4 kui2 cou2 gan1 si5 man4 sang1 wut6, sam1 hak1 gin3 laap6 hei2 suk6 jyu1 hoeng1 gong2 jan4 zi6 gei2 zi1 bun2 tou2 man4 faa3 jing6 tung4. [sɐi˥ sɐi˥ tsɔːi˨ \"ŋɔː˩˧ sɪŋ˨˩\" jɐp̚˨ miːn˨ jʊŋ˨ tsʰɪŋ˥ sɐn˥ sɵn˨˩ tsɐn˥ tsiː˥ jyː˩˧ jiːn˨˩ miːu˨˩ kʰɵy˧˥ tsʰou˧˥ kɐn˥ siː˩˧ mɐn˨˩ sɐŋ˥ wuːt̚˨, sɐm˥ hɐk̚˥ kiːn˧ laːp̚˨ hei˧˥ sʊk̚˨ jyː˩˧ hœːŋ˥ kʷɔːŋ˧˥ jɐn˨˩ tsiː˨ kei˧˥ tsiː˥ puːn˧˥ tʰou˩˧ mɐn˨˩ faː˧ jɪŋ˨ tʰʊŋ˨˩] (SY-SY JOY \"NGOH-SING\" YUP-MEEN YOONG CHING-SUN SEON-JUN JEE YUE-YEEN MEW-KOEY TSOU-GUN SEE-MUN SUNG-WOOT, SUM-HUK GEEN-LAHP-HAY SOK-YUE HEUNG-GONG-YUN JEE-GAY JEE BOON-TOU MUN-FAH YING-TOONG)",
+          "translation": "Xi Xi in 'My City' used fresh, innocent language to portray grassroots citizens' lives, profoundly establishing a local cultural identity belonging to Hong Kong people themselves."
+        },
+        {
+          "target": "《酒徒》作為華文世界第一部意識流長篇巨著，以奔湧之內心獨白展現出文人在消費主義時代之精神探索。",
+          "reading": "\"zau2 tou4\" zok3 wai4 waa4 man4 sai3 gaai3 dai6 jat1 bou6 ji3 sik1 lau4 coeng4 pin3*2 geoi6 zok3, ji5 ban1 jung2 zi1 noi6 sam1 duk6 baak6 zin2 jin6 ceot1 man4 jan4 zoi6 siu1 fai3 zyu2 ji6 si4 doi6 zi1 zing1 san1 taam3 sok3. [\"tsɐu˧˥ tʰou˨˩\" tsɔːk̚˧ wɐi˨˩ waː˨˩ mɐn˨˩ sɐi˧ kaːi˧ tɐi˨ jɐt̚˥ pou˨ jiː˧ sɪk̚˥ lɐu˨˩ tsʰœːŋ˨˩ pʰiːn˧˥ kɵy˨ tsɔːk̚˧, jiː˩˧ pɐn˥ jʊŋ˩˧ tsiː˥ nɔːi˨ sɐm˥ tʊk̚˨ paːk̚˨ tsiːn˧˥ jiːn˨ tsʰɵt̚˥ mɐn˨˩ jɐn˨˩ tsɔːi˨ siːu˥ fɐi˧ tsyː˧˥ jiː˨ siː˨˩ tɔːi˨ tsiː˥ tsɪŋ˥ sɐn˥ tʰaːm˧ sɔːk̚˧] (\"JAU-TOU\" JOK-WAI WAH-MUN SY-GY DY-YUT-BOU YEE-SIK-LAU CHEUNG-PEEN GOEY-JOK, YEE BUN-YOONG JEE NOY-SUM DUK-BAAK JEEN-YEEN-CHUT MUN-YUN JOY SIU-FY JUE-YEE SEE-DOY JEE JING-SUN TAHM-SOK)",
+          "translation": "As the first full-length stream-of-consciousness novel in the Chinese literary world, 'The Drunkard' demonstrated the spiritual quest of intellectuals in an era of consumerism through surging interior monologues."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港島文學訣】酒徒對倒劉以鬯，意識流動構思奇；我城草根西西筆，童稚純真認同知！"
+      ],
+      "culturalNotes": [
+        "劉以鬯曾任香港《香港時報》、《星島晚報》副刊編輯數十年，培育了無數青年作家。西西作品《我城》、《像我這樣的一個女子》被選入香港中學及大學文學必讀經典。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"反對\":",
+          "prompt": "【現代主義】被公認為華語文學史上第一部意識流長篇小說之香港經典名作係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：考慮錯置）",
-            "混雜生硬詞彙之不規範語句（例項：決定未適配）",
-            "聲調助詞搭配欠妥之表達（例項：相信誤用）"
+            "劉以鬯《酒徒》 (The Drunkard by Liu Yichang)",
+            "《紅樓夢》",
+            "《三國演義》",
+            "《水滸傳》"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "劉以鬯於1963年出版之《酒徒》為中國第一部意識流長篇小說。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"反對\":",
+          "prompt": "【我城自覺】以童稚純真視角描寫七十年代香港草根市民日常生活、開創「我城」本土敘事之作家係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：決定未適配）",
-            "聲調助詞搭配欠妥之表達（例項：相信誤用）",
-            "語序顛倒嘅非標準句式（例項：考慮錯置）"
+            "西西 (Xi Xi)",
+            "冰心",
+            "茅盾",
+            "朱自清"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "著名香港女作家西西於1974年發表小說《我城》，奠定了香港本土文學之重要基石。"
         }
       ]
     },
@@ -11682,15 +11700,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"反對\": Which sentence is completely correct?",
+          "prompt": "【電影靈感】王家衛執導之經典電影《花樣年華》，其文學構思主要靈感來源於劉以鬯先生之邊部小說：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：相信誤用）",
-            "語序顛倒嘅非標準句式（例項：考慮錯置）",
-            "混雜生硬詞彙之不規範語句（例項：決定未適配）"
+            "《對倒》 (Tête-bêche)",
+            "《狂人日記》",
+            "《雷雨》",
+            "《駱駝祥子》"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "《花樣年華》片尾特別鳴謝劉以鬯，其雙線交叉之時空氛圍深受小說《對倒》之啟發。"
         }
       ],
       "passThreshold": 0.8
@@ -11701,53 +11719,62 @@
     "subject": "cantonese",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "現代香港文學與流行文化 (Modern HK Literature & Cinema) (第3課)",
+    "title": "香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型片 (HK Cinema)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元28第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港電影（港產片）黃金時代核心流派（周星馳無厘頭喜劇、王家衛文藝電影、警匪臥底片）之經典台詞、文化解構手法及電影語言修辭。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港電影（Hong Kong Cinema / 港產片）在二十世紀八九十年代被譽為「東方好萊塢」（Hollywood of the East），締造了獨樹一幟之影視美學：\n\n一、三大代表性電影美學與語言流派：\n１．周星馳「無厘頭文化」（Mo Lei Tau / Postmodern Parody）：\n- 特徵：顛覆傳統權威、邏輯跳躍、戲謔自嘲、字面解構。\n- 經典名句：「做人如果冇夢想，同條鹹魚有咩分別？」（《少林足球》）、「曾經有一份真摯嘅感情擺喺我面前……」（《大話西遊》）。\n\n２．王家衛「詩性文藝美學」（Poetic Cinema）：\n- 特徵：抽幀慢鏡、斑駁光影、獨白旁白、都市寂寞疏離與時間流逝感。\n- 經典隱喻：《阿飛正傳》「無翼鳥」與「一分鐘朋友」、《重慶森林》「鳳梨罐頭保質期」。\n\n３．香港警匪臥底類型片（Crime & Undercover Films）：\n- 經典代表《無間道》（Infernal Affairs）：身分認同迷失與道德困境。「對唔住，我係警察」（deoi3 m4 zyu6, ngo5 hai6 ging2 caat3）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 28 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 28 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 28 in communication."
+          "target": "周星馳嘅喜劇以無厘頭解構傳統權威，經典台詞「做人如果冇夢想，同條鹹魚有咩分別」鼓舞咗無數草根小人物。",
+          "reading": "zau1 sing1 ci4 ge3 hei2 kek6 ji5 mou4 lei4 tau4 gaai2 kau3 cyun4 tung4 kyun4 wai1, ging1 din2 toi4 ci4 \"zou6 jan4 jyu4 gwo2 mou5 mung6 soeng2, tung4 tiu4 haam4 jyu4*2 jau5 me1 fan1 bit6\" gu2 mou5 zo2 mou4 sou3 cou2 gan1 siu2 jan4 mat6. [tsɐu˥ sɪŋ˥ tsʰiː˨˩ kɛː˧ hei˧˥ kʰɪk̚˨ jiː˩˧ mouou˨˩ lei˨˩ tʰɐu˨˩ kaːi˧˥ kʰɐu˧ tsʰyːn˨˩ tʰʊŋ˨˩ kʰyːn˨˩ wɐi˥, kɪŋ˥ tiːn˧˥ tʰɔːi˨˩ tsʰiː˨˩ \"tsou˨ jɐn˨˩ jyː˨˩ kʷɔː˧˥ mouou˩˧ mʊŋ˨ sœːŋ˧˥, tʰʊŋ˨˩ tʰiːu˨˩ haːm˨˩ jyː˧˥ jɐu˩˧ mɛː˥ fɐn˥ piːt̚˨\" kuː˧˥ mouou˩˧ tsɔː˧˥ mouou˨˩ sou˧ tsʰou˧˥ kɐn˥ siːu˧˥ jɐn˨˩ mɐt̚˨] (JAU SING-CHEE GEH HAY-KEK YEE MOU-LAY-TAU GAI-KAU CHUEN-TOONG KUEN-WAI, GING-DEEN TOY-CHEE \"JOU-YUN YUE-GWOR MOU-MOONG-SEUNG, TOONG TEW HAHM-YUE YAU MEH FUN-BEET\" GOO-MOU-JOR MOU-SOU TSOU-GUN SIU-YUN-MUT)",
+          "translation": "Stephen Chow's comedies deconstructed traditional authority through nonsensical humor; his classic line 'If a person has no dreams, what difference is there between them and a salted fish?' inspired countless grassroots underdogs."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元28-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "王家衛電影運用獨特之光影色調與抽離旁白，將現代都市男女之孤獨迷惘與時間記憶表現得淋漓盡致。",
+          "reading": "wong4 gaa1 wai6 din6 jing2 wan6 jung6 duk6 dak6 zi1 gwong1 jing2 sik1 diu6 jyu5 cau1 lei4 pong4 baak6, zoeng1 jin6 doi6 dou1 si5 naam4 neoi5 zi1 gu1 duk6 mai4 mong5 jyu5 si4 gaan3 gei3 jik1 biu2 jin6 dak1 lam4 lei4 zin3 zi3. [wɔːŋ˨˩ kaː˥ wɐi˨ tiːn˨ jɪŋ˧˥ wɐn˨ jʊŋ˨ tʊk̚˨ tɐk̚˨ tsiː˥ kʷɔːŋ˥ jɪŋ˧˥ sɪk̚˥ tiːu˨ jyː˩˧ tsʰɐu˥ lei˨˩ pʰɔːŋ˨˩ paːk̚˨, tsœːŋ˥ jiːn˨ tɔːi˨ tou˥ siː˨ naːm˨˩ nɵy˩˧ tsiː˥ kuː˥ tʊk̚˨ mɐi˨˩ mɔːŋ˩˧ jyː˩˧ siː˨˩ kaːn˧ kei˧ jɪk̚˥ piːu˧˥ jiːn˨ tɐk̚˥ lɐm˨˩ lei˨˩ tsiːn˧ tsiː˧] (WONG GAH-WAI DEEN-YING WUN-YOONG DUK-DUK JEE GWONG-YING SIK-DEW YUE CHAU-LAY POHNG-BAAK, JEUNG YEEN-DOY DOU-SEE NAHM-NEOY JEE GOO-DUK MY-MONG YUE SEE-GAHN GAY-YIK BEW-YEEN-DUK LUM-LAY-JEEN-JEE)",
+          "translation": "Wong Kar-wai's cinema uses unique lighting tones and detached voiceovers to portray the loneliness, perplexity, time, and memory of modern urban men and women to perfection."
+        },
+        {
+          "target": "電影《無間道》以黑白兩道臥底之心理較量為主線，探討人性善惡與身分迷失，成為香港警匪片之巔峰神作。",
+          "reading": "din6 jing2 \"mou4 gaan3 dou6\" ji5 hak1 baak6 loeng5 dou6 ngaak6 dai2 zi1 sam1 lei5 gaau3 loeng6 wai4 zyu2 sin3, taam3 tou2 jan4 sing3 sin6 ok3 jyu5 san1 fan6*2 mai4 sat1, sing4 wai4 hoeng1 gong2 ging2 fei2 pin3*2 zi1 din1 fung1 san4 zok3. [tiːn˨ jɪŋ˧˥ \"mouou˨˩ kaːn˧ tou˨\" jiː˩˧ hɐk̚˥ paːk̚˨ lœːŋ˩˧ tou˨ ŋaːk̚˨ tɐi˧˥ tsiː˥ sɐm˥ lei˩˧ kaːu˧ lœːŋ˨ wɐi˨˩ tsyː˧˥ siːn˧, tʰaːm˧ tʰou˧˥ jɐn˨˩ sɪŋ˧ siːn˨ ɔːk̚˧ jyː˩˧ sɐn˥ fɐn˨ mai˨˩ sɐt̚˥, sɪŋ˨˩ wɐi˨˩ hœːŋ˥ kʷɔːŋ˧˥ kɪŋ˧˥ fei˧˥ pʰiːn˧˥ tsiː˥ tiːn˥ fʊŋ˥ sɐn˨˩ tsɔːk̚˧] (DEEN-YING \"MOU-GAHN-DOU\" YEE HUK-BAAK LEUNG-DOU NGAHK-DY JEE SUM-LEY GAU-LEUNG WAI JUE-SEEN, TAHM-TOU YUN-SING SEEN-OK YUE SUN-FUN MY-SUT, SING-WAI HEUNG-GONG GING-FAY-PEEN JEE DEEN-FOONG SUN-JOK)",
+          "translation": "The movie 'Infernal Affairs' centered on the psychological contest between undercover agents on both sides of the law, exploring human nature's good and evil and identity loss, becoming the crowning masterpiece of Hong Kong crime cinema."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港產電影訣】星爺無厘解構顛，鹹魚夢想勵萬千；王導墨鏡留光影，無間風雲名海外！"
+      ],
+      "culturalNotes": [
+        "香港電影金像獎（Hong Kong Film Awards）是亞洲最具影響力的電影獎項之一。香港警匪片、武打功夫片與無厘頭喜劇共同構成了全球幾代影迷對香港文化的鮮活集體記憶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"考慮\":",
+          "prompt": "【經典金句】在周星馳電影《少林足球》中，激勵小人物勇於追求夢想之傳世金句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：決定錯置）",
-            "混雜生硬詞彙之不規範語句（例項：相信未適配）",
-            "聲調助詞搭配欠妥之表達（例項：學校誤用）"
+            "做人如果冇夢想，同條鹹魚有咩分別？ (If a person has no dreams, what difference is there with a salted fish?)",
+            "我都係聽日先諗啦",
+            "大家千祈唔好努力",
+            "算數啦返去訓覺"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「做人如果冇夢想，同條鹹魚有咩分別」為周星馳電影最膾炙人口之勵志名言。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"考慮\":",
+          "prompt": "【電影名篇】以梁朝偉、劉德華飾演之雙重臥底身分困境為核心、被荷里活翻拍並獲奧斯卡最佳影片之香港神作係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：相信未適配）",
-            "聲調助詞搭配欠妥之表達（例項：學校誤用）",
-            "語序顛倒嘅非標準句式（例項：決定錯置）"
+            "《無間道》 (Infernal Affairs)",
+            "《哈利波特》",
+            "《鐵達尼號》",
+            "《侏羅紀公園》"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "《無間道》為香港警匪臥底題材之經典巔峰，獲全球廣泛讚譽。"
         }
       ]
     },
@@ -11755,15 +11782,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"考慮\": Which sentence is completely correct?",
+          "prompt": "【文藝大師】執導《阿飛正傳》、《重慶森林》、《花樣年華》，榮獲康城影展最佳導演獎之香港文藝片泰斗係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：學校誤用）",
-            "語序顛倒嘅非標準句式（例項：決定錯置）",
-            "混雜生硬詞彙之不規範語句（例項：相信未適配）"
+            "王家衛 (Wong Kar-wai)",
+            "希治閣",
+            "史匹堡",
+            "諾蘭"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "王家衛為享譽國際影壇之香港殿堂級電影大師。"
         }
       ],
       "passThreshold": 0.8
@@ -11774,53 +11801,62 @@
     "subject": "cantonese",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "現代香港文學與流行文化 (Modern HK Literature & Cinema) (第4課)",
+    "title": "粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修辭 (Cantopop Lyricism)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元28第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語流行音樂（Cantopop）「依聲填詞（協音）」之聲調聲樂規律、三大填詞宗師（黃霑、林夕、黃偉文）之詞風修辭及其文化內涵。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語流行曲（Cantopop）以粵語九聲六調為依托，創造了全球獨一無二之「依聲填詞」詩化藝術：\n\n一、粵語流行曲核心語言學特徵：\n１．「依聲填詞 / 協音」（hip3 jam1）：\n- 粵語字詞聲調必須與旋律音高走勢完全吻合（俗稱『啱音』），否則會產生「倒字」（即聽成其他同音或異調字）之聽覺偏差。\n\n二、Cantopop三大作詞泰斗風格解析：\n１．黃霑（James Wong）——「豪邁灑脫、家國情懷」：\n- 代表作：《滄海一聲笑》（「滄海一聲笑，滔滔兩岸潮」）、《獅子山下》（「攜手踏平崎嶇，我哋大家用艱辛努力寫下那，不朽香江名句」）、《上海灘》。\n\n２．林夕（Lin Xi）——「佛理禪意、都市情傷、細膩隱喻」：\n- 代表作：《約定》、《富士山下》（「誰能憑愛意要富士山私有」）、《紅豆》。詞風深邃幽微，融合佛學哲思。\n\n３．黃偉文（Wyman Wong）——「犀利前衛、社會批判、解構世俗」：\n- 代表作：《浮誇》、《喜帖街》（借利東街拆遷探討城市記憶與告別）、《年度之歌》。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 28 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 28 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 28 in communication."
+          "target": "黃霑先生填詞之《獅子山下》唱出香港人同舟共濟、奮鬥不懈之精神，成為激勵幾代人之香港非官方城歌。",
+          "reading": "wong4 zim1 sin1 saang1 tin4 ci4 zi1 \"si1 zi2 saan1 haa6\" coeng3 ceot1 hoeng1 gong2 jan4 tung4 zau1 gung6 zai3, fan5 dau3 bat1 haai6 zi1 zing1 san1, sing4 wai4 gik1 lai6 gei2 doi6 jan4 zi1 hoeng1 gong2 fei1 gung1 fong1 sing4 go1. [wɔːŋ˨˩ tsiːm˥ siːn˥ saːŋ˥ tʰiːn˨˩ tsʰiː˨˩ tsiː˥ \"siː˥ tsiː˧˥ saːn˥ haː˨\" tsʰœːŋ˧ tsʰɵt̚˥ hœːŋ˥ kʷɔːŋ˧˥ jɐn˨˩ tʰʊŋ˨˩ tsɐu˥ kʊŋ˨ tsɐi˧, fɐn˩˧ tɐu˧ pɐt̚˥ haːi˨ tsiː˥ tsɪŋ˥ sɐn˥, sɪŋ˨˩ wɐi˨˩ kɪk̚˥ lɐi˨ kei˧˥ tɔːi˨ jɐn˨˩ tsiː˥ hœːŋ˥ kʷɔːŋ˧˥ fei˥ kʊŋ˥ fɔːŋ˥ sɪŋ˨˩ kɔː˥] (WONG-JEEM SEEN-SAHNG TEEN-CHEE JEE \"SEE-JEE-SAHN-HAH\" CHEUNG-CHUT HEUNG-GONG-YUN TOONG-JAU GONG-JAI, FUN-DAU-BUT-HAI JEE JING-SUN, SING-WAI GIK-LY GAY-DOY-YUN JEE HEUNG-GONG FAY-GONG-FONG SING-GOH)",
+          "translation": "Mr. James Wong's lyrics for 'Below the Lion Rock' sang of Hong Kong people's spirit of being in the same boat and persevering in struggle, becoming an unofficial anthem of Hong Kong that inspired generations."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元28-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "林夕將深奧之佛理同現代愛情哲學融入歌詞，意境深遠、句句錐心，被譽為當代詞壇宗師。",
+          "reading": "lam4 zik6 zoeng1 sam1 ou3 zi1 fat1 lei5 tung4 jin6 doi6 oi3 cing4 zit3 hok6 jung4 jap6 go1 ci4, ji3 ging2 sam1 jyun5, geui3 geui3 zeoi1 sam1, bei6 jyu6 wai4 dong1 doi6 ci4 taan4 zung1 si1. [lɐm˨˩ tsɪk̚˨ tsœːŋ˥ sɐm˥ ou˧ tsiː˥ fɐt̚ mɐt̚˨ lei˩˧ tʰʊŋ˨˩ jiːn˨ tɔːi˨ ɔːi˧ tsʰɪŋ˨˩ tsit̚˧ hɔːk̚˨ jʊŋ˨˩ jɐp̚˨ kɔː˥ tsʰiː˨˩, jiː˧ kɪŋ˧˥ sɐm˥ jyːn˩˧, kɵy˧ kɵy˧ tsɵy˥ sɐm˥, pei˨ jyː˨ wɐi˨˩ tɔːŋ˥ tɔːi˨ tsʰiː˨˩ tʰaːn˨˩ tsʊŋ˥ siː˥] (LUM-JIK JEUNG SUM-OU JEE FUT-LEY TOONG YEEN-DOY OY-CHING JEET-HOK YOONG-YUP GOH-CHEE, YEE-GING SUM-YUEN, GOEY-GOEY JEOY-SUM, BAY-YUE WAI DONG-DOY CHEE-TAHN JOONG-SEE)",
+          "translation": "Lin Xi integrated profound Buddhist philosophy and modern love metaphysics into lyrics with profound artistic conception, piercing through every line, earning renown as the grandmaster of contemporary lyricism."
+        },
+        {
+          "target": "黃偉文創作嘅《喜帖街》借一條印刷喜帖老街之消逝，唱出對城市歷史變遷同人生告別之深刻反思。",
+          "reading": "wong4 wai5 man4 cong3 zok3 ge3 \"hei2 tip3 gaai1\" ze3 jat1 tiu4 jan3 caat3 hei2 tip3 lou5 gaai1 zi1 siu1 sai6, coeng3 ceot1 deoi3 sing4 si5 lik6 si1 bin3 cin1 tung4 jan4 sang1 gou3 bit6 zi1 sam1 hak1 faan2 si1. [wɔːŋ˨˩ wɐi˩˧ mɐn˨˩ tsʰɔːŋ˧ tsɔːk̚˧ kɛː˧ \"hei˧˥ tʰiːp̚˧ kaːi˥\" tsɛː˧ jɐt̚˥ tʰiːu˨˩ jɐn˧ tsʰaːt̚˧ hei˧˥ tʰiːp̚˧ lou˩˧ kaːi˥ tsiː˥ siːu˥ sɐi˧, tsʰœːŋ˧ tsʰɵt̚˥ tɵy˧ sɪŋ˨˩ siː˨ lɪk̚˨ siː˥ piːn˧ tsʰiːn˥ tʰʊŋ˨˩ jɐn˨˩ sɐŋ˥ kou˧ piːt̚˨ tsiː˥ sɐm˥ hɐk̚˥ faːn˧˥ siː˥] (WONG WAI-MUN CHONG-JOK GEH \"HEY-TEEP-GY\" JEH YUT-TEW YUN-CHAAT HEY-TEEP LOU-GY JEE SIU-SY, CHEUNG-CHUT DEOY SING-SEE LIK-SEE BEEN-CHEEN TOONG YUN-SUNG GOU-BEET JEE SUM-HUK FAHN-SEE)",
+          "translation": "Wyman Wong's 'Wedding Card Street' used the disappearance of an old street printing wedding cards to sing of profound reflections on urban historical metamorphosis and life's farewells."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【粵曲填詞訣】九聲協音啱音節，霑叔豪邁獅山鐵；林夕佛理悟富士，黃偉文筆寫喜帖！"
+      ],
+      "culturalNotes": [
+        "顧嘉煇與黃霑（『煇黃組合』）在七八十年代合作創作了數百首經典粵語影視金曲，奠定了香港Cantopop黃金時代的基石。粵語流行歌曲隨香港影視風靡全亞洲，成為海外華人寄託故土情懷的重要文化紐帶。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"決定\":",
+          "prompt": "【填詞術語】粵語流行曲創作中，歌詞字音聲調必須嚴格契合曲譜旋律音高走勢之語言學要求稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：相信錯置）",
-            "混雜生硬詞彙之不規範語句（例項：學校未適配）",
-            "聲調助詞搭配欠妥之表達（例項：老師誤用）"
+            "依聲填詞 / 協音（啱音） (Matching lyrics tone to melody pitch / Hip jam)",
+            "隨便亂填",
+            "完全不看曲譜",
+            "單純拼湊英文單詞"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「協音（依聲填詞）」為粵語流行歌曲確保不出現「倒字」現象之核心創作法則。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"決定\":",
+          "prompt": "【經典名曲】由黃霑填詞、羅文演唱，深刻凝聚香港草根同舟共濟與逆境拼搏精神之代表歌曲係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：學校未適配）",
-            "聲調助詞搭配欠妥之表達（例項：老師誤用）",
-            "語序顛倒嘅非標準句式（例項：相信錯置）"
+            "《獅子山下》 (Below the Lion Rock)",
+            "《兩隻老虎》",
+            "《小星星》",
+            "《生日快樂》"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "《獅子山下》為黃霑填詞之不朽名作，被視為香港奮鬥精神之精神像徵。"
         }
       ]
     },
@@ -11828,15 +11864,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"決定\": Which sentence is completely correct?",
+          "prompt": "【詞壇宗師】創作逾三千首歌詞、將佛學禪理與現代都市情感完美融合、寫下《約定》《富士山下》之詞壇泰斗係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：老師誤用）",
-            "語序顛倒嘅非標準句式（例項：相信錯置）",
-            "混雜生硬詞彙之不規範語句（例項：學校未適配）"
+            "林夕 (Lin Xi)",
+            "徐志摩",
+            "戴望舒",
+            "海子"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "林夕為當代華語樂壇最具影響力與文學深度之填詞大家。"
         }
       ],
       "passThreshold": 0.8
@@ -11847,53 +11883,62 @@
     "subject": "cantonese",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "現代香港文學與流行文化 (Modern HK Literature & Cinema) (第5課)",
+    "title": "香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香港製造」 (HK Cultural Identity)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元28第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港本土文化認同建構、獅子山精神之文化社會學意涵、大眾文化研究（Cultural Studies）理論術語及「雅俗共賞」之傳播學反思。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港流行文化作為二十世紀全球華語世界最強大之文化軟實力輸出源，其形成與演變具備深刻之社會文化學脈絡：\n\n一、香港文化核心精神與符號矩陣：\n１．「獅子山精神」（si1 zi2 saan1 zing1 san1）：\n- 起源於七十年代香港經濟起飛與草根公屋建設，象徵「同舟共濟、自強不息、靈活變通、逆境自強」之集體人格特質。\n２．「香港製造」（hoeng1 gong2 zai3 zou6 / Made in Hong Kong）：\n- 不僅係工業產品質量之保證，更昇華為一種結合東西文化、追求專業卓越與精緻效率之文化品牌。\n\n二、當代文化研究與評論高階術語：\n- 「雅俗共賞」（ngaa5 zuk6 gung6 soeng2）：既有高雅文學藝術之深度，又能為普通大眾所喜聞樂見。\n- 「文化雜糅 / 混血性」（man4 faa3 zaap6 jau4 / Cultural Hybridity）：嶺南傳統底蘊、英國制度文化與全球消費主義之深度嫁接。\n- 「集體記憶與文化認同」（zaap6 tai2 gei3 jik1 jyu5 man4 faa3 jing6 tung4）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 28 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 28 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 28 in communication."
+          "target": "「獅子山精神」凝聚咗香港人同舟共濟、逆境自強之奮鬥意志，係香港繁榮發展之精神基石。",
+          "reading": "\"si1 zi2 saan1 zing1 san1\" jing4 zeoi6 zo2 hoeng1 gong2 jan4 tung4 zau1 gung6 zai3, jik6 ging3 zi6 koeng4 zi1 fan5 dau3 ji3 zi3, hai6 hoeng1 gong2 faan4 wing4 faat3 zin2 zi1 zing1 san1 gei1 sek6. [\"siː˥ tsiː˧˥ saːn˥ tsɪŋ˥ sɐn˥\" jɪŋ˨˩ tsɵy˨ tsɔː˧˥ hœːŋ˥ kʷɔːŋ˧˥ jɐn˨˩ tʰʊŋ˨˩ tsɐu˥ kʊŋ˨ tsɐi˧, jɪk̚˨ kɪŋ˧ tsiː˨ kʰœːŋ˨˩ tsiː˥ fɐn˩˧ tɐu˧ jiː˧ tsiː˧, hɐi˨ hœːŋ˥ kʷɔːŋ˧˥ faːn˨˩ wɪŋ˨˩ faːt̚˧ tsiːn˧˥ tsiː˥ tsɪŋ˥ sɐn˥ kei˥ sɪk̚˨] (\"SEE-JEE-SAHN JING-SUN\" YING-JEOY-JOR HEUNG-GONG-YUN TOONG-JAU GONG-JAI, YIK-GING JEE-KEUNG JEE FUN-DAU YEE-JEE, HY HEUNG-GONG FAHN-WING FAHT-JEEN JEE JING-SUN GAY-SEK)",
+          "translation": "The 'Lion Rock Spirit' condenses the fighting will of Hong Kong people to pull together in the same boat and strive through adversity, serving as the spiritual bedrock of Hong Kong's prosperity."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元28-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "香港流行文化之所以能夠風靡全球，關鍵在於其具備「雅俗共賞」之高度包容性與極致專業水準。",
+          "reading": "hoeng1 gong2 lau4 hang4 man4 faa3 zi1 so2 ji5 nang4 gau3 fung1 mai4 cyun4 kau4, gwaan1 gin3 zoi6 jyu1 kei4 geoi6 bei6 \"ngaa5 zuk6 gung6 soeng2\" zi1 gou1 dou6 baau1 jung4 sing3 jyu5 gik6 zi3 zyun1 jip6 seoi2 zeon2. [hœːŋ˥ kʷɔːŋ˧˥ lɐu˨˩ hɐŋ˨˩ mɐn˨˩ faː˧ tsiː˥ sɔː˧˥ jiː˩˧ nɐŋ˨˩ kɐu˧ fʊŋ˥ mɐi˨˩ tsʰyːn˨˩ kʰɐu˨˩, kʷaːn˥ kiːn˧ tsɔːi˨ jyː˥ kʰei˨˩ kɵy˨ pei˨ \"ŋaː˩˧ tsʊk̚˨ kʊŋ˨ sœːŋ˧˥\" tsiː˥ kou˥ tou˨ paːu˥ jʊŋ˨˩ sɪŋ˧ jyː˩˧ kɪk̚˨ tsiː˧ tsʰyːn˥ jiːp̚˨ sɵy˧˥ tsɵn˧˥] (HEUNG-GONG LAU-HAHNG MUN-FAH JEE SOH-YEE NUNG-GAU FOONG-MY CHUEN-KAU, GWAHN-GEEN JOY-YUE KEY GOEY-BAY \"NGAH-JUK GONG-SEUNG\" JEE GOU-DOU BAHU-YOONG-SING YUE GIK-JEE JUEN-YEEP SOEY-JEON)",
+          "translation": "The reason Hong Kong pop culture gained worldwide popularity lies in its high inclusiveness of 'appealing to both refined and popular tastes' and its consummate professional standards."
+        },
+        {
+          "target": "文化研究學者指出，香港文化之獨特魅力在於其文化雜糅性，在傳統嶺南根基上綻放出世界級之現代文明果實。",
+          "reading": "man4 faa3 jin4 gau3 hok6 ze2 zi2 ceot1, hoeng1 gong2 man4 faa3 zi1 duk6 dak6 mei6 lik6 zoi6 jyu1 kei4 man4 faa3 zaap6 jau4 sing3, zoi6 cyun4 tung4 ling5 naam4 gan1 gei1 soeng6 zaan6 fong3 ceot1 sai3 gaai3 kap1 zi1 jin6 doi6 man4 ming4 gwo2 sat6. [mɐn˨˩ faː˧ jiːn˨˩ kɐu˧ hɔːk̚˨ tsɛː˧˥ tsiː˧˥ tsʰɵt̚˥, hœːŋ˥ kʷɔːŋ˧˥ mɐn˨˩ faː˧ tsiː˥ tʊk̚˨ tɐk̚˨ mei˨ lɪk̚˨ tsɔːi˨ jyː˥ kʰei˨˩ mɐn˨˩ faː˧ tsaːp̚˨ jɐu˨˩ sɪŋ˧, tsɔːi˨ tsʰyːn˨˩ tʰʊŋ˨˩ lɪŋ˩˧ naːm˨˩ kɐn˥ kei˥ sœːŋ˨ tsaːn˨ fɔːŋ˧ tsʰɵt̚˥ sɐi˧ kaːi˧ kʰɐp̚˥ tsiː˥ jiːn˨ tɔːi˨ mɐn˨˩ mɪŋ˨˩ kʷɔː˧˥ sɐt̚˨] (MUN-FAH YEEN-GAU HOK-JEH JEE-CHUT, HEUNG-GONG MUN-FAH JEE DUK-DUK MAY-LIK JOY-YUE KEY MUN-FAH JAHP-YAU-SING, JOY CHUEN-TOONG LING-NAHM GUN-GAY SEUNG JAAN-FONG-CHUT SY-GY-KUP JEE YEEN-DOY MUN-MING GWOR-SUT)",
+          "translation": "Cultural studies scholars point out that the unique charm of Hong Kong culture lies in its cultural hybridity, blossoming into world-class fruits of modern civilization upon its traditional Lingnan foundation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【獅子山精神】獅子山下同舟濟，自強不息創奇蹟；雅俗共賞香江韻，香港製造四海知！"
+      ],
+      "culturalNotes": [
+        "香港中文大學與香港大學等學府開創了享譽國際的『香港文化研究』學術領域。研究涵蓋李小龍全球武術傳播、九龍城寨空間政治、重慶大廈跨國草根全球化等經典課題。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"相信\":",
+          "prompt": "【核心精神】象徵香港草根大眾同舟共濟、勤勞勇敢、在逆境中互助拼搏之核心精神象徵係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：學校錯置）",
-            "混雜生硬詞彙之不規範語句（例項：老師未適配）",
-            "聲調助詞搭配欠妥之表達（例項：學生誤用）"
+            "獅子山精神 (Lion Rock Spirit)",
+            "逃避主義",
+            "拜金主義",
+            "得過且過"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「獅子山精神」為香港社會最核心、最受推崇之集體拼搏與互助精神象徵。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"相信\":",
+          "prompt": "【文化特質】形容香港流行文化既具備高雅深刻之藝術品味，又能被廣大普通市民大眾所喜愛欣賞之成語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：老師未適配）",
-            "聲調助詞搭配欠妥之表達（例項：學生誤用）",
-            "語序顛倒嘅非標準句式（例項：學校錯置）"
+            "雅俗共賞 (Appealing to both refined and popular tastes)",
+            "孤芳自賞",
+            "曲高和寡",
+            "庸俗不堪"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「雅俗共賞」精確概括了香港武俠文學、電影與粵語金曲跨越階層之傳播魅力。"
         }
       ]
     },
@@ -11901,15 +11946,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"相信\": Which sentence is completely correct?",
+          "prompt": "【文化研究】當代文化研究中，用以描述香港文化兼具嶺南底蘊、西方制度與全球流行元素之理論概念係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第28課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：學生誤用）",
-            "語序顛倒嘅非標準句式（例項：學校錯置）",
-            "混雜生硬詞彙之不規範語句（例項：老師未適配）"
+            "文化雜糅性 / 混血性 (Cultural Hybridity)",
+            "單一封閉性",
+            "完全同質化",
+            "原始未開化"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「文化雜糅性（Cultural Hybridity）」為香港文化研究中最核心之理論闡釋架構。"
         }
       ],
       "passThreshold": 0.8
