@@ -14015,53 +14015,62 @@
     "subject": "hindi",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "शिखर सम्मेलन और नीति वक्तव्य (C2 Capstone Statecraft) (Part 1)",
+    "title": "वैश्विक शिखर सम्मेलन और बहुपक्षीय नीति वक्तव्य (Global Summitry & Multilateral Policy)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.1) with authentic linguistic precision.",
+    "objective": "शिखर सम्मेलन (Summitry), पूर्ण सत्र संबोधन (Plenary Address), सर्वसम्मत घोषणापत्र तथा बहुपक्षीय नीति वक्तव्यों की शीर्ष कूटनीतिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "वैश्विक शिखर सम्मेलनों, संयुक्त राष्ट्र महासभा और बहुपक्षीय घोषणापत्रों के मानक नियम:\n\n1. **शिखर सम्मेलन एवं पूर्ण सत्र संबोधन**:\n   - **राष्ट्राध्यक्षों की शिखर वार्ता** — वैश्विक शांति, आर्थिक संवृद्धि, जलवायु परिवर्तन और सतत विकास पर राष्ट्राध्यक्षों का प्रत्यक्ष संवाद;\n   - **पूर्ण सत्र (Plenary Session)** — सभी सदस्य देशों के प्रतिनिधियों की संयुक्त आधिकारिक सभा में नीतिगत भाषण।\n\n2. **सहमति निर्माण एवं सर्वसम्मत घोषणापत्र (Consensus Declaration)**:\n   - **शेरपा बैठकें एवं वार्ता प्रक्रिया** — महीनों के गहन राजनयिक विचार-विमर्श के पश्चात विवादित बिंदुओं पर सर्वमान्य भाषा का चयन;\n   - **अंगीकरण (Adoption)** — सभी संप्रभु राष्ट्रों द्वारा संयुक्त विज्ञप्ति को सर्वसम्मति से स्वीकार करना।\n\n3. **वैश्विक कल्याण एवं साझा भविष्य**:\n   - *'एक पृथ्वी, एक परिवार, एक भविष्य' (वसुधैव कुटुम्बकम्) के आधार पर मानव-केंद्रित वैश्वीकरण की स्थापना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 34.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 34."
+          "target": "राष्ट्राध्यक्ष ने जी-20 शिखर सम्मेलन के पूर्ण सत्र को संबोधित करते हुए एक पृथ्वी, एक परिवार और एक भविष्य के सार्वभौमिक विजन का आह्वान किया।",
+          "reading": "Raashtraadhyaksh ne G20 shikhar sammelan ke poorna satr ko sambodhit karte hue 'Ek Prithvi, Ek Parivaar aur Ek Bhavishya' ke saarvabhaumik vision ka aahvaan kiya. [raːʂʈraːd̪ʱjəkʃ neː dʒiː-ʈʋɛnʈiː ʃɪkʰər səmːeːlən keː puːrɳ sətr koː səmboːd̪ʱɪt̪ kərt̪eː ɦʊeː eːk prɪt̪ʰʋiː eːk pərɪʋaːr ɔːr eːk bʱəʋɪʂjə keː saːrʋbʱɔːmɪk ʋɪzən kaː aːɦʋaːn kɪjaː] (rahsh-trah-dhuhk-SHUHN nay G20 shee-KHUHR suhm-may-LUHN kay POOR-nuh SUHT-ruh koh suhm-boh-DHEET KUHR-tay hoo-AY AYK PREETH-vee, AYK puh-ree-VAHR owr AYK bhuh-VEESH-yuh kay sahr-vuh-bhaw-MEEK vision kah ah-hu-VAHN kee-YAH)",
+          "translation": "Addressing the plenary session of the G20 Summit, the Head of State called for the universal vision of 'One Earth, One Family, One Future.'"
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 34-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "बहुपक्षीय शिखर वार्ताओं में गहन कूटनीतिक विमर्श और सहमति निर्माण द्वारा वैश्विक शांति व आर्थिक स्थिरता का सर्वसम्मत घोषणापत्र अंगीकार किया गया।",
+          "reading": "Bahupaksheey shikhar vaartaaon mein gahan kootneetik vimarsh aur sahamati nirmaan dvaara vaishvik shaanti va aarthik sthirata ka sarvasammat ghoshanaapatr angeekaar kiya gaya. [bəɦʊpəkʃiːj ʃɪkʰər ʋaːrt̪aːõː mẽː ɡəɦən kuːt̪niːt̪ɪk ʋɪmərʃ ɔːr səɦmət̪ɪ nɪrmaːɳ d̪ʋaːraː ʋɛːʃʋɪk ʃaːn̪t̪ɪ ʋaː aːrt̪ʰɪk st̪ʰɪrt̪aː kaː sərʋsəmːət̪ ɡʱoːʂɳaːpət̪r əŋɡiːkaːr kɪjaː ɡəjaː] (buh-hoo-puhk-SHEE-yuh shee-KHUHR vahr-tah-OHN mayn GUH-huhn koot-nee-TEEK vee-MUHRSH owr suh-huh-muh-TEE neer-MAHN dvaah-RAH vy-SHVEEK SHAHN-tee vah ahr-THEEK stheer-TAH kah suhr-vuh-suhm-MUHT ghoh-shuh-nah-PUHTR uhng-gee-KAHR kee-YAH guh-YAH)",
+          "translation": "Through intense diplomatic deliberations and consensus-building in multilateral summit negotiations, a unanimous declaration for global peace and economic stability was adopted."
+        },
+        {
+          "target": "वैश्विक चुनौतियों के समाधान हेतु भारत ने संयुक्त राष्ट्र महासभा के पटल पर समानता, समावेशिता और मानवीय गरिमा पर आधारित नीति वक्तव्य प्रस्तुत किया।",
+          "reading": "Vaishvik chunautiyon ke samaadhaan hetu Bhaarat ne Sanyukt Raashtr Mahaasabha ke patal par samaanata, samaaveshita aur maanveey garima par aadhaarit neeti vaktavya prastut kiya. [ʋɛːʃʋɪk tʃʊnɔːt̪ɪjõː keː səmaːd̪ʱaːn ɦeːt̪ʊ bʱaːrət̪ neː sənjoːkt̪ raːʂʈr məɦaːsəbʱaː keː pəʈəl pər səmaːnt̪aː səmaːʋeːʃɪt̪aː ɔːr maːnʋiːj ɡərɪmaː pər aːd̪ʱaːrɪt̪ niːt̪ɪ ʋəkt̪əʋjə prəst̪ʊt̪ kɪjaː] (vy-SHVEEK choo-now-tee-YOHN kay suh-mah-DHAHN HAY-too BHAH-ruht nay suhn-YOOKT rahsh-truh muh-hah-suh-BHAH kay PUH-tuhl puhr suh-mahn-TAH, suh-mah-vay-shee-TAH owr mahn-VEE-yuh guh-ree-MAH puhr ah-dhah-REET nee-TEE vuhk-TUHV-yuh pruhs-TOOT kee-YAH)",
+          "translation": "To resolve global challenges, India presented a policy statement founded upon equality, inclusivity, and human dignity on the floor of the United Nations General Assembly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "शिखर नीति: पूर्ण सत्र संबोधन (Plenary), सर्वसम्मत घोषणापत्र (Consensus), वसुधैव कुटुम्बकम्!"
+      ],
+      "culturalNotes": [
+        "2023 के नई दिल्ली जी-20 शिखर सम्मेलन में 'नई दिल्ली लीडर्स घोषणापत्र' (New Delhi Leaders' Declaration) को 100% सर्वसम्मति से पारित किया गया, जिसमें यूक्रेन संकट और विकास प्राथमिकताओं पर ऐतिहासिक वैश्विक सहमति बनी।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"गवाह\":",
+          "prompt": "अंतरराष्ट्रीय सम्मेलन में सभी सदस्य देशों की उपस्थिति वाले मुख्य आधिकारिक सत्र को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 34.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फ़ैसला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («संविधान» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सरकार» का अनुचित स्थान)"
+            "पूर्ण सत्र / प्लेनरी सत्र (Plenary Session - Main formal assembly of all official delegates)",
+            "चाय-नाश्ता सत्र (अल्पाहार)",
+            "सांस्कृतिक संध्या (संगीत संध्या)",
+            "अनौपचारिक भ्रमण (सैर-सपाटा)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सम्मेलन के सर्वोच्च आधिकारिक मुख्य सत्र को «पूर्ण सत्र» (Plenary Session) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"गवाह\":",
+          "prompt": "शिखर सम्मेलन के सभी सदस्य राष्ट्रों की पूर्ण सहमति से अंगीकार किए जाने वाले साझा आधिकारिक दस्तावेज को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 34.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («संविधान» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सरकार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फ़ैसला» का अशुद्ध रूप)"
+            "सर्वसम्मत घोषणापत्र (Consensus Declaration - Unanimously adopted official summit communiqué)",
+            "समाचार पत्र की प्रति (न्यूज पेपर)",
+            "व्यक्तिगत डायरी (निजी नोट)",
+            "टिकट रसीद (यात्रा पर्ची)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सभी देशों की सहमति से जारी आधिकारिक दस्तावेज को «सर्वसम्मत घोषणापत्र» (Consensus Declaration) कहते हैं।"
         }
       ]
     },
@@ -14069,17 +14078,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"गवाह\": Which sentence is completely correct?",
+          "prompt": "वैश्विक शिखर सम्मेलन और बहुपक्षीय नीति (Global Summitry & Statecraft) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 34.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सरकार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फ़ैसला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («संविधान» से संबंधित)"
+            "शिखर सम्मेलनों में सर्वसम्मत घोषणापत्रों का अंगीकरण, समावेशी बहुपक्षवाद और 'वसुधैव कुटुम्बकम्' की भावना ही समकालीन विश्व को युद्ध और विभाजन से बचाकर शांति का पथ दिखाती है। (The adoption of consensus declarations at summits, inclusive multilateralism, and the spirit of 'Vasudhaiva Kutumbakam' steer the contemporary world away from war and division toward peace.)",
+            "शिखर सम्मेलन का उद्देश्य केवल महंगे होटलों में भोजन करना है।",
+            "घोषणापत्र को तुरंत फाड़कर अंतरराष्ट्रीय अराजकता फैलाना ही कूटनीति है।",
+            "पूर्ण सत्र में किसी को भी बोलने की अनुमति नहीं दी जानी चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«शिखर सम्मेलनों में सर्वसम्मत घोषणापत्रों का अंगीकरण, समावेशी बहुपक्षवाद और 'वसुधैव कुटुम्बकम्'... शांति का पथ दिखाती है» शिखर कूटनीति का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u34-l2": {
@@ -14087,53 +14097,62 @@
     "subject": "hindi",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "शिखर सम्मेलन और नीति वक्तव्य (C2 Capstone Statecraft) (Part 2)",
+    "title": "उच्चस्तरीय राजनयिक वार्ताएं और रणनीतिक साझेदारी (Diplomatic Negotiations & Strategic Partnerships)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.2) with authentic linguistic precision.",
+    "objective": "व्यापक रणनीतिक साझेदारी (Strategic Partnership), उच्चस्तरीय प्रतिनिधिमंडल वार्ता, मुक्त व्यापार समझौता (FTA) तथा रणनीतिक अभिसरण की उच्च कूटनीतिक शब्दावली में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "उच्चस्तरीय द्विपक्षीय वार्ताओं, रणनीतिक गठबंधनों और व्यापारिक संधियों के मानक नियम:\n\n1. **व्यापक वैश्विक रणनीतिक साझेदारी**:\n   - **बहुआयामी सहयोग** — रक्षा, अंतरिक्ष, साइबर सुरक्षा, असैन्य परमाणु ऊर्जा, सेमीकंडक्टर और उच्च प्रौद्योगिकी में दीर्घकालिक रणनीतिक गठबंधन;\n   - **रणनीतिक अभिसरण (Strategic Convergence)** — क्षेत्रीय व वैश्विक सुरक्षा के मुद्दों पर साझा दृष्टिकोण।\n\n2. **मुक्त व्यापार समझौते (FTA / CEPA)**:\n   - **व्यापक आर्थिक साझेदारी समझौता** — वस्तुओं और सेवाओं पर सीमा शुल्क (टैरिफ) को शून्य अथवा न्यूनतम करना तथा निवेश को संरक्षण देना;\n   - **आपूर्ति श्रृंखला का लचीलापन (Supply Chain Resilience)** — अति-निर्भरता से बचकर सुरक्षित व्यापारिक मार्ग तैयार करना।\n\n3. **उच्चस्तरीय प्रतिनिधिमंडल की कार्यप्रणाली**:\n   - *मंत्रिस्तरीय 2+2 वार्ता (विदेश व रक्षा मंत्री), अंतर-सरकारी आयोग तथा संयुक्त कार्यबल (Joint Working Groups)।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 34.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 34."
+          "target": "दोनों संप्रभु लोकतांत्रिक राष्ट्रों ने अपने द्विपक्षीय संबंधों को व्यापक रणनीतिक साझेदारी के सर्वोच्च स्तर तक उन्नत करने का ऐतिहासिक निर्णय लिया।",
+          "reading": "Donon samprabhu loktaantrik raashtron ne apne dvi-paksheey sambandhon ko vyaapak rananeetik saajhedaari ke sarvochch star tak unnat karne ka itihaasik nirnay liya. [d̪oːnõː səmprəbʱʊ loːkt̪aːn̪t̪rɪk raːʂʈrõː neː əpneː d̪ʋɪ-pəkʃiːj səmbən̪d̪ʱõː koː ʋjaːpək rəɳniːt̪ɪk saːdʒʱeːd̪aːriː keː sərʋoːtʃː st̪ər t̪ək ʊnːət̪ kərneː kaː ɪt̪ɪɦaːsɪk nɪrɳəj lɪjaː] (DOH-nohn suhm-pruh-BHOO lohk-tahn-TREEK rahsh-TROHN nay uhp-NAY dvee-puhk-SHEE-yuh suhm-buhn-DHOHN koh vyah-PUHK ruhn-nee-TEEK sah-jhay-DAH-ree kay suhr-VOHTCH STUHR tuhk OON-nuht KUHR-nay kah ee-tee-HAH-seek neer-NUY lee-YAH)",
+          "translation": "Both sovereign democratic nations took the historic decision to elevate their bilateral ties to the highest echelon of comprehensive strategic partnership."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 34-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "उच्चस्तरीय प्रतिनिधिमंडल की वार्ताओं के उपरांत महत्वपूर्ण मुक्त व्यापार समझौते और उन्नत रक्षा प्रौद्योगिकी साझेदारी पर हस्ताक्षर किए गए।",
+          "reading": "Uchcha-stareey pratinidhimandal ki vaartaaon ke upraant mahatvapoorna mukt vyaapaar samjhoute aur unnat raksha praudyogiki saajhedaari par hastaakshar kiye gaye. [ʊtʃːə-st̪əriːj prət̪ɪnɪd̪ʱɪməɳɖəl kiː ʋaːrt̪aːõː keː ʊpraːn̪t̪ məɦət̪ʋəpuːrɳ mʊkt̪ ʋjaːpaːr səmədʒʱɔːt̪eː ɔːr ʊnːət̪ rəkʃaː prɔːd̪joːɡɪkiː saːdʒʱeːd̪aːriː pər ɦəst̪aːkʃər kɪjeː ɡəjeː] (OOTCH-chuh-stuh-REE-yuh pruh-tee-nee-dhee-MUHN-duhl kee vahr-tah-OHN kay oop-RAHNT muh-huht-vuh-POOR-nuh MOOKT vyah-PAHR suhm-jhow-TAY owr OON-nuht RUHK-shah prow-dyoh-gee-KEE sah-jhay-DAH-ree puhr huhs-tahk-SHUHR kee-YAY guh-YAY)",
+          "translation": "Following the talks of the high-level delegation, significant free trade agreements and advanced defense technology partnerships were signed."
+        },
+        {
+          "target": "रणनीतिक अभिसरण और साझा लोकतांत्रिक मूल्यों ने दोनों देशों को अंतरराष्ट्रीय मंचों पर वैश्विक चुनौतियों का दृढ़ता से सामना करने की शक्ति दी।",
+          "reading": "Rananeetik abhisaran aur saajha loktaantrik moolyon ne donon deshon ko antarraashtreey manchon par vaishvik chunautiyon ka dridhata se saamna karne ki shakti dee. [rəɳniːt̪ɪk əbʱɪsərəɳ ɔːr saːdʒʱaː loːkt̪aːn̪t̪rɪk muːljõː neː d̪oːnõː d̪eːʃõː koː ən̪t̪rːaːʂʈriːj məntʃõː pər ʋɛːʃʋɪk tʃʊnɔːt̪ɪjõː kaː drɪɖʱt̪aː seː saːmnaː kərneː kiː ʃəkt̪ɪ d̪iː] (ruhn-nee-TEEK uh-bhee-suh-RUHN owr sah-JHAH lohk-tahn-TREEK MOOL-yohn nay DOH-nohn day-SHOHN koh uhn-tuhr-rahsh-TREE-yuh muhn-CHOHN puhr vy-SHVEEK choo-now-tee-YOHN kah DREEDH-tah say SAHM-nah KUHR-nay kee SHUHK-tee DEE)",
+          "translation": "Strategic convergence and shared democratic values empowered both countries to resolutely confront global challenges on international platforms."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रणनीतिक साझेदारी: व्यापक गठबंधन (Strategic Partnership), मुक्त व्यापार (FTA), रणनीतिक अभिसरण (Convergence)!"
+      ],
+      "culturalNotes": [
+        "भारत और संयुक्त अरब अमीरात (UAE) के बीच 2022 में हस्ताक्षरित 'सीईपीए' (CEPA) भारत का पहला व्यापक आर्थिक साझेदारी समझौता था, जिसने द्विपक्षीय व्यापार को रिकॉर्ड ऊंचाइयों पर पहुंचाया।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"फ़ैसला\":",
+          "prompt": "दो देशों के बीच व्यापारिक वस्तुओं और सेवाओं पर सीमा शुल्क घटाने या समाप्त करने वाले समझौते को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 34.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («संविधान» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सरकार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वतंत्रता» का अनुचित स्थान)"
+            "मुक्त व्यापार समझौता / एफटीए (Free Trade Agreement - Pact eliminating tariffs and trade barriers between nations)",
+            "सीमा सील समझौता (बॉर्डर बंद करना)",
+            "जेल बंदी समझौता (कैदी नियम)",
+            "सड़क मरम्मत समझौता (सड़क बनाना)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "व्यापारिक बाधाओं और शुल्कों को घटाने की संधि को «मुक्त व्यापार समझौता» (FTA) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"फ़ैसला\":",
+          "prompt": "दो संप्रभु राष्ट्रों के रक्षा, विदेश नीति और सुरक्षा दृष्टिकोण में गहरी समानता होने को कूटनीति में क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 34.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सरकार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वतंत्रता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («संविधान» का अशुद्ध रूप)"
+            "रणनीतिक अभिसरण (Strategic Convergence - Alignment of geopolitical, defense, and foreign policy perspectives)",
+            "व्यापारिक झगड़ा (व्यापार विवाद)",
+            "सीमा विवाद (क्षेत्रीय तनाव)",
+            "आंतरिक अशांति (दंगे-फसाद)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सुरक्षा और कूटनीतिक दृष्टिकोण की समानता को «रणनीतिक अभिसरण» (Strategic Convergence) कहते हैं।"
         }
       ]
     },
@@ -14141,17 +14160,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"फ़ैसला\": Which sentence is completely correct?",
+          "prompt": "रणनीतिक साझेदारी और उच्चस्तरीय कूटनीति (Strategic Partnerships & Diplomacy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 34.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वतंत्रता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («संविधान» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सरकार» से संबंधित)"
+            "व्यापक रणनीतिक साझेदारी, मुक्त व्यापार समझौतों का विस्तार और लोकतांत्रिक मूल्यों का रणनीतिक अभिसरण ही 21वीं सदी में संप्रभु राष्ट्रों के पारस्परिक विकास की आधारशिला हैं। (Comprehensive strategic partnership, expansion of free trade agreements, and strategic convergence of democratic values are the cornerstone of mutual development for sovereign nations in the 21st century.)",
+            "सभी विदेशी राजदूतों को जेल में बंद करके व्यापार बंद कर देना चाहिए।",
+            "मुक्त व्यापार का मतलब है कि बिना पैसे दिए सामान लूट लेना।",
+            "रणनीतिक साझेदारी केवल युद्ध का नाटक करने के लिए की जाती है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«व्यापक रणनीतिक साझेदारी, मुक्त व्यापार समझौतों का विस्तार और... आधारशिला हैं» रणनीतिक कूटनीति का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u34-l3": {
@@ -14159,53 +14179,62 @@
     "subject": "hindi",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "शिखर सम्मेलन और नीति वक्तव्य (C2 Capstone Statecraft) (Part 3)",
+    "title": "अंतर्राष्ट्रीय संकट प्रबंधन और मानवीय सहायता (International Crisis Management & Humanitarian Aid)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.3) with authentic linguistic precision.",
+    "objective": "अंतरराष्ट्रीय संकट प्रबंधन, राहत अभियान (Operation Ganga/Kaveri/Dost), आपदा कूटनीति तथा मानवीय सहायता की पारिभाषिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अंतरराष्ट्रीय संकट प्रबंधन, निकासी अभियान और मानवीय सहायता के मानक नियम:\n\n1. **त्वरित निकासी अभियान (Evacuation Operations)**:\n   - **ऑपरेशन गंगा (यूक्रेन 2022)**, **ऑपरेशन कावेरी (सूडान 2023)**, **ऑपरेशन अजय (इजरायल 2023)** — युद्धक्षेत्र से स्वदेशी नागरिकों व मित्र देशों के नागरिकों की सुरक्षित स्वदेश वापसी;\n   - **वायु सेना व नौसेना समन्वय** — सी-17 ग्लोबमास्टर विमानों और युद्धपोतों द्वारा जटिल हवाई व समुद्री निकासी।\n\n2. **आपदा कूटनीति एवं प्रथम प्रत्युत्तरदाता (First Responder)**:\n   - **ऑपरेशन दोस्त (तुर्की-सीरिया भूकंप 2023)** — एनडीआरएफ की विशेषज्ञ टीमों, डॉग स्क्वॉड और फील्ड अस्पताल द्वारा त्वरित खोज व बचाव कार्य;\n   - **वैक्सीन मैत्री** — वैश्विक महामारी के दौरान 100 से अधिक देशों को जीवनरक्षक टीकों की आपूर्ति।\n\n3. **मानवीय कानून एवं तटस्थ गलियारा**:\n   - *युद्धग्रस्त क्षेत्रों में निर्दोष नागरिकों की सुरक्षा हेतु 'तटस्थ मानवीय गलियारा' (Humanitarian Corridor) तथा जिनेवा अभिसमय के नियमों का पालन।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 34.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 34."
+          "target": "युद्धग्रस्त और आपदा-पीड़ित क्षेत्रों से भारतीय नागरिकों और विदेशी मित्रों को सकुशल निकालने हेतु चलाए गए निकासी अभियान भारत की उत्कृष्ट संकट प्रबंधन क्षमता के प्रतीक हैं।",
+          "reading": "Yuddh-grast aur aapda-peedit kshetron se Bhaarateey naagrikon aur videshi mitron ko sakushal nikaalne hetu chalaaye gaye nikaasi abhiyaan Bhaarat ki utkrisht sankat prabandhan kshamata ke prateek hain. [jʊd̪ːʱ-ɡrəst̪ ɔːr aːpdaː-piːɖɪt̪ kʃeːt̪rõː seː bʱaːrt̪iːj naːɡrɪkõː ɔːr ʋɪd̪eːʃiː mɪt̪rõː koː səkʊʃəl nɪkaːlneː ɦeːt̪ʊ tʃəlaːjeː ɡəjeː nɪkaːsiː əbʱɪjaːn bʱaːrət̪ kiː ʊt̪krɪʂʈ səŋkəʈ prəbən̪d̪ʱən kʃəmt̪aː keː prətniːk hɛ̃ː] (YOODH-gruhst owr ahp-DAH-pee-deet kshay-TROHN say bhahr-TEE-yuh nahg-ree-KOHN owr vee-day-SHEE MEET-rohn koh suh-KOO-shuhl nee-KAHL-nay HAY-too chuh-lah-YAY guh-YAY nee-KAH-see uh-bhee-YAHN BHAH-ruht kee oot-KREESHT suhn-KUHT pruh-buhn-DHAHN kshuh-muh-TAH kay pruh-TEEK hyhn)",
+          "translation": "Evacuation operations executed to safely extract Indian nationals and foreign friends from war-torn and disaster-stricken zones symbolize India's stellar crisis management capability."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 34-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भूकंप और महामारियों के दौरान मित्र राष्ट्रों को त्वरित गति से फील्ड अस्पताल, जीवनरक्षक दवाएं और राहत सामग्री पहुंचाकर भारत ने 'प्रथम प्रत्युत्तरदाता' का दायित्व निभाया।",
+          "reading": "Bhookamp aur mahaamaariyon ke dauraan mitr raashtron ko tvarit gati se field hospital, jeevan-rakshak davaayein aur raahat saamagree pahunchaakar Bhaarat ne 'first responder' ka daayitwa nibhaaya. [bʱuːkəmp ɔːr məɦaːmaːrijõː keː d̪ɔːraːn mɪt̪r raːʂʈrõː koː t̪ʋərɪt̪ ɡət̪ɪ seː fiːlɖ hɔːspɪʈəl dʒiːʋən-rəkʃək d̪əʋaːjẽː ɔːr raːɦət̪ saːmɡriː pəɦʊntʃaːkər bʱaːrət̪ neː fərst̪ rɪspɔːnɖər kaː d̪aːjɪt̪ʋə nɪbʱaːjaː] (bhoo-KUHMP owr muh-hah-mah-ree-YOHN kay DOW-rahn MEET-ruh rahsh-TROHN koh TVUH-reet GUH-tee say field hospital, JEE-vuhn-RUHK-shuhk duh-vah-YAYN owr RAH-huht sahm-guh-REE puh-hoon-CHAH-kuhr BHAH-ruht nay first responder kah dah-YEET-vuh nee-BHAH-yah)",
+          "translation": "By swiftly delivering field hospitals, life-saving medicines, and relief supplies to friendly nations during earthquakes and pandemics, India discharged the duty of a 'first responder.'"
+        },
+        {
+          "target": "अंतरराष्ट्रीय मानवीय कानून के सिद्धांतों के अनुरूप संघर्ष क्षेत्रों में निर्दोष नागरिकों की रक्षा और मानवीय गलियारों की स्थापना सर्वोच्च प्राथमिकता होनी चाहिए।",
+          "reading": "Antarraashtreey maanveey kanoon ke siddhaanton ke anuroop sangharsh kshetron mein nirdosh naagrikon ki raksha aur maanveey galiyaaron ki sthaapana sarvochch praathamikata honi chaahiye. [ən̪t̪rːaːʂʈriːj maːnʋiːj kaːnuːn keː sɪd̪ːʱaːn̪t̪õː keː ənʊruːp səŋɡʱərʂ kʃeːt̪rõː mẽː nɪrdoːʂ naːɡrɪkõː kiː rəkʃaː ɔːr maːnʋiːj ɡəliːjaːrõː kiː st̪ʰaːpnaː sərʋoːtʃː praːt̪ʰmɪkt̪aː hoːniː tʃaːɦɪjeː] (uhn-tuhr-rahsh-TREE-yuh mahn-VEE-yuh kah-noon kay seed-DHAHN-tohn kay uh-noo-ROOP suhng-GHUHRSH kshay-TROHN mayn neer-DOHSH nahg-ree-KOHN kee RUHK-shah owr mahn-VEE-yuh guh-lee-yah-ROHN kee sthah-puh-NAH suhr-VOHTCH prah-thuh-meek-TAH HOH-nee chah-HEE-yay)",
+          "translation": "In accordance with principles of international humanitarian law, the protection of innocent civilians in conflict zones and the establishment of humanitarian corridors must be the highest priority."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संकट प्रबंधन: निकासी अभियान (Operation Ganga/Kaveri), प्रथम प्रत्युत्तरदाता (First Responder), मानवीय गलियारा!"
+      ],
+      "culturalNotes": [
+        "तुर्की और सीरिया में आए विनाशकारी भूकंप में भारत ने 'ऑपरेशन दोस्त' के तहत 24 घंटे के भीतर सेना की मेडिकल यूनिट और एनडीआरएफ दल तैनात कर वैश्विक स्तर पर प्रशंसा अर्जित की।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"संविधान\":",
+          "prompt": "युद्ध अथवा प्राकृतिक आपदा के समय नागरिकों को सुरक्षित निकालने हेतु स्थापित किए जाने वाले सुरक्षित मार्ग को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 34.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सरकार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वतंत्रता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नमस्ते» का अनुचित स्थान)"
+            "मानवीय गलियारा (Humanitarian Corridor - Safe demilitarized transit route for civilians in conflict zones)",
+            "भूमिगत सुरंग (गुप्त रास्ता)",
+            "रेलवे प्लेटफॉर्म (ट्रेन पटरी)",
+            "खेल मैदान (स्टेडियम)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "युद्ध क्षेत्र में नागरिकों की सुरक्षित निकासी के तटस्थ मार्ग को «मानवीय गलियारा» (Humanitarian Corridor) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"संविधान\":",
+          "prompt": "किसी देश में आपदा या संकट आने पर सबसे पहले बिना देरी किए राहत और सहायता पहुंचाने वाले देश को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 34.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वतंत्रता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नमस्ते» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सरकार» का अशुद्ध रूप)"
+            "प्रथम प्रत्युत्तरदाता (First Responder - Nation providing immediate initial humanitarian disaster assistance)",
+            "तटस्थ मूकदर्शक (चुपचाप देखने वाला)",
+            "कड़ा विरोधी (शत्रु देश)",
+            "उदासीन दर्शक (लापरवाह देश)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "आपदा के समय तत्काल सहायता करने वाले देश को अंतरराष्ट्रीय कूटनीति में «प्रथम प्रत्युत्तरदाता» (First Responder) कहा जाता है।"
         }
       ]
     },
@@ -14213,17 +14242,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"संविधान\": Which sentence is completely correct?",
+          "prompt": "अंतरराष्ट्रीय संकट प्रबंधन और मानवीय सहायता (Crisis Management & Humanitarian Aid) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 34.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नमस्ते» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सरकार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वतंत्रता» से संबंधित)"
+            "कुशल संकट प्रबंधन, त्वरित निकासी अभियान और आपदा के समय 'प्रथम प्रत्युत्तरदाता' के रूप में मानवीय सहायता प्रदान करना ही भारत को विश्व का विश्वसनीय कल्याणकारी स्तंभ बनाता है। (Skilled crisis management, swift evacuation operations, and providing humanitarian aid as a 'first responder' during disasters make India a trusted welfare pillar of the world.)",
+            "संकट के समय पीड़ितों को छोड़कर भाग जाना ही संकट प्रबंधन है।",
+            "ऑपरेशन दोस्त का अर्थ केवल दोस्तों के साथ पिकनिक मनाना है।",
+            "मानवीय सहायता पर रोक लगाकर लोगों को भूख से मरने देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कुशल संकट प्रबंधन, त्वरित निकासी अभियान और आपदा के समय 'प्रथम प्रत्युत्तरदाता'... विश्वसनीय कल्याणकारी स्तंभ बनाता है» संकट प्रबंधन का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u34-l4": {
@@ -14231,53 +14261,62 @@
     "subject": "hindi",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "शिखर सम्मेलन और नीति वक्तव्य (C2 Capstone Statecraft) (Part 4)",
+    "title": "संविधान, न्यायपालिका और संप्रभु शासन कला (Constitutionalism, Judiciary & Governance)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.4) with authentic linguistic precision.",
+    "objective": "संवैधानिक सर्वोच्चता, विधि का शासन (Rule of Law), स्वतंत्र न्यायपालिका, मूल ढांचा सिद्धांत तथा लोक कल्याणकारी राज्य के समग्र शासनशास्त्र में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संवैधानिक शासन, संप्रभु न्यायशास्त्र और राज्यशिल्प के मानक नियम:\n\n1. **संवैधानिक सर्वोच्चता एवं विधि का शासन (Rule of Law)**:\n   - **संविधान की सर्वोच्चता** — कार्यपालिका, विधायिका और न्यायपालिका सभी संविधान के अधीन हैं (कोई भी कानून या पद संविधान से ऊपर नहीं);\n   - **विधि के समक्ष समानता (अनुच्छेद 14)** — किसी भी नागरिक के साथ जाति, धर्म, लिंग या वर्ग के आधार पर भेदभाव नहीं।\n\n2. **स्वतंत्र न्यायपालिका एवं मूल ढांचा सिद्धांत (Basic Structure Doctrine)**:\n   - **केशवानंद भारती केस (1973)** — संसद को संविधान में संशोधन की शक्ति है, परंतु वह संविधान के 'मूल ढांचे' (लोकतंत्र, धर्मनिरपेक्षता, न्यायपालिका की स्वतंत्रता, मौलिक अधिकार) को नष्ट नहीं कर सकती;\n   - **न्यायिक समीक्षा (Judicial Review)** — असंवैधानिक कानूनों को अमान्य घोषित करने का सर्वोच्च न्यायालय का अधिकार।\n\n3. **लोक कल्याणकारी राज्य (Welfare State)**:\n   - *राज्य के नीति निर्देशक तत्वों (DPSP) के अंतर्गत सामाजिक न्याय, आर्थिक समानता, अंत्योदय और पोषण-स्वास्थ्य की गारंटी।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 34.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 34."
+          "target": "संविधान की सर्वोच्चता, स्वतंत्र न्यायपालिका और विधि का शासन ही भारतीय लोकतंत्र को विश्व का सबसे जीवंत और स्थायी गणराज्य बनाते हैं।",
+          "reading": "Samvidhaan ki sarvochchata, swatantr nyaayapaalika aur vidhi ka shaasan hi Bhaarateey loktantr ko vishwa ka sabse jeevant aur sthaayi ganaraajya banaate hain. [səmʋɪd̪ʱaːn kiː sərʋoːtʃːt̪aː sʋət̪ən̪t̪r njaːjəpaːlɪkaː ɔːr ʋɪd̪ʱɪ kaː ʃaːsən ɦiː bʱaːrt̪iːj loːkt̪ən̪t̪r koː ʋɪʃʋə kaː səbseː dʒiːʋən̪t̪ ɔːr st̪ʰaːjiː ɡəɳraːdʒjə bənaːt̪eː hɛ̃ː] (suhm-vee-DHAHN kee suhr-vohtch-tah, svuh-TUHN-truh nyah-yuh-pah-LEE-kah owr VEE-dhee kah SHAH-suhn HEE bhahr-TEE-yuh lohk-TUHN-truh koh VEESH-vuh kah SUHB-say jee-VUHNTH owr sthah-YEE guhn-rahj-YUH buh-nah-TAY hyhn)",
+          "translation": "Constitutional supremacy, an independent judiciary, and the rule of law make Indian democracy the most vibrant and enduring republic in the world."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 34-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "माननीय सर्वोच्च न्यायालय द्वारा प्रतिपादित 'संविधान के मूल ढांचे का सिद्धांत' नागरिकों के मौलिक अधिकारों और लोकतांत्रिक संस्थाओं का अमर सुरक्षा कवच है।",
+          "reading": "Maananeey Sarvochch Nyaayaalay dvaara pratipaadit 'samvidhaan ke mool dhaanche ka siddhaant' naagrikon ke maulik adhikaaron aur loktaantrik sansthaaon ka amar suraksha kavach hai. [maːnniːj sərʋoːtʃː njaːjaːləj d̪ʋaːraː prət̪ɪpaːd̪ɪt̪ səmʋɪd̪ʱaːn keː muːl d̪ʱaːntʃeː kaː sɪd̪ːʱaːn̪t̪ naːɡrɪkõː keː mɔːlɪk əd̪ʱɪkaːrõː ɔːr loːkt̪aːn̪t̪rɪk sənst̪ʰaːõː kaː əmər sʊrəkʃaː kəʋətʃ hɛː] (mahn-nee-YUH suhr-VOHTCH nyah-yah-LUHY dvaah-RAH pruh-tee-pah-DEET suhm-vee-DHAHN kay MOOL dhahn-CHAY kah seed-DHAHNT nahg-ree-KOHN kay MOW-leek uh-dhee-kah-ROHN owr lohk-tahn-TREEK suhns-thah-OHN kah uh-MUHR soo-RUHK-shah KUH-vuhch hy)",
+          "translation": "The 'Basic Structure Doctrine' propounded by the Hon'ble Supreme Court is an immortal protective shield for citizens' fundamental rights and democratic institutions."
+        },
+        {
+          "target": "नीति निर्देशक तत्वों के अनुरूप सामाजिक न्याय, आर्थिक समानता और अंत्योदय का संकल्प ही लोक कल्याणकारी शासन की सर्वोच्च कसौटी है।",
+          "reading": "Neeti nirdeshak tatvon ke anuroop saamaajik nyaay, aarthik samaanata aur antyoday ka sankalp hi lok-kalyaankaari shaasan ki sarvochch kasauti hai. [niːt̪ɪ nɪrd̪eːʃək t̪ət̪ʋõː keː ənʊruːp saːmaːdʒɪk njaːj aːrt̪ʰɪk səmaːnt̪aː ɔːr ən̪t̪joːd̪əj kaː səŋkəlp ɦiː loːk-kəljaːɳkaːriː ʃaːsən kiː sərʋoːtʃː kəsɔːʈiː hɛː] (nee-TEE neer-DAY-shuhk tuht-VOHN kay uh-noo-ROOP sah-mah-JEEK NYAHY, ahr-THEEK suh-mahn-TAH owr uhn-tyoh-DUHY kah suhn-KUHLP HEE lohk-kuhl-yahn-kah-REE SHAH-suhn kee suhr-VOHTCH kuh-SOW-tee hy)",
+          "translation": "In accordance with the Directive Principles of State Policy, the resolve for social justice, economic equality, and uplifting the last person (Antyodaya) is the supreme touchstone of welfare governance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संवैधानिक शासन: संविधान सर्वोच्चता, विधि का शासन (Rule of Law), मूल ढांचा (Basic Structure), अंत्योदय कल्याण!"
+      ],
+      "culturalNotes": [
+        "डॉ. भीमराव रामजी अंबेडकर की अध्यक्षता में प्रारूप समिति द्वारा तैयार भारतीय संविधान विश्व का सबसे बड़ा और विस्तृत लिखित संविधान है, जिसे 26 नवंबर 1949 को अंगीकार किया गया था।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सरकार\":",
+          "prompt": "1973 के विख्यात केशवानंद भारती मामले में सर्वोच्च न्यायालय द्वारा प्रतिपादित उस ऐतिहासिक सिद्धांत को क्या कहते हैं, जो संसद को संविधान के बुनियादी स्वरूप को बदलने से रोकता है?",
           "options": [
-            "हम इस पाठ में इकाई 34.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वतंत्रता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नमस्ते» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («धन्यवाद» का अनुचित स्थान)"
+            "मूल ढांचा सिद्धांत (Basic Structure Doctrine - Constitutional doctrine preserving foundational pillars)",
+            "आपातकाल सिद्धांत (इमरजेंसी नियम)",
+            "राष्ट्रपति शासन (अनुच्छेद 356)",
+            "संसद का विशेषाधिकार (संसदीय नियम)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "संविधान की आधारभूत संरचना की रक्षा करने वाले सिद्धांत को «मूल ढांचा सिद्धांत» (Basic Structure Doctrine) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सरकार\":",
+          "prompt": "समाज के अंतिम पंक्ति में खड़े निर्धनतम व्यक्ति के कल्याण और उत्थान के भारतीय दार्शनिक संकल्प को क्या संज्ञा दी गई है?",
           "options": [
-            "हम इस पाठ में इकाई 34.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नमस्ते» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («धन्यवाद» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वतंत्रता» का अशुद्ध रूप)"
+            "अंत्योदय (Antyodaya - Welfare and empowerment of the last and poorest person in society)",
+            "सूर्योदय (सूर्य का निकलना)",
+            "चंद्रोदय (चंद्रमा का निकलना)",
+            "मध्याह्न (दोपहर का समय)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "समाज के निर्धनतम व्यक्ति तक विकास का लाभ पहुंचाने के दर्शन को «अंत्योदय» कहा जाता है।"
         }
       ]
     },
@@ -14285,17 +14324,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सरकार\": Which sentence is completely correct?",
+          "prompt": "संविधान, न्यायपालिका और संप्रभु शासन (Constitutionalism & Governance) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 34.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («धन्यवाद» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वतंत्रता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नमस्ते» से संबंधित)"
+            "संवैधानिक सर्वोच्चता, विधि का शासन, स्वतंत्र न्यायपालिका और अंत्योदय का कल्याणकारी संकल्प ही भारत को एक सशक्त, न्यायप्रिय और संप्रभु लोकतांत्रिक गणराज्य बनाते हैं। (Constitutional supremacy, the rule of law, an independent judiciary, and the welfare resolve of Antyodaya make India a potent, just, and sovereign democratic republic.)",
+            "संविधान को फाड़कर फेंक देना चाहिए और तानाशाही लागू करनी चाहिए।",
+            "विधि के शासन का मतलब है कि कानून केवल अमीरों के लिए काम करेगा।",
+            "मूल ढांचा सिद्धांत केवल भवन निर्माण करने का नियम है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«संवैधानिक सर्वोच्चता, विधि का शासन, स्वतंत्र न्यायपालिका और अंत्योदय का कल्याणकारी संकल्प... गणराज्य बनाते हैं» संवैधानिक विधि का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u34-l5": {
@@ -14303,53 +14343,62 @@
     "subject": "hindi",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "शिखर सम्मेलन और नीति वक्तव्य (C2 Capstone Statecraft) (Part 5)",
+    "title": "हिंदी भाषा, संस्कृति व समग्र राष्ट्रीय समेकन (Hindi Language, Heritage & C2 Capstone Mastery)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 34.5) with authentic linguistic precision.",
+    "objective": "देवनागरी लिपि, समृद्ध शब्द-भंडार, साहित्यिक विमर्श, सांस्कृतिक एकात्मता तथा 170 पाठों के समग्र हिंदी पाठ्यक्रम में C2 स्तर की पूर्ण देशीय प्रवीणता प्रमाणित करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संपूर्ण हिंदी पाठ्यक्रम (इकाई 1 से 34, कुल 170 पाठ) का महा-संश्लेषण और C2 निष्णातता:\n\n1. **देवनागरी लिपि एवं ध्वन्यात्मक परिष्कार**:\n   - वैज्ञानिक वर्णमाला (स्वर, व्यंजन, संयुक्त व्यंजन, अनुस्वार, विसर्ग), सटीक वर्तनी और उच्चारण;\n   - 'जैसा बोला जाता है, वैसा ही लिखा जाता है' — विश्व की सर्वाधिक वैज्ञानिक लिपि।\n\n2. **व्याकरण, पद-विन्यास एवं बहुआयामी शब्द-भंडार**:\n   - कारक-परसर्ग, काल, वाच्य, लिंग-वचन समन्वय तथा संधि-समास की त्रुटिहीन साधना;\n   - तत्सम (संस्कृत), तद्भव, देशज और आगत (अरबी-फारसी-तुर्की-अंग्रेजी) शब्दों का अद्भुत सांस्कृतिक समन्वय।\n\n3. **ज्ञान-विज्ञान, साहित्य और राज्यशिल्प का समेकन**:\n   - *दैनिक जीवन से लेकर वैदिक दर्शन, छायावादी साहित्य, पत्रकारिता, अंतरिक्ष विज्ञान (इसरो), कृत्रिम बुद्धिमत्ता, विदेश नीति और संवैधानिक विधि तक हिंदी अभिव्यक्ति का पूर्ण साम्राज्य।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 34.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 34."
+          "target": "देवनागरी लिपि का ध्वन्यात्मक सौंदर्य, तत्सम-तद्भव शब्दों की विपुल समृद्धि और व्याकरणिक परिष्कार हिंदी को विश्व भाषा बनाते हैं।",
+          "reading": "Devanaagari lipi ka dhvanyaatmak saundarya, tatsam-tadbhav shabdon ki vipul samriddhi aur vyaakaranik parishkaar Hindi ko vishwa bhaasha banaate hain. [d̪eːʋnaːɡriː lɪpɪ kaː d̪ʱʋənjaːt̪mək sɔːn̪d̪ərjə t̪ət̪səm-t̪əd̪bʱəʋ ʃəbd̪õː kiː ʋɪpʊl səmrd̪ːʱɪ ɔːr ʋjaːkrəɳɪk pərɪʂkaːr ɦɪn̪d̪iː koː ʋɪʃʋə bʱaːʂaː bənaːt̪eː hɛ̃ː] (dayv-NAH-guh-ree LEE-pee kah dhvuhn-yaht-MUK sown-DUHR-yuh, tuht-SUHM-tuhd-BHUHV shuhb-DOHN kee vee-POOL suhm-REED-dhee owr vyah-kuh-ruh-NEEK puh-reesh-KAHR HEEN-dee koh VEESH-vuh bhah-SHAH buh-nah-TAY hyhn)",
+          "translation": "The phonetic beauty of the Devanagari script, the boundless richness of Tatsama and Tadbhava lexicon, and grammatical refinement make Hindi a global language."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 34-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वैदिक काल, भक्ति आंदोलन और स्वतंत्रता संग्राम से लेकर आधुनिक विज्ञान व कूटनीति तक हिंदी भाषा भारतीय सभ्यता के चिंतन का अमर संवाहक रही है।",
+          "reading": "Vaidik kaal, Bhakti aandolan aur swatantrata sangraam se lekar aadhunik vigyaan va kootneeti tak Hindi bhaasha Bhaarateey sabhyata ke chintan ka amar samvaahak rahi hai. [ʋɛːd̪ɪk kaːl bʱəkt̪ɪ aːn̪d̪oːlən ɔːr sʋət̪ən̪t̪rt̪aː səŋɡraːm seː leːkər aːd̪ʱʊnɪk ʋɪdʒɲaːn ʋaː kuːt̪niːt̪ɪ t̪ək ɦɪn̪d̪iː bʱaːʂaː bʱaːrt̪iːj səbʱjət̪aː keː tʃɪn̪t̪ən kaː əmər səmʋaːɦək rəɦiː hɛː] (vy-DEEK KAHL, BHUHK-tee ahn-DOH-luhn owr svuh-tuhn-truh-TAH suhng-GRAHM say LAY-kuhr ah-dhoo-NEEK veeg-YAHN vah koot-nee-TEE tuhk HEEN-dee bhah-SHAH bhahr-TEE-yuh suhbh-yuh-TAH kay CHEEN-tuhn kah uh-MUHR suhm-vah-HUHK ruh-HEE hy)",
+          "translation": "From the Vedic era, Bhakti movement, and freedom struggle up to modern science and diplomacy, the Hindi language has been the immortal bearer of Indian civilization's thought."
+        },
+        {
+          "target": "170 पाठों के इस समग्र अध्ययन के उपरांत आपने हिंदी व्याकरण, उच्चस्तरीय साहित्य, दर्शन, विज्ञान, विधि और राज्यशिल्प में C2 स्तर की पूर्ण विद्वता प्राप्त कर ली है।",
+          "reading": "170 paathon ke is samagr adhyayan ke upraant aapne Hindi vyaakaran, uchcha-stareey saahitya, darshan, vigyaan, vidhi aur raajyashilp mein C2 star ki poorna vidvata praapt kar lee hai. [eːk sɔː sət̪ːər paːʈʰõː keː ɪs səməɡrə əd̪ʱjəjən keː ʊpraːn̪t̪ aːpneː ɦɪn̪d̪iː ʋjaːkrəɳ ʊtʃːə-st̪əriːj saːɦɪt̪jə d̪ərʃən ʋɪdʒɲaːn ʋɪd̪ʱɪ ɔːr raːdʒjəʃɪlp mẽː siː-ʈuː st̪ər kiː puːrɳ ʋɪd̪ʋət̪aː praːpt̪ kər liː hɛː] (AYK SOW suht-TUHR pah-THOHN kay ees suh-MUH-gruh uhdh-yuh-YUN kay oop-RAHNT ahp-NAY HEEN-dee vyah-kuh-RUHN, OOTCH-chuh-stuh-REE-yuh sah-HEET-yuh, DUHR-shuhn, veeg-YAHN, VEE-dhee owr rahj-yuh-SHEELP mayn C2 STUHR kee POOR-nuh veed-vuh-TAH PRAHPT kuhr LEE hy)",
+          "translation": "Following this comprehensive study of 170 lessons, you have attained full C2-level erudition across Hindi grammar, advanced literature, philosophy, science, law, and statecraft."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "महा-समेकन: 34 इकाइयां, 170 पाठ, व्याकरण-साहित्य-दर्शन-विज्ञान-कूटनीति, C2 पूर्ण प्रवीणता!"
+      ],
+      "culturalNotes": [
+        "14 सितंबर 1949 को संविधान सभा ने हिंदी को भारत संघ की आधिकारिक राजभाषा (Official Language of the Union) के रूप में अंगीकार किया, जिसे प्रतिवर्ष 'हिंदी दिवस' के रूप में धूमधाम से मनाया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"स्वतंत्रता\":",
+          "prompt": "हिंदी भाषा किस प्राचीन एवं सर्वाधिक वैज्ञानिक लिपि में लिखी जाती है?",
           "options": [
-            "हम इस पाठ में इकाई 34.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नमस्ते» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («धन्यवाद» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कृपया» का अनुचित स्थान)"
+            "देवनागरी लिपि (Devanagari Script - Scientific phonetic writing system of Hindi and Sanskrit)",
+            "रोमन लिपि (अंग्रेजी वर्णमाला)",
+            "अरबी लिपि (दाएं से बाएं लिपि)",
+            "रूसी सिरिलिक लिपि (रूसी वर्णमाला)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "हिंदी भाषा की आधिकारिक और वैज्ञानिक लिपि «देवनागरी» है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"स्वतंत्रता\":",
+          "prompt": "भारत में प्रतिवर्ष 14 सितंबर को कौन सा राष्ट्रीय दिवस हर्षोल्लास से मनाया जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 34.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («धन्यवाद» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कृपया» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नमस्ते» का अशुद्ध रूप)"
+            "राष्ट्रीय हिंदी दिवस (National Hindi Day - Commemorating Hindi's adoption as official language in 1949)",
+            "राष्ट्रीय विज्ञान दिवस (28 फरवरी)",
+            "शिक्षक दिवस (5 सितंबर)",
+            "बाल दिवस (14 नवंबर)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "14 सितंबर को पूरे देश में «राष्ट्रीय हिंदी दिवस» मनाया जाता है।"
         }
       ]
     },
@@ -14357,17 +14406,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"स्वतंत्रता\": Which sentence is completely correct?",
+          "prompt": "हिंदी पाठ्यक्रम और महा-समेकन (Hindi Curriculum & C2 Grand Capstone Synthesis) का सर्वोत्कृष्ट प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 34.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कृपया» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नमस्ते» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («धन्यवाद» से संबंधित)"
+            "देवनागरी लिपि की वैज्ञानिकता, समृद्ध व्याकरणिक सौंदर्य, उत्कृष्ट साहित्य, अद्वैत दर्शन, अत्याधुनिक विज्ञान और संप्रभु राज्यशिल्प का यह 170 पाठों का समग्र समेकन हिंदी भाषा को विश्व मंच पर मानवता के शाश्वत ज्ञान का आलोकस्तंभ बनाता है। (This comprehensive synthesis of 170 lessons across Devanagari scientific phonetics, rich grammatical beauty, sublime literature, Advaita philosophy, cutting-edge science, and sovereign statecraft makes the Hindi language an eternal beacon of humanity's knowledge on the world stage.)",
+            "हिंदी भाषा सीखने का कोई लाभ नहीं है क्योंकि यह बहुत पुरानी भाषा है।",
+            "170 पाठ पूरे करने के बाद भी हिंदी में केवल दो शब्द ही सीखे जा सकते हैं।",
+            "देवनागरी लिपि को समाप्त करके केवल चित्र बनाकर बातें करनी चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«देवनागरी लिपि की वैज्ञानिकता, समृद्ध व्याकरणिक सौंदर्य, उत्कृष्ट साहित्य, अद्वैत दर्शन, अत्याधुनिक विज्ञान और संप्रभु राज्यशिल्प... आलोकस्तंभ बनाता है» C2 स्तर की पूर्ण हिंदी प्रवीणता का सर्वोत्कृष्ट महा-समेकन वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   }
 };
