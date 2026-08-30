@@ -6788,85 +6788,62 @@
     "subject": "amharic",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography) (ክፍል 1)",
+    "title": "የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian Seasons)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ አራቱ ወቅቶች (መኸር፣ በጋ፣ ፀደይ፣ ክረምት) እና የተፈጥሮ ሀብት። (ክፍል 1)።",
+    "objective": "አራቱን ወቅቶች (በጋ፣ ክረምት፣ መኸር፣ ፀደይ/በልግ) እና ባህሪያቸውን መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ አራቱ ወቅቶች እና ባህሪያቸው:\n\n፩. አራቱ ወቅቶች:\n- በጋ (ጥቅምት - ጥር): ደረቅና ፀሐያማ ወቅት ሲሆን በቀን ሞቃታማ፣ በሌሊት ደግሞ ቀዝቃዛ ነው።\n- በልግ / ፀደይ (የካቲት - ግንቦት): አነስተኛ የዝናብ መጠን የሚዘንብበትና አበባ የሚያብብበት ወቅት ነው።\n- ክረምት (ሰኔ - ነሐሴ): ዋናው ከባድ የዝናብ ወቅት ሲሆን ወንዞች የሚሞሉበትና ምድር የምትለሰልስበት ነው።\n- መኸር (መስከረም - ኅዳር): ሰብል የሚደርስበት፣ አደይ አበባ የሚፈካበትና አዝመራ የሚሰበሰብበት ወቅት ነው።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«በ... ወቅት» (During the season of...):\n- «በክረምት ወቅት ከባድ ዝናብ ይዘንባል»\n- «በመኸር ወቅት ምድሪቱ በአደይ አበባ ታሸበርቃለች»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)' to the students."
+          "target": "በክረምት ወቅት በኢትዮጵያ ከፍተኛ ዝናብ ስለሚዘንብ ወንዞችና ሐይቆች በውሃ ይሞላሉ።",
+          "reading": "Bä-Kərremt wäqət bä-Ityop’ya käftänya zənab səlämmizänəb wänzroččənna hayqočč bäwəha yəmmolallu. [bɛkɨrːɛmt wɛkʼt bɛʔitjoˈpʼja kɛfˈtɛɲa zɨˈnab sɨlɛmːizɛˈnɨb wɛnzroˈtʃːɨnːa hajˈkʼotʃː bɛwɨˈha jɨmːoˈlalːu] (beh-kur-REMT wehk'-T beh-eet-YOHP-yah kef-TEN-yah zuh-NAHB suh-lem-mee-zeh-NUB wenz-rohch-CHUN-nah hy-k'ohch-CH beh-wuh-HAH yoom-moh-LAHL-loo)",
+          "translation": "During the Kiremt season, because heavy rain falls in Ethiopia, rivers and lakes fill with water."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በመስከረም ወር በመኸር ወቅት ቢጫው አደይ አበባ ሜዳውን በሙሉ ያስውበዋል።",
+          "reading": "Bä-Mäskäräm wär bä-Mähär wäqət bič’aw Adey Abäba medawən bämullu yaswəbäwall. [bɛmɛskɛˈrɛm wɛr bɛmɛˈhɛr wɛkʼt bitʃʼaw ʔaˈdɛj ʔabɛˈba meˈdawɨn bɛmulːu jaswɨˈbɛwalː] (beh-mes-keh-REM wer beh-meh-HER wehk'-T bee-ch'ow ah-DEY ah-beh-BAH may-dow-UN beh-mool-LOO yahs-wuh-BEW-wahl)",
+          "translation": "In the month of Meskerem during the Meher season, the yellow Adey Abeba flower beautifies the entire meadow."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በጋ ሲገባ አርሶ አደሮች የደረሰውን ሰብል በደስታ ይሰበስባሉ።",
+          "reading": "Bäga sigäba arso addäročč yädärräsäwən säbl bädässəta yəsäbäsəballu. [bɛˈɡa siɡɛˈba ʔarˈso ʔadːɛˈrotʃː jɛdɛrːɛˈsɛwɨn sɛbl bɛdɛsːɨˈta jɨsɛbɛsɨˈbalːu] (beh-GAH see-geh-BAH ahr-SOH ahd-deh-rohch-CH yeh-der-reh-SEW-un seb-L beh-des-suh-TAH yuh-seh-beh-suh-BAHL-loo)",
+          "translation": "When Bega arrives, farmers happily harvest the ripened crop."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Four Seasons: ክረምት (Rainy) -> መኸር (Harvest) -> በጋ (Sunny) -> ፀደይ (Spring)!"
+      ],
+      "culturalNotes": [
+        "በመስከረም ወር (የኢትዮጵያ አዲስ ዓመት) የሚፈካው ቢጫው አደይ አበባ የክረምት ዝናብ ማለፉንና የመኸር ብሩህ ተስፋ መምጣቱን የሚያበስር ታላቅ ባህላዊ ምልክት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«The rainy season and the harvest season» የሚለውን በአማርኛ ትክክለኛ የወቅት ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (15.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (15.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (15.1.w3)"
+            "ክረምት እና መኸር (The rainy season and the harvest season - Correct seasonal nouns)",
+            "ጠዋት እና ማታ",
+            "ሰኞ እና አርብ",
+            "ጥር እና የካቲት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ክረምት» እና «መኸር» ሁለቱን ዋና ዋና የኢትዮጵያ ወቅቶች ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u15-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Adey Abeba flowers bloom in Meher' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (15.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (15.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (15.1.x3)"
+            "በመኸር ወቅት አደይ አበባ ያብባል። (Adey Abeba flowers bloom in Meher - Accurate seasonal phenomenon)",
+            "በክረምት አበባ የለም",
+            "መኸር ደረቅ ነው",
+            "አደይ አበባ አይፈካም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (15.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (15.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (15.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በመኸር ወቅት አደይ አበባ ያብባል» የመኸር ወቅትን ውበትና የአደይ አበባን መፈካት በትክክል ያሳያል።"
         }
       ]
     },
@@ -6874,24 +6851,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 15-1):",
+          "prompt": "የኢትዮጵያን አራቱን ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (15.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (15.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (15.1.z3)"
+            "በጋ፣ ክረምት፣ መኸር እና ፀደይ (በልግ)።",
+            "ዳቦ፣ እንጀራ፣ ወጥ እና ጠጅ።",
+            "ላሊበላ፣ ጎንደር፣ አክሱም እና ሐረር።",
+            "በኢትዮጵያ ወቅቶች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ አራቱን የኢትዮጵያ ወቅቶች በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u15-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአየር»):",
+          "prompt": "'ክረምት / Rainy season, winter' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአየር",
-            "የአየር"
+            "ክረምት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአየር» ነው።"
+          "explanation": "ትክክለኛው ቃል «ክረምት» (Kərremt) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6902,85 +6878,62 @@
     "subject": "amharic",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography) (ክፍል 2)",
+    "title": "የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily Weather Expressions)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ አራቱ ወቅቶች (መኸር፣ በጋ፣ ፀደይ፣ ክረምት) እና የተፈጥሮ ሀብት። (ክፍል 2)።",
+    "objective": "የዕለት ተዕለት የአየር ሁኔታን (ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ፣ ሙቀት) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዕለት ተዕለት የአየር ሁኔታ ገላጭ ቃላት:\n\n፩. የአየር ሁኔታ ዓይነቶች:\n- ፀሐያማ: ሰማዩ ክፍት የሆነና ብሩህ ፀሐይ ያለበት።\n- ዝናባማ: ዝናብ የሚዘንብበት እርጥበታማ የአየር ሁኔታ።\n- ደመናማ: ሰማዩ በደመና የተሸፈነና ፀሐይ የተጋረደበት።\n- ንፋሻማ: ከፍተኛና ኃይለኛ ንፋስ የሚነፍስበት።\n- ጭጋጋማ: በጉም ወይም ጭጋግ ምክንያት እይታ የተጋረደበት።\n\n፪. ሙቀት እና ቅዝቃዜ:\n- ብርድ / ቅዝቃዜ: ዝቅተኛ የአየር ሙቀት መጠን።\n- ሙቀት: ከፍተኛ የአየር ሙቀት መጠን።\n\n፫. ሰዋሰዋዊ አገባብ:\n«ዛሬ አየሩ ... ነው» (Today the weather is...):\n- «ዛሬ አየሩ በጣም ፀሐያማና ሞቃታማ ነው»\n- «ውጭ በጣም ስለሚበርድ ጃኬት ልበስ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)' to the students."
+          "target": "ዛሬ በአዲስ አበባ የአየሩ ሁኔታ በጣም ፀሐያማና አስደሳች ነው።",
+          "reading": "Zare bä-Addis Ababa yä'ayäru huneta bät’am ts’ähayyaman-nna asdässačč näw. [zaˈre bɛʔadːis ʔabɛˈba jɛʔajɛˈru huneˈta bɛtʼam tsʼɛhajːaˈmanːa ʔasdɛsːatʃː nɛw] (zah-RAY beh-ahd-DEES ah-beh-BAH yeh-ah-yeh-ROO hoo-nay-TAH beh-T'AHM ts'eh-hy-yah-MAHN-nah ahs-des-SAHCH now)",
+          "translation": "Today in Addis Ababa the weather condition is very sunny and pleasant."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በማለዳው ሰማዩ ጭጋጋማ ስለነበር ተሽከርካሪዎች መብራት አብርተው ይጓዛሉ።",
+          "reading": "Bämalädaw sämayu č’əggaggama səlänäbbär täškärkariwočč mäbrat abrätäw yəgwazallu. [bɛmalɛˈdaw sɛmaˈju tʃʼɨɡːaɡːaˈma sɨlɛnɛbːɛr tɛʃkɛrkariˈwotʃː mɛbˈrat ʔabˈrɛtɛw jɨɡʷaˈzalːu] (beh-mah-leh-DOW seh-mah-YOO ch'ug-gahg-gah-MAH suh-leh-neb-BER tesh-ker-kah-ree-wohch-CH meb-RAHT ahb-reh-TEW yug-wah-ZAHL-loo)",
+          "translation": "Because the sky was foggy in the early morning, vehicles travel with headlights on."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ከሰዓት በኋላ ሰማዩ ደመናማ ሆነና ከባድ ዝናብ ከነጎድጓድ ጋር ጣለ።",
+          "reading": "Käsä'at bähwala sämayu dämännama honänna käbbad zənab känägogwəd gwad gara t’alä. [kɛsɛʔat bɛhʷaˈla sɛmaˈju dɛmɛnːaˈma hoˈnɛnːa kɛbːad zɨˈnab kɛnɛɡoɡʷɨd ɡʷad ɡaˈra tʼaˈlɛ] (keh-seh-AHT beh-hwah-LAH seh-mah-YOO deh-men-nah-MAH hoh-NEN-nah keb-BAHD zuh-NAHB keh-neh-gohg-WUD gwahd gah-RAH T'AH-leh)",
+          "translation": "In the afternoon, the sky became cloudy and heavy rain fell with thunder."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Sky Expressions: ፀሐያማ (Sunny) + ደመናማ (Cloudy) + ዝናባማ (Rainy) + ጭጋጋማ (Foggy)!"
+      ],
+      "culturalNotes": [
+        "አዲስ አበባ 'የዘላለማዊ ፀደይ ከተማ' በመባል ትታወቃለች፤ ዓመቱን ሙሉ መጠነኛና ተስማሚ የአየር ንብረት አላት።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Today the weather is sunny and warm» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (15.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (15.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (15.2.w3)"
+            "ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው። (Today the weather is sunny and warm - Accurate weather description)",
+            "ዛሬ ዝናብ በረዶ ነው",
+            "ዛሬ ጨለማ ነው",
+            "አየር የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው» የፀሐይንና የሙቀትን ሁኔታ በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u15-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Wear a jacket because it is cold' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (15.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (15.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (15.2.x3)"
+            "ስለሚበርድ ጃኬት ልበስ። (Wear a jacket because it is cold - Accurate practical weather advice)",
+            "ስለሚሞቅ ጃኬት አውልቅ",
+            "ብርድ የለም",
+            "ጃኬት አያስፈልግም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (15.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (15.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (15.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ስለሚበርድ ጃኬት ልበስ» ቅዝቃዜንና ተገቢ ልብስ መልበስን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -6988,24 +6941,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 15-2):",
+          "prompt": "የአየር ሁኔታ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (15.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (15.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (15.2.z3)"
+            "ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ እና ሙቀት።",
+            "እርሳስ፣ እስክሪብቶ እና ወረቀት።",
+            "ስኒ፣ ብርጭቆ እና ማንኪያ።",
+            "በአማርኛ የአየር ሁኔታ ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአየር ሁኔታ ገላጭ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u15-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአየር»):",
+          "prompt": "'ፀሐያማ / Sunny' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአየር",
-            "የአየር"
+            "ፀሐያማ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአየር» ነው።"
+          "explanation": "ትክክለኛው ቃል «ፀሐያማ» (Ts’ähayyama) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7016,85 +6968,62 @@
     "subject": "amharic",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography) (ክፍል 3)",
+    "title": "የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landforms & Water Bodies)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ አራቱ ወቅቶች (መኸር፣ በጋ፣ ፀደይ፣ ክረምት) እና የተፈጥሮ ሀብት። (ክፍል 3)።",
+    "objective": "የመልክዓ ምድር ገጽታዎችን (ተራራ፣ ሸለቆ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ፣ ስምጥ ሸለቆ) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት:\n\n፩. የመሬት አቀማመጥ:\n- ተራራ: ከፍተኛ ከፍታ ያለው ግዙፍ የመሬት ገጽታ (ለምሳሌ: ራስ ዳሸን ተራራ)።\n- ስምጥ ሸለቆ: በሁለት ከፍተኛ አምባዎች መካከል የሚገኝ ታላቅ የመሬት ስምጥጥ ነው።\n- ሜዳ: ሰፊና ጠፍጣፋ ለም መሬት።\n- ዋሻ: በተፈጥሮ የተፈጠረ የድንጋይ ውስጥ ዋሻ (ለምሳሌ: ሶፍ ዑመር ዋሻ)።\n\n፪. የውሃ አካላት:\n- ወንዝ: የሚፈስ የተፈጥሮ ውሃ (ለምሳሌ: ዓባይ ወንዝ፣ አዋሽ ወንዝ)።\n- ሐይቅ: በየብስ የተከበበ የውሃ አካል (ለምሳሌ: ጣና ሐይቅ፣ ላንጋኖ ሐይቅ)።\n- ፏፏቴ: ከከፍታ ቦታ ወደ ታች የሚወርድ ውብ የውሃ ፍሰት (ለምሳሌ: የጢስ ዓባይ ፏፏቴ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)' to the students."
+          "target": "ታላቁ የዓባይ ወንዝ ከጣና ሐይቅ ተነስቶ ረጅም ርቀት በመጓዝ ድንቅ የተፈጥሮ ኃይልን ያመነጫል።",
+          "reading": "Talaqu yä-Abay wänz kä-T’ana Hayq tänäsəto räğğəm rəqät bämägwaz dənq yätäfät’ro haylən yamänäč’all. [taˈlakʼu jɛʔaˈbaj wɛnz kɛtʼaˈna hajkʼ tɛnɛsɨˈto rɛdʒːɨm rɨkʼɛt bɛmɛɡʷaz dɨnkʼ jɛtɛfɛtʼˈro hajˈlɨn jamɛnɛˈtʃʼalː] (tah-LAH-k'oo yeh-ah-BY wenz keh-t'ah-NAH hyk' teh-neh-suh-TOH red-JUM ruh-K'ET beh-meg-WAHZ dunk' yeh-teh-fet'-ROH high-LUN yah-meh-neh-ch'AHL)",
+          "translation": "The Great Abay (Blue Nile) River originates from Lake Tana and travels a long distance generating wonderful natural energy."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የጢስ ዓባይ ፏፏቴ አስደናቂ የተፈጥሮ ውበት ያለውና በርካታ ጎብኚዎችን የሚስብ መስህብ ነው።",
+          "reading": "Yä-T’is Abay fwafoate asdännaqi yätäfät’ro wəbät yalläwənna bərkatta gobənyoččən yämmisəb mäs-həb näw. [jɛtʼis ʔaˈbaj fʷafwaˈte ʔasdɛnːaˈkʼi jɛtɛfɛtʼˈro wɨbɛt jalːɛˈwɨnːa bɨrkatːa ɡobɨˈɲotʃːɨn jɛmːiˈsɨb mɛshɨb nɛw] (yeh-T'EES ah-BY fwah-fwah-TAY ahs-den-nah-K'EE yeh-teh-fet'-ROH wub-BET yahl-lew-UN-nah bur-KAHT-tah goh-bun-yohch-CHUN yem-mee-SUB mes-HUB now)",
+          "translation": "The Tis Abay (Blue Nile Falls) waterfall is an attraction with fascinating natural beauty that draws many visitors."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በታላቁ የስምጥ ሸለቆ ውስጥ ውብ ሐይቆችና ልዩ የተፈጥሮ ሀብቶች ይገኛሉ።",
+          "reading": "Bätalaqu yä-Səmət’ Šäläqo wəst’ wəbb hayqoččənna ləyyu yätäfät’ro habtočč yəggänyallu. [bɛtaˈlakʼu jɛsɨmɨtʼ ʃɛlɛˈkʼo wɨstʼ wɨbː hajˈkʼotʃːɨnːa lɨjːu jɛtɛfɛtʼˈro habˈtotʃː jɨɡːɛˈɲalːu] (beh-tah-LAH-k'oo yeh-suh-MUT' sheh-leh-K'OH woos-T' wub-B hy-k'ohch-CHUN-nah luhy-YOO yeh-teh-fet'-ROH hahb-TOHCH-choo yug-gen-YAHL-loo)",
+          "translation": "Inside the Great Rift Valley, beautiful lakes and unique natural resources are found."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Geography Giants: ተራራ (Mountain) + ሸለቆ (Valley) + ወንዝ (River) + ፏፏቴ (Waterfall)!"
+      ],
+      "culturalNotes": [
+        "ዓባይ ወንዝ (Blue Nile) በኢትዮጵያ ታሪክና ስነ-ጽሑፍ ውስጥ 'የኢትዮጵያ የልብ ትርታ' በመባል የሚታወቅ ታላቅ የተፈጥሮ ሀብት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Mountain, river, and waterfall» የሚለውን በአማርኛ ትክክለኛ የመልክዓ ምድር ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (15.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (15.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (15.3.w3)"
+            "ተራራ፣ ወንዝ እና ፏፏቴ (Mountain, river, and waterfall - Correct geographical terms)",
+            "ወንበር፣ ጠረጴዛ እና በር",
+            "መኪና፣ ባቡር እና ታክሲ",
+            "ዳቦ፣ ወተት እና ሻይ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ተራራ»፣ «ወንዝ» እና «ፏፏቴ» ሦስቱን ቁልፍ የተፈጥሮ መልክዓ ምድር ገጽታዎች ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u15-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Tis Abay is a famous waterfall' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (15.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (15.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (15.3.x3)"
+            "ጢስ ዓባይ ታዋቂ ፏፏቴ ነው። (Tis Abay is a famous waterfall - Accurate geographical fact)",
+            "ጢስ ዓባይ ተራራ ነው",
+            "ጢስ ዓባይ ደረቅ መሬት ነው",
+            "ፏፏቴ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (15.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (15.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (15.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ጢስ ዓባይ ታዋቂ ፏፏቴ ነው» የጢስ ዓባይን የተፈጥሮ ምንነት በትክክል ያሳያል።"
         }
       ]
     },
@@ -7102,24 +7031,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 15-3):",
+          "prompt": "የመልክዓ ምድር ገጽታዎችንና የውሃ አካላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (15.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (15.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (15.3.z3)"
+            "ተራራ፣ ስምጥ ሸለቆ፣ ሜዳ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ እና ዋሻ።",
+            "ቤት፣ በር፣ ግድግዳ እና ጣሪያ።",
+            "ብርቱካን፣ ሙዝ እና አፕል ብቻ።",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመልክዓ ምድርና የውሃ አካላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u15-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአየር»):",
+          "prompt": "'ፏፏቴ / Waterfall' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአየር",
-            "የአየር"
+            "ፏፏቴ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአየር» ነው።"
+          "explanation": "ትክክለኛው ቃል «ፏፏቴ» (Fwafoate) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7130,85 +7058,62 @@
     "subject": "amharic",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography) (ክፍል 4)",
+    "title": "የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environmental Care & Green Legacy)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ አራቱ ወቅቶች (መኸር፣ በጋ፣ ፀደይ፣ ክረምት) እና የተፈጥሮ ሀብት። (ክፍል 4)።",
+    "objective": "የአካባቢ ጥበቃን፣ የችግኝ ተከላን (አረንጓዴ አሻራ) እና የተፈጥሮ ሀብት እንክብካቤን መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአካባቢ ጥበቃ እና የአረንጓዴ አሻራ ተነሳሽነት:\n\n፩. የአካባቢ ጥበቃ ተግባራት:\n- የችግኝ ተከላ: በየክረምቱ ቢሊዮን ችግኞችን በመትከል ደኖችን ማልማት።\n- የደን ጥበቃ: ዛፎችን ካለመቁረጥና ደኖችን ከእሳት ከመጠበቅ የሚመጣ እንክብካቤ።\n- የአፈር እንክብካቤ: የአፈር መሸርሸርን ለመከላከል እርከን መሥራትና ዛፎችን መትከል።\n- የውሃ ሀብት ጥበቃ: ወንዞችና ሐይቆች ከብክለት እንዲጠበቁ ማድረግ።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«... መትከል / መጠበቅ አለብን» (We must plant / protect...):\n- «አካባቢያችንን አረንጓዴ ለማድረግ ዛፎችን መትከል አለብን»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)' to the students."
+          "target": "በአረንጓዴ አሻራ መርሐ ግብር በሚሊዮን የሚቆጠሩ ዜጎች በየዓመቱ ችግኞችን ይተክላሉ።",
+          "reading": "Bä-Arängwade Aššara märha gəbr bämiliyon yämmiqot’t’äru zegočč bäyyäʿamätu čəgnyoččən yətäklallu. [bɛʔarɛnɡʷaˈde ʔaʃːaˈra mɛrˈha ɡɨbr bɛmilˈjon jɛmːikʼotʼːɛˈru zeˈɡotʃː bɛjːɛʔaˈmɛtu tʃʼɨɡɲoˈtʃːɨn jɨtɛkˈlalːu] (beh-ah-reng-wah-DAY ahsh-shah-RAH mer-HAH gub-R beh-meel-YOHN yem-mee-k'oht'-t'eh-ROO zay-GOHCH-choo bey-yeh-ah-meh-TOO ch'ug-nyohch-CHOON yuh-tek-LAHL-loo)",
+          "translation": "Under the Green Legacy initiative, millions of citizens plant tree seedlings every year."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ዛፎችን መትከልና ደኖችን መጠበቅ የአየር ንብረት ለውጥን ለመከላከል ወሳኝ ነው።",
+          "reading": "Zafoččən mätkälənna dänoččən mät’t’äbäq yä'ayär nəbrät läwt’ən lämäkkälakäl wäsany näw. [zafoˈtʃːɨn mɛtˈkɛlɨnːa dɛnoˈtʃːɨn mɛtʼːɛˈbɛkʼ jɛʔaˈjɛr nɨbˈrɛt lɛwˈtʼɨn lɛmɛkːɛlaˈkɛl wɛˈsaɲ nɛw] (zah-fohch-CHUN met-KEL-un-nah deh-nohch-CHOON met'-t'eh-BEK' yeh-ah-YER nub-RET lewt'-UN leh-mek-keh-lah-KEL weh-SAHNY now)",
+          "translation": "Planting trees and protecting forests is essential to combat climate change."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ወጣቶችና ተማሪዎች በአካባቢ ጽዳትና በዛፍ እንክብካቤ ዘመቻ ላይ በንቃት ተሳተፉ።",
+          "reading": "Wät’t’atoččənna tämariwočč bä'akabbabi ts’ədatənna bäzaf ənkəbəkabe zämäča lay bänəqat täsattäfu. [wɛtʼːaˈtotʃːɨnːa tɛmariˈwotʃː bɛʔakabːaˈbi tsʼɨdaˈtɨnːa bɛzaf ʔɨnkɨbɨkaˈbe zɛmɛˈtʃa laj bɛnɨˈkʼat tɛsatːɛˈfu] (wet'-t'ah-TOHCH-chun-nah teh-mah-ree-wohch-CH beh-ah-kahb-bah-BEE ts'uh-DAHT-un-nah beh-ZAHF un-kuh-buh-kah-BAY zeh-meh-CHAH lye beh-nuh-K'AHT teh-saht-teh-FOO)",
+          "translation": "Youth and students actively participated in the environmental cleanup and tree care campaign."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Green Legacy: ችግኝ (Seedling) + ደን (Forest) + እንክብካቤ (Care) + አረንጓዴ (Green)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ 'አረንጓዴ አሻራ' መርሐ ግብር በቢሊዮን የሚቆጠሩ ችግኞችን በአንድ ጀምበር በመትከል በዓለም አቀፍ ደረጃ አድናቆትን ያተረፈ ታላቅ ብሔራዊ ንቅናቄ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Planting tree seedlings and protecting forests» የሚለውን በአማርኛ ትክክለኛ የአካባቢ ጥበቃ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (15.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (15.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (15.4.w3)"
+            "ችግኝ መትከል እና ደን መጠበቅ (Planting seedlings and protecting forests - Correct environmental actions)",
+            "ዛፍ መቁረጥ",
+            "ቆሻሻ መጣል",
+            "ውሃ ማባከን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ችግኝ መትከል እና ደን መጠበቅ» ሁለቱን ቁልፍ የተፈጥሮ ጥበቃ ተግባራት ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u15-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'We must protect our environment' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (15.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (15.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (15.4.x3)"
+            "አካባቢያችንን መጠበቅ አለብን። (We must protect our environment - Accurate conservation sentence)",
+            "አካባቢን ማጥፋት አለብን",
+            "ምንም ማድረግ አያስፈልግም",
+            "ተፈጥሮ አያስፈልግም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (15.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (15.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (15.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አካባቢያችንን መጠበቅ አለብን» የአካባቢ ጥበቃ ግዴታን በትክክል ያሳያል።"
         }
       ]
     },
@@ -7216,24 +7121,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 15-4):",
+          "prompt": "የአካባቢ ጥበቃና የችግኝ ተከላ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (15.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (15.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (15.4.z3)"
+            "የችግኝ ተከላ፣ አረንጓዴ አሻራ፣ የደን ጥበቃ፣ የአፈር እንክብካቤ እና የተፈጥሮ ሀብት።",
+            "ጠመንጃ፣ ጥይት እና ጦር።",
+            "ስልክ፣ ቻርጀር እና ባትሪ።",
+            "በአማርኛ የአካባቢ ጥበቃ ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአካባቢ ጥበቃ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u15-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአየር»):",
+          "prompt": "'ችግኝ / Seedling, plant sapling' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአየር",
-            "የአየር"
+            "ችግኝ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአየር» ነው።"
+          "explanation": "ትክክለኛው ቃል «ችግኝ» (Čəgny) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7244,85 +7148,62 @@
     "subject": "amharic",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography) (ክፍል 5)",
+    "title": "የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand Synthesis & Environmental Geography Discourse)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የኢትዮጵያ አራቱ ወቅቶች (መኸር፣ በጋ፣ ፀደይ፣ ክረምት) እና የተፈጥሮ ሀብት። (ክፍል 5)።",
+    "objective": "ወቅቶችን፣ የአየር ሁኔታን፣ የመልክዓ ምድር ገጽታዎችንና የአካባቢ ጥበቃን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፭ አጠቃላይ ሰዋሰዋዊ ውህደት እና የአየር ንብረትና መልክዓ ምድር ተግባቦት ማጠቃለያ:\n\n፩. አራቱ ወቅቶች:\n- በጋ፣ ክረምት፣ መኸር፣ ፀደይ (በልግ)።\n\n፪. የአየር ሁኔታ መግለጫዎች:\n- ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ፣ ሙቀት።\n\n፫. የመልክዓ ምድር ገጽታዎች:\n- ተራራ፣ ስምጥ ሸለቆ፣ ሜዳ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ፣ ዋሻ።\n\n፬. የአካባቢ ጥበቃ:\n- የችግኝ ተከላ፣ አረንጓዴ አሻራ፣ የደን እንክብካቤ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)' to the students."
+          "target": "ኢትዮጵያ ከአራቱ የተለያዩ ወቅቶች እስከ አስደናቂ ተራሮችና ወንዞች ድረስ የታደለች ውብ ሀገር ናት።",
+          "reading": "Ityop’ya kä'arattu yätäläyyayu wäqətat əskä asdännaqi täraroččənna wänzročč dräs yättaddäläčč wəbb hagär nat. [ʔitjoˈpʼja kɛʔaˈratːu jɛtɛlɛjːaˈju wɛkʼɨˈtat ʔɨsˈkɛ ʔasdɛnːaˈkʼi tɛraˈrotʃːɨnːa wɛnzroˈtʃː dɨrɛs jɛtːadːɛˈlɛtʃː wɨbː haˈɡɛr nat] (eet-YOHP-yah keh-ah-RAHT-too yeh-teh-ley-yah-YOO wehk'-uh-TAHT us-KEH ahs-den-nah-K'EE teh-rah-ROHCH-chun-nah wenz-rohch-CH duh-RES yet-tahd-deh-LECH wub-B hah-GER naht)",
+          "translation": "Ethiopia is a beautiful country blessed from the four diverse seasons to fascinating mountains and rivers."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በክረምት ወቅት የዘነበው ዝናብ ወንዞችንና ፏፏቴዎችን ሲያረሰርስ በመኸር ወቅት ምድሪቱ በአበቦች ታሸበርቃለች።",
+          "reading": "Bä-Kərremt wäqət yäzännäbäw zənab wänzroččənna fwafoatewoččən siyaräsärrəs bä-Mähär wäqət mədritu bä'abäbočč taššäbärg’alläčč. [bɛkɨrːɛmt wɛkʼt jɛzɛnːɛˈbɛw zɨˈnab wɛnzroˈtʃːɨnːa fʷafwaˈtewotʃːɨn sijaˈrɛsɛrːɨs bɛmɛˈhɛr wɛkʼt mɨdˈritu bɛʔabɛˈbotʃː taʃːɛbɛrˈkʼalːɛtʃː] (beh-kur-REMT wehk'-T yeh-zen-neh-BEW zuh-NAHB wenz-rohch-CHOON-nah fwah-fwah-tay-wohch-CHOON see-yah-res-ser-RUS beh-meh-HER wehk'-T mud-REE-too beh-ah-beh-BOHCH-choo tahsh-sheh-berg'-AHL-lehch)",
+          "translation": "While the rain that fell in Kiremt season replenishes rivers and waterfalls, in Meher season the earth is adorned with flowers."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ችግኞችን በመትከልና የተፈጥሮ ሀብታችንን በመንከባከብ የአካባቢያችንን ውበትና የአየር ንብረት ሚዛን እንጠብቃለን።",
+          "reading": "Čəgnyoččən bämätkälənna yätäfät’ro habtaččənən bämänkäbakkäb yä'akabbabiyaččənən wəbätənna yä'ayär nəbrät mizan ənət’äbbəqallän. [tʃʼɨɡɲoˈtʃːɨn bɛmɛtˈkɛlɨnːa jɛtɛfɛtʼˈro habtatʃːɨˈnɨn bɛmɛnkɛbakːɛb jɛʔakabːabijatʃːɨˈnɨn wɨbɛˈtɨnːa jɛʔaˈjɛr nɨbˈrɛt miˈzan ʔɨnətʼɛbːɨˈkʼalːɛn] (ch'ug-nyohch-CHOON beh-met-KEL-un-nah yeh-teh-fet'-ROH hahb-tahch-CHUN-un beh-men-keh-bahk-KEB yeh-ah-kahb-bah-bee-yahch-CHUN-un wub-beh-TUN-nah yeh-ah-YER nub-RET mee-ZAHN uhn-t'eb-buh-K'AHL-len)",
+          "translation": "By planting seedlings and caring for our natural resources, we maintain our environment's beauty and climate balance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Earth Balance: Season (ወቅት) + Sky (አየር) + Earth (መልክዓ ምድር) + Conservation (ጥበቃ)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባሕል 'ምድር እናት ናት፣ ከተንከባከብካት ትመግብሃለች' ተብሎ ይተረታል፤ ተፈጥሮን ማክበር ጥንታዊ ማህበራዊ እሴት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የአየር ንብረትና የተፈጥሮ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (15.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (15.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (15.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (15.5.w3)"
+            "አራቱ ወቅቶች፣ ውብ የመልክዓ ምድር ገጽታዎች እና የተፈጥሮ አካባቢ ጥበቃ ተስማምተው ይገኛሉ። (Complete climate and environmental synthesis)",
+            "ምንም ወቅት የለም",
+            "ዝናብ አይዘንብም",
+            "ተራራና ወንዝ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ወቅቶችን፣ መልክዓ ምድርንና የአካባቢ ጥበቃን በአንድነት ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u15-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የችግኝ ተከላንና የተፈጥሮ ውበትን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (15.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (15.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (15.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (15.5.x3)"
+            "ችግኞችን በመትከል አካባቢያችንን አረንጓዴ እና ውብ እናደርጋለን። (By planting seedlings we make our surroundings green and beautiful - Integrated ecology sentence)",
+            "ዛፎች አይጠቅሙም",
+            "ተፈጥሮ አያስፈልግም",
+            "ውሃ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የአየር ንብረት እና የተፈጥሮ ገጽታ (Weather & Geography)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (15.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (15.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (15.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (15.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የችግኝ ተከላንና የተፈጥሮ ውበትን ማሳደግን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -7330,24 +7211,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 15-5):",
+          "prompt": "የክፍል 15 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (15.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (15.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (15.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (15.5.z3)"
+            "የኢትዮጵያ አራቱ ወቅቶች (በጋ፣ ክረምት፣ መኸር፣ ፀደይ)፣ የዕለት ተዕለት የአየር ሁኔታ፣ የመልክዓ ምድር ገጽታዎችና የውሃ አካላት፣ እንዲሁም የተፈጥሮ አካባቢ ጥበቃና አረንጓዴ አሻራ ተካተዋል።",
+            "ይህ ክፍል ስለ ቋንቋ ሰዋሰው ህጎች ብቻ ነው።",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም።",
+            "ሁሉም ወቅቶች እኩል ዝናብ አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 15ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u15-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የአየር»):",
+          "prompt": "'ተፈጥሮ / Nature' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የአየር",
-            "የአየር"
+            "ተፈጥሮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የአየር» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተፈጥሮ» (Täfät’ro) ነው።"
         }
       ],
       "passThreshold": 0.8
