@@ -19243,85 +19243,89 @@
     "subject": "mandarin",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics) (第1讲)",
+    "title": "大木作营造与榫卯斗栱：抬梁穿斗、斗栱承重与梁思成《营造法式》 (Timber Framework & Bracket Sets: Tailiang, Chuandou, Dougong & Yingzao Fashi)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第1部分)。",
+    "objective": "系统掌握中国传统古建筑大木作构架体系（抬梁式/穿斗式）、榫卯力学哲学、斗栱层层出挑承重原理、李诫《营造法式》模数制及梁思成佛光寺唐构勘测史实语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国传统木结构建筑是世界三大古建筑体系之一，展现了精妙绝伦的力学智慧与结构美学：\n\n一、大木作两大主力构架体系：\n1.【抬梁式构架（北方官式建筑主流）】：\n- 柱上架梁，梁上重叠架短梁，短梁上立矮柱，层层抬高支撑檩条。特点是柱少空间大、开间宏阔，气势庄严稳重（如故宫大殿）。\n2.【穿斗式构架（南方民居主流）】：\n- 柱子直接顶到屋顶，用多根穿枋横向贯穿紧扣各个柱子。特点是用料细密轻灵、结构稳固、抗震性佳，适合南方多风潮湿气候。\n\n二、榫卯与斗栱（木构建筑之灵魂）：\n1.【榫卯结构（Mortise and Tenon）】：\n- 凸为榫，凹为卯，阴阳互补咬合，全屋不费一钉一铁，在地震晃动中以微小形变吸收耗散能量，具有惊人的「柔性抗震」奇迹。\n2.【斗栱（Dougong / Bracket Set）】：\n- 由方形木块「斗」、弓形木臂「栱」与斜向挑木「昂」层层叠涩出挑组成。上承屋檐重荷，下传立柱，不仅将巨大深远的出檐荷载化为剪力，更塑造出飞檐翼然、凌空展翅的空灵曲线。\n\n三、法式模数与梁思成学派贡献：\n- 北宋李诫《营造法式》确立了以「材」为基准的模数制（Modular system）；梁思成与林徽因破译法式天书，在山西五台山测得佛光寺东大殿（唐代木构孤本），以确凿实物打破国外学者「中国无唐构」的狂妄断言。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "中国传统大木作营造以榫卯相接、斗栱出挑为精髓，不用一颗铁钉便实现了抗震柔韧与结构稳定的力学奇迹。(Zhōngguó chuántǒng dàmùzuò yíngzào yǐ sǔnmǎo xiāngjiē, dǒugǒng chūtiāo wéi jīngsuǐ, bù yòng yī kē tiědīng biàn shíxiàn le kàngzhèn róurèn yǔ jiégòu wěndìng de lìxué qíjì.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwo˧˥ ʈ͡ʂʰwan˧˥.tʰʊŋ˧˥ ta˥˩.mu˥˩.t͡swɔ˥˩ iŋ˧˥.t͡saʊ̯˥˩ i˨˩˦ swn˨˩.maʊ̯˨˩˦ ɕjaŋ˥.t͡ɕjɛ˥, toʊ̯˨˩.koʊŋ˨˩˦ t͡ʂʰu˥.tʰjaʊ̯˥ weɪ̯˧˥ t͡ɕiŋ˥.sweɪ̯˨˩˦, pu˥ jʊŋ˥˩ i˥ kʰɤ˥ tʰjɛ˨˩.tiŋ˥ pjɛn˥˩ ʂɨ˧˥.ɕjɛn˥˩ lɤ kʰɑŋ˥˩.ʈ͡ʂən˥˩ ʐoʊ̯˧˥.ʐən˥˩ y˨˩˦ t͡ɕjɛ˧˥.koʊ̯˥˩ wən˨˩.tiŋ˥˩ tɤ li˥˩.ɕɥɛ˧˥ t͡ɕʰi˧˥.t͡ɕi˥˩] (Zhōng-guó chuán-tǒng dà-mù-zuò yíng-zào yǐ sǔn-mǎo xiāng-jiē, dǒu-gǒng chū-tiāo wéi jīng-suǐ, bù yòng yī kē tiě-dīng biàn shí-xiàn le kàng-zhèn róu-rèn yǔ jié-gòu wěn-dìng de lì-xué qí-jì.)",
+          "translation": "Traditional Chinese master carpentry centers on mortise-and-tenon joints and bracket cantilever, achieving a mechanical miracle of seismic resilience and structural stability without using a single iron nail."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "梁思成与林徽因破解北宋《营造法式》模数密码，在五台山佛光寺勘得唐代木构大殿，彻底打破了国外学界「中国无唐构」的断言。(Liáng Sīchéng yǔ Lín Huīyīn pòjiě Běisòng 《Yíngzào Fǎshì》 móshù mìmǎ, zài Wǔtáishān Fóguāngsì kāndé Tángdài mùgòu dàdiàn, chèdǐ dǎpò le guówài xuéjiè \"Zhōngguó wú Táng gòu\" de duànyán.)",
+          "reading": "[ljaŋ˧˥ sɨ˥.ʈ͡ʂʰəŋ˧˥ y˨˩˦ lin˧˥ xweɪ̯˥.in˥ pʰwɔ˥˩.t͡ɕjɛ˨˩˦ peɪ̯˨˩.sʊŋ˥˩ 《iŋ˧˥.t͡saʊ̯˥˩ fǎ.ʂɨ˥˩》 mwo˧˥.ʂu˥˩ mi˥˩.ma˨˩˦, t͡saɪ̯˥˩ u˨˩.tʰaɪ̯˧˥.ʂan˥ fwo˧˥.kwaŋ˥.sɨ˥ kʰan˥.tɤ˧˥ tʰɑŋ˧˥.taɪ̯˥˩ mu˥˩.koʊ̯˥˩ ta˥˩.tjɛn˥˩, t͡ʂʰɤ˥˩.ti˨˩˦ ta˨˩.pʰwɔ˥˩ lɤ kwo˧˥.waɪ̯˥˩ ɕɥɛ˧˥.t͡ɕjɛ˥˩ \"ʈ͡ʂʊŋ˥.kwo˧˥ wu˧˥ tʰɑŋ˧˥ koʊ̯˥˩\" tɤ twan˥˩.jan˧˥] (Liáng Sī-chéng yǔ Lín Huī-yīn pò-jiě Běi-sòng 《Yíng-zào Fǎ-shì》 mó-shù mì-mǎ, zài Wǔ-tái-shān Fó-guāng-sì kān-dé Táng-dài mù-gòu dà-diàn, chè-dǐ dǎ-pò le guó-wài xué-jiè \"Zhōng-guó wú Táng gòu\" de duàn-yán.)",
+          "translation": "Liang Sicheng and Lin Huiyin deciphered the modular code of Northern Song's 'Yingzao Fashi', surveying a Tang Dynasty timber hall at Foguang Temple on Mount Wutai, completely shattering foreign academia's assertion that 'China has no Tang structures'."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "抬梁式构架柱少梁大、殿堂开敞，穿斗式构架用料经济、屋架轻灵，二者各展东方木作营造的巧思匠心。(Táiliángshì gòujià zhù shǎo liáng dà, diàntáng kāichǎng, chuāndǒushì gòujià yòngliào jīngjì, wūjià qīnglíng, èrzhě gè zhǎn Dōngfāng mùzuò yíngzào de qiǎosī-jiàngxīn.)",
+          "reading": "[tʰaɪ̯˧˥.ljaŋ˧˥.ʂɨ˥˩ koʊ̯˥˩.t͡ɕja˥˩ ʈ͡ʂu˨˩˦ ʂaʊ̯˨˩˦ ljaŋ˧˥ ta˥˩, tjɛn˥˩.tʰɑŋ˧˥ kʰaɪ̯˥.t͡ʂʰɑŋ˨˩˦, t͡ʂʰwan˥.toʊ̯˨˩.ʂɨ˥˩ koʊ̯˥˩.t͡ɕja˥˩ jʊŋ˥˩.ljaʊ̯˥˩ t͡ɕiŋ˥.t͡ɕi˥˩, u˥.t͡ɕja˥˩ t͡ɕʰiŋ˥.liŋ˧˥, ar˥˩.ʈ͡ʂɤ˨˩˦ kɤ˥˩ ʈ͡ʂan˨˩˦ tʊŋ˥.fɑŋ˥ mu˥˩.t͡swɔ˥˩ iŋ˧˥.t͡saʊ̯˥˩ tɤ t͡ɕʰjaʊ̯˨˩˦.sɨ˥-t͡ɕjaŋ˥˩.ɕin˥] (Tái-liáng-shì gòu-jià zhù shǎo liáng dà, diàn-táng kāi-chǎng, chuān-dǒu-shì gòu-jià yòng-liào jīng-jì, wū-jià qīng-líng, èr-zhě gè zhǎn Dōng-fāng mù-zuò yíng-zào de qiǎo-sī-jiàng-xīn.)",
+          "translation": "The post-and-beam frame uses fewer columns and large beams creating spacious halls, while the column-and-tie frame uses economical timber with nimble roof-frames; both display the ingenious craftsmanship of Eastern timber construction."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "斗栱层层叠涩向外挑出，既分担了硕大屋顶的垂向荷载，又勾勒出飞檐翼然、凌空展翅的空灵动势。(Dǒugǒng céngcéng diésè xiàngwài tiāochū, jì fēndān le shuòdà wūdǐng de chuíxiàng hèzài, yòu gōulè chū fēiyán-yìrán, língkōng-zhǎnchì de kōnglíng dòngshì.)",
+          "reading": "[toʊ̯˨˩.koʊŋ˨˩˦ t͡sʰəŋ˧˥.t͡sʰəŋ˧˥ tjɛ˧˥.sɤ˥˩ ɕjaŋ˥˩.waɪ̯˥˩ tʰjaʊ̯˥.t͡ʂʰu˥, t͡ɕi˥˩ fən˥.tan˥ lɤ ʂwɔ˥˩.ta˥˩ u˥.tiŋ˨˩˦ tɤ t͡ʂʰweɪ̯˧˥.ɕjaŋ˥˩ xɤ˥˩.t͡saɪ̯˥˩, joʊ̯˥˩ koʊ̯˥.lɤ˥˩ t͡ʂʰu˥ feɪ̯˥.jan˧˥-i˥˩.ʐan˧˥, liŋ˧˥.kʰʊŋ˥-ʈ͡ʂan˨˩.t͡ʂʰɨ˥˩ tɤ kʰʊŋ˥.liŋ˧˥ tʊŋ˥˩.ʂɨ˥˩] (Dǒu-gǒng céng-céng dié-sè xiàng-wài tiāo-chū, jì fēn-dān le shuò-dà wū-dǐng de chuí-xiàng hè-zài, yòu gōu-lè chū fēi-yán-yì-rán, líng-kōng-zhǎn-chì de kōng-líng dòng-shì.)",
+          "translation": "Bracket sets corbelled outward tier upon tier not only share the vertical load of the immense roof, but also outline the ethereal dynamic posture of flying eaves spreading their wings into the sky."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "榫卯阴阳不用钉，斗栱出挑飞檐轻；法式模数八等定，佛光唐构万古明！"
+      ],
+      "culturalNotes": [
+        "山西五台山佛光寺东大殿建于唐大中十一年（857年），1937年由梁思成、林徽因发现，被梁思成誉为「中国第一国宝」，是中国现存唐代建筑的最高典范。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第1讲）的标准汉语规范？",
+          "prompt": "中国古建筑中不用任何铁钉、依靠木构件阴阳咬合以实现柔性抗震的核心木作连接工艺是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (33.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (33.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (33.1.w3)"
+            "榫卯结构 (Mortise and Tenon Joint)",
+            "胶水粘贴",
+            "电焊焊接",
+            "水泥浇筑"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "榫卯（Mortise and Tenon）是中国古代木构建筑与古典家具的灵魂工艺，兼具极高抗震力与美学价值。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "由斗、栱、昂层层挑出、立于柱顶以支撑深远屋檐并起装饰作用的中国古建筑标志性构件是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "斗栱 (Dougong / Bracket Set)",
+            "避雷针",
+            "玻璃幕墙",
+            "水泥承重墙"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "斗栱是中国古典建筑最独特的标志性构件，集结构荷载转换与飞檐翼然之美于一身。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第33.1题）",
+          "prompt": "北宋李诫编撰的、确立中国古代木构建筑八等「材」模数制的核心建筑学典籍是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (33.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (33.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (33.1.x3)"
+            "《营造法式》 (Yingzao Fashi / Building Standards)",
+            "《本草纲目》",
+            "《天工开物》",
+            "《齐民要术》"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "北宋《营造法式》是中国古代最完整、最系统的官方建筑工程技术与模数制规范巨著。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u33-l1）所要求的高阶语言表达？",
+          "prompt": "梁思成与林徽因在山西五台山勘测发现的、以雄浑斗栱实证打破国外学者断言的唐代木构大殿是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (33.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (33.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (33.1.y3)"
+            "佛光寺东大殿 (Foguang Temple East Great Hall)",
+            "布达拉宫",
+            "苏州拙政园",
+            "平遥古城墙"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "五台山佛光寺东大殿是梁思成发现的中国现存最宏伟唐代木构建筑，被誉为「中国第一国宝」。"
         }
       ]
     },
@@ -19329,25 +19333,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 33-1）：",
+          "prompt": "请选出下列关于中国传统木构营造力学与斗栱美学评述最深刻、最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (33.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (33.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (33.1.z3)"
+            "东方大木作营造展现出天工开物的力学奇迹：抬梁式开阔宏敞，穿斗式轻巧稳固；榫卯结构以阴阳咬合化解地震晃动，展现柔性抗震的东方智慧；斗栱层层叠涩出挑，化屋顶万钧之重为飞檐翼然的空灵动势；梁思成与林徽因破译北宋《营造法式》模数密码，以佛光寺唐构大殿实证中华千载营建辉煌！(大木作构架、榫卯柔性抗震、斗栱力学美学、营造法式与佛光寺唐构全景精深论述)",
+            "中国古建筑全是用石头堆出来的，跟木头没有任何关系。(严重违背基本建筑史实)",
+            "大木作被榫卯在斗栱营造法式佛光寺抬梁穿斗。(词句无序拼凑乱码)",
+            "榫卯结构完全不结实，必须用大量钢钉水泥加固才能立起来。(严重贬损古建筑工艺的错误偏见)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将抬梁穿斗、榫卯抗震、斗栱力学与《营造法式》佛光寺唐构考证融汇贯通，建筑学法理深邃精严。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u33-l1）的核心关键词（例如「中国传统」）：",
+          "prompt": "请输入中国古建筑中由斗、栱、昂叠涩挑出、作为屋顶与立柱间荷载转换标志构件的核心二字名称（拼音为 dǒugǒng）：",
           "acceptedAnswers": [
-            "中国传统",
-            "中国传统建筑",
-            "中国传统建筑与空间美学"
+            "斗栱",
+            "斗拱"
           ],
-          "explanation": "正确的核心关键词为「中国传统」。"
+          "explanation": "构件「斗栱」是中国传统木构建筑最具代表性与力学美感的灵魂构件。"
         }
       ],
       "passThreshold": 0.8
@@ -19358,85 +19361,89 @@
     "subject": "mandarin",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics) (第2讲)",
+    "title": "紫禁城中轴线与礼制空间：择中而居、九卿三朝与左右对称 (The Forbidden City & Imperial Central Axis)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第2部分)。",
+    "objective": "系统掌握北京中轴线规划（7.8公里宏伟中轴）、《周礼·考工记》营国制度（左祖右社/面朝后市）、紫禁城前朝后廷空间序列、屋顶尊卑位阶与儒家礼制空间哲学语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "北京中轴线与紫禁城是东方儒家礼制思想与帝都规划美学的巅峰集大成者：\n\n一、《考工记》营国制度与北京中轴线：\n1.【营国法式】：\n-《周礼·考工记》：「匠人营国，方九里，旁三门。国中九经九纬，经涂九轨。左祖（太庙）右社（社稷坛），面朝（前朝三大殿）后市（地安门商业街区）。」\n2.【北京中轴线（7.8公里，世界文化遗产）】：\n- 南起永定门，经先农坛、天坛、正阳门、天安门、端门、午门、紫禁城、景山，北至钟鼓楼，统领整座都城的空间秩序与皇权气象。\n\n二、紫禁城空间序列与建筑位阶：\n1.【前朝三大殿与后廷三宫】：\n-「前朝治政」：太和殿（金銮殿，举行大典）、中和殿（帝王休憩）、保和殿（殿试）。\n-「后廷起居」：乾清宫、交泰殿、坤宁宫；东西六宫众星拱月。\n2.【屋顶形制与等级序列】：\n- 重檐庑殿顶（最高等级，如太和殿） > 重檐歇山顶（保和殿/天安门） > 单檐庑殿顶 > 单檐歇山顶 > 攒尖顶（天坛/中和殿） > 悬山顶 > 硬山顶。\n\n三、儒家空间哲学——择中立国与天人合一：\n- 择中立国、择中而居，以严整的南北中轴对称彰显「君临天下、皇极四方」的王道正统与天地秩序。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "北京中轴线纵贯七点八公里，严格遵循《周礼·考工记》「面朝后市、左祖右社」之古制，是东方帝都空间规划的绝顶杰作。(Běijīng zhōngzhóuxiàn zòngguàn qī diǎn bā gōnglǐ, yángé zūnxún 《Zhōulǐ · Kǎogōngjì》 \"miàncháo-hòushì, zuǒzǔ-yòushè\" zhī gǔzhì, shì Dōngfāng dìdū kōngjiān guīhuà de juédǐng jiézuò.)",
+          "reading": "[peɪ̯˨˩.t͡ɕiŋ˥ ʈ͡ʂʊŋ˥.ʈ͡ʂoʊ̯˧˥.ɕjɛn˥˩ t͡sʊŋ˥˩.kwan˥˩ t͡ɕʰi˥ tjɛn˨˩˦ pa˥ kʊŋ˥.li˨˩˦, jan˧˥.kɤ˧˥ t͡swn˥.ɕyn˧˥ 《ʈ͡ʂoʊ̯˥.li˨˩˦ · kʰaʊ̯˨˩˦.kʊŋ˥.t͡ɕi˥˩》 \"mjɛn˥˩.t͡ʂʰaʊ̯˧˥-xoʊ̯˥˩.ʂɨ˥˩, t͡swɔ˨˩˦.t͡su˨˩˦-joʊ̯˥˩.ʂɤ˥˩\" ʈ͡ʂɨ˥ ku˨˩.ʈ͡ʂɨ˥˩, ʂɨ˥˩ tʊŋ˥.fɑŋ˥ ti˥˩.tu˥ kʰʊŋ˥.t͡ɕjɛn˥ kweɪ̯˥.xwa˥˩ tɤ t͡ɕyɛ˧˥.tiŋ˨˩˦ t͡ɕjɛ˧˥.t͡swɔ˥˩] (Běi-jīng zhōng-zhóu-xiàn zòng-guàn qī diǎn bā gōng-lǐ, yán-gé zūn-xún 《Zhōu-lǐ · Kǎo-gōng-jì》 \"miàn-cháo-hòu-shì, zuǒ-zǔ-yòu-shè\" zhī gǔ-zhì, shì Dōng-fāng dì-dū kōng-jiān guī-huà de jué-dǐng jié-zuò.)",
+          "translation": "The Beijing Central Axis runs for 7.8 kilometers, strictly adhering to the ancient system of 'court in front, market behind; ancestral temple on left, altar of land and grain on right' from the 'Rites of Zhou', serving as the supreme masterpiece of Eastern imperial capital spatial planning."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "太和殿矗立于三层汉白玉须弥座之上，覆以至尊之重檐庑殿金黄琉璃瓦顶，展现出普天之下莫非王土的皇权至高威严。(Tàihédiàn chùlì yú sān céng hànbáiyù xūmízuò zhīshàng, fù yǐ zhìzūn zhī zhòngyán-wǔdiàndǐng jīnhuáng liúlíwǎ dǐng, zhǎnxiàn chū pǔtiān zhīxià mòfēi wángtǔ de huángquán zhìgāo wēiyán.)",
+          "reading": "[tʰaɪ̯˥˩.xɤ˧˥.tjɛn˥˩ t͡ʂʰu˥˩.li˥˩ y˧˥ san˥ t͡sʰəŋ˧˥ xan˥˩.paɪ̯˧˥.y˥˩ ɕy˥.mi˧˥.t͡swɔ˥˩ ʈ͡ʂɨ˥.ʂɑŋ˥, fu˥˩ i˨˩˦ ʈ͡ʂɨ˥˩.t͡swn˥ ʈ͡ʂɨ˥ ʈ͡ʂʊŋ˥˩.jan˧˥-u˨˩.tjɛn˥˩.tiŋ˨˩˦ t͡ɕin˥.xwaŋ˧˥ ljoʊ̯˧˥.li˧˥.wa˨˩˦ tiŋ˨˩˦, ʈ͡ʂan˨˩.ɕjɛn˥˩ t͡ʂʰu˥ pʰu˨˩.tʰjɛn˥ ʈ͡ʂɨ˥.ɕja˥˩ mwo˥˩.feɪ̯˥ wɑŋ˧˥.tʰu˨˩˦ tɤ xwaŋ˧˥.t͡ɕʰyɛn˧˥ ʈ͡ʂɨ˥˩.kaʊ̯˥ weɪ̯˥.jan˧˥] (Tài-hé-diàn chù-lì yú sān céng hàn-bái-yù xū-mí-zuò zhī-shàng, fù yǐ zhì-zūn zhī zhòng-yán-wǔ-diàn-dǐng jīn-huáng liú-lí-wǎ dǐng, zhǎn-xiàn chū pǔ-tiān zhī-xià mò-fēi wáng-tǔ de huáng-quán zhì-gāo wēi-yán.)",
+          "translation": "The Hall of Supreme Harmony stands atop a three-tiered white marble Sumeru base, covered with the supreme double-eaved hip roof of golden glazed tiles, demonstrating the supreme imperial majesty that all land under heaven belongs to the king."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "择中立国、居中治民的儒家礼制思想，通过严整的中轴对称与层层递进的宫殿院落，化为极具秩序感的物化空间仪轨。(Zézhōng-lìguó, jūzhōng-zhìmín de Rújiā lǐzhì sīxiǎng, tōngguò yánzhěng de zhōngzhóu duìchèn yǔ céngcéng tuījìn de gōngdiàn yuànluò, huà wéi jí jù zhìxùgǎn de wùhuà kōngjiān yíguǐ.)",
+          "reading": "[t͡sɤ˧˥.ʈ͡ʂʊŋ˥-li˥˩.kwo˧˥, t͡ɕy˥.ʈ͡ʂʊŋ˥-ʈ͡ʂɨ˥˩.min˧˥ tɤ ʐu˧˥.t͡ɕja˥ li˨˩.ʈ͡ʂɨ˥˩ sɨ˥.ɕjaŋ˨˩˦, tʰʊŋ˥.kwɔ˥˩ jan˧˥.ʈ͡ʂəŋ˨˩˦ tɤ ʈ͡ʂʊŋ˥.ʈ͡ʂoʊ̯˧˥ tweɪ̯˥˩.t͡ʂʰən˥˩ y˨˩˦ t͡sʰəŋ˧˥.t͡sʰəŋ˧˥ tʰweɪ̯˥.t͡ɕin˥˩ tɤ kʊŋ˥.tjɛn˥˩ yɥɛn˥˩.lwɔ˥˩, xwa˥˩ weɪ̯˧˥ t͡ɕi˧˥ t͡ɕy˥˩ ʈ͡ʂɨ˥˩.ɕy˥˩.kan˨˩˦ tɤ wu˥˩.xwa˥˩ kʰʊŋ˥.t͡ɕjɛn˥ i˧˥.kweɪ̯˨˩˦] (Zé-zhōng-lì-guó, jū-zhōng-zhì-mín de Rú-jiā lǐ-zhì sī-xiǎng, tōng-guò yán-zhěng de zhōng-zhóu duì-chèn yǔ céng-céng tuī-jìn de gōng-diàn yuàn-luò, huà wéi jí jù zhì-xù-gǎn de wù-huà kōng-jiān yí-guǐ.)",
+          "translation": "The Confucian ritual thoughts of establishing the state at the center and governing the populace from the center were transformed into highly ordered materialized spatial rituals through strict central axis symmetry and progressively advancing palace courtyards."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "从午门到三大殿再到景山寿皇殿，起伏跌宕的视知觉序列如同一部波澜壮阔的空间交响乐章。(Cóng Wǔmén dào Sāndàdiàn zài dào Jǐngshān Shòuhuángdiàn, qǐfú-diédàng de shìzhījué xùliè rútóng yī bù bōlán-zhuàngkuò de kōngjiān jiāoxiǎng yuèzhāng.)",
+          "reading": "[t͡sʰʊŋ˧˥ u˨˩.mən˧˥ taʊ̯˥˩ san˥.ta˥˩.tjɛn˥˩ t͡saɪ̯˥˩ taʊ̯˥˩ t͡ɕiŋ˨˩.ʂan˥ ʂoʊ̯˥˩.xwaŋ˧˥.tjɛn˥˩, t͡ɕʰi˨˩.fu˧˥-tjɛ˧˥.tɑŋ˥˩ tɤ ʂɨ˥˩.ʈ͡ʂɨ˥.t͡ɕyɛ˧˥ ɕy˥˩.ljɛ˥˩ ʐu˧˥.tʰʊŋ˧˥ i˥ pu˥˩ pwo˥.lan˧˥-ʈ͡ʂwaŋ˥˩.kʰwɔ˥˩ tɤ kʰʊŋ˥.t͡ɕjɛn˥ t͡ɕjaʊ̯˥.ɕjaŋ˨˩˦ yɛ˥˩.ʈ͡ʂɑŋ˥] (Cóng Wǔ-mén dào Sān-dà-diàn zài dào Jǐng-shān Shòu-huáng-diàn, qǐ-fú-dié-dàng de shì-zhī-jué xù-liè rú-tóng yī bù bō-lán-zhuàng-kuò de kōng-jiān jiāo-xiǎng yuè-zhāng.)",
+          "translation": "From Meridian Gate to the Three Great Halls and further to Shouhuang Hall on Jingshan, the undulating visual-perceptual sequence resembles a magnificent spatial symphony."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "考工营国轴线横，重檐庑殿太和尊；左祖右社前朝盛，择中而居帝业承！"
+      ],
+      "culturalNotes": [
+        "2024年7月「北京中轴线」正式列入联合国《世界遗产名录》，代表了中国古代都城营造「中正和谐、天人合一」的最高规划艺术。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第2讲）的标准汉语规范？",
+          "prompt": "中国古建筑屋顶形式中，等级最高、专用于皇家宫殿正殿（如故宫太和殿）的屋顶形制是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (33.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (33.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (33.2.w3)"
+            "重檐庑殿顶 (Double-eaved Hip Roof)",
+            "单檐硬山顶",
+            "草顶茅屋",
+            "平顶水泥房"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "重檐庑殿顶是中国古代建筑中等级最高的屋顶形制，象征着皇权的至高无上。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "《周礼·考工记》中关于中国古代都城空间布局规制「左祖右社」里，「左祖」与「右社」分别代表：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "左为太庙（祭祀祖先），右为社稷坛（祭祀土地五谷） (Left Ancestral Temple, Right Altar of Land & Grain)",
+            "左边开超市，右边开饭馆",
+            "左边是住宅，右边是马路",
+            "左边是兵营，右边是监狱"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「左祖右社」是儒家宗庙祖先崇拜与社稷土地神崇拜在都城规划中的典型礼制物化体现。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第33.2题）",
+          "prompt": "2024年成功列入《世界遗产名录》、纵贯7.8公里统领古都空间秩序的历史城市景观是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (33.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (33.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (33.2.x3)"
+            "北京中轴线 (Beijing Central Axis)",
+            "南京长江大桥",
+            "上海外滩",
+            "西安大雁塔"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "北京中轴线是中国理想都城秩序的杰作，凝聚了700余年营城智慧。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u33-l2）所要求的高阶语言表达？",
+          "prompt": "紫禁城宫殿布局中，「前朝三大殿」指的是太和殿、保和殿以及位于二者之间的：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (33.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (33.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (33.2.y3)"
+            "中和殿 (Hall of Central Harmony)",
+            "乾清宫",
+            "养心殿",
+            "御花园"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "紫禁城前朝三大殿为太和殿、中和殿、保和殿，是明清两代皇帝举行国家重大典礼的场所。"
         }
       ]
     },
@@ -19444,25 +19451,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 33-2）：",
+          "prompt": "请选出下列关于紫禁城中轴线与儒家礼制空间哲学述评最宏大、最精严的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (33.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (33.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (33.2.z3)"
+            "北京中轴线与紫禁城是东方礼制空间哲学的至高丰碑：全线恪守《考工记》「面朝后市、左祖右社」之王道法度；前朝三大殿以重檐庑殿金瓦彰显皇权至尊；后廷三宫东西六宫众星拱月，展现家国一体的宗法秩序。择中立国、中正和谐的儒家理想，化作了纵贯七点八公里的壮美空间史诗！(考工记规制、北京中轴线、前朝三大殿、重檐庑殿顶等级与择中而居哲学全景精妙阐述)",
+            "故宫就是皇帝修来自己一个人住的普通大院子，没有任何规划思想。(严重缺乏历史文化常识)",
+            "紫禁城中轴线被考工记在重檐庑殿太和殿左祖右社择中而居。(概念生硬堆砌乱码)",
+            "古代皇帝建宫殿全凭算命先生一句话，没有任何制度规范。(抹杀古建筑礼制科学与文化价值)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统总结了《考工记》营国制度、北京中轴线规划、重檐庑殿屋顶等级与儒家择中而居哲学，格局恢弘，见解精湛。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u33-l2）的核心关键词（例如「中国传统」）：",
+          "prompt": "请输入中国传统古建筑中等级最高、拥有四条垂脊五条脊且为上下双层屋檐的核心五字屋顶名称（拼音为 zhòngyán-wǔdiàndǐng）：",
           "acceptedAnswers": [
-            "中国传统",
-            "中国传统建筑",
-            "中国传统建筑与空间美学"
+            "重檐庑殿顶"
           ],
-          "explanation": "正确的核心关键词为「中国传统」。"
+          "explanation": "屋顶形式「重檐庑殿顶」是中国古代建筑等级最高的屋顶制式。"
         }
       ],
       "passThreshold": 0.8
@@ -19473,85 +19478,89 @@
     "subject": "mandarin",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics) (第3讲)",
+    "title": "江南古典园林与文人造园：借景生情、步移景异与虽由人作宛自天开 (Classical Gardens of Jiangnan: Borrowed Scenery & Natural Craftsmanship)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第3部分)。",
+    "objective": "系统掌握江南文人园林造园美学理论（计成《园冶》「虽由人作，宛自天开」）、四大造景手法（借景/框景/漏窗月洞门）、叠石理水（太湖石瘦漏透皱）及苏州古典园林意境语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "江南古典园林是中国文人将山水诗画、哲学哲思与空间营造融于一体的至高艺术杰作：\n\n一、文人造园经典理论（计成《园冶》）：\n1.【造园灵魂】：\n-「虽由人作，宛自天开」：虽是人工精细雕琢，却犹如天然造化生成，追求大巧若拙、道法自然的最高境界。\n-「巧于因借，精在体宜」：因地制宜，善于利用周围一切山水风物。\n\n二、造园四大核心造景手法：\n1.【借景（Borrowed Scenery）】：\n- 远借（如拙政园远借北寺塔）、邻借、仰借、俯借、应时而借（借四时风月、雨打芭蕉）。\n2.【框景与漏窗（Framed Scenery）】：\n- 月洞门、花窗漏窗如画框，将庭前修竹、粉墙疏影剪裁成流动的立体画幅。\n3.【对景与障景】：\n- 开门见山前设影壁树石为障（障景），曲径通幽后豁然开朗（对景）。\n\n三、叠石理水与太湖石审美：\n1.【以水为中心】：水随山转，山因水活，聚则成池，分则成溪。\n2.【太湖石四美】：白居易与米芾提炼的「瘦（骨力劲健）、漏（玲珑空透）、透（石隙相通）、皱（纹理起伏）」，寄托文人士大夫傲岸空灵的风骨。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "明代计成在《园冶》中提出「虽由人作，宛自天开」的造园真谛，追求人工匠意与天然野趣的化境交融。(Míngdài Jì Chéng zài 《Yuányě》 zhōng tíchū \"suī yóu rén zuò, wǎn zì tiān kāi\" de zàoyuán zhēndì, zhuīqiú réngōng jiàngyì yǔ tiānrán yěqù de huàjìng jiāoróng.)",
+          "reading": "[miŋ˧˥.taɪ̯˥˩ t͡ɕi˥˩ ʈ͡ʂʰəŋ˧˥ t͡saɪ̯˥˩ 《yɥɛn˧˥.jɛ˨˩˦》 ʈ͡ʂʊŋ˥ tʰi˧˥.t͡ʂʰu˥ \"sweɪ̯˥ joʊ̯˧˥ ʐən˧˥ t͡swɔ˥˩, wan˨˩˦ t͡sɨ˥˩ tʰjɛn˥ kʰaɪ̯˥\" tɤ t͡saʊ̯˥˩.yɥɛn˧˥ ʈ͡ʂən˥.ti˥˩, ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˧˥ ʐən˧˥.kʊŋ˥ t͡ɕjaŋ˥˩.i˥˩ y˨˩˦ tʰjɛn˥.ʐan˧˥ jɛ˨˩.t͡ɕʰy˥˩ tɤ xwa˥˩.t͡ɕiŋ˥˩ t͡ɕjaʊ̯˥.ʐʊŋ˧˥] (Míng-dài Jì Chéng zài 《Yuán-yě》 zhōng tí-chū \"suī yóu rén zuò, wǎn zì tiān kāi\" de zào-yuán zhēn-dì, zhuī-qiú rén-gōng jiàng-yì yǔ tiān-rán yě-qù de huà-jìng jiāo-róng.)",
+          "translation": "In 'Yuan Ye', Ji Cheng of the Ming Dynasty proposed the true essence of garden creation: 'Although made by human hands, it appears as if opened by nature itself', pursuing the consummate blending of artificial craftsmanship and natural wild charm."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "拙政园以水为中心，借北寺塔之远景入园，通过漏窗月洞门巧妙框景，实现了「移步换景、咫尺山林」的绝妙意境。(Zhuōzhèngyuán yǐ shuǐ wéi zhōngxīn, jiè Běisìtǎ zhī yuǎnjǐng rù yuán, tōngguò lòuchuāng yuèdòngmén qiǎomiào kuàngjǐng, shíxiàn le \"yíbù-huànjǐng, zhǐchǐ-shānlín\" de juémiào yìjìng.)",
+          "reading": "[ʈ͡ʂwɔ˥.ʈ͡ʂəŋ˥˩.yɥɛn˧˥ i˨˩˦ ʂweɪ̯˨˩˦ weɪ̯˧˥ ʈ͡ʂʊŋ˥.ɕin˥, t͡ɕjɛ˥˩ peɪ̯˨˩.sɨ˥˩.tʰa˨˩˦ ʈ͡ʂɨ˥ yɥɛn˨˩.t͡ɕiŋ˨˩˦ ʐu˥˩ yɥɛn˧˥, tʰʊŋ˥.kwɔ˥˩ loʊ̯˥˩.t͡ʂʰwaŋ˥ yɛ˥˩.tʊŋ˥˩.mən˧˥ t͡ɕʰjaʊ̯˨˩˦.mjaʊ̯˥˩ kʰwaŋ˥˩.t͡ɕiŋ˨˩˦, ʂɨ˧˥.ɕjɛn˥˩ lɤ \"i˧˥.pu˥˩-xwan˥˩.t͡ɕiŋ˨˩˦, ʈ͡ʂɨ˨˩.t͡ʂʰɨ˨˩˦-ʂan˥.lin˧˥\" tɤ t͡ɕyɛ˧˥.mjaʊ̯˥˩ i˥˩.t͡ɕiŋ˥˩] (Zhuō-zhèng-yuán yǐ shuǐ wéi zhōng-xīn, jiè Běi-sì-tǎ zhī yuǎn-jǐng rù yuán, tōng-guò lòu-chuāng yuè-dòng-mén qiǎo-miào kuàng-jǐng, shí-xiàn le \"yí-bù-huàn-jǐng, zhǐ-chǐ-shān-lín\" de jué-miào yì-jìng.)",
+          "translation": "The Humble Administrator's Garden takes water as its center, borrowing the distant scenery of the North Temple Pagoda into the garden and framing views through lattice windows and moon gates, realizing the exquisite realm of 'scenery shifting with every step, wilderness within arm's reach'."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "叠石理水与曲径通幽相映成趣，以太湖石之「皱、瘦、漏、透」构筑起士大夫寄情丘壑的精神乌托邦。(Diéshí-lǐshuǐ yǔ qūjìng-tōngyōu xiāngyìng-chéngqù, yǐ Tàihúshí zhī \"zhòu, shòu, lòu, tòu\" gòuzhù qǐ shìdàfū jìqíng-qiūhè de jīngshén wūtōubāng.)",
+          "reading": "[tjɛ˧˥.ʂɨ˧˥-li˨˩.ʂweɪ̯˨˩˦ y˨˩˦ t͡ɕʰy˥.t͡ɕiŋ˥˩-tʰʊŋ˥.joʊ̯˥ ɕjaŋ˥.iŋ˥˩-ʈ͡ʂʰəŋ˧˥.t͡ɕʰy˥˩, i˨˩˦ tʰaɪ̯˥˩.xu˧˥.ʂɨ˧˥ ʈ͡ʂɨ˥ \"ʈ͡ʂoʊ̯˥˩, ʂoʊ̯˥˩, loʊ̯˥˩, tʰoʊ̯˥˩\" koʊ̯˥˩.ʈ͡ʂu˥˩ t͡ɕʰi˨˩˦ ʂɨ˥˩.ta˥˩.fu t͡ɕi˥˩.t͡ɕʰiŋ˧˥-t͡ɕʰjoʊ̯˥.xɤ˥˩ tɤ t͡ɕiŋ˥.ʂən˧˥ u˥.tʰwɔ˥.pɑŋ˥] (Dié-shí-lǐ-shuǐ yǔ qū-jìng-tōng-yōu xiāng-yìng-chéng-qù, yǐ Tài-hú-shí zhī \"zhòu, shòu, lòu, tòu\" gòu-zhù qǐ shì-dà-fū jì-qíng-qiū-hè de jīng-shén wū-tuō-bāng.)",
+          "translation": "Piling stones and arranging water complement winding paths leading to seclusion, constructing a spiritual utopia for literati to dwell in nature through the four qualities of Taihu stones: 'wrinkled, slender, perforated, and hollow'."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "园林漏窗将斑驳竹影与四季光影剪裁成流动的天然图画，展现出深邃空灵的东方留白诗境。(Yuánlín lòuchuāng jiāng bānbó zhúyǐng yǔ sìjì guāngyǐng jiǎncái chéng liúdòng de tiānrán túhuà, zhǎnxiàn chū shēnsuì kōnglíng de Dōngfāng liúbái shījìng.)",
+          "reading": "[yɥɛn˧˥.lin˧˥ loʊ̯˥˩.t͡ʂʰwaŋ˥ t͡ɕjɑŋ˥ pan˥.pwo˧˥ ʈ͡ʂu˧˥.iŋ˨˩˦ y˨˩˦ sɨ˥˩.t͡ɕi˥˩ kwaŋ˥.iŋ˨˩˦ t͡ɕjɛn˨˩˦.t͡sʰaɪ̯˧˥ ʈ͡ʂʰəŋ˧˥ ljoʊ̯˧˥.tʊŋ˥˩ tɤ tʰjɛn˥.ʐan˧˥ tʰu˧˥.xwa˥˩, ʈ͡ʂan˨˩.ɕjɛn˥˩ t͡ʂʰu˥ ʂən˥.sweɪ̯˥˩ kʰʊŋ˥.liŋ˧˥ tɤ tʊŋ˥.fɑŋ˥ ljoʊ̯˧˥.paɪ̯˧˥ ʂɨ˥.t͡ɕiŋ˥˩] (Yuán-lín lòu-chuāng jiāng bān-bó zhú-yǐng yǔ sì-jì guāng-yǐng jiǎn-cái chéng liú-dòng de tiān-rán tú-huà, zhǎn-xiàn chū shēn-suì kōng-líng de Dōng-fāng liú-bái shī-jìng.)",
+          "translation": "Garden lattice windows tailor mottled bamboo shadows and four-season light into flowing natural paintings, exhibiting a profound, ethereal poetic realm of Eastern blank space."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "虽由人作宛天开，借景框景曲径来；拙政留园太湖石，咫尺山林文人怀！"
+      ],
+      "culturalNotes": [
+        "苏州古典园林（拙政园、留园、网师园、沧浪亭等）为世界文化遗产。园林是明清江南文人寄情山水、以小见大、在都市繁华中构建的精神桃花源。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第3讲）的标准汉语规范？",
+          "prompt": "明代计成在世界第一部造园学专著《园冶》中提出的、概括中国园林最高审美理想的名句是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (33.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (33.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (33.3.w3)"
+            "虽由人作，宛自天开 (Although made by man, as if created by nature)",
+            "整齐划一，方方正正",
+            "全部推倒，大修马路",
+            "只用钢筋水泥建造"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「虽由人作，宛自天开」是中国古典园林造园艺术的最高审美准则与终极哲学追求。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "拙政园中将园外远处的北寺塔巧妙引入园中视线画面的古典造园构景手法是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "借景 (Borrowed scenery)",
+            "砌墙挡住",
+            "拆掉远处的塔",
+            "闭上眼睛不看"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「借景」是古典园林突破空间局限、将园外山水塔影纳为己有的最高超构景手法。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第33.3题）",
+          "prompt": "白居易与米芾总结的、评价江南园林假山太湖石品相极品的「四字审美标准」是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (33.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (33.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (33.3.x3)"
+            "瘦、漏、透、皱 (Slender, perforated, hollow, wrinkled)",
+            "大、重、圆、硬",
+            "光、滑、亮、整",
+            "红、黄、蓝、绿"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「瘦、漏、透、皱」是太湖石相石赏石的千古绝唱，展现石之奇巧与文人傲骨。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u33-l3）所要求的高阶语言表达？",
+          "prompt": "通过月洞门、花窗漏窗将庭院中花木山石像画幅一样截取展现的园林造景手法是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (33.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (33.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (33.3.y3)"
+            "框景 (Framed scenery)",
+            "遮雨棚",
+            "水泥封死",
+            "挂大广告牌"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「框景」利用门框窗洞为画框，使观赏者在室内如看活色生香的山水画卷。"
         }
       ]
     },
@@ -19559,25 +19568,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 33-3）：",
+          "prompt": "请选出下列关于江南古典园林文人造园意境与构景手法阐述最高雅、最深刻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (33.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (33.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (33.3.z3)"
+            "江南古典园林是东方文人诗画哲思与空间营造的最高结晶：奉计成《园冶》「虽由人作，宛自天开」为圭臬；以水为中心，叠石理水融太湖石「瘦漏透皱」之风骨；善用借景、框景、隔景与漏窗，化有限为无限，达到「移步换景、咫尺山林」的空灵化境。园林是文人寄情山水、安顿灵魂的精神乌托邦！(《园冶》天开美学、太湖石四美、借景框景漏窗、咫尺山林全景精粹论述)",
+            "江南园林就是几个水池子旁边堆点石头，跟普通公园没有什么区别。(极其粗鄙浅薄的错误看法)",
+            "江南古典园林被虽由人作宛自天开借景框景太湖石瘦漏透皱。(词语生硬堆砌)",
+            "园林修得越大越好，里面必须通汽车修高楼才算现代。(严重背离园林以小见大、幽静怡情本质)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将《园冶》名言、太湖石四美、借景框景手法与咫尺山林文人精神融会贯通，文笔典雅，意境高远。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u33-l3）的核心关键词（例如「中国传统」）：",
+          "prompt": "请输入明代造园大师计成在《园冶》中提出的、形容人工建造却宛如自然天成的八字造园最高境界名句（拼音为 suī yóu rén zuò, wǎn zì tiān kāi）：",
           "acceptedAnswers": [
-            "中国传统",
-            "中国传统建筑",
-            "中国传统建筑与空间美学"
+            "虽由人作宛自天开",
+            "虽由人作，宛自天开"
           ],
-          "explanation": "正确的核心关键词为「中国传统」。"
+          "explanation": "名句「虽由人作，宛自天开」是中国古典园林造园艺术的最高审美纲领。"
         }
       ],
       "passThreshold": 0.8
@@ -19588,85 +19596,89 @@
     "subject": "mandarin",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics) (第4讲)",
+    "title": "地域民居多样性与人地和谐：皖南徽派、四合院、客家土楼与窑洞 (Vernacular Dwellings: Huizhou, Siheyuan, Tulou & Yaodong)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第4部分)。",
+    "objective": "系统掌握中国代表性地域民居形态（皖南徽派建筑马头墙四水归堂、北京四合院尊卑围合、闽粤客家土楼防御宗族聚居、黄土窑洞生态因地制宜）与人地共生哲学语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中国幅员辽阔，多样的自然地理与宗族文化孕育了百花齐放的传统民居生态智慧：\n\n一、四大典型地域民居形制与营造特色：\n1.【皖南徽派民居（西递宏村，世界文化遗产）】：\n- 白粉墙、小青瓦，层层高耸的「马头墙」（封火防火）。\n- 室内设天井，「四水归堂」（雨水从四面屋檐汇聚天井），寓意「肥水不流外人田」与天人相通；辅以精美绝伦的「徽州三雕」（砖雕、木雕、石雕）。\n2.【北京四合院（华北传统人居典型）】：\n- 坎宅巽门，正房（长辈）、东西厢房（晚辈）、倒座房严格对称围合。\n- 垂花门区分内外院，影壁遮挡视线，在长幼有序、尊卑有别的礼制秩序中实现「藏风聚气」与私密安详。\n3.【客家土楼（福建土楼承启楼/振成楼，世界文化遗产）】：\n- 采用生土、石灰、竹片、糯米浆反复夯筑成数米厚墙，圆楼方楼巨大封闭。\n- 聚族而居（一楼聚一族几百人），兼具御敌防御、防震防潮、冬暖夏凉之神效，展现极强宗族凝聚力。\n4.【黄土高原窑洞与西南干栏式吊脚楼】：\n- 窑洞：靠崖窑与下沉式地坑院，「冬暖夏凉，因地借势」；\n- 吊脚楼（苗侗民居）：依山就势、立柱凭虚、通风防潮。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "皖南徽派民居以高耸的马头墙、精巧的天井与砖木石三雕著称，「四水归堂」寄托着聚财纳福与天人合一的古老哲学。(Wǎnnán Huīpài mínjū yǐ gāosǒng de mǎtóuqiáng, jīngqiǎo de tiānjǐng yǔ zhuān-mù-shí sāndiāo zhùchēng, \"sìshuǐ-guītáng\" jìtuō zhe jùcái-nà-fú yǔ tiānrén-héyī de gǔlǎo zhéxué.)",
+          "reading": "[wan˨˩˦.nan˧˥ xweɪ̯˥.pʰaɪ̯˥˩ min˧˥.t͡ɕy˥ i˨˩˦ kaʊ̯˥.sʊŋ˨˩˦ tɤ ma˨˩.tʰoʊ̯˧˥.t͡ɕʰjaŋ˧˥, t͡ɕiŋ˥.t͡ɕʰjaʊ̯˨˩˦ tɤ tʰjɛn˥.t͡ɕiŋ˨˩˦ y˨˩˦ ʈ͡ʂwan˥-mu˥˩-ʂɨ˧˥ san˥.t͡ɕjaʊ̯˥ ʈ͡ʂu˥˩.ʈ͡ʂʰəŋ˥, \"sɨ˥˩.ʂweɪ̯˨˩˦-kweɪ̯˥.tʰɑŋ˧˥\" t͡ɕi˥˩.tʰwɔ˥ zɤ t͡ɕy˥˩.t͡sʰaɪ̯˧˥-na˥˩.fu˧˥ y˨˩˦ tʰjɛn˥.ʐan˧˥-xɤ˧˥.i˥ tɤ ku˨˩.laʊ̯˨˩˦ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥] (Wǎn-nán Huī-pài mín-jū yǐ gāo-sǒng de mǎ-tóu-qiáng, jīng-qiǎo de tiān-jǐng yǔ zhuān-mù-shí sān-diāo zhù-chēng, \"sì-shuǐ-guī-táng\" jì-tuō zhe jù-cái-nà-fú yǔ tiān-rén-hé-yī de gǔ-lǎo zhé-xué.)",
+          "translation": "Southern Anhui Huizhou-style residences are renowned for soaring horse-head walls, delicate courtyards, and brick-wood-stone three carvings; 'four waters returning to the hall' embodies the ancient philosophy of gathering wealth and harmony between man and nature."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "客家土楼以生土厚墙夯筑成宏伟的环形堡垒，数百族人聚族而居，展现出御敌防震与宗族和睦的非凡营造智慧。(Kèjiā tǔlóu yǐ shēngtǔ hòugiáng hāngzhù chéng hóngwěi de huánxíng bǎolěi, shù bǎi zúrén jùzú-érjū, zhǎnxiàn chū yùdí-fángzhèn yǔ zōngzú hémù de fēifán yíngzào zhìhuì.)",
+          "reading": "[kʰɤ˥˩.t͡ɕja˥ tʰu˨˩.loʊ̯˧˥ i˨˩˦ ʂəŋ˥.tʰu˨˩˦ xoʊ̯˥˩.t͡ɕʰjaŋ˧˥ xɑŋ˥.ʈ͡ʂu˥˩ ʈ͡ʂʰəŋ˧˥ xʊŋ˧˥.weɪ̯˨˩˦ tɤ xwan˧˥.ɕiŋ˧˥ paʊ̯˨˩.leɪ̯˨˩˦, ʂu˥˩ paɪ̯˨˩˦ t͡su˧˥.ʐən˧˥ t͡ɕy˥˩.t͡su˧˥-ar˧˥.t͡ɕy˥, ʈ͡ʂan˨˩.ɕjɛn˥˩ t͡ʂʰu˥ y˥˩.ti˧˥-fɑŋ˧˥.ʈ͡ʂən˥˩ y˨˩˦ t͡sʊŋ˥.t͡su˧˥ xɤ˧˥.mu˥˩ tɤ feɪ̯˥.fan˧˥ iŋ˧˥.t͡saʊ̯˥˩ ʈ͡ʂɨ˥˩.xweɪ̯˥˩] (Kè-jiā tǔ-lóu yǐ shēng-tǔ hòu-qiáng hāng-zhù chéng hóng-wěi de huán-xíng bǎo-lěi, shù bǎi zú-rén jù-zú-'ér-jū, zhǎn-xiàn chū yù-dí-fáng-zhèn yǔ zōng-zú hé-mù de fēi-fán yíng-zào zhì-huì.)",
+          "translation": "Hakka Tulou rammed thick walls of raw earth into magnificent circular fortresses where hundreds of clansmen dwelt together, demonstrating extraordinary building wisdom in defense, earthquake resistance, and clan harmony."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "北京四合院以正房、厢房与垂花门严密围合，在藏风聚气与长幼有序中构建起温润安详的北方传统家庭栖居空间。(Běijīng sìhéyuàn yǐ zhèngfáng, xiāngfáng yǔ chuíhuāmén yánmì wéihé, zài cángfēng-jùqì yǔ zhǎngyòu-yǒuxù zhōng gòujiàn qǐ wēnrùn ānxiáng de Běifāng chuántǒng jiātíng qījū kōngjiān.)",
+          "reading": "[peɪ̯˨˩.t͡ɕiŋ˥ sɨ˥˩.xɤ˧˥.yɥɛn˥˩ i˨˩˦ ʈ͡ʂəŋ˥˩.fɑŋ˧˥, ɕjaŋ˥.fɑŋ˧˥ y˨˩˦ t͡ʂʰweɪ̯˧˥.xwa˥.mən˧˥ jan˧˥.mi˥˩ weɪ̯˧˥.xɤ˧˥, t͡saɪ̯˥˩ t͡sʰɑŋ˧˥.fəŋ˥-t͡ɕy˥˩.t͡ɕʰi˥˩ y˨˩˦ ʈ͡ʂɑŋ˨˩.joʊ̯˥˩-joʊ̯˨˩.ɕy˥˩ ʈ͡ʂʊŋ˥ koʊ̯˥˩.t͡ɕjɛn˥˩ t͡ɕʰi˨˩˦ wən˥.ʐwn˥˩ an˥.ɕjaŋ˧˥ tɤ peɪ̯˨˩.fɑŋ˥ ʈ͡ʂʰwan˧˥.tʰʊŋ˧˥ t͡ɕja˥.tʰiŋ˧˥ t͡ɕʰi˥.t͡ɕy˥ kʰʊŋ˥.t͡ɕjɛn˥] (Běi-jīng sì-hé-yuàn yǐ zhèng-fáng, xiāng-fáng yǔ chuí-huā-mén yán-mì wéi-hé, zài cáng-fēng-jù-qì yǔ zhǎng-yòu-yǒu-xù zhōng gòu-jiàn qǐ wēn-rùn ān-xiáng de Běi-fāng chuán-tǒng jiā-tíng qī-jū kōng-jiān.)",
+          "translation": "The Beijing Siheyuan tightly encloses with main rooms, wing rooms, and festooned gates, constructing a gentle and serene Northern traditional family dwelling space amidst sheltering wind, gathering energy, and seniority order."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "黄土窑洞之冬暖夏凉与西南吊脚楼之依山凭虚，无不深刻体现了因地制宜、顺应自然的人居生态哲学。(Huángtǔ yáodòng zhī dōngnuǎn-xiàliáng yǔ Xīnán diàojiǎolóu zhī yīshān-píngxū, wúbù shēnkè tǐxiàn le yīndì-zhìyí, shùnyìng-zìrán de rénjū shēngtài zhéxué.)",
+          "reading": "[xwaŋ˧˥.tʰu˨˩˦ jaʊ̯˧˥.tʊŋ˥˩ ʈ͡ʂɨ˥ tʊŋ˥.nwan˨˩˦-ɕja˥˩.ljaŋ˧˥ y˨˩˦ ɕi˥.nan˧˥ tjaʊ̯˥˩.t͡ɕjaʊ̯˨˩.loʊ̯˧˥ ʈ͡ʂɨ˥ i˥.ʂan˥-pʰiŋ˧˥.ɕy˥, wu˧˥.pu˥˩ ʂən˥.kʰɤ˥ tʰi˨˩.ɕjɛn˥˩ lɤ in˥.ti˥˩-ʈ͡ʂɨ˥˩.i˧˥, ʂwn˥˩.iŋ˥˩-t͡sɨ˥˩.ʐan˧˥ tɤ ʐən˧˥.t͡ɕy˥ ʂəŋ˥.tʰaɪ̯˥˩ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥] (Huáng-tǔ yáo-dòng zhī dōng-nuǎn-xià-liáng yǔ Xī-nán diào-jiǎo-lóu zhī yī-shān-píng-xū, wú-bù shēn-kè tǐ-xiàn le yīn-dì-zhì-yí, shùn-yìng-zì-rán de rén-jū shēng-tài zhé-xué.)",
+          "translation": "The winter-warm and summer-cool Loess cave-dwellings and the Southwest stilt houses leaning on mountains and resting on air profoundly embody the ecological habitat philosophy of adapting to local conditions and complying with nature."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "徽派马头归堂水，土楼夯土聚族辉；四合院落垂花美，窑洞吊脚顺天为！"
+      ],
+      "culturalNotes": [
+        "中国传统民居充分展现了「因天之时，就地之利」的生态建造智慧，不论是徽派、四合院、土楼还是窑洞，都是人与自然和谐共生的典范。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第4讲）的标准汉语规范？",
+          "prompt": "皖南徽派建筑中，高出于屋顶、呈阶梯状用于阻断火灾蔓延的特色防火山墙被称为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (33.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (33.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (33.4.w3)"
+            "马头墙 / 封火墙 (Horse-head wall / Fireproof wall)",
+            "矮土墙",
+            "玻璃幕墙",
+            "铁丝网"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「马头墙」是徽派建筑最鲜明的视觉标志与防火安全构件，黑白错落，极具韵律美。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "福建闽西南地区客家人用生土、糯米浆等原料夯筑而成、供整族聚居且具极强御敌防震功能的宏大民居是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "客家土楼 (Hakka Tulou)",
+            "蒙古包",
+            "竹楼",
+            "冰屋"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "福建客家土楼是世界民居建筑史上的奇迹，展现了非凡的防御性聚族而居营造智慧。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第33.4题）",
+          "prompt": "徽派建筑四面屋顶坡向天井、雨水顺流而下汇聚天井中央的建筑形制与文化寓意被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (33.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (33.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (33.4.x3)"
+            "四水归堂 (Four waters returning to the hall)",
+            "漏水成灾",
+            "肥水外流",
+            "大水冲庙"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「四水归堂」既利于采光通风与排水收集，又寄托了徽商「肥水不流外人田」与聚财合气的文化愿望。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u33-l4）所要求的高阶语言表达？",
+          "prompt": "北京四合院中用于连接前院与内宅、雕刻极其华美精巧的二门被称为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (33.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (33.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (33.4.y3)"
+            "垂花门 (Festooned Gate / Hanging Flower Gate)",
+            "大铁门",
+            "卷帘门",
+            "玻璃转门"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「垂花门」因梁枋下悬垂倒挂雕花短柱而得名，是四合院内外院分界与装饰的核心标志。"
         }
       ]
     },
@@ -19674,25 +19686,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 33-4）：",
+          "prompt": "请选出下列关于中国地域传统民居多样性与生态人居智慧评述最深刻、最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (33.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (33.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (33.4.z3)"
+            "中国传统地域民居生动诠释了因地制宜与人地和谐的营造智慧：皖南徽派以马头墙防火、「四水归堂」聚气纳福，三雕融文人之雅；客家土楼夯生土筑堡垒，聚族和睦而居以御敌防震；北京四合院垂花掩映，在长幼尊卑中藏风聚气；黄土窑洞与西南吊脚楼依山就势、顺应自然。多姿多彩的民居图谱凝结着中华民族诗意栖居的永恒基因！(徽派马头墙四水归堂、客家土楼聚族御敌、四合院垂花礼制、窑洞吊脚楼生态智慧全景融通)",
+            "中国古代老百姓住的房子全国都一模一样，没有任何地方差异。(严重违背事实的荒谬偏见)",
+            "地域民居被马头墙在四水归堂客家土楼垂花门因地制宜。(生硬拼凑无语法逻辑)",
+            "所有传统民居都落后破旧，必须全部推倒改建成千篇一律的水泥高楼。(粗暴破坏历史建筑遗产的错误言论)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段系统融贯了徽派建筑、客家土楼、北京四合院与窑洞吊脚楼的营造特征与生态人居哲学，立论高远，文辞雅正。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u33-l4）的核心关键词（例如「中国传统」）：",
+          "prompt": "请输入皖南徽派建筑中屋顶雨水从四面坡汇聚流入天井、象征聚财聚气与天人和谐的核心四字格局名称（拼音为 sìshuǐ-guītáng）：",
           "acceptedAnswers": [
-            "中国传统",
-            "中国传统建筑",
-            "中国传统建筑与空间美学"
+            "四水归堂"
           ],
-          "explanation": "正确的核心关键词为「中国传统」。"
+          "explanation": "术语「四水归堂」是徽派民居天井空间格局与传统文化心理的最核心体现。"
         }
       ],
       "passThreshold": 0.8
@@ -19703,85 +19713,89 @@
     "subject": "mandarin",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics) (第5讲)",
+    "title": "木石天工、天人合一与中国空间美学哲学综合叙事篇章 (Comprehensive Spatial Aesthetics: Craftsmanship & Harmony with Nature)",
     "level": "C2",
-    "objective": "全面掌握与熟练运用本课核心内容：紫禁城轴线布局、江南园林借景造园艺术、抬梁穿斗木构架力学哲学。 (第5部分)。",
+    "objective": "全面融通大木作与榫卯斗栱（力学与模数）、帝都中轴线与礼制空间（考工记与紫禁城）、江南园林造园美学（借景/框景/虽由人作宛自天开）、地域民居生态智慧（徽派/土楼/四合院/窑洞），撰写文辞典雅、意境深远、展现东方空间营造哲学的巅峰叙事篇章。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是中国传统建筑、古典园林与空间美学哲学的巅峰集大成篇章，展现了中华民族数千年来在木石营造与天地秩序间探索出的东方生存智慧：\n\n一、东方建筑空间营造四大美学支柱图谱：\n1. 构架力学（大木之魂）：不用铁钉的榫卯阴阳咬合，层层出挑的斗栱承重，北宋《营造法式》模数制与五台山佛光寺唐代大木作神韵。\n2. 礼制空间（中轴营国）：《考工记》面朝后市、左祖右社古制，7.8公里北京中轴线与紫禁城重檐庑殿金碧辉煌，彰显择中而居与皇极天下。\n3. 文人造园（咫尺山林）：计成《园冶》「虽由人作，宛自天开」，借景生情、月洞框景、漏窗留白，太湖石瘦漏透皱构筑避世寄情的诗性桃花源。\n4. 生态人居（人地和谐）：徽派粉墙黛瓦马头墙与四水归堂，客家土楼夯土聚族御敌，四合院垂花深锁藏风聚气，窑洞吊脚楼因地借势顺应自然。\n\n二、全景式木石天工与中国空间美学综合范文赏析：\n- 伐木构堂，因山为池；虽由人作，宛自天开。中国传统建筑与空间美学，是中华民族关于宇宙秩序与诗意栖居的永恒物化载体。回眸千年营造文脉之壮丽气象：东方大木作以榫卯为筋骨，以斗栱为飞翼，在五台山佛光寺的唐构宏波中化重力为轻灵，不用一铁而收柔性抗震之神功；北京中轴线承袭《考工记》规制，以七点八公里磅礴气势纵贯皇城乾坤，太和重檐俯临九卿三朝，化儒家礼制为巍巍空间秩序；江南名园在粉墙翠竹间施展移步换景神技，以拙政网师之水纳北寺之塔，以太湖奇石之瘦漏透皱寄托隐逸情怀；徽派马头高耸、四水归堂纳福，客家土楼环筑、聚族御敌防震，四合窑洞因地制宜，各安其居。木石天工，融通造化；天人合一，道法自然。当代中国建筑人承继千载匠心风骨，必将在守正创新中再筑震撼世界的现代东方营建新传奇！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "伐木构堂，因山为池；虽由人作，宛自天开。中国传统建筑与空间美学，是中华民族关于宇宙秩序与诗意栖居的永恒物化载体。(Fámù-gòutáng, yīnshān-wéichí; suī yóu rén zuò, wǎn zì tiān kāi. Zhōngguó chuántǒng jiànzhù yǔ kōngjiān měixué, shì Zhōnghuá mínzú guānyú yǔzhòu zhìxù yǔ shīyì qījū de yǒnghéng wùhuà zàitǐ.)",
+          "reading": "[fa˧˥.mu˥˩-koʊ̯˥˩.tʰɑŋ˧˥, in˥.ʂan˥-weɪ̯˧˥.t͡ʂʰɨ˧˥; sweɪ̯˥ joʊ̯˧˥ ʐən˧˥ t͡swɔ˥˩, wan˨˩˦ t͡sɨ˥˩ tʰjɛn˥ kʰaɪ̯˥. ʈ͡ʂʊŋ˥.kwo˧˥ ʈ͡ʂʰwan˧˥.tʰʊŋ˧˥ t͡ɕjɛn˥˩.ʈ͡ʂu˥˩ y˨˩˦ kʰʊŋ˥.t͡ɕjɛn˥ meɪ̯˨˩.ɕɥɛ˧˥, ʂɨ˥˩ ʈ͡ʂʊŋ˥.xwa˧˥ min˧˥.t͡su˧˥ kwan˥.y˧˥ y˨˩˦.ʈ͡ʂoʊ̯˥˩ ʈ͡ʂɨ˥˩.ɕy˥˩ y˨˩˦ ʂɨ˥.i˥˩ t͡ɕʰi˥.t͡ɕy˥ tɤ jʊŋ˨˩˦.xəŋ˧˥ wu˥˩.xwa˥˩ t͡saɪ̯˥˩.tʰi˨˩˦] (Fá-mù-gòu-táng, yīn-shān-wéi-chí; suī yóu rén zuò, wǎn zì tiān kāi. Zhōng-guó chuán-tǒng jiàn-zhù yǔ kōng-jiān měi-xué, shì Zhōng-huá mín-zú guān-yú yǔ-zhòu zhì-xù yǔ shī-yì qī-jū de yǒng-héng wù-huà zài-tǐ.)",
+          "translation": "Felling timber to construct halls, adapting to mountains to create ponds; although made by human hands, appearing as if created by nature. Traditional Chinese architecture and spatial aesthetics are the eternal materialized carrier of the Chinese nation's cosmic order and poetic dwelling."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "从紫禁城纵贯乾坤的中轴礼制，到佛光寺斗栱出挑的大唐风骨，东方大木作以榫卯相扣的柔韧之美，演绎着刚柔并济的古老智慧。(Cóng Zǐjìnchéng zòngguàn qiánkūn de zhōngzhóu lǐzhì, dào Fóguāngsì dǒugǒng chūtiāo de Dà Táng fēnggǔ, Dōngfāng dàmùzuò yǐ sǔnmǎo xiāngkòu de róurèn zhī měi, yǎnyì zhe gāngróu-bìngjì de gǔlǎo zhìhuì.)",
+          "reading": "[t͡sʰʊŋ˧˥ t͡sɨ˨˩.t͡ɕin˥˩.ʈ͡ʂʰəŋ˧˥ t͡sʊŋ˥˩.kwan˥˩ t͡ɕʰjɛn˧˥.kʰwn˥ tɤ ʈ͡ʂʊŋ˥.ʈ͡ʂoʊ̯˧˥ li˨˩.ʈ͡ʂɨ˥˩, taʊ̯˥˩ fwo˧˥.kwaŋ˥.sɨ˥ toʊ̯˨˩.koʊŋ˨˩˦ t͡ʂʰu˥.tʰjaʊ̯˥ tɤ ta˥˩ tʰɑŋ˧˥ fəŋ˥.ku˨˩˦, tʊŋ˥.fɑŋ˥ ta˥˩.mu˥˩.t͡swɔ˥˩ i˨˩˦ swn˨˩.maʊ̯˨˩˦ ɕjaŋ˥.kʰoʊ̯˥˩ tɤ ʐoʊ̯˧˥.ʐən˥˩ ʈ͡ʂɨ˥ meɪ̯˨˩˦, jan˨˩˦.i˥˩ zɤ kɑŋ˥.ʐoʊ̯˧˥-piŋ˥˩.t͡ɕi˥˩ tɤ ku˨˩.laʊ̯˨˩˦ ʈ͡ʂɨ˥˩.xweɪ̯˥˩] (Cóng Zǐ-jìn-chéng zòng-guàn qián-kūn de zhōng-zhóu lǐ-zhì, dào Fó-guāng-sì dǒu-gǒng chū-tiāo de Dà Táng fēng-gǔ, Dōng-fāng dà-mù-zuò yǐ sǔn-mǎo xiāng-kòu de róu-rèn zhī měi, yǎn-yì zhe gāng-róu-bìng-jì de gǔ-lǎo zhì-huì.)",
+          "translation": "From the Forbidden City's central axis rituals traversing heaven and earth to Foguang Temple's cantilevered bracket sets of Great Tang character, Eastern master carpentry deduces the ancient wisdom of combining hardness with softness through the resilient beauty of interlocking mortise and tenon."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "江南园林借景框景，以咫尺山林纳无限烟霞；地域民居因地制宜，马头墙黛瓦与土楼环聚各展其美，将天人合一理念融入烟火人间。(Jiāngnán yuánlín jièjǐng-kuàngjǐng, yǐ zhǐchǐ-shānlín nà wúxiàn yānxiá; dìyù mínjū yīndì-zhìyí, mǎtóuqiáng dàiwǎ yǔ tǔlóu huánjù gè zhǎn qí měi, jiāng tiānrén-héyī lǐniàn róngrù yānhuǒ rénjiān.)",
+          "reading": "[t͡ɕjɑŋ˥.nan˧˥ yɥɛn˧˥.lin˧˥ t͡ɕjɛ˥˩.t͡ɕiŋ˨˩˦-kʰwaŋ˥˩.t͡ɕiŋ˨˩˦, i˨˩˦ ʈ͡ʂɨ˨˩.t͡ʂʰɨ˨˩˦-ʂan˥.lin˧˥ na˥˩ wu˧˥.ɕjɛn˥˩ jɛn˥.ɕja˧˥; ti˥˩.y˥˩ min˧˥.t͡ɕy˥ in˥.ti˥˩-ʈ͡ʂɨ˥˩.i˧˥, ma˨˩.tʰoʊ̯˧˥.t͡ɕʰjaŋ˧˥ taɪ̯˥˩.wa˨˩˦ y˨˩˦ tʰu˨˩.loʊ̯˧˥ xwan˧˥.t͡ɕy˥˩ kɤ˥˩ ʈ͡ʂan˨˩˦ t͡ɕʰi˧˥ meɪ̯˨˩˦, t͡ɕjɑŋ˥ tʰjɛn˥.ʐən˧˥-xɤ˧˥.i˥ li˨˩.njɛn˥˩ ʐʊŋ˧˥.ʐu˥˩ jɛn˥.xwo˨˩˦ ʐən˧˥.t͡ɕjɛn˥] (Jiāng-nán yuán-lín jiè-jǐng-kuàng-jǐng, yǐ zhǐ-chǐ-shān-lín nà wú-xiàn yān-xiá; dì-yù mín-jū yīn-dì-zhì-yí, mǎ-tóu-qiáng dài-wǎ yǔ tǔ-lóu huán-jù gè zhǎn qí měi, jiāng tiān-rén-hé-yī lǐ-niàn róng-rù yān-huǒ rén-jiān.)",
+          "translation": "Jiangnan gardens borrow and frame scenery, gathering infinite mists into wilderness within arm's reach; regional dwellings adapt to local circumstances, with horse-head walls, black tiles, and circular Tulou fortresses each displaying their beauty, integrating the concept of harmony between man and nature into the bustling human world."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "溯源千载营造文脉，汲取东方空间哲学精髓，当代中国建筑必将在古今交融的守正创新中，再筑惊艳世界的建筑文明新丰碑！(Sùyuán qiānzǎi yíngzào wénmài, jíqǔ Dōngfāng kōngjiān zhéxué jīngsuǐ, dāngdài Zhōngguó jiànzhù bìjiāng zài gǔjīn-jiāoróng de shǒuzhèng-chuàngxīn zhōng, zài zhù jīngyàn shìjiè de jiànzhù wénmíng xīn fēngbēi!)",
+          "reading": "[su˥˩.yɥɛn˧˥ t͡ɕʰjɛn˥.t͡saɪ̯˨˩˦ iŋ˧˥.t͡saʊ̯˥˩ wən˧˥.maɪ̯˥˩, t͡ɕi˧˥.t͡ɕʰy˨˩˦ tʊŋ˥.fɑŋ˥ kʰʊŋ˥.t͡ɕjɛn˥ ʈ͡ʂɤ˧˥.ɕɥɛ˧˥ t͡ɕiŋ˥.sweɪ̯˨˩˦, tɑŋ˥.taɪ̯˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ t͡ɕjɛn˥˩.ʈ͡ʂu˥˩ pi˥˩.t͡ɕjɑŋ˥ t͡saɪ̯˥˩ ku˨˩.t͡ɕin˥-t͡ɕjaʊ̯˥.ʐʊŋ˧˥ tɤ ʂoʊ̯˨˩.ʈ͡ʂəŋ˥˩-t͡ʂʰwaŋ˥˩.ɕin˥ ʈ͡ʂʊŋ˥, t͡saɪ̯˥˩ ʈ͡ʂu˥˩ t͡ɕiŋ˥.jan˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ tɤ t͡ɕjɛn˥˩.ʈ͡ʂu˥˩ wən˧˥.miŋ˧˥ ɕin˥ fəŋ˥.peɪ̯˥] (Sù-yuán qiān-zǎi yíng-zào wén-mài, jí-qǔ Dōng-fāng kōng-jiān zhé-xué jīng-suǐ, dāng-dài Zhōng-guó jiàn-zhù bì-jiāng zài gǔ-jīn-jiāo-róng de shǒu-zhèng-chuàng-xīn zhōng, zài zhù jīng-yàn shì-jiè de jiàn-zhù wén-míng xīn fēng-bēi!)",
+          "translation": "Tracing thousand-year building traditions and absorbing the essence of Eastern spatial philosophy, contemporary Chinese architecture will surely erect new monuments of architectural civilization that stun the world amidst upright innovation fusing past and present!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "斗栱榫卯轴线尊，园林借景化天工；土楼徽派人居美，天人合一驻时空！"
+      ],
+      "culturalNotes": [
+        "中国传统空间美学是「天人合一」哲学的物化。从巍峨紫禁城到玲珑拙政园，从大木作到乡土民居，人始终居于天地之中，在建筑与自然的对话中安顿心灵。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」（第5讲）的标准汉语规范？",
+          "prompt": "在中国传统建筑与空间美学体系中，贯穿宫殿规划、园林营造与乡土民居的最核心哲学基石是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的核心语法法则与应用范例 (33.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (33.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (33.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (33.5.w3)"
+            "天人合一与道法自然 (Harmony between humanity and nature / Following the ways of nature)",
+            "征服自然改造自然",
+            "钢筋混凝土至上",
+            "盲目崇洋媚外"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「天人合一」是中国空间营造哲学的灵魂，追求建筑、人类与大自然的终极和谐交融。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在古典园林与文人空间美学中，用来形容在极其有限的庭院空间内营造出崇山峻岭、深山幽谷深远意境的四字成语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "咫尺山林 (Wilderness within a few feet / Nature in miniature)",
+            "空空如也",
+            "一马平川",
+            "乱七八糟"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "成语「咫尺山林」精准概括了江南园林小中见大、壶中天地的造园意境精髓。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第33.5题）",
+          "prompt": "请选出下列关于中国传统空间营造体系全景总结中视野最宏阔、法理最精湛的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (33.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (33.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (33.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (33.5.x3)"
+            "东方营建融通木石天工与宇宙秩序：大木作以榫卯斗栱筑牢柔性抗震之脊梁，北京中轴线与紫禁城以考工礼制立帝都纲维，江南园林以《园冶》借景框景筑造咫尺山林，地域民居以徽派马头墙与客家土楼融人居于乡土。千载文脉生动彰显着天人合一的东方空间智慧！(大木作、中轴礼制、文人园林、地域民居与天人合一哲学全景融通)",
+            "古代建筑就是木头搭的棚子，容易着火，没有任何艺术价值。(极具破坏性的无知言论)",
+            "木石天工被榫卯斗栱在中轴线紫禁城园林咫尺山林土楼徽派。(词句生硬堆砌)",
+            "古代所有建筑都是给皇帝一个人修的，老百姓没有任何建筑文化。(严重抹杀民间建筑营造智慧)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项全景融贯了大木作、中轴礼制、江南园林与乡土民居，文笔典雅宏伟，极具学术审美深度。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u33-l5）所要求的高阶语言表达？",
+          "prompt": "形容匠人技艺精湛绝伦、工艺巧夺天工、如同自然神力造就般的经典赞誉成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (33.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (33.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (33.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (33.5.y3)"
+            "巧夺天工 / 鬼斧神工 (Craftsmanship surpassing nature / Divine workmanship)",
+            "粗制滥造",
+            "偷工减料",
+            "滥竽充数"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "成语「巧夺天工」形容人工技艺高超精妙到了胜过天然造化的神妙境界。"
         }
       ]
     },
@@ -19789,25 +19803,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中国传统建筑与空间美学 (Traditional Architecture & Spatial Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 33-5）：",
+          "prompt": "请选出下列关于中国传统建筑、园林营造与空间美学哲学综合语篇中格局最宏大、哲思与文辞最登峰造极的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (33.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (33.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (33.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (33.5.z3)"
+            "伐木构堂，因山为池；虽由人作，宛自天开。中国传统建筑与空间美学展现出天人合一的东方营造至境：大木作以榫卯斗栱之柔韧承托唐宋风骨，不用一铁而化重力于无形；北京中轴线与紫禁城依《考工记》而建，七点八公里中正秩序彰显礼制威仪；江南园林以拙政网师之水借天下烟霞，以太湖石瘦漏透皱安顿文人诗心；徽派马头四水归堂、客家土楼夯土聚族，因地制宜融于万千气象。木石天工与天地秩序交融，谱写出中华民族诗意栖居的永恒史诗！(全篇结构严整磅礴，融通大木作、中轴礼制、文人造园与地域民居，哲思深邃，文质兼美，中国建筑美学之巅峰叙事)",
+            "古代建筑就是木头房子容易腐烂，现在全世界都只住玻璃摩天大楼，传统建筑没有任何学习价值。(全盘否定传统文化底蕴的偏激错误论调)",
+            "中国建筑被榫卯斗栱在营造法式中轴线园林借景框景四水归堂。(概念堆砌毫无语法逻辑)",
+            "盖房子只要能遮风挡雨就行，讨论什么空间美学和天人合一都是故弄玄虚。(庸俗功利主义偏见)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇系统熔铸大木作榫卯斗栱、北京中轴线礼制、江南古典园林与典型地域民居，文笔极其典雅优美，哲思博大精微，堪称中国建筑空间美学的至高范本。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u33-l5）的核心关键词（例如「中国传统」）：",
+          "prompt": "请输入形容中国传统哲学与建筑美学中人与大自然、建筑与宇宙环境和谐共融终极境界的核心四字成语（例如「的理念」；拼音为 tiānrén-héyī）：",
           "acceptedAnswers": [
-            "中国传统",
-            "中国传统建筑",
-            "中国传统建筑与空间美学"
+            "天人合一"
           ],
-          "explanation": "正确的核心关键词为「中国传统」。"
+          "explanation": "哲学成语「天人合一」是中国传统建筑营建、园林设计与生态栖居的灵魂所在。"
         }
       ],
       "passThreshold": 0.8
