@@ -5483,10 +5483,27 @@
       "level": "B1"
     },
     {
-      "term": "Mate & Rito del Mate (Yerba Mate)",
-      "definition": "Sacred communal infusion ritual: Cebador, bombilla, termo, sharing gourd without saying \"gracias\" until finished",
-      "category": "Cultural Traditions",
-      "level": "A1"
+      "term": "Mate",
+      "definition": "Traditional South American caffeine-rich herbal infusion brewed in a hollowed gourd from Ilex paraguariensis leaves, sipped through a metal bombilla straw; the supreme ritual of Argentine hospitality and fraternity.",
+      "category": "Cultura Rioplatense y Costumbres (Rioplatense Culture)",
+      "level": "A1 / Básico",
+      "pronunciation": "[ˈma.te]",
+      "partOfSpeech": "Sustantivo masculino (Noun)",
+      "examples": [
+        {
+          "target": "Compartir una ronda de mates con amigos es el símbolo máximo de la amistad y la confianza en Argentina.",
+          "translation": "Sharing a round of mate with friends is the ultimate symbol of friendship and trust in Argentina."
+        },
+        {
+          "target": "El cebador es el encargado de preparar y servir el mate a todos los presentes en la ronda.",
+          "translation": "The cebador is responsible for preparing and serving the mate to everyone present in the circle."
+        }
+      ],
+      "synonyms": [
+        "Cimarrón (amargo)",
+        "Verde"
+      ],
+      "register": "General / Rioplatense"
     },
     {
       "term": "Asado & Parrilla (Argentine Barbecue)",
@@ -5673,6 +5690,78 @@
       "definition": "Vibrant Argentine software engineering and tech startup ecosystem producing global tech leaders",
       "category": "Tech & Economy",
       "level": "B2 / C1"
+    },
+    {
+      "term": "Chamuyo",
+      "pronunciation": "[tʃaˈmu.ʒo]",
+      "partOfSpeech": "Sustantivo masculino / Lunfardo (Noun)",
+      "definition": "Smooth, sweet-talking flattery, persuasive silver-tongued conversation or sweet banter used to charm, flirt, or convince someone effortlessly.",
+      "category": "Lunfardo y Calle (Lunfardo & Street Slang)",
+      "level": "B1 / Intermedio",
+      "examples": [
+        {
+          "target": "Tiene un chamuyo tan convincente que logró cerrar el acuerdo comercial en minutos.",
+          "translation": "He has such convincing smooth talk (chamuyo) that he managed to close the business deal in minutes."
+        },
+        {
+          "target": "En el tango, el chamuyo al oído de la pareja crea una complicidad única en la pista de baile.",
+          "translation": "In tango, whispering sweet words (chamuyo) into the partner's ear creates unique complicity on the dance floor."
+        }
+      ],
+      "synonyms": [
+        "Labia",
+        "Parla",
+        "Flirteo"
+      ],
+      "register": "Lunfardo / Coloquial"
+    },
+    {
+      "term": "Laburo",
+      "pronunciation": "[laˈβu.ɾo]",
+      "partOfSpeech": "Sustantivo masculino / Lunfardo (Noun)",
+      "definition": "Work, job, hard labor, daily professional toil (derived from Italian \"lavoro\").",
+      "category": "Lunfardo y Trabajo (Lunfardo & Work)",
+      "level": "A2 / Básico",
+      "examples": [
+        {
+          "target": "Después de un largo día de laburo en la fábrica, solo quiero llegar a casa y descansar.",
+          "translation": "After a long day of hard work (laburo) at the factory, I only want to get home and rest."
+        },
+        {
+          "target": "Conseguir un buen laburo requiere constancia, dedicación y preparación continua.",
+          "translation": "Landing a good job (laburo) requires perseverance, dedication, and continuous preparation."
+        }
+      ],
+      "synonyms": [
+        "Trabajo (work)",
+        "Empleo",
+        "Chamba"
+      ],
+      "register": "Lunfardo / Coloquial"
+    },
+    {
+      "term": "Pique",
+      "pronunciation": "[ˈpi.ke]",
+      "partOfSpeech": "Sustantivo masculino (Noun)",
+      "definition": "1. In Argentine football: sudden explosive burst of sprint acceleration. 2. A quick tip or insightful recommendation (tirar un pique).",
+      "category": "Fútbol y Vida Cotidiana (Sports & Everyday Slang)",
+      "level": "B1 / Intermedio",
+      "examples": [
+        {
+          "target": "El delantero metió un pique formidable para superar al defensor y anotar el gol decisivo.",
+          "translation": "The forward unleashed a formidable sprint burst (pique) to outpace the defender and score the decisive goal."
+        },
+        {
+          "target": "Pasame el pique de dónde conseguir las mejores empanadas caseras de Buenos Aires.",
+          "translation": "Give me the tip (pique) on where to get the best homemade empanadas in Buenos Aires."
+        }
+      ],
+      "synonyms": [
+        "Aceleración",
+        "Pique corto",
+        "Dato útil"
+      ],
+      "register": "Coloquial / Deportivo"
     }
   ],
   "brazilian-portuguese": [
