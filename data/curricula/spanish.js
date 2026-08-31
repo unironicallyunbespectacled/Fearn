@@ -2,448 +2,448 @@
 (function (global) {
   'use strict';
   var UNITS = [
-    {
-        "id": "u1",
-        "name": "Unit 1",
-        "goal": "By the end of this unit, learners can greet people appropriately and introduce themselves with basic personal details. Grammar/vocabulary focus: Greetings, ser vs. estar introduction, subject pronouns, basic self-introduction.",
-        "level": "A1",
-        "lessonIds": [
-            "es-u1-l1",
-            "es-u1-l2",
-            "es-u1-l3",
-            "es-u1-l4",
-            "es-u1-l5"
-        ]
-    },
-    {
-        "id": "u2",
-        "name": "Unit 2",
-        "goal": "By the end of this unit, learners can state numbers, tell time, and talk about dates and days of the week. Grammar/vocabulary focus: Numbers 0–100, telling time, days/months, the existential hay.",
-        "level": "A1",
-        "lessonIds": [
-            "es-u2-l1",
-            "es-u2-l2",
-            "es-u2-l3",
-            "es-u2-l4",
-            "es-u2-l5"
-        ]
-    },
-    {
-        "id": "u3",
-        "name": "Unit 3",
-        "goal": "By the end of this unit, learners can describe their immediate family and other people using simple sentences. Grammar/vocabulary focus: Family vocabulary, possessive adjectives, ser de + origin.",
-        "level": "A1",
-        "lessonIds": [
-            "es-u3-l1",
-            "es-u3-l2",
-            "es-u3-l3",
-            "es-u3-l4",
-            "es-u3-l5"
-        ]
-    },
-    {
-        "id": "u4",
-        "name": "Unit 4",
-        "goal": "By the end of this unit, learners can form basic present-tense sentences describing states and actions. Grammar/vocabulary focus: Present tense of regular -ar/-er/-ir verbs, gender/number agreement.",
-        "level": "A1",
-        "lessonIds": [
-            "es-u4-l1",
-            "es-u4-l2",
-            "es-u4-l3",
-            "es-u4-l4",
-            "es-u4-l5"
-        ]
-    },
-    {
-        "id": "u5",
-        "name": "Unit 5",
-        "goal": "By the end of this unit, learners can describe a typical daily routine using common action verbs. Grammar/vocabulary focus: Daily-routine reflexive verbs, key present-tense irregulars (tener, ir).",
-        "level": "A1",
-        "lessonIds": [
-            "es-u5-l1",
-            "es-u5-l2",
-            "es-u5-l3",
-            "es-u5-l4",
-            "es-u5-l5"
-        ]
-    },
-    {
-        "id": "u6",
-        "name": "Unit 6",
-        "goal": "By the end of this unit, learners can order food and drink and talk about likes and dislikes at a basic level. Grammar/vocabulary focus: Food vocabulary, gustar-type verbs, ordering with querer/poder.",
-        "level": "A1",
-        "lessonIds": [
-            "es-u6-l1",
-            "es-u6-l2",
-            "es-u6-l3",
-            "es-u6-l4",
-            "es-u6-l5"
-        ]
-    },
-    {
-        "id": "u7",
-        "name": "Unit 7",
-        "goal": "By the end of this unit, learners can narrate simple completed past events. Grammar/vocabulary focus: Preterite tense: regular and key irregular verbs for past narration.",
-        "level": "A2",
-        "lessonIds": [
-            "es-u7-l1",
-            "es-u7-l2",
-            "es-u7-l3",
-            "es-u7-l4",
-            "es-u7-l5"
-        ]
-    },
-    {
-        "id": "u8",
-        "name": "Unit 8",
-        "goal": "By the end of this unit, learners can shop for goods, discuss prices, and compare items. Grammar/vocabulary focus: Shopping vocabulary, numbers for money, comparatives más/menos que.",
-        "level": "A2",
-        "lessonIds": [
-            "es-u8-l1",
-            "es-u8-l2",
-            "es-u8-l3",
-            "es-u8-l4",
-            "es-u8-l5"
-        ]
-    },
-    {
-        "id": "u9",
-        "name": "Unit 9",
-        "goal": "By the end of this unit, learners can ask for and give directions and describe how to get somewhere. Grammar/vocabulary focus: Prepositions of place, por vs. para, giving directions.",
-        "level": "A2",
-        "lessonIds": [
-            "es-u9-l1",
-            "es-u9-l2",
-            "es-u9-l3",
-            "es-u9-l4",
-            "es-u9-l5"
-        ]
-    },
-    {
-        "id": "u10",
-        "name": "Unit 10",
-        "goal": "By the end of this unit, learners can describe their home and daily surroundings in more detail. Grammar/vocabulary focus: Imperfect tense, describing home and past routines.",
-        "level": "A2",
-        "lessonIds": [
-            "es-u10-l1",
-            "es-u10-l2",
-            "es-u10-l3",
-            "es-u10-l4",
-            "es-u10-l5"
-        ]
-    },
-    {
-        "id": "u11",
-        "name": "Unit 11",
-        "goal": "By the end of this unit, learners can talk about health, body parts, and give simple medical descriptions. Grammar/vocabulary focus: Body vocabulary, doler + indirect object pronoun, tener que obligation.",
-        "level": "A2",
-        "lessonIds": [
-            "es-u11-l1",
-            "es-u11-l2",
-            "es-u11-l3",
-            "es-u11-l4",
-            "es-u11-l5"
-        ]
-    },
-    {
-        "id": "u12",
-        "name": "Unit 12",
-        "goal": "By the end of this unit, learners can discuss future plans and describe the weather. Grammar/vocabulary focus: Future tense (ir a + infinitive and simple future), weather expressions.",
-        "level": "A2",
-        "lessonIds": [
-            "es-u12-l1",
-            "es-u12-l2",
-            "es-u12-l3",
-            "es-u12-l4",
-            "es-u12-l5"
-        ]
-    },
-    {
-        "id": "u13",
-        "name": "Unit 13",
-        "goal": "By the end of this unit, learners can talk about their job or studies and ongoing actions. Grammar/vocabulary focus: Present progressive estar + gerund, work/study vocabulary, saber vs. conocer.",
-        "level": "B1",
-        "lessonIds": [
-            "es-u13-l1",
-            "es-u13-l2",
-            "es-u13-l3",
-            "es-u13-l4",
-            "es-u13-l5"
-        ]
-    },
-    {
-        "id": "u14",
-        "name": "Unit 14",
-        "goal": "By the end of this unit, learners can express opinions and preferences with simple justification. Grammar/vocabulary focus: Opinion verbs (creer, pensar, opinar), gustar/encantar/interesar expansion.",
-        "level": "B1",
-        "lessonIds": [
-            "es-u14-l1",
-            "es-u14-l2",
-            "es-u14-l3",
-            "es-u14-l4",
-            "es-u14-l5"
-        ]
-    },
-    {
-        "id": "u15",
-        "name": "Unit 15",
-        "goal": "By the end of this unit, learners can plan a trip and describe past travel experiences. Grammar/vocabulary focus: Travel vocabulary, present perfect (haber + participle), talking about experiences.",
-        "level": "B1",
-        "lessonIds": [
-            "es-u15-l1",
-            "es-u15-l2",
-            "es-u15-l3",
-            "es-u15-l4",
-            "es-u15-l5"
-        ]
-    },
-    {
-        "id": "u16",
-        "name": "Unit 16",
-        "goal": "By the end of this unit, learners can discuss hypothetical situations and simple conditions. Grammar/vocabulary focus: Present subjunctive introduction, hypotheticals with si + present indicative.",
-        "level": "B1",
-        "lessonIds": [
-            "es-u16-l1",
-            "es-u16-l2",
-            "es-u16-l3",
-            "es-u16-l4",
-            "es-u16-l5"
-        ]
-    },
-    {
-        "id": "u17",
-        "name": "Unit 17",
-        "goal": "By the end of this unit, learners can understand and discuss media content and report what others said. Grammar/vocabulary focus: Passive se, media vocabulary, reported speech with decir que.",
-        "level": "B1",
-        "lessonIds": [
-            "es-u17-l1",
-            "es-u17-l2",
-            "es-u17-l3",
-            "es-u17-l4",
-            "es-u17-l5"
-        ]
-    },
-    {
-        "id": "u18",
-        "name": "Unit 18",
-        "goal": "By the end of this unit, learners can talk about relationships and emotions in more nuanced ways. Grammar/vocabulary focus: Double object pronouns, subjunctive with emotion (alegrarse de que), relationships vocabulary.",
-        "level": "B1",
-        "lessonIds": [
-            "es-u18-l1",
-            "es-u18-l2",
-            "es-u18-l3",
-            "es-u18-l4",
-            "es-u18-l5"
-        ]
-    },
-    {
-        "id": "u19",
-        "name": "Unit 19",
-        "goal": "By the end of this unit, learners can debate abstract topics and support opinions with reasons. Grammar/vocabulary focus: Subjunctive for doubt/denial (dudar que, no creer que), debate connectors.",
-        "level": "B2",
-        "lessonIds": [
-            "es-u19-l1",
-            "es-u19-l2",
-            "es-u19-l3",
-            "es-u19-l4",
-            "es-u19-l5"
-        ]
-    },
-    {
-        "id": "u20",
-        "name": "Unit 20",
-        "goal": "By the end of this unit, learners can adjust tone and vocabulary between formal and informal contexts. Grammar/vocabulary focus: Formal usted vs. informal tú register, imperative mood.",
-        "level": "B2",
-        "lessonIds": [
-            "es-u20-l1",
-            "es-u20-l2",
-            "es-u20-l3",
-            "es-u20-l4",
-            "es-u20-l5"
-        ]
-    },
-    {
-        "id": "u21",
-        "name": "Unit 21",
-        "goal": "By the end of this unit, learners can report what someone else said and narrate complex event sequences. Grammar/vocabulary focus: Reported speech backshift, imperfect subjunctive introduction.",
-        "level": "B2",
-        "lessonIds": [
-            "es-u21-l1",
-            "es-u21-l2",
-            "es-u21-l3",
-            "es-u21-l4",
-            "es-u21-l5"
-        ]
-    },
-    {
-        "id": "u22",
-        "name": "Unit 22",
-        "goal": "By the end of this unit, learners can discuss more complex hypothetical and counterfactual situations. Grammar/vocabulary focus: Conditional + imperfect subjunctive (si tuviera... haría), advanced hypotheticals.",
-        "level": "B2",
-        "lessonIds": [
-            "es-u22-l1",
-            "es-u22-l2",
-            "es-u22-l3",
-            "es-u22-l4",
-            "es-u22-l5"
-        ]
-    },
-    {
-        "id": "u23",
-        "name": "Unit 23",
-        "goal": "By the end of this unit, learners can discuss environmental and social issues with supporting detail. Grammar/vocabulary focus: Passive voice ser + participle, environment/society vocabulary.",
-        "level": "B2",
-        "lessonIds": [
-            "es-u23-l1",
-            "es-u23-l2",
-            "es-u23-l3",
-            "es-u23-l4",
-            "es-u23-l5"
-        ]
-    },
-    {
-        "id": "u24",
-        "name": "Unit 24",
-        "goal": "By the end of this unit, learners can use common idiomatic expressions naturally in conversation. Grammar/vocabulary focus: Idiomatic expressions and common colloquialisms.",
-        "level": "B2",
-        "lessonIds": [
-            "es-u24-l1",
-            "es-u24-l2",
-            "es-u24-l3",
-            "es-u24-l4",
-            "es-u24-l5"
-        ]
-    },
-    {
-        "id": "u25",
-        "name": "Unit 25",
-        "goal": "By the end of this unit, learners can construct nuanced arguments with supporting and opposing viewpoints. Grammar/vocabulary focus: Advanced connectors (no obstante, sin embargo, por consiguiente).",
-        "level": "C1",
-        "lessonIds": [
-            "es-u25-l1",
-            "es-u25-l2",
-            "es-u25-l3",
-            "es-u25-l4",
-            "es-u25-l5"
-        ]
-    },
-    {
-        "id": "u26",
-        "name": "Unit 26",
-        "goal": "By the end of this unit, learners can use professional and academic language appropriately in writing and speech. Grammar/vocabulary focus: Professional/academic register, formal writing conventions.",
-        "level": "C1",
-        "lessonIds": [
-            "es-u26-l1",
-            "es-u26-l2",
-            "es-u26-l3",
-            "es-u26-l4",
-            "es-u26-l5"
-        ]
-    },
-    {
-        "id": "u27",
-        "name": "Unit 27",
-        "goal": "By the end of this unit, learners can analyze literary and cultural texts and discuss their meaning. Grammar/vocabulary focus: Literary analysis vocabulary, close reading of Spanish-language excerpts.",
-        "level": "C1",
-        "lessonIds": [
-            "es-u27-l1",
-            "es-u27-l2",
-            "es-u27-l3",
-            "es-u27-l4",
-            "es-u27-l5"
-        ]
-    },
-    {
-        "id": "u28",
-        "name": "Unit 28",
-        "goal": "By the end of this unit, learners can use a wide range of idioms and proverbs accurately. Grammar/vocabulary focus: Advanced idioms and refranes (proverbs).",
-        "level": "C1",
-        "lessonIds": [
-            "es-u28-l1",
-            "es-u28-l2",
-            "es-u28-l3",
-            "es-u28-l4",
-            "es-u28-l5"
-        ]
-    },
-    {
-        "id": "u29",
-        "name": "Unit 29",
-        "goal": "By the end of this unit, learners can use discourse markers to structure extended, natural-sounding speech. Grammar/vocabulary focus: Discourse markers (o sea, es decir, ahora bien).",
-        "level": "C1",
-        "lessonIds": [
-            "es-u29-l1",
-            "es-u29-l2",
-            "es-u29-l3",
-            "es-u29-l4",
-            "es-u29-l5"
-        ]
-    },
-    {
-        "id": "u30",
-        "name": "Unit 30",
-        "goal": "By the end of this unit, learners can understand native-speed humor, wordplay, and slang. Grammar/vocabulary focus: Native-speed slang, humor, and regional wordplay.",
-        "level": "C2",
-        "lessonIds": [
-            "es-u30-l1",
-            "es-u30-l2",
-            "es-u30-l3",
-            "es-u30-l4",
-            "es-u30-l5"
-        ]
-    },
-    {
-        "id": "u31",
-        "name": "Unit 31",
-        "goal": "By the end of this unit, learners can understand and use specialized legal, medical, and technical vocabulary. Grammar/vocabulary focus: Legal, medical, and technical Spanish vocabulary.",
-        "level": "C2",
-        "lessonIds": [
-            "es-u31-l1",
-            "es-u31-l2",
-            "es-u31-l3",
-            "es-u31-l4",
-            "es-u31-l5"
-        ]
-    },
-    {
-        "id": "u32",
-        "name": "Unit 32",
-        "goal": "By the end of this unit, learners can construct persuasive, rhetorically effective arguments. Grammar/vocabulary focus: Rhetorical persuasion structures, rhetorical questions.",
-        "level": "C2",
-        "lessonIds": [
-            "es-u32-l1",
-            "es-u32-l2",
-            "es-u32-l3",
-            "es-u32-l4",
-            "es-u32-l5"
-        ]
-    },
-    {
-        "id": "u33",
-        "name": "Unit 33",
-        "goal": "By the end of this unit, learners can recognize and adapt to dialectal and sociolinguistic variation. Grammar/vocabulary focus: Dialectal variation across Spain and Latin America.",
-        "level": "C2",
-        "lessonIds": [
-            "es-u33-l1",
-            "es-u33-l2",
-            "es-u33-l3",
-            "es-u33-l4",
-            "es-u33-l5"
-        ]
-    },
-    {
-        "id": "u34",
-        "name": "Unit 34",
-        "goal": "By the end of this unit, learners can synthesize all prior skills to communicate with near-native fluency across contexts. Grammar/vocabulary focus: Capstone: mixed-register fluency synthesis project.",
-        "level": "C2",
-        "lessonIds": [
-            "es-u34-l1",
-            "es-u34-l2",
-            "es-u34-l3",
-            "es-u34-l4",
-            "es-u34-l5"
-        ]
-    }
+  {
+    "id": "u1",
+    "name": "Unit 1",
+    "goal": "By the end of this unit, learners can greet people appropriately and introduce themselves with basic personal details. Grammar/vocabulary focus: Greetings, ser vs. estar introduction, subject pronouns, basic self-introduction.",
+    "level": "A1",
+    "lessonIds": [
+      "es-u1-l1",
+      "es-u1-l2",
+      "es-u1-l3",
+      "es-u1-l4",
+      "es-u1-l5"
+    ]
+  },
+  {
+    "id": "u2",
+    "name": "Unit 2",
+    "goal": "By the end of this unit, learners can state numbers, tell time, and talk about dates and days of the week. Grammar/vocabulary focus: Numbers 0–100, telling time, days/months, the existential hay.",
+    "level": "A1",
+    "lessonIds": [
+      "es-u2-l1",
+      "es-u2-l2",
+      "es-u2-l3",
+      "es-u2-l4",
+      "es-u2-l5"
+    ]
+  },
+  {
+    "id": "u3",
+    "name": "Unit 3",
+    "goal": "By the end of this unit, learners can describe their immediate family and other people using simple sentences. Grammar/vocabulary focus: Family vocabulary, possessive adjectives, ser de + origin.",
+    "level": "A1",
+    "lessonIds": [
+      "es-u3-l1",
+      "es-u3-l2",
+      "es-u3-l3",
+      "es-u3-l4",
+      "es-u3-l5"
+    ]
+  },
+  {
+    "id": "u4",
+    "name": "Unit 4",
+    "goal": "By the end of this unit, learners can form basic present-tense sentences describing states and actions. Grammar/vocabulary focus: Present tense of regular -ar/-er/-ir verbs, gender/number agreement.",
+    "level": "A1",
+    "lessonIds": [
+      "es-u4-l1",
+      "es-u4-l2",
+      "es-u4-l3",
+      "es-u4-l4",
+      "es-u4-l5"
+    ]
+  },
+  {
+    "id": "u5",
+    "name": "Unit 5",
+    "goal": "By the end of this unit, learners can describe a typical daily routine using common action verbs. Grammar/vocabulary focus: Daily-routine reflexive verbs, key present-tense irregulars (tener, ir).",
+    "level": "A1",
+    "lessonIds": [
+      "es-u5-l1",
+      "es-u5-l2",
+      "es-u5-l3",
+      "es-u5-l4",
+      "es-u5-l5"
+    ]
+  },
+  {
+    "id": "u6",
+    "name": "Unit 6",
+    "goal": "By the end of this unit, learners can order food and drink and talk about likes and dislikes at a basic level. Grammar/vocabulary focus: Food vocabulary, gustar-type verbs, ordering with querer/poder.",
+    "level": "A1",
+    "lessonIds": [
+      "es-u6-l1",
+      "es-u6-l2",
+      "es-u6-l3",
+      "es-u6-l4",
+      "es-u6-l5"
+    ]
+  },
+  {
+    "id": "u7",
+    "name": "Unit 7",
+    "goal": "By the end of this unit, learners can narrate simple completed past events. Grammar/vocabulary focus: Preterite tense: regular and key irregular verbs for past narration.",
+    "level": "A2",
+    "lessonIds": [
+      "es-u7-l1",
+      "es-u7-l2",
+      "es-u7-l3",
+      "es-u7-l4",
+      "es-u7-l5"
+    ]
+  },
+  {
+    "id": "u8",
+    "name": "Unit 8",
+    "goal": "By the end of this unit, learners can shop for goods, discuss prices, and compare items. Grammar/vocabulary focus: Shopping vocabulary, numbers for money, comparatives más/menos que.",
+    "level": "A2",
+    "lessonIds": [
+      "es-u8-l1",
+      "es-u8-l2",
+      "es-u8-l3",
+      "es-u8-l4",
+      "es-u8-l5"
+    ]
+  },
+  {
+    "id": "u9",
+    "name": "Unit 9",
+    "goal": "By the end of this unit, learners can ask for and give directions and describe how to get somewhere. Grammar/vocabulary focus: Prepositions of place, por vs. para, giving directions.",
+    "level": "A2",
+    "lessonIds": [
+      "es-u9-l1",
+      "es-u9-l2",
+      "es-u9-l3",
+      "es-u9-l4",
+      "es-u9-l5"
+    ]
+  },
+  {
+    "id": "u10",
+    "name": "Unit 10",
+    "goal": "By the end of this unit, learners can describe their home and daily surroundings in more detail. Grammar/vocabulary focus: Imperfect tense, describing home and past routines.",
+    "level": "A2",
+    "lessonIds": [
+      "es-u10-l1",
+      "es-u10-l2",
+      "es-u10-l3",
+      "es-u10-l4",
+      "es-u10-l5"
+    ]
+  },
+  {
+    "id": "u11",
+    "name": "Unit 11",
+    "goal": "By the end of this unit, learners can talk about health, body parts, and give simple medical descriptions. Grammar/vocabulary focus: Body vocabulary, doler + indirect object pronoun, tener que obligation.",
+    "level": "A2",
+    "lessonIds": [
+      "es-u11-l1",
+      "es-u11-l2",
+      "es-u11-l3",
+      "es-u11-l4",
+      "es-u11-l5"
+    ]
+  },
+  {
+    "id": "u12",
+    "name": "Unit 12",
+    "goal": "By the end of this unit, learners can discuss future plans and describe the weather. Grammar/vocabulary focus: Future tense (ir a + infinitive and simple future), weather expressions.",
+    "level": "A2",
+    "lessonIds": [
+      "es-u12-l1",
+      "es-u12-l2",
+      "es-u12-l3",
+      "es-u12-l4",
+      "es-u12-l5"
+    ]
+  },
+  {
+    "id": "u13",
+    "name": "Unit 13",
+    "goal": "By the end of this unit, learners can talk about their job or studies and ongoing actions. Grammar/vocabulary focus: Present progressive estar + gerund, work/study vocabulary, saber vs. conocer.",
+    "level": "B1",
+    "lessonIds": [
+      "es-u13-l1",
+      "es-u13-l2",
+      "es-u13-l3",
+      "es-u13-l4",
+      "es-u13-l5"
+    ]
+  },
+  {
+    "id": "u14",
+    "name": "Unit 14",
+    "goal": "By the end of this unit, learners can express opinions and preferences with simple justification. Grammar/vocabulary focus: Opinion verbs (creer, pensar, opinar), gustar/encantar/interesar expansion.",
+    "level": "B1",
+    "lessonIds": [
+      "es-u14-l1",
+      "es-u14-l2",
+      "es-u14-l3",
+      "es-u14-l4",
+      "es-u14-l5"
+    ]
+  },
+  {
+    "id": "u15",
+    "name": "Unit 15",
+    "goal": "By the end of this unit, learners can plan a trip and describe past travel experiences. Grammar/vocabulary focus: Travel vocabulary, present perfect (haber + participle), talking about experiences.",
+    "level": "B1",
+    "lessonIds": [
+      "es-u15-l1",
+      "es-u15-l2",
+      "es-u15-l3",
+      "es-u15-l4",
+      "es-u15-l5"
+    ]
+  },
+  {
+    "id": "u16",
+    "name": "Unit 16",
+    "goal": "By the end of this unit, learners can discuss hypothetical situations and simple conditions. Grammar/vocabulary focus: Present subjunctive introduction, hypotheticals with si + present indicative.",
+    "level": "B1",
+    "lessonIds": [
+      "es-u16-l1",
+      "es-u16-l2",
+      "es-u16-l3",
+      "es-u16-l4",
+      "es-u16-l5"
+    ]
+  },
+  {
+    "id": "u17",
+    "name": "Unit 17",
+    "goal": "By the end of this unit, learners can understand and discuss media content and report what others said. Grammar/vocabulary focus: Passive se, media vocabulary, reported speech with decir que.",
+    "level": "B1",
+    "lessonIds": [
+      "es-u17-l1",
+      "es-u17-l2",
+      "es-u17-l3",
+      "es-u17-l4",
+      "es-u17-l5"
+    ]
+  },
+  {
+    "id": "u18",
+    "name": "Unit 18",
+    "goal": "By the end of this unit, learners can talk about relationships and emotions in more nuanced ways. Grammar/vocabulary focus: Double object pronouns, subjunctive with emotion (alegrarse de que), relationships vocabulary.",
+    "level": "B1",
+    "lessonIds": [
+      "es-u18-l1",
+      "es-u18-l2",
+      "es-u18-l3",
+      "es-u18-l4",
+      "es-u18-l5"
+    ]
+  },
+  {
+    "id": "u19",
+    "name": "Unit 19",
+    "goal": "By the end of this unit, learners can debate abstract topics and support opinions with reasons. Grammar/vocabulary focus: Subjunctive for doubt/denial (dudar que, no creer que), debate connectors.",
+    "level": "B2",
+    "lessonIds": [
+      "es-u19-l1",
+      "es-u19-l2",
+      "es-u19-l3",
+      "es-u19-l4",
+      "es-u19-l5"
+    ]
+  },
+  {
+    "id": "u20",
+    "name": "Unit 20",
+    "goal": "Biodiversity, National Parks & Environmental Conservation in Spain (Doñana, Picos de Europa, Lince Ibérico).",
+    "level": "C1",
+    "lessonIds": [
+      "es-u20-l1",
+      "es-u20-l2",
+      "es-u20-l3",
+      "es-u20-l4",
+      "es-u20-l5"
+    ]
+  },
+  {
+    "id": "u21",
+    "name": "Unit 21",
+    "goal": "Renewable Energy, Solar Power & Sustainable Technology in Spain.",
+    "level": "C1",
+    "lessonIds": [
+      "es-u21-l1",
+      "es-u21-l2",
+      "es-u21-l3",
+      "es-u21-l4",
+      "es-u21-l5"
+    ]
+  },
+  {
+    "id": "u22",
+    "name": "Unit 22",
+    "goal": "Spanish Healthcare System, Public Health & Medical Research (CSIC, CNIO).",
+    "level": "C1",
+    "lessonIds": [
+      "es-u22-l1",
+      "es-u22-l2",
+      "es-u22-l3",
+      "es-u22-l4",
+      "es-u22-l5"
+    ]
+  },
+  {
+    "id": "u23",
+    "name": "Unit 23",
+    "goal": "Spanish Higher Education, Scientific Research & University Heritage.",
+    "level": "C1",
+    "lessonIds": [
+      "es-u23-l1",
+      "es-u23-l2",
+      "es-u23-l3",
+      "es-u23-l4",
+      "es-u23-l5"
+    ]
+  },
+  {
+    "id": "u24",
+    "name": "Unit 24",
+    "goal": "Spanish Legal Framework, Constitutional Rights & Public Administration.",
+    "level": "C1",
+    "lessonIds": [
+      "es-u24-l1",
+      "es-u24-l2",
+      "es-u24-l3",
+      "es-u24-l4",
+      "es-u24-l5"
+    ]
+  },
+  {
+    "id": "u25",
+    "name": "Unit 25",
+    "goal": "Golden Age of Spanish Literature (Siglo de Oro: Cervantes, Lope de Vega, Calderón).",
+    "level": "C1",
+    "lessonIds": [
+      "es-u25-l1",
+      "es-u25-l2",
+      "es-u25-l3",
+      "es-u25-l4",
+      "es-u25-l5"
+    ]
+  },
+  {
+    "id": "u26",
+    "name": "Unit 26",
+    "goal": "Generation of 98 & Generation of 27: Modern Spanish Literary Masterpieces.",
+    "level": "C1",
+    "lessonIds": [
+      "es-u26-l1",
+      "es-u26-l2",
+      "es-u26-l3",
+      "es-u26-l4",
+      "es-u26-l5"
+    ]
+  },
+  {
+    "id": "u27",
+    "name": "Unit 27",
+    "goal": "Spanish Painting Titans (Velázquez, Goya, Picasso, Dalí, Miró).",
+    "level": "C2",
+    "lessonIds": [
+      "es-u27-l1",
+      "es-u27-l2",
+      "es-u27-l3",
+      "es-u27-l4",
+      "es-u27-l5"
+    ]
+  },
+  {
+    "id": "u28",
+    "name": "Unit 28",
+    "goal": "Spanish Architecture: Moorish Heritage, Gothic Cathedrals & Gaudí Modernism.",
+    "level": "C2",
+    "lessonIds": [
+      "es-u28-l1",
+      "es-u28-l2",
+      "es-u28-l3",
+      "es-u28-l4",
+      "es-u28-l5"
+    ]
+  },
+  {
+    "id": "u29",
+    "name": "Unit 29",
+    "goal": "Spanish Classical Music & Flamenco Heritage (Albéniz, Falla, Paco de Lucía).",
+    "level": "C2",
+    "lessonIds": [
+      "es-u29-l1",
+      "es-u29-l2",
+      "es-u29-l3",
+      "es-u29-l4",
+      "es-u29-l5"
+    ]
+  },
+  {
+    "id": "u30",
+    "name": "Unit 30",
+    "goal": "Spanish Cinema Masters (Buñuel, Almodóvar, Saura, Amenábar).",
+    "level": "C2",
+    "lessonIds": [
+      "es-u30-l1",
+      "es-u30-l2",
+      "es-u30-l3",
+      "es-u30-l4",
+      "es-u30-l5"
+    ]
+  },
+  {
+    "id": "u31",
+    "name": "Unit 31",
+    "goal": "Spanish Theatrical Traditions (García Lorca, Valle-Inclán, Teatro Real).",
+    "level": "C2",
+    "lessonIds": [
+      "es-u31-l1",
+      "es-u31-l2",
+      "es-u31-l3",
+      "es-u31-l4",
+      "es-u31-l5"
+    ]
+  },
+  {
+    "id": "u32",
+    "name": "Unit 32",
+    "goal": "Spanish Gastronomic Revolution & Culinary Arts (Ferran Adrià, El Celler de Can Roca).",
+    "level": "C2",
+    "lessonIds": [
+      "es-u32-l1",
+      "es-u32-l2",
+      "es-u32-l3",
+      "es-u32-l4",
+      "es-u32-l5"
+    ]
+  },
+  {
+    "id": "u33",
+    "name": "Unit 33",
+    "goal": "Spanish Philosophy & Intellectual History (Ortega y Gasset, María Zambrano).",
+    "level": "C2",
+    "lessonIds": [
+      "es-u33-l1",
+      "es-u33-l2",
+      "es-u33-l3",
+      "es-u33-l4",
+      "es-u33-l5"
+    ]
+  },
+  {
+    "id": "u34",
+    "name": "Unit 34",
+    "goal": "Advanced Spanish Linguistic Nuance, Dialectology & Royal Academy (RAE) Master Synthesis.",
+    "level": "C2",
+    "lessonIds": [
+      "es-u34-l1",
+      "es-u34-l2",
+      "es-u34-l3",
+      "es-u34-l4",
+      "es-u34-l5"
+    ]
+  }
 ];
   var LESSONS = {
   "es-u1-l1": {
@@ -12942,7 +12942,7 @@
     "level": "B1",
     "objective": "Buscar piso en alquiler en España (Idealista, Fotocasa), contrato de arrendamiento (LAU), fianza y gastos de comunidad.",
     "presentation": {
-      "explanation": "El mercado de alquiler de vivienda en España:\n- Portales inmobiliarios principales: Idealista, Fotocasa, Habitaclia\n- Términos contractuales (Ley de Arrendamientos Urbanos - LAU):\n  - El contrato de arrendamiento / alquiler\n  - La fianza legal (Equivalente a un mes de renta depositado en el organismo autonómico, ej. IVIMA en Madrid o Incasòl en Cataluña)\n  - La fianza complementaria / garantía adicional (Máximo dos meses adicionales según la ley)\n  - Gastos de comunidad (Community fees - mantenimiento del edificio, ascensor y limpieza de portal)\n  - Suministros (Luz, agua, gas e internet a cargo del inquilino / arrendatario)\n- Tipos de vivienda: Piso exterior con balcón / terraza, piso interior luminoso, ático con vistas, estudio amueblado\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "El mercado de alquiler de vivienda en España:\n- Portales inmobiliarios principales: Idealista, Fotocasa, Habitaclia\n- Términos contractuales (Ley de Arrendamientos Urbanos - LAU):\n  - El contrato de arrendamiento / alquiler\n  - La fianza legal (Equivalente a un mes de renta depositado en el organismo autonómico, ej. IVIMA en Madrid o Incasòl en Cataluña)\n  - La fianza complementaria / garantía adicional (Máximo dos meses adicionales según la ley)\n  - Gastos de comunidad (Community fees - mantenimiento del edificio, ascensor y limpieza de portal)\n  - Suministros (Luz, agua, gas e internet a cargo del inquilino / arrendatario)\n- Tipos de vivienda: Piso exterior con balcón / terraza, piso interior luminoso, ático con vistas, estudio amueblado",
       "examples": [
         {
           "target": "Buenas tardes, llamo por el piso en alquiler en el barrio de Salamanca; ¿los gastos de comunidad y el IBI están incluidos en la renta mensual?",
@@ -13024,7 +13024,7 @@
     "level": "B1",
     "objective": "Las estancias de la casa, mobiliario moderno, reformas, cédula de habitabilidad y certificado de eficiencia energética.",
     "presentation": {
-      "explanation": "Estancias, reformas y certificados oficiales de la vivienda:\n- Estancias de la casa: El recibidor/hall, el salón-comedor, la cocina americana (open-plan kitchen), el dormitorio principal con armario empotrado, el cuarto de baño con plato de ducha, el lavadero/tendedero, la terraza\n- Documentación técnica y legal obligatoria en España:\n  - La Cédula de Habitabilidad (Acredita que la vivienda cumple las condiciones mínimas de salubridad y espacio para ser habitada)\n  - El Certificado de Eficiencia Energética (Etiqueta de la A a la G sobre el consumo de energía y emisiones de CO2)\n- Reformas e instalaciones: Suelo de parquet o tarima flotante, ventanas de doble acristalamiento (Climalit) con rotura de puente térmico para aislamiento acústico y térmico, aire acondicionado por conductos\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Estancias, reformas y certificados oficiales de la vivienda:\n- Estancias de la casa: El recibidor/hall, el salón-comedor, la cocina americana (open-plan kitchen), el dormitorio principal con armario empotrado, el cuarto de baño con plato de ducha, el lavadero/tendedero, la terraza\n- Documentación técnica y legal obligatoria en España:\n  - La Cédula de Habitabilidad (Acredita que la vivienda cumple las condiciones mínimas de salubridad y espacio para ser habitada)\n  - El Certificado de Eficiencia Energética (Etiqueta de la A a la G sobre el consumo de energía y emisiones de CO2)\n- Reformas e instalaciones: Suelo de parquet o tarima flotante, ventanas de doble acristalamiento (Climalit) con rotura de puente térmico para aislamiento acústico y térmico, aire acondicionado por conductos",
       "examples": [
         {
           "target": "La vivienda cuenta con una reforma integral reciente, ventanas Climalit de alto aislamiento y certificado energético de clase A.",
@@ -13106,7 +13106,7 @@
     "level": "B1",
     "objective": "La comunidad de propietarios en España (LPH), las juntas de vecinos, el presidente de la comunidad y las derramas.",
     "presentation": {
-      "explanation": "La vida en comunidad y la Ley de Propiedad Horizontal (LPH) en España:\n- La comunidad de propietarios (Owners' association):\n  - El Presidente de la comunidad (Elegido por turno rotatorio o votación anual entre los propietarios)\n  - El Administrador de fincas colegiado (Gestiona las cuentas, el presupuesto y los proveedores del edificio)\n- La Junta de propietarios (Reunión anual ordinaria / extraordinaria para aprobar presupuestos y obras)\n- Las Derramas (Extraordinary assessment fees):\n  - Cuota extraordinaria aprobada en junta para costear reparaciones imprevistas de gran envergadura (ej. reparar la fachada, sustituir el ascensor o impermeabilizar el tejado)\n- Normas de convivencia: Respetar las horas de descanso nocturno (sin ruidos de 22:00 a 08:00)\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "La vida en comunidad y la Ley de Propiedad Horizontal (LPH) en España:\n- La comunidad de propietarios (Owners' association):\n  - El Presidente de la comunidad (Elegido por turno rotatorio o votación anual entre los propietarios)\n  - El Administrador de fincas colegiado (Gestiona las cuentas, el presupuesto y los proveedores del edificio)\n- La Junta de propietarios (Reunión anual ordinaria / extraordinaria para aprobar presupuestos y obras)\n- Las Derramas (Extraordinary assessment fees):\n  - Cuota extraordinaria aprobada en junta para costear reparaciones imprevistas de gran envergadura (ej. reparar la fachada, sustituir el ascensor o impermeabilizar el tejado)\n- Normas de convivencia: Respetar las horas de descanso nocturno (sin ruidos de 22:00 a 08:00)",
       "examples": [
         {
           "target": "En la junta de propietarios de ayer se aprobó por mayoría una derrama para instalar placas solares comunitarias en la azotea.",
@@ -13188,7 +13188,7 @@
     "level": "B1",
     "objective": "Arquitectura tradicional española: Los patios andaluces de Córdoba (Patrimonio UNESCO), casas encaladas y refrigeración bioclimática natural.",
     "presentation": {
-      "explanation": "Arquitectura tradicional y bioclimatismo mediterráneo en España:\n- La Fiesta de los Patios de Córdoba (Patrimonio Cultural Inmaterial de la Humanidad UNESCO):\n  - Casas tradicionales con patio central adornado con cientos de macetas con gitanillas, geranios, claveles y jazmín\n  - El microclima del patio andaluz: Las paredes encaladas de blanco reflejan la radiación solar extrema, mientras que la fuente central de agua y la vegetación exuberante producen enfriamiento evaporativo natural (reduciendo la temperatura hasta 8-10 °C)\n- Arquitectura vernácula:\n  - Los cármenes de Granada con huertos y vistas a la Alhambra\n  - Los hórreos asturianos y gallegos (graneros elevados sobre pilares para proteger el grano de la humedad y los roedores)\n  - Las casas solariegas y masías catalanas de piedra\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Arquitectura tradicional y bioclimatismo mediterráneo en España:\n- La Fiesta de los Patios de Córdoba (Patrimonio Cultural Inmaterial de la Humanidad UNESCO):\n  - Casas tradicionales con patio central adornado con cientos de macetas con gitanillas, geranios, claveles y jazmín\n  - El microclima del patio andaluz: Las paredes encaladas de blanco reflejan la radiación solar extrema, mientras que la fuente central de agua y la vegetación exuberante producen enfriamiento evaporativo natural (reduciendo la temperatura hasta 8-10 °C)\n- Arquitectura vernácula:\n  - Los cármenes de Granada con huertos y vistas a la Alhambra\n  - Los hórreos asturianos y gallegos (graneros elevados sobre pilares para proteger el grano de la humedad y los roedores)\n  - Las casas solariegas y masías catalanas de piedra",
       "examples": [
         {
           "target": "Los patios cordobeses son un prodigio de arquitectura bioclimática natural donde el agua y las plantas refrescan el hogar en pleno verano.",
@@ -13270,7 +13270,7 @@
     "level": "B1",
     "objective": "Hogares inteligentes en España: Domótica, autoconsumo fotovoltaico en tejados, aerotermia y gestión eficiente del agua.",
     "presentation": {
-      "explanation": "Sostenibilidad y hogares inteligentes (Smart Homes) en España:\n- Autoconsumo solar fotovoltaico (Boom del autoconsumo en tejados individuales y comunidades energéticas):\n  - Placas solares con inversor híbrido y batería de litio para almacenamiento\n  - Compensación de excedentes en la factura eléctrica (Venta de energía sobrante a la red)\n- Sistemas de climatización de vanguardia:\n  - La aerotermia (Bomba de calor aire-agua de alta eficiencia energética que proporciona calefacción en invierno, refrigeración en verano y agua caliente sanitaria con suelo radiante-refrescante)\n- Domótica y hogar conectado:\n  - Control inteligente de persianas según la incidencia solar, termostatos programables por zonas, sensores de fugas de agua y cargadores de coche eléctrico bidireccionales (V2G)\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Sostenibilidad y hogares inteligentes (Smart Homes) en España:\n- Autoconsumo solar fotovoltaico (Boom del autoconsumo en tejados individuales y comunidades energéticas):\n  - Placas solares con inversor híbrido y batería de litio para almacenamiento\n  - Compensación de excedentes en la factura eléctrica (Venta de energía sobrante a la red)\n- Sistemas de climatización de vanguardia:\n  - La aerotermia (Bomba de calor aire-agua de alta eficiencia energética que proporciona calefacción en invierno, refrigeración en verano y agua caliente sanitaria con suelo radiante-refrescante)\n- Domótica y hogar conectado:\n  - Control inteligente de persianas según la incidencia solar, termostatos programables por zonas, sensores de fugas de agua y cargadores de coche eléctrico bidireccionales (V2G)",
       "examples": [
         {
           "target": "Nuestra vivienda combina aerotermia con suelo radiante y paneles solares fotovoltaicos, logrando un consumo energético casi nulo.",
@@ -13352,7 +13352,7 @@
     "level": "B1",
     "objective": "El mercado laboral en España (InfoJobs, LinkedIn), tipos de contrato (indefinido, fijo-discontinuo), nómina y Estatuto de los Trabajadores.",
     "presentation": {
-      "explanation": "El empleo y la contratación laboral en España:\n- Portales de empleo: InfoJobs, LinkedIn, Tecnoempleo\n- Tipos de contratos laborales (Reforma Laboral / Estatuto de los Trabajadores):\n  - Contrato indefinido (La modalidad contractual ordinaria y general para estabilidad laboral)\n  - Contrato fijo-discontinuo (Para trabajos estacionales o de temporada en turismo y agricultura)\n  - Contrato formativo (En alternancia o para la obtención de práctica profesional)\n- Conceptos de la nómina mensual:\n  - Salario bruto (Gross salary) vs Salario neto (Net take-home pay)\n  - Retención del IRPF (Impuesto sobre la Renta de las Personas Físicas)\n  - Cotizaciones a la Seguridad Social (Contingencias comunes, desempleo y formación)\n  - Las 14 pagas anuales (12 pagas ordinarias + 2 pagas extraordinarias en verano y Navidad)\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "El empleo y la contratación laboral en España:\n- Portales de empleo: InfoJobs, LinkedIn, Tecnoempleo\n- Tipos de contratos laborales (Reforma Laboral / Estatuto de los Trabajadores):\n  - Contrato indefinido (La modalidad contractual ordinaria y general para estabilidad laboral)\n  - Contrato fijo-discontinuo (Para trabajos estacionales o de temporada en turismo y agricultura)\n  - Contrato formativo (En alternancia o para la obtención de práctica profesional)\n- Conceptos de la nómina mensual:\n  - Salario bruto (Gross salary) vs Salario neto (Net take-home pay)\n  - Retención del IRPF (Impuesto sobre la Renta de las Personas Físicas)\n  - Cotizaciones a la Seguridad Social (Contingencias comunes, desempleo y formación)\n  - Las 14 pagas anuales (12 pagas ordinarias + 2 pagas extraordinarias en verano y Navidad)",
       "examples": [
         {
           "target": "He firmado un contrato indefinido a jornada completa con catorce pagas y seguro médico corporativo.",
@@ -13434,7 +13434,7 @@
     "level": "B1",
     "objective": "Cultura laboral española: Jornada continua de verano, la pausa del café (\"el cafecito de media mañana\"), teletrabajo y desconexión digital.",
     "presentation": {
-      "explanation": "Ritmos de trabajo, pausas y conciliación laboral en España:\n- La jornada intensiva / continua de verano (Horario de verano de 08:00 a 15:00 en julio y agosto sin pausa para comer, permitiendo disfrutar de la tarde libre y la playa/piscina)\n- El ritual del \"Café de media mañana\" (A las 10:30 o 11:00, los compañeros de oficina salen juntos al bar cercano a tomar un café con leche con una tostada con tomate o pincho de tortilla para hacer networking y desconectar 15-20 minutos)\n- El Derecho a la Desconexión Digital (Ley española que garantiza no responder emails ni mensajes de trabajo fuera del horario laboral)\n- Teletrabajo y trabajo híbrido (Modelo estándar de 2-3 días en oficina y 2 días en remoto)\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Ritmos de trabajo, pausas y conciliación laboral en España:\n- La jornada intensiva / continua de verano (Horario de verano de 08:00 a 15:00 en julio y agosto sin pausa para comer, permitiendo disfrutar de la tarde libre y la playa/piscina)\n- El ritual del \"Café de media mañana\" (A las 10:30 o 11:00, los compañeros de oficina salen juntos al bar cercano a tomar un café con leche con una tostada con tomate o pincho de tortilla para hacer networking y desconectar 15-20 minutos)\n- El Derecho a la Desconexión Digital (Ley española que garantiza no responder emails ni mensajes de trabajo fuera del horario laboral)\n- Teletrabajo y trabajo híbrido (Modelo estándar de 2-3 días en oficina y 2 días en remoto)",
       "examples": [
         {
           "target": "Durante los meses de julio y agosto tenemos jornada intensiva de ocho a tres, lo que facilita enormemente la conciliación familiar.",
@@ -13516,7 +13516,7 @@
     "level": "B1",
     "objective": "Derechos laborales en España: Vacaciones pagadas (30 días naturales / 22 laborables), permisos de paternidad/maternidad iguales (16 semanas) y finiquito.",
     "presentation": {
-      "explanation": "Derechos laborales, permisos y desvinculación en España:\n- Vacaciones retribuidas anuales (Mínimo legal de 30 días naturales o 22 días laborables pagados al año por ley)\n- Permisos por nacimiento y cuidado del menor (Permiso de maternidad y paternidad):\n  - España es pionera mundial en igualdad: 16 semanas de permiso 100% retribuidas e intransferibles tanto para la madre como para el padre (las primeras 6 semanas obligatorias e ininterrumpidas tras el parto)\n- La extinción del contrato de trabajo y el Finiquito:\n  - El finiquito (Liquidación económica final que incluye: días trabajados del mes en curso, parte proporcional de pagas extraordinarias devengadas y vacaciones no disfrutadas)\n  - La indemnización por despido y prestación contributiva por desempleo (\"el paro\" del SEPE)\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Derechos laborales, permisos y desvinculación en España:\n- Vacaciones retribuidas anuales (Mínimo legal de 30 días naturales o 22 días laborables pagados al año por ley)\n- Permisos por nacimiento y cuidado del menor (Permiso de maternidad y paternidad):\n  - España es pionera mundial en igualdad: 16 semanas de permiso 100% retribuidas e intransferibles tanto para la madre como para el padre (las primeras 6 semanas obligatorias e ininterrumpidas tras el parto)\n- La extinción del contrato de trabajo y el Finiquito:\n  - El finiquito (Liquidación económica final que incluye: días trabajados del mes en curso, parte proporcional de pagas extraordinarias devengadas y vacaciones no disfrutadas)\n  - La indemnización por despido y prestación contributiva por desempleo (\"el paro\" del SEPE)",
       "examples": [
         {
           "target": "Ambos progenitores tienen derecho a dieciséis semanas de permiso de nacimiento totalmente retribuidas para cuidar al recién nacido.",
@@ -13598,7 +13598,7 @@
     "level": "B1",
     "objective": "El ecosistema de startups y tecnología en España: La Ley de Startups, nómadas digitales, hubs en Madrid y Barcelona (22@), y unicornios españoles.",
     "presentation": {
-      "explanation": "Emprendimiento, innovación y tecnología en España:\n- La \"Ley de Startups\" (Ley 28/2022 de fomento del ecosistema de empresas emergentes):\n  - Régimen fiscal ultracompetitivo (Reducción del Impuesto de Sociedades del 25% al 15% durante los 4 primeros años con beneficios)\n  - Visado para Nómadas Digitales (Permite a profesionales internacionales vivir en España mientras trabajan en remoto para empresas extranjeras con ventajas fiscales de la Ley Beckham)\n  - Exención fiscal de stock options hasta 50.000 € anuales para atraer talento global\n- Los grandes hubs tecnológicos:\n  - Barcelona (Distrito de innovación 22@ en Poblenou y el Mobile World Congress - MWC)\n  - Madrid (South Summit y La Nave)\n  - Málaga (Polo tecnológico y ciberseguridad con el centro de ingeniería de Google)\n- Unicornios españoles: Cabify, Glovo, Jobandtalent, TravelPerk, Factorial, Fever\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Emprendimiento, innovación y tecnología en España:\n- La \"Ley de Startups\" (Ley 28/2022 de fomento del ecosistema de empresas emergentes):\n  - Régimen fiscal ultracompetitivo (Reducción del Impuesto de Sociedades del 25% al 15% durante los 4 primeros años con beneficios)\n  - Visado para Nómadas Digitales (Permite a profesionales internacionales vivir en España mientras trabajan en remoto para empresas extranjeras con ventajas fiscales de la Ley Beckham)\n  - Exención fiscal de stock options hasta 50.000 € anuales para atraer talento global\n- Los grandes hubs tecnológicos:\n  - Barcelona (Distrito de innovación 22@ en Poblenou y el Mobile World Congress - MWC)\n  - Madrid (South Summit y La Nave)\n  - Málaga (Polo tecnológico y ciberseguridad con el centro de ingeniería de Google)\n- Unicornios españoles: Cabify, Glovo, Jobandtalent, TravelPerk, Factorial, Fever",
       "examples": [
         {
           "target": "España atrae a miles de nómadas digitales y emprendedores gracias a la Ley de Startups y al dinamismo de los hubs de Madrid y Barcelona.",
@@ -13680,7 +13680,7 @@
     "level": "B1",
     "objective": "Liderazgo empresarial global de España: Grandes multinacionales (Inditex/Zara, Banco Santander, Iberdrola, Telefónica) y diplomacia corporativa.",
     "presentation": {
-      "explanation": "Multinacionales españolas y presencia en la economía mundial:\n- Las grandes corporaciones globales del IBEX 35:\n  - Inditex (Zara, Massimo Dutti, Pull&Bear - Fundada en Arteixo, Galicia, por Amancio Ortega; líder mundial indiscutible en moda rápida y logística integrada de precisión)\n  - Banco Santander y BBVA (Líderes bancarios globales con presencia masiva en Europa y América Latina)\n  - Iberdrola (Gigante mundial en energía eólica marina, redes inteligentes y descarbonización)\n  - Telefónica (Una de las mayores compañías de telecomunicaciones del mundo con marcas como Movistar y O2)\n  - Amadeus IT Group (Líder mundial en sistemas globales de distribución y reservas turísticas y aeronáuticas)\n- Cultura de diplomacia corporativa y liderazgo ético\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Multinacionales españolas y presencia en la economía mundial:\n- Las grandes corporaciones globales del IBEX 35:\n  - Inditex (Zara, Massimo Dutti, Pull&Bear - Fundada en Arteixo, Galicia, por Amancio Ortega; líder mundial indiscutible en moda rápida y logística integrada de precisión)\n  - Banco Santander y BBVA (Líderes bancarios globales con presencia masiva en Europa y América Latina)\n  - Iberdrola (Gigante mundial en energía eólica marina, redes inteligentes y descarbonización)\n  - Telefónica (Una de las mayores compañías de telecomunicaciones del mundo con marcas como Movistar y O2)\n  - Amadeus IT Group (Líder mundial en sistemas globales de distribución y reservas turísticas y aeronáuticas)\n- Cultura de diplomacia corporativa y liderazgo ético",
       "examples": [
         {
           "target": "El modelo logístico de Inditex y el liderazgo de Iberdrola en energía eólica marina son referentes de excelencia empresarial en todo el mundo.",
@@ -13762,7 +13762,7 @@
     "level": "C1",
     "objective": "Spain's extraordinary biodiversity, UNESCO Biosphere Reserves, and national park protection (Parque Nacional de Doñana, Picos de Europa, lince ibérico, Red Natura 2000).",
     "presentation": {
-      "explanation": "Spain is the most biodiverse country in Europe, hosting over 50% of European plant species and premier conservation reserves:\n- Iconic National Parks:\n  - **Parque Nacional de Doñana** (Andalucía - UNESCO): Europe's most important wetland stopover for migratory birds between Africa and Europe, marshland ecosystems (marismas), and dunes.\n  - **Picos de Europa** (Asturias, Cantabria, León): Karst limestone massifs, glacial lakes of Covadonga, and alpine habitats.\n  - **Parque Nacional del Teide** (Tenerife, Canary Islands): Volcanic caldera, Mount Teide (3,715m - Spain's highest peak).\n- Wildlife Conservation:\n  - **El lince ibérico** (Iberian lynx): The world's most endangered feline species, brought back from the brink of extinction through breeding and rewilding in Sierra Morena and Doñana.\n  - **El oso pardo cantábrico** (Cantabrian brown bear) and **el quebrantahuesos** (Bearded vulture in the Pyrenees).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spain is the most biodiverse country in Europe, hosting over 50% of European plant species and premier conservation reserves:\n- Iconic National Parks:\n  - **Parque Nacional de Doñana** (Andalucía - UNESCO): Europe's most important wetland stopover for migratory birds between Africa and Europe, marshland ecosystems (marismas), and dunes.\n  - **Picos de Europa** (Asturias, Cantabria, León): Karst limestone massifs, glacial lakes of Covadonga, and alpine habitats.\n  - **Parque Nacional del Teide** (Tenerife, Canary Islands): Volcanic caldera, Mount Teide (3,715m - Spain's highest peak).\n- Wildlife Conservation:\n  - **El lince ibérico** (Iberian lynx): The world's most endangered feline species, brought back from the brink of extinction through breeding and rewilding in Sierra Morena and Doñana.\n  - **El oso pardo cantábrico** (Cantabrian brown bear) and **el quebrantahuesos** (Bearded vulture in the Pyrenees).",
       "examples": [
         {
           "target": "La recuperación del lince ibérico en los ecosistemas de Doñana y Sierra Morena constituye uno de los mayores éxitos de conservación de fauna silvestre en la historia de Europa.",
@@ -13844,7 +13844,7 @@
     "level": "C1",
     "objective": "Renewable energy transition, green hydrogen, and solar/wind power leadership in Spain (energías renovables, parques eólicos marinos/terrestres, plantas termosolares, hidrógeno verde).",
     "presentation": {
-      "explanation": "Spain's global leadership in the ecological green transition:\n- Renewable Energy Grid:\n  - Over 50% of Spain's national electricity generation comes from renewable sources (wind, solar photovoltaic, and solar thermal).\n  - **Red Eléctrica de España (REE)** manages the synchronized integration of high-penetration wind and solar energy.\n  - The **Planta Solar Gemasolar** (Sevilla): Pioneered molten-salt thermal energy storage generating electricity 24/7 without sunlight.\n- Green Hydrogen and Decarbonization:\n  - The **Plan Nacional Integrado de Energía y Clima (PNIEC)** and European green hydrogen corridor (H2Med connecting Barcelona to Marseille).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spain's global leadership in the ecological green transition:\n- Renewable Energy Grid:\n  - Over 50% of Spain's national electricity generation comes from renewable sources (wind, solar photovoltaic, and solar thermal).\n  - **Red Eléctrica de España (REE)** manages the synchronized integration of high-penetration wind and solar energy.\n  - The **Planta Solar Gemasolar** (Sevilla): Pioneered molten-salt thermal energy storage generating electricity 24/7 without sunlight.\n- Green Hydrogen and Decarbonization:\n  - The **Plan Nacional Integrado de Energía y Clima (PNIEC)** and European green hydrogen corridor (H2Med connecting Barcelona to Marseille).",
       "examples": [
         {
           "target": "España superó el cincuenta por ciento de generación eléctrica renovable gracias al despliegue masivo de parques eólicos y plantas fotovoltaicas avanzadas.",
@@ -13926,7 +13926,7 @@
     "level": "C1",
     "objective": "Water resource management, drought challenges, desalination, and ancient irrigation heritage (el Tribunal de las Aguas de Valencia - UNESCO, desaladoras, trasvases, estrés hídrico).",
     "presentation": {
-      "explanation": "Water management, historical hydrology, and technological innovation in Spain:\n- Ancient Hydrological Institutions:\n  - **El Tribunal de las Aguas de la Vega de Valencia** (UNESCO Intangible Cultural Heritage): The oldest continuous democratic justice institution in Europe (dating back over 1,000 years to the Caliphate of Córdoba), meeting every Thursday outside Valencia Cathedral to settle irrigation disputes peacefully in Valencian.\n  - The **Acequias** (ancestral Arabic canal irrigation networks in Granada and the Alpujarras).\n- Modern Hydrological Engineering:\n  - **Plantas desalinizadoras** (Torrevieja, Alicante - among the largest seawater desalination plants in Europe).\n  - The challenge of **estrés hídrico** (water stress) and agricultural drip irrigation (riego por goteo).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Water management, historical hydrology, and technological innovation in Spain:\n- Ancient Hydrological Institutions:\n  - **El Tribunal de las Aguas de la Vega de Valencia** (UNESCO Intangible Cultural Heritage): The oldest continuous democratic justice institution in Europe (dating back over 1,000 years to the Caliphate of Córdoba), meeting every Thursday outside Valencia Cathedral to settle irrigation disputes peacefully in Valencian.\n  - The **Acequias** (ancestral Arabic canal irrigation networks in Granada and the Alpujarras).\n- Modern Hydrological Engineering:\n  - **Plantas desalinizadoras** (Torrevieja, Alicante - among the largest seawater desalination plants in Europe).\n  - The challenge of **estrés hídrico** (water stress) and agricultural drip irrigation (riego por goteo).",
       "examples": [
         {
           "target": "El milenario Tribunal de las Aguas de Valencia continúa reuniéndose cada jueves en la Puerta de los Apóstoles para dirimir litigios de riego de forma oral y vinculante.",
@@ -14008,7 +14008,7 @@
     "level": "C2",
     "objective": "The Iberian Dehesa agroforestry ecosystem, sustainable cork harvesting, and Jamón Ibérico de Bellota (la dehesa, alcornoques y encinas, montanera, saca del corcho, sostenibilidad).",
     "presentation": {
-      "explanation": "The Dehesa / Montado: Europe's premier exemplar of human-nature harmonious agroforestry:\n- The Dehesa Ecosystem:\n  - A human-managed parkland of ancient holm oaks (**encinas**) and cork oaks (**alcornoques**) spanning Extremadura, Andalucía, and Western Spain.\n  - Supports extraordinary biodiversity while producing world-class gastronomic and forestry products.\n- The Montanera Cycle:\n  - From October to March, purebred Iberian pigs roam free across the dehesa feeding exclusively on fallen acorns (**bellotas**) and wild herbs.\n  - Produces **Jamón 100% Ibérico de Bellota** (Pata Negra) with cardioprotective oleic acids.\n- Sustainable Cork Extraction (**La saca del corcho**):\n  - Bark stripped by hand every 9-12 years by skilled peladores without ever harming the living tree.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "The Dehesa / Montado: Europe's premier exemplar of human-nature harmonious agroforestry:\n- The Dehesa Ecosystem:\n  - A human-managed parkland of ancient holm oaks (**encinas**) and cork oaks (**alcornoques**) spanning Extremadura, Andalucía, and Western Spain.\n  - Supports extraordinary biodiversity while producing world-class gastronomic and forestry products.\n- The Montanera Cycle:\n  - From October to March, purebred Iberian pigs roam free across the dehesa feeding exclusively on fallen acorns (**bellotas**) and wild herbs.\n  - Produces **Jamón 100% Ibérico de Bellota** (Pata Negra) with cardioprotective oleic acids.\n- Sustainable Cork Extraction (**La saca del corcho**):\n  - Bark stripped by hand every 9-12 years by skilled peladores without ever harming the living tree.",
       "examples": [
         {
           "target": "La dehesa ibérica representa un equilibrio modélico entre la preservación del bosque mediterráneo, la cría extensiva del cerdo ibérico y la extracción sostenible del corcho.",
@@ -14090,7 +14090,7 @@
     "level": "C2",
     "objective": "C2 synthesis on ecological restoration, circular economy, and marine sanctuaries (biorreservas marinas, Posidonia oceánica en Baleares, Ley de Cambio Climático).",
     "presentation": {
-      "explanation": "Marine conservation, oceanic carbon sinks, and C2 environmental policy synthesis:\n- **Posidonia oceánica** (Balearic Islands - UNESCO):\n  - Submarine seagrass meadows in Ibiza and Formentera that filter seawater to crystal-clear purity and sequester carbon at rates 35x higher than tropical rainforests.\n  - Some clonal Posidonia organisms are over 100,000 years old, representing the oldest living beings on Earth.\n- Legal and Ecological Frameworks:\n  - **Ley de Cambio Climático y Transición Energética**: Codifies legally binding net-zero greenhouse emissions by 2050 and 100% renewable electricity by 2050.\n  - Protection of marine reserves (Cabo de Gata-Níjar, Islas Columbretes, El Hierro).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Marine conservation, oceanic carbon sinks, and C2 environmental policy synthesis:\n- **Posidonia oceánica** (Balearic Islands - UNESCO):\n  - Submarine seagrass meadows in Ibiza and Formentera that filter seawater to crystal-clear purity and sequester carbon at rates 35x higher than tropical rainforests.\n  - Some clonal Posidonia organisms are over 100,000 years old, representing the oldest living beings on Earth.\n- Legal and Ecological Frameworks:\n  - **Ley de Cambio Climático y Transición Energética**: Codifies legally binding net-zero greenhouse emissions by 2050 and 100% renewable electricity by 2050.\n  - Protection of marine reserves (Cabo de Gata-Níjar, Islas Columbretes, El Hierro).",
       "examples": [
         {
           "target": "Las praderas milenarias de Posidonia oceánica en el mar Balear constituyen sumideros de carbono incomparables cuya protección es crucial para la estabilidad climática del Mediterráneo.",
@@ -14172,7 +14172,7 @@
     "level": "C1",
     "objective": "Spain's National Health System, universal coverage, primary care model, and organ transplant leadership (Sistema Nacional de Salud - SNS, Organización Nacional de Trasplantes - ONT, modelo Matesanz).",
     "presentation": {
-      "explanation": "Spain's public healthcare architecture and world leadership in organ transplants:\n- **El Sistema Nacional de Salud (SNS)**:\n  - Universal public healthcare founded on the principles of universality, equity, and public funding.\n  - Primary health centers (**Centros de Salud / Atención Primaria**) acting as the community gatekeepers of preventative medicine.\n- **La Organización Nacional de Trasplantes (ONT) & The Spanish Model**:\n  - Spain has been the **#1 country in the world for organ donation and transplants for over 30 consecutive years**.\n  - Created by Dr. Rafael Matesanz, the \"Spanish Model\" relies on proactive in-hospital transplant donor coordinators, presumed consent legislation, and centralized logistics enabling organ transports in hours.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spain's public healthcare architecture and world leadership in organ transplants:\n- **El Sistema Nacional de Salud (SNS)**:\n  - Universal public healthcare founded on the principles of universality, equity, and public funding.\n  - Primary health centers (**Centros de Salud / Atención Primaria**) acting as the community gatekeepers of preventative medicine.\n- **La Organización Nacional de Trasplantes (ONT) & The Spanish Model**:\n  - Spain has been the **#1 country in the world for organ donation and transplants for over 30 consecutive years**.\n  - Created by Dr. Rafael Matesanz, the \"Spanish Model\" relies on proactive in-hospital transplant donor coordinators, presumed consent legislation, and centralized logistics enabling organ transports in hours.",
       "examples": [
         {
           "target": "La Organización Nacional de Trasplantes ha mantenido a España como líder mundial indiscutible en donación y trasplante de órganos durante más de tres décadas consecutivas.",
@@ -14254,7 +14254,7 @@
     "level": "C1",
     "objective": "Spanish biomedical research: CNIO cancer institute, CRG genomics, and Severo Ochoa / Ramón y Cajal legacy (CNIO, Centro de Regulación Genómica, neurobiología, oncología molecular).",
     "presentation": {
-      "explanation": "Biomedical science, molecular oncology, and Nobel legacy in Spain:\n- Historic Nobel Pioneers in Medicine:\n  - **Santiago Ramón y Cajal** (1906 Nobel Prize): The father of modern neuroscience, discovering the Neuron Doctrine (*Doctrina de la neurona*) and dendritic spines.\n  - **Severo Ochoa** (1959 Nobel Prize): Unraveled the enzymatic synthesis of RNA, paving the way for modern molecular genetics.\n- World-Class Research Institutes:\n  - **CNIO (Centro Nacional de Investigaciones Oncológicas)** in Madrid (led by Maria Blasco): Global breakthroughs in telomerase biology, cellular senescence, and targeted cancer therapies.\n  - **CRG (Centre de Regulació Genòmica)** in Barcelona: Pioneer in non-coding RNA and human epigenome sequencing.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Biomedical science, molecular oncology, and Nobel legacy in Spain:\n- Historic Nobel Pioneers in Medicine:\n  - **Santiago Ramón y Cajal** (1906 Nobel Prize): The father of modern neuroscience, discovering the Neuron Doctrine (*Doctrina de la neurona*) and dendritic spines.\n  - **Severo Ochoa** (1959 Nobel Prize): Unraveled the enzymatic synthesis of RNA, paving the way for modern molecular genetics.\n- World-Class Research Institutes:\n  - **CNIO (Centro Nacional de Investigaciones Oncológicas)** in Madrid (led by Maria Blasco): Global breakthroughs in telomerase biology, cellular senescence, and targeted cancer therapies.\n  - **CRG (Centre de Regulació Genòmica)** in Barcelona: Pioneer in non-coding RNA and human epigenome sequencing.",
       "examples": [
         {
           "target": "Las investigaciones pioneras de Ramón y Cajal en neurobiología y los avances del CNIO en telómeros sitúan a la biomedicina española en la vanguardia científica internacional.",
@@ -14336,7 +14336,7 @@
     "level": "C1",
     "objective": "Epidemiology, public vaccination programs, and the Spanish historic Balmis Expedition (La Real Expedición Filantrópica de la Vacuna - Expedición Balmis, calendarios de vacunación, inmunología comunitaria).",
     "presentation": {
-      "explanation": "Global public health history and vaccination achievements in the Spanish-speaking world:\n- **La Real Expedición Filantrópica de la Vacuna (Expedición Balmis - 1803–1806)**:\n  - The world's first international public health humanitarian mission, led by Dr. Francisco Javier Balmis and nurse Isabel Zendal.\n  - Transported the smallpox vaccine across the Atlantic and Pacific to the Americas and Asia (Philippines and China) by vaccinating 22 orphan children sequentially in living human chains (*cadena viva*).\n- Modern Public Vaccination Success:\n  - Spain maintains one of the highest childhood vaccination acceptance rates in the world (>95%), without coercive mandates, driven by deep public trust in the pediatric SNS network.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Global public health history and vaccination achievements in the Spanish-speaking world:\n- **La Real Expedición Filantrópica de la Vacuna (Expedición Balmis - 1803–1806)**:\n  - The world's first international public health humanitarian mission, led by Dr. Francisco Javier Balmis and nurse Isabel Zendal.\n  - Transported the smallpox vaccine across the Atlantic and Pacific to the Americas and Asia (Philippines and China) by vaccinating 22 orphan children sequentially in living human chains (*cadena viva*).\n- Modern Public Vaccination Success:\n  - Spain maintains one of the highest childhood vaccination acceptance rates in the world (>95%), without coercive mandates, driven by deep public trust in the pediatric SNS network.",
       "examples": [
         {
           "target": "La histórica Expedición Balmis de 1803 llevó la vacuna de la viruela a tres continentes, marcando el nacimiento de las campañas humanitarias globales de inmunización masiva.",
@@ -14418,7 +14418,7 @@
     "level": "C2",
     "objective": "Bioethics, patients' rights, and end-of-life legislation (Ley Orgánica de Regulación de la Eutanasia, testamento vital, comités de bioética hospitalaria, consentimiento informado).",
     "presentation": {
-      "explanation": "Bioethical jurisprudence, patient autonomy, and end-of-life dignity in Spain:\n- **Ley Orgánica de Regulación de la Eutanasia (LORE - 2021)**:\n  - Spain became the 4th European nation to legalizing euthanasia and medically assisted dying as a public healthcare right under strict statutory safeguards (unbearable suffering from incurable chronic disabling illnesses or terminal pathology).\n- Bioethical Instruments:\n  - **Testamento Vital / Instrucciones Previas (Advance Directives)**: Legally binding document recording personal healthcare decisions regarding life support and palliative care if incapacitated.\n  - **Consentimiento Informado (Informed Consent)**: Fundamental clinical human right.\n  - Hospital Bioethics Committees (*Comités de Ética Asistencial*).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Bioethical jurisprudence, patient autonomy, and end-of-life dignity in Spain:\n- **Ley Orgánica de Regulación de la Eutanasia (LORE - 2021)**:\n  - Spain became the 4th European nation to legalizing euthanasia and medically assisted dying as a public healthcare right under strict statutory safeguards (unbearable suffering from incurable chronic disabling illnesses or terminal pathology).\n- Bioethical Instruments:\n  - **Testamento Vital / Instrucciones Previas (Advance Directives)**: Legally binding document recording personal healthcare decisions regarding life support and palliative care if incapacitated.\n  - **Consentimiento Informado (Informed Consent)**: Fundamental clinical human right.\n  - Hospital Bioethics Committees (*Comités de Ética Asistencial*).",
       "examples": [
         {
           "target": "La Ley de Regulación de la Eutanasia y el registro de voluntades anticipadas garantizan el derecho inalienable del paciente a una muerte digna acorde con sus convicciones éticas.",
@@ -14500,7 +14500,7 @@
     "level": "C2",
     "objective": "C2 synthesis on digital healthcare, telemedicine, AI diagnostic imaging, and personalized genomics in the Spanish SNS (Salud digital, telemedicina rural, receta electrónica interoperable, IA en radiología).",
     "presentation": {
-      "explanation": "Digital health infrastructure, AI medical diagnostics, and precision medicine in Spain:\n- Digital Health Innovations:\n  - **Receta Electrónica Interoperable**: Cloud-synchronized digital prescriptions valid across all 17 autonomous communities and European Union cross-border pharmacies.\n  - Universal electronic health record (**Historia Clínica Digital del SNS**).\n- AI in Clinical Diagnostics:\n  - Deep learning algorithms analyzing CT scans and MRI mammographies in hospital radiodiagnosis networks to detect early oncological lesions.\n- Precision Medicine (**Estrategia Española de Medicina Personalizada y de Precisión**):\n  - Whole-genome sequencing of rare pediatric diseases and targeted immunotherapy regimens.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Digital health infrastructure, AI medical diagnostics, and precision medicine in Spain:\n- Digital Health Innovations:\n  - **Receta Electrónica Interoperable**: Cloud-synchronized digital prescriptions valid across all 17 autonomous communities and European Union cross-border pharmacies.\n  - Universal electronic health record (**Historia Clínica Digital del SNS**).\n- AI in Clinical Diagnostics:\n  - Deep learning algorithms analyzing CT scans and MRI mammographies in hospital radiodiagnosis networks to detect early oncological lesions.\n- Precision Medicine (**Estrategia Española de Medicina Personalizada y de Precisión**):\n  - Whole-genome sequencing of rare pediatric diseases and targeted immunotherapy regimens.",
       "examples": [
         {
           "target": "La interoperabilidad de la receta electrónica y la integración de inteligencia artificial en el radiodiagnóstico sitúan al sistema sanitario español a la vanguardia de la medicina personalizada.",
@@ -14582,7 +14582,7 @@
     "level": "C1",
     "objective": "Spanish philosophical thought: José Ortega y Gasset, ratiovitalism, and the Generation of 98 (José Ortega y Gasset, raciovitalismo, «Yo soy yo y mi circunstancia», Generación del 98, Miguel de Unamuno y el sentimiento trágico de la vida).",
     "presentation": {
-      "explanation": "Spanish philosophy, ratiovitalism, and existentialism:\n- **José Ortega y Gasset (1883–1955)**:\n  - The foremost Spanish philosopher of the 20th century, developing **Ratiovitalism (Raciovitalismo)** and Perspectivism in *Meditaciones del Quijote* and *La rebelión de las masas*.\n  - Famous philosophical axiom: **«Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo»** (I am I and my circumstance, and if I do not save it, I do not save myself).\n- **Miguel de Unamuno (1864–1936)** & **La Generación del 98**:\n  - Existential philosophy in *Del sentimiento trágico de la vida*: The agonistic struggle between reason and faith, the hunger for immortality, and the concept of *intrahistoria* (the silent daily life of ordinary people shaping nations).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spanish philosophy, ratiovitalism, and existentialism:\n- **José Ortega y Gasset (1883–1955)**:\n  - The foremost Spanish philosopher of the 20th century, developing **Ratiovitalism (Raciovitalismo)** and Perspectivism in *Meditaciones del Quijote* and *La rebelión de las masas*.\n  - Famous philosophical axiom: **«Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo»** (I am I and my circumstance, and if I do not save it, I do not save myself).\n- **Miguel de Unamuno (1864–1936)** & **La Generación del 98**:\n  - Existential philosophy in *Del sentimiento trágico de la vida*: The agonistic struggle between reason and faith, the hunger for immortality, and the concept of *intrahistoria* (the silent daily life of ordinary people shaping nations).",
       "examples": [
         {
           "target": "La máxima orteguiana «Yo soy yo y mi circunstancia» y la angustia existencial de Unamuno definen la profunda originalidad del pensamiento filosófico español del siglo veinte.",
@@ -14664,7 +14664,7 @@
     "level": "C1",
     "objective": "Baroque philosophical depth: Baltasar Gracián, Calderón de la Barca, and life as a dream (Baltasar Gracián - El Criticón y El Discreto, agudeza y arte de ingenio, Calderón de la Barca - La vida es sueño, desengaño barroco).",
     "presentation": {
-      "explanation": "Spanish Golden Age Baroque philosophical depth and metaphysics:\n- **Pedro Calderón de la Barca (1600–1681)**:\n  - Masterpiece philosophical drama **«La vida es sueño» (Life is a Dream - 1635)**:\n  - Prince Segismundo's existential soliloquy in the tower, questioning the boundaries between illusion, consciousness, and free will (*libre albedrío*):\n    - *«¿Qué es la vida? Un frenesí. / ¿Qué es la vida? Una ilusión, / una sombra, una ficción... que toda la vida es sueño, / y los sueños, sueños son.»*\n- **Baltasar Gracián (1601–1658)**:\n  - Jesuit philosopher and master of Conceptismo; authored *El Criticón* (philosophical allegory of human life) and *Oráculo manual y arte de prudencia* (admired by Schopenhauer and Nietzsche as the supreme guide to worldly wisdom).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spanish Golden Age Baroque philosophical depth and metaphysics:\n- **Pedro Calderón de la Barca (1600–1681)**:\n  - Masterpiece philosophical drama **«La vida es sueño» (Life is a Dream - 1635)**:\n  - Prince Segismundo's existential soliloquy in the tower, questioning the boundaries between illusion, consciousness, and free will (*libre albedrío*):\n    - *«¿Qué es la vida? Un frenesí. / ¿Qué es la vida? Una ilusión, / una sombra, una ficción... que toda la vida es sueño, / y los sueños, sueños son.»*\n- **Baltasar Gracián (1601–1658)**:\n  - Jesuit philosopher and master of Conceptismo; authored *El Criticón* (philosophical allegory of human life) and *Oráculo manual y arte de prudencia* (admired by Schopenhauer and Nietzsche as the supreme guide to worldly wisdom).",
       "examples": [
         {
           "target": "El monólogo de Segismundo en «La vida es sueño» de Calderón y los aforismos de Baltasar Gracián encapsulan la cima del desengaño metafísico del Barroco hispánico.",
@@ -14746,7 +14746,7 @@
     "level": "C1",
     "objective": "The School of Salamanca: Francisco de Vitoria and the birth of international human rights law (La Escuela de Salamanca, Francisco de Vitoria - De Indis, ius gentium, derecho internacional moderno, Francisco Suárez).",
     "presentation": {
-      "explanation": "The 16th-century School of Salamanca and the foundation of universal human rights:\n- **La Escuela de Salamanca (University of Salamanca)**:\n  - Renaissance philosophical and legal movement that modernized Thomistic scholasticism.\n- **Francisco de Vitoria (1483–1546)**:\n  - The **Father of Modern International Law (*Ius Gentium*)**.\n  - In his groundbreaking lectures *De Indis* (1539), Vitoria argued that indigenous peoples in the Americas were free human beings possessing legitimate natural rights to life, liberty, and private property, establishing universal international law binding upon all sovereign states regardless of religion or empire.\n- **Francisco Suárez** and **Bartolomé de las Casas** defending human dignity.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "The 16th-century School of Salamanca and the foundation of universal human rights:\n- **La Escuela de Salamanca (University of Salamanca)**:\n  - Renaissance philosophical and legal movement that modernized Thomistic scholasticism.\n- **Francisco de Vitoria (1483–1546)**:\n  - The **Father of Modern International Law (*Ius Gentium*)**.\n  - In his groundbreaking lectures *De Indis* (1539), Vitoria argued that indigenous peoples in the Americas were free human beings possessing legitimate natural rights to life, liberty, and private property, establishing universal international law binding upon all sovereign states regardless of religion or empire.\n- **Francisco Suárez** and **Bartolomé de las Casas** defending human dignity.",
       "examples": [
         {
           "target": "Francisco de Vitoria y la Escuela de Salamanca sentaron las bases del derecho internacional público y los derechos humanos universales al defender la dignidad intrínseca de los pueblos indígenas.",
@@ -14828,7 +14828,7 @@
     "level": "C2",
     "objective": "Poetic philosophy of Maria Zambrano: Poetic reason and the dawn of consciousness (María Zambrano, la razón poética, Filosofía y Poesía, Claros del bosque, Premio Cervantes).",
     "presentation": {
-      "explanation": "Poetic Reason and philosophical introspection in María Zambrano:\n- **María Zambrano (1904–1991)**:\n  - Disciple of Ortega y Gasset; first woman to be awarded the prestigious **Premio Cervantes (1988)** and Príncipe de Asturias Prize.\n- **La Razón Poética (Poetic Reason)**:\n  - A revolutionary philosophical epistemological method developed in *Filosofía y Poesía* and *Claros del bosque*.\n  - Argues that pure discursive analytical rationalism is insufficient to comprehend the depths of the human soul, suffering, time, and hope; philosophy must unite with poetry, metaphor, and intuition to illuminate the \"clearings in the forest\" (*claros del bosque*) of human consciousness.\n- Philosophical exile (*el exilio filosófico*): Enduring 45 years in exile across Cuba, Mexico, Italy, and Switzerland, turning exile into a universal metaphor for the human condition.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Poetic Reason and philosophical introspection in María Zambrano:\n- **María Zambrano (1904–1991)**:\n  - Disciple of Ortega y Gasset; first woman to be awarded the prestigious **Premio Cervantes (1988)** and Príncipe de Asturias Prize.\n- **La Razón Poética (Poetic Reason)**:\n  - A revolutionary philosophical epistemological method developed in *Filosofía y Poesía* and *Claros del bosque*.\n  - Argues that pure discursive analytical rationalism is insufficient to comprehend the depths of the human soul, suffering, time, and hope; philosophy must unite with poetry, metaphor, and intuition to illuminate the \"clearings in the forest\" (*claros del bosque*) of human consciousness.\n- Philosophical exile (*el exilio filosófico*): Enduring 45 years in exile across Cuba, Mexico, Italy, and Switzerland, turning exile into a universal metaphor for the human condition.",
       "examples": [
         {
           "target": "La razón poética de María Zambrano funde el rigor del pensamiento filosófico con la intuición lírica para explorar las dimensiones sagradas e invisibles de la condición humana.",
@@ -14910,7 +14910,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Spanish contemporary ethics: Adela Cortina and the ethics of cordial reason / aporophobia (Adela Cortina, ética de la razón cordial, aporofobia en la RAE, ética del discurso cívico, neuroética).",
     "presentation": {
-      "explanation": "Contemporary Spanish moral philosophy and civic ethics:\n- **Prof. Adela Cortina (1947–present)**:\n  - Leading Spanish moral philosopher and professor of ethics at the University of Valencia; student of Jürgen Habermas and Karl-Otto Apel.\n- Coining **«Aporofobia» (Aporophobia)**:\n  - Coined the term *Aporofobia* (from Greek *aporos* = poor + *phobos* = fear) to describe the social rejection, prejudice, and contempt directed specifically toward the poor and destitute.\n  - The term was officially incorporated into the dictionary of the Real Academia Española (RAE) in 2017 and chosen as the Word of the Year.\n- **La Ética de la Razón Cordial (Ethics of Cordial Reason)**:\n  - Synthesizing Kantian deontological justice with emotional empathy, compassion, and civic communicative action to build inclusive democratic institutions.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Contemporary Spanish moral philosophy and civic ethics:\n- **Prof. Adela Cortina (1947–present)**:\n  - Leading Spanish moral philosopher and professor of ethics at the University of Valencia; student of Jürgen Habermas and Karl-Otto Apel.\n- Coining **«Aporofobia» (Aporophobia)**:\n  - Coined the term *Aporofobia* (from Greek *aporos* = poor + *phobos* = fear) to describe the social rejection, prejudice, and contempt directed specifically toward the poor and destitute.\n  - The term was officially incorporated into the dictionary of the Real Academia Española (RAE) in 2017 and chosen as the Word of the Year.\n- **La Ética de la Razón Cordial (Ethics of Cordial Reason)**:\n  - Synthesizing Kantian deontological justice with emotional empathy, compassion, and civic communicative action to build inclusive democratic institutions.",
       "examples": [
         {
           "target": "Adela Cortina acuñó el término «aporofobia» para visibilizar el rechazo a los pobres y desarrolló la ética de la razón cordial como pilar fundamental de la deliberación democrática.",
@@ -14992,7 +14992,7 @@
     "level": "C1",
     "objective": "Catalan Modernisme & Organic Architecture: Antoni Gaudí and the Sagrada Família (Antoni Gaudí, modernismo catalán, Sagrada Família, Casa Batlló, Parque Güell, arcos catenarios, trencadís).",
     "presentation": {
-      "explanation": "Antoni Gaudí (1852–1926) and the pinnacle of organic modernist architecture:\n- **Antoni Gaudí i Cornet**:\n  - Supreme architect of Catalan Modernisme; integrated nature's organic geometries (catenary curves, hyperboloids, helicoids) into structural engineering.\n- Masterpieces:\n  - **Basílica de la Sagrada Família** (Barcelona - UNESCO World Heritage):\n    - Forest of branched tree-like stone columns, hyper-detailed Nativity and Passion facades, and soaring central Jesus Christ tower nearing completion.\n  - **Casa Batlló** (The house of the dragon and bone-like balconies) and **Casa Milà (La Pedrera)**.\n  - **Parque Güell**: Architectural garden park celebrating the **Trencadís** technique (mosaic composed of fragmented, colorful ceramic and glass tiles).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Antoni Gaudí (1852–1926) and the pinnacle of organic modernist architecture:\n- **Antoni Gaudí i Cornet**:\n  - Supreme architect of Catalan Modernisme; integrated nature's organic geometries (catenary curves, hyperboloids, helicoids) into structural engineering.\n- Masterpieces:\n  - **Basílica de la Sagrada Família** (Barcelona - UNESCO World Heritage):\n    - Forest of branched tree-like stone columns, hyper-detailed Nativity and Passion facades, and soaring central Jesus Christ tower nearing completion.\n  - **Casa Batlló** (The house of the dragon and bone-like balconies) and **Casa Milà (La Pedrera)**.\n  - **Parque Güell**: Architectural garden park celebrating the **Trencadís** technique (mosaic composed of fragmented, colorful ceramic and glass tiles).",
       "examples": [
         {
           "target": "La arquitectura orgánica de Antoni Gaudí en la Sagrada Família y el trencadís del Parque Güell convirtieron a Barcelona en la capital mundial del Modernismo.",
@@ -15074,7 +15074,7 @@
     "level": "C1",
     "objective": "Spanish Painting Golden Age & Court Realism: Diego Velázquez and Las Meninas (Diego Velázquez - Las Meninas, El Prado, pintura de corte de Felipe IV, claroscuro y perspectiva aérea, Los borrachos, La rendición de Breda).",
     "presentation": {
-      "explanation": "Diego Velázquez (1599–1660) and the pinnacle of universal pictorial art:\n- **Diego Rodríguez de Silva y Velázquez** (Seville & Madrid):\n  - Court painter to King Philip IV; master of atmospheric aerial perspective (*perspectiva aérea*) and loose, impressionistic brushwork.\n- Supreme Masterpiece: **«Las Meninas» (The Ladies-in-Waiting - 1656 - Museo del Prado)**:\n  - Complex spatial and philosophical painting depicting Infanta Margarita Teresa surrounded by maidens (meninas), dwarfs (Mari Bárbola), the royal chamberlain in the doorway, and Velázquez himself standing before a giant canvas painting the viewer.\n  - The mirror in the background reflects the King and Queen, placing the spectator into the royal viewpoint and challenging the boundaries of illusion and reality (hailed by Luca Giordano as \"the theology of painting\").\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Diego Velázquez (1599–1660) and the pinnacle of universal pictorial art:\n- **Diego Rodríguez de Silva y Velázquez** (Seville & Madrid):\n  - Court painter to King Philip IV; master of atmospheric aerial perspective (*perspectiva aérea*) and loose, impressionistic brushwork.\n- Supreme Masterpiece: **«Las Meninas» (The Ladies-in-Waiting - 1656 - Museo del Prado)**:\n  - Complex spatial and philosophical painting depicting Infanta Margarita Teresa surrounded by maidens (meninas), dwarfs (Mari Bárbola), the royal chamberlain in the doorway, and Velázquez himself standing before a giant canvas painting the viewer.\n  - The mirror in the background reflects the King and Queen, placing the spectator into the royal viewpoint and challenging the boundaries of illusion and reality (hailed by Luca Giordano as \"the theology of painting\").",
       "examples": [
         {
           "target": "«Las Meninas» de Diego Velázquez en el Museo del Prado revoluciona la perspectiva aérea y la relación entre el espectador, el artista y la monarquía.",
@@ -15156,7 +15156,7 @@
     "level": "C1",
     "objective": "The Caprichos & Black Paintings: Francisco de Goya as the father of modern art (Francisco de Goya - Los Caprichos, «El sueño de la razón produce monstruos», Pinturas Negras en la Quinta del Sordo, Saturno devorando a su hijo, El tres de mayo de 1808).",
     "presentation": {
-      "explanation": "Francisco de Goya (1746–1828) as the visionary bridge from Enlightenment to Modern Expressionism:\n- **Francisco de Goya y Lucientes** (Fuendetodos, Zaragoza & Madrid):\n  - Court painter turned fearless satirist and prophet of modern existential anguish after losing his hearing in 1792.\n- Critical Engravings & Anti-War Masterpieces:\n  - **«Los Caprichos» (1799)**: Satirical aquatints attacking superstition, clerical hypocrisy, and feudal ignorance. Plate 43: **«El sueño de la razón produce monstruos»** (The sleep of reason produces monsters).\n  - **«El tres de mayo de 1808 en Madrid»**: The archetype of anti-war painting, portraying the faceless French firing squad executing illuminated Spanish civilians at Príncipe Pío.\n  - **Las Pinturas Negras (The Black Paintings - 1819–1823)**: Mural masterpieces painted on the walls of his house (*Quinta del Sordo*), including *Saturno devorando a su hijo* and *El aquelarre*.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Francisco de Goya (1746–1828) as the visionary bridge from Enlightenment to Modern Expressionism:\n- **Francisco de Goya y Lucientes** (Fuendetodos, Zaragoza & Madrid):\n  - Court painter turned fearless satirist and prophet of modern existential anguish after losing his hearing in 1792.\n- Critical Engravings & Anti-War Masterpieces:\n  - **«Los Caprichos» (1799)**: Satirical aquatints attacking superstition, clerical hypocrisy, and feudal ignorance. Plate 43: **«El sueño de la razón produce monstruos»** (The sleep of reason produces monsters).\n  - **«El tres de mayo de 1808 en Madrid»**: The archetype of anti-war painting, portraying the faceless French firing squad executing illuminated Spanish civilians at Príncipe Pío.\n  - **Las Pinturas Negras (The Black Paintings - 1819–1823)**: Mural masterpieces painted on the walls of his house (*Quinta del Sordo*), including *Saturno devorando a su hijo* and *El aquelarre*.",
       "examples": [
         {
           "target": "Goya anticipó el expresionismo y el surrealismo del siglo veinte con sus Pinturas Negras y el grabado «El sueño de la razón produce monstruos».",
@@ -15238,7 +15238,7 @@
     "level": "C2",
     "objective": "The Cubist & Surrealist Vanguard: Pablo Picasso's Guernica and Salvador Dalí's Paranoid-Critical Method (Pablo Picasso - Guernica 1937, cubismo analítico y sintético, Salvador Dalí - método paranoico-crítico, La persistencia de la memoria, Joan Miró).",
     "presentation": {
-      "explanation": "Spanish 20th-century avant-garde titans who reshaped modern visual consciousness:\n- **Pablo Picasso (1881–1973 - Málaga & Paris)**:\n  - Co-invented **Cubism** (Analytic and Synthetic) with Georges Braque (*Les Demoiselles d'Avignon* 1907), dismantling single-point Renaissance perspective.\n  - Masterpiece: **«Guernica» (1937 - Museo Reina Sofía)**:\n    - Monumental monochrome mural commissioned by the Spanish Republic for the Paris International Exposition after the Nazi Condor Legion carpet-bombed the Basque town of Guernica; global symbol against the barbarism of war (the screaming horse, the bull, the weeping mother holding her dead infant, the lightbulb).\n- **Salvador Dalí (1904–1989 - Figueres)**:\n  - Supreme surrealist; formulated the **Método Paranoico-Crítico (Paranoid-Critical Method)** to access the subconscious and manifest double-images.\n  - Masterpiece: **«La persistencia de la memoria» (1931)** featuring soft melting pocket watches on a deserted Catalan beach.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spanish 20th-century avant-garde titans who reshaped modern visual consciousness:\n- **Pablo Picasso (1881–1973 - Málaga & Paris)**:\n  - Co-invented **Cubism** (Analytic and Synthetic) with Georges Braque (*Les Demoiselles d'Avignon* 1907), dismantling single-point Renaissance perspective.\n  - Masterpiece: **«Guernica» (1937 - Museo Reina Sofía)**:\n    - Monumental monochrome mural commissioned by the Spanish Republic for the Paris International Exposition after the Nazi Condor Legion carpet-bombed the Basque town of Guernica; global symbol against the barbarism of war (the screaming horse, the bull, the weeping mother holding her dead infant, the lightbulb).\n- **Salvador Dalí (1904–1989 - Figueres)**:\n  - Supreme surrealist; formulated the **Método Paranoico-Crítico (Paranoid-Critical Method)** to access the subconscious and manifest double-images.\n  - Masterpiece: **«La persistencia de la memoria» (1931)** featuring soft melting pocket watches on a deserted Catalan beach.",
       "examples": [
         {
           "target": "«Guernica» de Picasso se erige como el grito visual universal contra la barbarie bélica, mientras que el método paranoico-crítico de Dalí redefinió el surrealismo.",
@@ -15320,7 +15320,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Contemporary Spanish Architecture: Rafael Moneo and Ricardo Bofill (Rafael Moneo - Premio Pritzker, Museo Nacional de Arte Romano de Mérida, Kursaal de San Sebastián, Ricardo Bofill - La Muralla Roja y La Fábrica, arquitectura posmoderna).",
     "presentation": {
-      "explanation": "Contemporary Spanish architecture, urban historic contextualism, and sculptural monumentality:\n- **Rafael Moneo (1937–present - Tudela)**:\n  - The first Spanish architect to win the prestigious **Pritzker Architecture Prize (1996)** and Prince of Asturias Award.\n  - Masterpieces:\n    - **Museo Nacional de Arte Romano de Mérida (1986)**: Colossal brick arches evoking Roman antiquity with contemporary spatial light.\n    - **Auditorio Kursaal** in San Sebastián (two giant translucent glass rocks on the Cantabrian coastline) and the Prado Museum expansion in Madrid.\n- **Ricardo Bofill (1939–2022 - Barcelona / Taller de Arquitectura)**:\n  - Pioneer of poetic monumental postmodernism and brutalist conversion.\n  - Masterpieces: **«La Muralla Roja» (Calpe, Alicante)** (interlocking geometric stairways and vivid pink/indigo towers inspired by North African adobe kasbahs) and **«La Fábrica» (Sant Just Desvern)** (transforming an abandoned cement silo factory into a lush architectural headquarters).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Contemporary Spanish architecture, urban historic contextualism, and sculptural monumentality:\n- **Rafael Moneo (1937–present - Tudela)**:\n  - The first Spanish architect to win the prestigious **Pritzker Architecture Prize (1996)** and Prince of Asturias Award.\n  - Masterpieces:\n    - **Museo Nacional de Arte Romano de Mérida (1986)**: Colossal brick arches evoking Roman antiquity with contemporary spatial light.\n    - **Auditorio Kursaal** in San Sebastián (two giant translucent glass rocks on the Cantabrian coastline) and the Prado Museum expansion in Madrid.\n- **Ricardo Bofill (1939–2022 - Barcelona / Taller de Arquitectura)**:\n  - Pioneer of poetic monumental postmodernism and brutalist conversion.\n  - Masterpieces: **«La Muralla Roja» (Calpe, Alicante)** (interlocking geometric stairways and vivid pink/indigo towers inspired by North African adobe kasbahs) and **«La Fábrica» (Sant Just Desvern)** (transforming an abandoned cement silo factory into a lush architectural headquarters).",
       "examples": [
         {
           "target": "La monumentalidad sobria de Rafael Moneo en Mérida y la audacia geométrica de Ricardo Bofill en La Muralla Roja sitúan a la arquitectura española contemporánea en la vanguardia global.",
@@ -15402,7 +15402,7 @@
     "level": "C1",
     "objective": "Flamenco Cante Jondo & The Metaphysics of Duende: Federico García Lorca and Paco de Lucía (Flamenco cante jondo, Federico García Lorca - Teoría y juego del duende, Paco de Lucía - Entre dos aguas, cajón flamenco, compás de soleá y bulerías).",
     "presentation": {
-      "explanation": "Flamenco Cante Jondo, Andalusian modal harmony, and the mysterious power of Duende:\n- **Federico García Lorca (1898–1936)**:\n  - Landmark Lecture: **«Teoría y juego del duende» (Theory and Play of the Duende - 1933)**;\n  - Differentiating *Duende* from the Muse and Angel: The Muse dictates from outside, the Angel illuminates from above, but the **Duende climbs from the soles of the feet through the bloodstream**; it is the dark, agonizing, Dionysian struggle of the artist wrestling with death, mortality, and supreme emotional truth (*\"Para buscar al duende no hay mapa ni ejercicio\"*).\n- **Paco de Lucía (Francisco Sánchez Gómez - 1947–2014 - Algeciras)**:\n  - The supreme flamenco guitar virtuoso in world history;\n  - Modernized flamenco harmony (introducing jazz seventh chords and bossa nova phrasing);\n  - Masterpiece: **«Entre dos aguas» (1973)** and the introduction of the Peruvian wooden box drum (**el cajón afroperuano**) into traditional Spanish flamenco rhythm in 1977, transforming modern flamenco percussion forever.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Flamenco Cante Jondo, Andalusian modal harmony, and the mysterious power of Duende:\n- **Federico García Lorca (1898–1936)**:\n  - Landmark Lecture: **«Teoría y juego del duende» (Theory and Play of the Duende - 1933)**;\n  - Differentiating *Duende* from the Muse and Angel: The Muse dictates from outside, the Angel illuminates from above, but the **Duende climbs from the soles of the feet through the bloodstream**; it is the dark, agonizing, Dionysian struggle of the artist wrestling with death, mortality, and supreme emotional truth (*\"Para buscar al duende no hay mapa ni ejercicio\"*).\n- **Paco de Lucía (Francisco Sánchez Gómez - 1947–2014 - Algeciras)**:\n  - The supreme flamenco guitar virtuoso in world history;\n  - Modernized flamenco harmony (introducing jazz seventh chords and bossa nova phrasing);\n  - Masterpiece: **«Entre dos aguas» (1973)** and the introduction of the Peruvian wooden box drum (**el cajón afroperuano**) into traditional Spanish flamenco rhythm in 1977, transforming modern flamenco percussion forever.",
       "examples": [
         {
           "target": "Lorca definió el «duende» como la fuerza telúrica que quema la sangre del artista en el cante jondo, mientras Paco de Lucía revolucionó la guitarra flamenca mundial.",
@@ -15484,7 +15484,7 @@
     "level": "C1",
     "objective": "Classical Spanish Orchestral Nationalism: Manuel de Falla and Isaac Albéniz (Manuel de Falla - El amor brujo, Danza ritual del fuego, Noches en los jardines de España, Isaac Albéniz - Suite Iberia, Enrique Granados - Goyescas).",
     "presentation": {
-      "explanation": "Spanish Classical Music Renaissance and symphonic Impressionism:\n- **Manuel de Falla (1876–1946 - Cádiz & Granada)**:\n  - The foremost Spanish composer of the 20th century; fused authentic Andalusian folk modal scales (phrygian mode) with impressionist orchestration alongside Claude Debussy and Maurice Ravel in Paris.\n- Masterpieces:\n  - **«El amor brujo» (Love, the Magician - 1915)**: Featuring the electrifying **«Danza ritual del fuego»** (Ritual Fire Dance) exorcising evil spirits through trills and rhythmic incantations.\n  - **«Noches en los jardines de España» (Nights in the Gardens of Spain - 1916)**: Symphonic impressions for piano and orchestra invoking the nocturnal fountains of the Generalife at the Alhambra.\n- **Isaac Albéniz (1860–1909)**: **«Suite Iberia» (1905–1908)**: 12 monumental piano masterworks capturing the regional rhythms of Triana, Lavapiés, and El Albaicín.\n- **Enrique Granados (1867–1916)**: **«Goyescas»**, transcribing Goya's paintings into lyrical piano romanticism.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spanish Classical Music Renaissance and symphonic Impressionism:\n- **Manuel de Falla (1876–1946 - Cádiz & Granada)**:\n  - The foremost Spanish composer of the 20th century; fused authentic Andalusian folk modal scales (phrygian mode) with impressionist orchestration alongside Claude Debussy and Maurice Ravel in Paris.\n- Masterpieces:\n  - **«El amor brujo» (Love, the Magician - 1915)**: Featuring the electrifying **«Danza ritual del fuego»** (Ritual Fire Dance) exorcising evil spirits through trills and rhythmic incantations.\n  - **«Noches en los jardines de España» (Nights in the Gardens of Spain - 1916)**: Symphonic impressions for piano and orchestra invoking the nocturnal fountains of the Generalife at the Alhambra.\n- **Isaac Albéniz (1860–1909)**: **«Suite Iberia» (1905–1908)**: 12 monumental piano masterworks capturing the regional rhythms of Triana, Lavapiés, and El Albaicín.\n- **Enrique Granados (1867–1916)**: **«Goyescas»**, transcribing Goya's paintings into lyrical piano romanticism.",
       "examples": [
         {
           "target": "«Noches en los jardines de España» de Manuel de Falla y la «Suite Iberia» de Albéniz consagraron el nacionalismo musical español en las principales salas sinfónicas del mundo.",
@@ -15566,7 +15566,7 @@
     "level": "C1",
     "objective": "Classical Guitar Mastery & Spanish Renaissance Polyphony: Andrés Segovia, Joaquín Rodrigo, and Victoria (Andrés Segovia - emancipación de la guitarra clásica, Joaquín Rodrigo - Concierto de Aranjuez y el Adagio, Tomás Luis de Victoria - polifonía sacra del Renacimiento).",
     "presentation": {
-      "explanation": "Classical guitar virtuosity, concerto repertoire, and Renaissance polyphony:\n- **Andrés Segovia (1893–1987 - Linares)**:\n  - The Father of the Modern Classical Guitar; elevated the Spanish guitar from folk tavern instrument into a noble concert hall solo instrument across Carnegie Hall and the world's Philharmonic stages.\n- **Joaquín Rodrigo (1901–1999 - Sagunto)**:\n  - Blind composer who authored the most beloved guitar concerto in world history: **«Concierto de Aranjuez» (1939)**;\n  - The heartbreaking **Adagio (2nd Movement)**: A profound dialogue between English horn and solo guitar, composed in Paris as an elegy for the loss of his first child and a prayer for his wife's survival amidst the trauma of the Spanish Civil War.\n- **Tomás Luis de Victoria (1548–1611 - Ávila)**:\n  - The greatest polyphonic composer of the Spanish Golden Age; authored the supreme funeral requiem **«Officium Defunctorum» (1605)**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Classical guitar virtuosity, concerto repertoire, and Renaissance polyphony:\n- **Andrés Segovia (1893–1987 - Linares)**:\n  - The Father of the Modern Classical Guitar; elevated the Spanish guitar from folk tavern instrument into a noble concert hall solo instrument across Carnegie Hall and the world's Philharmonic stages.\n- **Joaquín Rodrigo (1901–1999 - Sagunto)**:\n  - Blind composer who authored the most beloved guitar concerto in world history: **«Concierto de Aranjuez» (1939)**;\n  - The heartbreaking **Adagio (2nd Movement)**: A profound dialogue between English horn and solo guitar, composed in Paris as an elegy for the loss of his first child and a prayer for his wife's survival amidst the trauma of the Spanish Civil War.\n- **Tomás Luis de Victoria (1548–1611 - Ávila)**:\n  - The greatest polyphonic composer of the Spanish Golden Age; authored the supreme funeral requiem **«Officium Defunctorum» (1605)**.",
       "examples": [
         {
           "target": "El sublime Adagio del «Concierto de Aranjuez» de Joaquín Rodrigo y la maestría de Andrés Segovia consagraron la guitarra clásica como la voz universal del alma española.",
@@ -15648,7 +15648,7 @@
     "level": "C2",
     "objective": "Cello Humanism & Peace Advocacy: Pau Casals and El Cant dels Ocells (Pau Casals - Pablo Casals, redescubrimiento de las Suites de Bach, Himno de las Naciones Unidas, El cant dels ocells, discurso ante la ONU en 1971 «I am a Catalan»).",
     "presentation": {
-      "explanation": "Pau Casals (1876–1973 - El Vendrell, Catalonia & San Juan, Puerto Rico) and musical humanism:\n- **Pau Casals (Pablo Casals)**:\n  - The supreme cellist of the 20th century; revolutionized cello technique.\n- Historic Breakthroughs:\n  - **Rediscovery of J.S. Bach's 6 Cello Suites (1890)**: Found forgotten sheet music in a second-hand Barcelona music shop at age 13; spent 12 years practicing before performing them publicly, transforming the Suites into the central pillar of cello repertoire.\n  - Anti-Fascist Resistance & Moral Exile: Refused to perform in Franco's Spain or in countries recognizing totalitarian dictatorships, founding the **Prades Festival** in the French Pyrenees.\n  - **«El cant dels ocells» (The Song of the Birds)**: Traditional Catalan Christmas folk carol transformed by Casals into an international hymn of peace, freedom, and exile.\n  - UN Peace Medal (1971): Composed the **United Nations Hymn** (lyrics by W.H. Auden) and delivered his legendary speech at age 94: *«I am a Catalan... Catalonia was the first country to have a parliament, long before England... Peace, peace, peace!»*.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Pau Casals (1876–1973 - El Vendrell, Catalonia & San Juan, Puerto Rico) and musical humanism:\n- **Pau Casals (Pablo Casals)**:\n  - The supreme cellist of the 20th century; revolutionized cello technique.\n- Historic Breakthroughs:\n  - **Rediscovery of J.S. Bach's 6 Cello Suites (1890)**: Found forgotten sheet music in a second-hand Barcelona music shop at age 13; spent 12 years practicing before performing them publicly, transforming the Suites into the central pillar of cello repertoire.\n  - Anti-Fascist Resistance & Moral Exile: Refused to perform in Franco's Spain or in countries recognizing totalitarian dictatorships, founding the **Prades Festival** in the French Pyrenees.\n  - **«El cant dels ocells» (The Song of the Birds)**: Traditional Catalan Christmas folk carol transformed by Casals into an international hymn of peace, freedom, and exile.\n  - UN Peace Medal (1971): Composed the **United Nations Hymn** (lyrics by W.H. Auden) and delivered his legendary speech at age 94: *«I am a Catalan... Catalonia was the first country to have a parliament, long before England... Peace, peace, peace!»*.",
       "examples": [
         {
           "target": "Pau Casals rescató las Suites de Bach del olvido y convirtió «El cant dels ocells» en el himno universal de la paz y la dignidad de los pueblos ante la ONU.",
@@ -15730,7 +15730,7 @@
     "level": "C2",
     "objective": "C2 synthesis on The Zarzuela Genre & Opera Theater: Teatro Real, Gran Teatre del Liceu, and Amadeo Vives (La Zarzuela, género chico y género grande, La verbena de la Paloma, Doña Francisquita, Teatro Real de Madrid, Gran Teatre del Liceu de Barcelona).",
     "presentation": {
-      "explanation": "The lyric theatrical genre of Zarzuela and Spain's grand opera houses:\n- **La Zarzuela (Spanish Lyric Opera Genre)**:\n  - Originated in the 17th century at the Palacio de la Zarzuela under King Philip IV; alternating spoken dialogue with sung arias (*romanzas*), choruses, and popular folk dances (chotis, seguidillas, jotas).\n  - **Género Grande** (3-act full operatic works: *Doña Francisquita* by Amadeo Vives, *Luisa Fernanda* by Federico Moreno Torroba) vs **Género Chico** (1-act comic masterworks: *La verbena de la Paloma* by Tomás Bretón, *La revoltosa* by Ruperto Chapí).\n- Grand Opera Temples:\n  - **Teatro Real de Madrid (Inaugurated 1850)**: Premier national opera house of Spain (awarded Best Opera Company in the World at the International Opera Awards 2021).\n  - **Gran Teatre del Liceu (Barcelona - Inaugurated 1847 on La Rambla)**: Historic acoustic horseshoe theater where Montserrat Caballé and Josep Carreras made world operatic history.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "The lyric theatrical genre of Zarzuela and Spain's grand opera houses:\n- **La Zarzuela (Spanish Lyric Opera Genre)**:\n  - Originated in the 17th century at the Palacio de la Zarzuela under King Philip IV; alternating spoken dialogue with sung arias (*romanzas*), choruses, and popular folk dances (chotis, seguidillas, jotas).\n  - **Género Grande** (3-act full operatic works: *Doña Francisquita* by Amadeo Vives, *Luisa Fernanda* by Federico Moreno Torroba) vs **Género Chico** (1-act comic masterworks: *La verbena de la Paloma* by Tomás Bretón, *La revoltosa* by Ruperto Chapí).\n- Grand Opera Temples:\n  - **Teatro Real de Madrid (Inaugurated 1850)**: Premier national opera house of Spain (awarded Best Opera Company in the World at the International Opera Awards 2021).\n  - **Gran Teatre del Liceu (Barcelona - Inaugurated 1847 on La Rambla)**: Historic acoustic horseshoe theater where Montserrat Caballé and Josep Carreras made world operatic history.",
       "examples": [
         {
           "target": "La zarzuela inmortalizó la vida castiza en «La verbena de la Paloma», mientras el Teatro Real y el Gran Teatre del Liceu lideran el panorama operístico internacional.",
@@ -15812,7 +15812,7 @@
     "level": "C1",
     "objective": "Surrealist Cinema & Subversive Vision: Luis Buñuel (Luis Buñuel - Un perro andaluz 1929 con Salvador Dalí, Viridiana - Palma de Oro en Cannes 1961, El discreto encanto de la burguesía, crítica al clero y a la burguesía).",
     "presentation": {
-      "explanation": "Luis Buñuel (1900–1983 - Calanda, Teruel & Mexico City) and surrealist world cinema:\n- **Luis Buñuel Portolés**:\n  - The Father of Cinematic Surrealism; collaborated with Salvador Dalí and Federico García Lorca at the Residencia de Estudiantes in Madrid.\n- Masterpieces & Subversive Aesthetics:\n  - **«Un perro andaluz» (Un Chien Andalou - 1929 - with Dalí)**: The iconic surrealist opening slicing an eye with a razor blade across the moon, destroying bourgeois linear narrative logic.\n  - **«Viridiana» (1961)**: The **only Spanish film to win the Palme d'Or at the Cannes Film Festival**; infamous for the beggars' banquet tableau reenacting Leonardo da Vinci's *Last Supper* to Handel's *Messiah*, condemned by the Vatican and banned by Franco's dictatorship.\n  - **«El discreto encanto de la burguesía» (1972)**: Won the Academy Award for Best Foreign Language Film.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Luis Buñuel (1900–1983 - Calanda, Teruel & Mexico City) and surrealist world cinema:\n- **Luis Buñuel Portolés**:\n  - The Father of Cinematic Surrealism; collaborated with Salvador Dalí and Federico García Lorca at the Residencia de Estudiantes in Madrid.\n- Masterpieces & Subversive Aesthetics:\n  - **«Un perro andaluz» (Un Chien Andalou - 1929 - with Dalí)**: The iconic surrealist opening slicing an eye with a razor blade across the moon, destroying bourgeois linear narrative logic.\n  - **«Viridiana» (1961)**: The **only Spanish film to win the Palme d'Or at the Cannes Film Festival**; infamous for the beggars' banquet tableau reenacting Leonardo da Vinci's *Last Supper* to Handel's *Messiah*, condemned by the Vatican and banned by Franco's dictatorship.\n  - **«El discreto encanto de la burguesía» (1972)**: Won the Academy Award for Best Foreign Language Film.",
       "examples": [
         {
           "target": "Luis Buñuel dinamitó el conformismo burgués con el ojo cortado de «Un perro andaluz» y la transgresión magistral de «Viridiana», Palma de Oro en Cannes.",
@@ -15894,7 +15894,7 @@
     "level": "C1",
     "objective": "The Colors of Melodrama & Post-Franco Freedom: Pedro Almodóvar (Pedro Almodóvar - La Movida Madrileña, Todo sobre mi madre - Oscar 1999, Hable con ella - Oscar al mejor guion original 2002, Carmen Maura, Penélope Cruz, estética pop y colores saturados).",
     "presentation": {
-      "explanation": "Pedro Almodóvar (1949–present - Calzada de Calatrava & Madrid) and modern Spanish auteur cinema:\n- **Pedro Almodóvar Caballero**:\n  - Born in La Mancha; emerged during the hedonistic cultural explosion of **La Movida Madrileña** following Franco's death;\n  - Redefined world melodrama, gender fluidity, motherhood, and passion with intense saturated primary colors (especially Almodóvar red).\n- Academy Award (Oscar) Triumphs:\n  - **«Todo sobre mi madre» (All About My Mother - 1999)**: Won the **Oscar for Best Foreign Language Film**; a moving tribute to actresses, mothers, and transgender solidarity.\n  - **«Hable con ella» (Talk to Her - 2002)**: Won the **Oscar for Best Original Screenplay** and BAFTA, exploring loneliness, dance, and comatose love (featuring Caetano Veloso singing *Cucurrucucú paloma*).\n- Iconic Muses: Carmen Maura, **Penélope Cruz** (*Volver* 2006, *Madres paralelas*), and Antonio Banderas (*Dolor y gloria* 2019).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Pedro Almodóvar (1949–present - Calzada de Calatrava & Madrid) and modern Spanish auteur cinema:\n- **Pedro Almodóvar Caballero**:\n  - Born in La Mancha; emerged during the hedonistic cultural explosion of **La Movida Madrileña** following Franco's death;\n  - Redefined world melodrama, gender fluidity, motherhood, and passion with intense saturated primary colors (especially Almodóvar red).\n- Academy Award (Oscar) Triumphs:\n  - **«Todo sobre mi madre» (All About My Mother - 1999)**: Won the **Oscar for Best Foreign Language Film**; a moving tribute to actresses, mothers, and transgender solidarity.\n  - **«Hable con ella» (Talk to Her - 2002)**: Won the **Oscar for Best Original Screenplay** and BAFTA, exploring loneliness, dance, and comatose love (featuring Caetano Veloso singing *Cucurrucucú paloma*).\n- Iconic Muses: Carmen Maura, **Penélope Cruz** (*Volver* 2006, *Madres paralelas*), and Antonio Banderas (*Dolor y gloria* 2019).",
       "examples": [
         {
           "target": "Pedro Almodóvar revolucionó el cine mundial con el estallido cromático de La Movida y la maestría dramática de «Todo sobre mi madre» y «Hable con ella».",
@@ -15976,7 +15976,7 @@
     "level": "C1",
     "objective": "Poetic Realism & Childhood Memory: Víctor Erice and The Spirit of the Beehive (Víctor Erice - El espíritu de la colmena 1973 - Concha de Oro en San Sebastián, Ana Torrent, Frankenstein y el silencio de la posguerra, El sur, El sol del membrillo).",
     "presentation": {
-      "explanation": "Víctor Erice (1940–present - Karrantza, Biscay) and the poetic summit of contemplative cinema:\n- **Víctor Erice**:\n  - The ascetic poet of Spanish cinema; known for rare, pristine cinematic masterworks of light, painting, and childhood perception.\n- Masterpieces:\n  - **«El espíritu de la colmena» (The Spirit of the Beehive - 1973 - Concha de Oro at San Sebastián Film Festival)**:\n    - Regarded by critics as the greatest film in Spanish history;\n    - Set in a remote Castilian village in 1940 after the Civil War; 6-year-old Ana (played by **Ana Torrent**) watches James Whale's 1931 *Frankenstein* in a traveling cinema, embarking on an innocent search for the \"spirit\" of the monster, encountering a wounded Republican soldier hiding in an abandoned sheep barn;\n    - Uses amber honeycomb light and profound silence to express the suffocating trauma of Francoist postwar Spain without overt political dialogue.\n  - **«El sol del membrillo» (Dream of Light - 1992)**: Capturing painter Antonio López painting a quince tree, winning the Jury Prize at Cannes.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Víctor Erice (1940–present - Karrantza, Biscay) and the poetic summit of contemplative cinema:\n- **Víctor Erice**:\n  - The ascetic poet of Spanish cinema; known for rare, pristine cinematic masterworks of light, painting, and childhood perception.\n- Masterpieces:\n  - **«El espíritu de la colmena» (The Spirit of the Beehive - 1973 - Concha de Oro at San Sebastián Film Festival)**:\n    - Regarded by critics as the greatest film in Spanish history;\n    - Set in a remote Castilian village in 1940 after the Civil War; 6-year-old Ana (played by **Ana Torrent**) watches James Whale's 1931 *Frankenstein* in a traveling cinema, embarking on an innocent search for the \"spirit\" of the monster, encountering a wounded Republican soldier hiding in an abandoned sheep barn;\n    - Uses amber honeycomb light and profound silence to express the suffocating trauma of Francoist postwar Spain without overt political dialogue.\n  - **«El sol del membrillo» (Dream of Light - 1992)**: Capturing painter Antonio López painting a quince tree, winning the Jury Prize at Cannes.",
       "examples": [
         {
           "target": "«El espíritu de la colmena» de Víctor Erice capturó el silencio desgarrador de la posguerra española a través de los ojos inocentes de Ana Torrent y la luz ámbar de la colmena.",
@@ -16058,7 +16058,7 @@
     "level": "C2",
     "objective": "Flamenco Cinematography & Passion: Carlos Saura (Carlos Saura - Cría cuervos 1976 con «Porque te vas», trilogía flamenca con Antonio Gades - Bodas de sangre, Carmen, El amor brujo, Goya en Burdeos, Vittorio Storaro).",
     "presentation": {
-      "explanation": "Carlos Saura (1932–2023 - Huesca & Madrid) and the fusion of cinema, flamenco dance, and historical memory:\n- **Carlos Saura Atarés**:\n  - Winner of the Silver Bear at Berlin, Grand Prix at Cannes, and European Film Academy Lifetime Achievement Award.\n- Masterpieces:\n  - **«Cría cuervos...» (1976 - Special Jury Prize at Cannes)**: Filmed during the dying months of Franco's regime; starring Ana Torrent and Geraldine Chaplin; featuring the iconic song **«Porque te vas»** by Jeanette, portraying the psychological isolation and dark fantasies of childhood.\n  - **The Flamenco Dance Triad (with dancer/choreographer Antonio Gades)**:\n    - **«Bodas de sangre» (Blood Wedding - 1981 - Lorca)**, **«Carmen» (1983 - BAFTA Award)**, and **«El amor brujo» (1986)**;\n    - Stripping away elaborate realistic film sets, staging dance in minimalist sunlit rehearsal studios with mirrors, letting the pure physical rhythm of flamenco heels (*taconeo*) and clapping (*palmas*) drive the cinematic narrative;\n  - Collaborated with 3-time Oscar-winning cinematographer **Vittorio Storaro** on *Flamenco* (1995) and *Goya en Burdeos*.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Carlos Saura (1932–2023 - Huesca & Madrid) and the fusion of cinema, flamenco dance, and historical memory:\n- **Carlos Saura Atarés**:\n  - Winner of the Silver Bear at Berlin, Grand Prix at Cannes, and European Film Academy Lifetime Achievement Award.\n- Masterpieces:\n  - **«Cría cuervos...» (1976 - Special Jury Prize at Cannes)**: Filmed during the dying months of Franco's regime; starring Ana Torrent and Geraldine Chaplin; featuring the iconic song **«Porque te vas»** by Jeanette, portraying the psychological isolation and dark fantasies of childhood.\n  - **The Flamenco Dance Triad (with dancer/choreographer Antonio Gades)**:\n    - **«Bodas de sangre» (Blood Wedding - 1981 - Lorca)**, **«Carmen» (1983 - BAFTA Award)**, and **«El amor brujo» (1986)**;\n    - Stripping away elaborate realistic film sets, staging dance in minimalist sunlit rehearsal studios with mirrors, letting the pure physical rhythm of flamenco heels (*taconeo*) and clapping (*palmas*) drive the cinematic narrative;\n  - Collaborated with 3-time Oscar-winning cinematographer **Vittorio Storaro** on *Flamenco* (1995) and *Goya en Burdeos*.",
       "examples": [
         {
           "target": "Carlos Saura unió el cine y la danza flamenca con Antonio Gades en «Carmen» y capturó la transición española con la inolvidable mirada de «Cría cuervos».",
@@ -16140,7 +16140,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Spanish Dark Comedy & Black Humour: Luis García Berlanga (Luis García Berlanga - esperpento cinematográfico, Bienvenido Mister Marshall 1953, El verdugo 1963, plano secuencia coral, Premios Goya).",
     "presentation": {
-      "explanation": "Luis García Berlanga (1921–2010 - Valencia & Madrid) and Spanish satirical black comedy (*esperpento cinematográfico*):\n- **Luis García Berlanga (with screenwriter Rafael Azcona)**:\n  - The supreme master of Spanish social satire and dark comedy;\n  - Developed the **Plano Secuencia Coral (Choral Long Take)**: Choreographing dozens of overlapping talking characters within a single continuous roving camera take without cuts.\n- Masterpieces:\n  - **«¡Bienvenido, Mister Marshall!» (1953 - International Prize at Cannes)**: Satirical comedy of a Castilian village disguising itself as stereotypical Andalusia with flamenco costumes to attract American Marshall Plan aid—only for the American motorcade to drive past at full speed without stopping.\n  - **«El verdugo» (The Executioner - 1963 - FIPRESCI Prize at Venice)**: Voted among the greatest Spanish comedies; a young undertaker marries an executioner's daughter and is gradually forced by economic necessity to accept the executioner's post, dragged weeping to execute a prisoner at the garrote vil in a chilling critique of capital punishment.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Luis García Berlanga (1921–2010 - Valencia & Madrid) and Spanish satirical black comedy (*esperpento cinematográfico*):\n- **Luis García Berlanga (with screenwriter Rafael Azcona)**:\n  - The supreme master of Spanish social satire and dark comedy;\n  - Developed the **Plano Secuencia Coral (Choral Long Take)**: Choreographing dozens of overlapping talking characters within a single continuous roving camera take without cuts.\n- Masterpieces:\n  - **«¡Bienvenido, Mister Marshall!» (1953 - International Prize at Cannes)**: Satirical comedy of a Castilian village disguising itself as stereotypical Andalusia with flamenco costumes to attract American Marshall Plan aid—only for the American motorcade to drive past at full speed without stopping.\n  - **«El verdugo» (The Executioner - 1963 - FIPRESCI Prize at Venice)**: Voted among the greatest Spanish comedies; a young undertaker marries an executioner's daughter and is gradually forced by economic necessity to accept the executioner's post, dragged weeping to execute a prisoner at the garrote vil in a chilling critique of capital punishment.",
       "examples": [
         {
           "target": "Berlanga y Rafael Azcona retrataron el absurdo y la picaresca española en planos secuencia corales magistrales como «¡Bienvenido, Mister Marshall!» y «El verdugo».",
@@ -16222,7 +16222,7 @@
     "level": "C1",
     "objective": "Siglo de Oro Golden Age Dramaturgy & Free Will: Calderón de la Barca (Pedro Calderón de la Barca - La vida es sueño 1635, soliloquio de Segismundo «¿Qué es la vida? Un frenesí», libre albedrío contra el destino, El gran teatro del mundo, autos sacramentales).",
     "presentation": {
-      "explanation": "Pedro Calderón de la Barca (1600–1681 - Madrid) and the pinnacle of Baroque philosophical drama:\n- **Pedro Calderón de la Barca**:\n  - The supreme philosophical dramatist of the Spanish Golden Age (*Siglo de Oro*); Knight of the Order of Santiago.\n- The Masterpiece: **«La vida es sueño» (Life Is a Dream - 1635)**:\n  - Set in mythical Poland; Prince **Segismundo** is locked from birth in a mountain tower in animal skins by King Basilio due to an astrological prophecy predicting he will become a tyrant;\n  - When drugged and brought to court for a test, Segismundo reacts violently, is returned to his tower, and believes his day of royalty was merely an illusion or dream;\n  - The Immortal Soliloquy: **«¿Qué es la vida? Un frenesí. / ¿Qué es la vida? Una ilusión, / una sombra, una ficción, / y el mayor bien es pequeño: / que toda la vida es sueño, / y los sueños, sueños son.»**;\n  - Profound philosophical themes: Free will (*libre albedrío*) triumphing over astrological fatalism; the moral duty to do good even in dreams (*\"Hacer bien nunca se pierde, ni aun en sueños\"*).\n- **«El gran teatro del mundo» (The Great Theater of the World - 1655)**: Masterpiece of the *Auto Sacramental* genre depicting human life as a theatrical stage role assigned by God.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Pedro Calderón de la Barca (1600–1681 - Madrid) and the pinnacle of Baroque philosophical drama:\n- **Pedro Calderón de la Barca**:\n  - The supreme philosophical dramatist of the Spanish Golden Age (*Siglo de Oro*); Knight of the Order of Santiago.\n- The Masterpiece: **«La vida es sueño» (Life Is a Dream - 1635)**:\n  - Set in mythical Poland; Prince **Segismundo** is locked from birth in a mountain tower in animal skins by King Basilio due to an astrological prophecy predicting he will become a tyrant;\n  - When drugged and brought to court for a test, Segismundo reacts violently, is returned to his tower, and believes his day of royalty was merely an illusion or dream;\n  - The Immortal Soliloquy: **«¿Qué es la vida? Un frenesí. / ¿Qué es la vida? Una ilusión, / una sombra, una ficción, / y el mayor bien es pequeño: / que toda la vida es sueño, / y los sueños, sueños son.»**;\n  - Profound philosophical themes: Free will (*libre albedrío*) triumphing over astrological fatalism; the moral duty to do good even in dreams (*\"Hacer bien nunca se pierde, ni aun en sueños\"*).\n- **«El gran teatro del mundo» (The Great Theater of the World - 1655)**: Masterpiece of the *Auto Sacramental* genre depicting human life as a theatrical stage role assigned by God.",
       "examples": [
         {
           "target": "Calderón de la Barca consagró el Siglo de Oro con el monólogo de Segismundo en «La vida es sueño», demostrando que el libre albedrío trasciende la ilusión terrenal.",
@@ -16304,7 +16304,7 @@
     "level": "C1",
     "objective": "The Phoenix of Wits & Popular Comedy: Lope de Vega and Fuenteovejuna (Lope de Vega - «Fénix de los Ingenios», Arte nuevo de hacer comedias 1609, ruptura de las tres unidades aristotélicas, Fuenteovejuna - «¿Quién mató al comendador? ¡Fuenteovejuna, señor!», Laurencia y el honor villano).",
     "presentation": {
-      "explanation": "Félix Lope de Vega y Carpio (1562–1635 - Madrid) and the invention of Spanish popular theatre:\n- **Lope de Vega (\"El Fénix de los Ingenios\" / The Phoenix of Wits - Miguel de Cervantes called him \"El Monstruo de la Naturaleza\")**:\n  - Prolific genius who authored over 1,500 plays in verse (*comedias*), transforming theatre from aristocratic Latin recitation into mass public entertainment in the open-air courtyards (*Corrales de comedias*).\n- The Theoretical Manifesto: **«Arte nuevo de hacer comedias en este tiempo» (1609)**:\n  - Audaciously rejected Aristotle's classical three unities (Time, Place, Action);\n  - Combined tragic high drama with popular low comedy (*tragicomedia*); introduced the stock comic character of the witty servant (*El Gracioso*); and declared that the taste of the paying public is the ultimate law of the stage (*\"Porque, como las paga el vulgo, es justo / hablarle en necio para darle gusto\"*).\n- Masterpiece: **«Fuenteovejuna» (1619)**:\n  - Based on a 1476 historical revolt in Andalusia; an entire village rebels against the tyrannical Commander Fernán Gómez, executing him after he assaults peasant bride **Laurencia**;\n  - When tortured on the rack by royal investigators, every villager including children replies with unanimous collective solidarity: **«—¿Quién mató al Comendador? / —Fuenteovejuna, señor. / —¿Quién es Fuenteovejuna? / —Todo el pueblo a una.»**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Félix Lope de Vega y Carpio (1562–1635 - Madrid) and the invention of Spanish popular theatre:\n- **Lope de Vega (\"El Fénix de los Ingenios\" / The Phoenix of Wits - Miguel de Cervantes called him \"El Monstruo de la Naturaleza\")**:\n  - Prolific genius who authored over 1,500 plays in verse (*comedias*), transforming theatre from aristocratic Latin recitation into mass public entertainment in the open-air courtyards (*Corrales de comedias*).\n- The Theoretical Manifesto: **«Arte nuevo de hacer comedias en este tiempo» (1609)**:\n  - Audaciously rejected Aristotle's classical three unities (Time, Place, Action);\n  - Combined tragic high drama with popular low comedy (*tragicomedia*); introduced the stock comic character of the witty servant (*El Gracioso*); and declared that the taste of the paying public is the ultimate law of the stage (*\"Porque, como las paga el vulgo, es justo / hablarle en necio para darle gusto\"*).\n- Masterpiece: **«Fuenteovejuna» (1619)**:\n  - Based on a 1476 historical revolt in Andalusia; an entire village rebels against the tyrannical Commander Fernán Gómez, executing him after he assaults peasant bride **Laurencia**;\n  - When tortured on the rack by royal investigators, every villager including children replies with unanimous collective solidarity: **«—¿Quién mató al Comendador? / —Fuenteovejuna, señor. / —¿Quién es Fuenteovejuna? / —Todo el pueblo a una.»**.",
       "examples": [
         {
           "target": "Lope de Vega revolucionó el teatro universal con el «Arte nuevo» y consagró el honor popular colectivo en «Fuenteovejuna»: «¡Todo el pueblo a una!».",
@@ -16386,7 +16386,7 @@
     "level": "C1",
     "objective": "The Myth of the Seducer & Sins of Damnation: Tirso de Molina and Don Juan (Tirso de Molina - El burlador de Sevilla y convidado de piedra 1630, el mito universal de Don Juan Tenorio, «¡Tan largo me lo fiáis!», la estatua de Don Gonzalo de Ulloa, José Zorrilla).",
     "presentation": {
-      "explanation": "Fray Gabriel Téllez / Tirso de Molina (1579–1648 - Madrid & Almazán) and the universal archetype of Don Juan:\n- **Tirso de Molina**:\n  - Mercedarian friar, theologian, and master playwright; created the most influential mythical archetype in Western dramatic history.\n- The Foundational Masterpiece: **«El burlador de Sevilla y convidado de piedra» (The Trickster of Seville and the Stone Guest - 1630)**:\n  - Introduced **Don Juan Tenorio**, an aristocratic, hedonistic trickster who seduces and dishonors women across Europe (Doña Isabela, Tisbea, Doña Ana de Ulloa, Aminta), driven not by romantic love but by the thrill of social disruption and vanity;\n  - Don Juan's Tragic Arrogant Refrain: **«¡Tan largo me lo fiáis!»** (What a long credit you give me! / I have plenty of time to repent before judgment!);\n  - The Climax of Supernatural Retribution: Don Juan mocks the tomb of the Commander Don Gonzalo de Ulloa whom he murdered, inviting the stone funeral statue to dinner; the **Stone Guest** (*El Convidado de Piedra*) arrives, grips Don Juan's hand in an icy death grip, and drags him to hell as Don Juan cries for a priest too late (*\"¡Que me quemo! ¡Que me abraso! / ¡Deja que llame a quien me confiese y absuelva!\"* - to which the statue answers: *\"No hay lugar; ya es tarde\"*).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Fray Gabriel Téllez / Tirso de Molina (1579–1648 - Madrid & Almazán) and the universal archetype of Don Juan:\n- **Tirso de Molina**:\n  - Mercedarian friar, theologian, and master playwright; created the most influential mythical archetype in Western dramatic history.\n- The Foundational Masterpiece: **«El burlador de Sevilla y convidado de piedra» (The Trickster of Seville and the Stone Guest - 1630)**:\n  - Introduced **Don Juan Tenorio**, an aristocratic, hedonistic trickster who seduces and dishonors women across Europe (Doña Isabela, Tisbea, Doña Ana de Ulloa, Aminta), driven not by romantic love but by the thrill of social disruption and vanity;\n  - Don Juan's Tragic Arrogant Refrain: **«¡Tan largo me lo fiáis!»** (What a long credit you give me! / I have plenty of time to repent before judgment!);\n  - The Climax of Supernatural Retribution: Don Juan mocks the tomb of the Commander Don Gonzalo de Ulloa whom he murdered, inviting the stone funeral statue to dinner; the **Stone Guest** (*El Convidado de Piedra*) arrives, grips Don Juan's hand in an icy death grip, and drags him to hell as Don Juan cries for a priest too late (*\"¡Que me quemo! ¡Que me abraso! / ¡Deja que llame a quien me confiese y absuelva!\"* - to which the statue answers: *\"No hay lugar; ya es tarde\"*).",
       "examples": [
         {
           "target": "Tirso de Molina inmortalizó el mito universal de Don Juan en «El burlador de Sevilla», donde la soberbia del «¡Tan largo me lo fiáis!» sucumbe ante el convidado de piedra.",
@@ -16468,7 +16468,7 @@
     "level": "C2",
     "objective": "Tragic Grotesque & The Bohemian Mirrors: Ramón María del Valle-Inclán and Esperpento (Ramón María del Valle-Inclán - Luces de bohemia 1924, el Callejón del Gato y los espejos cóncavos, Max Estrella y Don Latino de Híspalis, la deformación sistemática de la realidad española).",
     "presentation": {
-      "explanation": "Ramón María del Valle-Inclán (1866–1936 - Vilanova de Arousa & Santiago de Compostela) and the invention of the *Esperpento*:\n- **Ramón María del Valle-Inclán**:\n  - The visionary avant-garde master of the Generation of '98 (*Generación del 98*); revolutionized modern theater decades ahead of European Theatre of the Absurd.\n- The Theory & Masterpiece: **«Luces de bohemia» (Bohemian Lights - 1924)**:\n  - Chronicling the final nocturnal pilgrimage through the corrupt, wretched streets, taverns, and prison cells of Madrid by blind modernist poet **Max Estrella** and his parasitic friend Don Latino de Híspalis before Max dies frozen on his own doorstep;\n  - **The Invention of the Esperpento (Scene 12 Monologue)**:\n    - Max Estrella explains in the *Callejón del Gato* (Alley of the Cat in Madrid, famous for concave and convex funhouse mirrors) that classical heroism in tragic Spain has become a grotesque absurdity:\n    - **«El esperpentismo lo ha inventado Goya. Los héroes clásicos han ido a pasearse en el Callejón del Gato. El sentido trágico de la vida española sólo puede darse con una estética sistemáticamente deformada... España es una deformación grotesca de la civilización europea.»**;\n  - Merging high literary verse with vulgar street slang (*cheli*), animalistic descriptions, and puppet-like grotesque distortion.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Ramón María del Valle-Inclán (1866–1936 - Vilanova de Arousa & Santiago de Compostela) and the invention of the *Esperpento*:\n- **Ramón María del Valle-Inclán**:\n  - The visionary avant-garde master of the Generation of '98 (*Generación del 98*); revolutionized modern theater decades ahead of European Theatre of the Absurd.\n- The Theory & Masterpiece: **«Luces de bohemia» (Bohemian Lights - 1924)**:\n  - Chronicling the final nocturnal pilgrimage through the corrupt, wretched streets, taverns, and prison cells of Madrid by blind modernist poet **Max Estrella** and his parasitic friend Don Latino de Híspalis before Max dies frozen on his own doorstep;\n  - **The Invention of the Esperpento (Scene 12 Monologue)**:\n    - Max Estrella explains in the *Callejón del Gato* (Alley of the Cat in Madrid, famous for concave and convex funhouse mirrors) that classical heroism in tragic Spain has become a grotesque absurdity:\n    - **«El esperpentismo lo ha inventado Goya. Los héroes clásicos han ido a pasearse en el Callejón del Gato. El sentido trágico de la vida española sólo puede darse con una estética sistemáticamente deformada... España es una deformación grotesca de la civilización europea.»**;\n  - Merging high literary verse with vulgar street slang (*cheli*), animalistic descriptions, and puppet-like grotesque distortion.",
       "examples": [
         {
           "target": "Valle-Inclán inventó el esperpento en «Luces de bohemia», deformando la tragedia clásica ante los espejos cóncavos del Callejón del Gato para retratar la España grotesca.",
@@ -16550,7 +16550,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Post-War Moral Courage & The Possibilism Debate: Antonio Buero Vallejo and Historia de una escalera (Antonio Buero Vallejo - Premio Cervantes, Historia de una escalera 1949, El tragaluz, La fundación - la celda de la prisión y el engaño de la mente, debate del posibilismo frente a Alfonso Sastre).",
     "presentation": {
-      "explanation": "Antonio Buero Vallejo (1916–2000 - Guadalajara & Madrid) and moral theatre under Francoism:\n- **Antonio Buero Vallejo**:\n  - Sentenced to death (commuted to 6 years in military prison) for defending the Republic; first playwright to win the **Premio Miguel de Cervantes (1986)**;\n- Landmark Masterpieces:\n  - **«Historia de una escalera» (Story of a Stairway - 1949 - Premio Lope de Vega)**: Spanning 30 years across 3 generations on the decaying communal staircase of a Madrid tenement building; capturing the economic paralysis, shattered youthful dreams, and cyclical resignation of post-Civil War Spain;\n  - **«La fundación» (The Foundation - 1974)**: Protagonist Tomás believes he is residing in an opulent futuristic scientific research foundation with music and fine food, only for the sensory hallucinations to peel away layer-by-layer, revealing that he and his fellow intellectuals are actually condemned political prisoners in a death-row prison cell;\n  - **The Great Theatrical Debate: Posibilismo vs. Imposibilismo**:\n    - Battle with radical playwright Alfonso Sastre; Buero Vallejo defended **Posibilismo** (writing veiled, multi-layered philosophical allegories that could pass state censorship to directly awaken the consciences of the Spanish public in theaters).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Antonio Buero Vallejo (1916–2000 - Guadalajara & Madrid) and moral theatre under Francoism:\n- **Antonio Buero Vallejo**:\n  - Sentenced to death (commuted to 6 years in military prison) for defending the Republic; first playwright to win the **Premio Miguel de Cervantes (1986)**;\n- Landmark Masterpieces:\n  - **«Historia de una escalera» (Story of a Stairway - 1949 - Premio Lope de Vega)**: Spanning 30 years across 3 generations on the decaying communal staircase of a Madrid tenement building; capturing the economic paralysis, shattered youthful dreams, and cyclical resignation of post-Civil War Spain;\n  - **«La fundación» (The Foundation - 1974)**: Protagonist Tomás believes he is residing in an opulent futuristic scientific research foundation with music and fine food, only for the sensory hallucinations to peel away layer-by-layer, revealing that he and his fellow intellectuals are actually condemned political prisoners in a death-row prison cell;\n  - **The Great Theatrical Debate: Posibilismo vs. Imposibilismo**:\n    - Battle with radical playwright Alfonso Sastre; Buero Vallejo defended **Posibilismo** (writing veiled, multi-layered philosophical allegories that could pass state censorship to directly awaken the consciences of the Spanish public in theaters).",
       "examples": [
         {
           "target": "Buero Vallejo transformó el teatro español de posguerra con «Historia de una escalera» y «La fundación», defendiendo el posibilismo ético frente a la censura.",
@@ -16632,7 +16632,7 @@
     "level": "C1",
     "objective": "The Sovereign of Bel Canto & Pianissimo: Montserrat Caballé (Montserrat Caballé - «La Superba», técnica de fiato y pianissimo inaudito, Norma de Bellini «Casta Diva», Barcelona 1988 con Freddie Mercury, Gran Teatre del Liceu).",
     "presentation": {
-      "explanation": "Montserrat Caballé (1933–2018 - Barcelona) and the supreme height of Spanish operatic Bel Canto:\n- **Montserrat Caballé («La Superba»)**:\n  - Renowned globally for the most ethereal, breath-supported floating *pianissimo* in operatic history and her mastery of the Italian Bel Canto repertoire (Donizetti, Bellini, Rossini, Verdi, Puccini).\n- Historic Career Milestones:\n  - **The 1965 Carnegie Hall Sensation**: Stepped in as an unknown substitute for Marilyn Horne in Donizetti's *Lucrezia Borgia*, receiving a thunderous 25-minute standing ovation, hailed overnight by *The New York Times* as a miracle;\n  - **Bellini's «Norma»**: Her rendition of **«Casta Diva»** at the Roman Theatre of Orange in 1974 amidst howling Mistral winds, controlling her breath support (*fiato*) with superhuman stillness;\n  - **«Barcelona» (1987–1988 - with Freddie Mercury)**: The historic crossover rock-opera duet composed by Queen's frontman for the 1992 Barcelona Olympic Games;\n  - Lifelong home: **Gran Teatre del Liceu** on Las Ramblas.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Montserrat Caballé (1933–2018 - Barcelona) and the supreme height of Spanish operatic Bel Canto:\n- **Montserrat Caballé («La Superba»)**:\n  - Renowned globally for the most ethereal, breath-supported floating *pianissimo* in operatic history and her mastery of the Italian Bel Canto repertoire (Donizetti, Bellini, Rossini, Verdi, Puccini).\n- Historic Career Milestones:\n  - **The 1965 Carnegie Hall Sensation**: Stepped in as an unknown substitute for Marilyn Horne in Donizetti's *Lucrezia Borgia*, receiving a thunderous 25-minute standing ovation, hailed overnight by *The New York Times* as a miracle;\n  - **Bellini's «Norma»**: Her rendition of **«Casta Diva»** at the Roman Theatre of Orange in 1974 amidst howling Mistral winds, controlling her breath support (*fiato*) with superhuman stillness;\n  - **«Barcelona» (1987–1988 - with Freddie Mercury)**: The historic crossover rock-opera duet composed by Queen's frontman for the 1992 Barcelona Olympic Games;\n  - Lifelong home: **Gran Teatre del Liceu** on Las Ramblas.",
       "examples": [
         {
           "target": "Montserrat Caballé, «La Superba», maravilló al mundo con el pianissimo infinito de «Casta Diva» y el himno olímpico «Barcelona» junto a Freddie Mercury.",
@@ -16714,7 +16714,7 @@
     "level": "C1",
     "objective": "Dramatic Tenor Royalty & The Three Tenors: Plácido Domingo and José Carreras (Los Tres Tenores - Plácido Domingo, José Carreras y Luciano Pavarotti en las Termas de Caracalla 1990, Otello de Verdi, La Bohème, Operalia y la dirección orquestal).",
     "presentation": {
-      "explanation": "Plácido Domingo, José Carreras, and the global operatic revolution of The Three Tenors:\n- **Plácido Domingo (1941–present - Madrid)**:\n  - Dramatic tenor and baritone; performed over 150 different operatic roles on stage (Guinness World Record);\n  - The definitive interpreter of Giuseppe Verdi's grueling dramatic masterpiece **«Otello»**;\n  - General Director of the Washington National Opera and Los Angeles Opera; founded the **Operalia World Opera Competition (1993)** discovering international young vocal talent.\n- **José Carreras (1946–present - Barcelona)**:\n  - Lyric tenor celebrated for his romantic vulnerability in Puccini's *La Bohème* (Rodolfo) and Verdi's *Don Carlo*;\n  - Survived life-threatening leukemia in 1987, founding the José Carreras International Leukaemia Foundation.\n- The Historic Global Phenomenon: **The Three Tenors (Los Tres Tenores - July 7, 1990)**:\n  - Conceived to celebrate Carreras's cancer recovery; Domingo, Carreras, and Luciano Pavarotti performed together at the ancient Roman **Baths of Caracalla (Termas de Caracalla)** on the eve of the 1990 FIFA World Cup final under conductor Zubin Mehta;\n  - Watched live by 800 million spectators; the live album became the best-selling classical recording in world history.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Plácido Domingo, José Carreras, and the global operatic revolution of The Three Tenors:\n- **Plácido Domingo (1941–present - Madrid)**:\n  - Dramatic tenor and baritone; performed over 150 different operatic roles on stage (Guinness World Record);\n  - The definitive interpreter of Giuseppe Verdi's grueling dramatic masterpiece **«Otello»**;\n  - General Director of the Washington National Opera and Los Angeles Opera; founded the **Operalia World Opera Competition (1993)** discovering international young vocal talent.\n- **José Carreras (1946–present - Barcelona)**:\n  - Lyric tenor celebrated for his romantic vulnerability in Puccini's *La Bohème* (Rodolfo) and Verdi's *Don Carlo*;\n  - Survived life-threatening leukemia in 1987, founding the José Carreras International Leukaemia Foundation.\n- The Historic Global Phenomenon: **The Three Tenors (Los Tres Tenores - July 7, 1990)**:\n  - Conceived to celebrate Carreras's cancer recovery; Domingo, Carreras, and Luciano Pavarotti performed together at the ancient Roman **Baths of Caracalla (Termas de Caracalla)** on the eve of the 1990 FIFA World Cup final under conductor Zubin Mehta;\n  - Watched live by 800 million spectators; the live album became the best-selling classical recording in world history.",
       "examples": [
         {
           "target": "Los Tres Tenores con Plácido Domingo y José Carreras llevaron la ópera a audiencias masivas globales desde las Termas de Caracalla en 1990.",
@@ -16796,7 +16796,7 @@
     "level": "C1",
     "objective": "The Aristocrat of Bel Canto & Tenor Rigor: Alfredo Kraus (Alfredo Kraus - tenor lírico-ligero de Las Palmas, técnica vocal perfecta, Werther de Massenet «Pourquoi me réveiller», Rigoletto «La donna è mobile», magisterio y pureza estilística).",
     "presentation": {
-      "explanation": "Alfredo Kraus Trujillo (1927–1999 - Las Palmas de Gran Canaria) and the gold standard of tenor vocal technique:\n- **Alfredo Kraus**:\n  - Revering pure technique, stylistic fidelity, and vocal longevity above commercial vanity; maintained pristine youthful vocal beauty across a 45-year international stage career until age 70.\n- Masterpieces & Vocal Technique:\n  - **The Lyric-Light Bel Canto Repertoire**: Master of Donizetti (*Lucia di Lammermoor*, *La Fille du régiment*, *L'elisir d'amore*), Bellini (*I Puritani* with its stratospheric high F), and Verdi (*Rigoletto* Duke of Mantua);\n  - **Massenet's «Werther»**: Universally acclaimed as the definitive Werther in opera history, breathing tragic French romantic lyricism into **«Pourquoi me réveiller, ô souffle du printemps?»**;\n  - Strict Vocal Ethics: Refused roles that were too heavy (like *Otello* or *Aida*), preserving his vocal cords with flawless breath management, covered vowels, and effortless projection without microphone amplification;\n  - **Auditorio Alfredo Kraus**: The oceanic concert hall built on the beach in Las Palmas de Gran Canaria designed by Óscar Tusquets.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Alfredo Kraus Trujillo (1927–1999 - Las Palmas de Gran Canaria) and the gold standard of tenor vocal technique:\n- **Alfredo Kraus**:\n  - Revering pure technique, stylistic fidelity, and vocal longevity above commercial vanity; maintained pristine youthful vocal beauty across a 45-year international stage career until age 70.\n- Masterpieces & Vocal Technique:\n  - **The Lyric-Light Bel Canto Repertoire**: Master of Donizetti (*Lucia di Lammermoor*, *La Fille du régiment*, *L'elisir d'amore*), Bellini (*I Puritani* with its stratospheric high F), and Verdi (*Rigoletto* Duke of Mantua);\n  - **Massenet's «Werther»**: Universally acclaimed as the definitive Werther in opera history, breathing tragic French romantic lyricism into **«Pourquoi me réveiller, ô souffle du printemps?»**;\n  - Strict Vocal Ethics: Refused roles that were too heavy (like *Otello* or *Aida*), preserving his vocal cords with flawless breath management, covered vowels, and effortless projection without microphone amplification;\n  - **Auditorio Alfredo Kraus**: The oceanic concert hall built on the beach in Las Palmas de Gran Canaria designed by Óscar Tusquets.",
       "examples": [
         {
           "target": "Alfredo Kraus encarnó la pureza técnica y la elegancia del bel canto, convirtiendo su interpretación de «Werther» de Massenet en un modelo universal de canto.",
@@ -16878,7 +16878,7 @@
     "level": "C2",
     "objective": "The Grand Mezzo-Soprano of Rossini & Mozart: Teresa Berganza (Teresa Berganza - El barbero de Sevilla «Una voce poco fa», La Cenerentola, Carmen de Bizet en Glyndebourne con Claudio Abbado, Premio Príncipe de Asturias 1991, Real Academia de Bellas Artes de San Fernando).",
     "presentation": {
-      "explanation": "Teresa Berganza (1933–2022 - Madrid & El Escorial) and the restoration of Rossini and Mozart vocal authenticity:\n- **Teresa Berganza Vargas**:\n  - Prince of Asturias Award for the Arts (1991); first woman elected to the Real Academia de Bellas Artes de San Fernando;\n- The Revolution in Coloratura Mezzo-Soprano:\n  - Reclaimed Gioachino Rossini's heroines (Rosina in *Il barbiere di Siviglia*, Angelina in *La Cenerentola*, Isabella in *L'italiana in Algeri*) from shrill high sopranos, restoring the warm, dark, agile coloratura mezzo timbre intended by Rossini;\n  - **The Iconic 1977 Glyndebourne «Carmen» (with Claudio Abbado)**: Stripped Georges Bizet's *Carmen* of vulgar gypsy clichés, portraying Carmen as an intelligent, proud, free-willed, aristocratic woman choosing death over subjugation;\n  - Masterclass in Mozart (*Così fan tutte*, *Le nozze di Figaro* as Cherubino) and Spanish Art Song (*Lied* & Canción Española - Manuel de Falla, Enrique Granados, Joaquín Turina).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Teresa Berganza (1933–2022 - Madrid & El Escorial) and the restoration of Rossini and Mozart vocal authenticity:\n- **Teresa Berganza Vargas**:\n  - Prince of Asturias Award for the Arts (1991); first woman elected to the Real Academia de Bellas Artes de San Fernando;\n- The Revolution in Coloratura Mezzo-Soprano:\n  - Reclaimed Gioachino Rossini's heroines (Rosina in *Il barbiere di Siviglia*, Angelina in *La Cenerentola*, Isabella in *L'italiana in Algeri*) from shrill high sopranos, restoring the warm, dark, agile coloratura mezzo timbre intended by Rossini;\n  - **The Iconic 1977 Glyndebourne «Carmen» (with Claudio Abbado)**: Stripped Georges Bizet's *Carmen* of vulgar gypsy clichés, portraying Carmen as an intelligent, proud, free-willed, aristocratic woman choosing death over subjugation;\n  - Masterclass in Mozart (*Così fan tutte*, *Le nozze di Figaro* as Cherubino) and Spanish Art Song (*Lied* & Canción Española - Manuel de Falla, Enrique Granados, Joaquín Turina).",
       "examples": [
         {
           "target": "Teresa Berganza devolvió la autenticidad vocal a las heroínas de Rossini y redefinió a «Carmen» con Claudio Abbado como un símbolo supremo de libertad femenina.",
@@ -16960,7 +16960,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Spanish Operatic Architecture: The Teatro Real and Palau de les Arts (El Teatro Real de Madrid - historia desde 1850 y reapertura en 1997, Palau de les Arts Reina Sofía en Valencia de Santiago Calatrava, el género lírico en España).",
     "presentation": {
-      "explanation": "Spain's world-class operatic temples and institutional renaissance:\n- **El Teatro Real de Madrid (Founded 1850 by Queen Isabella II - Plaza de Oriente)**:\n  - Reopened in 1997 as a technologically supreme opera house (awarded Best Opera Company in the World at the International Opera Awards in 2021);\n  - Features a cutting-edge 1,400 $m^2$ computerized stage machinery tower with 18 mobile hydraulic platforms that allow multiple opera sets to be shifted in minutes;\n- **Palau de les Arts Reina Sofía (Valencia - Completed 2005)**:\n  - Designed by **Santiago Calatrava** within the City of Arts and Sciences (*Ciudad de las Artes y las Ciencias*);\n  - Monumental soaring 75-meter aerodynamic white concrete and steel curved shell resembling a futuristic nautical helmet, housing four acoustic concert halls and the Centre de Perfeccionament Plácido Domingo;\n  - Led by visionary guest conductors (Zubin Mehta, Lorin Maazel, Valery Gergiev, Gustavo Dudamel).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spain's world-class operatic temples and institutional renaissance:\n- **El Teatro Real de Madrid (Founded 1850 by Queen Isabella II - Plaza de Oriente)**:\n  - Reopened in 1997 as a technologically supreme opera house (awarded Best Opera Company in the World at the International Opera Awards in 2021);\n  - Features a cutting-edge 1,400 $m^2$ computerized stage machinery tower with 18 mobile hydraulic platforms that allow multiple opera sets to be shifted in minutes;\n- **Palau de les Arts Reina Sofía (Valencia - Completed 2005)**:\n  - Designed by **Santiago Calatrava** within the City of Arts and Sciences (*Ciudad de las Artes y las Ciencias*);\n  - Monumental soaring 75-meter aerodynamic white concrete and steel curved shell resembling a futuristic nautical helmet, housing four acoustic concert halls and the Centre de Perfeccionament Plácido Domingo;\n  - Led by visionary guest conductors (Zubin Mehta, Lorin Maazel, Valery Gergiev, Gustavo Dudamel).",
       "examples": [
         {
           "target": "El Teatro Real de Madrid y el Palau de les Arts de Calatrava en Valencia sitúan a España en la cúspide de la producción y escenografía operística internacional.",
@@ -17042,7 +17042,7 @@
     "level": "C1",
     "objective": "Modernisme & Organic Structural Geometry: Antoni Gaudí (Antoni Gaudí - Basílica de la Sagrada Família, arcos catenarios y modelos funiculares con saquitos de perdigones, Casa Batlló y Casa Milà «La Pedrera», trencadís de azulejos rotos, naturaleza como maestra).",
     "presentation": {
-      "explanation": "Antoni Gaudí i Cornet (1852–1926 - Reus & Barcelona) and the organic revolution of Catalan Modernisme:\n- **Antoni Gaudí**:\n  - The visionary architect who declared: *\"Originality consists in returning to the origin; thus, original is that which returns to the simplicity of early solutions\"* and *\"The straight line belongs to men, the curved line belongs to God\"*\n- Monumental Masterpieces & Structural Inventions:\n  - **Basílica de la Sagrada Família (Begun 1882 - UNESCO World Heritage)**: Structural system of branching stone tree columns supporting hyperboloid vaults, bathed in natural light through polychromatic stained glass windows;\n  - **Catenary Arches & Inverted Funicular Models**: Calculated complex tensile loads by hanging chains weighted with lead shot pellets (*saquitos de perdigones*), viewing the inverted reflection in a floor mirror to generate pure compressive equilibrium without flying buttresses;\n  - **Casa Milà («La Pedrera» - 1906–1912)**: Undulating rough-hewn stone façade and sculptural rooftop chimney sentinels;\n  - **Casa Batlló («La casa dels ossos»)**: Façade inspired by the legend of Saint George slaying the dragon (roof shaped like a dragon's spine with iridescent ceramic scales);\n  - **Trencadís Technique**: Mosaic surfaces crafted from reclaimed broken ceramic tile shards and porcelain cups (Park Güell serpentine bench with Josep Maria Jujol).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Antoni Gaudí i Cornet (1852–1926 - Reus & Barcelona) and the organic revolution of Catalan Modernisme:\n- **Antoni Gaudí**:\n  - The visionary architect who declared: *\"Originality consists in returning to the origin; thus, original is that which returns to the simplicity of early solutions\"* and *\"The straight line belongs to men, the curved line belongs to God\"*\n- Monumental Masterpieces & Structural Inventions:\n  - **Basílica de la Sagrada Família (Begun 1882 - UNESCO World Heritage)**: Structural system of branching stone tree columns supporting hyperboloid vaults, bathed in natural light through polychromatic stained glass windows;\n  - **Catenary Arches & Inverted Funicular Models**: Calculated complex tensile loads by hanging chains weighted with lead shot pellets (*saquitos de perdigones*), viewing the inverted reflection in a floor mirror to generate pure compressive equilibrium without flying buttresses;\n  - **Casa Milà («La Pedrera» - 1906–1912)**: Undulating rough-hewn stone façade and sculptural rooftop chimney sentinels;\n  - **Casa Batlló («La casa dels ossos»)**: Façade inspired by the legend of Saint George slaying the dragon (roof shaped like a dragon's spine with iridescent ceramic scales);\n  - **Trencadís Technique**: Mosaic surfaces crafted from reclaimed broken ceramic tile shards and porcelain cups (Park Güell serpentine bench with Josep Maria Jujol).",
       "examples": [
         {
           "target": "Antoni Gaudí revolucionó la arquitectura universal en la Sagrada Família y La Pedrera mediante arcos catenarios, columnas arbóreas y la técnica del trencadís.",
@@ -17124,7 +17124,7 @@
     "level": "C1",
     "objective": "The Nasrid Paradise & Andalusian Sacred Geometry: The Alhambra and Generalife (La Alhambra y el Generalife de Granada - dinastía nazarí, mocárabes y yeserías caligráficas, patio de los Leones y los 12 surtidores, proporción áurea y acústica hidráulica, patio de los Arrayanes).",
     "presentation": {
-      "explanation": "The Alhambra and Generalife in Granada (13th–14th centuries) and the summit of Hispano-Islamic architectural geometry:\n- **La Alhambra (Al-Qal'a al-Hamrā' / The Red Fortress) & Generalife (Jannat al-'Arīf / The Architect's Garden)**:\n  - Built by the Nasrid Sultans of Granada (Muhammad I, Yusuf I, and Muhammad V) on the Sabika hill overlooking the Sierra Nevada;\n- Architectural & Sacred Geometry Principles:\n  - **The Hydraulics of Stillness and Sound**: Water used as an architectural building material; mirrored reflecting pools (**Patio de los Arrayanes / Court of the Myrtles**) reflecting porticoes with glassy perfection, trickling channel fountains providing natural evaporative cooling;\n  - **Patio de los Leones (Court of the Lions - 1377)**: 124 slender white marble columns supporting filigree plaster arches, surrounding a central fountain supported by **12 sculpted marble lions** symbolizing the hours of the day and tribes of Israel/signs of the zodiac;\n  - **Muqarnas Domes (Bóvedas de Mocárabes)**: The Hall of the Abencerrajes and Hall of the Two Sisters; star-shaped domes constructed of thousands of honeycomb stalactite plaster cells refracting incoming sunlight into cosmic constellations;\n  - **Calligraphic Epigraphy**: Walls covered in intricate Kufic and Naskhi inscriptions repeating the Nasrid dynastic motto: **«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ»** (*Wa lā ghāliba illā Allāh* / There is no conqueror but God).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "The Alhambra and Generalife in Granada (13th–14th centuries) and the summit of Hispano-Islamic architectural geometry:\n- **La Alhambra (Al-Qal'a al-Hamrā' / The Red Fortress) & Generalife (Jannat al-'Arīf / The Architect's Garden)**:\n  - Built by the Nasrid Sultans of Granada (Muhammad I, Yusuf I, and Muhammad V) on the Sabika hill overlooking the Sierra Nevada;\n- Architectural & Sacred Geometry Principles:\n  - **The Hydraulics of Stillness and Sound**: Water used as an architectural building material; mirrored reflecting pools (**Patio de los Arrayanes / Court of the Myrtles**) reflecting porticoes with glassy perfection, trickling channel fountains providing natural evaporative cooling;\n  - **Patio de los Leones (Court of the Lions - 1377)**: 124 slender white marble columns supporting filigree plaster arches, surrounding a central fountain supported by **12 sculpted marble lions** symbolizing the hours of the day and tribes of Israel/signs of the zodiac;\n  - **Muqarnas Domes (Bóvedas de Mocárabes)**: The Hall of the Abencerrajes and Hall of the Two Sisters; star-shaped domes constructed of thousands of honeycomb stalactite plaster cells refracting incoming sunlight into cosmic constellations;\n  - **Calligraphic Epigraphy**: Walls covered in intricate Kufic and Naskhi inscriptions repeating the Nasrid dynastic motto: **«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ»** (*Wa lā ghāliba illā Allāh* / There is no conqueror but God).",
       "examples": [
         {
           "target": "La Alhambra de Granada representa la cima de la arquitectura andalusí mediante la acústica del agua, las bóvedas de mocárabes y la divisa «Wa lā ghāliba illā Allāh».",
@@ -17206,7 +17206,7 @@
     "level": "C1",
     "objective": "The Renaissance Monolith & The Grid of San Lorenzo: El Escorial (El Real Monasterio de San Lorenzo de El Escorial 1563-1584, Felipe II, arquitecto Juan de Herrera y el estilo herreriano, la parrilla de San Lorenzo, la gran Biblioteca con frescos de Pellegrino Tibaldi y esferas armilares).",
     "presentation": {
-      "explanation": "The Royal Monastery of San Lorenzo de El Escorial (1563–1584) and the austere triumph of the Herrerian style:\n- **Historical Commission (Felipe II)**:\n  - Built at the foot of Mount Abantos in the Guadarrama mountains northwest of Madrid;\n  - Commissioned by King Philip II to commemorate the Spanish victory over France at the Battle of Saint Quentin (1557) on the feast day of Saint Lawrence (San Lorenzo);\n  - Functions as a royal palace, basilica, monastery of the Order of Saint Jerome, school, and royal pantheon (*Panteón de Reyes*);\n- Architectural Geometry & **El Estilo Herreriano**:\n  - Designed initially by Juan Bautista de Toledo and completed by **Juan de Herrera**;\n  - **The Grid Floor Plan (La Parrilla de San Lorenzo)**: Laid out in a monumental rectangle resembling the iron grill on which Saint Lawrence was martyred;\n  - Strict Herrerian Minimalism: Absolute geometric symmetry, unadorned gray Guadarrama granite masonry, pyramid slate roofs with corner towers, rejecting excessive plateresque decoration in favor of mathematical sobriety;\n- **The Royal Library (La Real Biblioteca)**:\n  - 54-meter barrel-vaulted hall painted with Mannerist frescoes by Pellegrino Tibaldi celebrating the Seven Liberal Arts (*Trivium* and *Quadrivium*); books displayed with their gilded page edges facing outwards to prevent leather spine decay.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "The Royal Monastery of San Lorenzo de El Escorial (1563–1584) and the austere triumph of the Herrerian style:\n- **Historical Commission (Felipe II)**:\n  - Built at the foot of Mount Abantos in the Guadarrama mountains northwest of Madrid;\n  - Commissioned by King Philip II to commemorate the Spanish victory over France at the Battle of Saint Quentin (1557) on the feast day of Saint Lawrence (San Lorenzo);\n  - Functions as a royal palace, basilica, monastery of the Order of Saint Jerome, school, and royal pantheon (*Panteón de Reyes*);\n- Architectural Geometry & **El Estilo Herreriano**:\n  - Designed initially by Juan Bautista de Toledo and completed by **Juan de Herrera**;\n  - **The Grid Floor Plan (La Parrilla de San Lorenzo)**: Laid out in a monumental rectangle resembling the iron grill on which Saint Lawrence was martyred;\n  - Strict Herrerian Minimalism: Absolute geometric symmetry, unadorned gray Guadarrama granite masonry, pyramid slate roofs with corner towers, rejecting excessive plateresque decoration in favor of mathematical sobriety;\n- **The Royal Library (La Real Biblioteca)**:\n  - 54-meter barrel-vaulted hall painted with Mannerist frescoes by Pellegrino Tibaldi celebrating the Seven Liberal Arts (*Trivium* and *Quadrivium*); books displayed with their gilded page edges facing outwards to prevent leather spine decay.",
       "examples": [
         {
           "target": "El Monasterio de El Escorial, concebido por Felipe II y Juan de Herrera, definió la sobriedad del estilo herreriano y la geometría de la parrilla de San Lorenzo.",
@@ -17288,7 +17288,7 @@
     "level": "C2",
     "objective": "Pritzker Laureate & The Soul of Roman Brick: Rafael Moneo (Rafael Moneo - Premio Pritzker 1996, Museo Nacional de Arte Romano de Mérida - arcos diafragma de ladrillo romano, ampliación del Museo del Prado en el Claustro de los Jerónimos, Kursaal de San Sebastián).",
     "presentation": {
-      "explanation": "Rafael Moneo (José Rafael Moneo Vallés - 1937–present - Tudela, Navarra & Madrid) and the pinnacle of contemporary Spanish architecture:\n- **Rafael Moneo**:\n  - The first Spanish architect to win the prestigious **Pritzker Architecture Prize (1996)**; taught at Harvard Graduate School of Design (GSD) and ETSAM Madrid.\n- Monumental Masterpieces & Architectural Philosophy:\n  - **Museo Nacional de Arte Romano (Mérida - 1986)**:\n    - Masterpiece of archaeological contextualism; built directly over the excavated Roman ruins of *Emerita Augusta*;\n    - Colossal soaring brick diaphragm arches (*arcos diafragma de ladrillo*) echoing ancient Roman brickwork techniques, flooded with vertical sunlight from overhead skylights, creating a timeless dialogue between antiquity and modernism;\n  - **Kursaal Congress Centre (San Sebastián - 1999)**: Two giant translucent glass cubes tilted like \"two beached rocks\" (*dos rocas varadas*) on the mouth of the Urumea River;\n  - **Extension of the Museo del Prado (Madrid - 2007)**: Incorporating the restored 17th-century cloister of the Jerónimos (*Claustro de los Jerónimos*) beneath red brick and bronze louvers;\n  - **Cathedral of Our Lady of the Angels (Los Angeles, USA - 2002)**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Rafael Moneo (José Rafael Moneo Vallés - 1937–present - Tudela, Navarra & Madrid) and the pinnacle of contemporary Spanish architecture:\n- **Rafael Moneo**:\n  - The first Spanish architect to win the prestigious **Pritzker Architecture Prize (1996)**; taught at Harvard Graduate School of Design (GSD) and ETSAM Madrid.\n- Monumental Masterpieces & Architectural Philosophy:\n  - **Museo Nacional de Arte Romano (Mérida - 1986)**:\n    - Masterpiece of archaeological contextualism; built directly over the excavated Roman ruins of *Emerita Augusta*;\n    - Colossal soaring brick diaphragm arches (*arcos diafragma de ladrillo*) echoing ancient Roman brickwork techniques, flooded with vertical sunlight from overhead skylights, creating a timeless dialogue between antiquity and modernism;\n  - **Kursaal Congress Centre (San Sebastián - 1999)**: Two giant translucent glass cubes tilted like \"two beached rocks\" (*dos rocas varadas*) on the mouth of the Urumea River;\n  - **Extension of the Museo del Prado (Madrid - 2007)**: Incorporating the restored 17th-century cloister of the Jerónimos (*Claustro de los Jerónimos*) beneath red brick and bronze louvers;\n  - **Cathedral of Our Lady of the Angels (Los Angeles, USA - 2002)**.",
       "examples": [
         {
           "target": "Rafael Moneo, Premio Pritzker, unió la memoria arqueológica con la modernidad en el Museo de Arte Romano de Mérida y los cubos del Kursaal en San Sebastián.",
@@ -17370,7 +17370,7 @@
     "level": "C2",
     "objective": "C2 synthesis on High-Tech Sculptural Urbanism & Monumental Bridges: Santiago Calatrava (Santiago Calatrava - Ciudad de las Artes y las Ciencias de Valencia, Puente del Alamillo en Sevilla 1992, Oculus / World Trade Center Transportation Hub en Nueva York, ingeniería cinética y zoomorfismo estructural).",
     "presentation": {
-      "explanation": "Santiago Calatrava (1951–present - Benimàmet, Valencia & Zurich/New York) and kinetic sculptural engineering:\n- **Santiago Calatrava Valls**:\n  - Architect, structural engineer, and sculptor; pioneer of zoomorphic and kinetic architecture inspired by human skeletons, bird wings, and dynamic skeletal motion.\n- Monumental Masterpieces Across the Globe:\n  - **Puente del Alamillo (Seville - 1992 Expo '92)**: The world's first **single-pylon cable-stayed bridge without rear stay cables**, where a single 142-meter 58-degree cantilevered steel pylon counterbalances the entire weight of the bridge deck through pure mathematical geometry;\n  - **Ciudad de las Artes y las Ciencias (Valencia - 1998–2005)**: 2-kilometer futuristic cultural complex in the dry Turia riverbed (L'Hemisfèric eye opening hydraulic eyelids, Museu de les Ciències skeletal dinosaur ribs, L'Umbracle, Palau de les Arts);\n  - **The Oculus / World Trade Center Transportation Hub (New York City - 2016)**: White steel ribs resembling a dove released from a child's hands, featuring a retractable operable skylight that opens every September 11 aligned with the sun;\n  - **Turning Torso (Malmö, Sweden - 2005)**: The first twisting skyscraper in world history, rotating 90 degrees from base to top based on a twisting human spine.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Santiago Calatrava (1951–present - Benimàmet, Valencia & Zurich/New York) and kinetic sculptural engineering:\n- **Santiago Calatrava Valls**:\n  - Architect, structural engineer, and sculptor; pioneer of zoomorphic and kinetic architecture inspired by human skeletons, bird wings, and dynamic skeletal motion.\n- Monumental Masterpieces Across the Globe:\n  - **Puente del Alamillo (Seville - 1992 Expo '92)**: The world's first **single-pylon cable-stayed bridge without rear stay cables**, where a single 142-meter 58-degree cantilevered steel pylon counterbalances the entire weight of the bridge deck through pure mathematical geometry;\n  - **Ciudad de las Artes y las Ciencias (Valencia - 1998–2005)**: 2-kilometer futuristic cultural complex in the dry Turia riverbed (L'Hemisfèric eye opening hydraulic eyelids, Museu de les Ciències skeletal dinosaur ribs, L'Umbracle, Palau de les Arts);\n  - **The Oculus / World Trade Center Transportation Hub (New York City - 2016)**: White steel ribs resembling a dove released from a child's hands, featuring a retractable operable skylight that opens every September 11 aligned with the sun;\n  - **Turning Torso (Malmö, Sweden - 2005)**: The first twisting skyscraper in world history, rotating 90 degrees from base to top based on a twisting human spine.",
       "examples": [
         {
           "target": "Santiago Calatrava revolucionó la ingeniería estructural mundial con el Puente del Alamillo, la Ciudad de las Artes y las Ciencias y el Oculus de Nueva York.",
@@ -17452,7 +17452,7 @@
     "level": "C1",
     "objective": "Circumstance & Raciovitalism: José Ortega y Gasset (José Ortega y Gasset - «Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo» 1914, La rebelión de las masas 1930, el raciovitalismo frente al racionalismo puro, la Revista de Occidente, perspectivismo).",
     "presentation": {
-      "explanation": "José Ortega y Gasset (1883–1955 - Madrid) and the philosophy of Raciovitalism (El Raciovitalismo):\n- **José Ortega y Gasset**:\n  - The towering Spanish philosopher of the 20th century; founded the *Revista de Occidente* (1923), shaping Hispanic and European intellectual discourse;\n- Core Philosophical Theorems:\n  - **The Foundational Maxim (Meditaciones del Quijote - 1914)**:\n    - **«Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo»** (*\"I am I and my circumstance, and if I do not save it, I do not save myself\"*);\n    - Human existence is not an abstract Cartesian mind detached from reality, but a dynamic dialogue with the concrete historical, biological, and physical world surrounding us;\n  - **Raciovitalism (El Raciovitalismo)**: Replaced dry Cartesian pure reason with **Vital Reason (La razón vital)**—reason is not a detached mechanical tool, but an organ of human life;\n  - **Perspectivism (El Perspectivismo)**: Absolute truth is not a single dogmatic vantage point, but the harmonious integration of multiple individual perspectives, like viewing the multifaceted facets of the Guadarrama mountains;\n  - **La rebelión de las masas (The Revolt of the Masses - 1930)**: Landmark sociological treatise warning against the \"mass-man\" (*el hombre-masa*) who enjoys the fruits of civilization while lacking historical consciousness and moral excellence.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "José Ortega y Gasset (1883–1955 - Madrid) and the philosophy of Raciovitalism (El Raciovitalismo):\n- **José Ortega y Gasset**:\n  - The towering Spanish philosopher of the 20th century; founded the *Revista de Occidente* (1923), shaping Hispanic and European intellectual discourse;\n- Core Philosophical Theorems:\n  - **The Foundational Maxim (Meditaciones del Quijote - 1914)**:\n    - **«Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo»** (*\"I am I and my circumstance, and if I do not save it, I do not save myself\"*);\n    - Human existence is not an abstract Cartesian mind detached from reality, but a dynamic dialogue with the concrete historical, biological, and physical world surrounding us;\n  - **Raciovitalism (El Raciovitalismo)**: Replaced dry Cartesian pure reason with **Vital Reason (La razón vital)**—reason is not a detached mechanical tool, but an organ of human life;\n  - **Perspectivism (El Perspectivismo)**: Absolute truth is not a single dogmatic vantage point, but the harmonious integration of multiple individual perspectives, like viewing the multifaceted facets of the Guadarrama mountains;\n  - **La rebelión de las masas (The Revolt of the Masses - 1930)**: Landmark sociological treatise warning against the \"mass-man\" (*el hombre-masa*) who enjoys the fruits of civilization while lacking historical consciousness and moral excellence.",
       "examples": [
         {
           "target": "Ortega y Gasset fundamentó el raciovitalismo y el perspectivismo con la célebre máxima: «Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo».",
@@ -17534,7 +17534,7 @@
     "level": "C1",
     "objective": "The Tragic Sense of Life & The Agony of Immortality: Miguel de Unamuno (Miguel de Unamuno - Generación del 98, Del sentimiento trágico de la vida 1912, la agonía entre la razón y el anhelo de inmortalidad, San Manuel Bueno mártir, la invención de la «nivola» en Niebla, la intrahistoria).",
     "presentation": {
-      "explanation": "Miguel de Unamuno (1864–1936 - Bilbao & Salamanca) and the existential agony of human longing:\n- **Miguel de Unamuno y Jugo**:\n  - Leading intellectual titan of the **Generación del 98**; Rector of the University of Salamanca; precursor of European Christian Existentialism (alongside Kierkegaard).\n- Landmark Metaphysical Treatises & Concepts:\n  - **Del sentimiento trágico de la vida (The Tragic Sense of Life - 1912)**:\n    - The central dilemma of human existence: The violent clash (**la agonía**) between **Reason** (which demonstrates that bodily death is final) and the **Heart's Hunger for Immortality** (*el hambre de inmortalidad* / longing never to die);\n    - Concluded: *\"Faith is not believing what we do not see, but creating what we do not see\"*;\n  - **La Intrahistoria (Intrahistory)**: The silent, daily, unrecorded spiritual life of ordinary working peasants, which forms the true profound ocean beneath the noisy temporary surface waves of official political history;\n  - **The \"Nivola\" & *Niebla* (1914)**: Invented a new literary-philosophical genre (*la nivola*) where the fictional character Augusto Pérez confronts his author (Unamuno) in his study, challenging the creator's power to kill him;\n  - **San Manuel Bueno, mártir (1930)**: The saintly parish priest who loses his own faith in eternal life but preaches it passionately to preserve the joyful peace of his village.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Miguel de Unamuno (1864–1936 - Bilbao & Salamanca) and the existential agony of human longing:\n- **Miguel de Unamuno y Jugo**:\n  - Leading intellectual titan of the **Generación del 98**; Rector of the University of Salamanca; precursor of European Christian Existentialism (alongside Kierkegaard).\n- Landmark Metaphysical Treatises & Concepts:\n  - **Del sentimiento trágico de la vida (The Tragic Sense of Life - 1912)**:\n    - The central dilemma of human existence: The violent clash (**la agonía**) between **Reason** (which demonstrates that bodily death is final) and the **Heart's Hunger for Immortality** (*el hambre de inmortalidad* / longing never to die);\n    - Concluded: *\"Faith is not believing what we do not see, but creating what we do not see\"*;\n  - **La Intrahistoria (Intrahistory)**: The silent, daily, unrecorded spiritual life of ordinary working peasants, which forms the true profound ocean beneath the noisy temporary surface waves of official political history;\n  - **The \"Nivola\" & *Niebla* (1914)**: Invented a new literary-philosophical genre (*la nivola*) where the fictional character Augusto Pérez confronts his author (Unamuno) in his study, challenging the creator's power to kill him;\n  - **San Manuel Bueno, mártir (1930)**: The saintly parish priest who loses his own faith in eternal life but preaches it passionately to preserve the joyful peace of his village.",
       "examples": [
         {
           "target": "Miguel de Unamuno expuso la lucha entre la razón y el hambre de inmortalidad en «Del sentimiento trágico de la vida» y su concepto de la intrahistoria.",
@@ -17616,7 +17616,7 @@
     "level": "C1",
     "objective": "Poetic Reason & The Logos of the Heart: María Zambrano (María Zambrano - Premio Cervantes 1988 y Premio Príncipe de Asturias 1981, La razón poética frente al totalitarismo de la razón discursiva, Claros del bosque, El hombre y lo divino, exilio filosófico republicano).",
     "presentation": {
-      "explanation": "María Zambrano (1904–1991 - Vélez-Málaga & Rome/Geneva/Madrid) and the revolution of Poetic Reason (La Razón Poética):\n- **María Zambrano**:\n  - Disciple of Ortega y Gasset and Xavier Zubiri; the supreme female philosopher of the Hispanic world; first woman awarded the **Premio Cervantes (1988)** and the Prince of Asturias Award for Communications and Humanities (1981); endured 45 years of political exile following the Spanish Civil War.\n- The Monumental Philosophical Discovery: **La Razón Poética (Poetic Reason)**:\n  - Critique of Western Rationalism: Western philosophy fell into tragedy by worshiping a cold, violent, instrumental rationalism that divorced logic from human suffering, dreams, and the sacred;\n  - Proposes *Poetic Reason*: A luminous mode of thinking that integrates poetic metaphor, heart contemplation, and mystical intuition with philosophical rigor, giving voice to that which discursive logic cannot express;\n- Monumental Masterpieces:\n  - **Claros del bosque (Clearings in the Forest - 1977)**: Metaphysical journey through interior awakening, where truth is encountered not through aggressive intellectual conquest, but by waiting quietly in a forest clearing for light to descend into the clearing;\n  - **El hombre y lo divino (Man and the Divine - 1955)** & **Filosofía y poesía (1939)**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "María Zambrano (1904–1991 - Vélez-Málaga & Rome/Geneva/Madrid) and the revolution of Poetic Reason (La Razón Poética):\n- **María Zambrano**:\n  - Disciple of Ortega y Gasset and Xavier Zubiri; the supreme female philosopher of the Hispanic world; first woman awarded the **Premio Cervantes (1988)** and the Prince of Asturias Award for Communications and Humanities (1981); endured 45 years of political exile following the Spanish Civil War.\n- The Monumental Philosophical Discovery: **La Razón Poética (Poetic Reason)**:\n  - Critique of Western Rationalism: Western philosophy fell into tragedy by worshiping a cold, violent, instrumental rationalism that divorced logic from human suffering, dreams, and the sacred;\n  - Proposes *Poetic Reason*: A luminous mode of thinking that integrates poetic metaphor, heart contemplation, and mystical intuition with philosophical rigor, giving voice to that which discursive logic cannot express;\n- Monumental Masterpieces:\n  - **Claros del bosque (Clearings in the Forest - 1977)**: Metaphysical journey through interior awakening, where truth is encountered not through aggressive intellectual conquest, but by waiting quietly in a forest clearing for light to descend into the clearing;\n  - **El hombre y lo divino (Man and the Divine - 1955)** & **Filosofía y poesía (1939)**.",
       "examples": [
         {
           "target": "María Zambrano, primera mujer en recibir el Premio Cervantes, creó «La razón poética» en obras maestras como Claros del bosque.",
@@ -17698,7 +17698,7 @@
     "level": "C2",
     "objective": "The Birth of International Law & Human Dignity: Francisco de Vitoria and the School of Salamanca (Francisco de Vitoria - Escuela de Salamanca, Relectio de Indis 1539, fundamentación del Derecho de Gentes (Ius Gentium), derechos inalienables de los pueblos indígenas, teoría del precio justo y la guerra justa).",
     "presentation": {
-      "explanation": "Francisco de Vitoria (c. 1483–1546 - Burgos & Salamanca) and the foundational revolution of International Law (La Escuela de Salamanca):\n- **Francisco de Vitoria (OP)**:\n  - Dominican theologian, jurist, and philosopher; Prime Professor of Theology at the **University of Salamanca**; recognized worldwide as the **Father of Modern International Law (Fundador del Derecho Internacional)**.\n- The Historic Breakthrough: **Relectio de Indis (On the Indians - 1539)**:\n  - Delivered as public lectures in Salamanca challenging imperial justification for the conquest of the Americas;\n  - **Universal Human Dignity & Inalienable Rights**: Declared that indigenous peoples of the Americas (*los indios*) were legitimate sovereign humans endowed with reason and natural free will, possessing true dominion (*dominium*) over their private property and political territories before and after the arrival of Europeans;\n  - Rejected the claim that the Pope or Holy Roman Emperor had universal temporal dominion over the Earth;\n- The Foundations of Global Jurisprudence:\n  - **Ius Gentium (Derecho de Gentes)**: Universal law governing relationships between all sovereign nations based on mutual respect, free trade, and hospitality;\n  - **The Theory of the Just War (Ius ad bellum & Ius in bello)** & **The Just Price (El precio justo)** in early market economics.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Francisco de Vitoria (c. 1483–1546 - Burgos & Salamanca) and the foundational revolution of International Law (La Escuela de Salamanca):\n- **Francisco de Vitoria (OP)**:\n  - Dominican theologian, jurist, and philosopher; Prime Professor of Theology at the **University of Salamanca**; recognized worldwide as the **Father of Modern International Law (Fundador del Derecho Internacional)**.\n- The Historic Breakthrough: **Relectio de Indis (On the Indians - 1539)**:\n  - Delivered as public lectures in Salamanca challenging imperial justification for the conquest of the Americas;\n  - **Universal Human Dignity & Inalienable Rights**: Declared that indigenous peoples of the Americas (*los indios*) were legitimate sovereign humans endowed with reason and natural free will, possessing true dominion (*dominium*) over their private property and political territories before and after the arrival of Europeans;\n  - Rejected the claim that the Pope or Holy Roman Emperor had universal temporal dominion over the Earth;\n- The Foundations of Global Jurisprudence:\n  - **Ius Gentium (Derecho de Gentes)**: Universal law governing relationships between all sovereign nations based on mutual respect, free trade, and hospitality;\n  - **The Theory of the Just War (Ius ad bellum & Ius in bello)** & **The Just Price (El precio justo)** in early market economics.",
       "examples": [
         {
           "target": "Francisco de Vitoria y la Escuela de Salamanca sentaron las bases del Derecho Internacional y los derechos humanos universales en su Relectio de Indis de 1539.",
@@ -17780,7 +17780,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Sentient Intelligence & Dynamic Reality: Xavier Zubiri (Xavier Zubiri - Estructura dinámica de la realidad, Inteligencia sentiente 1980: Inteligencia y realidad, aprehensión primordial de realidad, noología frente a epistemología pura, metafísica de la alteridad).",
     "presentation": {
-      "explanation": "Xavier Zubiri (1898–1983 - San Sebastián & Madrid) and the pinnacle of rigorous metaphysical noology:\n- **Xavier Zubiri Apalategui**:\n  - Studied under Ortega y Gasset, Edmund Husserl, and Martin Heidegger (Freiburg); master of ancient Greek, Latin, Hebrew, and quantum physics; crafted the most rigorous metaphysical system in modern Hispanic philosophy.\n- The Monumental Masterpiece: **Inteligencia sentiente (Sentient Intelligence - Trilogy 1980–1983)**:\n  - **The Radical Discovery (La Aprehensión Primordial de la Realidad)**:\n    - Overthrew the ancient 2,500-year Western division between \"sensing\" (sensory organs) and \"intellection\" (rational abstract mind);\n    - **Sentient Intellection (Inteligencia Sentiente)**: Humans do not first perceive raw sensory stimuli and then secondarily apply mental thought; rather, human sensing is *already inherently intellectual*, and human thinking is *already inherently sentient*;\n    - We apprehend things directly and primordially as **\"Realities\" (Realidad de suyo)**, possessing autonomous ontological weight (*de suyo* / in their own right), rather than mere mental impressions;\n  - **Estructura dinámica de la realidad (1968)**: Reality is not a static collection of substances, but a dynamic, open-ended structural unfolding of being.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Xavier Zubiri (1898–1983 - San Sebastián & Madrid) and the pinnacle of rigorous metaphysical noology:\n- **Xavier Zubiri Apalategui**:\n  - Studied under Ortega y Gasset, Edmund Husserl, and Martin Heidegger (Freiburg); master of ancient Greek, Latin, Hebrew, and quantum physics; crafted the most rigorous metaphysical system in modern Hispanic philosophy.\n- The Monumental Masterpiece: **Inteligencia sentiente (Sentient Intelligence - Trilogy 1980–1983)**:\n  - **The Radical Discovery (La Aprehensión Primordial de la Realidad)**:\n    - Overthrew the ancient 2,500-year Western division between \"sensing\" (sensory organs) and \"intellection\" (rational abstract mind);\n    - **Sentient Intellection (Inteligencia Sentiente)**: Humans do not first perceive raw sensory stimuli and then secondarily apply mental thought; rather, human sensing is *already inherently intellectual*, and human thinking is *already inherently sentient*;\n    - We apprehend things directly and primordially as **\"Realities\" (Realidad de suyo)**, possessing autonomous ontological weight (*de suyo* / in their own right), rather than mere mental impressions;\n  - **Estructura dinámica de la realidad (1968)**: Reality is not a static collection of substances, but a dynamic, open-ended structural unfolding of being.",
       "examples": [
         {
           "target": "Xavier Zubiri culminó la metafísica hispánica con «Inteligencia sentiente», demostrando que el ser humano aprehende la realidad primordialmente en su carácter «de suyo».",
@@ -17862,7 +17862,7 @@
     "level": "C1",
     "objective": "Surrealist Subversion & The Severed Eye: Luis Buñuel (Luis Buñuel - Un Chien Andalou 1929 con Salvador Dalí - el ojo cortado por la navaja, Viridiana 1961 - Palma de Oro de Cannes y la parodia de la Última Cena, El discreto encanto de la burguesía Oscar 1972, Los olvidados 1950 en México).",
     "presentation": {
-      "explanation": "Luis Buñuel (1900–1983 - Calanda, Teruel & Mexico City/Paris) and the supreme summit of surrealist and subversive world cinema:\n- **Luis Buñuel Portolés**:\n  - The father of cinematic surrealism; member of the Residencia de Estudiantes (with Federico García Lorca and Salvador Dalí); directed 32 masterpieces challenging bourgeois hypocrisy, religious dogmatism, and moral complacency.\n- Monumental Cinematic Landmarks:\n  - **Un Chien Andalou (An Andalusian Dog - 1929 - with Salvador Dalí)**:\n    - The foundational shock of avant-garde cinema; opens with the iconic image of a razor slicing across a woman's eyeball as a thin cloud cuts across the full moon, declaring war on conventional bourgeois narrative logic;\n  - **Viridiana (1961 - Starring Silvia Pinal & Fernando Rey)**:\n    - The only Spanish film to win the **Palma de Oro (Palme d'Or) at the Cannes Film Festival**;\n    - Caused an international scandal with its subversive scene of beggars recreating Leonardo da Vinci's *The Last Supper* to the triumphant chorus of Handel's *Messiah*, banned by the Franco regime until 1977;\n  - **Los olvidados (The Young and the Damned - Mexico, 1950 - UNESCO Memory of the World)**: Raw social realism depicting juvenile street crime in Mexico City;\n  - **El discreto encanto de la burguesía (The Discreet Charm of the Bourgeoisie - 1972 - Oscar for Best Foreign Language Film)**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Luis Buñuel (1900–1983 - Calanda, Teruel & Mexico City/Paris) and the supreme summit of surrealist and subversive world cinema:\n- **Luis Buñuel Portolés**:\n  - The father of cinematic surrealism; member of the Residencia de Estudiantes (with Federico García Lorca and Salvador Dalí); directed 32 masterpieces challenging bourgeois hypocrisy, religious dogmatism, and moral complacency.\n- Monumental Cinematic Landmarks:\n  - **Un Chien Andalou (An Andalusian Dog - 1929 - with Salvador Dalí)**:\n    - The foundational shock of avant-garde cinema; opens with the iconic image of a razor slicing across a woman's eyeball as a thin cloud cuts across the full moon, declaring war on conventional bourgeois narrative logic;\n  - **Viridiana (1961 - Starring Silvia Pinal & Fernando Rey)**:\n    - The only Spanish film to win the **Palma de Oro (Palme d'Or) at the Cannes Film Festival**;\n    - Caused an international scandal with its subversive scene of beggars recreating Leonardo da Vinci's *The Last Supper* to the triumphant chorus of Handel's *Messiah*, banned by the Franco regime until 1977;\n  - **Los olvidados (The Young and the Damned - Mexico, 1950 - UNESCO Memory of the World)**: Raw social realism depicting juvenile street crime in Mexico City;\n  - **El discreto encanto de la burguesía (The Discreet Charm of the Bourgeoisie - 1972 - Oscar for Best Foreign Language Film)**.",
       "examples": [
         {
           "target": "Luis Buñuel revolucionó el cine mundial con el ojo cortado de «Un perro andaluz» y la Palma de Oro de «Viridiana», desafiando toda convención burguesa.",
@@ -17944,7 +17944,7 @@
     "level": "C1",
     "objective": "Melodrama, Saturated Primary Colors & Transgression: Pedro Almodóvar (Pedro Almodóvar - La Movida Madrileña, Todo sobre mi madre Oscar 1999, Hable con ella Oscar 2002 al Mejor Guion, Mujeres al borde de un ataque de nervios 1988, la estética camp, colores primarios saturados y la hermandad femenina).",
     "presentation": {
-      "explanation": "Pedro Almodóvar (1949–present - Calzada de Calatrava, Ciudad Real & Madrid) and the post-Franco cultural explosion:\n- **Pedro Almodóvar Caballero**:\n  - The defining cinematic auteur of democratic Spain; emerged from the underground rock and counterculture movement **La Movida Madrileña** in the late 1970s; transformed Spanish cinema with his production company El Deseo (with brother Agustín).\n- Stylistic Inventions & Aesthetic Signatures:\n  - **Saturated Visual Palette (Colores Almodóvar)**: Explosive pop primary reds, yellows, and deep blues inspired by Douglas Sirk melodramas and Pop Art;\n  - **The Supremacy of Female Solidarity**: Complex, resilient, eccentric women supporting one another through grief and comedy (his \"Chicas Almodóvar\": Carmen Maura, Penélope Cruz, Rossy de Palma, Marisa Paredes, Chus Lampreave);\n- Landmark Masterpieces:\n  - **Mujeres al borde de un ataque de nervios (Women on the Verge of a Nervous Breakdown - 1988)**: Screwball comedy on a Madrid penthouse terrace with spiked gazpacho;\n  - **Todo sobre mi madre (All About My Mother - 1999 - Oscar for Best Foreign Language Film)**: Tragicomic tribute to maternal devotion, loss, and theatrical performance;\n  - **Hable con ella (Talk to Her - 2002 - Oscar for Best Original Screenplay & BAFTA)**: Sublime meditation on loneliness, coma, dance (Pina Bausch), and silence;\n  - **Volver (2006)** & **Dolor y gloria (Pain and Glory - 2019)**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Pedro Almodóvar (1949–present - Calzada de Calatrava, Ciudad Real & Madrid) and the post-Franco cultural explosion:\n- **Pedro Almodóvar Caballero**:\n  - The defining cinematic auteur of democratic Spain; emerged from the underground rock and counterculture movement **La Movida Madrileña** in the late 1970s; transformed Spanish cinema with his production company El Deseo (with brother Agustín).\n- Stylistic Inventions & Aesthetic Signatures:\n  - **Saturated Visual Palette (Colores Almodóvar)**: Explosive pop primary reds, yellows, and deep blues inspired by Douglas Sirk melodramas and Pop Art;\n  - **The Supremacy of Female Solidarity**: Complex, resilient, eccentric women supporting one another through grief and comedy (his \"Chicas Almodóvar\": Carmen Maura, Penélope Cruz, Rossy de Palma, Marisa Paredes, Chus Lampreave);\n- Landmark Masterpieces:\n  - **Mujeres al borde de un ataque de nervios (Women on the Verge of a Nervous Breakdown - 1988)**: Screwball comedy on a Madrid penthouse terrace with spiked gazpacho;\n  - **Todo sobre mi madre (All About My Mother - 1999 - Oscar for Best Foreign Language Film)**: Tragicomic tribute to maternal devotion, loss, and theatrical performance;\n  - **Hable con ella (Talk to Her - 2002 - Oscar for Best Original Screenplay & BAFTA)**: Sublime meditation on loneliness, coma, dance (Pina Bausch), and silence;\n  - **Volver (2006)** & **Dolor y gloria (Pain and Glory - 2019)**.",
       "examples": [
         {
           "target": "Pedro Almodóvar conquistó dos premios Óscar con «Todo sobre mi madre» y «Hable con ella», celebrando el melodrama y la hermandad femenina.",
@@ -18026,7 +18026,7 @@
     "level": "C1",
     "objective": "The Poetry of Light & The Child's Gaze: Víctor Erice (Víctor Erice - El espíritu de la colmena 1973 - Concha de Oro de San Sebastián, la mirada de Ana Torrent y el mito de Frankenstein en la posguerra castellana, El sur 1983, El sol del membrillo 1992 con el pintor Antonio López).",
     "presentation": {
-      "explanation": "Víctor Erice (1940–present - Karrantza, Biscay & Madrid) and the supreme poetic austerity of Spanish cinema:\n- **Víctor Erice**:\n  - The master of cinematic silence, golden hour natural light, and the interior landscape of memory; directed only four feature films across fifty years, each considered a masterpiece of world cinema.\n- Monumental Masterpieces:\n  - **El espíritu de la colmena (The Spirit of the Beehive - 1973 - Concha de Oro at San Sebastián)**:\n    - The undisputed crowning masterpiece of Spanish cinema;\n    - Set in an isolated, desolate Castilian village in 1940 immediately following the Spanish Civil War;\n    - **The Child's Gaze (La mirada de Ana Torrent)**: Six-year-old Ana watches James Whale's 1931 *Frankenstein* in a traveling cinema van, embarking on a quiet poetic quest to find the \"monster spirit\" across barren wheat fields, befriending a wounded fugitive republican soldier;\n    - Cinematographer Luis Cuadrado bathed the interiors in golden amber honey hues (*color de miel*) through hexagonal amber windowpanes mimicking a beehive;\n  - **El sur (The South - 1983)**: Atmospheric mystery of a daughter deciphering the hidden past of her pendular diviner father;\n  - **El sol del membrillo (Dream of Light - 1992 - Cannes Jury Prize)**: Documentary following realist painter **Antonio López** attempting to paint the fleeting sunlight through quince tree leaves before autumn rain arrives;\n  - **Cerrar los ojos (Close Your Eyes - 2023)**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Víctor Erice (1940–present - Karrantza, Biscay & Madrid) and the supreme poetic austerity of Spanish cinema:\n- **Víctor Erice**:\n  - The master of cinematic silence, golden hour natural light, and the interior landscape of memory; directed only four feature films across fifty years, each considered a masterpiece of world cinema.\n- Monumental Masterpieces:\n  - **El espíritu de la colmena (The Spirit of the Beehive - 1973 - Concha de Oro at San Sebastián)**:\n    - The undisputed crowning masterpiece of Spanish cinema;\n    - Set in an isolated, desolate Castilian village in 1940 immediately following the Spanish Civil War;\n    - **The Child's Gaze (La mirada de Ana Torrent)**: Six-year-old Ana watches James Whale's 1931 *Frankenstein* in a traveling cinema van, embarking on a quiet poetic quest to find the \"monster spirit\" across barren wheat fields, befriending a wounded fugitive republican soldier;\n    - Cinematographer Luis Cuadrado bathed the interiors in golden amber honey hues (*color de miel*) through hexagonal amber windowpanes mimicking a beehive;\n  - **El sur (The South - 1983)**: Atmospheric mystery of a daughter deciphering the hidden past of her pendular diviner father;\n  - **El sol del membrillo (Dream of Light - 1992 - Cannes Jury Prize)**: Documentary following realist painter **Antonio López** attempting to paint the fleeting sunlight through quince tree leaves before autumn rain arrives;\n  - **Cerrar los ojos (Close Your Eyes - 2023)**.",
       "examples": [
         {
           "target": "Víctor Erice creó la cumbre poética del cine español en «El espíritu de la colmena» con la mirada inolvidable de Ana Torrent y la luz dorada de la miel.",
@@ -18108,7 +18108,7 @@
     "level": "C2",
     "objective": "Flamenco Rhythms & Metaphorical Resistance: Carlos Saura (Carlos Saura - Cría cuervos 1976 - Premio del Jurado en Cannes y la canción «Porque te vas» de Jeanette, la Trilogía Flamenca con Antonio Gades: Bodas de sangre 1981, Carmen 1983 y El amor brujo, La caza 1966 - Oso de Plata de Berlín).",
     "presentation": {
-      "explanation": "Carlos Saura (1932–2023 - Huesca & Madrid) and the synthesis of political allegory, flamenco rhythm, and memory:\n- **Carlos Saura Atarés**:\n  - Photographer, writer, and filmmaker; mentored by Luis Buñuel; produced groundbreaking allegorical cinema during the Franco censorship era with producer Elías Querejeta.\n- Landmark Masterpieces & Cycles:\n  - **La caza (The Hunt - 1966 - Silver Bear for Best Director at Berlin)**: A rabbit hunt under the scorching Castilian sun among three Civil War veterans turns into a violent psychological bloodbath, serving as a chilling metaphor for fratricidal Spanish violence;\n  - **Cría cuervos (Raise Ravens - 1976 - Cannes Grand Prix Special du Jury)**:\n    - Starred Ana Torrent and Geraldine Chaplin;\n    - Captured the dying atmosphere of the Franco regime through the eyes of an orphaned girl who believes she possesses a fatal poisonous powder; propelled Jeanette's pop song **«Porque te vas»** into a global anthem of melancholic childhood;\n  - **The Monumental Flamenco Dance Trilogy (with dancer Antonio Gades)**:\n    - **Bodas de sangre (Blood Wedding - 1981)** based on Lorca;\n    - **Carmen (1983 - BAFTA for Best Foreign Film & Cannes Artistic Contribution)**: Rehearsal studio transforming into passionate flamenco drama;\n    - **El amor brujo (1986)**;\n  - **Flamenco (1995)** & **Tango (1998 - Oscar Nominee)** with cinematographer Vittorio Storaro.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Carlos Saura (1932–2023 - Huesca & Madrid) and the synthesis of political allegory, flamenco rhythm, and memory:\n- **Carlos Saura Atarés**:\n  - Photographer, writer, and filmmaker; mentored by Luis Buñuel; produced groundbreaking allegorical cinema during the Franco censorship era with producer Elías Querejeta.\n- Landmark Masterpieces & Cycles:\n  - **La caza (The Hunt - 1966 - Silver Bear for Best Director at Berlin)**: A rabbit hunt under the scorching Castilian sun among three Civil War veterans turns into a violent psychological bloodbath, serving as a chilling metaphor for fratricidal Spanish violence;\n  - **Cría cuervos (Raise Ravens - 1976 - Cannes Grand Prix Special du Jury)**:\n    - Starred Ana Torrent and Geraldine Chaplin;\n    - Captured the dying atmosphere of the Franco regime through the eyes of an orphaned girl who believes she possesses a fatal poisonous powder; propelled Jeanette's pop song **«Porque te vas»** into a global anthem of melancholic childhood;\n  - **The Monumental Flamenco Dance Trilogy (with dancer Antonio Gades)**:\n    - **Bodas de sangre (Blood Wedding - 1981)** based on Lorca;\n    - **Carmen (1983 - BAFTA for Best Foreign Film & Cannes Artistic Contribution)**: Rehearsal studio transforming into passionate flamenco drama;\n    - **El amor brujo (1986)**;\n  - **Flamenco (1995)** & **Tango (1998 - Oscar Nominee)** with cinematographer Vittorio Storaro.",
       "examples": [
         {
           "target": "Carlos Saura unió la alegoría política y el arte jondo en «Cría cuervos» y su Trilogía Flamenca con Antonio Gades, ganando el Gran Premio de Cannes.",
@@ -18190,7 +18190,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Genre Reinvention, Psychological Realism & Fantasy: Alejandro Amenábar & Guillermo del Toro (Alejandro Amenábar - Tesis 1996, Abre los ojos 1997, Los otros 2001, Mar adentro Oscar 2004 con Javier Bardem; Guillermo del Toro - El laberinto del fauno 2006 - 3 premios Óscar, la alegoría fantástica de la posguerra española y el monstruo como guardián ético).",
     "presentation": {
-      "explanation": "Alejandro Amenábar and Guillermo del Toro: The global reinvention of Spanish genre cinema and historical memory:\n- **Alejandro Amenábar (1972–present - Santiago de Chile & Madrid)**:\n  - Composer, screenwriter, and director; won 9 Goya Awards and the **Academy Award for Best Foreign Language Film (2004)**;\n  - **Tesis (Thesis - 1996)**: Directorial debut at age 23; brilliant thriller exploring snuff films and visual voyeurism in the Faculty of Information Sciences at Complutense University;\n  - **Abre los ojos (Open Your Eyes - 1997)**: Mind-bending existential sci-fi exploring cryonics, virtual reality, and identity (remade as *Vanilla Sky*);\n  - **The Others (Los otros - 2001 - Starring Nicole Kidman)**: Pure psychological gothic horror relying on candlelight and creaking floorboards rather than digital gore;\n  - **Mar adentro (The Sea Inside - 2004)**: Moving ethical drama starring **Javier Bardem** as quadriplegic poet Ramón Sampedro fighting for dignity and euthanasia;\n- **Guillermo del Toro & Pan's Labyrinth (El laberinto del fauno - 2006 - 3 Academy Awards)**:\n  - The crowning masterpiece of dark fantasy; set in 1944 Francoist Spain;\n  - Young Ofelia navigates an ancient mythical labyrinth ruled by the Fauno and the terrifying **Pale Man (El Hombre Pálido)** with eyes in the palms of his hands, using dark fairy tale fantasy as moral resistance against the real fascist cruelty of Captain Vidal.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Alejandro Amenábar and Guillermo del Toro: The global reinvention of Spanish genre cinema and historical memory:\n- **Alejandro Amenábar (1972–present - Santiago de Chile & Madrid)**:\n  - Composer, screenwriter, and director; won 9 Goya Awards and the **Academy Award for Best Foreign Language Film (2004)**;\n  - **Tesis (Thesis - 1996)**: Directorial debut at age 23; brilliant thriller exploring snuff films and visual voyeurism in the Faculty of Information Sciences at Complutense University;\n  - **Abre los ojos (Open Your Eyes - 1997)**: Mind-bending existential sci-fi exploring cryonics, virtual reality, and identity (remade as *Vanilla Sky*);\n  - **The Others (Los otros - 2001 - Starring Nicole Kidman)**: Pure psychological gothic horror relying on candlelight and creaking floorboards rather than digital gore;\n  - **Mar adentro (The Sea Inside - 2004)**: Moving ethical drama starring **Javier Bardem** as quadriplegic poet Ramón Sampedro fighting for dignity and euthanasia;\n- **Guillermo del Toro & Pan's Labyrinth (El laberinto del fauno - 2006 - 3 Academy Awards)**:\n  - The crowning masterpiece of dark fantasy; set in 1944 Francoist Spain;\n  - Young Ofelia navigates an ancient mythical labyrinth ruled by the Fauno and the terrifying **Pale Man (El Hombre Pálido)** with eyes in the palms of his hands, using dark fairy tale fantasy as moral resistance against the real fascist cruelty of Captain Vidal.",
       "examples": [
         {
           "target": "Amenábar con «Mar adentro» y Del Toro con «El laberinto del fauno» transformaron el cine en lengua española en obras maestras de resonancia universal.",
@@ -18272,7 +18272,7 @@
     "level": "C1",
     "objective": "Molecular Deconstruction & The Culinary Avant-Garde: Ferran Adrià (Ferran Adrià y elBulli en Cala Montjoi, Roses; la esferificación directa e inversa con alginato sódico y cloruro cálcico, las espumas de sifón, la deconstrucción culinaria, las 3 estrellas Michelin y la revolución de elBulli1846).",
     "presentation": {
-      "explanation": "Ferran Adrià (1962–present - L'Hospitalet de Llobregat & Cala Montjoi, Roses, Girona) and the global revolution of avant-garde gastronomy:\n- **Ferran Adrià Acosta**:\n  - The most influential chef in modern history; transformed his restaurant **elBulli** in Cala Montjoi (Costa Brava) into the epicenter of global culinary creativity; voted **#1 Best Restaurant in the World** a record 5 times by *The World's 50 Best Restaurants*.\n- Culinary Inventions & Scientific Breakthroughs:\n  - **Culinary Deconstruction (Deconstrucción)**:\n    - Taking a classic traditional dish (e.g., *Tortilla de patatas deconstruida*), isolating its essential ingredients (warm onion purée, egg yolk sabayon, potato foam served in a martini glass), and transforming all textures and temperatures while preserving the authentic memory of the flavor on the palate;\n  - **Spherification (Esferificación direct and inverse)**:\n    - Utilizing sodium alginate (*alginato sódico*) and calcium bath (*gluconolactato cálcico*) to encase liquids (liquid olives, melon caviar) inside an ultra-thin, imperceptible gelatinous membrane that explodes in the mouth;\n  - **Siphon Foams (Espumas con sifón N2O)**: Creating airy, fat-free aromatic emulsions without heavy cream or egg whites;\n  - Closed elBulli at its absolute peak in 2011 to establish the **elBulliFoundation** and the museum-lab **elBulli1846** to catalog the DNA of human creativity (*Sapiens methodology*).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Ferran Adrià (1962–present - L'Hospitalet de Llobregat & Cala Montjoi, Roses, Girona) and the global revolution of avant-garde gastronomy:\n- **Ferran Adrià Acosta**:\n  - The most influential chef in modern history; transformed his restaurant **elBulli** in Cala Montjoi (Costa Brava) into the epicenter of global culinary creativity; voted **#1 Best Restaurant in the World** a record 5 times by *The World's 50 Best Restaurants*.\n- Culinary Inventions & Scientific Breakthroughs:\n  - **Culinary Deconstruction (Deconstrucción)**:\n    - Taking a classic traditional dish (e.g., *Tortilla de patatas deconstruida*), isolating its essential ingredients (warm onion purée, egg yolk sabayon, potato foam served in a martini glass), and transforming all textures and temperatures while preserving the authentic memory of the flavor on the palate;\n  - **Spherification (Esferificación direct and inverse)**:\n    - Utilizing sodium alginate (*alginato sódico*) and calcium bath (*gluconolactato cálcico*) to encase liquids (liquid olives, melon caviar) inside an ultra-thin, imperceptible gelatinous membrane that explodes in the mouth;\n  - **Siphon Foams (Espumas con sifón N2O)**: Creating airy, fat-free aromatic emulsions without heavy cream or egg whites;\n  - Closed elBulli at its absolute peak in 2011 to establish the **elBulliFoundation** and the museum-lab **elBulli1846** to catalog the DNA of human creativity (*Sapiens methodology*).",
       "examples": [
         {
           "target": "Ferran Adrià transformó la gastronomía mundial en elBulli mediante la esferificación, las espumas y la deconstrucción culinaria.",
@@ -18354,7 +18354,7 @@
     "level": "C1",
     "objective": "Jamón Ibérico de Bellota & The Dehesa Terroir (Jamón 100% Ibérico de Bellota, el ecosistema de la Dehesa de encinas y alcornoques, la montanera (octubre a febrero), el ácido oleico, las Denominaciones de Origen Protegidas: Jabugo y Dehesa de Extremadura, la curación natural en bodegas de 36 a 48 meses y el corte a cuchillo).",
     "presentation": {
-      "explanation": "Jamón Ibérico de Bellota and the unique agro-ecological sanctuary of the Spanish Dehesa:\n- **Jamón 100% Ibérico de Bellota (Etiqueta Negra / Pata Negra)**:\n  - The jewel of Spanish gastronomy; produced exclusively from pure-bred black Iberian pigs (*cerdo ibérico de pura raza*);\n- The Terroir & Lifecycle:\n  - **The Dehesa Ecosystem (La Dehesa)**: Millennia-old human-coexisting Mediterranean oak savannah of southwest Spain (Extremadura, Huelva, Córdoba, Salamanca);\n  - **La Montanera (The Free-Range Acorn Foraging Season)**:\n    - From October to February, free-roaming Iberian pigs walk 10–15 km daily, feeding exclusively on sweet acorns (*bellotas*) from holm oaks (*encinas*) and cork oaks (*alcornoques*) and wild aromatic herbs;\n    - Pigs double their weight, converting acorn nutrients into heart-healthy **monounsaturated oleic acid (ácido oleico)**—the same beneficial lipid found in extra virgin olive oil (*\"olives on four legs\"*);\n  - **Natural Artisanal Curing (Curación natural)**:\n    - Aged slowly in natural microclimate cellars in mountain towns (Jabugo, Guijuelo) for **36 to 48 months**;\n  - **Master Slicing (El corte a cuchillo)**: Translucent, paper-thin bite-sized slices (*lonchas finas*) sweating aromatic room-temperature fat with white tyrosine crystals confirming long natural aging.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Jamón Ibérico de Bellota and the unique agro-ecological sanctuary of the Spanish Dehesa:\n- **Jamón 100% Ibérico de Bellota (Etiqueta Negra / Pata Negra)**:\n  - The jewel of Spanish gastronomy; produced exclusively from pure-bred black Iberian pigs (*cerdo ibérico de pura raza*);\n- The Terroir & Lifecycle:\n  - **The Dehesa Ecosystem (La Dehesa)**: Millennia-old human-coexisting Mediterranean oak savannah of southwest Spain (Extremadura, Huelva, Córdoba, Salamanca);\n  - **La Montanera (The Free-Range Acorn Foraging Season)**:\n    - From October to February, free-roaming Iberian pigs walk 10–15 km daily, feeding exclusively on sweet acorns (*bellotas*) from holm oaks (*encinas*) and cork oaks (*alcornoques*) and wild aromatic herbs;\n    - Pigs double their weight, converting acorn nutrients into heart-healthy **monounsaturated oleic acid (ácido oleico)**—the same beneficial lipid found in extra virgin olive oil (*\"olives on four legs\"*);\n  - **Natural Artisanal Curing (Curación natural)**:\n    - Aged slowly in natural microclimate cellars in mountain towns (Jabugo, Guijuelo) for **36 to 48 months**;\n  - **Master Slicing (El corte a cuchillo)**: Translucent, paper-thin bite-sized slices (*lonchas finas*) sweating aromatic room-temperature fat with white tyrosine crystals confirming long natural aging.",
       "examples": [
         {
           "target": "El Jamón 100% Ibérico de Bellota madura durante cuatro años en bodegas naturales gracias a la montanera y los robles de la Dehesa.",
@@ -18436,7 +18436,7 @@
     "level": "C1",
     "objective": "The Ritual of Paella & The Rice Terroir of Valencia (La Paella Valenciana tradicional: el arroz Bomba y Senia de la Albufera de Valencia, el azafrán en hebra, el garrofó y la judía ferradura, el sofrito, la leña de naranjo y el arte del socarrat crujiente).",
     "presentation": {
-      "explanation": "The ancestral ritual and agricultural terroir of authentic Valencian Paella:\n- **Paella Valenciana Tradicional**:\n  - Declared *Bien de Interés Cultural* (Asset of Cultural Interest);\n  - Born in the 18th century among peasant farmers and fishermen around the freshwater lagoon of **L'Albufera de Valencia**;\n- The Canonical Ingredients & Technical Physics:\n  - **The Rice (Arroz de la Albufera - Arroz Bomba / Senia)**: Short, round grains with extraordinary starch absorption capacity, absorbing up to 3 times its volume in savory broth without bursting;\n  - **The Canonical Recipe**: Olive oil, chicken, rabbit (*conejo*), green flat beans (*ferradura / bajoqueta*), giant white lima beans (**garrofó**), crushed fresh tomato, water/broth, hand-ground toasted saffron threads (*azafrán en hebra*), a sprig of fresh rosemary, and salt (never chorizo, peas, or onion in authentic Valencian tradition!);\n  - **Wood Fire Cooking (Leña de naranjo)**: Cooked over fragrant orange tree wood fire, controlling heat zones from outer rim to center;\n  - **El Socarrat (The Golden Crust)**: The ultimate culinary prize: at the final minute of cooking, the heat caramelizes the bottom layer of starch and savory fats against the steel pan into an ultra-crispy, intensely aromatic golden crust.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "The ancestral ritual and agricultural terroir of authentic Valencian Paella:\n- **Paella Valenciana Tradicional**:\n  - Declared *Bien de Interés Cultural* (Asset of Cultural Interest);\n  - Born in the 18th century among peasant farmers and fishermen around the freshwater lagoon of **L'Albufera de Valencia**;\n- The Canonical Ingredients & Technical Physics:\n  - **The Rice (Arroz de la Albufera - Arroz Bomba / Senia)**: Short, round grains with extraordinary starch absorption capacity, absorbing up to 3 times its volume in savory broth without bursting;\n  - **The Canonical Recipe**: Olive oil, chicken, rabbit (*conejo*), green flat beans (*ferradura / bajoqueta*), giant white lima beans (**garrofó**), crushed fresh tomato, water/broth, hand-ground toasted saffron threads (*azafrán en hebra*), a sprig of fresh rosemary, and salt (never chorizo, peas, or onion in authentic Valencian tradition!);\n  - **Wood Fire Cooking (Leña de naranjo)**: Cooked over fragrant orange tree wood fire, controlling heat zones from outer rim to center;\n  - **El Socarrat (The Golden Crust)**: The ultimate culinary prize: at the final minute of cooking, the heat caramelizes the bottom layer of starch and savory fats against the steel pan into an ultra-crispy, intensely aromatic golden crust.",
       "examples": [
         {
           "target": "La auténtica paella valenciana se cocina con arroz bomba de la Albufera, garrofó, azafrán y el crujiente e inigualable socarrat.",
@@ -18518,7 +18518,7 @@
     "level": "C2",
     "objective": "Pintxos, Gastronomic Societies & Basque Culinary Alchemy: Donostia / San Sebastián (Donostia-San Sebastián - la capital mundial de la gastronomía por metro cuadrado; los pintxos de la Parte Vieja, la Gilda de 1946 (guindilla de Ibarra, anchoa del Cantábrico y aceituna manzanilla), las sociedades gastronómicas masculinas (txokos), la sidra natural y el Txakoli con Denominación de Origen Getariako Txakolina).",
     "presentation": {
-      "explanation": "Donostia / San Sebastián and the sacred alchemy of Basque culinary culture:\n- **San Sebastián (Donostia, Gipuzkoa)**:\n  - The global culinary capital with more Michelin stars per square meter than any city on Earth; home of the **Basque Culinary Center** (the world's premier gastronomic university);\n- The Icons of Basque Gastronomy:\n  - **The Art of the Pintxo (La Parte Vieja)**: Miniature haute-cuisine masterpieces displayed across bar countertops;\n  - **La Gilda (Invented 1946 at Bar Casa Vallés)**:\n    - The undisputed mother of all pintxos, named after Rita Hayworth's film *Gilda* because it is: **«Verde, salada y un poco picante»** (*\"Green, salty, and a little spicy\"*);\n    - Skewered on a toothpick: a pickled green Ibarra chili pepper (*guindilla de Ibarra*), a salted Cantabrian anchovy fillet (*anchoa del Cantábrico*), and a green Manzanilla olive;\n  - **Las Sociedades Gastronómicas (Txokos)**:\n    - Traditional closed culinary brotherhood clubs where members gather weekly to cook gourmet feasts for one another;\n  - **Oenology of the Coast: Txakoli & Sagardoa**:\n    - **Txakoli (Getariako Txakolina DOP)**: Crisp, slightly sparkling, high-acidity white wine made from *Hondarrabi Zuri* grapes, poured from high above the glass (*escanciado*) to awaken its effervescence;\n    - **Sagardoa (Basque Cider)**: Poured straight from giant wooden barrels (*kupelas*) during the winter *txotx* season.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Donostia / San Sebastián and the sacred alchemy of Basque culinary culture:\n- **San Sebastián (Donostia, Gipuzkoa)**:\n  - The global culinary capital with more Michelin stars per square meter than any city on Earth; home of the **Basque Culinary Center** (the world's premier gastronomic university);\n- The Icons of Basque Gastronomy:\n  - **The Art of the Pintxo (La Parte Vieja)**: Miniature haute-cuisine masterpieces displayed across bar countertops;\n  - **La Gilda (Invented 1946 at Bar Casa Vallés)**:\n    - The undisputed mother of all pintxos, named after Rita Hayworth's film *Gilda* because it is: **«Verde, salada y un poco picante»** (*\"Green, salty, and a little spicy\"*);\n    - Skewered on a toothpick: a pickled green Ibarra chili pepper (*guindilla de Ibarra*), a salted Cantabrian anchovy fillet (*anchoa del Cantábrico*), and a green Manzanilla olive;\n  - **Las Sociedades Gastronómicas (Txokos)**:\n    - Traditional closed culinary brotherhood clubs where members gather weekly to cook gourmet feasts for one another;\n  - **Oenology of the Coast: Txakoli & Sagardoa**:\n    - **Txakoli (Getariako Txakolina DOP)**: Crisp, slightly sparkling, high-acidity white wine made from *Hondarrabi Zuri* grapes, poured from high above the glass (*escanciado*) to awaken its effervescence;\n    - **Sagardoa (Basque Cider)**: Poured straight from giant wooden barrels (*kupelas*) during the winter *txotx* season.",
       "examples": [
         {
           "target": "San Sebastián celebra la cumbre del pintxo con la Gilda tradicional y el Txakoli escanciado en las tabernas de la Parte Vieja.",
@@ -18600,7 +18600,7 @@
     "level": "C2",
     "objective": "C2 synthesis on Spanish Oenology, Terroir & The Solera System: Rioja, Ribera del Duero & Jerez (La uva Tempranillo; clasificaciones de crianza: Roble, Crianza, Reserva y Gran Reserva; el terroir arcillo-calcáreo de Rioja Alta y Alavesa; Vega Sicilia en Ribera del Duero; el sistema dinámico de criaderas y soleras bajo velo de flor en el Marco de Jerez - Fino, Manzanilla, Amontillado y Palo Cortado).",
     "presentation": {
-      "explanation": "Spanish Oenology, Terroir and the dynamic aging systems of Rioja, Ribera del Duero, and Jerez:\n- **The Sovereign Red Terroirs: Tempranillo**:\n  - **DOCa Rioja (Rioja Alta, Rioja Alavesa, Rioja Oriental)**:\n    - Atlantic-Mediterranean confluence and calcareous-clay soils (*arcillo-calcáreos*);\n    - Aging Classifications in Oak Barriques (*barricas de roble*):\n      - **Crianza**: Minimum 2 years aging (at least 1 year in oak);\n      - **Reserva**: Minimum 3 years aging (at least 1 year in oak and 6 months in bottle);\n      - **Gran Reserva**: Minimum 5 years aging (at least 2 years in oak and 2 years in bottle) in extraordinary vintage years;\n  - **DO Ribera del Duero**:\n    - High-altitude plateau (750–900 meters) along the Duero River with extreme diurnal temperature swings, producing concentrated, powerful Tempranillo (*Tinta del País*), crowned by legendary estate **Vega Sicilia Único**;\n- **The Fortified Miracles of Jerez (Marco de Jerez DOP)**:\n  - **Albariza Soil**: Dazzling white limestone chalk soil retaining winter rainfall under blazing Andalusian sun;\n  - **Biological Aging under Velo de Flor**: Indigenous flor yeast film protecting wine from oxidation, yielding bone-dry **Fino** and **Manzanilla de Sanlúcar**;\n  - **The Criaderas and Soleras Aging Matrix**: Multi-tiered fractional blending system where young wine moves through stacked oak butts (*botas*), blending across centuries to create **Amontillado**, **Oloroso**, and **Palo Cortado**.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Spanish Oenology, Terroir and the dynamic aging systems of Rioja, Ribera del Duero, and Jerez:\n- **The Sovereign Red Terroirs: Tempranillo**:\n  - **DOCa Rioja (Rioja Alta, Rioja Alavesa, Rioja Oriental)**:\n    - Atlantic-Mediterranean confluence and calcareous-clay soils (*arcillo-calcáreos*);\n    - Aging Classifications in Oak Barriques (*barricas de roble*):\n      - **Crianza**: Minimum 2 years aging (at least 1 year in oak);\n      - **Reserva**: Minimum 3 years aging (at least 1 year in oak and 6 months in bottle);\n      - **Gran Reserva**: Minimum 5 years aging (at least 2 years in oak and 2 years in bottle) in extraordinary vintage years;\n  - **DO Ribera del Duero**:\n    - High-altitude plateau (750–900 meters) along the Duero River with extreme diurnal temperature swings, producing concentrated, powerful Tempranillo (*Tinta del País*), crowned by legendary estate **Vega Sicilia Único**;\n- **The Fortified Miracles of Jerez (Marco de Jerez DOP)**:\n  - **Albariza Soil**: Dazzling white limestone chalk soil retaining winter rainfall under blazing Andalusian sun;\n  - **Biological Aging under Velo de Flor**: Indigenous flor yeast film protecting wine from oxidation, yielding bone-dry **Fino** and **Manzanilla de Sanlúcar**;\n  - **The Criaderas and Soleras Aging Matrix**: Multi-tiered fractional blending system where young wine moves through stacked oak butts (*botas*), blending across centuries to create **Amontillado**, **Oloroso**, and **Palo Cortado**.",
       "examples": [
         {
           "target": "España atesora la excelencia enológica en el Tempranillo de Rioja y Ribera, y en el sistema único de criaderas y soleras de Jerez.",
@@ -18684,7 +18684,7 @@
     "title": "Federico García Lorca y la Trilogía Rural: Tragedia, Mito y Opresión Social",
     "objective": "Analizar la dramaturgia poética de Federico García Lorca en su trilogía rural (Bodas de sangre, Yerma y La casa de Bernarda Alba), explorando el concepto del duende, los símbolos telúricos y el conflicto entre deseo y norma social.",
     "presentation": {
-      "explanation": "La dramaturgia de Federico García Lorca (1898–1936), cumbre del teatro poético universal y de la Generación del 27, alcanza su máxima intensidad trágica en su célebre trilogía rural: *Bodas de sangre* (1933), *Yerma* (1934) y *La casa de Bernarda Alba* (1936). Lorca fusiona el folclore andaluz, la lírica de raíz popular y las técnicas de vanguardia para escenificar el choque telúrico entre el principio del deseo (el amor libre, el instinto vital, el «duende») y el principio de la realidad coercitiva (el honor calderoniano, la honra familiar, la moral represiva y el luto asfixiante). En *La casa de Bernarda Alba*, subtitulada 'Drama de mujeres en los pueblos de España', el espacio escénico clausurado —la casa blanca convertida en convento carcelario bajo el bastón de mando de Bernarda— materializa el silencio impuesto sobre las cinco hijas, culminando en el suicidio catártico de Adela.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "La dramaturgia de Federico García Lorca (1898–1936), cumbre del teatro poético universal y de la Generación del 27, alcanza su máxima intensidad trágica en su célebre trilogía rural: *Bodas de sangre* (1933), *Yerma* (1934) y *La casa de Bernarda Alba* (1936). Lorca fusiona el folclore andaluz, la lírica de raíz popular y las técnicas de vanguardia para escenificar el choque telúrico entre el principio del deseo (el amor libre, el instinto vital, el «duende») y el principio de la realidad coercitiva (el honor calderoniano, la honra familiar, la moral represiva y el luto asfixiante). En *La casa de Bernarda Alba*, subtitulada 'Drama de mujeres en los pueblos de España', el espacio escénico clausurado —la casa blanca convertida en convento carcelario bajo el bastón de mando de Bernarda— materializa el silencio impuesto sobre las cinco hijas, culminando en el suicidio catártico de Adela.",
       "examples": [
         {
           "target": "El bastón de mando de Bernarda Alba simboliza la tiranía moral y el control asfixiante sobre el destino de sus hijas.",
@@ -18782,7 +18782,7 @@
     "title": "El Siglo de Oro: Lope de Vega, Calderón de la Barca y los Corrales de Comedias",
     "objective": "Comprender la revolución dramática del Siglo de Oro español: la fórmula innovadora de Lope de Vega (El arte nuevo de hacer comedias, Fuenteovejuna) frente a la hondura filosófica y teológica de Calderón de la Barca (La vida es sueño).",
     "presentation": {
-      "explanation": "El teatro barroco del Siglo de Oro español (siglos XVI–XVII) revolucionó la escena europea al democratizar el espectáculo dramático en los corrales de comedias populares. Lope de Vega (1562–1635), el «Fénix de los ingenios», rompió las unidades aristotélicas de tiempo, lugar y acción en su tratado *El arte nuevo de hacer comedias en este tiempo* (1609), mezclando lo trágico y lo cómico, reduciendo la obra a tres jornadas y creando el arquetipo del 'gracioso'. Obras como *Fuenteovejuna* erigen al pueblo colectivo en protagonista de la justicia y la dignidad frente al abuso feudal. Por su parte, Pedro Calderón de la Barca (1600–1681) llevó el drama a su cima filosófica y teológica en *La vida es sueño*, donde Segismundo reflexiona sobre el libre albedrío, la predestinación astrológica y la naturaleza ilusoria de la existencia terrenal, consolidando además el género del auto sacramental.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "El teatro barroco del Siglo de Oro español (siglos XVI–XVII) revolucionó la escena europea al democratizar el espectáculo dramático en los corrales de comedias populares. Lope de Vega (1562–1635), el «Fénix de los ingenios», rompió las unidades aristotélicas de tiempo, lugar y acción en su tratado *El arte nuevo de hacer comedias en este tiempo* (1609), mezclando lo trágico y lo cómico, reduciendo la obra a tres jornadas y creando el arquetipo del 'gracioso'. Obras como *Fuenteovejuna* erigen al pueblo colectivo en protagonista de la justicia y la dignidad frente al abuso feudal. Por su parte, Pedro Calderón de la Barca (1600–1681) llevó el drama a su cima filosófica y teológica en *La vida es sueño*, donde Segismundo reflexiona sobre el libre albedrío, la predestinación astrológica y la naturaleza ilusoria de la existencia terrenal, consolidando además el género del auto sacramental.",
       "examples": [
         {
           "target": "En «Fuenteovejuna», todo el pueblo asume solidariamente la autoría de la muerte del comendador tirano.",
@@ -18880,7 +18880,7 @@
     "title": "Ramón María del Valle-Inclán y el Esperpento: Deformación Grotesca y Luces de Bohemia",
     "objective": "Dominar la teoría y técnica dramatúrgica del esperpento creada por Valle-Inclán, analizando la peregrinación nocturna de Max Estrella en Luces de bohemia y la crítica ácida a la España de la Restauración.",
     "presentation": {
-      "explanation": "Ramón María del Valle-Inclán (1866–1936), figura cardinal de la Generación del 98 y del Modernismo hispánico, revolucionó el teatro del siglo XX con la invención del «esperpento», una estética de la deformación grotesca y sistemática de la realidad española. En su obra maestra *Luces de bohemia* (1920/1924), Valle-Inclán formula su famosa teoría a través del poeta ciego y miserable Max Estrella en el Callejón del Gato de Madrid: 'Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento. El sentido trágico de la vida española sólo puede darse con una estética sistemáticamente deformada'. Mediante la animalización de los personajes, la cosificación humana, el cruce de registros cultos con jergas tabernarias y la ironía mordaz, el dramaturgo destripa la corrupción política, la pedantería académica, la violencia policial y la decadencia moral de la España de la Restauración alfonsina.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Ramón María del Valle-Inclán (1866–1936), figura cardinal de la Generación del 98 y del Modernismo hispánico, revolucionó el teatro del siglo XX con la invención del «esperpento», una estética de la deformación grotesca y sistemática de la realidad española. En su obra maestra *Luces de bohemia* (1920/1924), Valle-Inclán formula su famosa teoría a través del poeta ciego y miserable Max Estrella en el Callejón del Gato de Madrid: 'Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento. El sentido trágico de la vida española sólo puede darse con una estética sistemáticamente deformada'. Mediante la animalización de los personajes, la cosificación humana, el cruce de registros cultos con jergas tabernarias y la ironía mordaz, el dramaturgo destripa la corrupción política, la pedantería académica, la violencia policial y la decadencia moral de la España de la Restauración alfonsina.",
       "examples": [
         {
           "target": "Los espejos cóncavos y convexos del Callejón del Gato devuelven una imagen cómica y monstruosa de la tragedia nacional.",
@@ -18978,7 +18978,7 @@
     "title": "La Zarzuela y el Género Chico Madrileño: Tradición Lírica y Costumbrismo Castizo",
     "objective": "Apreciar la zarzuela española como patrimonio lírico-teatral singular, distinguiendo la zarzuela grande del género chico (La verbena de la Paloma, Doña Francisquita), sus tipos populares castizos y sus formas musicales tradicionales.",
     "presentation": {
-      "explanation": "La Zarzuela es el género lírico-dramático por excelencia del patrimonio musical español, caracterizado por la alternancia virtuosa de partes habladas y partes cantadas, danzas populares y coros festivos. Nacida en el siglo XVII en el Real Sitio de la Zarzuela bajo el mecenazgo de Felipe IV y Calderón de la Barca, la zarzuela conoció una segunda edad de oro a finales del siglo XIX con el auge del «género chico» —obras cómicas en un solo acto de ambientación costumbrista y precio popular—. Obras maestras como *La verbena de la Paloma* (1894, libreto de Ricardo de la Vega y música de Tomás Bretón), *La revoltosa* (1897, Ruperto Chapí) y la zarzuela grande *Doña Francisquita* (1923, Amadeo Vives) retratan el Madrid castizo de chulapos, modistillas, taberneros y boticarios, inmortalizando ritmos como el chotis, la habanera, las seguidillas y el pasodoble.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "La Zarzuela es el género lírico-dramático por excelencia del patrimonio musical español, caracterizado por la alternancia virtuosa de partes habladas y partes cantadas, danzas populares y coros festivos. Nacida en el siglo XVII en el Real Sitio de la Zarzuela bajo el mecenazgo de Felipe IV y Calderón de la Barca, la zarzuela conoció una segunda edad de oro a finales del siglo XIX con el auge del «género chico» —obras cómicas en un solo acto de ambientación costumbrista y precio popular—. Obras maestras como *La verbena de la Paloma* (1894, libreto de Ricardo de la Vega y música de Tomás Bretón), *La revoltosa* (1897, Ruperto Chapí) y la zarzuela grande *Doña Francisquita* (1923, Amadeo Vives) retratan el Madrid castizo de chulapos, modistillas, taberneros y boticarios, inmortalizando ritmos como el chotis, la habanera, las seguidillas y el pasodoble.",
       "examples": [
         {
           "target": "Las coplas de Don Hilarión en «La verbena de la Paloma» retratan con gracia picaresca al viejo boticario seductor.",
@@ -19076,7 +19076,7 @@
     "title": "Vanguardia Escénica Española: La Fura dels Baus, Juan Mayorga y la Escena Contemporánea",
     "objective": "Examinar las corrientes contemporáneas del teatro español, desde la poética física, tecnológica y macroscópica de La Fura dels Baus hasta el teatro filosófico, político y de la memoria histórica de Juan Mayorga (Premio Princesa de Asturias 2022).",
     "presentation": {
-      "explanation": "La escena teatral española de las últimas décadas destaca por su vitalidad e internacionalización, articulada en dos vertientes maestras: el teatro físico de impacto sensorial y el teatro de texto filosófico. En el ámbito de la vanguardia física y multidisciplinar, la compañía catalana La Fura dels Baus (fundada en 1979) revolucionó la dramaturgia escénica con el 'lenguaje furero': ruptura de la cuarta pared, eliminación del escenario convencional, interacción visceral con el público, maquinaria industrial e inmersión tecnológica (consagrada globalmente en la ceremonia de apertura de los Juegos Olímpicos de Barcelona 1992). En el polo del teatro de texto y pensamiento, Juan Mayorga (1965, dramaturgo, matemático y filósofo, miembro de la Real Academia Española) ha creado un teatro ético y de la memoria (*Himmelweg*, *El chico de la última fila*, *La tortuga de Darwin*), donde el escenario se transforma en un laboratorio de preguntas morales sobre el Holocausto, la violencia invisible, la seducción del relato y la responsabilidad cívica.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "La escena teatral española de las últimas décadas destaca por su vitalidad e internacionalización, articulada en dos vertientes maestras: el teatro físico de impacto sensorial y el teatro de texto filosófico. En el ámbito de la vanguardia física y multidisciplinar, la compañía catalana La Fura dels Baus (fundada en 1979) revolucionó la dramaturgia escénica con el 'lenguaje furero': ruptura de la cuarta pared, eliminación del escenario convencional, interacción visceral con el público, maquinaria industrial e inmersión tecnológica (consagrada globalmente en la ceremonia de apertura de los Juegos Olímpicos de Barcelona 1992). En el polo del teatro de texto y pensamiento, Juan Mayorga (1965, dramaturgo, matemático y filósofo, miembro de la Real Academia Española) ha creado un teatro ético y de la memoria (*Himmelweg*, *El chico de la última fila*, *La tortuga de Darwin*), donde el escenario se transforma en un laboratorio de preguntas morales sobre el Holocausto, la violencia invisible, la seducción del relato y la responsabilidad cívica.",
       "examples": [
         {
           "target": "La Fura dels Baus disuelve la frontera entre actor y espectador situando la acción en el centro del espacio multitudinario.",
@@ -19174,7 +19174,7 @@
     "title": "Antoni Gaudí y el Modernismo Catalán: Sagrada Família, Arcos Catenarios y Trencadís",
     "objective": "Analizar la genialidad arquitectónica de Antoni Gaudí y el Modernisme catalán, la observación estructural de las formas de la naturaleza, el uso del arco catenario y la técnica del mosaico trencadís.",
     "presentation": {
-      "explanation": "Antoni Gaudí i Cornet (1852–1926) encarna la cumbre del Modernismo catalán y una de las figuras más revolucionarias de la arquitectura de todos los tiempos. Rehusando la copia servil de los estilos históricos (neogótico o academicismo neoclásico), Gaudí concibió la arquitectura como una prolongación orgánica de las leyes de la naturaleza y de la creación divina. Mediante el estudio empírico de modelos polifuniculares con saquitos de perdigones suspendidos en cuerdas, calculó con exactitud matemática el uso de arcos catenarios, columnas helicoidales arborescentes que se ramifican como troncos de bosque y bóvedas hiperbólicas autoportantes. Su obra cumbre, la Basílica de la Sagrada Família en Barcelona, es una catedral vegetal en piedra y luz cuya fachada de la Natividad y torres biomórficas fusionan misticismo cristiano con geología natural. En obras civiles como el Park Güell, la Casa Batlló y la Casa Milà (La Pedrera), Gaudí universalizó el *trencadís*, técnica artesanal que recicla fragmentos irregulares de cerámica esmaltada y azulejos para vestir superficies onduladas con vibrantes composiciones policromadas.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "Antoni Gaudí i Cornet (1852–1926) encarna la cumbre del Modernismo catalán y una de las figuras más revolucionarias de la arquitectura de todos los tiempos. Rehusando la copia servil de los estilos históricos (neogótico o academicismo neoclásico), Gaudí concibió la arquitectura como una prolongación orgánica de las leyes de la naturaleza y de la creación divina. Mediante el estudio empírico de modelos polifuniculares con saquitos de perdigones suspendidos en cuerdas, calculó con exactitud matemática el uso de arcos catenarios, columnas helicoidales arborescentes que se ramifican como troncos de bosque y bóvedas hiperbólicas autoportantes. Su obra cumbre, la Basílica de la Sagrada Família en Barcelona, es una catedral vegetal en piedra y luz cuya fachada de la Natividad y torres biomórficas fusionan misticismo cristiano con geología natural. En obras civiles como el Park Güell, la Casa Batlló y la Casa Milà (La Pedrera), Gaudí universalizó el *trencadís*, técnica artesanal que recicla fragmentos irregulares de cerámica esmaltada y azulejos para vestir superficies onduladas con vibrantes composiciones policromadas.",
       "examples": [
         {
           "target": "Las columnas arborescentes de la Sagrada Família se bifurcan en ramas para sostener el peso de las bóvedas hiperbólicas.",
@@ -19272,7 +19272,7 @@
     "title": "El Esplendor Andalusí: La Alhambra y el Generalife de Granada",
     "objective": "Comprender la sofisticación arquitectónica, matemática y poética del arte nazarí en la Alhambra y el Generalife de Granada (Patio de los Leones, mocárabes, epigrafía cúfica y la ingeniería hidráulica de los palacios andalusíes).",
     "presentation": {
-      "explanation": "La Alhambra de Granada ('al-Qal'a al-Hamra', la Fortaleza Roja), erigida por los sultanes de la dinastía Nazarí (siglos XIII–XV), constituye la cima insuperable de la arquitectura palatina hispanomusulmana y del refinamiento estético de al-Ándalus. Concebida como una ciudadela cortesana inexpugnable por fuera y un paraíso sensorial por dentro, la Alhambra materializa la cosmología coránica donde el agua viva es el eje vertebral del espacio. En el Palacio de los Leones (mandado construir por Muhammad V), una esbelta columnata de mármol de Macael enmarca la fuente central sostenida por doce leones esculpidos, distribuyendo el agua a través de cuatro canales cardinales. Las cúpulas de *mocárabes* (estalactitas prismáticas de yeso como la de la Sala de Dos Hermanas o de los Abencerrajes) descomponen la luz solar en millares de reflejos geométricos caleidoscópicos. En los muros, los alicatados de lacería matemática y los poemas epigráficos labrados en yesería por visires y poetas como Ibn Zamrak proclaman que 'no hay vencedor sino Dios' (*wa-la galiba illa Allah*).\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "La Alhambra de Granada ('al-Qal'a al-Hamra', la Fortaleza Roja), erigida por los sultanes de la dinastía Nazarí (siglos XIII–XV), constituye la cima insuperable de la arquitectura palatina hispanomusulmana y del refinamiento estético de al-Ándalus. Concebida como una ciudadela cortesana inexpugnable por fuera y un paraíso sensorial por dentro, la Alhambra materializa la cosmología coránica donde el agua viva es el eje vertebral del espacio. En el Palacio de los Leones (mandado construir por Muhammad V), una esbelta columnata de mármol de Macael enmarca la fuente central sostenida por doce leones esculpidos, distribuyendo el agua a través de cuatro canales cardinales. Las cúpulas de *mocárabes* (estalactitas prismáticas de yeso como la de la Sala de Dos Hermanas o de los Abencerrajes) descomponen la luz solar en millares de reflejos geométricos caleidoscópicos. En los muros, los alicatados de lacería matemática y los poemas epigráficos labrados en yesería por visires y poetas como Ibn Zamrak proclaman que 'no hay vencedor sino Dios' (*wa-la galiba illa Allah*).",
       "examples": [
         {
           "target": "La cúpula de mocárabes de la Sala de Dos Hermanas simula una bóveda celeste de incontables constelaciones de yeso.",
@@ -19370,7 +19370,7 @@
     "title": "La Mezquita-Catedral de Córdoba: El Bosque de Columnas y la Geometría Califal",
     "objective": "Apreciar la trascendencia universal de la Mezquita de Córdoba (fundada por Abd al-Rahman I en 785 y ampliada hasta Almanzor): el bosque hipóstilo de columnas romanas y visigodas, los arcos bicolores de herradura superpuestos, el deslumbrante mihrab bizantino y la inserción de la catedral renacentista.",
     "presentation": {
-      "explanation": "La Gran Mezquita de Córdoba, erigida sobre la basílica visigoda de San Vicente tras la llegada del emir omeya Abd al-Rahman I en 785 y sucesivamente ampliada por Abd al-Rahman II, al-Hakam II y Almanzor, es una de las obras cumbres del arte islámico y de la arquitectura universal. Su sala de oración (*haram*) despliega un asombroso bosque hipóstilo de más de 850 columnas de jaspe, ónice, mármol y granito reutilizadas de monumentos romanos y visigodos. Para ganar altura y luminosidad, los arquitectos califales idearon un revolucionario sistema de doble arquería superpuesta: arcos inferiores de herradura que actúan como tirantes y arcos superiores de medio punto que sustentan la techumbre, combinando dovelas alternas de ladrillo rojo y piedra caliza blanca. El *mihrab* de al-Hakam II (siglo X) deslumbra por su cúpula nervada sobre trompas y sus mosaicos de pasta vítrea dorada enviados por el emperador de Bizancio. En el siglo XVI, el cabildo eclesiástico erigió en su centro una suntuosa catedral plateresca y renacentista, originando un diálogo histórico y estilístico irrepetible.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "La Gran Mezquita de Córdoba, erigida sobre la basílica visigoda de San Vicente tras la llegada del emir omeya Abd al-Rahman I en 785 y sucesivamente ampliada por Abd al-Rahman II, al-Hakam II y Almanzor, es una de las obras cumbres del arte islámico y de la arquitectura universal. Su sala de oración (*haram*) despliega un asombroso bosque hipóstilo de más de 850 columnas de jaspe, ónice, mármol y granito reutilizadas de monumentos romanos y visigodos. Para ganar altura y luminosidad, los arquitectos califales idearon un revolucionario sistema de doble arquería superpuesta: arcos inferiores de herradura que actúan como tirantes y arcos superiores de medio punto que sustentan la techumbre, combinando dovelas alternas de ladrillo rojo y piedra caliza blanca. El *mihrab* de al-Hakam II (siglo X) deslumbra por su cúpula nervada sobre trompas y sus mosaicos de pasta vítrea dorada enviados por el emperador de Bizancio. En el siglo XVI, el cabildo eclesiástico erigió en su centro una suntuosa catedral plateresca y renacentista, originando un diálogo histórico y estilístico irrepetible.",
       "examples": [
         {
           "target": "El bosque de columnas de la Mezquita crea una perspectiva visual infinita que invita al recogimiento espiritual.",
@@ -19468,7 +19468,7 @@
     "title": "El Real Monasterio de San Lorenzo de El Escorial: Juan de Herrera y la Geometría Filipina",
     "objective": "Analizar la arquitectura monumental de El Escorial (1563–1584), el estilo herreriano, la austeridad contrarreformista de Felipe II y la integración simétrica de monasterio, palacio, basílica, panteón real y biblioteca.",
     "presentation": {
-      "explanation": "El Real Monasterio de San Lorenzo de El Escorial, concebido por el rey Felipe II y levantado en la sierra de Guadarrama entre 1563 y 1584 por los arquitectos Juan Bautista de Toledo y, fundamentalmente, Juan de Herrera (1530–1597), es el monumento cumbre del Renacimiento español y la manifestación pétrea de la Monarquía Hispánica en el cenit de su poder imperial. Construido en granito gris con planta ortogonal en forma de parrilla en honor al martirio de San Lorenzo, El Escorial materializa los ideales de orden, simetría y severidad ascética de la Contrarreforma católica emanada del Concilio de Trento. Juan de Herrera depuró la ornamentación plateresca para alumbrar el 'estilo herreriano' o desornamentado, caracterizado por la pureza de líneas geométricas, pirámides y bolas de granito en los remates y tejados de pizarra inclinados de influencia flamenca. El complejo integra armónicamente la Basílica de cúpula monumental, el Panteón de Reyes, las celdas del monasterio jerónimo, el Palacio Real y una suntuosa Biblioteca humanista con frescos alegóricos de Pellegrino Tibaldi.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "El Real Monasterio de San Lorenzo de El Escorial, concebido por el rey Felipe II y levantado en la sierra de Guadarrama entre 1563 y 1584 por los arquitectos Juan Bautista de Toledo y, fundamentalmente, Juan de Herrera (1530–1597), es el monumento cumbre del Renacimiento español y la manifestación pétrea de la Monarquía Hispánica en el cenit de su poder imperial. Construido en granito gris con planta ortogonal en forma de parrilla en honor al martirio de San Lorenzo, El Escorial materializa los ideales de orden, simetría y severidad ascética de la Contrarreforma católica emanada del Concilio de Trento. Juan de Herrera depuró la ornamentación plateresca para alumbrar el 'estilo herreriano' o desornamentado, caracterizado por la pureza de líneas geométricas, pirámides y bolas de granito en los remates y tejados de pizarra inclinados de influencia flamenca. El complejo integra armónicamente la Basílica de cúpula monumental, el Panteón de Reyes, las celdas del monasterio jerónimo, el Palacio Real y una suntuosa Biblioteca humanista con frescos alegóricos de Pellegrino Tibaldi.",
       "examples": [
         {
           "target": "La imponente fachada de granito de El Escorial refleja el rigor matemático y la austeridad de Juan de Herrera.",
@@ -19566,7 +19566,7 @@
     "title": "Maestros Contemporáneos: Santiago Calatrava, Rafael Moneo y la Vanguardia Arquitectónica",
     "objective": "Examinar el impacto global de la arquitectura española contemporánea a través de las obras maestras de Rafael Moneo (Prêmio Pritzker 1996, Ampliación del Museo del Prado, Kursaal) y Santiago Calatrava (Ciudad de las Artes y las Ciencias, ingeniería escultórica y estructuras zoomórficas cinéticas).",
     "presentation": {
-      "explanation": "La arquitectura española de finales del siglo XX y principios del XXI ha conquistado un protagonismo de primer orden en el panorama internacional, simbolizado en dos figuras universales de enfoques complementarios: Rafael Moneo y Santiago Calatrava. Rafael Moneo (1937, primer arquitecto español galardonado con el Premio Pritzker en 1996) encarna la sobriedad conceptual, la sabiduría tectónica y el respeto dialéctico por el contexto urbano e histórico. Obras como el Palacio de Congresos Kursaal en San Sebastián ('dos rocas varadas' de vidrio translúcido frente al mar Cantábrico), el Museo Nacional de Arte Romano de Mérida con sus naves de ladrillo romano y el Claustro de los Jerónimos en la ampliación del Museo del Prado en Madrid demuestran cómo la modernidad puede dialogar con la memoria sin estridencias. En el polo de la ingeniería plástica monumental, Santiago Calatrava (1951, arquitecto, ingeniero de caminos y escultor) ha asombrado al mundo con sus complejas estructuras zoomórficas y cinéticas en hormigón blanco y acero, destacando el complejo futurista de la Ciudad de las Artes y las Ciencias en Valencia y puentes de arpa atirantados que desafían la gravedad en todo el planeta.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "La arquitectura española de finales del siglo XX y principios del XXI ha conquistado un protagonismo de primer orden en el panorama internacional, simbolizado en dos figuras universales de enfoques complementarios: Rafael Moneo y Santiago Calatrava. Rafael Moneo (1937, primer arquitecto español galardonado con el Premio Pritzker en 1996) encarna la sobriedad conceptual, la sabiduría tectónica y el respeto dialéctico por el contexto urbano e histórico. Obras como el Palacio de Congresos Kursaal en San Sebastián ('dos rocas varadas' de vidrio translúcido frente al mar Cantábrico), el Museo Nacional de Arte Romano de Mérida con sus naves de ladrillo romano y el Claustro de los Jerónimos en la ampliación del Museo del Prado en Madrid demuestran cómo la modernidad puede dialogar con la memoria sin estridencias. En el polo de la ingeniería plástica monumental, Santiago Calatrava (1951, arquitecto, ingeniero de caminos y escultor) ha asombrado al mundo con sus complejas estructuras zoomórficas y cinéticas en hormigón blanco y acero, destacando el complejo futurista de la Ciudad de las Artes y las Ciencias en Valencia y puentes de arpa atirantados que desafían la gravedad en todo el planeta.",
       "examples": [
         {
           "target": "Los cubos de vidrio traslúcido del Kursaal de Rafael Moneo resplandecen como faros de luz nocturna frente al mar Cantábrico.",
@@ -19665,7 +19665,7 @@
     "level": "C2",
     "objective": "Diplomatic Protocols, Credentials & High-Level Bilateral Negotiations (Protocolo Diplomático y Tratados Bilaterales).",
     "presentation": {
-      "explanation": "En el ámbito diplomático de nivel C2, el registro lingüístico exige una precisión absoluta, cortesía formalizada y dominio de fórmulas solemnes como las cartas credenciales (*cartas credenciales*), la inmunidad diplomática (*inmunidad diplomática*), y el plácet (*plácet*). La estructura sintáctica recurre frecuentemente a construcciones pasivas con \"se\" y al subjuntivo para atenuar posturas y preservar la cortesía institucional.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "En el ámbito diplomático de nivel C2, el registro lingüístico exige una precisión absoluta, cortesía formalizada y dominio de fórmulas solemnes como las cartas credenciales (*cartas credenciales*), la inmunidad diplomática (*inmunidad diplomática*), y el plácet (*plácet*). La estructura sintáctica recurre frecuentemente a construcciones pasivas con \"se\" y al subjuntivo para atenuar posturas y preservar la cortesía institucional.",
       "examples": [
         {
           "target": "El embajador presentó sus cartas credenciales ante el jefe de Estado.",
@@ -19760,7 +19760,7 @@
     "level": "C2",
     "objective": "Multilateral Treaties, Ratification & Treaty Reservations (Tratados Multilaterales y Ratificación).",
     "presentation": {
-      "explanation": "El derecho de los tratados (Convención de Viena de 1969) exige dominar distinciones precisas entre la firma *ad referéndum*, la ratificación por el órgano legislativo, el depósito de instrumentos y las reservas formuladas a cláusulas específicas. Se emplean perífrasis modales y verbos jurídicos como *supeditar*, *vincular*, *dirimir* y *adscribirse*.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "El derecho de los tratados (Convención de Viena de 1969) exige dominar distinciones precisas entre la firma *ad referéndum*, la ratificación por el órgano legislativo, el depósito de instrumentos y las reservas formuladas a cláusulas específicas. Se emplean perífrasis modales y verbos jurídicos como *supeditar*, *vincular*, *dirimir* y *adscribirse*.",
       "examples": [
         {
           "target": "El instrumento de ratificación fue depositado en la Secretaría General.",
@@ -19843,7 +19843,7 @@
     "level": "C2",
     "objective": "Peacekeeping Mandates, Conflict Resolution & Armistice Agreements (Misiones de Paz y Armisticios).",
     "presentation": {
-      "explanation": "El análisis de la resolución de conflictos internacionales requiere terminología especializada: el alto el fuego (*cese al fuego*), la demarcación de zonas desmilitarizadas, el despliegue de cascos azules (*fuerzas de mantenimiento de la paz*) y la mediación neutral vinculante.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "El análisis de la resolución de conflictos internacionales requiere terminología especializada: el alto el fuego (*cese al fuego*), la demarcación de zonas desmilitarizadas, el despliegue de cascos azules (*fuerzas de mantenimiento de la paz*) y la mediación neutral vinculante.",
       "examples": [
         {
           "target": "El Consejo de Seguridad renovó por unanimidad el mandato de la misión de paz.",
@@ -19926,7 +19926,7 @@
     "level": "C2",
     "objective": "International Sanctions, Embargoes & Extraterritorial Jurisdiction (Sanciones Internacionales y Jurisdicción Extraterritorial).",
     "presentation": {
-      "explanation": "En este nivel se examina el léxico de las medidas coercitivas no armadas: embargos comerciales, congelación de activos soberanos (*congelación de activos*), tribunales *ad hoc*, y la aplicación del principio de jurisdicción universal en crímenes de lesa humanidad.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "En este nivel se examina el léxico de las medidas coercitivas no armadas: embargos comerciales, congelación de activos soberanos (*congelación de activos*), tribunales *ad hoc*, y la aplicación del principio de jurisdicción universal en crímenes de lesa humanidad.",
       "examples": [
         {
           "target": "Las sanciones económicas contemplan la congelación cautelar de activos bancarios.",
@@ -20009,7 +20009,7 @@
     "level": "C2",
     "objective": "C2 Capstone Defense: Multilateral Communiqué Drafting & High-Stakes Diplomacy Simulation (Cumbre Diplomática y Comunicado Final).",
     "presentation": {
-      "explanation": "El ejercicio de maestría C2 consiste en la redacción y defensa de un Comunicado Conjunto (*Declaración Conjunta*) que sintetice compromisos vinculantes, mecanismos de seguimiento (*mecanismos de seguimiento*) y cláusulas de salvaguardia sin romper el consenso unánime entre delegaciones soberanas.\n\n### Texto de Inmersión y Análisis Estructural (Spanish C1/C2)\nEn esta lección avanzada, profundizamos en las estructuras retóricas, la precisión estilística y el léxico especializado indispensable para la fluidez profesional.\n\n**Puntos clave de dominio:**\n1. Cohesión discursiva y conectores argumentativos.\n2. Registro formal, matices pragmáticos y adecuación contextual.\n3. Vocabulario técnico, diplomático y literario avanzado.",
+      "explanation": "El ejercicio de maestría C2 consiste en la redacción y defensa de un Comunicado Conjunto (*Declaración Conjunta*) que sintetice compromisos vinculantes, mecanismos de seguimiento (*mecanismos de seguimiento*) y cláusulas de salvaguardia sin romper el consenso unánime entre delegaciones soberanas.",
       "examples": [
         {
           "target": "Los Estados parte reafirman su compromiso irrenunciable con la solución pacífica de controversias.",

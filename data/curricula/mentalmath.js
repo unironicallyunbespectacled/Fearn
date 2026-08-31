@@ -1224,7 +1224,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 1, what is the exact result?",
           "options": [
             "2,050",
             "1,825",
@@ -1381,7 +1381,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 2, what is the exact result?",
           "options": [
             "(50 x 46) + 2² = 2,300 + 4 = 2,304",
             "(40 x 56) + 8² = 2,240 + 64 = 2,304",
@@ -1538,7 +1538,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 3, what is the exact result?",
           "options": [
             "6",
             "12",
@@ -1695,7 +1695,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 4, what is the exact result?",
           "options": [
             "0.375",
             "0.325",
@@ -1854,7 +1854,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 5, what is the exact result?",
           "options": [
             "9,025",
             "9,525",
@@ -2012,7 +2012,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 1, what is the exact result?",
           "options": [
             "x = 6",
             "x = 8",
@@ -2147,7 +2147,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 2, what is the exact result?",
           "options": [
             "2,496",
             "2,494",
@@ -2282,7 +2282,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 3, what is the exact result?",
           "options": [
             "$6.80",
             "$7.60",
@@ -2417,7 +2417,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 4, what is the exact result?",
           "options": [
             "~2,000,000",
             "~20,000,000",
@@ -2552,7 +2552,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 5, what is the exact result?",
           "options": [
             "x = 11",
             "x = 10",
@@ -2681,7 +2681,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 1, what is the exact result?",
           "options": [
             "620",
             "640",
@@ -2810,7 +2810,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 2, what is the exact result?",
           "options": [
             "600",
             "620",
@@ -2939,7 +2939,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 3, what is the exact result?",
           "options": [
             "8",
             "10",
@@ -3068,7 +3068,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 4, what is the exact result?",
           "options": [
             "0",
             "1",
@@ -3197,7 +3197,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 5, what is the exact result?",
           "options": [
             "5,000 ((75 + 25)(75 - 25) = 100 × 50 = 5,000",
             "4,800",
@@ -3326,7 +3326,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 1, what is the exact result?",
           "options": [
             "2,226",
             "2,246",
@@ -3455,7 +3455,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 2, what is the exact result?",
           "options": [
             "84",
             "94",
@@ -3584,7 +3584,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 3, what is the exact result?",
           "options": [
             "Wednesday",
             "Friday",
@@ -3713,7 +3713,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 4, what is the exact result?",
           "options": [
             "Because it uses quantum mechanics",
             "Because independent errors in sub-estimates tend to be log-normally distributed, causing multiplicative overestimates and underestimates to cancel each other out",
@@ -3842,7 +3842,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 5, what is the exact result?",
           "options": [
             "1,692",
             "1,682",
@@ -3976,7 +3976,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 1, what is the exact result?",
           "options": [
             "(3 x 2) + (2 x 1) = 8",
             "3 x 2 x 1 = 6",
@@ -4110,7 +4110,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 2, what is the exact result?",
           "options": [
             "11,445",
             "11,545",
@@ -4244,7 +4244,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 3, what is the exact result?",
           "options": [
             "2,015",
             "2,125",
@@ -4378,7 +4378,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 4, what is the exact result?",
           "options": [
             "692",
             "682",
@@ -4517,7 +4517,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 5, what is the exact result?",
           "options": [
             "N(N+1)|25",
             "Criss-cross multiplication",

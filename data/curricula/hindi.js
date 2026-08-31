@@ -2,482 +2,482 @@
 (function (global) {
   'use strict';
   var UNITS = [
-    {
-        "id": "hi-u1",
-        "unit": 1,
-        "title": "देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings)",
-        "level": "A1",
-        "goal": "Mastery of नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness).",
-        "lessonIds": [
-            "hi-u1-l1",
-            "hi-u1-l2",
-            "hi-u1-l3",
-            "hi-u1-l4",
-            "hi-u1-l5"
-        ]
-    },
-    {
-        "id": "hi-u2",
-        "unit": 2,
-        "title": "संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals)",
-        "level": "A1",
-        "goal": "Mastery of संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules).",
-        "lessonIds": [
-            "hi-u2-l1",
-            "hi-u2-l2",
-            "hi-u2-l3",
-            "hi-u2-l4",
-            "hi-u2-l5"
-        ]
-    },
-    {
-        "id": "hi-u3",
-        "unit": 3,
-        "title": "सर्वनाम और संबंधबोधक परसर्ग (Pronouns & Postpositions)",
-        "level": "A1",
-        "goal": "Mastery of सर्वनाम और परसर्ग (Pronouns & Postpositions: में/पर/से).",
-        "lessonIds": [
-            "hi-u3-l1",
-            "hi-u3-l2",
-            "hi-u3-l3",
-            "hi-u3-l4",
-            "hi-u3-l5"
-        ]
-    },
-    {
-        "id": "hi-u4",
-        "unit": 4,
-        "title": "सामान्य वर्तमान काल (Present Habitual Tense - ता/ती/ते)",
-        "level": "A1",
-        "goal": "Mastery of सामान्य वर्तमान काल (Present Habitual Tense).",
-        "lessonIds": [
-            "hi-u4-l1",
-            "hi-u4-l2",
-            "hi-u4-l3",
-            "hi-u4-l4",
-            "hi-u4-l5"
-        ]
-    },
-    {
-        "id": "hi-u5",
-        "unit": 5,
-        "title": "अपूर्ण वर्तमान काल (Present Continuous Tense - रहा/रही/रहे)",
-        "level": "A1",
-        "goal": "Mastery of वर्तमान निरंतर काल (Present Continuous: रहा/रही है).",
-        "lessonIds": [
-            "hi-u5-l1",
-            "hi-u5-l2",
-            "hi-u5-l3",
-            "hi-u5-l4",
-            "hi-u5-l5"
-        ]
-    },
-    {
-        "id": "hi-u6",
-        "unit": 6,
-        "title": "सामान्य भूतकाल और ने-नियम (Simple Past & Ergative ने)",
-        "level": "A2",
-        "goal": "Mastery of भूतकाल और ने परसर्ग का नियम (Simple Past with ने).",
-        "lessonIds": [
-            "hi-u6-l1",
-            "hi-u6-l2",
-            "hi-u6-l3",
-            "hi-u6-l4",
-            "hi-u6-l5"
-        ]
-    },
-    {
-        "id": "hi-u7",
-        "unit": 7,
-        "title": "पूर्ण भूतकाल और अपूर्ण भूतकाल (Past Perfect & Imperfect)",
-        "level": "A2",
-        "goal": "Mastery of पूर्ण और अपूर्ण भूतकाल (Past Perfect & Continuous).",
-        "lessonIds": [
-            "hi-u7-l1",
-            "hi-u7-l2",
-            "hi-u7-l3",
-            "hi-u7-l4",
-            "hi-u7-l5"
-        ]
-    },
-    {
-        "id": "hi-u8",
-        "unit": 8,
-        "title": "भविष्यत् काल और विनम्र अनुरोध (Future Tense & Polite)",
-        "level": "A2",
-        "goal": "Mastery of भविष्यत् काल और अनुरोध (Future Tense & Polite Requests).",
-        "lessonIds": [
-            "hi-u8-l1",
-            "hi-u8-l2",
-            "hi-u8-l3",
-            "hi-u8-l4",
-            "hi-u8-l5"
-        ]
-    },
-    {
-        "id": "hi-u9",
-        "unit": 9,
-        "title": "अनिवार्यता और चाहिए संरचनाएं (Obligation with चाहिए)",
-        "level": "A2",
-        "goal": "Mastery of चाहिए का प्रयोग (Obligation with चाहिए).",
-        "lessonIds": [
-            "hi-u9-l1",
-            "hi-u9-l2",
-            "hi-u9-l3",
-            "hi-u9-l4",
-            "hi-u9-l5"
-        ]
-    },
-    {
-        "id": "hi-u10",
-        "unit": 10,
-        "title": "मजबूरी और बाध्यता: पड़ना/होना (Compulsion with पड़ना)",
-        "level": "A2",
-        "goal": "Mastery of बाध्यता पड़ना और होना (Compulsion with पड़ना).",
-        "lessonIds": [
-            "hi-u10-l1",
-            "hi-u10-l2",
-            "hi-u10-l3",
-            "hi-u10-l4",
-            "hi-u10-l5"
-        ]
-    },
-    {
-        "id": "hi-u11",
-        "unit": 11,
-        "title": "अधिकार और स्वामित्व: का/के/की एवं के पास (Possession)",
-        "level": "B1",
-        "goal": "Mastery of स्वामित्व का/के/की और के पास (Possession Expressions).",
-        "lessonIds": [
-            "hi-u11-l1",
-            "hi-u11-l2",
-            "hi-u11-l3",
-            "hi-u11-l4",
-            "hi-u11-l5"
-        ]
-    },
-    {
-        "id": "hi-u12",
-        "unit": 12,
-        "title": "संयुक्त क्रियाएं और सहायक धातुएं (Compound Verbs)",
-        "level": "B1",
-        "goal": "Mastery of संयुक्त क्रियाएं लेना/देना/जाना (Compound Verbs).",
-        "lessonIds": [
-            "hi-u12-l1",
-            "hi-u12-l2",
-            "hi-u12-l3",
-            "hi-u12-l4",
-            "hi-u12-l5"
-        ]
-    },
-    {
-        "id": "hi-u13",
-        "unit": 13,
-        "title": "संभावनार्थ और इच्छार्थक क्रियाएं (Subjunctive Mood)",
-        "level": "B1",
-        "goal": "Mastery of संभावना और इच्छा सूचक क्रियाएं (Subjunctive Mood).",
-        "lessonIds": [
-            "hi-u13-l1",
-            "hi-u13-l2",
-            "hi-u13-l3",
-            "hi-u13-l4",
-            "hi-u13-l5"
-        ]
-    },
-    {
-        "id": "hi-u14",
-        "unit": 14,
-        "title": "पूर्वकालिक क्रिया: कर-प्रत्यय (Conjunctive Participles)",
-        "level": "B1",
-        "goal": "Mastery of कर प्रत्यय वाली पूर्वकालिक क्रिया (Conjunctive Participles with कर).",
-        "lessonIds": [
-            "hi-u14-l1",
-            "hi-u14-l2",
-            "hi-u14-l3",
-            "hi-u14-l4",
-            "hi-u14-l5"
-        ]
-    },
-    {
-        "id": "hi-u15",
-        "unit": 15,
-        "title": "संबंधवाचक-नित्यसंबंधी वाक्य: जो...वह (Correlatives)",
-        "level": "B1",
-        "goal": "Mastery of जो...वह संबंधवाचक वाक्य (Relative Correlatives).",
-        "lessonIds": [
-            "hi-u15-l1",
-            "hi-u15-l2",
-            "hi-u15-l3",
-            "hi-u15-l4",
-            "hi-u15-l5"
-        ]
-    },
-    {
-        "id": "hi-u16",
-        "unit": 16,
-        "title": "कर्मवाच्य संरचनाएं: जाना-सहायक (Passive Voice)",
-        "level": "B1",
-        "goal": "Mastery of कर्मवाच्य जाना सहायक क्रिया (Passive Voice with जाना).",
-        "lessonIds": [
-            "hi-u16-l1",
-            "hi-u16-l2",
-            "hi-u16-l3",
-            "hi-u16-l4",
-            "hi-u16-l5"
-        ]
-    },
-    {
-        "id": "hi-u17",
-        "unit": 17,
-        "title": "प्रेरणार्थक क्रियाएं: प्रथम व द्वितीय (Causatives)",
-        "level": "B2",
-        "goal": "Mastery of प्रेरणार्थक क्रियाएं (Causative Morphology: पढ़ाना/पढ़वाना).",
-        "lessonIds": [
-            "hi-u17-l1",
-            "hi-u17-l2",
-            "hi-u17-l3",
-            "hi-u17-l4",
-            "hi-u17-l5"
-        ]
-    },
-    {
-        "id": "hi-u18",
-        "unit": 18,
-        "title": "शर्तिया और हेतुहेतुमद् वाक्य (Conditionals)",
-        "level": "B2",
-        "goal": "Mastery of यदि...तो शर्तिया वाक्य (Conditionals: अगर...तो).",
-        "lessonIds": [
-            "hi-u18-l1",
-            "hi-u18-l2",
-            "hi-u18-l3",
-            "hi-u18-l4",
-            "hi-u18-l5"
-        ]
-    },
-    {
-        "id": "hi-u19",
-        "unit": 19,
-        "title": "अप्रत्यक्ष कथन और समुच्चयबोधक कि (Reported Speech)",
-        "level": "B2",
-        "goal": "Mastery of कि के साथ अप्रत्यक्ष कथन (Reported Speech with कि).",
-        "lessonIds": [
-            "hi-u19-l1",
-            "hi-u19-l2",
-            "hi-u19-l3",
-            "hi-u19-l4",
-            "hi-u19-l5"
-        ]
-    },
-    {
-        "id": "hi-u20",
-        "unit": 20,
-        "title": "व्यावसायिक हिंदी और पत्राचार (Corporate Hindi)",
-        "level": "B2",
-        "goal": "Mastery of व्यावसायिक संवाद और पत्राचार (Corporate Hindi).",
-        "lessonIds": [
-            "hi-u20-l1",
-            "hi-u20-l2",
-            "hi-u20-l3",
-            "hi-u20-l4",
-            "hi-u20-l5"
-        ]
-    },
-    {
-        "id": "hi-u21",
-        "unit": 21,
-        "title": "स्वास्थ्य, चिकित्सा और नैदानिक संवाद (Medical Hindi)",
-        "level": "B2",
-        "goal": "Mastery of चिकित्सा और स्वास्थ्य परामर्श (Medical Hindi).",
-        "lessonIds": [
-            "hi-u21-l1",
-            "hi-u21-l2",
-            "hi-u21-l3",
-            "hi-u21-l4",
-            "hi-u21-l5"
-        ]
-    },
-    {
-        "id": "hi-u22",
-        "unit": 22,
-        "title": "भारतीय व्यंजन, पाककला और आतिथ्य (Cuisine & Hospitality)",
-        "level": "B2",
-        "goal": "Mastery of भारतीय खानपान और आतिथ्य (Cuisine & Hospitality).",
-        "lessonIds": [
-            "hi-u22-l1",
-            "hi-u22-l2",
-            "hi-u22-l3",
-            "hi-u22-l4",
-            "hi-u22-l5"
-        ]
-    },
-    {
-        "id": "hi-u23",
-        "unit": 23,
-        "title": "सिनेमा, संगीत और कला समीक्षा (Cinema & Arts)",
-        "level": "B2",
-        "goal": "Mastery of सिनेमा और भारतीय संगीत (Cinema & Arts Criticism).",
-        "lessonIds": [
-            "hi-u23-l1",
-            "hi-u23-l2",
-            "hi-u23-l3",
-            "hi-u23-l4",
-            "hi-u23-l5"
-        ]
-    },
-    {
-        "id": "hi-u24",
-        "unit": 24,
-        "title": "बैंकिंग, वित्त और डिजिटल भुगतान (Banking & Finance)",
-        "level": "B2",
-        "goal": "Mastery of बैंकिंग और वित्तीय शब्दावली (Banking & Digital Finance).",
-        "lessonIds": [
-            "hi-u24-l1",
-            "hi-u24-l2",
-            "hi-u24-l3",
-            "hi-u24-l4",
-            "hi-u24-l5"
-        ]
-    },
-    {
-        "id": "hi-u25",
-        "unit": 25,
-        "title": "पर्यावरण, कृषि और मानसून जल प्रबंधन (Ecology & Agriculture)",
-        "level": "C1",
-        "goal": "Mastery of कृषि, पर्यावरण और मानसून (Ecology & Agriculture).",
-        "lessonIds": [
-            "hi-u25-l1",
-            "hi-u25-l2",
-            "hi-u25-l3",
-            "hi-u25-l4",
-            "hi-u25-l5"
-        ]
-    },
-    {
-        "id": "hi-u26",
-        "unit": 26,
-        "title": "संवैधानिक शासन और विधिक शब्दावली (Constitutional Law)",
-        "level": "C1",
-        "goal": "Mastery of संविधान और विधिक शब्दावली (Constitutional Law).",
-        "lessonIds": [
-            "hi-u26-l1",
-            "hi-u26-l2",
-            "hi-u26-l3",
-            "hi-u26-l4",
-            "hi-u26-l5"
-        ]
-    },
-    {
-        "id": "hi-u27",
-        "unit": 27,
-        "title": "हिंदी साहित्य, छायावाद और आधुनिक गद्य (Literature & Poetics)",
-        "level": "C1",
-        "goal": "Mastery of हिंदी साहित्य और काव्य (Hindi Literature & Poetry).",
-        "lessonIds": [
-            "hi-u27-l1",
-            "hi-u27-l2",
-            "hi-u27-l3",
-            "hi-u27-l4",
-            "hi-u27-l5"
-        ]
-    },
-    {
-        "id": "hi-u28",
-        "unit": 28,
-        "title": "पत्रकारिता, संपादकीय लेखन और मीडिया (Journalism & Media)",
-        "level": "C1",
-        "goal": "Mastery of पत्रकारिता और मीडिया विमर्श (Journalism & Editorial).",
-        "lessonIds": [
-            "hi-u28-l1",
-            "hi-u28-l2",
-            "hi-u28-l3",
-            "hi-u28-l4",
-            "hi-u28-l5"
-        ]
-    },
-    {
-        "id": "hi-u29",
-        "unit": 29,
-        "title": "दर्शनशास्त्र, वेदांत और नीतिशास्त्र (Philosophy & Ethics)",
-        "level": "C1",
-        "goal": "Mastery of भारतीय दर्शन और नीतिशास्त्र (Philosophy & Ethics).",
-        "lessonIds": [
-            "hi-u29-l1",
-            "hi-u29-l2",
-            "hi-u29-l3",
-            "hi-u29-l4",
-            "hi-u29-l5"
-        ]
-    },
-    {
-        "id": "hi-u30",
-        "unit": 30,
-        "title": "वैज्ञानिक अनुसंधान और तकनीकी विमर्श (Scientific Discourse)",
-        "level": "C1",
-        "goal": "Mastery of वैज्ञानिक शोध और तकनीक (Scientific Research).",
-        "lessonIds": [
-            "hi-u30-l1",
-            "hi-u30-l2",
-            "hi-u30-l3",
-            "hi-u30-l4",
-            "hi-u30-l5"
-        ]
-    },
-    {
-        "id": "hi-u31",
-        "unit": 31,
-        "title": "दक्षिण एशियाई भू-राजनीति और विदेश नीति (Geopolitics)",
-        "level": "C2",
-        "goal": "Mastery of भू-राजनीति और विदेश नीति (Geopolitics & Policy).",
-        "lessonIds": [
-            "hi-u31-l1",
-            "hi-u31-l2",
-            "hi-u31-l3",
-            "hi-u31-l4",
-            "hi-u31-l5"
-        ]
-    },
-    {
-        "id": "hi-u32",
-        "unit": 32,
-        "title": "राजनयिक शिष्टाचार और अंतर्राष्ट्रीय संधियां (Diplomacy)",
-        "level": "C2",
-        "goal": "Mastery of राजनय और अंतर्राष्ट्रीय संधियां (Diplomatic Treaties).",
-        "lessonIds": [
-            "hi-u32-l1",
-            "hi-u32-l2",
-            "hi-u32-l3",
-            "hi-u32-l4",
-            "hi-u32-l5"
-        ]
-    },
-    {
-        "id": "hi-u33",
-        "unit": 33,
-        "title": "उच्चस्तरीय मुहावरे और लोकोक्तियां (Advanced Idioms)",
-        "level": "C2",
-        "goal": "Mastery of मुहावरे और लोकोक्तियां (Idioms & Proverbs).",
-        "lessonIds": [
-            "hi-u33-l1",
-            "hi-u33-l2",
-            "hi-u33-l3",
-            "hi-u33-l4",
-            "hi-u33-l5"
-        ]
-    },
-    {
-        "id": "hi-u34",
-        "unit": 34,
-        "title": "शिखर सम्मेलन और नीति वक्तव्य (C2 Capstone Statecraft)",
-        "level": "C2",
-        "goal": "Mastery of शिखर सम्मेलन और नीतिगत वक्तव्य (C2 Capstone Statecraft).",
-        "lessonIds": [
-            "hi-u34-l1",
-            "hi-u34-l2",
-            "hi-u34-l3",
-            "hi-u34-l4",
-            "hi-u34-l5"
-        ]
-    }
+  {
+    "id": "hi-u1",
+    "unit": 1,
+    "title": "देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings)",
+    "level": "A1",
+    "goal": "Mastery of नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness).",
+    "lessonIds": [
+      "hi-u1-l1",
+      "hi-u1-l2",
+      "hi-u1-l3",
+      "hi-u1-l4",
+      "hi-u1-l5"
+    ]
+  },
+  {
+    "id": "hi-u2",
+    "unit": 2,
+    "title": "संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals)",
+    "level": "A1",
+    "goal": "Mastery of संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules).",
+    "lessonIds": [
+      "hi-u2-l1",
+      "hi-u2-l2",
+      "hi-u2-l3",
+      "hi-u2-l4",
+      "hi-u2-l5"
+    ]
+  },
+  {
+    "id": "hi-u3",
+    "unit": 3,
+    "title": "सर्वनाम और संबंधबोधक परसर्ग (Pronouns & Postpositions)",
+    "level": "A1",
+    "goal": "Mastery of सर्वनाम और परसर्ग (Pronouns & Postpositions: में/पर/से).",
+    "lessonIds": [
+      "hi-u3-l1",
+      "hi-u3-l2",
+      "hi-u3-l3",
+      "hi-u3-l4",
+      "hi-u3-l5"
+    ]
+  },
+  {
+    "id": "hi-u4",
+    "unit": 4,
+    "title": "सामान्य वर्तमान काल (Present Habitual Tense - ता/ती/ते)",
+    "level": "A1",
+    "goal": "Mastery of सामान्य वर्तमान काल (Present Habitual Tense).",
+    "lessonIds": [
+      "hi-u4-l1",
+      "hi-u4-l2",
+      "hi-u4-l3",
+      "hi-u4-l4",
+      "hi-u4-l5"
+    ]
+  },
+  {
+    "id": "hi-u5",
+    "unit": 5,
+    "title": "अपूर्ण वर्तमान काल (Present Continuous Tense - रहा/रही/रहे)",
+    "level": "A1",
+    "goal": "Mastery of वर्तमान निरंतर काल (Present Continuous: रहा/रही है).",
+    "lessonIds": [
+      "hi-u5-l1",
+      "hi-u5-l2",
+      "hi-u5-l3",
+      "hi-u5-l4",
+      "hi-u5-l5"
+    ]
+  },
+  {
+    "id": "hi-u6",
+    "unit": 6,
+    "title": "सामान्य भूतकाल और ने-नियम (Simple Past & Ergative ने)",
+    "level": "A2",
+    "goal": "Mastery of भूतकाल और ने परसर्ग का नियम (Simple Past with ने).",
+    "lessonIds": [
+      "hi-u6-l1",
+      "hi-u6-l2",
+      "hi-u6-l3",
+      "hi-u6-l4",
+      "hi-u6-l5"
+    ]
+  },
+  {
+    "id": "hi-u7",
+    "unit": 7,
+    "title": "पूर्ण भूतकाल और अपूर्ण भूतकाल (Past Perfect & Imperfect)",
+    "level": "A2",
+    "goal": "Mastery of पूर्ण और अपूर्ण भूतकाल (Past Perfect & Continuous).",
+    "lessonIds": [
+      "hi-u7-l1",
+      "hi-u7-l2",
+      "hi-u7-l3",
+      "hi-u7-l4",
+      "hi-u7-l5"
+    ]
+  },
+  {
+    "id": "hi-u8",
+    "unit": 8,
+    "title": "भविष्यत् काल और विनम्र अनुरोध (Future Tense & Polite)",
+    "level": "A2",
+    "goal": "Mastery of भविष्यत् काल और अनुरोध (Future Tense & Polite Requests).",
+    "lessonIds": [
+      "hi-u8-l1",
+      "hi-u8-l2",
+      "hi-u8-l3",
+      "hi-u8-l4",
+      "hi-u8-l5"
+    ]
+  },
+  {
+    "id": "hi-u9",
+    "unit": 9,
+    "title": "अनिवार्यता और चाहिए संरचनाएं (Obligation with चाहिए)",
+    "level": "A2",
+    "goal": "Mastery of चाहिए का प्रयोग (Obligation with चाहिए).",
+    "lessonIds": [
+      "hi-u9-l1",
+      "hi-u9-l2",
+      "hi-u9-l3",
+      "hi-u9-l4",
+      "hi-u9-l5"
+    ]
+  },
+  {
+    "id": "hi-u10",
+    "unit": 10,
+    "title": "मजबूरी और बाध्यता: पड़ना/होना (Compulsion with पड़ना)",
+    "level": "A2",
+    "goal": "Mastery of बाध्यता पड़ना और होना (Compulsion with पड़ना).",
+    "lessonIds": [
+      "hi-u10-l1",
+      "hi-u10-l2",
+      "hi-u10-l3",
+      "hi-u10-l4",
+      "hi-u10-l5"
+    ]
+  },
+  {
+    "id": "hi-u11",
+    "unit": 11,
+    "title": "अधिकार और स्वामित्व: का/के/की एवं के पास (Possession)",
+    "level": "B1",
+    "goal": "Mastery of स्वामित्व का/के/की और के पास (Possession Expressions).",
+    "lessonIds": [
+      "hi-u11-l1",
+      "hi-u11-l2",
+      "hi-u11-l3",
+      "hi-u11-l4",
+      "hi-u11-l5"
+    ]
+  },
+  {
+    "id": "hi-u12",
+    "unit": 12,
+    "title": "संयुक्त क्रियाएं और सहायक धातुएं (Compound Verbs)",
+    "level": "B1",
+    "goal": "Mastery of संयुक्त क्रियाएं लेना/देना/जाना (Compound Verbs).",
+    "lessonIds": [
+      "hi-u12-l1",
+      "hi-u12-l2",
+      "hi-u12-l3",
+      "hi-u12-l4",
+      "hi-u12-l5"
+    ]
+  },
+  {
+    "id": "hi-u13",
+    "unit": 13,
+    "title": "संभावनार्थ और इच्छार्थक क्रियाएं (Subjunctive Mood)",
+    "level": "B1",
+    "goal": "Mastery of संभावना और इच्छा सूचक क्रियाएं (Subjunctive Mood).",
+    "lessonIds": [
+      "hi-u13-l1",
+      "hi-u13-l2",
+      "hi-u13-l3",
+      "hi-u13-l4",
+      "hi-u13-l5"
+    ]
+  },
+  {
+    "id": "hi-u14",
+    "unit": 14,
+    "title": "पूर्वकालिक क्रिया: कर-प्रत्यय (Conjunctive Participles)",
+    "level": "B1",
+    "goal": "Mastery of कर प्रत्यय वाली पूर्वकालिक क्रिया (Conjunctive Participles with कर).",
+    "lessonIds": [
+      "hi-u14-l1",
+      "hi-u14-l2",
+      "hi-u14-l3",
+      "hi-u14-l4",
+      "hi-u14-l5"
+    ]
+  },
+  {
+    "id": "hi-u15",
+    "unit": 15,
+    "title": "संबंधवाचक-नित्यसंबंधी वाक्य: जो...वह (Correlatives)",
+    "level": "B1",
+    "goal": "Mastery of जो...वह संबंधवाचक वाक्य (Relative Correlatives).",
+    "lessonIds": [
+      "hi-u15-l1",
+      "hi-u15-l2",
+      "hi-u15-l3",
+      "hi-u15-l4",
+      "hi-u15-l5"
+    ]
+  },
+  {
+    "id": "hi-u16",
+    "unit": 16,
+    "title": "कर्मवाच्य संरचनाएं: जाना-सहायक (Passive Voice)",
+    "level": "B1",
+    "goal": "Mastery of कर्मवाच्य जाना सहायक क्रिया (Passive Voice with जाना).",
+    "lessonIds": [
+      "hi-u16-l1",
+      "hi-u16-l2",
+      "hi-u16-l3",
+      "hi-u16-l4",
+      "hi-u16-l5"
+    ]
+  },
+  {
+    "id": "hi-u17",
+    "unit": 17,
+    "title": "प्रेरणार्थक क्रियाएं: प्रथम व द्वितीय (Causatives)",
+    "level": "B2",
+    "goal": "Mastery of प्रेरणार्थक क्रियाएं (Causative Morphology: पढ़ाना/पढ़वाना).",
+    "lessonIds": [
+      "hi-u17-l1",
+      "hi-u17-l2",
+      "hi-u17-l3",
+      "hi-u17-l4",
+      "hi-u17-l5"
+    ]
+  },
+  {
+    "id": "hi-u18",
+    "unit": 18,
+    "title": "शर्तिया और हेतुहेतुमद् वाक्य (Conditionals)",
+    "level": "B2",
+    "goal": "Mastery of यदि...तो शर्तिया वाक्य (Conditionals: अगर...तो).",
+    "lessonIds": [
+      "hi-u18-l1",
+      "hi-u18-l2",
+      "hi-u18-l3",
+      "hi-u18-l4",
+      "hi-u18-l5"
+    ]
+  },
+  {
+    "id": "hi-u19",
+    "unit": 19,
+    "title": "अप्रत्यक्ष कथन और समुच्चयबोधक कि (Reported Speech)",
+    "level": "B2",
+    "goal": "Mastery of कि के साथ अप्रत्यक्ष कथन (Reported Speech with कि).",
+    "lessonIds": [
+      "hi-u19-l1",
+      "hi-u19-l2",
+      "hi-u19-l3",
+      "hi-u19-l4",
+      "hi-u19-l5"
+    ]
+  },
+  {
+    "id": "hi-u20",
+    "unit": 20,
+    "title": "व्यावसायिक हिंदी और पत्राचार (Corporate Hindi)",
+    "level": "B2",
+    "goal": "Mastery of व्यावसायिक संवाद और पत्राचार (Corporate Hindi).",
+    "lessonIds": [
+      "hi-u20-l1",
+      "hi-u20-l2",
+      "hi-u20-l3",
+      "hi-u20-l4",
+      "hi-u20-l5"
+    ]
+  },
+  {
+    "id": "hi-u21",
+    "unit": 21,
+    "title": "स्वास्थ्य, चिकित्सा और नैदानिक संवाद (Medical Hindi)",
+    "level": "B2",
+    "goal": "Mastery of चिकित्सा और स्वास्थ्य परामर्श (Medical Hindi).",
+    "lessonIds": [
+      "hi-u21-l1",
+      "hi-u21-l2",
+      "hi-u21-l3",
+      "hi-u21-l4",
+      "hi-u21-l5"
+    ]
+  },
+  {
+    "id": "hi-u22",
+    "unit": 22,
+    "title": "भारतीय व्यंजन, पाककला और आतिथ्य (Cuisine & Hospitality)",
+    "level": "B2",
+    "goal": "Mastery of भारतीय खानपान और आतिथ्य (Cuisine & Hospitality).",
+    "lessonIds": [
+      "hi-u22-l1",
+      "hi-u22-l2",
+      "hi-u22-l3",
+      "hi-u22-l4",
+      "hi-u22-l5"
+    ]
+  },
+  {
+    "id": "hi-u23",
+    "unit": 23,
+    "title": "सिनेमा, संगीत और कला समीक्षा (Cinema & Arts)",
+    "level": "B2",
+    "goal": "Mastery of सिनेमा और भारतीय संगीत (Cinema & Arts Criticism).",
+    "lessonIds": [
+      "hi-u23-l1",
+      "hi-u23-l2",
+      "hi-u23-l3",
+      "hi-u23-l4",
+      "hi-u23-l5"
+    ]
+  },
+  {
+    "id": "hi-u24",
+    "unit": 24,
+    "title": "बैंकिंग, वित्त और डिजिटल भुगतान (Banking & Finance)",
+    "level": "B2",
+    "goal": "Mastery of बैंकिंग और वित्तीय शब्दावली (Banking & Digital Finance).",
+    "lessonIds": [
+      "hi-u24-l1",
+      "hi-u24-l2",
+      "hi-u24-l3",
+      "hi-u24-l4",
+      "hi-u24-l5"
+    ]
+  },
+  {
+    "id": "hi-u25",
+    "unit": 25,
+    "title": "पर्यावरण, कृषि और मानसून जल प्रबंधन (Ecology & Agriculture)",
+    "level": "C1",
+    "goal": "Mastery of कृषि, पर्यावरण और मानसून (Ecology & Agriculture).",
+    "lessonIds": [
+      "hi-u25-l1",
+      "hi-u25-l2",
+      "hi-u25-l3",
+      "hi-u25-l4",
+      "hi-u25-l5"
+    ]
+  },
+  {
+    "id": "hi-u26",
+    "unit": 26,
+    "title": "संवैधानिक शासन और विधिक शब्दावली (Constitutional Law)",
+    "level": "C1",
+    "goal": "Mastery of संविधान और विधिक शब्दावली (Constitutional Law).",
+    "lessonIds": [
+      "hi-u26-l1",
+      "hi-u26-l2",
+      "hi-u26-l3",
+      "hi-u26-l4",
+      "hi-u26-l5"
+    ]
+  },
+  {
+    "id": "hi-u27",
+    "unit": 27,
+    "title": "हिंदी साहित्य, छायावाद और आधुनिक गद्य (Literature & Poetics)",
+    "level": "C1",
+    "goal": "Mastery of हिंदी साहित्य और काव्य (Hindi Literature & Poetry).",
+    "lessonIds": [
+      "hi-u27-l1",
+      "hi-u27-l2",
+      "hi-u27-l3",
+      "hi-u27-l4",
+      "hi-u27-l5"
+    ]
+  },
+  {
+    "id": "hi-u28",
+    "unit": 28,
+    "title": "पत्रकारिता, संपादकीय लेखन और मीडिया (Journalism & Media)",
+    "level": "C1",
+    "goal": "Mastery of पत्रकारिता और मीडिया विमर्श (Journalism & Editorial).",
+    "lessonIds": [
+      "hi-u28-l1",
+      "hi-u28-l2",
+      "hi-u28-l3",
+      "hi-u28-l4",
+      "hi-u28-l5"
+    ]
+  },
+  {
+    "id": "hi-u29",
+    "unit": 29,
+    "title": "दर्शनशास्त्र, वेदांत और नीतिशास्त्र (Philosophy & Ethics)",
+    "level": "C1",
+    "goal": "Mastery of भारतीय दर्शन और नीतिशास्त्र (Philosophy & Ethics).",
+    "lessonIds": [
+      "hi-u29-l1",
+      "hi-u29-l2",
+      "hi-u29-l3",
+      "hi-u29-l4",
+      "hi-u29-l5"
+    ]
+  },
+  {
+    "id": "hi-u30",
+    "unit": 30,
+    "title": "वैज्ञानिक अनुसंधान और तकनीकी विमर्श (Scientific Discourse)",
+    "level": "C1",
+    "goal": "Mastery of वैज्ञानिक शोध और तकनीक (Scientific Research).",
+    "lessonIds": [
+      "hi-u30-l1",
+      "hi-u30-l2",
+      "hi-u30-l3",
+      "hi-u30-l4",
+      "hi-u30-l5"
+    ]
+  },
+  {
+    "id": "hi-u31",
+    "unit": 31,
+    "title": "दक्षिण एशियाई भू-राजनीति और विदेश नीति (Geopolitics)",
+    "level": "C2",
+    "goal": "Mastery of भू-राजनीति और विदेश नीति (Geopolitics & Policy).",
+    "lessonIds": [
+      "hi-u31-l1",
+      "hi-u31-l2",
+      "hi-u31-l3",
+      "hi-u31-l4",
+      "hi-u31-l5"
+    ]
+  },
+  {
+    "id": "hi-u32",
+    "unit": 32,
+    "title": "राजनयिक शिष्टाचार और अंतर्राष्ट्रीय संधियां (Diplomacy)",
+    "level": "C2",
+    "goal": "Mastery of राजनय और अंतर्राष्ट्रीय संधियां (Diplomatic Treaties).",
+    "lessonIds": [
+      "hi-u32-l1",
+      "hi-u32-l2",
+      "hi-u32-l3",
+      "hi-u32-l4",
+      "hi-u32-l5"
+    ]
+  },
+  {
+    "id": "hi-u33",
+    "unit": 33,
+    "title": "उच्चस्तरीय मुहावरे और लोकोक्तियां (Advanced Idioms)",
+    "level": "C2",
+    "goal": "Mastery of मुहावरे और लोकोक्तियां (Idioms & Proverbs).",
+    "lessonIds": [
+      "hi-u33-l1",
+      "hi-u33-l2",
+      "hi-u33-l3",
+      "hi-u33-l4",
+      "hi-u33-l5"
+    ]
+  },
+  {
+    "id": "hi-u34",
+    "unit": 34,
+    "title": "शिखर सम्मेलन और नीति वक्तव्य (C2 Capstone Statecraft)",
+    "level": "C2",
+    "goal": "Mastery of शिखर सम्मेलन और नीतिगत वक्तव्य (C2 Capstone Statecraft).",
+    "lessonIds": [
+      "hi-u34-l1",
+      "hi-u34-l2",
+      "hi-u34-l3",
+      "hi-u34-l4",
+      "hi-u34-l5"
+    ]
+  }
 ];
   var LESSONS = {
   "hi-u1-l1": {
@@ -535,10 +535,10 @@
         {
           "prompt": "What is the horizontal top line called from which Devanagari letters hang?",
           "options": [
-            "शिरोरेखा",
-            "मात्रा",
-            "अनुस्वार",
-            "हलंत"
+            "शिरोरेखा (Shirorekha - Top horizontal line)",
+            "मात्रा (Hindi reading)",
+            "अनुस्वार (Hindi reading)",
+            "हलंत (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«शिरोरेखा» (*Shirorekha*) is the characteristic horizontal line spanning across Devanagari words."
@@ -550,10 +550,10 @@
         {
           "prompt": "Which diacritic represents full nasalization with a crescent moon and dot above the letter (as in «माँ» / mother)?",
           "options": [
-            "चंद्रबिंदु",
-            "अनुस्वार",
-            "विसर्ग",
-            "हलंत"
+            "चंद्रबिंदु (Chandrabindu - Nasal sign)",
+            "अनुस्वार (Hindi reading)",
+            "विसर्ग (Hindi reading)",
+            "हलंत (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«चंद्रबिंदु» (ँ) marks true vowel nasalization."
@@ -561,10 +561,10 @@
         {
           "prompt": "Select the Hindi word meaning \"water\" spelled with «प» [p], «ा» [ā], «न» [n], «ी» [ī]:",
           "options": [
-            "पानी",
-            "किताब",
-            "माँ",
-            "नाम"
+            "पानी (Pānī - Water)",
+            "किताब (Hindi reading)",
+            "माँ (Hindi reading)",
+            "नाम (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«प» + «ा» + «न» + «ी» = «पानी» (*pānī* - water)."
@@ -651,10 +651,10 @@
         {
           "prompt": "Select the Hindi word meaning \"home / house\" spelled with voiced aspirated «घ» [gha] and «र» [ra]:",
           "options": [
-            "घर",
-            "फल",
-            "कमल",
-            "दिन"
+            "घर (Ghar - House)",
+            "फल (Hindi reading)",
+            "कमल (Hindi reading)",
+            "दिन (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«घ» + «र» = «घर» (*ghar* - home)."
@@ -666,10 +666,10 @@
         {
           "prompt": "Which consonant class is articulated with the tip of the tongue curled upward and back against the hard palate (retroflex)?",
           "options": [
-            "ट-वर्ग",
-            "त-वर्ग",
-            "प-वर्ग",
-            "क-वर्ग"
+            "ट-वर्ग (Retroflex series)",
+            "त-वर्ग (Hindi reading)",
+            "प-वर्ग (Hindi reading)",
+            "क-वर्ग (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«ट-वर्ग» (*ṭa-varga*) comprises the retroflex series of consonants."
@@ -677,10 +677,10 @@
         {
           "prompt": "Identify the Hindi word for \"fruit\" spelled with aspirated «फ» and «ल»:",
           "options": [
-            "फल",
-            "घर",
-            "कमल",
-            "रात"
+            "फल (Phal - Fruit)",
+            "घर (Hindi reading)",
+            "कमल (Hindi reading)",
+            "रात (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«फ» + «ल» = «फल» (*phal* - fruit)."
@@ -756,10 +756,10 @@
         {
           "prompt": "In the universal greeting «नमस्ते» (namaste), what consonant cluster is formed by the half-letter «स्» and «ते»?",
           "options": [
-            "स्त",
-            "क्य",
-            "च्छ",
-            "ल्ल"
+            "स्त (sta conjunct)",
+            "क्य (Hindi reading)",
+            "च्छ (Hindi reading)",
+            "ल्ल (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«स्» (half s) + «ते» (te) creates the conjunct «स्ते» (*ste*) in «नमस्ते»."
@@ -782,10 +782,10 @@
         {
           "prompt": "Which special classical conjunct character represents the [kṣha] sound in «क्षमा» (forgiveness)?",
           "options": [
-            "क्ष",
-            "त्र",
-            "ज्ञ",
-            "श्र"
+            "क्ष (ksha conjunct)",
+            "त्र (Hindi reading)",
+            "ज्ञ (Hindi reading)",
+            "श्र (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«क्ष» is the ligated conjunct for [kṣha]."
@@ -793,10 +793,10 @@
         {
           "prompt": "Select the Hindi question word meaning \"what\" spelled with half-Ka and Ya «क्या»:",
           "options": [
-            "क्या",
-            "अच्छा",
-            "मित्र",
-            "ज्ञान"
+            "क्या (Kyā - What)",
+            "अच्छा (Hindi reading)",
+            "मित्र (Hindi reading)",
+            "ज्ञान (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«क्या» (*kyā*) means \"what\"."
@@ -872,10 +872,10 @@
         {
           "prompt": "When greeting a woman politely in formal Hindi, which form of \"How are you?\" is grammatically correct?",
           "options": [
-            "आप कैसी हैं?",
-            "आप कैसे हैं?",
-            "तुम कौन हो?",
-            "शुभ रात्रि"
+            "आप कैसी हैं? (Aap kaisī hain? - How are you (formal female)?)",
+            "आप कैसे हैं? (Hindi reading)",
+            "तुम कौन हो? (Hindi reading)",
+            "शुभ रात्रि (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«आप कैसी हैं?» (*Āp kaisī hain?*) uses the feminine agreement «कैसी» (*kaisī*)."
@@ -898,10 +898,10 @@
         {
           "prompt": "Select the Hindi greeting meaning \"Good morning!\" (lit. \"Auspicious morning\"):",
           "options": [
-            "शुभ प्रभात",
-            "शुभ रात्रि",
-            "नमस्ते",
-            "अलविदा"
+            "शुभ प्रभात (Shubh prabhāt - Good morning)",
+            "शुभ रात्रि (Hindi reading)",
+            "नमस्ते (Hindi reading)",
+            "अलविदा (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«शुभ प्रभात» (*Shubh prabhāt*) means \"Good morning\"."
@@ -988,10 +988,10 @@
         {
           "prompt": "How do you introduce yourself and state \"My name is Rahul\" in Hindi?",
           "options": [
-            "मेरा नाम राहुल है",
-            "आपका नाम राहुल है",
-            "मैं राहुल जाता हूँ",
-            "राहुल घर है"
+            "मेरा नाम राहुल है (Mera naam Rahul hai - My name is Rahul)",
+            "आपका नाम राहुल है (Hindi reading)",
+            "मैं राहुल जाता हूँ (Hindi reading)",
+            "राहुल घर है (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«मेरा नाम [नाम] है» (*Merā nām [Name] hai*) is the standard phrase for stating your name."
@@ -999,10 +999,10 @@
         {
           "prompt": "Which warm Hindi farewell phrase means \"See you again! / We will meet again\"?",
           "options": [
-            "फिर मिलेंगे",
-            "शुभ प्रभात",
-            "धन्यवाद",
-            "माफ़ कीजिए"
+            "फिर मिलेंगे (Phir milenge - See you again)",
+            "शुभ प्रभात (Hindi reading)",
+            "धन्यवाद (Hindi reading)",
+            "माफ़ कीजिए (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«फिर मिलेंगे» (*Phir milenge*) is the standard hopeful parting phrase."
@@ -1014,10 +1014,10 @@
         {
           "prompt": "Select the polite Hindi sentence meaning \"Pleased to meet you\":",
           "options": [
-            "आपसे मिलकर बहुत खुशी हुई",
-            "कोई बात नहीं",
-            "आपका नाम क्या है?",
-            "माफ़ कीजिए"
+            "आपसे मिलकर बहुत खुशी हुई (Aapse milkar bahut khushi hui - Nice to meet you)",
+            "कोई बात नहीं (Hindi reading)",
+            "आपका नाम क्या है? (Hindi reading)",
+            "माफ़ कीजिए (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«आपसे मिलकर बहुत खुशी हुई» expresses pleasure upon meeting someone."
@@ -1025,10 +1025,10 @@
         {
           "prompt": "When someone thanks you with «धन्यवाद» (Dhanyavād), what is the polite Hindi response meaning \"You are welcome / No problem\"?",
           "options": [
-            "कोई बात नहीं",
-            "फिर मिलेंगे",
-            "मेरा नाम है",
-            "शुभ रात्रि"
+            "कोई बात नहीं (Koi baat nahin - No problem / You are welcome)",
+            "फिर मिलेंगे (Hindi reading)",
+            "मेरा नाम है (Hindi reading)",
+            "शुभ रात्रि (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«कोई बात नहीं» (*Koī bāt nahī̃*) is the standard gracious response."
@@ -1041,10 +1041,10 @@
           "type": "multiple-choice",
           "prompt": "How do you ask someone their name politely in Hindi?",
           "options": [
-            "आपका नाम क्या है?",
-            "तुम कौन हो?",
-            "घर कहाँ है?",
-            "कैसे हो?"
+            "आपका नाम क्या है? (Aapka naam kya hai? - What is your name?)",
+            "तुम कौन हो? (Hindi reading)",
+            "घर कहाँ है? (Hindi reading)",
+            "कैसे हो? (Hindi reading)"
           ],
           "answerIndex": 0,
           "explanation": "«आपका नाम क्या है?» (*Āpkā nām kyā hai?*) is the respectful polite question."
@@ -1115,7 +1115,7 @@
         {
           "prompt": "इनमें से कौन-सा शब्द अपवाद स्वरूप '-ई' पर समाप्त होने के बावजूद 'पुल्लिंग' है?",
           "options": [
-            "पानी",
+            "पानी (Pānī - Water)",
             "नदी",
             "रोटी",
             "गाड़ी"
@@ -1362,7 +1362,7 @@
           "prompt": "पुल्लिंग बहुवचन संज्ञा 'लड़के' के साथ विकारी विशेषण 'अच्छा' का कौन-सा रूप लगेगा?",
           "options": [
             "अच्छे",
-            "अच्छा",
+            "अच्छा (Achha - Good)",
             "अच्छी",
             "अच्छों"
           ],
@@ -1431,7 +1431,7 @@
             "कोई",
             "कुछ",
             "कौन",
-            "क्या"
+            "क्या (Kyā - What)"
           ],
           "answerIndex": 0,
           "explanation": "सजीव प्राणियों की अनिश्चितता के लिए «कोई» का प्रयोग होता है।"
@@ -1593,9 +1593,9 @@
           "prompt": "साधन या माध्यम (जैसे: 'बस द्वारा जाना' या 'कलम द्वारा लिखना') दर्शाने के लिए किस परसर्ग का प्रयोग होता है?",
           "options": [
             "से",
-            "में (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)",
-            "पर (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)",
-            "को (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)"
+            "में (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)",
+            "पर (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)",
+            "को (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)"
           ],
           "answerIndex": 0,
           "explanation": "साधन या माध्यम व्यक्त करने के लिए «से» (Instrumental) का प्रयोग किया जाता है।"
@@ -1608,9 +1608,9 @@
           "prompt": "वाक्य «मैं भारत ___ हूँ» में अपने मूल देश को बताने के लिए कौन-सा परसर्ग लगेगा?",
           "options": [
             "से",
-            "में (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)",
-            "पर (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)",
-            "तक (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)"
+            "में (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)",
+            "पर (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)",
+            "तक (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)"
           ],
           "answerIndex": 0,
           "explanation": "स्रोत या मूल स्थान बताने के लिए «से» (From) का प्रयोग होता है।"
@@ -1624,9 +1624,9 @@
           "prompt": "परसर्ग 'से' के सटीक और व्याकरणसम्मत प्रयोग वाला वाक्य चुनिए:",
           "options": [
             "अमित रोज़ रेलगाड़ी से यात्रा करता है और अपने गुरुजी से सीखता है।",
-            "अमित रोज़ रेलगाड़ी में लिखता है और गुरुजी पर खाता है। (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)",
-            "अमित रेलगाड़ी को जाता है। (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)",
-            "अमित गुरुजी तक सोता है। (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों) (स्रोत, साधन और साहचर्य परसर्ग)"
+            "अमित रोज़ रेलगाड़ी में लिखता है और गुरुजी पर खाता है। (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)",
+            "अमित रेलगाड़ी को जाता है। (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)",
+            "अमित गुरुजी तक सोता है। (परसर्ग 'से' के विविध प्रकार्यात्मक रूपों)"
           ],
           "answerIndex": 0,
           "explanation": "«रेलगाड़ी से यात्रा करना» (साधन) और «गुरुजी से सीखना» (स्रोत) दोनों में 'से' का सटीक प्रयोग है।"
@@ -5642,9 +5642,9 @@
           "prompt": "प्रथम और द्वितीय प्रेरणार्थक क्रियाओं के शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
             "माता जी बच्चे को खाना खिलाती हैं और नौकर से बर्तन साफ़ करवाती हैं।",
-            "माता जी नौकर से खाना खिलाती हैं बच्चे को। (मूल धातु से प्रथम प्रेरणार्थक (-आना) (प्रथम एवं द्वितीय प्रेरणार्थक क्रियाएं)",
-            "माता जी बच्चे को बर्तन साफ़ करवाती हैं। (मूल धातु से प्रथम प्रेरणार्थक (-आना) (प्रथम एवं द्वितीय प्रेरणार्थक क्रियाएं)",
-            "माता जी नौकर से खाना खाती हैं। (मूल धातु से प्रथम प्रेरणार्थक (-आना) (प्रथम एवं द्वितीय प्रेरणार्थक क्रियाएं)"
+            "माता जी नौकर से खाना खिलाती हैं बच्चे को। (मूल धातु से प्रथम प्रेरणार्थक (-आना))",
+            "माता जी बच्चे को बर्तन साफ़ करवाती हैं। (मूल धातु से प्रथम प्रेरणार्थक (-आना))",
+            "माता जी नौकर से खाना खाती हैं। (मूल धातु से प्रथम प्रेरणार्थक (-आना))"
           ],
           "answerIndex": 0,
           "explanation": "«खिलाती हैं» (प्रथम प्रेरणार्थक: प्रत्यक्ष) और «करवाती हैं» (द्वितीय प्रेरणार्थक: मध्यस्थ द्वारा) दोनों का प्रयोग व्याकरणिक रूप से आदर्श है।"
@@ -8398,7 +8398,7 @@
         {
           "prompt": "मानक पदक्रम (Time → Place → Manner → Verb) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "अमित ने कल विद्यालय में ध्यानपूर्वक पाठ पढ़ा (Amit ne kal vidyaalay mein dhyaanpoorvak paath padha - Amit read the lesson attentively at school yesterday [canonical order: Time (kal) -> Place (vidyaalay mein) -> Manner (dhyaanpoorvak)]",
+            "अमित ने कल विद्यालय में ध्यानपूर्वक पाठ पढ़ा (Amit ne kal vidyaalay mein dhyaanpoorvak paath padha - Amit read the lesson attentively at school yesterday [canonical order: Time (kal) -> Place (vidyaalay mein) -> Manner (dhyaanpoorvak)])",
             "अमित ने ध्यानपूर्वक कल पढ़ा विद्यालय में",
             "अमित ने विद्यालय में पढ़ा कल ध्यानपूर्वक",
             "कल पढ़ा अमित ने ध्यानपूर्वक विद्यालय में"
@@ -8497,7 +8497,7 @@
           "options": [
             "भवदीय",
             "तुम्हारा दोस्त",
-            "अलविदा",
+            "अलविदा (Alvida - Goodbye)",
             "शाबाश"
           ],
           "answerIndex": 0,
@@ -9318,7 +9318,7 @@
             "दम",
             "धूप",
             "बर्फ़",
-            "पानी"
+            "पानी (Pānī - Water)"
           ],
           "answerIndex": 0,
           "explanation": "हांडी को बंद करके मंद आँच पर भाप में पकाने की मुग़लई विधि को «दम देना» कहा जाता है।"
@@ -12908,7 +12908,7 @@
         {
           "prompt": "भारतीय संविधान के किस अनुच्छेद में वैज्ञानिक दृष्टिकोण, मानवतावाद और सुधार की भावना के विकास को नागरिकों का मूल कर्तव्य बताया गया है?",
           "options": [
-            "अनुच्छेद 51(क)(ज) (Article 51A(h) - Fundamental duty to develop scientific temper and humanism",
+            "अनुच्छेद 51A (Article 51A - Fundamental duty for scientific temper)",
             "अनुच्छेद 1",
             "अनुच्छेद 14",
             "अनुच्छेद 21"
@@ -13155,9 +13155,9 @@
           "prompt": "भारत, संयुक्त राज्य अमेरिका, जापान और ऑस्ट्रेलिया के चार-पक्षीय रणनीतिक सुरक्षा समूह को क्या कहा जाता है?",
           "options": [
             "क्वाड / QUAD",
-            "त्रिमूर्ति (तीन देवता) (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड",
-            "जी-7 (सात धनी देश) (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड",
-            "आसियान (दक्षिण-पूर्व एशियाई संघ) (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड"
+            "त्रिमूर्ति (तीन देवता), क्वाड",
+            "जी-7 (सात धनी देश), क्वाड",
+            "आसियान (दक्षिण-पूर्व एशियाई संघ), क्वाड"
           ],
           "answerIndex": 0,
           "explanation": "भारत, अमेरिका, जापान और ऑस्ट्रेलिया के रणनीतिक मंच को «क्वाड» (QUAD) कहा जाता है।"
@@ -13170,9 +13170,9 @@
           "prompt": "हिंद महासागर में सभी तटीय देशों की सुरक्षा और विकास हेतु भारत द्वारा घोषित दृष्टिकोण का क्या नाम है?",
           "options": [
             "'सागर' विजन / SAGAR",
-            "'आकाश' विजन (वायु सुरक्षा) (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड",
-            "'भूमि' विजन (जमीन सुरक्षा) (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड",
-            "'अंतरिक्ष' विजन (उपग्रह सुरक्षा) (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड"
+            "'आकाश' विजन (वायु सुरक्षा), क्वाड",
+            "'भूमि' विजन (जमीन सुरक्षा), क्वाड",
+            "'अंतरिक्ष' विजन (उपग्रह सुरक्षा), क्वाड"
           ],
           "answerIndex": 0,
           "explanation": "क्षेत्र में सभी की सुरक्षा और समृद्धि के भारतीय समुद्री विजन को «सागर» (SAGAR) कहा जाता है।"
@@ -13186,9 +13186,9 @@
           "prompt": "हिंद-प्रशांत रणनीति और समुद्री सुरक्षा (Indo-Pacific & Maritime Strategy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "मुक्त, सुरक्षित और नियम-आधारित हिंद-प्रशांत क्षेत्र का निर्माण तथा क्वाड व सागर विजन का सशक्त क्रियान्वयन वैश्विक व्यापार और स्थिरता की जीवनरेखा है।",
-            "समुद्र में सभी जहाजों को डुबो देना ही हिंद-प्रशांत नीति है। (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड",
-            "क्वाड केवल चार दोस्तों द्वारा ताश खेलने का खेल है। (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड",
-            "हिंद महासागर को सुखाकर वहां गेहूं की खेती करनी चाहिए। (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड"
+            "समुद्र में सभी जहाजों को डुबो देना ही हिंद-प्रशांत नीति है। (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड)",
+            "क्वाड केवल चार दोस्तों द्वारा ताश खेलने का खेल है। (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड)",
+            "हिंद महासागर को सुखाकर वहां गेहूं की खेती करनी चाहिए। (हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड)"
           ],
           "answerIndex": 0,
           "explanation": "«मुक्त, सुरक्षित और नियम-आधारित हिंद-प्रशांत क्षेत्र का निर्माण... जीवनरेखा है» समुद्री कूटनीति का मानक वाक्य है।"
@@ -14592,7 +14592,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'hindi', name: "Hindi", units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'hindi', name: 'Hindi', units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['hindi'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

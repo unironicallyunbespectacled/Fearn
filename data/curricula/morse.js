@@ -1916,7 +1916,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Making the dits shorter than 60 milliseconds",
             "Learning new secret codes",
@@ -2051,7 +2051,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "'Copying behind' — letting the ear buffer the current sound while the hand writes the previously completed character 1-2 positions back",
             "Writing in cursive uppercase only",
@@ -2186,7 +2186,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "By pausing the tape and counting four dits for H",
             "By writing down T, then waiting for H, then waiting for E",
@@ -2321,7 +2321,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "N3ABC",
             "W1AW",
@@ -2456,7 +2456,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Fine Business",
             "Facebook",
@@ -2585,7 +2585,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "TEA",
             "TEN",
@@ -2714,7 +2714,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "VE3ABC",
             "VO3ABC",
@@ -2843,7 +2843,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "QSL",
             "QRP",
@@ -2972,7 +2972,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "The operator is 59 years old",
             "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9",
@@ -3101,7 +3101,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "New Haven CT",
             "Toronto",
@@ -3230,7 +3230,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Stop the sender and ask them to restart the paragraph",
             "Pause and think for 5 seconds about what letter it was",
@@ -3359,7 +3359,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Wait / Stand by",
             "End of contact",
@@ -3488,7 +3488,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "RIG IS 10W",
             "RADIO IS ON",
@@ -3617,7 +3617,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Increase your speed to 30 WPM",
             "Your signal is experiencing ionospheric fading",
@@ -3746,7 +3746,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "45 Knots",
             "20 Knots",
@@ -3875,7 +3875,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Emergency evacuation immediately",
             "Close the station",
@@ -4004,7 +4004,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs",
             "The ability to transmit without electricity",
@@ -4133,7 +4133,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "It makes the receiver louder",
             "It turns off the other stations",
@@ -4262,7 +4262,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Send SOS 3 times",
             "Send the 8-dit error prosign (`........`), repeat the last correctly sent word, and continue transmitting",
@@ -4391,7 +4391,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "MEDICAL SUPPLIES ARRIVED SAFELY",
             "STORM HAS PASSED",
@@ -4530,7 +4530,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             ".-.-.-",
             "--..--",
@@ -4664,7 +4664,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which operational procedure or procedural signal (prosign) is indicated?",
           "options": [
             "dah-dit-dit-dit-dah",
             "dah-dit-dah-dit",
@@ -4798,7 +4798,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "'Kill the power'",
             "'Keep waiting'",
@@ -4932,7 +4932,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "'Signal is weak'",
             "'End of contact / final sign-off (Silent Key) — contact is finished'",
@@ -5066,7 +5066,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
           "options": [
             "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9",
             "Radio channel 599",

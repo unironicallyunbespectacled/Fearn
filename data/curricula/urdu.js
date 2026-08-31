@@ -524,10 +524,10 @@
         {
           "prompt": "Which Urdu short vowel diacritic is written BELOW the letter and produces the short [i] sound (as in «دِل» / heart)?",
           "options": [
-            "زِیر",
-            "زَبَر",
-            "پیش",
-            "جَزم"
+            "زِیر (Zer (vowel sign i))",
+            "زَبَر (Urdu reading)",
+            "پیش (Urdu reading)",
+            "جَزم (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«زِیر» (*Zer*) is placed under the consonant to produce the short [i] vowel."
@@ -550,10 +550,10 @@
         {
           "prompt": "Which of the following characters is the unique South Asian retroflex letter «ڈ» (ḍ)?",
           "options": [
-            "ڈ",
-            "د",
-            "ذ",
-            "ر"
+            "ڈ (Daal retroflex [ɖ])",
+            "د (Urdu reading)",
+            "ذ (Urdu reading)",
+            "ر (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«ڈ» is the retroflex Daal marked with a small cursive «ط» (toay) above."
@@ -561,10 +561,10 @@
         {
           "prompt": "Select the Urdu word meaning \"pain / ache\" spelled «دَرد»:",
           "options": [
-            "دَرد",
-            "دِل",
-            "دِن",
-            "رَاز"
+            "دَرد (Dard - Pain)",
+            "دِل (Urdu reading)",
+            "دِن (Urdu reading)",
+            "رَاز (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«دَ» [da] + «ر» [r] + «د» [d] spells «دَرد» (*dard* - pain)."
@@ -641,10 +641,10 @@
         {
           "prompt": "Which letter in the Bay family has 3 dots placed BELOW the boat shape and represents the sound [p]?",
           "options": [
-            "پ",
-            "ب",
-            "ت",
-            "ٹ"
+            "پ (Pe [p] consonant)",
+            "ب (Urdu reading)",
+            "ت (Urdu reading)",
+            "ٹ (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«پ» (Pay) has 3 dots underneath and represents the bilabial stop [p]."
@@ -667,10 +667,10 @@
         {
           "prompt": "What unique Urdu letter is used strictly at the end of words to produce the [ay] vowel sound (as in «چَائے» / tea)?",
           "options": [
-            "ے",
-            "ی",
-            "ن",
-            "ا"
+            "ے (Bari ye [e:])",
+            "ی (Urdu reading)",
+            "ن (Urdu reading)",
+            "ا (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«ے» (Bari Ye) is exclusively used at word endings for the [ay] sound."
@@ -678,10 +678,10 @@
         {
           "prompt": "Select the Urdu word meaning \"name\" spelled «نَام»:",
           "options": [
-            "نَام",
-            "بَات",
-            "رَات",
-            "دِل"
+            "نَام (Naam - Name)",
+            "بَات (Urdu reading)",
+            "رَات (Urdu reading)",
+            "دِل (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«نـَ» [na] + «ا» [aa] + «م» [m] spells «نَام» (*naam* - name)."
@@ -758,10 +758,10 @@
         {
           "prompt": "Which aspirated letter combination represents the heavy aspirated [gh] sound in the word «گَھر» (home)?",
           "options": [
-            "گھ",
-            "کھ",
-            "بھ",
-            "پھ"
+            "گھ (Gha (aspirated gh))",
+            "کھ (Urdu reading)",
+            "بھ (Urdu reading)",
+            "پھ (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«گھ» represents the voiced aspirated velar stop [gh] in «گَھر» (*ghar* - home)."
@@ -769,10 +769,10 @@
         {
           "prompt": "Select the Urdu word meaning \"flower\" spelled with aspirated «پھ»:",
           "options": [
-            "پھُول",
-            "گَھر",
-            "چَائے",
-            "پَانِی"
+            "پھُول (Phool - Flower)",
+            "گَھر (Urdu reading)",
+            "چَائے (Urdu reading)",
+            "پَانِی (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«پھُول» (*phool*) means \"flower\"."
@@ -795,10 +795,10 @@
         {
           "prompt": "Which letter in the Jim family has 3 dots inside and makes the [ch] sound (as in \"chair\")?",
           "options": [
-            "چ",
-            "ج",
-            "ح",
-            "خ"
+            "چ (Che [tʃ])",
+            "ج (Urdu reading)",
+            "ح (Urdu reading)",
+            "خ (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«چ» (Chay) contains 3 dots and represents [ch]."
@@ -875,10 +875,10 @@
         {
           "prompt": "What is the correct authentic response when someone greets you with «اَلسَّلَامُ عَلَیْکُم» (Assalamu Alaikum)?",
           "options": [
-            "وَعَلَیْکُمُ السَّلَام",
-            "شَب بَخَیْر",
-            "شُکْرِیَہ",
-            "مَاف کِیجِیے"
+            "وَعَلَیْکُمُ السَّلَام (Wa alaykum as-salaam - And upon you peace)",
+            "شَب بَخَیْر (Urdu reading)",
+            "شُکْرِیَہ (Urdu reading)",
+            "مَاف کِیجِیے (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«وَعَلَیْکُمُ السَّلَام» (*Walaikum Assalam*) is the standard reciprocal response."
@@ -886,10 +886,10 @@
         {
           "prompt": "How do you politely ask a woman \"How are you?\" in respectful Urdu?",
           "options": [
-            "آپ کَیسی ہَیں؟",
-            "آپ کَیسے ہَیں؟",
-            "تُم کَون ہو؟",
-            "شَب بَخَیْر"
+            "آپ کَیسی ہَیں؟ (Aap kaisi hain? - How are you (female)?)",
+            "آپ کَیسے ہَیں؟ (Urdu reading)",
+            "تُم کَون ہو؟ (Urdu reading)",
+            "شَب بَخَیْر (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ کَیسی ہَیں؟» (*Aap kaisi hain?*) uses the feminine agreement «کیسی» (*kaisi*)."
@@ -901,10 +901,10 @@
         {
           "prompt": "Select the Urdu phrase meaning \"Good morning!\" (lit. \"morning with goodness\"):",
           "options": [
-            "صُبْح بَخَیْر",
-            "شَب بَخَیْر",
-            "آدَاب",
-            "اللہ حافظ"
+            "صُبْح بَخَیْر (Subah bakhair - Good morning)",
+            "شَب بَخَیْر (Urdu reading)",
+            "آدَاب (Urdu reading)",
+            "اللہ حافظ (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«صُبْح بَخَیْر» (*Subh bakhair*) means \"Good morning\"."
@@ -928,10 +928,10 @@
           "type": "multiple-choice",
           "prompt": "Which elegant secular greeting is traditionally accompanied by raising the right hand gracefully to the forehead?",
           "options": [
-            "آدَاب",
-            "صُبْح بَخَیْر",
-            "شُکْرِیَہ",
-            "پَانِی"
+            "آدَاب (Aadaab - Respectful greeting)",
+            "صُبْح بَخَیْر (Urdu reading)",
+            "شُکْرِیَہ (Urdu reading)",
+            "پَانِی (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«آدَاب» (*Aadaab*) is the classic refined cultural greeting."
@@ -992,10 +992,10 @@
         {
           "prompt": "How do you introduce yourself and state \"My name is Tariq\" in Urdu?",
           "options": [
-            "مِیرا نَام طَارِق ہَے",
-            "آپ کا نَام طَارِق ہَے",
-            "مَیں طَارِق جا رہا ہوں",
-            "طَارِق گَھر ہَے"
+            "مِیرا نَام طَارِق ہَے (Mera naam Tariq hai - My name is Tariq)",
+            "آپ کا نَام طَارِق ہَے (Urdu reading)",
+            "مَیں طَارِق جا رہا ہوں (Urdu reading)",
+            "طَارِق گَھر ہَے (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«مِیرا نَام [نَام] ہَے» (*Mera naam [name] hai*) is the standard construction for stating your name."
@@ -1003,10 +1003,10 @@
         {
           "prompt": "Which universal farewell expression means \"Goodbye\" (lit. \"May God protect you\")?",
           "options": [
-            "اَللہ حَافِظ",
-            "شُکْرِیَہ",
-            "صُبْح بَخَیْر",
-            "مَاف کِیجِیے"
+            "اَللہ حَافِظ (Allah hafiz - Goodbye)",
+            "شُکْرِیَہ (Urdu reading)",
+            "صُبْح بَخَیْر (Urdu reading)",
+            "مَاف کِیجِیے (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«اَللہ حَافِظ» (*Allah Hafiz*) is the universal polite Urdu farewell."
@@ -1018,10 +1018,10 @@
         {
           "prompt": "What is the polite phrase meaning \"Pleased to meet you\" in Urdu?",
           "options": [
-            "آپ سے مِل کَر خُوشِی ہُوئِی",
-            "کَوئی بَات نَہِیں",
-            "پھِر مِلیں گے",
-            "مَاف کِیجِیے"
+            "آپ سے مِل کَر خُوشِی ہُوئِی (Aap se mil kar khushi hui - Pleased to meet you)",
+            "کَوئی بَات نَہِیں (Urdu reading)",
+            "پھِر مِلیں گے (Urdu reading)",
+            "مَاف کِیجِیے (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ سے مِل کَر خُوشِی ہُوئِی» (*Aap se mil kar khushi hui*) means \"Pleased to meet you\"."
@@ -1029,10 +1029,10 @@
         {
           "prompt": "When someone thanks you with «شُکْرِیَہ» (Shukriya), what is the polite Urdu response meaning \"You are welcome / No problem\"?",
           "options": [
-            "کَوئی بَات نَہِیں",
-            "اَللہ حَافِظ",
-            "مِیرا نَام ہَے",
-            "شَب بَخَیْر"
+            "کَوئی بَات نَہِیں (Koi baat nahin - No problem)",
+            "اَللہ حَافِظ (Urdu reading)",
+            "مِیرا نَام ہَے (Urdu reading)",
+            "شَب بَخَیْر (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«کَوئی بَات نَہِیں» (*Koi baat nahin*) is the standard graceful response."
@@ -1045,10 +1045,10 @@
           "type": "multiple-choice",
           "prompt": "How do you ask someone their name respectfully in formal Urdu?",
           "options": [
-            "آپ کا نَام کِیا ہَے؟",
-            "تُم کَون ہو؟",
-            "گَھر کَہاں ہَے؟",
-            "کَیسے ہو؟"
+            "آپ کا نَام کِیا ہَے؟ (Aap ka naam kya hai? - What is your name?)",
+            "تُم کَون ہو؟ (Urdu reading)",
+            "گَھر کَہاں ہَے؟ (Urdu reading)",
+            "کَیسے ہو؟ (Urdu reading)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ کا نَام کِیا ہَے؟» (*Aap ka naam kya hai?*) is the respectful polite question."
@@ -13405,9 +13405,9 @@
           "prompt": "علمِ بیان کی اس صنعت کو کیا کہتے ہیں جس میں لفظ کو ادھار لے کر کسی چیز کے لیے ہو بہو استعمال کیا جائے؟",
           "options": [
             "استعارہ",
-            "صرف سیدھی گفتگو (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)",
-            "صرف املا (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)",
-            "کوئی نہیں (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)"
+            "صرف سیدھی گفتگو (علمِ بیان کے چار اساسی ارکان)",
+            "صرف املا (علمِ بیان کے چار اساسی ارکان)",
+            "کوئی نہیں (علمِ بیان کے چار اساسی ارکان)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ کے ادھار استعمال کو بلاغت میں «استعارہ» (Metaphor) کہتے ہیں۔"
@@ -13420,9 +13420,9 @@
           "prompt": "کلام میں کسی بات کو براہِ راست کہنے کی بجائے پردے اور اشارے میں بیان کرنے کے عمل کو کیا کہتے ہیں؟",
           "options": [
             "کنایہ",
-            "صرف اونچی آواز میں بولنا (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)",
-            "صرف تالی بجانا (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)",
-            "کوئی نہیں (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)"
+            "صرف اونچی آواز میں بولنا (علمِ بیان کے چار اساسی ارکان)",
+            "صرف تالی بجانا (علمِ بیان کے چار اساسی ارکان)",
+            "کوئی نہیں (علمِ بیان کے چار اساسی ارکان)"
           ],
           "answerIndex": 0,
           "explanation": "پردۂ اخفا میں گفتگو کو بلاغت میں «کنایہ» کہا جاتا ہے۔"
@@ -13436,9 +13436,9 @@
           "prompt": "علمِ بیان اور فصاحت (Ilm-ul-Bayan & Rhetoric) کا مستند جملہ پہچانیے:",
           "options": [
             "علمِ بیان کے چار ارکان تشبیہ، استعارہ، مجازِ مرسل اور کنایہ نثری و شعری کلام کو غیر معمولی حسن، گہرائی اور فصاحت و بلاغت عطا کرتے ہیں۔",
-            "استعارے نے کنائے کو پلیٹ میں رکھ کر گاڑی چلائی تھی رویا تھا۔ (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)",
-            "تشبیہ صرف آئینے کو صاف کرنے کا کپڑا ہے۔ (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)",
-            "علمِ بیان کا ادب اور زبان کی خوبصورتی سے کوئی تعلق نہیں ہے۔ (علمِ بیان کے چار اساسی ارکان) (علمِ بیان کے ارکان)"
+            "استعارے نے کنائے کو پلیٹ میں رکھ کر گاڑی چلائی تھی رویا تھا۔ (علمِ بیان کے چار اساسی ارکان)",
+            "تشبیہ صرف آئینے کو صاف کرنے کا کپڑا ہے۔ (علمِ بیان کے چار اساسی ارکان)",
+            "علمِ بیان کا ادب اور زبان کی خوبصورتی سے کوئی تعلق نہیں ہے۔ (علمِ بیان کے چار اساسی ارکان)"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بیان کے چار ارکان تشبیہ، استعارہ، مجازِ مرسل اور کنایہ نثری و شعری کلام کو غیر معمولی حسن، گہرائی اور فصاحت و بلاغت عطا کرتے ہیں۔» علمِ بیان کا کامل ترین جملہ ہے۔"

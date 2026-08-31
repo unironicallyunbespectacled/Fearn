@@ -962,7 +962,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "CHAGING",
             "HANGICE",
@@ -1123,7 +1123,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "3 Vowels and 4 Consonants",
             "6 Vowels and 1 Consonant",
@@ -1284,7 +1284,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "Z",
             "Q",
@@ -1445,7 +1445,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "AEINPRT",
             "PAINTER",
@@ -1608,7 +1608,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "TEARING",
             "RATEING",
@@ -1769,7 +1769,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "+25 points",
             "+100 points",
@@ -1930,7 +1930,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "PIRATES",
             "PARTNER",
@@ -2091,7 +2091,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "CENTRAL, CERTAIN",
             "CHANCER, CHANCES",
@@ -2253,7 +2253,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "+25 to +30 points in expected scoring value",
             "+5 points",
@@ -2416,7 +2416,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "RETAINS, NASTIER, RETINAS, STAINER, ASTERIN",
             "RESTRAIN, STRAINER",
@@ -2580,7 +2580,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "Because an S tile scores 10 points on the board.",
             "Because there are 50 S tiles in the bag.",
@@ -2721,7 +2721,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "3 Vowels and 4 Consonants",
             "1 Vowel and 6 Consonants",
@@ -2862,7 +2862,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "Because 18 points is a lucky number.",
             "Because U is illegal on turn 2.",
@@ -3003,7 +3003,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which play or rack leave maximizes scoring potential and future bingo equity?",
           "options": [
             "When your rack is severely crippled (e.g. U-U-U-V-W), no board play scores over 10-12 points, and there are plenty of tiles remaining in the bag.",
             "On turn 1 of every game.",
@@ -3144,7 +3144,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "Because eliminating the duplicate V and keeping the elite 'E-I-N-R' bingo core produces +40 net turn equity (+8 points higher than VANE) and sets up a high-probability bingo next turn.",
             "Because VAV is spelled backwards.",
@@ -3279,7 +3279,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which play or rack leave maximizes scoring potential and future bingo equity?",
           "options": [
             "18 tiles",
             "15 tiles",
@@ -3414,7 +3414,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "When the tile bag contains between 1 and 6 tiles remaining",
             "When both players have 1 blank",
@@ -3549,7 +3549,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "18 points",
             "9 points",
@@ -3684,7 +3684,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "Because V cannot be played on triple word squares",
             "Because there is no valid 2-letter word containing 'V' in the official English Scrabble dictionary, requiring at least a 3-letter open lane",
@@ -3819,7 +3819,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "46 points",
             "18 points",
@@ -3954,7 +3954,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "QU",
             "QA",
@@ -4089,7 +4089,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "MIAOU",
             "MIAOW",
@@ -4224,7 +4224,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "CRW",
             "CWN",
@@ -4359,7 +4359,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "HEATING",
             "HAIRNET",
@@ -4494,7 +4494,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "Because blocking the 'ZA' spot permanently trapped the 10-point 'Z' on the opponent's rack, denying them 32 points and converting their 'Z' into a +20 point penalty bonus in your favor",
             "Because QAT is worth 100 points",
@@ -4633,7 +4633,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "6x multiplier",
             "3x multiplier",
@@ -4772,7 +4772,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "V",
             "D",
@@ -4909,7 +4909,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "A tightly closed, cramped board with no vowels",
             "An empty board",
@@ -5048,7 +5048,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "It is split in half.",
             "It is counted in full for BOTH the horizontal and vertical words (e.g. 10 + 10 = 20 pts base).",
@@ -5187,7 +5187,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
           "options": [
             "Immediate Turn Score + Rack Leave Value - Opponent Expected Reply Value",
             "Just the score on the current turn",

@@ -2,482 +2,482 @@
 (function (global) {
   'use strict';
   var UNITS = [
-    {
-        "id": "ko-u1",
-        "unit": 1,
-        "title": "한글 자모 체계와 기본 인사 (Hangul & Greetings)",
-        "level": "A1",
-        "goal": "Mastery of 기본 인사와 자기소개 (Greetings & Self-Introduction).",
-        "lessonIds": [
-            "ko-u1-l1",
-            "ko-u1-l2",
-            "ko-u1-l3",
-            "ko-u1-l4",
-            "ko-u1-l5"
-        ]
-    },
-    {
-        "id": "ko-u2",
-        "unit": 2,
-        "title": "주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles)",
-        "level": "A1",
-        "goal": "Mastery of 은/는과 이/가 조사의 차이 (Topic vs Subject Particles).",
-        "lessonIds": [
-            "ko-u2-l1",
-            "ko-u2-l2",
-            "ko-u2-l3",
-            "ko-u2-l4",
-            "ko-u2-l5"
-        ]
-    },
-    {
-        "id": "ko-u3",
-        "unit": 3,
-        "title": "목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order)",
-        "level": "A1",
-        "goal": "Mastery of 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV).",
-        "lessonIds": [
-            "ko-u3-l1",
-            "ko-u3-l2",
-            "ko-u3-l3",
-            "ko-u3-l4",
-            "ko-u3-l5"
-        ]
-    },
-    {
-        "id": "ko-u4",
-        "unit": 4,
-        "title": "해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요)",
-        "level": "A1",
-        "goal": "Mastery of 해요체 어미 활용 (Polite Informal -아요/어요).",
-        "lessonIds": [
-            "ko-u4-l1",
-            "ko-u4-l2",
-            "ko-u4-l3",
-            "ko-u4-l4",
-            "ko-u4-l5"
-        ]
-    },
-    {
-        "id": "ko-u5",
-        "unit": 5,
-        "title": "하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다)",
-        "level": "A1",
-        "goal": "Mastery of 격식체 하십시오체 (Formal Style -ㅂ니다/습니다).",
-        "lessonIds": [
-            "ko-u5-l1",
-            "ko-u5-l2",
-            "ko-u5-l3",
-            "ko-u5-l4",
-            "ko-u5-l5"
-        ]
-    },
-    {
-        "id": "ko-u6",
-        "unit": 6,
-        "title": "과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives)",
-        "level": "A2",
-        "goal": "Mastery of 과거 시제 -았/었- 활용 (Past Tense -았/었-).",
-        "lessonIds": [
-            "ko-u6-l1",
-            "ko-u6-l2",
-            "ko-u6-l3",
-            "ko-u6-l4",
-            "ko-u6-l5"
-        ]
-    },
-    {
-        "id": "ko-u7",
-        "unit": 7,
-        "title": "미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess)",
-        "level": "A2",
-        "goal": "Mastery of 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요).",
-        "lessonIds": [
-            "ko-u7-l1",
-            "ko-u7-l2",
-            "ko-u7-l3",
-            "ko-u7-l4",
-            "ko-u7-l5"
-        ]
-    },
-    {
-        "id": "ko-u8",
-        "unit": 8,
-        "title": "진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives)",
-        "level": "A2",
-        "goal": "Mastery of 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다).",
-        "lessonIds": [
-            "ko-u8-l1",
-            "ko-u8-l2",
-            "ko-u8-l3",
-            "ko-u8-l4",
-            "ko-u8-l5"
-        ]
-    },
-    {
-        "id": "ko-u9",
-        "unit": 9,
-        "title": "장소·방향 조사(에, 에서, -(으)로) (Locative & Directional)",
-        "level": "A2",
-        "goal": "Mastery of 장소 조사 에/에서/-(으)로 (Locative & Directional Particles).",
-        "lessonIds": [
-            "ko-u9-l1",
-            "ko-u9-l2",
-            "ko-u9-l3",
-            "ko-u9-l4",
-            "ko-u9-l5"
-        ]
-    },
-    {
-        "id": "ko-u10",
-        "unit": 10,
-        "title": "가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability)",
-        "level": "A2",
-        "goal": "Mastery of 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다).",
-        "lessonIds": [
-            "ko-u10-l1",
-            "ko-u10-l2",
-            "ko-u10-l3",
-            "ko-u10-l4",
-            "ko-u10-l5"
-        ]
-    },
-    {
-        "id": "ko-u11",
-        "unit": 11,
-        "title": "의무와 금지(-아/어야 하다, -면 안 되다) (Obligation)",
-        "level": "B1",
-        "goal": "Mastery of 의무와 금지 표현 (Obligation & Prohibition).",
-        "lessonIds": [
-            "ko-u11-l1",
-            "ko-u11-l2",
-            "ko-u11-l3",
-            "ko-u11-l4",
-            "ko-u11-l5"
-        ]
-    },
-    {
-        "id": "ko-u12",
-        "unit": 12,
-        "title": "주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics)",
-        "level": "B1",
-        "goal": "Mastery of 주체 높임 선어말어미 -(으)시- (Subject Honorifics).",
-        "lessonIds": [
-            "ko-u12-l1",
-            "ko-u12-l2",
-            "ko-u12-l3",
-            "ko-u12-l4",
-            "ko-u12-l5"
-        ]
-    },
-    {
-        "id": "ko-u13",
-        "unit": 13,
-        "title": "객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics)",
-        "level": "B1",
-        "goal": "Mastery of 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다).",
-        "lessonIds": [
-            "ko-u13-l1",
-            "ko-u13-l2",
-            "ko-u13-l3",
-            "ko-u13-l4",
-            "ko-u13-l5"
-        ]
-    },
-    {
-        "id": "ko-u14",
-        "unit": 14,
-        "title": "이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에)",
-        "level": "B1",
-        "goal": "Mastery of 이유 원인 연결어미 (Causal Connectives: -아/어서).",
-        "lessonIds": [
-            "ko-u14-l1",
-            "ko-u14-l2",
-            "ko-u14-l3",
-            "ko-u14-l4",
-            "ko-u14-l5"
-        ]
-    },
-    {
-        "id": "ko-u15",
-        "unit": 15,
-        "title": "대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background)",
-        "level": "B1",
-        "goal": "Mastery of 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데).",
-        "lessonIds": [
-            "ko-u15-l1",
-            "ko-u15-l2",
-            "ko-u15-l3",
-            "ko-u15-l4",
-            "ko-u15-l5"
-        ]
-    },
-    {
-        "id": "ko-u16",
-        "unit": 16,
-        "title": "관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers)",
-        "level": "B1",
-        "goal": "Mastery of 관형사형 전성어미 (Noun-Modifying Clauses).",
-        "lessonIds": [
-            "ko-u16-l1",
-            "ko-u16-l2",
-            "ko-u16-l3",
-            "ko-u16-l4",
-            "ko-u16-l5"
-        ]
-    },
-    {
-        "id": "ko-u17",
-        "unit": 17,
-        "title": "명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization)",
-        "level": "B2",
-        "goal": "Mastery of 명사형 전성어미 (Nominalization: -기 / -는 것).",
-        "lessonIds": [
-            "ko-u17-l1",
-            "ko-u17-l2",
-            "ko-u17-l3",
-            "ko-u17-l4",
-            "ko-u17-l5"
-        ]
-    },
-    {
-        "id": "ko-u18",
-        "unit": 18,
-        "title": "간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech)",
-        "level": "B2",
-        "goal": "Mastery of 간접화법 표현 체계 (Indirect Reported Speech).",
-        "lessonIds": [
-            "ko-u18-l1",
-            "ko-u18-l2",
-            "ko-u18-l3",
-            "ko-u18-l4",
-            "ko-u18-l5"
-        ]
-    },
-    {
-        "id": "ko-u19",
-        "unit": 19,
-        "title": "피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice)",
-        "level": "B2",
-        "goal": "Mastery of 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes).",
-        "lessonIds": [
-            "ko-u19-l1",
-            "ko-u19-l2",
-            "ko-u19-l3",
-            "ko-u19-l4",
-            "ko-u19-l5"
-        ]
-    },
-    {
-        "id": "ko-u20",
-        "unit": 20,
-        "title": "사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice)",
-        "level": "B2",
-        "goal": "Mastery of 사동사 접미사와 -게 하다 (Causative Structures).",
-        "lessonIds": [
-            "ko-u20-l1",
-            "ko-u20-l2",
-            "ko-u20-l3",
-            "ko-u20-l4",
-            "ko-u20-l5"
-        ]
-    },
-    {
-        "id": "ko-u21",
-        "unit": 21,
-        "title": "조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals)",
-        "level": "B2",
-        "goal": "Mastery of 조건과 가정 어미 (Hypothetical Conditionals).",
-        "lessonIds": [
-            "ko-u21-l1",
-            "ko-u21-l2",
-            "ko-u21-l3",
-            "ko-u21-l4",
-            "ko-u21-l5"
-        ]
-    },
-    {
-        "id": "ko-u22",
-        "unit": 22,
-        "title": "심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives)",
-        "level": "B2",
-        "goal": "Mastery of 심화 연결어미 활용 (Advanced Connectives).",
-        "lessonIds": [
-            "ko-u22-l1",
-            "ko-u22-l2",
-            "ko-u22-l3",
-            "ko-u22-l4",
-            "ko-u22-l5"
-        ]
-    },
-    {
-        "id": "ko-u23",
-        "unit": 23,
-        "title": "비즈니스 한국어와 직장 내 의전 (Business Korean)",
-        "level": "B2",
-        "goal": "Mastery of 비즈니스 회화와 이메일 (Business & Corporate Korean).",
-        "lessonIds": [
-            "ko-u23-l1",
-            "ko-u23-l2",
-            "ko-u23-l3",
-            "ko-u23-l4",
-            "ko-u23-l5"
-        ]
-    },
-    {
-        "id": "ko-u24",
-        "unit": 24,
-        "title": "한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism)",
-        "level": "B2",
-        "goal": "Mastery of 대중문화와 영화 비평 (Korean Popular Culture & Arts).",
-        "lessonIds": [
-            "ko-u24-l1",
-            "ko-u24-l2",
-            "ko-u24-l3",
-            "ko-u24-l4",
-            "ko-u24-l5"
-        ]
-    },
-    {
-        "id": "ko-u25",
-        "unit": 25,
-        "title": "전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette)",
-        "level": "C1",
-        "goal": "Mastery of 전통 한식과 식문화 예절 (Korean Culinary Traditions).",
-        "lessonIds": [
-            "ko-u25-l1",
-            "ko-u25-l2",
-            "ko-u25-l3",
-            "ko-u25-l4",
-            "ko-u25-l5"
-        ]
-    },
-    {
-        "id": "ko-u26",
-        "unit": 26,
-        "title": "의료 상담과 건강보험 체계 (Medical & Clinical Discourse)",
-        "level": "C1",
-        "goal": "Mastery of 병원 진료와 건강 상담 (Clinical & Medical Consultations).",
-        "lessonIds": [
-            "ko-u26-l1",
-            "ko-u26-l2",
-            "ko-u26-l3",
-            "ko-u26-l4",
-            "ko-u26-l5"
-        ]
-    },
-    {
-        "id": "ko-u27",
-        "unit": 27,
-        "title": "금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate)",
-        "level": "C1",
-        "goal": "Mastery of 금융과 부동산 경제 (Banking, Finance & Real Estate).",
-        "lessonIds": [
-            "ko-u27-l1",
-            "ko-u27-l2",
-            "ko-u27-l3",
-            "ko-u27-l4",
-            "ko-u27-l5"
-        ]
-    },
-    {
-        "id": "ko-u28",
-        "unit": 28,
-        "title": "고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms)",
-        "level": "C1",
-        "goal": "Mastery of 사자성어와 고사 (Sino-Korean Four-Character Idioms).",
-        "lessonIds": [
-            "ko-u28-l1",
-            "ko-u28-l2",
-            "ko-u28-l3",
-            "ko-u28-l4",
-            "ko-u28-l5"
-        ]
-    },
-    {
-        "id": "ko-u29",
-        "unit": 29,
-        "title": "학술 논문 작성과 학술 토론 (Academic Dissertation & Debate)",
-        "level": "C1",
-        "goal": "Mastery of 학술 논문과 학술 토론 (Academic Research & Dissertation).",
-        "lessonIds": [
-            "ko-u29-l1",
-            "ko-u29-l2",
-            "ko-u29-l3",
-            "ko-u29-l4",
-            "ko-u29-l5"
-        ]
-    },
-    {
-        "id": "ko-u30",
-        "unit": 30,
-        "title": "헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts)",
-        "level": "C1",
-        "goal": "Mastery of 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law).",
-        "lessonIds": [
-            "ko-u30-l1",
-            "ko-u30-l2",
-            "ko-u30-l3",
-            "ko-u30-l4",
-            "ko-u30-l5"
-        ]
-    },
-    {
-        "id": "ko-u31",
-        "unit": 31,
-        "title": "현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates)",
-        "level": "C2",
-        "goal": "Mastery of 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates).",
-        "lessonIds": [
-            "ko-u31-l1",
-            "ko-u31-l2",
-            "ko-u31-l3",
-            "ko-u31-l4",
-            "ko-u31-l5"
-        ]
-    },
-    {
-        "id": "ko-u32",
-        "unit": 32,
-        "title": "첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech)",
-        "level": "C2",
-        "goal": "Mastery of 과학 기술과 반도체 산업 (Science & High Technology).",
-        "lessonIds": [
-            "ko-u32-l1",
-            "ko-u32-l2",
-            "ko-u32-l3",
-            "ko-u32-l4",
-            "ko-u32-l5"
-        ]
-    },
-    {
-        "id": "ko-u33",
-        "unit": 33,
-        "title": "동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy)",
-        "level": "C2",
-        "goal": "Mastery of 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties).",
-        "lessonIds": [
-            "ko-u33-l1",
-            "ko-u33-l2",
-            "ko-u33-l3",
-            "ko-u33-l4",
-            "ko-u33-l5"
-        ]
-    },
-    {
-        "id": "ko-u34",
-        "unit": 34,
-        "title": "국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft)",
-        "level": "C2",
-        "goal": "Mastery of 정상회담과 정책 담화 (C2 Capstone Executive Statecraft).",
-        "lessonIds": [
-            "ko-u34-l1",
-            "ko-u34-l2",
-            "ko-u34-l3",
-            "ko-u34-l4",
-            "ko-u34-l5"
-        ]
-    }
+  {
+    "id": "ko-u1",
+    "unit": 1,
+    "title": "한글 자모 체계와 기본 인사 (Hangul & Greetings)",
+    "level": "A1",
+    "goal": "Mastery of 기본 인사와 자기소개 (Greetings & Self-Introduction).",
+    "lessonIds": [
+      "ko-u1-l1",
+      "ko-u1-l2",
+      "ko-u1-l3",
+      "ko-u1-l4",
+      "ko-u1-l5"
+    ]
+  },
+  {
+    "id": "ko-u2",
+    "unit": 2,
+    "title": "주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles)",
+    "level": "A1",
+    "goal": "Mastery of 은/는과 이/가 조사의 차이 (Topic vs Subject Particles).",
+    "lessonIds": [
+      "ko-u2-l1",
+      "ko-u2-l2",
+      "ko-u2-l3",
+      "ko-u2-l4",
+      "ko-u2-l5"
+    ]
+  },
+  {
+    "id": "ko-u3",
+    "unit": 3,
+    "title": "목적격 조사(을/를)와 기본 어순 (Object Particle & SOV Order)",
+    "level": "A1",
+    "goal": "Mastery of 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV).",
+    "lessonIds": [
+      "ko-u3-l1",
+      "ko-u3-l2",
+      "ko-u3-l3",
+      "ko-u3-l4",
+      "ko-u3-l5"
+    ]
+  },
+  {
+    "id": "ko-u4",
+    "unit": 4,
+    "title": "해요체 종결어미와 모음조화 (Polite Informal Style -아요/어요)",
+    "level": "A1",
+    "goal": "Mastery of 해요체 어미 활용 (Polite Informal -아요/어요).",
+    "lessonIds": [
+      "ko-u4-l1",
+      "ko-u4-l2",
+      "ko-u4-l3",
+      "ko-u4-l4",
+      "ko-u4-l5"
+    ]
+  },
+  {
+    "id": "ko-u5",
+    "unit": 5,
+    "title": "하십시오체와 격식체 어미 (Formal Polite Style -ㅂ니다/습니다)",
+    "level": "A1",
+    "goal": "Mastery of 격식체 하십시오체 (Formal Style -ㅂ니다/습니다).",
+    "lessonIds": [
+      "ko-u5-l1",
+      "ko-u5-l2",
+      "ko-u5-l3",
+      "ko-u5-l4",
+      "ko-u5-l5"
+    ]
+  },
+  {
+    "id": "ko-u6",
+    "unit": 6,
+    "title": "과거 시제(-았/었/였-)와 일상 서술 (Past Tense Narratives)",
+    "level": "A2",
+    "goal": "Mastery of 과거 시제 -았/었- 활용 (Past Tense -았/었-).",
+    "lessonIds": [
+      "ko-u6-l1",
+      "ko-u6-l2",
+      "ko-u6-l3",
+      "ko-u6-l4",
+      "ko-u6-l5"
+    ]
+  },
+  {
+    "id": "ko-u7",
+    "unit": 7,
+    "title": "미래 의지와 추측(-ㄹ/을 거예요, -겠-) (Future Volition & Guess)",
+    "level": "A2",
+    "goal": "Mastery of 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요).",
+    "lessonIds": [
+      "ko-u7-l1",
+      "ko-u7-l2",
+      "ko-u7-l3",
+      "ko-u7-l4",
+      "ko-u7-l5"
+    ]
+  },
+  {
+    "id": "ko-u8",
+    "unit": 8,
+    "title": "진행형(-고 있다)과 상태 지속(-아/어 있다) (Aspectual Continuatives)",
+    "level": "A2",
+    "goal": "Mastery of 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다).",
+    "lessonIds": [
+      "ko-u8-l1",
+      "ko-u8-l2",
+      "ko-u8-l3",
+      "ko-u8-l4",
+      "ko-u8-l5"
+    ]
+  },
+  {
+    "id": "ko-u9",
+    "unit": 9,
+    "title": "장소·방향 조사(에, 에서, -(으)로) (Locative & Directional)",
+    "level": "A2",
+    "goal": "Mastery of 장소 조사 에/에서/-(으)로 (Locative & Directional Particles).",
+    "lessonIds": [
+      "ko-u9-l1",
+      "ko-u9-l2",
+      "ko-u9-l3",
+      "ko-u9-l4",
+      "ko-u9-l5"
+    ]
+  },
+  {
+    "id": "ko-u10",
+    "unit": 10,
+    "title": "가능과 불가능(-(으)ㄹ 수 있다/없다) (Modal Ability)",
+    "level": "A2",
+    "goal": "Mastery of 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다).",
+    "lessonIds": [
+      "ko-u10-l1",
+      "ko-u10-l2",
+      "ko-u10-l3",
+      "ko-u10-l4",
+      "ko-u10-l5"
+    ]
+  },
+  {
+    "id": "ko-u11",
+    "unit": 11,
+    "title": "의무와 금지(-아/어야 하다, -면 안 되다) (Obligation)",
+    "level": "B1",
+    "goal": "Mastery of 의무와 금지 표현 (Obligation & Prohibition).",
+    "lessonIds": [
+      "ko-u11-l1",
+      "ko-u11-l2",
+      "ko-u11-l3",
+      "ko-u11-l4",
+      "ko-u11-l5"
+    ]
+  },
+  {
+    "id": "ko-u12",
+    "unit": 12,
+    "title": "주체 높임법(-(으)시-)과 특수 어휘 (Subject Honorifics)",
+    "level": "B1",
+    "goal": "Mastery of 주체 높임 선어말어미 -(으)시- (Subject Honorifics).",
+    "lessonIds": [
+      "ko-u12-l1",
+      "ko-u12-l2",
+      "ko-u12-l3",
+      "ko-u12-l4",
+      "ko-u12-l5"
+    ]
+  },
+  {
+    "id": "ko-u13",
+    "unit": 13,
+    "title": "객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics)",
+    "level": "B1",
+    "goal": "Mastery of 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다).",
+    "lessonIds": [
+      "ko-u13-l1",
+      "ko-u13-l2",
+      "ko-u13-l3",
+      "ko-u13-l4",
+      "ko-u13-l5"
+    ]
+  },
+  {
+    "id": "ko-u14",
+    "unit": 14,
+    "title": "이유·원인 연결어미(-아/어서, -(으)니까, -기 때문에)",
+    "level": "B1",
+    "goal": "Mastery of 이유 원인 연결어미 (Causal Connectives: -아/어서).",
+    "lessonIds": [
+      "ko-u14-l1",
+      "ko-u14-l2",
+      "ko-u14-l3",
+      "ko-u14-l4",
+      "ko-u14-l5"
+    ]
+  },
+  {
+    "id": "ko-u15",
+    "unit": 15,
+    "title": "대조와 배경 제시(-지만, -(으)ㄴ/는데) (Contrast & Background)",
+    "level": "B1",
+    "goal": "Mastery of 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데).",
+    "lessonIds": [
+      "ko-u15-l1",
+      "ko-u15-l2",
+      "ko-u15-l3",
+      "ko-u15-l4",
+      "ko-u15-l5"
+    ]
+  },
+  {
+    "id": "ko-u16",
+    "unit": 16,
+    "title": "관형사형 전성어미(-(으)ㄴ, -는, -(으)ㄹ) (Noun Modifiers)",
+    "level": "B1",
+    "goal": "Mastery of 관형사형 전성어미 (Noun-Modifying Clauses).",
+    "lessonIds": [
+      "ko-u16-l1",
+      "ko-u16-l2",
+      "ko-u16-l3",
+      "ko-u16-l4",
+      "ko-u16-l5"
+    ]
+  },
+  {
+    "id": "ko-u17",
+    "unit": 17,
+    "title": "명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization)",
+    "level": "B2",
+    "goal": "Mastery of 명사형 전성어미 (Nominalization: -기 / -는 것).",
+    "lessonIds": [
+      "ko-u17-l1",
+      "ko-u17-l2",
+      "ko-u17-l3",
+      "ko-u17-l4",
+      "ko-u17-l5"
+    ]
+  },
+  {
+    "id": "ko-u18",
+    "unit": 18,
+    "title": "간접화법(-다고 하다, -냐고 하다, -자고 하다) (Indirect Speech)",
+    "level": "B2",
+    "goal": "Mastery of 간접화법 표현 체계 (Indirect Reported Speech).",
+    "lessonIds": [
+      "ko-u18-l1",
+      "ko-u18-l2",
+      "ko-u18-l3",
+      "ko-u18-l4",
+      "ko-u18-l5"
+    ]
+  },
+  {
+    "id": "ko-u19",
+    "unit": 19,
+    "title": "피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice)",
+    "level": "B2",
+    "goal": "Mastery of 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes).",
+    "lessonIds": [
+      "ko-u19-l1",
+      "ko-u19-l2",
+      "ko-u19-l3",
+      "ko-u19-l4",
+      "ko-u19-l5"
+    ]
+  },
+  {
+    "id": "ko-u20",
+    "unit": 20,
+    "title": "사동 표현(-이/히/리/기/우/추-, -게 하다) (Causative Voice)",
+    "level": "B2",
+    "goal": "Mastery of 사동사 접미사와 -게 하다 (Causative Structures).",
+    "lessonIds": [
+      "ko-u20-l1",
+      "ko-u20-l2",
+      "ko-u20-l3",
+      "ko-u20-l4",
+      "ko-u20-l5"
+    ]
+  },
+  {
+    "id": "ko-u21",
+    "unit": 21,
+    "title": "조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals)",
+    "level": "B2",
+    "goal": "Mastery of 조건과 가정 어미 (Hypothetical Conditionals).",
+    "lessonIds": [
+      "ko-u21-l1",
+      "ko-u21-l2",
+      "ko-u21-l3",
+      "ko-u21-l4",
+      "ko-u21-l5"
+    ]
+  },
+  {
+    "id": "ko-u22",
+    "unit": 22,
+    "title": "심화 연결어미(-더라도, -(으)ㄹ수록, -는 한편) (Advanced Connectives)",
+    "level": "B2",
+    "goal": "Mastery of 심화 연결어미 활용 (Advanced Connectives).",
+    "lessonIds": [
+      "ko-u22-l1",
+      "ko-u22-l2",
+      "ko-u22-l3",
+      "ko-u22-l4",
+      "ko-u22-l5"
+    ]
+  },
+  {
+    "id": "ko-u23",
+    "unit": 23,
+    "title": "비즈니스 한국어와 직장 내 의전 (Business Korean)",
+    "level": "B2",
+    "goal": "Mastery of 비즈니스 회화와 이메일 (Business & Corporate Korean).",
+    "lessonIds": [
+      "ko-u23-l1",
+      "ko-u23-l2",
+      "ko-u23-l3",
+      "ko-u23-l4",
+      "ko-u23-l5"
+    ]
+  },
+  {
+    "id": "ko-u24",
+    "unit": 24,
+    "title": "한국 대중문화와 영화·드라마 비평 (Hallyu & Film Criticism)",
+    "level": "B2",
+    "goal": "Mastery of 대중문화와 영화 비평 (Korean Popular Culture & Arts).",
+    "lessonIds": [
+      "ko-u24-l1",
+      "ko-u24-l2",
+      "ko-u24-l3",
+      "ko-u24-l4",
+      "ko-u24-l5"
+    ]
+  },
+  {
+    "id": "ko-u25",
+    "unit": 25,
+    "title": "전통 한식 문화와 식문화 예절 (Culinary Arts & Etiquette)",
+    "level": "C1",
+    "goal": "Mastery of 전통 한식과 식문화 예절 (Korean Culinary Traditions).",
+    "lessonIds": [
+      "ko-u25-l1",
+      "ko-u25-l2",
+      "ko-u25-l3",
+      "ko-u25-l4",
+      "ko-u25-l5"
+    ]
+  },
+  {
+    "id": "ko-u26",
+    "unit": 26,
+    "title": "의료 상담과 건강보험 체계 (Medical & Clinical Discourse)",
+    "level": "C1",
+    "goal": "Mastery of 병원 진료와 건강 상담 (Clinical & Medical Consultations).",
+    "lessonIds": [
+      "ko-u26-l1",
+      "ko-u26-l2",
+      "ko-u26-l3",
+      "ko-u26-l4",
+      "ko-u26-l5"
+    ]
+  },
+  {
+    "id": "ko-u27",
+    "unit": 27,
+    "title": "금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate)",
+    "level": "C1",
+    "goal": "Mastery of 금융과 부동산 경제 (Banking, Finance & Real Estate).",
+    "lessonIds": [
+      "ko-u27-l1",
+      "ko-u27-l2",
+      "ko-u27-l3",
+      "ko-u27-l4",
+      "ko-u27-l5"
+    ]
+  },
+  {
+    "id": "ko-u28",
+    "unit": 28,
+    "title": "고사성어와 고급 사자성어 활용 (Sino-Korean Four-Character Idioms)",
+    "level": "C1",
+    "goal": "Mastery of 사자성어와 고사 (Sino-Korean Four-Character Idioms).",
+    "lessonIds": [
+      "ko-u28-l1",
+      "ko-u28-l2",
+      "ko-u28-l3",
+      "ko-u28-l4",
+      "ko-u28-l5"
+    ]
+  },
+  {
+    "id": "ko-u29",
+    "unit": 29,
+    "title": "학술 논문 작성과 학술 토론 (Academic Dissertation & Debate)",
+    "level": "C1",
+    "goal": "Mastery of 학술 논문과 학술 토론 (Academic Research & Dissertation).",
+    "lessonIds": [
+      "ko-u29-l1",
+      "ko-u29-l2",
+      "ko-u29-l3",
+      "ko-u29-l4",
+      "ko-u29-l5"
+    ]
+  },
+  {
+    "id": "ko-u30",
+    "unit": 30,
+    "title": "헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts)",
+    "level": "C1",
+    "goal": "Mastery of 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law).",
+    "lessonIds": [
+      "ko-u30-l1",
+      "ko-u30-l2",
+      "ko-u30-l3",
+      "ko-u30-l4",
+      "ko-u30-l5"
+    ]
+  },
+  {
+    "id": "ko-u31",
+    "unit": 31,
+    "title": "현대 사회 담론과 도시 발전 정책 (Sociopolitical Debates)",
+    "level": "C2",
+    "goal": "Mastery of 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates).",
+    "lessonIds": [
+      "ko-u31-l1",
+      "ko-u31-l2",
+      "ko-u31-l3",
+      "ko-u31-l4",
+      "ko-u31-l5"
+    ]
+  },
+  {
+    "id": "ko-u32",
+    "unit": 32,
+    "title": "첨단 과학 기술과 반도체 산업 (Science & Semiconductor Tech)",
+    "level": "C2",
+    "goal": "Mastery of 과학 기술과 반도체 산업 (Science & High Technology).",
+    "lessonIds": [
+      "ko-u32-l1",
+      "ko-u32-l2",
+      "ko-u32-l3",
+      "ko-u32-l4",
+      "ko-u32-l5"
+    ]
+  },
+  {
+    "id": "ko-u33",
+    "unit": 33,
+    "title": "동아시아 다자 외교와 조약 협상 (Multilateral Diplomacy)",
+    "level": "C2",
+    "goal": "Mastery of 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties).",
+    "lessonIds": [
+      "ko-u33-l1",
+      "ko-u33-l2",
+      "ko-u33-l3",
+      "ko-u33-l4",
+      "ko-u33-l5"
+    ]
+  },
+  {
+    "id": "ko-u34",
+    "unit": 34,
+    "title": "국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft)",
+    "level": "C2",
+    "goal": "Mastery of 정상회담과 정책 담화 (C2 Capstone Executive Statecraft).",
+    "lessonIds": [
+      "ko-u34-l1",
+      "ko-u34-l2",
+      "ko-u34-l3",
+      "ko-u34-l4",
+      "ko-u34-l5"
+    ]
+  }
 ];
   var LESSONS = {
   "ko-u1-l1": {
@@ -534,9 +534,9 @@
         {
           "prompt": "Identify the Hangul word meaning \"tree\" assembled from 'ㄴ + ㅏ' and 'ㅁ + ㅜ':",
           "options": [
-            "나무",
-            "바다",
-            "가구"
+            "나무 (tree)",
+            "바다 (Korean reading)",
+            "가구 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'ㄴ[n] + ㅏ[a] = 나' and 'ㅁ[m] + ㅜ[u] = 무', forming '나무' [namu] (tree). '바다' is sea and '가구' is furniture."
@@ -558,9 +558,9 @@
         {
           "prompt": "Select the Hangul word meaning \"hat/cap\" composed of 'ㅁ + ㅗ' [mo] and 'ㅈ + ㅏ' [ja]:",
           "options": [
-            "모자",
-            "사자",
-            "아이"
+            "모자 (hat/cap)",
+            "사자 (Korean reading)",
+            "아이 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'ㅁ + ㅗ = 모' [mo] and 'ㅈ + ㅏ = 자' [ja] combine to form '모자' [moja] (hat/cap)."
@@ -650,9 +650,9 @@
         {
           "prompt": "Which Hangul word means \"cooked rice / meal\" featuring the initial 'ㅂ', vowel 'ㅏ', and final Batchim 'ㅂ'?",
           "options": [
-            "밥",
-            "방",
-            "발"
+            "밥 (cooked rice/meal)",
+            "방 (Korean reading)",
+            "발 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'ㅂ + ㅏ + ㅂ = 밥' [bap] (cooked rice/meal). '방' ends with nasal [ㅇ] (room) and '발' ends with [ㄹ] (foot)."
@@ -664,9 +664,9 @@
         {
           "prompt": "Identify the word meaning \"river\" formed by initial 'ㄱ' [g], vowel 'ㅏ' [a], and final nasal Batchim 'ㅇ' [ng]:",
           "options": [
-            "강",
-            "간",
-            "갈"
+            "강 (river)",
+            "간 (Korean reading)",
+            "갈 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'ㄱ + ㅏ + ㅇ = 강' [gang] (river). '간' ends with [n] and '갈' ends with [l]."
@@ -674,9 +674,9 @@
         {
           "prompt": "Which of the following words contains the compound vowel 'ㅐ' [ae] and final Batchim 'ㄱ' [k] meaning \"book\"?",
           "options": [
-            "책",
-            "차",
-            "친구"
+            "책 (book)",
+            "차 (Korean reading)",
+            "친구 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'ㅊ + ㅐ + ㄱ = 책' [chaek] (book)."
@@ -751,9 +751,9 @@
         {
           "prompt": "You are leaving a coffee shop or classroom while the barista or your classmate stays inside. Which farewell should you say as you exit?",
           "options": [
-            "안녕히 계세요",
-            "안녕히 가세요",
-            "죄송합니다"
+            "안녕히 계세요 ('Stay in peace')",
+            "안녕히 가세요 (Korean reading)",
+            "죄송합니다 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "When you are leaving and the other person is staying behind, say '안녕히 계세요' ('Stay in peace'). '안녕히 가세요' is said to the person who is walking away."
@@ -761,9 +761,9 @@
         {
           "prompt": "Which expression is the universal polite daytime/evening greeting meaning \"Hello / How are you?\" in Korean?",
           "options": [
-            "안녕하세요?",
-            "안녕히 가세요",
-            "감사합니다"
+            "안녕하세요? (Korean reading)",
+            "안녕히 가세요 (Korean reading)",
+            "감사합니다 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'안녕하세요?' [Annyeonghaseyo?] is the standard polite meeting greeting used across all hours of the day in Korea."
@@ -775,9 +775,9 @@
         {
           "prompt": "A colleague helped you carry heavy boxes to your office. Which polite expression should you use to express sincere thanks?",
           "options": [
-            "감사합니다",
-            "죄송합니다",
-            "안녕히 계세요"
+            "감사합니다 (Korean reading)",
+            "죄송합니다 (Korean reading)",
+            "안녕히 계세요 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'감사합니다' [Gamsahamnida] is the standard formal polite phrase for expressing gratitude."
@@ -785,9 +785,9 @@
         {
           "prompt": "You accidentally bumped into someone on the Seoul subway. Which polite phrase should you immediately say to apologize?",
           "options": [
-            "죄송합니다",
-            "반갑습니다",
-            "안녕하세요"
+            "죄송합니다 (Korean reading)",
+            "반갑습니다 (Korean reading)",
+            "안녕하세요 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'죄송합니다' [Joesonghamnida] is the standard formal apology for mistakes, accidental bumps, or courtesies."
@@ -800,9 +800,9 @@
           "type": "multiple-choice",
           "prompt": "If your Korean host is waving goodbye to you as YOU depart their home, what will the host say to YOU as you walk away?",
           "options": [
-            "안녕히 가세요",
-            "안녕히 계세요",
-            "반갑습니다"
+            "안녕히 가세요 ('Go in peace')",
+            "안녕히 계세요 (Korean reading)",
+            "반갑습니다 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "Because you are the one leaving, the host who remains will say '안녕히 가세요' ('Go in peace')."
@@ -863,9 +863,9 @@
         {
           "prompt": "How do you form the polite formal question asking someone: \"Are you a teacher?\" (선생님 = teacher):",
           "options": [
-            "선생님입니까?",
-            "선생님입니다",
-            "선생님가요?"
+            "선생님입니까? (Are you a teacher?)",
+            "선생님입니다 (Korean reading)",
+            "선생님가요? (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "To ask a formal question with a noun, attach '-입니까?' [im-ni-kka?] to the noun: '선생님입니까?' (Are you a teacher?)."
@@ -873,9 +873,9 @@
         {
           "prompt": "Select the correct Korean sentence stating: \"I am a student\" (저 = I, 학생 = student):",
           "options": [
-            "저는 학생입니다",
-            "저는 학생입니까",
-            "저는 학생사람"
+            "저는 학생입니다 (As for me)",
+            "저는 학생입니까 (Korean reading)",
+            "저는 학생사람 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'저 + 는' (As for me) + '학생' (student) + '입니다' (am) forms '저는 학생입니다'."
@@ -887,9 +887,9 @@
         {
           "prompt": "In the self-introduction \"저는 미국 사람입니다\" (I am American), which word specifically means \"person / nationality\"?",
           "options": [
-            "사람",
-            "미국",
-            "입니다"
+            "사람 (Saram — person, e.g. miguk saram, hanguk saram)",
+            "미국 (Korean reading)",
+            "입니다 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'사람' [saram] means person. Placing it after a country name (e.g. 미국 사람, 한국 사람) expresses nationality."
@@ -897,9 +897,9 @@
         {
           "prompt": "Which ending converts the noun '의사' (doctor) into the statement \"I am a doctor\"?",
           "options": [
-            "의사입니다",
-            "의사입니까",
-            "의사안녕"
+            "의사입니다 (I am a doctor)",
+            "의사입니까 (Korean reading)",
+            "의사안녕 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "Attaching the formal copula '-입니다' creates the declarative statement '의사입니다' (I am a doctor)."
@@ -912,9 +912,9 @@
           "type": "multiple-choice",
           "prompt": "Complete the dialogue: A asks \"어느 나라 사람입니까?\" (Which nationality are you?). B responds: \"저는 _____ 사람입니다.\"",
           "options": [
-            "한국",
-            "학생",
-            "의사"
+            "한국 (Korea)",
+            "학생 (Korean reading)",
+            "의사 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "The question asks for nationality/country, so the country name '한국' (Korea) correctly fills the blank to say '저는 한국 사람입니다' (I am Korean)."
@@ -975,9 +975,9 @@
         {
           "prompt": "The noun '선생님' (teacher) ends in a final Batchim consonant ('ㅁ'). Which negative ending correctly forms \"I am not a teacher\"?",
           "options": [
-            "선생님이 아닙니다",
-            "선생님가 아닙니다",
-            "선생님은 아닙니다"
+            "선생님이 아닙니다 (Seonsaengnimi animnida — I am not a teacher)",
+            "선생님가 아닙니다 (Korean reading)",
+            "선생님은 아닙니다 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "Because '선생님' ends in a consonant (ㅁ), it takes the subject particle '이', creating '선생님이 아닙니다'."
@@ -985,9 +985,9 @@
         {
           "prompt": "The noun '의사' (doctor) ends in a vowel ('ㅏ', no Batchim). Which negative form correctly says \"I am not a doctor\"?",
           "options": [
-            "의사가 아닙니다",
-            "의사이 아닙니다",
-            "의사를 아닙니다"
+            "의사가 아닙니다 (Korean reading)",
+            "의사이 아닙니다 (Korean reading)",
+            "의사를 아닙니다 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "Because '의사' ends in a vowel, it takes the particle '가', creating '의사가 아닙니다'."
@@ -999,9 +999,9 @@
         {
           "prompt": "How do you say \"No, I am not Korean\" in polite Korean? (한국 사람 = Korean person):",
           "options": [
-            "아니요, 한국 사람이 아닙니다",
-            "네, 한국 사람입니다",
-            "아니요, 한국 사람입니다"
+            "아니요, 한국 사람이 아닙니다 (No)",
+            "네, 한국 사람입니다 (Korean reading)",
+            "아니요, 한국 사람입니다 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'아니요' (No) + '한국 사람이 아닙니다' (I am not Korean) correctly conveys the negative response."
@@ -1009,9 +1009,9 @@
         {
           "prompt": "Which particle correctly completes the sentence: \"가방__ 아닙니다. 책입니다.\" (It is not a bag [가방 ends in ㅇ]. It is a book.)?",
           "options": [
-            "이",
-            "가",
-            "를"
+            "이 (Korean reading)",
+            "가 (Korean reading)",
+            "를 (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'가방' ends with the Batchim nasal consonant 'ㅇ', so it takes '이', forming '가방이 아닙니다'."
@@ -1024,9 +1024,9 @@
           "type": "multiple-choice",
           "prompt": "Which of the following sentences is grammatically correct for \"I am not a doctor\"?",
           "options": [
-            "의사가 아닙니다.",
-            "의사이 아닙니다.",
-            "의사를 아닙니다."
+            "의사가 아닙니다. (Korean reading)",
+            "의사이 아닙니다. (Korean reading)",
+            "의사를 아닙니다. (Korean reading)"
           ],
           "answerIndex": 0,
           "explanation": "'의사' ends in a vowel, so the correct particle is '가', giving '의사가 아닙니다.'."
@@ -1208,7 +1208,7 @@
           "type": "multiple-choice",
           "prompt": "'Q: 누가 한국 사람입니까? A: _____ 한국 사람입니다.' 빈칸에 들어갈 가장 자연스러운 주어 표현은 무엇입니까?",
           "options": [
-            "제가) (누가(Who)라는 의문사 초점 질문에 답변할 때는 주격 조사 결합형인 제가",
+            "제가)라는 의문사 초점 질문에 답변할 때는 주격 조사 결합형인 제가",
             "저는",
             "저를"
           ],
@@ -1300,7 +1300,7 @@
           "type": "multiple-choice",
           "prompt": "'형_____ 키가 크고, 동생_____ 키가 작습니다.' 두 사람의 키를 대조하는 빈칸에 알맞은 조사 쌍은 무엇입니까?",
           "options": [
-            "은, 은) (형(받침 ㅇ 있음)은과 동생(받침 ㅇ 있음)은으로 대조 보조사 은이 양쪽에 결합해",
+            "은, 은)은과 동생(받침 ㅇ 있음)은으로 대조 보조사 은이 양쪽에 결합해",
             "이, 가",
             "을, 를"
           ],
@@ -1363,7 +1363,7 @@
         {
           "prompt": "'코끼리(전체) _____ 코(부분) _____ 깁니다.' 이중 주어문 공식에 맞게 빈칸에 들어갈 올바른 조사 쌍은 무엇입니까?",
           "options": [
-            "는, 가) (전체 대주제 코끼리(받침 없음) 뒤에는 는, 부분 소주어 코(받침 없음) 뒤에는",
+            "는, 가) 뒤에는 는, 부분 소주어 코(받침 없음) 뒤에는",
             "가, 는",
             "를, 이"
           ],
@@ -1639,7 +1639,7 @@
         {
           "prompt": "'민수 씨', '책', '읽습니다'를 한국어의 기본 SOV 어순과 올바른 조사에 맞추어 배열한 문장은 무엇입니까?",
           "options": [
-            "민수 씨가 책을 읽습니다.) (주어(민수 씨가) + 목적어(책을) + 동사(읽습니다) 순서의 SOV 구조가 가장",
+            "민수 씨가 책을 읽습니다.) + 목적어(책을) + 동사(읽습니다) 순서의 SOV 구조가 가장",
             "민수 씨가 읽습니다 책을.",
             "책을 읽습니다 민수 씨가."
           ],
@@ -1668,7 +1668,7 @@
           "type": "multiple-choice",
           "prompt": "영어 'I watch a movie'(SVO)를 한국어 기본 어순(SOV)으로 올바르게 번역한 문장은 무엇입니까?",
           "options": [
-            "저는 영화를 봅니다. (주어(저는) + 목적어(영화를) + 동사(봅니다)의 SOV 어순입니다.",
+            "저는 영화를 봅니다. (주어(저는) + 목적어(영화를) + 동사(봅니다)의 SOV 어순입니다.)",
             "저는 봅니다 영화를.",
             "영화를 봅니다 저는."
           ],
@@ -1837,7 +1837,7 @@
         {
           "prompt": "'이것을(this thing)'을 가리키며 '이것을 사겠습니다'라고 할 때 쓰이는 알맞은 축약 표현은 무엇입니까?",
           "options": [
-            "이걸 (이것을의 축약형은 이걸입니다. 이건은 이것은, 이게는 이것이의 축약형입니다.) (대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략",
+            "이걸 (이것을의 축약형은 이걸입니다. 이건은 이것은, 이게는 이것이의 축약형입니다.)과 일상 생략",
             "이건과 일상 생략",
             "이게과 일상 생략"
           ],
@@ -1852,7 +1852,7 @@
           "type": "multiple-choice",
           "prompt": "'Q: 지금 _____ 합니까? A: 음악을 듣습니다.' 빈칸에 들어갈 알맞은 의문 대명사 축약형은 무엇입니까?",
           "options": [
-            "뭘 (무엇을 합니까?의 축약 표현인 뭘 합니까?가 질문으로 정확합니다.) (대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략",
+            "뭘 (무엇을 합니까?의 축약 표현인 뭘 합니까?가 질문으로 정확합니다.)과 일상 생략",
             "날과 일상 생략",
             "널과 일상 생략"
           ],
@@ -1944,7 +1944,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 동작과 목적어의 연어 관계가 올바르게 짝지어진 문장은 무엇입니까?",
           "options": [
-            "공원에서 운동을 합니다. (운동(exercise)은 하다 동사와 결합하여 운동을 합니다가 올바른 연어입니다.",
+            "공원에서 운동을 합니다. (운동(exercise)은 하다 동사와 결합하여 운동을 합니다가 올바른 연어입니다.)",
             "공원에서 운동을 마십니다.",
             "공원에서 운동을 탑니다."
           ],
@@ -2113,7 +2113,7 @@
         {
           "prompt": "동사 '읽다(to read)'의 해요체 활용형과 올바른 발음 표기는 어느 것입니까?",
           "options": [
-            "읽어요 [일거요] (읽다는 음성모음(ㅣ) 어간이므로 -어요와 결합하여 읽어요가 되며 연음되어 [일거요]로 발음됩니다.",
+            "읽어요 [일거요] (읽다는 음성모음(ㅣ) 어간이므로 -어요와 결합하여 읽어요가 되며 연음되어 [일거요]로 발음됩니다.)",
             "읽아요 [일가요]",
             "읽해요 [일캐요]"
           ],
@@ -2283,7 +2283,7 @@
         {
           "prompt": "동사 '마시다(to drink)'에 '-어요'가 결합할 때 모음 축약(ㅣ+어→ㅕ)이 일어난 올바른 형태는 무엇입니까?",
           "options": [
-            "마셔요 (마시 + 어요는 ㅣ와 ㅓ가 합쳐져 마셔요로 축약됩니다.) (어간에 받침이 없는 모음 종결 용언이 '-아요/어요'와 만날 때 일어나는 동음 탈락과 모음 축약(Diphthongization)을 정확히 산출한다.",
+            "마셔요 (마시 + 어요는 ㅣ와 ㅓ가 합쳐져 마셔요로 축약됩니다.)을 정확히 산출한다.",
             "마시어요",
             "마샤요"
           ],
@@ -2312,7 +2312,7 @@
           "type": "multiple-choice",
           "prompt": "'배우다(to learn)'의 올바른 해요체 축약형(ㅜ+어→ㅝ)이 쓰인 문장은 무엇입니까?",
           "options": [
-            "한국어를 배워요. (배우 + 어요는 배워요로 축약됩니다.) (어간에 받침이 없는 모음 종결 용언이 '-아요/어요'와 만날 때 일어나는 동음 탈락과 모음 축약(Diphthongization)을 정확히 산출한다.",
+            "한국어를 배워요. (배우 + 어요는 배워요로 축약됩니다.)을 정확히 산출한다.",
             "한국어를 배우어요.",
             "한국어를 배와요."
           ],
@@ -2389,7 +2389,7 @@
         {
           "prompt": "'지금 어디에 가요?'라는 질문에 대해 '도서관에 갑니다'를 해요체 평서문으로 답할 때의 올바른 억양은 무엇입니까?",
           "options": [
-            "말끝을 차분하게 내리는 평서 억양(↘) (자신의 행동을 진술하는 평서문은 말끝을 자연스럽게 내립니다(↘).)",
+            "말끝을 차분하게 내리는 평서 억양(↘).",
             "말끝을 의문문처럼 올리는 억양",
             "말끝을 급격히 끊어버리는 억양"
           ],
@@ -2404,7 +2404,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 해요체 '같이 밥 먹어요!'의 문맥상 화용 기능은 무엇입니까?",
           "options": [
-            "함께 식사하자고 권유하는 청유문 (같이(together)와 결합한 해요는 상대방에게 행동을 제안하는 청유문(Suggestion)입니다.",
+            "함께 식사하자고 권유하는 청유문 (같이(together)와 결합한 해요는 상대방에게 행동을 제안하는 청유문(Suggestion)입니다.)",
             "혼자 밥을 먹는다는 단순 진술문",
             "밥을 왜 먹는지 따져 묻는 반박문"
           ],
@@ -2757,7 +2757,7 @@
         {
           "prompt": "행사에 참석한 귀빈들에게 깊은 감사를 표하는 가장 올바른 격식체 문장은 어느 것입니까?",
           "options": [
-            "참석해 주셔서 대단히 감사합니다. (공식 감사 표현으로는 대단히 감사합니다가 가장 표준적이고 정중합니다.) (공식 행사, 뉴스 보도, 비즈니스 프레젠테이션, 자기소개 면접 등 공적 담화(Public Discourse) 상황에서 하십시오체를 품격 있게 구사한다.",
+            "참석해 주셔서 대단히 감사합니다. (공식 감사 표현으로는 대단히 감사합니다가 가장 표준적이고 정중합니다.) 상황에서 하십시오체를 품격 있게 구사한다.",
             "참석해 줘서 정말 고마워.",
             "참석해 줘서 감사해요."
           ],
@@ -2772,7 +2772,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 비즈니스 면접 상황에 가장 어울리는 격식체 자기소개 문장은 무엇입니까?",
           "options": [
-            "안녕하십니까? 기획팀 지원자 박지은입니다. (취업 면접과 같은 최고 격식 자리에서는 하십시오체인 안녕하십니까? ... 지원자 박지은입니다가 표준입니다.) (공식 행사, 뉴스 보도, 비즈니스 프레젠테이션, 자기소개 면접 등 공적 담화(Public Discourse) 상황에서 하십시오체를 품격 있게 구사한다.",
+            "안녕하십니까? 기획팀 지원자 박지은입니다. (취업 면접과 같은 최고 격식 자리에서는 하십시오체인 안녕하십니까? ... 지원자 박지은입니다가 표준입니다.) 상황에서 하십시오체를 품격 있게 구사한다.",
             "안녕! 기획팀에 지원한 지은이야.",
             "안녕하세요! 기획팀 지은이에요."
           ],
@@ -2927,7 +2927,7 @@
         {
           "prompt": "동사 '먹다(to eat - 음성모음 ㅓ)'의 올바른 해요체 과거형은 무엇입니까?",
           "options": [
-            "먹었어요 (먹다의 어간 모음 ㅓ는 음성모음이므로 -었-과 결합하여 먹었어요가 됩니다.) (어간 끝 모음의 음운적 성질(양성모음 vs 음성모음 vs 하다)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.",
+            "먹었어요 (먹다의 어간 모음 ㅓ는 음성모음이므로 -었-과 결합하여 먹었어요가 됩니다.)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.",
             "먹았어요",
             "먹했어요"
           ],
@@ -2941,7 +2941,7 @@
         {
           "prompt": "'보다(to see - 양성모음 ㅗ)'의 올바른 격식체 하십시오체 과거형은 어느 것입니까?",
           "options": [
-            "봤습니다 (보다는 양성모음이므로 -았-과 축약 결합하여 봤습니다[봣씀니다]가 됩니다.) (어간 끝 모음의 음운적 성질(양성모음 vs 음성모음 vs 하다)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.",
+            "봤습니다 (보다는 양성모음이므로 -았-과 축약 결합하여 봤습니다[봣씀니다]가 됩니다.)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.",
             "보었습니다",
             "보했습니다"
           ],
@@ -2956,7 +2956,7 @@
           "type": "multiple-choice",
           "prompt": "'어제 공원에서 1시간 동안 열심히 _____ (I exercised diligently in the park yesterday).' 빈칸에 알맞은 과거형은?",
           "options": [
-            "운동했어요 (운동하다는 하다 동사이므로 과거형 운동했어요가 올바릅니다.) (어간 끝 모음의 음운적 성질(양성모음 vs 음성모음 vs 하다)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.",
+            "운동했어요 (운동하다는 하다 동사이므로 과거형 운동했어요가 올바릅니다.)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.",
             "운동았어요",
             "운동먹었어요"
           ],
@@ -3309,7 +3309,7 @@
         {
           "prompt": "'책을 읽다'와 '숙제를 하다'를 시간 순서대로 표현한 올바른 과거 서술 문장은 어느 것입니까?",
           "options": [
-            "책을 읽고 숙제를 했어요. (읽고(비시제 연결) + 했어요(종결 과거 시제)의 구조가 표준적입니다.",
+            "책을 읽고 숙제를 했어요. (읽고(비시제 연결) + 했어요(종결 과거 시제)의 구조가 표준적입니다.)",
             "책을 읽었고 숙제를 했어요.",
             "책을 읽고 숙제를 해요."
           ],
@@ -3677,7 +3677,7 @@
         {
           "prompt": "다음 중 '-(으)ㄹ게요'의 문법 규칙에 엄격히 부합하는 올바른 문장은 어느 것입니까?",
           "options": [
-            "제가 내일 아침 일찍 연락할게요. (-(으)ㄹ게요는 1인칭 주어 평서문에서만 사용 가능하므로 제가 ... 연락할게요가 유일하게 올바릅니다.",
+            "제가 내일 아침 일찍 연락할게요. (-(으)ㄹ게요는 1인칭 주어 평서문에서만 사용 가능하므로 제가 ... 연락할게요가 유일하게 올바릅니다.)",
             "선생님, 내일 학교에 올게요?ㄹ게요'와 일반 예정 '-",
             "민수 씨가 내일 영화를 볼게요.ㄹ게요'와 일반 예정 '-"
           ],
@@ -3968,7 +3968,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 '-아/어 있다'의 문법 규칙(자동사 결합 제약)에 완벽히 부합하는 문장은 무엇입니까?",
           "options": [
-            "공원에 예쁜 꽃이 피어 있어요.) (-아/어 있다는 타동사(밥을 먹다, 책을 읽다)와 결합할 수 없으며, 자동사인 피",
+            "공원에 예쁜 꽃이 피어 있어요.)와 결합할 수 없으며, 자동사인 피",
             "친구가 밥을 먹어 있어요.",
             "내가 책을 읽어 있어요."
           ],
@@ -4123,7 +4123,7 @@
         {
           "prompt": "'안경(glasses)'을 착용할 때 결합하는 올바른 착용 동사는 무엇입니까?",
           "options": [
-            "쓰다 (안경을 쓰다) (얼굴이나 머리에 착용하는 것은 동사 쓰다를 사용하므로 안경을 쓰다가 올바릅니다.) (신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect)과 '-고 있다'",
+            "쓰다 (안경을 쓰다 - to wear glasses)",
             "입다 (안경을 입다)의 이중적 상",
             "신다 (안경을 신다)의 이중적 상"
           ],
@@ -4137,7 +4137,7 @@
         {
           "prompt": "'운동화(sneakers)'를 발에 신은 상태를 묘사한 올바른 문장은 어느 것입니까?",
           "options": [
-            "새 운동화를 신고 있어요. (발에 착용하는 신발류는 신다를 쓰므로 신고 있어요가 정확합니다.) (신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect)과 '-고 있다'",
+            "새 운동화를 신고 있어요. (발에 착용하는 신발류는 신다를 쓰므로 신고 있어요가 정확합니다.)의 이중적 상(Aspect)과 '-고 있다'",
             "새 운동화를 쓰고 있어요.의 이중적 상",
             "새 운동화를 끼고 있어요.의 이중적 상"
           ],
@@ -4152,7 +4152,7 @@
           "type": "multiple-choice",
           "prompt": "'손에 따뜻한 가죽 장갑을 _____.' 빈칸에 알맞은 착용 동사는?",
           "options": [
-            "끼고 있어요 (손이나 손가락에 끼우는 장신구/보호구는 끼다를 쓰므로 끼고 있어요가 올바릅니다.) (신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect)과 '-고 있다'",
+            "끼고 있어요 (손이나 손가락에 끼우는 장신구/보호구는 끼다를 쓰므로 끼고 있어요가 올바릅니다.)의 이중적 상(Aspect)과 '-고 있다'",
             "입고 있어요의 이중적 상",
             "신고 있어요의 이중적 상"
           ],
@@ -4229,7 +4229,7 @@
         {
           "prompt": "테이블 위에 책이 '놓여 있는 상태'를 바르게 표현한 것은 어느 것입니까?",
           "options": [
-            "책이 놓여 있어요. (놓이다(to be placed)의 상태 지속형인 놓여 있어요가 정확합니다.",
+            "책이 놓여 있어요. (놓이다(to be placed)의 상태 지속형인 놓여 있어요가 정확합니다.)",
             "책이 놓고 있어요.",
             "책이 놓겠어요."
           ],
@@ -4244,7 +4244,7 @@
           "type": "multiple-choice",
           "prompt": "사진 묘사에서 '인물의 진행 동작'과 '사물의 지속 상태'가 모두 올바르게 사용된 문장은?",
           "options": [
-            "소파에 앉아 있는 사람이 커피를 마시고 있어요. (착석 상태(앉아 있는)와 음료 섭취 동작(마시고 있어요)이 완벽하게 결합되었습니다.",
+            "소파에 앉아 있는 사람이 커피를 마시고 있어요. (착석 상태(앉아 있는)와 음료 섭취 동작(마시고 있어요)이 완벽하게 결합되었습니다.)",
             "소파에 앉고 있는 사람이 커피를 마셔 있어요.",
             "소파에 앉겠는 사람이 커피를 마셨겠어요."
           ],
@@ -4399,7 +4399,7 @@
         {
           "prompt": "'도서관'에서 '책을 읽는 행동'을 할 때 결합하는 올바른 조사는 무엇입니까?",
           "options": [
-            "도서관에서 책을 읽어요. (책을 읽는 구체적인 동작이 일어나는 장소이므로 -에서가 올바릅니다.) (구체적인 역동적 행위가 일어나는 발생 장소(Action Location)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.",
+            "도서관에서 책을 읽어요. (책을 읽는 구체적인 동작이 일어나는 장소이므로 -에서가 올바릅니다.)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.",
             "도서관에 책을 읽어요.",
             "도서관으로 책을 읽어요."
           ],
@@ -4413,7 +4413,7 @@
         {
           "prompt": "'식당에서 밥을 먹었다'를 바르게 나타낸 문장은 어느 것입니까?",
           "options": [
-            "식당에서 점심을 먹었어요. (식사라는 역동적 행위가 일어나는 공간이므로 -에서를 사용합니다.) (구체적인 역동적 행위가 일어나는 발생 장소(Action Location)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.",
+            "식당에서 점심을 먹었어요. (식사라는 역동적 행위가 일어나는 공간이므로 -에서를 사용합니다.)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.",
             "식당에 점심을 먹었어요.",
             "식당을 점심을 먹었어요."
           ],
@@ -4428,7 +4428,7 @@
           "type": "multiple-choice",
           "prompt": "'A: 어디_____ 왔어요? B: 저는 호주_____ 왔어요.' 빈칸에 공통으로 알맞은 출처 조사는?",
           "options": [
-            "에서 (출신지나 출발 기점을 나타내는 조사는 -에서입니다.) (구체적인 역동적 행위가 일어나는 발생 장소(Action Location)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.",
+            "에서 (출신지나 출발 기점을 나타내는 조사는 -에서입니다.)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.",
             "에",
             "으로"
           ],
@@ -4491,7 +4491,7 @@
         {
           "prompt": "다음 중 조사의 쓰임이 문법적으로 올바른 문장은 어느 것입니까?",
           "options": [
-            "식당에서 맛있는 비빔밥을 먹었어요. (먹다는 구체적 행위 동사이므로 장소 조사 -에서가 결합해야 올바릅니다.) (동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 '-에'와 '-에서'를 정밀하게 구별하여 사용한다.",
+            "식당에서 맛있는 비빔밥을 먹었어요. (먹다는 구체적 행위 동사이므로 장소 조사 -에서가 결합해야 올바릅니다.)에 따라 '-에'와 '-에서'를 정밀하게 구별하여 사용한다.",
             "식당에 맛있는 비빔밥을 먹었어요.",
             "식당을 맛있는 비빔밥에 먹었어요."
           ],
@@ -4505,7 +4505,7 @@
         {
           "prompt": "'A: 지금 어디에 가요? B: 시장_____ 가요. 시장_____ 과일을 살 거예요.' 빈칸에 차례대로 들어갈 조사는?",
           "options": [
-            "에, 에서 (첫 문장은 이동 도착점(시장에 가요), 두 번째 문장은 구매 행동 장소(시장에서 살 거예요)입니다.) (동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 '-에'와 '-에서'를 정밀하게 구별하여 사용한다.",
+            "에, 에서 (첫 문장은 이동 도착점(시장에 가요), 두 번째 문장은 구매 행동 장소(시장에서 살 거예요)입니다.)에 따라 '-에'와 '-에서'를 정밀하게 구별하여 사용한다.",
             "에서, 에",
             "에, 에"
           ],
@@ -4520,7 +4520,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 '-에'와 '-에서'의 구분이 모두 완벽한 복합 문장은 무엇입니까?",
           "options": [
-            "주말에 공원에 가서 공원에서 자전거를 탔어요.) (시간(-에), 이동 도착점(공원에 가서), 동작 수행 장소 (동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 ...",
+            "주말에 공원에 가서 공원에서 자전거를 탔어요.), 이동 도착점(공원에 가서), 동작 수행 장소 (동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 ...",
             "주말에서 공원에서 가서 공원에 자전거를 탔어요.",
             "주말에 공원에 가서 공원에 자전거를 탔어요."
           ],
@@ -4583,7 +4583,7 @@
         {
           "prompt": "'오른쪽(right side)' 방향으로 이동하라고 안내할 때 올바른 결합 형태는 무엇입니까?",
           "options": [
-            "오른쪽으로 (오른쪽은 ㄱ 받침(ㄹ 제외 자음)으로 끝나므로 -으로가 결합하여 오른쪽으로가 됩니다.",
+            "오른쪽으로 (오른쪽은 ㄱ 받침(ㄹ 제외 자음)으로 끝나므로 -으로가 결합하여 오른쪽으로가 됩니다.)",
             "오른쪽로로",
             "오른쪽에로로"
           ],
@@ -4612,7 +4612,7 @@
           "type": "multiple-choice",
           "prompt": "'앞(front)' 방향으로 나아가라고 말할 때 알맞은 조사는?",
           "options": [
-            "앞으로 가세요. (앞은 ㅍ 받침(자음)이 있으므로 -으로가 결합하여 앞으로가 됩니다.",
+            "앞으로 가세요. (앞은 ㅍ 받침(자음)이 있으므로 -으로가 결합하여 앞으로가 됩니다.)",
             "앞로 가세요.로",
             "앞에서 가세요.로"
           ],
@@ -4888,7 +4888,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 정중한 거절 표현으로 문법과 화용이 가장 자연스러운 문장은?",
           "options": [
-            "죄송하지만 내일은 일정이 있어서 갈 수 없습니다. (사과 표현(죄송하지만)과 이유(일정이 있어서), 정중한 불가능 서술(갈 수 없습니다)이 완벽합니다.",
+            "죄송하지만 내일은 일정이 있어서 갈 수 없습니다. (사과 표현(죄송하지만)과 이유(일정이 있어서), 정중한 불가능 서술(갈 수 없습니다)이 완벽합니다.)",
             "죄송하지만 내일은 일정이 있어서 갈 수 있습니다.ㄹ 수 없다",
             "죄송하지만 내일은 일정이 있어서 가지 수 없어요.ㄹ 수 없다"
           ],
@@ -4965,7 +4965,7 @@
         {
           "prompt": "다음 중 '못'의 결합이 문법적으로 잘못된 비문은 어느 것입니까?",
           "options": [
-            "오늘 날씨가 못 추워요. (못은 형용사(춥다)와 결합할 수 없으며 단순 부정 부사인 안을 써야 합니다 (안 추워요).",
+            "오늘 날씨가 못 추워요. (못은 형용사(춥다)와 결합할 수 없으며 단순 부정 부사인 안을 써야 합니다 (안 추워요).)",
             "오늘 학교에 못 가요.ㄹ 수 없다",
             "김치를 매워서 못 먹어요.ㄹ 수 없다"
           ],
@@ -5043,7 +5043,7 @@
         {
           "prompt": "피아노 연주 방법을 알고 있음을 나타내는 가장 올바른 표현은 무엇입니까?",
           "options": [
-            "피아노를 칠 줄 알아요. (치다는 모음 종결 어간이므로 -ㄹ 줄 알다가 결합하여 칠 줄 알아요가 됩니다.) (어떤 기술, 기예, 스포츠 등의 실행 방법(know-how)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.",
+            "피아노를 칠 줄 알아요. (치다는 모음 종결 어간이므로 -ㄹ 줄 알다가 결합하여 칠 줄 알아요가 됩니다.)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.",
             "피아노를 치을 줄 알아요.ㄹ 줄 알다 / 모르다",
             "피아노를 쳐 줄 알아요.ㄹ 줄 알다 / 모르다"
           ],
@@ -5057,7 +5057,7 @@
         {
           "prompt": "'스키를 타는 방법을 모른다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "스키를 탈 줄 몰라요. (방법을 모를 때는 모르다를 결합하여 탈 줄 몰라요가 올바릅니다.) (어떤 기술, 기예, 스포츠 등의 실행 방법(know-how)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.",
+            "스키를 탈 줄 몰라요. (방법을 모를 때는 모르다를 결합하여 탈 줄 몰라요가 올바릅니다.)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.",
             "스키를 타을 줄 몰라요.ㄹ 줄 알다 / 모르다",
             "스키를 탈 줄 알아요.ㄹ 줄 알다 / 모르다"
           ],
@@ -5072,7 +5072,7 @@
           "type": "multiple-choice",
           "prompt": "'A: 한국 요리 할 줄 알아요? B: 네, 불고기를 _____.' 빈칸에 알맞은 형태는?",
           "options": [
-            "만들 줄 알아요 (네로 긍정 답변을 했으며 만들다는 ㄹ 받침이므로 만들 줄 알아요가 정확합니다.) (어떤 기술, 기예, 스포츠 등의 실행 방법(know-how)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.",
+            "만들 줄 알아요 (네로 긍정 답변을 했으며 만들다는 ㄹ 받침이므로 만들 줄 알아요가 정확합니다.)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.",
             "만들을 줄 알아요ㄹ 줄 알다 / 모르다",
             "만들 줄 몰라요ㄹ 줄 알다 / 모르다"
           ],
@@ -5425,7 +5425,7 @@
         {
           "prompt": "'창문을 열어도 됩니까?'라는 정중한 허가 질문에 알맞은 승인 답변은 어느 것입니까?",
           "options": [
-            "네, 창문을 여셔도 됩니다. (허가를 승인할 때는 네와 함께 -아/어도 되다(존칭: -으셔도 되다)를 씁니다.",
+            "네, 창문을 여셔도 됩니다. (허가를 승인할 때는 네와 함께 -아/어도 되다(존칭: -으셔도 되다)를 씁니다.)",
             "네, 창문을 열면 안 됩니다.",
             "아니요, 창문을 여셔도 돼요."
           ],
@@ -5503,7 +5503,7 @@
         {
           "prompt": "'내일 일찍 일어날 필요가 없다(No need to wake up early)'를 나타낸 올바른 문장은 무엇입니까?",
           "options": [
-            "내일 일찍 일어나지 않아도 돼요. (의무의 면제/불필요는 -지 않아도 되다를 사용하므로 일어나지 않아도 돼요가 정확합니다.) (의무를 면제해주어 '그렇게 할 필요가 없다(No need to / Don't have to)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.",
+            "내일 일찍 일어나지 않아도 돼요. (의무의 면제/불필요는 -지 않아도 되다를 사용하므로 일어나지 않아도 돼요가 정확합니다.)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.",
             "내일 일찍 일어나면 안 돼요.",
             "내일 일찍 일어나야 돼요."
           ],
@@ -5517,7 +5517,7 @@
         {
           "prompt": "'돈을 내지 않아도 된다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "돈을 안 내도 돼요. (안 -아/어도 되다는 불필요 표현이므로 돈을 안 내도 돼요가 올바릅니다.) (의무를 면제해주어 '그렇게 할 필요가 없다(No need to / Don't have to)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.",
+            "돈을 안 내도 돼요. (안 -아/어도 되다는 불필요 표현이므로 돈을 안 내도 돼요가 올바릅니다.)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.",
             "돈을 내면 안 돼요.",
             "돈을 내야 돼요."
           ],
@@ -5532,7 +5532,7 @@
           "type": "multiple-choice",
           "prompt": "'금지(Must not)'와 '불필요(Don't have to)'의 짝이 올바르게 묶인 것은?",
           "options": [
-            "금지: 가면 안 돼요 / 불필요: 가지 않아도 돼요 (-면 안 되다는 금지, -지 않아도 되다는 불필요를 나타냅니다.) (의무를 면제해주어 '그렇게 할 필요가 없다(No need to / Don't have to)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.",
+            "금지: 가면 안 돼요 / 불필요: 가지 않아도 돼요 (-면 안 되다는 금지, -지 않아도 되다는 불필요를 나타냅니다.)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.",
             "금지: 가지 않아도 돼요 / 불필요: 가면 안 돼요",
             "금지: 가야 돼요 / 불필요: 가지 마세요"
           ],
@@ -5779,7 +5779,7 @@
         {
           "prompt": "'할아버지(Grandfather)' 뒤에 올 가장 알맞은 존칭 주격 조사는 무엇입니까?",
           "options": [
-            "께서 (주체 높임 대상 뒤에는 존칭 주격 조사 께서가 결합합니다.) (주어 명사 뒤에 결합하여 주어를 극존칭으로 대우하는 주격 조사 '께서'와 대조/주제 보조사 '께서는'의 통사적 일치(Syntactic Agreement)를 체득한다.",
+            "께서 (주체 높임 대상 뒤에는 존칭 주격 조사 께서가 결합합니다.)를 체득한다.",
             "가",
             "에게"
           ],
@@ -5793,7 +5793,7 @@
         {
           "prompt": "주어 조사와 서술어 높임이 완벽히 일치한 문장은 어느 것입니까?",
           "options": [
-            "아버지께서 아침 일찍 산책을 하십니다. (아버지께서(존칭 주어) + 하십니다(주체 높임 서술어)의 호응이 완벽합니다.) (주어 명사 뒤에 결합하여 주어를 극존칭으로 대우하는 주격 조사 '께서'와 대조/주제 보조사 '께서는'의 통사적 일치(Syntactic Agreement)를 체득한다.",
+            "아버지께서 아침 일찍 산책을 하십니다. (아버지께서(존칭 주어) + 하십니다(주체 높임 서술어)의 호응이 완벽합니다.)를 체득한다.",
             "아버지가 아침 일찍 산책을 합니다.",
             "아버지에게 아침 일찍 산책을 하십니다."
           ],
@@ -5808,7 +5808,7 @@
           "type": "multiple-choice",
           "prompt": "'교수님_____ 연구실에서 책을 읽으십니다.' 빈칸에 들어갈 가장 알맞은 존칭 조사는?",
           "options": [
-            "께서 (행동의 주체인 교수님을 높이는 주격 조사는 께서입니다.) (주어 명사 뒤에 결합하여 주어를 극존칭으로 대우하는 주격 조사 '께서'와 대조/주제 보조사 '께서는'의 통사적 일치(Syntactic Agreement)를 체득한다.",
+            "께서 (행동의 주체인 교수님을 높이는 주격 조사는 께서입니다.)를 체득한다.",
             "께",
             "을"
           ],
@@ -5871,7 +5871,7 @@
         {
           "prompt": "'자다(to sleep)'의 주체 높임 특수 동사는 무엇입니까?",
           "options": [
-            "주무시다 (자다의 주체 높임 특수 동사는 주무시다입니다 (*자시다 X).",
+            "주무시다 (자다의 주체 높임 특수 동사는 주무시다입니다 (*자시다 X).)",
             "자시다",
             "자으시다"
           ],
@@ -5885,7 +5885,7 @@
         {
           "prompt": "'할머니께서 집에 계신다(Grandmother is at home)'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
-            "할머니께서 집에 계십니다. (인물 자체의 존재를 직접 높일 때는 특수 동사 계시다를 씁니다.) ('-(으)시-'를 붙이지 않고 어휘 자체가 교체되는 보충법적(Suppletive) 주체 높임 특수 동사 및 형용사의 목록을 완벽히 암기하고 구별한다.",
+            "할머니께서 집에 계십니다. (인물 자체의 존재를 직접 높일 때는 특수 동사 계시다를 씁니다.)시-'를 붙이지 않고 어휘 자체가 교체되는 보충법적(Suppletive) 주체 높임 특수 동사 및 형용사의 목록을 완벽히 암기하고 구별한다.",
             "할머니께서 집에 있으십니다.",
             "할머니께서 집에 사십니다."
           ],
@@ -5900,7 +5900,7 @@
           "type": "multiple-choice",
           "prompt": "'어머니께서 저녁 식사를 맛있게 _____.' 빈칸에 알맞은 '먹다'의 특수 높임형은?",
           "options": [
-            "드셨어요 (잡수셨어요) (먹다의 주체 높임형은 드시다/잡수시다이므로 과거형 드셨어요/잡수셨어요가 올바릅니다.) ('-(으)시-'를 붙이지 않고 어휘 자체가 교체되는 보충법적(Suppletive) 주체 높임 특수 동사 및 형용사의 목록을 완벽히 암기하고 구별한다.",
+            "드셨어요 (honorific suppletive verb)",
             "먹으셨어요",
             "주무셨어요"
           ],
@@ -5963,7 +5963,7 @@
         {
           "prompt": "웃어른의 '이름(Name)'을 정중하게 여쭈어볼 때 쓰는 높임 명사는 무엇입니까?",
           "options": [
-            "성함 (이름의 높임 명사는 성함입니다.) (높임 대상과 관련된 사물/개념을 가리키는 특수 명사 어휘와 신체/소유물을 높이는 간접 높임(Indirect Honorifics)의 규칙을 체득한다.",
+            "성함 (이름의 높임 명사는 성함입니다.)의 규칙을 체득한다.",
             "연세 및 간접 높임",
             "진지 및 간접 높임"
           ],
@@ -5977,7 +5977,7 @@
         {
           "prompt": "웃어른의 신체나 소유물을 높이는 간접 높임 문장으로 가장 올바른 것은 어느 것입니까?",
           "options": [
-            "교수님께서는 키가 크십니다. (주체의 신체(키)를 간접 높임할 때는 특수 어휘가 아닌 크시다(크다 + 시)를 씁니다.) (높임 대상과 관련된 사물/개념을 가리키는 특수 명사 어휘와 신체/소유물을 높이는 간접 높임(Indirect Honorifics)의 규칙을 체득한다.",
+            "교수님께서는 키가 크십니다. (주체의 신체(키)를 간접 높임할 때는 특수 어휘가 아닌 크시다(크다 + 시)를 씁니다.)의 규칙을 체득한다.",
             "교수님께서는 키가 크계십니다. 및 간접 높임",
             "교수님께서는 키가 큽니다. 및 간접 높임"
           ],
@@ -5992,7 +5992,7 @@
           "type": "multiple-choice",
           "prompt": "'선생님, 지금 잠시 _____ (Teacher, do you have a moment)?' 빈칸에 알맞은 표현은?",
           "options": [
-            "시간 있으세요? (소유물이나 시간은 간접 높임이므로 계시다가 아닌 있으시다(있으세요)를 써야 합니다.) (높임 대상과 관련된 사물/개념을 가리키는 특수 명사 어휘와 신체/소유물을 높이는 간접 높임(Indirect Honorifics)의 규칙을 체득한다.",
+            "시간 있으세요? (소유물이나 시간은 간접 높임이므로 계시다가 아닌 있으시다(있으세요)를 써야 합니다.)의 규칙을 체득한다.",
             "시간 계세요? 및 간접 높임",
             "시간 있어요? 및 간접 높임"
           ],
@@ -6069,7 +6069,7 @@
         {
           "prompt": "할머니께 식사 여부를 공손히 여쭈어보는 문장으로 가장 올바른 것은 어느 것입니까?",
           "options": [
-            "할머니, 진지 잡수셨어요? (진지(높임 명사)와 잡수셨어요(특수 동사 잡수시다의 과거형)가 호응하는 첫 번째 문장이 가장 공손합니다.",
+            "할머니, 진지 잡수셨어요? (진지(높임 명사)와 잡수셨어요(특수 동사 잡수시다의 과거형)가 호응하는 첫 번째 문장이 가장 공손합니다.)",
             "할머니, 밥 먹었어요?",
             "할머니, 식사하셨니?"
           ],
@@ -6331,7 +6331,7 @@
         {
           "prompt": "처음 만난 웃어른께 건네는 가장 표준적이고 정중한 인사말은 무엇입니까?",
           "options": [
-            "처음 뵙겠습니다. (첫 만남의 정중한 인사말은 처음 뵙겠습니다입니다.) (웃어른을 만나거나 찾아뵐 때 '만나다/보다' 대신 사용하는 '뵙다 / 뵈다'의 형태 구분(뵙겠습니다 vs 봬요)과 공손한 인사법을 익힌다.",
+            "처음 뵙겠습니다. (첫 만남의 정중한 인사말은 처음 뵙겠습니다입니다.)과 공손한 인사법을 익힌다.",
             "처음 만나겠습니다.의 객체 높임 특수 동사 '뵙다 / 뵈다'",
             "처음 보겠습니다.의 객체 높임 특수 동사 '뵙다 / 뵈다'"
           ],
@@ -6345,7 +6345,7 @@
         {
           "prompt": "'다음 주에 만나요(See you next week)'를 선생님께 올바른 해요체 높임으로 표현한 것은 어느 것입니까?",
           "options": [
-            "다음 주에 봬요. (뵈다에 -어요가 결합하여 축약된 올바른 표기는 봬요입니다.) (웃어른을 만나거나 찾아뵐 때 '만나다/보다' 대신 사용하는 '뵙다 / 뵈다'의 형태 구분(뵙겠습니다 vs 봬요)과 공손한 인사법을 익힌다.",
+            "다음 주에 봬요. (뵈다에 -어요가 결합하여 축약된 올바른 표기는 봬요입니다.)과 공손한 인사법을 익힌다.",
             "다음 주에 뵈요.의 객체 높임 특수 동사 '뵙다 / 뵈다'",
             "다음 주에 뵙어요.의 객체 높임 특수 동사 '뵙다 / 뵈다'"
           ],
@@ -6360,7 +6360,7 @@
           "type": "multiple-choice",
           "prompt": "'교수님을 _____ 연구실에 갔습니다 (I went to the lab to see the professor).' 빈칸에 알맞은 형태는?",
           "options": [
-            "뵈러 (목적 연결어미 -(으)러 앞에서는 어간 뵈- 뒤에 러가 붙어 뵈러가 됩니다.) (웃어른을 만나거나 찾아뵐 때 '만나다/보다' 대신 사용하는 '뵙다 / 뵈다'의 형태 구분(뵙겠습니다 vs 봬요)과 공손한 인사법을 익힌다.",
+            "뵈러 (목적 연결어미 -(으)러 앞에서는 어간 뵈- 뒤에 러가 붙어 뵈러가 됩니다.)과 공손한 인사법을 익힌다.",
             "뵙으러의 객체 높임 특수 동사 '뵙다 / 뵈다'",
             "봬러의 객체 높임 특수 동사 '뵙다 / 뵈다'"
           ],
@@ -6423,7 +6423,7 @@
         {
           "prompt": "'선생님께 질문을 묻다'를 객체 높임으로 바르게 표현한 문장은 무엇입니까?",
           "options": [
-            "선생님께 질문을 여쭤보았습니다. (웃어른께 질문할 때는 특수 겸양 동사인 여쭤보다(여쭙다)를 씁니다.",
+            "선생님께 질문을 여쭤보았습니다. (웃어른께 질문할 때는 특수 겸양 동사인 여쭤보다(여쭙다)를 씁니다.)",
             "선생님께 질문을 물어보았습니다.",
             "선생님에게 질문을 물었습니다."
           ],
@@ -6544,7 +6544,7 @@
           "type": "multiple-choice",
           "prompt": "다음 상담 대화 중 화용론적으로 가장 품격 있고 자연스러운 문장은?",
           "options": [
-            "바쁘신 중에 귀한 시간 내어 주셔서 감사드리며, 다음 주에 다시 뵙겠습니다. (감사 인사(감사드리며)와 다음 약속 인사(다시 뵙겠습니다)가 완벽한 격식을 갖추었습니다.",
+            "바쁘신 중에 귀한 시간 내어 주셔서 감사드리며, 다음 주에 다시 뵙겠습니다. (감사 인사(감사드리며)와 다음 약속 인사(다시 뵙겠습니다)가 완벽한 격식을 갖추었습니다.)",
             "바쁜데 시간 줘서 고맙고 다음 주에 다시 만나겠다.",
             "바쁘신 중에 시간 줘서 감사하고 다음 주에 보자."
           ],
@@ -6621,7 +6621,7 @@
         {
           "prompt": "다음 중 '-아/어서'의 문법적 제약을 위반한 비문은 어느 것입니까?",
           "options": [
-            "날씨가 좋아서 산책하러 갑시다. (-아/어서는 청유문(-갑시다)의 이유로 쓰일 수 없습니다 (청유문에는 날씨가 좋으니까 사용).",
+            "날씨가 좋아서 산책하러 갑시다. (-아/어서는 청유문(-갑시다)의 이유로 쓰일 수 없습니다 (청유문에는 날씨가 좋으니까 사용).)",
             "날씨가 좋아서 기분이 상쾌해요.",
             "날씨가 좋아서 빨래가 잘 말라요."
           ],
@@ -6636,7 +6636,7 @@
           "type": "multiple-choice",
           "prompt": "'약속 시간에 _____ 죄송합니다 (I am sorry for being late).' 빈칸에 가장 알맞은 표현은?",
           "options": [
-            "늦어서 (사과 표현(죄송합니다) 앞의 이유에는 관용적으로 -아/어서(늦어서)를 써야 자연스럽습니다.",
+            "늦어서 (사과 표현(죄송합니다) 앞의 이유에는 관용적으로 -아/어서(늦어서)를 써야 자연스럽습니다.)",
             "늦으니까",
             "늦었기 때문에"
           ],
@@ -6699,7 +6699,7 @@
         {
           "prompt": "명령문 '서두르세요(Please hurry)' 앞의 이유 절로 가장 올바른 형태는 무엇입니까?",
           "options": [
-            "시간이 없으니까 (명령문의 전제 이유로는 -아/어서가 아닌 -(으)니까를 사용하므로 시간이 없으니까가 정확합니다.",
+            "시간이 없으니까 (명령문의 전제 이유로는 -아/어서가 아닌 -(으)니까를 사용하므로 시간이 없으니까가 정확합니다.)",
             "시간이 없어서니까",
             "시간이 없으면니까"
           ],
@@ -6713,7 +6713,7 @@
         {
           "prompt": "청유문 '-합시다'와 결합하여 문법적으로 완벽한 문장은 어느 것입니까?",
           "options": [
-            "날씨가 화창하니까 한강 공원으로 소풍을 갑시다. (청유문(-갑시다) 앞에는 반드시 -(으)니까가 호응합니다.",
+            "날씨가 화창하니까 한강 공원으로 소풍을 갑시다. (청유문(-갑시다) 앞에는 반드시 -(으)니까가 호응합니다.)",
             "날씨가 화창해서 한강 공원으로 소풍을 갑시다.니까",
             "날씨가 화창하지만 한강 공원으로 소풍을 갑시다.니까"
           ],
@@ -6883,7 +6883,7 @@
         {
           "prompt": "'배가 부르다'를 이유로 하여 '식사를 그만합시다(Let's stop eating)'와 결합할 때 올바른 어미는?",
           "options": [
-            "배가 부르니까 (청유문(-합시다) 앞에는 오직 -(으)니까(배가 부르니까)만 결합할 수 있습니다.) (3대 이유 어미(-아/어서 vs -(으)니까 vs -기 때문에) 비교 및 문법 제약",
+            "배가 부르니까 (청유문(-합시다) 앞에는 오직 -(으)니까(배가 부르니까)만 결합할 수 있습니다.)니까 vs -기 때문에) 비교 및 문법 제약",
             "배가 불러서니까 vs -기 때문에",
             "배가 부르기 때문에니까 vs -기 때문에"
           ],
@@ -6897,7 +6897,7 @@
         {
           "prompt": "다음 중 세 이유 어미의 문법적 제약이 올바르게 지켜진 문장은 어느 것입니까?",
           "options": [
-            "시간이 늦었으니 어서 집으로 돌아가세요.) (명령문(-돌아가세요) 앞에는 -(으)니까(축약형: -(으)니)가 결합한 첫 번째",
+            "시간이 늦었으니 어서 집으로 돌아가세요.) 앞에는 -(으)니까(축약형: -(으)니)가 결합한 첫 번째",
             "시간이 늦어서 어서 집으로 돌아가세요.니까 vs -기 때문에",
             "시간이 늦기 때문에 어서 집으로 돌아가세요.니까 vs -기 때문에"
           ],
@@ -6989,7 +6989,7 @@
         {
           "prompt": "상대방의 양해에 대해 감사함을 표현하는 가장 올바른 문장은 어느 것입니까?",
           "options": [
-            "사정을 이해해 주셔서 정말 감사합니다. (감사 인사 앞에는 오직 -아/어서(이해해 주셔서)가 호응합니다.",
+            "사정을 이해해 주셔서 정말 감사합니다. (감사 인사 앞에는 오직 -아/어서(이해해 주셔서)가 호응합니다.)",
             "사정을 이해해 주니까 정말 감사합니다.",
             "사정을 이해해 주기 때문에 정말 감사합니다."
           ],
@@ -7159,7 +7159,7 @@
         {
           "prompt": "형용사 '예쁘다(pretty)'에 배경 제시 어미가 결합한 올바른 형태는 무엇입니까?",
           "options": [
-            "예쁜데 (형용사 모음 종결 어간 뒤에는 -(으)ㄴ데가 붙어 예쁜데가 됩니다.",
+            "예쁜데 (형용사 모음 종결 어간 뒤에는 -(으)ㄴ데가 붙어 예쁜데가 됩니다.)",
             "예쁘는데ㄴ/는데",
             "예쁜는데ㄴ/는데"
           ],
@@ -7173,7 +7173,7 @@
         {
           "prompt": "동사 '먹다(eat)'와 '있다(exist)'의 배경 제시 형태가 모두 올바르게 짝지어진 것은?",
           "options": [
-            "먹는데 - 있는데 (동사는 -는데(먹는데), 있다/없다도 항상 -는데(있는데)가 결합합니다.",
+            "먹는데 - 있는데 (동사는 -는데(먹는데), 있다/없다도 항상 -는데(있는데)가 결합합니다.)",
             "먹은데 - 있은데ㄴ/는데",
             "먹는데 - 있은데ㄴ/는데"
           ],
@@ -7251,7 +7251,7 @@
         {
           "prompt": "친구의 식사 제안을 완곡하고 공손하게 거절하는 가장 적절한 표현은 무엇입니까?",
           "options": [
-            "같이 가고 싶은데 오늘 다른 약속이 있어요. (화자의 마음을 완곡하게 밝히며 거절할 때는 가고 싶은데가 가장 자연스럽고 부드럽습니다.) (화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스 대비",
+            "같이 가고 싶은데 오늘 다른 약속이 있어요. (화자의 마음을 완곡하게 밝히며 거절할 때는 가고 싶은데가 가장 자연스럽고 부드럽습니다.)ㄴ/는데' vs '-지만' 뉘앙스 대비",
             "같이 가고 싶지만 오늘 다른 약속이 있습니다.ㄴ/는데' vs '-지만' 뉘앙스",
             "같이 가고 싶으니까 안 갈 거예요.ㄴ/는데' vs '-지만' 뉘앙스"
           ],
@@ -7265,7 +7265,7 @@
         {
           "prompt": "기대와 다른 반전 상황을 아쉬움을 담아 표현한 가장 자연스러운 문장은 어느 것입니까?",
           "options": [
-            "열심히 찾아봤는데 지갑이 어디에도 없어요. (일상 구어에서 기대와 어긋난 반전적 아쉬움을 완곡히 전할 때는 -았/었는데가 으뜸입니다.) (화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스 대비",
+            "열심히 찾아봤는데 지갑이 어디에도 없어요. (일상 구어에서 기대와 어긋난 반전적 아쉬움을 완곡히 전할 때는 -았/었는데가 으뜸입니다.)ㄴ/는데' vs '-지만' 뉘앙스 대비",
             "열심히 찾아봤지만 지갑이 어디에도 없습니다.ㄴ/는데' vs '-지만' 뉘앙스",
             "열심히 찾아보니까 지갑이 어디에도 없습니다.ㄴ/는데' vs '-지만' 뉘앙스"
           ],
@@ -7280,7 +7280,7 @@
           "type": "multiple-choice",
           "prompt": "'영화를 보러 _____ 표가 매진되었어요 (I went to see a movie, but tickets were sold out).' 빈칸에 알맞은 형태는?",
           "options": [
-            "갔는데 (과거 행동 뒤에 기대와 다른 상황(표 매진)을 맞닥뜨린 반전 배경이므로 갔는데가 정확합니다.) (화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스 대비",
+            "갔는데 (과거 행동 뒤에 기대와 다른 상황(표 매진)을 맞닥뜨린 반전 배경이므로 갔는데가 정확합니다.)ㄴ/는데' vs '-지만' 뉘앙스 대비",
             "가서ㄴ/는데' vs '-지만' 뉘앙스",
             "가니까요ㄴ/는데' vs '-지만' 뉘앙스"
           ],
@@ -7449,7 +7449,7 @@
         {
           "prompt": "옷 매장에서 교환을 요청하는 대화 중 문법과 맥락이 가장 완벽한 것은 어느 것입니까?",
           "options": [
-            "어제 산 바지인데, 사이즈가 안 맞아서 교환하고 싶어요. (배경 제시(바지인데)와 원인(안 맞아서)이 완벽한 논리 구조를 이룹니다.",
+            "어제 산 바지인데, 사이즈가 안 맞아서 교환하고 싶어요. (배경 제시(바지인데)와 원인(안 맞아서)이 완벽한 논리 구조를 이룹니다.)",
             "어제 산 바지이지만, 사이즈가 맞으니까 교환하세요.",
             "어제 산 바지여서, 사이즈가 맞아서 교환할래요."
           ],
@@ -7619,7 +7619,7 @@
         {
           "prompt": "형용사 '좋다(good)'가 명사 '날씨(weather)'를 현재형으로 수식하는 올바른 형태는?",
           "options": [
-            "좋은 날씨 (형용사의 현재 관형형은 -(으)ㄴ이므로 좋은 날씨가 정확합니다 (*좋는은 비문).) (동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'",
+            "좋은 날씨 (형용사의 현재 관형형은 -(으)ㄴ이므로 좋은 날씨가 정확합니다 (*좋는은 비문).)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'",
             "좋는 날씨ㄴ') vs 형용사의 현재 관형형",
             "좋은는 날씨ㄴ') vs 형용사의 현재 관형형"
           ],
@@ -7633,7 +7633,7 @@
         {
           "prompt": "'어제 읽다(read yesterday)'를 사용하여 '책(book)'을 과거 관형형으로 바르게 수식한 것은?",
           "options": [
-            "어제 읽은 책 (동사의 과거 관형형은 -(으)ㄴ이므로 자음 받침 뒤에 -은이 붙은 어제 읽은 책이 맞습니다.) (동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'",
+            "어제 읽은 책 (동사의 과거 관형형은 -(으)ㄴ이므로 자음 받침 뒤에 -은이 붙은 어제 읽은 책이 맞습니다.)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'",
             "어제 읽는 책ㄴ') vs 형용사의 현재 관형형",
             "어제 읽을 책ㄴ') vs 형용사의 현재 관형형"
           ],
@@ -7648,7 +7648,7 @@
           "type": "multiple-choice",
           "prompt": "'어제 _____ 사람과 오늘 _____ 사람은 다른 사람입니다.' 빈칸에 들어갈 알맞은 형태 순서는?",
           "options": [
-            "만난 / 만나는 (어제 만난(과거 동사 -(으)ㄴ) + 오늘 만나는(현재 동사 -는)의 대조가 완벽합니다.) (동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'",
+            "만난 / 만나는 (어제 만난(과거 동사 -(으)ㄴ) + 오늘 만나는(현재 동사 -는)의 대조가 완벽합니다.)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'",
             "만나는 / 만난ㄴ') vs 형용사의 현재 관형형",
             "만날 / 만난ㄴ') vs 형용사의 현재 관형형"
           ],
@@ -7711,7 +7711,7 @@
         {
           "prompt": "'내일 먹다(eat tomorrow)'를 사용하여 '음식(food)'을 미래 관형형으로 바르게 수식한 형태는?",
           "options": [
-            "내일 먹을 음식 (미래 시제 관형형 어미는 -(으)ㄹ이므로 먹을 음식이 정확합니다.",
+            "내일 먹을 음식 (미래 시제 관형형 어미는 -(으)ㄹ이므로 먹을 음식이 정확합니다.)",
             "내일 먹는 음식ㄹ'",
             "내일 먹은 음식ㄹ'"
           ],
@@ -7909,7 +7909,7 @@
         {
           "prompt": "다음 복합 수식 문장 중 시제와 수식 관계가 모두 올바른 것은 어느 것입니까?",
           "options": [
-            "어제 본 영화는 내가 내일 친구에게 추천할 감동적인 명작이다. (과거(본) + 미래(추천할) + 현재 형용사(감동적인)가 완벽한 시제 일치를 이룹니다.",
+            "어제 본 영화는 내가 내일 친구에게 추천할 감동적인 명작이다. (과거(본) + 미래(추천할) + 현재 형용사(감동적인)가 완벽한 시제 일치를 이룹니다.)",
             "어제 볼 영화는 내가 내일 친구에게 추천한 감동적인 명작이다.",
             "어제 보는 영화는 내가 내일 친구에게 추천했던 감동적인 명작이다."
           ],
@@ -7924,7 +7924,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 관형절 수식 구조가 문법적으로 완벽한 문장은?",
           "options": [
-            "저기 모자를 쓴 친절한 분이 내가 가장 존경하는 교수님이십니다. (모자를 쓴(상태) + 친절한(형용사) + 존경하는(현재 동사)의 수식 관계가 완벽합니다.",
+            "저기 모자를 쓴 친절한 분이 내가 가장 존경하는 교수님이십니다. (모자를 쓴(상태) + 친절한(형용사) + 존경하는(현재 동사)의 수식 관계가 완벽합니다.)",
             "저기 모자를 쓰을 친절는 분이 내가 가장 존경한 교수님이십니다.",
             "저기 모자를 쓰는 친절한 분이 내가 가장 존경할 교수님이십니다."
           ],
@@ -7987,7 +7987,7 @@
         {
           "prompt": "'음악을 듣다(listen to music)'를 주어로 만들어 '즐겁다'와 연결할 때 가장 자연스러운 구어 표현은?",
           "options": [
-            "음악을 듣는 게 즐거워요. (구어에서 주어 역할을 하는 명사화 축약형은 -는 게(듣는 게)입니다.",
+            "음악을 듣는 게 즐거워요. (구어에서 주어 역할을 하는 명사화 축약형은 -는 게(듣는 게)입니다.)",
             "음악을 듣는 기 즐거워요.",
             "음악을 듣음이 즐거워요."
           ],
@@ -8001,7 +8001,7 @@
         {
           "prompt": "'한국어 공부를 하다'를 목적어('좋아하다')와 자연스럽게 연결한 구어 문장은?",
           "options": [
-            "한국어 공부하는 걸 좋아해요. (목적어 역할을 하는 구어 명사화 축약형은 -는 걸(공부하는 걸)입니다.",
+            "한국어 공부하는 걸 좋아해요. (목적어 역할을 하는 구어 명사화 축약형은 -는 걸(공부하는 걸)입니다.)",
             "한국어 공부하는 게 좋아해요.",
             "한국어 공부하기를 좋아해요이지만 비구어적이에요."
           ],
@@ -8016,7 +8016,7 @@
           "type": "multiple-choice",
           "prompt": "'제 취미는 주말마다 자전거를 _____.' 빈칸에 들어갈 알맞은 서술형 구어 명사화 형태는?",
           "options": [
-            "타는 거예요 (문장의 보어/서술어 자리이므로 -는 거예요(타는 거예요)가 정확합니다.",
+            "타는 거예요 (문장의 보어/서술어 자리이므로 -는 거예요(타는 거예요)가 정확합니다.)",
             "타는 걸",
             "타는 게"
           ],
@@ -8110,7 +8110,7 @@
           "type": "multiple-choice",
           "prompt": "'한국 문화를 깊이 _____ 위해 한국 역사책을 읽고 있습니다.' 빈칸에 알맞은 형태는?",
           "options": [
-            "이해하기 (목적을 나타내는 위해 앞에는 -기(이해하기 위해)가 결합합니다.",
+            "이해하기 (목적을 나타내는 위해 앞에는 -기(이해하기 위해)가 결합합니다.)",
             "이해하는",
             "이해함"
           ],
@@ -8173,7 +8173,7 @@
         {
           "prompt": "시스템 화면에 '재고가 없다'는 사실을 간결하게 표기할 때 가장 표준적인 명사형 종결 표기는?",
           "options": [
-            "재고 없음 (시스템 상태나 공식 알림의 명사형 종결은 -(으)ㅁ을 사용하여 재고 없음으로 표기합니다.",
+            "재고 없음 (시스템 상태나 공식 알림의 명사형 종결은 -(으)ㅁ을 사용하여 재고 없음으로 표기합니다.)",
             "재고 없기ㅁ'",
             "재고 없는 것ㅁ'"
           ],
@@ -8187,7 +8187,7 @@
         {
           "prompt": "공식 업무 보고 메모에서 '회의를 마쳤다'를 압축하여 서면 명사형으로 종결한 올바른 문장은?",
           "options": [
-            "금일 프로젝트 회의 정상 종료함. (서면 업무 보고 명사형 종결체는 -(으)ㅁ(종료함)입니다.",
+            "금일 프로젝트 회의 정상 종료함. (서면 업무 보고 명사형 종결체는 -(으)ㅁ(종료함)입니다.)",
             "금일 프로젝트 회의 정상 종료하기.ㅁ'",
             "금일 프로젝트 회의 정상 종료하는 것.ㅁ'"
           ],
@@ -8202,7 +8202,7 @@
           "type": "multiple-choice",
           "prompt": "게시판 공지문 '[알림] 금일 세미나 장소가 301호로 _____.' 빈칸에 가장 알맞은 명사형 종결 표현은?",
           "options": [
-            "변경되었음 (과거 완료된 공식 공지 사실의 서면 종결체는 -었음(변경되었음)입니다.",
+            "변경되었음 (과거 완료된 공식 공지 사실의 서면 종결체는 -었음(변경되었음)입니다.)",
             "변경되었기ㅁ'",
             "변경되는 것ㅁ'"
           ],
@@ -8265,7 +8265,7 @@
         {
           "prompt": "'바라다(hope/wish)' 앞에 결합할 수 있는 올바른 명사형 어미는 무엇입니까?",
           "options": [
-            "-기 (행복하시기를 바랍니다) (바라다는 희망의 동사이므로 명사형 어미 -기와 결합하는 강력한 통사 제약을 가집니다.) (3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')의 통사 제약 및 화용론적 기능 비교",
+            "-기 (행복하시기를 바랍니다 - nominalizer ending)",
             "-는 것 (행복하시는 것을 바랍니다)ㅁ'",
             "-(으)ㅁ (행복하심을 바랍니다)ㅁ'"
           ],
@@ -8279,7 +8279,7 @@
         {
           "prompt": "다음 중 후행 서술어와의 문법적 결합이 올바른 문장은 어느 것입니까?",
           "options": [
-            "진실이 밝혀졌음이 법정에서 명백히 인정되었습니다. (법정이나 공식 문서에서 객관적 사실 입증에는 -(으)ㅁ(밝혀졌음이)이 결합합니다.) (3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')의 통사 제약 및 화용론적 기능 비교",
+            "진실이 밝혀졌음이 법정에서 명백히 인정되었습니다. (법정이나 공식 문서에서 객관적 사실 입증에는 -(으)ㅁ(밝혀졌음이)이 결합합니다.)ㅁ')의 통사 제약 및 화용론적 기능 비교",
             "진실이 밝혀졌기가 법정에서 명백히 인정되었습니다.ㅁ'",
             "진실이 밝혀졌는 걸이 법정에서 명백히 인정되었습니다.ㅁ'"
           ],
@@ -8294,7 +8294,7 @@
           "type": "multiple-choice",
           "prompt": "3대 명사형 어미의 특성을 비교한 설명 중 틀린 것은?",
           "options": [
-            "'-는 것'은 공식 공지문의 문장 종결체로 가장 선호된다. (공식 공지문의 간결한 서면 종결체로는 -는 것이 아니라 -(으)ㅁ이 선호됩니다.) (3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')의 통사 제약 및 화용론적 기능 비교",
+            "'-는 것'은 공식 공지문의 문장 종결체로 가장 선호된다. (공식 공지문의 간결한 서면 종결체로는 -는 것이 아니라 -(으)ㅁ이 선호됩니다.)ㅁ')의 통사 제약 및 화용론적 기능 비교",
             "'-기'는 '-기 전에', '-기 위해', '-기 시작하다' 등의 관용구에 필수적으로 쓰인다.ㅁ'",
             "'-(으)ㅁ'은 서면 보고서나 시스템 알림에서 종결 형태로 널리 쓰인다.ㅁ'"
           ],
@@ -8357,7 +8357,7 @@
         {
           "prompt": "동료와 대화할 때 '내 취미는 사진 찍기이다'를 가장 자연스럽고 유창하게 표현한 구어 문장은?",
           "options": [
-            "제 취미는 여행 가서 사진 찍는 거예요. (구어체에서 자신의 취미를 서술할 때는 -는 거예요(찍는 거예요)가 가장 자연스럽습니다.",
+            "제 취미는 여행 가서 사진 찍는 거예요. (구어체에서 자신의 취미를 서술할 때는 -는 거예요(찍는 거예요)가 가장 자연스럽습니다.)",
             "제 취미는 여행 가서 사진 찍음이에요.",
             "제 취미는 여행 가서 사진 찍기임이에요."
           ],
@@ -8465,7 +8465,7 @@
         {
           "prompt": "'내일 서울에 가다'라는 민수의 말을 간접화법으로 정확히 옮긴 문장은?",
           "options": [
-            "민수 씨가 내일 서울에 간다고 했어요. (동사 가다의 현재 인용은 받침이 없으므로 -ㄴ다고(간다고)가 결합합니다.",
+            "민수 씨가 내일 서울에 간다고 했어요. (동사 가다의 현재 인용은 받침이 없으므로 -ㄴ다고(간다고)가 결합합니다.)",
             "민수 씨가 내일 서울에 가다고 했어요.",
             "민수 씨가 내일 서울에 가라고 했어요."
           ],
@@ -8480,7 +8480,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 간접화법 형태 결합이 어법에 완벽하게 맞는 문장은?",
           "options": [
-            "영수가 지금 도서관에서 책을 읽는다고 말했습니다. (동사 읽다는 받침이 있는 동사이므로 현재형 간접화법은 -는다고(읽는다고)가 맞습니다.",
+            "영수가 지금 도서관에서 책을 읽는다고 말했습니다. (동사 읽다는 받침이 있는 동사이므로 현재형 간접화법은 -는다고(읽는다고)가 맞습니다.)",
             "영수가 지금 도서관에서 책을 읽다고 말했습니다.",
             "영수가 지금 도서관에서 책을 읽은다고 말했습니다."
           ],
@@ -8543,7 +8543,7 @@
         {
           "prompt": "\"같이 점심 먹어요!\"라는 제안을 간접화법으로 바르게 전달한 문장은?",
           "options": [
-            "친구가 같이 점심을 먹자고 했어요. (함께하자는 청유문 인용은 -자고 하다(먹자고 했어요)를 씁니다.",
+            "친구가 같이 점심을 먹자고 했어요. (함께하자는 청유문 인용은 -자고 하다(먹자고 했어요)를 씁니다.)",
             "친구가 같이 점심을 먹는다고 했어요.냐고 하다') 및 제안문 간접화법",
             "친구가 같이 점심을 먹으라고 했어요.냐고 하다') 및 제안문 간접화법"
           ],
@@ -8557,7 +8557,7 @@
         {
           "prompt": "\"어디에 살아요?\"라는 질문을 제3자에게 전달할 때 올바른 간접화법은?",
           "options": [
-            "어디에 사냐고 물어봤어요. (질문 인용은 -(으)냐고 묻다이며, 살다의 ㄹ이 탈락하여 사냐고 물어봤어요가 됩니다.",
+            "어디에 사냐고 물어봤어요. (질문 인용은 -(으)냐고 묻다이며, 살다의 ㄹ이 탈락하여 사냐고 물어봤어요가 됩니다.)",
             "어디에 살자고 물어봤어요.냐고 하다') 및 제안문 간접화법",
             "어디에 사라고 물어봤어요.냐고 하다') 및 제안문 간접화법"
           ],
@@ -8635,7 +8635,7 @@
         {
           "prompt": "민수가 지우에게 \"나에게 펜을 빌려줘\"라고 한 말을 전달할 때 올바른 형태는?",
           "options": [
-            "민수가 지우에게 펜을 빌려 달라고 했어요. (말하는 사람 자신(민수)에게 해 달라는 요청이므로 -아/어 달라고 하다가 정확합니다.",
+            "민수가 지우에게 펜을 빌려 달라고 했어요. (말하는 사람 자신(민수)에게 해 달라는 요청이므로 -아/어 달라고 하다가 정확합니다.)",
             "민수가 지우에게 펜을 빌려 주라고 했어요.라고 하다' vs '-아/어",
             "민수가 지우에게 펜을 빌리자고 했어요.라고 하다' vs '-아/어"
           ],
@@ -8649,7 +8649,7 @@
         {
           "prompt": "어머니께서 나에게 \"동생에게 사탕을 나누어 줘라\"라고 하신 말을 간접화법으로 바르게 표현한 것은?",
           "options": [
-            "어머니께서 동생에게 사탕을 나누어 주라고 하셨어요. (제3자(동생)를 위해 행동하라는 명령이므로 -아/어 주라고 하다가 맞습니다.",
+            "어머니께서 동생에게 사탕을 나누어 주라고 하셨어요. (제3자(동생)를 위해 행동하라는 명령이므로 -아/어 주라고 하다가 맞습니다.)",
             "어머니께서 동생에게 사탕을 나누어 달라고 하셨어요.라고 하다' vs '-아/어",
             "어머니께서 동생에게 사탕을 나누자고 하셨어요.라고 하다' vs '-아/어"
           ],
@@ -8727,7 +8727,7 @@
         {
           "prompt": "\"민수가 지금 밥을 먹는다고 해요\"를 자연스러운 일상 구어 축약형으로 바꾼 것은?",
           "options": [
-            "민수가 지금 밥을 먹는대요. (-는다고 해요의 축약형은 -는대요(먹는대요)입니다.",
+            "민수가 지금 밥을 먹는대요. (-는다고 해요의 축약형은 -는대요(먹는대요)입니다.)",
             "민수가 지금 밥을 먹재요.",
             "민수가 지금 밥을 먹으래요."
           ],
@@ -8741,7 +8741,7 @@
         {
           "prompt": "\"영수가 같이 영화를 보자고 해요\"를 올바른 구어 축약형으로 나타낸 문장은?",
           "options": [
-            "영수가 같이 영화를 보재요. (제안의 축약형은 -재요(보재요)입니다.",
+            "영수가 같이 영화를 보재요. (제안의 축약형은 -재요(보재요)입니다.)",
             "영수가 같이 영화를 보래요.",
             "영수가 같이 영화를 보냬요."
           ],
@@ -8756,7 +8756,7 @@
           "type": "multiple-choice",
           "prompt": "다음 축약형 연결 중 짝지음이 잘못된 것은?",
           "options": [
-            "가라고 해요 → 가대요 (가라고 해요(명령)의 축약형은 가래요이며, 가대요는 간다고 해요의 잘못된 축약입니다.",
+            "가라고 해요 → 가대요 (가라고 해요(명령)의 축약형은 가래요이며, 가대요는 간다고 해요의 잘못된 축약입니다.)",
             "가자고 해요 → 가재요",
             "가냐고 해요 → 가냬요"
           ],
@@ -8819,7 +8819,7 @@
         {
           "prompt": "상사의 지시 사항(\"보고서를 3시까지 제출하세요\")을 동료에게 전달하는 가장 자연스러운 구어 표현은?",
           "options": [
-            "팀장님께서 보고서를 3시까지 제출하래요. (명령/지시 축약형은 -래요(제출하래요)입니다.",
+            "팀장님께서 보고서를 3시까지 제출하래요. (명령/지시 축약형은 -래요(제출하래요)입니다.)",
             "팀장님께서 보고서를 3시까지 제출하재요.",
             "팀장님께서 보고서를 3시까지 제출한대요."
           ],
@@ -8833,7 +8833,7 @@
         {
           "prompt": "전화 전언 메모 중 간접화법과 높임법이 가장 완벽하게 조화된 문장은?",
           "options": [
-            "거래처 대표님께서 회의 자료를 미리 검토해 보시라고 전해 달라고 하셨습니다. (존칭 명령(보시라고) + 부탁 전달(전해 달라고 하셨습니다)의 조합이 가장 품격 있습니다.",
+            "거래처 대표님께서 회의 자료를 미리 검토해 보시라고 전해 달라고 하셨습니다. (존칭 명령(보시라고) + 부탁 전달(전해 달라고 하셨습니다)의 조합이 가장 품격 있습니다.)",
             "거래처 대표님께서 회의 자료를 미리 검토해 보라고 전해 달라고 하였습니다.",
             "거래처 대표님께서 회의 자료를 미리 검토해 보자고 전해 주라고 하셨습니다."
           ],
@@ -8925,7 +8925,7 @@
         {
           "prompt": "'경찰이 도둑을 잡았다(능동)'를 피동문으로 바르게 전환한 문장은?",
           "options": [
-            "도둑이 경찰에게 잡혔다. (주어 도둑이, 행위자 경찰에게, 피동사 잡히다(잡혔다)의 구조가 완벽합니다.",
+            "도둑이 경찰에게 잡혔다. (주어 도둑이, 행위자 경찰에게, 피동사 잡히다(잡혔다)의 구조가 완벽합니다.)",
             "도둑이 경찰에게 잡았다.",
             "도둑이 경찰에게 잡렸다."
           ],
@@ -8940,7 +8940,7 @@
           "type": "multiple-choice",
           "prompt": "'문이 바람에 저절로 _____.' 빈칸에 알맞은 피동사 형태는?",
           "options": [
-            "닫혔어요 (닫다의 피동사는 -히-가 결합하여 닫히다(닫혔어요)가 됩니다.",
+            "닫혔어요 (닫다의 피동사는 -히-가 결합하여 닫히다(닫혔어요)가 됩니다.)",
             "닫았어요",
             "닫겼어요"
           ],
@@ -9017,7 +9017,7 @@
         {
           "prompt": "'회의 날짜를 정했다'를 피동문으로 전환하여 일정이 결정되었음을 나타낸 올바른 문장은?",
           "options": [
-            "회의 날짜가 정해졌습니다. (정하다에 -아/어지다가 결합하여 정해지다(정해졌습니다)가 됩니다.",
+            "회의 날짜가 정해졌습니다. (정하다에 -아/어지다가 결합하여 정해지다(정해졌습니다)가 됩니다.)",
             "회의 날짜가 정했습니다.",
             "회의 날짜가 정히였습니다."
           ],
@@ -9095,7 +9095,7 @@
         {
           "prompt": "외부 인사 발령으로 인해 부산으로 전근 가게 되었음을 표현한 가장 알맞은 문장은?",
           "options": [
-            "다음 달부터 부산에서 근무하게 되었습니다. (외부 결정이나 상황에 의한 상태 변화는 -게 되다(근무하게 되었습니다)를 씁니다.",
+            "다음 달부터 부산에서 근무하게 되었습니다. (외부 결정이나 상황에 의한 상태 변화는 -게 되다(근무하게 되었습니다)를 씁니다.)",
             "다음 달부터 부산에서 근무하게 했습니다.",
             "다음 달부터 부산에서 근무하게 보았습니다."
           ],
@@ -9201,7 +9201,7 @@
         {
           "prompt": "다음 중 이중 피동 오류가 없는 문법적으로 완벽한 문장은 어느 것입니까?",
           "options": [
-            "세월이 흘러도 그의 이름은 영원히 잊히지 않을 것입니다. (잊히다는 단일 피동형으로 어법에 완벽하게 부합합니다 (*잊혀지다는 비문).",
+            "세월이 흘러도 그의 이름은 영원히 잊히지 않을 것입니다. (잊히다는 단일 피동형으로 어법에 완벽하게 부합합니다 (*잊혀지다는 비문).)",
             "세월이 흘러도 그의 이름은 영원히 잊혀지지 않을 것입니다.",
             "세월이 흘러도 그의 이름은 영원히 잊히어지지 않을 것입니다."
           ],
@@ -9293,7 +9293,7 @@
         {
           "prompt": "뉴스 보도문 중 피동과 원인 격조사가 가장 정확하게 쓰인 문장은 어느 것입니까?",
           "options": [
-            "강한 태풍으로 인해 해안가 도로가 침수되었습니다. (원인(태풍으로 인해) + 피동 주어(도로가) + 피동 서술어(침수되었습니다)의 구성이 완벽합니다.",
+            "강한 태풍으로 인해 해안가 도로가 침수되었습니다. (원인(태풍으로 인해) + 피동 주어(도로가) + 피동 서술어(침수되었습니다)의 구성이 완벽합니다.)",
             "강한 태풍으로 인해 해안가 도로를 침수되었습니다.",
             "강한 태풍으로 인해 해안가 도로가 침수하게 되었습니다."
           ],
@@ -9308,7 +9308,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 문맥과 피동 표현이 가장 자연스러운 문장은?",
           "options": [
-            "창문을 여니 멀리 산봉우리가 한눈에 보이고 맑은 바람이 느껴집니다. (보이다(단형 피동) + 느껴지다(장형 피동)의 배합이 완벽합니다.",
+            "창문을 여니 멀리 산봉우리가 한눈에 보이고 맑은 바람이 느껴집니다. (보이다(단형 피동) + 느껴지다(장형 피동)의 배합이 완벽합니다.)",
             "창문을 여니 멀리 산봉우리가 한눈에 보아지고 맑은 바람이 느끼어집니다.",
             "창문을 여니 멀리 산봉우리가 한눈에 보여지고 맑은 바람이 느껴지게 합니다."
           ],
@@ -9385,7 +9385,7 @@
         {
           "prompt": "'출발 시간을 뒤로 미루다'의 의미로 '늦다'의 사동사를 알맞게 활용한 문장은?",
           "options": [
-            "회의 시작 일정을 한 시간 늦췄습니다. (늦다에 사동 접미사 -추-가 결합하여 늦추다(늦췄습니다)가 됩니다.",
+            "회의 시작 일정을 한 시간 늦췄습니다. (늦다에 사동 접미사 -추-가 결합하여 늦추다(늦췄습니다)가 됩니다.)",
             "회의 시작 일정을 한 시간 늦였습니다.",
             "회의 시작 일정을 한 시간 늦렸습니다."
           ],
@@ -9569,7 +9569,7 @@
         {
           "prompt": "사동 접미사 '-시키다'가 문맥상 가장 정확하고 바르게 사용된 문장은 어느 것입니까?",
           "options": [
-            "교수님께서 명쾌한 논리로 학생들을 깊이 이해시키셨습니다. (이해시키다는 남으로 하여금 이해하게 만드는 타당한 사동사입니다 (주문하다/주차하다는 능동이 바른말).",
+            "교수님께서 명쾌한 논리로 학생들을 깊이 이해시키셨습니다. (이해시키다는 남으로 하여금 이해하게 만드는 타당한 사동사입니다 (주문하다/주차하다는 능동이 바른말).)",
             "제가 점심 메뉴로 맛있는 비빔밥을 주문시켰습니다.와 오용 방지",
             "퇴근길에 아파트 지하 주차장에 차를 안전하게 주차시켰습니다.와 오용 방지"
           ],
@@ -9647,7 +9647,7 @@
         {
           "prompt": "다음 중 '보이다'가 사동사(to show)로 쓰인 문장은 어느 것입니까?",
           "options": [
-            "친구에게 어제 찍은 가족사진을 보여 주었습니다. (목적어(가족사진을)를 취하고 남에게 보게 만드는 사동 의미이므로 보여 주었습니다가 사동사입니다.",
+            "친구에게 어제 찍은 가족사진을 보여 주었습니다. (목적어(가족사진을)를 취하고 남에게 보게 만드는 사동 의미이므로 보여 주었습니다가 사동사입니다.)",
             "맑은 날에는 창밖으로 남산타워가 똑똑히 보입니다.",
             "먼 바다 위로 수평선이 아련하게 보입니다."
           ],
@@ -9661,7 +9661,7 @@
         {
           "prompt": "'아버지가 아이에게 신발을 스스로 신도록 유도했다'를 나타내는 간접 사동 표현은?",
           "options": [
-            "아버지가 아이에게 신발을 스스로 신게 하셨다. (스스로 신도록 지시/유도하는 간접 사동은 -게 하다(신게 하셨다)입니다.",
+            "아버지가 아이에게 신발을 스스로 신게 하셨다. (스스로 신도록 지시/유도하는 간접 사동은 -게 하다(신게 하셨다)입니다.)",
             "아버지가 아이에게 신발을 직접 신기셨다.",
             "아버지가 아이에게 신발이 신겨졌다."
           ],
@@ -9768,7 +9768,7 @@
           "type": "multiple-choice",
           "prompt": "다음 대화의 빈칸에 들어갈 가장 알맞은 사동 표현은? \"A: 민수 씨에게 그 일을 맡기셨나요? B: 네, 민수 씨가 내일까지 기획안을 _____ 했습니다.\"",
           "options": [
-            "마무리하게 (민수 씨가 직접 마무리하도록 지시한 것이므로 마무리하게(하다)가 정확합니다.",
+            "마무리하게 (민수 씨가 직접 마무리하도록 지시한 것이므로 마무리하게(하다)가 정확합니다.)",
             "마무리되게",
             "마무리시키어지게"
           ],
@@ -9845,7 +9845,7 @@
         {
           "prompt": "'주말에 푹 쉴 수 있기를 간절히 바란다'를 가장 자연스러운 소망 문장으로 완성한 것은?",
           "options": [
-            "이번 주말에는 푹 쉴 수 있었으면 좋겠습니다. (화자의 간절한 희망을 나타내는 완곡한 표현은 -(았/었)으면 좋겠습니다입니다.",
+            "이번 주말에는 푹 쉴 수 있었으면 좋겠습니다. (화자의 간절한 희망을 나타내는 완곡한 표현은 -(았/었)으면 좋겠습니다입니다.)",
             "이번 주말에는 푹 쉴 수 있으면 싫겠습니다.면')과 완료 전제 ('-(았/었)으면'",
             "이번 주말에는 푹 쉴 수 있어지면 되겠습니다.면')과 완료 전제 ('-(았/었)으면'"
           ],
@@ -9923,7 +9923,7 @@
         {
           "prompt": "'그때 표를 미리 예매했더라면' 뒤에 가장 자연스럽게 어울리는 후회의 호응 구문은?",
           "options": [
-            "매진되어 헛걸음하지 않았을 텐데요. (-(았/었)더라면 과거 반대 가정 뒤에는 과거 추측/후회 -(았/었)을 텐데요가 자연스럽게 호응합니다.",
+            "매진되어 헛걸음하지 않았을 텐데요. (-(았/었)더라면 과거 반대 가정 뒤에는 과거 추측/후회 -(았/었)을 텐데요가 자연스럽게 호응합니다.)",
             "매진되어 헛걸음하게 되었습니다.더라면'",
             "매진되어 헛걸음할 수밖에 없습니다.더라면'"
           ],
@@ -9937,7 +9937,7 @@
         {
           "prompt": "'안전모를 쓰지 않았다면 큰 부상을 입었을 것이다'를 가장 실감 나게 표현한 문장은?",
           "options": [
-            "안전모를 쓰지 않았더라면 머리를 크게 다칠 뻔했습니다. (과거 반대 가정 않았더라면 + 아찔한 모면 -(으)ㄹ 뻔했다의 조합이 완벽합니다.",
+            "안전모를 쓰지 않았더라면 머리를 크게 다칠 뻔했습니다. (과거 반대 가정 않았더라면 + 아찔한 모면 -(으)ㄹ 뻔했다의 조합이 완벽합니다.)",
             "안전모를 쓰지 않더라도 머리를 크게 다치게 되었습니다.더라면'",
             "안전모를 쓰지 않는 한 머리를 크게 다쳤을 것입니다.더라면'"
           ],
@@ -10016,8 +10016,8 @@
           "prompt": "'-거든' 뒤에 올 수 있는 가장 자연스러운 문장 유형은 무엇입니까?",
           "options": [
             "집에 도착하거든 바로 연락해 주세요. (명령/요청)",
-            "집에 도착하거든 바로 연락을 했습니다. (과거 서술)ㄴ/는 한')과 조건 전제 ('-거든'",
-            "집에 도착하거든 어제 비가 내렸습니다. (과거 사실)ㄴ/는 한')과 조건 전제 ('-거든'"
+            "집에 도착하거든 바로 연락을 했습니다. (과거 서술)ㄴ/는 한')과 조건 전제",
+            "집에 도착하거든 어제 비가 내렸습니다. (과거 사실)ㄴ/는 한')과 조건 전제"
           ],
           "answerIndex": 0,
           "explanation": "'-거든' 조건 뒤에는 명령, 요청, 청유문이 호응하는 것이 문법적 규칙입니다."
@@ -10030,8 +10030,8 @@
           "prompt": "'별다른 문제가 없다면 원래 계획대로 추진한다'를 '-(으)ㄴ/는 한'으로 가장 정확하게 표현한 문장은?",
           "options": [
             "특별한 문제가 없는 한, 원래 계획대로 추진할 것입니다.",
-            "특별한 문제가 없는 한, 원래 계획대로 추진해 주세요.ㄴ/는 한')과 조건 전제 ('-거든'",
-            "특별한 문제가 없었던 한, 원래 계획대로 추진했거든.ㄴ/는 한')과 조건 전제 ('-거든'"
+            "특별한 문제가 없는 한, 원래 계획대로 추진해 주세요.ㄴ/는 한')과 조건 전제",
+            "특별한 문제가 없었던 한, 원래 계획대로 추진했거든.ㄴ/는 한')과 조건 전제"
           ],
           "answerIndex": 0,
           "explanation": "조건의 범위를 규정하는 '없는 한' + 평서문 의지 '추진할 것입니다'의 결합이 가장 적합합니다."
@@ -10044,9 +10044,9 @@
           "type": "multiple-choice",
           "prompt": "다음 중 '-거든'의 문법적 제약에 맞지 않는 비문(틀린 문장)은?",
           "options": [
-            "친구가 오거든 함께 맛있는 점심을 먹었습니다. (-거든 뒤에는 과거 완료 평서문(먹었습니다)이 올 수 없습니다.",
-            "친구가 오거든 함께 맛있는 점심을 먹으러 가자.ㄴ/는 한')과 조건 전제 ('-거든'",
-            "친구가 오거든 문을 열어 주십시오.ㄴ/는 한')과 조건 전제 ('-거든'"
+            "친구가 오거든 함께 맛있는 점심을 먹었습니다. (-거든 뒤에는 과거 완료 평서문(먹었습니다)이 올 수 없습니다.)",
+            "친구가 오거든 함께 맛있는 점심을 먹으러 가자.ㄴ/는 한')과 조건 전제",
+            "친구가 오거든 문을 열어 주십시오.ㄴ/는 한')과 조건 전제"
           ],
           "answerIndex": 0,
           "explanation": "'-거든' 뒤에는 과거 완료 평서문('먹었습니다')이 올 수 없습니다."
@@ -10107,9 +10107,9 @@
         {
           "prompt": "음주 운전의 위험성을 경고하는 문장으로 가장 적절한 연결어미는?",
           "options": [
-            "술을 마시고 운전대를 잡다가는 패가망신할 수 있습니다. (부정적 행동의 지속으로 인한 비극적 결과를 경고하므로 -다가는(잡다가는)이 정확합니다.",
-            "술을 마시고 운전대를 잡는 한 패가망신할 수 있습니다.와 양보 가정 ('-(으)ㄹ지라",
-            "술을 마시고 운전대를 잡았더라면 패가망신할 수 있습니다.와 양보 가정 ('-(으)ㄹ지라"
+            "술을 마시고 운전대를 잡다가는 패가망신할 수 있습니다. (부정적 행동의 지속으로 인한 비극적 결과를 경고하므로 -다가는(잡다가는)이 정확합니다.)",
+            "술을 마시고 운전대를 잡는 한 패가망신할 수 있습니다.와 양보 가정 ('-(으)ㄹ지라)",
+            "술을 마시고 운전대를 잡았더라면 패가망신할 수 있습니다.와 양보 가정 ('-(으)ㄹ지라)"
           ],
           "answerIndex": 0,
           "explanation": "부정적 행동의 지속으로 인한 비극적 결과를 경고하므로 '-다가는(잡다가는)'이 정확합니다."
@@ -10121,9 +10121,9 @@
         {
           "prompt": "'아무리 실패가 반복되더라도 굴하지 않겠다'를 가장 비장하고 격조 높게 표현한 문장은?",
           "options": [
-            "수없이 실패할지라도 끝까지 도전하겠습니다. (극단적 시련을 양보로 수용하는 -(으)ㄹ지라도(실패할지라도)가 가장 적합합니다.",
-            "수없이 실패하다가는 끝까지 도전하겠습니다.와 양보 가정 ('-(으)ㄹ지라",
-            "수없이 실패하거든 끝까지 도전하겠습니다.와 양보 가정 ('-(으)ㄹ지라"
+            "수없이 실패할지라도 끝까지 도전하겠습니다. (극단적 시련을 양보로 수용하는 -(으)ㄹ지라도(실패할지라도)가 가장 적합합니다.)",
+            "수없이 실패하다가는 끝까지 도전하겠습니다.와 양보 가정 ('-(으)ㄹ지라)",
+            "수없이 실패하거든 끝까지 도전하겠습니다.와 양보 가정 ('-(으)ㄹ지라)"
           ],
           "answerIndex": 0,
           "explanation": "극단적 시련을 양보로 수용하는 '-(으)ㄹ지라도(실패할지라도)'가 가장 적합합니다."
@@ -10137,8 +10137,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 어미는? \"자극적인 음식을 너무 자주 _____ 위장병에 걸릴 위험이 큽니다.\"",
           "options": [
             "먹다가는",
-            "먹었더라면와 양보 가정 ('-(으)ㄹ지라",
-            "먹는 한편와 양보 가정 ('-(으)ㄹ지라"
+            "먹었더라면와 양보 가정 ('-(으)ㄹ지라)",
+            "먹는 한편와 양보 가정 ('-(으)ㄹ지라)"
           ],
           "answerIndex": 0,
           "explanation": "위험한 습관의 반복에 따른 건강 악화 경고이므로 '먹다가는'이 들어갑니다."
@@ -10199,7 +10199,7 @@
         {
           "prompt": "투자 자문가가 고객에게 위험한 집중 투자를 경고할 때 가장 어울리는 문장은?",
           "options": [
-            "무리하게 한 종목에만 몰아서 투자하다가는 큰 손실을 볼 수 있습니다. (부정적 결과에 대한 경고는 -다가는(투자하다가는)이 가장 정확합니다.",
+            "무리하게 한 종목에만 몰아서 투자하다가는 큰 손실을 볼 수 있습니다. (부정적 결과에 대한 경고는 -다가는(투자하다가는)이 가장 정확합니다.)",
             "무리하게 한 종목에만 몰아서 투자했더라면 큰 손실을 볼 수 있습니다.",
             "무리하게 한 종목에만 몰아서 투자하거든 큰 손실을 볼 수 있습니다."
           ],
@@ -10213,7 +10213,7 @@
         {
           "prompt": "진로 상담 중 '시련이 있더라도 열정이 유지되는 한 성공할 것'을 가장 훌륭히 표현한 문장은?",
           "options": [
-            "어려움이 따를지라도 꿈을 향한 열정을 잃지 않는 한 반드시 성취할 것입니다. (양보 가정(따를지라도) + 조건의 한계 지속(잃지 않는 한)의 결합이 완벽합니다.",
+            "어려움이 따를지라도 꿈을 향한 열정을 잃지 않는 한 반드시 성취할 것입니다. (양보 가정(따를지라도) + 조건의 한계 지속(잃지 않는 한)의 결합이 완벽합니다.)",
             "어려움이 따를지라도 꿈을 향한 열정을 잃지 않다가는 반드시 성취할 것입니다.",
             "어려움이 따랐더라면 꿈을 향한 열정을 잃지 않거든 반드시 성취할 것입니다."
           ],
@@ -10475,7 +10475,7 @@
         {
           "prompt": "수출을 촉진함과 동시에 내수 시장도 살리는 정부 정책의 병행을 가장 잘 나타낸 표현은?",
           "options": [
-            "수출을 적극 장려하는 한편, 내수 진작을 위한 정책을 병행했다. (두 가지 정책적 조치의 동시 추진을 나타내므로 -는 한편(장려하는 한편)이 완벽합니다.",
+            "수출을 적극 장려하는 한편, 내수 진작을 위한 정책을 병행했다. (두 가지 정책적 조치의 동시 추진을 나타내므로 -는 한편(장려하는 한편)이 완벽합니다.)",
             "수출을 적극 장려하더라도, 내수 진작을 위한 정책을 병행했다.",
             "수출을 적극 장려할수록, 내수 진작을 위한 정책을 병행했다."
           ],
@@ -10568,8 +10568,8 @@
           "prompt": "명사 '밥(rice/meal)' 뒤에 붙어 '식사는 고사하고 물도 못 마셨다'를 나타내는 올바른 조사는?",
           "options": [
             "밥은커녕",
-            "밥기는커녕과 대체/보상 ('-(으)ㄴ/",
-            "밥은 대신에과 대체/보상 ('-(으)ㄴ/"
+            "밥기는커녕과 대체/보상 ('-(으)ㄴ/)",
+            "밥은 대신에과 대체/보상 ('-(으)ㄴ/)"
           ],
           "answerIndex": 0,
           "explanation": "명사 뒤에는 바로 '-은/는커녕'이 붙으므로 '밥은커녕'이 정확합니다."
@@ -10582,8 +10582,8 @@
           "prompt": "'집값이 비싼 대신에 주변 학군과 편의시설이 훌륭하다'의 보상/상쇄 관계를 바르게 나타낸 문장은?",
           "options": [
             "이 동네는 집값이 비싼 대신에 생활 인프라와 교육 환경이 대단히 뛰어납니다.",
-            "이 동네는 집값이 비싸기는커녕 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 ('-(으)ㄴ/",
-            "이 동네는 집값이 비싸더라도 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 ('-(으)ㄴ/"
+            "이 동네는 집값이 비싸기는커녕 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 ('-(으)ㄴ/)",
+            "이 동네는 집값이 비싸더라도 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 ('-(으)ㄴ/)"
           ],
           "answerIndex": 0,
           "explanation": "높은 가격이라는 단점을 뛰어난 환경이라는 장점으로 상쇄·보상하므로 '비싼 대신에'가 가장 적절합니다."
@@ -10597,8 +10597,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 표현은? \"열심히 도왔는데 고맙다는 인사를 _____ 오히려 원망만 들었어요.\"",
           "options": [
             "받기는커녕",
-            "받는 대신에과 대체/보상 ('-(으)ㄴ/",
-            "받는 한편과 대체/보상 ('-(으)ㄴ/"
+            "받는 대신에과 대체/보상 ('-(으)ㄴ/)",
+            "받는 한편과 대체/보상 ('-(으)ㄴ/)"
           ],
           "answerIndex": 0,
           "explanation": "최소한의 감사는커녕 오히려 원망을 들은 극단적 부정 대비이므로 '받기는커녕'이 정답입니다."
@@ -10659,7 +10659,7 @@
         {
           "prompt": "시사 평론 중 두 가지 정책의 명암을 균형 있게 짚은 가장 훌륭한 문장은?",
           "options": [
-            "도시 재생 사업은 구도심 상권을 부활시킨 한편, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다. (성과와 부작용의 양면적 공존을 객관적으로 분석하므로 -는 한편(부활시킨 한편)이 가장 탁월합니다.",
+            "도시 재생 사업은 구도심 상권을 부활시킨 한편, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다. (성과와 부작용의 양면적 공존을 객관적으로 분석하므로 -는 한편(부활시킨 한편)이 가장 탁월합니다.)",
             "도시 재생 사업은 구도심 상권을 부활시키더라도, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다.",
             "도시 재생 사업은 구도심 상권을 부활시키기는커녕, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다."
           ],
@@ -10673,7 +10673,7 @@
         {
           "prompt": "경제 칼럼 중 비례적 심화와 대안 제시가 가장 매끄럽게 연결된 문장은?",
           "options": [
-            "금리가 인상될수록 가계 부채 부담이 가중되는 대신에 저축 유인은 증대됩니다. (비례 심화(인상될수록) + 보상/상쇄(가중되는 대신에)의 결합이 논리적으로 완벽합니다.",
+            "금리가 인상될수록 가계 부채 부담이 가중되는 대신에 저축 유인은 증대됩니다. (비례 심화(인상될수록) + 보상/상쇄(가중되는 대신에)의 결합이 논리적으로 완벽합니다.)",
             "금리가 인상되더라도 가계 부채 부담이 가중되기는커녕 저축 유인은 증대됩니다.",
             "금리가 인상되는 한 가계 부채 부담이 가중되었더라면 저축 유인은 증대됩니다."
           ],
@@ -10780,7 +10780,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 비즈니스 이메일 서명 결미어로 가장 알맞은 것은?",
           "options": [
-            "홍길동 배상 (拜上) ([이름] 배상 또는 [이름] 드림/올림이 비즈니스 이메일의 정중한 결미 서명입니다.)",
+            "홍길동 배상 (拜上)",
             "홍길동 형아",
             "홍길동 씀"
           ],
@@ -10843,7 +10843,7 @@
         {
           "prompt": "직속 상사인 '김 부장'에게 보고서를 결재 올릴 때 가장 격식 있는 표현은?",
           "options": [
-            "부장님, 이번 주 기획안을 결재 상신하였습니다. (상사에 대한 존칭 부장님과 결재를 올림을 뜻하는 격식어 상신(上申)하였습니다가 완벽합니다.",
+            "부장님, 이번 주 기획안을 결재 상신하였습니다. (상사에 대한 존칭 부장님과 결재를 올림을 뜻하는 격식어 상신(上申)하였습니다가 완벽합니다.)",
             "부장아, 이번 주 기획안 결재해라.",
             "김 씨, 이번 주 기획안을 결재해 줬다."
           ],
@@ -10857,7 +10857,7 @@
         {
           "prompt": "현대 한국 직장에서 부장님에게 다른 상사인 '이 과장'의 부재를 정중히 알리는 올바른 표준 문장은?",
           "options": [
-            "부장님, 이 과장님께서 지금 외근 중이십니다.) (현대 비즈니스 실무에서는 제3자인 상급자(이 과장님)에 대해서도 께서 -시- 높임",
+            "부장님, 이 과장님께서 지금 외근 중이십니다.)에 대해서도 께서 -시- 높임",
             "부장님, 이 과장 놈이 지금 놀러 갔습니다.",
             "부장님, 이 과장이 외근 중이다."
           ],
@@ -10935,7 +10935,7 @@
         {
           "prompt": "상대방에게 부담을 줄이며 정중히 자료를 요청할 때 앞에 붙이는 가장 적절한 쿠션어는?",
           "options": [
-            "번거로우시겠지만) (번거로우시겠지만(Although it is an inconvenience)은 업무",
+            "번거로우시겠지만)은 업무",
             "귀찮더라도 억지로",
             "당장 급하니까"
           ],
@@ -11133,7 +11133,7 @@
         {
           "prompt": "임원에게 기안서 결재 승인을 정중하게 요청하는 최고급 비즈니스 서면 보고 문장은?",
           "options": [
-            "신규 해외 지사 설립 계획안을 결재 상신하오니 검토 후 재가하여 주시기 바랍니다.) (결재 상신하오니(I submit for approval) + 재가하여 주시기 바랍",
+            "신규 해외 지사 설립 계획안을 결재 상신하오니 검토 후 재가하여 주시기 바랍니다.) + 재가하여 주시기 바랍",
             "신규 해외 지사 설립 계획안을 올릴 테니 얼른 도장이나 찍으세요.",
             "신규 해외 지사 설립 계획안을 올리기는커녕 파기하겠습니다."
           ],
@@ -11148,7 +11148,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 비즈니스 한자 어휘의 상대적 짝이 올바르게 맺어진 것은?",
           "options": [
-            "귀사(상대 회사 존칭) - 당사(자사 겸칭) (귀사(貴社)는 상대 회사 높임말, 당사(當社)는 자신의 회사를 가리키는 겸칭입니다.",
+            "귀사(상대 회사 존칭) - 당사(자사 겸칭)는 상대 회사 높임말, 당사(當社)는 자신의 회사를 가리키는 겸칭입니다.",
             "귀사(자사 겸칭) - 당사",
             "배상(부하 직원 명령) - 재가"
           ],
@@ -11424,7 +11424,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 '-(으)ㄴ 바 있다'의 문법적 기능으로 알맞은 것은?",
           "options": [
-            "과거의 특정한 경험, 선례, 역사적 사실을 격식 있게 진술한다. (-(으)ㄴ 바 있다는 공식 문어체에서 과거의 선례나 사실을 진술할 때 쓰입니다.",
+            "과거의 특정한 경험, 선례, 역사적 사실을 격식 있게 진술한다. (-(으)ㄴ 바 있다는 공식 문어체에서 과거의 선례나 사실을 진술할 때 쓰입니다.)",
             "미래에 일어날 사태를 추측하며 의문을 제기한다.ㄴ/는 바 있다'",
             "명령이나 청유형으로 상대방의 행동을 촉구한다.ㄴ/는 바 있다'"
           ],
@@ -11579,7 +11579,7 @@
         {
           "prompt": "영화 평론가가 심사위원 총평에서 만장일치 대상 수여 사실을 공식적으로 밝힐 때 가장 알맞은 문장은?",
           "options": [
-            "심사위원단은 이 작품의 뛰어난 미학적 성취를 인정하여 만장일치로 대상을 수여한 바 있습니다. (공식 심사 총평의 격조 높은 진술에는 수여한 바 있습니다가 가장 적합합니다.) (팬덤 생태계, 서사 클리셰 전복, 미장센 연출, 웹툰 IP 확장, '-(으)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.",
+            "심사위원단은 이 작품의 뛰어난 미학적 성취를 인정하여 만장일치로 대상을 수여한 바 있습니다. (공식 심사 총평의 격조 높은 진술에는 수여한 바 있습니다가 가장 적합합니다.)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.",
             "심사위원단은 대상을 수여하기는커녕 모두 영화관을 뛰쳐나갔습니다.",
             "심사위원단은 대상을 수여하더라도 상금을 주지 않았습니다."
           ],
@@ -11593,7 +11593,7 @@
         {
           "prompt": "영화 평론 팟캐스트 중 장르적 재미와 사회 비판의 양면을 균형 있게 칭찬한 문장은?",
           "options": [
-            "통쾌한 장르적 쾌감을 선사하는 한편, 현대 사회의 부조리를 날카롭게 통찰했습니다. (재미와 사회 비판의 조화로운 공존을 서술하므로 -는 한편(선사하는 한편)이 가장 탁월합니다.) (팬덤 생태계, 서사 클리셰 전복, 미장센 연출, 웹툰 IP 확장, '-(으)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.",
+            "통쾌한 장르적 쾌감을 선사하는 한편, 현대 사회의 부조리를 날카롭게 통찰했습니다. (재미와 사회 비판의 조화로운 공존을 서술하므로 -는 한편(선사하는 한편)이 가장 탁월합니다.)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.",
             "통쾌한 장르적 쾌감을 선사할수록 현대 사회의 부조리가 심해졌습니다.",
             "통쾌한 장르적 쾌감을 선사하더라도 재미가 전혀 없었습니다."
           ],
@@ -11608,7 +11608,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 K-콘텐츠 및 영화 비평 전문 용어가 가장 올바르게 쓰인 것은?",
           "options": [
-            "감독은 정교한 미장센을 통해 계급 갈등의 주제 의식을 훌륭히 형상화했습니다. (미장센과 주제 의식의 형상화는 영화 비평의 정통 전문 어휘입니다.) (팬덤 생태계, 서사 클리셰 전복, 미장센 연출, 웹툰 IP 확장, '-(으)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.",
+            "감독은 정교한 미장센을 통해 계급 갈등의 주제 의식을 훌륭히 형상화했습니다. (미장센과 주제 의식의 형상화는 영화 비평의 정통 전문 어휘입니다.)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.",
             "감독은 칼군무를 추면서 영화 필름을 가위로 잘랐습니다.",
             "배우는 사이다 전개 대신에 콜라 전개를 요구했습니다."
           ],
@@ -11792,7 +11792,7 @@
           "type": "multiple-choice",
           "prompt": "조선 시대 왕에게 바치던 가장 격조 높은 진지를 뜻하는 궁중 높임말은?",
           "options": [
-            "수라 (水剌 / 수라상) (임금에게 올리는 밥상을 수라상(水剌床)이라고 부릅니다.",
+            "수라 (水剌 / 수라상)이라고 부릅니다.",
             "밥",
             "진지"
           ],
@@ -11947,7 +11947,7 @@
         {
           "prompt": "한국 불교 사찰음식에서 마음을 산란하게 하여 배제하는 마늘, 파 등 다섯 가지 자극적인 채소를 일컫는 말은?",
           "options": [
-            "오신채 (五辛菜) (사찰음식에서 금하는 5가지 매운맛 채소(마늘, 파, 부추, 달래, 흥거)는 오신채입니다.",
+            "오신채 (五辛菜)는 오신채입니다.",
             "오방색",
             "오곡밥"
           ],
@@ -12699,7 +12699,7 @@
         {
           "prompt": "부동산 등기부등본에서 집주인이 은행에 진 빚(담보 대출)이나 가압류 내역을 확인할 수 있는 항목은?",
           "options": [
-            "을구 (소유권 이외의 권리 - 근저당권, 전세권 등) (담보 대출, 근저당권 등 소유권 이외의 부채 권리관계는 을구에 기재됩니다.)",
+            "을구 (소유권 이외의 권리 - 근저당권, 전세권 등)",
             "갑구",
             "표제부"
           ],
@@ -12961,7 +12961,7 @@
         {
           "prompt": "전세 계약 시 집주인이 잔금 지급 당일 몰래 은행 대출을 받는 것을 막기 위해 계약서에 넣는 가장 중요한 안전장치는?",
           "options": [
-            "잔금 지급 익일까지 추가 담보대출을 설정하지 않는다는 계약서 특약 조항 (대항력 발생(익일 0시) 전 선순위 대출 방지를 위해 특약 조항을 반드시 명시해야 합니다.",
+            "잔금 지급 익일까지 추가 담보대출을 설정하지 않는다는 계약서 특약 조항 (대항력 발생(익일 0시) 전 선순위 대출 방지를 위해 특약 조항을 반드시 명시해야 합니다.)",
             "집주인에게 구두로 잘 부탁한다고 인사하기",
             "계약서를 작성하지 않고 현금으로 직접 건네기"
           ],
@@ -13053,7 +13053,7 @@
         {
           "prompt": "고생과 어려움을 꿋꿋이 이겨내고 나면 반드시 달콤한 행복과 결실이 찾아온다는 뜻의 사자성어는?",
           "options": [
-            "고진감래 (苦盡甘來) (쓴 것이 다하면 단 것이 온다는 뜻으로 고생 끝의 보람을 나타내는 고사성어는 고진감래입니다.)",
+            "고진감래 (苦盡甘來)",
             "양두구육",
             "주마간산"
           ],
@@ -13067,7 +13067,7 @@
         {
           "prompt": "과거와 비교하여 세상이 놀랍고 몰라보게 달라져 다른 세상에 온 것 같은 깊은 감회를 뜻하는 사자성어는?",
           "options": [
-            "격세지감 (隔世之感) (세월이 흘러 세상의 변화가 극심하여 세대 차이를 실감할 때 느끼는 감정은 격세지감입니다.)",
+            "격세지감 (隔世之感)",
             "탁상공론",
             "화무십일홍"
           ],
@@ -13082,7 +13082,7 @@
           "type": "multiple-choice",
           "prompt": "재앙이나 위기가 오히려 좋은 기회나 복으로 바뀐 상황을 가장 잘 나타낸 고사성어는?",
           "options": [
-            "전화위복 (轉禍爲福) (재앙(禍)이 굴러 복(福)이 된다는 뜻의 사자성어는 전화위복입니다.)",
+            "전화위복 (轉禍爲福)이 굴러 복(福)이 된다는 뜻의 사자성어는 전화위복입니다.",
             "새옹지마",
             "백절불굴"
           ],
@@ -13145,7 +13145,7 @@
         {
           "prompt": "남의 잘못이나 하찮은 실수라도 자신의 인격과 교훈을 닦는 거울로 삼는다는 뜻의 사자성어는?",
           "options": [
-            "타산지석 (他山之石) (다른 산의 돌로 내 옥을 간다는 뜻으로 남의 허물을 교훈 삼는 사자성어는 타산지석입니다.)",
+            "타산지석 (他山之石)",
             "양두구육",
             "화무십일홍"
           ],
@@ -13159,7 +13159,7 @@
         {
           "prompt": "옛것을 연구하여 거기서 새로운 지식과 지혜를 터득한다는 뜻의 공자 학문 철학 사자성어는?",
           "options": [
-            "온고지신 (溫故知新) (옛것을 온(익히고) 새것을 지(알다)는 뜻의 배움의 철학은 온고지신입니다.)",
+            "온고지신 (溫故知新) 새것을 지(알다)는 뜻의 배움의 철학은 온고지신입니다.",
             "주마간산",
             "적반하장"
           ],
@@ -13174,7 +13174,7 @@
           "type": "multiple-choice",
           "prompt": "제자가 스승의 가르침을 바탕으로 더욱 정진하여 스승보다 뛰어난 학문적 성취를 거두었을 때 쓰는 성어는?",
           "options": [
-            "청출어람 (靑出於藍) (쪽에서 난 푸른 물감이 쪽보다 더 푸르다는 뜻으로 제자의 뛰어남을 찬양하는 성어는 청출어람입니다.)",
+            "청출어람 (靑出於藍)",
             "새옹지마",
             "관포지교"
           ],
@@ -13237,7 +13237,7 @@
         {
           "prompt": "평소에 빈틈없이 준비해 두면 뜻밖의 재앙이나 걱정거리가 생기지 않는다는 뜻의 사자성어는?",
           "options": [
-            "유비무환 (有備無患) (준비가 있으면 우환이 없다는 뜻의 위기관리 사자성어는 유비무환입니다.)",
+            "유비무환 (有備無患)",
             "탁상공론",
             "침소봉대"
           ],
@@ -13251,7 +13251,7 @@
         {
           "prompt": "갈등 해결과 원활한 소통을 위해 서로의 입장을 바꾸어 상대방의 처지에서 헤아려 보는 지혜를 일컫는 사자성어는?",
           "options": [
-            "역지사지 (易地思之) (땅(입장)을 바꾸어 그것을 생각한다는 공감과 역지사지의 태도는 역지사지입니다.)",
+            "역지사지 (易地思之)을 바꾸어 그것을 생각한다는 공감과 역지사지의 태도는 역지사지입니다.",
             "적반하장",
             "와신상담"
           ],
@@ -13266,7 +13266,7 @@
           "type": "multiple-choice",
           "prompt": "어떠한 시련과 난관 앞에서도 백 번 꺾일지언정 결코 굽히지 않는 굳센 절개를 이르는 말은?",
           "options": [
-            "백절불굴 (百折不屈) (백 번 꺾여도 굽히지 않는 불굴의 투지를 나타내는 성어는 백절불굴입니다.)",
+            "백절불굴 (百折不屈)",
             "고진감래",
             "화무십일홍"
           ],
@@ -13329,7 +13329,7 @@
         {
           "prompt": "잘못을 저지른 사람이 도리어 큰소리를 치며 피해자에게 성을 내는 파렴치한 상황을 일컫는 사자성어는?",
           "options": [
-            "적반하장 (賊反荷杖) (도둑이 도리어 몽둥이를 든다는 뜻으로 가해자의 뻔뻔함을 꼬집는 성어는 적반하장입니다.)",
+            "적반하장 (賊反荷杖)",
             "온고지신",
             "타산지석"
           ],
@@ -13343,7 +13343,7 @@
         {
           "prompt": "겉으로는 훌륭한 명분을 내세우지만 속으로는 전혀 딴판인 질 낮은 것을 속여 파는 행태를 뜻하는 사자성어는?",
           "options": [
-            "양두구육 (羊頭狗肉) (양의 머리를 걸고 개고기를 판다는 표리부동과 기만의 사자성어는 양두구육입니다.)",
+            "양두구육 (羊頭狗肉)",
             "유비무환",
             "백절불굴"
           ],
@@ -13358,7 +13358,7 @@
           "type": "multiple-choice",
           "prompt": "현실적인 실행 가능성이나 현장의 목소리를 전혀 반영하지 않은 채 책상 위에서만 맴도는 헛된 논의는?",
           "options": [
-            "탁상공론 (卓上空論) (현실과 동떨어진 헛된 책상머리 논의를 탁상공론이라 합니다.)",
+            "탁상공론 (卓上空論)",
             "청출어람",
             "전화위복"
           ],
@@ -13435,7 +13435,7 @@
         {
           "prompt": "위기 극복 연설에서 '우리는 숱한 좌절에도 꺾이지 않고 피땀 흘려 노력해 마침내 위기를 기회로 바꾸었다'를 표현하는 사자성어 조합은?",
           "options": [
-            "백절불굴(百折不屈), 와신상담(臥薪嘗膽), 전화위복(轉禍爲福) (백절불굴(꺾이지 않음), 와신상담(고초를 견딤), 전화위복(위기를 복으로 바꿈)이 완벽한 논리 조합입니다.",
+            "백절불굴(百折不屈), 와신상담(臥薪嘗膽), 전화위복(轉禍爲福), 와신상담(고초를 견딤), 전화위복(위기를 복으로 바꿈)이 완벽한 논리 조합입니다.",
             "침소봉대(針小棒大), 탁상공론(卓上空論), 화무십일홍",
             "양두구육(羊頭狗肉), 주마간산(走馬看山), 적반하장"
           ],
@@ -14065,7 +14065,7 @@
         {
           "prompt": "판사가 검사의 구속영장 청구를 받아들여 피의자를 구속하기 전, 법정에서 직접 피의자를 심문하는 제도는?",
           "options": [
-            "영장실질심사 (구속 전 피의자 심문) (구속영장 발부 전 판사가 피의자를 대면 심문하는 절차는 영장실질심사입니다.)",
+            "영장실질심사 (구속 전 피의자 심문)",
             "약식명령",
             "즉결심판"
           ],
@@ -16230,7 +16230,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'korean', name: "Korean", units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'korean', name: 'Korean', units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['korean'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

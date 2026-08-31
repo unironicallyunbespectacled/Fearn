@@ -901,7 +901,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "To repeat the song's main title with maximum vocal power",
             "To change the musical tempo completely",
@@ -1062,7 +1062,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "To build melodic, harmonic, and emotional tension that launches seamlessly into the chorus",
             "To provide a 5-minute guitar solo",
@@ -1222,7 +1222,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "To give the drummer a break",
             "To explain complicated backstory details",
@@ -1382,7 +1382,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "To break the repetitive Verse/Chorus loop by introducing a new harmonic color, fresh melody, and a lyrical revelation",
             "To play the first verse backwards",
@@ -1544,7 +1544,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Verse - Chorus - Verse - Chorus - Bridge - Chorus",
             "Vocal - Chord - Vocal - Chord - Bass - Cymbal",
@@ -1705,7 +1705,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Conjunct is loud and disjunct is quiet",
             "Conjunct uses only minor chords",
@@ -1866,7 +1866,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "A short, distinctive 3-to-7 note melodic/rhythmic building block that is repeated and developed",
             "The chord sheet",
@@ -2028,7 +2028,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "A note played at the end of a concert",
             "A silent measure",
@@ -2189,7 +2189,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "The higher vocal register naturally produces more acoustic energy and emotional intensity, signaling the song's primary hook",
             "To make the song shorter",
@@ -2352,7 +2352,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "The seamless alignment of natural spoken word stress with musical pitch peaks and rhythmic downbeats",
             "Writing poems without music",
@@ -2516,7 +2516,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "It makes the guitar louder.",
             "It forces the song to change tempo.",
@@ -2657,7 +2657,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "A bittersweet, poignant 'tearjerker' ache caused by the chromatic half-step descent from the major 6th (A) to minor 6th (A-flat) down to the 5th",
             "An electric shock",
@@ -2798,7 +2798,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "D7",
             "G7",
@@ -2939,7 +2939,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Following a dramatic upward leap in pitch with smooth stepwise motion in the opposite (downward) direction to restore melodic balance",
             "Singing only two notes over and over",
@@ -3081,7 +3081,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "It introduces the chromatic note F-sharp, creating intense upward melodic drive and pulling irresistibly into the dominant G chord right before the chorus explosion.",
             "It turns off the drums.",
@@ -3216,7 +3216,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Hidden in the middle of line 2 only",
             "Never spoken or sung in the song",
@@ -3351,7 +3351,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "'The screen door slammed, Mary's dress swayed, like a vision she danced across the porch as the radio played.'",
             "'We were having an awesome time in the summer.'",
@@ -3486,7 +3486,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Resolving to the tonic I chord early",
             "Stopping the song completely and tuning the guitar",
@@ -3621,7 +3621,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "To tune instruments during the show",
             "To provide fresh harmonic, melodic, and lyrical contrast, offering a new perspective or realization before the final chorus",
@@ -3756,7 +3756,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Cmaj7 - Bm7 - Am7 - Dsus4/D7 (IV - iii - ii - V), ending on the dominant preparation to launch the final double chorus",
             "Repeating Em - Em - Em - Em with no changes",
@@ -3891,7 +3891,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "'And it is just really hard because the tail-lights are so foggy.'",
             "'So I was looking at the cars that were driving away.'",
@@ -4026,7 +4026,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "'HEART'",
             "'LITTLE'",
@@ -4161,7 +4161,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Because instruments are too expensive to play in verses",
             "Because the computer cannot play all instruments at once",
@@ -4296,7 +4296,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Panned 100% to the hard right only",
             "Dead Center (Mono center highway) for maximum punch, focus, and phase coherence",
@@ -4431,7 +4431,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "It introduces the haunting emotional power of modal mixture (borrowed from D minor), creating an intense bittersweet tearjerker pull before resolving home to the tonic",
             "Because Gm is an out-of-tune chord",
@@ -4570,7 +4570,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "'I felt very bad and worried inside my head.'",
             "'Anxiety was high and sadness was everywhere.'",
@@ -4709,7 +4709,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "Third-Person Narrative / Observer",
             "First-Person Soliloquy",
@@ -4848,7 +4848,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "A comedy joke told during the guitar solo",
             "A whisper at the end of the song",
@@ -4985,7 +4985,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "The musical instrument played",
             "The concrete physical image or world used to represent the emotion",
@@ -5122,7 +5122,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
           "options": [
             "'The radiator clanks like an iron bell in the freezing four-flight walkup.'",
             "'The apartment was cold and I didn't like it.'",

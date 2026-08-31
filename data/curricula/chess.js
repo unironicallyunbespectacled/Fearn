@@ -1,4 +1,4 @@
-// FEARN Curriculum Data — chess
+// FEARN Curriculum Data — Chess
 (function (global) {
   'use strict';
   var UNITS = [
@@ -103,9 +103,9 @@
   {
     "id": "chess-u8",
     "unit": 8,
-    "title": "Rook & Pawn Endgames (Lucena & Philidor)",
+    "title": "Positional Mastery, Holes & Outpost Knights",
     "level": "Advanced",
-    "goal": "Mastery of Rook & Pawn Endgames (Lucena & Philidor).",
+    "goal": "Mastery of weak squares, pawn structure holes, and anchoring outpost knights.",
     "lessonIds": [
       "chess-u8-l1",
       "chess-u8-l2",
@@ -117,9 +117,9 @@
   {
     "id": "chess-u9",
     "unit": 9,
-    "title": "Positional Bishop Pair & Outpost Knights",
+    "title": "Classical Openings & Central Pawn Tension",
     "level": "Master",
-    "goal": "Mastery of Positional Bishop Pair & Outpost Knights.",
+    "goal": "Mastery of classical opening structures, Ruy Lopez pawn tension, and dynamic piece coordination.",
     "lessonIds": [
       "chess-u9-l1",
       "chess-u9-l2",
@@ -1927,7 +1927,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 8, Lesson 1, which move or plan is best?",
           "options": [
             "A square where the King is in check",
             "Any square on the edge of the board",
@@ -1966,9 +1966,9 @@
         {
           "prompt": "What is the strategic technique of 'fixing a weakness'?",
           "options": [
-            "Resigning the game",
-            "Fixing a broken wooden piece",
-            "Taking back a move",
+            "Playing an immediate premature pawn break",
+            "Exchanging all active minor pieces",
+            "Sacrificing an exchange for speculative counterplay",
             "Placing pressure on a backward enemy pawn or square so the opponent can never advance it to relieve the structural defect"
           ],
           "answerIndex": 3,
@@ -1981,10 +1981,10 @@
         {
           "prompt": "Match the positional concepts: Hole, Outpost, Backward Pawn, Octopus Knight:",
           "options": [
-            "All are pawn promotion rules",
-            "All mean checkmate",
+            "All are endgame conversion rules",
+            "All are basic tactical motifs",
             "Hole: Pawn-undefendable square | Outpost: Hole guarded by own pawn | Backward Pawn: Pawn trailing behind neighbor on open file | Octopus Knight: Dominant 6th-rank knight",
-            "All are opening traps"
+            "All are king safety principles"
           ],
           "answerIndex": 2,
           "explanation": "Positional pawn structure definitions.",
@@ -1993,10 +1993,10 @@
         {
           "prompt": "Why did World Champion Garry Kasparov call his Knight on d3 in Game 16 against Anatoly Karpov (1985) 'The Monster Octopus'?",
           "options": [
-            "Because it looked like an animal.",
+            "Because it defended eight pawns at once.",
             "Because anchored deep on d3 in White's camp, the Knight controlled 8 critical squares, paralyzed White's rooks, and single-handedly won the World Championship game.",
-            "Because Kasparov had 8 knights.",
-            "Because it moved 8 times in a row."
+            "Because it was pinned to White's king.",
+            "Because it guarded every escape square on the rank."
           ],
           "answerIndex": 1,
           "explanation": "Kasparov's famous Nd3 octopus knight paralyzed Karpov's entire army.",
@@ -2062,7 +2062,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 8, Lesson 2, which move or plan is best?",
           "options": [
             "Because a skilled defender can coordinate their pieces to fortify and guard a single static target indefinitely.",
             "Because of the 50-move rule.",
@@ -2197,7 +2197,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 8, Lesson 3, which move or plan is best?",
           "options": [
             "When the bishop is worth 2 points",
             "When it moves like a knight",
@@ -2332,7 +2332,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 8, Lesson 4, which move or plan is best?",
           "options": [
             "An illegal move",
             "A heavy piece battery consisting of two Rooks in front and the Queen directly behind them on a single open file",
@@ -2467,7 +2467,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 8, Lesson 5, which move or plan is best?",
           "options": [
             "The habit of identifying the opponent's active intentions, threats, and liberating pawn breaks on every turn and neutralizing them before executing your own plans",
             "Playing as fast as possible on the clock",
@@ -2596,7 +2596,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 9, Lesson 1, which move or plan is best?",
           "options": [
             "Nb1-a3-c2-e1",
             "Nb1-c3-b5-d6",
@@ -2725,7 +2725,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 9, Lesson 2, which move or plan is best?",
           "options": [
             "Black trades a flank c-pawn for White's central d-pawn, securing a 2-to-1 central pawn majority (d- and e-pawns) and the half-open c-file",
             "Black has no pawns",
@@ -2854,7 +2854,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 9, Lesson 3, which move or plan is best?",
           "options": [
             "To promote White's b-pawn to a queen on move 12",
             "To checkmate Black on b8",
@@ -2983,7 +2983,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 9, Lesson 4, which move or plan is best?",
           "options": [
             "Castle queenside and play passively",
             "Pawn storm the kingside with ...f7-f5-f4 followed by ...g5, ...h5, ...g4 to hunt White's king",
@@ -3112,7 +3112,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 9, Lesson 5, which move or plan is best?",
           "options": [
             "Play 3.Nf3 (or 1.Nf3), preventing 3...Bb4 from pinning a knight on c3 and steering into the Queen's Indian, Bogo-Indian, or Catalan",
             "Play 3.f3 and give up the king",
@@ -3241,7 +3241,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which tactical sequence or move executes the winning motif in this position?",
           "options": [
             "Calculate your favorite move for 10 minutes",
             "Offer a draw to the opponent",
@@ -3370,7 +3370,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 10, Lesson 2, which move or plan is best?",
           "options": [
             "'What is my opponent's threat, plan, or desired pawn break, and how can I prevent it?'",
             "'How many minutes do I have left?'",
@@ -3499,7 +3499,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 10, Lesson 3, which move or plan is best?",
           "options": [
             "Because rooks are actually worth only 2 points",
             "Because minor pieces can fly over pawns",
@@ -3628,7 +3628,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 10, Lesson 4, which move or plan is best?",
           "options": [
             "Red square",
             "Light square",
@@ -3757,7 +3757,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 10, Lesson 5, which move or plan is best?",
           "options": [
             "It eliminated Black's key central defender, won the bishop pair, established an unstoppable outpost on e5, and created an outside passed a-pawn that easily converted the endgame",
             "It checkmated Black on move 21",
@@ -3891,7 +3891,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 7, Lesson 1, which move or plan is best?",
           "options": [
             "Black's advantage",
             "Automatic stalemate",
@@ -4025,7 +4025,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 7, Lesson 2, which move or plan is best?",
           "options": [
             "No",
             "White loses",
@@ -4157,7 +4157,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 7, Lesson 3, which move or plan is best?",
           "options": [
             "The 1st rank",
             "The 8th rank",
@@ -4291,7 +4291,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 7, Lesson 4, which move or plan is best?",
           "options": [
             "The 8th rank",
             "The 3rd rank (e.g. Ra6/Rh6), cutting off the enemy King from advancing",
@@ -4425,7 +4425,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "According to master chess strategy in Unit 7, Lesson 5, which move or plan is best?",
           "options": [
             "The Lucena Position",
             "The Philidor Position",

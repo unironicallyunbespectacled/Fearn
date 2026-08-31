@@ -2,482 +2,482 @@
 (function (global) {
   'use strict';
   var UNITS = [
-    {
-        "id": "zh-u1",
-        "unit": 1,
-        "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings)",
-        "level": "A1",
-        "goal": "Mastery of 汉语拼音与日常问候 (Pinyin & Basic Greetings).",
-        "lessonIds": [
-            "zh-u1-l1",
-            "zh-u1-l2",
-            "zh-u1-l3",
-            "zh-u1-l4",
-            "zh-u1-l5"
-        ]
-    },
-    {
-        "id": "zh-u2",
-        "unit": 2,
-        "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)",
-        "level": "A1",
-        "goal": "Mastery of 人称代词与是字句 (Pronouns & 是-Sentences).",
-        "lessonIds": [
-            "zh-u2-l1",
-            "zh-u2-l2",
-            "zh-u2-l3",
-            "zh-u2-l4",
-            "zh-u2-l5"
-        ]
-    },
-    {
-        "id": "zh-u3",
-        "unit": 3,
-        "title": "数字、时间与日期表达 (Numbers, Time & Date)",
-        "level": "A1",
-        "goal": "Mastery of 时间与日期表达 (Time, Numbers & Calendar).",
-        "lessonIds": [
-            "zh-u3-l1",
-            "zh-u3-l2",
-            "zh-u3-l3",
-            "zh-u3-l4",
-            "zh-u3-l5"
-        ]
-    },
-    {
-        "id": "zh-u4",
-        "unit": 4,
-        "title": "量词系统与名词修饰 (Classifiers & Noun Modification)",
-        "level": "A1",
-        "goal": "Mastery of 汉语量词系统 (Classifiers: 个/本/张/条).",
-        "lessonIds": [
-            "zh-u4-l1",
-            "zh-u4-l2",
-            "zh-u4-l3",
-            "zh-u4-l4",
-            "zh-u4-l5"
-        ]
-    },
-    {
-        "id": "zh-u5",
-        "unit": 5,
-        "title": "动词重叠与现在进行态 (Verb Reduplication & Continuous 在)",
-        "level": "A1",
-        "goal": "Mastery of 现在进行态与在 (Continuous Aspect with 在).",
-        "lessonIds": [
-            "zh-u5-l1",
-            "zh-u5-l2",
-            "zh-u5-l3",
-            "zh-u5-l4",
-            "zh-u5-l5"
-        ]
-    },
-    {
-        "id": "zh-u6",
-        "unit": 6,
-        "title": "动态助词：了的完成态与变化态 (Aspect Marker 了)",
-        "level": "A2",
-        "goal": "Mastery of 动态助词了的用法 (Perfective & Modal 了).",
-        "lessonIds": [
-            "zh-u6-l1",
-            "zh-u6-l2",
-            "zh-u6-l3",
-            "zh-u6-l4",
-            "zh-u6-l5"
-        ]
-    },
-    {
-        "id": "zh-u7",
-        "unit": 7,
-        "title": "动态助词：着与持续态 (Durative Aspect Marker 着)",
-        "level": "A2",
-        "goal": "Mastery of 持续态动词后着 (Durative Aspect Marker 着).",
-        "lessonIds": [
-            "zh-u7-l1",
-            "zh-u7-l2",
-            "zh-u7-l3",
-            "zh-u7-l4",
-            "zh-u7-l5"
-        ]
-    },
-    {
-        "id": "zh-u8",
-        "unit": 8,
-        "title": "动态助词：过与经验态 (Experiential Aspect Marker 过)",
-        "level": "A2",
-        "goal": "Mastery of 经验态动态助词过 (Experiential Aspect Marker 过).",
-        "lessonIds": [
-            "zh-u8-l1",
-            "zh-u8-l2",
-            "zh-u8-l3",
-            "zh-u8-l4",
-            "zh-u8-l5"
-        ]
-    },
-    {
-        "id": "zh-u9",
-        "unit": 9,
-        "title": "否定词辨析：不与没/没有 (Negation 不 vs 没)",
-        "level": "A2",
-        "goal": "Mastery of 否定词不与没辨析 (Negation Distinctions 不 vs 没).",
-        "lessonIds": [
-            "zh-u9-l1",
-            "zh-u9-l2",
-            "zh-u9-l3",
-            "zh-u9-l4",
-            "zh-u9-l5"
-        ]
-    },
-    {
-        "id": "zh-u10",
-        "unit": 10,
-        "title": "趋向补语：上来、下去与过 (Directional Complements)",
-        "level": "A2",
-        "goal": "Mastery of 简单与复合趋向补语 (Directional Complements: 上来/下去).",
-        "lessonIds": [
-            "zh-u10-l1",
-            "zh-u10-l2",
-            "zh-u10-l3",
-            "zh-u10-l4",
-            "zh-u10-l5"
-        ]
-    },
-    {
-        "id": "zh-u11",
-        "unit": 11,
-        "title": "结果补语：看见、做完与找到 (Resultative Complements)",
-        "level": "B1",
-        "goal": "Mastery of 结果补语系统 (Resultative Complements: 看见/做完).",
-        "lessonIds": [
-            "zh-u11-l1",
-            "zh-u11-l2",
-            "zh-u11-l3",
-            "zh-u11-l4",
-            "zh-u11-l5"
-        ]
-    },
-    {
-        "id": "zh-u12",
-        "unit": 12,
-        "title": "可能补语：看得懂与做不完 (Potential Complements)",
-        "level": "B1",
-        "goal": "Mastery of 可能补语得与不 (Potential Complements: 得/不).",
-        "lessonIds": [
-            "zh-u12-l1",
-            "zh-u12-l2",
-            "zh-u12-l3",
-            "zh-u12-l4",
-            "zh-u12-l5"
-        ]
-    },
-    {
-        "id": "zh-u13",
-        "unit": 13,
-        "title": "把字句的结构限制与对象处置 (The 把 Construction)",
-        "level": "B1",
-        "goal": "Mastery of 把字句处置结构 (The 把 Disposal Construction).",
-        "lessonIds": [
-            "zh-u13-l1",
-            "zh-u13-l2",
-            "zh-u13-l3",
-            "zh-u13-l4",
-            "zh-u13-l5"
-        ]
-    },
-    {
-        "id": "zh-u14",
-        "unit": 14,
-        "title": "被字句与被动表述 (The 被 Passive Voice)",
-        "level": "B1",
-        "goal": "Mastery of 被字句与被动表述 (Passive Voice with 被).",
-        "lessonIds": [
-            "zh-u14-l1",
-            "zh-u14-l2",
-            "zh-u14-l3",
-            "zh-u14-l4",
-            "zh-u14-l5"
-        ]
-    },
-    {
-        "id": "zh-u15",
-        "unit": 15,
-        "title": "比较句：比、没有与不如 (Comparatives)",
-        "level": "B1",
-        "goal": "Mastery of 比较句式比与不如 (Comparatives: 比/没有/不如).",
-        "lessonIds": [
-            "zh-u15-l1",
-            "zh-u15-l2",
-            "zh-u15-l3",
-            "zh-u15-l4",
-            "zh-u15-l5"
-        ]
-    },
-    {
-        "id": "zh-u16",
-        "unit": 16,
-        "title": "存现句与空间方位表述 (Existential Sentences)",
-        "level": "B1",
-        "goal": "Mastery of 空间方位与存现句 (Existential Locative Sentences).",
-        "lessonIds": [
-            "zh-u16-l1",
-            "zh-u16-l2",
-            "zh-u16-l3",
-            "zh-u16-l4",
-            "zh-u16-l5"
-        ]
-    },
-    {
-        "id": "zh-u17",
-        "unit": 17,
-        "title": "条件复句：只要...就与只有...才 (Complex Conditionals)",
-        "level": "B2",
-        "goal": "Mastery of 条件复句关联词 (Conditionals: 只要...就 / 只有...才).",
-        "lessonIds": [
-            "zh-u17-l1",
-            "zh-u17-l2",
-            "zh-u17-l3",
-            "zh-u17-l4",
-            "zh-u17-l5"
-        ]
-    },
-    {
-        "id": "zh-u18",
-        "unit": 18,
-        "title": "因果与转折复句 (Causal & Concessive)",
-        "level": "B2",
-        "goal": "Mastery of 因果与转折复句 (Causal & Concessive Clauses).",
-        "lessonIds": [
-            "zh-u18-l1",
-            "zh-u18-l2",
-            "zh-u18-l3",
-            "zh-u18-l4",
-            "zh-u18-l5"
-        ]
-    },
-    {
-        "id": "zh-u19",
-        "unit": 19,
-        "title": "强调句型：是...的结构 (Emphatic 是...的)",
-        "level": "B2",
-        "goal": "Mastery of 强调句型是...的 (Emphatic 是...的 Construction).",
-        "lessonIds": [
-            "zh-u19-l1",
-            "zh-u19-l2",
-            "zh-u19-l3",
-            "zh-u19-l4",
-            "zh-u19-l5"
-        ]
-    },
-    {
-        "id": "zh-u20",
-        "unit": 20,
-        "title": "商务沟通、职场礼仪与正式电邮 (Corporate Communication)",
-        "level": "B2",
-        "goal": "Mastery of 商务职场与正式电邮 (Business & Corporate Communication).",
-        "lessonIds": [
-            "zh-u20-l1",
-            "zh-u20-l2",
-            "zh-u20-l3",
-            "zh-u20-l4",
-            "zh-u20-l5"
-        ]
-    },
-    {
-        "id": "zh-u21",
-        "unit": 21,
-        "title": "中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)",
-        "level": "B2",
-        "goal": "Mastery of 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining).",
-        "lessonIds": [
-            "zh-u21-l1",
-            "zh-u21-l2",
-            "zh-u21-l3",
-            "zh-u21-l4",
-            "zh-u21-l5"
-        ]
-    },
-    {
-        "id": "zh-u22",
-        "unit": 22,
-        "title": "城市导航与智慧出行 (Urban Transit & Digital Life)",
-        "level": "B2",
-        "goal": "Mastery of 城市交通与智慧生活 (Urban Transit & Digital Life).",
-        "lessonIds": [
-            "zh-u22-l1",
-            "zh-u22-l2",
-            "zh-u22-l3",
-            "zh-u22-l4",
-            "zh-u22-l5"
-        ]
-    },
-    {
-        "id": "zh-u23",
-        "unit": 23,
-        "title": "传统中医与经络养生 (TCM Diagnostics & Wellness)",
-        "level": "B2",
-        "goal": "Mastery of 传统中医与养生理念 (Traditional Chinese Medicine).",
-        "lessonIds": [
-            "zh-u23-l1",
-            "zh-u23-l2",
-            "zh-u23-l3",
-            "zh-u23-l4",
-            "zh-u23-l5"
-        ]
-    },
-    {
-        "id": "zh-u24",
-        "unit": 24,
-        "title": "金融银行、供应链与跨境电商 (Banking & Supply Chains)",
-        "level": "B2",
-        "goal": "Mastery of 金融银行与跨境电商 (Banking, Finance & E-Commerce).",
-        "lessonIds": [
-            "zh-u24-l1",
-            "zh-u24-l2",
-            "zh-u24-l3",
-            "zh-u24-l4",
-            "zh-u24-l5"
-        ]
-    },
-    {
-        "id": "zh-u25",
-        "unit": 25,
-        "title": "现代中国影视与文学批评 (Contemporary Cinema & Literature)",
-        "level": "C1",
-        "goal": "Mastery of 影视艺术与文学鉴赏 (Cinema & Contemporary Literature).",
-        "lessonIds": [
-            "zh-u25-l1",
-            "zh-u25-l2",
-            "zh-u25-l3",
-            "zh-u25-l4",
-            "zh-u25-l5"
-        ]
-    },
-    {
-        "id": "zh-u26",
-        "unit": 26,
-        "title": "四字成语典故与修辞运用 (Classical Chengyu Idioms)",
-        "level": "C1",
-        "goal": "Mastery of 四字成语典故运用 (Classical Chengyu Idioms).",
-        "lessonIds": [
-            "zh-u26-l1",
-            "zh-u26-l2",
-            "zh-u26-l3",
-            "zh-u26-l4",
-            "zh-u26-l5"
-        ]
-    },
-    {
-        "id": "zh-u27",
-        "unit": 27,
-        "title": "绿色能源转型与生态文明 (Green Energy & Ecological Policy)",
-        "level": "C1",
-        "goal": "Mastery of 生态文明与绿色发展 (Green Energy & Environmental Policy).",
-        "lessonIds": [
-            "zh-u27-l1",
-            "zh-u27-l2",
-            "zh-u27-l3",
-            "zh-u27-l4",
-            "zh-u27-l5"
-        ]
-    },
-    {
-        "id": "zh-u28",
-        "unit": 28,
-        "title": "行政法务与知识产权监管 (Administrative & IP Law)",
-        "level": "C1",
-        "goal": "Mastery of 行政法务与知识产权 (Administrative & IP Law).",
-        "lessonIds": [
-            "zh-u28-l1",
-            "zh-u28-l2",
-            "zh-u28-l3",
-            "zh-u28-l4",
-            "zh-u28-l5"
-        ]
-    },
-    {
-        "id": "zh-u29",
-        "unit": 29,
-        "title": "学术论文规范与科研答辩 (Academic Dissertation & Defense)",
-        "level": "C1",
-        "goal": "Mastery of 学术论文与科研答辩 (Academic Dissertation & Defense).",
-        "lessonIds": [
-            "zh-u29-l1",
-            "zh-u29-l2",
-            "zh-u29-l3",
-            "zh-u29-l4",
-            "zh-u29-l5"
-        ]
-    },
-    {
-        "id": "zh-u30",
-        "unit": 30,
-        "title": "古典诗词格律在现代散文的化用 (Classical Poetry Prosody)",
-        "level": "C1",
-        "goal": "Mastery of 古典诗词意境鉴赏 (Classical Poetry in Modern Prose).",
-        "lessonIds": [
-            "zh-u30-l1",
-            "zh-u30-l2",
-            "zh-u30-l3",
-            "zh-u30-l4",
-            "zh-u30-l5"
-        ]
-    },
-    {
-        "id": "zh-u31",
-        "unit": 31,
-        "title": "新闻评论与深度社论修辞 (Media Analysis & Editorial)",
-        "level": "C2",
-        "goal": "Mastery of 新闻社论与深度评论 (Journalism & Editorial Rhetoric).",
-        "lessonIds": [
-            "zh-u31-l1",
-            "zh-u31-l2",
-            "zh-u31-l3",
-            "zh-u31-l4",
-            "zh-u31-l5"
-        ]
-    },
-    {
-        "id": "zh-u32",
-        "unit": 32,
-        "title": "儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)",
-        "level": "C2",
-        "goal": "Mastery of 儒道思想与哲学思辨 (Confucian-Daoist Philosophy).",
-        "lessonIds": [
-            "zh-u32-l1",
-            "zh-u32-l2",
-            "zh-u32-l3",
-            "zh-u32-l4",
-            "zh-u32-l5"
-        ]
-    },
-    {
-        "id": "zh-u33",
-        "unit": 33,
-        "title": "宏观经济调控与人民币国际化 (Macroeconomics & Currency)",
-        "level": "C2",
-        "goal": "Mastery of 宏观调控与经济战略 (Macroeconomics & Currency Policy).",
-        "lessonIds": [
-            "zh-u33-l1",
-            "zh-u33-l2",
-            "zh-u33-l3",
-            "zh-u33-l4",
-            "zh-u33-l5"
-        ]
-    },
-    {
-        "id": "zh-u34",
-        "unit": 34,
-        "title": "多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)",
-        "level": "C2",
-        "goal": "Mastery of 多边外交与公报发表 (C2 Capstone Global Statecraft).",
-        "lessonIds": [
-            "zh-u34-l1",
-            "zh-u34-l2",
-            "zh-u34-l3",
-            "zh-u34-l4",
-            "zh-u34-l5"
-        ]
-    }
+  {
+    "id": "zh-u1",
+    "unit": 1,
+    "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings)",
+    "level": "A1",
+    "goal": "Mastery of 汉语拼音与日常问候 (Pinyin & Basic Greetings).",
+    "lessonIds": [
+      "zh-u1-l1",
+      "zh-u1-l2",
+      "zh-u1-l3",
+      "zh-u1-l4",
+      "zh-u1-l5"
+    ]
+  },
+  {
+    "id": "zh-u2",
+    "unit": 2,
+    "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)",
+    "level": "A1",
+    "goal": "Mastery of 人称代词与是字句 (Pronouns & 是-Sentences).",
+    "lessonIds": [
+      "zh-u2-l1",
+      "zh-u2-l2",
+      "zh-u2-l3",
+      "zh-u2-l4",
+      "zh-u2-l5"
+    ]
+  },
+  {
+    "id": "zh-u3",
+    "unit": 3,
+    "title": "数字、时间与日期表达 (Numbers, Time & Date)",
+    "level": "A1",
+    "goal": "Mastery of 时间与日期表达 (Time, Numbers & Calendar).",
+    "lessonIds": [
+      "zh-u3-l1",
+      "zh-u3-l2",
+      "zh-u3-l3",
+      "zh-u3-l4",
+      "zh-u3-l5"
+    ]
+  },
+  {
+    "id": "zh-u4",
+    "unit": 4,
+    "title": "量词系统与名词修饰 (Classifiers & Noun Modification)",
+    "level": "A1",
+    "goal": "Mastery of 汉语量词系统 (Classifiers: 个/本/张/条).",
+    "lessonIds": [
+      "zh-u4-l1",
+      "zh-u4-l2",
+      "zh-u4-l3",
+      "zh-u4-l4",
+      "zh-u4-l5"
+    ]
+  },
+  {
+    "id": "zh-u5",
+    "unit": 5,
+    "title": "动词重叠与现在进行态 (Verb Reduplication & Continuous 在)",
+    "level": "A1",
+    "goal": "Mastery of 现在进行态与在 (Continuous Aspect with 在).",
+    "lessonIds": [
+      "zh-u5-l1",
+      "zh-u5-l2",
+      "zh-u5-l3",
+      "zh-u5-l4",
+      "zh-u5-l5"
+    ]
+  },
+  {
+    "id": "zh-u6",
+    "unit": 6,
+    "title": "动态助词：了的完成态与变化态 (Aspect Marker 了)",
+    "level": "A2",
+    "goal": "Mastery of 动态助词了的用法 (Perfective & Modal 了).",
+    "lessonIds": [
+      "zh-u6-l1",
+      "zh-u6-l2",
+      "zh-u6-l3",
+      "zh-u6-l4",
+      "zh-u6-l5"
+    ]
+  },
+  {
+    "id": "zh-u7",
+    "unit": 7,
+    "title": "动态助词：着与持续态 (Durative Aspect Marker 着)",
+    "level": "A2",
+    "goal": "Mastery of 持续态动词后着 (Durative Aspect Marker 着).",
+    "lessonIds": [
+      "zh-u7-l1",
+      "zh-u7-l2",
+      "zh-u7-l3",
+      "zh-u7-l4",
+      "zh-u7-l5"
+    ]
+  },
+  {
+    "id": "zh-u8",
+    "unit": 8,
+    "title": "动态助词：过与经验态 (Experiential Aspect Marker 过)",
+    "level": "A2",
+    "goal": "Mastery of 经验态动态助词过 (Experiential Aspect Marker 过).",
+    "lessonIds": [
+      "zh-u8-l1",
+      "zh-u8-l2",
+      "zh-u8-l3",
+      "zh-u8-l4",
+      "zh-u8-l5"
+    ]
+  },
+  {
+    "id": "zh-u9",
+    "unit": 9,
+    "title": "否定词辨析：不与没/没有 (Negation 不 vs 没)",
+    "level": "A2",
+    "goal": "Mastery of 否定词不与没辨析 (Negation Distinctions 不 vs 没).",
+    "lessonIds": [
+      "zh-u9-l1",
+      "zh-u9-l2",
+      "zh-u9-l3",
+      "zh-u9-l4",
+      "zh-u9-l5"
+    ]
+  },
+  {
+    "id": "zh-u10",
+    "unit": 10,
+    "title": "趋向补语：上来、下去与过 (Directional Complements)",
+    "level": "A2",
+    "goal": "Mastery of 简单与复合趋向补语 (Directional Complements: 上来/下去).",
+    "lessonIds": [
+      "zh-u10-l1",
+      "zh-u10-l2",
+      "zh-u10-l3",
+      "zh-u10-l4",
+      "zh-u10-l5"
+    ]
+  },
+  {
+    "id": "zh-u11",
+    "unit": 11,
+    "title": "结果补语：看见、做完与找到 (Resultative Complements)",
+    "level": "B1",
+    "goal": "Mastery of 结果补语系统 (Resultative Complements: 看见/做完).",
+    "lessonIds": [
+      "zh-u11-l1",
+      "zh-u11-l2",
+      "zh-u11-l3",
+      "zh-u11-l4",
+      "zh-u11-l5"
+    ]
+  },
+  {
+    "id": "zh-u12",
+    "unit": 12,
+    "title": "可能补语：看得懂与做不完 (Potential Complements)",
+    "level": "B1",
+    "goal": "Mastery of 可能补语得与不 (Potential Complements: 得/不).",
+    "lessonIds": [
+      "zh-u12-l1",
+      "zh-u12-l2",
+      "zh-u12-l3",
+      "zh-u12-l4",
+      "zh-u12-l5"
+    ]
+  },
+  {
+    "id": "zh-u13",
+    "unit": 13,
+    "title": "把字句的结构限制与对象处置 (The 把 Construction)",
+    "level": "B1",
+    "goal": "Mastery of 把字句处置结构 (The 把 Disposal Construction).",
+    "lessonIds": [
+      "zh-u13-l1",
+      "zh-u13-l2",
+      "zh-u13-l3",
+      "zh-u13-l4",
+      "zh-u13-l5"
+    ]
+  },
+  {
+    "id": "zh-u14",
+    "unit": 14,
+    "title": "被字句与被动表述 (The 被 Passive Voice)",
+    "level": "B1",
+    "goal": "Mastery of 被字句与被动表述 (Passive Voice with 被).",
+    "lessonIds": [
+      "zh-u14-l1",
+      "zh-u14-l2",
+      "zh-u14-l3",
+      "zh-u14-l4",
+      "zh-u14-l5"
+    ]
+  },
+  {
+    "id": "zh-u15",
+    "unit": 15,
+    "title": "比较句：比、没有与不如 (Comparatives)",
+    "level": "B1",
+    "goal": "Mastery of 比较句式比与不如 (Comparatives: 比/没有/不如).",
+    "lessonIds": [
+      "zh-u15-l1",
+      "zh-u15-l2",
+      "zh-u15-l3",
+      "zh-u15-l4",
+      "zh-u15-l5"
+    ]
+  },
+  {
+    "id": "zh-u16",
+    "unit": 16,
+    "title": "存现句与空间方位表述 (Existential Sentences)",
+    "level": "B1",
+    "goal": "Mastery of 空间方位与存现句 (Existential Locative Sentences).",
+    "lessonIds": [
+      "zh-u16-l1",
+      "zh-u16-l2",
+      "zh-u16-l3",
+      "zh-u16-l4",
+      "zh-u16-l5"
+    ]
+  },
+  {
+    "id": "zh-u17",
+    "unit": 17,
+    "title": "条件复句：只要...就与只有...才 (Complex Conditionals)",
+    "level": "B2",
+    "goal": "Mastery of 条件复句关联词 (Conditionals: 只要...就 / 只有...才).",
+    "lessonIds": [
+      "zh-u17-l1",
+      "zh-u17-l2",
+      "zh-u17-l3",
+      "zh-u17-l4",
+      "zh-u17-l5"
+    ]
+  },
+  {
+    "id": "zh-u18",
+    "unit": 18,
+    "title": "因果与转折复句 (Causal & Concessive)",
+    "level": "B2",
+    "goal": "Mastery of 因果与转折复句 (Causal & Concessive Clauses).",
+    "lessonIds": [
+      "zh-u18-l1",
+      "zh-u18-l2",
+      "zh-u18-l3",
+      "zh-u18-l4",
+      "zh-u18-l5"
+    ]
+  },
+  {
+    "id": "zh-u19",
+    "unit": 19,
+    "title": "强调句型：是...的结构 (Emphatic 是...的)",
+    "level": "B2",
+    "goal": "Mastery of 强调句型是...的 (Emphatic 是...的 Construction).",
+    "lessonIds": [
+      "zh-u19-l1",
+      "zh-u19-l2",
+      "zh-u19-l3",
+      "zh-u19-l4",
+      "zh-u19-l5"
+    ]
+  },
+  {
+    "id": "zh-u20",
+    "unit": 20,
+    "title": "商务沟通、职场礼仪与正式电邮 (Corporate Communication)",
+    "level": "B2",
+    "goal": "Mastery of 商务职场与正式电邮 (Business & Corporate Communication).",
+    "lessonIds": [
+      "zh-u20-l1",
+      "zh-u20-l2",
+      "zh-u20-l3",
+      "zh-u20-l4",
+      "zh-u20-l5"
+    ]
+  },
+  {
+    "id": "zh-u21",
+    "unit": 21,
+    "title": "中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)",
+    "level": "B2",
+    "goal": "Mastery of 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining).",
+    "lessonIds": [
+      "zh-u21-l1",
+      "zh-u21-l2",
+      "zh-u21-l3",
+      "zh-u21-l4",
+      "zh-u21-l5"
+    ]
+  },
+  {
+    "id": "zh-u22",
+    "unit": 22,
+    "title": "城市导航与智慧出行 (Urban Transit & Digital Life)",
+    "level": "B2",
+    "goal": "Mastery of 城市交通与智慧生活 (Urban Transit & Digital Life).",
+    "lessonIds": [
+      "zh-u22-l1",
+      "zh-u22-l2",
+      "zh-u22-l3",
+      "zh-u22-l4",
+      "zh-u22-l5"
+    ]
+  },
+  {
+    "id": "zh-u23",
+    "unit": 23,
+    "title": "传统中医与经络养生 (TCM Diagnostics & Wellness)",
+    "level": "B2",
+    "goal": "Mastery of 传统中医与养生理念 (Traditional Chinese Medicine).",
+    "lessonIds": [
+      "zh-u23-l1",
+      "zh-u23-l2",
+      "zh-u23-l3",
+      "zh-u23-l4",
+      "zh-u23-l5"
+    ]
+  },
+  {
+    "id": "zh-u24",
+    "unit": 24,
+    "title": "金融银行、供应链与跨境电商 (Banking & Supply Chains)",
+    "level": "B2",
+    "goal": "Mastery of 金融银行与跨境电商 (Banking, Finance & E-Commerce).",
+    "lessonIds": [
+      "zh-u24-l1",
+      "zh-u24-l2",
+      "zh-u24-l3",
+      "zh-u24-l4",
+      "zh-u24-l5"
+    ]
+  },
+  {
+    "id": "zh-u25",
+    "unit": 25,
+    "title": "现代中国影视与文学批评 (Contemporary Cinema & Literature)",
+    "level": "C1",
+    "goal": "Mastery of 影视艺术与文学鉴赏 (Cinema & Contemporary Literature).",
+    "lessonIds": [
+      "zh-u25-l1",
+      "zh-u25-l2",
+      "zh-u25-l3",
+      "zh-u25-l4",
+      "zh-u25-l5"
+    ]
+  },
+  {
+    "id": "zh-u26",
+    "unit": 26,
+    "title": "四字成语典故与修辞运用 (Classical Chengyu Idioms)",
+    "level": "C1",
+    "goal": "Mastery of 四字成语典故运用 (Classical Chengyu Idioms).",
+    "lessonIds": [
+      "zh-u26-l1",
+      "zh-u26-l2",
+      "zh-u26-l3",
+      "zh-u26-l4",
+      "zh-u26-l5"
+    ]
+  },
+  {
+    "id": "zh-u27",
+    "unit": 27,
+    "title": "绿色能源转型与生态文明 (Green Energy & Ecological Policy)",
+    "level": "C1",
+    "goal": "Mastery of 生态文明与绿色发展 (Green Energy & Environmental Policy).",
+    "lessonIds": [
+      "zh-u27-l1",
+      "zh-u27-l2",
+      "zh-u27-l3",
+      "zh-u27-l4",
+      "zh-u27-l5"
+    ]
+  },
+  {
+    "id": "zh-u28",
+    "unit": 28,
+    "title": "行政法务与知识产权监管 (Administrative & IP Law)",
+    "level": "C1",
+    "goal": "Mastery of 行政法务与知识产权 (Administrative & IP Law).",
+    "lessonIds": [
+      "zh-u28-l1",
+      "zh-u28-l2",
+      "zh-u28-l3",
+      "zh-u28-l4",
+      "zh-u28-l5"
+    ]
+  },
+  {
+    "id": "zh-u29",
+    "unit": 29,
+    "title": "学术论文规范与科研答辩 (Academic Dissertation & Defense)",
+    "level": "C1",
+    "goal": "Mastery of 学术论文与科研答辩 (Academic Dissertation & Defense).",
+    "lessonIds": [
+      "zh-u29-l1",
+      "zh-u29-l2",
+      "zh-u29-l3",
+      "zh-u29-l4",
+      "zh-u29-l5"
+    ]
+  },
+  {
+    "id": "zh-u30",
+    "unit": 30,
+    "title": "古典诗词格律在现代散文的化用 (Classical Poetry Prosody)",
+    "level": "C1",
+    "goal": "Mastery of 古典诗词意境鉴赏 (Classical Poetry in Modern Prose).",
+    "lessonIds": [
+      "zh-u30-l1",
+      "zh-u30-l2",
+      "zh-u30-l3",
+      "zh-u30-l4",
+      "zh-u30-l5"
+    ]
+  },
+  {
+    "id": "zh-u31",
+    "unit": 31,
+    "title": "新闻评论与深度社论修辞 (Media Analysis & Editorial)",
+    "level": "C2",
+    "goal": "Mastery of 新闻社论与深度评论 (Journalism & Editorial Rhetoric).",
+    "lessonIds": [
+      "zh-u31-l1",
+      "zh-u31-l2",
+      "zh-u31-l3",
+      "zh-u31-l4",
+      "zh-u31-l5"
+    ]
+  },
+  {
+    "id": "zh-u32",
+    "unit": 32,
+    "title": "儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)",
+    "level": "C2",
+    "goal": "Mastery of 儒道思想与哲学思辨 (Confucian-Daoist Philosophy).",
+    "lessonIds": [
+      "zh-u32-l1",
+      "zh-u32-l2",
+      "zh-u32-l3",
+      "zh-u32-l4",
+      "zh-u32-l5"
+    ]
+  },
+  {
+    "id": "zh-u33",
+    "unit": 33,
+    "title": "宏观经济调控与人民币国际化 (Macroeconomics & Currency)",
+    "level": "C2",
+    "goal": "Mastery of 宏观调控与经济战略 (Macroeconomics & Currency Policy).",
+    "lessonIds": [
+      "zh-u33-l1",
+      "zh-u33-l2",
+      "zh-u33-l3",
+      "zh-u33-l4",
+      "zh-u33-l5"
+    ]
+  },
+  {
+    "id": "zh-u34",
+    "unit": 34,
+    "title": "多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)",
+    "level": "C2",
+    "goal": "Mastery of 多边外交与公报发表 (C2 Capstone Global Statecraft).",
+    "lessonIds": [
+      "zh-u34-l1",
+      "zh-u34-l2",
+      "zh-u34-l3",
+      "zh-u34-l4",
+      "zh-u34-l5"
+    ]
+  }
 ];
   var LESSONS = {
   "zh-u1-l1": {
@@ -879,10 +879,10 @@
         {
           "prompt": "Which greeting is the respectful honorific form of \"Hello\" used when addressing a teacher, elder, or client in China?",
           "options": [
-            "您好",
-            "你好",
-            "晚安",
-            "再见"
+            "您好 (Nínhǎo - Hello (polite))",
+            "你好 (Mandarin reading)",
+            "晚安 (Mandarin reading)",
+            "再见 (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«您好» (*nín hǎo*) uses the honorific pronoun «您» to express respect."
@@ -890,10 +890,10 @@
         {
           "prompt": "How do students respectfully greet their teacher at the start of class in Chinese?",
           "options": [
-            "老师好！",
-            "你早！",
-            "拜拜！",
-            "对不起！"
+            "老师好！ (Lǎoshī hǎo! - Hello teacher!)",
+            "你早！ (Mandarin reading)",
+            "拜拜！ (Mandarin reading)",
+            "对不起！ (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«老师好！» (*Lǎoshī hǎo!*) is the standard respectful student-to-teacher greeting."
@@ -905,10 +905,10 @@
         {
           "prompt": "Select the Chinese greeting meaning \"Good morning!\":",
           "options": [
-            "早上好",
-            "晚上好",
-            "下午好",
-            "晚安"
+            "早上好 (Zǎoshang hǎo - Good morning)",
+            "晚上好 (Mandarin reading)",
+            "下午好 (Mandarin reading)",
+            "晚安 (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«早上好» (*zǎoshang hǎo*) means \"Good morning!\"."
@@ -916,10 +916,10 @@
         {
           "prompt": "When addressing a group of friends or classmates together, which greeting means \"Hello everyone! / Hello you all!\"?",
           "options": [
-            "你们好 / 大家好",
-            "您好",
-            "早",
-            "再见"
+            "你们好 / 大家好 (Nǐmen hǎo / Dàjiā hǎo - Hello everyone)",
+            "您好 (Mandarin reading)",
+            "早 (Mandarin reading)",
+            "再见 (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«你们好» and «大家好» are used for greeting multiple people."
@@ -998,10 +998,10 @@
         {
           "prompt": "When someone thanks you with «谢谢» (xièxie), what is the standard polite response meaning \"You are welcome!\"?",
           "options": [
-            "不客气 / 不用谢",
-            "对不起",
-            "再见",
-            "早上好"
+            "不客气 / 不用谢 (Bú kèqi / Bú yòng xiè - You are welcome)",
+            "对不起 (Mandarin reading)",
+            "再见 (Mandarin reading)",
+            "早上好 (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«不客气» (*bú kèqi*) is the universal polite response to \"thank you\"."
@@ -1009,10 +1009,10 @@
         {
           "prompt": "What is the correct forgiving response when someone apologizes to you with «对不起» (duìbuqǐ)?",
           "options": [
-            "没关系 / 没事",
-            "不客气",
-            "谢谢",
-            "你好"
+            "没关系 / 没事 (Méi guānxi / Méi shì - It is okay / No problem)",
+            "不客气 (Mandarin reading)",
+            "谢谢 (Mandarin reading)",
+            "你好 (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«没关系» (*méi guānxi*) means \"It doesn't matter / No problem\"."
@@ -1024,10 +1024,10 @@
         {
           "prompt": "Select the polite phrase used to preface a question (\"May I ask... / Excuse me...\"):",
           "options": [
-            "请问",
-            "对不起",
-            "再见",
-            "慢走"
+            "请问 (Qǐngwèn - Excuse me, may I ask)",
+            "对不起 (Mandarin reading)",
+            "再见 (Mandarin reading)",
+            "慢走 (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«请问» (*qǐngwèn*) literally means \"Please ask\" and is used before asking for directions or information."
@@ -1035,10 +1035,10 @@
         {
           "prompt": "Which phrase means \"See you tomorrow!\" in Chinese?",
           "options": [
-            "明天见",
-            "再见",
-            "一会儿见",
-            "谢谢"
+            "明天见 (Míngtiān jiàn - See you tomorrow)",
+            "再见 (Mandarin reading)",
+            "一会儿见 (Mandarin reading)",
+            "谢谢 (Mandarin reading)"
           ],
           "answerIndex": 0,
           "explanation": "«明天见» (*míngtiān jiàn*) means \"See you tomorrow\"."
@@ -4042,7 +4042,7 @@
         {
           "prompt": "要表达「他昨天没有买这本汉语词典」，正确的否定句式是：",
           "options": [
-            "他昨天没买这本汉语词典。(否定句中助词「了」必须彻底脱落) (否定过去动作的发生必须用「没/没有」，动词后面的动态助词「了」必须彻底脱落。)",
+            "他昨天没买这本汉语词典。(否定句中助词「了」必须彻底脱落)",
             "他昨天没买了这本汉语词典。",
             "他昨天不买这本汉语词典了。",
             "他昨天不买了这本汉语词典。"
@@ -4053,7 +4053,7 @@
         {
           "prompt": "在句子「我们明天下______课就去操场散步」中，表示第一项动作完成后立即进行下一动作的助词是：",
           "options": [
-            "了 (下课就去：动词1 + 了 + 宾语 + 就 + 动词2) (「动词1 + 了 + 宾语 + 就 + 动词2」是表示两项动作紧密承接的经典格式。)",
+            "了 (下课就去：动词1 + 了 + 宾语 + 就 + 动词2)",
             "过",
             "着",
             "在"
@@ -4068,7 +4068,7 @@
         {
           "prompt": "下列哪一个句子由于在否定句中错误保留了动态助词「了」而构成了病句？",
           "options": [
-            "他今天早晨没有吃了早饭。(病句：否定副词「没有」与「了」冲突) (「没有吃了早饭」属于典型的初学者病句，动词后绝不能加「了」。)",
+            "他今天早晨没有吃了早饭。(病句：否定副词「没有」与「了」冲突)",
             "他今天早晨没有吃早饭。",
             "他今天早晨吃了一碗热面条。",
             "他吃了早饭就去上课了。"
@@ -4095,7 +4095,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中动态助词「了₁」运用完全正确无误的一项：",
           "options": [
-            "昨天王华在书店买了两本新书，回宿舍后认真读了一本。(两项动作均已实现完成且带数量词) (「买了两本新书」、「读了一本」动作实现且带数量宾语，句法语义完全严谨。)",
+            "昨天王华在书店买了两本新书，回宿舍后认真读了一本。(两项动作均已实现完成且带数量词)",
             "昨天王华在书店没买了两本新书。",
             "昨天王华在书店买新书两本了在下午。",
             "王华每天在书店买了两本书。"
@@ -4170,7 +4170,7 @@
         {
           "prompt": "表达「火车行将出发/马上就要开走」，正确的固定句式是：",
           "options": [
-            "火车快要开了！(快要......了表示动作即将发生) (「快要......了」是现代汉语中表达动作即将发生的最标准句式。)",
+            "火车快要开了！(快要......了表示动作即将发生)",
             "火车快要开过！",
             "火车快要在开着！",
             "火车开了快要！"
@@ -4196,7 +4196,7 @@
         {
           "prompt": "在感叹句「这里的风景太美了！」中，与副词「太」前后呼应的句末助词是：",
           "options": [
-            "了 (「太......了」构成感叹格式) (「太......了」是现代汉语中表达强烈赞叹的固定结构。)",
+            "了 (「太......了」构成感叹格式)",
             "过",
             "着",
             "的"
@@ -4212,7 +4212,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中句末语气助词「了₂」运用完全规范得体的一项：",
           "options": [
-            "天气渐渐变暖和了，春天快要到了，公园里的花儿都开了。(状态更新与即将发生体完美融合) (「变暖和了」（变化）、「快要到了」（即将态）、「花儿都开了」（新状态），句末「了」运用典雅精准。)",
+            "天气渐渐变暖和了，春天快要到了，公园里的花儿都开了。(状态更新与即将发生体完美融合)",
             "天气渐渐变暖和过，春天快要到着。",
             "天气变暖和了渐渐，快要到了春天。",
             "春天快要在到了，花儿开了都。"
@@ -4276,7 +4276,7 @@
         {
           "prompt": "句子「他在中国工作了五年了」向听话人传递的最核心信息是：",
           "options": [
-            "他已经在中国工作了五年，并且目前依然在中国工作 (双「了」表示持续至今) (双「了」句（工作了五年了）严格表示动作从过去开始，持续了五年且至今仍在继续。)",
+            "他已经在中国工作了五年，并且目前依然在中国工作 (双「了」表示持续至今)",
             "他在中国工作了五年，现在已经离开中国回国了",
             "他从来没有在中国工作过",
             "他正打算去中国工作五年"
@@ -4287,7 +4287,7 @@
         {
           "prompt": "对比单双了：表示「过去曾学过半年汉语，但现在已经不学了」的句子是：",
           "options": [
-            "我学了半年汉语。(单「了」表示过去完成，现已停止) (单「了」句「我学了半年汉语」句末没有「了」，表示过去动作的完成，现已不再持续。)",
+            "我学了半年汉语。(单「了」表示过去完成，现已停止)",
             "我学了半年汉语了。",
             "我学过半年汉语了。",
             "我正在学了半年汉语。"
@@ -4302,7 +4302,7 @@
         {
           "prompt": "要询问对方「你学习汉语多长时间了？」，最标准的回应双「了」句是：",
           "options": [
-            "我学习了一年半了。(动词 + 了 + 时量 + 了 表达动作持续至今) (「动词 + 了 + 时量 + 了」是回答持续时间询问的最标准句式。)",
+            "我学习了一年半了。(动词 + 了 + 时量 + 了 表达动作持续至今)",
             "我学习一年半过。",
             "我正在学习一年半了。",
             "我学习了一年半着。"
@@ -4329,7 +4329,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中表达「持续性动作至今仍在继续进行」且语法完全正确的一项：",
           "options": [
-            "王华在北京大学读了三年研究生了，明年即将毕业。(双「了」结构准确表达学业持续未止) (「读了三年研究生了」精准呈现双「了」持续结构，后续「明年即将毕业」语义严密吻合。)",
+            "王华在北京大学读了三年研究生了，明年即将毕业。(双「了」结构准确表达学业持续未止)",
             "王华在北京大学读三年研究生过明年。",
             "王华在北京大学读了三年研究生着。",
             "王华读了三年研究生在北京大学了。"
@@ -4404,7 +4404,7 @@
         {
           "prompt": "表达「我从来没有吃过这种中国特色小吃」，正确的中文句子是：",
           "options": [
-            "我从来没吃过这种中国特色小吃。(否定句中经历助词「过」必须保留) (否定经历体使用「没(有) + 动词 + 过」，助词「过」必须保留。)",
+            "我从来没吃过这种中国特色小吃。(否定句中经历助词「过」必须保留) + 动词 + 过」，助词「过」必须保留。",
             "我从来不吃过了这种中国特色小吃。",
             "我从来没吃了这种中国特色小吃。",
             "我没吃这种中国特色小吃过不。"
@@ -4419,7 +4419,7 @@
         {
           "prompt": "向外国朋友询问是否曾经登临过中国万里长城，最得体的疑问句是：",
           "options": [
-            "你去过长城吗？ / 你登过长城没有？(经历体提问句型) (询问人生过往经历，使用「动词 + 过 + 宾语 + 吗/没有」最为地道。)",
+            "你去过长城吗？ / 你登过长城没有？(经历体提问句型)",
             "你正在去长城吗？",
             "你去长城了没有快要？",
             "你想要去长城着吗？"
@@ -4446,7 +4446,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列问答对话中关于经历体「过」运用完全准确地道的一组：",
           "options": [
-            "甲：你以前看过这部中国经典电影吗？ 乙：我没看过，但我听朋友介绍过，非常精彩。(经历体问答完全严密规范) (提问「看过...吗」，否定回答「没看过」，肯定经历「听朋友介绍过」，语法与语用均无可挑剔。)",
+            "甲：你以前看过这部中国经典电影吗？ 乙：我没看过，但我听朋友介绍过，非常精彩。(经历体问答完全严密规范)",
             "甲：你以前看了这部中国经典电影吗？ 乙：我没看过了这部电影。",
             "甲：你以前在看这部中国电影着吗？ 乙：我不看过这部电影。",
             "甲：你看过这部电影快要吗？ 乙：我看了过一遍。"
@@ -4510,7 +4510,7 @@
         {
           "prompt": "在叙述成长经历时，表达「在中国居住了三年且目前仍在居住，期间曾去过长城」，句式组合正确的是：",
           "options": [
-            "我在中国住了三年了，去过长城。(双「了」表持续 + 「过」表经历) (「住了三年了」准确表达持续至今；「去过长城」准确表达过往旅游经历。)",
+            "我在中国住了三年了，去过长城。(双「了」表持续 + 「过」表经历)",
             "我在中国住了三年过，去了长城了。",
             "我在中国住着三年，去在长城了。",
             "我住在中国三年着了，去过长城了在。"
@@ -4536,7 +4536,7 @@
         {
           "prompt": "请选出下列叙述中体貌助词运用完全严密、逻辑天衣无缝的一项：",
           "options": [
-            "我来中国学习一年了，以前没学过汉语，昨天参加了汉语水平考试。(持续体 + 否定经历 + 动作完成) (双「了」（持续）、「没学过」（否定经历）、「参加了」（完成），语法体系极其严谨。)",
+            "我来中国学习一年了，以前没学过汉语，昨天参加了汉语水平考试。(持续体 + 否定经历 + 动作完成)",
             "我来中国学习一年过，以前没学了汉语，昨天参加过汉语考试了。",
             "我来中国学习一年着，以前不学过汉语，昨天参加在考试。",
             "我来中国学习了一年了，以前没学了汉语，昨天参加过考试了。"
@@ -4638,7 +4638,7 @@
         {
           "prompt": "下列关于地理专有名词与方位词的搭配中，完全符合汉语语法规范的是：",
           "options": [
-            "他在北京工作。(专有名词不随意加「里」) (城市名、国名自身具有处所属性，无需也不应加「里」或「里面」。)",
+            "他在北京工作。(专有名词不随意加「里」)",
             "他在北京里工作。",
             "他在中国里面生活。",
             "他在上海城市里头居住。"
@@ -4664,7 +4664,7 @@
         {
           "prompt": "下列哪一项属于由于方位词误用而导致的病句？",
           "options": [
-            "我昨天在中国里买了很多中国传统茶叶。(病句：国名后误加「里」) (「在中国里」属于初学者极易出现的语法偏误，国名后不可加「里」。)",
+            "我昨天在中国里买了很多中国传统茶叶。(病句：国名后误加「里」)",
             "我昨天在中国买了很多中国传统茶叶。",
             "茶叶放在茶几上面的盒子里。",
             "茶几旁边有一把红木椅子。"
@@ -4680,7 +4680,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中空间方位词运用完全规范精准的一项：",
           "options": [
-            "新华书店在学校东门的正对面，书店的左边是一家安静的咖啡馆。(方位词搭配与空间指引完全严密规范) (「正对面」、「左边」方位词规范得体，空间结构交代条理井然。)",
+            "新华书店在学校东门的正对面，书店的左边是一家安静的咖啡馆。(方位词搭配与空间指引完全严密规范)",
             "新华书店在学校东门的正对边，书店的左头是一家咖啡馆。",
             "新华书店在北京市里东门，书店的旁面有一家咖啡馆。",
             "新华书店东边在学校对面，左边里是咖啡馆。"
@@ -4770,7 +4770,7 @@
         {
           "prompt": "下列哪一个句子由于介词短语位置后置而构成了病句？",
           "options": [
-            "我们明天坐高速列车出发从北京。(病句：介词短语置于动词后) (汉语介词短语必须放在谓语动词之前作状语，不可置于动词后。)",
+            "我们明天坐高速列车出发从北京。(病句：介词短语置于动词后)",
             "我们明天坐高速列车从北京出发。",
             "从北京到天津只需要半个小时。",
             "北京离天津非常近。"
@@ -4797,7 +4797,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中空间介词「离、从、到、向、往」运用完全规范得体的一项：",
           "options": [
-            "我们学校离地铁站只有五百米，从校门口一直往前走，在十字路口向左拐就到了。(介词搭配与语序完全严密精确) (「离地铁站」、「从校门口」、「往前走」、「向左拐」层层递进，语法完全标准。)",
+            "我们学校离地铁站只有五百米，从校门口一直往前走，在十字路口向左拐就到了。(介词搭配与语序完全严密精确)",
             "我们学校从地铁站只有五百米，离校门口往前走一直。",
             "我们学校向地铁站很近，往校门口出发到地铁站从。",
             "我们学校在地铁站五百米离，从走往左拐。"
@@ -4914,7 +4914,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列出行与交通叙述中动词搭配与句法完全规范得体的一项：",
           "options": [
-            "我打算明天早晨乘高铁去北京出差，到了北京南站后再坐四号线地铁去酒店。(乘高铁、坐地铁搭配精准自然) (「乘高铁」、「坐地铁」搭配规范，行程时序条理分明。)",
+            "我打算明天早晨乘高铁去北京出差，到了北京南站后再坐四号线地铁去酒店。(乘高铁、坐地铁搭配精准自然)",
             "我打算明天早晨骑高铁去北京出差，到了北京南站后开四号线地铁。",
             "我打算明天早晨走高铁去北京，坐四号线地铁在骑去酒店。",
             "我打算明天早晨开高铁出差北京，到了后乘自行车。"
@@ -5031,7 +5031,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列问路与指路对话中用词最地道、语法逻辑完全严密的一组：",
           "options": [
-            "甲：劳驾，请问去天安门广场怎么走？ 乙：从这里一直往前走，过两个红绿灯路口向右拐，广场就在你的正前方。(礼貌得体，指引条理清晰) (提问使用「劳驾，请问...」，回答包含「直行、过路口、转弯、目标方位」，堪称问路指路典范。)",
+            "甲：劳驾，请问去天安门广场怎么走？ 乙：从这里一直往前走，过两个红绿灯路口向右拐，广场就在你的正前方。(礼貌得体，指引条理清晰)",
             "甲：天安门广场怎么去走？ 乙：一直往后走右拐在天安门。",
             "甲：喂，天安门在哪里？ 乙：你去走红绿灯在左边天安门。",
             "甲：请问天安门广场去怎么？ 乙：你拐右一直走到头没有。"
@@ -5121,7 +5121,7 @@
         {
           "prompt": "请选出下列出行路线叙述中方位、介词与交通动词完全严密精确的一项：",
           "options": [
-            "我们从酒店出发，骑共享单车到地铁站，乘坐二号线换乘一号线，在天安门东站下车后向北走两百米到达故宫。(时序、介词、动词全流程严密规范) (该句完整涵盖起点（从酒店出发）、交通接驳（骑单车/乘地铁/换乘）、下车指引（向北走），逻辑天衣无缝。)",
+            "我们从酒店出发，骑共享单车到地铁站，乘坐二号线换乘一号线，在天安门东站下车后向北走两百米到达故宫。(时序、介词、动词全流程严密规范)",
             "我们离酒店出发，开共享单车到地铁站，坐二号线坐一号线在天安门东站向北。",
             "我们从酒店出发骑车，换乘到天安门东站下车在向北走两百米后坐地铁。",
             "我们向酒店出发，坐共享单车在地铁站骑一号线。"
@@ -5224,7 +5224,7 @@
         {
           "prompt": "价格「¥12.05」正确的读法是（注意中间有零）：",
           "options": [
-            "十二块零五分 (中间有零，末尾「分」不可省) (¥12.05中间有零，必须读「十二块零五分」，末尾「分」字绝对不可省。)",
+            "十二块零五分 (中间有零，末尾「分」不可省)",
             "十二块五",
             "十二块零五",
             "十二点零五块毛"
@@ -5266,7 +5266,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于人民币价格读法完全正确且符合交际规范的一项：",
           "options": [
-            "这盒优质碧螺春茶叶标价是两百零八块整，如果买两盒一共四百一十六块钱。(价格读法与货币量词完全严谨规范) (「两百零八块」、「四百一十六块钱」数字发音与货币搭配天衣无缝。)",
+            "这盒优质碧螺春茶叶标价是两百零八块整，如果买两盒一共四百一十六块钱。(价格读法与货币量词完全严谨规范)",
             "这盒茶叶标价是两百八块整，买两盒四百一十六元角。",
             "这盒茶叶标价是两百块零八毛分，买两盒四百十六块。",
             "这盒茶叶两百零八元钱块，买两盒一共四百一十六个。"
@@ -5330,7 +5330,7 @@
         {
           "prompt": "要表达「这条裤子我觉得有点太紧了（表达消极感受）」，正确的句子是：",
           "options": [
-            "这条裤子有点儿紧。(有点儿 + 形容词 表示消极不如意) (表达说话人主观上不合心意的感受，使用「有点儿 + 形容词」（有点儿紧）。)",
+            "这条裤子有点儿紧。(有点儿 + 形容词 表示消极不如意)",
             "这条裤子紧一点儿。",
             "这条裤子一点儿有紧。",
             "这条裤子紧有点儿。"
@@ -5341,7 +5341,7 @@
         {
           "prompt": "向店员提出期望「请帮我拿一件稍微大一点的衬衫」，正确的句子是：",
           "options": [
-            "请帮我拿一件大一点儿的衬衫。(形容词 + 一点儿 表示期待微调) (表示希望尺寸进行微量调整，使用「形容词 + 一点儿」（大一点儿）。)",
+            "请帮我拿一件大一点儿的衬衫。(形容词 + 一点儿 表示期待微调)",
             "请帮我拿一件有点儿大的衬衫。",
             "请帮我拿一件一点儿有大的衬衫。",
             "请帮我拿一件大有点儿的衬衫。"
@@ -5356,7 +5356,7 @@
         {
           "prompt": "下列哪一项量词与服饰名词的搭配完全符合现代汉语规范？",
           "options": [
-            "一件外套、两条裤子、一双皮鞋 (件配上装，条配下装，双配鞋袜) (外套用「件」，裤子用「条」，鞋袜用「双」，这是汉语量词铁律。)",
+            "一件外套、两条裤子、一双皮鞋 (件配上装，条配下装，双配鞋袜)",
             "一条外套、一件裤子、一顶皮鞋",
             "一双外套、一顶裤子、一件皮鞋",
             "一顶外套、一条皮鞋、一件裤子"
@@ -5383,7 +5383,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列试穿选购对话中量词、尺码与副词搭配完全严谨得体的一项：",
           "options": [
-            "服务员，这件大号毛衣我穿有点儿肥，请帮我换一件中号的试一试，谢谢。(件、有点儿肥、中号、试一试搭配精准完美) (「一件毛衣」、「有点儿肥」（消极）、「换一件中号」（期望）、「试一试」（重叠），无可挑剔。)",
+            "服务员，这件大号毛衣我穿有点儿肥，请帮我换一件中号的试一试，谢谢。(件、有点儿肥、中号、试一试搭配精准完美)",
             "服务员，这条毛衣我穿肥一点儿，换一顶大号试。",
             "服务员，这件毛衣我穿一点儿肥，换一条小号看。",
             "服务员，这双毛衣大号有肥，换件试一。"
@@ -5447,7 +5447,7 @@
         {
           "prompt": "在商场看到一件标价200元的衣服正在「打八折」，顾客最终需要支付的实际金额是：",
           "options": [
-            "160元 (按原价的80%计算：200 × 0.8 = 160元) (「打八折」即按原价的80%付款（200 × 0.8 = 160元）。)",
+            "160元 (按原价的80%计算：200 × 0.8 = 160元)",
             "40元",
             "20元",
             "180元"
@@ -5500,7 +5500,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于商场折扣与议价表述完全正确无误的一项：",
           "options": [
-            "这套精美的中国茶具原价四百元，现在商场搞促销打七五折，实付三百元即可买下。(折扣计算 400 × 0.75 = 300元 完全精确) (400元打七五折（400 × 0.75 = 300元），计算与语法表述无懈可击。)",
+            "这套精美的中国茶具原价四百元，现在商场搞促销打七五折，实付三百元即可买下。(折扣计算 400 × 0.75 = 300元 完全精确)",
             "这套茶具原价四百元，打七五折后实付一百元。",
             "这套茶具原价四百元，打七折五后实付七十五元。",
             "这套茶具打折七五，四百元减去三百五。"
@@ -5617,7 +5617,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列移动支付与结算对话中表达最规范地道的一组：",
           "options": [
-            "甲：你好，一共是一百二十五块钱，扫码还是刷卡？ 乙：我扫微信付款码，顺便帮我开一张电子发票。(移动支付与开票交际完全规范流畅) (收银提问「扫码还是刷卡」，顾客回答「扫微信付款码并开电子发票」，展现了当代中国最典型的结算场景。)",
+            "甲：你好，一共是一百二十五块钱，扫码还是刷卡？ 乙：我扫微信付款码，顺便帮我开一张电子发票。(移动支付与开票交际完全规范流畅)",
             "甲：你好，一百二十五块钱拿来。 乙：我给你微信扫发票。",
             "甲：钱一共一百二十五元角。 乙：刷卡出示退货码。",
             "甲：买单多少钱你。 乙：我扫你的发票小票。"
@@ -5707,7 +5707,7 @@
         {
           "prompt": "请选出下列购物叙事语篇中词汇搭配、句式与逻辑完全典范通畅的一项：",
           "options": [
-            "我在商场看中了一条牛仔裤，试穿后觉得有点儿长，店员帮我换了一条小号的，打八折后扫码付了一百六十块钱。(量词、评价副词、尺码、折扣与支付完全融会贯通) (「一条牛仔裤」、「有点儿长」（消极感受）、「换一条小号」（期望）、「打八折扫码付了一百六十块」，语法体系完美无缺。)",
+            "我在商场看中了一条牛仔裤，试穿后觉得有点儿长，店员帮我换了一条小号的，打八折后扫码付了一百六十块钱。(量词、评价副词、尺码、折扣与支付完全融会贯通)",
             "我在商场看中了一件牛仔裤，试穿后觉得长一点儿，店员换了一顶小号，打二折付了钱。",
             "我在商场看中一双牛仔裤，有点儿合身，打折了八，现金扫码退换。",
             "我在商场看中一条裤子，穿起来一点儿长，打八折付了一百六十个。"
@@ -5851,7 +5851,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列身体病痛描述中部位名词与感觉状态搭配完全规范精准的一项：",
           "options": [
-            "他感冒受凉后浑身发冷，头痛剧烈，嗓子干哑肿痛，全身关节也酸痛无力。(身体部位与病状感受全方位严密契合) (「头痛剧烈」、「嗓子肿痛」、「关节酸痛」用词专业典雅，句法流畅。)",
+            "他感冒受凉后浑身发冷，头痛剧烈，嗓子干哑肿痛，全身关节也酸痛无力。(身体部位与病状感受全方位严密契合)",
             "他受凉后头酸痛在眼睛，嗓子发冷在耳朵。",
             "他感冒后手脚发烧在肚子里，嘴巴酸痛在后背。",
             "他受凉浑身发酸头痒，眼睛肿在脖子。"
@@ -5926,7 +5926,7 @@
         {
           "prompt": "要表达「咳嗽症状极其严重」，运用程度补语的正确句子是：",
           "options": [
-            "他咳得很厉害。(动词 + 得 + 程度补语) (「动词 + 得 + 很厉害」是表达生理病痛程度极深的标准句式。)",
+            "他咳得很厉害。(动词 + 得 + 程度补语)",
             "他很厉害咳着。",
             "他咳嗽在很厉害得。",
             "他咳厉害很多。"
@@ -5968,7 +5968,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于病状、体温与病因叙述完全准确地道的一项：",
           "options": [
-            "小王昨晚睡觉着凉了，今天早晨量体温发现烧到了三十九度整，咳嗽得非常厉害，需要立即就医。(病因、体温与程度补语完全严密规范) (「着凉了」、「烧到了三十九度整」、「咳嗽得非常厉害」语法与语用均无懈可击。)",
+            "小王昨晚睡觉着凉了，今天早晨量体温发现烧到了三十九度整，咳嗽得非常厉害，需要立即就医。(病因、体温与程度补语完全严密规范)",
             "小王昨晚着凉在量体温，烧到了三十九度分，咳得很厉害着。",
             "小王对感冒过敏了，体温量了三十九度点，肚子吃坏在咳嗽。",
             "小王吃坏了感冒，三十九度烧得在流鼻涕。"
@@ -6085,7 +6085,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列医院就诊问答对话中语言规范、符合真实医疗交际流程的一组：",
           "options": [
-            "医生：请坐，哪儿不舒服？从什么时候开始发烧的？ 患者：医生，我从昨天开始发热头疼，嗓子也肿了，量体温是三十八度六。(问诊与主诉完全严密地道) (医生规范询问主诉与起病时间，患者清晰陈述发病经过与体温数值，医患交流堪称典范。)",
+            "医生：请坐，哪儿不舒服？从什么时候开始发烧的？ 患者：医生，我从昨天开始发热头疼，嗓子也肿了，量体温是三十八度六。(问诊与主诉完全严密地道)",
             "医生：你来干什么？ 患者：我给你买开药在医院。",
             "医生：挂号了没有谁？ 患者：我打点滴在挂号眼科。",
             "医生：哪儿药不好？ 患者：我拍片子在头疼药。"
@@ -6202,7 +6202,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列药剂医嘱与康复关怀表述完全准确得体的一项：",
           "options": [
-            "这种感冒冲剂一天喝两次，一次冲服一袋，服药期间注意多喝温开水并清淡饮食，祝你早日康复！(量词、频次用法、医嘱与关怀无缝融合) (冲剂配「袋」、频次清晰、关怀温馨，语法与语用堪称典范。)",
+            "这种感冒冲剂一天喝两次，一次冲服一袋，服药期间注意多喝温开水并清淡饮食，祝你早日康复！(量词、频次用法、医嘱与关怀无缝融合)",
             "这种感冒药一天喝两片袋，饭后冲一瓶，祝你早日生病。",
             "这种药冲剂一天服二次两粒，忌喝热水多吃辛辣。",
             "这种药一天服三次在冲服，祝你早日开药。"
@@ -6292,7 +6292,7 @@
         {
           "prompt": "请选出下列就医叙事语篇中词汇专业、句式连贯、逻辑天衣无缝的一项：",
           "options": [
-            "我昨天感冒发烧到了三十八度八，同学陪我去医院挂了内科号，医生化验血常规后确诊为上呼吸道感染，给我开了一些消炎药并叮嘱我饭后按时服用。(就医全流程词汇与句式完全典范严谨) (「发烧到了三十八度八」、「挂了内科号」、「化验血常规」、「开消炎药叮嘱饭后服用」，语法体系完美无缺。)",
+            "我昨天感冒发烧到了三十八度八，同学陪我去医院挂了内科号，医生化验血常规后确诊为上呼吸道感染，给我开了一些消炎药并叮嘱我饭后按时服用。(就医全流程词汇与句式完全典范严谨)",
             "我昨天感冒发烧在挂号眼科，医生量体温开了一顶小药片，在饭前输液了。",
             "我昨天肚子疼去挂外科，医生给我开拍片子发烧三十九度吃中药。",
             "我昨天发烧在打点滴挂号，血常规吃药后医生祝我康复。"
@@ -6319,7 +6319,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列医疗与健康叙事篇章中语言最典范、结构最严谨的一项：",
           "options": [
-            "经过两天的按时服药与充分休养，我的体温完全恢复了正常，嗓子也不再肿痛。这次看病经历让我深刻认识到，保持健康规律的作息和适度的体育锻炼是预防疾病的关键。(全篇结构完整，语篇升华自然深刻) (该语篇在疗效叙述（体温恢复正常/嗓子不再肿痛）以及健康思想升华上均达到了现代汉语的最高境界。)",
+            "经过两天的按时服药与充分休养，我的体温完全恢复了正常，嗓子也不再肿痛。这次看病经历让我深刻认识到，保持健康规律的作息和适度的体育锻炼是预防疾病的关键。(全篇结构完整，语篇升华自然深刻)",
             "经过两天吃药，我的体温打折正常了，嗓子在挂号不疼，这次生病很好玩。",
             "按时服药在医院里，体温三十九度正常着，嗓子有点儿开药。",
             "经过两天打点滴，体温量了不正常，医生说不用锻炼。"
@@ -6383,7 +6383,7 @@
         {
           "prompt": "要表达「他通过专门训练掌握了开车这项技能」，正确的能愿动词是：",
           "options": [
-            "他会开车。(习得技能用「会」) (表达通过学习掌握的专门技艺，使用「会」（会开车）。) (能力与习得情态：能 (néng) vs 会 (huì) 精微语义与句法对立",
+            "他会开车。(习得技能用「会」)",
             "他能开车在生病。 vs 会 (huì) 精微语义与句法",
             "他应该开车在学会。 vs 会 (huì) 精微语义与句法",
             "他想要开车在过去。 vs 会 (huì) 精微语义与句法"
@@ -6436,10 +6436,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中「会」与「能」的语义与语法运用完全精准无误的一项：",
           "options": [
-            "大卫虽然会包中国饺子，但由于今天右手受伤了，所以不能帮妈妈做晚饭。(会表示习得技艺，不能表示身体客观限制，两相对立严谨完美) (「会包饺子」（技能）与「右手受伤不能做饭」（客观限制）对比鲜明，堪称能愿动词典范句。) (能力与习得情态：能 (néng) vs 会 (huì) 精微语义与句法对立",
-            "大卫虽然能包饺子，但右手受伤不会做饭。(语义彻底混淆颠倒) vs 会 (huì) 精微语义与句法",
-            "大卫虽然想包饺子，但他明天会不能来。(语法错乱杂糅) vs 会 (huì) 精微语义与句法",
-            "大卫可以包饺子，但他不会在今天。(表达支离破碎) vs 会 (huì) 精微语义与句法"
+            "大卫虽然会包中国饺子，但由于今天右手受伤了，所以不能帮妈妈做晚饭。(会表示习得技艺，不能表示身体客观限制，两相对立严谨完美)",
+            "大卫虽然能包饺子，但右手受伤不会做饭。(语义彻底混淆颠倒) vs 会",
+            "大卫虽然想包饺子，但他明天会不能来。(语法错乱杂糅) vs 会",
+            "大卫可以包饺子，但他不会在今天。(表达支离破碎) vs 会"
           ],
           "answerIndex": 0,
           "explanation": "「会包饺子」（技能）与「右手受伤不能做饭」（客观限制）对比鲜明，堪称能愿动词典范句。"
@@ -6500,7 +6500,7 @@
         {
           "prompt": "向朋友委婉表达自己周末有去故宫参观的主观愿望，最得体的句子是：",
           "options": [
-            "这个周末我很想去故宫博物院参观。(「想」表主观心愿与委婉提议) (「我很想去...」表达委婉主观愿望，语气亲切得体。) (意愿、打算与必然要求：想 (xiǎng) vs 要 (yào) 语气强弱与计划表达",
+            "这个周末我很想去故宫博物院参观。(「想」表主观心愿与委婉提议)",
             "这个周末我必须在故宫走。 vs 要 (yào) 语气强",
             "这个周末我不要在故宫去。 vs 要 (yào) 语气强",
             "这个周末我应该不要去故宫。 vs 要 (yào) 语气强"
@@ -6511,7 +6511,7 @@
         {
           "prompt": "在告示牌上表达严禁吸烟的劝阻指令，规范句式是：",
           "options": [
-            "此处请不要吸烟！ / 请勿吸烟！(「不要」表劝阻禁止) (「请不要吸烟」中「不要」充当劝阻警示助词。) (意愿、打算与必然要求：想 (xiǎng) vs 要 (yào) 语气强弱与计划表达",
+            "此处请不要吸烟！ / 请勿吸烟！(「不要」表劝阻禁止)",
             "此处请不想吸烟！ vs 要 (yào) 语气强",
             "此处请不用吸烟！ vs 要 (yào) 语气强",
             "此处请不能想吸烟！ vs 要 (yào) 语气强"
@@ -6526,8 +6526,8 @@
         {
           "prompt": "要表达「今天很累，主观上没有去逛街的意愿」，正确的否定式是：",
           "options": [
-            "我今天太累了，不想去逛街。(「不想」表主观无意愿) (表达个人主观上没有意向，必须使用「不想」。) (意愿、打算与必然要求：想 (xiǎng) vs 要 (yào) 语气强弱与计划表达",
-            "我今天太累了，不要去逛街。(语义变成命令自己禁止去) vs 要 (yào) 语气强",
+            "我今天太累了，不想去逛街。(「不想」表主观无意愿)",
+            "我今天太累了，不要去逛街。(语义变成命令自己禁止去) vs 要",
             "我今天太累了，不能想逛街。 vs 要 (yào) 语气强",
             "我今天太累了，应该不想逛街。 vs 要 (yào) 语气强"
           ],
@@ -6553,10 +6553,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中「想」与「要」的语义层次与否定用法完全规范无误的一项：",
           "options": [
-            "我原本只是想了解一下中国茶文化，但深入研读后，我现在决心要成为一名优秀的评茶师。(从委婉兴趣「想」升华为坚定意志「要」，层次分明) (首句精准刻画了心理愿望向行动抱负的飞跃，逻辑严谨。) (意愿、打算与必然要求：想 (xiǎng) vs 要 (yào) 语气强弱与计划表达",
-            "我原本不要了解中国茶文化，但现在不想成为评茶师。(否定错乱) vs 要 (yào) 语气强",
-            "我原本要不想了解茶文化，但现在不要成评茶师。(语序彻底破碎) vs 要 (yào) 语气强",
-            "我想要不要了解茶文化，但现在要不想做。(逻辑完全崩坏) vs 要 (yào) 语气强"
+            "我原本只是想了解一下中国茶文化，但深入研读后，我现在决心要成为一名优秀的评茶师。(从委婉兴趣「想」升华为坚定意志「要」，层次分明)",
+            "我原本不要了解中国茶文化，但现在不想成为评茶师。(否定错乱) vs 要",
+            "我原本要不想了解茶文化，但现在不要成评茶师。(语序彻底破碎) vs 要",
+            "我想要不要了解茶文化，但现在要不想做。(逻辑完全崩坏) vs 要"
           ],
           "answerIndex": 0,
           "explanation": "首句精准刻画了心理愿望向行动抱负的飞跃，逻辑严谨。"
@@ -6617,7 +6617,7 @@
         {
           "prompt": "在正式场合向主持人礼貌请求发言许可，最得体的表达是：",
           "options": [
-            "请问我可以发言吗？(「可以」用于礼貌征求许可) (「请问我可以...吗？」是征询许可最标准礼貌的交际用语。) (许可、应然与道德规范：可以 (kěyǐ) / 应该 (yīnggāi) / 必须 (bìxū) 与禁止表达",
+            "请问我可以发言吗？(「可以」用于礼貌征求许可)",
             "请问我必须发言吗？ / 应该",
             "请问我应该不要发言？ / 应该",
             "请问我想不能发言？ / 应该"
@@ -6654,7 +6654,7 @@
         {
           "prompt": "要表达「明天是周末不用早起，客观上没有早起的必要」，正确的否定形式是：",
           "options": [
-            "明天不用 / 不必早起。(「不用/不必」为「必须」的否定形式) (表达「没有必要」应使用「不用」或「不必」，现代汉语中无「不必须」说法。) (许可、应然与道德规范：可以 (kěyǐ) / 应该 (yīnggāi) / 必须 (bìxū) 与禁止表达",
+            "明天不用 / 不必早起。(「不用/不必」为「必须」的否定形式)",
             "明天不必须早起。(语法错误) / 应该",
             "明天不要早起。(变成命令禁止) / 应该",
             "明天不会早起。 / 应该"
@@ -6670,7 +6670,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列规章制度与社会规范语篇中情态助词运用完全典范严密的一项：",
           "options": [
-            "所有进入实验室的人员都必须严格穿戴防护服，实验过程中应该保持专注严谨，非经导师许可绝不可以擅自改动仪器参数。(必须表强制法令，应该表职业道德，不可以表禁令许可，层次分明无懈可击) (该句精准展示了「必须（强制法令）」、「应该（道德自觉）」与「不可以（禁令）」的法度分工。) (许可、应然与道德规范：可以 (kěyǐ) / 应该 (yīnggāi) / 必须 (bìxū) 与禁止表达",
+            "所有进入实验室的人员都必须严格穿戴防护服，实验过程中应该保持专注严谨，非经导师许可绝不可以擅自改动仪器参数。(必须表强制法令，应该表职业道德，不可以表禁令许可，层次分明无懈可击)",
             "所有人员都可以在实验室穿防护服，实验中必须不可以专注。(逻辑彻底错乱) / 应该",
             "进入实验室应该不用穿衣服，不可以必须改动。(荒谬不通) / 应该",
             "实验室必须可以随便进，应该不要看仪器。(完全解体) / 应该"
@@ -6787,7 +6787,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列个人规划与理想阐述中逻辑最严密、语言最典范的一项：",
           "options": [
-            "为了能够在中外经贸合作中发挥桥梁作用，我打算先在大学里打牢经济学与汉语言基础，然后计划申请中国政府奖学金赴华深造。(目标宏大、步骤分明、连接流畅典范) (该语篇在目标（发挥桥梁作用）、路径（打牢双重基础）及长远规划（申请奖学金深造）上达到了极高标准。)",
+            "为了能够在中外经贸合作中发挥桥梁作用，我打算先在大学里打牢经济学与汉语言基础，然后计划申请中国政府奖学金赴华深造。(目标宏大、步骤分明、连接流畅典范)",
             "为了能够去中国玩，我打算先睡觉然后计划不学习。",
             "我打算在过去为了中国留学而准备昨天。",
             "我计划必须可以希望去经贸合作。"
@@ -6877,7 +6877,7 @@
         {
           "prompt": "请选出下列个人愿景陈述中情态动词搭配与逻辑演进最完美通畅的一项：",
           "options": [
-            "我现在能用中文阅读专业文献，为了将来能成为一名优秀的汉学家，我必须要前往中国深入研学，我计划在明年申请相关高校的研究生项目。(情态层次严谨，语篇浑然一体) (「能阅读」（能力）、「为了...要...」（目标与决心）、「计划申请」（行动），无可挑剔。)",
+            "我现在能用中文阅读专业文献，为了将来能成为一名优秀的汉学家，我必须要前往中国深入研学，我计划在明年申请相关高校的研究生项目。(情态层次严谨，语篇浑然一体)",
             "我现在不会看书，为了不想去中国，我计划天天睡觉。",
             "我现在能看书在过去，必须可以去留学在明年。",
             "我现在想不能看书，为了应该不计划申请。"
@@ -6904,7 +6904,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列个人学术蓝图叙事篇章中思想最深刻、语法结构最典范的一项：",
           "options": [
-            "作为一名国际汉语学习者，我不仅会熟练运用日常口语，更能深入理解中文背后的文化底蕴。为了将来成为中外经贸文化交流的桥梁，我必须坚持严谨治学，我计划在未来五年内攻读硕士学位，并希望能为增进中外人民的友谊贡献自己的青春与智慧。(全篇融会贯通五大情态与规划词汇，境界高远) (该语篇在能力展示、文化理解、人生目标、治学态度、学术规划以及价值升华上均达到了现代汉语的最高境界。)",
+            "作为一名国际汉语学习者，我不仅会熟练运用日常口语，更能深入理解中文背后的文化底蕴。为了将来成为中外经贸文化交流的桥梁，我必须坚持严谨治学，我计划在未来五年内攻读硕士学位，并希望能为增进中外人民的友谊贡献自己的青春与智慧。(全篇融会贯通五大情态与规划词汇，境界高远)",
             "作为学生我不要学中文，因为太难了，我打算回家玩。",
             "我能会中文在昨天，必须可以希望当桥梁在未来。",
             "为了不用学习，我应该计划天天睡觉去。"
@@ -7021,7 +7021,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列文体爱好描述中动宾搭配完全符合规范的一项：",
           "options": [
-            "哥哥每逢周末喜欢去公园打太极拳，弟弟则喜欢在球场上踢足球和打网球，他们都对体育运动充满热情。(太极拳配打，足球配踢，网球配打，严密规范) (打太极拳、踢足球、打网球动词搭配完全符合现代汉语词法规范。)",
+            "哥哥每逢周末喜欢去公园打太极拳，弟弟则喜欢在球场上踢足球和打网球，他们都对体育运动充满热情。(太极拳配打，足球配踢，网球配打，严密规范)",
             "哥哥喜欢踢太极拳，弟弟喜欢下足球和滑网球。",
             "哥哥下太极拳，弟弟打足球在滑网球。",
             "哥哥滑太极拳，弟弟游足球。"
@@ -7085,7 +7085,7 @@
         {
           "prompt": "要表达「我想和他见一面」，符合离合词「见面」语法规范的正确句子是：",
           "options": [
-            "我想跟他见面。(使用介词「跟」引出对象，绝不直接带宾语) (离合词「见面」不能直接带宾语，必须用介词「跟/和/同」引出交际对象（跟他见面）。)",
+            "我想跟他见面。(使用介词「跟」引出对象，绝不直接带宾语)",
             "我想见面他。",
             "我想见面跟他。",
             "我想见他面在明天。"
@@ -7111,7 +7111,7 @@
         {
           "prompt": "在句子「请你一定要帮______，我遇到了急事」中，正确的离合词离析表达是：",
           "options": [
-            "我的忙 (帮 + 领属定语 + 忙) (「帮忙」是离合词，不能说「帮忙我」，正确形式为「帮我的忙」或使用动词「帮助我」。)",
+            "我的忙 (帮 + 领属定语 + 忙)",
             "忙我",
             "帮忙我",
             "我帮忙"
@@ -7202,7 +7202,7 @@
         {
           "prompt": "表达「跑步持续了三十分钟」，符合离合词时量补语插入规则的正确句子是：",
           "options": [
-            "他跑了三十分钟的步。(跑 + 了 + 时量补语 + 的 + 步) (时量补语应插入离合词中间：跑 + 了 + 三十分钟 + (的) + 步。)",
+            "他跑了三十分钟的步。(跑 + 了 + 时量补语 + 的 + 步) + 步。",
             "他跑步了三十分钟的。",
             "他三十分钟跑步了。",
             "他跑了步三十分钟。"
@@ -7213,7 +7213,7 @@
         {
           "prompt": "表达「对方帮了自己很大一个忙」，正确的离析句式是：",
           "options": [
-            "你帮了我一个大忙。(帮 + 了 + 我一个大 + 忙) (定语「我一个大」插入离合词动词与宾语之间：帮了我一个大忙。)",
+            "你帮了我一个大忙。(帮 + 了 + 我一个大 + 忙)",
             "你帮忙了我一个大。",
             "你一个大帮忙了我。",
             "你帮我忙了一个大。"
@@ -7255,7 +7255,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中离合词离析形态、时量补语与定语插入完全典范严谨的一项：",
           "options": [
-            "小王向公司请了三天病假，在家里好好睡了一个大觉，身体终于完全康复了。(请了三天假、睡了一个觉，插入形态精准自然) (「请了三天病假」与「睡了一个大觉」完美体现了离合词离析插入的精髓。)",
+            "小王向公司请了三天病假，在家里好好睡了一个大觉，身体终于完全康复了。(请了三天假、睡了一个觉，插入形态精准自然)",
             "小王向公司请假了三天病，睡觉了一个大觉。",
             "小王三天请假了病，大觉睡了一个。",
             "小王请假三天在家里，睡了觉一个大。"
@@ -7372,7 +7372,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列课外文体生活叙述中词汇搭配最典范、语篇逻辑最严密的一项：",
           "options": [
-            "李华的业余生活丰富多彩，他不仅会弹吉他、吹萨克斯，每周还定期去书法社练习写毛笔字，周末偶尔还和朋友去健身房健身。(乐器、传统艺术与现代健身动词搭配完全精准) (弹吉他、吹萨克斯、练毛笔字、去健身房健身，动词与名词搭配无可挑剔。)",
+            "李华的业余生活丰富多彩，他不仅会弹吉他、吹萨克斯，每周还定期去书法社练习写毛笔字，周末偶尔还和朋友去健身房健身。(乐器、传统艺术与现代健身动词搭配完全精准)",
             "李华会拉萨克斯、吹吉他，在书法社踢毛笔字。",
             "李华下吉他、画萨克斯，在健身房弹跑步。",
             "李华滑书法、游毛笔字。"
@@ -7566,7 +7566,7 @@
         {
           "prompt": "表达某人从事的行业与岗位，最标准地道的规范句式框架是：",
           "options": [
-            "他长期从事软件开发工作，在公司担任架构师。(从事 + 行业，担任 + 职务) (「从事......工作」搭配行业，「担任......职务」搭配具体职位。)",
+            "他长期从事软件开发工作，在公司担任架构师。(从事 + 行业，担任 + 职务)",
             "他从事了架构师，在公司工作从事。",
             "他担任在软件开发，从事架构师。",
             "他是工作从事担任架构师。"
@@ -7608,7 +7608,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列职场身份介绍中用词最典雅、句式结构最严密规范的一项：",
           "options": [
-            "陈先生毕业于同济大学建筑系，目前在一家国家级规划设计院担任高级建筑师，主持过多项大型城市地标工程的设计工作。(毕业院校、单位、职务及业绩叙述典范严谨) (该句在学历背景、就职机构、职务头衔及项目业绩表述上均达到了高级职场汉语的最高标准。)",
+            "陈先生毕业于同济大学建筑系，目前在一家国家级规划设计院担任高级建筑师，主持过多项大型城市地标工程的设计工作。(毕业院校、单位、职务及业绩叙述典范严谨)",
             "陈先生从事建筑师，在设计院做大官，搞房子。",
             "陈先生担任在设计院，工作做建筑。",
             "陈先生主持做设计建筑师在城市。"
@@ -7725,7 +7725,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术背景介绍中专业术语最规范、逻辑表达最流畅严密的一项：",
           "options": [
-            "张华本科就读于北京大学软件工程专业，硕士阶段师从知名学者专攻人工智能与自然语言处理研究方向，在顶级学术期刊发表过多篇高水平论文。(专业门类、师从名师、研究方向及学术产出表述极为典雅规范) (该句学术语体色彩浓厚，专业术语精准，展现了高阶汉语的书面语典范规范。)",
+            "张华本科就读于北京大学软件工程专业，硕士阶段师从知名学者专攻人工智能与自然语言处理研究方向，在顶级学术期刊发表过多篇高水平论文。(专业门类、师从名师、研究方向及学术产出表述极为典雅规范)",
             "张华本科读电脑做软件，硕士找老师搞聊天机器人，写了文章。",
             "张华就读人工智能研究方向在本科，硕士专攻软件工程大学。",
             "张华学位了工学在论文研究方向。"
@@ -7842,7 +7842,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列求职邮件正文中格式最规范、语气最得体、用词最典范的一项：",
           "options": [
-            "尊敬的招聘负责人：您好！得知贵公司正在招聘涉外项目助理，本人深感该岗位与我的专业背景高度契合。随信附上我的个人简历与成绩单，恳请审阅。期待能有机会参与面试。此致，敬礼！(格式完备、敬语得体、行文极度规范) (该求职信包含了尊称、应聘缘由、契合说明、附件提示、面试期待与标准祝颂语，堪称商务书信典范。)",
+            "尊敬的招聘负责人：您好！得知贵公司正在招聘涉外项目助理，本人深感该岗位与我的专业背景高度契合。随信附上我的个人简历与成绩单，恳请审阅。期待能有机会参与面试。此致，敬礼！(格式完备、敬语得体、行文极度规范)",
             "喂，招人吗？看我简历吧，快点回复。",
             "贵公司好，我来找工作了，给我多少工资？",
             "招聘你看简历在附件里，一定要要我。"
@@ -7959,7 +7959,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列面试问答中求职者回答逻辑最清晰、修养最典范的一项：",
           "options": [
-            "感谢各位面试官的提问。我的核心优势在于不仅具备扎实的专业理论功底，更具有很强的跨文化沟通能力。如果能够有幸加入贵团队，我将全力以赴投入项目研发，并虚心向前辈学习，为公司的业务开拓贡献力量。(表达感恩、展现实力、谦逊进取、格局开阔) (该应答既表达了谢意与自信，又体现了团队意识与敬业精神，是现代职场面试的典范标杆。)",
+            "感谢各位面试官的提问。我的核心优势在于不仅具备扎实的专业理论功底，更具有很强的跨文化沟通能力。如果能够有幸加入贵团队，我将全力以赴投入项目研发，并虚心向前辈学习，为公司的业务开拓贡献力量。(表达感恩、展现实力、谦逊进取、格局开阔)",
             "反正我就是最强的人才，你们不录用我就是你们的损失。",
             "我不知道我能干什么，你们看着安排吧。",
             "我主要是为了混个经验，随时打算跳槽。"
@@ -8049,7 +8049,7 @@
         {
           "prompt": "请选出下列职场成长叙事中用词最典雅、句式最完整通畅的一项：",
           "options": [
-            "在激烈的求职竞争中，我凭借扎实的专业功底与出色的综合素养脱颖而出，成功获得了心仪企业的录用通知书。(成语与专业术语运用典范通畅) (「脱颖而出」、「录用通知书」搭配精准，书面语体典雅严谨。)",
+            "在激烈的求职竞争中，我凭借扎实的专业功底与出色的综合素养脱颖而出，成功获得了心仪企业的录用通知书。(成语与专业术语运用典范通畅)",
             "求职很热闹，我打败了很多人拿到了纸头通知。",
             "我在竞争中拿到了录用，因为我很厉害他们不得不给。",
             "录用通知书给我了在激烈的招聘中。"
@@ -8076,7 +8076,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列职业成长与求职发展叙事语篇中思想境界最高远、语言最典范严密的一项：",
           "options": [
-            "回顾从校园走向职场的历程，大学期间的系统专业学习与科研实践为我铸就了坚实的翅膀。在严谨的求职面试中，我充分展现了自己的专业实力与团队协作潜能，最终顺利加盟跨国科技团队。未来我将始终保持谦逊笃学的心态，在岗位上深耕细作、追求卓越！(结构严谨、辞意畅达、立意高远、文采斐然) (该语篇在时序建构、辞章修辞、职业精神与抱负升华上均达到了现代汉语的最高境界。)",
+            "回顾从校园走向职场的历程，大学期间的系统专业学习与科研实践为我铸就了坚实的翅膀。在严谨的求职面试中，我充分展现了自己的专业实力与团队协作潜能，最终顺利加盟跨国科技团队。未来我将始终保持谦逊笃学的心态，在岗位上深耕细作、追求卓越！(结构严谨、辞意畅达、立意高远、文采斐然)",
             "我终于毕业了，找了个班上，天天等下班拿工资。",
             "求职面试很好玩，我随便说说就录用了，我不打算多干活。",
             "我走向职场在大学，面试了在跨国公司拿钱。"
@@ -8195,7 +8195,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列比较句中语法结构最严谨、差异量补充表达最规范的一项：",
           "options": [
-            "随着工业互联网技术的升级，新建自动化车间的生产效率比传统车间提高了整整两倍，废品率也比以往降低了许多。(数量补语与概略补语使用典范) (该句在比较主体、比较对象、谓语动词及后置数量补语的配合上堪称现代汉语比较句的最高规范。)",
+            "随着工业互联网技术的升级，新建自动化车间的生产效率比传统车间提高了整整两倍，废品率也比以往降低了许多。(数量补语与概略补语使用典范)",
             "自动化车间比传统车间很提高，废品率非常降低。",
             "自动化车间十分比传统车间提高两倍。",
             "自动化车间比两倍提高传统车间。"
@@ -8312,7 +8312,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列否定比较句中语义最精准、语用色彩最得体的一项：",
           "options": [
-            "我们青年一代虽然起步稍晚，但求知探索的精神绝不比任何人逊色，在未来的科技竞争中一定能迎头赶上。(反驳性「不比」运用得体，立意高远昂扬) (该句准确运用「不比......逊色」表达青年一代奋发图强的坚定信念，语体典雅庄重。) (否定比较句精微语义对立：不比 (Bù bǐ) vs 没有 (Méiyǒu) vs 不如 (Bùrú)",
+            "我们青年一代虽然起步稍晚，但求知探索的精神绝不比任何人逊色，在未来的科技竞争中一定能迎头赶上。(反驳性「不比」运用得体，立意高远昂扬)",
             "我们青年一代不如任何人，没有办法学习。(态度消极自暴自弃) vs 没有",
             "我们青年一代不比很差在任何人。(严重语法病句) vs 没有",
             "我们青年一代没有任何人那么聪明所以不用努力。(逻辑完全荒谬) vs 没有"
@@ -8429,7 +8429,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列等同与相似比较句中语法结构最规范、修辞色彩最典雅的一项：",
           "options": [
-            "经过多年的学术交流，两校在科研管理与人才培养机制上已经建立起了如同孪生兄弟般紧密的战略合作关系。(比拟修辞与等同关系结合极为自然生动) (该句语法完整，比拟贴切，兼具学术严谨性与文学修辞美感。)",
+            "经过多年的学术交流，两校在科研管理与人才培养机制上已经建立起了如同孪生兄弟般紧密的战略合作关系。(比拟修辞与等同关系结合极为自然生动)",
             "两校一样在管理上跟孪生兄弟。",
             "两校的管理差不多很一样在兄弟。",
             "两校如同一样在科研上。"
@@ -8546,7 +8546,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列递进与关联比较句中思想境界最高远、句式最典范工整的一项：",
           "options": [
-            "学术攀登之路虽充满荆棘，但青年学者们愈挫愈勇，所取得的科研成果一年比一年丰硕，为国家科技强国建设贡献了源源不断的青春力量。(愈挫愈勇、一年比一年丰硕，递进逻辑严密工整) (该句兼备了「愈挫愈勇」的书面语典雅度与「一年比一年」的纵向递进感，展现了极高语言修养。)",
+            "学术攀登之路虽充满荆棘，但青年学者们愈挫愈勇，所取得的科研成果一年比一年丰硕，为国家科技强国建设贡献了源源不断的青春力量。(愈挫愈勇、一年比一年丰硕，递进逻辑严密工整)",
             "科研很难，越来越不想干，一年比一年差。",
             "青年学者越挫折越非常勇敢在科研里。",
             "成果越来越很多在一年比一年。"
@@ -8636,7 +8636,7 @@
         {
           "prompt": "请选出下列时代科技对比叙事中比较句式融合最典范、语言最通畅的一项：",
           "options": [
-            "现在的通信网络比过去快得多，人们的生活也越来越智能化，这种飞跃比以往任何时候都更加令人振奋。(比字句、越来越、比以往任何时候完美融合) (「比过去快得多」、「越来越智能化」、「比以往任何时候都更加......」句法体系严丝合缝。)",
+            "现在的通信网络比过去快得多，人们的生活也越来越智能化，这种飞跃比以往任何时候都更加令人振奋。(比字句、越来越、比以往任何时候完美融合)",
             "现在的通信比过去很快速，生活越来越非常智能。",
             "通信十分比过去快，生活没有比过去更好。",
             "生活越来越快得多在通信网络。"
@@ -8663,7 +8663,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科技与时代变迁综合对比叙事篇章中句法最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "纵观时代变迁，今天的科技创新速度比以往任何时期都更加迅猛。不仅高铁与移动互联让大众生活变得越来越高效便捷，国家的现代化建设更是展现出一年比一年更加繁荣昌盛的壮丽图景。立足新时代，青年一代施展才干的舞台比过去任何时候都更加广阔！(全篇集成三大比较句式，气势磅礴，文理俱佳) (该语篇在比较句式的多样性（差比、递进、纵向时序）、思想立意的高度与词章文采上均达到了现代汉语的最高境界。)",
+            "纵观时代变迁，今天的科技创新速度比以往任何时期都更加迅猛。不仅高铁与移动互联让大众生活变得越来越高效便捷，国家的现代化建设更是展现出一年比一年更加繁荣昌盛的壮丽图景。立足新时代，青年一代施展才干的舞台比过去任何时候都更加广阔！(全篇集成三大比较句式，气势磅礴，文理俱佳)",
             "以前什么都没有，现在有手机了，比以前好玩。",
             "现在的科技比以前非常快，越来越很多东西出来。",
             "科技发展了一年比一年，没有不好。"
@@ -8782,7 +8782,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国地理与水系地貌描述中语言最规范、地理知识最精确的一项：",
           "options": [
-            "中国幅员辽阔，西起世界屋脊青藏高原，东至广袤富饶的沿海平原，长江与黄河横贯东西，奔流不息，滋养了千百年来生生不息的中华民族。(地势阶梯、大江大河与人文内涵叙述极为完备典范) (该句在宏观地理地貌、江河水系走向及中华文明孕育叙述上均达到了最高规范。)",
+            "中国幅员辽阔，西起世界屋脊青藏高原，东至广袤富饶的沿海平原，长江与黄河横贯东西，奔流不息，滋养了千百年来生生不息的中华民族。(地势阶梯、大江大河与人文内涵叙述极为完备典范)",
             "中国很小，地势东高西低，黄河流入印度洋。",
             "长江自东向西流到西藏去。",
             "中国只有高原没有平原与大河。"
@@ -8899,7 +8899,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列文化遗产阐述中文采最斐然、历史内涵与艺术特征概括最精准的一项：",
           "options": [
-            "故宫紫禁城以其宏伟严整的中轴对称布局与金碧辉煌的殿宇建筑，生动诠释了东方古代礼制文明与高超的营造技艺，是全人类共有的无价文化瑰宝。(布局、营造技艺与人类文化价值表述高度严密典范) (该句对紫禁城的中轴布局、建筑规制及人类文明价值作出了典范的汉语学术阐释。)",
+            "故宫紫禁城以其宏伟严整的中轴对称布局与金碧辉煌的殿宇建筑，生动诠释了东方古代礼制文明与高超的营造技艺，是全人类共有的无价文化瑰宝。(布局、营造技艺与人类文化价值表述高度严密典范)",
             "故宫就是很多老房子，红红黄黄的。",
             "兵马俑都是泥巴做的，没什么特别的。",
             "长城是现代人修的小墙用来跑步。"
@@ -9018,7 +9018,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列江南山水园林美学评价中辞意最雅致、意境最高远的一项：",
           "options": [
-            "苏州古典园林在有限的空间内叠石理水、栽植花木，运用移步换景的巧妙设计，达到了「咫尺之内再造乾坤」的崇高美学境界。(叠石理水、移步换景、虽由人作宛自天开，美学意蕴极深) (该语篇对中国园林空间美学与造园哲学作出了极为地道典雅的汉语学术美学概括。)",
+            "苏州古典园林在有限的空间内叠石理水、栽植花木，运用移步换景的巧妙设计，达到了「咫尺之内再造乾坤」的崇高美学境界。(叠石理水、移步换景、虽由人作宛自天开，美学意蕴极深)",
             "苏州园林就是小池塘边上放几块烂石头。",
             "西湖水太多了，看来看去全是荷花没意思。",
             "黄山上面石头太怪了不好走。"
@@ -9135,7 +9135,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列涉外旅游行程安排中表述最完备、用词最得体典范的一项：",
           "options": [
-            "我们提前通过官方小程序预约了故宫上午场的门票，并在前台办理了行李寄存。入园后租借了一台多语种智能导览器，游览结束后还选购了精美的文创伴手礼。(预约、寄存、导览、伴手礼全流程表述流畅规范) (该语篇涵盖了现代旅游预约、酒店服务、智慧导览及文创消费全流程，用词精准典范。)",
+            "我们提前通过官方小程序预约了故宫上午场的门票，并在前台办理了行李寄存。入园后租借了一台多语种智能导览器，游览结束后还选购了精美的文创伴手礼。(预约、寄存、导览、伴手礼全流程表述流畅规范)",
             "我们没有买票去故宫硬闯，把包扔在地上，随便拿了东西走。",
             "故宫开门我们进去，不知道干什么。",
             "导览器我们不要买票在酒店退房行李。"
@@ -9225,7 +9225,7 @@
         {
           "prompt": "请选出下列文化遗产游历纪实中辞藻最典雅、文化感悟最深刻的一项：",
           "options": [
-            "从巍峨长城到江南水乡，这趟文化之旅让我真切触摸到了华夏文明生生不息的脉搏，更深刻领悟了天人合一的东方美学。(文采飞扬、立意高远、意境深邃) (首选选项将具体景点游历升华至文明认同与哲学美学高度，语言极为典雅纯正。)",
+            "从巍峨长城到江南水乡，这趟文化之旅让我真切触摸到了华夏文明生生不息的脉搏，更深刻领悟了天人合一的东方美学。(文采飞扬、立意高远、意境深邃)",
             "我去长城照相，去西湖划船，很好玩。",
             "华夏山河到处是人，我走累了想回家。",
             "长城西湖在故宫里面很好吃。"
@@ -9252,7 +9252,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列华夏名胜游历与文化感悟综合叙事语篇中艺术境界最高、逻辑架构最严谨的一项：",
           "options": [
-            "行走在华夏大地的壮丽山河之间，无论是雄伟庄严的万里长城与故宫紫禁城，还是空濛温婉的杭州西湖与苏州园林，都让我深深领略了中华文明博大精深、天人合一的永恒魅力。这场行万里路的文化求索，铸就了我人生中最璀璨的思想财富！(全篇结构严密、文采斐然、南北交融、境界崇高) (该语篇在地理广度、历史深度、美学高度及思想升华上均达到了现代汉语的最高境界。)",
+            "行走在华夏大地的壮丽山河之间，无论是雄伟庄严的万里长城与故宫紫禁城，还是空濛温婉的杭州西湖与苏州园林，都让我深深领略了中华文明博大精深、天人合一的永恒魅力。这场行万里路的文化求索，铸就了我人生中最璀璨的思想财富！(全篇结构严密、文采斐然、南北交融、境界崇高)",
             "中国很好玩，我去了长城和西湖，拍了很多自拍照。",
             "名胜古迹都差不多，看了长城就不想看西湖了。",
             "神州大地在长城西湖里走走。"
@@ -9371,7 +9371,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列「把」字句中宾语有定、动词搭配得当且补语结构最严密的一项：",
           "options": [
-            "工程师在发布新版本前，把测试报告中指出的所有安全漏洞全部修复好了。(宾语特指，处置动词与结果补语搭配完美) (该句在宾语特指性、处置动词及后置结果补语「好」的配合上堪称现代汉语把字句的典范。)",
+            "工程师在发布新版本前，把测试报告中指出的所有安全漏洞全部修复好了。(宾语特指，处置动词与结果补语搭配完美)",
             "工程师把漏洞修复。",
             "工程师把一个漏洞修复在电脑。",
             "工程师修复把所有漏洞好。"
@@ -9488,7 +9488,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中动词处置性最强、语法结构完全合规的一项：",
           "options": [
-            "软件工程师加班加点，终于把数据库中的异常冗余记录全部清除干净了。(清除干净：强处置动词加结果补语) (首选选项使用动作处置动词「清除」配合结果补语「干净」，其余三项均误用了认知、情感与判断动词。)",
+            "软件工程师加班加点，终于把数据库中的异常冗余记录全部清除干净了。(清除干净：强处置动词加结果补语)",
             "软件工程师把数据库知道得很清楚。",
             "软件工程师把那个软件很爱。",
             "软件工程师把那个程序是一个系统。"
@@ -9605,7 +9605,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列「把」字句中补语类别最丰富、句子结构最严密完整的一项：",
           "options": [
-            "研究员把实验采集到的海量原始数据录入到分析软件中，并把统计结果整理成了五份专题研究报告。(录入到.../整理成...两大介词补语配合极其严密) (该句准确运用了「录入到」与「整理成」两大典型介词短语补语，展现了极高学术汉语素养。)",
+            "研究员把实验采集到的海量原始数据录入到分析软件中，并把统计结果整理成了五份专题研究报告。(录入到.../整理成...两大介词补语配合极其严密)",
             "研究员把数据录入，把报告整理。",
             "研究员录入把数据到软件成报告。",
             "研究员把软件录入数据整理。"
@@ -9722,7 +9722,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列把字句中否定副词与能愿动词位置最严谨规范的一项：",
           "options": [
-            "青年学者在科研攻关中千万不能把暂时的失败当成放弃的借口，而应该把每一次挫折都化为奋进的动力。(否定词「千万不能」与能愿动词「应该」均精准置于「把」字前) (该句中「千万不能把......」与「应该把......」完美遵守了否定词和能愿动词置于「把」前的铁律规则。)",
+            "青年学者在科研攻关中千万不能把暂时的失败当成放弃的借口，而应该把每一次挫折都化为奋进的动力。(否定词「千万不能」与能愿动词「应该」均精准置于「把」字前)",
             "青年学者把失败千万不能当成借口。",
             "青年学者把挫折应该化为动力。",
             "青年学者把暂时的失败当成借口千万不能。"
@@ -9813,7 +9813,7 @@
         {
           "prompt": "请选出下列科研协作叙事中「把」字句运用最地道、语序最严谨的一项：",
           "options": [
-            "团队把所有参数校对完毕后，立即把最终成果录入到了系统数据库中。(两处把字句宾语有定、动补严整) (首选选项在动补搭配、时间状语与宾语特指性上均达到了汉语规范的最高要求。)",
+            "团队把所有参数校对完毕后，立即把最终成果录入到了系统数据库中。(两处把字句宾语有定、动补严整)",
             "团队把参数校对，把成果系统录入。",
             "团队已经把成果录入系统没。",
             "团队把系统成果录入。"
@@ -9840,7 +9840,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科研与办公协作叙事语篇中句式最丰富、动补配合最严谨、思想境界最高远的一项：",
           "options": [
-            "在科研攻关的全流程中，我们始终把严谨求实放在首位。不仅把海量实验数据整理成了条理清晰的学术报告，更把每项技术难关逐一攻克，最终把科技创新的宏伟蓝图转化为了报效国家的现实成果！(全篇把字句贯通始终，动补结构严丝合缝，立意极其崇高昂扬) (该语篇在「把」字句多样性、动补搭配精微度以及思想格局上均展现了极高的现代汉语修养。)",
+            "在科研攻关的全流程中，我们始终把严谨求实放在首位。不仅把海量实验数据整理成了条理清晰的学术报告，更把每项技术难关逐一攻克，最终把科技创新的宏伟蓝图转化为了报效国家的现实成果！(全篇把字句贯通始终，动补结构严丝合缝，立意极其崇高昂扬)",
             "科研工作就是做实验，把东西放放，把电脑开开。",
             "我们把失败很多，没有把成功做出来。",
             "把数据整理，把报告交给。"
@@ -9957,7 +9957,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列「被」字句中主受关系最清晰、动补搭配最严谨、语体最得体的一项：",
           "options": [
-            "经过严格的资质审查与全员无记名投票，李博士被全体代表一致推选为新一届学术委员会主席。(受事、施事、状语与及物动词配合完美) (该句在受事主语、施事者「全体代表」、修饰语及结果补语的配合上达到了现代汉语的最高规范。)",
+            "经过严格的资质审查与全员无记名投票，李博士被全体代表一致推选为新一届学术委员会主席。(受事、施事、状语与及物动词配合完美)",
             "李博士被推选。",
             "全体代表被李博士推选为主席。",
             "李博士被学术委员会推选很。"
@@ -10074,7 +10074,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列公文与学术被动句中语体风格最典雅庄重、语法结构最严谨的一项：",
           "options": [
-            "该项重大前沿科技攻关方案已由国家专家评审委员会严格审定，并由科研发展基金予以全额立项资助。(由...审定，由...予以资助，公文体被动典范) (该句在公文被动标记「由......审定」与「予以全额立项资助」的使用上展现了极高的公文写作规范。)",
+            "该项重大前沿科技攻关方案已由国家专家评审委员会严格审定，并由科研发展基金予以全额立项资助。(由...审定，由...予以资助，公文体被动典范)",
             "这个项目让专家给看了，叫国家给钱了。",
             "项目被搞好了由很多人。",
             "方案为专家予以批准叫委员会。"
@@ -10193,7 +10193,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中语言最地道纯正、毫无欧化翻译腔的一项：",
           "options": [
-            "实验报告已经校对完毕并打印出来了，随时可以交给导师审阅。(地道受事主语句，动补搭配行云流水) (该句准确使用受事主语句交代实验报告的完成状态，完全摆脱了欧化被动痕迹，纯正自然。)",
+            "实验报告已经校对完毕并打印出来了，随时可以交给导师审阅。(地道受事主语句，动补搭配行云流水)",
             "实验报告被校对完毕了并且被打印出来了。",
             "导师被实验报告校对完了。",
             "实验报告被打印在电脑。"
@@ -10312,7 +10312,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中否定词与能愿动词位置最规范、论述最严密的一项：",
           "options": [
-            "任何具有前瞻性的科研探索都不应该被短期的功利思想所束缚，而必须被赋予充分的探索自由。(「不应该被...束缚」、「必须被赋予...」，语序极其严密规范) (该句中「不应该被......」与「必须被......」精准契合了现代汉语被动句状语前置的铁律规则。)",
+            "任何具有前瞻性的科研探索都不应该被短期的功利思想所束缚，而必须被赋予充分的探索自由。(「不应该被...束缚」、「必须被赋予...」，语序极其严密规范)",
             "科研探索被短期的功利思想不应该束缚。",
             "探索被必须赋予自由。",
             "科研探索被功利思想束缚不应该。"
@@ -10403,7 +10403,7 @@
         {
           "prompt": "请选出下列荣誉表彰叙事中被动句式融合最典范、文采最斐然的一项：",
           "options": [
-            "科研团队攻克的重大成果不仅被国际顶刊录用，其核心负责人更被授予国家最高荣誉，其奉献精神将永远为后世所铭记。(被录用、被授予、为后世所铭记，句式极度典雅) (首选选项在多种被动句式的切换、动补配合及公文典雅度上达到了最高标准。)",
+            "科研团队攻克的重大成果不仅被国际顶刊录用，其核心负责人更被授予国家最高荣誉，其奉献精神将永远为后世所铭记。(被录用、被授予、为后世所铭记，句式极度典雅)",
             "成果被搞出来了，专家被给钱了。",
             "团队被国际顶刊录用在成果。",
             "为后世所铭记被奉献精神。"
@@ -10430,7 +10430,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术表彰与科技荣光综合叙事语篇中句法最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "在国家科技攻关的壮阔征程中，无数颠覆性难题被青年科学家团队彻底攻克。他们不仅被授予共和国最高科学技术奖章，其卓越成果更是被全社会广泛应用转化。这种科技报国的无私情怀，必将永远为伟大历史所深切铭记，为亿万人民所由衷敬仰！(全篇融合被字句、受事主语句与「为...所...」，气势磅礴，文采卓越) (该语篇在被动语态体系的综合驾驭、思想立意的高度与词章文采上均达到了现代汉语的最高境界。)",
+            "在国家科技攻关的壮阔征程中，无数颠覆性难题被青年科学家团队彻底攻克。他们不仅被授予共和国最高科学技术奖章，其卓越成果更是被全社会广泛应用转化。这种科技报国的无私情怀，必将永远为伟大历史所深切铭记，为亿万人民所由衷敬仰！(全篇融合被字句、受事主语句与「为...所...」，气势磅礴，文采卓越)",
             "大家做了很多实验，被发了奖金，大家都很高兴。",
             "难题被攻克在青年科学家，被授予奖章有很多。",
             "为历史所铭记在奖章被给予。"
@@ -10547,7 +10547,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中结果补语搭配最精准、语义毫无歧义的一项：",
           "options": [
-            "研究人员经过通宵达旦的计算，终于把核心算法中的逻辑错误全部纠正过来了，所有测试数据也都核对完毕了。(纠正过来、核对完毕，动补搭配堪称典范) (首选选项在结果补语「纠正过来」与「核对完毕」的搭配上展现了极高精度的学术汉语规范。)",
+            "研究人员经过通宵达旦的计算，终于把核心算法中的逻辑错误全部纠正过来了，所有测试数据也都核对完毕了。(纠正过来、核对完毕，动补搭配堪称典范)",
             "研究人员把错误算懂了，数据算成完。",
             "数据被核对在电脑没。",
             "逻辑错误纠正在算法。"
@@ -10664,7 +10664,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列趋向补语句子中处所宾语与视点基准运用完全合规的一项：",
           "options": [
-            "教授刚走进会议室来，所有参会的青年学者们便立刻站起身来热烈鼓掌。(走进会议室来：处所宾语前置于来，视点与空间严整) (「走进会议室来」完美遵守了处所宾语置于「来」前的铁律规则。)",
+            "教授刚走进会议室来，所有参会的青年学者们便立刻站起身来热烈鼓掌。(走进会议室来：处所宾语前置于来，视点与空间严整)",
             "教授刚走进来会议室，大家站起来。",
             "教授走进在会议室去来。",
             "会议室走进教授来。"
@@ -10781,7 +10781,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中「起来」引申义运用最地道、句式最典范的一项：",
           "options": [
-            "大家把历年积累的宝贵科研经验系统地总结了起来，这项新技术应用起来不仅高效便捷，而且推广起来也极其顺畅。(总结收聚、应用评估、推广评估，三处起来运用极度纯熟) (该句精准融合了「总结起来（收拢归纳）」与「应用起来/推广起来（主观评估）」两大高阶引申义。)",
+            "大家把历年积累的宝贵科研经验系统地总结了起来，这项新技术应用起来不仅高效便捷，而且推广起来也极其顺畅。(总结收聚、应用评估、推广评估，三处起来运用极度纯熟)",
             "大家把经验站起来，技术看起来很起来。",
             "科研经验被起来在总结。",
             "经验起来总结技术。"
@@ -10898,7 +10898,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中趋向补语引申义运用最精准、历史与科技内涵最丰富的一项：",
           "options": [
-            "这门古老的非遗手艺历经沧桑被完整保留了下来；如今青年传承人又研制出来了现代文创新产品，并决心将这份匠心精神代代坚持传下去。(下来传承、出来创新、下去发扬，三大趋向引申义交相辉映) (该句在「保留下来（自古及今）」、「研制出来（从无到有）」与「传下去（由今及后）」的配合上达到了汉语艺术运用的最高水准。)",
+            "这门古老的非遗手艺历经沧桑被完整保留了下来；如今青年传承人又研制出来了现代文创新产品，并决心将这份匠心精神代代坚持传下去。(下来传承、出来创新、下去发扬，三大趋向引申义交相辉映)",
             "手艺保留下去，产品做出来下来，传过来。",
             "手艺被出来在保留，产品研制下去。",
             "大家下来把产品做出来过去。"
@@ -10988,7 +10988,7 @@
         {
           "prompt": "请选出下列时代科技与文化综合叙事中动补结构运用最丰富自然、文采最斐然的一项：",
           "options": [
-            "我们把优良传统传承了下来，研制出来了前沿技术，只要紧密团结起来、坚持干下去，就一定能把宏伟蓝图做成功！(下来、出来、起来、下去、成功，动补体系浑然一体) (首选选项在传承、创新、凝聚、奋进与达成的动补搭配上达到了汉语文学写作的巅峰境界。)",
+            "我们把优良传统传承了下来，研制出来了前沿技术，只要紧密团结起来、坚持干下去，就一定能把宏伟蓝图做成功！(下来、出来、起来、下去、成功，动补体系浑然一体)",
             "我们把传统做了，技术做了，大家干，蓝图做。",
             "传统下来被研制，技术干下去起来。",
             "宏伟蓝图做成功被大家起来。"
@@ -11015,7 +11015,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科学攻坚与历史奋进综合叙事语篇中动补结构最严谨、文采最斐然、思想境界最高远的一项：",
           "options": [
-            "纵观华夏文明史，古老先贤的科学智慧历经千年流传了下来；面对当今世界科技竞争，青年科研团队潜心攻坚，成功研制出来了一批重大原创成果。只要全体中华儿女团结起来、坚持奋斗下去，就必将把科技强国的宏伟蓝图一步步转化成现实伟业！(全篇动补结构行云流水，气势磅礴，文理兼备) (该语篇在结果与趋向动补系统的多维交融、思想立意的高度与词章文采上均达到了现代汉语的最高境界。)",
+            "纵观华夏文明史，古老先贤的科学智慧历经千年流传了下来；面对当今世界科技竞争，青年科研团队潜心攻坚，成功研制出来了一批重大原创成果。只要全体中华儿女团结起来、坚持奋斗下去，就必将把科技强国的宏伟蓝图一步步转化成现实伟业！(全篇动补结构行云流水，气势磅礴，文理兼备)",
             "以前的东西留着，现在做新东西，大家一起做，以后也做。",
             "成果研制在下来，大家奋斗出来，蓝图成功。",
             "文明流传下去在古代，青年科学家起来。"
@@ -11134,7 +11134,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中可能补语运用最准确、语境逻辑最严密的一项：",
           "options": [
-            "这套古代碑帖拓本由于年代久远有些字迹磨损，普通读者很难辨认得出来，但权威专家完全看得懂其中的微言大义。(辨认得出来、看得懂，两处可能补语运用极其地道精准) (该句在可能补语「辨认得出来」与「看得懂」的配合上精准体现了专业能力与客观条件的评估。)",
+            "这套古代碑帖拓本由于年代久远有些字迹磨损，普通读者很难辨认得出来，但权威专家完全看得懂其中的微言大义。(辨认得出来、看得懂，两处可能补语运用极其地道精准)",
             "读者把字迹看不懂，专家看懂得了。",
             "字迹被专家看得不出来。",
             "普通读者不辨认出拓本。"
@@ -11251,7 +11251,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中固定可能补语搭配最精准、语体风格最典雅崇高的一项：",
           "options": [
-            "青年科研人员不畏艰辛吃得了苦、顶得住压力，誓用重大原创科技突破对得起国家的厚望与历史的托付！(吃得了苦、顶得住压力、对得起厚望，三处固定可能补语运用极其精湛严整) (该句在「吃得了苦（耐力）」、「顶得住压力（承重）」与「对得起厚望（道德担当）」的搭配上展现了极高的思想与语言修养。)",
+            "青年科研人员不畏艰辛吃得了苦、顶得住压力，誓用重大原创科技突破对得起国家的厚望与历史的托付！(吃得了苦、顶得住压力、对得起厚望，三处固定可能补语运用极其精湛严整)",
             "青年人员吃得动苦，对得下厚望。",
             "把厚望对得起在青年科研人员。",
             "厚望被吃得着苦。"
@@ -11368,7 +11368,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中句法结构完全合规、毫无句式杂糅病态的一项：",
           "options": [
-            "面对如此浩繁的工程数据，单凭人工计算根本不可能把所有参数核对完毕，必须依靠智能算法进行快速校验。(能愿动词「不可能」+ 把字句 + 结果补语「核对完毕」，句法极其规范完美) (首选选项准确使用能愿动词「不可能」引领把字句，动词后搭配结果补语「核对完毕」，严格遵守了排斥铁律。)",
+            "面对如此浩繁的工程数据，单凭人工计算根本不可能把所有参数核对完毕，必须依靠智能算法进行快速校验。(能愿动词「不可能」+ 把字句 + 结果补语「核对完毕」，句法极其规范完美)",
             "工程师把所有参数核对得完。",
             "参数被工程师核对不完。",
             "核对得完参数把工程师。"
@@ -11485,7 +11485,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中状态与程度补语运用最地道、语法完全合规的一项：",
           "options": [
-            "青年学者在国际讲坛上把科研成果讲解得深入浅出，现场同行专家对报告的严谨论证满意极了。(讲解得深入浅出：状态补语完美；满意极了：程度补语极其纯熟) (该句在状态补语「讲解得深入浅出」与程度补语「满意极了」的搭配上展现了高超的学术汉语修养。)",
+            "青年学者在国际讲坛上把科研成果讲解得深入浅出，现场同行专家对报告的严谨论证满意极了。(讲解得深入浅出：状态补语完美；满意极了：程度补语极其纯熟)",
             "学者讲成果得深入浅出，满意死了了。",
             "成果被讲解深入浅出得很好。",
             "深入浅出得讲解成果。"
@@ -11575,7 +11575,7 @@
         {
           "prompt": "请选出下列学术攻坚叙事中情态补语体系融合最完满、文采最斐然的一项：",
           "options": [
-            "科研团队顶得住重重压力，把复杂机理研究得透彻极了，在国际讲坛上阐述得清清楚楚，现场专家钦佩极了。(顶得住、透彻极了、阐述得清清楚楚、钦佩极了，情态补语融会贯通) (首选选项在可能补语、状态补语与程度补语的配合上达到了极高的文学与学术标准。)",
+            "科研团队顶得住重重压力，把复杂机理研究得透彻极了，在国际讲坛上阐述得清清楚楚，现场专家钦佩极了。(顶得住、透彻极了、阐述得清清楚楚、钦佩极了，情态补语融会贯通)",
             "团队把压力顶得住，搞透彻，说清楚，专家很满意。",
             "复杂机理被研究得透彻极了在团队。",
             "专家钦佩极了被阐述清楚。"
@@ -11602,7 +11602,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术攀登与卓越奋斗综合叙事语篇中情态补语最严整、文采最斐然、立意最高远的一项：",
           "options": [
-            "在科技攀登的崇高征程中，青年科学家团队始终扛得住重压、耐得住寂寞。大家把实验方案论证得严丝合缝，把前沿技术钻研得透彻极了，最终在世界舞台上把中国智慧展现得淋漓尽致，对得起伟大时代的历史重托！(全篇融合可能补语、状态补语与程度补语，气势磅礴，文理交融) (该语篇在可能补语、状态补语、程度补语的系统综合运用与崇高时代立意上均达到了现代汉语的最高境界。)",
+            "在科技攀登的崇高征程中，青年科学家团队始终扛得住重压、耐得住寂寞。大家把实验方案论证得严丝合缝，把前沿技术钻研得透彻极了，最终在世界舞台上把中国智慧展现得淋漓尽致，对得起伟大时代的历史重托！(全篇融合可能补语、状态补语与程度补语，气势磅礴，文理交融)",
             "大家克服困难做了很多实验，把技术做出来了，大家都非常高兴。",
             "方案被论证严丝合缝在实验室，大家很自豪极了。",
             "把时代重托对得起在青年科学家。"
@@ -11719,7 +11719,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列存现句中处所主语清晰、动词形态准确、宾语无定性完全合规的一项：",
           "options": [
-            "学术交流中心正大门前整齐地停放着几辆迎宾大巴，大厅里悬挂着一条醒目的中英双语欢迎横幅。(处所主语、动补着、无定宾语全系严整规范) (该句在两个分句中均严格遵守了处所作主语及无定宾语「几辆大巴」、「一条横幅」的存现法则。)",
+            "学术交流中心正大门前整齐地停放着几辆迎宾大巴，大厅里悬挂着一条醒目的中英双语欢迎横幅。(处所主语、动补着、无定宾语全系严整规范)",
             "大门前停放着那辆大巴，大厅里悬挂着这个横幅。",
             "大厅把横幅悬挂着在里面。",
             "大巴被停放在大门前着。"
@@ -11953,7 +11953,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中方位词使用最地道、处所主语完全规范合规的一项：",
           "options": [
-            "综合实验楼南侧整齐地排列着几座现代化温室大棚，大棚里面培育着最新选育的抗旱农作物新品种。(南侧、大棚里面，方位词搭配极度地道规范) (该句在方位词「南侧」与「大棚里面」的使用上严密准确，句首省略「在」使全句行云流水。)",
+            "综合实验楼南侧整齐地排列着几座现代化温室大棚，大棚里面培育着最新选育的抗旱农作物新品种。(南侧、大棚里面，方位词搭配极度地道规范)",
             "在南侧排列着大棚在楼，里面培育新品种。",
             "北京里实验楼南边大棚培育着。",
             "大棚把新品种培育在里面着。"
@@ -12043,7 +12043,7 @@
         {
           "prompt": "请选出下列苏州园林空间描写中存现句运用最典雅、意境最高古的一项：",
           "options": [
-            "池塘中央建有一座湖心水榭，榭后环绕着苍翠欲滴的修竹，粉墙前错落有致地叠放着几块太湖怪石。(存现句层层推进，移步换景典范) (首选选项在方位空间词、动补结构与古典美学意象的融合上达到了中国传统散文写作的极高境界。)",
+            "池塘中央建有一座湖心水榭，榭后环绕着苍翠欲滴的修竹，粉墙前错落有致地叠放着几块太湖怪石。(存现句层层推进，移步换景典范)",
             "池塘把水榭建了，竹子在后面。",
             "太湖怪石被叠放在粉墙前很美。",
             "水榭中央建池塘。"
@@ -12070,7 +12070,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列传统文人书斋空间美学语篇中存现句式最丰富、文采最斐然、意境最高雅的一项：",
           "options": [
-            "推开雅致的雕花木门，书斋沉香木大案上端正地摆放着文房四宝，案头正中铺展着一幅尚未题跋的宣纸长卷，铜炉里静静地燃着一缕清幽的沉香。靠墙的多宝格上陈列着历代线装古籍与青铜古玩，整座斋室内弥漫着深厚的书卷书香。(全篇存现句融通画意，词章典雅，意境超凡脱俗) (该语篇在存现动补「摆放着、铺展着、燃着、陈列着」的运用上浑然天成，生动呈现了东方文人书斋的至高美学风骨。)",
+            "推开雅致的雕花木门，书斋沉香木大案上端正地摆放着文房四宝，案头正中铺展着一幅尚未题跋的宣纸长卷，铜炉里静静地燃着一缕清幽的沉香。靠墙的多宝格上陈列着历代线装古籍与青铜古玩，整座斋室内弥漫着深厚的书卷书香。(全篇存现句融通画意，词章典雅，意境超凡脱俗)",
             "书房里面有很多书，桌子上放着纸和笔，还有香在烧着。",
             "文房四宝被摆放在桌子上面，宣纸被铺开。",
             "大案上面铺展着纸被毛笔写。"
@@ -12160,7 +12160,7 @@
         {
           "prompt": "请选出下列空间全景叙事中存现句融合最典范、气魄最宏阔的一项：",
           "options": [
-            "园区主干道两侧排列着现代化科研楼，展厅正中矗立着运载火箭模型，广场上迎面走过来批批青年科学家，蓝天下铺展着壮丽的科技新城。(排列着、矗立着、走过来、铺展着，空间存现浑然一体) (首选选项在多层空间方位、静态与动态存现的切换及思想气魄上达到了现代汉语写作的巅峰水准。)",
+            "园区主干道两侧排列着现代化科研楼，展厅正中矗立着运载火箭模型，广场上迎面走过来批批青年科学家，蓝天下铺展着壮丽的科技新城。(排列着、矗立着、走过来、铺展着，空间存现浑然一体)",
             "园区有楼，火箭在展厅，青年科学家走，新城很好。",
             "科研楼被排列在两侧，火箭被矗立。",
             "走过来新城在蓝天下。"
@@ -12187,7 +12187,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科技园区与大国气象综合叙事语篇中句式最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "漫步在现代化国家科学中心，宽阔的大道两旁坐落着数十座国家重点实验室，展厅中央巍然矗立着大国重器航天火箭模型，广场前不断走过来意气风发的青年科研先锋。极目远眺，在蔚蓝的天空下绵延铺展着一座生机勃勃的生态智慧新城，处处洋溢着科技报国与民族复兴的大国气象！(全篇空间存现句行云流水，气势恢宏，立意高远) (该语篇在空间存现句全套体系的驾驭、辞章文采的高度与崇高的大国科技情怀上均达到了现代汉语的最高境界。)",
+            "漫步在现代化国家科学中心，宽阔的大道两旁坐落着数十座国家重点实验室，展厅中央巍然矗立着大国重器航天火箭模型，广场前不断走过来意气风发的青年科研先锋。极目远眺，在蔚蓝的天空下绵延铺展着一座生机勃勃的生态智慧新城，处处洋溢着科技报国与民族复兴的大国气象！(全篇空间存现句行云流水，气势恢宏，立意高远)",
             "科技中心有很多楼，里面放着火箭，人很多，城市很大。",
             "重点实验室被坐落在两旁，火箭被矗立在中央。",
             "新城铺展着在天空下把青年先锋走过来。"
@@ -12305,7 +12305,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列递进复句中主语位置、动宾搭配及逻辑递进关系完全合规的一项：",
           "options": [
-            "不仅核心攻关小组通宵达旦地全力攻坚，而且全院各科研实验室也协同参与了数据验证，使得该项目不仅如期完成了阶段性目标，而且取得了远超预期的原创性成果！(前一分句主语不同「不仅攻关小组...而且全院实验室...」，后一分句主语相同「项目不仅如期完成...而且取得成果」，全句语序精湛完美) (该语篇在主语不同与主语相同时准确切换了「不仅」的前后位置，完全符合现代汉语最高级语法规范。)",
+            "不仅核心攻关小组通宵达旦地全力攻坚，而且全院各科研实验室也协同参与了数据验证，使得该项目不仅如期完成了阶段性目标，而且取得了远超预期的原创性成果！(前一分句主语不同「不仅攻关小组...而且全院实验室...」，后一分句主语相同「项目不仅如期完成...而且取得成果」，全句语序精湛完美)",
             "攻关小组不仅通宵攻坚，而且全院实验室协同。",
             "不仅项目完成了目标，而且取得了成果。",
             "尚且项目取得成果，何况小组。"
@@ -12422,7 +12422,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列转折复句中辩证逻辑最周密、副词位置最精准、语体最典雅的一项：",
           "options": [
-            "引进成熟技术固然能够在短期内带来效益，然而从长远战略来看，我们却必须坚定不移地推进原创自主创新，唯有如此方能打破受制于人的被动局面。(固然让步、然而重大转折、却置于主语后动词前，辩证论述堪称典范) (该句在「固然（承认短效）」与「然而（战略转折）」的配合上展现了高超的政论辩证逻辑，副词「却」位置完全合规。)",
+            "引进成熟技术固然能够在短期内带来效益，然而从长远战略来看，我们却必须坚定不移地推进原创自主创新，唯有如此方能打破受制于人的被动局面。(固然让步、然而重大转折、却置于主语后动词前，辩证论述堪称典范)",
             "引进技术固然好，却我们然而要自主创新。",
             "虽然引进技术好，但是却我们要创新。",
             "固然自主创新被技术引进。"
@@ -12539,7 +12539,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列因果与推论复句中逻辑链条最严密、书面连词运用最纯熟的一项：",
           "options": [
-            "该项重大国家工程之所以能提前竣工并投入运营，是因为全体建设者发扬了精益求精的工匠精神，从而创造了世界基建史上的新奇迹！(之所以...是因为...倒装探因，从而引出积极辉煌成果，句法逻辑极度严密) (该句精准融合了「之所以......是因为......」倒装因果与「从而......」积极顺承引申，逻辑严密，气魄宏大。)",
+            "该项重大国家工程之所以能提前竣工并投入运营，是因为全体建设者发扬了精益求精的工匠精神，从而创造了世界基建史上的新奇迹！(之所以...是因为...倒装探因，从而引出积极辉煌成果，句法逻辑极度严密)",
             "工程因为竣工提前，所以以致创造了奇迹。",
             "既然工程提前竣工，是因为工匠精神。",
             "从而工程之所以提前竣工。"
@@ -12746,7 +12746,7 @@
         {
           "prompt": "请选出下列战略论说语篇中复句逻辑链条最严密、文采最沉雄斐然的一项：",
           "options": [
-            "引进技术固然能够解燃眉之急，然而只有坚定自主创新，才能真正把握命运；我们的事业之所以能跨越发展，是因为全体青年学者不仅肩负探索使命，更心怀报国担当！(固然让步、然而转折、只有才条件、之所以是因为倒装、不仅更递进，逻辑臻于化境) (首选选项在多重关联词体系的综合驾驭、辩证说理的深度及爱国情怀的表达上达到了现代汉语政论文的最高境界。)",
+            "引进技术固然能够解燃眉之急，然而只有坚定自主创新，才能真正把握命运；我们的事业之所以能跨越发展，是因为全体青年学者不仅肩负探索使命，更心怀报国担当！(固然让步、然而转折、只有才条件、之所以是因为倒装、不仅更递进，逻辑臻于化境)",
             "引进技术好，但是要创新，因为大家努力，不仅做实验而且写论文。",
             "之所以我们要创新，是因为固然技术被引进。",
             "哪怕只有我们掌握技术，才能成功。"
@@ -12773,7 +12773,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列辩证论证与战略蓝图综合论说语篇中逻辑最严密、词章最斐然、思想境界最高远的一项：",
           "options": [
-            "站在新的历史起点上，引进国外技术固然能带来一时的便利，然而唯有高水平科技自立自强，方能从根本上立于不败之地。我们的科研事业之所以能不断打破垄断，是因为广大科学家哪怕历经万难也始终矢志报国。新时代青年不仅要勇攀科学高峰，更要以自强不息的奋斗铸就中华民族伟大复兴的壮丽蓝图！(全篇复句体系融会贯通，逻辑雄辩，气势磅礴) (该语篇在多重复句系统（转折、因果、条件、让步、递进）的综合驾驭与崇高家国情怀上均达到了现代汉语的最高境界。)",
+            "站在新的历史起点上，引进国外技术固然能带来一时的便利，然而唯有高水平科技自立自强，方能从根本上立于不败之地。我们的科研事业之所以能不断打破垄断，是因为广大科学家哪怕历经万难也始终矢志报国。新时代青年不仅要勇攀科学高峰，更要以自强不息的奋斗铸就中华民族伟大复兴的壮丽蓝图！(全篇复句体系融会贯通，逻辑雄辩，气势磅礴)",
             "我们要做好科研，因为技术很重要，大家要努力，不要怕困难。",
             "固然技术被打破垄断，是因为大家哪怕努力了。",
             "之所以只有创新，才能而且发展。"
@@ -12863,7 +12863,7 @@
         {
           "prompt": "请选出下列句子中书面语体转换最彻底、辞令最典雅庄重的一项：",
           "options": [
-            "鉴于该项目具有重大的战略价值，专家组拟对其予以全额资助，旨在加速突破核心卡脖子技术。(鉴于、拟、予以、旨在，书面语词汇全系严整典雅) (首选选项在虚词与动词的选择上完全符合现代高级汉语公文与学术报告的最高标准。)",
+            "鉴于该项目具有重大的战略价值，专家组拟对其予以全额资助，旨在加速突破核心卡脖子技术。(鉴于、拟、予以、旨在，书面语词汇全系严整典雅)",
             "因为这个项目挺好，专家们想给它钱，为了搞快点突破技术。",
             "鉴于专家想给钱，旨在由于技术好。",
             "项目被拟在专家给钱。"
@@ -12890,7 +12890,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术研讨会开幕辞中书面语体最典雅、辞章最庄重、结构最严谨的一项：",
           "options": [
-            "鉴于全球科技发展日新月异，本次国际学术论坛旨在搭建高水平跨学科对话平台，自开幕之日起至本周末，各国专家将围绕核心前沿议题展开深入审视，并对青年学者杰出论文予以表彰。(鉴于、旨在、自...至...、审视、予以，全篇书面语典雅非凡) (该语篇在现代汉语高级书面语词汇的运用上浑然天成，完全达到了国际高规格学术峰会发言的专业水准。)",
+            "鉴于全球科技发展日新月异，本次国际学术论坛旨在搭建高水平跨学科对话平台，自开幕之日起至本周末，各国专家将围绕核心前沿议题展开深入审视，并对青年学者杰出论文予以表彰。(鉴于、旨在、自...至...、审视、予以，全篇书面语典雅非凡)",
             "因为科技发展很快，我们开这个会想让大家聊聊，从今天到周末，大家看看论文给点奖。",
             "鉴于大家聊聊，旨在给点奖在周末。",
             "专家被旨在开会自今天。"
@@ -13007,7 +13007,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术治学叙事中成语搭配最严谨、思想境界最高远、文采最斐然的一项：",
           "options": [
-            "在探索科学前沿的漫长征程中，青年学者既要有潜心笃志、韦编三绝的治学毅力，又要有格物致知、厚积薄发的求真定力，更要有淡泊明志、宁静致远的高尚风骨，方能在科技攻关中披荆斩棘、勇攀高峰！(潜心笃志、韦编三绝、格物致知、厚积薄发、淡泊明志、宁静致远、披荆斩棘，成语熔铸入化境) (该语篇将治学、求真、风骨与攻关四大维度的核心成语熔铸于一炉，气度宏大，立意深远。)",
+            "在探索科学前沿的漫长征程中，青年学者既要有潜心笃志、韦编三绝的治学毅力，又要有格物致知、厚积薄发的求真定力，更要有淡泊明志、宁静致远的高尚风骨，方能在科技攻关中披荆斩棘、勇攀高峰！(潜心笃志、韦编三绝、格物致知、厚积薄发、淡泊明志、宁静致远、披荆斩棘，成语熔铸入化境)",
             "学者们急功近利，随便看看书，想马上取得成功。",
             "大家披荆斩棘在教室里睡觉。",
             "淡泊明志被学者们做了很多实验。"
@@ -13108,7 +13108,7 @@
         {
           "prompt": "请选出下列政论社论语篇中成语搭配最严谨、气势最磅礴的一项：",
           "options": [
-            "面对波澜壮阔的新时代征程，我们要高瞻远瞩谋全局、统筹兼顾促发展，只要全党全国人民戮力同心、众志成城，就必定能砥砺前行、再创辉煌！(政论成语层层呼应，气势磅礴宏阔) (首选选项在宏观叙事成语的配合上达到了人民日报社论的高规格政论水平。)",
+            "面对波澜壮阔的新时代征程，我们要高瞻远瞩谋全局、统筹兼顾促发展，只要全党全国人民戮力同心、众志成城，就必定能砥砺前行、再创辉煌！(政论成语层层呼应，气势磅礴宏阔)",
             "新时代很热闹，大家一起做事情，不要害怕困难，慢慢走。",
             "波澜壮阔被我们高瞻远瞩在路上。",
             "防微杜渐谋全局在全国人民。"
@@ -13124,7 +13124,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列治国理政综合社论语篇中成语运用最纯熟、思想最深邃、辞章最庄严的一项：",
           "options": [
-            "回顾百年波澜壮阔的奋斗征程，我们党始终高瞻远瞩、深谋远虑，统筹兼顾发展全局。站在新的历史起点上，广大建设者同舟共济、砥砺前行，以防微杜渐的审慎确保万无一失，以戮力同心的伟力推动中华民族伟大复兴的巨轮乘风破浪！(全篇政论成语融会贯通，辞章典雅，气吞山河) (该语篇在政论成语全套系统的驾驭与大国气魄的展现上达到了现代汉语政论文的最高境界。)",
+            "回顾百年波澜壮阔的奋斗征程，我们党始终高瞻远瞩、深谋远虑，统筹兼顾发展全局。站在新的历史起点上，广大建设者同舟共济、砥砺前行，以防微杜渐的审慎确保万无一失，以戮力同心的伟力推动中华民族伟大复兴的巨轮乘风破浪！(全篇政论成语融会贯通，辞章典雅，气吞山河)",
             "过去的一百年很有意思，我们做了很多打算，现在大家要一起努力把船开好。",
             "高瞻远瞩被统筹兼顾，巨轮波澜壮阔在地上。",
             "只要防微杜渐，就能波澜壮阔开巨轮。"
@@ -13241,7 +13241,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列论述语段中排比、对偶、层递与隐喻修辞融合最完美、最具震撼感染力的一项：",
           "options": [
-            "青年科学家当以自强为舟、以奋斗为桨：立足实验前沿以强基，攻克核心难关以拓新，献身强国伟业以铸魂！让青春在星辰大海的探索中闪光，让智慧在民族复兴的征程中绽放！(对偶比喻开篇，三句层递排比，对偶收束，修辞臻于化境) (该语段融会了比喻、对偶、层递与排比全套修辞技法，声律铿锵，辞采飞扬，感染力极强。)",
+            "青年科学家当以自强为舟、以奋斗为桨：立足实验前沿以强基，攻克核心难关以拓新，献身强国伟业以铸魂！让青春在星辰大海的探索中闪光，让智慧在民族复兴的征程中绽放！(对偶比喻开篇，三句层递排比，对偶收束，修辞臻于化境)",
             "青年科学家要做实验，写论文，搞好国家建设，大家都很努力加油。",
             "以舟为奋斗，实验被立足，绽放智慧在做实验。",
             "创新是引擎但是青年是舟所以大家都好。"
@@ -13331,7 +13331,7 @@
         {
           "prompt": "请选出下列学术宣言与时代社论中书面语体、成语与修辞融合最完美、立意最高远的一项：",
           "options": [
-            "鉴于当今科技竞争日趋激烈，广大青年学者当以格物致知探真理，以厚积薄发攀高峰；戮力同心攻克关键难关，推动中国创新巨轮劈波斩浪，驶向民族复兴的光辉彼岸！(书面语、学术政论成语与宏大隐喻修辞浑然一体，气吞山河) (首选选项在现代汉语最高级书面语词汇、经典四字成语与崇高修辞意境的结合上臻于化境。)",
+            "鉴于当今科技竞争日趋激烈，广大青年学者当以格物致知探真理，以厚积薄发攀高峰；戮力同心攻克关键难关，推动中国创新巨轮劈波斩浪，驶向民族复兴的光辉彼岸！(书面语、学术政论成语与宏大隐喻修辞浑然一体，气吞山河)",
             "科技竞争很激烈，我们要好好做实验，把船开好，争取复兴。",
             "鉴于船劈波斩浪，格物致知被我们做实验。",
             "旨在大家戮力同心在实验室睡觉。"
@@ -13358,7 +13358,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列时代学术宣言与大国科技社论综合语篇中词章最斐然、气度最恢宏、境界最高远的一项：",
           "options": [
-            "鉴于新一轮科技革命正在重塑世界格局，时代赋予青年学者无上光荣的历史重托。治学当如滴水穿石，求索当如百川归海。唯有以潜心笃志、格物致知之精神钻研真理，以淡泊明志、宁静致远之风骨坚守冷板凳，方能厚积薄发、披荆斩棘。只要全体科研工作者戮力同心、砥砺前行，中国科技创新的壮丽巨轮必将高挂云帆、乘风破浪，铸就中华民族伟大复兴的永恒辉煌！(全篇书面语精湛典雅，成语对偶排比融为一体，气吞万里，立意高远) (该语篇在现代汉语书面语体、成语修辞系统与时代精神的熔铸上达到了当代中国散文与政论文的最高境界。)",
+            "鉴于新一轮科技革命正在重塑世界格局，时代赋予青年学者无上光荣的历史重托。治学当如滴水穿石，求索当如百川归海。唯有以潜心笃志、格物致知之精神钻研真理，以淡泊明志、宁静致远之风骨坚守冷板凳，方能厚积薄发、披荆斩棘。只要全体科研工作者戮力同心、砥砺前行，中国科技创新的壮丽巨轮必将高挂云帆、乘风破浪，铸就中华民族伟大复兴的永恒辉煌！(全篇书面语精湛典雅，成语对偶排比融为一体，气吞万里，立意高远)",
             "现在科技发展很快，大家要认真做实验，不怕辛苦，一起把国家建设好，加油努力！",
             "鉴于历史重托被赋予，巨轮在滴水穿石。",
             "只要淡泊明志，就能劈波斩浪在实验室。"
@@ -13460,7 +13460,7 @@
         {
           "prompt": "请选出下列新闻通稿导语中结构最规范、语体最权威、信息最精炼的一项：",
           "options": [
-            "新华社北京电：记者从国家重大科技攻关领导小组获悉，我国自主研制的超导量子计算机原型机今日成功完成算力升级，标志着我国量子计算跻身世界前列。(标准电头、权威引介、核心成果、标志意义一气呵成) (首选选项在电头、导语五要素与重大战略意义表述上完全符合新华社通稿的最高规范。)",
+            "新华社北京电：记者从国家重大科技攻关领导小组获悉，我国自主研制的超导量子计算机原型机今日成功完成算力升级，标志着我国量子计算跻身世界前列。(标准电头、权威引介、核心成果、标志意义一气呵成)",
             "今天北京天气挺好，我们听说计算机搞出来了，还挺厉害的。",
             "标志着世界前列被计算机在领导小组。",
             "计算机很厉害在新闻发布会闲聊。"
@@ -13594,7 +13594,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列宏观经济统计与产业升级分析语段中术语运用最精准、逻辑链条最严密的一项：",
           "options": [
-            "国家统计局最新公布的数据显示，今年前三季度高技术制造业增加值同比增长百分之九点一，战略性新兴产业投资增幅持续扩大。各地通过加快培育壮大新质生产力，有力推动了专精特新中小企业集聚发展，进一步增强了产业链供应链的自主可控与安全韧性！(同比、增幅扩大、新质生产力、专精特新、产业链韧性，经济分析语体臻于专业化极致) (该语段在统计指标对比、产业升级动能及新质生产力战略术语的运用上达到了专业国家级经济分析师的标准。)",
+            "国家统计局最新公布的数据显示，今年前三季度高技术制造业增加值同比增长百分之九点一，战略性新兴产业投资增幅持续扩大。各地通过加快培育壮大新质生产力，有力推动了专精特新中小企业集聚发展，进一步增强了产业链供应链的自主可控与安全韧性！(同比、增幅扩大、新质生产力、专精特新、产业链韧性，经济分析语体臻于专业化极致)",
             "数据显示高技术挺好，环比去年增加了，大家觉得新质生产力很不错。",
             "新质生产力被专精特新增加在增幅收窄。",
             "同比增长了专精特新在制造业。"
@@ -13711,7 +13711,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列人工智能治理与科技伦理论说语段中专业术语最规范、法治逻辑最严密的一项：",
           "options": [
-            "推动数字经济高质量发展，必须健全生成式人工智能全链条治理体系。监管部门既要秉持包容审慎理念以激发算法创新活力，又要坚决划定科技伦理底线与数据安全红线，全面厘清各方权责，确保人工智能始终沿着科技向善的法治轨道健康前行！(生成式智能、包容审慎、伦理红线、厘清权责、科技向善，科技法治论说典范) (该语段在人工智能前沿科技治理、法治合规与伦理价值维度的论证逻辑达到了国家智库研究报告的水准。)",
+            "推动数字经济高质量发展，必须健全生成式人工智能全链条治理体系。监管部门既要秉持包容审慎理念以激发算法创新活力，又要坚决划定科技伦理底线与数据安全红线，全面厘清各方权责，确保人工智能始终沿着科技向善的法治轨道健康前行！(生成式智能、包容审慎、伦理红线、厘清权责、科技向善，科技法治论说典范)",
             "我们要搞人工智能，但是有人造假骗人，所以要管管他们，大家不要做坏事。",
             "包容审慎被红线厘清在生成式智能。",
             "科技向善禁止一切算法探索。"
@@ -13828,7 +13828,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列民生福祉、乡村振兴与生态文明综合语篇中理念最高远、词章最精粹的一项：",
           "options": [
-            "牢固树立并践行绿水青山就是金山银山的崇高理念，坚定不移走人与自然和谐共生的可持续发展之路。在推进乡村全面振兴中坚持精准施策，持续织密兜牢民生保障网，真正让现代化建设成果更多更公平惠及全体人民！(两山理念、人与自然和谐共生、精准施策、织密兜牢保障网，政治哲学与民生情怀完美融合) (该语篇在生态文明理念、精准乡村振兴战略及以人民为中心的根本立场上达到了国家级政论社论的最高标准。)",
+            "牢固树立并践行绿水青山就是金山银山的崇高理念，坚定不移走人与自然和谐共生的可持续发展之路。在推进乡村全面振兴中坚持精准施策，持续织密兜牢民生保障网，真正让现代化建设成果更多更公平惠及全体人民！(两山理念、人与自然和谐共生、精准施策、织密兜牢保障网，政治哲学与民生情怀完美融合)",
             "我们要保护树木，让农民有钱花，给大家建好房子。",
             "绿水青山被兜牢在乡村施策。",
             "只要精准施策，就能破坏环境发财。"
@@ -13918,7 +13918,7 @@
         {
           "prompt": "请选出下列大国治理与公共政策叙事中术语运用最严整、气度最恢宏的一项：",
           "options": [
-            "新华社北京电：我国战略性新兴产业增加值同比增长势头强劲，新质生产力加速释放。在统筹前沿科技治理划定伦理红线的同时，生态文明与民生保障交出暖心答卷，中国式现代化巨轮正行稳致远！(电头、同比增长、新质生产力、伦理红线、行稳致远，大国政论浑然一体) (首选选项在现代高级公共政策语汇的配合上达到了新华社与人民日报头版社论的最高标准。)",
+            "新华社北京电：我国战略性新兴产业增加值同比增长势头强劲，新质生产力加速释放。在统筹前沿科技治理划定伦理红线的同时，生态文明与民生保障交出暖心答卷，中国式现代化巨轮正行稳致远！(电头、同比增长、新质生产力、伦理红线、行稳致远，大国政论浑然一体)",
             "北京发来消息，经济挺好，科技搞得很厉害，大家都很开心。",
             "新质生产力被行稳致远在生态文明。",
             "划定伦理红线为了让大家不要做实验。"
@@ -14062,7 +14062,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列公文呈批与请批批复行文中结构最严谨、格式最规范、用语最得体的一项：",
           "options": [
-            "《关于申请设立国家级重大创新试验区的请示》业经专家委员会周密论证。为抢抓数字经济发展机遇，拟请上级批准在我市设立试验区并给予先行先试政策支持。妥否，请批示。(标题规范、事由明确、公文敬语得体、结语标准，法定公文请示典范) (该语段在公文标题构成、事由陈述、申请意图及标准呈批结语「妥否，请批示」上完全符合国家法定公文标准。)",
+            "《关于申请设立国家级重大创新试验区的请示》业经专家委员会周密论证。为抢抓数字经济发展机遇，拟请上级批准在我市设立试验区并给予先行先试政策支持。妥否，请批示。(标题规范、事由明确、公文敬语得体、结语标准，法定公文请示典范)",
             "我们想建个试验区，大家赶紧批准，别耽误时间。",
             "设立试验区被妥否请批示在专家委员会。",
             "请示报告说要设立试验区你看着办。"
@@ -14179,7 +14179,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列商务合同条款中法律逻辑最严密、书面语体最规范、权责界定最清晰的一项：",
           "options": [
-            "鉴于甲乙双方经友好协商达成合作，特订立本合同。任何一方无正当理由单方解除合同，均构成实质性违约，应向守约方支付合同总额百分之二十的违约金，并赔偿由此产生的一切直接与间接经济损失。本合同自双方签字盖章之日起生效，以资共同信守。(鉴于条款、实质违约、违约金比例、赔偿范围、签字盖章生效，法律合同标准范本) (该语段在合同鉴于条款、违约责任界定、赔偿金比例及生效要件上完全达到了专业公司法律顾问与国际商事仲裁律师的起草标准。)",
+            "鉴于甲乙双方经友好协商达成合作，特订立本合同。任何一方无正当理由单方解除合同，均构成实质性违约，应向守约方支付合同总额百分之二十的违约金，并赔偿由此产生的一切直接与间接经济损失。本合同自双方签字盖章之日起生效，以资共同信守。(鉴于条款、实质违约、违约金比例、赔偿范围、签字盖章生效，法律合同标准范本)",
             "甲方和乙方签了个合同，谁如果不听话就要赔钱，合同今天开始管用。",
             "违约金被以资信守在签字盖章。",
             "守约方必须向违约方道歉并支付赔偿金。"
@@ -14296,7 +14296,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列招投标与技术标评审表述中专业术语最准确、商业逻辑最严密的一项：",
           "options": [
-            "我方投标方案全面响应了招标文件的所有硬性技术指标，并在算力优化与能耗控制上实现了显著正偏离。评标委员会综合评分名列第一，中标公示期满后，我司已按期足额缴纳了履约保证金，确保项目高质量交付！(响应指标、正偏离、综合评分第一、履约保证金，招投标专业语体极其地道严整) (该语段在投标参数响应、正偏离、评标委员会评审及履约保证金等招投标核心术语的运用上达到了行业标杆水准。)",
+            "我方投标方案全面响应了招标文件的所有硬性技术指标，并在算力优化与能耗控制上实现了显著正偏离。评标委员会综合评分名列第一，中标公示期满后，我司已按期足额缴纳了履约保证金，确保项目高质量交付！(响应指标、正偏离、综合评分第一、履约保证金，招投标专业语体极其地道严整)",
             "我们公司去投标了，专家觉得挺好给打了最高分，给钱之后就可以开工了。",
             "履约保证金被正偏离在评标委员会。",
             "负偏离越严重说明标书质量越优秀。"
@@ -14413,7 +14413,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列高阶商务谈判攻防话术中表达最得体、博弈逻辑最精湛的一项：",
           "options": [
-            "坦率地讲，贵方目前的报价已经触及我方的成本红线。但出于长远战略合作的诚意，如果贵方能将首付款提高至百分之四十，并在采购规模上进一步扩大，我们愿意在交货账期上作出相应让步，通过求同存异实现互利共赢！(底线申明、有条件让步、利益置换、求同存异与合作共赢，高阶商业谈判话术典范) (该语段在底线表达、条件性让步置换及引导互利共赢上体现了当代国际顶尖商务谈判专家的风范。)",
+            "坦率地讲，贵方目前的报价已经触及我方的成本红线。但出于长远战略合作的诚意，如果贵方能将首付款提高至百分之四十，并在采购规模上进一步扩大，我们愿意在交货账期上作出相应让步，通过求同存异实现互利共赢！(底线申明、有条件让步、利益置换、求同存异与合作共赢，高阶商业谈判话术典范)",
             "你们价格太低了我们不干，除非你们先给钱再说。",
             "成本红线被互利共赢在首付款。",
             "只要我们亏本卖给你们，你们就开心了。"
@@ -14504,7 +14504,7 @@
         {
           "prompt": "请选出下列跨国战略合作公文与商业综合语篇中词章最典雅、法商逻辑最严密的一项：",
           "options": [
-            "《关于深化跨国智能装备技术并购的请示》业经专家委员会周密论证，妥否，请批示。我司技术标在关键参数上实现显著正偏离并顺利中标。在商务谈判中，双方秉持求同存异理念打破僵局，订立战略合作合同，自签字盖章之日起生效，以资共同信守！(请示呈批、正偏离中标、求同存异打破僵局、签字盖章以资信守，法商公文臻于化境) (首选选项在公文格式、招投标术语、商务谈判策略及合同生效程式语的综合运用上堪称现代法商公文的典范。)",
+            "《关于深化跨国智能装备技术并购的请示》业经专家委员会周密论证，妥否，请批示。我司技术标在关键参数上实现显著正偏离并顺利中标。在商务谈判中，双方秉持求同存异理念打破僵局，订立战略合作合同，自签字盖章之日起生效，以资共同信守！(请示呈批、正偏离中标、求同存异打破僵局、签字盖章以资信守，法商公文臻于化境)",
             "我们公司想买个外国公司，大家赶紧批了，然后我们去签字给钱。",
             "以资信守被正偏离在合同妥否请批示。",
             "求同存异意味着我们单方面赔偿所有违约金。"
@@ -14649,7 +14649,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列古代诗歌源流与美学批评语段中概念最准确、词章最雅致的一项：",
           "options": [
-            "《诗经》以「风、雅、颂」奠定题材格局，凭「赋、比、兴」铸就现实主义传统；屈原《离骚》则以香草美人隐喻高洁忠贞之志，开创了瑰丽奇绝的楚辞浪漫主义巅峰；汉魏建安风骨融慷慨悲凉与雄健风骨于一体，共同构筑了中华古典诗学的巍峨源头！(风雅颂、赋比兴、离骚香草美人、建安风骨，先秦汉魏诗学体系评析精湛典雅) (该语段在《诗经》六义、屈原香草美人传统与建安风骨的文学史定位上达到了专业文学批评的高深水准。)",
+            "《诗经》以「风、雅、颂」奠定题材格局，凭「赋、比、兴」铸就现实主义传统；屈原《离骚》则以香草美人隐喻高洁忠贞之志，开创了瑰丽奇绝的楚辞浪漫主义巅峰；汉魏建安风骨融慷慨悲凉与雄健风骨于一体，共同构筑了中华古典诗学的巍峨源头！(风雅颂、赋比兴、离骚香草美人、建安风骨，先秦汉魏诗学体系评析精湛典雅)",
             "古人写诗喜欢写小草和小花，大家随便写写，后来曹操写了喝酒的诗。",
             "赋比兴被建安风骨在离骚六义。",
             "香草美人是指古代妇女去买香草做饭。"
@@ -14766,7 +14766,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列盛唐诗歌格律与三大诗宗风格评析中理解最深刻、表述最精当的一项：",
           "options": [
-            "盛唐近体律诗以颔联、颈联的工稳对仗与严谨平仄确立了声律范式。李白以豪放飘逸的浪漫奇想驰骋诗坛，杜甫以沉郁顿挫的家国情怀与炉火纯青的格律被尊为诗圣，王维则将禅宗哲思融入山水田园达到诗中有画的空灵境界！(格律对仗结构、李白豪放、杜甫沉郁、王维禅意，盛唐诗学图景全景式呈现) (该语段精准把握了唐代近体律诗的格律核心以及李白、杜甫、王维三大诗宗的审美灵魂。)",
+            "盛唐近体律诗以颔联、颈联的工稳对仗与严谨平仄确立了声律范式。李白以豪放飘逸的浪漫奇想驰骋诗坛，杜甫以沉郁顿挫的家国情怀与炉火纯青的格律被尊为诗圣，王维则将禅宗哲思融入山水田园达到诗中有画的空灵境界！(格律对仗结构、李白豪放、杜甫沉郁、王维禅意，盛唐诗学图景全景式呈现)",
             "唐诗有绝句和律诗，李白很会喝酒写诗，杜甫很穷，王维喜欢画画。",
             "对仗要求在首联和尾联被诗仙沉郁顿挫。",
             "王维诗中有画说明他其实是个画匠而不是诗人。"
@@ -14883,7 +14883,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列宋词体式、词牌声律与流派审美分析中最全面、最深刻的一项：",
           "options": [
-            "宋词依词牌长短句依谱填词，上片起兴写景，下片抒情明志。苏轼以旷达胸襟与天纵奇才开豪放之风，辛弃疾倾家国壮志铸就金戈铁马的英雄悲歌；柳永以慢词羁旅铺叙离情，李清照则以连用十四叠字的绝唱将婉约派凄清幽微的情感推向了极致！(长短句词牌特征、苏辛豪放英雄气象、柳李婉约精微绝唱，宋词审美分析精深绝伦) (该语段对宋词依谱填词的体例、苏辛豪放派的家国宏大视野以及柳李婉约派的细腻情感进行了极其精到的美学概括。)",
+            "宋词依词牌长短句依谱填词，上片起兴写景，下片抒情明志。苏轼以旷达胸襟与天纵奇才开豪放之风，辛弃疾倾家国壮志铸就金戈铁马的英雄悲歌；柳永以慢词羁旅铺叙离情，李清照则以连用十四叠字的绝唱将婉约派凄清幽微的情感推向了极致！(长短句词牌特征、苏辛豪放英雄气象、柳李婉约精微绝唱，宋词审美分析精深绝伦)",
             "宋词就是长长短短的歌词，苏轼写月亮，辛弃疾写打仗，李清照写悲伤。",
             "豪放派只准写李清照十四叠字在词牌。",
             "词牌是指古代歌女手里拿的塑料牌子。"
@@ -15000,7 +15000,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国古典文艺批评与意境理论评析中哲理性最高、文论体系最完备的一项：",
           "options": [
-            "中国古典美学以「意境」为灵魂，追求情与景的水乳交融。王国维《人间词话》分立「有我之境」与「无我之境」，深刻阐发了物我关系的两种至高形态；古典诗画更依托「虚实相生」与留白艺术，在「不着一字，尽得风流」的幽微中达成「言有尽而意无穷」的永恒境界！(意境灵魂、有我无我之境辨析、虚实相生与言有尽而意无穷，中国文论美学体系化总结) (该语段系统总结了意境论、王国维有我/无我之境、虚实相生及言有尽而意无穷的核心美学意涵。)",
+            "中国古典美学以「意境」为灵魂，追求情与景的水乳交融。王国维《人间词话》分立「有我之境」与「无我之境」，深刻阐发了物我关系的两种至高形态；古典诗画更依托「虚实相生」与留白艺术，在「不着一字，尽得风流」的幽微中达成「言有尽而意无穷」的永恒境界！(意境灵魂、有我无我之境辨析、虚实相生与言有尽而意无穷，中国文论美学体系化总结)",
             "古人写诗喜欢讲意境，就是让人猜猜什么意思，猜不出来说明写得好。",
             "虚实相生是指诗歌前半句是真的后半句是假话。",
             "只要没有境界，就能写出人间词话。"
@@ -15090,7 +15090,7 @@
         {
           "prompt": "请选出下列中华古典文学与文脉传承评析中辞采最斐然、立意最高远的一项：",
           "options": [
-            "从先秦风骚的现实关切与浪漫求索，到盛唐李杜的豪放沉郁与两宋词客的金戈铁马、凄婉清绝，古典诗学在虚实相生中将言有尽而意无穷的东方意境推向了巅峰。读千载诗词，便是与古圣先贤进行跨越时空的心灵对话！(风骚源头、盛唐气象、宋词双璧、虚实相生与意境巅峰，文采飞扬立意高远) (首选选项在古典文学流变、诗学美学范畴与人文精神升华上达到了当代高级文史学者的最高造诣。)",
+            "从先秦风骚的现实关切与浪漫求索，到盛唐李杜的豪放沉郁与两宋词客的金戈铁马、凄婉清绝，古典诗学在虚实相生中将言有尽而意无穷的东方意境推向了巅峰。读千载诗词，便是与古圣先贤进行跨越时空的心灵对话！(风骚源头、盛唐气象、宋词双璧、虚实相生与意境巅峰，文采飞扬立意高远)",
             "中国古诗词很多，以前的人很会写，我们现在多读读挺有好处的。",
             "赋比兴被言有尽而意无穷在金戈铁马。",
             "读古诗词只是为了背诵考试没有别的用处。"
@@ -15235,7 +15235,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列儒学哲学体系评析中概念最精准、义理最圆融的一项：",
           "options": [
-            "孔子以「仁者爱人」与「克己复礼」奠定道德与社会秩序之基，强调「和而不同」的独立君子人格；孟子创「性善论」与「仁义礼智」四端说，力主「民贵君轻」的民本大道；儒家以修齐治平贯通个体德行与天下治理，构建了「内圣外王」的崇高精神典范！(仁礼互摄、和而不同、性善四端、民贵君轻、修齐治平与内圣外王，儒学精义完备无缺) (该语段系统总结了孔子仁礼论、和而不同思想、孟子性善论与民贵君轻主张，以及内圣外王的终极追求，达到了极高的哲学深度。)",
+            "孔子以「仁者爱人」与「克己复礼」奠定道德与社会秩序之基，强调「和而不同」的独立君子人格；孟子创「性善论」与「仁义礼智」四端说，力主「民贵君轻」的民本大道；儒家以修齐治平贯通个体德行与天下治理，构建了「内圣外王」的崇高精神典范！(仁礼互摄、和而不同、性善四端、民贵君轻、修齐治平与内圣外王，儒学精义完备无缺)",
             "孔孟就是叫大家听话，孔子喜欢礼貌，孟子觉得大家都很善良，大家不要吵架。",
             "克己复礼被民贵君轻在内圣外王四端。",
             "和而不同是指君子必须跟所有人说一模一样的话。"
@@ -15469,7 +15469,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列法家、墨家与兵家思想评析中概念最精准、格局最宏大的一项：",
           "options": [
-            "先秦诸子争鸣百花齐放：韩非子融「法、术、势」为一体，以因时制宜的法治思想筑牢国家治理根基；墨子以「兼爱、非攻」抒发平民博爱情怀与反战正义；孙子兵法以「不战而屈人之兵」和「知彼知己」确立了超越战术层面的全胜战略哲学！(法术势法治、墨家兼爱非攻、孙子全胜谋略，先秦多元思想交锋评析透彻) (该语段将法家的制度理性、墨家的平民博爱与兵家的全胜战略哲学进行了严密、精准且深刻的概括。)",
+            "先秦诸子争鸣百花齐放：韩非子融「法、术、势」为一体，以因时制宜的法治思想筑牢国家治理根基；墨子以「兼爱、非攻」抒发平民博爱情怀与反战正义；孙子兵法以「不战而屈人之兵」和「知彼知己」确立了超越战术层面的全胜战略哲学！(法术势法治、墨家兼爱非攻、孙子全胜谋略，先秦多元思想交锋评析透彻)",
             "法家喜欢抓人，墨家喜欢做木工玩具，孙子教人怎么打架。",
             "兼爱非攻被法术势在百战不殆。",
             "不战而屈人之兵是指遇到敌人马上投降。"
@@ -15586,7 +15586,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中华哲学辩证思维与精神结构论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "中华哲学以「儒道互补」构筑了兼济天下与独善其身的心理弹性；《周易》并立「自强不息」之乾道与「厚德载物」之坤道，熔铸了刚柔相济的民族品格；「中庸之道」在万变中把握动态平衡，王阳明「知行合一」更将心性觉悟落实于事上磨练，共同奠定了中华辩证思维的至高典范！(儒道互补、自强不息厚德载物乾坤之道、中庸平衡、知行合一实践理性，哲学论述气象恢宏) (该语段将儒道互补机制、《周易》乾坤刚柔哲学、中庸动态平衡与阳明心学知行合一进行了极其精湛的系统整合。)",
+            "中华哲学以「儒道互补」构筑了兼济天下与独善其身的心理弹性；《周易》并立「自强不息」之乾道与「厚德载物」之坤道，熔铸了刚柔相济的民族品格；「中庸之道」在万变中把握动态平衡，王阳明「知行合一」更将心性觉悟落实于事上磨练，共同奠定了中华辩证思维的至高典范！(儒道互补、自强不息厚德载物乾坤之道、中庸平衡、知行合一实践理性，哲学论述气象恢宏)",
             "中国人有时候听孔子，有时候听老子，周易教人算命，王阳明叫人干活。",
             "知行合一被厚德载物在自强不息中庸之道。",
             "中庸之道就是做人没有原则和稀泥。"
@@ -15676,7 +15676,7 @@
         {
           "prompt": "请选出下列中华哲学思辨与现代文明论述中辞章最斐然、思想最深邃的一项：",
           "options": [
-            "先秦诸子争鸣奠定东方哲学基石：孔孟仁爱民本与老庄道法自然相映成辉，周易乾坤之自强不息与厚德载物刚柔相济，阳明心学更以知行合一赋能实践。秉持和而不同与天下为公之胸襟，中华哲学为当代人类文明贡献了历久弥新的东方智慧！(诸子争鸣、仁道相映、乾坤刚柔、知行合一、和而不同天下为公，中华思想体系论述浑然一体) (首选选项在诸子各家精髓熔铸、辩证思维建构与当代文明关怀上达到了当代高级哲学思想论著的最高境界。)",
+            "先秦诸子争鸣奠定东方哲学基石：孔孟仁爱民本与老庄道法自然相映成辉，周易乾坤之自强不息与厚德载物刚柔相济，阳明心学更以知行合一赋能实践。秉持和而不同与天下为公之胸襟，中华哲学为当代人类文明贡献了历久弥新的东方智慧！(诸子争鸣、仁道相映、乾坤刚柔、知行合一、和而不同天下为公，中华思想体系论述浑然一体)",
             "中国哲学很好，孔子老子很厉害，我们要多学习他们的思想建设国家。",
             "知行合一被天下为公在自强不息。",
             "天下为公是指所有财产都不属于任何人谁也别干活。"
@@ -15820,7 +15820,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国戏曲美学系统评析中概念最精准、艺术概括最透彻的一项：",
           "options": [
-            "中国戏曲以「生旦净丑」构建行当谱系，以「唱念做打」与「手眼身步法」熔铸表演功法；通过高度程式化的身段与虚拟写意的舞台调度，达成「一桌二椅演春秋，三五步走遍天下」的超时空自由，确立了东方演剧美学的世界级巅峰！(行当分类准确、四功五法齐备、程式化与虚拟性美学分析精辟入理) (该语段全面概括了戏曲的行当体系、四功五法、程式化规范与虚拟性美学特质，文字典雅流畅。)",
+            "中国戏曲以「生旦净丑」构建行当谱系，以「唱念做打」与「手眼身步法」熔铸表演功法；通过高度程式化的身段与虚拟写意的舞台调度，达成「一桌二椅演春秋，三五步走遍天下」的超时空自由，确立了东方演剧美学的世界级巅峰！(行当分类准确、四功五法齐备、程式化与虚拟性美学分析精辟入理)",
             "京剧就是穿戏服在台上乱跑乱叫，生旦净丑是四个人的名字。",
             "唱念做打被青衣生旦在脸谱虚拟性。",
             "戏曲表演必须完全按照西方写实主义电影的实景来搭舞台。"
@@ -15939,7 +15939,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于文人水墨画美学体系阐发最深刻、艺术品评最精到的一项：",
           "options": [
-            "文人水墨画以谢赫六法之「气韵生动」为灵魂，依托「骨法用笔」与「墨分五色」的无穷变幻构筑意境；秉持「计白当黑」的虚实辩证，在大片留白中包孕天地灵气；更熔「诗、书、画、印」于一体，借物抒情，展现了中国士大夫超然高洁的心性追求！(六法气韵、骨法用笔、墨分五色、计白当黑留白、诗书画印四位一体，文人画美学体系阐发完备精湛) (该语段系统全面地阐释了谢赫六法、笔墨技法、留白辩证法以及诗书画印四位一体的文人画美学体系。)",
+            "文人水墨画以谢赫六法之「气韵生动」为灵魂，依托「骨法用笔」与「墨分五色」的无穷变幻构筑意境；秉持「计白当黑」的虚实辩证，在大片留白中包孕天地灵气；更熔「诗、书、画、印」于一体，借物抒情，展现了中国士大夫超然高洁的心性追求！(六法气韵、骨法用笔、墨分五色、计白当黑留白、诗书画印四位一体，文人画美学体系阐发完备精湛)",
             "画国画就是用黑墨水在宣纸上乱画山水，画得不像就说自己是写意文人画。",
             "计白当黑被墨分五色在气韵生动诗书画印。",
             "文人水墨画必须使用西方透视法则和油画颜料才能算优秀。"
@@ -16056,7 +16056,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列汉字书法史论述中脉络最清晰、审美鉴赏最精准的一项：",
           "options": [
-            "汉字五体演变贯通三千年文明脉络：甲骨金文庄严古朴，秦篆圆劲肃穆，「隶变」化圆为方奠定方块汉字之基；草书如张旭怀素笔走龙蛇抒发狂放浪漫，楷书聚欧颜柳赵立万世法度并铸「颜筋柳骨」；王羲之《兰亭集序》更以行云流水之神韵冠绝天下行书，展现了中华书法无与伦比的笔墨风骨！(五体源流脉络清晰、隶变转折定位精准、书圣名家特色阐发透彻) (该语段将甲金篆隶楷行草五体演变、隶变历史意义、书圣兰亭及颜筋柳骨楷书法度融为一体，论述高度专业精当。)",
+            "汉字五体演变贯通三千年文明脉络：甲骨金文庄严古朴，秦篆圆劲肃穆，「隶变」化圆为方奠定方块汉字之基；草书如张旭怀素笔走龙蛇抒发狂放浪漫，楷书聚欧颜柳赵立万世法度并铸「颜筋柳骨」；王羲之《兰亭集序》更以行云流水之神韵冠绝天下行书，展现了中华书法无与伦比的笔墨风骨！(五体源流脉络清晰、隶变转折定位精准、书圣名家特色阐发透彻)",
             "书法就是毛笔写字，五种字体随便写，王羲之和颜真卿谁字写得大谁就厉害。",
             "隶变被天下第一行书在颜筋柳骨五体。",
             "草书必须一笔一划写得像印刷体一样规整才符合规范。"
@@ -16176,7 +16176,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列文房四宝、篆刻与传统工艺论述中阐发最精妙、内涵最丰富的一项：",
           "options": [
-            "湖笔、徽墨、宣纸与端砚共筑「文房四宝」千古风雅，宣纸纸寿千年、墨韵润泽，奠定水墨永恒载体；金石篆刻运铁笔于方寸之间，朱白交错中尽展秦汉金石气度；从景泰蓝之掐丝点蓝到紫砂之巧夺天工，中华匠人以一生择一事的专注，诠释了道技合一的崇高匠心精神！(文房四宝特性、金石篆刻阴阳朱白艺术、非遗工艺匠心精神融合论述精湛绝伦) (该语段将文房四宝的物态审美、金石篆刻的方寸气象与非遗大国工匠精神进行了全面、准确且高屋建瓴的阐发。)",
+            "湖笔、徽墨、宣纸与端砚共筑「文房四宝」千古风雅，宣纸纸寿千年、墨韵润泽，奠定水墨永恒载体；金石篆刻运铁笔于方寸之间，朱白交错中尽展秦汉金石气度；从景泰蓝之掐丝点蓝到紫砂之巧夺天工，中华匠人以一生择一事的专注，诠释了道技合一的崇高匠心精神！(文房四宝特性、金石篆刻阴阳朱白艺术、非遗工艺匠心精神融合论述精湛绝伦)",
             "文房四宝就是四个写字工具，刻章就是路边刻橡皮图章，匠人就是普通工人干活。",
             "宣纸端砚被朱文白文在景泰蓝工匠精神。",
             "生宣是指完全不吸水的防水纸，专门用来包食物。"
@@ -16266,7 +16266,7 @@
         {
           "prompt": "请选出下列传统艺术综合评析中概括最精辟、辞藻最斐然的一项：",
           "options": [
-            "国粹流芳融会千秋：戏曲生旦净丑虚实写意，水墨气韵生动计白当黑，书法五体演进颜筋柳骨兰亭风流，文房四宝金石印章匠心独运。东方艺术以意构境、神形兼备，铸就了世界艺术之林不朽的璀璨丰碑！(戏曲、水墨、书法、文房金石融会贯通，全景概括中华美学精神) (首选选项将戏曲、水墨、书法、文房金石四大艺术支柱的美学精髓融会贯通，语言典雅博大。)",
+            "国粹流芳融会千秋：戏曲生旦净丑虚实写意，水墨气韵生动计白当黑，书法五体演进颜筋柳骨兰亭风流，文房四宝金石印章匠心独运。东方艺术以意构境、神形兼备，铸就了世界艺术之林不朽的璀璨丰碑！(戏曲、水墨、书法、文房金石融会贯通，全景概括中华美学精神)",
             "中国传统艺术很多，戏曲很好听，水墨画很好看，毛笔字很漂亮。",
             "计白当黑被唱念做打在五体演变匠心独运。",
             "写意水墨画不需要任何基本功只要乱泼墨就能成功。"
@@ -16527,7 +16527,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于老舍文学艺术成就评析最全面、最深刻的一项：",
           "options": [
-            "老舍以精纯纯正的京味口语和悲喜交融的幽默风貌，铸就了现代文学史上独树一帜的市民平民史诗；《骆驼祥子》以祥子的三起三落与彻底沉沦，控诉了吞噬个人奋斗梦想的黑暗旧社会；话剧巨著《茶馆》更以三幕跨越半个世纪的惊人结构，在方寸裕泰茶馆中演尽时代兴亡，堪称「人民艺术家」的不朽丰碑！(京味语言、骆驼祥子三起三落批判、茶馆三幕沧桑史诗与人民艺术家称号，全面深刻) (该语段将老舍京味语言艺术、《骆驼祥子》平民悲剧与《茶馆》三幕剧史诗结构进行了极其透彻的系统概括。)",
+            "老舍以精纯纯正的京味口语和悲喜交融的幽默风貌，铸就了现代文学史上独树一帜的市民平民史诗；《骆驼祥子》以祥子的三起三落与彻底沉沦，控诉了吞噬个人奋斗梦想的黑暗旧社会；话剧巨著《茶馆》更以三幕跨越半个世纪的惊人结构，在方寸裕泰茶馆中演尽时代兴亡，堪称「人民艺术家」的不朽丰碑！(京味语言、骆驼祥子三起三落批判、茶馆三幕沧桑史诗与人民艺术家称号，全面深刻)",
             "老舍就是写北京拉洋车的故事，茶馆就是叫大家去喝茶聊天。",
             "骆驼祥子被京味文学在茶馆三幕剧人民艺术家。",
             "《茶馆》表达了旧社会茶馆老板最终都发财致富的幸福故事。"
@@ -16645,7 +16645,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列张爱玲文学美学体系评析中立意最高妙、洞察最透彻的一项：",
           "options": [
-            "张爱玲融古典《红楼》笔法与现代心理分析于一炉，以「华袍蚤子」奠定苍凉美学之基；《倾城之恋》借香港陷落打破男女世俗利害博弈，成全乱世传奇；《金锁记》以惊心动魄之笔剖析曹七巧黄金枷锁下扭曲异化的人性深渊；精微通感与冷峻洞察相得益彰，堪称海派现代文学的绝代传奇！(古典笔法与现代心理分析融通、苍凉美学立意、倾城之恋与金锁记深度阐析，论断极具穿透力) (该语段系统总结了张爱玲苍凉美学、海派现代主义传奇叙事与心理深渊透视，评析精深独到。)",
+            "张爱玲融古典《红楼》笔法与现代心理分析于一炉，以「华袍蚤子」奠定苍凉美学之基；《倾城之恋》借香港陷落打破男女世俗利害博弈，成全乱世传奇；《金锁记》以惊心动魄之笔剖析曹七巧黄金枷锁下扭曲异化的人性深渊；精微通感与冷峻洞察相得益彰，堪称海派现代文学的绝代传奇！(古典笔法与现代心理分析融通、苍凉美学立意、倾城之恋与金锁记深度阐析，论断极具穿透力)",
             "张爱玲就是喜欢写香港和上海男女谈恋爱的小说，文字花里胡哨喜欢写衣服。",
             "金锁记被倾城之恋在华袍蚤子苍凉美学。",
             "曹七巧是一个充满母爱、把所有家产都无私分给儿女的模范慈母。"
@@ -16763,7 +16763,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于沈从文、曹禺与现代文学流派格局评析最深刻、最精准的一项：",
           "options": [
-            "沈从文《边城》以茶峒古镇为圣境，塑造了翠翠至纯至善的灵魂，谱写了「健康自然不悖于人性」的人性美神曲；曹禺《雷雨》以严密的三一律构架与雷雨之夜的毁灭性冲突，展现了命运捉弄的现代心理悲剧；京派之宁静致远与海派之感官异化交织共鸣，共同构建了二十世纪中国文学辉煌多元的艺术图景！(边城人性神曲、雷雨三一律命运悲剧、京派海派多元格局，评述精辟博大) (该语段将沈从文边城诗意、曹禺雷雨古典戏剧结构与京派海派流派思潮进行了系统严密的整合评析。)",
+            "沈从文《边城》以茶峒古镇为圣境，塑造了翠翠至纯至善的灵魂，谱写了「健康自然不悖于人性」的人性美神曲；曹禺《雷雨》以严密的三一律构架与雷雨之夜的毁灭性冲突，展现了命运捉弄的现代心理悲剧；京派之宁静致远与海派之感官异化交织共鸣，共同构建了二十世纪中国文学辉煌多元的艺术图景！(边城人性神曲、雷雨三一律命运悲剧、京派海派多元格局，评述精辟博大)",
             "边城就是划船的故事，雷雨就是下大雨的故事，现代文学没有什么值得研究的。",
             "雷雨被茶峒在三一律京派海派边城。",
             "《雷雨》表达了周公馆一家人和睦相处、没有任何矛盾的快乐生活。"
@@ -16998,7 +16998,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术论文引言与假说推导语段中语体最规范、逻辑最严密的一项：",
           "options": [
-            "综观既有文献，学界关于数字化转型的探讨多集中于宏观经济效应，鲜有研究深入微观企业组织层面剖析其内在作用机制。有鉴于此，本文立足动态能力理论，构建了多维整合分析框架。基于严密的理论推演，本文提出核心假设：企业数字化转型程度与创新绩效呈显著正相关，且组织敏捷度在其中发挥显著中介效应！(文献梳理规范、学术空白识别精准、承转自然、假说推演逻辑严密，学术汉语典范) (该语段完整展现了现代学术论文引言综述、问题提出、理论依托与假说构建的标准语体，词严义正。)",
+            "综观既有文献，学界关于数字化转型的探讨多集中于宏观经济效应，鲜有研究深入微观企业组织层面剖析其内在作用机制。有鉴于此，本文立足动态能力理论，构建了多维整合分析框架。基于严密的理论推演，本文提出核心假设：企业数字化转型程度与创新绩效呈显著正相关，且组织敏捷度在其中发挥显著中介效应！(文献梳理规范、学术空白识别精准、承转自然、假说推演逻辑严密，学术汉语典范)",
             "大家都在说数字化转型，我也觉得挺重要的，所以我就写了这篇文章来看看能不能赚钱。",
             "数字化转型被呈显著正相关在有鉴于此中介效应。",
             "由于数字化转型非常好，所以所有企业都不需要做任何研究直接成功。"
@@ -17583,7 +17583,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国第五代电影美学批评最深刻、最精准的一项：",
           "options": [
-            "第五代导演以《黄土地》为起点发动了中国电影的美学革命：张艺谋在《红高粱》《大红灯笼高高挂》中以炽热猩红与压抑封闭对称构图，将民俗奇观与身体仪式升华为对宗法礼教的犀利解构；陈凯歌在《霸王别姬》中以「不疯魔不成活」的戏痴执念，将个人悲欢与半世纪历史风云融铸成悲壮史诗，奠定了华语电影在世界影坛的崇高地位！(人物、代表作、色彩造型、对称空间构图与历史反思，批评深度与艺术见解登峰造极) (该语段将第五代导演的代表巨作、色彩造型、封闭构图与历史批判精神融会贯通，是专业电影批评的典范。)",
+            "第五代导演以《黄土地》为起点发动了中国电影的美学革命：张艺谋在《红高粱》《大红灯笼高高挂》中以炽热猩红与压抑封闭对称构图，将民俗奇观与身体仪式升华为对宗法礼教的犀利解构；陈凯歌在《霸王别姬》中以「不疯魔不成活」的戏痴执念，将个人悲欢与半世纪历史风云融铸成悲壮史诗，奠定了华语电影在世界影坛的崇高地位！(人物、代表作、色彩造型、对称空间构图与历史反思，批评深度与艺术见解登峰造极)",
             "第五代导演就是张艺谋一个人拍拍红灯笼，没有什么深刻的文化思考。",
             "第五代电影被霸王别姬在红高粱构图民俗奇观。",
             "第五代导演从来没有获得过任何国际电影节的任何奖项。"
@@ -17700,7 +17700,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于第六代独立电影美学与现实主义转向述评最深刻、最精准的一项：",
           "options": [
-            "第六代导演开启了中国电影的现实主义纪实转向：贾樟柯以故乡汾阳与三峡废墟为地标，以长镜头、现场同期声与非职业演员记录转型期边缘群体的生存阵痛，在《三峡好人》中以超现实神笔摘得威尼斯金狮；王小帅深耕三线家庭个体记忆，娄烨以晃动手持镜头构筑都市欲望迷局。他们以冷峻而深情的影像，为时代变迁中的普通人留下了不可磨灭的真实档案！(贾樟柯、王小帅、娄烨美学风格全景梳理，长镜头、同期声、个体记忆与现实主义深刻剖析) (该语段全面概括了第六代电影的代表导演、纪实视听语言、底层关怀与美学历史贡献，评论精当有力。)",
+            "第六代导演开启了中国电影的现实主义纪实转向：贾樟柯以故乡汾阳与三峡废墟为地标，以长镜头、现场同期声与非职业演员记录转型期边缘群体的生存阵痛，在《三峡好人》中以超现实神笔摘得威尼斯金狮；王小帅深耕三线家庭个体记忆，娄烨以晃动手持镜头构筑都市欲望迷局。他们以冷峻而深情的影像，为时代变迁中的普通人留下了不可磨灭的真实档案！(贾樟柯、王小帅、娄烨美学风格全景梳理，长镜头、同期声、个体记忆与现实主义深刻剖析)",
             "第六代导演拍的电影画面粗糙，没有任何艺术价值。",
             "第六代电影被贾樟柯在三峡好人长镜头超现实主义。",
             "第六代电影全部都是商业搞笑喜剧片。"
@@ -17817,7 +17817,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国电影重工业化与新主流大片述评最全面、最深刻的一项：",
           "options": [
-            "中国电影迎来了工业化重塑与类型创新的黄金时代：《流浪地球》以硬核机械美学与数万视效镜头开辟科幻重工业元年，用「带着地球流浪」诠释深厚的家国眷恋；《封神三部曲》以全流程视效管线树立神话史诗工业标杆；新主流大片以高概念类型法则融合微观平民英雄叙事，在虚拟制片与前沿数字科技赋能下，展现出强劲的文化自信与视效奇观魅力！(科幻重工业、带着地球流浪家国情怀、封神神话工业化、新主流类型叙事与虚拟制片，全景分析精准深刻) (该语段将科幻工业化、新主流平民叙事、神话史诗重塑与前沿视听科技融会贯通，评析精深，气魄宏大。)",
+            "中国电影迎来了工业化重塑与类型创新的黄金时代：《流浪地球》以硬核机械美学与数万视效镜头开辟科幻重工业元年，用「带着地球流浪」诠释深厚的家国眷恋；《封神三部曲》以全流程视效管线树立神话史诗工业标杆；新主流大片以高概念类型法则融合微观平民英雄叙事，在虚拟制片与前沿数字科技赋能下，展现出强劲的文化自信与视效奇观魅力！(科幻重工业、带着地球流浪家国情怀、封神神话工业化、新主流类型叙事与虚拟制片，全景分析精准深刻)",
             "中国电影工业化就是多花钱买外国特效，没有任何自己的文化内涵。",
             "科幻工业化被流浪地球在封神虚拟制片新主流大片。",
             "电影只要有明星脸就行，不需要任何视效工业化标准。"
@@ -17934,7 +17934,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列影视视听语言与审美批评分析中术语最专业、逻辑最严密的一项：",
           "options": [
-            "专业的影视审美批评建立在精密的视听语言解构之上：场面调度通过人物走位与深焦摄影在景深内构建复杂张力；交叉蒙太奇以多线交织加速推进高潮悬念；声画对位更以音画情绪的强烈背离引发深刻的审美间离反思。跳脱单纯的剧情复述，深入视听符码与意识形态细读，方能洞察光影背后的文化真谛！(场面调度、深焦摄影、交叉蒙太奇、声画对位与审美间离，视听语法批评逻辑无懈可击) (该语段将场面调度、深焦摄影、交叉蒙太奇、声画对位与符号学细读有机融合，是专业电影批评的典范。)",
+            "专业的影视审美批评建立在精密的视听语言解构之上：场面调度通过人物走位与深焦摄影在景深内构建复杂张力；交叉蒙太奇以多线交织加速推进高潮悬念；声画对位更以音画情绪的强烈背离引发深刻的审美间离反思。跳脱单纯的剧情复述，深入视听符码与意识形态细读，方能洞察光影背后的文化真谛！(场面调度、深焦摄影、交叉蒙太奇、声画对位与审美间离，视听语法批评逻辑无懈可击)",
             "看电影就是看哪个明星长得好看，特效打得热闹就行，不需要懂什么镜头语言。",
             "深焦摄影被声画对位在交叉蒙太奇场面调度间离效果。",
             "电影的所有镜头都是随便拍的，没有任何艺术构思与符号学意图。"
@@ -18026,7 +18026,7 @@
         {
           "prompt": "请选出下列当代电影审美批评综合论述中立论最高远、概括最透彻的一项：",
           "options": [
-            "光影映照时代精神：第五代以民俗色彩与霸王史诗震撼国际影坛，第六代以纪实长镜头为边缘失语者立传，新主流与硬核科幻以工业重构铸就视效奇观，专业视听批评以文本细读洞悉文化密码。中国影视在历史、现实与未来的交响中展现出崇高的文化自信！(五六代代际、新主流工业化、视听批评全景精辟总结) (首选选项全景融通了第五代、第六代、新主流工业化与视听专业批评，见解深邃，气象恢弘。)",
+            "光影映照时代精神：第五代以民俗色彩与霸王史诗震撼国际影坛，第六代以纪实长镜头为边缘失语者立传，新主流与硬核科幻以工业重构铸就视效奇观，专业视听批评以文本细读洞悉文化密码。中国影视在历史、现实与未来的交响中展现出崇高的文化自信！(五六代代际、新主流工业化、视听批评全景精辟总结)",
             "现在的电影就是只要明星多就能赚钱，不需要任何艺术和文化思考。",
             "光影流年被霸王别姬在三峡好人流浪地球视听语言。",
             "中国电影不需要任何视听批评和理论研究，观众看看笑笑即可。"
@@ -18053,7 +18053,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国影视艺术美学与视听审美批评综合语篇中格局最宏大、论述最透彻、文采最雅正的一项：",
           "options": [
-            "光影如炬，映照时代；视听生辉，淬炼精神。当代中国影视在四十年激荡岁月中谱写了壮丽的美学史诗：第五代以《黄土地》《红高粱》《霸王别姬》之原色造型与封闭对称构图，在戛纳金棕榈中铸就历史反思丰碑；第六代以贾樟柯《小武》《三峡好人》之纪实长镜头与微观凝视，在威尼斯金狮中为转型期普通人铭刻生存尊严；新时代《流浪地球》与新主流大片更以硬核重工业标准、虚拟制片与家国大爱开辟东方视效新纪元。融通深焦调度、交叉蒙太奇与声画对位之视听语法，当代中国电影正以博大的文化自信与卓越的艺术创造力，屹立于世界光影之林！(全景融汇第五代、第六代、新主流科幻工业化与专业视听批评语法，文质兼美，荡气回肠，影评巅峰之作) (该语篇全景贯通第五代、第六代、新主流科幻重工业与视听批评语法体系，思想深邃，气象万千，是当代影视艺术批评的典范杰作。)",
+            "光影如炬，映照时代；视听生辉，淬炼精神。当代中国影视在四十年激荡岁月中谱写了壮丽的美学史诗：第五代以《黄土地》《红高粱》《霸王别姬》之原色造型与封闭对称构图，在戛纳金棕榈中铸就历史反思丰碑；第六代以贾樟柯《小武》《三峡好人》之纪实长镜头与微观凝视，在威尼斯金狮中为转型期普通人铭刻生存尊严；新时代《流浪地球》与新主流大片更以硬核重工业标准、虚拟制片与家国大爱开辟东方视效新纪元。融通深焦调度、交叉蒙太奇与声画对位之视听语法，当代中国电影正以博大的文化自信与卓越的艺术创造力，屹立于世界光影之林！(全景融汇第五代、第六代、新主流科幻工业化与专业视听批评语法，文质兼美，荡气回肠，影评巅峰之作)",
             "中国电影就是以前拍农村现在拍科幻，大家去电影院吃吃爆米花挺高兴的。",
             "光影时代镜像被深焦摄影在金棕榈金狮奖流浪地球。",
             "中国电影完全没有任何国际影响力，也没有出过任何优秀导演。"
@@ -18171,7 +18171,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于宪法根本地位与依宪治国论述中法理最精严、表述最规范的一项：",
           "options": [
-            "宪法是国家的根本大法，具有最高的法律地位、法律权威与法律效力。坚持依法治国首先要坚持依宪治国，坚持依法执政首先要坚持依宪执政。通过完善全流程合宪性审查机制维护法制统一，严格践行「国家尊重和保障人权」的宪法原则，落实就职宪法宣誓制度，确保国家各项事业在宪法轨道上规范运行！(宪法地位、依宪治国执政、合宪审查、人权保障与宪法宣誓全景精辟论述，公法学典范) (该语段系统总结了宪法最高效力、依宪治国原则、合宪审查与人权法治保障，法理清晰，逻辑严谨。)",
+            "宪法是国家的根本大法，具有最高的法律地位、法律权威与法律效力。坚持依法治国首先要坚持依宪治国，坚持依法执政首先要坚持依宪执政。通过完善全流程合宪性审查机制维护法制统一，严格践行「国家尊重和保障人权」的宪法原则，落实就职宪法宣誓制度，确保国家各项事业在宪法轨道上规范运行！(宪法地位、依宪治国执政、合宪审查、人权保障与宪法宣誓全景精辟论述，公法学典范)",
             "宪法就是一本普通的参考书，平时办案根本用不上。",
             "合宪性审查被依宪治国在宪法宣誓人权保障最高效力。",
             "地方政府制定的红头文件效力可以凌驾于国家宪法之上。"
@@ -18288,7 +18288,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于《民法典》体系特征与法治精神评述最准确、最深刻的一项：",
           "options": [
-            "《民法典》作为新时代民事权利宣言书与社会生活百科全书，构建起七编融通的私权保障大厦：恪守诚信与公序良俗基本原则；创设物权编「居住权」以解民生之忧；首创「人格权编」独立成编，对隐私权、肖像权与个人信息构筑严密法治防线；确立侵权惩罚性赔偿遏制恶意侵权。民法典通篇贯穿以人民为中心的法治人文关怀！(七编体系、诚信原则、居住权、人格权独立成编、惩罚性赔偿全景精辟解读) (该语段系统总结了《民法典》的编纂创新、核心编目、基本原则与人文精神，法理见解极具深度。)",
+            "《民法典》作为新时代民事权利宣言书与社会生活百科全书，构建起七编融通的私权保障大厦：恪守诚信与公序良俗基本原则；创设物权编「居住权」以解民生之忧；首创「人格权编」独立成编，对隐私权、肖像权与个人信息构筑严密法治防线；确立侵权惩罚性赔偿遏制恶意侵权。民法典通篇贯穿以人民为中心的法治人文关怀！(七编体系、诚信原则、居住权、人格权独立成编、惩罚性赔偿全景精辟解读)",
             "民法典只管借钱还钱的事，跟老百姓的日常生活和人格尊严没有关系。",
             "民法典被物权编在居住权人格权侵权责任诚信原则。",
             "只要签订了合同，即便违反公序良俗和法律底线也是完全有效的。"
@@ -18405,7 +18405,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于现代刑法基本法理与正当防卫述评最深刻、最精准的一项：",
           "options": [
-            "现代刑法恪守人权保障与惩罚犯罪的双重使命：以罪刑法定原则筑牢「法无明文规定不为罪」的法治底线；以罪责刑相适应原则实现刑罚裁量的实体公正；在正当防卫认定中坚决贯彻「法不能向不法让步」的正义精神，划清防卫过当边界，坚决为见义勇为者撑腰；严格坚持主客观相统一，排除非法证据，严密防范客观归罪！(罪刑法定、罪责刑相适应、法不能向不法让步正当防卫、主客观相统一，刑法精义剖析登峰造极) (该语段将罪刑法定原则、罪责刑相适应、正当防卫理念与证据排除融通一体，评析极其专业透彻。)",
+            "现代刑法恪守人权保障与惩罚犯罪的双重使命：以罪刑法定原则筑牢「法无明文规定不为罪」的法治底线；以罪责刑相适应原则实现刑罚裁量的实体公正；在正当防卫认定中坚决贯彻「法不能向不法让步」的正义精神，划清防卫过当边界，坚决为见义勇为者撑腰；严格坚持主客观相统一，排除非法证据，严密防范客观归罪！(罪刑法定、罪责刑相适应、法不能向不法让步正当防卫、主客观相统一，刑法精义剖析登峰造极)",
             "只要有人受伤，防卫的人就必须承担刑事责任，这叫公平。",
             "罪刑法定被正当防卫在罪责刑相适应法不能向不法让步。",
             "只要法官觉得一个人该判死刑，即便没有法律明文规定也可以判。"
@@ -18523,7 +18523,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于现代司法审判制度、证据法学与程序正义论述最完整、最透彻的一项：",
           "options": [
-            "司法公正依托严密的证据法则与正当程序：证据裁判原则确立了以事实为依据、以法律为准绳的定案准则；刑事审判定罪坚决恪守「排除合理怀疑」的法定证明标准；严格落实非法证据排除规则，从源头上斩断刑讯逼供与冤假错案；坚持审判公开与程序正义，让公平正义以看得见的方式得以实现，筑牢法治社会最后一道坚固防线！(证据裁判、排除合理怀疑、非法证据排除、程序正义全景精准论述) (该语段将证据裁判、排除合理怀疑证明标准、非法证据排除规则与程序正义理念融汇贯通，法理深邃，立论严谨。)",
+            "司法公正依托严密的证据法则与正当程序：证据裁判原则确立了以事实为依据、以法律为准绳的定案准则；刑事审判定罪坚决恪守「排除合理怀疑」的法定证明标准；严格落实非法证据排除规则，从源头上斩断刑讯逼供与冤假错案；坚持审判公开与程序正义，让公平正义以看得见的方式得以实现，筑牢法治社会最后一道坚固防线！(证据裁判、排除合理怀疑、非法证据排除、程序正义全景精准论述)",
             "法官审案只要凭个人主观好恶判决就行，不需要任何证据和法庭质证。",
             "排除合理怀疑被证据裁判在非法证据排除程序正义审判公开。",
             "程序正义就是繁文缛节，为了快速破案完全可以采取任何刑讯手段。"
@@ -18613,7 +18613,7 @@
         {
           "prompt": "请选出下列全面依法治国综合论述中立论最高远、法理最严整的一项：",
           "options": [
-            "法治兴则国兴，良法善治奠定复兴之基：宪法统领依宪治国与人权保障，民法典守护民事私权与人格尊严，刑法严守罪刑法定与正当防卫，司法审判坚持证据裁判与程序正义。科学立法、严格执法、公正司法与全民守法一体推进，谱写中华法治文明辉煌新篇！(宪法、民法典、刑法正义、司法程序与十六字方针全景精辟总结) (首选选项全景融通了宪法、民法典、刑法、司法证据与法治中国总方针，立论高瞻远瞩，法理透彻。)",
+            "法治兴则国兴，良法善治奠定复兴之基：宪法统领依宪治国与人权保障，民法典守护民事私权与人格尊严，刑法严守罪刑法定与正当防卫，司法审判坚持证据裁判与程序正义。科学立法、严格执法、公正司法与全民守法一体推进，谱写中华法治文明辉煌新篇！(宪法、民法典、刑法正义、司法程序与十六字方针全景精辟总结)",
             "法治就是公安局抓小偷，法官随便判判刑，不需要什么高深的法理。",
             "良法善治被依宪治国民法典正当防卫排除合理怀疑。",
             "只要经济发展快，法律制度完善与否完全无关紧要。"
@@ -18757,7 +18757,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于辩论立论架构与破辩战术论述最专业、逻辑最严整的一项：",
           "options": [
-            "高阶辩论是逻辑思维与语言艺术的巅峰对决：立论依托图尔敏六要素模型，以确凿数据与稳固保证支撑核心主张，并以审慎限定防范绝对化漏洞；攻辩交锋以定义争夺为战场，善用归谬法顺推对方荒谬结论，更以「釜底抽薪」直击敌方大前提。在多维价值位阶的理性权衡中，展现出崇高的思辨魅力！(图尔敏模型、限定、定义争夺、归谬法与釜底抽薪全景透彻阐述) (该语段将图尔敏模型、归谬法、釜底抽薪与价值位阶权衡融会贯通，立论精严，术语规范。)",
+            "高阶辩论是逻辑思维与语言艺术的巅峰对决：立论依托图尔敏六要素模型，以确凿数据与稳固保证支撑核心主张，并以审慎限定防范绝对化漏洞；攻辩交锋以定义争夺为战场，善用归谬法顺推对方荒谬结论，更以「釜底抽薪」直击敌方大前提。在多维价值位阶的理性权衡中，展现出崇高的思辨魅力！(图尔敏模型、限定、定义争夺、归谬法与釜底抽薪全景透彻阐述)",
             "辩论就是吵架，谁说话声音大、语速快谁就能赢。",
             "图尔敏模型被归谬法在釜底抽薪定义争夺价值位阶。",
             "辩论不需要任何逻辑推理，只要多背诵名人名言就可以。"
@@ -18874,7 +18874,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于高阶修辞在论辩与演说中综合运用评述最深刻、最精准的一项：",
           "options": [
-            "高阶修辞是论辩思辨与演说魅力的倍增器：排比与层递如排山倒海激荡起磅礴气势；设问与反诘在自问自答与无疑而问中层层剖析本质；通感与借喻打通感官边界，将晦涩法理化作诗性意象；反讽则如手术刀般举重若轻撕碎谬误伪装。修辞与逻辑交相辉映，铸就无坚不摧的语言力量！(排比层递、设问反诘、通感借喻与反讽全景精粹总结，修辞学法理兼备) (该语段系统融汇了排比、层递、设问、通感与反讽修辞在公共演说与辩论中的综合运用，见解独到精辟。)",
+            "高阶修辞是论辩思辨与演说魅力的倍增器：排比与层递如排山倒海激荡起磅礴气势；设问与反诘在自问自答与无疑而问中层层剖析本质；通感与借喻打通感官边界，将晦涩法理化作诗性意象；反讽则如手术刀般举重若轻撕碎谬误伪装。修辞与逻辑交相辉映，铸就无坚不摧的语言力量！(排比层递、设问反诘、通感借喻与反讽全景精粹总结，修辞学法理兼备)",
             "修辞就是堆砌华丽辞藻的空话套话，对辩论逻辑没有任何实质帮助。",
             "排比层递被设问反诘在通感反讽借喻语言杀伤力。",
             "只要修辞好，哪怕逻辑全错也可以在辩论中无往不胜。"
@@ -19108,7 +19108,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于经典哲学辩题解构与价值升华评述最高妙、最深刻的一项：",
           "options": [
-            "华语辩论的最高境界在于对人类永恒命题的哲学反思与价值升华：在义利之辩中实现道德自律与制度激励的统一；在自由与秩序中阐明文明双翼的辩证共生；在知行合一中心悟认识与实践的熔铸。正如狮城舌战以「寻找光明」抚慰时代心灵，高超的辩论绝非逞口舌之利，而是以理性明灯照亮人类前行的道路！(义利、自由秩序、知行合一、狮城决战光明隐喻与结辩升华全景精辟论述) (该语段系统融汇了义利之辩、自由秩序、知行合一与狮城经典结辩，思想深邃，文质兼美。)",
+            "华语辩论的最高境界在于对人类永恒命题的哲学反思与价值升华：在义利之辩中实现道德自律与制度激励的统一；在自由与秩序中阐明文明双翼的辩证共生；在知行合一中心悟认识与实践的熔铸。正如狮城舌战以「寻找光明」抚慰时代心灵，高超的辩论绝非逞口舌之利，而是以理性明灯照亮人类前行的道路！(义利、自由秩序、知行合一、狮城决战光明隐喻与结辩升华全景精辟论述)",
             "辩论就是为了赢奖金拿证书，讨论什么哲学价值都是浪费时间。",
             "黑夜给了我黑色的眼睛被自由秩序在知行合一义利之辩结辩升华。",
             "哲学辩题就是无聊文人的文字游戏，对现实社会毫无指导意义。"
@@ -19198,7 +19198,7 @@
         {
           "prompt": "请选出下列高阶辩论与公共演说综合论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "思辨交锋淬炼真理之光：图尔敏模型与归谬破辩筑牢逻辑大厦，排比反诘与通感反讽激荡修辞浪潮，门罗序列与最大公约数凝聚社会共识，狮城决战光明隐喻升华哲学境界。卓越的公共言说以理性与慈悲照亮人类前行之路！(逻辑模型、修辞格、公关沟通、哲学结辩全景精深贯通) (首选选项全景融通了逻辑立论、修辞艺术、政策沟通与哲学升华四大支柱，立论高远，文质兼美。)",
+            "思辨交锋淬炼真理之光：图尔敏模型与归谬破辩筑牢逻辑大厦，排比反诘与通感反讽激荡修辞浪潮，门罗序列与最大公约数凝聚社会共识，狮城决战光明隐喻升华哲学境界。卓越的公共言说以理性与慈悲照亮人类前行之路！(逻辑模型、修辞格、公关沟通、哲学结辩全景精深贯通)",
             "演说只要动作夸张、表情丰富就能成为演讲大师。",
             "唇枪舌剑被图尔敏模型在排比层递最大公约数狮城决战。",
             "只要口才好，黑的可以说成白的，不需要任何事实依据。"
@@ -19342,7 +19342,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国传统木构营造力学与斗栱美学评述最深刻、最精准的一项：",
           "options": [
-            "东方大木作营造展现出天工开物的力学奇迹：抬梁式开阔宏敞，穿斗式轻巧稳固；榫卯结构以阴阳咬合化解地震晃动，展现柔性抗震的东方智慧；斗栱层层叠涩出挑，化屋顶万钧之重为飞檐翼然的空灵动势；梁思成与林徽因破译北宋《营造法式》模数密码，以佛光寺唐构大殿实证中华千载营建辉煌！(大木作构架、榫卯柔性抗震、斗栱力学美学、营造法式与佛光寺唐构全景精深论述) (该语段将抬梁穿斗、榫卯抗震、斗栱力学与《营造法式》佛光寺唐构考证融汇贯通，建筑学法理深邃精严。)",
+            "东方大木作营造展现出天工开物的力学奇迹：抬梁式开阔宏敞，穿斗式轻巧稳固；榫卯结构以阴阳咬合化解地震晃动，展现柔性抗震的东方智慧；斗栱层层叠涩出挑，化屋顶万钧之重为飞檐翼然的空灵动势；梁思成与林徽因破译北宋《营造法式》模数密码，以佛光寺唐构大殿实证中华千载营建辉煌！(大木作构架、榫卯柔性抗震、斗栱力学美学、营造法式与佛光寺唐构全景精深论述)",
             "中国古建筑全是用石头堆出来的，跟木头没有任何关系。",
             "大木作被榫卯在斗栱营造法式佛光寺抬梁穿斗。",
             "榫卯结构完全不结实，必须用大量钢钉水泥加固才能立起来。"
@@ -19460,7 +19460,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于紫禁城中轴线与儒家礼制空间哲学述评最宏大、最精严的一项：",
           "options": [
-            "北京中轴线与紫禁城是东方礼制空间哲学的至高丰碑：全线恪守《考工记》「面朝后市、左祖右社」之王道法度；前朝三大殿以重檐庑殿金瓦彰显皇权至尊；后廷三宫东西六宫众星拱月，展现家国一体的宗法秩序。择中立国、中正和谐的儒家理想，化作了纵贯七点八公里的壮美空间史诗！(考工记规制、北京中轴线、前朝三大殿、重檐庑殿顶等级与择中而居哲学全景精妙阐述) (该语段系统总结了《考工记》营国制度、北京中轴线规划、重檐庑殿屋顶等级与儒家择中而居哲学，格局恢弘，见解精湛。)",
+            "北京中轴线与紫禁城是东方礼制空间哲学的至高丰碑：全线恪守《考工记》「面朝后市、左祖右社」之王道法度；前朝三大殿以重檐庑殿金瓦彰显皇权至尊；后廷三宫东西六宫众星拱月，展现家国一体的宗法秩序。择中立国、中正和谐的儒家理想，化作了纵贯七点八公里的壮美空间史诗！(考工记规制、北京中轴线、前朝三大殿、重檐庑殿顶等级与择中而居哲学全景精妙阐述)",
             "故宫就是皇帝修来自己一个人住的普通大院子，没有任何规划思想。",
             "紫禁城中轴线被考工记在重檐庑殿太和殿左祖右社择中而居。",
             "古代皇帝建宫殿全凭算命先生一句话，没有任何制度规范。"
@@ -19577,7 +19577,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于江南古典园林文人造园意境与构景手法阐述最高雅、最深刻的一项：",
           "options": [
-            "江南古典园林是东方文人诗画哲思与空间营造的最高结晶：奉计成《园冶》「虽由人作，宛自天开」为圭臬；以水为中心，叠石理水融太湖石「瘦漏透皱」之风骨；善用借景、框景、隔景与漏窗，化有限为无限，达到「移步换景、咫尺山林」的空灵化境。园林是文人寄情山水、安顿灵魂的精神乌托邦！(《园冶》天开美学、太湖石四美、借景框景漏窗、咫尺山林全景精粹论述) (该语段将《园冶》名言、太湖石四美、借景框景手法与咫尺山林文人精神融会贯通，文笔典雅，意境高远。)",
+            "江南古典园林是东方文人诗画哲思与空间营造的最高结晶：奉计成《园冶》「虽由人作，宛自天开」为圭臬；以水为中心，叠石理水融太湖石「瘦漏透皱」之风骨；善用借景、框景、隔景与漏窗，化有限为无限，达到「移步换景、咫尺山林」的空灵化境。园林是文人寄情山水、安顿灵魂的精神乌托邦！(《园冶》天开美学、太湖石四美、借景框景漏窗、咫尺山林全景精粹论述)",
             "江南园林就是几个水池子旁边堆点石头，跟普通公园没有什么区别。",
             "江南古典园林被虽由人作宛自天开借景框景太湖石瘦漏透皱。",
             "园林修得越大越好，里面必须通汽车修高楼才算现代。"
@@ -19695,7 +19695,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国地域传统民居多样性与生态人居智慧评述最深刻、最精准的一项：",
           "options": [
-            "中国传统地域民居生动诠释了因地制宜与人地和谐的营造智慧：皖南徽派以马头墙防火、「四水归堂」聚气纳福，三雕融文人之雅；客家土楼夯生土筑堡垒，聚族和睦而居以御敌防震；北京四合院垂花掩映，在长幼尊卑中藏风聚气；黄土窑洞与西南吊脚楼依山就势、顺应自然。多姿多彩的民居图谱凝结着中华民族诗意栖居的永恒基因！(徽派马头墙四水归堂、客家土楼聚族御敌、四合院垂花礼制、窑洞吊脚楼生态智慧全景融通) (该语段系统融贯了徽派建筑、客家土楼、北京四合院与窑洞吊脚楼的营造特征与生态人居哲学，立论高远，文辞雅正。)",
+            "中国传统地域民居生动诠释了因地制宜与人地和谐的营造智慧：皖南徽派以马头墙防火、「四水归堂」聚气纳福，三雕融文人之雅；客家土楼夯生土筑堡垒，聚族和睦而居以御敌防震；北京四合院垂花掩映，在长幼尊卑中藏风聚气；黄土窑洞与西南吊脚楼依山就势、顺应自然。多姿多彩的民居图谱凝结着中华民族诗意栖居的永恒基因！(徽派马头墙四水归堂、客家土楼聚族御敌、四合院垂花礼制、窑洞吊脚楼生态智慧全景融通)",
             "中国古代老百姓住的房子全国都一模一样，没有任何地方差异。",
             "地域民居被马头墙在四水归堂客家土楼垂花门因地制宜。",
             "所有传统民居都落后破旧，必须全部推倒改建成千篇一律的水泥高楼。"
@@ -19785,7 +19785,7 @@
         {
           "prompt": "请选出下列关于中国传统空间营造体系全景总结中视野最宏阔、法理最精湛的一项：",
           "options": [
-            "东方营建融通木石天工与宇宙秩序：大木作以榫卯斗栱筑牢柔性抗震之脊梁，北京中轴线与紫禁城以考工礼制立帝都纲维，江南园林以《园冶》借景框景筑造咫尺山林，地域民居以徽派马头墙与客家土楼融人居于乡土。千载文脉生动彰显着天人合一的东方空间智慧！(大木作、中轴礼制、文人园林、地域民居与天人合一哲学全景融通) (首选选项全景融贯了大木作、中轴礼制、江南园林与乡土民居，文笔典雅宏伟，极具学术审美深度。)",
+            "东方营建融通木石天工与宇宙秩序：大木作以榫卯斗栱筑牢柔性抗震之脊梁，北京中轴线与紫禁城以考工礼制立帝都纲维，江南园林以《园冶》借景框景筑造咫尺山林，地域民居以徽派马头墙与客家土楼融人居于乡土。千载文脉生动彰显着天人合一的东方空间智慧！(大木作、中轴礼制、文人园林、地域民居与天人合一哲学全景融通)",
             "古代建筑就是木头搭的棚子，容易着火，没有任何艺术价值。",
             "木石天工被榫卯斗栱在中轴线紫禁城园林咫尺山林土楼徽派。",
             "古代所有建筑都是给皇帝一个人修的，老百姓没有任何建筑文化。"
@@ -19929,7 +19929,7 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于多边外交、国际条约法与全球治理述评最精严、最符合国际公法规范的一项：",
           "options": [
-            "多边外交与国际条约法是维系现代全球治理大厦的法治栋梁：恪守《维也纳条约法公约》「条约必须遵守」铁律与强行法效力，坚决反对单边退约与长臂管辖；在联合国安理会框架下，以审慎严谨的序言与执行性条款起草决议，借助穿梭斡旋化解地缘危机；坚持真正的多边主义与主权平等原则，在协商一致中构筑牢固的战略互信！(维也纳公约、条约必须遵守、强行法、安理会决议起草与穿梭斡旋全景精深论述) (该语段系统融贯了《维也纳条约法公约》核心原则、强行法效力、联合国决议起草与多边穿梭斡旋，国际公法语体极具专业深度。)",
+            "多边外交与国际条约法是维系现代全球治理大厦的法治栋梁：恪守《维也纳条约法公约》「条约必须遵守」铁律与强行法效力，坚决反对单边退约与长臂管辖；在联合国安理会框架下，以审慎严谨的序言与执行性条款起草决议，借助穿梭斡旋化解地缘危机；坚持真正的多边主义与主权平等原则，在协商一致中构筑牢固的战略互信！(维也纳公约、条约必须遵守、强行法、安理会决议起草与穿梭斡旋全景精深论述)",
             "国际法就是一纸空文，大国想撕毁条约就撕毁，不需要遵守任何规则。",
             "多边外交被条约必须遵守在联合国安理会穿梭斡旋执行性条款强行法。",
             "只要有了强大的军事力量，就可以完全架空联合国和国际公约。"
@@ -20374,7 +20374,7 @@
         {
           "prompt": "请选出下列关于Fearn汉语全课程体系（34个单元、170讲）登顶总结中立论最宏阔、境界最崇高的一项：",
           "options": [
-            "三十四单元文脉通天，一百七十讲气象万千：从六书语音到诗词曲赋，从法典秩序到思辨演说，从木石天工到天下大同。博大精深的汉语承载着中华民族五千年的生存智慧与现代文明新形态，照亮了人类命运与共的美好未来！(34单元全景回眸、语言文脉、法治营造与天下大同终极宏阔总结) (首选选项全景概括了34个单元全部知识体系与文明格局，立意高远，气吞山河，是终极总结的最佳典范。)",
+            "三十四单元文脉通天，一百七十讲气象万千：从六书语音到诗词曲赋，从法典秩序到思辨演说，从木石天工到天下大同。博大精深的汉语承载着中华民族五千年的生存智慧与现代文明新形态，照亮了人类命运与共的美好未来！(34单元全景回眸、语言文脉、法治营造与天下大同终极宏阔总结)",
             "学汉语就是为了去超市买菜讨价还价，学高级内容完全没有必要。",
             "天下为公被三十四单元在美美与共人类命运共同体天人合一。",
             "语言学完了就只是几本书，跟现实人类文明没有任何关系。"
@@ -20422,7 +20422,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'mandarin', name: "Mandarin", units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'mandarin', name: 'Mandarin', units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['mandarin'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

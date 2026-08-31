@@ -1226,7 +1226,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Left Middle Finger",
             "Left Thumb",
@@ -1382,7 +1382,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Right Index Finger",
             "Right Middle Finger",
@@ -1538,7 +1538,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Left Shift with your Left Thumb",
             "Left Shift with your Left Pinky",
@@ -1694,7 +1694,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Left Pinky on Left Shift + Right Ring Finger on 9",
             "Left Index on Shift + Right Index on 9",
@@ -1852,7 +1852,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Maintain a steady rhythm, use opposite-hand Shift, and trust finger muscle memory without looking down",
             "Stop and look at each symbol before pressing it",
@@ -2009,7 +2009,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Left index finger",
             "Left pinky on Shift",
@@ -2143,7 +2143,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Right pinky holds Shift + Left pinky strikes 1",
             "Right index strikes 1",
@@ -2277,7 +2277,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Right ring finger",
             "Left pinky",
@@ -2411,7 +2411,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Maintaining a steady, uninterrupted metronomic rhythm rather than rushing letters and pausing on symbols",
             "Stopping typing after every line",
@@ -2545,7 +2545,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Top-left key above Tab and left of 1",
             "Right pinky next to Enter",
@@ -2674,7 +2674,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Directly at the exact character being pressed",
             "10 words behind",
@@ -2803,7 +2803,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Pressing keys with the minimum force necessary for switch actuation rather than bottoming out violently, conserving muscular energy",
             "Skipping the spacebar",
@@ -2932,7 +2932,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Typing to rock music only",
             "Changing keyboard layouts mid-sentence",
@@ -3061,7 +3061,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Shift + Space",
             "Ctrl + Backspace",
@@ -3190,7 +3190,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Demonstrate sustained typing stamina, holding 60+ WPM with 98.5%+ accuracy across technical prose without fatigue breakdown",
             "Type as fast as possible for 10 seconds and stop",
@@ -3319,7 +3319,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Pounding the keyboard with maximum physical force",
             "Typing with only the index fingers",
@@ -3448,7 +3448,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Left ring (S) -> Left index (T) -> Left index",
             "Thumb for S and index for T",
@@ -3577,7 +3577,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "2 keystrokes per second",
             "20 keystrokes per second",
@@ -3706,7 +3706,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Use the thumb for Shift",
             "Always hold Shift with the hand OPPOSITE to the finger striking the symbol key",
@@ -3835,7 +3835,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "At least 98.0% accuracy",
             "50% accuracy",
@@ -3964,7 +3964,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "It makes the keyboard sound louder",
             "It uses less electricity",
@@ -4093,7 +4093,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Execute a single Ctrl+Backspace (or Option+Delete on Mac) to delete the whole word and re-type it cleanly in one fluid roll",
             "Restart the entire test from the beginning",
@@ -4222,7 +4222,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Sprint at 150% speed in minute 1 until fingers cramp",
             "Type as slowly as possible for 4 minutes",
@@ -4351,7 +4351,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Running out of words",
             "Looking at the opponent's progress bar instead of maintaining visual lookahead on your own text stream, triggering adrenaline panic and rushed typos",
@@ -4480,7 +4480,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "1. Neutral Floating Biomechanics; 2. 2-3 Word Visual Lookahead; 3. Isochronous Rhythm; 4. Instant Ctrl+Backspace Error Recovery; 5. 99%+ Accuracy Discipline",
             "1. Pounding the keys with force only; 2. Memorizing keyboard pictures",
@@ -4614,7 +4614,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "ZZ",
             "QU",
@@ -4748,7 +4748,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "TIO",
             "AND",
@@ -4882,7 +4882,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "10%",
             "90%",
@@ -5016,7 +5016,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "A song lyric",
             "A sentence that contains every single letter of the alphabet at least once",
@@ -5150,7 +5150,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the most accurate strategic application to solve this challenge:",
+          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
           "options": [
             "Exactly 5 keystrokes",
             "Any word separated by a space regardless of length",

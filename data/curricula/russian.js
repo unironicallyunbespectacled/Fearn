@@ -2,448 +2,448 @@
 (function (global) {
   'use strict';
   var UNITS = [
-    {
-        "id": "u1",
-        "name": "Unit 1",
-        "goal": "By the end of this unit, learners can greet people appropriately and introduce themselves with basic personal details. Grammar/vocabulary focus: Cyrillic alphabet introduction, zero-copula present tense, self-introduction.",
-        "level": "A1",
-        "lessonIds": [
-            "ru-u1-l1",
-            "ru-u1-l2",
-            "ru-u1-l3",
-            "ru-u1-l4",
-            "ru-u1-l5"
-        ]
-    },
-    {
-        "id": "u2",
-        "name": "Unit 2",
-        "goal": "By the end of this unit, learners can state numbers, tell time, and talk about dates and days of the week. Grammar/vocabulary focus: Numbers with case agreement, time, days/months.",
-        "level": "A1",
-        "lessonIds": [
-            "ru-u2-l1",
-            "ru-u2-l2",
-            "ru-u2-l3",
-            "ru-u2-l4",
-            "ru-u2-l5"
-        ]
-    },
-    {
-        "id": "u3",
-        "name": "Unit 3",
-        "goal": "By the end of this unit, learners can describe their immediate family and other people using simple sentences. Grammar/vocabulary focus: Family vocabulary, nominative and genitive case introduction (possession).",
-        "level": "A1",
-        "lessonIds": [
-            "ru-u3-l1",
-            "ru-u3-l2",
-            "ru-u3-l3",
-            "ru-u3-l4",
-            "ru-u3-l5"
-        ]
-    },
-    {
-        "id": "u4",
-        "name": "Unit 4",
-        "goal": "By the end of this unit, learners can form basic present-tense sentences describing states and actions. Grammar/vocabulary focus: Present-tense conjugation (1st & 2nd conjugation verbs), case system overview.",
-        "level": "A1",
-        "lessonIds": [
-            "ru-u4-l1",
-            "ru-u4-l2",
-            "ru-u4-l3",
-            "ru-u4-l4",
-            "ru-u4-l5"
-        ]
-    },
-    {
-        "id": "u5",
-        "name": "Unit 5",
-        "goal": "By the end of this unit, learners can describe a typical daily routine using common action verbs. Grammar/vocabulary focus: Daily-routine reflexive verbs (-ся), accusative case for direct objects.",
-        "level": "A1",
-        "lessonIds": [
-            "ru-u5-l1",
-            "ru-u5-l2",
-            "ru-u5-l3",
-            "ru-u5-l4",
-            "ru-u5-l5"
-        ]
-    },
-    {
-        "id": "u6",
-        "name": "Unit 6",
-        "goal": "By the end of this unit, learners can order food and drink and talk about likes and dislikes at a basic level. Grammar/vocabulary focus: Food vocabulary, genitive with quantity, ordering.",
-        "level": "A1",
-        "lessonIds": [
-            "ru-u6-l1",
-            "ru-u6-l2",
-            "ru-u6-l3",
-            "ru-u6-l4",
-            "ru-u6-l5"
-        ]
-    },
-    {
-        "id": "u7",
-        "name": "Unit 7",
-        "goal": "By the end of this unit, learners can narrate simple completed past events. Grammar/vocabulary focus: Past tense (gender-agreeing), aspect introduction (perfective vs. imperfective).",
-        "level": "A2",
-        "lessonIds": [
-            "ru-u7-l1",
-            "ru-u7-l2",
-            "ru-u7-l3",
-            "ru-u7-l4",
-            "ru-u7-l5"
-        ]
-    },
-    {
-        "id": "u8",
-        "name": "Unit 8",
-        "goal": "By the end of this unit, learners can shop for goods, discuss prices, and compare items. Grammar/vocabulary focus: Shopping, instrumental case introduction, comparatives.",
-        "level": "A2",
-        "lessonIds": [
-            "ru-u8-l1",
-            "ru-u8-l2",
-            "ru-u8-l3",
-            "ru-u8-l4",
-            "ru-u8-l5"
-        ]
-    },
-    {
-        "id": "u9",
-        "name": "Unit 9",
-        "goal": "By the end of this unit, learners can ask for and give directions and describe how to get somewhere. Grammar/vocabulary focus: Prepositional case for location, directions, motion verbs (идти/ехать).",
-        "level": "A2",
-        "lessonIds": [
-            "ru-u9-l1",
-            "ru-u9-l2",
-            "ru-u9-l3",
-            "ru-u9-l4",
-            "ru-u9-l5"
-        ]
-    },
-    {
-        "id": "u10",
-        "name": "Unit 10",
-        "goal": "By the end of this unit, learners can describe their home and daily surroundings in more detail. Grammar/vocabulary focus: Dative case, describing home.",
-        "level": "A2",
-        "lessonIds": [
-            "ru-u10-l1",
-            "ru-u10-l2",
-            "ru-u10-l3",
-            "ru-u10-l4",
-            "ru-u10-l5"
-        ]
-    },
-    {
-        "id": "u11",
-        "name": "Unit 11",
-        "goal": "By the end of this unit, learners can talk about health, body parts, and give simple medical descriptions. Grammar/vocabulary focus: Body vocabulary, у меня болит construction, нужно/должен obligation.",
-        "level": "A2",
-        "lessonIds": [
-            "ru-u11-l1",
-            "ru-u11-l2",
-            "ru-u11-l3",
-            "ru-u11-l4",
-            "ru-u11-l5"
-        ]
-    },
-    {
-        "id": "u12",
-        "name": "Unit 12",
-        "goal": "By the end of this unit, learners can discuss future plans and describe the weather. Grammar/vocabulary focus: Future tense (imperfective future + perfective future), weather.",
-        "level": "A2",
-        "lessonIds": [
-            "ru-u12-l1",
-            "ru-u12-l2",
-            "ru-u12-l3",
-            "ru-u12-l4",
-            "ru-u12-l5"
-        ]
-    },
-    {
-        "id": "u13",
-        "name": "Unit 13",
-        "goal": "By the end of this unit, learners can talk about their job or studies and ongoing actions. Grammar/vocabulary focus: Aspect pairs deep dive, work/study vocabulary, знать vs. уметь.",
-        "level": "B1",
-        "lessonIds": [
-            "ru-u13-l1",
-            "ru-u13-l2",
-            "ru-u13-l3",
-            "ru-u13-l4",
-            "ru-u13-l5"
-        ]
-    },
-    {
-        "id": "u14",
-        "name": "Unit 14",
-        "goal": "By the end of this unit, learners can express opinions and preferences with simple justification. Grammar/vocabulary focus: Opinion verbs, case review through opinion statements.",
-        "level": "B1",
-        "lessonIds": [
-            "ru-u14-l1",
-            "ru-u14-l2",
-            "ru-u14-l3",
-            "ru-u14-l4",
-            "ru-u14-l5"
-        ]
-    },
-    {
-        "id": "u15",
-        "name": "Unit 15",
-        "goal": "By the end of this unit, learners can plan a trip and describe past travel experiences. Grammar/vocabulary focus: Travel vocabulary, verbs-of-motion prefixes, experiences.",
-        "level": "B1",
-        "lessonIds": [
-            "ru-u15-l1",
-            "ru-u15-l2",
-            "ru-u15-l3",
-            "ru-u15-l4",
-            "ru-u15-l5"
-        ]
-    },
-    {
-        "id": "u16",
-        "name": "Unit 16",
-        "goal": "By the end of this unit, learners can discuss hypothetical situations and simple conditions. Grammar/vocabulary focus: Conditional бы, hypotheticals.",
-        "level": "B1",
-        "lessonIds": [
-            "ru-u16-l1",
-            "ru-u16-l2",
-            "ru-u16-l3",
-            "ru-u16-l4",
-            "ru-u16-l5"
-        ]
-    },
-    {
-        "id": "u17",
-        "name": "Unit 17",
-        "goal": "By the end of this unit, learners can understand and discuss media content and report what others said. Grammar/vocabulary focus: Passive/reflexive-passive voice, media vocabulary, reported speech.",
-        "level": "B1",
-        "lessonIds": [
-            "ru-u17-l1",
-            "ru-u17-l2",
-            "ru-u17-l3",
-            "ru-u17-l4",
-            "ru-u17-l5"
-        ]
-    },
-    {
-        "id": "u18",
-        "name": "Unit 18",
-        "goal": "By the end of this unit, learners can talk about relationships and emotions in more nuanced ways. Grammar/vocabulary focus: Full case-system review via relationships vocabulary, imperative mood.",
-        "level": "B1",
-        "lessonIds": [
-            "ru-u18-l1",
-            "ru-u18-l2",
-            "ru-u18-l3",
-            "ru-u18-l4",
-            "ru-u18-l5"
-        ]
-    },
-    {
-        "id": "u19",
-        "name": "Unit 19",
-        "goal": "By the end of this unit, learners can debate abstract topics and support opinions with reasons. Grammar/vocabulary focus: Subjunctive-like бы constructions for doubt, debate connectors.",
-        "level": "B2",
-        "lessonIds": [
-            "ru-u19-l1",
-            "ru-u19-l2",
-            "ru-u19-l3",
-            "ru-u19-l4",
-            "ru-u19-l5"
-        ]
-    },
-    {
-        "id": "u20",
-        "name": "Unit 20",
-        "goal": "By the end of this unit, learners can adjust tone and vocabulary between formal and informal contexts. Grammar/vocabulary focus: Formal вы vs. informal ты register.",
-        "level": "B2",
-        "lessonIds": [
-            "ru-u20-l1",
-            "ru-u20-l2",
-            "ru-u20-l3",
-            "ru-u20-l4",
-            "ru-u20-l5"
-        ]
-    },
-    {
-        "id": "u21",
-        "name": "Unit 21",
-        "goal": "By the end of this unit, learners can report what someone else said and narrate complex event sequences. Grammar/vocabulary focus: Reported speech, indirect questions.",
-        "level": "B2",
-        "lessonIds": [
-            "ru-u21-l1",
-            "ru-u21-l2",
-            "ru-u21-l3",
-            "ru-u21-l4",
-            "ru-u21-l5"
-        ]
-    },
-    {
-        "id": "u22",
-        "name": "Unit 22",
-        "goal": "By the end of this unit, learners can discuss more complex hypothetical and counterfactual situations. Grammar/vocabulary focus: Advanced бы conditionals, counterfactuals.",
-        "level": "B2",
-        "lessonIds": [
-            "ru-u22-l1",
-            "ru-u22-l2",
-            "ru-u22-l3",
-            "ru-u22-l4",
-            "ru-u22-l5"
-        ]
-    },
-    {
-        "id": "u23",
-        "name": "Unit 23",
-        "goal": "By the end of this unit, learners can discuss environmental and social issues with supporting detail. Grammar/vocabulary focus: Passive voice for social commentary, environment vocabulary.",
-        "level": "B2",
-        "lessonIds": [
-            "ru-u23-l1",
-            "ru-u23-l2",
-            "ru-u23-l3",
-            "ru-u23-l4",
-            "ru-u23-l5"
-        ]
-    },
-    {
-        "id": "u24",
-        "name": "Unit 24",
-        "goal": "By the end of this unit, learners can use common idiomatic expressions naturally in conversation. Grammar/vocabulary focus: Idiomatic expressions.",
-        "level": "B2",
-        "lessonIds": [
-            "ru-u24-l1",
-            "ru-u24-l2",
-            "ru-u24-l3",
-            "ru-u24-l4",
-            "ru-u24-l5"
-        ]
-    },
-    {
-        "id": "u25",
-        "name": "Unit 25",
-        "goal": "By the end of this unit, learners can construct nuanced arguments with supporting and opposing viewpoints. Grammar/vocabulary focus: Advanced connectors (тем не менее, следовательно).",
-        "level": "C1",
-        "lessonIds": [
-            "ru-u25-l1",
-            "ru-u25-l2",
-            "ru-u25-l3",
-            "ru-u25-l4",
-            "ru-u25-l5"
-        ]
-    },
-    {
-        "id": "u26",
-        "name": "Unit 26",
-        "goal": "By the end of this unit, learners can use professional and academic language appropriately in writing and speech. Grammar/vocabulary focus: Professional/academic register.",
-        "level": "C1",
-        "lessonIds": [
-            "ru-u26-l1",
-            "ru-u26-l2",
-            "ru-u26-l3",
-            "ru-u26-l4",
-            "ru-u26-l5"
-        ]
-    },
-    {
-        "id": "u27",
-        "name": "Unit 27",
-        "goal": "By the end of this unit, learners can analyze literary and cultural texts and discuss their meaning. Grammar/vocabulary focus: Literary analysis (Pushkin, Chekhov excerpts).",
-        "level": "C1",
-        "lessonIds": [
-            "ru-u27-l1",
-            "ru-u27-l2",
-            "ru-u27-l3",
-            "ru-u27-l4",
-            "ru-u27-l5"
-        ]
-    },
-    {
-        "id": "u28",
-        "name": "Unit 28",
-        "goal": "By the end of this unit, learners can use a wide range of idioms and proverbs accurately. Grammar/vocabulary focus: Advanced idioms and пословицы.",
-        "level": "C1",
-        "lessonIds": [
-            "ru-u28-l1",
-            "ru-u28-l2",
-            "ru-u28-l3",
-            "ru-u28-l4",
-            "ru-u28-l5"
-        ]
-    },
-    {
-        "id": "u29",
-        "name": "Unit 29",
-        "goal": "By the end of this unit, learners can use discourse markers to structure extended, natural-sounding speech. Grammar/vocabulary focus: Discourse markers (кстати, в общем).",
-        "level": "C1",
-        "lessonIds": [
-            "ru-u29-l1",
-            "ru-u29-l2",
-            "ru-u29-l3",
-            "ru-u29-l4",
-            "ru-u29-l5"
-        ]
-    },
-    {
-        "id": "u30",
-        "name": "Unit 30",
-        "goal": "By the end of this unit, learners can understand native-speed humor, wordplay, and slang. Grammar/vocabulary focus: Native slang, humor.",
-        "level": "C2",
-        "lessonIds": [
-            "ru-u30-l1",
-            "ru-u30-l2",
-            "ru-u30-l3",
-            "ru-u30-l4",
-            "ru-u30-l5"
-        ]
-    },
-    {
-        "id": "u31",
-        "name": "Unit 31",
-        "goal": "By the end of this unit, learners can understand and use specialized legal, medical, and technical vocabulary. Grammar/vocabulary focus: Legal, medical, and technical vocabulary.",
-        "level": "C2",
-        "lessonIds": [
-            "ru-u31-l1",
-            "ru-u31-l2",
-            "ru-u31-l3",
-            "ru-u31-l4",
-            "ru-u31-l5"
-        ]
-    },
-    {
-        "id": "u32",
-        "name": "Unit 32",
-        "goal": "By the end of this unit, learners can construct persuasive, rhetorically effective arguments. Grammar/vocabulary focus: Rhetorical persuasion structures.",
-        "level": "C2",
-        "lessonIds": [
-            "ru-u32-l1",
-            "ru-u32-l2",
-            "ru-u32-l3",
-            "ru-u32-l4",
-            "ru-u32-l5"
-        ]
-    },
-    {
-        "id": "u33",
-        "name": "Unit 33",
-        "goal": "By the end of this unit, learners can recognize and adapt to dialectal and sociolinguistic variation. Grammar/vocabulary focus: Dialect and sociolect variation.",
-        "level": "C2",
-        "lessonIds": [
-            "ru-u33-l1",
-            "ru-u33-l2",
-            "ru-u33-l3",
-            "ru-u33-l4",
-            "ru-u33-l5"
-        ]
-    },
-    {
-        "id": "u34",
-        "name": "Unit 34",
-        "goal": "By the end of this unit, learners can synthesize all prior skills to communicate with near-native fluency across contexts. Grammar/vocabulary focus: Capstone: mixed-register fluency synthesis project.",
-        "level": "C2",
-        "lessonIds": [
-            "ru-u34-l1",
-            "ru-u34-l2",
-            "ru-u34-l3",
-            "ru-u34-l4",
-            "ru-u34-l5"
-        ]
-    }
+  {
+    "id": "u1",
+    "name": "Unit 1",
+    "goal": "By the end of this unit, learners can greet people appropriately and introduce themselves with basic personal details. Grammar/vocabulary focus: Cyrillic alphabet introduction, zero-copula present tense, self-introduction.",
+    "level": "A1",
+    "lessonIds": [
+      "ru-u1-l1",
+      "ru-u1-l2",
+      "ru-u1-l3",
+      "ru-u1-l4",
+      "ru-u1-l5"
+    ]
+  },
+  {
+    "id": "u2",
+    "name": "Unit 2",
+    "goal": "By the end of this unit, learners can state numbers, tell time, and talk about dates and days of the week. Grammar/vocabulary focus: Numbers with case agreement, time, days/months.",
+    "level": "A1",
+    "lessonIds": [
+      "ru-u2-l1",
+      "ru-u2-l2",
+      "ru-u2-l3",
+      "ru-u2-l4",
+      "ru-u2-l5"
+    ]
+  },
+  {
+    "id": "u3",
+    "name": "Unit 3",
+    "goal": "By the end of this unit, learners can describe their immediate family and other people using simple sentences. Grammar/vocabulary focus: Family vocabulary, nominative and genitive case introduction (possession).",
+    "level": "A1",
+    "lessonIds": [
+      "ru-u3-l1",
+      "ru-u3-l2",
+      "ru-u3-l3",
+      "ru-u3-l4",
+      "ru-u3-l5"
+    ]
+  },
+  {
+    "id": "u4",
+    "name": "Unit 4",
+    "goal": "By the end of this unit, learners can form basic present-tense sentences describing states and actions. Grammar/vocabulary focus: Present-tense conjugation (1st & 2nd conjugation verbs), case system overview.",
+    "level": "A1",
+    "lessonIds": [
+      "ru-u4-l1",
+      "ru-u4-l2",
+      "ru-u4-l3",
+      "ru-u4-l4",
+      "ru-u4-l5"
+    ]
+  },
+  {
+    "id": "u5",
+    "name": "Unit 5",
+    "goal": "By the end of this unit, learners can describe a typical daily routine using common action verbs. Grammar/vocabulary focus: Daily-routine reflexive verbs (-ся), accusative case for direct objects.",
+    "level": "A1",
+    "lessonIds": [
+      "ru-u5-l1",
+      "ru-u5-l2",
+      "ru-u5-l3",
+      "ru-u5-l4",
+      "ru-u5-l5"
+    ]
+  },
+  {
+    "id": "u6",
+    "name": "Unit 6",
+    "goal": "By the end of this unit, learners can order food and drink and talk about likes and dislikes at a basic level. Grammar/vocabulary focus: Food vocabulary, genitive with quantity, ordering.",
+    "level": "A1",
+    "lessonIds": [
+      "ru-u6-l1",
+      "ru-u6-l2",
+      "ru-u6-l3",
+      "ru-u6-l4",
+      "ru-u6-l5"
+    ]
+  },
+  {
+    "id": "u7",
+    "name": "Unit 7",
+    "goal": "By the end of this unit, learners can narrate simple completed past events. Grammar/vocabulary focus: Past tense (gender-agreeing), aspect introduction (perfective vs. imperfective).",
+    "level": "A2",
+    "lessonIds": [
+      "ru-u7-l1",
+      "ru-u7-l2",
+      "ru-u7-l3",
+      "ru-u7-l4",
+      "ru-u7-l5"
+    ]
+  },
+  {
+    "id": "u8",
+    "name": "Unit 8",
+    "goal": "By the end of this unit, learners can shop for goods, discuss prices, and compare items. Grammar/vocabulary focus: Shopping, instrumental case introduction, comparatives.",
+    "level": "A2",
+    "lessonIds": [
+      "ru-u8-l1",
+      "ru-u8-l2",
+      "ru-u8-l3",
+      "ru-u8-l4",
+      "ru-u8-l5"
+    ]
+  },
+  {
+    "id": "u9",
+    "name": "Unit 9",
+    "goal": "By the end of this unit, learners can ask for and give directions and describe how to get somewhere. Grammar/vocabulary focus: Prepositional case for location, directions, motion verbs (идти/ехать).",
+    "level": "A2",
+    "lessonIds": [
+      "ru-u9-l1",
+      "ru-u9-l2",
+      "ru-u9-l3",
+      "ru-u9-l4",
+      "ru-u9-l5"
+    ]
+  },
+  {
+    "id": "u10",
+    "name": "Unit 10",
+    "goal": "By the end of this unit, learners can describe their home and daily surroundings in more detail. Grammar/vocabulary focus: Dative case, describing home.",
+    "level": "A2",
+    "lessonIds": [
+      "ru-u10-l1",
+      "ru-u10-l2",
+      "ru-u10-l3",
+      "ru-u10-l4",
+      "ru-u10-l5"
+    ]
+  },
+  {
+    "id": "u11",
+    "name": "Unit 11",
+    "goal": "By the end of this unit, learners can talk about health, body parts, and give simple medical descriptions. Grammar/vocabulary focus: Body vocabulary, у меня болит construction, нужно/должен obligation.",
+    "level": "A2",
+    "lessonIds": [
+      "ru-u11-l1",
+      "ru-u11-l2",
+      "ru-u11-l3",
+      "ru-u11-l4",
+      "ru-u11-l5"
+    ]
+  },
+  {
+    "id": "u12",
+    "name": "Unit 12",
+    "goal": "By the end of this unit, learners can discuss future plans and describe the weather. Grammar/vocabulary focus: Future tense (imperfective future + perfective future), weather.",
+    "level": "A2",
+    "lessonIds": [
+      "ru-u12-l1",
+      "ru-u12-l2",
+      "ru-u12-l3",
+      "ru-u12-l4",
+      "ru-u12-l5"
+    ]
+  },
+  {
+    "id": "u13",
+    "name": "Unit 13",
+    "goal": "By the end of this unit, learners can talk about their job or studies and ongoing actions. Grammar/vocabulary focus: Aspect pairs deep dive, work/study vocabulary, знать vs. уметь.",
+    "level": "B1",
+    "lessonIds": [
+      "ru-u13-l1",
+      "ru-u13-l2",
+      "ru-u13-l3",
+      "ru-u13-l4",
+      "ru-u13-l5"
+    ]
+  },
+  {
+    "id": "u14",
+    "name": "Unit 14",
+    "goal": "By the end of this unit, learners can express opinions and preferences with simple justification. Grammar/vocabulary focus: Opinion verbs, case review through opinion statements.",
+    "level": "B1",
+    "lessonIds": [
+      "ru-u14-l1",
+      "ru-u14-l2",
+      "ru-u14-l3",
+      "ru-u14-l4",
+      "ru-u14-l5"
+    ]
+  },
+  {
+    "id": "u15",
+    "name": "Unit 15",
+    "goal": "By the end of this unit, learners can plan a trip and describe past travel experiences. Grammar/vocabulary focus: Travel vocabulary, verbs-of-motion prefixes, experiences.",
+    "level": "B1",
+    "lessonIds": [
+      "ru-u15-l1",
+      "ru-u15-l2",
+      "ru-u15-l3",
+      "ru-u15-l4",
+      "ru-u15-l5"
+    ]
+  },
+  {
+    "id": "u16",
+    "name": "Unit 16",
+    "goal": "By the end of this unit, learners can discuss hypothetical situations and simple conditions. Grammar/vocabulary focus: Conditional бы, hypotheticals.",
+    "level": "B1",
+    "lessonIds": [
+      "ru-u16-l1",
+      "ru-u16-l2",
+      "ru-u16-l3",
+      "ru-u16-l4",
+      "ru-u16-l5"
+    ]
+  },
+  {
+    "id": "u17",
+    "name": "Unit 17",
+    "goal": "By the end of this unit, learners can understand and discuss media content and report what others said. Grammar/vocabulary focus: Passive/reflexive-passive voice, media vocabulary, reported speech.",
+    "level": "B1",
+    "lessonIds": [
+      "ru-u17-l1",
+      "ru-u17-l2",
+      "ru-u17-l3",
+      "ru-u17-l4",
+      "ru-u17-l5"
+    ]
+  },
+  {
+    "id": "u18",
+    "name": "Unit 18",
+    "goal": "By the end of this unit, learners can talk about relationships and emotions in more nuanced ways. Grammar/vocabulary focus: Full case-system review via relationships vocabulary, imperative mood.",
+    "level": "B1",
+    "lessonIds": [
+      "ru-u18-l1",
+      "ru-u18-l2",
+      "ru-u18-l3",
+      "ru-u18-l4",
+      "ru-u18-l5"
+    ]
+  },
+  {
+    "id": "u19",
+    "name": "Unit 19",
+    "goal": "By the end of this unit, learners can debate abstract topics and support opinions with reasons. Grammar/vocabulary focus: Subjunctive-like бы constructions for doubt, debate connectors.",
+    "level": "B2",
+    "lessonIds": [
+      "ru-u19-l1",
+      "ru-u19-l2",
+      "ru-u19-l3",
+      "ru-u19-l4",
+      "ru-u19-l5"
+    ]
+  },
+  {
+    "id": "u20",
+    "name": "Unit 20",
+    "goal": "By the end of this unit, learners can adjust tone and vocabulary between formal and informal contexts. Grammar/vocabulary focus: Formal вы vs. informal ты register.",
+    "level": "B2",
+    "lessonIds": [
+      "ru-u20-l1",
+      "ru-u20-l2",
+      "ru-u20-l3",
+      "ru-u20-l4",
+      "ru-u20-l5"
+    ]
+  },
+  {
+    "id": "u21",
+    "name": "Unit 21",
+    "goal": "By the end of this unit, learners can report what someone else said and narrate complex event sequences. Grammar/vocabulary focus: Reported speech, indirect questions.",
+    "level": "B2",
+    "lessonIds": [
+      "ru-u21-l1",
+      "ru-u21-l2",
+      "ru-u21-l3",
+      "ru-u21-l4",
+      "ru-u21-l5"
+    ]
+  },
+  {
+    "id": "u22",
+    "name": "Unit 22",
+    "goal": "By the end of this unit, learners can discuss more complex hypothetical and counterfactual situations. Grammar/vocabulary focus: Advanced бы conditionals, counterfactuals.",
+    "level": "B2",
+    "lessonIds": [
+      "ru-u22-l1",
+      "ru-u22-l2",
+      "ru-u22-l3",
+      "ru-u22-l4",
+      "ru-u22-l5"
+    ]
+  },
+  {
+    "id": "u23",
+    "name": "Unit 23",
+    "goal": "By the end of this unit, learners can discuss environmental and social issues with supporting detail. Grammar/vocabulary focus: Passive voice for social commentary, environment vocabulary.",
+    "level": "B2",
+    "lessonIds": [
+      "ru-u23-l1",
+      "ru-u23-l2",
+      "ru-u23-l3",
+      "ru-u23-l4",
+      "ru-u23-l5"
+    ]
+  },
+  {
+    "id": "u24",
+    "name": "Unit 24",
+    "goal": "By the end of this unit, learners can use common idiomatic expressions naturally in conversation. Grammar/vocabulary focus: Idiomatic expressions.",
+    "level": "B2",
+    "lessonIds": [
+      "ru-u24-l1",
+      "ru-u24-l2",
+      "ru-u24-l3",
+      "ru-u24-l4",
+      "ru-u24-l5"
+    ]
+  },
+  {
+    "id": "u25",
+    "name": "Unit 25",
+    "goal": "By the end of this unit, learners can construct nuanced arguments with supporting and opposing viewpoints. Grammar/vocabulary focus: Advanced connectors (тем не менее, следовательно).",
+    "level": "C1",
+    "lessonIds": [
+      "ru-u25-l1",
+      "ru-u25-l2",
+      "ru-u25-l3",
+      "ru-u25-l4",
+      "ru-u25-l5"
+    ]
+  },
+  {
+    "id": "u26",
+    "name": "Unit 26",
+    "goal": "By the end of this unit, learners can use professional and academic language appropriately in writing and speech. Grammar/vocabulary focus: Professional/academic register.",
+    "level": "C1",
+    "lessonIds": [
+      "ru-u26-l1",
+      "ru-u26-l2",
+      "ru-u26-l3",
+      "ru-u26-l4",
+      "ru-u26-l5"
+    ]
+  },
+  {
+    "id": "u27",
+    "name": "Unit 27",
+    "goal": "By the end of this unit, learners can analyze literary and cultural texts and discuss their meaning. Grammar/vocabulary focus: Literary analysis (Pushkin, Chekhov excerpts).",
+    "level": "C1",
+    "lessonIds": [
+      "ru-u27-l1",
+      "ru-u27-l2",
+      "ru-u27-l3",
+      "ru-u27-l4",
+      "ru-u27-l5"
+    ]
+  },
+  {
+    "id": "u28",
+    "name": "Unit 28",
+    "goal": "By the end of this unit, learners can use a wide range of idioms and proverbs accurately. Grammar/vocabulary focus: Advanced idioms and пословицы.",
+    "level": "C1",
+    "lessonIds": [
+      "ru-u28-l1",
+      "ru-u28-l2",
+      "ru-u28-l3",
+      "ru-u28-l4",
+      "ru-u28-l5"
+    ]
+  },
+  {
+    "id": "u29",
+    "name": "Unit 29",
+    "goal": "By the end of this unit, learners can use discourse markers to structure extended, natural-sounding speech. Grammar/vocabulary focus: Discourse markers (кстати, в общем).",
+    "level": "C1",
+    "lessonIds": [
+      "ru-u29-l1",
+      "ru-u29-l2",
+      "ru-u29-l3",
+      "ru-u29-l4",
+      "ru-u29-l5"
+    ]
+  },
+  {
+    "id": "u30",
+    "name": "Unit 30",
+    "goal": "By the end of this unit, learners can understand native-speed humor, wordplay, and slang. Grammar/vocabulary focus: Native slang, humor.",
+    "level": "C2",
+    "lessonIds": [
+      "ru-u30-l1",
+      "ru-u30-l2",
+      "ru-u30-l3",
+      "ru-u30-l4",
+      "ru-u30-l5"
+    ]
+  },
+  {
+    "id": "u31",
+    "name": "Unit 31",
+    "goal": "By the end of this unit, learners can understand and use specialized legal, medical, and technical vocabulary. Grammar/vocabulary focus: Legal, medical, and technical vocabulary.",
+    "level": "C2",
+    "lessonIds": [
+      "ru-u31-l1",
+      "ru-u31-l2",
+      "ru-u31-l3",
+      "ru-u31-l4",
+      "ru-u31-l5"
+    ]
+  },
+  {
+    "id": "u32",
+    "name": "Unit 32",
+    "goal": "By the end of this unit, learners can construct persuasive, rhetorically effective arguments. Grammar/vocabulary focus: Rhetorical persuasion structures.",
+    "level": "C2",
+    "lessonIds": [
+      "ru-u32-l1",
+      "ru-u32-l2",
+      "ru-u32-l3",
+      "ru-u32-l4",
+      "ru-u32-l5"
+    ]
+  },
+  {
+    "id": "u33",
+    "name": "Unit 33",
+    "goal": "By the end of this unit, learners can recognize and adapt to dialectal and sociolinguistic variation. Grammar/vocabulary focus: Dialect and sociolect variation.",
+    "level": "C2",
+    "lessonIds": [
+      "ru-u33-l1",
+      "ru-u33-l2",
+      "ru-u33-l3",
+      "ru-u33-l4",
+      "ru-u33-l5"
+    ]
+  },
+  {
+    "id": "u34",
+    "name": "Unit 34",
+    "goal": "By the end of this unit, learners can synthesize all prior skills to communicate with near-native fluency across contexts. Grammar/vocabulary focus: Capstone: mixed-register fluency synthesis project.",
+    "level": "C2",
+    "lessonIds": [
+      "ru-u34-l1",
+      "ru-u34-l2",
+      "ru-u34-l3",
+      "ru-u34-l4",
+      "ru-u34-l5"
+    ]
+  }
 ];
   var LESSONS = {
   "ru-u1-l1": {
@@ -516,10 +516,10 @@
         {
           "prompt": "Which Cyrillic letter looks like the Latin \"P\" but is pronounced as a rolled [r] sound?",
           "options": [
-            "Р",
-            "В",
-            "Н",
-            "С"
+            "Р (Er - rolling r sound)",
+            "В (Russian reading)",
+            "Н (Russian reading)",
+            "С (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "Cyrillic «Р» corresponds to the rolled [r] sound."
@@ -618,10 +618,10 @@
         {
           "prompt": "Select the 3-letter Cyrillic word meaning \"house / home\" spelled with «Д», «О», «М»:",
           "options": [
-            "ДОМ",
-            "ДА",
-            "ГДЕ",
-            "КОТ"
+            "ДОМ (dom - house)",
+            "ДА (Russian reading)",
+            "ГДЕ (Russian reading)",
+            "КОТ (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Д» [d] + «О» [o] + «М» [m] = «ДОМ» (*dom* - house/home)."
@@ -633,10 +633,10 @@
         {
           "prompt": "Which Cyrillic consonant looks like a beetle with six legs and makes the voiced sound [zh] (as in \"measure\")?",
           "options": [
-            "Ж",
-            "Д",
-            "Б",
-            "Г"
+            "Ж (zhe [zh])",
+            "Д (Russian reading)",
+            "Б (Russian reading)",
+            "Г (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Ж» represents the voiced post-alveolar fricative [zh]."
@@ -644,10 +644,10 @@
         {
           "prompt": "Identify the Cyrillic word meaning \"where\" spelled with «Г», «Д», and «Е»:",
           "options": [
-            "ГДЕ",
-            "БРАТ",
-            "ПАРК",
-            "ДОМ"
+            "ГДЕ (gde - where)",
+            "БРАТ (Russian reading)",
+            "ПАРК (Russian reading)",
+            "ДОМ (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Г» [g] + «Д» [d] + «Е» [ye] = «ГДЕ» (*gde* - where)."
@@ -660,10 +660,10 @@
           "type": "multiple-choice",
           "prompt": "Which Cyrillic word means \"brother\" in Russian?",
           "options": [
-            "БРАТ",
-            "ДОМ",
-            "КОТ",
-            "ПАРК"
+            "БРАТ (brat - brother)",
+            "ДОМ (Russian reading)",
+            "КОТ (Russian reading)",
+            "ПАРК (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«БРАТ» (*brat*) means brother."
@@ -735,10 +735,10 @@
         {
           "prompt": "Which 1-letter Cyrillic word means \"I\" (first-person pronoun)?",
           "options": [
-            "Я",
-            "ОН",
-            "МЫ",
-            "ТЫ"
+            "Я (ya - first person pronoun I)",
+            "ОН (Russian reading)",
+            "МЫ (Russian reading)",
+            "ТЫ (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Я» (*ya*) is the first-person singular pronoun \"I\"."
@@ -761,10 +761,10 @@
         {
           "prompt": "Identify the Cyrillic word meaning \"day\" with a soft final «нь»:",
           "options": [
-            "ДЕНЬ",
-            "ДОМ",
-            "ДРУГ",
-            "ДА"
+            "ДЕНЬ (den' - day)",
+            "ДОМ (Russian reading)",
+            "ДРУГ (Russian reading)",
+            "ДА (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«ДЕНЬ» (*den'*) means day."
@@ -777,10 +777,10 @@
           "type": "multiple-choice",
           "prompt": "Which pronoun means \"we\" in Russian?",
           "options": [
-            "МЫ",
-            "ВЫ",
-            "ОНИ",
-            "ОН"
+            "МЫ (my - first person plural pronoun we)",
+            "ВЫ (Russian reading)",
+            "ОНИ (Russian reading)",
+            "ОН (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«МЫ» (*my*) means \"we\"."
@@ -841,10 +841,10 @@
         {
           "prompt": "Which Russian greeting is the standard respectful formal expression for \"Hello\" when addressing a teacher, elder, or client?",
           "options": [
-            "Здравствуйте!",
-            "Привет!",
-            "Пока!",
-            "Спасибо!"
+            "Здравствуйте! (Zdravstvuyte - Hello formal)",
+            "Привет! (Russian reading)",
+            "Пока! (Russian reading)",
+            "Спасибо! (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Здравствуйте!» (*Zdravstvuyte*) is the universal respectful formal greeting."
@@ -852,10 +852,10 @@
         {
           "prompt": "Which Cyrillic letter represents the \"ts\" sound (as in \"cats\")?",
           "options": [
-            "Ц",
-            "Ч",
-            "Ш",
-            "Щ"
+            "Ц (tse [ts])",
+            "Ч (Russian reading)",
+            "Ш (Russian reading)",
+            "Щ (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Ц» represents the alveolar affricate [ts]."
@@ -867,10 +867,10 @@
         {
           "prompt": "Select the standard Russian word for expressing gratitude (\"Thank you!\"):",
           "options": [
-            "Спасибо!",
-            "Пожалуйста!",
-            "До свидания!",
-            "Привет!"
+            "Спасибо! (Spasibo - Thank you)",
+            "Пожалуйста! (Russian reading)",
+            "До свидания! (Russian reading)",
+            "Привет! (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Спасибо!» (*Spasibo*) means \"Thank you!\"."
@@ -878,10 +878,10 @@
         {
           "prompt": "Which phrase is the standard formal way to say \"Goodbye\" in Russian?",
           "options": [
-            "До свидания!",
-            "Пока!",
-            "Привет!",
-            "Здравствуйте!"
+            "До свидания! (Do svidaniya - Goodbye)",
+            "Пока! (Russian reading)",
+            "Привет! (Russian reading)",
+            "Здравствуйте! (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«До свидания!» (*Do svidaniya*) means \"Goodbye!\"."
@@ -894,10 +894,10 @@
           "type": "multiple-choice",
           "prompt": "Which casual word is used among close friends for \"Hi / Hello\"?",
           "options": [
-            "Привет!",
-            "Здравствуйте!",
-            "До свидания!",
-            "Спасибо!"
+            "Привет! (Privet - Hi informal)",
+            "Здравствуйте! (Russian reading)",
+            "До свидания! (Russian reading)",
+            "Спасибо! (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Привет!» (*Privet*) is the friendly informal greeting."
@@ -959,10 +959,10 @@
         {
           "prompt": "Which construction is used in Russian to say \"My name is...\"?",
           "options": [
-            "Меня зовут...",
-            "Я зовут...",
-            "Мой имя есть...",
-            "Меня есть..."
+            "Меня зовут... (Menya zovut - My name is)",
+            "Я зовут... (Russian reading)",
+            "Мой имя есть... (Russian reading)",
+            "Меня есть... (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Меня зовут...» (*Menya zovut...*) is the standard authentic construction."
@@ -970,10 +970,10 @@
         {
           "prompt": "How do you politely ask a stranger or professor their name in formal Russian?",
           "options": [
-            "Как вас зовут?",
-            "Как тебя зовут?",
-            "Кто ты?",
-            "Где дом?"
+            "Как вас зовут? (Kak vas zovut - What is your name formal)",
+            "Как тебя зовут? (Russian reading)",
+            "Кто ты? (Russian reading)",
+            "Где дом? (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Как вас зовут?» (*Kak vas zovut?*) uses the polite plural/formal pronoun form «вас»."
@@ -985,10 +985,10 @@
         {
           "prompt": "Select the polite phrase meaning \"Pleased to meet you!\" upon an introduction:",
           "options": [
-            "Очень приятно!",
-            "До свидания!",
-            "Спасибо!",
-            "Пожалуйста!"
+            "Очень приятно! (Ochen priyatno - Pleased to meet you)",
+            "До свидания! (Russian reading)",
+            "Спасибо! (Russian reading)",
+            "Пожалуйста! (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "«Очень приятно!» (*Ochen' priyatno!*) means \"Pleased to meet you!\"."
@@ -1012,10 +1012,10 @@
           "type": "multiple-choice",
           "prompt": "What is the correct formal response when introduced to a new colleague who says «Очень приятно!»?",
           "options": [
-            "Очень приятно! / Взаимно!",
-            "Пока!",
-            "Где кот?",
-            "Нет, спасибо!"
+            "Очень приятно! / Взаимно! (Ochen priyatno / Vzaimno - Pleased to meet you / Likewise)",
+            "Пока! (Russian reading)",
+            "Где кот? (Russian reading)",
+            "Нет, спасибо! (Russian reading)"
           ],
           "answerIndex": 0,
           "explanation": "Responding with «Очень приятно!» or «Взаимно!» is the correct etiquette."
@@ -1107,7 +1107,7 @@
           "type": "multiple-choice",
           "prompt": "Какое предложение иллюстрирует безупречное падежное согласование числительных с существительными?",
           "options": [
-            "У меня один брат, две сестры и пять друзей.) (1 брат (им. ед.), 2 сестры",
+            "У меня один брат, две сестры и пять друзей.), 2 сестры",
             "У меня один братьев, две сестра и пять друг.",
             "У меня один брата, две рублей и пять сестра."
           ],
@@ -1201,7 +1201,7 @@
           "type": "multiple-choice",
           "prompt": "Какой вариант правильно отражает согласование в ряду: 21, 24, 25 (книга)?",
           "options": [
-            "21 книга, 24 книги, 25 книг) (21 книга (им. ед.), 24 книги (род. ед.), 25 к",
+            "21 книга, 24 книги, 25 книг), 24 книги (род. ед.), 25 к",
             "21 книг, 24 книга, 25 книги",
             "21 книги, 24 книг, 25 книга"
           ],
@@ -1295,7 +1295,7 @@
           "type": "multiple-choice",
           "prompt": "Какая тройка форм времени построена абсолютно грамматически верно?",
           "options": [
-            "Один час, два часа, пять часов (1 час (им. ед.), 2 часа (род. ед.), 5 часов (род. мн.).",
+            "Один час, два часа, пять часов (1 час (им. ед.), 2 часа (род. ед.), 5 часов (род. мн.).)",
             "Один часов, два час, пять часа",
             "Один часа, два часов, пять час"
           ],
@@ -1577,7 +1577,7 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все три существительных распределены по родам в строгом порядке: мужской род — женский род — средний род?",
           "options": [
-            "Брат — сестра — письмо) (Брат (мужской род), сестра (женский род), пис",
+            "Брат — сестра — письмо), сестра (женский род), пис",
             "Окно — мама — папа",
             "Книга — стол — море"
           ],
@@ -1671,7 +1671,7 @@
           "type": "multiple-choice",
           "prompt": "Какая реплика демонстрирует безупречное согласование вопроса и притяжательного местоимения?",
           "options": [
-            "— Чья это комната? — Это наша светлая комната.) (Комната (женский род) → вопрос «Чья?» → ответ",
+            "— Чья это комната? — Это наша светлая комната.) → вопрос «Чья?» → ответ",
             "— Чей это комната? — Это наше светлая комната.",
             "— Чьё это комната? — Это мой светлая комната."
           ],
@@ -1859,7 +1859,7 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте пара «утверждение — отрицание» построена грамматически безупречно?",
           "options": [
-            "У меня есть билет. ↔ У меня нет билета.) (Есть билет (именительный падеж) ↔ нет билета",
+            "У меня есть билет. ↔ У меня нет билета.) ↔ нет билета",
             "У меня есть билет. ↔ У меня нет билет.",
             "У меня есть билета. ↔ У меня нет билету."
           ],
@@ -2615,7 +2615,7 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все существительные в форме винительного падежа употреблены правильно?",
           "options": [
-            "Я читаю книгу, слушаю музыку, пью воду и смотрю фильм) (Книгу (-у), музыку (-у), воду (-у) — женский",
+            "Я читаю книгу, слушаю музыку, пью воду и смотрю фильм), музыку (-у), воду (-у) — женский",
             "Я читаю книга, слушаю музыка, пью вода и смотрю фильма",
             "Я читаю книгой, слушаю музыке, пью воде и смотрю фильму"
           ],
@@ -2709,7 +2709,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении правило одушевленности применено абсолютно безупречно?",
           "options": [
-            "Я вижу красивый парк (неодуш.) и жду хорошего друга (одуш.).) («Парк» (неодушевлённое) совпадает с им. п., «",
+            "Я вижу красивый парк (неодуш.) и жду хорошего друга (одуш.).) совпадает с им. п., «",
             "Я вижу красивого парк и жду хороший друг.",
             "Я вижу красивому парку и жду хорошему другу."
           ],
@@ -2882,7 +2882,7 @@
         {
           "prompt": "Как грамматически безупречно построить предложение «In the evening after work I read a book and drink tea»?",
           "options": [
-            "Вечером после работы я читаю книгу и пью чай.) («Вечером» (наречие времени), «после работы»",
+            "Вечером после работы я читаю книгу и пью чай.), «после работы»",
             "Вечером после работы я читает книга и пьёт чая.",
             "Вечер после работа я читаю книге и пью чаю."
           ],
@@ -3179,7 +3179,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении конструкция симпатии и согласования построена безупречно?",
           "options": [
-            "Мне нравится борщ, а моим друзьям нравятся блины.) («Мне нравится борщ» (ед. ч.) и «друзьям нравя",
+            "Мне нравится борщ, а моим друзьям нравятся блины.) и «друзьям нравя",
             "Мне нравятся борщ, а моим друзьям нравится блины.",
             "Меня нравится борщ, а моих друзей нравятся блины."
           ],
@@ -3469,7 +3469,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все формы прошедшего времени согласованы верно по роду и числу?",
           "options": [
-            "Отец читал газету, мама готовила ужин, а дети играли.) («Отец читал» (м. р.), «мама готовила»",
+            "Отец читал газету, мама готовила ужин, а дети играли.), «мама готовила»",
             "Отец читала газету, мама читал ужин, а дети играл.",
             "Отец читали газету, мама готовило ужин, а дети играла."
           ],
@@ -3657,7 +3657,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении различие между процессом (НСВ) и результатом (СВ) показано абсолютно точно?",
           "options": [
-            "Весь вечер я учил новые слова и выучил их все.) («Весь вечер учил» (длительный процесс, НСВ) и",
+            "Весь вечер я учил новые слова и выучил их все.) и",
             "Весь вечер я выучил новые слова и учил их все.",
             "Весь вечер я учить новые слова и выучить их."
           ],
@@ -3830,7 +3830,7 @@
         {
           "prompt": "Как грамматически безупречно передать предложение «Yesterday was a good day, we relaxed and watched a movie»?",
           "options": [
-            "Вчера был хороший день, мы отдыхали и посмотрели фильм.) («День» — мужской род («был хороший день»), дл",
+            "Вчера был хороший день, мы отдыхали и посмотрели фильм.), дл",
             "Вчера была хороший день, мы отдыхал и посмотрел фильм.",
             "Вчера было хороший день, мы отдыхало и посмотрело фильм."
           ],
@@ -3924,7 +3924,7 @@
         {
           "prompt": "Как грамматически корректно сказать «We are now at the concert in the theater»?",
           "options": [
-            "Мы сейчас на концерте в театре.) («На концерте» (мероприятие) и «в театре»",
+            "Мы сейчас на концерте в театре.) и «в театре»",
             "Мы сейчас в концерте на театре.",
             "Мы сейчас на концерт в театр."
           ],
@@ -3939,7 +3939,7 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все существительные в предложном падеже согласованы абсолютно верно?",
           "options": [
-            "В университете, на площади, в здании, в музее) («В университете» (-е), «на площади» (-и), «в",
+            "В университете, на площади, в здании, в музее), «на площади» (-и), «в",
             "В университети, на площаде, в зданье, в музеи",
             "На университете, в площади, на здании, на музее"
           ],
@@ -4127,7 +4127,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении пространственные конструкции согласованы абсолютно точно?",
           "options": [
-            "Банк находится рядом с метро, напротив красивого парка.) («Рядом с метро» (тв. п.) и «напротив красивог",
+            "Банк находится рядом с метро, напротив красивого парка.) и «напротив красивог",
             "Банк находится рядом метро, напротив красивый парк.",
             "Банк находится рядом к метро, напротив о красивом парке."
           ],
@@ -4221,7 +4221,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении средства передвижения и глаголы движения согласованы абсолютно грамотно?",
           "options": [
-            "Вчера мы ехали на метро, а потом шли пешком до гостиницы.) («Ехали на метро» (транспорт) и «шли пешком»",
+            "Вчера мы ехали на метро, а потом шли пешком до гостиницы.) и «шли пешком»",
             "Вчера мы шли на метро, а потом ехали пешком до гостиницы.",
             "Вчера мы ехали в метр, а потом шли на пешком до гостиницы."
           ],
@@ -4413,7 +4413,7 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все прилагательные согласованы с существительными абсолютно правильно?",
           "options": [
-            "Новый костюм, белая рубашка, синее пальто, удобные туфли) («Новый костюм» (м. р.), «белая рубашка»",
+            "Новый костюм, белая рубашка, синее пальто, удобные туфли), «белая рубашка»",
             "Новая костюм, белый рубашка, синяя пальто, удобный туфли",
             "Новое костюм, белое рубашка, синий пальто, удобная туфли"
           ],
@@ -4492,7 +4492,7 @@
         {
           "prompt": "Как грамматически корректно описать «A green jacket and brown boots»?",
           "options": [
-            "зелёная куртка и коричневые ботинки) («Зелёная куртка» (ж. р.) и «коричневые ботинк",
+            "зелёная куртка и коричневые ботинки) и «коричневые ботинк",
             "зелёный куртка и коричневая ботинки",
             "зелёное куртка и коричневый ботинки"
           ],
@@ -4507,7 +4507,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении названия одежды и цвета согласованы идеально?",
           "options": [
-            "Он купил серый пиджак, чёрные брюки и белую футболку.) («Серый пиджак» (м. р.), «чёрные брюки»",
+            "Он купил серый пиджак, чёрные брюки и белую футболку.), «чёрные брюки»",
             "Он купил серая пиджак, чёрный брюки и белое футболку.",
             "Он купил серое пиджак, чёрная брюки и белый футболку."
           ],
@@ -4586,7 +4586,7 @@
         {
           "prompt": "Как грамматически корректно сказать «She is trying on a blue skirt and a white sweater»?",
           "options": [
-            "Она примеряет синюю юбку и белый свитер.) («Синюю юбку» (ж. р., вин. п.) и «белый свитер",
+            "Она примеряет синюю юбку и белый свитер.) и «белый свитер",
             "Она примеряет синяя юбка и белого свитера.",
             "Она примеряет синей юбке и белом свитере."
           ],
@@ -4601,7 +4601,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все формы винительного падежа при покупке употреблены абсолютно правильно?",
           "options": [
-            "Вчера я купил тёплую куртку, новый шарф и чёрные перчатки.) («Тёплую куртку» (-ую/-у), «новый шарф»",
+            "Вчера я купил тёплую куртку, новый шарф и чёрные перчатки.), «новый шарф»",
             "Вчера я купил тёплая куртка, нового шарфа и чёрных перчаток.",
             "Вчера я купил тёплой куртке, новым шарфом и чёрными перчатками."
           ],
@@ -4868,7 +4868,7 @@
         {
           "prompt": "Как правильно назвать по-русски «Throat, chest, and stomach»?",
           "options": [
-            "горло, грудь и живот («Горло» (throat), «грудь» (chest), «живот» (stomach).",
+            "горло, грудь и живот («Горло» (throat), «грудь» (chest), «живот» (stomach).)",
             "горло, спина и голова",
             "шея, рука и нога"
           ],
@@ -4883,7 +4883,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все названия частей тела грамматически безупречны?",
           "options": [
-            "У спортсмена сильные ноги, широкие плечи и здоровое сердце.) («Сильные ноги» (мн. ч.), «широкие плечи»",
+            "У спортсмена сильные ноги, широкие плечи и здоровое сердце.), «широкие плечи»",
             "У спортсмена сильные ноги, широкие плеча и здоровый сердце.",
             "У спортсмена сильный ноги, широкий плечи и здоровое сердца."
           ],
@@ -4977,7 +4977,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении симптомы недомогания согласованы абсолютно правильно?",
           "options": [
-            "У меня болит горло, болят глаза и поднялась температура.) («Болит горло» (ед. ч.), «болят глаза»",
+            "У меня болит горло, болят глаза и поднялась температура.), «болят глаза»",
             "У меня болят горло, болит глаза и поднялся температура.",
             "У меня болеет горло, болеют глаза и поднялось температура."
           ],
@@ -5071,7 +5071,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении конструкции состояния и возраста употреблены абсолютно верно?",
           "options": [
-            "Ей двадцать пять лет, и сегодня ей немного нездоровится.) («Ей двадцать пять лет» (возраст, дат. п.) и «",
+            "Ей двадцать пять лет, и сегодня ей немного нездоровится.) и «",
             "Она двадцать пять лет, и сегодня её немного нездоровится.",
             "У неё двадцать пять лет, и сегодня она плохо."
           ],
@@ -5136,7 +5136,7 @@
         {
           "prompt": "Как переводится на русский язык указание «Take after meals»?",
           "options": [
-            "принимать после еды (предлог «после» + род. п.)) («После еды» (after meals) — стандартное медиц",
+            "принимать после еды (предлог «после» + род. п.)) — стандартное медиц",
             "принимать до еды",
             "принимать вместо еды"
           ],
@@ -5357,7 +5357,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все лексико-грамматические формы досуга согласованы безупречно?",
           "options": [
-            "В свободное время она изучает иностранные языки и увлекается фотографией.) («В свободное время» (вин. п. времени) + «изуч",
+            "В свободное время она изучает иностранные языки и увлекается фотографией.) + «изуч",
             "В свободное время она изучает иностранных языках и увлекается фото.",
             "В свободном времени она учить языки и увлекает фотографией."
           ],
@@ -5451,7 +5451,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении управление глагола «играть» соблюдено абсолютно верно в обеих частях?",
           "options": [
-            "Днём они играли в теннис, а вечером играли на гитаре у костра.) («Играли в теннис» (игра, в + вин. п.) и «игра",
+            "Днём они играли в теннис, а вечером играли на гитаре у костра.) и «игра",
             "Днём они играли на теннис, а вечером играли в гитару у костра.",
             "Днём они играли в теннисе, а вечером играли на гитару у костра."
           ],
@@ -5545,7 +5545,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении формы творительного падежа образованы безупречно?",
           "options": [
-            "Они регулярно занимаются утренним бегом, йогой и плаванием.) («Бегом» (м. р.), «йогой» (ж. р.), «плаванием»",
+            "Они регулярно занимаются утренним бегом, йогой и плаванием.), «йогой» (ж. р.), «плаванием»",
             "Они регулярно занимаются утренний бег, йога и плавание.",
             "Они регулярно занимаются утреннем бегу, йогу и плаванию."
           ],
@@ -5733,7 +5733,7 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все грамматические формы досуга и согласование падежей безупречны?",
           "options": [
-            "— Чем ты увлекаешься? — Я занимаюсь плаванием и играю на гитаре. — Отлично, давай на выходных сходим на концерт!) («Занимаюсь плаванием» (тв. п.), «играю на гит",
+            "— Чем ты увлекаешься? — Я занимаюсь плаванием и играю на гитаре. — Отлично, давай на выходных сходим на концерт!), «играю на гит",
             "— Чем ты увлекаешься? — Я занимаюсь плавание и играю в гитаре. — Отлично, давай на выходных сходим к концерту!",
             "— Чем ты увлекаешься? — Я занимаюсь о плавании и играю гитару. — Отлично, давай выходным сходим в концерт!"
           ],
@@ -5827,7 +5827,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все предложно-падежные формы транспорта образованы безошибочно?",
           "options": [
-            "Они поехали на скоростном поезде, а затем пересели на такси и метро.) («На скоростном поезде» (предл. п.) + несклоня",
+            "Они поехали на скоростном поезде, а затем пересели на такси и метро.) + несклоня",
             "Они поехали в скоростном поезд, а затем пересели на таксие и метре.",
             "Они поехали скоростным поездом, а затем пересели к такси и на метру."
           ],
@@ -5921,7 +5921,7 @@
           "type": "multiple-choice",
           "prompt": "В каком объявлении все транспортные термины и падежные окончания согласованы верно?",
           "options": [
-            "Внимание! Скоростной поезд прибывает на третий путь второй платформы.) («Прибывает на третий путь (вин. п.) второй пл",
+            "Внимание! Скоростной поезд прибывает на третий путь второй платформы.) второй пл",
             "Внимание! Скоростной поезд прибывает к третий путь в вторую платформу.",
             "Внимание! Скоростной поезд прибывает на третьем пути второй платформе."
           ],
@@ -6015,7 +6015,7 @@
           "type": "multiple-choice",
           "prompt": "Какая формулировка при покупке билета на поезд грамматически и лексически безупречна?",
           "options": [
-            "Будьте добры, один билет до Казани в купе, нижняя полка, туда и обратно.) («Билет до Казани (род. п.) в купе (нескл.), н",
+            "Будьте добры, один билет до Казани в купе, нижняя полка, туда и обратно.) в купе (нескл.), н",
             "Будьте добры, один билет к Казани на купеем, нижняя полок, туда.",
             "Будьте добры, один билет в Казань до купы, нижнему месту, вокруг."
           ],
@@ -6188,7 +6188,7 @@
         {
           "prompt": "Как грамматически корректно спросить дорогу от вокзала до гостиницы?",
           "options": [
-            "Как добраться от вокзала до гостиницы?) («От вокзала (род. п.) до гостиницы (род. п.)»",
+            "Как добраться от вокзала до гостиницы?) до гостиницы (род. п.)»",
             "Как добраться с вокзал в гостиницу?",
             "Как доехать к вокзалу о гостинице?"
           ],
@@ -6579,7 +6579,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении глаголы руководства и ответственности употреблены без грамматических ошибок?",
           "options": [
-            "Директор руководит крупным отделом и отвечает за выполнение годового плана.) («Руководит крупным отделом» (твор. п.), «отве",
+            "Директор руководит крупным отделом и отвечает за выполнение годового плана.), «отве",
             "Директор руководит крупный отдел и отвечает о выполнении годового плана.",
             "Директор руководит крупному отделу и отвечает за выполнением годового плана."
           ],
@@ -6673,7 +6673,7 @@
           "type": "multiple-choice",
           "prompt": "В каком ответе соискателя на собеседовании все падежные формы употреблены правильно?",
           "options": [
-            "Я работал менеджером, руководил сложным проектом и свободно владею иностранным языком.) («Работал менеджером» (твор. п.), «руководил п",
+            "Я работал менеджером, руководил сложным проектом и свободно владею иностранным языком.), «руководил п",
             "Я работал менеджер, руководил сложный проект и свободно владею иностранный язык.",
             "Я работал менеджеру, руководил сложному проекту и свободно владею об иностранном языке."
           ],
@@ -6767,7 +6767,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении глаголы «идти / ходить / ехать / ездить» использованы абсолютно корректно?",
           "options": [
-            "Сейчас мы едем в Петербург, а каждое лето ездим на Чёрное море.) («Сейчас едем» (в данный момент) и «каждое лет",
+            "Сейчас мы едем в Петербург, а каждое лето ездим на Чёрное море.) и «каждое лет",
             "Сейчас мы ездим в Петербург, а каждое лето едем на Чёрное море.",
             "Сейчас мы ходим в Петербург, а каждое лето идём на Чёрное море."
           ],
@@ -6955,7 +6955,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении глаголы «нести / везти / вести» использованы в точном соответствии со смыслом?",
           "options": [
-            "Турист несёт рюкзак, такси везёт чемоданы, а экскурсовод ведёт группу.) («Несёт рюкзак» (в руках/на себе), «везёт чемо",
+            "Турист несёт рюкзак, такси везёт чемоданы, а экскурсовод ведёт группу.), «везёт чемо",
             "Турист везёт рюкзак в руках, такси несёт чемоданы, а экскурсовод возит группу пешком.",
             "Турист водит рюкзак, такси носит чемоданы, а экскурсовод несёт группу."
           ],
@@ -7145,7 +7145,7 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все формы глаголов движения употреблены без ошибок?",
           "options": [
-            "— Куда вы едете? — Сейчас мы едем в аэропорт: летим на Байкал, а там поплывём на остров на катере.) («Едете / едем» (в данный момент), «летим»",
+            "— Куда вы едете? — Сейчас мы едем в аэропорт: летим на Байкал, а там поплывём на остров на катере.), «летим»",
             "— Куда вы ездите? — Сейчас мы ездим в аэропорт: летаем на Байкал, а там плаваем на остров.",
             "— Куда вы идёте на машине? — Сейчас мы ходим в аэропорт: плывём на Байкал на самолёте."
           ],
@@ -7318,7 +7318,7 @@
         {
           "prompt": "Как сказать «The tour began two days ago»?",
           "options": [
-            "Экскурсия началась два дня назад. («Два дня назад» обозначает время действия в прошлом.) (Освоить временные конструкции с винительным падежом)",
+            "Экскурсия началась два дня назад. («Два дня назад» обозначает время действия в прошлом.)",
             "Экскурсия началась через два дня.",
             "Экскурсия началась на два дня."
           ],
@@ -7333,7 +7333,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении конструкции «через» и «назад» употреблены грамматически корректно?",
           "options": [
-            "Пять минут назад начался дождь, но через час небо снова станет ясным. («Пять минут назад» (прошлое), «через час» (будущее).) (Освоить временные конструкции с винительным падежом)",
+            "Пять минут назад начался дождь, но через час небо снова станет ясным. («Пять минут назад» (прошлое), «через час» (будущее).)",
             "Пять минут через начался дождь, но назад час небо снова станет ясным.",
             "Пяти минутам назад начался дождь, но к часу небо снова станет ясным."
           ],
@@ -7396,9 +7396,9 @@
         {
           "prompt": "Как сказать «We reached the lake in two hours (with result)»?",
           "options": [
-            "Мы доехали до озера за два часа. (Освоить временные конструкции) (Освоить временные конструкции)",
-            "Мы доехали до озера на два часа. (Освоить временные конструкции) (Освоить временные конструкции)",
-            "Мы доехали до озера во время двух часов. (Освоить временные конструкции) (Освоить временные конструкции)"
+            "Мы доехали до озера за два часа. (Освоить временные конструкции)",
+            "Мы доехали до озера на два часа. (Освоить временные конструкции)",
+            "Мы доехали до озера во время двух часов. (Освоить временные конструкции)"
           ],
           "answerIndex": 0,
           "explanation": "Срок достижения завершённого результата передаётся предлогом «за» + винительный падеж."
@@ -7410,9 +7410,9 @@
         {
           "prompt": "Какой предлог используется для обозначения периода запланированной поездки («Мы едем в Сочи ... неделю»)?",
           "options": [
-            "на неделю (Освоить временные конструкции) (Освоить временные конструкции)",
-            "за неделю (Освоить временные конструкции) (Освоить временные конструкции)",
-            "до недели (Освоить временные конструкции) (Освоить временные конструкции)"
+            "на неделю (Освоить временные конструкции)",
+            "за неделю (Освоить временные конструкции)",
+            "до недели (Освоить временные конструкции)"
           ],
           "answerIndex": 0,
           "explanation": "Срок запланированного пребывания передаётся предлогом «на» + винительный падеж («на неделю»)."
@@ -7425,9 +7425,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении временные предлоги «за», «на» и «во время» использованы безупречно?",
           "options": [
-            "Мы сняли номер в гостинице на три дня, доехали до неё за час и во время отдыха гуляли по парку. (Освоить временные конструкции) (Освоить временные конструкции)",
-            "Мы сняли номер в гостинице за три дня, доехали до неё на час и на отдыхе гуляли по парку. (Освоить временные конструкции) (Освоить временные конструкции)",
-            "Мы сняли номер в гостинице во время трёх дней, доехали до неё до часа и после отдыха гуляли. (Освоить временные конструкции) (Освоить временные конструкции)"
+            "Мы сняли номер в гостинице на три дня, доехали до неё за час и во время отдыха гуляли по парку. (Освоить временные конструкции)",
+            "Мы сняли номер в гостинице за три дня, доехали до неё на час и на отдыхе гуляли по парку. (Освоить временные конструкции)",
+            "Мы сняли номер в гостинице во время трёх дней, доехали до неё до часа и после отдыха гуляли. (Освоить временные конструкции)"
           ],
           "answerIndex": 0,
           "explanation": "«На три дня» (срок проживания), «за час» (время в пути), «во время отдыха» (одновременный процесс)."
@@ -7598,7 +7598,7 @@
         {
           "prompt": "Как сказать «During the blizzard, road visibility decreased»?",
           "options": [
-            "Во время метели видимость на дорогах снизилась.) («Во время метели» (+ родительный падеж) выраж",
+            "Во время метели видимость на дорогах снизилась.) выраж",
             "До метели видимость на дорогах снизилась.",
             "Через метель видимость на дорогах снизилась."
           ],
@@ -7772,7 +7772,7 @@
         {
           "prompt": "Как называется входная зона квартиры, где снимают верхнюю одежду и обувь?",
           "options": [
-            "прихожая (Прихожая (коридор) — первое помещение при входе в квартиру.",
+            "прихожая (Прихожая (коридор) — первое помещение при входе в квартиру.)",
             "гостиная",
             "спальня"
           ],
@@ -8177,7 +8177,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении сравнительная степень образована и согласована без грамматических ошибок?",
           "options": [
-            "Эта комната больше и светлее той гостиной, а потолки здесь выше.) («Больше», «светлее той гостиной» (род. п.), «",
+            "Эта комната больше и светлее той гостиной, а потолки здесь выше.), «",
             "Эта комната более большай и светлее той гостиной, а потолки вышее.",
             "Эта комната лучшее и свежее чем та гостиная без окна."
           ],
@@ -8610,9 +8610,9 @@
         {
           "prompt": "Какой глагол выражает достигнутый конкретный результат в предложении «Студент ... экзамен на отлично»?",
           "options": [
-            "сдал (СВ) (Освоить семантические различия видов глагола) (Семантика вида глагола)",
-            "сдавал (НСВ) (Освоить семантические различия видов глагола) (Семантика вида глагола)",
-            "сдаёт (НСВ) (Освоить семантические различия видов глагола) (Семантика вида глагола)"
+            "сдал (СВ)",
+            "сдавал (НСВ)",
+            "сдаёт (НСВ)"
           ],
           "answerIndex": 0,
           "explanation": "«Сдал экзамен» означает успешный завершённый результат (СВ)."
@@ -8624,9 +8624,9 @@
         {
           "prompt": "Какой маркер времени всегда требует несовершенного вида (НСВ)?",
           "options": [
-            "каждый день («Каждый день» указывает на регулярную повторяемость (НСВ).) (Семантика вида глагола)",
-            "вдруг (Освоить семантические различия видов глагола) (Семантика вида глагола)",
-            "наконец (Освоить семантические различия видов глагола) (Семантика вида глагола)"
+            "каждый день («Каждый день» указывает на регулярную повторяемость (НСВ).)",
+            "вдруг (Освоить семантические различия видов глагола)",
+            "наконец (Освоить семантические различия видов глагола)"
           ],
           "answerIndex": 0,
           "explanation": "«Каждый день» указывает на регулярную повторяемость (НСВ)."
@@ -8639,9 +8639,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении виды глаголов употреблены в соответствии с логикой процесса и результата?",
           "options": [
-            "Архитектор три месяца чертил проект (НСВ) и вчера наконец закончил работу (СВ). (Освоить семантические различия видов глагола) (Семантика вида глагола)",
-            "Архитектор три месяца начертил проект (СВ) и вчера обычно заканчивал работу (НСВ). (Освоить семантические различия видов глагола) (Семантика вида глагола)",
-            "Архитектор вдруг чертил проект три месяца без результата. (Освоить семантические различия видов глагола) (Семантика вида глагола)"
+            "Архитектор три месяца чертил проект (НСВ) и вчера наконец закончил работу (СВ). (Освоить семантические различия видов глагола)",
+            "Архитектор три месяца начертил проект (СВ) и вчера обычно заканчивал работу (НСВ). (Освоить семантические различия видов глагола)",
+            "Архитектор вдруг чертил проект три месяца без результата. (Освоить семантические различия видов глагола)"
           ],
           "answerIndex": 0,
           "explanation": "«Три месяца чертил» (длительный процесс — НСВ), «наконец закончил» (результат — СВ)."
@@ -8704,7 +8704,7 @@
         {
           "prompt": "Какая форма несовершенного вида (НСВ) образуется от глагола «переписать»?",
           "options": [
-            "переписывать («Переписать» (СВ) → «переписывать» (НСВ) с суффиксом -ыва-.",
+            "переписывать («Переписать» (СВ) → «переписывать» (НСВ) с суффиксом -ыва-.)",
             "переписавать",
             "дописывать"
           ],
@@ -8718,7 +8718,7 @@
         {
           "prompt": "Какой глагол несовершенного вида образует нормативную пару к глаголу совершенного вида «положить»?",
           "options": [
-            "класть) (Нормативная пара: класть (НСВ) — положить",
+            "класть) — положить",
             "ложить",
             "покладывать"
           ],
@@ -8798,9 +8798,9 @@
         {
           "prompt": "Какой вид инфинитива можно использовать после фазового глагола «начал» в фразе «Он начал ...»?",
           "options": [
-            "читать (НСВ) (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)",
-            "прочитать (СВ) (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)",
-            "прочитал (прош. вр.) (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)"
+            "читать (НСВ)",
+            "прочитать (СВ)",
+            "прочитал (прош. вр.)"
           ],
           "answerIndex": 0,
           "explanation": "После фазовых глаголов (начал, продолжил, закончил) используется ТОЛЬКО инфинитив несовершенного вида (НСВ)."
@@ -8812,9 +8812,9 @@
         {
           "prompt": "Что означает фраза «Я брал эту книгу у профессора» по сравнению с «Я взял эту книгу»?",
           "options": [
-            "книга уже возвращена профессору назад (аннулированное действие) (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)",
-            "книга до сих пор находится у меня дома (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)",
-            "я никогда не видел эту книгу (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)"
+            "книга уже возвращена профессору назад (аннулированное действие)",
+            "книга до сих пор находится у меня дома (Освоить тонкие семантические функции вида)",
+            "я никогда не видел эту книгу (Освоить тонкие семантические функции вида)"
           ],
           "answerIndex": 0,
           "explanation": "Форма НСВ «брал» выражает аннулированное двухстороннее действие: взял и уже вернул."
@@ -8827,9 +8827,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении правила сочетаемости вида глагола соблюдены безупречно?",
           "options": [
-            "Студент закончил писать курсовую работу и успел отправить её научному руководителю. (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)",
-            "Студент закончил написать курсовую работу и успевал отправлять её научному руководителю. (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)",
-            "Студент начал написание закончить курсовую без ошибки. (Освоить тонкие семантические функции вида) (Освоить тонкие семантические функции вида)"
+            "Студент закончил писать курсовую работу и успел отправить её научному руководителю. (Освоить тонкие семантические функции вида)",
+            "Студент закончил написать курсовую работу и успевал отправлять её научному руководителю. (Освоить тонкие семантические функции вида)",
+            "Студент начал написание закончить курсовую без ошибки. (Освоить тонкие семантические функции вида)"
           ],
           "answerIndex": 0,
           "explanation": "«Закончил писать» (фазовый глагол + НСВ), «успел отправить» (глагол успеха + СВ)."
@@ -8890,7 +8890,7 @@
         {
           "prompt": "Какая комбинация видов описывает прерывание длительного процесса точечным событием?",
           "options": [
-            "Когда я шёл (НСВ) по парку, пошёл (СВ) сильный дождь.) («Шёл» (длительный фоновый процесс НСВ) + «пош",
+            "Когда я шёл (НСВ) по парку, пошёл (СВ) сильный дождь.) + «пош",
             "Когда я пришёл (СВ) по парку, шёл (НСВ) дождь.",
             "Когда я шёл (НСВ) по парку, шёл (НСВ) дождь."
           ],
@@ -9011,7 +9011,7 @@
           "type": "multiple-choice",
           "prompt": "В каком ответе на собеседовании виды глаголов разграничивают процесс обязанностей и результат достижений безупречно?",
           "options": [
-            "— На прошлом месте я координировал (НСВ) работу команды, а за последний год разработал (СВ) и успешно запустил (СВ) три крупных проекта.) («Координировал» (постоянный процесс — НСВ) +",
+            "— На прошлом месте я координировал (НСВ) работу команды, а за последний год разработал (СВ) и успешно запустил (СВ) три крупных проекта.) +",
             "— На прошлом месте я скоординировал (СВ) работу команды, а за последний год разрабатывал (НСВ) три крупных проекта без результата.",
             "— Я начал разработать проекты и закончил запустить их в срок."
           ],
@@ -9103,7 +9103,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении приставочные глаголы движения и предлоги согласованы грамматически безупречно?",
           "options": [
-            "Утром туристы вышли из отеля, доехали до музея и вошли в центральный зал галереи.) («Вышли из» (наружу), «доехали до» (предел), «",
+            "Утром туристы вышли из отеля, доехали до музея и вошли в центральный зал галереи.), «доехали до» (предел), «",
             "Утром туристы вошли из отеля, выехали до музея и ушли в центральный зал.",
             "Утром туристы уехали в отель из зала галереи без билетов."
           ],
@@ -9197,7 +9197,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении приставки движения передают значение пройденной дистанции и ориентиров без ошибок?",
           "options": [
-            "Спортсмен пробежал (дистанция) пять километров, проехал (мимо) мимо стадиона и добежал (предел) до финиша.) («Пробежал пять километров» (дистанция), «прое",
+            "Спортсмен пробежал (дистанция) пять километров, проехал (мимо) мимо стадиона и добежал (предел) до финиша.), «прое",
             "Спортсмен перебежал пять километров, уехал мимо стадиона и вошёл до финиша.",
             "Спортсмен выбежал пять километров и переехал сквозь стадион."
           ],
@@ -9289,7 +9289,7 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте предлоги при приставочных глаголах движения под- и от- выбраны правильно?",
           "options": [
-            "Пассажир подошёл к (дат. пад.) кассе, а затем отошёл от (род. пад.) окна. («Подошёл к» (+ дат. пад.) и «отошёл от» (+ род. пад.).",
+            "Пассажир подошёл к (дат. пад.) кассе, а затем отошёл от (род. пад.) окна. («Подошёл к» (+ дат. пад.) и «отошёл от» (+ род. пад.).)",
             "Пассажир подошёл в кассу, а затем отошёл в окна.",
             "Пассажир подошёл от кассы, а затем отошёл к окна."
           ],
@@ -9383,7 +9383,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении метафорический глагол движения употреблён в соответствии с нормами делового стиля?",
           "options": [
-            "В ходе научной конференции исследователи пришли к единому выводу и решили провести серию совместных экспериментов.) («Пришли к выводу» (сделали вывод) и «провести",
+            "В ходе научной конференции исследователи пришли к единому выводу и решили провести серию совместных экспериментов.) и «провести",
             "В ходе научной конференции исследователи вышли в вывод и решили отойти серию экспериментов.",
             "Исследователи зашли в кризис и перешли из строя."
           ],
@@ -9446,7 +9446,7 @@
         {
           "prompt": "Какая последовательность глаголов правильно описывает маршрут: «выход из метро, пересечение площади и вход в театр»?",
           "options": [
-            "выйти из метро → перейти площадь → войти в театр) («Выйти из» (наружу) → «перейти через/площадь»",
+            "выйти из метро → перейти площадь → войти в театр) → «перейти через/площадь»",
             "войти из метро → уйти площадь → выйти в театр",
             "дойти в метро → зайти площадь → отойти в театр"
           ],
@@ -9567,7 +9567,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении сослагательное наклонение нереального условия оформлено безупречно?",
           "options": [
-            "Если бы инженеры вовремя заметили ошибку в расчётах, мост был бы построен строго по графику.) («Если бы заметили» (прош. вр. + бы) ... «был",
+            "Если бы инженеры вовремя заметили ошибку в расчётах, мост был бы построен строго по графику.) ... «был",
             "Если инженеры вовремя заметили бы ошибку, мост будет построен строго по графику.",
             "Если бы инженеры заметят ошибку, мост построили бы вовремя."
           ],
@@ -10029,7 +10029,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении причастие настоящего времени правильно согласовано с определяемым словом?",
           "options": [
-            "Мы гордимся специалистами (твор. пад. мн. ч.), разрабатывающими (твор. пад. мн. ч.) инновационные программы.) (Специалистами (какими?) разрабатывающими — тв",
+            "Мы гордимся специалистами (твор. пад. мн. ч.), разрабатывающими (твор. пад. мн. ч.) инновационные программы.) разрабатывающими — тв",
             "Мы гордимся специалистами, разрабатывающие инновационные программы.",
             "Мы гордимся специалистами, разрабатывающим инновационные программы."
           ],
@@ -10121,7 +10121,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении действительное причастие прошедшего времени образовано и согласовано безупречно?",
           "options": [
-            "Профессор поздравил выпускников, успешно защитивших свои дипломные проекты.) (Выпускников (кого? вин. пад. одуш.) защитивши",
+            "Профессор поздравил выпускников, успешно защитивших свои дипломные проекты.) защитивши",
             "Профессор поздравил выпускников, успешно защитившие свои дипломные проекты.",
             "Профессор поздравил выпускников, успешно защитившим проекты."
           ],
@@ -10198,7 +10198,7 @@
         {
           "prompt": "Как трансформировать предложение «Это книга, которую читают миллионы людей» с помощью страдательного причастия?",
           "options": [
-            "Это книга, читаемая миллионами людей.) («Книга (какая?) читаемая кем? миллионами люде",
+            "Это книга, читаемая миллионами людей.) читаемая кем? миллионами люде",
             "Это книга, читающая миллионами людей.",
             "Это книга, прочитавшая миллионами людей."
           ],
@@ -10213,7 +10213,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении страдательное причастие настоящего времени правильно употреблено с субъектом действия?",
           "options": [
-            "Тема диссертации, исследуемая молодым аспирантом (твор. пад.), имеет важное прикладное значение.) («Тема, исследуемая (кем?) аспирантом» — страд",
+            "Тема диссертации, исследуемая молодым аспирантом (твор. пад.), имеет важное прикладное значение.) аспирантом» — страд",
             "Тема диссертации, исследующая молодым аспирантом, имеет важное значение.",
             "Тема диссертации, исследовавшая молодому аспиранту, имеет значение."
           ],
@@ -10290,7 +10290,7 @@
         {
           "prompt": "Как трансформировать активное предложение «Архитекторы построили мост» в пассивное с кратким причастием?",
           "options": [
-            "Мост построен архитекторами.) («Мост (подлежащее) построен",
+            "Мост построен архитекторами.) построен",
             "Мост построивший архитекторами.",
             "Архитекторы построены мостом."
           ],
@@ -10368,7 +10368,7 @@
         {
           "prompt": "Где нужны запятые в предложении «Книга (1) прочитанная мною летом (2) произвела сильное впечатление»?",
           "options": [
-            "на месте (1) и (2) — причастный оборот стоит после определяемого существительного) (Причастный оборот («прочитанная мною летом»)",
+            "на месте (1) и (2) — причастный оборот стоит после определяемого существительного",
             "только на месте",
             "запятые не нужны"
           ],
@@ -10552,7 +10552,7 @@
         {
           "prompt": "Как правильно пишется деепричастие совершенного вида от глагола «прийти»?",
           "options": [
-            "придя (нормативная орфография) (Литературная норма: «придя» (без буквы «й»).",
+            "придя (нормативная орфография).",
             "прийдя",
             "пришедши"
           ],
@@ -10828,7 +10828,7 @@
         {
           "prompt": "Какая комбинация деепричастий гармонично передает завершённый подготовительный этап и сопутствующий процесс: «(1) все документы и (2) за реакцией аудитории, спикер начал доклад»?",
           "options": [
-            "(1) Подготовив (СВ), (2) наблюдая (НСВ)) («Подготовив документы (СВ — сделал заранее) и",
+            "(1) Подготовив (СВ), (2) наблюдая (НСВ)) и",
             "(1) Готовя (НСВ), (2) понаблюдав",
             "(1) Подготовивший (причастие), (2) наблюдать"
           ],
@@ -10842,7 +10842,7 @@
         {
           "prompt": "Как грамматически безупречно объединить предложения «Учёный провёл серию опытов. Он доказал теорему» с помощью деепричастия?",
           "options": [
-            "Проведя серию опытов, учёный доказал теорему.) («Проведя (СВ) серию опытов, учёный доказал те",
+            "Проведя серию опытов, учёный доказал теорему.) серию опытов, учёный доказал те",
             "Проводя серию опытов, учёным доказана теорему.",
             "Учёный доказал теорему, проведённую опыт."
           ],
@@ -11394,7 +11394,7 @@
         {
           "prompt": "Как оформляется адресат в шапке официального служебного документа?",
           "options": [
-            "в дательном падеже: Ректору университета профессору Иванову И. И.) (Адресат (кому направляется документ) всегда с",
+            "в дательном падеже: Ректору университета профессору Иванову И. И.) всегда с",
             "в именительном падеже: Ректор университета профессор Иванов",
             "в творительном падеже: Ректором университета профессором Ивановым"
           ],
@@ -11486,7 +11486,7 @@
         {
           "prompt": "Как корректно оформить отсылку к предыдущему письму контрагента?",
           "options": [
-            "В ответ на ваше письмо от 10 марта № 142/б сообщаем следующее:...) («В ответ на ваше письмо от (дата) № (...) соо",
+            "В ответ на ваше письмо от 10 марта № 142/б сообщаем следующее:...) № (...) соо",
             "Мы прочитали то, что вы нам прислали на прошлой неделе:",
             "По поводу вашего старого письма хотим сказать:"
           ],
@@ -11564,7 +11564,7 @@
         {
           "prompt": "Какой глагол выражает строгое юридическое обязательство стороны по контракту?",
           "options": [
-            "обязуется) («Обязуется» (обязаться) — базовый модальный ю",
+            "обязуется) — базовый модальный ю",
             "надеется",
             "хочет"
           ],
@@ -11685,7 +11685,7 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все деловые предложные конструкции согласованы грамматически безупречно?",
           "options": [
-            "Согласно распоряжению генерального директора, по возвращении из командировки сотрудники предоставляют авансовый отчёт.) («Согласно распоряжению» (дат. пад.) и «по воз",
+            "Согласно распоряжению генерального директора, по возвращении из командировки сотрудники предоставляют авансовый отчёт.) и «по воз",
             "Согласно распоряжения генерального директора, по возвращению из командировки сотрудники пишут отчёт.",
             "В целях проверки согласно приказу по окончанию месяца сдаются документы."
           ],
@@ -12239,7 +12239,7 @@
           "type": "multiple-choice",
           "prompt": "В чём заключается феномен чеховского «подводного течения» в пьесах?",
           "options": [
-            "подлинный драматизм и психологические переживания героев скрыты в паузах и бытовых разговорах (в подтексте)) («Подводное течение» (подтекст) — основа чехов",
+            "подлинный драматизм и психологические переживания героев скрыты в паузах и бытовых разговорах (в подтексте)) — основа чехов",
             "все персонажи говорят исключительно о морских путешествиях",
             "действие пьесы разворачивается под водой"
           ],
@@ -12316,7 +12316,7 @@
         {
           "prompt": "Какой мистический и богословский образ Соловьёв определял как Премудрость Божию и Вечную Женственность?",
           "options": [
-            "София) (София (Премудрость Божия) — центральный образ",
+            "София) — центральный образ",
             "Афина",
             "Психея"
           ],
@@ -12331,7 +12331,7 @@
           "type": "multiple-choice",
           "prompt": "Как называется главный фундаментальный этический труд Владимира Соловьёва?",
           "options": [
-            "«Оправдание добра») (Трактат «Оправдание добра» (1897) — классичес",
+            "«Оправдание добра») — классичес",
             "«Критика чистого разума»",
             "«Этика ненасилия»"
           ],
@@ -12423,7 +12423,7 @@
           "type": "multiple-choice",
           "prompt": "Как Бердяев называл религиозное и философское оправдание человека через его способность к творчеству?",
           "options": [
-            "антроподицея) (Антроподицея (оправдание человека) — фундамен",
+            "антроподицея) — фундамен",
             "теодицея",
             "апология"
           ],
@@ -12486,7 +12486,7 @@
         {
           "prompt": "Какая антиномия лежит в основе главного итогового философского труда Льва Шестова?",
           "options": [
-            "«Афины и Иерусалим» (разум против веры)) («Афины и Иерусалим» (1938) — фундаментальный",
+            "«Афины и Иерусалим» (разум против веры)) — фундаментальный",
             "«Война и мир»",
             "«Отцы и дети»"
           ],
@@ -12855,7 +12855,7 @@
         {
           "prompt": "Какой балет П. И. Чайковского традиционно исполняется в театрах мира во время новогодних и рождественских праздников?",
           "options": [
-            "«Щелкунчик») (Балет «Щелкунчик» (1892) — всемирно любимая н",
+            "«Щелкунчик») — всемирно любимая н",
             "«Жизель»",
             "«Петрушка»"
           ],
@@ -12869,7 +12869,7 @@
         {
           "prompt": "Как называется последняя, Шестая симфония Чайковского, завершающаяся трагическим затихающим Adagio lamentoso?",
           "options": [
-            "«Патетическая») (Шестая симфония («Патетическая») си минор — и",
+            "«Патетическая») си минор — и",
             "«Героическая»",
             "«Фантастическая»"
           ],
@@ -12961,7 +12961,7 @@
         {
           "prompt": "Какое хоровое духовное произведение Рахманинова, написанное в годы Первой мировой войны, считается вершиной православной хоровой музыки?",
           "options": [
-            "«Всенощное бдение») («Всенощное бдение» (1915) ор. 37 — монументал) («Всенощное бдение» (1915) ор. 37 — монументальный ...",
+            "«Всенощное бдение») ор. 37 — монументал) ор. 37 — монументальный ...",
             "«Реквием»",
             "«Страсти по Матфею»"
           ],
@@ -13056,7 +13056,7 @@
         {
           "prompt": "Премьера какого авангардного балета Игоря Стравинского в 1913 году в Париже завершилась исторической дракой зрителей в зале?",
           "options": [
-            "«Весна священная») (Премьера «Весны священной» (29 мая 1913 г.) с",
+            "«Весна священная») с",
             "«Лебединое озеро»",
             "«Спящая красавица»"
           ],
@@ -13071,7 +13071,7 @@
           "type": "multiple-choice",
           "prompt": "Какой стиль в творчестве Стравинского ознаменовался обращением к гармоническим формам Баха и Моцарта («Пульчинелла», «Царь Эдип»)?",
           "options": [
-            "неоклассицизм) (Неоклассицизм Стравинского (1920–1950-е гг.)",
+            "неоклассицизм",
             "экспрессионизм",
             "импрессионизм"
           ],
@@ -13134,7 +13134,7 @@
         {
           "prompt": "Какая симфония Дмитрия Шостаковича получила название «Ленинградская» и была исполнена в осаждённом блокадном городе в 1942 году?",
           "options": [
-            "Седьмая симфония) (Седьмая («Ленинградская») симфония до мажор о",
+            "Седьмая симфония) симфония до мажор о",
             "Пятая симфония",
             "Девятая симфония"
           ],
@@ -13255,7 +13255,7 @@
           "type": "multiple-choice",
           "prompt": "Какая знаменитая картина Ильи Репина изображает изнемогающих от непосильного труда людей, тянущих барку вдоль речного берега?",
           "options": [
-            "«Бурлаки на Волге») (Картина «Бурлаки на Волге» (1870–1873) принес",
+            "«Бурлаки на Волге») принес",
             "«Не ждали»",
             "«Крестный ход в Курской губернии»"
           ],
@@ -13424,7 +13424,7 @@
         {
           "prompt": "На какой знаменитой петроградской выставке 1915 года впервые был показан «Чёрный квадрат» в «красном углу» зала?",
           "options": [
-            "Последняя футуристическая выставка картин «0,10») (На выставке «0,10» (ноль-десять) в Петрограде",
+            "Последняя футуристическая выставка картин «0,10») в Петрограде",
             "Выставка передвижников",
             "«Ослиный хвост»"
           ],
@@ -13700,7 +13700,7 @@
         {
           "prompt": "Какой шедевр немого документального кино снял Дзига Вертов в 1929 году, показав жизнь города через призму объектива?",
           "options": [
-            "«Человек с киноаппаратом») («Человек с киноаппаратом» (1929) — вершина до",
+            "«Человек с киноаппаратом») — вершина до",
             "«Прибытие поезда»",
             "«Земля»"
           ],
@@ -13807,7 +13807,7 @@
           "type": "multiple-choice",
           "prompt": "Какой великий древнерусский иконописец стал героем монументальной историко-философской кинодрамы Тарковского 1966 года?",
           "options": [
-            "Андрей Рублёв) (Шедевр «Андрей Рублёв» («Страсти по Андрею»)",
+            "Андрей Рублёв",
             "Дионисий",
             "Феофан Грек"
           ],
@@ -13870,7 +13870,7 @@
         {
           "prompt": "Какой советский фильм 1957 года режиссёра Михаила Калатозова был удостоен главного приза — «Золотой пальмовой ветви» Каннского кинофестиваля?",
           "options": [
-            "«Летят журавли») («Летят журавли» (1957) — триумфатор Каннского",
+            "«Летят журавли») — триумфатор Каннского",
             "«Броненосец „Потёмкин“»",
             "«Война и мир»"
           ],
@@ -14252,7 +14252,7 @@
         {
           "prompt": "Как академик В. И. Вернадский назвал высшую стадию эволюции биосферы, управляемую человеческим разумом?",
           "options": [
-            "ноосфера) (Ноосфера (от греч. *nous* — разум) — сфера ра",
+            "ноосфера) — сфера ра",
             "тропосфера",
             "литосфера"
           ],
@@ -14516,7 +14516,7 @@
         {
           "prompt": "Как называется краткая характеристика научной статьи, содержащая резюме целей, методов и результатов исследования?",
           "options": [
-            "аннотация) (Аннотация (abstract) предваряет научную стать",
+            "аннотация) предваряет научную стать",
             "эпилог",
             "пролог"
           ],
@@ -14545,7 +14545,7 @@
           "type": "multiple-choice",
           "prompt": "Какой термин обозначает проверку подлинности, истинности и достоверности научных теоретических положений практикой или экспериментом?",
           "options": [
-            "верификация) (Верификация (от лат. *verus* — истинный) — по",
+            "верификация) — по",
             "девальвация",
             "прокрастинация"
           ],
@@ -14718,7 +14718,7 @@
         {
           "prompt": "Какую классическую комедию Н. В. Гоголя В. Э. Мейерхольд поставил в 1926 году как трагический гротеск с куклами в финале?",
           "options": [
-            "«Ревизор») («Ревизор» (1926) стал вершиной режиссерского",
+            "«Ревизор») стал вершиной режиссерского",
             "«Горе от ума»",
             "«Недоросль»"
           ],
@@ -14980,7 +14980,7 @@
         {
           "prompt": "Как называется пространственное расположение актеров на сценической площадке в определенный момент действия?",
           "options": [
-            "мизансцена) (Мизансцена (фр. *mise en scène*) — язык прост",
+            "мизансцена) — язык прост",
             "суфлерская будка",
             "пандус"
           ],
@@ -15180,7 +15180,7 @@
         {
           "prompt": "Как называется определённая законом или договором денежная сумма, которую должник обязан уплатить кредитору в случае неисполнения обязательства?",
           "options": [
-            "неустойка) (Неустойка (штраф, пеня) — мера имущественной",
+            "неустойка) — мера имущественной",
             "субсидия",
             "дотация"
           ],
@@ -15473,7 +15473,7 @@
           "type": "multiple-choice",
           "prompt": "Какой вид толкования правовой нормы основан на грамматическом анализе текста, синтаксиса и лексики статьи закона?",
           "options": [
-            "грамматическое (языковое) толкование) (Грамматическое (языковое) толкование выясняет",
+            "грамматическое (языковое) толкование) толкование выясняет",
             "телеологическое толкование",
             "историческое толкование"
           ],
@@ -15642,7 +15642,7 @@
         {
           "prompt": "Какому понятию посвящён фундаментальный этический трактат Владимира Соловьёва («Оправдание ...»)?",
           "options": [
-            "добра) (Труд «Оправдание добра» (1897 г.) посвящён нр",
+            "добра) посвящён нр",
             "веры",
             "государства"
           ],
@@ -15720,7 +15720,7 @@
         {
           "prompt": "Какой знаменитый сборник статей 1909 года подверг глубокой критике мировоззрение революционной интеллигенции?",
           "options": [
-            "«Вехи») (Сборник «Вехи» (1909) стал манифестом религио",
+            "«Вехи») стал манифестом религио",
             "«Колокол»",
             "«Северная пчела»"
           ],
@@ -15919,7 +15919,7 @@
         {
           "prompt": "Какой термин обозначает богословско-философскую проблему согласования идеи благости Бога с существованием в мире зла и страданий?",
           "options": [
-            "теодицея) (Теодицея («оправдание Бога») исследует происх",
+            "теодицея) исследует происх",
             "телепатия",
             "схоластика"
           ],
@@ -15934,7 +15934,7 @@
           "type": "multiple-choice",
           "prompt": "Какой термин означает познание Абсолюта через отрицание не соответствующих Ему земных качеств («отрицательное богословие»)?",
           "options": [
-            "апофатический метод) (Апофатика (отрицательное богословие) утвержда",
+            "апофатический метод) утвержда",
             "индуктивный метод",
             "эмпирический анализ"
           ],
@@ -16210,7 +16210,7 @@
           "type": "multiple-choice",
           "prompt": "Как называется фигура речи, основанная на перекрёстном расположении компонентов в двух параллельных конструкциях (AB -> BA)?",
           "options": [
-            "хиазм) (Хиазм (от греческой буквы Хи — χ) — перекрёст",
+            "хиазм) — перекрёст",
             "литота",
             "синекдоха"
           ],
@@ -16379,7 +16379,7 @@
         {
           "prompt": "Какой уровень общеевропейской языковой шкалы (CEFR) означает полное владение языком в совершенстве на уровне образованного носителя (Mastery)?",
           "options": [
-            "уровень C2) (C2 (Mastery / Владение в совершенстве) — высш",
+            "уровень C2) — высш",
             "уровень B1",
             "уровень A2"
           ],
@@ -16414,7 +16414,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'russian', name: "Russian", units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'russian', name: 'Russian', units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['russian'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
