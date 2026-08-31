@@ -964,10 +964,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "CHAGING (11.1) ",
-            "HANGICE (11.2) ",
-            "GACHING (11.3) ",
-            "ACHING (ach-ing) (11.4) "
+            "CHAGING",
+            "HANGICE",
+            "GACHING",
+            "ACHING"
           ],
           "answerIndex": 3,
           "explanation": "{A, C, H, E} + -ING = ACHING."
@@ -977,7 +977,7 @@
           "options": [
             "It eliminates vowel-consonant imbalance",
             "It is required by tournament rules",
-            "It reduces the working-memory permutation space from 7! (5,040) down to 4! (24) or 3! (6)",
+            "It reduces the working-memory permutation space from 7! (5,040) down to 4! (24) or 3!",
             "It adds bonus points to the score"
           ],
           "answerIndex": 2,
@@ -1001,10 +1001,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 11:",
           "options": [
-            "DIRTINE  (Task 11.1)",
-            "TRUNDIE  (Task 11.2)",
-            "RUNTIED  (Task 11.3)",
-            "UNTRIED (un-tri-ed)  (Task 11.4)"
+            "DIRTINE",
+            "TRUNDIE",
+            "RUNTIED",
+            "UNTRIED"
           ],
           "answerIndex": 3,
           "explanation": "UNTRIED is formed from UN- + TRI- + -ED."
@@ -1029,7 +1029,7 @@
           "options": [
             "DIRTINE",
             "TRUNDIE",
-            "UNTRIED (un-tri-ed)",
+            "UNTRIED",
             "RUNTIED"
           ],
           "answerIndex": 2,
@@ -1040,7 +1040,7 @@
           "prompt": "Rack: {A, E, L, P, R, S, Y}. Chunking 'RE-' at the front leaves {A, L, P, S, Y}. What 7-letter bingo is formed?",
           "options": [
             "RESPALY",
-            "REPLAYS (re-plays)",
+            "REPLAYS",
             "RELAYSP",
             "REPLASY"
           ],
@@ -1076,8 +1076,8 @@
           "prompt": "How many total permutations exist for 7 distinct tiles?",
           "options": [
             "49",
-            "120 (5!)",
-            "5,040 (7!)",
+            "120",
+            "5,040",
             "700"
           ],
           "answerIndex": 2,
@@ -1125,10 +1125,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "3 Vowels and 4 Consonants (or 2 Vowels and 5 Consonants) (12.1) ",
-            "6 Vowels and 1 Consonant (12.2) ",
-            "All Vowels (12.3) ",
-            "1 Vowel and 6 Consonants (12.4) "
+            "3 Vowels and 4 Consonants",
+            "6 Vowels and 1 Consonant",
+            "All Vowels",
+            "1 Vowel and 6 Consonants"
           ],
           "answerIndex": 0,
           "explanation": "A 3:4 or 2:5 ratio reflects natural English phonotactics and maximizes bingo probability."
@@ -1136,7 +1136,7 @@
         {
           "prompt": "Which 7-letter bingo is formed by the rack {A, E, I, N, R, S, T}?",
           "options": [
-            "RETAINS (or RETINAS / NASTIER / STAINER)",
+            "RETAINS",
             "TRAINST",
             "STRANIE",
             "INTERAS"
@@ -1147,7 +1147,7 @@
         {
           "prompt": "If your rack has 5 vowels and 2 consonants, what strategy should you prioritize?",
           "options": [
-            "Play off 2–3 surplus vowels to balance your rack for future turns (rack management)",
+            "Play off 2–3 surplus vowels to balance your rack for future turns",
             "Pass your turn",
             "Exchange all 7 tiles regardless of letters",
             "Wait for an all-vowel bingo"
@@ -1162,10 +1162,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 12:",
           "options": [
-            "VEINERS  (Task 12.1)",
-            "ENVIERS  (Task 12.2)",
-            "NERVIES  (Task 12.3)",
-            "INVERSE  (Task 12.4)"
+            "VEINERS",
+            "ENVIERS",
+            "NERVIES",
+            "INVERSE"
           ],
           "answerIndex": 3,
           "explanation": "INVERSE is formed from {E, E, I, N, R, S, V}."
@@ -1200,7 +1200,7 @@
         {
           "prompt": "Rack: {A, E, I, N, R, S, T}. Which of these is NOT an anagram of this exact rack?",
           "options": [
-            "STARTING (contains G and two T's)",
+            "STARTING",
             "RETINAS",
             "NASTIER",
             "RETAINS"
@@ -1286,10 +1286,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Z (ZLACK) (13.1) ",
-            "Q (QLACK) (13.2) ",
-            "X (XLACK) (13.3) ",
-            "B (BLACK), C (CLACK), F (FLACK), S (SLACK) (13.4) "
+            "Z",
+            "Q",
+            "X",
+            "B (BLACK), C (CLACK), F (FLACK), S"
           ],
           "answerIndex": 3,
           "explanation": "B, C, F, and S are all valid front hooks for LACK."
@@ -1300,7 +1300,7 @@
             "PRE-",
             "NON-",
             "MID-",
-            "OUT- (OUTLAST, OUTRUN, OUTPLAY, OUTLIVE)"
+            "OUT-"
           ],
           "answerIndex": 3,
           "explanation": "OUT- fuses with all four base verbs to form standard compound words."
@@ -1323,10 +1323,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 13:",
           "options": [
-            "SUN- (SUNLIGHT)  (Task 13.1)",
-            "DOG-  (Task 13.2)",
-            "CAT-  (Task 13.3)",
-            "RUN-  (Task 13.4)"
+            "SUN-",
+            "DOG-",
+            "CAT-",
+            "RUN-"
           ],
           "answerIndex": 0,
           "explanation": "SUN + LIGHT = SUNLIGHT (8 letters)."
@@ -1334,7 +1334,7 @@
         {
           "prompt": "Which of these single letters is a valid back hook for the word 'RIVER'?",
           "options": [
-            "S (RIVERS)",
+            "S",
             "K",
             "Q",
             "X"
@@ -1349,7 +1349,7 @@
         {
           "prompt": "Board has 'DOOR'. Rack has {O, U, T, S, I, D, E}. What 8-letter compound word can be made?",
           "options": [
-            "OUTDOORS (or OUTDOOR)",
+            "OUTDOORS",
             "BACKDOOR",
             "DOORSIDE",
             "SIDEDOOR"
@@ -1364,7 +1364,7 @@
             "C",
             "B",
             "D",
-            "S (S-EAT and EAT-S)"
+            "S"
           ],
           "answerIndex": 3,
           "explanation": "S creates 'SEAT' (front) and 'EATS' (back).",
@@ -1397,7 +1397,7 @@
         {
           "prompt": "What is the 50-point bonus awarded for in Scrabble?",
           "options": [
-            "Using all 7 tiles from your rack in a single turn (a Bingo)",
+            "Using all 7 tiles from your rack in a single turn",
             "Spelling a word longer than 10 letters",
             "Hitting two Triple Word scores at once",
             "Playing the letter 'Q' without a 'U'"
@@ -1447,10 +1447,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "AEINPRT (A-E-I-N-P-R-T) (14.1) ",
-            "PAINTER (14.2) ",
-            "TRAINPE (14.3) ",
-            "PEINART (14.4) "
+            "AEINPRT",
+            "PAINTER",
+            "TRAINPE",
+            "PEINART"
           ],
           "answerIndex": 0,
           "explanation": "Alphabetical sorting of P-A-I-N-T-E-R is A-E-I-N-P-R-T."
@@ -1484,10 +1484,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 14:",
           "options": [
-            "AEINRST  (Task 14.1)",
-            "ARSTEEN  (Task 14.2)",
-            "SEARNTI  (Task 14.3)",
-            "NASTERI  (Task 14.4)"
+            "AEINRST",
+            "ARSTEEN",
+            "SEARNTI",
+            "NASTERI"
           ],
           "answerIndex": 0,
           "explanation": "Sorted A to Z: A, E, I, N, R, S, T."
@@ -1546,7 +1546,7 @@
         {
           "prompt": "Alphagram: ADEILPR. What 7-letter word means 'to jump or play joyfully'?",
           "options": [
-            "LIPREAD❌ -> DRAPIL❌ -> AIRLEDP❌ -> PLAIDER (7) -> PARLIED (7) -> LIPREAD (7)",
+            "LIPREAD❌ -> DRAPIL❌ -> AIRLEDP❌ -> PLAIDER (7) -> PARLIED (7) -> LIPREAD",
             "PLAIDER",
             "PARLIED",
             "LIPREAD"
@@ -1561,7 +1561,7 @@
             "Rote visual hallucination",
             "Luck and random guessing",
             "Physical tile weight",
-            "Pattern chunking and indexed mental retrieval (deliberate practice)"
+            "Pattern chunking and indexed mental retrieval"
           ],
           "answerIndex": 3,
           "explanation": "Pattern chunking and structured mental indexing.",
@@ -1610,10 +1610,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "TEARING (or TANGIER) (15.1) ",
-            "RATEING (15.2) ",
-            "GREATIN (15.3) ",
-            "TAGERIN (15.4) "
+            "TEARING",
+            "RATEING",
+            "GREATIN",
+            "TAGERIN"
           ],
           "answerIndex": 0,
           "explanation": "TEARING (and TANGIER) are valid 7-letter bingos."
@@ -1621,7 +1621,7 @@
         {
           "prompt": "If you play TEARING (worth 11 base points) across a Double Word Score square with all 7 tiles, what is your total score?",
           "options": [
-            "72 points ((11 x 2) + 50 bingo bonus)",
+            "72 points ((11 x 2) + 50 bingo bonus",
             "22 points",
             "50 points",
             "61 points"
@@ -1647,10 +1647,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 15:",
           "options": [
-            "ENTICED (also valid!)  (Task 15.1)",
-            "INCITED  (Task 15.2)",
-            "Both INCITED and ENTICED are valid!  (Task 15.3)",
-            "DECENTI  (Task 15.4)"
+            "ENTICED",
+            "INCITED",
+            "Both INCITED and ENTICED are valid!",
+            "DECENTI"
           ],
           "answerIndex": 2,
           "explanation": "Both INCITED and ENTICED are valid 7-letter bingos from {C, D, E, E, I, N, T}."
@@ -1688,7 +1688,7 @@
             "PONDER-S",
             "Both RESPOND and PONDERS are valid 7-letter bingos!",
             "PERSON-D",
-            "RESPOND (re-spond)"
+            "RESPOND"
           ],
           "answerIndex": 1,
           "explanation": "Both RESPOND and PONDERS are valid 7-letter bingos.",
@@ -1712,7 +1712,7 @@
             "Photographic memory",
             "Telepathy",
             "Pure random trial-and-error",
-            "Pattern recognition and chunking in long-term memory (deliberate practice)"
+            "Pattern recognition and chunking in long-term memory"
           ],
           "answerIndex": 3,
           "explanation": "Chunking and pattern retrieval (deliberate practice).",
@@ -1771,10 +1771,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "+25 points (16.1) ",
-            "+100 points (16.2) ",
-            "Double the entire board score (16.3) ",
-            "+50 points (Bingo bonus) (16.4) "
+            "+25 points",
+            "+100 points",
+            "Double the entire board score",
+            "+50 points"
           ],
           "answerIndex": 3,
           "explanation": "Playing all 7 tiles awards exactly +50 bonus points."
@@ -1784,7 +1784,7 @@
           "options": [
             "DATING",
             "DISTANCE",
-            "STAINED (or DESTAIN)",
+            "STAINED",
             "STANDUP"
           ],
           "answerIndex": 2,
@@ -1808,10 +1808,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
           "options": [
-            "K  (Task 16.1)",
-            "P  (Task 16.2)",
-            "M  (Task 16.3)",
-            "C  (Task 16.4)"
+            "K",
+            "P",
+            "M",
+            "C"
           ],
           "answerIndex": 3,
           "explanation": "TISANE + C = CINEAST."
@@ -1821,7 +1821,7 @@
           "options": [
             "STRAINER",
             "RESTRAIN",
-            "RETAINS (also NASTIER, RETINAS)",
+            "RETAINS",
             "TRAINERS"
           ],
           "answerIndex": 2,
@@ -1835,7 +1835,7 @@
           "prompt": "Why is TISANE considered the premier bingo stem in competitive Scrabble?",
           "options": [
             "It is worth 50 points by itself",
-            "It consists of the six most frequent 1-point tiles and forms valid 7-letter bingos with over 20 letters of the alphabet (deliberate practice)",
+            "It consists of the six most frequent 1-point tiles and forms valid 7-letter bingos with over 20 letters of the alphabet",
             "It was invented by Alfred Butts",
             "It can only be played in the center"
           ],
@@ -1846,7 +1846,7 @@
         {
           "prompt": "What word is formed by combining TISANE + X?",
           "options": [
-            "SEXTAIN (a 6-line poetic stanza)",
+            "SEXTAIN",
             "EXISTEN",
             "SEXTANT",
             "TAXISES"
@@ -1932,10 +1932,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "PIRATES (also PIASTRE, PRATIES) (17.1) ",
-            "PARTNER (17.2) ",
-            "PAINTER (17.3) ",
-            "PATIENT (17.4) "
+            "PIRATES",
+            "PARTNER",
+            "PAINTER",
+            "PATIENT"
           ],
           "answerIndex": 0,
           "explanation": "SATIRE + P = PIRATES, PIASTRE, PRATIES."
@@ -1943,7 +1943,7 @@
         {
           "prompt": "Which 7-letter anagram is formed by RETAIN + G?",
           "options": [
-            "GRANITE (also INGRATE, TEARING)",
+            "GRANITE",
             "GARNETS",
             "GIANTLY",
             "GAITERS"
@@ -1954,7 +1954,7 @@
         {
           "prompt": "Which 7-letter anagram is formed by SATIRE + D?",
           "options": [
-            "ASTRIDE (also STAIDER, ARIDEST)",
+            "ASTRIDE",
             "STANDER",
             "STORAGE",
             "STAINED"
@@ -1969,10 +1969,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
           "options": [
-            "TRENDIE  (Task 17.1)",
-            "STAINED  (Task 17.2)",
-            "TRADERS  (Task 17.3)",
-            "TRAINED (and DETRAIN)  (Task 17.4)"
+            "TRENDIE",
+            "STAINED",
+            "TRADERS",
+            "TRAINED"
           ],
           "answerIndex": 3,
           "explanation": "RETAIN + D = TRAINED / DETRAIN."
@@ -1983,7 +1983,7 @@
             "LANTERN",
             "LARIATS",
             "LEATHER",
-            "LATRINE (also ENTRAIL, RELIANT, RETINAL)"
+            "LATRINE"
           ],
           "answerIndex": 3,
           "explanation": "RETAIN + L = LATRINE, ENTRAIL, RELIANT, RETINAL."
@@ -2093,10 +2093,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "CENTRAL, CERTAIN (18.1) ",
-            "CHANCER, CHANCES (18.2) ",
-            "CORNERS, CABINET (18.3) ",
-            "NECTARS, TRANCES, RECANTS, CANTERS, SCANTER (18.4) "
+            "CENTRAL, CERTAIN",
+            "CHANCER, CHANCES",
+            "CORNERS, CABINET",
+            "NECTARS, TRANCES, RECANTS, CANTERS, SCANTER"
           ],
           "answerIndex": 3,
           "explanation": "SANTER + C yields 5 valid tournament bingos."
@@ -2107,7 +2107,7 @@
             "PARTNER",
             "POINTER",
             "PATIENT",
-            "PARENTS (also ENTRAPS, PASTERN, TREPANS)"
+            "PARENTS"
           ],
           "answerIndex": 3,
           "explanation": "STAREN + P = PARENTS, ENTRAPS, PASTERN."
@@ -2118,7 +2118,7 @@
             "GRANITE",
             "GAITERS",
             "GARDENS",
-            "GARNETS (and STRANGE)"
+            "GARNETS"
           ],
           "answerIndex": 3,
           "explanation": "STAREN + G = GARNETS, STRANGE."
@@ -2130,10 +2130,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
           "options": [
-            "TANKERS (and RANKEST)  (Task 18.1)",
-            "STALKER  (Task 18.2)",
-            "SPEAKER  (Task 18.3)",
-            "SKATERS  (Task 18.4)"
+            "TANKERS",
+            "STALKER",
+            "SPEAKER",
+            "SKATERS"
           ],
           "answerIndex": 0,
           "explanation": "SANTER + K = TANKERS / RANKEST."
@@ -2141,7 +2141,7 @@
         {
           "prompt": "Why is having 5 different anagram options (like NECTARS, TRANCES, RECANTS) valuable during a game?",
           "options": [
-            "It gives you multiple placement options to hit Triple Word Scores or hook onto open board tiles (deliberate practice)",
+            "It gives you multiple placement options to hit Triple Word Scores or hook onto open board tiles",
             "It gives you 5 times the score",
             "It confuses the opponent",
             "It allows playing 5 words at once"
@@ -2159,7 +2159,7 @@
             "ASTRIDE",
             "DETRAIN",
             "STAINED",
-            "STANDER (and DARNTEST)"
+            "STANDER"
           ],
           "answerIndex": 3,
           "explanation": "AENRST + D = STANDER.",
@@ -2181,7 +2181,7 @@
           "prompt": "Which stem combines with 'M' to form 'MARTENS' and 'SARMENT'?",
           "options": [
             "TISANE",
-            "SANTER (S-A-N-T-E-R)",
+            "SANTER",
             "RETINA",
             "SATIRE"
           ],
@@ -2192,7 +2192,7 @@
         {
           "prompt": "What is an 'alphagram'?",
           "options": [
-            "The letters of a word sorted in strict alphabetical order (e.g. AENRST for SANTER)",
+            "The letters of a word sorted in strict alphabetical order",
             "A telegram written in Greek",
             "A mathematical equation",
             "A special Scrabble tile"
@@ -2255,10 +2255,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "+25 to +30 points in expected scoring value (deliberate practice) (19.1) ",
-            "+5 points (19.2) ",
-            "+100 points (19.3) ",
-            "+0 points (it scores zero) (19.4) "
+            "+25 to +30 points in expected scoring value",
+            "+5 points",
+            "+100 points",
+            "+0 points"
           ],
           "answerIndex": 0,
           "explanation": "Blank equity is statistically valued at +25 to +30 points."
@@ -2266,7 +2266,7 @@
         {
           "prompt": "What is the golden rule regarding when to play a blank tile?",
           "options": [
-            "Only play a blank if it forms a +50 point bingo (or in the critical endgame)",
+            "Only play a blank if it forms a +50 point bingo",
             "Use it only for 2-letter words",
             "Never play the blank under any circumstances",
             "Play it immediately on turn 1 for any word"
@@ -2277,7 +2277,7 @@
         {
           "prompt": "If your rack contains the TISANE stem (A-E-I-N-S-T) plus a BLANK tile, what is your bingo probability?",
           "options": [
-            "100% guaranteed (you can represent any letter to form dozens of valid bingos)",
+            "100% guaranteed",
             "0%",
             "50%",
             "25%"
@@ -2292,10 +2292,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
           "options": [
-            "An 8-letter bingo uses all 7 tiles from your rack by playing THROUGH an existing tile on the board  (Task 19.1)",
-            "An 8-letter bingo cannot be challenged  (Task 19.2)",
-            "An 8-letter bingo requires holding 8 tiles on your rack  (Task 19.3)",
-            "An 8-letter bingo gives a 100-point bonus  (Task 19.4)"
+            "An 8-letter bingo uses all 7 tiles from your rack by playing THROUGH an existing tile on the board",
+            "An 8-letter bingo cannot be challenged",
+            "An 8-letter bingo requires holding 8 tiles on your rack",
+            "An 8-letter bingo gives a 100-point bonus"
           ],
           "answerIndex": 0,
           "explanation": "Plays 7 rack tiles through 1 board tile = 8 letters."
@@ -2303,7 +2303,7 @@
         {
           "prompt": "Which suffix is the most common anchor tile on the board for 8-letter extension bingos?",
           "options": [
-            "-S, -D, -R, or -G (for -ING)",
+            "-S, -D, -R, or -G",
             "-Q",
             "-J",
             "-Z"
@@ -2342,7 +2342,7 @@
         {
           "prompt": "What is an 8-letter word formed by playing TISANE + D through an existing 'E' on the board?",
           "options": [
-            "DESTAINED (or SEDATIEST)",
+            "DESTAINED",
             "DISTANCE",
             "DETERGENT",
             "DEBATING"
@@ -2368,7 +2368,7 @@
           "options": [
             "Playing as fast as possible without looking at the board",
             "Memorizing only 2-letter words",
-            "Balancing immediate points with future rack equity and stem optimization (deliberate practice)",
+            "Balancing immediate points with future rack equity and stem optimization",
             "Refusing to play defense"
           ],
           "answerIndex": 2,
@@ -2418,10 +2418,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "RETAINS, NASTIER, RETINAS, STAINER, ASTERIN (20.1) ",
-            "RESTRAIN, STRAINER (20.2) ",
-            "INTEREST, TRAINING (20.3) ",
-            "RETAINERS (20.4) "
+            "RETAINS, NASTIER, RETINAS, STAINER, ASTERIN",
+            "RESTRAIN, STRAINER",
+            "INTEREST, TRAINING",
+            "RETAINERS"
           ],
           "answerIndex": 0,
           "explanation": "AEINRST forms 5 valid 7-letter tournament words."
@@ -2455,10 +2455,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
           "options": [
-            "SANTER + G  (Task 20.1)",
-            "RETAIN + G  (Task 20.2)",
-            "SATIRE + G  (Task 20.3)",
-            "TISANE + G  (Task 20.4)"
+            "SANTER + G",
+            "RETAIN + G",
+            "SATIRE + G",
+            "TISANE + G"
           ],
           "answerIndex": 1,
           "explanation": "RETAIN + G = GRANITE."
@@ -2519,7 +2519,7 @@
           "options": [
             "CENTRAL",
             "CABINET",
-            "CINEAST (or ACETINS)",
+            "CINEAST",
             "CANTERS"
           ],
           "answerIndex": 2,
@@ -2582,10 +2582,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because an S tile scores 10 points on the board. (21.1) ",
-            "Because there are 50 S tiles in the bag. (21.2) ",
-            "Because S gives an extra turn. (21.3) ",
-            "Because the 'S' can hook onto the end of almost any noun/verb to form parallel words and easily converts 6-letter stems into 50-point bingos. (21.4) "
+            "Because an S tile scores 10 points on the board.",
+            "Because there are 50 S tiles in the bag.",
+            "Because S gives an extra turn.",
+            "Because the 'S' can hook onto the end of almost any noun/verb to form parallel words and easily converts 6-letter stems into 50-point bingos."
           ],
           "answerIndex": 3,
           "explanation": "S provides unmatched hook flexibility and bingo conversion power."
@@ -2595,7 +2595,7 @@
           "options": [
             "+24",
             "+18",
-            "+42 Net Equity (30 + 12 = 42)",
+            "+42 Net Equity",
             "+30"
           ],
           "answerIndex": 2,
@@ -2608,10 +2608,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
           "options": [
-            "R-E-T  (Task 21.1)",
-            "A-E-I-N  (Task 21.2)",
-            "S-T-A-R  (Task 21.3)",
-            "U-U-V-W (multiple awkward consonants and duplicate U's)  (Task 21.4)"
+            "R-E-T",
+            "A-E-I-N",
+            "S-T-A-R",
+            "U-U-V-W"
           ],
           "answerIndex": 3,
           "explanation": "U-U-V-W combines duplicate rare vowels and uncooperative consonants."
@@ -2634,7 +2634,7 @@
         {
           "prompt": "Match the rack leaves to their qualitative equity value: '?-S-E-R', 'R-E-T-I-N', 'U-U-U-V', 'Q-W-V':",
           "options": [
-            "?-S-E-R: Supreme positive (+35) | R-E-T-I-N: Elite bingo stem (+15) | U-U-U-V: Severe negative (-18) | Q-W-V: Crippling negative (-20)",
+            "?-S-E-R: Supreme positive (+35) | R-E-T-I-N: Elite bingo stem (+15) | U-U-U-V: Severe negative (-18) | Q-W-V: Crippling negative",
             "All vowels are positive",
             "Consonants are always negative",
             "All are equal value"
@@ -2649,7 +2649,7 @@
             "Move 2 because 28 is bigger than 18",
             "Both are identical",
             "Neither move is legal",
-            "Move 1 (18 pts + EINR leave of +12 = +30 equity vs. Move 2's 28 pts + EU leave of -2 = +26 equity)"
+            "Move 1"
           ],
           "answerIndex": 3,
           "explanation": "Move 1 preserves the elite 4-letter bingo core EINR (+12 equity).",
@@ -2723,10 +2723,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "3 Vowels and 4 Consonants (or 4 Vowels and 3 Consonants) (22.1) ",
-            "1 Vowel and 6 Consonants (22.2) ",
-            "6 Vowels and 1 Consonant (22.3) ",
-            "7 Consonants and 0 Vowels (22.4) "
+            "3 Vowels and 4 Consonants",
+            "1 Vowel and 6 Consonants",
+            "6 Vowels and 1 Consonant",
+            "7 Consonants and 0 Vowels"
           ],
           "answerIndex": 0,
           "explanation": "3V:4C or 4V:3C mirrors the natural phonotactic distribution of English."
@@ -2734,9 +2734,9 @@
         {
           "prompt": "You hold: A-A-E-I-O-U-D. Which play best fixes your rack?",
           "options": [
-            "Play 'AUDIO' (dumps 4 vowels, leaves clean A-E balance)",
-            "Play 'AD' (leaves AEIOU - still vowel choked)",
-            "Play 'DA' (leaves AEIOU)",
+            "Play 'AUDIO'",
+            "Play 'AD'",
+            "Play 'DA'",
             "Pass turn"
           ],
           "answerIndex": 0,
@@ -2749,10 +2749,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
           "options": [
-            "Because consonants score less points.  (Task 22.1)",
-            "Because vowels are illegal in short words.  (Task 22.2)",
-            "Because most English words require alternating vowel-consonant patterns, severely restricting your scoring and bingo potential.  (Task 22.3)",
-            "Because you must skip your turn.  (Task 22.4)"
+            "Because consonants score less points.",
+            "Because vowels are illegal in short words.",
+            "Because most English words require alternating vowel-consonant patterns, severely restricting your scoring and bingo potential.",
+            "Because you must skip your turn."
           ],
           "answerIndex": 2,
           "explanation": "Lack of vowels creates physical word-building bottlenecks."
@@ -2763,7 +2763,7 @@
             "AEIOU",
             "OUIA",
             "AAAA",
-            "AERIE (A-E-R-I-E) or AUDIO (A-U-D-I-O)"
+            "AERIE (A-E-R-I-E) or AUDIO"
           ],
           "answerIndex": 3,
           "explanation": "AERIE and AUDIO are classic tournament vowel-dump words."
@@ -2775,10 +2775,10 @@
         {
           "prompt": "Evaluate these four racks and identify the single BALANCED rack:",
           "options": [
-            "B-C-D-F-G-K-T (0 Vowels — Total Gridlock)",
-            "A-E-I-O-U-A-E (7 Vowels — Total Paralysis)",
-            "A-A-A-E-E-E-D (6 Vowels — Vowel Choked)",
-            "E-I-O-R-S-T-D (3 Vowels, 4 Consonants — Perfect Golden Ratio)"
+            "B-C-D-F-G-K-T",
+            "A-E-I-O-U-A-E",
+            "A-A-A-E-E-E-D",
+            "E-I-O-R-S-T-D"
           ],
           "answerIndex": 3,
           "explanation": "3V:4C with versatile letters represents the optimal rack.",
@@ -2800,7 +2800,7 @@
           "prompt": "What percentage of the standard 100-tile English Scrabble bag consists of vowels (A, E, I, O, U)?",
           "options": [
             "70%",
-            "42% (42 vowel tiles out of 100 total tiles, plus 2 blanks)",
+            "42%",
             "25%",
             "10%"
           ],
@@ -2864,10 +2864,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because 18 points is a lucky number. (23.1) ",
-            "Because U is illegal on turn 2. (23.2) ",
-            "There is no difference. (23.3) ",
-            "Because 'E-I-N-R-S' has a +16 leave equity and over 70% chance of a 70+ point bingo on the next draw, whereas 'U-U-V-W' inflicts a multi-turn scoring drought. (23.4) "
+            "Because 18 points is a lucky number.",
+            "Because U is illegal on turn 2.",
+            "There is no difference.",
+            "Because 'E-I-N-R-S' has a +16 leave equity and over 70% chance of a 70+ point bingo on the next draw, whereas 'U-U-V-W' inflicts a multi-turn scoring drought."
           ],
           "answerIndex": 3,
           "explanation": "EINRS leave equity generates overwhelming multi-turn scoring advantage."
@@ -2878,7 +2878,7 @@
             "Move A because it scores 6 more points right now",
             "Pass turn",
             "Exchange all 7 tiles",
-            "Move B (plays 'QI' to dump the Q tile, leaving the elite 5-letter bingo stem AENRS)"
+            "Move B"
           ],
           "answerIndex": 3,
           "explanation": "Dumping the Q for 22 pts unlocks the 5-letter bingo stem AENRS."
@@ -2890,10 +2890,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
           "options": [
-            "You should readily sacrifice up to 8-12 board points if the play dramatically upgrades your rack to an elite bingo leave.  (Task 23.1)",
-            "You must score at least 10 points every turn.  (Task 23.2)",
-            "You lose 10 points if you take too long.  (Task 23.3)",
-            "You must give the opponent 10 points.  (Task 23.4)"
+            "You should readily sacrifice up to 8-12 board points if the play dramatically upgrades your rack to an elite bingo leave.",
+            "You must score at least 10 points every turn.",
+            "You lose 10 points if you take too long.",
+            "You must give the opponent 10 points."
           ],
           "answerIndex": 0,
           "explanation": "Sacrificing 8-12 points for elite rack equity is mathematically optimal."
@@ -2914,11 +2914,11 @@
     "checkpointTest": {
       "items": [
         {
-          "prompt": "Compare two moves with rack E-I-O-R-T-U-V:\nMove 1: 'VOTE' on DWS for 34 pts (leaves IRU).\nMove 2: 'VU' on DLS for 24 pts (leaves EIORT).\nWhich move has higher Net Turn Equity?",
+          "prompt": "Compare two moves with rack E-I-O-R-T-U-V: Move 1: 'VOTE' on DWS for 34 pts (leaves IRU). Move 2: 'VU' on DLS for 24 pts (leaves EIORT). Which move has higher Net Turn Equity?",
           "options": [
             "Move 1 because 34 is larger than 24",
             "Neither is valid",
-            "Move 2 (24 pts + EIORT leave of +14 = +38 net equity vs. Move 1's 34 pts + IRU leave of +1 = +35 net equity)",
+            "Move 2",
             "Both are equal"
           ],
           "answerIndex": 2,
@@ -3005,10 +3005,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "When your rack is severely crippled (e.g. U-U-U-V-W), no board play scores over 10-12 points, and there are plenty of tiles remaining in the bag. (24.1) ",
-            "On turn 1 of every game. (24.2) ",
-            "When you hold a blank tile. (24.3) ",
-            "Whenever you don't feel like thinking. (24.4) "
+            "When your rack is severely crippled (e.g. U-U-U-V-W), no board play scores over 10-12 points, and there are plenty of tiles remaining in the bag.",
+            "On turn 1 of every game.",
+            "When you hold a blank tile.",
+            "Whenever you don't feel like thinking."
           ],
           "answerIndex": 0,
           "explanation": "Exchange is justified when board dumps cannot yield points or repair the rack."
@@ -3031,10 +3031,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
           "options": [
-            "Because you gain 22 actual points on the scoreboard AND successfully remove the awkward Q from your rack in the same turn.  (Task 24.1)",
-            "Because you get two turns in a row.  (Task 24.2)",
-            "Because QI is worth 100 points.  (Task 24.3)",
-            "Because exchanging Q is illegal.  (Task 24.4)"
+            "Because you gain 22 actual points on the scoreboard AND successfully remove the awkward Q from your rack in the same turn.",
+            "Because you get two turns in a row.",
+            "Because QI is worth 100 points.",
+            "Because exchanging Q is illegal."
           ],
           "answerIndex": 0,
           "explanation": "Dumping scores positive points while simultaneously curing the rack defect."
@@ -3055,10 +3055,10 @@
     "checkpointTest": {
       "items": [
         {
-          "prompt": "Rank the priority of dealing with an awkward rack from BEST to WORST strategy:\n1. Partial Tile Exchange (0 pts, perfect rack)\n2. High-Scoring Board Dump (25 pts, fixes rack)\n3. Weak Board Play (8 pts, leaves junk rack)",
+          "prompt": "Rank the priority of dealing with an awkward rack from BEST to WORST strategy: 1. Partial Tile Exchange (0 pts, perfect rack) 2. High-Scoring Board Dump (25 pts, fixes rack) 3. Weak Board Play (8 pts, leaves junk rack)",
           "options": [
             "Best: 3 -> Middle: 2 -> Worst: 1",
-            "Best: 2 (High-Scoring Dump) -> Middle: 1 (Partial Exchange) -> Worst: 3 (Weak Play leaving junk)",
+            "Best: 2 (High-Scoring Dump) -> Middle: 1 (Partial Exchange) -> Worst: 3",
             "Best: 1 -> Middle: 3 -> Worst: 2",
             "All are equal"
           ],
@@ -3095,7 +3095,7 @@
           "options": [
             "10-point tiles / 1-point tiles",
             "vowels / consonants",
-            "synergistic bingo core (E, R, S, T) / duplicate and awkward letters (U, V, W)",
+            "synergistic bingo core (E, R, S, T) / duplicate and awkward letters",
             "blanks / letters"
           ],
           "answerIndex": 2,
@@ -3146,10 +3146,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because eliminating the duplicate V and keeping the elite 'E-I-N-R' bingo core produces +40 net turn equity (+8 points higher than VANE) and sets up a high-probability bingo next turn. (25.1) ",
-            "Because VAV is spelled backwards. (25.2) ",
-            "Because VANE is an invalid word. (25.3) ",
-            "Because VANE opens three Triple Word Scores. (25.4) "
+            "Because eliminating the duplicate V and keeping the elite 'E-I-N-R' bingo core produces +40 net turn equity (+8 points higher than VANE) and sets up a high-probability bingo next turn.",
+            "Because VAV is spelled backwards.",
+            "Because VANE is an invalid word.",
+            "Because VANE opens three Triple Word Scores."
           ],
           "answerIndex": 0,
           "explanation": "VAV eliminates the duplicate V and preserves the elite EINR bingo stem."
@@ -3172,10 +3172,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
           "options": [
-            "The opponent scored 100 points.  (Task 25.1)",
-            "The player drew S-T-A to pair with E-I-N-R, hitting a 78-point bingo ('TRAINES' / 'RETAINS') to blow the game wide open.  (Task 25.2)",
-            "The game ended in a draw.  (Task 25.3)",
-            "The player was forced to exchange tiles.  (Task 25.4)"
+            "The opponent scored 100 points.",
+            "The player drew S-T-A to pair with E-I-N-R, hitting a 78-point bingo ('TRAINES' / 'RETAINS') to blow the game wide open.",
+            "The game ended in a draw.",
+            "The player was forced to exchange tiles."
           ],
           "answerIndex": 1,
           "explanation": "EINR converted directly into a game-winning 7-letter bingo."
@@ -3183,7 +3183,7 @@
         {
           "prompt": "What is the Net Equity formula that every advanced Scrabble player computes instinctively?",
           "options": [
-            "Net Turn Equity = (Board Turn Score) + (Leave Value Equity)",
+            "Net Turn Equity = (Board Turn Score) +",
             "Net Equity = Tiles in Bag - Opponent Score",
             "Net Equity = Number of Vowels x 10",
             "Net Equity = Turn Score / 2"
@@ -3208,12 +3208,12 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Rank these four 4-letter leaves from HIGHEST equity to LOWEST equity:\nA: E-I-N-R\nB: ?-S-E-T\nC: U-U-V-W\nD: A-E-O-U",
+          "prompt": "Rank these four 4-letter leaves from HIGHEST equity to LOWEST equity: A: E-I-N-R B: ?-S-E-T C: U-U-V-W D: A-E-O-U",
           "options": [
             "C > D > A > B",
             "A > B > C > D",
             "D > C > B > A",
-            "B (?-S-E-T: +32) > A (E-I-N-R: +14) > D (A-E-O-U: -6) > C (U-U-V-W: -16)"
+            "B (?-S-E-T: +32) > A (E-I-N-R: +14) > D (A-E-O-U: -6) > C"
           ],
           "answerIndex": 3,
           "explanation": "Blank+S+ET > EINR > Vowel heavy > Awkward duplicate consonants.",
@@ -3235,7 +3235,7 @@
           "prompt": "What is the next frontier of Scrabble mastery in Unit 7?",
           "options": [
             "Playing Scrabble in French",
-            "Tile Tracking & Endgame Technique (tracking all 100 tiles, deducing the opponent's exact rack in the endgame, and calculating forced-win outplay sequences)",
+            "Tile Tracking & Endgame Technique",
             "Memorizing the dictionary backwards",
             "Buying a larger Scrabble board"
           ],
@@ -3281,10 +3281,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "18 tiles (26.1) ",
-            "15 tiles (26.2) ",
-            "8 tiles (26.3) ",
-            "11 tiles (100 - 82 - 7 = 11) (26.4) "
+            "18 tiles",
+            "15 tiles",
+            "8 tiles",
+            "11 tiles"
           ],
           "answerIndex": 3,
           "explanation": "100 total - 82 on board - 7 on rack = 11 unseen tiles (4 in bag, 7 in opponent rack)."
@@ -3307,10 +3307,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
           "options": [
-            "Exchange all your tiles for vowels  (Task 26.1)",
-            "Play 7-letter vowel words only  (Task 26.2)",
-            "Resign the game  (Task 26.3)",
-            "Dump your own vowels and hoard consonants, knowing your opponent is guaranteed to suffer severe vowel-heaviness and cannot bingo  (Task 26.4)"
+            "Exchange all your tiles for vowels",
+            "Play 7-letter vowel words only",
+            "Resign the game",
+            "Dump your own vowels and hoard consonants, knowing your opponent is guaranteed to suffer severe vowel-heaviness and cannot bingo"
           ],
           "answerIndex": 3,
           "explanation": "Exploiting known opponent vowel overload by keeping a balanced consonant rack."
@@ -3321,7 +3321,7 @@
             "8 tiles",
             "15 tiles",
             "10 tiles",
-            "12 tiles (the most frequent letter in the English language)"
+            "12 tiles"
           ],
           "answerIndex": 3,
           "explanation": "There are 12 E tiles in a standard 100-tile set."
@@ -3416,10 +3416,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "When the tile bag contains between 1 and 6 tiles remaining (27.1) ",
-            "When both players have 1 blank (27.2) ",
-            "When the score is tied at 200 (27.3) ",
-            "When the game reaches 10 minutes (27.4) "
+            "When the tile bag contains between 1 and 6 tiles remaining",
+            "When both players have 1 blank",
+            "When the score is tied at 200",
+            "When the game reaches 10 minutes"
           ],
           "answerIndex": 0,
           "explanation": "Pre-endgame is the transitional phase with 1–6 tiles left in the bag."
@@ -3442,10 +3442,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
           "options": [
-            "Play defensive 2-letter words only  (Task 27.1)",
-            "Pass your turn  (Task 27.2)",
-            "Keep high-synergy bingo stems on your rack and open up multiple floating vowel lanes, maximizing your chances of drawing the Blank/S and playing a comeback bingo  (Task 27.3)",
-            "Exchange all your tiles  (Task 27.4)"
+            "Play defensive 2-letter words only",
+            "Pass your turn",
+            "Keep high-synergy bingo stems on your rack and open up multiple floating vowel lanes, maximizing your chances of drawing the Blank/S and playing a comeback bingo",
+            "Exchange all your tiles"
           ],
           "answerIndex": 2,
           "explanation": "Trailing in pre-endgame demands opening the board and fishing for the power tiles."
@@ -3481,7 +3481,7 @@
           "prompt": "If 4 tiles remain in the bag and you play a 5-letter word, how many tiles do you draw?",
           "options": [
             "0 tiles",
-            "All 4 remaining tiles (leaving the bag empty at 0 tiles)",
+            "All 4 remaining tiles",
             "7 tiles",
             "5 tiles"
           ],
@@ -3551,10 +3551,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "18 points (28.1) ",
-            "9 points (28.2) ",
-            "50 points (28.3) ",
-            "36 points (+18 added to your score, -18 deducted from opponent's score) (28.4) "
+            "18 points",
+            "9 points",
+            "50 points",
+            "36 points"
           ],
           "answerIndex": 3,
           "explanation": "Double penalty rule: 2 × (10 + 8) = 36 point net swing."
@@ -3577,10 +3577,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
           "options": [
-            "Winning by 28 points (8 lead + 6 play + 14 transfer = 28 point final margin)  (Task 28.1)",
-            "Winning by 8 points  (Task 28.2)",
-            "Winning by 14 points  (Task 28.3)",
-            "Losing by 2 points  (Task 28.4)"
+            "Winning by 28 points",
+            "Winning by 8 points",
+            "Winning by 14 points",
+            "Losing by 2 points"
           ],
           "answerIndex": 0,
           "explanation": "Final margin: 8 + 6 + 2(7) = 28 points."
@@ -3686,10 +3686,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because V cannot be played on triple word squares (29.1) ",
-            "Because there is no valid 2-letter word containing 'V' in the official English Scrabble dictionary, requiring at least a 3-letter open lane (29.2) ",
-            "Because V must be played with a blank (29.3) ",
-            "Because V is worth 50 points (29.4) "
+            "Because V cannot be played on triple word squares",
+            "Because there is no valid 2-letter word containing 'V' in the official English Scrabble dictionary, requiring at least a 3-letter open lane",
+            "Because V must be played with a blank",
+            "Because V is worth 50 points"
           ],
           "answerIndex": 1,
           "explanation": "No 2-letter V words exist in English Scrabble (no VA, VE, VI, VO, VU)."
@@ -3712,10 +3712,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
           "options": [
-            "Play across or adjacent to the 'I' on row 8 to kill the 'QI' spot, permanently stranding their Q for a 20-point penalty  (Task 29.1)",
-            "Wait for them to play  (Task 29.2)",
-            "Pass your turn  (Task 29.3)",
-            "Play off the 'E'  (Task 29.4)"
+            "Play across or adjacent to the 'I' on row 8 to kill the 'QI' spot, permanently stranding their Q for a 20-point penalty",
+            "Wait for them to play",
+            "Pass your turn",
+            "Play off the 'E'"
           ],
           "answerIndex": 0,
           "explanation": "Killing the last 'QI' spot traps the Q permanently."
@@ -3775,7 +3775,7 @@
           "prompt": "Complete: 'A trapped Q in the endgame is worth _______ to the opponent.'",
           "options": [
             "0 points",
-            "-20 net points (loss of 10 plus 10 awarded to winner)",
+            "-20 net points",
             "+50 points",
             "-5 points"
           ],
@@ -3821,10 +3821,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "46 points (+18 play points + 28 double transfer bonus) (30.1) ",
-            "18 points (30.2) ",
-            "14 points (30.3) ",
-            "32 points (30.4) "
+            "46 points",
+            "18 points",
+            "14 points",
+            "32 points"
           ],
           "answerIndex": 0,
           "explanation": "18 play points + 28 transfer points = 46 net point gain."
@@ -3847,10 +3847,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
           "options": [
-            "Memorizing only 2-letter words  (Task 30.1)",
-            "Every play is evaluated as: Immediate Score + Leave Value + Board Equity + Endgame Transfer Probability (deliberate practice)  (Task 30.2)",
-            "Speed of drawing tiles from the bag  (Task 30.3)",
-            "Playing the longest word possible every turn  (Task 30.4)"
+            "Memorizing only 2-letter words",
+            "Every play is evaluated as: Immediate Score + Leave Value + Board Equity + Endgame Transfer Probability",
+            "Speed of drawing tiles from the bag",
+            "Playing the longest word possible every turn"
           ],
           "answerIndex": 1,
           "explanation": "Comprehensive move equity synthesis is the hallmark of master Scrabble."
@@ -3859,7 +3859,7 @@
           "prompt": "What is the final frontier awaiting you in Unit 8 of Scrabble Strategy?",
           "options": [
             "Memorizing the dictionary from A to Z",
-            "Competitive Word Lists (J, Q, X, Z high-value word mastery, vowel-heavy dumps, and tournament power lists)",
+            "Competitive Word Lists",
             "Buying electronic tiles",
             "Learning a new board game"
           ],
@@ -3887,7 +3887,7 @@
           "options": [
             "28 points",
             "14 points",
-            "56 points (+28 to your score, -28 from opponent)",
+            "56 points",
             "70 points"
           ],
           "answerIndex": 2,
@@ -3956,10 +3956,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "QU (31.1) ",
-            "QA (31.2) ",
-            "QO (31.3) ",
-            "QI (vital life force in traditional Chinese culture) (31.4) "
+            "QU",
+            "QA",
+            "QO",
+            "QI"
           ],
           "answerIndex": 3,
           "explanation": "'QI' is the only legal 2-letter Q word in Scrabble."
@@ -3982,10 +3982,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "QUE  (Task 31.1)",
-            "QUI  (Task 31.2)",
-            "QUO  (Task 31.3)",
-            "QAT (and QIS, QUA)  (Task 31.4)"
+            "QUE",
+            "QUI",
+            "QUO",
+            "QAT"
           ],
           "answerIndex": 3,
           "explanation": "QAT, QIS, and QUA are valid 3-letter Q-words without U."
@@ -3996,7 +3996,7 @@
             "2 words",
             "10 words",
             "1 word",
-            "5 words (AX, EX, OX, XI, XU)"
+            "5 words"
           ],
           "answerIndex": 3,
           "explanation": "AX, EX, OX, XI, and XU."
@@ -4032,7 +4032,7 @@
         {
           "prompt": "What makes 2-letter power words the single most valuable weapon in competitive Scrabble?",
           "options": [
-            "They can be tucked into tight parallel corridors across premium multiplier squares to generate 40-60 points while using almost zero rack resources (deliberate practice)",
+            "They can be tucked into tight parallel corridors across premium multiplier squares to generate 40-60 points while using almost zero rack resources",
             "They are required before playing bingos",
             "They let you redraw tiles",
             "They double the opponent's timer"
@@ -4091,10 +4091,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "MIAOU (valid cat sound in official Scrabble lexicon) (32.1) ",
-            "MIAOW (32.2) ",
-            "MAUVE (32.3) ",
-            "MOOSE (32.4) "
+            "MIAOU",
+            "MIAOW",
+            "MAUVE",
+            "MOOSE"
           ],
           "answerIndex": 0,
           "explanation": "'MIAOU' is a legal 5-letter word with 4 vowels."
@@ -4102,7 +4102,7 @@
         {
           "prompt": "Which of the following is a legal 2-letter word consisting entirely of vowels?",
           "options": [
-            "AA (and AE, AI, EA, EE, OE, OI, OU)",
+            "AA",
             "AO",
             "UA",
             "IU"
@@ -4117,10 +4117,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "STREETS  (Task 32.1)",
-            "REST  (Task 32.2)",
-            "EERIE (dumps 4 vowels E-E-I-E) or ERE/AIR, preserving R-S-T  (Task 32.3)",
-            "Exchange all 7 tiles  (Task 32.4)"
+            "STREETS",
+            "REST",
+            "EERIE (dumps 4 vowels E-E-I-E) or ERE/AIR, preserving R-S-T",
+            "Exchange all 7 tiles"
           ],
           "answerIndex": 2,
           "explanation": "Playing a vowel dump preserves the powerhouse RST consonant leave."
@@ -4144,7 +4144,7 @@
           "prompt": "Match the vowel dump words: AGUE, OLEO, URAEI, EAU:",
           "options": [
             "All mean types of trees",
-            "AGUE: Fever | OLEO: Margarine | URAEI: Sacred Egyptian serpents | EAU: Water (French loanword)",
+            "AGUE: Fever | OLEO: Margarine | URAEI: Sacred Egyptian serpents | EAU: Water",
             "All are abbreviations",
             "All mean musical terms"
           ],
@@ -4155,7 +4155,7 @@
         {
           "prompt": "Why is playing a 12-point vowel dump (like 'AGUE') almost always superior to doing a 0-point tile exchange of 4 vowels?",
           "options": [
-            "Because the vowel dump scores 12 immediate points, advances the board state, and achieves the exact same rack-curing result as an exchange without giving up a whole turn (deliberate practice)",
+            "Because the vowel dump scores 12 immediate points, advances the board state, and achieves the exact same rack-curing result as an exchange without giving up a whole turn",
             "Because exchanges are banned in tournaments",
             "Because vowel dumps give extra tiles",
             "Because exchanges cost $10 in cash"
@@ -4226,10 +4226,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "CRW (33.1) ",
-            "CWN (33.2) ",
-            "CWT (33.3) ",
-            "CWM (pronounced 'koom') (33.4) "
+            "CRW",
+            "CWN",
+            "CWT",
+            "CWM"
           ],
           "answerIndex": 3,
           "explanation": "'CWM' is a legal 3-letter vowelless word."
@@ -4240,7 +4240,7 @@
             "STRENGTH",
             "RHYTHM",
             "SCHTSCH",
-            "CRWTH (and plural CRWTHS - ancient Celtic bowed lyre)"
+            "CRWTH"
           ],
           "answerIndex": 3,
           "explanation": "CRWTH (5 letters) and CRWTHS (6 letters) have zero standard English vowels (A, E, I, O, U, Y)."
@@ -4252,10 +4252,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "PHT (or BRR, HM, SH)  (Task 33.1)",
-            "BAT  (Task 33.2)",
-            "CAT  (Task 33.3)",
-            "DOG  (Task 33.4)"
+            "PHT",
+            "BAT",
+            "CAT",
+            "DOG"
           ],
           "answerIndex": 0,
           "explanation": "PHT (sound of puff) uses only P, H, T."
@@ -4263,7 +4263,7 @@
         {
           "prompt": "Which of the following is a legal 4-letter vowelless word meaning scolding clicks of the tongue?",
           "options": [
-            "TSKS (and PSST)",
+            "TSKS",
             "CLCK",
             "TTTT",
             "ZZZZ"
@@ -4304,7 +4304,7 @@
           "options": [
             "4 letters",
             "3 letters",
-            "6 letters (T-S-K-T-S-K)",
+            "6 letters",
             "8 letters"
           ],
           "answerIndex": 2,
@@ -4361,10 +4361,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "HEATING (34.1) ",
-            "HAIRNET (34.2) ",
-            "HATTIRE (34.3) ",
-            "HOTRAIN (34.4) "
+            "HEATING",
+            "HAIRNET",
+            "HATTIRE",
+            "HOTRAIN"
           ],
           "answerIndex": 1,
           "explanation": "R-E-T-I-N-A + H = HAIRNET."
@@ -4372,7 +4372,7 @@
         {
           "prompt": "Which 7-letter bingo is formed by combining the stem RETINA with the letter 'M'?",
           "options": [
-            "MINARET (and RAIMENT)",
+            "MINARET",
             "MORNING",
             "MASTERY",
             "MARTINI"
@@ -4387,10 +4387,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "5 distinct bingos (NASTIER, RETAINS, RETINAS, STAINER, STEARIN)  (Task 34.1)",
-            "12 bingos  (Task 34.2)",
-            "1 bingo  (Task 34.3)",
-            "0 bingos  (Task 34.4)"
+            "5 distinct bingos",
+            "12 bingos",
+            "1 bingo",
+            "0 bingos"
           ],
           "answerIndex": 0,
           "explanation": "NASTIER, RETAINS, RETINAS, STAINER, STEARIN."
@@ -4398,7 +4398,7 @@
         {
           "prompt": "What makes 'TISANE' and 'RETINA' the highest equity bingo stems in the English language?",
           "options": [
-            "They contain the 6 most common letters in the English language (E, T, A, I, N, R/S), which fit with almost every single consonant and vowel in the bag to form valid words (deliberate practice)",
+            "They contain the 6 most common letters in the English language (E, T, A, I, N, R/S), which fit with almost every single consonant and vowel in the bag to form valid words",
             "They cannot be blocked on the board",
             "They are worth 50 points by themselves",
             "They are French words"
@@ -4427,7 +4427,7 @@
           "options": [
             "SOLDIER",
             "SILENCE",
-            "SALIENT (and ENTAILS, TENAILS)",
+            "SALIENT",
             "STOLEN"
           ],
           "answerIndex": 2,
@@ -4438,7 +4438,7 @@
           "prompt": "Why is keeping a 6-letter bingo stem on your rack worth sacrificing 15-20 points of immediate turn score?",
           "options": [
             "Because the referee gives extra time",
-            "Because an intact stem yields an ~85-95% probability of hitting a 50-point bonus bingo on the very next turn, generating a massive net positive expected value (+EV)",
+            "Because an intact stem yields an ~85-95% probability of hitting a 50-point bonus bingo on the very next turn, generating a massive net positive expected value",
             "Because stems are worth double face value",
             "Because 7-letter words are illegal on turn 1"
           ],
@@ -4496,10 +4496,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because blocking the 'ZA' spot permanently trapped the 10-point 'Z' on the opponent's rack, denying them 32 points and converting their 'Z' into a +20 point penalty bonus in your favor (35.1) ",
-            "Because QAT is worth 100 points (35.2) ",
-            "Because QAT was a bingo (35.3) ",
-            "Because Z is an illegal tile (35.4) "
+            "Because blocking the 'ZA' spot permanently trapped the 10-point 'Z' on the opponent's rack, denying them 32 points and converting their 'Z' into a +20 point penalty bonus in your favor",
+            "Because QAT is worth 100 points",
+            "Because QAT was a bingo",
+            "Because Z is an illegal tile"
           ],
           "answerIndex": 0,
           "explanation": "Blocking the opponent's only power spot trapped their 10-point tile and secured a +52 point net swing."
@@ -4507,7 +4507,7 @@
         {
           "prompt": "What are the 5 core pillars of competitive Scrabble mastery synthesized across all 8 units?",
           "options": [
-            "1. 2-Letter/3-Letter Short Words; 2. Premium Multiplier Geometry; 3. Rack Balance & Leave Equity; 4. 100-Tile Tracking & Endgame Math; 5. 6-Letter Bingo Stems (RETINA/TISANE)",
+            "1. 2-Letter/3-Letter Short Words; 2. Premium Multiplier Geometry; 3. Rack Balance & Leave Equity; 4. 100-Tile Tracking & Endgame Math; 5. 6-Letter Bingo Stems",
             "1. Long words only; 2. Fast drawing; 3. Tile weight; 4. Board size; 5. Luck",
             "1. Memorizing the dictionary backwards only",
             "1. Buying special tiles only"
@@ -4522,10 +4522,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "Move Equity = Tile face value multiplied by 10  (Task 35.1)",
-            "Move Equity = Immediate Turn Score + Rack Leave Value + Board Control Differential + Opponent Response Penalty (deliberate practice)  (Task 35.2)",
-            "Move Equity = Remaining time on the clock  (Task 35.3)",
-            "Move Equity = Number of letters in the word  (Task 35.4)"
+            "Move Equity = Tile face value multiplied by 10",
+            "Move Equity = Immediate Turn Score + Rack Leave Value + Board Control Differential + Opponent Response Penalty",
+            "Move Equity = Remaining time on the clock",
+            "Move Equity = Number of letters in the word"
           ],
           "answerIndex": 1,
           "explanation": "Total Move Equity combines score, leave equity, board differential, and defense."
@@ -4572,7 +4572,7 @@
         {
           "prompt": "Which 6-letter stem is celebrated as the single highest probability bingo generator in English Scrabble?",
           "options": [
-            "RETINA (forming valid 7-letter bingos with virtually every letter of the alphabet)",
+            "RETINA",
             "BCDFGH",
             "ZYZZYV",
             "AEIOUU"
@@ -4635,10 +4635,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "6x multiplier (3 + 3) (36.1) ",
-            "3x multiplier (36.2) ",
-            "12x multiplier (36.3) ",
-            "9x multiplier (3 x 3 = 9x, plus 50 bonus if using all 7 tiles) (36.4) "
+            "6x multiplier",
+            "3x multiplier",
+            "12x multiplier",
+            "9x multiplier"
           ],
           "answerIndex": 3,
           "explanation": "Two TWS squares multiply sequentially: 3 x 3 = 9x."
@@ -4661,10 +4661,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "51 points  (Task 36.1)",
-            "75 points  (Task 36.2)",
-            "102 points  (Task 36.3)",
-            "99 points: (8 + 1 + 24) x 3 = 33 x 3 = 99  (Task 36.4)"
+            "51 points",
+            "75 points",
+            "102 points",
+            "99 points: (8 + 1 + 24) x 3 = 33 x 3 = 99"
           ],
           "answerIndex": 3,
           "explanation": "J(8) + A(1) + X on TLS(24) = 33. Multiplied by 3 (TWS) = 99 points!"
@@ -4714,7 +4714,7 @@
             "4 squares",
             "12 squares",
             "16 squares",
-            "8 squares (4 corners and 4 edge midpoints)"
+            "8 squares"
           ],
           "answerIndex": 3,
           "explanation": "There are exactly 8 red TWS squares on the board.",
@@ -4774,10 +4774,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "V (Almost no English words add a single letter to end-of-word V) (37.1) ",
-            "D (37.2) ",
-            "S (37.3) ",
-            "E (37.4) "
+            "V",
+            "D",
+            "S",
+            "E"
           ],
           "answerIndex": 0,
           "explanation": "V has almost no single-letter front or back hooks in English Scrabble."
@@ -4800,10 +4800,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "Open wide floating lanes across the board.  (Task 37.1)",
-            "Play defensively, close open lanes, make tight parallel plays, and restrict bingo avenues.  (Task 37.2)",
-            "Pass every turn.  (Task 37.3)",
-            "Exchange all your tiles.  (Task 37.4)"
+            "Open wide floating lanes across the board.",
+            "Play defensively, close open lanes, make tight parallel plays, and restrict bingo avenues.",
+            "Pass every turn.",
+            "Exchange all your tiles."
           ],
           "answerIndex": 1,
           "explanation": "When holding a comfortable lead, closing down the board minimizes variance."
@@ -4850,8 +4850,8 @@
         {
           "prompt": "True or False: In tournament Scrabble, playing a 20-point defensive word that closes a 60-point opponent lane is often mathematically superior to playing a 30-point word that leaves the lane wide open.",
           "options": [
-            "False (Always maximize raw individual turn score)",
-            "True (Net score difference: +20 vs. -30 net deficit)"
+            "False",
+            "True"
           ],
           "answerIndex": 1,
           "explanation": "True. Net spread (+20 vs. 30-60 = -30) favors the defensive block.",
@@ -4911,10 +4911,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "A tightly closed, cramped board with no vowels (38.1) ",
-            "An empty board (38.2) ",
-            "A board with only 2-letter words (38.3) ",
-            "An open board with long available lines and floating vowels for bingos (38.4) "
+            "A tightly closed, cramped board with no vowels",
+            "An empty board",
+            "A board with only 2-letter words",
+            "An open board with long available lines and floating vowels for bingos"
           ],
           "answerIndex": 3,
           "explanation": "Trailing players need high volatility and open bingo lines to make a comeback."
@@ -4937,10 +4937,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "Option B (28 points + lockdown), because denying an opponent 45+ point TWS swing protects your net lead.  (Task 38.1)",
-            "Option A (34 points), because higher score is always best regardless of board state.  (Task 38.2)",
-            "Passing your turn  (Task 38.3)",
-            "Exchanging tiles  (Task 38.4)"
+            "Option B (28 points + lockdown), because denying an opponent 45+ point TWS swing protects your net lead.",
+            "Option A (34 points), because higher score is always best regardless of board state.",
+            "Passing your turn",
+            "Exchanging tiles"
           ],
           "answerIndex": 0,
           "explanation": "Option B protects the lead against high-variance opponent counter-attacks."
@@ -4966,7 +4966,7 @@
             "Both situations use identical open board strategy",
             "Both situations use tile exchange only",
             "Trailing by 80: Low volatility | Leading by 80: High volatility",
-            "Trailing by 80: High volatility (open lanes) | Leading by 80: Low volatility (cramped lockdown)"
+            "Trailing by 80: High volatility (open lanes) | Leading by 80: Low volatility"
           ],
           "answerIndex": 3,
           "explanation": "Trailing requires volatility; leading requires stability.",
@@ -4999,7 +4999,7 @@
         {
           "prompt": "When should a player purposefully 'fish' (sacrifice score to hold bingo tiles) rather than take points?",
           "options": [
-            "When trailing by a large margin and holding 5-6 tiles of a powerhouse stem (e.g. RETIN- or SATIR-)",
+            "When trailing by a large margin and holding 5-6 tiles of a powerhouse stem",
             "Whenever holding the letter Q",
             "When leading by 100 points",
             "On turn 1 only"
@@ -5050,10 +5050,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It is split in half. (39.1) ",
-            "It is counted in full for BOTH the horizontal and vertical words (e.g. 10 + 10 = 20 pts base). (39.2) ",
-            "It is scored as 0. (39.3) ",
-            "It is only counted once for the horizontal word. (39.4) "
+            "It is split in half.",
+            "It is counted in full for BOTH the horizontal and vertical words (e.g. 10 + 10 = 20 pts base).",
+            "It is scored as 0.",
+            "It is only counted once for the horizontal word."
           ],
           "answerIndex": 1,
           "explanation": "Intersection tiles count in both intersecting words."
@@ -5061,7 +5061,7 @@
         {
           "prompt": "Calculate the score of playing JO (J=8, O=1) parallel to AT, forming JO (9), JA (9), and OT (2):",
           "options": [
-            "20 points (9 + 9 + 2 = 20)",
+            "20 points",
             "18 points",
             "22 points",
             "11 points"
@@ -5076,10 +5076,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "32 points (16 in XI + 16 in XU)  (Task 39.1)",
-            "24 points  (Task 39.2)",
-            "16 points  (Task 39.3)",
-            "8 points  (Task 39.4)"
+            "32 points",
+            "24 points",
+            "16 points",
+            "8 points"
           ],
           "answerIndex": 0,
           "explanation": "DLS doubles the X to 16 in both words: 16 + 16 = 32 points."
@@ -5087,7 +5087,7 @@
         {
           "prompt": "What is a 'front hook' in Scrabble?",
           "options": [
-            "A letter added to the beginning of an existing word to create a new valid word (e.g. C + RAMP = CRAMP)",
+            "A letter added to the beginning of an existing word to create a new valid word",
             "A word played backwards",
             "A tile played upside down",
             "Exchanging a tile from the bag"
@@ -5189,10 +5189,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Immediate Turn Score + Rack Leave Value - Opponent Expected Reply Value (40.1) ",
-            "Just the score on the current turn (40.2) ",
-            "The number of tiles left in the bag (40.3) ",
-            "The length of the word played (40.4) "
+            "Immediate Turn Score + Rack Leave Value - Opponent Expected Reply Value",
+            "Just the score on the current turn",
+            "The number of tiles left in the bag",
+            "The length of the word played"
           ],
           "answerIndex": 0,
           "explanation": "Move Equity = Score + Leave - Opponent Reply."
@@ -5215,10 +5215,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "34 points  (Task 40.1)",
-            "23 points (17 + 2 + 4 = 23 with valid 2-letter words)  (Task 40.2)",
-            "12 points  (Task 40.3)",
-            "17 points  (Task 40.4)"
+            "34 points",
+            "23 points",
+            "12 points",
+            "17 points"
           ],
           "answerIndex": 1,
           "explanation": "EX on DLS = 16+1=17, plus vertical crosswords = 23 points."

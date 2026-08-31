@@ -115,7 +115,7 @@
         {
           "prompt": "If an investor purchases a stock for $100, receives $5 in dividends during the year, and sells the stock for $110 at year-end, what was their total annual return ($R$)?",
           "options": [
-            "15% ($10 capital gain + $5 dividend / $100 initial price)",
+            "15%",
             "5%",
             "10%",
             "20%"
@@ -127,7 +127,7 @@
         {
           "prompt": "What statistical measure is standardly used in financial modeling to quantify the total volatility (dispersion of returns) of an asset?",
           "options": [
-            "Standard deviation (sigma / $\\sigma$)",
+            "Standard deviation",
             "Price-to-Earnings ratio",
             "Gross domestic product",
             "Auditor billable hours"
@@ -169,7 +169,7 @@
           "options": [
             "5.50%",
             "12.60%",
-            "11.20% (3.5% + 1.40 * (9.0% - 3.5%))",
+            "11.20%",
             "9.00%"
           ],
           "answerIndex": 2,
@@ -212,7 +212,7 @@
             "Standard Deviation",
             "Sharpe Ratio",
             "Beta",
-            "Jensen's Alpha (alpha)"
+            "Jensen's Alpha"
           ],
           "answerIndex": 3,
           "explanation": "Jensen's Alpha (alpha).",
@@ -249,7 +249,7 @@
         {
           "prompt": "Using the standard Blume formula (Beta_adj = 0.33 + 0.67 * Beta_raw), what is the adjusted beta for a utility stock with a raw historical beta of 0.70?",
           "options": [
-            "0.799 (0.33 + 0.67 * 0.70)",
+            "0.799",
             "0.700",
             "0.469",
             "1.000"
@@ -267,7 +267,7 @@
             "Because all stocks eventually go bankrupt.",
             "Because beta cannot exceed 1.0.",
             "Because regression errors must sum to 1.0.",
-            "Because empirical evidence demonstrates that firm betas mean-revert toward the market average (1.0) over multi-year horizons."
+            "Because empirical evidence demonstrates that firm betas mean-revert toward the market average over multi-year horizons."
           ],
           "answerIndex": 3,
           "explanation": "Because firm betas mean-revert toward 1.0 over time."
@@ -293,7 +293,7 @@
           "options": [
             "1 Quarter",
             "100 Years",
-            "60 Months (5 Years of Monthly Returns)",
+            "60 Months",
             "10 Days"
           ],
           "answerIndex": 2,
@@ -334,7 +334,7 @@
             "0.90",
             "2.00",
             "1.10",
-            "1.44 (0.90 * [1 + (1 - 0.25) * 0.80])"
+            "1.44 (0.90 * [1 + (1 - 0.25) * 0.80]"
           ],
           "answerIndex": 3,
           "explanation": "1.44 (0.90 * [1 + 0.75 * 0.80] = 0.90 * 1.60)."
@@ -413,7 +413,7 @@
         {
           "prompt": "If an enterprise has market equity of $600M (cost of equity 12%) and debt of $400M (pre-tax cost of debt 5%), with a 20% corporate tax rate, what is its WACC?",
           "options": [
-            "8.80% (0.60 * 12% + 0.40 * 5% * 0.80)",
+            "8.80%",
             "7.20%",
             "12.00%",
             "10.00%"
@@ -455,8 +455,8 @@
         {
           "prompt": "Which free cash flow metric must be discounted at WACC to produce Enterprise Value without double-counting capital structure effects?",
           "options": [
-            "Free Cash Flow to Firm (FCFF / Unlevered Free Cash Flow)",
-            "Free Cash Flow to Equity (FCFE)",
+            "Free Cash Flow to Firm",
+            "Free Cash Flow to Equity",
             "Net Income",
             "EBITDA"
           ],
@@ -495,7 +495,7 @@
         {
           "prompt": "If an unrated enterprise generates $60M in EBIT and pays $15M in annual interest expense, what is its Interest Coverage Ratio (ICR)?",
           "options": [
-            "4.0x ($60M / $15M)",
+            "4.0x",
             "0.25x",
             "45.0x",
             "15.0x"
@@ -540,7 +540,7 @@
             "4.25%",
             "1.75%",
             "7.50%",
-            "6.00% (4.25% + 1.75%)"
+            "6.00%"
           ],
           "answerIndex": 3,
           "explanation": "6.00% (4.25% + 1.75%).",
@@ -578,9 +578,9 @@
           "prompt": "Under Modigliani-Miller Proposition I with corporate taxes, what is the value of a levered firm (V_L) relative to an unlevered firm (V_U)?",
           "options": [
             "V_L = V_U - D",
-            "V_L = V_U / (1 - T_c)",
+            "V_L = V_U /",
             "V_L = T_c * D",
-            "V_L = V_U + T_c * D (Unlevered value plus present value of tax shield)"
+            "V_L = V_U + T_c * D"
           ],
           "answerIndex": 3,
           "explanation": "V_L = V_U + T_c * D."
@@ -677,7 +677,7 @@
             "At the WACC",
             "At the risk-free rate",
             "At zero",
-            "At the cost of debt r_d (reflecting debt default risk)"
+            "At the cost of debt r_d"
           ],
           "answerIndex": 3,
           "explanation": "At the cost of debt r_d (reflecting debt default risk)."
@@ -701,10 +701,10 @@
         {
           "prompt": "What discount rate is used to compute the base-case unlevered enterprise value V_U in the APV model?",
           "options": [
-            "The weighted average cost of capital (WACC)",
-            "The unlevered cost of equity (r_0)",
-            "The pre-tax cost of debt (r_d)",
-            "The levered cost of equity (r_e)"
+            "The weighted average cost of capital",
+            "The unlevered cost of equity",
+            "The pre-tax cost of debt",
+            "The levered cost of equity"
           ],
           "answerIndex": 1,
           "explanation": "The unlevered cost of equity (r_0).",
@@ -783,10 +783,10 @@
         {
           "prompt": "What factor in the Fama-French model captures the excess return of high book-to-market (value) stocks over low book-to-market (growth) stocks?",
           "options": [
-            "HML (High Minus Low)",
-            "SMB (Small Minus Big)",
-            "CMA (Conservative Minus Aggressive)",
-            "RMW (Robust Minus Weak)"
+            "HML",
+            "SMB",
+            "CMA",
+            "RMW"
           ],
           "answerIndex": 0,
           "explanation": "HML (High Minus Low).",
@@ -905,7 +905,7 @@
         {
           "prompt": "If a company has DSO of 40 days, DIO of 50 days, and negotiates with suppliers to increase DPO from 30 days to 60 days, what is its new Cash Conversion Cycle?",
           "options": [
-            "30 days (40 + 50 - 60)",
+            "30 days",
             "60 days",
             "90 days",
             "150 days"
@@ -947,9 +947,9 @@
         {
           "prompt": "What activity ratio measures the average number of days required to turn inventory into completed sales?",
           "options": [
-            "Days Sales Outstanding (DSO)",
-            "Days Payable Outstanding (DPO)",
-            "Days Inventory Outstanding (DIO / DSI)",
+            "Days Sales Outstanding",
+            "Days Payable Outstanding",
+            "Days Inventory Outstanding",
             "Asset Turnover"
           ],
           "answerIndex": 2,
@@ -990,7 +990,7 @@
             "A Stock Split",
             "A Dividend Recapitalization",
             "A Goodwill Write-Down",
-            "A Cash Sweep (Sweep Mechanics)"
+            "A Cash Sweep"
           ],
           "answerIndex": 3,
           "explanation": "A Cash Sweep (Sweep Mechanics)."
@@ -1030,7 +1030,7 @@
           "prompt": "What Excel feature is toggled to resolve circular reference loops between average debt interest expenses and ending cash balances?",
           "options": [
             "Conditional Formatting",
-            "Iterative Calculation (Llogaritja Iterative)",
+            "Iterative Calculation",
             "Data Validation",
             "Goal Seek"
           ],
@@ -1069,7 +1069,7 @@
         {
           "prompt": "If an enterprise has EBIT of $100M, a 25% tax rate, D&A of $20M, CapEx of $30M, and an increase in working capital of $10M, what is its FCFF?",
           "options": [
-            "$55M ($100M * 0.75 + $20M - $30M - $10M)",
+            "$55M",
             "$75M",
             "$100M",
             "$45M"
@@ -1084,10 +1084,10 @@
         {
           "prompt": "Which discount rate must strictly be used when discounting Free Cash Flow to Equity (FCFE) in a DCF model?",
           "options": [
-            "Weighted Average Cost of Capital (WACC)",
-            "Pre-tax Cost of Debt (r_d)",
+            "Weighted Average Cost of Capital",
+            "Pre-tax Cost of Debt",
             "Treasury Bill Yield",
-            "Cost of Equity (r_e)"
+            "Cost of Equity"
           ],
           "answerIndex": 3,
           "explanation": "Cost of Equity (r_e)."
@@ -1154,7 +1154,7 @@
             "$500.00M",
             "$1,000.00M",
             "$555.55M",
-            "$728.57M ($50M * 1.02 / (0.09 - 0.02))"
+            "$728.57M"
           ],
           "answerIndex": 3,
           "explanation": "$728.57M ($51.0M / 0.07)."
@@ -1196,7 +1196,7 @@
             "$8M",
             "$80M",
             "$8,000M",
-            "$800M ($80M * 10.0x)"
+            "$800M"
           ],
           "answerIndex": 3,
           "explanation": "$800M ($80M * 10.0x).",
@@ -1233,7 +1233,7 @@
         {
           "prompt": "If an enterprise has an Enterprise Value of $5,000M, Total Debt of $1,200M, Cash of $400M, and Minority Interest of $200M, what is its Equity Value?",
           "options": [
-            "$4,000M ($5,000M - $1,200M + $400M - $200M)",
+            "$4,000M",
             "$3,600M",
             "$6,400M",
             "$5,000M"
@@ -1248,7 +1248,7 @@
         {
           "prompt": "Under the Treasury Stock Method (TSM), if an employee exercises 100,000 options at strike $20 when the market stock price is $50, how many net new dilutive shares are issued?",
           "options": [
-            "60,000 shares (100,000 * [1 - 20/50])",
+            "60,000 shares",
             "Zero",
             "100,000 shares",
             "40,000 shares"
@@ -1277,7 +1277,7 @@
           "options": [
             "Earnings Per Share",
             "Enterprise Multiple",
-            "Implied Share Price (Çmimi i nënkuptuar për aksion)",
+            "Implied Share Price",
             "Book Value Per Share"
           ],
           "answerIndex": 2,
@@ -1315,7 +1315,7 @@
         {
           "prompt": "Which two variables are standardly evaluated in an institutional two-way DCF sensitivity data table to define the core valuation range?",
           "options": [
-            "WACC and Perpetual Terminal Growth Rate (g)",
+            "WACC and Perpetual Terminal Growth Rate",
             "Tax Rate and Number of Employees",
             "Dividends and Office Rent",
             "Inventory and Accounts Payable"
@@ -1331,7 +1331,7 @@
           "prompt": "What graphical tool sorts input parameter sensitivities horizontally from widest value impact to smallest impact on target enterprise value?",
           "options": [
             "Pie Chart",
-            "Tornado Chart (Diagrami Tornado)",
+            "Tornado Chart",
             "Radar Chart",
             "Scatter Plot"
           ],
@@ -1415,7 +1415,7 @@
             "Net Income",
             "Gross Profit",
             "Retained Earnings",
-            "Free Cash Flow to Firm (FCFF / Unlevered Free Cash Flow)"
+            "Free Cash Flow to Firm"
           ],
           "answerIndex": 3,
           "explanation": "Free Cash Flow to Firm (FCFF)."
@@ -1439,7 +1439,7 @@
         {
           "prompt": "What is the final output of an integrated DCF model after bridging Enterprise Value through Net Debt and dividing by diluted shares?",
           "options": [
-            "Implied Fair Value Per Share (Target Price)",
+            "Implied Fair Value Per Share",
             "EBITDA Margin",
             "Historical Cost",
             "Total Assets"
@@ -1479,7 +1479,7 @@
         {
           "prompt": "Which option Greek measures the change in an option's Delta with respect to a change in the underlying asset price?",
           "options": [
-            "Gamma (Gamma)",
+            "Gamma",
             "Theta",
             "Rho",
             "Vega"
@@ -1564,7 +1564,7 @@
             "Delta",
             "Gamma",
             "Theta",
-            "Vega (V)"
+            "Vega"
           ],
           "answerIndex": 3,
           "explanation": "Vega (V)."
@@ -1605,7 +1605,7 @@
           "options": [
             "The Dow Jones Index",
             "The Federal Funds Rate",
-            "The CBOE VIX Index (Indeksi VIX)",
+            "The CBOE VIX Index",
             "The Consumer Price Index"
           ],
           "answerIndex": 2,
@@ -1643,7 +1643,7 @@
         {
           "prompt": "Which type of financial option mathematically models a mining company's right to sell off plant equipment for salvage value if commodity prices crash?",
           "options": [
-            "An American Put Option (Option to Abandon)",
+            "An American Put Option",
             "A Forward Contract",
             "A Convertible Bond",
             "A European Call Option"
@@ -1686,9 +1686,9 @@
           "prompt": "What formula calculates the upward price jump factor u in a standard Cox-Ross-Rubinstein binomial option lattice?",
           "options": [
             "u = 1 + r",
-            "u = e^(sigma * sqrt(delta_t))",
+            "u = e^",
             "u = sigma / delta_t",
-            "u = log(sigma)"
+            "u = log"
           ],
           "answerIndex": 1,
           "explanation": "u = e^(sigma * sqrt(delta_t)).",
@@ -1725,7 +1725,7 @@
         {
           "prompt": "If an acquirer pays $500M for a target with book equity of $200M, writes up intangible assets by $100M, and has a 25% tax rate, what new Deferred Tax Liability (DTL) is created?",
           "options": [
-            "$25M ($100M * 25%)",
+            "$25M",
             "$100M",
             "$125M",
             "$0"
@@ -1767,7 +1767,7 @@
         {
           "prompt": "What accounting formula defines residual Goodwill created in an acquisition?",
           "options": [
-            "Purchase Price - Fair Value of Net Identifiable Assets (Target Book Equity + Step-Ups - DTL)",
+            "Purchase Price - Fair Value of Net Identifiable Assets",
             "EBITDA * WACC",
             "Total Assets + Total Liabilities",
             "Revenue minus Cost of Goods Sold"
@@ -1852,7 +1852,7 @@
             "Accretive",
             "Break-even",
             "Synergistic",
-            "Dilutive (by $0.40 per share)"
+            "Dilutive"
           ],
           "answerIndex": 3,
           "explanation": "Dilutive (by $0.40 per share).",
@@ -1889,13 +1889,13 @@
         {
           "prompt": "If a private equity sponsor invests $100M of equity in an LBO and exits 5 years later with $248.8M in equity proceeds, what is the realized IRR?",
           "options": [
-            "20.00% ((2.488)^(1/5) - 1)",
+            "20.00% ( ^(1/5) - 1",
             "50.00%",
             "14.88%",
             "24.88%"
           ],
           "answerIndex": 0,
-          "explanation": "20.00% ((2.488)^0.2 - 1 = 1.20 - 1)."
+          "explanation": "20.00% ( ^0.2 - 1 = 1.20 - 1)."
         }
       ]
     },
@@ -1933,7 +1933,7 @@
           "options": [
             "Income Statement",
             "Tax Schedule",
-            "Sources and Uses of Funds Table (Tabela e Burimeve dhe Përdorimeve)",
+            "Sources and Uses of Funds Table",
             "Depreciation Schedule"
           ],
           "answerIndex": 2,
@@ -1974,7 +1974,7 @@
             "25 shares",
             "10 shares",
             "50 shares",
-            "40 shares ($1,000 / $25)"
+            "40 shares"
           ],
           "answerIndex": 3,
           "explanation": "40 shares ($1,000 / $25)."
@@ -2014,7 +2014,7 @@
           "prompt": "What is the conversion value of a convertible bond with a conversion ratio of 50 shares when the common stock is trading at $30 per share?",
           "options": [
             "$3,000",
-            "$1,500 (50 * $30)",
+            "$1,500",
             "$1,000",
             "$500"
           ],
@@ -2053,7 +2053,7 @@
         {
           "prompt": "According to Covered Interest Rate Parity, if the spot USD/EUR rate is 1.10, the US risk-free rate is 5.0%, and the Eurozone risk-free rate is 2.0%, what is the 1-year forward rate F?",
           "options": [
-            "1.1324 (1.10 * 1.05 / 1.02)",
+            "1.1324",
             "1.0686",
             "1.2000",
             "1.1000"
@@ -2068,7 +2068,7 @@
         {
           "prompt": "When valuing an emerging market subsidiary in local currency, what risk premium must be added to the cost of equity to reflect sovereign default risk and political volatility?",
           "options": [
-            "Country Risk Premium (CRP)",
+            "Country Risk Premium",
             "Option Delta",
             "Liquidity Discount",
             "Goodwill Premium"
@@ -2095,7 +2095,7 @@
         {
           "prompt": "Under international financial parity conditions, which two cross-border DCF approaches yield mathematically identical enterprise values?",
           "options": [
-            "The Foreign Currency approach (discounting in local currency) and the Home Currency approach (converting via forward rates)",
+            "The Foreign Currency approach (discounting in local currency) and the Home Currency approach",
             "Accounting book value and historical cost",
             "LBO modeling and bankruptcy liquidation",
             "Gordon growth and liquidation value"
@@ -2135,7 +2135,7 @@
         {
           "prompt": "What visual summary chart in institutional investment banking compares valuation ranges across DCF, Public Comps, Precedent M&A Transactions, and LBO Floor analysis?",
           "options": [
-            "The Valuation Football Field Chart (Grafiku Football Field)",
+            "The Valuation Football Field Chart",
             "The Scatter Plot",
             "The Waterfall Chart",
             "The Venn Diagram"
@@ -2151,7 +2151,7 @@
           "prompt": "What complete curriculum does mastering B111 represent?",
           "options": [
             "Basic bookkeeping",
-            "Complete University-Level Mastery of Financial Modeling, Corporate Valuation, Options Engineering, and M&A Deal Architecture (25 Sessions)",
+            "Complete University-Level Mastery of Financial Modeling, Corporate Valuation, Options Engineering, and M&A Deal Architecture",
             "Spreadsheet formatting",
             "Introductory personal finance"
           ],

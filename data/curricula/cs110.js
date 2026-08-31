@@ -183,9 +183,9 @@
         {
           "prompt": "For T(n) = 4T(n/2) + n^2, what is the asymptotic complexity using Master Theorem?",
           "options": [
-            "Theta(n^2)",
-            "Theta(n^3)",
-            "Theta(n)",
+            "Theta",
+            "Theta",
+            "Theta",
             "Theta(n^2 log n) [Case 2, log_2(4) = 2, f(n)=n^2]"
           ],
           "answerIndex": 3,
@@ -198,7 +198,7 @@
         {
           "prompt": "What is the definition of Theta(g(n))?",
           "options": [
-            "Asymptotically tight bound sandwiched between c1*g(n) and c2*g(n)",
+            "Asymptotically tight bound sandwiched between c1*g(n) and c2*g",
             "Only upper bound",
             "Only lower bound",
             "Average case only"
@@ -215,7 +215,7 @@
           "options": [
             "When n is even",
             "In competitive programming",
-            "When a is not a constant, b <= 1, or f(n) is not polynomially comparable to n^(log_b a)",
+            "When a is not a constant, b <= 1, or f(n) is not polynomially comparable to n^",
             "When sorting numbers"
           ],
           "answerIndex": 2,
@@ -253,7 +253,7 @@
         {
           "prompt": "In the Master Theorem T(n) = 8 T(n/2) + n^2, what is the critical exponent log_b(a)?",
           "options": [
-            "log_2(8) = 3 (since 2^3 = 8)",
+            "log_2(8) = 3",
             "log_8(2) = 0.33",
             "4",
             "2"
@@ -268,10 +268,10 @@
         {
           "prompt": "Under Master Theorem, if T(n) = 2 T(n/2) + n log n, what is the asymptotic solution?",
           "options": [
-            "Theta(n log n)",
-            "Theta(n^2)",
-            "Theta(log n)",
-            "Theta(n log^2 n) (Case 2 with k=1)"
+            "Theta",
+            "Theta",
+            "Theta",
+            "Theta"
           ],
           "answerIndex": 3,
           "explanation": "Theta(n log^2 n)."
@@ -335,10 +335,10 @@
         {
           "prompt": "Under the Potential Method, what is the formula for the amortized cost c_hat_i of the i-th operation?",
           "options": [
-            "c_hat_i = c_i * Phi(D_i)",
+            "c_hat_i = c_i * Phi",
             "c_hat_i = c_i / n",
-            "c_hat_i = Phi(D_0) - Phi(D_n)",
-            "c_hat_i = c_i + Phi(D_i) - Phi(D_{i-1})"
+            "c_hat_i = Phi(D_0) - Phi",
+            "c_hat_i = c_i + Phi(D_i) - Phi"
           ],
           "answerIndex": 3,
           "explanation": "c_hat_i = c_i + Phi(D_i) - Phi(D_{i-1})."
@@ -353,7 +353,7 @@
             "Phi(D) must be negative",
             "Phi(D) must equal zero for all states",
             "Phi(D) must be exponential",
-            "Phi(D_i) >= Phi(D_0) for all i (potential never drops below initial baseline)"
+            "Phi(D_i) >= Phi(D_0) for all i"
           ],
           "answerIndex": 3,
           "explanation": "Phi(D_i) >= Phi(D_0) for all i."
@@ -418,9 +418,9 @@
           "prompt": "What is the worst-case time complexity of the BFPRT Median-of-Medians selection algorithm?",
           "options": [
             "O(n) strictly linear time",
-            "O(n log n)",
-            "O(n^2)",
-            "O(log n)"
+            "O",
+            "O",
+            "O"
           ],
           "answerIndex": 0,
           "explanation": "O(n) strictly linear time."
@@ -499,10 +499,10 @@
         {
           "prompt": "What is the information-theoretic lower bound on the number of comparisons required to sort n elements in the comparison model?",
           "options": [
-            "Omega(n log n)",
-            "Omega(n^2)",
-            "Omega(log n)",
-            "Omega(n)"
+            "Omega",
+            "Omega",
+            "Omega",
+            "Omega"
           ],
           "answerIndex": 0,
           "explanation": "Omega(n log n)."
@@ -529,10 +529,10 @@
         {
           "prompt": "In a binary decision tree model sorting n distinct items, what mathematical value represents the minimum number of leaves required to cover all possible sorted outputs?",
           "options": [
-            "n! (n factorial permutations)",
+            "n!",
             "2^n",
             "n^2",
-            "log2(n)"
+            "log2"
           ],
           "answerIndex": 0,
           "explanation": "n! (n factorial permutations).",
@@ -544,7 +544,7 @@
             "Greedy matroid exchange",
             "Monte Carlo simulation",
             "Dynamic programming memoization",
-            "Adversary Argument (Argumenti i Kundërshtarit)"
+            "Adversary Argument"
           ],
           "answerIndex": 3,
           "explanation": "Adversary Argument.",
@@ -598,7 +598,7 @@
           "options": [
             "Exactly 1 / 2^n",
             "At least 1 / n!",
-            "At least 2 / (n * (n - 1)) = Omega(1 / n^2)",
+            "At least 2 / (n * (n - 1)) = Omega",
             "At least 1 / 2"
           ],
           "answerIndex": 2,
@@ -623,10 +623,10 @@
         {
           "prompt": "What master asymptotic time complexity is achieved by the recursive Karger-Stein algorithm to find the global min-cut with high probability?",
           "options": [
-            "O(n log n)",
-            "O(2^n)",
-            "O(n^4)",
-            "O(n^2 log n)"
+            "O",
+            "O",
+            "O",
+            "O"
           ],
           "answerIndex": 3,
           "explanation": "O(n^2 log n).",
@@ -663,10 +663,10 @@
         {
           "prompt": "What approximation ratio does the Christofides-Serdyukov algorithm guarantee for the Metric Traveling Salesperson Problem (TSP)?",
           "options": [
-            "3/2 (1.5-approximation)",
-            "2 (2.0-approximation)",
+            "3/2",
+            "2",
             "1 + epsilon",
-            "log(n)"
+            "log"
           ],
           "answerIndex": 0,
           "explanation": "3/2 (1.5-approximation)."
@@ -910,8 +910,8 @@
         {
           "prompt": "What search strategy is used in the Edmonds-Karp algorithm to guarantee an O(V E^2) bound by finding shortest augmenting paths in the residual network?",
           "options": [
-            "Breadth-First Search (BFS)",
-            "Depth-First Search (DFS)",
+            "Breadth-First Search",
+            "Depth-First Search",
             "A* Search",
             "Binary Search"
           ],
@@ -952,10 +952,10 @@
         {
           "prompt": "What asymptotic runtime does Dinic's blocking flow algorithm achieve when solving Maximum Bipartite Matching on unit-capacity networks?",
           "options": [
-            "O(V^3)",
-            "O(E^2)",
-            "O(V * E log V)",
-            "O(E * sqrt(V))"
+            "O",
+            "O",
+            "O",
+            "O"
           ],
           "answerIndex": 3,
           "explanation": "O(E * sqrt(V)).",
@@ -1010,7 +1010,7 @@
             "All cliques",
             "All Hamiltonian paths",
             "All vertex covers",
-            "Acyclic edge sets (Forests / Spanning Trees)"
+            "Acyclic edge sets"
           ],
           "answerIndex": 3,
           "explanation": "Acyclic edge sets (Forests / Spanning Trees)."
@@ -1036,7 +1036,7 @@
           "options": [
             "Fibonacci Heap",
             "Segment Tree",
-            "Disjoint-Set Union (DSU / Union-Find with path compression)",
+            "Disjoint-Set Union",
             "Red-Black Tree"
           ],
           "answerIndex": 2,
@@ -1091,7 +1091,7 @@
           "options": [
             "K = W / n",
             "K = epsilon * n",
-            "K = log(V_max)",
+            "K = log",
             "K = (epsilon * V_max) / n"
           ],
           "answerIndex": 3,
@@ -1242,7 +1242,7 @@
             "The x-axis",
             "The z-axis",
             "The radial distance",
-            "The y-axis (since 3 mod 2 = 1)"
+            "The y-axis"
           ],
           "answerIndex": 3,
           "explanation": "The y-axis (since 3 mod 2 = 1)."
@@ -1254,10 +1254,10 @@
         {
           "prompt": "What is the worst-case time complexity of an orthogonal 2D range search query on a 2-d tree reporting m points?",
           "options": [
-            "O(sqrt(n) + m)",
-            "O(log n + m)",
-            "O(n + m)",
-            "O(1)"
+            "O(sqrt(n) + m",
+            "O",
+            "O",
+            "O"
           ],
           "answerIndex": 0,
           "explanation": "O(sqrt(n) + m)."
@@ -1321,7 +1321,7 @@
         {
           "prompt": "In the structural isomorphism between 2-3-4 trees and Red-Black trees, what 2-3-4 node type corresponds to a black node with two red children?",
           "options": [
-            "A 4-node (3 keys, 4 children)",
+            "A 4-node",
             "A 3-node",
             "A leaf node",
             "A 2-node"
@@ -1446,7 +1446,7 @@
           "prompt": "What is the maximum number of rotations required to rebalance an AVL tree after node deletion?",
           "options": [
             "At most 1 rotation",
-            "O(log n) rotations (rebalancing can propagate up the height of the tree)",
+            "O(log n) rotations",
             "O(n) rotations",
             "At most 2 rotations"
           ],
@@ -1598,7 +1598,7 @@
         {
           "prompt": "Which violation occurs when a RED child is inserted beneath a RED parent node in a Red-Black tree?",
           "options": [
-            "Violation of the Red Property (No consecutive red nodes)",
+            "Violation of the Red Property",
             "Violation of the Binary Search Tree ordering",
             "Violation of leaf sentinel count",
             "Violation of the Root Property"
@@ -1613,7 +1613,7 @@
             "Varies depending on tree depth",
             "Always zero",
             "Always equal to total height $h$",
-            "The exact same number on every path (Black-Height invariance $bh(x)$)"
+            "The exact same number on every path (Black-Height invariance $bh(x)$"
           ],
           "answerIndex": 3,
           "explanation": "All paths from a node to descendant leaves must have identical black height.",
@@ -1653,7 +1653,7 @@
             "Binary Search Tree",
             "Hash Map only",
             "Circular Queue",
-            "Disjoint Set Union (DSU / Union-Find)"
+            "Disjoint Set Union"
           ],
           "answerIndex": 3,
           "explanation": "Disjoint Set Union (DSU / Union-Find)."
@@ -1694,7 +1694,7 @@
           "options": [
             "The Exponential Function",
             "The Harmonic Series",
-            "The Inverse Ackermann Function α(V)",
+            "The Inverse Ackermann Function α",
             "The Factorial Function"
           ],
           "answerIndex": 2,
@@ -1814,8 +1814,8 @@
         {
           "prompt": "Which graph traversal algorithm explores vertices layer-by-layer using a FIFO Queue to find shortest paths in unweighted graphs?",
           "options": [
-            "Breadth-First Search (BFS)",
-            "Depth-First Search (DFS)",
+            "Breadth-First Search",
+            "Depth-First Search",
             "Binary Search",
             "Linear Search"
           ],
@@ -1829,10 +1829,10 @@
         {
           "prompt": "What is the optimal spatial complexity of storing a sparse graph with V vertices and E edges using an Adjacency List representation?",
           "options": [
-            "O(E^2)",
-            "O(V + E)",
-            "O(1)",
-            "O(V^2)"
+            "O",
+            "O",
+            "O",
+            "O"
           ],
           "answerIndex": 1,
           "explanation": "O(V + E)."
@@ -1856,7 +1856,7 @@
         {
           "prompt": "What state condition in DFS indicates the presence of a back-edge and hence a directed cycle in a graph?",
           "options": [
-            "Encountering a Grey vertex (currently in the active recursion call stack)",
+            "Encountering a Grey vertex",
             "Encountering a Black vertex",
             "Encountering a leaf node",
             "Encountering a White vertex"
@@ -1896,9 +1896,9 @@
         {
           "prompt": "What is the time complexity of converting an unsorted array of N elements into a valid Binary Heap using the bottom-up `build_heap` operation?",
           "options": [
-            "O(N log N)",
-            "O(N^2)",
-            "O(log N)",
+            "O",
+            "O",
+            "O",
             "O(N) linear time"
           ],
           "answerIndex": 3,
@@ -1993,10 +1993,10 @@
         {
           "prompt": "What is the expected number of comparisons performed by Randomized Quicksort on an array of size n?",
           "options": [
-            "Theta(n^2)",
-            "Theta(n)",
-            "2n ln n + O(n) = Theta(n log n)",
-            "Theta(log n)"
+            "Theta",
+            "Theta",
+            "2n ln n + O(n) = Theta",
+            "Theta"
           ],
           "answerIndex": 2,
           "explanation": "Randomized pivot selection guarantees Theta(n log n) expected comparisons regardless of input."
@@ -2020,10 +2020,10 @@
         {
           "prompt": "If we grouped elements by 3s instead of 5s in BFPRT selection, what recurrence would arise?",
           "options": [
-            "T(n) = O(n^3)",
-            "T(n) = Theta(sqrt(n))",
+            "T(n) = O",
+            "T(n) = Theta",
             "T(n) = T(n/3) + T(2n/3) + O(n) where 1/3 + 2/3 = 1 -> solving to O(n log n), losing linear guarantee!",
-            "T(n) = O(1)"
+            "T(n) = O"
           ],
           "answerIndex": 2,
           "explanation": "Grouping by 3s yields branching fractions summing to 1, degrading runtime to O(n log n).",
@@ -2075,7 +2075,7 @@
         {
           "prompt": "What algorithmic paradigm builds a global optimal solution through a sequence of locally optimal choices on matroid structures?",
           "options": [
-            "Greedy Algorithm (Rado-Edmonds)",
+            "Greedy Algorithm",
             "Simulated Annealing",
             "Dynamic Programming",
             "Breadth-First Search"
@@ -2102,10 +2102,10 @@
         {
           "prompt": "What is the master runtime of the Edmonds-Karp maximum flow algorithm on a graph with V vertices and E edges?",
           "options": [
-            "O(V * E^2)",
-            "O(V + E)",
-            "O(2^V)",
-            "O(E log V)"
+            "O",
+            "O",
+            "O",
+            "O"
           ],
           "answerIndex": 0,
           "explanation": "O(V * E^2).",
@@ -2142,7 +2142,7 @@
         {
           "prompt": "What complete curriculum does mastering CS110 represent?",
           "options": [
-            "Complete University-Level Mastery of Advanced Algorithms and Data Structures (25 Sessions)",
+            "Complete University-Level Mastery of Advanced Algorithms and Data Structures",
             "Introductory coding only",
             "Basic HTML formatting",
             "Elementary math"
@@ -2185,9 +2185,9 @@
           "prompt": "What approximation ratio is achieved by the Christofides-Serdyukov algorithm for the Metric Traveling Salesperson Problem?",
           "options": [
             "2.0",
-            "log(n)",
-            "O(1)",
-            "3/2 (1.5-approximation)"
+            "log",
+            "O",
+            "3/2"
           ],
           "answerIndex": 3,
           "explanation": "3/2 (1.5-approximation).",

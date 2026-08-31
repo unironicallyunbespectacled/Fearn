@@ -1918,10 +1918,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Making the dits shorter than 60 milliseconds (26.1) ",
-            "Learning new secret codes (26.2) ",
-            "Typing faster with one finger (26.3) ",
-            "Forcing the auditory cortex to recognize whole acoustic rhythm patterns (gestalts) rather than counting dits and dahs analytically (26.4) "
+            "Making the dits shorter than 60 milliseconds",
+            "Learning new secret codes",
+            "Typing faster with one finger",
+            "Forcing the auditory cortex to recognize whole acoustic rhythm patterns (gestalts) rather than counting dits and dahs analytically"
           ],
           "answerIndex": 3,
           "explanation": "Acoustic gestalt perception replaces conscious counting."
@@ -1931,7 +1931,7 @@
           "options": [
             "73",
             "OK",
-            "CQ (General call to any listening station)",
+            "CQ",
             "DE"
           ],
           "answerIndex": 2,
@@ -1944,10 +1944,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
           "options": [
-            "RADIO  (Task 26.1)",
-            "TOWER  (Task 26.2)",
-            "MORSE  (Task 26.3)",
-            "PARIS  (Task 26.4)"
+            "RADIO",
+            "TOWER",
+            "MORSE",
+            "PARIS"
           ],
           "answerIndex": 3,
           "explanation": ".--. (P) .- (A) .-. (R) .. (I) ... (S) = PARIS."
@@ -2053,10 +2053,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'Copying behind' — letting the ear buffer the current sound while the hand writes the previously completed character 1-2 positions back (27.1) ",
-            "Writing in cursive uppercase only (27.2) ",
-            "Stopping after every word (27.3) ",
-            "Guessing only vowels (27.4) "
+            "'Copying behind' — letting the ear buffer the current sound while the hand writes the previously completed character 1-2 positions back",
+            "Writing in cursive uppercase only",
+            "Stopping after every word",
+            "Guessing only vowels"
           ],
           "answerIndex": 0,
           "explanation": "Copying behind prevents physical motor jamming."
@@ -2079,10 +2079,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
           "options": [
-            "CQ 73  (Task 27.1)",
-            "SOS 999  (Task 27.2)",
-            "RST 599 (Readability 5, Strength 9, Tone 9 — perfect signal)  (Task 27.3)",
-            "QTH 123  (Task 27.4)"
+            "CQ 73",
+            "SOS 999",
+            "RST 599",
+            "QTH 123"
           ],
           "answerIndex": 2,
           "explanation": "RST 599 = standard maximum signal report."
@@ -2118,7 +2118,7 @@
           "prompt": "What does the signal report 'RST 599' signify in Morse communications?",
           "options": [
             "Room 599",
-            "Readability 5 (100% readable), Strength 9 (extremely strong signal), Tone 9 (perfect pure tone)",
+            "Readability 5 (100% readable), Strength 9 (extremely strong signal), Tone 9",
             "Frequency 599 kHz",
             "Radio Station 599"
           ],
@@ -2144,7 +2144,7 @@
             "88",
             "99",
             "00",
-            "73 (--... ...--)"
+            "73"
           ],
           "answerIndex": 3,
           "explanation": "73 is the universal telegrapher blessing.",
@@ -2188,16 +2188,16 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "By pausing the tape and counting four dits for H (28.1) ",
-            "By writing down T, then waiting for H, then waiting for E (28.2) ",
-            "By guessing based on the first letter only (28.3) ",
-            "As a single unified acoustic rhythm (- .... .) recognized instantaneously as the concept 'THE' (28.4) "
+            "By pausing the tape and counting four dits for H",
+            "By writing down T, then waiting for H, then waiting for E",
+            "By guessing based on the first letter only",
+            "As a single unified acoustic rhythm (- .... .) recognized instantaneously as the concept 'THE'"
           ],
           "answerIndex": 3,
           "explanation": "Whole-word acoustic imagery bypasses letter-by-letter decomposition."
         },
         {
-          "prompt": "Decode this 3-word phrase sent at 11 WPM: `..-. --- .-.   -.-- --- ..-`",
+          "prompt": "Decode this 3-word phrase sent at 11 WPM: `..-. --- .-. -.-- --- ..-`",
           "options": [
             "FROM HER",
             "FAR OUT",
@@ -2214,10 +2214,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
           "options": [
-            "THANKS FOR QSO (Thanks for the radio contact)  (Task 28.1)",
-            "TIME FOR BED  (Task 28.2)",
-            "THANK YOU ALL  (Task 28.3)",
-            "TODAY IS SUNNY  (Task 28.4)"
+            "THANKS FOR QSO",
+            "TIME FOR BED",
+            "THANK YOU ALL",
+            "TODAY IS SUNNY"
           ],
           "answerIndex": 0,
           "explanation": "THANKS FOR QSO."
@@ -2238,7 +2238,7 @@
     "checkpointTest": {
       "items": [
         {
-          "prompt": "Decode the high-frequency sentence sent at 11 WPM: `.-- .. - ....   .- .-.. .-..   -- -.--   .... . .- .-. -`",
+          "prompt": "Decode the high-frequency sentence sent at 11 WPM: `.-- .. - .... .- .-.. .-.. -- -.-- .... . .- .-. -`",
           "options": [
             "WALK IN THE PARK",
             "WITH ALL MY HEART",
@@ -2274,7 +2274,7 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `..-. .-. --- --   -.. .- .-- -.   - ---   -.. ..- ... -.-`",
+          "prompt": "Decode: `..-. .-. --- -- -.. .- .-- -. - --- -.. ..- ... -.-`",
           "options": [
             "FIVE DAYS IN JUNE",
             "FREE FROM THE DUST",
@@ -2323,10 +2323,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "N3ABC (29.1) ",
-            "W1AW (ARRL headquarters station in Newington, Connecticut) (29.2) ",
-            "W9XYZ (29.3) ",
-            "K2USA (29.4) "
+            "N3ABC",
+            "W1AW",
+            "W9XYZ",
+            "K2USA"
           ],
           "answerIndex": 1,
           "explanation": ".-- (W) .---- (1) .- (A) .-- (W) = W1AW."
@@ -2349,10 +2349,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
           "options": [
-            "QTH TOKYO (Location: Tokyo)  (Task 29.1)",
-            "QRZ TOKYO  (Task 29.2)",
-            "CQ TONIGHT  (Task 29.3)",
-            "QSL TOKYO  (Task 29.4)"
+            "QTH TOKYO",
+            "QRZ TOKYO",
+            "CQ TONIGHT",
+            "QSL TOKYO"
           ],
           "answerIndex": 0,
           "explanation": "--.- - .... (QTH) + - --- -.- -.-- --- (TOKYO) = QTH TOKYO."
@@ -2360,7 +2360,7 @@
         {
           "prompt": "What does 'HPE CUAGN' represent in Morse shorthand?",
           "options": [
-            "Hope to see you again (Hope See You Again)",
+            "Hope to see you again",
             "Happy birthday again",
             "Heavy rain in Germany",
             "Help call urgent"
@@ -2373,9 +2373,9 @@
     "checkpointTest": {
       "items": [
         {
-          "prompt": "Decode the complete 12 WPM contact transmission: `--.- ... .-..   --. -...   --... ...--   ... -.-`",
+          "prompt": "Decode the complete 12 WPM contact transmission: `--.- ... .-.. --. -... --... ...-- ... -.-`",
           "options": [
-            "QSL GB 73 SK (Acknowledged, Good bye, Best regards, End of contact)",
+            "QSL GB 73 SK",
             "SOS SOS SOS",
             "QRZ QRZ 599",
             "CQ CQ DE W1AW"
@@ -2390,7 +2390,7 @@
             "PY2CD",
             "KA1AB",
             "DL5XY",
-            "JA3YZ (Japanese amateur callsign)"
+            "JA3YZ"
           ],
           "answerIndex": 3,
           "explanation": ".--- (J) .- (A) ...-- (3) -.-- (Y) --.. (Z) = JA3YZ.",
@@ -2401,7 +2401,7 @@
           "options": [
             "1 : 5 : 5 : 10",
             "1 : 2 : 2 : 4",
-            "1 : 3 : 3 : 7 (Dit = 1 unit, Dah = 3 units, Letter space = 3 units, Word space = 7 units)",
+            "1 : 3 : 3 : 7",
             "2 : 4 : 6 : 8"
           ],
           "answerIndex": 2,
@@ -2409,7 +2409,7 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `-. .- -- .   -.. .- ...- .. -..`",
+          "prompt": "Decode: `-. .- -- . -.. .- ...- .. -..`",
           "options": [
             "NICE DAY",
             "NAME DAVID",
@@ -2458,10 +2458,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Fine Business (telegrapher slang for 'Excellent! / Great!') (30.1) ",
-            "Facebook (30.2) ",
-            "Fast Band (30.3) ",
-            "Full Battery (30.4) "
+            "Fine Business",
+            "Facebook",
+            "Fast Band",
+            "Full Battery"
           ],
           "answerIndex": 0,
           "explanation": "FB = Fine Business (excellent)."
@@ -2469,7 +2469,7 @@
         {
           "prompt": "What does 'OM' stand for when addressing a fellow amateur operator?",
           "options": [
-            "Old Man (traditional fraternal term of respect for any male operator regardless of age)",
+            "Old Man",
             "Official Member",
             "Operation Mode",
             "Only Morse"
@@ -2484,10 +2484,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
           "options": [
-            "DL1ABC  (Task 30.1)",
-            "PY2AA (São Paulo, Brazil station)  (Task 30.2)",
-            "JA7XYZ  (Task 30.3)",
-            "W1AW  (Task 30.4)"
+            "DL1ABC",
+            "PY2AA",
+            "JA7XYZ",
+            "W1AW"
           ],
           "answerIndex": 1,
           "explanation": ".--. (P) -.-- (Y) ..--- (2) .- (A) .- (A) = PY2AA."
@@ -2520,7 +2520,7 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `... .--. . . -..   .---- ..---   .-- .--. --   -- .- ... - . .-. . -..`",
+          "prompt": "Decode: `... .--. . . -.. .---- ..--- .-- .--. -- -- .- ... - . .-. . -..`",
           "options": [
             "SLOW DOWN 10 WPM",
             "START 5 WPM TODAY",
@@ -2546,7 +2546,7 @@
         {
           "prompt": "What is the next frontier of Morse code mastery in Unit 8?",
           "options": [
-            "Word & Callsign Copy at Speed (building instant whole-word head-copy capacity from 12 to 16 WPM without writing down every letter)",
+            "Word & Callsign Copy at Speed",
             "Replacing radio with telephone",
             "Typing on a manual typewriter",
             "Learning Greek letters"
@@ -2587,10 +2587,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "TEA (31.1) ",
-            "TEN (31.2) ",
-            "TOE (31.3) ",
-            "THE (31.4) "
+            "TEA",
+            "TEN",
+            "TOE",
+            "THE"
           ],
           "answerIndex": 3,
           "explanation": "- (T) .... (H) . (E) = THE."
@@ -2613,16 +2613,16 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "YOU ARE NOT  (Task 31.1)",
-            "YES AND ALL  (Task 31.2)",
-            "YET ARE ONE  (Task 31.3)",
-            "YOU ARE ALL  (Task 31.4)"
+            "YOU ARE NOT",
+            "YES AND ALL",
+            "YET ARE ONE",
+            "YOU ARE ALL"
           ],
           "answerIndex": 3,
           "explanation": "YOU ( -.-- --- ..- ) ARE ( .- .-. . ) ALL ( .- .-.. .-.. )."
         },
         {
-          "prompt": "Decode: `..-. --- .-.   .... .. ...`",
+          "prompt": "Decode: `..-. --- .-. .... .. ...`",
           "options": [
             "FAR HIT",
             "FOR HIM",
@@ -2649,7 +2649,7 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode the full sentence: `- .... .   ... ..- -.   .. ...   ..- .--.`",
+          "prompt": "Decode the full sentence: `- .... . ... ..- -. .. ... ..- .--.`",
           "options": [
             "THE SEA IS CALM",
             "THE SUN IS UP",
@@ -2716,10 +2716,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "VE3ABC (Canada Ontario District 3, station ABC) (32.1) ",
-            "VO3ABC (32.2) ",
-            "VK3ABC (32.3) ",
-            "VA3ABC (32.4) "
+            "VE3ABC",
+            "VO3ABC",
+            "VK3ABC",
+            "VA3ABC"
           ],
           "answerIndex": 0,
           "explanation": "VE ( ...- . ) 3 ( ...-- ) ABC ( .- -... -.-. )."
@@ -2742,10 +2742,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "W2VX  (Task 32.1)",
-            "N2VX  (Task 32.2)",
-            "K2VX  (Task 32.3)",
-            "K3VX  (Task 32.4)"
+            "W2VX",
+            "N2VX",
+            "K2VX",
+            "K3VX"
           ],
           "answerIndex": 2,
           "explanation": "K ( -.- ) 2 ( ..--- ) V ( ...- ) X ( -..- ) = K2VX (USA District 2)."
@@ -2845,10 +2845,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "QSL (I confirm receipt) (33.1) ",
-            "QRP (Low power) (33.2) ",
-            "QRZ (Who is calling me?) (33.3) ",
-            "QTH (My location / What is your location?) (33.4) "
+            "QSL",
+            "QRP",
+            "QRZ",
+            "QTH"
           ],
           "answerIndex": 3,
           "explanation": "QTH = Location."
@@ -2859,7 +2859,7 @@
             "QRM is for daytime; QRN is for nighttime",
             "QRM is high volume; QRN is low volume",
             "They are completely identical",
-            "QRM is Man-made interference (other stations, motors); QRN is Natural atmospheric noise (lightning, static)"
+            "QRM is Man-made interference (other stations, motors); QRN is Natural atmospheric noise"
           ],
           "answerIndex": 3,
           "explanation": "QRM = Man-made; QRN = Natural atmospheric static."
@@ -2871,10 +2871,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "QRZ DE W1AW (Who is calling me? From W1AW)  (Task 33.1)",
-            "QSL DE W1AW  (Task 33.2)",
-            "QTH DE W1AW  (Task 33.3)",
-            "QSY DE W1AW  (Task 33.4)"
+            "QRZ DE W1AW",
+            "QSL DE W1AW",
+            "QTH DE W1AW",
+            "QSY DE W1AW"
           ],
           "answerIndex": 0,
           "explanation": "QRZ ( --.- .-. --.. ) DE ( -.. . ) W1AW."
@@ -2882,7 +2882,7 @@
         {
           "prompt": "What does transmitting 'QRP' (.--.- .-. .--.) indicate?",
           "options": [
-            "The station is operating with low transmitter power (typically 5 Watts or less)",
+            "The station is operating with low transmitter power",
             "The station is about to shut down",
             "The operator is a beginner",
             "Emergency SOS signal"
@@ -2907,12 +2907,12 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `--.- ... -.--   .---- ....-   ...-- --... -----`",
+          "prompt": "Decode: `--.- ... -.-- .---- ....- ...-- --... -----`",
           "options": [
             "QSL 14370",
             "QRN 14370",
             "QTH 14370",
-            "QSY 14370 (Change frequency to 14.370 MHz)"
+            "QSY 14370"
           ],
           "answerIndex": 3,
           "explanation": "QSY ( --.- ... -.-- ) 14370 ( .---- ....- ...-- --... ----- ).",
@@ -2923,7 +2923,7 @@
           "options": [
             "ACK?",
             "OK?",
-            "QSL? (`--.- ... .-..   ..--..`)",
+            "QSL?",
             "YES?"
           ],
           "answerIndex": 2,
@@ -2974,10 +2974,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The operator is 59 years old (34.1) ",
-            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9 (pure crystal musical tone) (34.2) ",
-            "There are 599 errors in the transmission (34.3) ",
-            "The frequency is 599 kHz (34.4) "
+            "The operator is 59 years old",
+            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9",
+            "There are 599 errors in the transmission",
+            "The frequency is 599 kHz"
           ],
           "answerIndex": 1,
           "explanation": "RST = Readability (1-5), Strength (1-9), Tone (1-9)."
@@ -3000,13 +3000,13 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "OP IS MARK = 73 (Operator is Mark, best regards)  (Task 34.1)",
-            "ON IS MARK = 73  (Task 34.2)",
-            "OP IS MIKE = 73  (Task 34.3)",
-            "OP IS MATT = 73  (Task 34.4)"
+            "OP IS MARK = 73",
+            "ON IS MARK = 73",
+            "OP IS MIKE = 73",
+            "OP IS MATT = 73"
           ],
           "answerIndex": 0,
-          "explanation": "OP IS MARK ( --- .--.   .. ...   -- .- .-. -.- ) = 73 ( --... ...-- )."
+          "explanation": "OP IS MARK ( --- .--. .. ... -- .- .-. -.- ) = 73 ( --... ...-- )."
         },
         {
           "prompt": "What does the prosign 'K' (`-.-`) at the end of an on-air transmission mean?",
@@ -3036,11 +3036,11 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `-.- ..--- ...- -..-   -.. .   --. ...-- --.. .--.   -.-`",
+          "prompt": "Decode: `-.- ..--- ...- -..- -.. . --. ...-- --.. .--. -.-`",
           "options": [
             "W2VX DE G3ZP K",
             "K2VX DE G3ZQ K",
-            "K2VX DE G3ZP K (K2VX from G3ZP, over)",
+            "K2VX DE G3ZP K",
             "K2VX DE M3ZP K"
           ],
           "answerIndex": 2,
@@ -3051,7 +3051,7 @@
           "prompt": "What does 'HW CPY?' mean in Morse shorthand?",
           "options": [
             "Have we cleared?",
-            "How copy? (How well did you receive my transmission?)",
+            "How copy?",
             "Heavy cloud power?",
             "High wattage call?"
           ],
@@ -3062,7 +3062,7 @@
         {
           "prompt": "Complete the QSO: 'TNX FER QSO ES _______ 73 SK.'",
           "options": [
-            "HPE CUAGN (Hope to see you again)",
+            "HPE CUAGN",
             "GO AWAY",
             "STOP TRANSMITTING",
             "NO MORE"
@@ -3103,10 +3103,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "New Haven CT (35.1) ",
-            "Toronto (35.2) ",
-            "London (35.3) ",
-            "Tokyo (35.4) "
+            "New Haven CT",
+            "Toronto",
+            "London",
+            "Tokyo"
           ],
           "answerIndex": 0,
           "explanation": "W1AW transmitted: QTH NEW HAVEN CT."
@@ -3114,7 +3114,7 @@
         {
           "prompt": "What did station VE3ABC send as the operator name?",
           "options": [
-            "SAM (`... .- --`)",
+            "SAM",
             "BOB",
             "DAVE",
             "MARK"
@@ -3129,10 +3129,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "Please repeat  (Task 35.1)",
-            "Silent Key / End of Contact (final transmission in the conversation)  (Task 35.2)",
-            "Change frequency  (Task 35.3)",
-            "Start Transmission  (Task 35.4)"
+            "Please repeat",
+            "Silent Key / End of Contact",
+            "Change frequency",
+            "Start Transmission"
           ],
           "answerIndex": 1,
           "explanation": "SK = End of contact / Final transmission."
@@ -3141,7 +3141,7 @@
           "prompt": "What does 'R FB' mean when station B responds to station A?",
           "options": [
             "Return Feedback",
-            "Received Fine Business (Roger, excellent copy!)",
+            "Received Fine Business",
             "Run Fast Boys",
             "Radio Frequency Band"
           ],
@@ -3165,10 +3165,10 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode the complete sign-off: `--... ...--   -.. .   .-- .---- .- .--   ... -.-`",
+          "prompt": "Decode the complete sign-off: `--... ...-- -.. . .-- .---- .- .-- ... -.-`",
           "options": [
             "73 DE K2VX SK",
-            "73 DE W1AW SK (Best regards from W1AW, end of contact)",
+            "73 DE W1AW SK",
             "73 DE VE3ABC SK",
             "QSL DE W1AW SK"
           ],
@@ -3232,10 +3232,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Stop the sender and ask them to restart the paragraph (36.1) ",
-            "Pause and think for 5 seconds about what letter it was (36.2) ",
-            "Turn off the radio (36.3) ",
-            "Instantly ignore the missed character and maintain your rhythmic listening focus on the incoming stream (deliberate practice) (36.4) "
+            "Stop the sender and ask them to restart the paragraph",
+            "Pause and think for 5 seconds about what letter it was",
+            "Turn off the radio",
+            "Instantly ignore the missed character and maintain your rhythmic listening focus on the incoming stream"
           ],
           "answerIndex": 3,
           "explanation": "Letting go of missed characters prevents cognitive backlog and allows context to fill the gap."
@@ -3258,10 +3258,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "SPEED IS GOOD  (Task 36.1)",
-            "SPACE IS VAST  (Task 36.2)",
-            "SOUND IS CLEAR  (Task 36.3)",
-            "SPEED IS VITAL  (Task 36.4)"
+            "SPEED IS GOOD",
+            "SPACE IS VAST",
+            "SOUND IS CLEAR",
+            "SPEED IS VITAL"
           ],
           "answerIndex": 3,
           "explanation": "SPEED ( ... .--. . . -.. ) IS ( .. ... ) VITAL ( ...- .. - .- .-.. )."
@@ -3294,7 +3294,7 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `.-- . .-.. -.-. --- -- .   - ---   -- .- ... - . .-.   -.-. .--`",
+          "prompt": "Decode: `.-- . .-.. -.-. --- -- . - --- -- .- ... - . .-. -.-. .--`",
           "options": [
             "WELCOME TO MASTER CW",
             "WAITING FOR MASTER CW",
@@ -3361,10 +3361,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Wait / Stand by (please wait 1-2 minutes) (37.1) ",
-            "End of contact (37.2) ",
-            "All stations call now (37.3) ",
-            "Emergency SOS (37.4) "
+            "Wait / Stand by",
+            "End of contact",
+            "All stations call now",
+            "Emergency SOS"
           ],
           "answerIndex": 0,
           "explanation": "[AS] (A and S fused: .-...) = Wait / Stand by."
@@ -3387,10 +3387,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "W1AW DE VE3ABC K  (Task 37.1)",
-            "W1AW DE VE3ABC/P [KN] (W1AW from portable station VE3ABC, only W1AW reply)  (Task 37.2)",
-            "W1AW DE VE3ABC/M SK  (Task 37.3)",
-            "W1AW DE VE3ABC AS  (Task 37.4)"
+            "W1AW DE VE3ABC K",
+            "W1AW DE VE3ABC/P [KN]",
+            "W1AW DE VE3ABC/M SK",
+            "W1AW DE VE3ABC AS"
           ],
           "answerIndex": 1,
           "explanation": "W1AW DE VE3ABC/P [KN]."
@@ -3428,7 +3428,7 @@
             "=",
             "?",
             ",",
-            "/ (Fraction bar / Slash as in /P or /M)"
+            "/"
           ],
           "answerIndex": 3,
           "explanation": "-..-. is the official slash / fraction bar [DN].",
@@ -3439,7 +3439,7 @@
           "options": [
             "Because telegraph keys jam easily",
             "It was an accidental habit",
-            "To give them distinct, unmistakable melodic rhythmic signatures that cannot be confused with regular vocabulary words (deliberate practice)",
+            "To give them distinct, unmistakable melodic rhythmic signatures that cannot be confused with regular vocabulary words",
             "To save electricity"
           ],
           "answerIndex": 2,
@@ -3490,10 +3490,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "RIG IS 10W (38.1) ",
-            "RADIO IS ON (38.2) ",
-            "RUN IS 100M (38.3) ",
-            "RIG IS 100W (Transceiver power is 100 Watts) (38.4) "
+            "RIG IS 10W",
+            "RADIO IS ON",
+            "RUN IS 100M",
+            "RIG IS 100W"
           ],
           "answerIndex": 3,
           "explanation": "RIG ( .-. .. --. ) IS ( .. ... ) 100W ( .---- ----- ----- .-- )."
@@ -3516,10 +3516,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "VERY NICE SIGNAL OM (Very nice signal, old man/friend)  (Task 38.1)",
-            "VERY LOUD NOISE OM  (Task 38.2)",
-            "VOICE NOT CLEAR OM  (Task 38.3)",
-            "VALID NEW SIGNAL OM  (Task 38.4)"
+            "VERY NICE SIGNAL OM",
+            "VERY LOUD NOISE OM",
+            "VOICE NOT CLEAR OM",
+            "VALID NEW SIGNAL OM"
           ],
           "answerIndex": 0,
           "explanation": "VERY NICE SIGNAL OM."
@@ -3527,7 +3527,7 @@
         {
           "prompt": "What does 'OM' mean in global amateur telegraphy?",
           "options": [
-            "Old Man (the traditional, affectionate universal term for any fellow male radio operator, regardless of age)",
+            "Old Man",
             "Official Member",
             "Over Maximum",
             "Operation Manager"
@@ -3540,7 +3540,7 @@
     "checkpointTest": {
       "items": [
         {
-          "prompt": "Decode the full conversational sentence at 20 WPM: `.... --- .--. .   - ---   ... . .   -.-- --- ..-   .- --. .- .. -.   ... --- --- -.`",
+          "prompt": "Decode the full conversational sentence at 20 WPM: `.... --- .--. . - --- ... . . -.-- --- ..- .- --. .- .. -. ... --- --- -.`",
           "options": [
             "HAVE TO SAY GOODBYE SOON",
             "HEAR YOU VERY WELL TODAY",
@@ -3556,7 +3556,7 @@
           "options": [
             "Your Location",
             "Yesterday Late",
-            "Young Lady (referring to any female radio operator, regardless of age)",
+            "Young Lady",
             "Yellow Light"
           ],
           "answerIndex": 2,
@@ -3567,7 +3567,7 @@
           "prompt": "Why is head-copying at 20 WPM less mentally exhausting than writing down code at 10 WPM?",
           "options": [
             "Because listening requires no brain activity",
-            "Because head-copying bypasses manual motor transcription, utilizing natural language comprehension networks in Broca's and Wernicke's areas (deliberate practice)",
+            "Because head-copying bypasses manual motor transcription, utilizing natural language comprehension networks in Broca's and Wernicke's areas",
             "Because 20 WPM is shorter in duration",
             "Because higher tones take less energy"
           ],
@@ -3619,10 +3619,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Increase your speed to 30 WPM (39.1) ",
-            "Your signal is experiencing ionospheric fading (fading in and out of the noise) (39.2) ",
-            "Change to frequency B (39.3) ",
-            "Your transmitter is on fire (39.4) "
+            "Increase your speed to 30 WPM",
+            "Your signal is experiencing ionospheric fading",
+            "Change to frequency B",
+            "Your transmitter is on fire"
           ],
           "answerIndex": 1,
           "explanation": "QSB = Fading signals."
@@ -3630,7 +3630,7 @@
         {
           "prompt": "What does the shorthand 'ES' (`. ...`) mean in Morse code?",
           "options": [
-            "AND ('&' / 'and')",
+            "AND",
             "EAST",
             "ESCAPE",
             "ESPECIALLY"
@@ -3645,10 +3645,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "PSE QRO VERY QSB (Please increase power, severe signal fading here)  (Task 39.1)",
-            "PASS QRO VERY QSB  (Task 39.2)",
-            "PLEASE QRP VERY QRM  (Task 39.3)",
-            "PSE QSY VERY QTH  (Task 39.4)"
+            "PSE QRO VERY QSB",
+            "PASS QRO VERY QSB",
+            "PLEASE QRP VERY QRM",
+            "PSE QSY VERY QTH"
           ],
           "answerIndex": 0,
           "explanation": "PSE (Please) QRO (Increase power) VERY QSB (Signal fading)."
@@ -3681,7 +3681,7 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode the complete greeting: `-. .. -.-. .   - ---   -- . . -   -.-- --- ..-   --- --`",
+          "prompt": "Decode the complete greeting: `-. .. -.-. . - --- -- . . - -.-- --- ..- --- --`",
           "options": [
             "NICE TO HEAR YOU OM",
             "NICE TO MEET YOU OM",
@@ -3695,7 +3695,7 @@
         {
           "prompt": "Why is operational shorthand essential on high-frequency (HF) amateur bands?",
           "options": [
-            "Because ionospheric propagation windows can open and close in minutes; shorthand allows maximum critical data transfer before the band fades (deliberate practice)",
+            "Because ionospheric propagation windows can open and close in minutes; shorthand allows maximum critical data transfer before the band fades",
             "Because long words are illegal",
             "Because radio operators cannot spell",
             "Because it reduces battery usage"
@@ -3748,10 +3748,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "45 Knots (Seas 12 feet) (40.1) ",
-            "20 Knots (40.2) ",
-            "60 Knots (40.3) ",
-            "10 Knots (40.4) "
+            "45 Knots",
+            "20 Knots",
+            "60 Knots",
+            "10 Knots"
           ],
           "answerIndex": 0,
           "explanation": "Bulletin stated: WINDS 45 KNOTS ( ....- ..... )."
@@ -3759,7 +3759,7 @@
         {
           "prompt": "On what frequency was the DX expedition station VK9X operating?",
           "options": [
-            "14370 kHz (14.370 MHz)",
+            "14370 kHz",
             "7050 kHz",
             "21200 kHz",
             "3500 kHz"
@@ -3774,10 +3774,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "ONLINE ONLY  (Task 40.1)",
-            "VIA BUREAU (`...- .. .-   -... ..- .-. . .- ..-`)  (Task 40.2)",
-            "NO QSL  (Task 40.3)",
-            "DIRECT  (Task 40.4)"
+            "ONLINE ONLY",
+            "VIA BUREAU",
+            "NO QSL",
+            "DIRECT"
           ],
           "answerIndex": 1,
           "explanation": "QSL VIA BUREAU."
@@ -3822,7 +3822,7 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `... - --- .-. --   .. ...   --- ...- . .-.`",
+          "prompt": "Decode: `... - --- .-. -- .. ... --- ...- . .-.`",
           "options": [
             "STATION IS ON",
             "SIGNAL IS OPEN",
@@ -3877,10 +3877,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Emergency evacuation immediately (41.1) ",
-            "Close the station (41.2) ",
-            "Change to frequency 2 (41.3) ",
-            "Check into the formal traffic net (41.4) "
+            "Emergency evacuation immediately",
+            "Close the station",
+            "Change to frequency 2",
+            "Check into the formal traffic net"
           ],
           "answerIndex": 3,
           "explanation": "QNI = Check into the net."
@@ -3891,7 +3891,7 @@
             "The station with the most power",
             "Any station that wants to talk",
             "The oldest operator",
-            "The Net Control Station (NCS)"
+            "The Net Control Station"
           ],
           "answerIndex": 3,
           "explanation": "The Net Control Station (NCS) manages all net transmissions."
@@ -3903,10 +3903,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 41:",
           "options": [
-            "SOS  (Task 41.1)",
-            "QRP  (Task 41.2)",
-            "73  (Task 41.3)",
-            "QNX (`--.- -. -..-`)  (Task 41.4)"
+            "SOS",
+            "QRP",
+            "73",
+            "QNX"
           ],
           "answerIndex": 3,
           "explanation": "QNX is the formal signal to request dismissal from a directed net."
@@ -3939,12 +3939,12 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `-.- ..--- ...- -..-   -.. .   .-- .---- .- .--   --.- -. -..-   --... ...--`",
+          "prompt": "Decode: `-.- ..--- ...- -..- -.. . .-- .---- .- .-- --.- -. -..- --... ...--`",
           "options": [
             "K2VX DE W1AW QNI 73",
             "W2VX DE W1AW QNX 73",
             "K2VX DE W1AW QNZ 73",
-            "K2VX DE W1AW QNX 73 (K2VX from W1AW, you are excused from the net, best regards)"
+            "K2VX DE W1AW QNX 73"
           ],
           "answerIndex": 3,
           "explanation": "K2VX DE W1AW QNX 73.",
@@ -3955,7 +3955,7 @@
           "options": [
             "Because CW is newer than voice",
             "Because voice radio is illegal during emergencies",
-            "Because CW signals have 1/20th the bandwidth of voice signals, cutting through severe static and operating on minimal battery power when voice is completely unreadable (deliberate practice)",
+            "Because CW signals have 1/20th the bandwidth of voice signals, cutting through severe static and operating on minimal battery power when voice is completely unreadable",
             "Because CW requires internet"
           ],
           "answerIndex": 2,
@@ -4006,10 +4006,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs (42.1) ",
-            "The ability to transmit without electricity (42.2) ",
-            "The ability to transmit on 10 frequencies at once (42.3) ",
-            "The ability to make the signal louder (42.4) "
+            "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs",
+            "The ability to transmit without electricity",
+            "The ability to transmit on 10 frequencies at once",
+            "The ability to make the signal louder"
           ],
           "answerIndex": 0,
           "explanation": "QSK enables real-time reception between transmitted elements."
@@ -4032,10 +4032,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 42:",
           "options": [
-            "Iambic paddles are made of soft foam  (Task 42.1)",
-            "Straight keys require continuous up-and-down pumping of the entire forearm; iambic paddles require only sub-millimeter finger squeezes with the electronic keyer managing timing (deliberate practice)  (Task 42.2)",
-            "Straight keys are made of glass  (Task 42.3)",
-            "It does not prevent strain  (Task 42.4)"
+            "Iambic paddles are made of soft foam",
+            "Straight keys require continuous up-and-down pumping of the entire forearm; iambic paddles require only sub-millimeter finger squeezes with the electronic keyer managing timing",
+            "Straight keys are made of glass",
+            "It does not prevent strain"
           ],
           "answerIndex": 1,
           "explanation": "Sub-millimeter lateral finger squeezes eliminate forearm pumping fatigue."
@@ -4045,7 +4045,7 @@
           "options": [
             "Tap Right paddle 4 times",
             "Push both paddles forward",
-            "Squeeze Left paddle (2 dits), tap Right paddle (dah), release to Left (dit)",
+            "Squeeze Left paddle (2 dits), tap Right paddle (dah), release to Left",
             "Hold down Left paddle for 5 seconds"
           ],
           "answerIndex": 2,
@@ -4072,7 +4072,7 @@
           "options": [
             "1 : 10",
             "2 : 5",
-            "1 : 3 (A Dah is exactly 3 times the duration of a Dit, with 1 Dit space between elements)",
+            "1 : 3",
             "1 : 1"
           ],
           "answerIndex": 2,
@@ -4135,10 +4135,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It makes the receiver louder (43.1) ",
-            "It turns off the other stations (43.2) ",
-            "The auditory cortex selectively amplifies the specific frequency and rhythm of the target station while suppressing all adjacent competing audio signals (deliberate practice) (43.3) ",
-            "It converts code into text automatically (43.4) "
+            "It makes the receiver louder",
+            "It turns off the other stations",
+            "The auditory cortex selectively amplifies the specific frequency and rhythm of the target station while suppressing all adjacent competing audio signals",
+            "It converts code into text automatically"
           ],
           "answerIndex": 2,
           "explanation": "Selective auditory attention acts as a powerful organic biological filter."
@@ -4146,8 +4146,8 @@
         {
           "prompt": "What is the recommended receiver DSP filter bandwidth for comfortable high-speed CW copy without acoustic 'ringing'?",
           "options": [
-            "10 kHz (wide open AM filter)",
-            "10 Hz (causes severe metallic ringing)",
+            "10 kHz",
+            "10 Hz",
             "0 Hz",
             "250 Hz to 400 Hz"
           ],
@@ -4161,10 +4161,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 43:",
           "options": [
-            "Contextual top-down linguistic reconstruction: The brain uses syntax and word predictability to seamlessly fill in the missing acoustic gap  (Task 43.1)",
-            "Asking the sender to repeat the entire message from the beginning  (Task 43.2)",
-            "Changing the antenna  (Task 43.3)",
-            "Giving up the contact  (Task 43.4)"
+            "Contextual top-down linguistic reconstruction: The brain uses syntax and word predictability to seamlessly fill in the missing acoustic gap",
+            "Asking the sender to repeat the entire message from the beginning",
+            "Changing the antenna",
+            "Giving up the contact"
           ],
           "answerIndex": 0,
           "explanation": "Top-down linguistic context repairs fragmented signals."
@@ -4172,7 +4172,7 @@
         {
           "prompt": "What does a signal report of 'RST 339' mean?",
           "options": [
-            "Readability 3 (readable with considerable difficulty), Strength 3 (weak signal), Tone 9 (pure tone)",
+            "Readability 3 (readable with considerable difficulty), Strength 3 (weak signal), Tone 9",
             "Perfect signal",
             "No signal",
             "Station is in zone 33"
@@ -4264,16 +4264,16 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Send SOS 3 times (44.1) ",
-            "Send the 8-dit error prosign (`........`), repeat the last correctly sent word, and continue transmitting (44.2) ",
-            "Repeat the entire message from word 1 (44.3) ",
-            "Turn off the radio in shame (44.4) "
+            "Send SOS 3 times",
+            "Send the 8-dit error prosign (`........`), repeat the last correctly sent word, and continue transmitting",
+            "Repeat the entire message from word 1",
+            "Turn off the radio in shame"
           ],
           "answerIndex": 1,
           "explanation": "8 dits followed by repeating the last correct word is the standard correction protocol."
         },
         {
-          "prompt": "What does the fill request `..--..   .-- .-   -.. --- -.-. - --- .-.` (? WA DOCTOR) mean?",
+          "prompt": "What does the fill request `..--.. .-- .- -.. --- -.-. - --- .-.` (? WA DOCTOR) mean?",
           "options": [
             "Please repeat the Word After the word 'DOCTOR'",
             "Please repeat the Word Before 'DOCTOR'",
@@ -4290,10 +4290,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 44:",
           "options": [
-            "Please repeat the Word Before 'BOSTON'  (Task 44.1)",
-            "Weather in Boston  (Task 44.2)",
-            "Please repeat the Word After 'BOSTON'  (Task 44.3)",
-            "Where is Boston?  (Task 44.4)"
+            "Please repeat the Word Before 'BOSTON'",
+            "Weather in Boston",
+            "Please repeat the Word After 'BOSTON'",
+            "Where is Boston?"
           ],
           "answerIndex": 0,
           "explanation": "? WB = Repeat Word Before."
@@ -4301,7 +4301,7 @@
         {
           "prompt": "What is the advantage of using surgical fill requests (? WA / ? WB) instead of asking to repeat the whole message (? AGN)?",
           "options": [
-            "It saves 90% of transmission time and minimizes frequency congestion by targeting only the single dropped word (deliberate practice)",
+            "It saves 90% of transmission time and minimizes frequency congestion by targeting only the single dropped word",
             "It makes the transmitter cooler",
             "It gives double points in contests",
             "It is required by law"
@@ -4326,9 +4326,9 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode: `... .-. ..   .- --. -.   .--. ... .`",
+          "prompt": "Decode: `... .-. .. .- --. -. .--. ... .`",
           "options": [
-            "SRI AGN PSE (Sorry, please repeat again)",
+            "SRI AGN PSE",
             "SEND ALL PLEASE",
             "STATION AGAIN PLEASE",
             "STOP AGAIN PLEASE"
@@ -4393,10 +4393,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "MEDICAL SUPPLIES ARRIVED SAFELY (45.1) ",
-            "STORM HAS PASSED (45.2) ",
-            "REQUESTING MORE FUEL (45.3) ",
-            "AIRPORT IS CLOSED (45.4) "
+            "MEDICAL SUPPLIES ARRIVED SAFELY",
+            "STORM HAS PASSED",
+            "REQUESTING MORE FUEL",
+            "AIRPORT IS CLOSED"
           ],
           "answerIndex": 0,
           "explanation": "Message payload: MEDICAL SUPPLIES ARRIVED SAFELY."
@@ -4404,7 +4404,7 @@
         {
           "prompt": "What surgical fill request did station VE3ABC send after receiving the telegram?",
           "options": [
-            "`? WA MEDICAL` (Repeat the Word After 'MEDICAL' -> SUPPLIES)",
+            "`? WA MEDICAL`",
             "`? WB MEDICAL`",
             "`? AGN`",
             "`? QTH`"
@@ -4419,10 +4419,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 45:",
           "options": [
-            "1. Counting dits with a pencil only  (Task 45.1)",
-            "1. Koch Method Auditory Foundation; 2. Numbers & Core Prosigns; 3. Farnsworth Spacing Compression; 4. Whole-Word Gestalts & Q-Codes; 5. 20 WPM Head Copy & Emergency Net Operations  (Task 45.2)",
-            "1. Flashcards only  (Task 45.3)",
-            "1. Memorizing visual charts on paper only  (Task 45.4)"
+            "1. Counting dits with a pencil only",
+            "1. Koch Method Auditory Foundation; 2. Numbers & Core Prosigns; 3. Farnsworth Spacing Compression; 4. Whole-Word Gestalts & Q-Codes; 5. 20 WPM Head Copy & Emergency Net Operations",
+            "1. Flashcards only",
+            "1. Memorizing visual charts on paper only"
           ],
           "answerIndex": 1,
           "explanation": "The 5 evolutionary pillars of master Morse code pedagogy."
@@ -4431,7 +4431,7 @@
           "prompt": "What is the primary cognitive superpower gained from completing the Morse Code curriculum?",
           "options": [
             "Typing without looking",
-            "Hyper-focused auditory sensory processing, deep working memory buffer expansion, real-time linguistic stream decoding, and acoustic noise filtering under intense cognitive load (deliberate practice)",
+            "Hyper-focused auditory sensory processing, deep working memory buffer expansion, real-time linguistic stream decoding, and acoustic noise filtering under intense cognitive load",
             "Learning flag signals",
             "Hearing dog whistles"
           ],
@@ -4455,12 +4455,12 @@
           "type": "multiple-choice"
         },
         {
-          "prompt": "Decode the eternal telegraphic signature: `--... ...--   . ...   ---.. ---..`",
+          "prompt": "Decode the eternal telegraphic signature: `--... ...-- . ... ---.. ---..`",
           "options": [
             "GOODBYE AND FAREWELL",
             "73 AND 73",
             "88 ES 88",
-            "73 ES 88 (Best regards and love & kisses)"
+            "73 ES 88"
           ],
           "answerIndex": 3,
           "explanation": "73 (Best regards) ES (and) 88 (love & kisses).",
@@ -4532,10 +4532,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            ".-.-.- (46.1) ",
-            "--..-- (46.2) ",
-            "-..-. (46.3) ",
-            "..-..- (dit-dit-dah-dah-dit-dit) (46.4) "
+            ".-.-.-",
+            "--..--",
+            "-..-.",
+            "..-..-"
           ],
           "answerIndex": 3,
           "explanation": "..--.. is the universal Question Mark."
@@ -4543,10 +4543,10 @@
         {
           "prompt": "What character does the six-element rhythmic pattern '.-.-.-' (dit-dah-dit-dah-dit-dah) represent?",
           "options": [
-            "Comma (,)",
-            "Exclamation Mark (!)",
-            "Slash (/)",
-            "Period / Full Stop (.)"
+            "Comma",
+            "Exclamation Mark",
+            "Slash",
+            "Period / Full Stop"
           ],
           "answerIndex": 3,
           "explanation": ".-.-.- represents a Period (.)."
@@ -4558,10 +4558,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 46:",
           "options": [
-            ".  (Task 46.1)",
-            ",  (Task 46.2)",
-            "/  (Task 46.3)",
-            "?  (Task 46.4)"
+            ".",
+            ",",
+            "/",
+            "?"
           ],
           "answerIndex": 3,
           "explanation": "..--.. = Question Mark."
@@ -4572,7 +4572,7 @@
             ".-.-.-",
             "--..--",
             "..--..",
-            "-..-. (dah-dit-dit-dah-dit)"
+            "-..-."
           ],
           "answerIndex": 3,
           "explanation": "-..-. is the Slash (/)."
@@ -4598,7 +4598,7 @@
           "options": [
             "Six dits in a row",
             "Six dahs in a row",
-            "Two dahs, two dits, two dahs (dah-dah-dit-dit-dah-dah)",
+            "Two dahs, two dits, two dahs",
             "Alternating dits and dahs"
           ],
           "answerIndex": 2,
@@ -4620,10 +4620,10 @@
         {
           "prompt": "Decode: `--..--`",
           "options": [
-            "Comma (,)",
-            "Question mark (?)",
-            "Slash (/)",
-            "Period (.)"
+            "Comma",
+            "Question mark",
+            "Slash",
+            "Period"
           ],
           "answerIndex": 0,
           "explanation": "--..-- is Comma.",
@@ -4666,10 +4666,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "dah-dit-dit-dit-dah (B and T sent without space) (47.1) ",
-            "dah-dit-dah-dit (47.2) ",
-            "dah-dah-dah (47.3) ",
-            "dit-dit-dit (47.4) "
+            "dah-dit-dit-dit-dah",
+            "dah-dit-dah-dit",
+            "dah-dah-dah",
+            "dit-dit-dit"
           ],
           "answerIndex": 0,
           "explanation": "-...- is the BT break prosign."
@@ -4677,7 +4677,7 @@
         {
           "prompt": "How is the prosign BT used in everyday amateur radio Morse code?",
           "options": [
-            "As a conversational pause/separator between sentences and thoughts (like a paragraph break)",
+            "As a conversational pause/separator between sentences and thoughts",
             "To indicate the radio is catching on fire",
             "To send audio tones",
             "To switch to voice communication"
@@ -4692,10 +4692,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 47:",
           "options": [
-            "AR  (Task 47.1)",
-            "BT (Break / Equal Sign)  (Task 47.2)",
-            "SK  (Task 47.3)",
-            "KN  (Task 47.4)"
+            "AR",
+            "BT",
+            "SK",
+            "KN"
           ],
           "answerIndex": 1,
           "explanation": "-...- = BT."
@@ -4705,7 +4705,7 @@
           "options": [
             "...---",
             ".-.-.-",
-            "---... (3 dahs followed by 3 dits)",
+            "---...",
             "-....-"
           ],
           "answerIndex": 2,
@@ -4742,7 +4742,7 @@
         {
           "prompt": "What is the Morse code for Hyphen / Dash (-)?",
           "options": [
-            "-....- (dah-dit-dit-dit-dit-dah)",
+            "-....-",
             "---...",
             "-...-",
             ".-.-.-"
@@ -4800,10 +4800,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'Kill the power' (48.1) ",
-            "'Keep waiting' (48.2) ",
-            "'Over / Go ahead — any station is invited to transmit' (48.3) ",
-            "'Keyboard error' (48.4) "
+            "'Kill the power'",
+            "'Keep waiting'",
+            "'Over / Go ahead — any station is invited to transmit'",
+            "'Keyboard error'"
           ],
           "answerIndex": 2,
           "explanation": "K is the universal 'Go ahead / Over' invitation."
@@ -4826,10 +4826,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 48:",
           "options": [
-            "AR (End of Message / Transmission)  (Task 48.1)",
-            "BT  (Task 48.2)",
-            "SOS  (Task 48.3)",
-            "SK  (Task 48.4)"
+            "AR",
+            "BT",
+            "SOS",
+            "SK"
           ],
           "answerIndex": 0,
           "explanation": ".-.-. is the AR prosign (A + R run together)."
@@ -4837,10 +4837,10 @@
         {
           "prompt": "Which prosign should you send at the end of an open CQ call to invite listeners to answer?",
           "options": [
-            "K (-.-)",
-            "KN (-.--.)",
-            "SK (...-.-)",
-            "AS (.-...)"
+            "K",
+            "KN",
+            "SK",
+            "AS"
           ],
           "answerIndex": 0,
           "explanation": "An open CQ call closes with 'K'."
@@ -4864,7 +4864,7 @@
         {
           "prompt": "What is the rhythmic composition of the AR prosign (.-.-.)?",
           "options": [
-            "dit-dah-dit-dah-dit (A '.-' merged with R '.-.')",
+            "dit-dah-dit-dah-dit",
             "dah-dit-dah",
             "dah-dah-dah",
             "dit-dit-dit"
@@ -4890,7 +4890,7 @@
           "options": [
             "AR",
             "AS",
-            "KN (Go ahead specific station only)",
+            "KN",
             "BT"
           ],
           "answerIndex": 2,
@@ -4934,10 +4934,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'Signal is weak' (49.1) ",
-            "'End of contact / final sign-off (Silent Key) — contact is finished' (49.2) ",
-            "'Send emergency help' (49.3) ",
-            "'Start sending faster' (49.4) "
+            "'Signal is weak'",
+            "'End of contact / final sign-off (Silent Key) — contact is finished'",
+            "'Send emergency help'",
+            "'Start sending faster'"
           ],
           "answerIndex": 1,
           "explanation": "SK concludes the entire radio contact."
@@ -4960,10 +4960,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 49:",
           "options": [
-            "AS (Please wait / Stand by)  (Task 49.1)",
-            "BT  (Task 49.2)",
-            "SK  (Task 49.3)",
-            "AR  (Task 49.4)"
+            "AS",
+            "BT",
+            "SK",
+            "AR"
           ],
           "answerIndex": 0,
           "explanation": ".-... is the AS wait prosign."
@@ -5001,7 +5001,7 @@
             "dit-dah-dit-dah",
             "dah-dah-dah",
             "dah-dit-dit-dah",
-            "dit-dit-dit-dah-dit-dah (S '...' merged directly with K '-.-')"
+            "dit-dit-dit-dah-dit-dah"
           ],
           "answerIndex": 3,
           "explanation": "S (...) + K (-.-) = ...-.-.",
@@ -5068,10 +5068,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9 (pure crystal tone) (50.1) ",
-            "Radio channel 599 (50.2) ",
-            "599 miles away (50.3) ",
-            "Emergency code 599 (50.4) "
+            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9",
+            "Radio channel 599",
+            "599 miles away",
+            "Emergency code 599"
           ],
           "answerIndex": 0,
           "explanation": "599 is the standard 'perfect copy' CW signal report."
@@ -5094,10 +5094,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 50:",
           "options": [
-            "The frequency is closed for 73 days  (Task 50.1)",
-            "Best regards and thanks for the contact, final sign-off (end of QSO)  (Task 50.2)",
-            "Repeat your name  (Task 50.3)",
-            "Wait 73 minutes for next contact  (Task 50.4)"
+            "The frequency is closed for 73 days",
+            "Best regards and thanks for the contact, final sign-off",
+            "Repeat your name",
+            "Wait 73 minutes for next contact"
           ],
           "answerIndex": 1,
           "explanation": "73 (best regards) + TNX FER QSO (thanks for contact) + SK (end of contact)."
@@ -5106,7 +5106,7 @@
           "prompt": "Which prosign is sent immediately before 'K' when closing a formal telegram?",
           "options": [
             "SK",
-            "AR (.-.-. / End of Message)",
+            "AR",
             "AS",
             "BT"
           ],
@@ -5123,7 +5123,7 @@
             "Only numbers repeated 10 times",
             "SOS -> 8 Dits -> Turn off radio",
             "SK -> CQ -> AS -> Period",
-            "CQ Call (with K) -> Station Reply (with AR K) -> Signal Report & QTH (with BT and KN) -> Sign-off (with 73 and SK)"
+            "CQ Call (with K) -> Station Reply (with AR K) -> Signal Report & QTH (with BT and KN) -> Sign-off"
           ],
           "answerIndex": 3,
           "explanation": "Flawless standard operating procedure for Morse traffic.",
@@ -5134,7 +5134,7 @@
           "options": [
             "1, 2, 3, 4",
             "Colon, Hyphen, Semicolon, Quote",
-            "Period (.), Comma (,), Question Mark (?), Slash (/)",
+            "Period (.), Comma (,), Question Mark (?), Slash",
             "A, B, C, D"
           ],
           "answerIndex": 2,

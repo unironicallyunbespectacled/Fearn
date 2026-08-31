@@ -257,7 +257,7 @@
           "options": [
             "All four",
             "Three",
-            "Two (lines 2 and 4)",
+            "Two",
             "None"
           ],
           "answer": "Two (lines 2 and 4)",
@@ -569,9 +569,9 @@
           "type": "multiple-choice",
           "prompt": "Where does the natural spoken stress fall in the word \"remember\"?",
           "options": [
-            "The first syllable (REM-ember)",
-            "The middle syllable (re-MEM-ber)",
-            "The last syllable (remem-BER)",
+            "The first syllable",
+            "The middle syllable",
+            "The last syllable",
             "It has no fixed natural stress"
           ],
           "answer": "The middle syllable (re-MEM-ber)",
@@ -903,10 +903,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "To repeat the song's main title with maximum vocal power (11.1) ",
-            "To change the musical tempo completely (11.2) ",
-            "To play an instrumental guitar solo (11.3) ",
-            "To establish concrete setting, characters, sensory details, and advance the story (11.4) "
+            "To repeat the song's main title with maximum vocal power",
+            "To change the musical tempo completely",
+            "To play an instrumental guitar solo",
+            "To establish concrete setting, characters, sensory details, and advance the story"
           ],
           "answerIndex": 3,
           "explanation": "Verses provide the concrete narrative exposition and detail that ground the chorus."
@@ -940,10 +940,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 11:",
           "options": [
-            "Because singers cannot sing high notes in verses  (Task 11.1)",
-            "To make verses harder to hear  (Task 11.2)",
-            "Because verses cannot have rhythm  (Task 11.3)",
-            "To leave dynamic and melodic headroom for the chorus to lift and feel like a release  (Task 11.4)"
+            "Because singers cannot sing high notes in verses",
+            "To make verses harder to hear",
+            "Because verses cannot have rhythm",
+            "To leave dynamic and melodic headroom for the chorus to lift and feel like a release"
           ],
           "answerIndex": 3,
           "explanation": "Lower verse registers create contrast and emotional headroom for the chorus."
@@ -990,7 +990,7 @@
         {
           "prompt": "Why is 'Cold tea and an unmade bed' stronger than 'I felt neglected'?",
           "options": [
-            "It grounds the feeling in tangible physical evidence the listener can visualize (deliberate practice)",
+            "It grounds the feeling in tangible physical evidence the listener can visualize",
             "It rhymes with bed",
             "It is shorter",
             "It has more words"
@@ -1064,10 +1064,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "To build melodic, harmonic, and emotional tension that launches seamlessly into the chorus (12.1) ",
-            "To provide a 5-minute guitar solo (12.2) ",
-            "To whisper the lyrics silently (12.3) ",
-            "To repeat the final chorus (12.4) "
+            "To build melodic, harmonic, and emotional tension that launches seamlessly into the chorus",
+            "To provide a 5-minute guitar solo",
+            "To whisper the lyrics silently",
+            "To repeat the final chorus"
           ],
           "answerIndex": 0,
           "explanation": "The pre-chorus builds tension and momentum bridging verse to chorus."
@@ -1086,8 +1086,8 @@
         {
           "prompt": "Which chord is most commonly used at the end of a pre-chorus to demand resolution into the chorus?",
           "options": [
-            "The dominant (V chord), which pulls with maximum tension toward the tonic (I)",
-            "The I chord (home)",
+            "The dominant (V chord), which pulls with maximum tension toward the tonic",
+            "The I chord",
             "A dissonant random noise",
             "A silent pause with no harmony"
           ],
@@ -1101,10 +1101,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 12:",
           "options": [
-            "It lists grocery items  (Task 12.1)",
-            "It must be completely non-rhyming  (Task 12.2)",
-            "It must use words in reverse order  (Task 12.3)",
-            "It shifts focus from external scene details to internal emotional urgency and anticipation  (Task 12.4)"
+            "It lists grocery items",
+            "It must be completely non-rhyming",
+            "It must use words in reverse order",
+            "It shifts focus from external scene details to internal emotional urgency and anticipation"
           ],
           "answerIndex": 3,
           "explanation": "The pre-chorus pivots the external narrative into internal psychological urgency."
@@ -1115,7 +1115,7 @@
             "32 bars",
             "16 bars",
             "60 seconds",
-            "2 to 4 bars (compact and driving)"
+            "2 to 4 bars"
           ],
           "answerIndex": 3,
           "explanation": "Pre-choruses are typically 2 to 4 bars to maintain tight momentum."
@@ -1224,10 +1224,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "To give the drummer a break (13.1) ",
-            "To explain complicated backstory details (13.2) ",
-            "To list the names of band members (13.3) ",
-            "To deliver the central emotional thesis, song title hook, and most memorable melodic payoff (13.4) "
+            "To give the drummer a break",
+            "To explain complicated backstory details",
+            "To list the names of band members",
+            "To deliver the central emotional thesis, song title hook, and most memorable melodic payoff"
           ],
           "answerIndex": 3,
           "explanation": "The chorus delivers the core emotional thesis and title hook."
@@ -1261,10 +1261,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 13:",
           "options": [
-            "'Get to the chorus in under 60 seconds' (keep listeners hooked)  (Task 13.1)",
-            "Wait at least 4 minutes before playing the chorus  (Task 13.2)",
-            "Never play the chorus more than once  (Task 13.3)",
-            "Choruses must only be played at the end of the song  (Task 13.4)"
+            "'Get to the chorus in under 60 seconds'",
+            "Wait at least 4 minutes before playing the chorus",
+            "Never play the chorus more than once",
+            "Choruses must only be played at the end of the song"
           ],
           "answerIndex": 0,
           "explanation": "Modern pop songwriting aims for the first chorus within 45 to 60 seconds."
@@ -1335,7 +1335,7 @@
         {
           "prompt": "Why should the central emotion of a chorus be universal rather than overly specific?",
           "options": [
-            "So that millions of diverse listeners can project their own lives and feelings into the song (deliberate practice)",
+            "So that millions of diverse listeners can project their own lives and feelings into the song",
             "Because specific words are copyrighted",
             "Because radio stations forbid specific names",
             "Because simple words sound louder"
@@ -1384,10 +1384,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "To break the repetitive Verse/Chorus loop by introducing a new harmonic color, fresh melody, and a lyrical revelation (14.1) ",
-            "To play the first verse backwards (14.2) ",
-            "To sell commercial products (14.3) ",
-            "To introduce the band's manager (14.4) "
+            "To break the repetitive Verse/Chorus loop by introducing a new harmonic color, fresh melody, and a lyrical revelation",
+            "To play the first verse backwards",
+            "To sell commercial products",
+            "To introduce the band's manager"
           ],
           "answerIndex": 0,
           "explanation": "The bridge provides harmonic, melodic, and lyrical departure."
@@ -1406,7 +1406,7 @@
         {
           "prompt": "What was the traditional name for the bridge section in 32-bar American standards?",
           "options": [
-            "The Middle Eight (due to its 8-bar duration in the middle of a 32-bar form)",
+            "The Middle Eight",
             "The Solo Trap",
             "The Quick Four",
             "The Big Sixteen"
@@ -1421,10 +1421,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 14:",
           "options": [
-            "By opening the section on a different chord from the verse/chorus (such as the IV, vi, or ii chord) to change the emotional atmosphere  (Task 14.1)",
-            "By muting all sound for two minutes  (Task 14.2)",
-            "By tuning all guitars down an octave in silence  (Task 14.3)",
-            "By playing random discordant notes  (Task 14.4)"
+            "By opening the section on a different chord from the verse/chorus (such as the IV, vi, or ii chord) to change the emotional atmosphere",
+            "By muting all sound for two minutes",
+            "By tuning all guitars down an octave in silence",
+            "By playing random discordant notes"
           ],
           "answerIndex": 0,
           "explanation": "Opening on the IV, vi, or ii chord instantly shifts the harmonic atmosphere."
@@ -1450,7 +1450,7 @@
             "In between Verse 1 and Verse 2",
             "Before the first verse",
             "At the very end as the song fades out",
-            "After the second chorus and before the final chorus (VCVCBC)"
+            "After the second chorus and before the final chorus"
           ],
           "answerIndex": 3,
           "explanation": "The bridge sits between Chorus 2 and Chorus 3 (VCVCBC).",
@@ -1461,7 +1461,7 @@
           "options": [
             "A wrong note error",
             "A system crash in the audio player",
-            "A moody, introspective subdominant shift that refreshes the listener's ear (deliberate practice)",
+            "A moody, introspective subdominant shift that refreshes the listener's ear",
             "Instant loss of rhythm"
           ],
           "answerIndex": 2,
@@ -1546,10 +1546,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Verse - Chorus - Verse - Chorus - Bridge - Chorus (15.1) ",
-            "Vocal - Chord - Vocal - Chord - Bass - Cymbal (15.2) ",
-            "Volume - Control - Volume - Control - Bass - Clear (15.3) ",
-            "Verse - Cadence - Verse - Cadence - Beat - Cadence (15.4) "
+            "Verse - Chorus - Verse - Chorus - Bridge - Chorus",
+            "Vocal - Chord - Vocal - Chord - Bass - Cymbal",
+            "Volume - Control - Volume - Control - Bass - Clear",
+            "Verse - Cadence - Verse - Cadence - Beat - Cadence"
           ],
           "answerIndex": 0,
           "explanation": "VCVCBC = Verse - Chorus - Verse - Chorus - Bridge - Chorus."
@@ -1583,10 +1583,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 15:",
           "options": [
-            "Because Verse 2 is shorter  (Task 15.1)",
-            "To prevent the song from losing all its momentum after the high-energy first chorus  (Task 15.2)",
-            "Because Verse 2 must be shouted  (Task 15.3)",
-            "Because the singer's voice is louder in Verse 2  (Task 15.4)"
+            "Because Verse 2 is shorter",
+            "To prevent the song from losing all its momentum after the high-energy first chorus",
+            "Because Verse 2 must be shouted",
+            "Because the singer's voice is louder in Verse 2"
           ],
           "answerIndex": 1,
           "explanation": "Maintaining groove and momentum prevents energy crashes after Chorus 1."
@@ -1594,7 +1594,7 @@
         {
           "prompt": "Which song form is ideal for a sprawling, 8-verse story song with rich narrative lyrics?",
           "options": [
-            "AAA Strophic Ballad with Refrain (e.g. folk/storytelling tradition)",
+            "AAA Strophic Ballad with Refrain",
             "Single-word chorus loop",
             "Instrumental march",
             "30-second EDM loop"
@@ -1609,10 +1609,10 @@
         {
           "prompt": "What is the peak energy section in a standard VCVCBC song blueprint?",
           "options": [
-            "Verse 1 (30%)",
-            "The Intro (20%)",
-            "The Final Double Chorus (100% full-band dynamic climax with vocal ad-libs)",
-            "The Pre-Chorus 1 (50%)"
+            "Verse 1",
+            "The Intro",
+            "The Final Double Chorus",
+            "The Pre-Chorus 1"
           ],
           "answerIndex": 2,
           "explanation": "The final chorus represents the 100% dynamic climax.",
@@ -1707,10 +1707,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Conjunct is loud and disjunct is quiet (16.1) ",
-            "Conjunct uses only minor chords (16.2) ",
-            "Disjunct has no rhythm (16.3) ",
-            "Conjunct motion moves by smooth scale steps; disjunct motion jumps across wide pitch leaps (16.4) "
+            "Conjunct is loud and disjunct is quiet",
+            "Conjunct uses only minor chords",
+            "Disjunct has no rhythm",
+            "Conjunct motion moves by smooth scale steps; disjunct motion jumps across wide pitch leaps"
           ],
           "answerIndex": 3,
           "explanation": "Conjunct = stepwise scale motion; disjunct = wide intervals/leaps."
@@ -1744,10 +1744,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
           "options": [
-            "Leaps are forbidden by copyright law  (Task 16.1)",
-            "Scale steps are louder than leaps  (Task 16.2)",
-            "Guitars cannot play leaps  (Task 16.3)",
-            "Stepwise melodies are effortless for the average listener to sing along with and memorize (deliberate practice)  (Task 16.4)"
+            "Leaps are forbidden by copyright law",
+            "Scale steps are louder than leaps",
+            "Guitars cannot play leaps",
+            "Stepwise melodies are effortless for the average listener to sing along with and memorize"
           ],
           "answerIndex": 3,
           "explanation": "Stepwise melodies maximize singability and cognitive stickiness."
@@ -1819,7 +1819,7 @@
           "prompt": "What constitutes a 'pendulum' melodic contour?",
           "options": [
             "A melody that only goes up",
-            "Oscillating back and forth between two adjacent pitch centers (e.g. 1 and 2 or 3 and 5)",
+            "Oscillating back and forth between two adjacent pitch centers",
             "Playing drums only",
             "Singing in a clock tower"
           ],
@@ -1868,10 +1868,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "A short, distinctive 3-to-7 note melodic/rhythmic building block that is repeated and developed (17.1) ",
-            "The chord sheet (17.2) ",
-            "The album artwork (17.3) ",
-            "The tempo marking (17.4) "
+            "A short, distinctive 3-to-7 note melodic/rhythmic building block that is repeated and developed",
+            "The chord sheet",
+            "The album artwork",
+            "The tempo marking"
           ],
           "answerIndex": 0,
           "explanation": "A motif is the core melodic cell of a song."
@@ -1890,7 +1890,7 @@
         {
           "prompt": "How does a 'Call and Response' (Antecedent/Consequent) phrase pair create satisfaction?",
           "options": [
-            "The call leaves the pitch unresolved on a tense scale degree (?), and the response resolves to the root home note (!)",
+            "The call leaves the pitch unresolved on a tense scale degree (?), and the response resolves to the root home note",
             "Both phrases are identical",
             "There is no harmony",
             "The response is played by drums only"
@@ -1905,10 +1905,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
           "options": [
-            "Retrograde inversion  (Task 17.1)",
-            "Rhythmic truncation  (Task 17.2)",
-            "Octave mute  (Task 17.3)",
-            "Melodic sequence (pitch transposition)  (Task 17.4)"
+            "Retrograde inversion",
+            "Rhythmic truncation",
+            "Octave mute",
+            "Melodic sequence"
           ],
           "answerIndex": 3,
           "explanation": "Melodic sequence shifts pitches along the scale."
@@ -1919,7 +1919,7 @@
             "It saves recording tape",
             "Instruments can only play 3 notes",
             "It makes the song shorter",
-            "The human brain craves familiar pattern recognition; too many unrelated melodies cause cognitive overload (deliberate practice)"
+            "The human brain craves familiar pattern recognition; too many unrelated melodies cause cognitive overload"
           ],
           "answerIndex": 3,
           "explanation": "Pattern recognition drives catchy familiarity."
@@ -2030,10 +2030,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "A note played at the end of a concert (18.1) ",
-            "A silent measure (18.2) ",
-            "A guitar solo (18.3) ",
-            "One or more notes sung *before* the first strong downbeat of the measure to lead into the phrase (18.4) "
+            "A note played at the end of a concert",
+            "A silent measure",
+            "A guitar solo",
+            "One or more notes sung *before* the first strong downbeat of the measure to lead into the phrase"
           ],
           "answerIndex": 3,
           "explanation": "Anacrusis = pickup note leading into beat 1."
@@ -2044,7 +2044,7 @@
             "Pushing the piano off the stage",
             "Singing louder than the band",
             "Changing the key suddenly",
-            "Anticipating the chord change by singing the key melody note an eighth-note *before* the downbeat (on the '&' of 4)"
+            "Anticipating the chord change by singing the key melody note an eighth-note *before* the downbeat"
           ],
           "answerIndex": 3,
           "explanation": "Singing on the '&' of 4 creates rhythmic drive and momentum."
@@ -2067,10 +2067,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
           "options": [
-            "Direct, grounded, honest, definitive, and hymn-like  (Task 18.1)",
-            "Confused and searching  (Task 18.2)",
-            "Timid and hesitant  (Task 18.3)",
-            "Chaotic  (Task 18.4)"
+            "Direct, grounded, honest, definitive, and hymn-like",
+            "Confused and searching",
+            "Timid and hesitant",
+            "Chaotic"
           ],
           "answerIndex": 0,
           "explanation": "Beat 1 entries feel grounded and definitive."
@@ -2078,7 +2078,7 @@
         {
           "prompt": "Why is leaving empty space (rests) between melodic phrases essential?",
           "options": [
-            "It lets the listener process the lyric, allows the singer to breathe, and gives the rhythm track room to shine (deliberate practice)",
+            "It lets the listener process the lyric, allows the singer to breathe, and gives the rhythm track room to shine",
             "To make the song longer",
             "Because vocalists forget their lines",
             "To save electricity"
@@ -2096,7 +2096,7 @@
             "A cadenza",
             "A coda",
             "A fermata",
-            "An anacrusis (pickup note)"
+            "An anacrusis"
           ],
           "answerIndex": 3,
           "explanation": "Anacrusis / pickup.",
@@ -2144,7 +2144,7 @@
             "2/4 march time",
             "4/4 common time",
             "5/4 odd time",
-            "6/8 time (or 3/4 waltz time)"
+            "6/8 time"
           ],
           "answerIndex": 3,
           "explanation": "6/8 and 3/4 provide lilting triplet groove.",
@@ -2191,10 +2191,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The higher vocal register naturally produces more acoustic energy and emotional intensity, signaling the song's primary hook (19.1) ",
-            "To make the song shorter (19.2) ",
-            "Because bass guitars cannot play high (19.3) ",
-            "Because low notes are not allowed in choruses (19.4) "
+            "The higher vocal register naturally produces more acoustic energy and emotional intensity, signaling the song's primary hook",
+            "To make the song shorter",
+            "Because bass guitars cannot play high",
+            "Because low notes are not allowed in choruses"
           ],
           "answerIndex": 0,
           "explanation": "Register elevation increases acoustic energy and emotional power."
@@ -2228,10 +2228,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
           "options": [
-            "Low to mid conversational chest voice  (Task 19.1)",
-            "Inaudible whisper  (Task 19.2)",
-            "Whistle register scream  (Task 19.3)",
-            "High falsetto belt  (Task 19.4)"
+            "Low to mid conversational chest voice",
+            "Inaudible whisper",
+            "Whistle register scream",
+            "High falsetto belt"
           ],
           "answerIndex": 0,
           "explanation": "Conversational chest voice supports intimate storytelling."
@@ -2239,7 +2239,7 @@
         {
           "prompt": "What physical reason explains why listeners experience goosebumps when a singer hits a high belt note?",
           "options": [
-            "The human brain instinctually interprets high-energy vocal cord pressure as primal emotional urgency (deliberate practice)",
+            "The human brain instinctually interprets high-energy vocal cord pressure as primal emotional urgency",
             "The temperature in the room drops",
             "The speakers shake",
             "High notes cause ear fatigue"
@@ -2304,7 +2304,7 @@
           "options": [
             "Prepositions like 'of' or 'in'",
             "Articles like 'the' or 'a'",
-            "The most emotionally pivotal thematic word of the entire song (e.g. 'Free', 'Stay', 'You', 'Never')",
+            "The most emotionally pivotal thematic word of the entire song",
             "Conjunctions like 'and'"
           ],
           "answerIndex": 2,
@@ -2354,10 +2354,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The seamless alignment of natural spoken word stress with musical pitch peaks and rhythmic downbeats (20.1) ",
-            "Writing poems without music (20.2) ",
-            "Using classical rhyming dictionaries only (20.3) ",
-            "Singing in a foreign language (20.4) "
+            "The seamless alignment of natural spoken word stress with musical pitch peaks and rhythmic downbeats",
+            "Writing poems without music",
+            "Using classical rhyming dictionaries only",
+            "Singing in a foreign language"
           ],
           "answerIndex": 0,
           "explanation": "Prosody is the marriage of natural speech stress with musical contour."
@@ -2391,10 +2391,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
           "options": [
-            "Because they are shorter  (Task 20.1)",
-            "Because the music reinforces how humans naturally express authentic emotion through voice inflection (deliberate practice)  (Task 20.2)",
-            "Because they avoid all rhyme  (Task 20.3)",
-            "Because they use louder instruments  (Task 20.4)"
+            "Because they are shorter",
+            "Because the music reinforces how humans naturally express authentic emotion through voice inflection",
+            "Because they avoid all rhyme",
+            "Because they use louder instruments"
           ],
           "answerIndex": 1,
           "explanation": "Natural vocal inflection conveys authentic human truth."
@@ -2518,10 +2518,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It makes the guitar louder. (21.1) ",
-            "It forces the song to change tempo. (21.2) ",
-            "It stops the song. (21.3) ",
-            "It creates an immediate emotional tug of heartache and poignant vulnerability before resolving into comforting rest. (21.4) "
+            "It makes the guitar louder.",
+            "It forces the song to change tempo.",
+            "It stops the song.",
+            "It creates an immediate emotional tug of heartache and poignant vulnerability before resolving into comforting rest."
           ],
           "answerIndex": 3,
           "explanation": "Appoggiaturas introduce accented expressive tension followed by cathartic resolution."
@@ -2529,10 +2529,10 @@
         {
           "prompt": "Over a C Major chord (C - E - G), which of the following vocal notes is a 'chord tone'?",
           "options": [
-            "A (the 6th)",
-            "F (the 4th)",
-            "E (the Major 3rd of the chord)",
-            "D (the 2nd / 9th)"
+            "A",
+            "F",
+            "E",
+            "D"
           ],
           "answerIndex": 2,
           "explanation": "E is the 3rd of the C major triad (C-E-G)."
@@ -2544,10 +2544,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
           "options": [
-            "He made a mistake that they kept on the record.  (Task 21.1)",
-            "F major has no other notes.  (Task 21.2)",
-            "To make it sound like heavy metal.  (Task 21.3)",
-            "G is the non-chord 9th, creating an instant nostalgic ache that resolves downward to the root F on '-ter-day'.  (Task 21.4)"
+            "He made a mistake that they kept on the record.",
+            "F major has no other notes.",
+            "To make it sound like heavy metal.",
+            "G is the non-chord 9th, creating an instant nostalgic ache that resolves downward to the root F on '-ter-day'."
           ],
           "answerIndex": 3,
           "explanation": "The 9th appoggiatura creates the signature wistful bittersweet emotion."
@@ -2568,7 +2568,7 @@
     "checkpointTest": {
       "items": [
         {
-          "prompt": "Match the chord tones and non-chord tones over an A Minor chord (A - C - E):\nA: Note C\nB: Note D resolving to C\nC: Note A\nD: Note B moving between A and C",
+          "prompt": "Match the chord tones and non-chord tones over an A Minor chord (A - C - E): A: Note C B: Note D resolving to C C: Note A D: Note B moving between A and C",
           "options": [
             "A: Minor 3rd Chord Tone | B: 4-3 Suspension Non-Chord Tone | C: Root Chord Tone | D: Passing Tone",
             "All are roots",
@@ -2596,7 +2596,7 @@
           "options": [
             "The Octave",
             "The 5th",
-            "The 3rd (Major 3rd vs. Minor 3rd)",
+            "The 3rd",
             "The Root"
           ],
           "answerIndex": 2,
@@ -2659,10 +2659,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "A bittersweet, poignant 'tearjerker' ache caused by the chromatic half-step descent from the major 6th (A) to minor 6th (A-flat) down to the 5th (G) (22.1) ",
-            "An electric shock (22.2) ",
-            "A comedic clown effect (22.3) ",
-            "A marching band fanfare (22.4) "
+            "A bittersweet, poignant 'tearjerker' ache caused by the chromatic half-step descent from the major 6th (A) to minor 6th (A-flat) down to the 5th",
+            "An electric shock",
+            "A comedic clown effect",
+            "A marching band fanfare"
           ],
           "answerIndex": 0,
           "explanation": "The half-step line A -> Ab -> G in IV -> iv -> I is the quintessential melancholy harmonic movement."
@@ -2685,10 +2685,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
           "options": [
-            "Playing a false note on purpose  (Task 22.1)",
-            "Tuning the guitar down a step  (Task 22.2)",
-            "Resolving the dominant V chord to the minor vi chord instead of the expected tonic I chord  (Task 22.3)",
-            "Ending a song in silence  (Task 22.4)"
+            "Playing a false note on purpose",
+            "Tuning the guitar down a step",
+            "Resolving the dominant V chord to the minor vi chord instead of the expected tonic I chord",
+            "Ending a song in silence"
           ],
           "answerIndex": 2,
           "explanation": "V -> vi subverts expected tonic closure, prolonging harmonic tension."
@@ -2699,7 +2699,7 @@
             "C Major",
             "D Major",
             "Em",
-            "Cm (C Minor — borrowed from G minor)"
+            "Cm"
           ],
           "answerIndex": 3,
           "explanation": "IV in G is C; minor iv is Cm."
@@ -2709,7 +2709,7 @@
     "checkpointTest": {
       "items": [
         {
-          "prompt": "Match the chord progression moves to their narrative emotional functions:\nA: IV -> iv -> I\nB: V -> vi (Deceptive)\nC: 1 chord per bar accelerating to 2 chords per bar\nD: I - V - vi - IV",
+          "prompt": "Match the chord progression moves to their narrative emotional functions: A: IV -> iv -> I B: V -> vi (Deceptive) C: 1 chord per bar accelerating to 2 chords per bar D: I - V - vi - IV",
           "options": [
             "All mean blues scale",
             "All are jazz chords",
@@ -2725,7 +2725,7 @@
           "options": [
             "'Happy Birthday'",
             "'Jingle Bells'",
-            "'There are places I remember / All my life...' (The Beatles - In My Life: A -> C#m -> D -> Dm -> A)",
+            "'There are places I remember / All my life...'",
             "'Twinkle Twinkle Little Star'"
           ],
           "answerIndex": 2,
@@ -2747,7 +2747,7 @@
         {
           "prompt": "Complete: 'To build maximum tension right before the chorus drop, hold a single _______ chord for an entire bar.'",
           "options": [
-            "Dominant V (or V7 suspension)",
+            "Dominant V",
             "Subdominant IV",
             "Diminished",
             "Tonic I"
@@ -2800,10 +2800,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "D7 (23.1) ",
-            "G7 (23.2) ",
-            "B7 (23.3) ",
-            "E7 (the dominant 7th of A Minor) (23.4) "
+            "D7",
+            "G7",
+            "B7",
+            "E7"
           ],
           "answerIndex": 3,
           "explanation": "vi is A Minor; the dominant 7th of Am is E7."
@@ -2826,10 +2826,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
           "options": [
-            "G -> A7 -> D7 -> G (A7 is the secondary dominant of D)  (Task 23.1)",
-            "G -> C -> D -> G  (Task 23.2)",
-            "G -> Em -> C -> D  (Task 23.3)",
-            "G -> Bm -> Em -> C  (Task 23.4)"
+            "G -> A7 -> D7 -> G",
+            "G -> C -> D -> G",
+            "G -> Em -> C -> D",
+            "G -> Bm -> Em -> C"
           ],
           "answerIndex": 0,
           "explanation": "V in G is D; dominant of D is A7 (V7/V)."
@@ -2876,7 +2876,7 @@
         {
           "prompt": "Identify the song that uses a continuous tonic pedal point to create stadium-sized intimacy:",
           "options": [
-            "'With or Without You' (U2) or 'Free Fallin' (Tom Petty)",
+            "'With or Without You' (U2) or 'Free Fallin'",
             "'Flight of the Bumblebee'",
             "'Old MacDonald Had a Farm'",
             "'The Star-Spangled Banner'"
@@ -2891,7 +2891,7 @@
             "silence",
             "mistake",
             "volume decrease",
-            "gravitational pull (leading tone resolution)"
+            "gravitational pull"
           ],
           "answerIndex": 3,
           "explanation": "Secondary dominants create strong tonal gravity via chromatic leading tones.",
@@ -2941,10 +2941,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Following a dramatic upward leap in pitch with smooth stepwise motion in the opposite (downward) direction to restore melodic balance (24.1) ",
-            "Singing only two notes over and over (24.2) ",
-            "Changing key after every chorus (24.3) ",
-            "Jumping off the stage during a concert (24.4) "
+            "Following a dramatic upward leap in pitch with smooth stepwise motion in the opposite (downward) direction to restore melodic balance",
+            "Singing only two notes over and over",
+            "Changing key after every chorus",
+            "Jumping off the stage during a concert"
           ],
           "answerIndex": 0,
           "explanation": "Leap-and-recover creates dramatic vocal excitement followed by natural resolution."
@@ -2967,10 +2967,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
           "options": [
-            "A single sustained vocal pitch remains constant while the harmony shifts underneath, creating a sophisticated thread of emotional continuity.  (Task 24.1)",
-            "It requires three singers.  (Task 24.2)",
-            "It makes every chord identical.  (Task 24.3)",
-            "It removes all melody.  (Task 24.4)"
+            "A single sustained vocal pitch remains constant while the harmony shifts underneath, creating a sophisticated thread of emotional continuity.",
+            "It requires three singers.",
+            "It makes every chord identical.",
+            "It removes all melody."
           ],
           "answerIndex": 0,
           "explanation": "Common tones act as acoustic anchors across changing harmonic colors."
@@ -3083,10 +3083,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It introduces the chromatic note F-sharp, creating intense upward melodic drive and pulling irresistibly into the dominant G chord right before the chorus explosion. (25.1) ",
-            "It turns off the drums. (25.2) ",
-            "It signals the end of the song. (25.3) ",
-            "It changes the time signature to 5/4. (25.4) "
+            "It introduces the chromatic note F-sharp, creating intense upward melodic drive and pulling irresistibly into the dominant G chord right before the chorus explosion.",
+            "It turns off the drums.",
+            "It signals the end of the song.",
+            "It changes the time signature to 5/4."
           ],
           "answerIndex": 0,
           "explanation": "D7 (V7/V) provides the classic harmonic propulsion into the dominant G chord."
@@ -3109,10 +3109,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
           "options": [
-            "It eliminates vocal harmony.  (Task 25.1)",
-            "It creates an unhurried, natural sense of progression and introspection that guides the listener smoothly through narrative exposition.  (Task 25.2)",
-            "It speeds up the song.  (Task 25.3)",
-            "It makes the guitar sound like a trumpet.  (Task 25.4)"
+            "It eliminates vocal harmony.",
+            "It creates an unhurried, natural sense of progression and introspection that guides the listener smoothly through narrative exposition.",
+            "It speeds up the song.",
+            "It makes the guitar sound like a trumpet."
           ],
           "answerIndex": 1,
           "explanation": "Stepwise descending bass lines provide elegant narrative momentum."
@@ -3120,7 +3120,7 @@
         {
           "prompt": "What technique prevents the chorus melody from feeling repetitive after 4 bars?",
           "options": [
-            "Varying the second pass with an extended appoggiatura or deceptive harmonic substitution (e.g. resolving to Am instead of C)",
+            "Varying the second pass with an extended appoggiatura or deceptive harmonic substitution",
             "Stopping the music completely",
             "Changing languages",
             "Shouting as loud as possible"
@@ -3150,7 +3150,7 @@
             "1. Play as fast as possible; 2. Use only one chord; 3. Never sing high notes",
             "1. Avoid all rhymes; 2. Never play minor chords; 3. Mute the bass",
             "1. Copy existing songs; 2. Disregard tempo; 3. Sing without melody",
-            "1. Match lyric emotional vulnerability to non-chord dissonance; 2. Accelerate harmonic rhythm into the chorus; 3. Use leap-and-recover contours for singable hooks (deliberate practice)"
+            "1. Match lyric emotional vulnerability to non-chord dissonance; 2. Accelerate harmonic rhythm into the chorus; 3. Use leap-and-recover contours for singable hooks"
           ],
           "answerIndex": 3,
           "explanation": "The core tenets of chord-melody mastery.",
@@ -3172,7 +3172,7 @@
           "prompt": "What is the next frontier of Songwriting mastery in Unit 7?",
           "options": [
             "Buying expensive microphones",
-            "Guided Writing Exercises with Concrete Feedback Prompts (writing complete original verse-chorus-bridge songs against strict constraints and evaluating them against industry benchmarks)",
+            "Guided Writing Exercises with Concrete Feedback Prompts",
             "Signing a record deal",
             "Creating album cover art"
           ],
@@ -3218,10 +3218,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Hidden in the middle of line 2 only (26.1) ",
-            "Never spoken or sung in the song (26.2) ",
-            "Only in the instrumental guitar solo (26.3) ",
-            "In the opening line, the final punchline, or both, aligned with the melodic peak (26.4) "
+            "Hidden in the middle of line 2 only",
+            "Never spoken or sung in the song",
+            "Only in the instrumental guitar solo",
+            "In the opening line, the final punchline, or both, aligned with the melodic peak"
           ],
           "answerIndex": 3,
           "explanation": "Anchoring the title at the structural edges of the chorus reinforces immediate listener recall."
@@ -3244,10 +3244,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
           "options": [
-            "A single monotonous drone chord with no chord changes for 3 minutes  (Task 26.1)",
-            "Random microtonal tuning  (Task 26.2)",
-            "Total silence  (Task 26.3)",
-            "IV - I - V - vi (C - G - D - Em in G major) with energetic quarter-note strumming  (Task 26.4)"
+            "A single monotonous drone chord with no chord changes for 3 minutes",
+            "Random microtonal tuning",
+            "Total silence",
+            "IV - I - V - vi (C - G - D - Em in G major) with energetic quarter-note strumming"
           ],
           "answerIndex": 3,
           "explanation": "IV - I - V - vi is one of the most powerful emotive pop/rock chorus progressions in modern music."
@@ -3295,7 +3295,7 @@
           "prompt": "What is the 'Rule of Three' in chorus hook design?",
           "options": [
             "Using 3 different guitars",
-            "Repeating a key melodic/lyric motif three times before delivering a resolving punchline variation on the fourth iteration (e.g. 'Yeah, yeah, yeah')",
+            "Repeating a key melodic/lyric motif three times before delivering a resolving punchline variation on the fourth iteration",
             "Singing in 3 languages",
             "Writing in 3/4 time signature only"
           ],
@@ -3353,10 +3353,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'The screen door slammed, Mary's dress swayed, like a vision she danced across the porch as the radio played.' (27.1) ",
-            "'We were having an awesome time in the summer.' (27.2) ",
-            "'I felt very happy when I saw my girlfriend outside.' (27.3) ",
-            "'Things were good and the weather was nice today.' (27.4) "
+            "'The screen door slammed, Mary's dress swayed, like a vision she danced across the porch as the radio played.'",
+            "'We were having an awesome time in the summer.'",
+            "'I felt very happy when I saw my girlfriend outside.'",
+            "'Things were good and the weather was nice today.'"
           ],
           "answerIndex": 0,
           "explanation": "Physical sensory details (screen door slamming, dress swaying, porch, radio) evoke visceral emotion."
@@ -3379,10 +3379,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
           "options": [
-            "I felt heartbroken and started crying in the living room  (Task 27.1)",
-            "Love hurts and relationships are difficult sometimes  (Task 27.2)",
-            "Two airline ticket stubs on the counter, the smell of damp pine needles through the cracked front door, and your car headlights vanishing down the driveway  (Task 27.3)",
-            "My ex-partner moved away and I was unhappy  (Task 27.4)"
+            "I felt heartbroken and started crying in the living room",
+            "Love hurts and relationships are difficult sometimes",
+            "Two airline ticket stubs on the counter, the smell of damp pine needles through the cracked front door, and your car headlights vanishing down the driveway",
+            "My ex-partner moved away and I was unhappy"
           ],
           "answerIndex": 2,
           "explanation": "Specific physical artifacts (ticket stubs, pine scent, vanishing headlights) paint a vivid cinematic scene."
@@ -3407,7 +3407,7 @@
           "options": [
             "All are theoretical",
             "All are guitar chords",
-            "Neon buzzing: Visual/Auditory | Bitter grounds: Gustatory (Taste) | Cold vinyl: Tactile (Touch) | Chest tightening: Organic (Body)",
+            "Neon buzzing: Visual/Auditory | Bitter grounds: Gustatory (Taste) | Cold vinyl: Tactile (Touch) | Chest tightening: Organic",
             "All are olfactory"
           ],
           "answerIndex": 2,
@@ -3418,7 +3418,7 @@
           "prompt": "Why do abstract lines like 'I was totally devastated by your betrayal' fail to move listeners compared to concrete imagery?",
           "options": [
             "Betrayal is an illegal songwriting word",
-            "Abstract lines tell the listener a conclusion without providing sensory inputs for the listener's brain to re-live the experience (deliberate practice)",
+            "Abstract lines tell the listener a conclusion without providing sensory inputs for the listener's brain to re-live the experience",
             "Radio stations censor abstract lyrics",
             "Abstract words are too long to sing"
           ],
@@ -3488,10 +3488,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Resolving to the tonic I chord early (28.1) ",
-            "Stopping the song completely and tuning the guitar (28.2) ",
-            "Playing a 10-minute organ drone (28.3) ",
-            "Ending on the Dominant V chord (or V7) and pausing for a half-beat before resolving to the Chorus downbeat (28.4) "
+            "Resolving to the tonic I chord early",
+            "Stopping the song completely and tuning the guitar",
+            "Playing a 10-minute organ drone",
+            "Ending on the Dominant V chord (or V7) and pausing for a half-beat before resolving to the Chorus downbeat"
           ],
           "answerIndex": 3,
           "explanation": "The Dominant V creates maximum harmonic expectation for the tonic chorus release."
@@ -3514,10 +3514,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
           "options": [
-            "| Em (vi) | C (IV) | Am7 (ii7) | Dsus4 - D (V) |  (Task 28.1)",
-            "| G (I) | G (I) | G (I) | G (I) |  (Task 28.2)",
-            "| F#dim | G#dim | Adim | Bbdim |  (Task 28.3)",
-            "No chords at all  (Task 28.4)"
+            "| Em (vi) | C (IV) | Am7 (ii7) | Dsus4 - D (V) |",
+            "| G (I) | G (I) | G (I) | G (I) |",
+            "| F#dim | G#dim | Adim | Bbdim |",
+            "No chords at all"
           ],
           "answerIndex": 0,
           "explanation": "Em - C - Am7 - Dsus4 moves into minor territory and builds through subdominant to dominant Dsus4."
@@ -3567,7 +3567,7 @@
             "A guitar amplifier input",
             "A river waterway",
             "A television broadcast",
-            "Another historical name for the Pre-Chorus (the conduit connecting verse to chorus)"
+            "Another historical name for the Pre-Chorus"
           ],
           "answerIndex": 3,
           "explanation": "'The Channel' or 'The Climb' is the traditional industry term for the pre-chorus.",
@@ -3623,10 +3623,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "To tune instruments during the show (29.1) ",
-            "To provide fresh harmonic, melodic, and lyrical contrast, offering a new perspective or realization before the final chorus (29.2) ",
-            "To make the song fade out early (29.3) ",
-            "To repeat Verse 1 word for word (29.4) "
+            "To tune instruments during the show",
+            "To provide fresh harmonic, melodic, and lyrical contrast, offering a new perspective or realization before the final chorus",
+            "To make the song fade out early",
+            "To repeat Verse 1 word for word"
           ],
           "answerIndex": 1,
           "explanation": "The bridge breaks structural monotony by offering a fresh harmonic and thematic angle."
@@ -3634,7 +3634,7 @@
         {
           "prompt": "Which starting chord provides the most natural fresh harmonic lift for a bridge in a major key song (e.g. C Major)?",
           "options": [
-            "The Subdominant IV (F) or Relative Minor vi (Am)",
+            "The Subdominant IV (F) or Relative Minor vi",
             "A microtonal buzz",
             "Silence",
             "The exact same tonic C chord repeated 8 times"
@@ -3649,10 +3649,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
           "options": [
-            "A moment of realization, acceptance, or stepping into the unknown future with newfound courage  (Task 29.1)",
-            "Complaining about the weather  (Task 29.2)",
-            "Listing more furniture items in the room  (Task 29.3)",
-            "Repeating the same sad memory from Verse 1  (Task 29.4)"
+            "A moment of realization, acceptance, or stepping into the unknown future with newfound courage",
+            "Complaining about the weather",
+            "Listing more furniture items in the room",
+            "Repeating the same sad memory from Verse 1"
           ],
           "answerIndex": 0,
           "explanation": "The bridge provides the philosophical turning point or emotional breakthrough."
@@ -3690,7 +3690,7 @@
             "Because only 8 people can sing it",
             "Because it has 8 words",
             "Because it is written in 8/8 time",
-            "Because in classic 32-bar AABA song form, it occupied the middle 8-measure contrasting section (B section)"
+            "Because in classic 32-bar AABA song form, it occupied the middle 8-measure contrasting section"
           ],
           "answerIndex": 3,
           "explanation": "Middle Eight originated from the 8-measure B section in 32-bar form.",
@@ -3758,10 +3758,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Cmaj7 - Bm7 - Am7 - Dsus4/D7 (IV - iii - ii - V), ending on the dominant preparation to launch the final double chorus (30.1) ",
-            "Repeating Em - Em - Em - Em with no changes (30.2) ",
-            "A drum machine solo with zero chords (30.3) ",
-            "Playing the song backwards (30.4) "
+            "Cmaj7 - Bm7 - Am7 - Dsus4/D7 (IV - iii - ii - V), ending on the dominant preparation to launch the final double chorus",
+            "Repeating Em - Em - Em - Em with no changes",
+            "A drum machine solo with zero chords",
+            "Playing the song backwards"
           ],
           "answerIndex": 0,
           "explanation": "Cmaj7 - Bm7 - Am7 - D7 provides rich diatonic subdominant departure and dominant turnaround."
@@ -3769,7 +3769,7 @@
         {
           "prompt": "How did Verse 2 in 'Ghosts in the Static' advance the narrative rather than repeating Verse 1?",
           "options": [
-            "It shifted location from inside the kitchen to the mountain road and introduced the historical artifact (the 1978 postcard)",
+            "It shifted location from inside the kitchen to the mountain road and introduced the historical artifact",
             "It used the exact same words as Verse 1",
             "It was sung in Japanese",
             "It skipped all rhymes"
@@ -3784,10 +3784,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
           "options": [
-            "Whether it has 50 chords in 2 measures  (Task 30.1)",
-            "Prosody (lyric meaning matches musical emotion), distinct section contrast, melodic singability, and unshakeable hook clarity (deliberate practice)  (Task 30.2)",
-            "The speed of the guitar solo  (Task 30.3)",
-            "How heavy the paper is  (Task 30.4)"
+            "Whether it has 50 chords in 2 measures",
+            "Prosody (lyric meaning matches musical emotion), distinct section contrast, melodic singability, and unshakeable hook clarity",
+            "The speed of the guitar solo",
+            "How heavy the paper is"
           ],
           "answerIndex": 1,
           "explanation": "Prosody, structural contrast, and hook clarity define songwriting excellence."
@@ -3796,7 +3796,7 @@
           "prompt": "What is the final frontier awaiting you in Unit 8 of Songwriting & Music Theory?",
           "options": [
             "Quitting music",
-            "Revision & Polishing Technique (syllable trimming, prosody audits, vowel color optimization on high notes, and mixing/demo arrangements)",
+            "Revision & Polishing Technique",
             "Learning accordion only",
             "Buying a tour bus"
           ],
@@ -3893,10 +3893,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'And it is just really hard because the tail-lights are so foggy.' (16 syllables) (31.1) ",
-            "'So I was looking at the cars that were driving away.' (14 syllables) (31.2) ",
-            "'Like I really think that the weather was bad today.' (14 syllables) (31.3) ",
-            "'Tail-lights bleed into the winter fog.' (8 syllables, dense imagery) (31.4) "
+            "'And it is just really hard because the tail-lights are so foggy.'",
+            "'So I was looking at the cars that were driving away.'",
+            "'Like I really think that the weather was bad today.'",
+            "'Tail-lights bleed into the winter fog.'"
           ],
           "answerIndex": 3,
           "explanation": "Active verb and vivid sensory nouns replace conversational padding."
@@ -3919,10 +3919,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "It makes the song louder  (Task 31.1)",
-            "It reduces copyright fees  (Task 31.2)",
-            "It allows the drummer to stop playing  (Task 31.3)",
-            "It reinforces melodic symmetry, allowing the listener's brain to easily anticipate the vocal rhythm and sing along (deliberate practice)  (Task 31.4)"
+            "It makes the song louder",
+            "It reduces copyright fees",
+            "It allows the drummer to stop playing",
+            "It reinforces melodic symmetry, allowing the listener's brain to easily anticipate the vocal rhythm and sing along"
           ],
           "answerIndex": 3,
           "explanation": "Syllabic symmetry across corresponding verse lines enhances melodic predictability."
@@ -3933,7 +3933,7 @@
             "'Mountain'",
             "'River'",
             "'Midnight'",
-            "'That' (and 'just', 'really', 'so')"
+            "'That'"
           ],
           "answerIndex": 3,
           "explanation": "'That' is the #1 unnecessary grammatical crutch in amateur lyrics."
@@ -3969,7 +3969,7 @@
         {
           "prompt": "What is 'prosodic friction'?",
           "options": [
-            "When the emotional tone of the lyric directly conflicts with the musical rhythm or melodic contour (e.g. singing a joyful celebratory lyric over a sluggish descending minor tritone)",
+            "When the emotional tone of the lyric directly conflicts with the musical rhythm or melodic contour",
             "Two singers arguing in the studio",
             "Radio static",
             "Guitar strings rubbing together"
@@ -4028,10 +4028,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'HEART' (open /ɑ/ vowel with wide pharyngeal resonance) (32.1) ",
-            "'LITTLE' (tight closed /ɪ/ with stop consonants) (32.2) ",
-            "'ME' (narrow closed /i/ vowel) (32.3) ",
-            "'YOU' (narrow closed /u/ vowel) (32.4) "
+            "'HEART'",
+            "'LITTLE'",
+            "'ME'",
+            "'YOU'"
           ],
           "answerIndex": 0,
           "explanation": "Open vowels like /ɑ/ in 'HEART' maximize acoustic formant resonance on high pitches."
@@ -4054,10 +4054,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "Because plosives break microphones  (Task 32.1)",
-            "Because plosives are illegal on radio  (Task 32.2)",
-            "Because harsh consonant cut-offs can choke the decaying reverb tail; singers should sustain the vowel and place the terminal consonant gently on the final micro-beat (deliberate practice)  (Task 32.3)",
-            "Because consonants cannot be recorded  (Task 32.4)"
+            "Because plosives break microphones",
+            "Because plosives are illegal on radio",
+            "Because harsh consonant cut-offs can choke the decaying reverb tail; singers should sustain the vowel and place the terminal consonant gently on the final micro-beat",
+            "Because consonants cannot be recorded"
           ],
           "answerIndex": 2,
           "explanation": "Sustaining the resonant vowel before delivering a subtle consonant cut-off ensures acoustic beauty."
@@ -4163,10 +4163,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because instruments are too expensive to play in verses (33.1) ",
-            "Because the computer cannot play all instruments at once (33.2) ",
-            "To make the song quieter on radio (33.3) ",
-            "To establish intimate narrative clarity and create massive dynamic contrast when the chorus explodes with full instrumentation (33.4) "
+            "Because instruments are too expensive to play in verses",
+            "Because the computer cannot play all instruments at once",
+            "To make the song quieter on radio",
+            "To establish intimate narrative clarity and create massive dynamic contrast when the chorus explodes with full instrumentation"
           ],
           "answerIndex": 3,
           "explanation": "Dynamic contrast between intimate verse and exploded chorus creates emotional impact."
@@ -4189,10 +4189,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "Stripping the bridge down to a whisper, building a snare roll crescendo on the dominant chord, and dropping all sound for a half-beat before the final chorus detonates  (Task 33.1)",
-            "Fading the song out during the bridge  (Task 33.2)",
-            "Changing the key 5 times in 2 seconds  (Task 33.3)",
-            "Muting the lead singer permanently  (Task 33.4)"
+            "Stripping the bridge down to a whisper, building a snare roll crescendo on the dominant chord, and dropping all sound for a half-beat before the final chorus detonates",
+            "Fading the song out during the bridge",
+            "Changing the key 5 times in 2 seconds",
+            "Muting the lead singer permanently"
           ],
           "answerIndex": 0,
           "explanation": "Acoustic breakdown + dynamic build + breathing drop = maximum final chorus impact."
@@ -4215,10 +4215,10 @@
         {
           "prompt": "Match the song section to its optimal arrangement energy level: Verse 1, Pre-Chorus 1, Chorus 1, Bridge, Final Double Chorus:",
           "options": [
-            "Verse 1: 20% (Intimate) | Pre-Chorus 1: 40% (Building) | Chorus 1: 75% (Full band) | Bridge: 30% (Acoustic reset) | Final Chorus: 100% (Maximum summit)",
+            "Verse 1: 20% (Intimate) | Pre-Chorus 1: 40% (Building) | Chorus 1: 75% (Full band) | Bridge: 30% (Acoustic reset) | Final Chorus: 100%",
             "Random energy levels",
-            "All sections: 100% (Maximum loudness constantly)",
-            "All sections: 0% (Silent)"
+            "All sections: 100%",
+            "All sections: 0%"
           ],
           "answerIndex": 0,
           "explanation": "Arrangement energy arc matching.",
@@ -4241,7 +4241,7 @@
           "options": [
             "Because speakers overheat",
             "Because loudness is illegal",
-            "Because the human auditory cortex adapts to constant volume (auditory habituation); without valleys of quietness, loud moments lose all perceived emotional power (deliberate practice)",
+            "Because the human auditory cortex adapts to constant volume (auditory habituation); without valleys of quietness, loud moments lose all perceived emotional power",
             "Because listeners get bored of music"
           ],
           "answerIndex": 2,
@@ -4298,10 +4298,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Panned 100% to the hard right only (34.1) ",
-            "Dead Center (Mono center highway) for maximum punch, focus, and phase coherence (34.2) ",
-            "Randomly swirling in circles (34.3) ",
-            "Panned 100% to the hard left only (34.4) "
+            "Panned 100% to the hard right only",
+            "Dead Center (Mono center highway) for maximum punch, focus, and phase coherence",
+            "Randomly swirling in circles",
+            "Panned 100% to the hard left only"
           ],
           "answerIndex": 1,
           "explanation": "Core foundation (Kick, Bass, Lead Vocal) belongs dead center."
@@ -4324,10 +4324,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "It lets the dry, intimate vocal transient hit the listener's ear first before the reverberant bloom begins, preserving upfront lyrical clarity  (Task 34.1)",
-            "It makes the vocal pitch change  (Task 34.2)",
-            "It delays the whole song by 30 seconds  (Task 34.3)",
-            "It removes all echoes  (Task 34.4)"
+            "It lets the dry, intimate vocal transient hit the listener's ear first before the reverberant bloom begins, preserving upfront lyrical clarity",
+            "It makes the vocal pitch change",
+            "It delays the whole song by 30 seconds",
+            "It removes all echoes"
           ],
           "answerIndex": 0,
           "explanation": "Pre-delay separates upfront dry vocal transients from background reverberation."
@@ -4335,10 +4335,10 @@
         {
           "prompt": "What target integrated loudness standard is widely required by streaming services (Spotify, Apple Music)?",
           "options": [
-            "Approximately -14 LUFS (with true peak at -1.0 dBTP)",
+            "Approximately -14 LUFS",
             "-100 LUFS",
-            "-50 LUFS (inaudible)",
-            "0 LUFS (distorted square wave)"
+            "-50 LUFS",
+            "0 LUFS"
           ],
           "answerIndex": 0,
           "explanation": "-14 LUFS is the global streaming loudness normalization benchmark."
@@ -4364,7 +4364,7 @@
           "options": [
             "Because loud songs are prohibited",
             "Because publishers only listen at minimum volume",
-            "Because an overly compressed, crushed demo sounds flat and lifeless on modern streaming platforms that normalize volume, while dynamic arrangements sound huge (deliberate practice)",
+            "Because an overly compressed, crushed demo sounds flat and lifeless on modern streaming platforms that normalize volume, while dynamic arrangements sound huge",
             "Because loudness causes ear infection"
           ],
           "answerIndex": 2,
@@ -4433,10 +4433,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It introduces the haunting emotional power of modal mixture (borrowed from D minor), creating an intense bittersweet tearjerker pull before resolving home to the tonic (35.1) ",
-            "Because Gm is an out-of-tune chord (35.2) ",
-            "Because it was a mistake (35.3) ",
-            "Because minor chords are mandatory on every bar (35.4) "
+            "It introduces the haunting emotional power of modal mixture (borrowed from D minor), creating an intense bittersweet tearjerker pull before resolving home to the tonic",
+            "Because Gm is an out-of-tune chord",
+            "Because it was a mistake",
+            "Because minor chords are mandatory on every bar"
           ],
           "answerIndex": 0,
           "explanation": "The minor iv borrowed chord provides the quintessential emotional tearjerker lift."
@@ -4459,10 +4459,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "The songwriter stops writing lyrics  (Task 35.1)",
-            "Intuitive emotional expression is no longer constrained by trial-and-error; every chord choice, melodic leap, and lyric syllable can be intentionally engineered to evoke exact human emotional responses (deliberate practice)  (Task 35.2)",
-            "Music becomes purely mathematical with no feelings  (Task 35.3)",
-            "The songwriter becomes a robot  (Task 35.4)"
+            "The songwriter stops writing lyrics",
+            "Intuitive emotional expression is no longer constrained by trial-and-error; every chord choice, melodic leap, and lyric syllable can be intentionally engineered to evoke exact human emotional responses",
+            "Music becomes purely mathematical with no feelings",
+            "The songwriter becomes a robot"
           ],
           "answerIndex": 1,
           "explanation": "Harmonic and lyrical mastery empowers intentional emotional engineering."
@@ -4572,10 +4572,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'I felt very bad and worried inside my head.' (36.1) ",
-            "'Anxiety was high and sadness was everywhere.' (36.2) ",
-            "'I was scared of what would happen next.' (36.3) ",
-            "'My pulse hammered against my collarbone as my fingers fumbled with the deadbolt.' (36.4) "
+            "'I felt very bad and worried inside my head.'",
+            "'Anxiety was high and sadness was everywhere.'",
+            "'I was scared of what would happen next.'",
+            "'My pulse hammered against my collarbone as my fingers fumbled with the deadbolt.'"
           ],
           "answerIndex": 3,
           "explanation": "Pulse hammering (organic) + fingers fumbling deadbolt (kinetic/tactile)."
@@ -4598,10 +4598,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "Gustatory (Taste)  (Task 36.1)",
-            "Kinesthetic motion only  (Task 36.2)",
-            "Olfactory only  (Task 36.3)",
-            "Auditory & Thermal/Tactile (Sound of clanking/hissing + freezing drywall)  (Task 36.4)"
+            "Gustatory",
+            "Kinesthetic motion only",
+            "Olfactory only",
+            "Auditory & Thermal/Tactile"
           ],
           "answerIndex": 3,
           "explanation": "Clanks and hisses (auditory) + freezing drywall (tactile)."
@@ -4636,7 +4636,7 @@
         {
           "prompt": "What are the two 'internal' sensory channels in Pattison's 7-sense system?",
           "options": [
-            "Kinesthetic (body movement/motion) and Organic (internal organs/heartbeat/breath)",
+            "Kinesthetic (body movement/motion) and Organic",
             "Harmonic and Rhythmic",
             "Digital and Acoustic",
             "Spiritual and Telepathic"
@@ -4711,10 +4711,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Third-Person Narrative / Observer (She/Her) (37.1) ",
-            "First-Person Soliloquy (I/Me) (37.2) ",
-            "First-Person Direct (I/You) (37.3) ",
-            "Second-Person Direct Address (You) (37.4) "
+            "Third-Person Narrative / Observer",
+            "First-Person Soliloquy",
+            "First-Person Direct",
+            "Second-Person Direct Address"
           ],
           "answerIndex": 0,
           "explanation": "Third-person storyteller perspective observing 'She'."
@@ -4737,10 +4737,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "It uses fewer words.  (Task 37.1)",
-            "It creates an intensely intimate, eavesdropped conversation between two specific people.  (Task 37.2)",
-            "It is easier to rhyme.  (Task 37.3)",
-            "It requires only acoustic instruments.  (Task 37.4)"
+            "It uses fewer words.",
+            "It creates an intensely intimate, eavesdropped conversation between two specific people.",
+            "It is easier to rhyme.",
+            "It requires only acoustic instruments."
           ],
           "answerIndex": 1,
           "explanation": "Direct address generates immediate emotional proximity."
@@ -4763,7 +4763,7 @@
         {
           "prompt": "Match the song opening to its POV: 'Eleanor Rigby picks up the rice' vs. 'I heard that you're settled down':",
           "options": [
-            "Eleanor Rigby: Third-Person Narrative | 'I heard that you...': First-Person Direct (I/You)",
+            "Eleanor Rigby: Third-Person Narrative | 'I heard that you...': First-Person Direct",
             "Both are Second-Person",
             "Eleanor Rigby is Second-Person",
             "Both are First-Person"
@@ -4789,7 +4789,7 @@
           "options": [
             "They / Them",
             "It / Its",
-            "You / Your (speaking directly to the listener as the protagonist)",
+            "You / Your",
             "He / Him"
           ],
           "answerIndex": 2,
@@ -4850,10 +4850,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "A comedy joke told during the guitar solo (38.1) ",
-            "A whisper at the end of the song (38.2) ",
-            "A sudden drum beat (38.3) ",
-            "A hook placed on the very last line of the chorus that resolves the emotional tension built by the preceding lines (38.4) "
+            "A comedy joke told during the guitar solo",
+            "A whisper at the end of the song",
+            "A sudden drum beat",
+            "A hook placed on the very last line of the chorus that resolves the emotional tension built by the preceding lines"
           ],
           "answerIndex": 3,
           "explanation": "Last-line hooks deliver the emotional resolution and title payoff."
@@ -4876,10 +4876,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "'Burn the Midnight Oil' (Strong dactylic rhythm, visual imagery, alliteration)  (Task 38.1)",
-            "'A Situational Observation of Late Evening Work'  (Task 38.2)",
-            "'Things Are Difficult Tonight'  (Task 38.3)",
-            "'Doing Stuff After Dark'  (Task 38.4)"
+            "'Burn the Midnight Oil'",
+            "'A Situational Observation of Late Evening Work'",
+            "'Things Are Difficult Tonight'",
+            "'Doing Stuff After Dark'"
           ],
           "answerIndex": 0,
           "explanation": "Rhythmic cadence + vivid imagery = memorable hook."
@@ -4927,7 +4927,7 @@
           "prompt": "Which phrase uses alliteration and strong cadence for hook impact?",
           "options": [
             "'Watching video entertainment'",
-            "'Silver Screen Secrets' (Triple 'S' alliteration, trochaic pulse)",
+            "'Silver Screen Secrets'",
             "'Some movies are interesting'",
             "'Film theaters on Friday'"
           ],
@@ -4938,8 +4938,8 @@
         {
           "prompt": "True or False: A great hook can be a single word (e.g. 'Hallelujah', 'Royals', 'Respect', 'Stay').",
           "options": [
-            "True (Single-word hooks with iconic melodies are among the most memorable in music history)",
-            "False (Hooks must be at least 8 words long)"
+            "True",
+            "False"
           ],
           "answerIndex": 0,
           "explanation": "True. Single-word powerhouse hooks are timeless classics.",
@@ -4987,10 +4987,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The musical instrument played (39.1) ",
-            "The concrete physical image or world used to represent the emotion (e.g. an anchor, a burning fire) (39.2) ",
-            "The rhyming dictionary (39.3) ",
-            "The tour bus of the band (39.4) "
+            "The musical instrument played",
+            "The concrete physical image or world used to represent the emotion",
+            "The rhyming dictionary",
+            "The tour bus of the band"
           ],
           "answerIndex": 1,
           "explanation": "Vehicle = physical concrete image; Tenor = underlying emotion."
@@ -4998,7 +4998,7 @@
         {
           "prompt": "What is a 'mixed metaphor' error?",
           "options": [
-            "Inconsistently combining incompatible physical imagery (e.g. 'We sailed our train into the poker game')",
+            "Inconsistently combining incompatible physical imagery",
             "Singing in harmony",
             "Writing a verse with 5 lines",
             "Using two instruments at once"
@@ -5013,10 +5013,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "'Frost gathers on the inside of the bedroom glass, and your side of the bed is ice.'  (Task 39.1)",
-            "'It was eighty degrees outside.'  (Task 39.2)",
-            "'The summer sun was hot and bright on the beach.'  (Task 39.3)",
-            "'Let's go swimming in the tropical ocean.'  (Task 39.4)"
+            "'Frost gathers on the inside of the bedroom glass, and your side of the bed is ice.'",
+            "'It was eighty degrees outside.'",
+            "'The summer sun was hot and bright on the beach.'",
+            "'Let's go swimming in the tropical ocean.'"
           ],
           "answerIndex": 0,
           "explanation": "Maintains thematic and seasonal temperature consistency."
@@ -5041,7 +5041,7 @@
           "options": [
             "Changing topics every two lines",
             "Eating dinner -> Flying a plane -> Buying a shoe",
-            "Laying the foundation (V1) -> Cracks in the plaster (V2) -> The roof collapsing in the storm (Bridge)",
+            "Laying the foundation (V1) -> Cracks in the plaster (V2) -> The roof collapsing in the storm",
             "Singing the chorus 10 times in a row"
           ],
           "answerIndex": 2,
@@ -5075,8 +5075,8 @@
         {
           "prompt": "True or False: An extended metaphor must be explained literally to the audience in the song lyrics.",
           "options": [
-            "False (Allow the physical imagery and emotional context to carry the meaning without spoon-feeding explanations)",
-            "True (You must always say 'This house represents our love')"
+            "False",
+            "True"
           ],
           "answerIndex": 0,
           "explanation": "False. Trust the audience's emotional intelligence; show, don't lecture.",
@@ -5124,10 +5124,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'The radiator clanks like an iron bell in the freezing four-flight walkup.' (40.1) ",
-            "'The apartment was cold and I didn't like it.' (40.2) ",
-            "'Winter made the room very chilly.' (40.3) ",
-            "'I felt cold in the building.' (40.4) "
+            "'The radiator clanks like an iron bell in the freezing four-flight walkup.'",
+            "'The apartment was cold and I didn't like it.'",
+            "'Winter made the room very chilly.'",
+            "'I felt cold in the building.'"
           ],
           "answerIndex": 0,
           "explanation": "Combines auditory (clanks like iron bell), thermal (freezing), and spatial (four-flight walkup) precision."
@@ -5150,10 +5150,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "Never repeated  (Task 40.1)",
-            "At least 3 to 4 times across the chorus and outro so the listener can easily recall and sing along  (Task 40.2)",
-            "50 times in the first verse  (Task 40.3)",
-            "Exactly once in the bridge  (Task 40.4)"
+            "Never repeated",
+            "At least 3 to 4 times across the chorus and outro so the listener can easily recall and sing along",
+            "50 times in the first verse",
+            "Exactly once in the bridge"
           ],
           "answerIndex": 1,
           "explanation": "Repetition builds familiarity, emotional resonance, and earworm recall."

@@ -550,10 +550,10 @@
         {
           "prompt": "Which French accent mark indicates that two adjacent vowels are pronounced separately (as in «Noël»)?",
           "options": [
-            "Le Tréma (ë, ï - two dots for separate vowel syllables)",
-            "L'Accent Aigu (é)",
-            "L'Accent Grave (è)",
-            "La Cédille (ç)"
+            "Le Tréma",
+            "L'Accent Aigu",
+            "L'Accent Grave",
+            "La Cédille"
           ],
           "answerIndex": 0,
           "explanation": "Le tréma (¨) forces two adjacent vowels to be articulated independently in separate syllables."
@@ -561,10 +561,10 @@
         {
           "prompt": "Select the French word meaning \"boy / waiter\" spelled with a cédille «garçon»:",
           "options": [
-            "garçon (boy / waiter)",
-            "café (coffee)",
-            "français (French)",
-            "salut (hi)"
+            "garçon",
+            "café",
+            "français",
+            "salut"
           ],
           "answerIndex": 0,
           "explanation": "«garçon» means \"boy\" or \"waiter\"."
@@ -695,10 +695,10 @@
           "type": "multiple-choice",
           "prompt": "Quel verbe utilise-t-on en français pour demander des nouvelles ou exprimer son état général ?",
           "options": [
-            "Le verbe ALLER (Comment allez-vous ? / Ça va)",
-            "Le verbe ÊTRE (Comment êtes-vous ?)",
-            "Le verbe AVOIR (Comment avez-vous ?)",
-            "Le verbe FAIRE (Comment faites-vous ?)"
+            "Le verbe ALLER",
+            "Le verbe ÊTRE",
+            "Le verbe AVOIR",
+            "Le verbe FAIRE"
           ],
           "answerIndex": 0,
           "explanation": "Le français utilise le verbe ALLER pour l'état général et la santé ('Comment allez-vous ?', 'Ça va')."
@@ -1029,10 +1029,10 @@
         {
           "prompt": "D'après la règle mnémotechnique CaReFuL, quelle consonne finale est normalement PRONONCÉE dans un mot isolé ?",
           "options": [
-            "La consonne F (comme dans 'neuf' ou 'chef')",
-            "La consonne T (comme dans 'salut' ou 'petit')",
-            "La consonne S (comme dans 'vous' ou 'les')",
-            "La consonne D (comme dans 'grand' ou 'tard')"
+            "La consonne F",
+            "La consonne T",
+            "La consonne S",
+            "La consonne D"
           ],
           "answerIndex": 0,
           "explanation": "Les consonnes C, R, F, L (CaReFuL) se prononcent généralement en fin de mot, tandis que d, t, s, p, x, z restent muettes."
@@ -1060,7 +1060,7 @@
           "type": "multiple-choice",
           "prompt": "Dans laquelle de ces expressions entend-on une liaison en /t/ avec la consonne finale 'd' ?",
           "options": [
-            "Un grand homme (/œ̃.gʁɑ̃.tɔm/)",
+            "Un grand homme",
             "Un grand livre",
             "Les grands arbres",
             "Le grand chien"
@@ -1143,10 +1143,10 @@
         {
           "prompt": "Quelle est la terminaison du présent pour le pronom 'nous' avec le verbe régulier parler ?",
           "options": [
-            "-ons (nous parlons)",
-            "-ez (vous parlez)",
-            "-ent (ils parlent)",
-            "-e (je parle)"
+            "-ons",
+            "-ez",
+            "-ent",
+            "-e"
           ],
           "answerIndex": 0,
           "explanation": "La terminaison régulière du présent à la 1re personne du pluriel (nous) pour tous les verbes en -er est '-ons'."
@@ -1174,7 +1174,7 @@
           "type": "multiple-choice",
           "prompt": "Combien de formes de la conjugaison au présent des verbes en -er ont une terminaison muette à l'oral (je, tu, il/elle, ils/elles) ?",
           "options": [
-            "4 formes (les formes du 'singulier + 3e pluriel' se prononcent de façon identique)",
+            "4 formes",
             "2 formes",
             "6 formes",
             "1 seule forme"
@@ -1252,7 +1252,7 @@
         {
           "prompt": "Dans le français parlé courant, quel pronom sujet singulier remplace très fréquemment 'nous' pour signifier 'we / let's' ?",
           "options": [
-            "Le pronom 'on' (ex: On va au cinéma ?)",
+            "Le pronom 'on'",
             "Le pronom 'il'",
             "Le pronom 'vous'",
             "Le pronom 'ils'"
@@ -1283,7 +1283,7 @@
           "type": "multiple-choice",
           "prompt": "Lorsqu'un groupe est composé d'hommes et de femmes (mixte), quel pronom pluriel s'utilise traditionnellement en français ?",
           "options": [
-            "Ils (ils travaillent ensemble)",
+            "Ils",
             "Elles",
             "On",
             "Vous"
@@ -1378,7 +1378,7 @@
         {
           "prompt": "Quelle est la graphie correcte de la forme 'nous' du verbe 'commencer' au présent ?",
           "options": [
-            "Nous commençons (avec cédille sous le c)",
+            "Nous commençons",
             "Nous commencons",
             "Nous commenceons",
             "Nous commenciez"
@@ -1394,7 +1394,7 @@
           "type": "multiple-choice",
           "prompt": "Dans lequel de ces verbes observe-t-on un ajustement orthographique spécifique à la forme 'nous' au présent ?",
           "options": [
-            "Nous voyageons (du verbe voyager)",
+            "Nous voyageons",
             "Nous parlons",
             "Nous écoutons",
             "Nous travaillons"
@@ -1503,7 +1503,7 @@
           "type": "multiple-choice",
           "prompt": "Quel article défini pluriel s'utilise pour désigner un groupe d'étudiants ou d'étudiantes ?",
           "options": [
-            "Les (les étudiants / les étudiantes)",
+            "Les",
             "Le",
             "La",
             "Des"
@@ -1581,7 +1581,7 @@
         {
           "prompt": "Dans la phrase « J'achète _____ croissants à la boulangerie », quel article indéfini pluriel obligatoire doit-on insérer ?",
           "options": [
-            "des (J'achète des croissants)",
+            "des",
             "un",
             "les",
             "du"
@@ -1693,10 +1693,10 @@
         {
           "prompt": "D'après les suffixes morphologiques fiables du français, quel nom est de genre féminin ?",
           "options": [
-            "La décision (suffixe -sion / -tion)",
-            "Le gouvernement (suffixe -ment)",
-            "Le voyage (suffixe -age)",
-            "Le monument (suffixe -ment)"
+            "La décision",
+            "Le gouvernement",
+            "Le voyage",
+            "Le monument"
           ],
           "answerIndex": 0,
           "explanation": "Les noms terminés par -tion, -sion, -té, -ette sont très majoritairement féminins ('la décision', 'la liberté')."
@@ -1708,10 +1708,10 @@
         {
           "prompt": "Quel suffixe nominal indique presque systématiquement un nom masculin en français ?",
           "options": [
-            "Le suffixe -ment (le sentiment, le document, le gouvernement)",
-            "Le suffixe -tion (la nation)",
-            "Le suffixe -té (la société)",
-            "Le suffixe -ette (la bicyclette)"
+            "Le suffixe -ment",
+            "Le suffixe -tion",
+            "Le suffixe -té",
+            "Le suffixe -ette"
           ],
           "answerIndex": 0,
           "explanation": "Le suffixe -ment forme de manière productive des substantifs masculins en français."
@@ -1918,10 +1918,10 @@
         {
           "prompt": "Quelle contraction obligatoire se produit lorsque la préposition « à » rencontre l'article défini masculin « le » (ex: aller ... restaurant) ?",
           "options": [
-            "AU (Je vais au restaurant)",
-            "À LE (Je vais à le restaurant)",
-            "DU (Je vais du restaurant)",
-            "AUX (Je vais aux restaurant)"
+            "AU",
+            "À LE",
+            "DU",
+            "AUX"
           ],
           "answerIndex": 0,
           "explanation": "La fusion de à + le donne obligatoirement l'article contracté 'au' en français."
@@ -1933,7 +1933,7 @@
         {
           "prompt": "Comment traduit-on correctement « the neighbor's car » (la voiture de + le voisin) ?",
           "options": [
-            "La voiture du voisin (de + le = du)",
+            "La voiture du voisin",
             "La voiture de le voisin",
             "La voiture au voisin",
             "La voiture des voisin"
@@ -2259,7 +2259,7 @@
         {
           "prompt": "Quelle est la forme correcte du verbe être pour exprimer sa profession : « Je _____ médecin » ?",
           "options": [
-            "suis (Je suis médecin)",
+            "suis",
             "es",
             "est",
             "sommes"
@@ -2368,8 +2368,8 @@
         {
           "prompt": "Comment exprime-t-on correctement son âge en français (ex: 20 ans) ?",
           "options": [
-            "J'ai vingt ans. (verbe avoir)",
-            "Je suis vingt ans. (verbe être)",
+            "J'ai vingt ans.",
+            "Je suis vingt ans.",
             "Je fais vingt ans.",
             "Je vais vingt ans."
           ],
@@ -2399,7 +2399,7 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme du verbe avoir avec le pronom 'nous' au présent ?",
           "options": [
-            "Nous avons (nous avons soif)",
+            "Nous avons",
             "Nous sommes",
             "Nous allons",
             "Nous faisons"
@@ -2479,7 +2479,7 @@
         {
           "prompt": "Quelle est la forme très irrégulière de la 2e personne du pluriel (vous) pour le verbe 'faire' ?",
           "options": [
-            "Vous faites (Qu'est-ce que vous faites ?)",
+            "Vous faites",
             "Vous faisez",
             "Vous fons",
             "Vous faitez"
@@ -2510,7 +2510,7 @@
           "type": "multiple-choice",
           "prompt": "Quel article partitif utilise-t-on dans l'expression « faire _____ sport » ?",
           "options": [
-            "du (Je fais du sport)",
+            "du",
             "de",
             "le",
             "au"
@@ -2590,10 +2590,10 @@
         {
           "prompt": "Quelle préposition de lieu emploie-t-on obligatoirement pour une destination chez une personne ou un professionnel (ex: dentiste) ?",
           "options": [
-            "CHEZ (Nous allons chez le dentiste)",
-            "À (Nous allons au dentiste)",
-            "DANS (Nous allons dans le dentiste)",
-            "EN (Nous allons en dentiste)"
+            "CHEZ",
+            "À",
+            "DANS",
+            "EN"
           ],
           "answerIndex": 0,
           "explanation": "On utilise 'chez' devant les noms ou pronoms désignant des personnes (chez le médecin, chez Pierre, chez moi)."
@@ -2605,10 +2605,10 @@
         {
           "prompt": "Quelle préposition de lieu s'applique devant un pays féminin comme « la France » ou « l'Italie » ?",
           "options": [
-            "EN (Je vais en France)",
-            "AU (Je vais au France)",
-            "À (Je vais à France)",
-            "CHEZ (Je vais chez France)"
+            "EN",
+            "AU",
+            "À",
+            "CHEZ"
           ],
           "answerIndex": 0,
           "explanation": "Les pays de genre féminin ou commençant par une voyelle prennent la préposition 'en' (en France, en Espagne, en Italie)."
@@ -2621,7 +2621,7 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme conjuguée du verbe aller à la 3e personne du pluriel (ils/elles) au présent ?",
           "options": [
-            "Ils vont (Ils vont aux Pays-Bas)",
+            "Ils vont",
             "Ils vontent",
             "Ils allont",
             "Ils vonts"
@@ -2703,7 +2703,7 @@
         {
           "prompt": "Quel verbe complète correctement la phrase suivante : « Elle _____ faim, alors elle _____ au restaurant » ?",
           "options": [
-            "a / va (Elle a faim, alors elle va au restaurant)",
+            "a / va",
             "est / fait",
             "fait / est",
             "va / a"
@@ -2718,7 +2718,7 @@
         {
           "prompt": "Quelle terminaison commune partagent 'être', 'avoir', 'faire' et 'aller' à la 3e personne du pluriel (ils/elles) au présent ?",
           "options": [
-            "La terminaison en -ONT (ils sont, ils ont, ils font, ils vont)",
+            "La terminaison en -ONT",
             "La terminaison en -ENT",
             "La terminaison en -EZ",
             "La terminaison en -ONS"
@@ -2921,7 +2921,7 @@
         {
           "prompt": "Comment transforme-t-on « J'ai une voiture » à la forme négative pour exprimer l'absence totale de quantité ?",
           "options": [
-            "Je n'ai pas de voiture. (une -> de)",
+            "Je n'ai pas de voiture.",
             "Je n'ai pas une voiture.",
             "Je n'ai pas la voiture.",
             "Je n'ai pas des voitures."
@@ -2936,7 +2936,7 @@
         {
           "prompt": "Avec quel verbe les articles indéfinis ne se transforment-ils PAS en 'de' à la forme négative ?",
           "options": [
-            "Le verbe ÊTRE (ex: Ce n'est pas un problème)",
+            "Le verbe ÊTRE",
             "Le verbe AVOIR",
             "Le verbe BOIRE",
             "Le verbe ACHETER"
@@ -3366,7 +3366,7 @@
         {
           "prompt": "Comment s'accorde l'adjectif régulier 'vert' avec le nom féminin singulier « la robe » ?",
           "options": [
-            "La robe verte (ajout de -e au féminin)",
+            "La robe verte",
             "La robe vert",
             "La robe vertes",
             "La robe vertue"
@@ -3397,7 +3397,7 @@
           "type": "multiple-choice",
           "prompt": "Quel accord adjectival au féminin pluriel est correctement orthographié pour qualifier des chaussures de couleur noire ?",
           "options": [
-            "Des chaussures noires (-es)",
+            "Des chaussures noires",
             "Des chaussures noirs",
             "Des chaussures noir",
             "Des chaussures noire"
@@ -3475,7 +3475,7 @@
         {
           "prompt": "Quelle forme masculine singulière particulière prend l'adjectif 'beau' devant un nom commençant par une voyelle comme « appartement » ?",
           "options": [
-            "Un bel appartement (forme de liaison en -l)",
+            "Un bel appartement",
             "Un beau appartement",
             "Un belle appartement",
             "Un beaux appartement"
@@ -3490,7 +3490,7 @@
         {
           "prompt": "Quel est le féminin régulier de l'adjectif de couleur 'blanc' ?",
           "options": [
-            "Blanche (une voiture blanche)",
+            "Blanche",
             "Blanque",
             "Blance",
             "Blanchie"
@@ -3506,7 +3506,7 @@
           "type": "multiple-choice",
           "prompt": "Comment s'accorde l'adjectif 'nouveau' au masculin pluriel dans « de _____ projets » ?",
           "options": [
-            "De nouveaux projets (-x au pluriel)",
+            "De nouveaux projets",
             "De nouveaus projets",
             "De nouvels projets",
             "De nouvelles projets"
@@ -3616,7 +3616,7 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la structure syntaxique correcte pour désigner un pantalon de couleur noire ?",
           "options": [
-            "Un pantalon noir (post-nominal)",
+            "Un pantalon noir",
             "Un noir pantalon",
             "Un noire pantalon",
             "Un pantalons noir"
@@ -3696,10 +3696,10 @@
         {
           "prompt": "D'après l'acronyme mnémotechnique BANGS (Beauty, Age, Number, Goodness, Size), quel adjectif se place AVANT le nom ?",
           "options": [
-            "Un grand jardin (Size -> avant le nom)",
-            "Un jardin vert (Couleur)",
-            "Un jardin français (Nationalité)",
-            "Un jardin circulaire (Forme)"
+            "Un grand jardin",
+            "Un jardin vert",
+            "Un jardin français",
+            "Un jardin circulaire"
           ],
           "answerIndex": 0,
           "explanation": "Les adjectifs courts et fréquents relevant de la taille (grand, petit), de la beauté (beau, joli), de l'âge (jeune, vieux), du rang et de la bonté précèdent le nom."
@@ -3727,7 +3727,7 @@
           "type": "multiple-choice",
           "prompt": "Quel adjectif BANGS exprimant la jeunesse précède correctement le substantif dans « un _____ homme » ?",
           "options": [
-            "Un jeune homme (Age -> avant)",
+            "Un jeune homme",
             "Un homme jeune uniquement",
             "Un jeunesse homme",
             "Un gentiment homme"
@@ -3918,7 +3918,7 @@
         {
           "prompt": "Quelle est la formation régulière du participe passé des verbes du 1er groupe en -er (ex: manger, parler) ?",
           "options": [
-            "Le remplacement de -er par -é (mangé, parlé)",
+            "Le remplacement de -er par -é",
             "L'ajout d'un -t final",
             "Le remplacement de -er par -u",
             "Le verbe reste invariable à l'infinitif"
@@ -3949,7 +3949,7 @@
           "type": "multiple-choice",
           "prompt": "Quel est le participe passé régulier en -u du verbe du 3e groupe 'attendre' ?",
           "options": [
-            "Attendu (Nous avons attendu le train)",
+            "Attendu",
             "Attendi",
             "Attendant",
             "Attendé"
@@ -4032,7 +4032,7 @@
         {
           "prompt": "Quel est le participe passé irrégulier du verbe 'faire' dans « Qu'est-ce que tu as _____ ce week-end ? » ?",
           "options": [
-            "fait (Qu'est-ce que tu as fait ?)",
+            "fait",
             "fais",
             "faisez",
             "fai"
@@ -4157,7 +4157,7 @@
         {
           "prompt": "Quel verbe de déplacement de la règle DR & MRS VANDERTRAMP prend l'auxiliaire être au passé composé ?",
           "options": [
-            "Arriver (Ils sont arrivés à l'heure)",
+            "Arriver",
             "Manger",
             "Acheter",
             "Travailler"
@@ -4173,7 +4173,7 @@
           "type": "multiple-choice",
           "prompt": "Quel est le participe passé du verbe 'naître' accordé au féminin singulier dans « Marie est _____ en 1995 » ?",
           "options": [
-            "née (Marie est née)",
+            "née",
             "né",
             "naissante",
             "nais"
@@ -4251,7 +4251,7 @@
         {
           "prompt": "Quel auxiliaire conjugue TOUS les verbes pronominaux (réfléchis) au passé composé (ex: se réveiller, se lever) ?",
           "options": [
-            "L'auxiliaire ÊTRE (Elle s'est réveillée à sept heures)",
+            "L'auxiliaire ÊTRE",
             "L'auxiliaire AVOIR",
             "L'auxiliaire FAIRE",
             "L'auxiliaire ALLER"
@@ -4487,7 +4487,7 @@
         {
           "prompt": "Quelle est la terminaison de l'imparfait avec le sujet 'nous' pour le verbe 'finir' (nous finissons au présent) ?",
           "options": [
-            "-ions (Nous finissions nos devoirs)",
+            "-ions",
             "-iez",
             "-ons",
             "-ais"
@@ -4581,7 +4581,7 @@
         {
           "prompt": "Quel est le SEUL verbe de toute la langue française possédant un radical irrégulier à l'imparfait ?",
           "options": [
-            "Le verbe ÊTRE (radical : ét- -> j'étais)",
+            "Le verbe ÊTRE",
             "Le verbe AVOIR",
             "Le verbe FAIRE",
             "Le verbe ALLER"
@@ -4799,10 +4799,10 @@
         {
           "prompt": "Dans la phrase « Pendant que nous _________ (manger), Paul _________ (arriver) », quels temps doit-on utiliser ?",
           "options": [
-            "mangions (imparfait) / est arrivé (passé composé)",
-            "avons mangé (passé composé) / arrivait (imparfait)",
-            "mangions (imparfait) / arrivait (imparfait)",
-            "avons mangé (passé composé) / est arrivé (passé composé)"
+            "mangions (imparfait) / est arrivé",
+            "avons mangé (passé composé) / arrivait",
+            "mangions (imparfait) / arrivait",
+            "avons mangé (passé composé) / est arrivé"
           ],
           "answerIndex": 0,
           "explanation": "L'action continue en arrière-plan ('pendant que...') prend l'imparfait (mangions), et l'événement ponctuel qui survient prend le passé composé (est arrivé)."
@@ -5340,10 +5340,10 @@
         {
           "prompt": "Quel est le radical du verbe 'apprendre' au futur simple ?",
           "options": [
-            "apprendr- (on supprime le 'e' final de l'infinitif)",
-            "apprenn- (radical du présent)",
-            "apprendre- (avec le 'e')",
-            "appris- (participe passé)"
+            "apprendr-",
+            "apprenn-",
+            "apprendre-",
+            "appris-"
           ],
           "answerIndex": 0,
           "explanation": "Pour les verbes en -re, on retire le 'e' final de l'infinitif, ce qui donne 'apprendr-' (j'apprendrai)."
@@ -5448,7 +5448,7 @@
         {
           "prompt": "Quelle est la forme au futur simple du verbe 'pouvoir' avec 'nous' ?",
           "options": [
-            "nous pourrons (avec double 'r')",
+            "nous pourrons",
             "nous pouvons",
             "nous pouvions",
             "nous pouvrons"
@@ -5555,10 +5555,10 @@
         {
           "prompt": "Complétez la subordonnée temporelle future : « Quand tu _________ (arriver) à Paris, appelle-moi. »",
           "options": [
-            "arriveras (futur simple)",
-            "arrives (présent)",
-            "arriverais (conditionnel)",
-            "es arrivé (passé composé)"
+            "arriveras",
+            "arrives",
+            "arriverais",
+            "es arrivé"
           ],
           "answerIndex": 0,
           "explanation": "En français, après 'quand' renvoyant à l'avenir, le verbe doit obligatoirement être au futur simple ('tu arriveras')."
@@ -5984,10 +5984,10 @@
         {
           "prompt": "Choisissez la terminaison correcte du participe passé : « La lettre que j'ai _________ (écrire) hier. »",
           "options": [
-            "écrite (accord avec le COD 'la lettre' placé avant)",
-            "écrit (forme invariable)",
-            "écrits (masculin pluriel)",
-            "écris (présent)"
+            "écrite",
+            "écrit",
+            "écrits",
+            "écris"
           ],
           "answerIndex": 0,
           "explanation": "Le pronom relatif 'que' a pour antécédent 'la lettre' (féminin singulier), COD placé avant le verbe avoir -> accord au féminin : 'écrite'."
@@ -6519,7 +6519,7 @@
         {
           "prompt": "Comment remplace-t-on le complément dans « Je pense [à ma grand-mère] » ?",
           "options": [
-            "Je pense à elle. (penser à + être humain = à + pronom tonique)",
+            "Je pense à elle.",
             "J'y pense.",
             "Je lui pense.",
             "Je la pense."
@@ -6841,7 +6841,7 @@
         {
           "prompt": "Quelle tournure temporelle signale typiquement une habitude passée exigeant l'imparfait ?",
           "options": [
-            "Tous les étés / Le dimanche (actions récurrentes sans borne)",
+            "Tous les étés / Le dimanche",
             "Soudain",
             "Hier à midi pile",
             "Tout à coup"
@@ -7079,7 +7079,7 @@
         {
           "prompt": "Quelle conjonction introduit typiquement la proposition à l'imparfait dans une scène d'interruption ?",
           "options": [
-            "Pendant que (Pendant que nous mangions, Pierre est arrivé)",
+            "Pendant que",
             "Soudain",
             "Tout à coup",
             "Hier soir"
@@ -7188,7 +7188,7 @@
         {
           "prompt": "Quel est le conditionnel présent du verbe de modalité 'pouvoir' avec le sujet 'nous' ?",
           "options": [
-            "Nous pourrions (radical futur pourr- + terminaison imparfait -ions)",
+            "Nous pourrions",
             "Nous pouvons",
             "Nous pouvions",
             "Nous pourrons"
@@ -12752,7 +12752,7 @@
           "prompt": "Dans la méthodologie française de la lettre de motivation, quel paragraphe présente la synergie entre le candidat et l'entreprise ?",
           "options": [
             "L'en-tête de l'état civil",
-            "Le paragraphe « NOUS » (vision partagée et valeur ajoutée mutuelle)",
+            "Le paragraphe « NOUS »",
             "La signature électronique",
             "La liste des références scolaires"
           ],
@@ -13295,7 +13295,7 @@
           "prompt": "Sur une ordonnance, quelle mention interdit au pharmacien de remplacer un princeps par un générique ?",
           "options": [
             "À renouveler",
-            "Non Substituable (NS)",
+            "Non Substituable",
             "En vente libre",
             "Usage externe"
           ],
@@ -13512,7 +13512,7 @@
           "type": "multiple-choice",
           "prompt": "Où est surveillé un patient immédiatement après une opération chirurgicale avant de regagner sa chambre ?",
           "options": [
-            "En salle de réveil (salle de surveillance post-interventionnelle)",
+            "En salle de réveil",
             "À la cafétéria de l'hôpital",
             "Dans la cour intérieure",
             "Au guichet d'accueil"
@@ -13591,7 +13591,7 @@
         {
           "prompt": "En droit français de la santé, quelle est la règle par défaut concernant le don d'organes après décès ?",
           "options": [
-            "Le consentement présumé (tout citoyen est donneur sauf refus explicite)",
+            "Le consentement présumé",
             "L'interdiction absolue de tout prélèvement",
             "Le tirage au sort national",
             "L'autorisation payante obligatoire"
@@ -13844,7 +13844,7 @@
           "options": [
             "Une durée minimale de vingt ans",
             "L'accord du maire de la commune",
-            "Une contrepartie financière (indemnité pécuniaire)",
+            "Une contrepartie financière",
             "Une interdiction sur la Terre entière"
           ],
           "answerIndex": 2,
@@ -14247,7 +14247,7 @@
         {
           "prompt": "Quelle institution statistique officielle calcule l'inflation et le taux de chômage en France ?",
           "options": [
-            "L'INSEE (Institut National de la Statistique et des Études Économiques)",
+            "L'INSEE",
             "La Cour des comptes",
             "Le Conseil d'État",
             "Le Sénat"
@@ -14278,7 +14278,7 @@
           "type": "multiple-choice",
           "prompt": "Comment s'appelle l'indicateur synthétique mesurant la valeur marchande de l'ensemble des biens et services produits dans un pays en un an ?",
           "options": [
-            "Le Produit Intérieur Brut (PIB)",
+            "Le Produit Intérieur Brut",
             "Le Taux Marginal d'Imposition",
             "L'Excédent Brut d'Exploitation",
             "L'Acompte Provisionnel"
@@ -14357,7 +14357,7 @@
         {
           "prompt": "Dans le compte de résultat, quel solde intermédiaire de gestion correspond au bénéfice brut généré par l'exploitation avant amortissements (équivalent de l'EBITDA) ?",
           "options": [
-            "L'Excédent Brut d'Exploitation (EBE)",
+            "L'Excédent Brut d'Exploitation",
             "La Valeur Vénale",
             "Le Chiffre d'Affaires Brut",
             "L'Avoir Fiscal"
@@ -14482,7 +14482,7 @@
         {
           "prompt": "Comment s'appellent les obligations d'État émises par le Trésor public français ?",
           "options": [
-            "Les OAT (Obligations Assimilables du Trésor)",
+            "Les OAT",
             "Les Bunds",
             "Les Gilts",
             "Les T-Bonds"
@@ -14499,7 +14499,7 @@
           "prompt": "Quel gendarme financier indépendant régule et contrôle les marchés boursiers en France ?",
           "options": [
             "La Brigade financière",
-            "L'AMF (Autorité des Marchés Financiers)",
+            "L'AMF",
             "L'Ordre des Avocats",
             "Le Conseil Constitutionnel"
           ],
@@ -14577,7 +14577,7 @@
         {
           "prompt": "Quel terme désigne l'investissement en fonds propres dans de jeunes entreprises innovantes à fort potentiel de croissance ?",
           "options": [
-            "Le capital-risque (Venture Capital)",
+            "Le capital-risque",
             "Le livret A",
             "Le crédit hypothécaire",
             "Le découvert bancaire"
@@ -14592,7 +14592,7 @@
         {
           "prompt": "Quel organisme supervise la solvabilité et la solidité des banques et assurances en France ?",
           "options": [
-            "L'ACPR (Autorité de Contrôle Prudentiel et de Résolution)",
+            "L'ACPR",
             "La DGCCRF",
             "Pôle Emploi",
             "Le Ministère de la Culture"
@@ -14608,7 +14608,7 @@
           "type": "multiple-choice",
           "prompt": "Comment qualifie-t-on une startup non cotée dont la valorisation dépasse le milliard de dollars ?",
           "options": [
-            "Une licorne (Unicorn)",
+            "Une licorne",
             "Une fourmi",
             "Une micro-entreprise",
             "Une SARL familiale"
@@ -14686,7 +14686,7 @@
         {
           "prompt": "Comment qualifie-t-on en économie le ralentissement contrôlé de l'activité permettant d'éviter une récession brutale ?",
           "options": [
-            "Un atterrissage en douceur (soft landing)",
+            "Un atterrissage en douceur",
             "Un krach boursier",
             "Une dévaluation sauvage",
             "Une liquidation générale"
@@ -14797,7 +14797,7 @@
         {
           "prompt": "Dans quelle focalisation le narrateur connaît-il toutes les pensées, le passé et l'avenir de chaque personnage ?",
           "options": [
-            "La focalisation zéro (narrateur omniscient)",
+            "La focalisation zéro",
             "La focalisation externe",
             "La focalisation subjective",
             "La focalisation latérale"
@@ -15381,7 +15381,7 @@
           "type": "multiple-choice",
           "prompt": "Quel principal gaz à effet de serre d'origine humaine résulte de la combustion des énergies fossiles ?",
           "options": [
-            "Le dioxyde de carbone (CO2)",
+            "Le dioxyde de carbone",
             "L'hélium pur",
             "L'argon",
             "Le néon"
@@ -15572,7 +15572,7 @@
         {
           "prompt": "Quelle est la principale caractéristique de la production d'électricité nucléaire en matière climatique ?",
           "options": [
-            "Elle émet de très faibles quantités directes de gaz à effet de serre (énergie bas-carbone)",
+            "Elle émet de très faibles quantités directes de gaz à effet de serre",
             "Elle brûle du charbon et du fioul lourd",
             "Elle fonctionne uniquement lorsqu'il y a du soleil",
             "Elle produit de la fumée noire polluante en continu"
@@ -15605,7 +15605,7 @@
           "options": [
             "La SNCF",
             "Air France",
-            "RTE (Réseau de Transport d'Électricité)",
+            "RTE",
             "La Poste"
           ],
           "answerIndex": 2,
@@ -15715,7 +15715,7 @@
           "options": [
             "Le Code du Travail",
             "La loi de finances",
-            "La loi AGEC (Anti-Gaspillage pour une Économie Circulaire)",
+            "La loi AGEC",
             "La loi informatique et libertés"
           ],
           "answerIndex": 2,
@@ -15900,7 +15900,7 @@
         {
           "prompt": "Selon l'article 20 de la Constitution française, quelle institution « détermine et conduit la politique de la Nation » ?",
           "options": [
-            "Le Gouvernement (dirigé par le Premier ministre)",
+            "Le Gouvernement",
             "Le Conseil d'État",
             "Le Conseil de sécurité de l'ONU",
             "Le maire de Paris"
@@ -16042,7 +16042,7 @@
           "options": [
             "L'article 2",
             "L'article 88",
-            "L'article 49, alinéa 3 (le 49.3)",
+            "L'article 49, alinéa 3",
             "L'article 100"
           ],
           "answerIndex": 2,
@@ -16558,10 +16558,10 @@
         {
           "prompt": "Quelle célèbre proposition latine et française constitue la première certitude indubitable chez Descartes ?",
           "options": [
-            "« Cogito, ergo sum » (« Je pense, donc je suis »)",
-            "« Carpe diem » (« Cueille le jour »)",
-            "« Tabula rasa » (« Table rase »)",
-            "« Veni, vidi, vici » (« Je suis venu, j'ai vu, j'ai vaincu »)"
+            "« Cogito, ergo sum »",
+            "« Carpe diem »",
+            "« Tabula rasa »",
+            "« Veni, vidi, vici »"
           ],
           "answerIndex": 0,
           "explanation": "Le Cogito cartésien (« Je pense, donc je suis ») est le socle fondateur de toute la philosophie de Descartes."
@@ -16573,7 +16573,7 @@
         {
           "prompt": "Qu'est-ce que le « dualisme cartésien » ?",
           "options": [
-            "La distinction nette entre l'esprit (substance pensante) et le corps matériel (substance étendue)",
+            "La distinction nette entre l'esprit (substance pensante) et le corps matériel",
             "Le fait d'avoir deux opinions contraires en même temps",
             "Le combat d'escrime entre deux philosophes",
             "La séparation du pouvoir exécutif et judiciaire"
@@ -16683,7 +16683,7 @@
         {
           "prompt": "Dans quel ouvrage fondateur Simone de Beauvoir écrit-elle la phrase historique « On ne naît pas femme : on le devient » ?",
           "options": [
-            "Le Deuxième Sexe (1949)",
+            "Le Deuxième Sexe",
             "La Nausée",
             "L'Étranger",
             "La Peste"
@@ -16903,7 +16903,7 @@
         {
           "prompt": "Quelle est l'étape cruciale de l'introduction qui transforme une question posée en sujet de réflexion philosophique ?",
           "options": [
-            "La problématisation (mise en lumière de la tension ou contradiction conceptuelle)",
+            "La problématisation",
             "Le dessin des marges sur la copie",
             "La signature de l'auteur en bas de page",
             "La liste alphabétique des philosophes connus"
@@ -16919,8 +16919,8 @@
           "type": "multiple-choice",
           "prompt": "En France, en quelle classe du lycée l'enseignement obligatoire de la philosophie est-il dispensé à tous les élèves ?",
           "options": [
-            "En classe de Terminale (dernière année du secondaire)",
-            "En classe de 6e (première année de collège)",
+            "En classe de Terminale",
+            "En classe de 6e",
             "À l'école maternelle",
             "En CM2"
           ],
@@ -16996,7 +16996,7 @@
         {
           "prompt": "Quel critère épistémologique développé par Karl Popper sépare une théorie scientifique d'une croyance non scientifique ?",
           "options": [
-            "La réfutabilité (ou falsifiabilité par l'expérience)",
+            "La réfutabilité",
             "La longueur du texte en nombre de pages",
             "Le nombre d'abonnés sur les réseaux sociaux",
             "La certitude subjective de l'auteur"
@@ -17250,7 +17250,7 @@
           "options": [
             "Le résumé",
             "Les remerciements",
-            "La discussion (Discussion)",
+            "La discussion",
             "Le titre"
           ],
           "answerIndex": 2,
@@ -17341,7 +17341,7 @@
         {
           "prompt": "Quelle institution consultative française rend des avis éthiques réguliers sur les avancées des sciences du vivant ?",
           "options": [
-            "Le CCNE (Comité Consultatif National d'Éthique)",
+            "Le CCNE",
             "La Banque de France",
             "La SNCF",
             "La Bourse de Paris"
@@ -17683,7 +17683,7 @@
           "prompt": "Quelle déclaration unilatérale permet à un État d'exclure ou de moduler l'application d'une clause d'un traité à son égard lors de la ratification ?",
           "options": [
             "Un veto parlementaire",
-            "Une réserve (ou déclaration interprétative)",
+            "Une réserve",
             "Une motion de destitution",
             "Une amende contractuelle"
           ],
@@ -17759,7 +17759,7 @@
         {
           "prompt": "Quelle intervention procédurale un diplomate utilise-t-il en assemblée pour signaler le non-respect des règles de séance ?",
           "options": [
-            "Une motion d'ordre (point of order)",
+            "Une motion d'ordre",
             "Un appel téléphonique personnel",
             "Une pause déjeuner anticipée",
             "Une chanson folklorique"
@@ -17792,7 +17792,7 @@
           "options": [
             "Trois",
             "Dix",
-            "Cinq (France, États-Unis, Royaume-Uni, Chine, Russie)",
+            "Cinq",
             "Tous les pays du monde"
           ],
           "answerIndex": 2,
@@ -18338,7 +18338,7 @@
           "prompt": "Comment nomme-t-on une figure de rythme articulée en trois temps équilibrés particulièrement prisée dans la prose française classique ?",
           "options": [
             "Le rythme binaire",
-            "Le rythme ternaire (tricolon)",
+            "Le rythme ternaire",
             "Un alexandrin libre",
             "Une assonance"
           ],
@@ -18755,7 +18755,7 @@
         {
           "prompt": "Quelle transformation linguistique caractérise le registre familier oral par rapport au registre standard en français ?",
           "options": [
-            "L'omission courante de la particule négative « ne » (ex: « j'sais pas » au lieu de « je ne sais pas »)",
+            "L'omission courante de la particule négative « ne »",
             "L'ajout obligatoire du subjonctif plus-que-parfait",
             "L'inversion du sujet et du verbe dans toutes les phrases",
             "L'utilisation exclusive de l'alexandrin"
@@ -18774,7 +18774,7 @@
             "Calme",
             "Amoureux",
             "Fatigué",
-            "Énervé (en colère)"
+            "Énervé"
           ],
           "answerIndex": 3,
           "explanation": "« Vénère » est le verlan de « énervé » (é-ner-vé -> vé-nair)."
@@ -18956,7 +18956,7 @@
         {
           "prompt": "Quelle tactique de débat consiste à retourner l'argument même de son contradicteur pour prouver la thèse inverse ?",
           "options": [
-            "Le retournement d'argument (la rétorsion)",
+            "Le retournement d'argument",
             "L'attaque ad hominem",
             "L'abandon du débat",
             "Le changement brusque de sujet"
@@ -18971,7 +18971,7 @@
         {
           "prompt": "Comment nomme-t-on le sophisme qui consiste à caricaturer grossièrement la position de l'adversaire pour la réfuter plus facilement ?",
           "options": [
-            "Le sophisme de l'épouvantail (homme de paille)",
+            "Le sophisme de l'épouvantail",
             "Le syllogisme parfait",
             "La pétition de principe",
             "Le dilemme cornélien"
@@ -19079,10 +19079,10 @@
         {
           "prompt": "Quel niveau du Cadre européen commun de référence pour les langues (CECRL) sanctionne la maîtrise linguistique supérieure et sommitive complète ?",
           "options": [
-            "Le niveau C2 (Maîtrise / Niveau supérieur)",
-            "Le niveau A1 (Découverte)",
-            "Le niveau B1 (Seuil)",
-            "Le niveau A2 (Intermédiaire)"
+            "Le niveau C2",
+            "Le niveau A1",
+            "Le niveau B1",
+            "Le niveau A2"
           ],
           "answerIndex": 0,
           "explanation": "Le niveau C2 représente le sommet absolu de la maîtrise linguistique et stylistique."
@@ -19098,7 +19098,7 @@
             "Vingt",
             "Cent",
             "Douze",
-            "Quarante (40)"
+            "Quarante"
           ],
           "answerIndex": 3,
           "explanation": "L'Académie française compte traditionnellement quarante membres élus à vie (les quarante fauteuils)."

@@ -131,7 +131,7 @@
         {
           "prompt": "What statistic measures the linear association and direction of relationship between two brand attributes on a normalized scale from -1.0 to +1.0?",
           "options": [
-            "Pearson correlation coefficient (r)",
+            "Pearson correlation coefficient",
             "Eigenvalue magnitude",
             "Likert sum index",
             "Chi-square degree"
@@ -284,7 +284,7 @@
           "prompt": "If an 8-attribute brand perception survey yields eigenvalues [3.5, 2.1, 0.9, 0.6, 0.4, 0.2, 0.2, 0.1], how many components satisfy the Kaiser criterion?",
           "options": [
             "4 components",
-            "2 components (3.5 and 2.1 are >= 1.0)",
+            "2 components",
             "1 component",
             "8 components"
           ],
@@ -295,7 +295,7 @@
         {
           "prompt": "What is the sum of all eigenvalues in a PCA decomposition of a standardized correlation matrix with P attributes?",
           "options": [
-            "P (the total number of attributes, since each standardized variable has variance 1.0)",
+            "P",
             "100.0",
             "0.0",
             "1.0"
@@ -432,9 +432,9 @@
         {
           "prompt": "For which type of product attribute is the Ideal Point model more appropriate than the Vector (linear) model?",
           "options": [
-            "Attributes with an optimal middle level (e.g., sweetness in beverages, firmness in mattresses)",
+            "Attributes with an optimal middle level",
             "Warranty duration",
-            "Attributes where higher is always better (e.g., airline safety rating)",
+            "Attributes where higher is always better",
             "Pure monetary cash rewards"
           ],
           "answerIndex": 0,
@@ -459,9 +459,9 @@
         {
           "prompt": "What is the mathematical form of the distance decay in Carroll's weighted Euclidean ideal point model?",
           "options": [
-            "Utility = exp(Brand_d / Ideal_d)",
-            "Utility = sum(Brand_d * Ideal_d)",
-            "Utility = - sum(v_d * (Brand_d - Ideal_d)^2)",
+            "Utility = exp",
+            "Utility = sum",
+            "Utility = - sum(v_d * (Brand_d - Ideal_d)^2",
             "Utility = Brand_d - Ideal_d"
           ],
           "answerIndex": 2,
@@ -598,7 +598,7 @@
           "options": [
             "By copying competitors without analysis",
             "By charging the exact cost of manufacturing with no margin",
-            "By maximizing expected profit = Market Share(Price) * (Price - Marginal Cost) * Projected Lifetime Value (CLV)",
+            "By maximizing expected profit = Market Share(Price) * (Price - Marginal Cost) * Projected Lifetime Value",
             "By always setting price to zero"
           ],
           "answerIndex": 2,
@@ -663,7 +663,7 @@
         {
           "prompt": "What behavioral phenomenon occurs when adding a third, strictly inferior \"decoy\" option causes consumers to shift preference toward an asymmetrically dominating target option?",
           "options": [
-            "The Decoy Effect (Asymmetric Dominance Effect)",
+            "The Decoy Effect",
             "The Endowment Effect",
             "The Sunk Cost Fallacy",
             "The Gambler's Fallacy"
@@ -681,7 +681,7 @@
             "The Law of Demand",
             "Price Elasticity",
             "Diminishing Returns",
-            "The Compromise Effect (Extremeness Aversion)"
+            "The Compromise Effect"
           ],
           "answerIndex": 3,
           "explanation": "The Compromise Effect (Extremeness Aversion)."
@@ -707,7 +707,7 @@
           "options": [
             "Transitivity of Preferences",
             "Non-Satiation",
-            "Independence of Irrelevant Alternatives (IIA)",
+            "Independence of Irrelevant Alternatives",
             "Law of One Price"
           ],
           "answerIndex": 2,
@@ -760,7 +760,7 @@
         {
           "prompt": "What psychological effect describes the disproportionate value consumers place on eliminating risk entirely (moving from 99% to 100% certainty)?",
           "options": [
-            "The Certainty Effect (Allais Paradox)",
+            "The Certainty Effect",
             "The Decoy Effect",
             "The Compromise Effect",
             "The Endowment Effect"
@@ -788,7 +788,7 @@
           "prompt": "In the Fourfold Pattern of Risk, what consumer behavior is observed in the high-probability loss domain (e.g., 95% chance of losing $10,000 in court)?",
           "options": [
             "Risk-averse behavior",
-            "Risk-seeking behavior (preferring to go to trial rather than accept a sure settlement)",
+            "Risk-seeking behavior",
             "Hyperbolic discounting",
             "Indifference"
           ],
@@ -828,7 +828,7 @@
         {
           "prompt": "According to Prospect Theory, what is the empirical coefficient of Loss Aversion ($\\lambda$)?",
           "options": [
-            "Approximately $\\lambda \\approx 2.25$ (losses hurt more than twice as much as equivalent gains)",
+            "Approximately $\\lambda \\approx 2.25$",
             "$\\lambda = 0.5$",
             "$\\lambda = 100.0$",
             "$\\lambda = 1.0$"
@@ -859,7 +859,7 @@
           "prompt": "How does human risk attitude differ between the domain of gains versus the domain of losses in Prospect Theory?",
           "options": [
             "Risk-seeking in gains, risk-averse in losses",
-            "Risk-averse in the domain of gains (concave), but risk-seeking in the domain of losses (convex)",
+            "Risk-averse in the domain of gains (concave), but risk-seeking in the domain of losses",
             "Completely neutral in both domains",
             "Randomly distributed"
           ],
@@ -910,9 +910,9 @@
         {
           "prompt": "According to Metcalfe's Law, how does the theoretical value V of a communication network scale with the number of participating nodes n?",
           "options": [
-            "V is proportional to n^2 (Quadratic growth in pairwise connections)",
-            "V is strictly linear (V ~ n)",
-            "V is logarithmic (V ~ log n)",
+            "V is proportional to n^2",
+            "V is strictly linear",
+            "V is logarithmic",
             "V is constant"
           ],
           "answerIndex": 0,
@@ -955,7 +955,7 @@
             "Market Ceiling",
             "Break-even Point",
             "Carrying Capacity",
-            "Critical Mass (Tipping Point)"
+            "Critical Mass"
           ],
           "answerIndex": 3,
           "explanation": "Critical Mass (Tipping Point).",
@@ -995,7 +995,7 @@
             "Between Innovators and Early Adopters",
             "Between Early Majority and Late Majority",
             "Between Late Majority and Laggards",
-            "Between Early Adopters (Visionaries) and the Early Majority (Pragmatists)"
+            "Between Early Adopters (Visionaries) and the Early Majority"
           ],
           "answerIndex": 3,
           "explanation": "Between Early Adopters (Visionaries) and the Early Majority (Pragmatists)."
@@ -1010,7 +1010,7 @@
             "The Spray and Pray Strategy",
             "The Mass Market Advertising Campaign",
             "The Freemium Strategy",
-            "The Bowling Pin Strategy (Beachhead Strategy)"
+            "The Bowling Pin Strategy"
           ],
           "answerIndex": 3,
           "explanation": "The Bowling Pin Strategy (Beachhead Strategy)."
@@ -1036,7 +1036,7 @@
           "options": [
             "50%",
             "13.5%",
-            "34% (Thirty-four percent)",
+            "34%",
             "2.5%"
           ],
           "answerIndex": 2,
@@ -1117,9 +1117,9 @@
           "prompt": "What mathematical regression technique fits historical discrete sales against linear and quadratic cumulative sales to recover Bass parameters?",
           "options": [
             "K-Means Clustering",
-            "Ordinary Least Squares (OLS Regression)",
-            "Singular Value Decomposition (SVD)",
-            "Principal Component Analysis (PCA)"
+            "Ordinary Least Squares",
+            "Singular Value Decomposition",
+            "Principal Component Analysis"
           ],
           "answerIndex": 1,
           "explanation": "Ordinary Least Squares (OLS Regression).",
@@ -1189,7 +1189,7 @@
             "Only after the product is discontinued",
             "At time $t^* = \\frac{1}{p+q} \\ln(q/p)$ when the S-curve inflection occurs",
             "At time $t = 0$",
-            "When the market is 100% saturated ($N(t) = M$)"
+            "When the market is 100% saturated ($N(t) = M$"
           ],
           "answerIndex": 1,
           "explanation": "Peak sales occur at the mathematical inflection point $t^*$.",
@@ -1238,7 +1238,7 @@
         {
           "prompt": "In a Markov customer migration model, what mathematical operation projects customer state distribution from time t to time t+1 using transition matrix P?",
           "options": [
-            "v_{t+1} = v_t * P (Vector-matrix multiplication)",
+            "v_{t+1} = v_t * P",
             "v_{t+1} = P / v_t",
             "v_{t+1} = det(P) * v_t",
             "v_{t+1} = v_t + P"
@@ -1253,7 +1253,7 @@
         {
           "prompt": "What state in a Markov churn model has a transition probability of 1.0 of staying in that state (P_ii = 1.0) and 0.0 of transitioning out?",
           "options": [
-            "An Absorbing State (Permanent Churn)",
+            "An Absorbing State",
             "A Transient State",
             "A Periodic State",
             "An Ergodic State"
@@ -1420,7 +1420,7 @@
             "Normal distribution and Cauchy distribution",
             "Uniform distribution and Binomial distribution",
             "Exponential distribution and Poisson distribution",
-            "Gamma distribution (for lambda) and Beta distribution (for p)"
+            "Gamma distribution (for lambda) and Beta distribution"
           ],
           "answerIndex": 3,
           "explanation": "Gamma distribution (for lambda) and Beta distribution (for p)."
@@ -1445,9 +1445,9 @@
           "prompt": "What metric in non-contractual customer analytics measures the time elapsed between a customer's first transaction and their most recent transaction?",
           "options": [
             "Churn rate",
-            "Recency (t_x)",
-            "Tenure (T)",
-            "Frequency (x)"
+            "Recency",
+            "Tenure",
+            "Frequency"
           ],
           "answerIndex": 1,
           "explanation": "Recency (t_x).",
@@ -1484,7 +1484,7 @@
         {
           "prompt": "In subscription business models, what is the standard recommended benchmark ratio for LTV to CAC?",
           "options": [
-            "At least 3:1 ($LTV / CAC \\ge 3.0$)",
+            "At least 3:1",
             "1:1",
             "100:1 only",
             "0.5:1"
@@ -1502,7 +1502,7 @@
             "It stays constant",
             "It drops to zero",
             "It decreases linearly",
-            "It more than doubles (from 0.8/0.3 = 2.67 to 0.9/0.2 = 4.50)"
+            "It more than doubles"
           ],
           "answerIndex": 3,
           "explanation": "Retention has a highly convex, non-linear compounding multiplier on customer valuation."
@@ -1515,7 +1515,7 @@
           "prompt": "What happens to CLV as the annual customer churn rate approaches zero (retention $r \\to 1$)?",
           "options": [
             "CLV becomes negative",
-            "CLV approaches $M \\cdot \\frac{1+d}{d}$ (the value of a perpetual annuity)",
+            "CLV approaches $M \\cdot \\frac{1+d}{d}$",
             "CAC increases to infinity",
             "CLV drops to zero"
           ],
@@ -1611,7 +1611,7 @@
             "Total gross revenue with zero cost consideration",
             "Number of survey respondents",
             "Lowest possible selling price",
-            "Total Profit Contribution Margin: Sum(Share_j * (Price_j - Marginal_Cost_j))"
+            "Total Profit Contribution Margin: Sum"
           ],
           "answerIndex": 3,
           "explanation": "Total Profit Contribution Margin.",
@@ -1663,7 +1663,7 @@
         {
           "prompt": "If the price coefficient in a conjoint study is beta_price = -0.02 per dollar and upgrading battery life gives Delta beta = +0.80, what is the consumer WTP for the upgrade?",
           "options": [
-            "$40.00 (-0.80 / -0.02 = 40)",
+            "$40.00",
             "$80.00",
             "$16.00",
             "$20.00"
@@ -1730,9 +1730,9 @@
         {
           "prompt": "Under the Multinomial Logit (MNL) choice model, what formula gives the probability of choosing alternative j from set C?",
           "options": [
-            "P(j) = exp(V_j) / sum_{k in C} exp(V_k)",
-            "P(j) = 1 / (1 + V_j)",
-            "P(j) = ln(V_j)",
+            "P(j) = exp(V_j) / sum_{k in C} exp",
+            "P(j) = 1 /",
+            "P(j) = ln",
             "P(j) = V_j / sum V_k"
           ],
           "answerIndex": 0,
@@ -1762,7 +1762,7 @@
           "options": [
             "0.0%",
             "50.0%",
-            "33.3% (e^0 / (e^0 + e^0 + e^0) = 1 / 3)",
+            "33.3% (e^0 / (e^0 + e^0 + e^0) = 1 / 3",
             "100.0%"
           ],
           "answerIndex": 2,
@@ -1772,7 +1772,7 @@
         {
           "prompt": "Which advanced Bayesian econometric method estimates individual-level part-worth distributions to resolve the IIA restriction in market simulations?",
           "options": [
-            "Ordinary Least Squares (OLS)",
+            "Ordinary Least Squares",
             "Hierarchical Bayes (HB) Estimation / Mixed Logit",
             "K-Means clustering",
             "PCA decomposition"
@@ -1843,7 +1843,7 @@
           "prompt": "If a full factorial design requires 3 x 3 x 3 x 3 = 81 profiles, what standard Taguchi orthogonal array can estimate all main effects in just 9 profiles?",
           "options": [
             "L81 Full Matrix",
-            "L9 Orthogonal Array (9 profiles)",
+            "L9 Orthogonal Array",
             "L2 Binary Array",
             "L100 Matrix"
           ],
@@ -1854,7 +1854,7 @@
         {
           "prompt": "What mathematical metric evaluates the overall precision and variance minimization of a conjoint experimental design matrix X?",
           "options": [
-            "D-Efficiency (based on det(X^T X))",
+            "D-Efficiency",
             "Gini index",
             "R-squared only",
             "Beta coefficient"
@@ -1912,7 +1912,7 @@
             "$180",
             "$54",
             "$18",
-            "$60 ($1.8 / 0.03)"
+            "$60"
           ],
           "answerIndex": 3,
           "explanation": "WTP = 1.8 / 0.03 = $60."
@@ -1979,7 +1979,7 @@
             "Fixed Asset Depreciation",
             "Inventory Turnover",
             "Cost-Plus Markup",
-            "Customer-Based Corporate Valuation (CBCV)"
+            "Customer-Based Corporate Valuation"
           ],
           "answerIndex": 3,
           "explanation": "Customer-Based Corporate Valuation (CBCV)."
@@ -2019,7 +2019,7 @@
           "prompt": "What probability model estimates P(Alive) in non-contractual retail using recency and frequency?",
           "options": [
             "Linear Regression",
-            "BG/NBD Model (Beta-Geometric / Negative Binomial Distribution)",
+            "BG/NBD Model",
             "K-Means Clustering",
             "Logistic Regression"
           ],
@@ -2073,10 +2073,10 @@
         {
           "prompt": "What is the analytical formula for time to peak sales adoption T* in the Bass diffusion model when q > p?",
           "options": [
-            "T* = ln(q / p) / (p + q)",
+            "T* = ln(q / p) /",
             "T* = M / 2",
             "T* = p * q * M",
-            "T* = 1 / (p + q)"
+            "T* = 1 /"
           ],
           "answerIndex": 0,
           "explanation": "T* = ln(q / p) / (p + q)."
@@ -2100,7 +2100,7 @@
         {
           "prompt": "What law states that the value of a telecommunications network is proportional to the square of the number of connected users (n^2)?",
           "options": [
-            "Metcalfe's Law (Ligji i Metcalfe)",
+            "Metcalfe's Law",
             "Moore's Law",
             "Amdahl's Law",
             "Zipf's Law"
@@ -2140,7 +2140,7 @@
         {
           "prompt": "What complete curriculum does mastering B110 represent?",
           "options": [
-            "Complete University-Level Mastery of Market Dynamics, Consumer Psychology, and Quantitative Pricing Optimization (25 Sessions)",
+            "Complete University-Level Mastery of Market Dynamics, Consumer Psychology, and Quantitative Pricing Optimization",
             "Basic salesmanship",
             "Elementary bookkeeping",
             "Social media blogging"
@@ -2156,7 +2156,7 @@
           "prompt": "Which behavioral economic principle explains why losses hurt approximately 2.25 times more than equal monetary gains?",
           "options": [
             "The Master Theorem",
-            "Loss Aversion in Prospect Theory (lambda ≈ 2.25)",
+            "Loss Aversion in Prospect Theory",
             "The Law of Supply",
             "Metcalfe's Law"
           ],
@@ -2185,7 +2185,7 @@
             "Law of Diminishing Marginal Utility",
             "Equi-marginal Principle",
             "Revealed Preference Axiom",
-            "Independence of Irrelevant Alternatives (IIA)"
+            "Independence of Irrelevant Alternatives"
           ],
           "answerIndex": 3,
           "explanation": "Independence of Irrelevant Alternatives (IIA).",

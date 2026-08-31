@@ -810,7 +810,7 @@
           "options": [
             "Learning number and symbol keys",
             "Extending home row up to the full top row while keeping the return reflex intact",
-            "Learning the bottom row (Z X C V B N M)",
+            "Learning the bottom row",
             "Reaching 100+ WPM"
           ],
           "answer": "Extending home row up to the full top row while keeping the return reflex intact",
@@ -1228,10 +1228,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Left Middle Finger (16.1) ",
-            "Left Thumb (16.2) ",
-            "Right Index Finger (16.3) ",
-            "Left Index Finger (starting from F) (16.4) "
+            "Left Middle Finger",
+            "Left Thumb",
+            "Right Index Finger",
+            "Left Index Finger"
           ],
           "answerIndex": 3,
           "explanation": "The left index finger reaches up to 4 and stretches right to 5."
@@ -1241,7 +1241,7 @@
           "options": [
             "Left Index Finger",
             "Left Thumb",
-            "Left Pinky Finger (starting from A)",
+            "Left Pinky Finger",
             "Left Ring Finger"
           ],
           "answerIndex": 2,
@@ -1265,10 +1265,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
           "options": [
-            "Left Index Finger  (Task 16.1)",
-            "Left Ring Finger  (Task 16.2)",
-            "Right Middle Finger  (Task 16.3)",
-            "Left Middle Finger (starting from D)  (Task 16.4)"
+            "Left Index Finger",
+            "Left Ring Finger",
+            "Right Middle Finger",
+            "Left Middle Finger"
           ],
           "answerIndex": 3,
           "explanation": "Left middle finger controls '3' (above E/D)."
@@ -1278,7 +1278,7 @@
           "options": [
             "Left Index Finger",
             "Left Middle Finger",
-            "Left Ring Finger (starting from S)",
+            "Left Ring Finger",
             "Left Pinky"
           ],
           "answerIndex": 2,
@@ -1303,7 +1303,7 @@
         {
           "prompt": "Why should you never look down at the keyboard when typing numbers?",
           "options": [
-            "Looking down breaks visual focus on the screen, disrupts rhythmic typing flow, and slows WPM (deliberate practice)",
+            "Looking down breaks visual focus on the screen, disrupts rhythmic typing flow, and slows WPM",
             "Looking down increases typing speed",
             "It is forbidden by computer manufacturers",
             "Keyboards will turn off if you look at them"
@@ -1318,7 +1318,7 @@
             "Right index finger",
             "Left pinky for 4, left ring for 5",
             "Left middle finger for 4, left index for 5",
-            "Left index finger for both (4 then 5)"
+            "Left index finger for both"
           ],
           "answerIndex": 3,
           "explanation": "The left index finger types both 4 and 5.",
@@ -1384,10 +1384,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Right Index Finger (starting from J) (17.1) ",
-            "Right Middle Finger (17.2) ",
-            "Right Thumb (17.3) ",
-            "Left Index Finger (17.4) "
+            "Right Index Finger",
+            "Right Middle Finger",
+            "Right Thumb",
+            "Left Index Finger"
           ],
           "answerIndex": 0,
           "explanation": "The right index finger controls both 6 and 7."
@@ -1395,7 +1395,7 @@
         {
           "prompt": "Which finger is assigned to the '0' (zero) and '-' (hyphen) keys?",
           "options": [
-            "Right Pinky Finger (starting from ;)",
+            "Right Pinky Finger",
             "Right Ring Finger",
             "Right Index Finger",
             "Right Middle Finger"
@@ -1406,7 +1406,7 @@
         {
           "prompt": "Which finger strikes the number '8'?",
           "options": [
-            "Right Middle Finger (starting from K)",
+            "Right Middle Finger",
             "Right Index Finger",
             "Left Middle Finger",
             "Right Ring Finger"
@@ -1421,10 +1421,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
           "options": [
-            "Right Pinky  (Task 17.1)",
-            "Right Middle Finger  (Task 17.2)",
-            "Right Index Finger  (Task 17.3)",
-            "Right Ring Finger (starting from L)  (Task 17.4)"
+            "Right Pinky",
+            "Right Middle Finger",
+            "Right Index Finger",
+            "Right Ring Finger"
           ],
           "answerIndex": 3,
           "explanation": "Right ring finger controls 9 (above O/L)."
@@ -1435,7 +1435,7 @@
             "Left Index for all",
             "Right Index for all",
             "Left Pinky -> Left Ring -> Left Middle -> Right Pinky",
-            "Left Ring (2) -> Right Pinky (0) -> Left Ring (2) -> Right Index (6)"
+            "Left Ring (2) -> Right Pinky (0) -> Left Ring (2) -> Right Index"
           ],
           "answerIndex": 3,
           "explanation": "2 (Left Ring), 0 (Right Pinky), 2 (Left Ring), 6 (Right Index)."
@@ -1484,7 +1484,7 @@
           "prompt": "To type '7890', what is the finger order?",
           "options": [
             "Right Index for all four",
-            "Right Index (7) -> Right Middle (8) -> Right Ring (9) -> Right Pinky (0)",
+            "Right Index (7) -> Right Middle (8) -> Right Ring (9) -> Right Pinky",
             "Right Pinky -> Ring -> Middle -> Index",
             "Left hand fingers"
           ],
@@ -1540,10 +1540,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Left Shift with your Left Thumb (18.1) ",
-            "Left Shift with your Left Pinky (18.2) ",
-            "Caps Lock (18.3) ",
-            "Right Shift with your Right Pinky (18.4) "
+            "Left Shift with your Left Thumb",
+            "Left Shift with your Left Pinky",
+            "Caps Lock",
+            "Right Shift with your Right Pinky"
           ],
           "answerIndex": 3,
           "explanation": "Left-hand keys always pair with the opposite (Right) Shift key."
@@ -1565,7 +1565,7 @@
             "The computer will lock up",
             "Shift will not register",
             "The keys will jam",
-            "It twists the wrist, strains the tendons, and degrades touch typing ergonomics (deliberate practice)"
+            "It twists the wrist, strains the tendons, and degrades touch typing ergonomics"
           ],
           "answerIndex": 3,
           "explanation": "Opposite-shift preserves neutral wrist alignment and finger independence."
@@ -1577,10 +1577,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
           "options": [
-            "Left Middle Finger on 3 (with Right Shift held)  (Task 18.1)",
-            "Left Index Finger  (Task 18.2)",
-            "Left Pinky  (Task 18.3)",
-            "Right Middle Finger  (Task 18.4)"
+            "Left Middle Finger on 3",
+            "Left Index Finger",
+            "Left Pinky",
+            "Right Middle Finger"
           ],
           "answerIndex": 0,
           "explanation": "Left middle finger strikes 3 (with Right Shift) for #."
@@ -1588,7 +1588,7 @@
         {
           "prompt": "Which finger produces the '%' (percent) symbol?",
           "options": [
-            "Left Index Finger on 5 (with Right Shift held)",
+            "Left Index Finger on 5",
             "Left Ring Finger",
             "Left Middle Finger",
             "Right Index Finger"
@@ -1628,7 +1628,7 @@
           "prompt": "Which finger strikes the '!' (exclamation mark)?",
           "options": [
             "Left Index",
-            "Left Pinky on 1 (with Right Shift held)",
+            "Left Pinky on 1",
             "Left Thumb",
             "Right Pinky"
           ],
@@ -1696,10 +1696,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Left Pinky on Left Shift + Right Ring Finger on 9 (19.1) ",
-            "Left Index on Shift + Right Index on 9 (19.2) ",
-            "Right Thumb on Space (19.3) ",
-            "Right Pinky on Right Shift + Right Ring Finger on 9 (19.4) "
+            "Left Pinky on Left Shift + Right Ring Finger on 9",
+            "Left Index on Shift + Right Index on 9",
+            "Right Thumb on Space",
+            "Right Pinky on Right Shift + Right Ring Finger on 9"
           ],
           "answerIndex": 0,
           "explanation": "Opposite Shift: Left Pinky (Left Shift) + Right Ring on 9."
@@ -1707,7 +1707,7 @@
         {
           "prompt": "Which finger strikes the closing parenthesis ')' (Shift + 0)?",
           "options": [
-            "Right Pinky Finger on 0 (with Left Shift held)",
+            "Right Pinky Finger on 0",
             "Right Middle Finger",
             "Right Index Finger",
             "Right Ring Finger"
@@ -1718,7 +1718,7 @@
         {
           "prompt": "Which finger strikes the asterisk '*' (Shift + 8)?",
           "options": [
-            "Right Middle Finger on 8 (with Left Shift held)",
+            "Right Middle Finger on 8",
             "Left Middle Finger",
             "Right Index Finger",
             "Right Ring Finger"
@@ -1733,10 +1733,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
           "options": [
-            "Right Index Finger on 7 (with Left Shift held)  (Task 19.1)",
-            "Left Index Finger  (Task 19.2)",
-            "Right Middle Finger  (Task 19.3)",
-            "Right Ring Finger  (Task 19.4)"
+            "Right Index Finger on 7",
+            "Left Index Finger",
+            "Right Middle Finger",
+            "Right Ring Finger"
           ],
           "answerIndex": 0,
           "explanation": "Right index finger strikes 7 for '&'."
@@ -1798,7 +1798,7 @@
             "The letter 'P'",
             "The minus key '-'",
             "The zero key '0'",
-            "The equals key '=' (Right Pinky)"
+            "The equals key '='"
           ],
           "answerIndex": 3,
           "explanation": "Shift + '=' produces '+'.",
@@ -1809,7 +1809,7 @@
           "options": [
             "Winning typing games only",
             "Increasing monitor brightness",
-            "Eliminating pauses when typing equations, code, dates, and formatted prose (deliberate practice)",
+            "Eliminating pauses when typing equations, code, dates, and formatted prose",
             "Changing keyboard color"
           ],
           "answerIndex": 2,
@@ -1854,10 +1854,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Maintain a steady rhythm, use opposite-hand Shift, and trust finger muscle memory without looking down (20.1) ",
-            "Stop and look at each symbol before pressing it (20.2) ",
-            "Type with only one hand (20.3) ",
-            "Use Caps Lock for all symbols (20.4) "
+            "Maintain a steady rhythm, use opposite-hand Shift, and trust finger muscle memory without looking down",
+            "Stop and look at each symbol before pressing it",
+            "Type with only one hand",
+            "Use Caps Lock for all symbols"
           ],
           "answerIndex": 0,
           "explanation": "Steady rhythm, opposite-hand shift, and blind touch typing maximize accuracy."
@@ -1865,8 +1865,8 @@
         {
           "prompt": "What is the correct finger execution for '$100'?",
           "options": [
-            "Right Shift (Right Pinky) + Left Index (4) -> Left Pinky (1) -> Right Pinky (0) -> Right Pinky (0)",
-            "Left Shift + Left Index (4) -> Left Index (1) -> Left Index (0)",
+            "Right Shift (Right Pinky) + Left Index (4) -> Left Pinky (1) -> Right Pinky (0) -> Right Pinky",
+            "Left Shift + Left Index (4) -> Left Index (1) -> Left Index",
             "Right Index for all",
             "Left Thumb on Shift"
           ],
@@ -1891,10 +1891,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
           "options": [
-            "0 times  (Task 20.1)",
-            "3 times (for '(', '+', and '*')  (Task 20.2)",
-            "5 times  (Task 20.3)",
-            "1 time  (Task 20.4)"
+            "0 times",
+            "3 times (for '(', '+', and '*')",
+            "5 times",
+            "1 time"
           ],
           "answerIndex": 1,
           "explanation": "'(' (9), '+' (=), and '*' (8) all reside on the right hand and use Left Shift."
@@ -1918,7 +1918,7 @@
           "prompt": "Type this string mentally: 'Room #102: $450/mo (Call 555-0198!)'. Which fingers execute '#', '$', '(', and ')'?",
           "options": [
             "# = Right Index, $ = Right Middle, ( = Left Ring, ) = Left Pinky",
-            "# = Left Middle (3), $ = Left Index (4), ( = Right Ring (9), ) = Right Pinky (0)",
+            "# = Left Middle (3), $ = Left Index (4), ( = Right Ring (9), ) = Right Pinky",
             "# = Left Pinky, $ = Left Ring, ( = Right Middle, ) = Right Index",
             "All are typed with Left Index"
           ],
@@ -1929,7 +1929,7 @@
         {
           "prompt": "What is the main cause of speed loss during alphanumeric typing?",
           "options": [
-            "Hesitation and looking down at the keyboard due to lack of confident number-row muscle memory (deliberate practice)",
+            "Hesitation and looking down at the keyboard due to lack of confident number-row muscle memory",
             "Using a mechanical keyboard",
             "Screen refresh rate",
             "Typing too softly"
@@ -1966,7 +1966,7 @@
           "prompt": "What is the primary objective of completing Unit 4 in FEARN Typing?",
           "options": [
             "Only typing with the left hand",
-            "Mastering the full numbers (0-9) and symbols (!@#$%^&*()_+=) row by touch without looking down",
+            "Mastering the full numbers (0-9) and symbols (!@#$%^&*_+=) row by touch without looking down",
             "Learning mouse shortcuts",
             "Memorizing the home row only"
           ],
@@ -2011,10 +2011,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Left index finger (21.1) ",
-            "Left pinky on Shift (21.2) ",
-            "Right thumb (21.3) ",
-            "Right pinky reaching up-right past P (no Shift key) (21.4) "
+            "Left index finger",
+            "Left pinky on Shift",
+            "Right thumb",
+            "Right pinky reaching up-right past P"
           ],
           "answerIndex": 3,
           "explanation": "Open square bracket '[' is struck by the right pinky directly to the right of P."
@@ -2037,10 +2037,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
           "options": [
-            "( ) [ ] { }  (Task 21.1)",
-            "[ ] ( ) { }  (Task 21.2)",
-            "{ } [ ] ( )  (Task 21.3)",
-            "() [] {} (()) [[]] {{}}  (Task 21.4)"
+            "[ ] { }",
+            "[ ] { }",
+            "{ } [ ]",
+            "[] {} () [[]] {{}}"
           ],
           "answerIndex": 3,
           "explanation": "Parentheses -> square brackets -> curly braces sequence."
@@ -2063,7 +2063,7 @@
         {
           "prompt": "Match the bracket characters with their exact finger combinations: ( ), [ ], { }:",
           "options": [
-            "( ): Left Shift + Right 9/0 | [ ]: Right Pinky alone | { }: Left Shift + Right Pinky [ / ]",
+            ": Left Shift + Right 9/0 | [ ]: Right Pinky alone | { }: Left Shift + Right Pinky [ / ]",
             "All use Right Thumb",
             "All require Caps Lock",
             "All use Left Index"
@@ -2099,10 +2099,10 @@
         {
           "prompt": "Complete the bracket pairing: 'function test' _______ (parentheses) ' ' _______ (braces)",
           "options": [
-            "<> / ()",
-            "() / {}",
+            "<> /",
+            "/ {}",
             "{} / []",
-            "[] / ()"
+            "[] /"
           ],
           "answerIndex": 1,
           "explanation": "function test() {} syntax.",
@@ -2145,10 +2145,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Right pinky holds Shift + Left pinky strikes 1 (opposite shift) (22.1) ",
-            "Right index strikes 1 (22.2) ",
-            "Left pinky holds Shift + Left pinky strikes 1 (same hand) (22.3) ",
-            "Caps Lock + 1 (22.4) "
+            "Right pinky holds Shift + Left pinky strikes 1",
+            "Right index strikes 1",
+            "Left pinky holds Shift + Left pinky strikes 1",
+            "Caps Lock + 1"
           ],
           "answerIndex": 0,
           "explanation": "Opposite-shift rule: Right Shift + Left Pinky on 1 = '!'."
@@ -2156,7 +2156,7 @@
         {
           "prompt": "Which keys produce '<' and '>'?",
           "options": [
-            "Left Shift + comma (<) and period (>)",
+            "Left Shift + comma (<) and period",
             "Left Shift + M and N",
             "Direct press without Shift",
             "Right Shift + 1 and 2"
@@ -2171,10 +2171,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
           "options": [
-            "+ = - * / < >  (Task 22.1)",
-            "! & | % + -  (Task 22.2)",
-            "+ - * / = < > ! & | %  (Task 22.3)",
-            "* / = < > +  (Task 22.4)"
+            "+ = - * / < >",
+            "! & | % + -",
+            "+ - * / = < > ! & | %",
+            "* / = < > +"
           ],
           "answerIndex": 2,
           "explanation": "Math and logic operator sequence."
@@ -2182,10 +2182,10 @@
         {
           "prompt": "What symbol is produced by Left Shift + Right Pinky on the '=' key?",
           "options": [
-            "- (Minus sign)",
-            "= (Equals sign)",
-            "_ (Underscore)",
-            "+ (Plus sign)"
+            "-",
+            "=",
+            "_",
+            "+"
           ],
           "answerIndex": 3,
           "explanation": "Shift + '=' produces '+'."
@@ -2279,10 +2279,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Right ring finger (23.1) ",
-            "Left pinky (23.2) ",
-            "Right index finger (23.3) ",
-            "Right pinky (23.4) "
+            "Right ring finger",
+            "Left pinky",
+            "Right index finger",
+            "Right pinky"
           ],
           "answerIndex": 3,
           "explanation": "Right pinky rests on the ';' key at home row."
@@ -2305,10 +2305,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
           "options": [
-            "\"hello_world\": 'status_ok';  (Task 23.1)",
-            "'hello world' status ok  (Task 23.2)",
-            "hello_world = status_ok  (Task 23.3)",
-            ":hello_world: 'status_ok'  (Task 23.4)"
+            "\"hello_world\": 'status_ok';",
+            "'hello world' status ok",
+            "hello_world = status_ok",
+            ":hello_world: 'status_ok'"
           ],
           "answerIndex": 0,
           "explanation": "Double quotes, underscore, colon, single quotes, and semicolon."
@@ -2413,10 +2413,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Maintaining a steady, uninterrupted metronomic rhythm rather than rushing letters and pausing on symbols (24.1) ",
-            "Stopping typing after every line (24.2) ",
-            "Using the mouse to click symbols on an on-screen keyboard (24.3) ",
-            "Looking down at the keyboard for every symbol (24.4) "
+            "Maintaining a steady, uninterrupted metronomic rhythm rather than rushing letters and pausing on symbols",
+            "Stopping typing after every line",
+            "Using the mouse to click symbols on an on-screen keyboard",
+            "Looking down at the keyboard for every symbol"
           ],
           "answerIndex": 0,
           "explanation": "Steady rhythm prevents cognitive hesitation on punctuation."
@@ -2425,7 +2425,7 @@
           "prompt": "In standard JSON syntax, how are keys and string values enclosed?",
           "options": [
             "In double quotation marks \" \"",
-            "In parentheses ( )",
+            "In parentheses",
             "In backticks ` `",
             "In single quotes ' '"
           ],
@@ -2439,10 +2439,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
           "options": [
-            "if (total > 100) { discount = 0.15; }  (Task 24.1)",
-            "if {total > 100} [discount = 0.15]  (Task 24.2)",
-            "if total > 100 discount = 0.15  (Task 24.3)",
-            "if [total > 100] (discount = 0.15)  (Task 24.4)"
+            "if (total > 100) { discount = 0.15; }",
+            "if {total > 100} [discount = 0.15]",
+            "if total > 100 discount = 0.15",
+            "if [total > 100]"
           ],
           "answerIndex": 0,
           "explanation": "Standard conditional block with parentheses, braces, and assignment."
@@ -2547,10 +2547,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Top-left key above Tab and left of 1 (struck with left pinky) (25.1) ",
-            "Right pinky next to Enter (25.2) ",
-            "Bottom row next to Space (25.3) ",
-            "Number pad 0 (25.4) "
+            "Top-left key above Tab and left of 1",
+            "Right pinky next to Enter",
+            "Bottom row next to Space",
+            "Number pad 0"
           ],
           "answerIndex": 0,
           "explanation": "Backtick '`' is at the top left of standard QWERTY keyboards, struck by the left pinky."
@@ -2573,10 +2573,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
           "options": [
-            "return id = data.id name = data.name  (Task 25.1)",
-            "return { id: data.id, name: data.name, active: true };  (Task 25.2)",
-            "return [ id: data.id, name: data.name ];  (Task 25.3)",
-            "return ( id: data.id, name: data.name );  (Task 25.4)"
+            "return id = data.id name = data.name",
+            "return { id: data.id, name: data.name, active: true };",
+            "return [ id: data.id, name: data.name ];",
+            "return ( id: data.id, name: data.name );"
           ],
           "answerIndex": 1,
           "explanation": "Exact JavaScript object return statement."
@@ -2584,7 +2584,7 @@
         {
           "prompt": "What calculation determines Net WPM when typing a 250-character code block in 60 seconds with 98% accuracy?",
           "options": [
-            "49.0 Net WPM (250 / 5 = 50 Gross WPM x 0.98 = 49.0)",
+            "49.0 Net WPM",
             "75 WPM",
             "20 WPM",
             "30 WPM"
@@ -2599,7 +2599,7 @@
         {
           "prompt": "What core technical and neuromuscular skills were mastered across Touch Typing Unit 6?",
           "options": [
-            "All bracket types ((), [], {}), math and logic operators (+, -, *, /, =, <, >, !, &, |, %, ^, ~), quotes, colons/semicolons, slashes, underscores, code indentation, and sustained 50+ WPM coding fluency with 98%+ accuracy",
+            "All bracket types (, [], {}), math and logic operators (+, -, *, /, =, <, >, !, &, |, %, ^, ~), quotes, colons/semicolons, slashes, underscores, code indentation, and sustained 50+ WPM coding fluency with 98%+ accuracy",
             "Home row letters only",
             "Number pad typing only",
             "Function keys only"
@@ -2612,9 +2612,9 @@
           "prompt": "Identify the complete, valid Python dictionary comprehension string:",
           "options": [
             "{ key = value * 2 }",
-            "( key: value * 2 )",
+            "",
             "[ key: value * 2 ]",
-            "{ key: value * 2 for (key, value) in items.items() if value > 0 }"
+            "{ key: value * 2 for (key, value) in items.items if value > 0 }"
           ],
           "answerIndex": 3,
           "explanation": "Valid Python dictionary comprehension syntax.",
@@ -2636,7 +2636,7 @@
           "prompt": "What is the next frontier of touch typing in Unit 7?",
           "options": [
             "Typing upside down",
-            "Sustained Accuracy Interval Drills (2-minute, 5-minute, and 10-minute stamina sprints maintaining 60-70+ WPM without fatigue degradation)",
+            "Sustained Accuracy Interval Drills",
             "Memorizing Morse code",
             "Switching to a typewriter"
           ],
@@ -2676,10 +2676,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Directly at the exact character being pressed (26.1) ",
-            "10 words behind (26.2) ",
-            "At your hands (26.3) ",
-            "2 to 3 words ahead (feeding the motor buffer ahead of execution) (26.4) "
+            "Directly at the exact character being pressed",
+            "10 words behind",
+            "At your hands",
+            "2 to 3 words ahead"
           ],
           "answerIndex": 3,
           "explanation": "Looking 2-3 words ahead allows the brain to chunk words into pre-compiled motor programs."
@@ -2702,10 +2702,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
           "options": [
-            "Smashing keys harder  (Task 26.1)",
-            "Using only the index fingers  (Task 26.2)",
-            "Looking down at every punctuation mark  (Task 26.3)",
-            "Eliminating micro-pauses and hesitations between words to maintain continuous flow  (Task 26.4)"
+            "Smashing keys harder",
+            "Using only the index fingers",
+            "Looking down at every punctuation mark",
+            "Eliminating micro-pauses and hesitations between words to maintain continuous flow"
           ],
           "answerIndex": 3,
           "explanation": "Continuous fluid motion without hesitations yields massive WPM gains."
@@ -2731,7 +2731,7 @@
             "70% accuracy with frantic speed",
             "50% accuracy",
             "100% accuracy at 10 WPM only",
-            "98.0% to 99.5%+ accuracy (speed is a natural byproduct of error-free motor pathways)"
+            "98.0% to 99.5%+ accuracy"
           ],
           "answerIndex": 3,
           "explanation": "High accuracy (>98%) reinforces clean motor pathways without myelinating typos.",
@@ -2764,7 +2764,7 @@
         {
           "prompt": "What is the typing speed formula?",
           "options": [
-            "WPM = (Total characters typed / 5) / Time in minutes (standardized at 5 characters per word)",
+            "WPM = (Total characters typed / 5) / Time in minutes",
             "WPM = Total keystrokes / 10",
             "WPM = Accuracy percentage * 2",
             "WPM = Total words counted on screen / 2"
@@ -2805,10 +2805,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Pressing keys with the minimum force necessary for switch actuation rather than bottoming out violently, conserving muscular energy (27.1) ",
-            "Skipping the spacebar (27.2) ",
-            "Typing with actual bird feathers (27.3) ",
-            "Hovering hands 3 feet in the air (27.4) "
+            "Pressing keys with the minimum force necessary for switch actuation rather than bottoming out violently, conserving muscular energy",
+            "Skipping the spacebar",
+            "Typing with actual bird feathers",
+            "Hovering hands 3 feet in the air"
           ],
           "answerIndex": 0,
           "explanation": "Light keypress force conserves forearm energy and prevents fatigue over long intervals."
@@ -2831,10 +2831,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
           "options": [
-            "Stop typing for 2 seconds at each line break  (Task 27.1)",
-            "Hit Enter twice after every line  (Task 27.2)",
-            "Train your eyes to scan the opening of the next line while your hands complete the current line's final word  (Task 27.3)",
-            "Memorize the entire paragraph before starting  (Task 27.4)"
+            "Stop typing for 2 seconds at each line break",
+            "Hit Enter twice after every line",
+            "Train your eyes to scan the opening of the next line while your hands complete the current line's final word",
+            "Memorize the entire paragraph before starting"
           ],
           "answerIndex": 2,
           "explanation": "Predictive visual line-scanning maintains uninterrupted rhythm across line wraps."
@@ -2845,7 +2845,7 @@
             "Biceps brachii",
             "Quadriceps femoris",
             "Pectoralis major",
-            "Forearm extensor muscles (Extensor digitorum)"
+            "Forearm extensor muscles"
           ],
           "answerIndex": 3,
           "explanation": "Forearm extensor muscles control finger lift and lateral reaches."
@@ -2896,7 +2896,7 @@
             "Bent upward at 45 degrees",
             "Bent downward at 45 degrees",
             "Twisted outward laterally",
-            "Straight and neutral (flat plane with forearm, avoiding upward extension or downward flexion)"
+            "Straight and neutral"
           ],
           "answerIndex": 3,
           "explanation": "Neutral wrist alignment minimizes median nerve pressure and carpal strain.",
@@ -2934,10 +2934,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Typing to rock music only (28.1) ",
-            "Changing keyboard layouts mid-sentence (28.2) ",
-            "Typing with alternating hands only (28.3) ",
-            "Fluidly bursting on common automated words while shifting into controlled metronomic precision on complex polysyllabic terms (28.4) "
+            "Typing to rock music only",
+            "Changing keyboard layouts mid-sentence",
+            "Typing with alternating hands only",
+            "Fluidly bursting on common automated words while shifting into controlled metronomic precision on complex polysyllabic terms"
           ],
           "answerIndex": 3,
           "explanation": "Cadence modulation pairs automaticity on easy words with conscious control on complex ones."
@@ -2960,10 +2960,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
           "options": [
-            "As unified, fluid rolling finger sweeps (motor chunks) executed in a single impulse  (Task 28.1)",
-            "With one finger hunting each letter  (Task 28.2)",
-            "With a 1-second pause between each letter  (Task 28.3)",
-            "Using the right thumb only  (Task 28.4)"
+            "As unified, fluid rolling finger sweeps (motor chunks) executed in a single impulse",
+            "With one finger hunting each letter",
+            "With a 1-second pause between each letter",
+            "Using the right thumb only"
           ],
           "answerIndex": 0,
           "explanation": "High-frequency suffixes are chunked into single unified motor programs."
@@ -3063,10 +3063,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Shift + Space (29.1) ",
-            "Ctrl + Backspace (Cmd + Delete on macOS) (29.2) ",
-            "Tab + Enter (29.3) ",
-            "Alt + F4 (29.4) "
+            "Shift + Space",
+            "Ctrl + Backspace",
+            "Tab + Enter",
+            "Alt + F4"
           ],
           "answerIndex": 1,
           "explanation": "Ctrl+Backspace wipes the whole word in a single instantaneous keystroke."
@@ -3074,7 +3074,7 @@
         {
           "prompt": "When is it better to use Ctrl+Backspace rather than single Backspace taps?",
           "options": [
-            "When the typo occurred near the beginning or middle of a multisyllabic word (wiping the whole word is faster than 4+ backspace taps)",
+            "When the typo occurred near the beginning or middle of a multisyllabic word",
             "Only when the computer is frozen",
             "Never",
             "When typing single letters"
@@ -3089,10 +3089,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
           "options": [
-            "Maintaining slow nasal breathing, relaxing shoulder tension, and immediately shifting visual focus to the 2-word lookahead buffer  (Task 29.1)",
-            "Closing the browser  (Task 29.2)",
-            "Hitting the keyboard harder  (Task 29.3)",
-            "Stopping the test and starting over every time  (Task 29.4)"
+            "Maintaining slow nasal breathing, relaxing shoulder tension, and immediately shifting visual focus to the 2-word lookahead buffer",
+            "Closing the browser",
+            "Hitting the keyboard harder",
+            "Stopping the test and starting over every time"
           ],
           "answerIndex": 0,
           "explanation": "Maintaining physiological calm prevents the panic tension that causes error cascades."
@@ -3192,10 +3192,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Demonstrate sustained typing stamina, holding 60+ WPM with 98.5%+ accuracy across technical prose without fatigue breakdown (30.1) ",
-            "Type as fast as possible for 10 seconds and stop (30.2) ",
-            "Look at the keyboard to check finger placement (30.3) ",
-            "Type with caps lock on (30.4) "
+            "Demonstrate sustained typing stamina, holding 60+ WPM with 98.5%+ accuracy across technical prose without fatigue breakdown",
+            "Type as fast as possible for 10 seconds and stop",
+            "Look at the keyboard to check finger placement",
+            "Type with caps lock on"
           ],
           "answerIndex": 0,
           "explanation": "Sustained accuracy, rhythm, and fatigue resistance across a full 3-minute interval."
@@ -3218,10 +3218,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
           "options": [
-            "Hit backspace repeatedly  (Task 30.1)",
-            "Slightly decelerate by 5%, breathe deeply, focus on crisp letter precision, and re-establish clean rhythm  (Task 30.2)",
-            "Give up  (Task 30.3)",
-            "Sprint twice as fast  (Task 30.4)"
+            "Hit backspace repeatedly",
+            "Slightly decelerate by 5%, breathe deeply, focus on crisp letter precision, and re-establish clean rhythm",
+            "Give up",
+            "Sprint twice as fast"
           ],
           "answerIndex": 1,
           "explanation": "A small intentional downshift restores accuracy and prevents catastrophic error cascades."
@@ -3269,7 +3269,7 @@
           "prompt": "What is the final frontier awaiting you in Unit 8 of Touch Typing?",
           "options": [
             "Re-learning home row A S D F",
-            "Sprint Drills Toward 100+ WPM (high-velocity burst drills, word frequency optimization, and elite speed benchmarks)",
+            "Sprint Drills Toward 100+ WPM",
             "Learning stenography",
             "Typing on a smartphone"
           ],
@@ -3280,7 +3280,7 @@
         {
           "prompt": "Why is typing accuracy always prioritized over raw speed in motor skill acquisition?",
           "options": [
-            "Because clean motor pathways are myelinated through accurate repetition, whereas practicing mistakes hardwires errors into permanent muscle memory (deliberate practice)",
+            "Because clean motor pathways are myelinated through accurate repetition, whereas practicing mistakes hardwires errors into permanent muscle memory",
             "Because keyboards are fragile",
             "Because fast typing is illegal",
             "Because speed does not count on tests"
@@ -3321,10 +3321,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Pounding the keyboard with maximum physical force (31.1) ",
-            "Typing with only the index fingers (31.2) ",
-            "Looking down at the keyboard continuously (31.3) ",
-            "Actuating keys lightly at their trigger point without bottoming out heavily against the switch backplate (deliberate practice) (31.4) "
+            "Pounding the keyboard with maximum physical force",
+            "Typing with only the index fingers",
+            "Looking down at the keyboard continuously",
+            "Actuating keys lightly at their trigger point without bottoming out heavily against the switch backplate"
           ],
           "answerIndex": 3,
           "explanation": "Light switch actuation and immediate tension release eliminate finger drag and muscle fatigue."
@@ -3347,10 +3347,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "0 words (looking only at the exact letter being struck)  (Task 31.1)",
-            "10 paragraphs ahead  (Task 31.2)",
-            "Looking at the ceiling  (Task 31.3)",
-            "2 to 3 words ahead of your currently striking fingers (the visual lookahead buffer)  (Task 31.4)"
+            "0 words",
+            "10 paragraphs ahead",
+            "Looking at the ceiling",
+            "2 to 3 words ahead of your currently striking fingers"
           ],
           "answerIndex": 3,
           "explanation": "A 2-3 word visual lookahead buffer allows the motor cortex to pre-plan upcoming finger trajectories."
@@ -3450,10 +3450,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Left ring (S) -> Left index (T) -> Left index (R) (32.1) ",
-            "Thumb for S and index for T (32.2) ",
-            "Left index for all 3 letters (32.3) ",
-            "Right hand cross-over (32.4) "
+            "Left ring (S) -> Left index (T) -> Left index",
+            "Thumb for S and index for T",
+            "Left index for all 3 letters",
+            "Right hand cross-over"
           ],
           "answerIndex": 0,
           "explanation": "S (ring) -> T (index) -> R (index) is the optimal anatomical path."
@@ -3476,10 +3476,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "strenght througout script mach splash  (Task 32.1)",
-            "strenth throughout scrip match splsh  (Task 32.2)",
-            "strength throughout script match splash  (Task 32.3)",
-            "strength through out script match splash  (Task 32.4)"
+            "strenght througout script mach splash",
+            "strenth throughout scrip match splsh",
+            "strength throughout script match splash",
+            "strength through out script match splash"
           ],
           "answerIndex": 2,
           "explanation": "Accurate execution of complex N-gram vocabulary."
@@ -3490,7 +3490,7 @@
             "Stopping completely to spell it out loud",
             "Skipping the word",
             "Typing with one hand",
-            "Decomposing the word into familiar 2-to-3 letter N-gram syllables in the visual lookahead buffer (deliberate practice)"
+            "Decomposing the word into familiar 2-to-3 letter N-gram syllables in the visual lookahead buffer"
           ],
           "answerIndex": 3,
           "explanation": "Chunking long words into familiar N-gram motor sub-programs maintains velocity."
@@ -3529,7 +3529,7 @@
             "Because keyboards only read one hand at a time",
             "Because hands cannot work together",
             "To prevent noise",
-            "Because an uneven burst on one hand causes the opposite hand to mistime its strike, creating transposition errors (e.g. typing 'teh' instead of 'the')"
+            "Because an uneven burst on one hand causes the opposite hand to mistime its strike, creating transposition errors"
           ],
           "answerIndex": 3,
           "explanation": "Bilateral temporal synchronization prevents cross-hand transposition errors.",
@@ -3579,10 +3579,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2 keystrokes per second (33.1) ",
-            "20 keystrokes per second (33.2) ",
-            "50 keystrokes per second (33.3) ",
-            "8.33 keystrokes per second (500 characters per minute) (33.4) "
+            "2 keystrokes per second",
+            "20 keystrokes per second",
+            "50 keystrokes per second",
+            "8.33 keystrokes per second"
           ],
           "answerIndex": 3,
           "explanation": "100 WPM × 5 characters = 500 CPM / 60 seconds = 8.33 keys/sec."
@@ -3605,10 +3605,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "Constant practice builds enduring speed and effortless precision across every sentence we write.  (Task 33.1)",
-            "Constant practice biulds enduring speed and effortless precision across every sentence we write.  (Task 33.2)",
-            "Constant practice builds enduring sped and effortless precision accross every sentence we write.  (Task 33.3)",
-            "Constant practice builds enduring speed and efortless precision across every sentence we write.  (Task 33.4)"
+            "Constant practice builds enduring speed and effortless precision across every sentence we write.",
+            "Constant practice biulds enduring speed and effortless precision across every sentence we write.",
+            "Constant practice builds enduring sped and effortless precision accross every sentence we write.",
+            "Constant practice builds enduring speed and efortless precision across every sentence we write."
           ],
           "answerIndex": 0,
           "explanation": "Century sprint accuracy verification."
@@ -3616,7 +3616,7 @@
         {
           "prompt": "Why does attempting to 'rush' actually slow a typist down below 100 WPM?",
           "options": [
-            "Rushing causes premature muscular co-contraction, resulting in mistimed strikes, finger collision, and accuracy drops (deliberate practice)",
+            "Rushing causes premature muscular co-contraction, resulting in mistimed strikes, finger collision, and accuracy drops",
             "Keyboards have speed limiters",
             "The screen cannot update that fast",
             "Rushing is good for typing"
@@ -3708,10 +3708,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Use the thumb for Shift (34.1) ",
-            "Always hold Shift with the hand OPPOSITE to the finger striking the symbol key (34.2) ",
-            "Press both Shift keys simultaneously (34.3) ",
-            "Always use CapsLock for every symbol (34.4) "
+            "Use the thumb for Shift",
+            "Always hold Shift with the hand OPPOSITE to the finger striking the symbol key",
+            "Press both Shift keys simultaneously",
+            "Always use CapsLock for every symbol"
           ],
           "answerIndex": 1,
           "explanation": "Opposite-hand Shift prevents hand twisting and preserves neutral alignment."
@@ -3734,10 +3734,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "{\"id\": 1024, \"status\": \"ACTIVE\", \"rate\": 0.95}  (Task 34.1)",
-            "{\"id\": 1024; \"status\": \"ACTIVE\"; \"rate\": 0.95}  (Task 34.2)",
-            "{\"id\": 1024, \"status\": \"active\", \"rate\": 0.95}  (Task 34.3)",
-            "{id: 1024, status: ACTIVE, rate: 0.95}  (Task 34.4)"
+            "{\"id\": 1024, \"status\": \"ACTIVE\", \"rate\": 0.95}",
+            "{\"id\": 1024; \"status\": \"ACTIVE\"; \"rate\": 0.95}",
+            "{\"id\": 1024, \"status\": \"active\", \"rate\": 0.95}",
+            "{id: 1024, status: ACTIVE, rate: 0.95}"
           ],
           "answerIndex": 0,
           "explanation": "JSON data format with quotes, numbers, colons, and braces."
@@ -3785,7 +3785,7 @@
           "prompt": "What is the primary benefit of mastering 90+ WPM code typing for software engineers?",
           "options": [
             "Typing without a computer screen",
-            "Zero mental distraction during syntax entry, allowing 100% of executive cognitive bandwidth to remain focused on algorithmic logic and system architecture (deliberate practice)",
+            "Zero mental distraction during syntax entry, allowing 100% of executive cognitive bandwidth to remain focused on algorithmic logic and system architecture",
             "Writing 10,000 lines of bad code per hour",
             "Avoiding code reviews"
           ],
@@ -3837,10 +3837,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "At least 98.0% accuracy (no more than 1-2 errors per 500 keystrokes) (35.1) ",
-            "50% accuracy (35.2) ",
-            "75% accuracy (35.3) ",
-            "Accuracy did not matter (35.4) "
+            "At least 98.0% accuracy",
+            "50% accuracy",
+            "75% accuracy",
+            "Accuracy did not matter"
           ],
           "answerIndex": 0,
           "explanation": "Elite typing demands at least 98% accuracy at 100+ WPM."
@@ -3863,10 +3863,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "Buying a new mouse  (Task 35.1)",
-            "Rhythm Consistency & Error Recovery Under Fatigue (metronomic isochronous rhythm, instant Ctrl+Backspace recovery, 5-minute endurance, and competitive TypeRacer simulation)  (Task 35.2)",
-            "Giving up typing practice  (Task 35.3)",
-            "Learning where the spacebar is  (Task 35.4)"
+            "Buying a new mouse",
+            "Rhythm Consistency & Error Recovery Under Fatigue",
+            "Giving up typing practice",
+            "Learning where the spacebar is"
           ],
           "answerIndex": 1,
           "explanation": "Unit 9 focuses on endurance, isochronous rhythm, and competitive error recovery."
@@ -3875,7 +3875,7 @@
           "prompt": "How does maintaining 100+ WPM speed across 60 seconds change your daily productivity?",
           "options": [
             "It has zero effect on productivity",
-            "It cuts document drafting, email composition, and coding transcription time by 60-70%, saving hundreds of productive hours annually (deliberate practice)",
+            "It cuts document drafting, email composition, and coding transcription time by 60-70%, saving hundreds of productive hours annually",
             "It makes you type in foreign languages",
             "It makes computers run out of memory"
           ],
@@ -3966,10 +3966,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It makes the keyboard sound louder (36.1) ",
-            "It uses less electricity (36.2) ",
-            "It allows the computer to cool down (36.3) ",
-            "It eliminates erratic muscle deceleration, reduces mental fatigue, and prevents 80% of typos caused by sudden rhythmic jerks (deliberate practice) (36.4) "
+            "It makes the keyboard sound louder",
+            "It uses less electricity",
+            "It allows the computer to cool down",
+            "It eliminates erratic muscle deceleration, reduces mental fatigue, and prevents 80% of typos caused by sudden rhythmic jerks"
           ],
           "answerIndex": 3,
           "explanation": "Isochronous rhythm eliminates deceleration fatigue and prevents erratic timing typos."
@@ -3980,7 +3980,7 @@
             "With a 2-second pause after every word",
             "Struck as fast as possible in panic",
             "Struck twice every time",
-            "With the exact same temporal duration and rhythm as any letter key (not rushed and not delayed)"
+            "With the exact same temporal duration and rhythm as any letter key"
           ],
           "answerIndex": 3,
           "explanation": "The spacebar is an equal rhythmic participant in the isochronous keystroke chain."
@@ -3992,10 +3992,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "Rhythm and balence create unshakeable speed and precision.  (Task 36.1)",
-            "Rhythm and balance creat unshakeable speed and precision.  (Task 36.2)",
-            "Rythm and balance create unshakeable speed and precision.  (Task 36.3)",
-            "Rhythm and balance create unshakeable speed and precision.  (Task 36.4)"
+            "Rhythm and balence create unshakeable speed and precision.",
+            "Rhythm and balance creat unshakeable speed and precision.",
+            "Rythm and balance create unshakeable speed and precision.",
+            "Rhythm and balance create unshakeable speed and precision."
           ],
           "answerIndex": 3,
           "explanation": "Isochronous sentence drill."
@@ -4095,10 +4095,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Execute a single Ctrl+Backspace (or Option+Delete on Mac) to delete the whole word and re-type it cleanly in one fluid roll (deliberate practice) (37.1) ",
-            "Restart the entire test from the beginning (37.2) ",
-            "Tap the Backspace key 5 times individually (37.3) ",
-            "Use the mouse to highlight and delete the letter (37.4) "
+            "Execute a single Ctrl+Backspace (or Option+Delete on Mac) to delete the whole word and re-type it cleanly in one fluid roll",
+            "Restart the entire test from the beginning",
+            "Tap the Backspace key 5 times individually",
+            "Use the mouse to highlight and delete the letter"
           ],
           "answerIndex": 0,
           "explanation": "Ctrl+Backspace purges the corrupted word in a single 50ms stroke."
@@ -4106,7 +4106,7 @@
         {
           "prompt": "Which finger is designated for the Backspace key on standard keyboards?",
           "options": [
-            "Right Pinky (reaching up and right without moving the whole hand off the home row)",
+            "Right Pinky",
             "Right Index finger",
             "Left Pinky",
             "Right Thumb"
@@ -4121,10 +4121,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "Fast error recovry preserves momentum and guarantees high average velocity.  (Task 37.1)",
-            "Fast error recovery preserves momentum and guarantees high average velocity.  (Task 37.2)",
-            "Fast error recovery perserves momentum and guarantees high average velocity.  (Task 37.3)",
-            "Fast error recovery preserves momemtum and guarantees high average velocity.  (Task 37.4)"
+            "Fast error recovry preserves momentum and guarantees high average velocity.",
+            "Fast error recovery preserves momentum and guarantees high average velocity.",
+            "Fast error recovery perserves momentum and guarantees high average velocity.",
+            "Fast error recovery preserves momemtum and guarantees high average velocity."
           ],
           "answerIndex": 1,
           "explanation": "Error recovery drill."
@@ -4224,10 +4224,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Sprint at 150% speed in minute 1 until fingers cramp (38.1) ",
-            "Type as slowly as possible for 4 minutes (38.2) ",
-            "Stop every 30 seconds for a nap (38.3) ",
-            "Begin at a calm, controlled 95% speed with 99%+ accuracy, establishing a rock-solid isochronous rhythm that can be maintained effortlessly through minute 5 (38.4) "
+            "Sprint at 150% speed in minute 1 until fingers cramp",
+            "Type as slowly as possible for 4 minutes",
+            "Stop every 30 seconds for a nap",
+            "Begin at a calm, controlled 95% speed with 99%+ accuracy, establishing a rock-solid isochronous rhythm that can be maintained effortlessly through minute 5"
           ],
           "answerIndex": 3,
           "explanation": "Controlled 95% baseline pacing prevents early lactic acid burnout and ensures consistent endurance."
@@ -4250,10 +4250,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "Endurance is the triumphant marriage of biomechanical relaxation and sustained mental focus.  (Task 38.1)",
-            "Endurance is the triumphant marrage of biomechanical relaxation and sustained mental focus.  (Task 38.2)",
-            "Endurance is the triumphant marriage of biomechanicle relaxation and sustained mental focus.  (Task 38.3)",
-            "Endurance is the triumphant marriage of biomechanical relaxation and sustaned mental focus.  (Task 38.4)"
+            "Endurance is the triumphant marriage of biomechanical relaxation and sustained mental focus.",
+            "Endurance is the triumphant marrage of biomechanical relaxation and sustained mental focus.",
+            "Endurance is the triumphant marriage of biomechanicle relaxation and sustained mental focus.",
+            "Endurance is the triumphant marriage of biomechanical relaxation and sustaned mental focus."
           ],
           "answerIndex": 0,
           "explanation": "Endurance drill sentence."
@@ -4261,7 +4261,7 @@
         {
           "prompt": "How does 'dynamic micro-resting' work during continuous typing?",
           "options": [
-            "Muscles in inactive fingers release 100% of their tension during the split-second gaps when other fingers or the thumb are striking (deliberate practice)",
+            "Muscles in inactive fingers release 100% of their tension during the split-second gaps when other fingers or the thumb are striking",
             "Stopping typing for 10 minutes",
             "Sleeping with your hands on the keyboard",
             "Typing with one hand only"
@@ -4353,10 +4353,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Running out of words (39.1) ",
-            "Looking at the opponent's progress bar instead of maintaining visual lookahead on your own text stream, triggering adrenaline panic and rushed typos (deliberate practice) (39.2) ",
-            "Typing too accurately (39.3) ",
-            "The keyboard disconnecting (39.4) "
+            "Running out of words",
+            "Looking at the opponent's progress bar instead of maintaining visual lookahead on your own text stream, triggering adrenaline panic and rushed typos",
+            "Typing too accurately",
+            "The keyboard disconnecting"
           ],
           "answerIndex": 1,
           "explanation": "Distraction by opponent position breaks internal visual lookahead and triggers panic."
@@ -4379,10 +4379,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "Composure under pressure separates the amateur from the champion.  (Task 39.1)",
-            "Composure under pressure separates the amature from the champion.  (Task 39.2)",
-            "Composure under presure separates the amateur from the champion.  (Task 39.3)",
-            "Composure under pressure seperates the amateur from the champion.  (Task 39.4)"
+            "Composure under pressure separates the amateur from the champion.",
+            "Composure under pressure separates the amature from the champion.",
+            "Composure under presure separates the amateur from the champion.",
+            "Composure under pressure seperates the amateur from the champion."
           ],
           "answerIndex": 0,
           "explanation": "Exact competitive sentence verification."
@@ -4482,10 +4482,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "1. Neutral Floating Biomechanics; 2. 2-3 Word Visual Lookahead; 3. Isochronous Rhythm; 4. Instant Ctrl+Backspace Error Recovery; 5. 99%+ Accuracy Discipline (40.1) ",
-            "1. Pounding the keys with force only; 2. Memorizing keyboard pictures (40.2) ",
-            "1. Typing with 2 fingers only (40.3) ",
-            "1. Staring at the keyboard only (40.4) "
+            "1. Neutral Floating Biomechanics; 2. 2-3 Word Visual Lookahead; 3. Isochronous Rhythm; 4. Instant Ctrl+Backspace Error Recovery; 5. 99%+ Accuracy Discipline",
+            "1. Pounding the keys with force only; 2. Memorizing keyboard pictures",
+            "1. Typing with 2 fingers only",
+            "1. Staring at the keyboard only"
           ],
           "answerIndex": 0,
           "explanation": "The 5 pillars of master touch typing pedagogy."
@@ -4508,10 +4508,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "Typing without electricity  (Task 40.1)",
-            "Frictionless thought-to-text translation: Eliminating all physical bottlenecks between executive ideas and digital manifestation across code, writing, and communication (deliberate practice)  (Task 40.2)",
-            "Never needing to read  (Task 40.3)",
-            "Winning typing games only  (Task 40.4)"
+            "Typing without electricity",
+            "Frictionless thought-to-text translation: Eliminating all physical bottlenecks between executive ideas and digital manifestation across code, writing, and communication",
+            "Never needing to read",
+            "Winning typing games only"
           ],
           "answerIndex": 1,
           "explanation": "Frictionless thought-to-text translation eliminates cognitive bottlenecks in the digital era."
@@ -4535,7 +4535,7 @@
           "prompt": "What core competencies were mastered across the ENTIRE 45-Lesson FEARN Touch Typing Curriculum?",
           "options": [
             "Hunting and pecking with index fingers only",
-            "Home row (ASDF JKL;), top row (QWERTY UIOP), bottom row (ZXCVBNM), numbers (0-9) and symbol rows (!@#$%^&*()), high-frequency bigrams/trigrams/N-grams, punctuation & programming code syntax, sustained accuracy drills, 100+ WPM century sprint bursts, isochronous metronomic rhythm, instant Ctrl+Backspace error recovery, 5-minute endurance marathons, and competitive pressure composure",
+            "Home row (ASDF JKL;), top row (QWERTY UIOP), bottom row (ZXCVBNM), numbers (0-9) and symbol rows (!@#$%^&*), high-frequency bigrams/trigrams/N-grams, punctuation & programming code syntax, sustained accuracy drills, 100+ WPM century sprint bursts, isochronous metronomic rhythm, instant Ctrl+Backspace error recovery, 5-minute endurance marathons, and competitive pressure composure",
             "Typing on a smartphone touchscreen only",
             "Staring at hands while typing"
           ],
@@ -4616,10 +4616,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "ZZ (41.1) ",
-            "QU (41.2) ",
-            "XY (41.3) ",
-            "TH (found in 'the', 'that', 'this', 'with', 'other') (41.4) "
+            "ZZ",
+            "QU",
+            "XY",
+            "TH"
           ],
           "answerIndex": 3,
           "explanation": "TH accounts for over 3.5% of all bigram occurrences in English."
@@ -4630,7 +4630,7 @@
             "Pressing keys with your knuckles",
             "Looking down at the keyboard",
             "Typing with one hand only",
-            "Firing a rapid sequence of 2-3 keystrokes as a single unified muscle reflex without individual cognitive checks (deliberate practice)"
+            "Firing a rapid sequence of 2-3 keystrokes as a single unified muscle reflex without individual cognitive checks"
           ],
           "answerIndex": 3,
           "explanation": "Motor chunking bundles multi-key sequences into single motor programs."
@@ -4642,10 +4642,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 41:",
           "options": [
-            "Right Thumb and Left Pinky  (Task 41.1)",
-            "Right Index and Right Middle  (Task 41.2)",
-            "Left Pinky and Left Ring  (Task 41.3)",
-            "Left Middle Finger (E) followed immediately by Left Index Finger (R)  (Task 41.4)"
+            "Right Thumb and Left Pinky",
+            "Right Index and Right Middle",
+            "Left Pinky and Left Ring",
+            "Left Middle Finger (E) followed immediately by Left Index Finger"
           ],
           "answerIndex": 3,
           "explanation": "Left Middle on E -> Left Index on R."
@@ -4750,10 +4750,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "TIO (or ION) (42.1) ",
-            "AND (42.2) ",
-            "ING (42.3) ",
-            "THE (42.4) "
+            "TIO",
+            "AND",
+            "ING",
+            "THE"
           ],
           "answerIndex": 0,
           "explanation": "TIO / ION is the universal Latinate noun suffix trigram."
@@ -4761,7 +4761,7 @@
         {
           "prompt": "How should the suffix trigram 'ING' feel under your fingers?",
           "options": [
-            "A fluid, continuous inward ripple: Right Middle (I) -> Right Index (N) -> Left Index (G)",
+            "A fluid, continuous inward ripple: Right Middle (I) -> Right Index (N) -> Left Index",
             "Three separate pauses with wrists locked",
             "Looking down at the G key",
             "Hitting all 3 keys with the thumb"
@@ -4776,10 +4776,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 42:",
           "options": [
-            "Only QZ  (Task 42.1)",
-            "THE, ENT, TIO, ION, AND, ING  (Task 42.2)",
-            "Only numbers  (Task 42.3)",
-            "None  (Task 42.4)"
+            "Only QZ",
+            "THE, ENT, TIO, ION, AND, ING",
+            "Only numbers",
+            "None"
           ],
           "answerIndex": 1,
           "explanation": "Contains THE, ENT, TIO, ION, AND, ING."
@@ -4816,7 +4816,7 @@
           "options": [
             "Right Pinky Finger",
             "Left Thumb",
-            "Right Middle Finger (reaching up from K to I on the top row)",
+            "Right Middle Finger",
             "Left Index Finger"
           ],
           "answerIndex": 2,
@@ -4884,10 +4884,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "10% (43.1) ",
-            "90% (43.2) ",
-            "Roughly 50% of all words (43.3) ",
-            "5% (43.4) "
+            "10%",
+            "90%",
+            "Roughly 50% of all words",
+            "5%"
           ],
           "answerIndex": 2,
           "explanation": "Zipf's law dictates that the top 100 words make up ~50% of English text."
@@ -4898,7 +4898,7 @@
             "Your index finger",
             "Your pinky finger",
             "Both thumbs pressed together",
-            "Your dominant thumb (consistently using either right or left thumb without alternating)"
+            "Your dominant thumb"
           ],
           "answerIndex": 3,
           "explanation": "Consistently using your dominant thumb develops a reliable spacebar cadence."
@@ -4910,10 +4910,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 43:",
           "options": [
-            "Zero hesitation between words with completely consistent keystroke intervals  (Task 43.1)",
-            "Typing as fast as possible on the first word then stopping  (Task 43.2)",
-            "Using backspace 10 times  (Task 43.3)",
-            "Looking down at your thumbs  (Task 43.4)"
+            "Zero hesitation between words with completely consistent keystroke intervals",
+            "Typing as fast as possible on the first word then stopping",
+            "Using backspace 10 times",
+            "Looking down at your thumbs"
           ],
           "answerIndex": 0,
           "explanation": "Metronomic rhythm produces effortless speed."
@@ -4938,7 +4938,7 @@
           "options": [
             "A type of mechanical switch",
             "A glass screen protector",
-            "The cognitive visual process of reading 1 to 3 words ahead of the exact letter your fingers are currently typing (deliberate practice)",
+            "The cognitive visual process of reading 1 to 3 words ahead of the exact letter your fingers are currently typing",
             "A memory cache on your motherboard"
           ],
           "answerIndex": 2,
@@ -4949,7 +4949,7 @@
           "prompt": "Type the word 'PEOPLE' — which hand sequences are used?",
           "options": [
             "Thumbs only",
-            "Right Pinky (P) -> Left Middle (E) -> Right Ring (O) -> Right Pinky (P) -> Right Ring (L) -> Left Middle (E)",
+            "Right Pinky (P) -> Left Middle (E) -> Right Ring (O) -> Right Pinky (P) -> Right Ring (L) -> Left Middle",
             "All left hand",
             "All right hand"
           ],
@@ -4960,7 +4960,7 @@
         {
           "prompt": "Which word from the Top 100 is typed entirely on the Left Hand?",
           "options": [
-            "WATER (W, A, T, E, R are all left-hand keys!)",
+            "WATER",
             "WITH",
             "PEOPLE",
             "THEY"
@@ -4975,7 +4975,7 @@
             "WAS",
             "FROM",
             "THE",
-            "YOU (Y, O, U are all right-hand keys!)"
+            "YOU"
           ],
           "answerIndex": 3,
           "explanation": "YOU, IN, ON, NO, OIL, MOON are right-hand words.",
@@ -5018,10 +5018,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "A song lyric (44.1) ",
-            "A sentence that contains every single letter of the alphabet at least once (44.2) ",
-            "A word with 10 syllables (44.3) ",
-            "A sentence with only numbers (44.4) "
+            "A song lyric",
+            "A sentence that contains every single letter of the alphabet at least once",
+            "A word with 10 syllables",
+            "A sentence with only numbers"
           ],
           "answerIndex": 1,
           "explanation": "A pangram utilizes all 26 letters of the English alphabet."
@@ -5044,10 +5044,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 44:",
           "options": [
-            "A crisp, single spacebar tap after each word executed by the dominant thumb without breaking flow.  (Task 44.1)",
-            "Pausing 1 second between words  (Task 44.2)",
-            "Two spacebar taps between words  (Task 44.3)",
-            "Using the left pinky for space  (Task 44.4)"
+            "A crisp, single spacebar tap after each word executed by the dominant thumb without breaking flow.",
+            "Pausing 1 second between words",
+            "Two spacebar taps between words",
+            "Using the left pinky for space"
           ],
           "answerIndex": 0,
           "explanation": "Clean thumb spacebar timing preserves flow."
@@ -5071,7 +5071,7 @@
           "prompt": "Which shift key should you hold down to capitalize the letter 'P' (typed with Right Pinky)?",
           "options": [
             "Right Shift Key",
-            "Left Shift Key (held down by the Left Pinky)",
+            "Left Shift Key",
             "Spacebar",
             "Caps Lock Key"
           ],
@@ -5082,7 +5082,7 @@
         {
           "prompt": "Which sentence is another famous English pangram?",
           "options": [
-            "'Pack my box with five dozen liquor jugs.' (Contains all 26 letters!)",
+            "'Pack my box with five dozen liquor jugs.'",
             "'The cat sat on the mat.'",
             "'Good morning everyone.'",
             "'Hello world.'"
@@ -5152,10 +5152,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Exactly 5 keystrokes (characters + spaces) (45.1) ",
-            "Any word separated by a space regardless of length (45.2) ",
-            "10 letters (45.3) ",
-            "1 sentence (45.4) "
+            "Exactly 5 keystrokes",
+            "Any word separated by a space regardless of length",
+            "10 letters",
+            "1 sentence"
           ],
           "answerIndex": 0,
           "explanation": "Standard WPM = Total characters divided by 5."
@@ -5163,7 +5163,7 @@
         {
           "prompt": "If a typist types 250 characters in 1 minute with 100% accuracy, what is their WPM?",
           "options": [
-            "50 WPM (250 / 5 = 50)",
+            "50 WPM",
             "25 WPM",
             "100 WPM",
             "75 WPM"
@@ -5178,10 +5178,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 45:",
           "options": [
-            "Stop typing and restart your computer  (Task 45.1)",
-            "Slightly dial back your raw speed by 5%, restore your rhythm and accuracy, and let speed naturally ramp back up.  (Task 45.2)",
-            "Look down at your keyboard  (Task 45.3)",
-            "Panic and mash keys faster  (Task 45.4)"
+            "Stop typing and restart your computer",
+            "Slightly dial back your raw speed by 5%, restore your rhythm and accuracy, and let speed naturally ramp back up.",
+            "Look down at your keyboard",
+            "Panic and mash keys faster"
           ],
           "answerIndex": 1,
           "explanation": "A slight pacing reset instantly restores accuracy and rhythm."
@@ -5230,7 +5230,7 @@
           "options": [
             "40 WPM",
             "70 WPM",
-            "58.8 Net WPM (300 / 5 = 60 gross WPM x 0.98 = 58.8)",
+            "58.8 Net WPM",
             "30 WPM"
           ],
           "answerIndex": 2,
@@ -5241,7 +5241,7 @@
           "prompt": "What is the next frontier of touch typing in Unit 6?",
           "options": [
             "Typing with toes",
-            "Punctuation-Heavy & Code-Style Typing (semicolons, braces, brackets, symbols, quotation marks, and camelCase)",
+            "Punctuation-Heavy & Code-Style Typing",
             "Buying a new monitor",
             "Memorizing the Russian alphabet"
           ],

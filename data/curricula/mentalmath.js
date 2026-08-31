@@ -1226,10 +1226,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,050 (16.1) ",
-            "1,825 (16.2) ",
-            "2,525 (16.3) ",
-            "2,025 (4 x 5 = 20, append 25) (16.4) "
+            "2,050",
+            "1,825",
+            "2,525",
+            "2,025"
           ],
           "answerIndex": 3,
           "explanation": "4 x (4 + 1) = 4 x 5 = 20 -> append 25 = 2,025."
@@ -1239,7 +1239,7 @@
           "options": [
             "5,825",
             "4,925",
-            "5,625 (7 x 8 = 56, append 25)",
+            "5,625",
             "5,425"
           ],
           "answerIndex": 2,
@@ -1263,10 +1263,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
           "options": [
-            "7,425  (Task 16.1)",
-            "6,425  (Task 16.2)",
-            "8,125  (Task 16.3)",
-            "7,225 (8 x 9 = 72, append 25)  (Task 16.4)"
+            "7,425",
+            "6,425",
+            "8,125",
+            "7,225"
           ],
           "answerIndex": 3,
           "explanation": "8 x 9 = 72 -> append 25 = 7,225."
@@ -1276,7 +1276,7 @@
           "options": [
             "9,125",
             "8,525",
-            "9,025 (9 x 10 = 90, append 25)",
+            "9,025",
             "9,525"
           ],
           "answerIndex": 2,
@@ -1383,10 +1383,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "(50 x 46) + 2² = 2,300 + 4 = 2,304 (17.1) ",
-            "(40 x 56) + 8² = 2,240 + 64 = 2,304 (17.2) ",
-            "40² + 8² = 1,664 (17.3) ",
-            "(48 x 40) + 8 = 1,928 (17.4) "
+            "(50 x 46) + 2² = 2,300 + 4 = 2,304",
+            "(40 x 56) + 8² = 2,240 + 64 = 2,304",
+            "40² + 8² = 1,664",
+            "(48 x 40) + 8 = 1,928"
           ],
           "answerIndex": 0,
           "explanation": "Anchoring to 50 with d=2 gives (50 x 46) + 4 = 2,304."
@@ -1394,7 +1394,7 @@
         {
           "prompt": "What is 52² calculated mentally?",
           "options": [
-            "2,704 ((50 x 54) + 4 = 2,700 + 4)",
+            "2,704 ((50 x 54) + 4 = 2,700 + 4",
             "2,604",
             "2,804",
             "2,725"
@@ -1405,7 +1405,7 @@
         {
           "prompt": "What is 29²?",
           "options": [
-            "841 ((30 x 28) + 1² = 840 + 1)",
+            "841 ((30 x 28) + 1² = 840 + 1",
             "821",
             "901",
             "861"
@@ -1420,10 +1420,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
           "options": [
-            "1,541  (Task 17.1)",
-            "1,481  (Task 17.2)",
-            "1,601  (Task 17.3)",
-            "1,521 ((40 x 38) + 1 = 1,520 + 1)  (Task 17.4)"
+            "1,541",
+            "1,481",
+            "1,601",
+            "1,521 ((40 x 38) + 1 = 1,520 + 1"
           ],
           "answerIndex": 3,
           "explanation": "40 x 38 = 1,520; + 1 = 1,521."
@@ -1434,7 +1434,7 @@
             "5,021",
             "4,941",
             "5,141",
-            "5,041 ((70 x 72) + 1 = 5,040 + 1)"
+            "5,041 ((70 x 72) + 1 = 5,040 + 1"
           ],
           "answerIndex": 3,
           "explanation": "70 x 72 = 5,040; + 1 = 5,041."
@@ -1446,7 +1446,7 @@
         {
           "prompt": "What is 31²?",
           "options": [
-            "961 ((30 x 32) + 1 = 960 + 1)",
+            "961 ((30 x 32) + 1 = 960 + 1",
             "991",
             "941",
             "931"
@@ -1461,7 +1461,7 @@
             "2,451",
             "2,391",
             "2,501",
-            "2,401 ((50 x 48) + 1 = 2,400 + 1)"
+            "2,401 ((50 x 48) + 1 = 2,400 + 1"
           ],
           "answerIndex": 3,
           "explanation": "(50 x 48) + 1 = 2,400 + 1 = 2,401.",
@@ -1472,7 +1472,7 @@
           "options": [
             "3,744",
             "3,864",
-            "3,844 ((60 x 64) + 4 = 3,840 + 4)",
+            "3,844 ((60 x 64) + 4 = 3,840 + 4",
             "3,824"
           ],
           "answerIndex": 2,
@@ -1483,7 +1483,7 @@
           "prompt": "What is the primary benefit of the difference-of-squares squaring shortcut?",
           "options": [
             "It only works on odd numbers",
-            "It turns a 2-digit multiplication into a 1-digit multiplication by 10 plus a small square (deliberate practice)",
+            "It turns a 2-digit multiplication into a 1-digit multiplication by 10 plus a small square",
             "It eliminates all carrying entirely",
             "It gives an approximate answer within 10%"
           ],
@@ -1494,7 +1494,7 @@
         {
           "prompt": "What is 19²?",
           "options": [
-            "361 ((20 x 18) + 1 = 360 + 1)",
+            "361 ((20 x 18) + 1 = 360 + 1",
             "391",
             "381",
             "341"
@@ -1540,10 +1540,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "6 (18.1) ",
-            "12 (18.2) ",
-            "10 (18.3) ",
-            "8 (50% of 16 = 8) (18.4) "
+            "6",
+            "12",
+            "10",
+            "8"
           ],
           "answerIndex": 3,
           "explanation": "16% of 50 is identical to 50% of 16 = 8."
@@ -1554,7 +1554,7 @@
             "$10.00",
             "$15.00",
             "$14.00",
-            "$12.00 (10% is $8.00 + 5% is $4.00 = $12.00)"
+            "$12.00"
           ],
           "answerIndex": 3,
           "explanation": "10% of 80 = 8; 5% = 4; 8 + 4 = $12.00."
@@ -1565,7 +1565,7 @@
             "4",
             "5",
             "2",
-            "3 (75% of 4 = 3/4 of 4 = 3)"
+            "3"
           ],
           "answerIndex": 3,
           "explanation": "4% of 75 = 75% of 4 = 3."
@@ -1577,10 +1577,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
           "options": [
-            "$13.00 (10% is $6.50 -> 6.50 x 2 = $13.00)  (Task 18.1)",
-            "$12.00  (Task 18.2)",
-            "$15.00  (Task 18.3)",
-            "$14.50  (Task 18.4)"
+            "$13.00",
+            "$12.00",
+            "$15.00",
+            "$14.50"
           ],
           "answerIndex": 0,
           "explanation": "10% is 6.50; 6.50 x 2 = $13.00."
@@ -1588,7 +1588,7 @@
         {
           "prompt": "What is 12% of 25?",
           "options": [
-            "3 (25% of 12 = 1/4 of 12 = 3)",
+            "3",
             "4",
             "2.5",
             "3.5"
@@ -1606,7 +1606,7 @@
             "10",
             "7.5",
             "8",
-            "9 (50% of 18 = 9)"
+            "9"
           ],
           "answerIndex": 3,
           "explanation": "18% of 50 = 50% of 18 = 9.",
@@ -1617,7 +1617,7 @@
           "options": [
             "$100",
             "$98",
-            "$96 ($120 - $24)",
+            "$96",
             "$90"
           ],
           "answerIndex": 2,
@@ -1628,7 +1628,7 @@
           "prompt": "What is 35% of 40?",
           "options": [
             "12",
-            "14 (30% is 12 + 5% is 2 = 14)",
+            "14",
             "15",
             "16"
           ],
@@ -1654,7 +1654,7 @@
             "$7.20",
             "$6.00",
             "$5.80",
-            "$6.60 (4.40 + 2.20)"
+            "$6.60"
           ],
           "answerIndex": 3,
           "explanation": "10% of 44 = 4.40; 5% = 2.20; 4.40 + 2.20 = $6.60.",
@@ -1697,10 +1697,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "0.375 (19.1) ",
-            "0.325 (19.2) ",
-            "0.350 (19.3) ",
-            "0.333 (19.4) "
+            "0.375",
+            "0.325",
+            "0.350",
+            "0.333"
           ],
           "answerIndex": 0,
           "explanation": "1/8 = 0.125 -> 3/8 = 3 x 0.125 = 0.375."
@@ -1708,7 +1708,7 @@
         {
           "prompt": "What is the repeating decimal for 4/11?",
           "options": [
-            "0.363636... (4 x 9 = 36)",
+            "0.363636...",
             "0.411411...",
             "0.040404...",
             "0.444444..."
@@ -1734,18 +1734,18 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
           "options": [
-            "0.625  (Task 19.1)",
-            "0.555  (Task 19.2)",
-            "0.580  (Task 19.3)",
-            "0.650  (Task 19.4)"
+            "0.625",
+            "0.555",
+            "0.580",
+            "0.650"
           ],
           "answerIndex": 0,
-          "explanation": "1/2 (0.500) + 1/8 (0.125) = 0.625."
+          "explanation": "1/2 + 1/8 = 0.625."
         },
         {
           "prompt": "What is 7/11 in decimal form?",
           "options": [
-            "0.636363... (7 x 9 = 63)",
+            "0.636363...",
             "0.777777...",
             "0.696969...",
             "0.707070..."
@@ -1778,7 +1778,7 @@
             "0.7500"
           ],
           "answerIndex": 1,
-          "explanation": "1 - 1/6 (0.1666) = 0.8333...",
+          "explanation": "1 - 1/6 = 0.8333...",
           "type": "multiple-choice"
         },
         {
@@ -1810,7 +1810,7 @@
           "options": [
             "0.666666...",
             "0.611611...",
-            "0.545454... (6 x 9 = 54)",
+            "0.545454...",
             "0.595959..."
           ],
           "answerIndex": 2,
@@ -1856,10 +1856,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "9,025 (9 x 10 = 90 append 25) (20.1) ",
-            "9,525 (20.2) ",
-            "8,525 (20.3) ",
-            "9,050 (20.4) "
+            "9,025",
+            "9,525",
+            "8,525",
+            "9,050"
           ],
           "answerIndex": 0,
           "explanation": "9 x 10 = 90 -> 9,025."
@@ -1867,7 +1867,7 @@
         {
           "prompt": "Rapid Solve: 32% of 50",
           "options": [
-            "16 (50% of 32 = 16)",
+            "16",
             "15",
             "18",
             "16.5"
@@ -1878,7 +1878,7 @@
         {
           "prompt": "Rapid Solve: 39²",
           "options": [
-            "1,521 ((40 x 38) + 1 = 1,520 + 1)",
+            "1,521 ((40 x 38) + 1 = 1,520 + 1",
             "1,541",
             "1,481",
             "1,561"
@@ -1893,10 +1893,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
           "options": [
-            "0.818181...  (Task 20.1)",
-            "0.727272... (8 x 9 = 72)  (Task 20.2)",
-            "0.797979...  (Task 20.3)",
-            "0.888888...  (Task 20.4)"
+            "0.818181...",
+            "0.727272...",
+            "0.797979...",
+            "0.888888..."
           ],
           "answerIndex": 1,
           "explanation": "8 x 9 = 72 -> 0.727272..."
@@ -1904,7 +1904,7 @@
         {
           "prompt": "Rapid Solve: 55²",
           "options": [
-            "3,025 (5 x 6 = 30 append 25)",
+            "3,025",
             "3,525",
             "3,225",
             "2,525"
@@ -1931,7 +1931,7 @@
         {
           "prompt": "Solve: 4% of 75",
           "options": [
-            "3 (75% of 4 = 3)",
+            "3",
             "2",
             "5",
             "4"
@@ -1946,7 +1946,7 @@
             "2,344",
             "2,284",
             "2,404",
-            "2,304 ((50 x 46) + 4)"
+            "2,304 ((50 x 46) + 4"
           ],
           "answerIndex": 3,
           "explanation": "(50 x 46) + 4 = 2,300 + 4 = 2,304.",
@@ -1968,7 +1968,7 @@
           "prompt": "What is the key meta-skill developed in Unit 4 of FEARN Mental Math?",
           "options": [
             "Rote memorization of a 10,000-page table",
-            "Rapid pattern categorization and algebraic transformation to bypass column arithmetic (deliberate practice)",
+            "Rapid pattern categorization and algebraic transformation to bypass column arithmetic",
             "Counting on fingers",
             "Using a solar calculator"
           ],
@@ -2014,10 +2014,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "x = 6 (21.1) ",
-            "x = 8 (21.2) ",
-            "x = 9 (21.3) ",
-            "x = 7 (68 - 19 = 49 -> 49 / 7 = 7) (21.4) "
+            "x = 6",
+            "x = 8",
+            "x = 9",
+            "x = 7"
           ],
           "answerIndex": 3,
           "explanation": "68 - 19 = 49; 49 / 7 = 7."
@@ -2027,7 +2027,7 @@
           "options": [
             "x = 11",
             "x = 10",
-            "x = 9 (56 / 4 = 14 -> 14 - 5 = 9)",
+            "x = 9",
             "x = 8"
           ],
           "answerIndex": 2,
@@ -2040,10 +2040,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
           "options": [
-            "x = 9  (Task 21.1)",
-            "x = 8  (Task 21.2)",
-            "x = 12  (Task 21.3)",
-            "x = 10 (5x = 50 -> x = 10)  (Task 21.4)"
+            "x = 9",
+            "x = 8",
+            "x = 12",
+            "x = 10"
           ],
           "answerIndex": 3,
           "explanation": "8x - 3x = 5x; 35 + 15 = 50 -> x = 10."
@@ -2054,7 +2054,7 @@
             "x = 20",
             "x = 28",
             "x = 16",
-            "x = 24 (18 / 3 = 6 -> 6 * 4 = 24)"
+            "x = 24"
           ],
           "answerIndex": 3,
           "explanation": "18 * 4 = 72; 72 / 3 = 24 (or 18 / 3 = 6; 6 * 4 = 24)."
@@ -2066,7 +2066,7 @@
         {
           "prompt": "Solve mentally: 9x + 28 = 100",
           "options": [
-            "x = 8 (100 - 28 = 72 -> 72 / 9 = 8)",
+            "x = 8",
             "x = 9",
             "x = 6",
             "x = 7"
@@ -2081,7 +2081,7 @@
             "x = 15",
             "x = 14",
             "x = 17",
-            "x = 16 (54 / 6 = 9 -> 9 + 7 = 16)"
+            "x = 16"
           ],
           "answerIndex": 3,
           "explanation": "54 / 6 = 9; 9 + 7 = 16.",
@@ -2092,7 +2092,7 @@
           "options": [
             "x = 6",
             "x = 9",
-            "x = 8 (6x = 48 -> x = 8)",
+            "x = 8",
             "x = 7"
           ],
           "answerIndex": 2,
@@ -2149,10 +2149,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,496 (50² - 2² = 2500 - 4 = 2496) (22.1) ",
-            "2,494 (22.2) ",
-            "2,486 (22.3) ",
-            "2,504 (22.4) "
+            "2,496",
+            "2,494",
+            "2,486",
+            "2,504"
           ],
           "answerIndex": 0,
           "explanation": "50² - 2² = 2500 - 4 = 2496."
@@ -2175,10 +2175,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
           "options": [
-            "4,881  (Task 22.1)",
-            "4,909  (Task 22.2)",
-            "4,891 (70² - 3² = 4900 - 9 = 4891)  (Task 22.3)",
-            "4,899  (Task 22.4)"
+            "4,881",
+            "4,909",
+            "4,891",
+            "4,899"
           ],
           "answerIndex": 2,
           "explanation": "70² - 3² = 4900 - 9 = 4891."
@@ -2189,7 +2189,7 @@
             "9,974",
             "9,954",
             "9,966",
-            "9,964 (100² - 6² = 10,000 - 36 = 9964)"
+            "9,964"
           ],
           "answerIndex": 3,
           "explanation": "100² - 6² = 10,000 - 36 = 9964."
@@ -2204,7 +2204,7 @@
             "8,104",
             "8,086",
             "8,094",
-            "8,096 (90² - 2² = 8100 - 4 = 8096)"
+            "8,096"
           ],
           "answerIndex": 3,
           "explanation": "90² - 2² = 8100 - 4 = 8096.",
@@ -2215,7 +2215,7 @@
           "options": [
             "1,565",
             "1,555",
-            "1,575 (40² - 5² = 1600 - 25 = 1575)",
+            "1,575",
             "1,585"
           ],
           "answerIndex": 2,
@@ -2226,7 +2226,7 @@
           "prompt": "Calculate 19 x 21 mentally:",
           "options": [
             "401",
-            "399 (20² - 1² = 400 - 1 = 399)",
+            "399",
             "391",
             "389"
           ],
@@ -2237,7 +2237,7 @@
         {
           "prompt": "Under what condition is the Difference of Squares technique most effective?",
           "options": [
-            "When the two numbers are equidistant from a round number whose square is known instantly (like 20, 30, 40, 50, 100)",
+            "When the two numbers are equidistant from a round number whose square is known instantly",
             "When both numbers end in 0",
             "Only for negative numbers",
             "When both numbers are prime only"
@@ -2284,10 +2284,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "$6.80 (23.1) ",
-            "$7.60 (23.2) ",
-            "$8.00 (23.3) ",
-            "$7.20 (10% = 4.80; 5% = 2.40 -> 4.80 + 2.40 = $7.20) (23.4) "
+            "$6.80",
+            "$7.60",
+            "$8.00",
+            "$7.20"
           ],
           "answerIndex": 3,
           "explanation": "4.80 + 2.40 = $7.20."
@@ -2298,7 +2298,7 @@
             "8 years",
             "10 years",
             "12 years",
-            "9 years (72 / 8 = 9)"
+            "9 years"
           ],
           "answerIndex": 3,
           "explanation": "72 / 8 = 9 years."
@@ -2310,10 +2310,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
           "options": [
-            "$9.00 (20% = 10.00; 2% = 1.00 -> 10.00 - 1.00 = $9.00)  (Task 23.1)",
-            "$8.50  (Task 23.2)",
-            "$9.50  (Task 23.3)",
-            "$10.00  (Task 23.4)"
+            "$9.00",
+            "$8.50",
+            "$9.50",
+            "$10.00"
           ],
           "answerIndex": 0,
           "explanation": "10.00 - 1.00 = $9.00."
@@ -2321,7 +2321,7 @@
         {
           "prompt": "Calculate 8% sales tax on a $75.00 purchase:",
           "options": [
-            "$6.00 (10% = 7.50; 2% = 1.50 -> 7.50 - 1.50 = $6.00)",
+            "$6.00",
             "$5.50",
             "$6.50",
             "$7.00"
@@ -2338,7 +2338,7 @@
           "options": [
             "$26.00",
             "$25.00",
-            "$27.00 (10% = 13.50 -> 13.50 x 2 = $27.00)",
+            "$27.00",
             "$28.00"
           ],
           "answerIndex": 2,
@@ -2349,7 +2349,7 @@
           "prompt": "If inflation is 4% annually, in how many years will the price of goods double (Rule of 72)?",
           "options": [
             "25 years",
-            "18 years (72 / 4 = 18)",
+            "18 years",
             "15 years",
             "20 years"
           ],
@@ -2360,7 +2360,7 @@
         {
           "prompt": "Calculate 15% of $120.00:",
           "options": [
-            "$18.00 (10% = 12.00; 5% = 6.00 -> 12 + 6 = 18)",
+            "$18.00",
             "$16.00",
             "$15.00",
             "$20.00"
@@ -2375,7 +2375,7 @@
             "25% + 15%",
             "50% - 10%",
             "100% / 3",
-            "30% (3 x 10%) + 5% (half of 10%)"
+            "30% (3 x 10%) + 5%"
           ],
           "answerIndex": 3,
           "explanation": "3 x 10% + 5% = 35%.",
@@ -2419,10 +2419,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "~2,000,000 (4 * 10³ * 5 * 10² = 20 * 10⁵ = 2 * 10⁶) (24.1) ",
-            "~20,000,000 (24.2) ",
-            "~20,000 (24.3) ",
-            "~200,000 (24.4) "
+            "~2,000,000",
+            "~20,000,000",
+            "~20,000",
+            "~200,000"
           ],
           "answerIndex": 0,
           "explanation": "4,000 * 500 = 2,000,000 (Exact: 1,999,200)."
@@ -2430,7 +2430,7 @@
         {
           "prompt": "What is the useful mental math approximation for the number of seconds in one year?",
           "options": [
-            "π x 10⁷ seconds (~31.5 million seconds)",
+            "π x 10⁷ seconds",
             "100 million seconds",
             "10 billion seconds",
             "1 million seconds"
@@ -2445,10 +2445,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
           "options": [
-            "~20,000 (800,000 / 40 = 20,000)  (Task 24.1)",
-            "~2,000,000  (Task 24.2)",
-            "~2,000  (Task 24.3)",
-            "~200,000  (Task 24.4)"
+            "~20,000",
+            "~2,000,000",
+            "~2,000",
+            "~200,000"
           ],
           "answerIndex": 0,
           "explanation": "800,000 / 40 = 20,000."
@@ -2456,7 +2456,7 @@
         {
           "prompt": "Estimate: 0.0042 x 2,100,000:",
           "options": [
-            "~8,400 (4 * 10⁻³ * 2.1 * 10⁶ = 8.4 * 10³ = 8,400)",
+            "~8,400",
             "~840",
             "~84",
             "~84,000"
@@ -2472,7 +2472,7 @@
           "prompt": "Estimate the order of magnitude for 59,000 x 480 / 12:",
           "options": [
             "~240,000",
-            "~2,400,000 (60,000 * 500 / 12 = 30,000,000 / 12 = 2.5 * 10⁶)",
+            "~2,400,000",
             "~24,000,000",
             "~24,000"
           ],
@@ -2483,7 +2483,7 @@
         {
           "prompt": "If a car travels 60 miles per hour, approximately how many feet per second is it moving? (1 mile ≈ 5,280 ft):",
           "options": [
-            "~88 ft/sec (60 * 5280 / 3600 = 88 ft/sec — Rule of thumb: MPH x 1.47)",
+            "~88 ft/sec",
             "~50 ft/sec",
             "~120 ft/sec",
             "~20 ft/sec"
@@ -2509,7 +2509,7 @@
           "options": [
             "89,925",
             "90,025",
-            "89,975 (300² - 5² = 90,000 - 25 = 89,975)",
+            "89,975",
             "90,000"
           ],
           "answerIndex": 2,
@@ -2554,10 +2554,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "x = 11 (92 - 37 = 55 -> 55 / 5 = 11) (25.1) ",
-            "x = 10 (25.2) ",
-            "x = 12 (25.3) ",
-            "x = 9 (25.4) "
+            "x = 11",
+            "x = 10",
+            "x = 12",
+            "x = 9"
           ],
           "answerIndex": 0,
           "explanation": "92 - 37 = 55; 55 / 5 = 11."
@@ -2565,7 +2565,7 @@
         {
           "prompt": "Calculate 46 x 54 mentally:",
           "options": [
-            "2,484 (50² - 4² = 2500 - 16 = 2484)",
+            "2,484",
             "2,474",
             "2,494",
             "2,464"
@@ -2580,10 +2580,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
           "options": [
-            "$13.20  (Task 25.1)",
-            "$12.90 (8.60 + 4.30 = $12.90)  (Task 25.2)",
-            "$11.90  (Task 25.3)",
-            "$12.60  (Task 25.4)"
+            "$13.20",
+            "$12.90",
+            "$11.90",
+            "$12.60"
           ],
           "answerIndex": 1,
           "explanation": "8.60 + 4.30 = $12.90."
@@ -2591,7 +2591,7 @@
         {
           "prompt": "How many years to double money at 12% annual interest (Rule of 72)?",
           "options": [
-            "6 years (72 / 12 = 6)",
+            "6 years",
             "7 years",
             "8 years",
             "5 years"
@@ -2606,7 +2606,7 @@
         {
           "prompt": "Solve mentally: 12x - 19 = 5x + 37",
           "options": [
-            "x = 8 (7x = 56 -> x = 8)",
+            "x = 8",
             "x = 7",
             "x = 9",
             "x = 6"
@@ -2621,7 +2621,7 @@
             "6,374",
             "6,394",
             "6,364",
-            "6,384 (80² - 4² = 6400 - 16 = 6384)"
+            "6,384"
           ],
           "answerIndex": 3,
           "explanation": "80² - 4² = 6400 - 16 = 6384.",
@@ -2643,7 +2643,7 @@
           "prompt": "What is the next frontier of Mental Math in Unit 7?",
           "options": [
             "Buying an electric calculator",
-            "Combined-Operation Speed Drills (rapid mixed chains of addition, subtraction, multiplication, and squares under extreme time pressure)",
+            "Combined-Operation Speed Drills",
             "Memorizing Roman numerals",
             "Drawing geometry circles"
           ],
@@ -2683,10 +2683,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "620 (26.1) ",
-            "640 (26.2) ",
-            "650 (26.3) ",
-            "630 (540 + 285 = 825; 825 - 195 = 825 - 200 + 5 = 630) (26.4) "
+            "620",
+            "640",
+            "650",
+            "630"
           ],
           "answerIndex": 3,
           "explanation": "540 + 285 = 825; 825 - 195 = 630."
@@ -2709,10 +2709,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
           "options": [
-            "490  (Task 26.1)",
-            "510  (Task 26.2)",
-            "520  (Task 26.3)",
-            "500 (Notice compatible numbers: 275 + 325 = 600; 148 - 248 = -100 -> 600 - 100 = 500)  (Task 26.4)"
+            "490",
+            "510",
+            "520",
+            "500"
           ],
           "answerIndex": 3,
           "explanation": "Compatible pairing: (275 + 325) + (148 - 248) = 600 - 100 = 500."
@@ -2723,7 +2723,7 @@
             "390",
             "410",
             "420",
-            "400 (650 + 150 = 800; 800 - 400 = 400)"
+            "400"
           ],
           "answerIndex": 3,
           "explanation": "-175 + 325 = +150; 650 + 150 - 400 = 400."
@@ -2738,7 +2738,7 @@
             "640",
             "660",
             "630",
-            "650 (412 + 388 = 800; 800 - 295 = 505; 505 + 145 = 650)"
+            "650"
           ],
           "answerIndex": 3,
           "explanation": "800 - 295 + 145 = 800 - 150 = 650.",
@@ -2760,7 +2760,7 @@
           "prompt": "Calculate: 950 - 380 - 170 + 400",
           "options": [
             "790",
-            "800 (950 - 550 = 400; 400 + 400 = 800)",
+            "800",
             "820",
             "810"
           ],
@@ -2812,10 +2812,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "600 (28 × 15 = 280 + 140 = 420; 420 + 180 = 600) (27.1) ",
-            "620 (27.2) ",
-            "590 (27.3) ",
-            "610 (27.4) "
+            "600",
+            "620",
+            "590",
+            "610"
           ],
           "answerIndex": 0,
           "explanation": "28 × 15 = 420; 420 + 180 = 600."
@@ -2823,7 +2823,7 @@
         {
           "prompt": "Calculate: 44 × 25 - 350",
           "options": [
-            "750 (44 / 4 = 11 -> 1100; 1100 - 350 = 750)",
+            "750",
             "740",
             "770",
             "760"
@@ -2838,10 +2838,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
           "options": [
-            "730  (Task 27.1)",
-            "750  (Task 27.2)",
-            "740 (570 + 170 = 740)  (Task 27.3)",
-            "760  (Task 27.4)"
+            "730",
+            "750",
+            "740",
+            "760"
           ],
           "answerIndex": 2,
           "explanation": "19 × 30 = 570; 17 × 10 = 170; 570 + 170 = 740."
@@ -2852,7 +2852,7 @@
             "190",
             "210",
             "220",
-            "200 (65 × 6 = 390; 390 - 190 = 200)"
+            "200"
           ],
           "answerIndex": 3,
           "explanation": "65 × 6 = 390; 390 - 190 = 200."
@@ -2866,7 +2866,7 @@
           "options": [
             "610",
             "620",
-            "600 (52 × 8 = 416; 416 + 184 = 600)",
+            "600",
             "590"
           ],
           "answerIndex": 2,
@@ -2877,7 +2877,7 @@
           "prompt": "Calculate: 99 × 7 + 107",
           "options": [
             "810",
-            "800 ((100 - 1) × 7 = 693; 693 + 107 = 800)",
+            "800 ((100 - 1) × 7 = 693; 693 + 107 = 800",
             "820",
             "790"
           ],
@@ -2941,10 +2941,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "8 (28.1) ",
-            "10 (28.2) ",
-            "11 (28.3) ",
-            "9 (50% of 18 = 18 / 2 = 9) (28.4) "
+            "8",
+            "10",
+            "11",
+            "9"
           ],
           "answerIndex": 3,
           "explanation": "18% of 50 = 50% of 18 = 9."
@@ -2955,7 +2955,7 @@
             "230",
             "250",
             "260",
-            "240 (37.5% = 3/8; 640 / 8 = 80; 80 × 3 = 240)"
+            "240"
           ],
           "answerIndex": 3,
           "explanation": "3/8 of 640 = 240."
@@ -2967,10 +2967,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
           "options": [
-            "107 (15% of 180 = 18 + 9 = 27; 25% of 320 = 80; 27 + 80 = 107)  (Task 28.1)",
-            "105  (Task 28.2)",
-            "109  (Task 28.3)",
-            "111  (Task 28.4)"
+            "107",
+            "105",
+            "109",
+            "111"
           ],
           "answerIndex": 0,
           "explanation": "27 + 80 = 107."
@@ -2978,7 +2978,7 @@
         {
           "prompt": "Compute: 84% of 25",
           "options": [
-            "21 (25% of 84 = 84 / 4 = 21)",
+            "21",
             "20",
             "22",
             "23"
@@ -2994,7 +2994,7 @@
           "prompt": "Calculate: 65% of 300 - 12.5% of 160",
           "options": [
             "185",
-            "175 (65% of 300 = 195; 12.5% of 160 = 20; 195 - 20 = 175)",
+            "175",
             "170",
             "180"
           ],
@@ -3020,7 +3020,7 @@
             "75",
             "80",
             "65",
-            "70 (16.67% = 1/6; 420 / 6 = 70)"
+            "70"
           ],
           "answerIndex": 3,
           "explanation": "1/6 of 420 = 70.",
@@ -3070,10 +3070,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "0 (29.1) ",
-            "1 (Cast 9, cast 8+1; remaining 6+4 = 10 -> 1+0 = 1) (29.2) ",
-            "4 (29.3) ",
-            "2 (29.4) "
+            "0",
+            "1",
+            "4",
+            "2"
           ],
           "answerIndex": 1,
           "explanation": "Casting out 9 and (8+1) leaves 6+4=10 -> 1."
@@ -3081,7 +3081,7 @@
         {
           "prompt": "Using the alternating sum test (mod 11), which number is divisible by 11?",
           "options": [
-            "5,841 (1 - 4 + 8 - 5 = 0)",
+            "5,841",
             "5,840",
             "5,845",
             "5,842"
@@ -3096,10 +3096,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
           "options": [
-            "Yes (47 - 12 = 35; 35 / 7 = 5 -> 476 is divisible by 7)  (Task 29.1)",
-            "It is prime  (Task 29.2)",
-            "No  (Task 29.3)",
-            "Only on Tuesdays  (Task 29.4)"
+            "Yes",
+            "It is prime",
+            "No",
+            "Only on Tuesdays"
           ],
           "answerIndex": 0,
           "explanation": "47 - 2(6) = 47 - 12 = 35 (divisible by 7; 476 / 7 = 68)."
@@ -3107,7 +3107,7 @@
         {
           "prompt": "Verify if 34 × 28 = 952 using digital roots:",
           "options": [
-            "Valid (Root of 34 = 7; root of 28 = 1; 7 × 1 = 7; root of 952 = 9+5+2 = 7 -> Matches!)",
+            "Valid",
             "Cannot be verified",
             "Invalid",
             "Result should be negative"
@@ -3137,7 +3137,7 @@
             "9",
             "5",
             "7",
-            "3 (Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3)"
+            "3 (Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3"
           ],
           "answerIndex": 3,
           "explanation": "Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3.",
@@ -3159,7 +3159,7 @@
           "prompt": "Is 7,953 divisible by 9?",
           "options": [
             "Yes, perfectly",
-            "Yes (7 + 9 + 5 + 3 = 24 -> 6 -> No, it is not divisible by 9; remainder is 6)",
+            "Yes",
             "It is divisible by 99",
             "It is prime"
           ],
@@ -3199,10 +3199,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "5,000 ((75 + 25)(75 - 25) = 100 × 50 = 5,000) (30.1) ",
-            "4,800 (30.2) ",
-            "5,200 (30.3) ",
-            "5,500 (30.4) "
+            "5,000 ((75 + 25)(75 - 25) = 100 × 50 = 5,000",
+            "4,800",
+            "5,200",
+            "5,500"
           ],
           "answerIndex": 0,
           "explanation": "(75+25)(75-25) = 100 × 50 = 5000."
@@ -3210,7 +3210,7 @@
         {
           "prompt": "Solve in under 3 seconds: 35 × 11 + 115",
           "options": [
-            "500 (385 + 115 = 500)",
+            "500",
             "490",
             "510",
             "520"
@@ -3225,10 +3225,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
           "options": [
-            "284  (Task 30.1)",
-            "282 (50% of 24 = 12; 18 × 15 = 270; 12 + 270 = 282)  (Task 30.2)",
-            "286  (Task 30.3)",
-            "280  (Task 30.4)"
+            "284",
+            "282",
+            "286",
+            "280"
           ],
           "answerIndex": 1,
           "explanation": "12 + 270 = 282."
@@ -3237,7 +3237,7 @@
           "prompt": "Solve mentally: 450 + 380 - 130 + 300",
           "options": [
             "1,010",
-            "1,000 (450 + 250 + 300 = 1,000)",
+            "1,000",
             "1,020",
             "990"
           ],
@@ -3254,7 +3254,7 @@
             "490",
             "520",
             "510",
-            "500 (45 × 12 = 540; 35% of 200 = 70; 540 + 70 = 610; 610 - 110 = 500)"
+            "500"
           ],
           "answerIndex": 3,
           "explanation": "540 + 70 - 110 = 500.",
@@ -3287,7 +3287,7 @@
         {
           "prompt": "Solve: 88 × 25 - 200",
           "options": [
-            "2,000 (88 / 4 = 22 -> 2200; 2200 - 200 = 2,000)",
+            "2,000",
             "2,100",
             "2,200",
             "1,900"
@@ -3328,10 +3328,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,226 (31.1) ",
-            "2,246 (31.2) ",
-            "2,216 (31.3) ",
-            "2,236 (3×2=6; [4×2]+[3×5]=8+15=23 [3, carry 2]; [4×5]+2=22 -> 2,236) (31.4) "
+            "2,226",
+            "2,246",
+            "2,216",
+            "2,236"
           ],
           "answerIndex": 3,
           "explanation": "Units: 6; Cross: 23 (3, carry 2); Tens: 20+2=22 -> 2,236."
@@ -3341,7 +3341,7 @@
           "options": [
             "35",
             "25",
-            "31 ([7 × 4] + [1 × 3] = 28 + 3 = 31)",
+            "31",
             "28"
           ],
           "answerIndex": 2,
@@ -3354,10 +3354,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "1,958  (Task 31.1)",
-            "1,978  (Task 31.2)",
-            "1,948  (Task 31.3)",
-            "1,968 (2×4=8; [8×4]+[2×2]=32+4=36 [6, carry 3]; [8×2]+3=19 -> 1,968)  (Task 31.4)"
+            "1,958",
+            "1,978",
+            "1,948",
+            "1,968"
           ],
           "answerIndex": 3,
           "explanation": "2×4=8; 32+4=36 (carry 3); 16+3=19 -> 1,968."
@@ -3368,7 +3368,7 @@
             "3,203",
             "3,223",
             "3,193",
-            "3,213 (1×3=3; [5×3]+[1×6]=15+6=21 [1, carry 2]; [5×6]+2=32 -> 3,213)"
+            "3,213"
           ],
           "answerIndex": 3,
           "explanation": "1×3=3; 15+6=21 (carry 2); 30+2=32 -> 3,213."
@@ -3393,7 +3393,7 @@
           "prompt": "Calculate: 93 × 21",
           "options": [
             "1,943",
-            "1,953 (3×1=3; [9×1]+[3×2]=9+6=15 [5, carry 1]; [9×2]+1=19 -> 1,953)",
+            "1,953",
             "1,933",
             "1,963"
           ],
@@ -3404,7 +3404,7 @@
         {
           "prompt": "Why is the Vedic criss-cross method cognitively superior to standard grade-school long multiplication?",
           "options": [
-            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory (deliberate practice)",
+            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory",
             "It only works on prime numbers",
             "It turns multiplication into division",
             "It makes numbers smaller"
@@ -3419,7 +3419,7 @@
             "868",
             "898",
             "878",
-            "888 (4×2=8; 14+4=18 [8, carry 1]; 7+1=8 -> 888)"
+            "888"
           ],
           "answerIndex": 3,
           "explanation": "74 × 12 = 888.",
@@ -3457,10 +3457,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "84 (592 is between 8³=512 and 9³=729 -> Tens = 8; Last digit is 4 -> Units = 4) (32.1) ",
-            "94 (32.2) ",
-            "86 (32.3) ",
-            "74 (32.4) "
+            "84",
+            "94",
+            "86",
+            "74"
           ],
           "answerIndex": 0,
           "explanation": "Thousands chunk: 592 -> 8; Last digit: 4 -> 4 -> 84."
@@ -3468,7 +3468,7 @@
         {
           "prompt": "What is the cube root of 389,017?",
           "options": [
-            "73 (389 is between 7³=343 and 8³=512 -> Tens = 7; Last digit 7 maps to 3 -> Units = 3)",
+            "73",
             "77",
             "83",
             "63"
@@ -3483,10 +3483,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "43  (Task 32.1)",
-            "57  (Task 32.2)",
-            "47 (103 is between 4³=64 and 5³=125 -> Tens = 4; Ending 3 maps to 7 -> Units = 7)  (Task 32.3)",
-            "37  (Task 32.4)"
+            "43",
+            "57",
+            "47",
+            "37"
           ],
           "answerIndex": 2,
           "explanation": "103 -> 4; Ending 3 maps to 7 -> 47."
@@ -3497,7 +3497,7 @@
             "79",
             "99",
             "86",
-            "89 (704 is between 8³=512 and 9³=729 -> Tens = 8; Ending 9 maps to 9 -> Units = 9)"
+            "89"
           ],
           "answerIndex": 3,
           "explanation": "704 -> 8; Ending 9 -> 9 -> 89."
@@ -3521,7 +3521,7 @@
         {
           "prompt": "Extract the cube root of 21,952:",
           "options": [
-            "28 (21 is between 2³=8 and 3³=27 -> Tens = 2; Ending 2 maps to 8 -> Units = 8)",
+            "28",
             "38",
             "18",
             "22"
@@ -3547,7 +3547,7 @@
           "options": [
             "78",
             "98",
-            "88 (681 is between 8³=512 and 9³=729 -> Tens = 8; Ending 2 maps to 8 -> Units = 8)",
+            "88",
             "82"
           ],
           "answerIndex": 2,
@@ -3586,10 +3586,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Wednesday (3) (33.1) ",
-            "Friday (5) (33.2) ",
-            "Tuesday (2) (33.3) ",
-            "Thursday (4) [(24 + 6 + 2) = 32 = 4 mod 7] (33.4) "
+            "Wednesday",
+            "Friday",
+            "Tuesday",
+            "Thursday (4) [(24 + 6 + 2) = 32 = 4 mod 7]"
           ],
           "answerIndex": 3,
           "explanation": "24 + 6 + 2 = 32 = 4 (Thursday)."
@@ -3600,7 +3600,7 @@
             "Thursday",
             "Tuesday",
             "Friday",
-            "Wednesday (December Doomsday anchor is 12/12 = Thursday; 25 - 12 = 13 = 6 days -> Thursday + 6 = Wednesday)"
+            "Wednesday"
           ],
           "answerIndex": 3,
           "explanation": "12/12 = Thursday (4); 25 is 13 days later (+6 mod 7) -> 4 + 6 = 10 = 3 (Wednesday)."
@@ -3612,10 +3612,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "August 8 (8/8)  (Task 33.1)",
-            "August 15  (Task 33.2)",
-            "July 1  (Task 33.3)",
-            "October 25  (Task 33.4)"
+            "August 8",
+            "August 15",
+            "July 1",
+            "October 25"
           ],
           "answerIndex": 0,
           "explanation": "8/8 is an even-month double-date Doomsday anchor."
@@ -3623,7 +3623,7 @@
         {
           "prompt": "What day of the week was June 6 (6/6), 2024?",
           "options": [
-            "Thursday (6/6 is an exact Doomsday anchor, so it is Thursday)",
+            "Thursday",
             "Friday",
             "Wednesday",
             "Saturday"
@@ -3653,7 +3653,7 @@
             "Thursday",
             "Sunday",
             "Saturday",
-            "Friday (10/10 is a Doomsday anchor, so it matches the year's Doomsday directly)"
+            "Friday"
           ],
           "answerIndex": 3,
           "explanation": "10/10 is a Doomsday anchor -> Friday.",
@@ -3664,7 +3664,7 @@
           "options": [
             "Because it was invented by Isaac Newton",
             "Because it works only on leap years",
-            "Because by establishing a single Doomsday for each year, 12 easy-to-remember dates across all 12 months immediately share that exact same day of the week, reducing calendar calculation to simple mod-7 subtraction (deliberate practice)",
+            "Because by establishing a single Doomsday for each year, 12 easy-to-remember dates across all 12 months immediately share that exact same day of the week, reducing calendar calculation to simple mod-7 subtraction",
             "Because it predicts the end of the world"
           ],
           "answerIndex": 2,
@@ -3715,10 +3715,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because it uses quantum mechanics (34.1) ",
-            "Because independent errors in sub-estimates tend to be log-normally distributed, causing multiplicative overestimates and underestimates to cancel each other out (34.2) ",
-            "Because calculators are used (34.3) ",
-            "Because all estimates are exactly correct (34.4) "
+            "Because it uses quantum mechanics",
+            "Because independent errors in sub-estimates tend to be log-normally distributed, causing multiplicative overestimates and underestimates to cancel each other out",
+            "Because calculators are used",
+            "Because all estimates are exactly correct"
           ],
           "answerIndex": 1,
           "explanation": "Independent multiplicative errors cancel across the geometric mean."
@@ -3726,7 +3726,7 @@
         {
           "prompt": "Approximately how many seconds are in one calendar year using the famous physicist's rule of thumb?",
           "options": [
-            "Approximately π × 10⁷ seconds (~31.5 million seconds)",
+            "Approximately π × 10⁷ seconds",
             "500 million seconds",
             "1 billion seconds",
             "1 million seconds"
@@ -3741,10 +3741,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "Approximately 80,000 to 120,000 flights per day (Actual pre-pandemic average: ~100,000/day)  (Task 34.1)",
-            "500 flights per day  (Task 34.2)",
-            "5,000 flights per day  (Task 34.3)",
-            "10 million flights per day  (Task 34.4)"
+            "Approximately 80,000 to 120,000 flights per day",
+            "500 flights per day",
+            "5,000 flights per day",
+            "10 million flights per day"
           ],
           "answerIndex": 0,
           "explanation": "Decomposing passenger trips yields ~100,000 daily commercial flights."
@@ -3770,7 +3770,7 @@
             "All numbers are infinite",
             "All numbers are 1",
             "Requires no math",
-            "Cars: 10⁶ | Miles/year: 10⁴ (10,000 mi) | MPG: 25 | Total: (10¹⁰ / 25) = 4 × 10⁸ (400M gallons)"
+            "Cars: 10⁶ | Miles/year: 10⁴ (10,000 mi) | MPG: 25 | Total: (10¹⁰ / 25) = 4 × 10⁸"
           ],
           "answerIndex": 3,
           "explanation": "Dimensional estimation chaining.",
@@ -3781,7 +3781,7 @@
           "options": [
             "To test typing speed",
             "To check if the candidate has memorized census data",
-            "To evaluate structured algorithmic thinking, comfort with numerical ambiguity, and mental mathematical composure under pressure (deliberate practice)",
+            "To evaluate structured algorithmic thinking, comfort with numerical ambiguity, and mental mathematical composure under pressure",
             "To waste time"
           ],
           "answerIndex": 2,
@@ -3792,7 +3792,7 @@
           "prompt": "How many minutes are in one full 365-day year?",
           "options": [
             "100,000 minutes",
-            "525,600 minutes (365 × 1,440 = 525,600)",
+            "525,600 minutes",
             "1,000,000 minutes",
             "250,000 minutes"
           ],
@@ -3844,10 +3844,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "1,692 (7×6=42 [2, carry 4]; [4×6]+[7×3]+4=49 [9, carry 4]; [4×3]+4=16 -> 1,692) (35.1) ",
-            "1,682 (35.2) ",
-            "1,702 (35.3) ",
-            "1,672 (35.4) "
+            "1,692",
+            "1,682",
+            "1,702",
+            "1,672"
           ],
           "answerIndex": 0,
           "explanation": "47 × 36 = 1,692."
@@ -3855,7 +3855,7 @@
         {
           "prompt": "Solve Capstone Problem 2: Extract the cube root of 493,039 in under 1 second:",
           "options": [
-            "79 (493 is between 7³=343 and 8³=512 -> Tens = 7; Last digit 9 -> Units = 9)",
+            "79",
             "71",
             "89",
             "69"
@@ -3870,10 +3870,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "6,401  (Task 35.1)",
-            "6,391 (80² - 3² = 6400 - 9 = 6,391)  (Task 35.2)",
-            "6,371  (Task 35.3)",
-            "6,381  (Task 35.4)"
+            "6,401",
+            "6,391",
+            "6,371",
+            "6,381"
           ],
           "answerIndex": 1,
           "explanation": "80² - 3² = 6,391."
@@ -3882,7 +3882,7 @@
           "prompt": "Solve Capstone Problem 5: Compute 32% of 75 using percentage reversal:",
           "options": [
             "26",
-            "24 (75% of 32 = 3/4 × 32 = 24)",
+            "24",
             "28",
             "22"
           ],
@@ -3909,7 +3909,7 @@
           "prompt": "Solve Capstone Problem 9: Calculate 68 × 11 mentally:",
           "options": [
             "738",
-            "748 (6 + 8 = 14 -> 6 + 1 = 7, middle 4, ends in 8 -> 748)",
+            "748",
             "758",
             "728"
           ],
@@ -3920,7 +3920,7 @@
         {
           "prompt": "What is the primary cognitive superpower gained from completing the Mental Math curriculum?",
           "options": [
-            "Absolute working memory liberation: The ability to process, verify, and manipulate quantitative reality instantly in real time during live negotiations, trading, and engineering (deliberate practice)",
+            "Absolute working memory liberation: The ability to process, verify, and manipulate quantitative reality instantly in real time during live negotiations, trading, and engineering",
             "Passive unguided repetition",
             "Never needing to sleep again",
             "Reading minds"
@@ -3978,10 +3978,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "(3 x 2) + (2 x 1) = 8 (36.1) ",
-            "3 x 2 x 1 = 6 (36.2) ",
-            "32 + 21 = 53 (36.3) ",
-            "(3 x 1) + (2 x 2) = 3 + 4 = 7 (36.4) "
+            "(3 x 2) + (2 x 1) = 8",
+            "3 x 2 x 1 = 6",
+            "32 + 21 = 53",
+            "(3 x 1) + (2 x 2) = 3 + 4 = 7"
           ],
           "answerIndex": 3,
           "explanation": "Cross-product: outer + inner = (3x1) + (2x2) = 3 + 4 = 7."
@@ -3992,7 +3992,7 @@
             "652",
             "712",
             "632",
-            "672 (Units: 2x1=2; Cross: 3x1+2x2=7; Tens: 3x2=6)"
+            "672"
           ],
           "answerIndex": 3,
           "explanation": "Units: 2; Cross: 7; Tens: 6 -> 672."
@@ -4004,10 +4004,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "863  (Task 36.1)",
-            "923  (Task 36.2)",
-            "893  (Task 36.3)",
-            "903 (Units: 3; Cross: 4x1 + 3x2 = 10 -> 0, carry 1; Tens: 4x2 + 1 = 9)  (Task 36.4)"
+            "863",
+            "923",
+            "893",
+            "903"
           ],
           "answerIndex": 3,
           "explanation": "Units: 3; Cross: 10 (0, carry 1); Tens: 8 + 1 = 9 -> 903."
@@ -4018,7 +4018,7 @@
             "1204",
             "1244",
             "1124",
-            "1224 (Units: 4; Cross: 5x4 + 1x2 = 22 -> 2, carry 2; Tens: 5x2 + 2 = 12)"
+            "1224"
           ],
           "answerIndex": 3,
           "explanation": "Units: 4; Cross: 22 (2, carry 2); Tens: 10 + 2 = 12 -> 1224."
@@ -4031,7 +4031,7 @@
           "prompt": "Compute 62 x 31 mentally:",
           "options": [
             "1822",
-            "1922 (Units: 2; Cross: 6x1 + 2x3 = 12 -> 2, carry 1; Tens: 6x3 + 1 = 19)",
+            "1922",
             "1862",
             "1932"
           ],
@@ -4042,7 +4042,7 @@
         {
           "prompt": "Compute 24 x 23 mentally:",
           "options": [
-            "552 (Units: 12 -> 2, c1; Cross: 6 + 8 + 1 = 15 -> 5, c1; Tens: 4 + 1 = 5)",
+            "552",
             "562",
             "532",
             "542"
@@ -4068,7 +4068,7 @@
           "options": [
             "1013",
             "1033",
-            "1023 (Units: 3; Cross: 3 + 9 = 12 -> 2, c1; Tens: 9 + 1 = 10)",
+            "1023",
             "993"
           ],
           "answerIndex": 2,
@@ -4112,10 +4112,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "11,445 (Left: 105 + 9 = 114; Right: 5 x 9 = 45) (37.1) ",
-            "11,545 (37.2) ",
-            "11,455 (37.3) ",
-            "11,345 (37.4) "
+            "11,445",
+            "11,545",
+            "11,455",
+            "11,345"
           ],
           "answerIndex": 0,
           "explanation": "105 + 9 = 114; 5 x 9 = 45 -> 11,445."
@@ -4123,7 +4123,7 @@
         {
           "prompt": "Calculate 95 x 94 using base 100 deficiencies (-5 and -6):",
           "options": [
-            "8,930 (Left: 95 - 6 = 89; Right: 5 x 6 = 30)",
+            "8,930",
             "8,830",
             "9,030",
             "8,940"
@@ -4138,10 +4138,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "9,560  (Task 37.1)",
-            "9,506 (Deficits: -3, -2. Left: 97 - 2 = 95. Right: 3 x 2 = 06)  (Task 37.2)",
-            "9,406  (Task 37.3)",
-            "9,516  (Task 37.4)"
+            "9,560",
+            "9,506",
+            "9,406",
+            "9,516"
           ],
           "answerIndex": 1,
           "explanation": "97 - 2 = 95; 3 x 2 = 06 (must be 2 digits) -> 9,506."
@@ -4151,7 +4151,7 @@
           "options": [
             "11,216",
             "11,336",
-            "11,236 (Left: 106 + 6 = 112; Right: 6 x 6 = 36)",
+            "11,236",
             "11,136"
           ],
           "answerIndex": 2,
@@ -4164,7 +4164,7 @@
         {
           "prompt": "Calculate 91 x 98 mentally:",
           "options": [
-            "8,918 (Deficits: -9, -2. Left: 91 - 2 = 89. Right: 9 x 2 = 18)",
+            "8,918",
             "8,818",
             "8,908",
             "8,928"
@@ -4179,7 +4179,7 @@
             "11,996",
             "12,086",
             "12,196",
-            "12,096 (Surpluses: +8, +12. Left: 108 + 12 = 120. Right: 8 x 12 = 96)"
+            "12,096"
           ],
           "answerIndex": 3,
           "explanation": "108 + 12 = 120; 8 x 12 = 96 -> 12,096.",
@@ -4190,7 +4190,7 @@
           "options": [
             "Multiply by 100",
             "Drop the number",
-            "Pad with a leading zero to keep the base-100 two-digit slot (e.g. 04)",
+            "Pad with a leading zero to keep the base-100 two-digit slot",
             "Add 10 to it"
           ],
           "answerIndex": 2,
@@ -4201,7 +4201,7 @@
           "prompt": "Calculate 99 x 99 mentally:",
           "options": [
             "9,901",
-            "9,801 (Deficits: -1, -1. Left: 99 - 1 = 98. Right: 1 x 1 = 01)",
+            "9,801",
             "9,701",
             "9,811"
           ],
@@ -4246,10 +4246,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,015 (38.1) ",
-            "2,125 (38.2) ",
-            "1,825 (38.3) ",
-            "2,025 (4 x 5 = 20, attach 25) (38.4) "
+            "2,015",
+            "2,125",
+            "1,825",
+            "2,025"
           ],
           "answerIndex": 3,
           "explanation": "4 x 5 = 20 -> 2,025."
@@ -4260,7 +4260,7 @@
             "3,586",
             "3,604",
             "3,592",
-            "3,596 (60² - 2² = 3600 - 4)"
+            "3,596"
           ],
           "answerIndex": 3,
           "explanation": "60² - 2² = 3600 - 4 = 3,596."
@@ -4272,10 +4272,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "7,225 (8 x 9 = 72, append 25)  (Task 38.1)",
-            "7,215  (Task 38.2)",
-            "7,125  (Task 38.3)",
-            "7,325  (Task 38.4)"
+            "7,225",
+            "7,215",
+            "7,125",
+            "7,325"
           ],
           "answerIndex": 0,
           "explanation": "8 x 9 = 72 -> 7,225."
@@ -4283,7 +4283,7 @@
         {
           "prompt": "Calculate 29 x 31 mentally:",
           "options": [
-            "899 (30² - 1² = 900 - 1)",
+            "899",
             "889",
             "901",
             "891"
@@ -4301,7 +4301,7 @@
             "10,525",
             "11,125",
             "11,015",
-            "11,025 (10 x 11 = 110, attach 25)"
+            "11,025"
           ],
           "answerIndex": 3,
           "explanation": "10 x 11 = 110 -> 11,025.",
@@ -4312,7 +4312,7 @@
           "options": [
             "6,381",
             "6,399",
-            "6,391 (80² - 3² = 6400 - 9)",
+            "6,391",
             "6,409"
           ],
           "answerIndex": 2,
@@ -4334,7 +4334,7 @@
         {
           "prompt": "Calculate 19 x 21 mentally:",
           "options": [
-            "399 (20² - 1² = 400 - 1)",
+            "399",
             "389",
             "391",
             "401"
@@ -4380,10 +4380,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "692 (39.1) ",
-            "682 (Split 6 and 2; Middle: 6 + 2 = 8) (39.2) ",
-            "662 (39.3) ",
-            "672 (39.4) "
+            "692",
+            "682",
+            "662",
+            "672"
           ],
           "answerIndex": 1,
           "explanation": "6 _ 2 with 6+2=8 in middle -> 682."
@@ -4391,7 +4391,7 @@
         {
           "prompt": "Calculate 76 x 11 with carry:",
           "options": [
-            "836 (7+6=13 -> middle 3, carry 1 to 7 -> 836)",
+            "836",
             "846",
             "796",
             "736"
@@ -4406,10 +4406,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "1,034 (9+4=13 -> 4 at end, 3 in middle, 9+1=10 at front)  (Task 39.1)",
-            "1,024  (Task 39.2)",
-            "1,044  (Task 39.3)",
-            "934  (Task 39.4)"
+            "1,034",
+            "1,024",
+            "1,044",
+            "934"
           ],
           "answerIndex": 0,
           "explanation": "9 + 4 = 13 -> 1,034."
@@ -4417,7 +4417,7 @@
         {
           "prompt": "Calculate 48 x 102 by chunking:",
           "options": [
-            "4,896 (48 x 100 = 4800; 48 x 2 = 96)",
+            "4,896",
             "4,796",
             "4,886",
             "4,906"
@@ -4434,7 +4434,7 @@
           "options": [
             "857",
             "967",
-            "957 (8+7=15 -> 7 at end, 5 in middle, 8+1=9 at front)",
+            "957",
             "947"
           ],
           "answerIndex": 2,
@@ -4445,7 +4445,7 @@
           "prompt": "Calculate 36 x 205 mentally:",
           "options": [
             "7,280",
-            "7,380 (36 x 200 = 7200; 36 x 5 = 180 -> 7200 + 180)",
+            "7,380",
             "7,360",
             "7,480"
           ],
@@ -4456,7 +4456,7 @@
         {
           "prompt": "Calculate 44 x 11 mentally:",
           "options": [
-            "484 (4+4=8 in middle)",
+            "484",
             "474",
             "494",
             "464"
@@ -4471,7 +4471,7 @@
             "2,374",
             "2,474",
             "2,584",
-            "2,574 (Right: 4; 4+3=7; 3+2=5; Left: 2)"
+            "2,574"
           ],
           "answerIndex": 3,
           "explanation": "Units 4, 3+4=7, 2+3=5, Lead 2 -> 2,574.",
@@ -4519,10 +4519,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "N(N+1)|25 (7 x 8 = 56 -> 5,625) (40.1) ",
-            "Criss-cross multiplication (40.2) ",
-            "Long division (40.3) ",
-            "Repeated addition 75 times (40.4) "
+            "N(N+1)|25",
+            "Criss-cross multiplication",
+            "Long division",
+            "Repeated addition 75 times"
           ],
           "answerIndex": 0,
           "explanation": "N(N+1)|25 gives the answer in under 1 second."
@@ -4530,7 +4530,7 @@
         {
           "prompt": "Which technique is fastest for 97 x 96?",
           "options": [
-            "Base 100 deficiency shortcut (97 - 4 = 93; 3 x 4 = 12 -> 9,312)",
+            "Base 100 deficiency shortcut",
             "Difference of squares",
             "Column lattice",
             "Factor trees"
@@ -4545,10 +4545,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "4,125  (Task 40.1)",
-            "4,225 (6 x 7 = 42, attach 25)  (Task 40.2)",
-            "4,325  (Task 40.3)",
-            "4,215  (Task 40.4)"
+            "4,125",
+            "4,225",
+            "4,325",
+            "4,215"
           ],
           "answerIndex": 1,
           "explanation": "6 x 7 = 42 -> 4,225."
@@ -4557,7 +4557,7 @@
           "prompt": "Calculate 39 x 41 mentally:",
           "options": [
             "1,601",
-            "1,599 (40² - 1² = 1600 - 1)",
+            "1,599",
             "1,591",
             "1,589"
           ],
@@ -4572,7 +4572,7 @@
           "prompt": "Calculate 93 x 11 mentally:",
           "options": [
             "1,033",
-            "1,023 (9+3=12 -> 1,023)",
+            "1,023",
             "923",
             "1,013"
           ],
@@ -4583,7 +4583,7 @@
         {
           "prompt": "Calculate 95 x 98 mentally:",
           "options": [
-            "9,310 (Deficits: -5, -2. Left: 95 - 2 = 93. Right: 5 x 2 = 10)",
+            "9,310",
             "9,320",
             "9,210",
             "9,410"
@@ -4598,7 +4598,7 @@
             "615",
             "635",
             "525",
-            "625 (2 x 3 = 6, attach 25)"
+            "625"
           ],
           "answerIndex": 3,
           "explanation": "2 x 3 = 6 -> 625.",

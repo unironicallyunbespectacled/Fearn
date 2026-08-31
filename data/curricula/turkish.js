@@ -490,7 +490,7 @@
         {
           "prompt": "Which Turkish letter is silent and functions to lengthen the preceding vowel sound (as in «dağ» / mountain)?",
           "options": [
-            "Ğ ğ (Yumuşak G / Soft G)",
+            "Ğ ğ",
             "Ç ç",
             "Ş ş",
             "I ı"
@@ -501,7 +501,7 @@
         {
           "prompt": "According to 2-fold Vowel Harmony, what is the correct plural form of «ev» (house - front vowel E)?",
           "options": [
-            "evler (takes -ler for front vowels)",
+            "evler",
             "evlar",
             "evlor",
             "evlur"
@@ -516,7 +516,7 @@
         {
           "prompt": "What sound does the undotted Turkish vowel «I ı» make in words like «kapı» (door)?",
           "options": [
-            "Close back unrounded vowel [ɯ] (like \"uh/ih\" in cousin)",
+            "Close back unrounded vowel [ɯ]",
             "Like \"ee\" in see",
             "Like \"oo\" in moon",
             "Silent"
@@ -527,7 +527,7 @@
         {
           "prompt": "Which of the following letters is NOT part of the official 29-letter Turkish alphabet?",
           "options": [
-            "W (Q, W, X do not exist in Turkish)",
+            "W",
             "Ç",
             "Ğ",
             "Ş"
@@ -615,10 +615,10 @@
         {
           "prompt": "Nasılsın? breaks down into which two pieces?",
           "options": [
-            "nasıl (how) + sın (you-are) (2.1)",
-            "na (what) + sılsın (feeling) (2.2)",
-            "It cannot be broken down (2.3)",
-            "nasıls (unit) + ın (suffix) (2.4)"
+            "nasıl (how) + sın",
+            "na (what) + sılsın",
+            "It cannot be broken down",
+            "nasıls (unit) + ın"
           ],
           "answerIndex": 0,
           "explanation": "This is the exact agglutination breakdown given in the explanation."
@@ -626,10 +626,10 @@
         {
           "prompt": "İyiyim breaks down into which two pieces?",
           "options": [
-            "iyi (good) + yim (I-am)",
-            "iyi (good) + im (you-are)",
+            "iyi (good) + yim",
+            "iyi (good) + im",
             "It's a single unbreakable root",
-            "iy (very) + iyim (good)"
+            "iy (very) + iyim"
           ],
           "answerIndex": 0,
           "explanation": "iyi + yim, matching vowel harmony with iyi's front vowel."
@@ -663,10 +663,10 @@
         {
           "prompt": "Translate: 'I'm good, thanks. How are you?' (informal)",
           "options": [
-            "İyiyim, teşekkürler. Sen nasılsınız? (2.1)",
-            "İyisin, teşekkürler. Ben nasılım? (2.2)",
-            "Nasılsın, teşekkürler iyiyim? (2.3)",
-            "İyiyim, teşekkürler. Sen nasılsın? (2.4)"
+            "İyiyim, teşekkürler. Sen nasılsınız?",
+            "İyisin, teşekkürler. Ben nasılım?",
+            "Nasılsın, teşekkürler iyiyim?",
+            "İyiyim, teşekkürler. Sen nasılsın?"
           ],
           "answerIndex": 3,
           "explanation": "İyiyim (I'm good) + Sen nasılsın? (informal 'how are you') matches register consistently."
@@ -703,7 +703,7 @@
             "na + sılsın",
             "nasıls + ın",
             "It's unbreakable",
-            "nasıl (how) + sın (you-are)"
+            "nasıl (how) + sın"
           ],
           "answerIndex": 3,
           "explanation": "Agglutination breakdown.",
@@ -714,8 +714,8 @@
           "options": [
             "It's unbreakable",
             "iy + iyim",
-            "iyi (good) + yim (I-am)",
-            "iyi (good) + im (you-are)"
+            "iyi (good) + yim",
+            "iyi (good) + im"
           ],
           "answerIndex": 2,
           "explanation": "iyi + yim.",
@@ -827,10 +827,10 @@
         {
           "prompt": "Adım Ayşe. means:",
           "options": [
-            "Your name is Ayşe. (3.1)",
-            "Her name is Ayşe. (3.2)",
-            "I am from Ayşe. (3.3)",
-            "My name is Ayşe. (3.4)"
+            "Your name is Ayşe.",
+            "Her name is Ayşe.",
+            "I am from Ayşe.",
+            "My name is Ayşe."
           ],
           "answerIndex": 3,
           "explanation": "Adım = ad (name) + ım (my)."
@@ -875,10 +875,10 @@
         {
           "prompt": "Translate: 'I'm Mehmet. Nice to meet you.'",
           "options": [
-            "Ben Mehmet'im. Memnun oldum. (3.1)",
-            "Ben Mehmetim. Memnun oldum. (3.2)",
-            "Adım Mehmet'im. Memnun. (3.3)",
-            "Mehmet ben'im. Oldum memnun. (3.4)"
+            "Ben Mehmet'im. Memnun oldum.",
+            "Ben Mehmetim. Memnun oldum.",
+            "Adım Mehmet'im. Memnun.",
+            "Mehmet ben'im. Oldum memnun."
           ],
           "answerIndex": 0,
           "explanation": "The apostrophe is required before the suffix on the proper noun Mehmet."
@@ -951,7 +951,7 @@
             "'We'",
             "Only 'he'",
             "Only 'she'",
-            "He, she, or it (no gender distinction)"
+            "He, she, or it"
           ],
           "answerIndex": 3,
           "explanation": "Single gender-neutral third-person pronoun.",
@@ -1037,10 +1037,10 @@
         {
           "prompt": "Nerelisin? breaks down into:",
           "options": [
-            "nere (where) + li (of) + sin (you-are) (4.1)",
-            "nereli + s + in (4.2)",
-            "It's a single unbreakable root (4.3)",
-            "ner + elisin (4.4)"
+            "nere (where) + li (of) + sin",
+            "nereli + s + in",
+            "It's a single unbreakable root",
+            "ner + elisin"
           ],
           "answerIndex": 0,
           "explanation": "Three stacked pieces, agglutination in action."
@@ -1048,7 +1048,7 @@
         {
           "prompt": "Ankaralıyım breaks down into:",
           "options": [
-            "Ankara + lı (from) + yım (I am)",
+            "Ankara + lı (from) + yım",
             "An + karalıyım",
             "It's unbreakable",
             "Ankara + lı + im"
@@ -1072,7 +1072,7 @@
           "options": [
             "I am Turkish",
             "He is Turkish",
-            "I am from Turkey (a city)",
+            "I am from Turkey",
             "You are Turkish"
           ],
           "answerIndex": 0,
@@ -1085,10 +1085,10 @@
         {
           "prompt": "Translate: 'I'm from Istanbul. I'm Turkish.'",
           "options": [
-            "İstanbulluyum. Türküm. (4.1)",
-            "İstanbullıyım. Türkim. (4.2)",
-            "Ben İstanbul'um. Türk. (4.3)",
-            "İstanbul benim. Türk oldum. (4.4)"
+            "İstanbulluyum. Türküm.",
+            "İstanbullıyım. Türkim.",
+            "Ben İstanbul'um. Türk.",
+            "İstanbul benim. Türk oldum."
           ],
           "answerIndex": 0,
           "explanation": "İstanbul + lu (from, back-vowel harmony) + yum (I am), and Türk + üm."
@@ -1107,7 +1107,7 @@
         {
           "prompt": "What three pieces of meaning does the single word Ankaralıyım pack together?",
           "options": [
-            "The place (Ankara), the origin marker (from), and the speaker (I am)",
+            "The place (Ankara), the origin marker (from), and the speaker",
             "Only the place name, nothing else",
             "Two unrelated separate words glued by accident",
             "A greeting, a name, and a question"
@@ -1123,7 +1123,7 @@
           "prompt": "Nerelisin? means:",
           "options": [
             "How are you?",
-            "Where are you from? (informal)",
+            "Where are you from?",
             "What's your name?",
             "Goodbye"
           ],
@@ -1252,10 +1252,10 @@
         {
           "prompt": "Merhaba! Nasılsın? Mehmet: ___",
           "options": [
-            "İyiyim, teşekkürler. Sen nasılsın? (5.1)",
-            "Adım Mehmet. (5.2)",
-            "Nerelisin? (5.3)",
-            "Türküm. (5.4)"
+            "İyiyim, teşekkürler. Sen nasılsın?",
+            "Adım Mehmet.",
+            "Nerelisin?",
+            "Türküm."
           ],
           "answerIndex": 0,
           "explanation": "The natural reply to Nasılsın?, from Lesson 2."
@@ -1300,10 +1300,10 @@
         {
           "prompt": "Translate: 'I'm from Istanbul. I'm Turkish too.'",
           "options": [
-            "İstanbulluyum. Ben de Türküm. (5.1)",
-            "Ben İstanbul. Türk de ben. (5.2)",
-            "İstanbul'um. De Türküm. (5.3)",
-            "İstanbullıyım. Ben Türküm de. (5.4)"
+            "İstanbulluyum. Ben de Türküm.",
+            "Ben İstanbul. Türk de ben.",
+            "İstanbul'um. De Türküm.",
+            "İstanbullıyım. Ben Türküm de."
           ],
           "answerIndex": 0,
           "explanation": "İstanbulluyum (from Lesson 4) + Ben de Türküm, with de as a separate word meaning 'also.'"
@@ -1385,7 +1385,7 @@
         {
           "prompt": "Memnun oldum means:",
           "options": [
-            "Nice to meet you (literally 'I became pleased')",
+            "Nice to meet you",
             "How are you",
             "I am from here",
             "Goodbye"
@@ -1447,10 +1447,10 @@
         {
           "prompt": "How do you correctly say 'Two coffees, please' in Turkish?",
           "options": [
-            "İki kahveler, lütfen. (plural noun) (6.1)",
-            "İki kahveye, lütfen. (6.2)",
-            "İki kahvede, lütfen. (6.3)",
-            "İki kahve, lütfen. (singular noun) (6.4)"
+            "İki kahveler, lütfen.",
+            "İki kahveye, lütfen.",
+            "İki kahvede, lütfen.",
+            "İki kahve, lütfen."
           ],
           "answerIndex": 3,
           "explanation": "Nouns after numbers remain strictly singular in Turkish: 'İki kahve, lütfen'."
@@ -1484,10 +1484,10 @@
         {
           "prompt": "Translate: 'I have three sisters/brothers (siblings).' (kardeş = sibling)",
           "options": [
-            "Üç kardeşlerim var. (6.1)",
-            "Üç kardeş varım. (6.2)",
-            "Üç kardeşe var. (6.3)",
-            "Üç kardeşim var. (6.4)"
+            "Üç kardeşlerim var.",
+            "Üç kardeş varım.",
+            "Üç kardeşe var.",
+            "Üç kardeşim var."
           ],
           "answerIndex": 3,
           "explanation": "'Üç kardeşim var' (kardeş stays singular before possessive suffix -im)."
@@ -1497,7 +1497,7 @@
           "options": [
             "Bir su",
             "On iki öğrenci",
-            "Beş kitaplar (plural suffix after a number)",
+            "Beş kitaplar",
             "Beş kitap"
           ],
           "answerIndex": 2,
@@ -1534,10 +1534,10 @@
         {
           "prompt": "Hesaplayın: yedi (7) + altı (6) = ?",
           "options": [
-            "on dört (14)",
-            "on üç (13)",
-            "on beş (15)",
-            "on iki (12)"
+            "on dört",
+            "on üç",
+            "on beş",
+            "on iki"
           ],
           "answerIndex": 1,
           "explanation": "7 + 6 = 13 (on üç).",
@@ -1608,10 +1608,10 @@
         {
           "prompt": "How do you say 87 in Turkish?",
           "options": [
-            "seksen yedi (7.1)",
-            "yetmiş sekiz (7.2)",
-            "seksen ve yedi (7.3)",
-            "doksan yedi (7.4)"
+            "seksen yedi",
+            "yetmiş sekiz",
+            "seksen ve yedi",
+            "doksan yedi"
           ],
           "answerIndex": 0,
           "explanation": "80 (seksen) + 7 (yedi) = 'seksen yedi' (no connector word)."
@@ -1645,10 +1645,10 @@
         {
           "prompt": "Translate: 'The meal costs 65 lira.'",
           "options": [
-            "Yemek yetmiş beş lira. (7.1)",
-            "Yemek elli altı lira. (7.2)",
-            "Yemek altı beş lira. (7.3)",
-            "Yemek altmış beş lira. (7.4)"
+            "Yemek yetmiş beş lira.",
+            "Yemek elli altı lira.",
+            "Yemek altı beş lira.",
+            "Yemek altmış beş lira."
           ],
           "answerIndex": 3,
           "explanation": "65 is 'altmış beş' (altmış beş lira)."
@@ -1770,10 +1770,10 @@
         {
           "prompt": "How do you say 3:30 in Turkish?",
           "options": [
-            "Saat üç yarım. (8.1)",
-            "Saat buçuk üç. (8.2)",
-            "Saat üç buçukta. (8.3)",
-            "Saat üç buçuk. (8.4)"
+            "Saat üç yarım.",
+            "Saat buçuk üç.",
+            "Saat üç buçukta.",
+            "Saat üç buçuk."
           ],
           "answerIndex": 3,
           "explanation": "Half past after a number uses 'buçuk': 'Saat üç buçuk'."
@@ -1807,10 +1807,10 @@
         {
           "prompt": "Translate: 'The meeting is at 10:00 AM.'",
           "options": [
-            "Toplantı sabah saat onda. (8.1)",
-            "Toplantı sabah saat on. (8.2)",
-            "Toplantı akşam saat onda. (8.3)",
-            "Toplantı gece saat onda. (8.4)"
+            "Toplantı sabah saat onda.",
+            "Toplantı sabah saat on.",
+            "Toplantı akşam saat onda.",
+            "Toplantı gece saat onda."
           ],
           "answerIndex": 0,
           "explanation": "sabah saat onda (at 10 in the morning — 'on' + locative 'da')."
@@ -1881,10 +1881,10 @@
         {
           "prompt": "'Saat kaç?' sorusu neyi öğrenmek için sorulur?",
           "options": [
-            "Fiyatı (Price)",
-            "Şu anki saati (What time is it?)",
-            "Tarihi (Date)",
-            "Kişinin adını (Name)"
+            "Fiyatı",
+            "Şu anki saati",
+            "Tarihi",
+            "Kişinin adını"
           ],
           "answerIndex": 1,
           "explanation": "Asks for the current time.",
@@ -1932,10 +1932,10 @@
         {
           "prompt": "What day of the week comes after Friday (Cuma)?",
           "options": [
-            "Cumartesi (Saturday) (9.1)",
-            "Pazartesi (9.2)",
-            "Perşembe (9.3)",
-            "Pazar (9.4)"
+            "Cumartesi",
+            "Pazartesi",
+            "Perşembe",
+            "Pazar"
           ],
           "answerIndex": 0,
           "explanation": "The day after Friday is Saturday: 'Cumartesi' (Cuma-ertesi)."
@@ -1954,7 +1954,7 @@
         {
           "prompt": "What does 'hafta sonu' mean?",
           "options": [
-            "Weekend (end of week)",
+            "Weekend",
             "Last week",
             "Weekday",
             "Next week"
@@ -1969,10 +1969,10 @@
         {
           "prompt": "Translate: 'Tomorrow is Sunday, we don't work.'",
           "options": [
-            "Yarın Pazar, çalışmıyoruz. (9.1)",
-            "Bugün Pazar, çalışmıyoruz. (9.2)",
-            "Yarın Pazartesi, çalışmıyoruz. (9.3)",
-            "Dün Pazar, çalışmıyoruz. (9.4)"
+            "Yarın Pazar, çalışmıyoruz.",
+            "Bugün Pazar, çalışmıyoruz.",
+            "Yarın Pazartesi, çalışmıyoruz.",
+            "Dün Pazar, çalışmıyoruz."
           ],
           "answerIndex": 0,
           "explanation": "'Yarın' = tomorrow, 'Pazar' = Sunday."
@@ -2096,10 +2096,10 @@
         {
           "prompt": "How does Can dictate his phone number (0532-45-67) naturally in Turkish?",
           "options": [
-            "sıfır-beş-yüz-otuz-iki, kırk beş, altmış yedi (10.1)",
-            "sıfır beş üç iki dört beş altı yedi (10.2)",
-            "beş yüz otuz iki, dört yüz elli altı (10.3)",
-            "sıfır elli üç iki kırk beş (10.4)"
+            "sıfır-beş-yüz-otuz-iki, kırk beş, altmış yedi",
+            "sıfır beş üç iki dört beş altı yedi",
+            "beş yüz otuz iki, dört yüz elli altı",
+            "sıfır elli üç iki kırk beş"
           ],
           "answerIndex": 0,
           "explanation": "Standard phone dictation groups the 3-digit prefix and 2-digit pairs: sıfır-beş-yüz-otuz-iki, kırk beş, altmış yedi."
@@ -2133,10 +2133,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:30 PM?'",
           "options": [
-            "Salı günü saat dört buçukta müsait misin? (10.1)",
-            "Salı günü saat dörtte yarım müsait misin? (10.2)",
-            "Çarşamba günü saat dört buçukta müsait misin? (10.3)",
-            "Pazartesi günü saat dörtte müsait misin? (10.4)"
+            "Salı günü saat dört buçukta müsait misin?",
+            "Salı günü saat dörtte yarım müsait misin?",
+            "Çarşamba günü saat dört buçukta müsait misin?",
+            "Pazartesi günü saat dörtte müsait misin?"
           ],
           "answerIndex": 0,
           "explanation": "Salı günü (Tuesday) + saat dört buçukta (at 4:30) + müsait misin (are you free?)."
@@ -2257,10 +2257,10 @@
         {
           "prompt": "What respectful title must a Turkish speaker use when addressing their older brother?",
           "options": [
-            "Abla (11.1)",
-            "Kardeş (11.2)",
-            "Dede (11.3)",
-            "Abi / Ağabey [ah-BEE] (11.4)"
+            "Abla",
+            "Kardeş",
+            "Dede",
+            "Abi / Ağabey [ah-BEE]"
           ],
           "answerIndex": 3,
           "explanation": "'Abi' (or formal ağabey) is the respectful term for an older brother."
@@ -2294,10 +2294,10 @@
         {
           "prompt": "Translate: 'I have two children: a son and a daughter.'",
           "options": [
-            "İki çocuk var: bir oğul ve bir kız. (11.1)",
-            "Ben iki çocuk. (11.2)",
-            "İki çocuğum yok. (11.3)",
-            "İki çocuğum var: bir oğlum ve bir kızım. (11.4)"
+            "İki çocuk var: bir oğul ve bir kız.",
+            "Ben iki çocuk.",
+            "İki çocuğum yok.",
+            "İki çocuğum var: bir oğlum ve bir kızım."
           ],
           "answerIndex": 3,
           "explanation": "İki çocuğum var: bir oğlum ve bir kızım."
@@ -2307,7 +2307,7 @@
           "options": [
             "dedeler",
             "çocuklar",
-            "ebeveynler (veya anne ve baba)",
+            "ebeveynler",
             "kardeşler"
           ],
           "answerIndex": 2,
@@ -2322,7 +2322,7 @@
           "options": [
             "Abla",
             "Kardeş",
-            "Abi (veya Ağabey)",
+            "Abi",
             "Amca"
           ],
           "answerIndex": 2,
@@ -2419,10 +2419,10 @@
         {
           "prompt": "How do you say 'my mother' in Turkish (anne = mother)?",
           "options": [
-            "annem [AHN-nem] (anne ends in vowel -> adds -m) (12.1)",
-            "annemi (12.2)",
-            "anneben (12.3)",
-            "annemim (12.4)"
+            "annem [AHN-nem]",
+            "annemi",
+            "anneben",
+            "annemim"
           ],
           "answerIndex": 0,
           "explanation": "anne ends in a vowel, so it adds bare '-m' -> annem."
@@ -2430,7 +2430,7 @@
         {
           "prompt": "How do you say 'his/her mother' (anne + 3rd person suffix)?",
           "options": [
-            "annesi [ahn-neh-SEE] (vowel stem takes buffer 's' + 'i')",
+            "annesi [ahn-neh-SEE]",
             "annei",
             "annem",
             "anneni"
@@ -2441,7 +2441,7 @@
         {
           "prompt": "How do you say 'my house' (ev = house, consonant stem)?",
           "options": [
-            "evim [eh-VEEM] (consonant stem takes -im following vowel harmony 'e')",
+            "evim [eh-VEEM]",
             "evm",
             "evum",
             "evüm"
@@ -2456,10 +2456,10 @@
         {
           "prompt": "Translate: 'Our father is very kind.'",
           "options": [
-            "Babam çok kibar. (12.1)",
-            "Babanız çok kibar. (12.2)",
-            "Babaları çok kibar. (12.3)",
-            "Babamız çok kibar. (12.4)"
+            "Babam çok kibar.",
+            "Babanız çok kibar.",
+            "Babaları çok kibar.",
+            "Babamız çok kibar."
           ],
           "answerIndex": 3,
           "explanation": "baba + mız = babamız (our father)."
@@ -2483,7 +2483,7 @@
           "prompt": "'Onun babası' tamlamasındaki '-sı' eki ne ekidir?",
           "options": [
             "Geçmiş zaman eki",
-            "3. tekil şahıs iyelik eki (His/Her possessive suffix with buffer -s-)",
+            "3. tekil şahıs iyelik eki",
             "Soru eki",
             "Çoğul eki"
           ],
@@ -2494,7 +2494,7 @@
         {
           "prompt": "'Göz' (eye) kelimesine 1. tekil iyelik eki (my) gelince ne olur?",
           "options": [
-            "gözüm (Ö/Ü kuralına göre -üm)",
+            "gözüm",
             "gözım",
             "gözum",
             "gözim"
@@ -2509,7 +2509,7 @@
             "My family",
             "Your family",
             "Their family",
-            "Our family (bizim ailemiz)"
+            "Our family"
           ],
           "answerIndex": 3,
           "explanation": "ailemiz = our family.",
@@ -2581,10 +2581,10 @@
         {
           "prompt": "What is the kinship title for your mother's brother in Turkish?",
           "options": [
-            "amca (13.1)",
-            "dede (13.2)",
-            "enişte (13.3)",
-            "dayı [DAH-yuh] (13.4)"
+            "amca",
+            "dede",
+            "enişte",
+            "dayı [DAH-yuh]"
           ],
           "answerIndex": 3,
           "explanation": "A mother's brother is strictly 'dayı'."
@@ -2606,7 +2606,7 @@
             "büyükanne for both only",
             "nene vs dede",
             "teyze vs hala",
-            "anneanne (maternal grandmother) vs babaanne (paternal grandmother)"
+            "anneanne (maternal grandmother) vs babaanne"
           ],
           "answerIndex": 3,
           "explanation": "anneanne = mother's mother; babaanne = father's mother."
@@ -2618,10 +2618,10 @@
         {
           "prompt": "Translate: 'My maternal aunt lives in Izmir.' (maternal aunt = teyze)",
           "options": [
-            "Teyzem İzmir'de yaşıyor. (13.1)",
-            "Halam İzmir'de yaşıyor. (13.2)",
-            "Amcam İzmir'de yaşıyor. (13.3)",
-            "Dayım İzmir'de yaşıyor. (13.4)"
+            "Teyzem İzmir'de yaşıyor.",
+            "Halam İzmir'de yaşıyor.",
+            "Amcam İzmir'de yaşıyor.",
+            "Dayım İzmir'de yaşıyor."
           ],
           "answerIndex": 0,
           "explanation": "teyze + m = teyzem (my maternal aunt)."
@@ -2670,7 +2670,7 @@
           "options": [
             "Üvey anne",
             "Babamın annesi",
-            "Annemin annesi (Maternal grandmother)",
+            "Annemin annesi",
             "Büyük abla"
           ],
           "answerIndex": 2,
@@ -2692,7 +2692,7 @@
         {
           "prompt": "Eşin annesine Türkçe ne denir?",
           "options": [
-            "kaynana (veya kayınvalide)",
+            "kaynana",
             "kayınpeder",
             "görümce",
             "baldız"
@@ -2742,10 +2742,10 @@
         {
           "prompt": "How do you say 'I have two brothers' in Turkish?",
           "options": [
-            "Benim iki erkek kardeşim var. [kahr-deh-SHEEM VAHR] (14.1)",
-            "Benim iki kardeş yok. (14.2)",
-            "Ben iki kardeş sahibim. (14.3)",
-            "Ben iki kardeş varım. (14.4)"
+            "Benim iki erkek kardeşim var. [kahr-deh-SHEEM VAHR]",
+            "Benim iki kardeş yok.",
+            "Ben iki kardeş sahibim.",
+            "Ben iki kardeş varım."
           ],
           "answerIndex": 0,
           "explanation": "Benim + noun-im + var."
@@ -2779,10 +2779,10 @@
         {
           "prompt": "Translate: 'Do you have siblings?'",
           "options": [
-            "Kardeşin var mı? (14.1)",
-            "Kardeş var mı? (14.2)",
-            "Kardeşin yok mu? (14.3)",
-            "Sen kardeş misin? (14.4)"
+            "Kardeşin var mı?",
+            "Kardeş var mı?",
+            "Kardeşin yok mu?",
+            "Sen kardeş misin?"
           ],
           "answerIndex": 0,
           "explanation": "Kardeşin var mı? (var + question particle mı)."
@@ -2819,7 +2819,7 @@
           "options": [
             "Yönelme eki ve bulunma eki",
             "Çoğul eki ve geçmiş zaman eki",
-            "İlgi eki (-in) ve 3. tekil iyelik eki (-sı)",
+            "İlgi eki (-in) ve 3. tekil iyelik eki",
             "Ayrılma eki"
           ],
           "answerIndex": 2,
@@ -2905,10 +2905,10 @@
         {
           "prompt": "How does Alex respectfully reply to Can's father's welcome ('Hoş geldin')?",
           "options": [
-            "Hoş bulduk, Kemal Amca! [HOHSH bool-dook] (15.1)",
-            "Güle güle! (15.2)",
-            "Rica ederim! (15.3)",
-            "Tünaydın! (15.4)"
+            "Hoş bulduk, Kemal Amca! [HOHSH bool-dook]",
+            "Güle güle!",
+            "Rica ederim!",
+            "Tünaydın!"
           ],
           "answerIndex": 0,
           "explanation": "'Hoş bulduk' is the mandatory cultural response to 'Hoş geldin'."
@@ -2942,10 +2942,10 @@
         {
           "prompt": "Translate: 'They have a five-year-old son.' (beş yaşında = 5 years old)",
           "options": [
-            "Onlar beş yaş oğul. (15.1)",
-            "Onların beş yaşında bir oğulları var. (15.2)",
-            "Onların oğul var beş. (15.3)",
-            "Onların beş yaşında oğul yok. (15.4)"
+            "Onlar beş yaş oğul.",
+            "Onların beş yaşında bir oğulları var.",
+            "Onların oğul var beş.",
+            "Onların beş yaşında oğul yok."
           ],
           "answerIndex": 1,
           "explanation": "Onların beş yaşında bir oğulları var."
@@ -2953,7 +2953,7 @@
         {
           "prompt": "What traditional Turkish meal brings the family together in the dialogue?",
           "options": [
-            "Pazar kahvaltısı (Sunday breakfast)",
+            "Pazar kahvaltısı",
             "Hızlı atıştırmalık",
             "Öğle çorbası",
             "Akşam yemeği"
@@ -3018,7 +3018,7 @@
           "options": [
             "İzmirli",
             "Ankaralı",
-            "Trabzonlu (from Trabzon, Black Sea region)",
+            "Trabzonlu",
             "Antalyalı"
           ],
           "answerIndex": 2,
@@ -3072,10 +3072,10 @@
         {
           "prompt": "What is the correct present continuous form of 'gelmek' (to come) for 'Ben' (I)?",
           "options": [
-            "geliyorsun (16.1)",
-            "geliyor (16.2)",
-            "geliyoruz (16.3)",
-            "geliyorum (16.4)"
+            "geliyorsun",
+            "geliyor",
+            "geliyoruz",
+            "geliyorum"
           ],
           "answerIndex": 3,
           "explanation": "gel- + -iyor + -um = geliyorum."
@@ -3098,10 +3098,10 @@
         {
           "prompt": "Translate: 'They are drinking Turkish tea.'",
           "options": [
-            "Onlar Türk çayı içiyorsun. (16.1)",
-            "Onlar Türk çayı içiyorum. (16.2)",
-            "Onlar Türk çayı içiyoruz. (16.3)",
-            "Onlar Türk çayı içiyorlar. (16.4)"
+            "Onlar Türk çayı içiyorsun.",
+            "Onlar Türk çayı içiyorum.",
+            "Onlar Türk çayı içiyoruz.",
+            "Onlar Türk çayı içiyorlar."
           ],
           "answerIndex": 3,
           "explanation": "içiyorlar = they are drinking, Türk çayı = Turkish tea."
@@ -3215,10 +3215,10 @@
         {
           "prompt": "How do you say 'I don't understand' in Turkish?",
           "options": [
-            "Anlamıyorum. (17.1)",
-            "Anlıyorum. (17.2)",
-            "Anlamadı. (17.3)",
-            "Anlamazsın. (17.4)"
+            "Anlamıyorum.",
+            "Anlıyorum.",
+            "Anlamadı.",
+            "Anlamazsın."
           ],
           "answerIndex": 0,
           "explanation": "anla- + -m- + -ıyor + -um = Anlamıyorum."
@@ -3241,10 +3241,10 @@
         {
           "prompt": "Translate: 'We do not smoke cigarettes.'",
           "options": [
-            "Sigara içiyoruz. (17.1)",
-            "Sigara içmiyorsun. (17.2)",
-            "Sigara içmiyorlar. (17.3)",
-            "Sigara içmiyoruz. (17.4)"
+            "Sigara içiyoruz.",
+            "Sigara içmiyorsun.",
+            "Sigara içmiyorlar.",
+            "Sigara içmiyoruz."
           ],
           "answerIndex": 3,
           "explanation": "içmiyoruz = we do not smoke/drink."
@@ -3359,10 +3359,10 @@
         {
           "prompt": "What is the accusative form of 'araba' (car) in 'I am washing the car'?",
           "options": [
-            "araba (18.1)",
-            "arabada (18.2)",
-            "arabaya (18.3)",
-            "arabayı (18.4)"
+            "araba",
+            "arabada",
+            "arabaya",
+            "arabayı"
           ],
           "answerIndex": 3,
           "explanation": "araba ends in vowel 'a' -> buffer 'y' + 'ı' = arabayı."
@@ -3370,10 +3370,10 @@
         {
           "prompt": "Translate: 'I am reading a book' (general/indefinite) vs 'I am reading the book' (specific):",
           "options": [
-            "Kitabı okuyorum (general) / Kitap okuyorum (specific)",
+            "Kitabı okuyorum (general) / Kitap okuyorum",
             "Kitapta okuyorum / Kitaptan okuyorum",
             "Kitaba okuyorum / Kitapla okuyorum",
-            "Kitap okuyorum (general) / Kitabı okuyorum (specific)"
+            "Kitap okuyorum (general) / Kitabı okuyorum"
           ],
           "answerIndex": 3,
           "explanation": "Bare noun = general; accusative (-ı) = definite specific."
@@ -3385,10 +3385,10 @@
         {
           "prompt": "What happens to the letter 'k' in 'müzik' when adding the accusative suffix?",
           "options": [
-            "It softens to 'ğ': müziği (18.1)",
-            "It becomes 'g': müzigi (18.2)",
-            "It disappears: müzi (18.3)",
-            "It stays 'k': müziki (18.4)"
+            "It softens to 'ğ': müziği",
+            "It becomes 'g': müzigi",
+            "It disappears: müzi",
+            "It stays 'k': müziki"
           ],
           "answerIndex": 0,
           "explanation": "Intervocalic 'k' softens to 'ğ' (müziği)."
@@ -3503,10 +3503,10 @@
         {
           "prompt": "How do you write 'Are you listening?' correctly in Turkish?",
           "options": [
-            "Dinliyor musun? (19.1)",
-            "Dinliyor misin? (19.2)",
-            "Dinliyor mu? (19.3)",
-            "Dinliyormusun? (19.4)"
+            "Dinliyor musun?",
+            "Dinliyor misin?",
+            "Dinliyor mu?",
+            "Dinliyormusun?"
           ],
           "answerIndex": 0,
           "explanation": "'mu' is written separately and takes -sun: Dinliyor musun?"
@@ -3529,10 +3529,10 @@
         {
           "prompt": "Translate: 'Are they working today?'",
           "options": [
-            "Bugün çalışıyorlar mı? (19.1)",
-            "Bugün çalışıyor musun? (19.2)",
-            "Bugün çalışıyor musunuz? (19.3)",
-            "Bugün çalışıyor muyuz? (19.4)"
+            "Bugün çalışıyorlar mı?",
+            "Bugün çalışıyor musun?",
+            "Bugün çalışıyor musunuz?",
+            "Bugün çalışıyor muyuz?"
           ],
           "answerIndex": 0,
           "explanation": "çalışıyorlar mı? is the 3rd person plural question form."
@@ -3647,10 +3647,10 @@
         {
           "prompt": "In the dialogue, what is Elif doing on the Kadıköy ferry?",
           "options": [
-            "Boğaz'ı seyrediyor ve çay içiyor (Watching Bosphorus and drinking tea) (20.1)",
-            "Uykuda ve müzik dinlemiyor (20.2)",
-            "Ofiste rapor yazıyor (20.3)",
-            "Araba sürüyor (20.4)"
+            "Boğaz'ı seyrediyor ve çay içiyor",
+            "Uykuda ve müzik dinlemiyor",
+            "Ofiste rapor yazıyor",
+            "Araba sürüyor"
           ],
           "answerIndex": 0,
           "explanation": "Elif states: 'Boğaz'ı seyrediyorum ve sıcak çay içiyorum.'"
@@ -3658,10 +3658,10 @@
         {
           "prompt": "Why isn't Elif working today in the dialogue?",
           "options": [
-            "Bugün izinli (She has the day off)",
-            "Hasta (She is sick)",
-            "İşini kaybetti (She lost her job)",
-            "Tembel (She is lazy)"
+            "Bugün izinli",
+            "Hasta",
+            "İşini kaybetti",
+            "Tembel"
           ],
           "answerIndex": 0,
           "explanation": "'Bugün izinliyim, çalışmıyorum!' = I have the day off."
@@ -3673,10 +3673,10 @@
         {
           "prompt": "Translate: 'I am paying the bill.'",
           "options": [
-            "Hesapta ödüyorum. (20.1)",
-            "Hesabı ödüyorum. (20.2)",
-            "Hesaptan ödüyorum. (20.3)",
-            "Hesap ödüyorum. (20.4)"
+            "Hesapta ödüyorum.",
+            "Hesabı ödüyorum.",
+            "Hesaptan ödüyorum.",
+            "Hesap ödüyorum."
           ],
           "answerIndex": 1,
           "explanation": "hesabı = the bill (definite accusative)."
@@ -3791,10 +3791,10 @@
         {
           "prompt": "How do you say 'at 3 o'clock' in Turkish?",
           "options": [
-            "saat üçde (21.1)",
-            "saat üçda (21.2)",
-            "saat üçta (21.3)",
-            "saat üçte (üç ends in voiceless 'ç' -> -te) (21.4)"
+            "saat üçde",
+            "saat üçda",
+            "saat üçta",
+            "saat üçte"
           ],
           "answerIndex": 3,
           "explanation": "üç + -te = saat üçte."
@@ -3817,10 +3817,10 @@
         {
           "prompt": "Translate: 'The meeting starts at 10:30.'",
           "options": [
-            "Toplantı saat onda başlıyor. (21.1)",
-            "Toplantı saat on çeyrekte başlıyor. (21.2)",
-            "Toplantı saat on yarımda başlıyor. (21.3)",
-            "Toplantı saat on buçukta başlıyor. (21.4)"
+            "Toplantı saat onda başlıyor.",
+            "Toplantı saat on çeyrekte başlıyor.",
+            "Toplantı saat on yarımda başlıyor.",
+            "Toplantı saat on buçukta başlıyor."
           ],
           "answerIndex": 3,
           "explanation": "on buçukta = at 10:30."
@@ -3831,7 +3831,7 @@
             "Early morning",
             "Midnight",
             "Evening sunset",
-            "Afternoon (after noon)"
+            "Afternoon"
           ],
           "answerIndex": 3,
           "explanation": "öğleden sonra = in the afternoon."
@@ -3879,10 +3879,10 @@
         {
           "prompt": "What does 'buçuk' mean when telling time?",
           "options": [
-            "Exact on the hour (:00)",
-            "Half past (:30)",
-            "Quarter to (:45)",
-            "Quarter past (:15)"
+            "Exact on the hour",
+            "Half past",
+            "Quarter to",
+            "Quarter past"
           ],
           "answerIndex": 1,
           "explanation": "buçuk means half past the hour.",
@@ -3935,10 +3935,10 @@
         {
           "prompt": "What does 'dişlerini fırçalamak' mean?",
           "options": [
-            "to brush one's teeth (22.1)",
-            "to comb one's hair (22.2)",
-            "to wash one's face (22.3)",
-            "to take a shower (22.4)"
+            "to brush one's teeth",
+            "to comb one's hair",
+            "to wash one's face",
+            "to take a shower"
           ],
           "answerIndex": 0,
           "explanation": "dişlerini fırçalamak = brush teeth."
@@ -3961,10 +3961,10 @@
         {
           "prompt": "Translate: 'I wake up at 6:30 and take a shower.'",
           "options": [
-            "Altı buçukta uyuyorum ve duş almıyorum. (22.1)",
-            "Yedide kalkıyorum ve yemek yemiyorum. (22.2)",
-            "Altı buçukta uyanıyorum ve duş alıyorum. (22.3)",
-            "Sekizde işe gidiyorum. (22.4)"
+            "Altı buçukta uyuyorum ve duş almıyorum.",
+            "Yedide kalkıyorum ve yemek yemiyorum.",
+            "Altı buçukta uyanıyorum ve duş alıyorum.",
+            "Sekizde işe gidiyorum."
           ],
           "answerIndex": 2,
           "explanation": "Altı buçukta uyanıyorum ve duş alıyorum."
@@ -4080,10 +4080,10 @@
         {
           "prompt": "Which case suffix is used for 'to work' in 'I am going to work'?",
           "options": [
-            "işte (Locative) (23.1)",
-            "işten (Ablative) (23.2)",
-            "işi (Accusative) (23.3)",
-            "işe (Dative -e indicating destination) (23.4)"
+            "işte",
+            "işten",
+            "işi",
+            "işe"
           ],
           "answerIndex": 3,
           "explanation": "iş + -e = işe (to work)."
@@ -4106,10 +4106,10 @@
         {
           "prompt": "Translate: 'We are resting at the café.'",
           "options": [
-            "Kafede dinleniyoruz. (23.1)",
-            "Kafeye dinleniyoruz. (23.2)",
-            "Kafeden dinleniyoruz. (23.3)",
-            "Kafeyi dinleniyoruz. (23.4)"
+            "Kafede dinleniyoruz.",
+            "Kafeye dinleniyoruz.",
+            "Kafeden dinleniyoruz.",
+            "Kafeyi dinleniyoruz."
           ],
           "answerIndex": 0,
           "explanation": "kafe + -de = kafede (at the café)."
@@ -4117,7 +4117,7 @@
         {
           "prompt": "Arrange into correct Turkish SOV order: 'gidiyorum' (Verb), 'Ben' (Subject), 'okula' (Dative Object):",
           "options": [
-            "Ben okula gidiyorum. (S-O-V)",
+            "Ben okula gidiyorum.",
             "Ben gidiyorum okula.",
             "Gidiyorum okula ben.",
             "Okula gidiyorum ben."
@@ -4134,7 +4134,7 @@
           "options": [
             "SVO: Subject + Verb + Object",
             "OVS: Object + Verb + Subject",
-            "SOV: Subject + Object/Adverbial + Verb (Verb placed at the end)",
+            "SOV: Subject + Object/Adverbial + Verb",
             "VSO: Verb + Subject + Object"
           ],
           "answerIndex": 2,
@@ -4224,10 +4224,10 @@
         {
           "prompt": "How do you say 'after work' in Turkish?",
           "options": [
-            "işten sonra (iş + -ten + sonra) (24.1)",
-            "işte sonra (24.2)",
-            "işi sonra (24.3)",
-            "işe sonra (24.4)"
+            "işten sonra",
+            "işte sonra",
+            "işi sonra",
+            "işe sonra"
           ],
           "answerIndex": 0,
           "explanation": "iş + -ten + sonra = işten sonra."
@@ -4250,10 +4250,10 @@
         {
           "prompt": "Translate: 'First I study, then I sleep.'",
           "options": [
-            "Önce ders çalışıyorum, sonra uyuyorum. (24.1)",
-            "Uykudan sonra ders çalışmıyorum. (24.2)",
-            "Sonra ders çalışıyorum, önce uyuyorum. (24.3)",
-            "Dersten önce uyuyorum. (24.4)"
+            "Önce ders çalışıyorum, sonra uyuyorum.",
+            "Uykudan sonra ders çalışmıyorum.",
+            "Sonra ders çalışıyorum, önce uyuyorum.",
+            "Dersten önce uyuyorum."
           ],
           "answerIndex": 0,
           "explanation": "Önce ... sonra ..."
@@ -4276,10 +4276,10 @@
         {
           "prompt": "Which case suffix must precede the postpositions 'önce' (before) and 'sonra' (after)?",
           "options": [
-            "Dative case (-e / -a)",
-            "Ablative case (-den / -dan / -ten / -tan)",
-            "Locative case (-de / -da)",
-            "Accusative case (-i / -ı)"
+            "Dative case",
+            "Ablative case",
+            "Locative case",
+            "Accusative case"
           ],
           "answerIndex": 1,
           "explanation": "önce and sonra govern the Ablative case.",
@@ -4368,10 +4368,10 @@
         {
           "prompt": "In the dialogue, what does Zeynep eat for breakfast on her balcony in Izmir?",
           "options": [
-            "Taze boyoz ve çay (Fresh boyoz pastry and tea) (25.1)",
-            "Sadece kahve (25.2)",
-            "Meyve suyu ve tost (25.3)",
-            "Çorba (25.4)"
+            "Taze boyoz ve çay",
+            "Sadece kahve",
+            "Meyve suyu ve tost",
+            "Çorba"
           ],
           "answerIndex": 0,
           "explanation": "Zeynep says: 'taze boyoz ile çay içiyorum.'"
@@ -4379,7 +4379,7 @@
         {
           "prompt": "How does Zeynep commute to Konak in Izmir?",
           "options": [
-            "Vapurla (By passenger ferry)",
+            "Vapurla",
             "Arabayla",
             "Otobüsle",
             "Yürüyerek"
@@ -4394,10 +4394,10 @@
         {
           "prompt": "Translate: 'After work, I walk on the seaside with my friends.'",
           "options": [
-            "İşte arkadaşlarımla sahilde yürüyorum. (25.1)",
-            "İşten sonra arkadaşlarımla sahilde yürüyorum. (25.2)",
-            "Evde arkadaşlarımla sahilde yürüyorum. (25.3)",
-            "İşten önce arkadaşlarımla sahilde yürüyorum. (25.4)"
+            "İşte arkadaşlarımla sahilde yürüyorum.",
+            "İşten sonra arkadaşlarımla sahilde yürüyorum.",
+            "Evde arkadaşlarımla sahilde yürüyorum.",
+            "İşten önce arkadaşlarımla sahilde yürüyorum."
           ],
           "answerIndex": 1,
           "explanation": "İşten sonra (after work) + sahilde (on coast/seaside) + yürüyorum (I walk)."
@@ -4457,7 +4457,7 @@
           "prompt": "What core competencies were mastered across Unit 5 in Turkish?",
           "options": [
             "Past tense -miş and future tense -ecek only",
-            "Telling time & schedule points with locative (-de/te), routine action verbs, spatial Locative & Dative cases in SOV syntax, and temporal postpositions (-den önce/sonra)",
+            "Telling time & schedule points with locative (-de/te), routine action verbs, spatial Locative & Dative cases in SOV syntax, and temporal postpositions",
             "Alphabet and numbers only",
             "Conditional clauses only"
           ],
@@ -4513,10 +4513,10 @@
         {
           "prompt": "What is the traditional beverage paired with kebabs and savory dishes in Turkey?",
           "options": [
-            "Limonata (26.1)",
-            "Sıcak süt (26.2)",
-            "Portakal suyu (26.3)",
-            "Ayran (cold salted yogurt drink) (26.4)"
+            "Limonata",
+            "Sıcak süt",
+            "Portakal suyu",
+            "Ayran"
           ],
           "answerIndex": 3,
           "explanation": "Ayran is the national savory meal beverage."
@@ -4524,10 +4524,10 @@
         {
           "prompt": "How do you specify 'medium sugar' when ordering Turkish coffee?",
           "options": [
-            "az şekerli (little sugar)",
-            "şekerli (sweet)",
-            "orta (or orta şekerli)",
-            "sade (no sugar)"
+            "az şekerli",
+            "şekerli",
+            "orta",
+            "sade"
           ],
           "answerIndex": 2,
           "explanation": "orta = medium sugar."
@@ -4539,10 +4539,10 @@
         {
           "prompt": "Translate: 'fresh bread and white cheese'",
           "options": [
-            "sıcak çorba ve köfte (26.1)",
-            "soğuk su ve pilav (26.2)",
-            "balık ve salata (26.3)",
-            "taze ekmek ve beyaz peynir (26.4)"
+            "sıcak çorba ve köfte",
+            "soğuk su ve pilav",
+            "balık ve salata",
+            "taze ekmek ve beyaz peynir"
           ],
           "answerIndex": 3,
           "explanation": "taze ekmek = fresh bread, beyaz peynir = white cheese."
@@ -4658,10 +4658,10 @@
         {
           "prompt": "How do you politely get a waiter's attention in Turkey?",
           "options": [
-            "Bakar mısınız? (Would you look here, please?) (27.1)",
-            "Hey sen! (27.2)",
-            "Buraya gel! (27.3)",
-            "Garson çabuk! (27.4)"
+            "Bakar mısınız?",
+            "Hey sen!",
+            "Buraya gel!",
+            "Garson çabuk!"
           ],
           "answerIndex": 0,
           "explanation": "'Bakar mısınız?' is the standard courteous call."
@@ -4684,10 +4684,10 @@
         {
           "prompt": "Translate: 'Can I pay by credit card?'",
           "options": [
-            "Nakit ödeyebilir miyim? (27.1)",
-            "Hesap ne kadar? (27.2)",
-            "Kredi kartıyla ödeyebilir miyim? (27.3)",
-            "Kartım yok. (27.4)"
+            "Nakit ödeyebilir miyim?",
+            "Hesap ne kadar?",
+            "Kredi kartıyla ödeyebilir miyim?",
+            "Kartım yok."
           ],
           "answerIndex": 2,
           "explanation": "Kredi kartıyla ödeyebilir miyim? = Can I pay by credit card?"
@@ -4712,7 +4712,7 @@
           "options": [
             "Yemek bitti!",
             "Biz gidiyoruz!",
-            "Hesabı alabilir miyiz? (or Hesap lütfen!)",
+            "Hesabı alabilir miyiz?",
             "Menüyü alabilir miyiz?"
           ],
           "answerIndex": 2,
@@ -4803,10 +4803,10 @@
         {
           "prompt": "How do you say 'I love Turkish food' in Turkish?",
           "options": [
-            "Türk yemekleri çok istiyorum. (28.1)",
-            "Türk yemeklerinde seviyorum. (28.2)",
-            "Türk yemeklerinden istiyorum. (28.3)",
-            "Türk yemeklerini çok seviyorum. (Accusative object) (28.4)"
+            "Türk yemekleri çok istiyorum.",
+            "Türk yemeklerinde seviyorum.",
+            "Türk yemeklerinden istiyorum.",
+            "Türk yemeklerini çok seviyorum."
           ],
           "answerIndex": 3,
           "explanation": "Türk yemeklerini çok seviyorum."
@@ -4817,7 +4817,7 @@
             "Çay kahveye seviyorum.",
             "Kahveyi çayda seviyorum.",
             "Çay ve kahve sevmiyorum.",
-            "Çayı kahveden daha çok seviyorum. (Ablative comparison on coffee: kahveden)"
+            "Çayı kahveden daha çok seviyorum."
           ],
           "answerIndex": 3,
           "explanation": "X-i Y-den daha çok sevmek = to like X more than Y."
@@ -4829,10 +4829,10 @@
         {
           "prompt": "Translate: 'I don't like spicy food.'",
           "options": [
-            "Acı yemek sevmiyorum. (28.1)",
-            "Tatlı yemek sevmiyorum. (28.2)",
-            "Tuzlu yemek istiyorum. (28.3)",
-            "Sıcak yemek seviyorum. (28.4)"
+            "Acı yemek sevmiyorum.",
+            "Tatlı yemek sevmiyorum.",
+            "Tuzlu yemek istiyorum.",
+            "Sıcak yemek seviyorum."
           ],
           "answerIndex": 0,
           "explanation": "acı yemek = spicy food, sevmiyorum = I don't like."
@@ -4856,7 +4856,7 @@
           "prompt": "What case suffix does the object of 'sevmek' (to like/love) typically take when specific?",
           "options": [
             "Ablative case",
-            "Accusative case (-(y)ı / -(y)i / -(y)u / -(y)ü)",
+            "Accusative case (-(y)ı / -(y)i / -(y)u / -(y)ü",
             "Dative case",
             "Locative case"
           ],
@@ -4948,10 +4948,10 @@
         {
           "prompt": "What does 'acı' mean when describing food in Turkish?",
           "options": [
-            "cold (29.1)",
-            "spicy / hot / pungent (29.2)",
-            "salty (29.3)",
-            "sweet (29.4)"
+            "cold",
+            "spicy / hot / pungent",
+            "salty",
+            "sweet"
           ],
           "answerIndex": 1,
           "explanation": "acı = spicy / hot."
@@ -4959,7 +4959,7 @@
         {
           "prompt": "Which word means 'delicious / exquisite'?",
           "options": [
-            "nefis (or lezzetli)",
+            "nefis",
             "soğuk",
             "tuzsuz",
             "bayat"
@@ -4974,10 +4974,10 @@
         {
           "prompt": "Translate: 'The tea is hot and fresh.'",
           "options": [
-            "Çay sıcak ve taze. (29.1)",
-            "Çay tuzlu ve ekşi. (29.2)",
-            "Çay soğuk ve bayat. (29.3)",
-            "Çay tatlı ve acı. (29.4)"
+            "Çay sıcak ve taze.",
+            "Çay tuzlu ve ekşi.",
+            "Çay soğuk ve bayat.",
+            "Çay tatlı ve acı."
           ],
           "answerIndex": 0,
           "explanation": "sıcak = hot, taze = fresh."
@@ -4985,7 +4985,7 @@
         {
           "prompt": "What is the opposite of 'taze' (fresh)?",
           "options": [
-            "bayat (stale)",
+            "bayat",
             "tuzlu",
             "tatlı",
             "sıcak"
@@ -5092,10 +5092,10 @@
         {
           "prompt": "In the dialogue, what main course dishes do Murat and Selin order?",
           "options": [
-            "Acılı Adana kebap ve ızgara tavuk şiş (Spicy Adana kebab and grilled chicken shish) (30.1)",
-            "Balık ve patates (30.2)",
-            "Sadece makarna (30.3)",
-            "Pide ve çorba (30.4)"
+            "Acılı Adana kebap ve ızgara tavuk şiş",
+            "Balık ve patates",
+            "Sadece makarna",
+            "Pide ve çorba"
           ],
           "answerIndex": 0,
           "explanation": "Murat orders Adana kebab and Selin orders tavuk şiş."
@@ -5103,7 +5103,7 @@
         {
           "prompt": "How does the customer compliment the restaurant staff after enjoying the meal?",
           "options": [
-            "Elinize sağlık! (Health to your hands!)",
+            "Elinize sağlık!",
             "Görüşürüz!",
             "Hesap pahalı!",
             "İstemiyorum!"
@@ -5118,10 +5118,10 @@
         {
           "prompt": "Translate: 'May we have two medium Turkish coffees and the bill, please?'",
           "options": [
-            "Kahve yok ve hesap nerede? (30.1)",
-            "İki orta Türk kahvesi ve hesabı alabilir miyiz, lütfen? (30.2)",
-            "Biz kahve içmiyoruz. (30.3)",
-            "İki çay ve menüyü istiyorum. (30.4)"
+            "Kahve yok ve hesap nerede?",
+            "İki orta Türk kahvesi ve hesabı alabilir miyiz, lütfen?",
+            "Biz kahve içmiyoruz.",
+            "İki çay ve menüyü istiyorum."
           ],
           "answerIndex": 1,
           "explanation": "İki orta Türk kahvesi ve hesabı alabilir miyiz = May we have two medium Turkish coffees and the bill?"
@@ -5158,7 +5158,7 @@
           "options": [
             "Güle güle!",
             "İyi geceler!",
-            "Hoş bulduk! (We find ourselves welcome!)",
+            "Hoş bulduk!",
             "Afiyet olsun!"
           ],
           "answerIndex": 2,
@@ -5180,7 +5180,7 @@
         {
           "prompt": "What core competencies were mastered across Unit 6 in Turkish?",
           "options": [
-            "Food & drink staples, polite ordering with 'Alabilir miyim?', expressing preferences with 'sevmek/istemek' and comparisons, taste adjectives, and restaurant payment/tipping (bahşiş)",
+            "Food & drink staples, polite ordering with 'Alabilir miyim?', expressing preferences with 'sevmek/istemek' and comparisons, taste adjectives, and restaurant payment/tipping",
             "Passive voice only",
             "Alphabet and numbers only",
             "Optative mood conjugations only"
@@ -5231,10 +5231,10 @@
         {
           "prompt": "What is the past tense of 'yapmak' (to do/make) for 3rd person (o)?",
           "options": [
-            "yapdı (31.1)",
-            "yaptu (31.2)",
-            "yapti (31.3)",
-            "yaptı (root 'yap' ends in 'p', triggering assimilation d -> t, and 'a' harmony -> ı) (31.4)"
+            "yapdı",
+            "yaptu",
+            "yapti",
+            "yaptı"
           ],
           "answerIndex": 3,
           "explanation": "Yap ends in voiceless 'p', so d -> t; back vowel 'a' -> -tı."
@@ -5244,7 +5244,7 @@
           "options": [
             "-dı",
             "-du",
-            "-dü (gördü — rounded front vowel harmony ö -> ü)",
+            "-dü",
             "-di"
           ],
           "answerIndex": 2,
@@ -5257,10 +5257,10 @@
         {
           "prompt": "Translate: 'Dün Kapadokya'da sıcak hava balonu uçtu.'",
           "options": [
-            "Today we will fly in a hot air balloon. (31.1)",
-            "Balloons do not fly in Cappadocia. (31.2)",
-            "We bought a ticket for the balloon. (31.3)",
-            "Yesterday the hot air balloon flew in Cappadocia. (31.4)"
+            "Today we will fly in a hot air balloon.",
+            "Balloons do not fly in Cappadocia.",
+            "We bought a ticket for the balloon.",
+            "Yesterday the hot air balloon flew in Cappadocia."
           ],
           "answerIndex": 3,
           "explanation": "uçtu = flew (uç- ends in ç -> -tu)."
@@ -5370,10 +5370,10 @@
         {
           "prompt": "How do you say 'We went to the market' in Turkish?",
           "options": [
-            "Pazara gittik. (git- + -ti + -k) (32.1)",
-            "Pazara gittiler. (32.2)",
-            "Pazara gittim. (32.3)",
-            "Pazara gittin. (32.4)"
+            "Pazara gittik.",
+            "Pazara gittiler.",
+            "Pazara gittim.",
+            "Pazara gittin."
           ],
           "answerIndex": 0,
           "explanation": "Biz personal suffix in past tense is -k -> gittik."
@@ -5381,7 +5381,7 @@
         {
           "prompt": "How do you say 'I was at home yesterday' using 'evde' (at home)?",
           "options": [
-            "Dün evdeydim. (evde + buffer y + -dim)",
+            "Dün evdeydim.",
             "Dün evdedim.",
             "Dün evdeyim.",
             "Dün evde oldum."
@@ -5396,10 +5396,10 @@
         {
           "prompt": "Translate: 'Onlar Kapadokya'da peri bacalarını gördüler.'",
           "options": [
-            "We want to see the fairy chimneys. (32.1)",
-            "Fairy chimneys are very tall. (32.2)",
-            "They saw the fairy chimneys in Cappadocia. (32.3)",
-            "They will visit Cappadocia tomorrow. (32.4)"
+            "We want to see the fairy chimneys.",
+            "Fairy chimneys are very tall.",
+            "They saw the fairy chimneys in Cappadocia.",
+            "They will visit Cappadocia tomorrow."
           ],
           "answerIndex": 2,
           "explanation": "gördüler = they saw (gör- + -dü + -ler); peri bacaları = fairy chimneys."
@@ -5509,10 +5509,10 @@
         {
           "prompt": "How do you say 'I didn't buy the tickets' in Turkish?",
           "options": [
-            "Biletleri almadın. (33.1)",
-            "Biletleri almadık. (33.2)",
-            "Biletleri almadılar. (33.3)",
-            "Biletleri almadım. (al- + -ma + -dı + -m) (33.4)"
+            "Biletleri almadın.",
+            "Biletleri almadık.",
+            "Biletleri almadılar.",
+            "Biletleri almadım."
           ],
           "answerIndex": 3,
           "explanation": "al- + -ma (negative) + -dı (past) + -m (1st person) = almadım."
@@ -5535,10 +5535,10 @@
         {
           "prompt": "Translate: 'Dün hava yağmurlu değildi, çok güzeldi.'",
           "options": [
-            "Yesterday the weather was not rainy, it was very beautiful. (33.1)",
-            "Yesterday it rained all day. (33.2)",
-            "Tomorrow the weather will be rainy. (33.3)",
-            "We dislike rainy weather. (33.4)"
+            "Yesterday the weather was not rainy, it was very beautiful.",
+            "Yesterday it rained all day.",
+            "Tomorrow the weather will be rainy.",
+            "We dislike rainy weather."
           ],
           "answerIndex": 0,
           "explanation": "yağmurlu değildi = was not rainy (değil + -di)."
@@ -5649,10 +5649,10 @@
         {
           "prompt": "How do you say 'three days ago' in Turkish?",
           "options": [
-            "üç gün dün (34.1)",
-            "üç gün önce (34.2)",
-            "önce üç gün (34.3)",
-            "üç gün sonra (34.4)"
+            "üç gün dün",
+            "üç gün önce",
+            "önce üç gün",
+            "üç gün sonra"
           ],
           "answerIndex": 1,
           "explanation": "Duration + önce = ago (üç gün önce)."
@@ -5675,10 +5675,10 @@
         {
           "prompt": "Translate: 'Daha sonra geleneksel bir restoranda testi kebabı yedik.'",
           "options": [
-            "Later on we ate pottery kebab (testi kebabı) at a traditional restaurant. (34.1)",
-            "We don't eat meat in Cappadocia. (34.2)",
-            "We are cooking kebab at home. (34.3)",
-            "The restaurant was closed for dinner. (34.4)"
+            "Later on we ate pottery kebab (testi kebabı) at a traditional restaurant.",
+            "We don't eat meat in Cappadocia.",
+            "We are cooking kebab at home.",
+            "The restaurant was closed for dinner."
           ],
           "answerIndex": 0,
           "explanation": "Daha sonra = later on; testi kebabı = pottery kebab."
@@ -5686,7 +5686,7 @@
         {
           "prompt": "Which word means 'suddenly' in Turkish storytelling?",
           "options": [
-            "birdenbire (or aniden)",
+            "birdenbire",
             "dün",
             "sonunda",
             "ilk olarak"
@@ -5704,7 +5704,7 @@
             "Sonra -> Sonra -> Sonra -> Dün",
             "Sonunda -> İlk olarak -> Sonra -> Daha sonra",
             "Yarın -> Dün -> Bugün -> Şimdi",
-            "İlk olarak (first) -> Sonra (then) -> Daha sonra (after that) -> Sonunda (finally)"
+            "İlk olarak (first) -> Sonra (then) -> Daha sonra (after that) -> Sonunda"
           ],
           "answerIndex": 3,
           "explanation": "İlk olarak -> Sonra -> Daha sonra -> Sonunda.",
@@ -5726,7 +5726,7 @@
           "prompt": "How do you say 'last year' in Turkish?",
           "options": [
             "gelecek yıl",
-            "geçen yıl (or geçen sene)",
+            "geçen yıl",
             "bu yıl",
             "iki yıl sonra"
           ],
@@ -5737,7 +5737,7 @@
         {
           "prompt": "Complete: 'Uzun bir yürüyüşten sonra _______ zirveye ulaştık.'",
           "options": [
-            "sonunda (finally / in the end)",
+            "sonunda",
             "dün",
             "önce",
             "aniden"
@@ -5789,10 +5789,10 @@
         {
           "prompt": "What famous sunrise activity did Zeynep participate in on Saturday morning?",
           "options": [
-            "Riding a hot air balloon over the fairy chimneys (sıcak hava balonuna bindik) (35.1)",
-            "Swimming in the sea (35.2)",
-            "Skiing on a mountain (35.3)",
-            "Shopping at the Grand Bazaar (35.4)"
+            "Riding a hot air balloon over the fairy chimneys",
+            "Swimming in the sea",
+            "Skiing on a mountain",
+            "Shopping at the Grand Bazaar"
           ],
           "answerIndex": 0,
           "explanation": "Zeynep rode a hot air balloon at sunrise over Cappadocia."
@@ -5815,10 +5815,10 @@
         {
           "prompt": "What historic craft did Zeynep try in the town of Avanos?",
           "options": [
-            "Carpet weaving (35.1)",
-            "Pottery-making with red clay from a master potter (çömlek yapmayı öğrendik) (35.2)",
-            "Shoemaking (35.3)",
-            "Glassblowing (35.4)"
+            "Carpet weaving",
+            "Pottery-making with red clay from a master potter",
+            "Shoemaking",
+            "Glassblowing"
           ],
           "answerIndex": 1,
           "explanation": "Avanos is famed for traditional clay pottery craftsmanship."
@@ -5929,10 +5929,10 @@
         {
           "prompt": "How do you say 'black shoes' in Turkish?",
           "options": [
-            "siyahlar ayakkabılar (36.1)",
-            "ayakkabılar siyah (36.2)",
-            "siyah ayakkabıler (36.3)",
-            "siyah ayakkabılar (adjective invariable + plural noun) (36.4)"
+            "siyahlar ayakkabılar",
+            "ayakkabılar siyah",
+            "siyah ayakkabıler",
+            "siyah ayakkabılar"
           ],
           "answerIndex": 3,
           "explanation": "Adjectives precede the noun without plural markings: siyah ayakkabılar."
@@ -5943,7 +5943,7 @@
             "Tea color",
             "Wood color",
             "Earth color",
-            "Coffee color (kahve + renk)"
+            "Coffee color"
           ],
           "answerIndex": 3,
           "explanation": "Kahverengi literally translates to 'coffee color'."
@@ -5955,10 +5955,10 @@
         {
           "prompt": "Translate: 'Kapalıçarşı'dan ipek bir şal ve deri bir çanta aldım.'",
           "options": [
-            "I sold my silk shawl in the bazaar. (36.1)",
-            "I am looking for a leather coat. (36.2)",
-            "The Grand Bazaar has no silk shawls. (36.3)",
-            "I bought a silk shawl and a leather handbag from the Grand Bazaar. (36.4)"
+            "I sold my silk shawl in the bazaar.",
+            "I am looking for a leather coat.",
+            "The Grand Bazaar has no silk shawls.",
+            "I bought a silk shawl and a leather handbag from the Grand Bazaar."
           ],
           "answerIndex": 3,
           "explanation": "ipek bir şal = silk shawl; deri bir çanta = leather bag."
@@ -5966,9 +5966,9 @@
         {
           "prompt": "What is the Turkish term for 'dress'?",
           "options": [
-            "etek (skirt)",
-            "gömlek (shirt)",
-            "kaban (coat)",
+            "etek",
+            "gömlek",
+            "kaban",
             "elbise"
           ],
           "answerIndex": 3,
@@ -6070,10 +6070,10 @@
         {
           "prompt": "How do you ask 'May I try this on?' in Turkish?",
           "options": [
-            "Deneyebilir miyim? (denemek + -ebilir miyim modal of permission) (37.1)",
-            "Bunu istemiyorum. (37.2)",
-            "Nerede kabin? (37.3)",
-            "Kaç para? (37.4)"
+            "Deneyebilir miyim?",
+            "Bunu istemiyorum.",
+            "Nerede kabin?",
+            "Kaç para?"
           ],
           "answerIndex": 0,
           "explanation": "Deneyebilir miyim = May I try it on?"
@@ -6081,8 +6081,8 @@
         {
           "prompt": "What is the Turkish term for clothing size?",
           "options": [
-            "beden (e.g. M beden, 38 beden)",
-            "numara (shoe size)",
+            "beden",
+            "numara",
             "kilo",
             "kuruş"
           ],
@@ -6096,10 +6096,10 @@
         {
           "prompt": "Translate: 'Bu ceket tam oldu, çok beğendim. Bunu alıyorum.'",
           "options": [
-            "This jacket is too tight, I don't want it. (37.1)",
-            "This jacket fits perfectly, I liked it very much. I'll take this one. (37.2)",
-            "How much is the jacket in size medium? (37.3)",
-            "I want to return this jacket. (37.4)"
+            "This jacket is too tight, I don't want it.",
+            "This jacket fits perfectly, I liked it very much. I'll take this one.",
+            "How much is the jacket in size medium?",
+            "I want to return this jacket."
           ],
           "answerIndex": 1,
           "explanation": "tam oldu = it fit perfectly; bunu alıyorum = I'll take this."
@@ -6210,10 +6210,10 @@
         {
           "prompt": "What is the correct accusative form of 'bu' (meaning 'this one' as a direct object)?",
           "options": [
-            "buyu (38.1)",
-            "bui (38.2)",
-            "bular (38.3)",
-            "bunu (bu + buffer 'n' + accusative -u) (38.4)"
+            "buyu",
+            "bui",
+            "bular",
+            "bunu"
           ],
           "answerIndex": 3,
           "explanation": "Buffer 'n' is inserted before grammatical cases: bu + n + u = bunu."
@@ -6224,7 +6224,7 @@
             "bunlar pantolon",
             "bunlar pantolonlar",
             "bunu pantolon",
-            "bu pantolon (or bu pantolonlar)"
+            "bu pantolon"
           ],
           "answerIndex": 3,
           "explanation": "Demonstrative adjectives before nouns remain in the singular base form: bu pantolon."
@@ -6236,10 +6236,10 @@
         {
           "prompt": "Translate: 'Şunu denemek istiyorum, lütfen bana otuz sekiz bedenini verir misiniz?'",
           "options": [
-            "I want to try that one on, could you please give me size 38? (38.1)",
-            "I want to buy these pants in size 40. (38.2)",
-            "How much is size 38? (38.3)",
-            "I don't like that dress. (38.4)"
+            "I want to try that one on, could you please give me size 38?",
+            "I want to buy these pants in size 40.",
+            "How much is size 38?",
+            "I don't like that dress."
           ],
           "answerIndex": 0,
           "explanation": "şunu = that one (acc.); denemek istiyorum = I want to try on."
@@ -6247,7 +6247,7 @@
         {
           "prompt": "What demonstrative refers to an object far away in the window or across the street?",
           "options": [
-            "o (o elbise / ondan)",
+            "o",
             "bu",
             "şu",
             "bunlar"
@@ -6265,7 +6265,7 @@
             "All mean 'yesterday'",
             "bunu: that one | şundan: this one",
             "All mean 'here'",
-            "bunu: this one (acc.) | şundan: from that one (abl.) | ona: to that one (dat.) | bunlar: these (pl. nom.)"
+            "bunu: this one (acc.) | şundan: from that one (abl.) | ona: to that one (dat.) | bunlar: these"
           ],
           "answerIndex": 3,
           "explanation": "Pronominal demonstrative case inflections.",
@@ -6350,10 +6350,10 @@
         {
           "prompt": "How do you say 'This jacket is cheaper than that one' in Turkish?",
           "options": [
-            "Bu ceket en ucuz. (39.1)",
-            "Bu ceket şundan daha ucuz. (şu + n + dan + daha ucuz) (39.2)",
-            "Bu ceket şuna ucuz. (39.3)",
-            "Bu ceket şu kadar ucuz. (39.4)"
+            "Bu ceket en ucuz.",
+            "Bu ceket şundan daha ucuz.",
+            "Bu ceket şuna ucuz.",
+            "Bu ceket şu kadar ucuz."
           ],
           "answerIndex": 1,
           "explanation": "Ablative -dan + daha ucuz = cheaper than."
@@ -6361,7 +6361,7 @@
         {
           "prompt": "What does a customer say in the Grand Bazaar when asking for the bottom-line price?",
           "options": [
-            "Son fiyatınız ne olur? (What would be your final price?)",
+            "Son fiyatınız ne olur?",
             "Saat kaç?",
             "Bunu istemiyorum.",
             "Dükkan nerede?"
@@ -6376,10 +6376,10 @@
         {
           "prompt": "Translate: 'Bize çay ikram ettiler ve fiyatta güzel bir indirim yaptılar.'",
           "options": [
-            "They treated us to tea and gave us a nice discount on the price. (39.1)",
-            "We didn't buy anything in the shop. (39.2)",
-            "They refused to sell tea or give discounts. (39.3)",
-            "Tea is very expensive in the bazaar. (39.4)"
+            "They treated us to tea and gave us a nice discount on the price.",
+            "We didn't buy anything in the shop.",
+            "They refused to sell tea or give discounts.",
+            "Tea is very expensive in the bazaar."
           ],
           "answerIndex": 0,
           "explanation": "çay ikram ettiler = treated to tea; indirim yaptılar = gave a discount."
@@ -6490,10 +6490,10 @@
         {
           "prompt": "What traditional cultural blessing did Ahmet Usta say to Murat upon finalizing the purchase?",
           "options": [
-            "Güle güle kullanın! (Use it in joy / wear in good health!) (40.1)",
-            "Afiyet olsun! (40.2)",
-            "İyi yolculuklar! (40.3)",
-            "Geçmiş olsun! (40.4)"
+            "Güle güle kullanın!",
+            "Afiyet olsun!",
+            "İyi yolculuklar!",
+            "Geçmiş olsun!"
           ],
           "answerIndex": 0,
           "explanation": "'Güle güle kullanın!' is the universal Turkish blessing when someone buys new goods."
@@ -6501,7 +6501,7 @@
         {
           "prompt": "What phrase did Murat use to accept the final negotiated price?",
           "options": [
-            "Anlaştık! (Agreed! / It's a deal!)",
+            "Anlaştık!",
             "İstemiyorum.",
             "Pahalı.",
             "Nerede?"
@@ -6516,10 +6516,10 @@
         {
           "prompt": "What was the final negotiated total price for both the leather jacket and the silk shawl?",
           "options": [
-            "1,000 TL (40.1)",
-            "4,200 TL (dört bin iki yüz lira — discounted from 5,000 TL) (40.2)",
-            "5,000 TL (40.3)",
-            "10,000 TL (40.4)"
+            "1,000 TL",
+            "4,200 TL",
+            "5,000 TL",
+            "10,000 TL"
           ],
           "answerIndex": 1,
           "explanation": "Final price was 4,200 TL (dört bin iki yüz lira)."
@@ -6580,7 +6580,7 @@
           "options": [
             "Antalya",
             "Trabzon",
-            "Bursa (Turkey's historical silk capital)",
+            "Bursa",
             "Bodrum"
           ],
           "answerIndex": 2,
@@ -6631,10 +6631,10 @@
         {
           "prompt": "How do you say 'I go by ferry' in Turkish?",
           "options": [
-            "Vapurda gidiyorum. (41.1)",
-            "Vapura gidiyorum. (41.2)",
-            "Vapurdan gidiyorum. (41.3)",
-            "Vapurla gidiyorum. (vapur + instrumental suffix -la) (41.4)"
+            "Vapurda gidiyorum.",
+            "Vapura gidiyorum.",
+            "Vapurdan gidiyorum.",
+            "Vapurla gidiyorum."
           ],
           "answerIndex": 3,
           "explanation": "Instrumental suffix -(y)la denotes means of transit: vapurla."
@@ -6657,10 +6657,10 @@
         {
           "prompt": "Translate: 'İstanbulkart'ınızı turnikeye okutun ve perona geçin.'",
           "options": [
-            "Buy a ticket from the driver on the platform. (41.1)",
-            "The turnstile is locked for all passengers. (41.2)",
-            "Show your passport at the station entrance. (41.3)",
-            "Tap/scan your İstanbulkart at the turnstile and proceed to the platform. (41.4)"
+            "Buy a ticket from the driver on the platform.",
+            "The turnstile is locked for all passengers.",
+            "Show your passport at the station entrance.",
+            "Tap/scan your İstanbulkart at the turnstile and proceed to the platform."
           ],
           "answerIndex": 3,
           "explanation": "İstanbulkart'ı okutun = scan/tap card; turnikeye = at turnstile; perona geçin = proceed to platform."
@@ -6671,7 +6671,7 @@
             "To buy a ticket",
             "To exit the station",
             "To miss the train",
-            "To transfer / change between transit lines (e.g. from Marmaray to Metro)"
+            "To transfer / change between transit lines"
           ],
           "answerIndex": 3,
           "explanation": "Aktarma yapmak = to make a transit transfer."
@@ -6771,10 +6771,10 @@
         {
           "prompt": "How do you say 'in front of the museum' (müze) in Turkish?",
           "options": [
-            "müzenin önünde (Genitive müzenin + possessive önü + buffer n + locative de) (42.1)",
-            "müzeden önünde (42.2)",
-            "müze önünde (42.3)",
-            "müzeye önünde (42.4)"
+            "müzenin önünde",
+            "müzeden önünde",
+            "müze önünde",
+            "müzeye önünde"
           ],
           "answerIndex": 0,
           "explanation": "Spatial compound structure: müzenin önünde."
@@ -6782,10 +6782,10 @@
         {
           "prompt": "Which spatial postposition means 'across from / opposite'?",
           "options": [
-            "karşısında (e.g. parkın karşısında)",
-            "arkasında (behind)",
-            "arasında (between)",
-            "altında (under)"
+            "karşısında",
+            "arkasında",
+            "arasında",
+            "altında"
           ],
           "answerIndex": 0,
           "explanation": "Karşısında = across from / opposite."
@@ -6797,10 +6797,10 @@
         {
           "prompt": "Translate: 'Restoran tiyatronun arkasında ve parkın yakınında yer alıyor.'",
           "options": [
-            "The restaurant is inside the park. (42.1)",
-            "The restaurant is located behind the theater and near the park. (42.2)",
-            "The theater is far from the park. (42.3)",
-            "Where is the theater restaurant? (42.4)"
+            "The restaurant is inside the park.",
+            "The restaurant is located behind the theater and near the park.",
+            "The theater is far from the park.",
+            "Where is the theater restaurant?"
           ],
           "answerIndex": 1,
           "explanation": "tiyatronun arkasında = behind theater; parkın yakınında = near park."
@@ -6848,7 +6848,7 @@
           "prompt": "How is 'between the café and the bakery' constructed in Turkish?",
           "options": [
             "kafeden fırına arkasında",
-            "kafe ile fırın arasında (or kafe ve fırının arasında)",
+            "kafe ile fırın arasında",
             "kafe fırın üstünde",
             "kafe fırında yanında"
           ],
@@ -6911,10 +6911,10 @@
         {
           "prompt": "How do you tell someone 'Go straight ahead and turn right at the traffic lights' in formal Turkish?",
           "options": [
-            "Geri dönün ve durun. (43.1)",
-            "Sola dönün ve denize girin. (43.2)",
-            "Düz gidin ve trafik ışıklarından sağa dönün. (43.3)",
-            "Taksiye binin ve kaçın. (43.4)"
+            "Geri dönün ve durun.",
+            "Sola dönün ve denize girin.",
+            "Düz gidin ve trafik ışıklarından sağa dönün.",
+            "Taksiye binin ve kaçın."
           ],
           "answerIndex": 2,
           "explanation": "Düz gidin (straight) + sağa dönün (turn right) + trafik ışıklarından (at lights)."
@@ -6925,7 +6925,7 @@
             "Clean the avenue",
             "Drive along the avenue",
             "Block the avenue",
-            "Cross the avenue/street (cadde + accusative 'yi' + imperative 'geçin')"
+            "Cross the avenue/street"
           ],
           "answerIndex": 3,
           "explanation": "Caddeyi geçin = cross the avenue."
@@ -6937,10 +6937,10 @@
         {
           "prompt": "Translate: 'İkinci sokaktan sola dönün, müze sağ tarafınızda kalacak.'",
           "options": [
-            "Turn left at the second street, the museum will be on your right side. (43.1)",
-            "Turn right at the first street to the museum. (43.2)",
-            "Do not turn at the second street. (43.3)",
-            "The museum is closed on the left side. (43.4)"
+            "Turn left at the second street, the museum will be on your right side.",
+            "Turn right at the first street to the museum.",
+            "Do not turn at the second street.",
+            "The museum is closed on the left side."
           ],
           "answerIndex": 0,
           "explanation": "ikinci sokaktan sola dönün = turn left at 2nd street; sağ tarafınızda kalacak = will remain on your right."
@@ -6948,8 +6948,8 @@
         {
           "prompt": "Which verb means 'to board / get on' a tram or bus in Turkish?",
           "options": [
-            "binmek (e.g. tramvaya binin — takes Dative case)",
-            "inmek (to get off)",
+            "binmek",
+            "inmek",
             "yürümek",
             "almak"
           ],
@@ -6987,7 +6987,7 @@
         {
           "prompt": "How do you politely ask 'How do I get to...?' in Turkish?",
           "options": [
-            "...'e / ...'a nasıl gidebilirim? (or ...'e nasıl gidilir?)",
+            "...'e / ...'a nasıl gidebilirim?",
             "Siz kimsiniz?",
             "Saat kaç?",
             "Kaç para?"
@@ -7051,10 +7051,10 @@
         {
           "prompt": "Which case suffix marks motion across a bridge: 'Köprü_______ (across bridge) geçtik'?",
           "options": [
-            "-ye (44.1)",
-            "-den (köprüden geçmek — Ablative case for path traversed) (44.2)",
-            "-i (44.3)",
-            "-de (44.4)"
+            "-ye",
+            "-den",
+            "-i",
+            "-de"
           ],
           "answerIndex": 1,
           "explanation": "Passing across/through paths governs the Ablative case: köprüden geçmek."
@@ -7062,7 +7062,7 @@
         {
           "prompt": "Which postposition expresses moving 'towards' a destination taking the Dative case?",
           "options": [
-            "doğru (e.g. denize doğru = towards the sea)",
+            "doğru",
             "boyunca",
             "sonra",
             "kadar"
@@ -7077,10 +7077,10 @@
         {
           "prompt": "Translate: 'Sahil boyunca yürüyün ve meydana kadar ilerleyin.'",
           "options": [
-            "Walk along the coastline and advance as far as the square. (44.1)",
-            "Do not walk near the coast. (44.2)",
-            "Cross the sea before the square. (44.3)",
-            "The square has no coastline. (44.4)"
+            "Walk along the coastline and advance as far as the square.",
+            "Do not walk near the coast.",
+            "Cross the sea before the square.",
+            "The square has no coastline."
           ],
           "answerIndex": 0,
           "explanation": "sahil boyunca = along coast; meydana kadar = as far as square."
@@ -7130,7 +7130,7 @@
             "Far from the building",
             "Inside the building",
             "Behind the building",
-            "The limit or terminus of a journey ('as far as / all the way up to')"
+            "The limit or terminus of a journey"
           ],
           "answerIndex": 3,
           "explanation": "'-e kadar' expresses the terminus limit: all the way up to.",
@@ -7191,10 +7191,10 @@
         {
           "prompt": "Which tram line did Mehmet Bey instruct Emre to board to reach Sultanahmet?",
           "options": [
-            "T1 Kabataş-Bağcılar tramvayı (alighting at Sultanahmet stop) (45.1)",
-            "M2 Metrosu (45.2)",
-            "Marmaray (45.3)",
-            "T3 Kadıköy Moda tramvayı (45.4)"
+            "T1 Kabataş-Bağcılar tramvayı",
+            "M2 Metrosu",
+            "Marmaray",
+            "T3 Kadıköy Moda tramvayı"
           ],
           "answerIndex": 0,
           "explanation": "T1 Tram is the direct rail link running through Sultanahmet."
@@ -7202,7 +7202,7 @@
         {
           "prompt": "How many minarets distinguish the Blue Mosque (Sultanahmet Camii) on the square?",
           "options": [
-            "6 minarets (altı minareli)",
+            "6 minarets",
             "2 minarets",
             "1 minaret",
             "10 minarets"
@@ -7217,10 +7217,10 @@
         {
           "prompt": "Translate: 'İstanbulkart'ınızı turnikeye okutmanız yeterli.'",
           "options": [
-            "Buy a new İstanbulkart from the guard. (45.1)",
-            "It is sufficient to tap/scan your İstanbulkart at the turnstile. (45.2)",
-            "The turnstile is locked for everybody. (45.3)",
-            "You cannot use İstanbulkart at the turnstile. (45.4)"
+            "Buy a new İstanbulkart from the guard.",
+            "It is sufficient to tap/scan your İstanbulkart at the turnstile.",
+            "The turnstile is locked for everybody.",
+            "You cannot use İstanbulkart at the turnstile."
           ],
           "answerIndex": 1,
           "explanation": "okutmanız yeterli = it is sufficient to tap/scan."
@@ -7229,7 +7229,7 @@
           "prompt": "What does Zeynep Hanım mean by 'İstanbul'un tadını çıkarın'?",
           "options": [
             "Leave Istanbul immediately",
-            "Enjoy / savor Istanbul! (literally: take out the taste of Istanbul)",
+            "Enjoy / savor Istanbul!",
             "Istanbul is crowded",
             "Eat food in Istanbul"
           ],
@@ -7280,7 +7280,7 @@
           "prompt": "What warm greeting did Emre use when approaching Mehmet Bey at his transit post?",
           "options": [
             "Güle güle!",
-            "Kolay gelsin! (May it be easy / more power to your work!)",
+            "Kolay gelsin!",
             "Afiyet olsun!",
             "Tebrikler!"
           ],
@@ -7326,10 +7326,10 @@
         {
           "prompt": "Türkçede 'bedroom' nasıl denir?",
           "options": [
-            "Mutfak (46.1)",
-            "Banyo (46.2)",
-            "Salon (46.3)",
-            "Yatak odası (46.4)"
+            "Mutfak",
+            "Banyo",
+            "Salon",
+            "Yatak odası"
           ],
           "answerIndex": 3,
           "explanation": "Yatak odası (yatak = bed, oda = room) means bedroom."
@@ -7340,7 +7340,7 @@
             "Çamaşır makinesi",
             "Bulaşık makinesi",
             "Fırın",
-            "Buzdolabı (refrigerator)"
+            "Buzdolabı"
           ],
           "answerIndex": 3,
           "explanation": "Buzdolabı (ice-cupboard) is the refrigerator."
@@ -7352,10 +7352,10 @@
         {
           "prompt": "Türkçeye çevirin: 'The table and chairs are in the kitchen.'",
           "options": [
-            "Masa salonda uyuyor. (46.1)",
-            "Koltuk banyoda. (46.2)",
-            "Yatak balkonda. (46.3)",
-            "Masa ve sandalyeler mutfakta. (veya mutfaktadır) (46.4)"
+            "Masa salonda uyuyor.",
+            "Koltuk banyoda.",
+            "Yatak balkonda.",
+            "Masa ve sandalyeler mutfakta."
           ],
           "answerIndex": 3,
           "explanation": "Masa ve sandalyeler mutfakta."
@@ -7366,7 +7366,7 @@
             "Ayakkabıyla içeri koşulur",
             "Kapı kilitlenir",
             "Işıklar kapatılır",
-            "Ayakkabılar çıkarılır ve ev terliği giyilir (#ScienceOfLearning)"
+            "Ayakkabılar çıkarılır ve ev terliği giyilir"
           ],
           "answerIndex": 3,
           "explanation": "Removing shoes at the entrance and wearing slippers (terlik) is standard etiquette."
@@ -7392,7 +7392,7 @@
           "options": [
             "Balkonda uyuma cezası",
             "Balkonu boyama işi",
-            "Yaz aylarında balkonda ailece çay içip sohbet etme ve dinlenme geleneği (#ScienceOfLearning)",
+            "Yaz aylarında balkonda ailece çay içip sohbet etme ve dinlenme geleneği",
             "Bir spor dalı"
           ],
           "answerIndex": 2,
@@ -7414,7 +7414,7 @@
         {
           "prompt": "Cümleyi tamamlayın: «Misafirler salondaki rahat _______ oturdular.»",
           "options": [
-            "koltuğa (koltuk)",
+            "koltuğa",
             "fırına",
             "çamaşır makinesine",
             "buzdolabına"
@@ -7461,10 +7461,10 @@
         {
           "prompt": "Türkçede mobilyaların tozunu temizlemeye ne denir?",
           "options": [
-            "Toz almak (47.1)",
-            "Toz yazmak (47.2)",
-            "Toz satmak (47.3)",
-            "Toz içmek (47.4)"
+            "Toz almak",
+            "Toz yazmak",
+            "Toz satmak",
+            "Toz içmek"
           ],
           "answerIndex": 0,
           "explanation": "'Toz almak' (literally: to take dust) means to dust furniture."
@@ -7487,10 +7487,10 @@
         {
           "prompt": "Türkçeye çevirin: 'I need to vacuum the carpet and take out the trash.'",
           "options": [
-            "Halıda uyumam lazım. (47.1)",
-            "Halıyı süpürmem ve çöpü atmam lazım. (47.2)",
-            "Yeni bir çöp almam lazım. (47.3)",
-            "Markete koşmam lazım. (47.4)"
+            "Halıda uyumam lazım.",
+            "Halıyı süpürmem ve çöpü atmam lazım.",
+            "Yeni bir çöp almam lazım.",
+            "Markete koşmam lazım."
           ],
           "answerIndex": 1,
           "explanation": "Halıyı süpürmek (vacuum carpet) + çöpü atmak (take out trash)."
@@ -7526,7 +7526,7 @@
           "prompt": "Cümleyi tamamlayın: «Yemekten sonra kirlenen tabakları _______ makinesine dizdim.»",
           "options": [
             "dikiş",
-            "bulaşık (bulaşık makinesi)",
+            "bulaşık",
             "hesap",
             "çamaşır"
           ],
@@ -7537,7 +7537,7 @@
         {
           "prompt": "Neden ev işlerini ifade edebilmek günlük Türkçe iletişimde önemlidir?",
           "options": [
-            "Ev arkadaşlarıyla iş bölümü yapmak ve aile içi günlük rutinleri rahatça paylaşabilmek için (#ScienceOfLearning)",
+            "Ev arkadaşlarıyla iş bölümü yapmak ve aile içi günlük rutinleri rahatça paylaşabilmek için",
             "Önemli değildir",
             "Yalnızca sınavlarda çıkar",
             "Sadece otelde çalışmak için"
@@ -7596,10 +7596,10 @@
         {
           "prompt": "Türkçede 'There is a book on the table' nasıl söylenir?",
           "options": [
-            "Masanın altında kitap yok. (48.1)",
-            "Kitap masadır. (48.2)",
-            "Masanın üstünde bir kitap var. (48.3)",
-            "Masa kitaptır. (48.4)"
+            "Masanın altında kitap yok.",
+            "Kitap masadır.",
+            "Masanın üstünde bir kitap var.",
+            "Masa kitaptır."
           ],
           "answerIndex": 2,
           "explanation": "Masanın üstünde (on the table) + bir kitap var (there is a book)."
@@ -7622,10 +7622,10 @@
         {
           "prompt": "Türkçeye çevirin: 'There is a soft rug under the coffee table.'",
           "options": [
-            "Sehpanın altında yumuşak bir halı var. (48.1)",
-            "Halı masanın üstünde uçuyor. (48.2)",
-            "Halı banyoda duruyor. (48.3)",
-            "Sehpa yok. (48.4)"
+            "Sehpanın altında yumuşak bir halı var.",
+            "Halı masanın üstünde uçuyor.",
+            "Halı banyoda duruyor.",
+            "Sehpa yok."
           ],
           "answerIndex": 0,
           "explanation": "Sehpanın altında (under coffee table) + yumuşak bir halı var."
@@ -7660,7 +7660,7 @@
         {
           "prompt": "Neden Türkçede 'var/yok' cümleleri varlık ve sahiplik için en temel yapıdır?",
           "options": [
-            "Çünkü Türkçede Batı dillerindeki 'to have / avoir' gibi ayrı bir sahip olma fiili yerine iyelik eki + var/yok sistemi kullanılır (#ScienceOfLearning)",
+            "Çünkü Türkçede Batı dillerindeki 'to have / avoir' gibi ayrı bir sahip olma fiili yerine iyelik eki + var/yok sistemi kullanılır",
             "Kural dışıdır",
             "Çünkü başka fiil yoktur",
             "Sadece eşyalar için geçerlidir"
@@ -7686,7 +7686,7 @@
           "options": [
             "içinde",
             "üstünde",
-            "önünde (in front of the window)",
+            "önünde",
             "altında"
           ],
           "answerIndex": 2,
@@ -7731,10 +7731,10 @@
         {
           "prompt": "'Eskiden büyük bir evimiz vardı' cümlesi ne anlama gelir?",
           "options": [
-            "We will buy a house tomorrow. (49.1)",
-            "In the past we had a big house. (49.2)",
-            "The house is small. (49.3)",
-            "Now we are building a house. (49.4)"
+            "We will buy a house tomorrow.",
+            "In the past we had a big house.",
+            "The house is small.",
+            "Now we are building a house."
           ],
           "answerIndex": 1,
           "explanation": "'Vardı' expresses past existence/possession: we had."
@@ -7742,7 +7742,7 @@
         {
           "prompt": "'Çocukken' kelimesindeki '-ken' eki ne işe yarar?",
           "options": [
-            "'While / When' anlamı katar (Çocukken = When I was a child) (#ScienceOfLearning)",
+            "'While / When' anlamı katar",
             "Gelecek zaman bildirir",
             "Soru sorar",
             "Çoğul yapar"
@@ -7757,10 +7757,10 @@
         {
           "prompt": "Türkçeye çevirin: 'When I was little, I lived in Ankara.'",
           "options": [
-            "Küçükken Ankara'da yaşadım (yaşıyordum). (49.1)",
-            "Ankara'yı hiç görmedim. (49.2)",
-            "Yarın Ankara'ya gideceğim. (49.3)",
-            "Şimdi Ankara'da oturuyorum. (49.4)"
+            "Küçükken Ankara'da yaşadım (yaşıyordum).",
+            "Ankara'yı hiç görmedim.",
+            "Yarın Ankara'ya gideceğim.",
+            "Şimdi Ankara'da oturuyorum."
           ],
           "answerIndex": 0,
           "explanation": "Küçükken (when little) + Ankara'da yaşadım (lived in Ankara)."
@@ -7768,7 +7768,7 @@
         {
           "prompt": "'Yok' kelimesinin geçmiş zaman hali nasıldır?",
           "options": [
-            "Yoktu (ünsüz benzeşmesi ile: yok + tu)",
+            "Yoktu",
             "Yokmuştu",
             "Yokdu",
             "Yokdı"
@@ -7798,7 +7798,7 @@
             "Rastgele bir tercihtir",
             "Rehber kuralı olmadığı için",
             "Sadece İstanbul ağzında böyledir",
-            "Fıstıkçı Şahap kuralı (ünsüz sertleşmesi/benzeşmesi) gereği sert ünsüz 'k'den sonra 'd' sesi 't'ye dönüşür (#ScienceOfLearning)"
+            "Fıstıkçı Şahap kuralı (ünsüz sertleşmesi/benzeşmesi) gereği sert ünsüz 'k'den sonra 'd' sesi 't'ye dönüşür"
           ],
           "answerIndex": 3,
           "explanation": "Consonant assimilation turns -di into -ti after voiceless consonants (k).",
@@ -7866,10 +7866,10 @@
         {
           "prompt": "Entegre metinde yazar çocukluğunda nerede ve nasıl bir evde yaşıyordu?",
           "options": [
-            "Karadeniz'de yaylada, geniş bahçeli ahşap bir evde (50.1)",
-            "Gökdelenin 20. katında (50.2)",
-            "Bir otelde (50.3)",
-            "Gemide (50.4)"
+            "Karadeniz'de yaylada, geniş bahçeli ahşap bir evde",
+            "Gökdelenin 20. katında",
+            "Bir otelde",
+            "Gemide"
           ],
           "answerIndex": 0,
           "explanation": "Metinde: 'Karadeniz'de yaylada ahşap bir evde yaşardık. Geniş bir bahçemiz... vardı'."
@@ -7877,7 +7877,7 @@
         {
           "prompt": "Misafiri içeri davet ederken kullanılan en yaygın kibar Türkçe ifade hangisidir?",
           "options": [
-            "Lütfen buyrun, hoş geldiniz! (Kendi eviniz gibi hissedin)",
+            "Lütfen buyrun, hoş geldiniz!",
             "İçeri girmeyin",
             "Biletinizi gösterin",
             "Hemen gidin"
@@ -7892,10 +7892,10 @@
         {
           "prompt": "Türkçeye çevirin: 'Before, we had a quiet village house and we played in the garden.'",
           "options": [
-            "Yarın bahçede koşacağız. (50.1)",
-            "Eskiden sakin bir köy evimiz vardı ve bahçede oynardık. (50.2)",
-            "Köyde hiç ev yoktu. (50.3)",
-            "Şimdi köyde ev satın alıyoruz. (50.4)"
+            "Yarın bahçede koşacağız.",
+            "Eskiden sakin bir köy evimiz vardı ve bahçede oynardık.",
+            "Köyde hiç ev yoktu.",
+            "Şimdi köyde ev satın alıyoruz."
           ],
           "answerIndex": 1,
           "explanation": "Eskiden sakin bir köy evimiz vardı ve bahçede oynardık."
@@ -7932,7 +7932,7 @@
           "options": [
             "halı",
             "araba",
-            "komşu (Don't buy a house, buy a neighbor)",
+            "komşu",
             "koltuk"
           ],
           "answerIndex": 2,
@@ -7943,7 +7943,7 @@
           "prompt": "Neden 'var/yok' ve 'vardı/yoktu' yapılarında ustalaşmak A2/B1 seviyesine geçişte kilit rol oynar?",
           "options": [
             "Çünkü başka hiçbir kelime kullanılmaz",
-            "Çünkü Türkçede hem mevcut mekanları tasvir etmenin hem de geçmişe ait hatıra ve sahiplikleri anlatmanın temel omurgasını oluşturur (#ScienceOfLearning)",
+            "Çünkü Türkçede hem mevcut mekanları tasvir etmenin hem de geçmişe ait hatıra ve sahiplikleri anlatmanın temel omurgasını oluşturur",
             "Önemsiz bir konudur",
             "Yalnızca yazılı edebiyatta bulunur"
           ],
@@ -7954,7 +7954,7 @@
         {
           "prompt": "Cümleyi tamamlayın: «Çocukken sobada kestane _______ ve masallar dinlerdik.»",
           "options": [
-            "pişirirdik (pişirdik)",
+            "pişirirdik",
             "koşardık",
             "yazardık",
             "içerdik"
@@ -7999,10 +7999,10 @@
         {
           "prompt": "Türkçede \"stomach / belly\" anlamına gelen kelime hangisidir?",
           "options": [
-            "Bacak (51.1)",
-            "Kol (51.2)",
-            "Ayak (51.3)",
-            "Karın / Mide (51.4)"
+            "Bacak",
+            "Kol",
+            "Ayak",
+            "Karın / Mide"
           ],
           "answerIndex": 3,
           "explanation": "Karın / Mide means belly/stomach."
@@ -8014,10 +8014,10 @@
         {
           "prompt": "Türkçeye çevirin: \"My head hurts\"",
           "options": [
-            "Yemek yiyorum (51.1)",
-            "Gözlerim büyük (51.2)",
-            "Uyumak istiyorum (51.3)",
-            "Başım ağrıyor (veya kafam ağrıyor) (51.4)"
+            "Yemek yiyorum",
+            "Gözlerim büyük",
+            "Uyumak istiyorum",
+            "Başım ağrıyor"
           ],
           "answerIndex": 3,
           "explanation": "Başım ağrıyor expresses a headache."
@@ -8081,10 +8081,10 @@
         {
           "prompt": "Hasta olan birine Türkçede ne denir?",
           "options": [
-            "Geçmiş olsun! (52.1)",
-            "İyi yolculuklar! (52.2)",
-            "Afiyet olsun! (52.3)",
-            "Tebrikler! (52.4)"
+            "Geçmiş olsun!",
+            "İyi yolculuklar!",
+            "Afiyet olsun!",
+            "Tebrikler!"
           ],
           "answerIndex": 0,
           "explanation": "Geçmiş olsun means get well soon."
@@ -8096,10 +8096,10 @@
         {
           "prompt": "Türkçeye çevirin: \"I feel dizzy and have chills.\"",
           "options": [
-            "Başım dönüyor ve titriyorum (üşüyorum). (52.1)",
-            "Çok mutluyum. (52.2)",
-            "Sinemaya gidiyorum. (52.3)",
-            "Hava çok sıcak. (52.4)"
+            "Başım dönüyor ve titriyorum (üşüyorum).",
+            "Çok mutluyum.",
+            "Sinemaya gidiyorum.",
+            "Hava çok sıcak."
           ],
           "answerIndex": 0,
           "explanation": "Başım dönüyor expresses dizziness."
@@ -8163,10 +8163,10 @@
         {
           "prompt": "\"Günde üç kez yemekten sonra\" ne anlama gelir?",
           "options": [
-            "Once every three days (53.1)",
-            "Three pills at breakfast (53.2)",
-            "Three times daily after meals (53.3)",
-            "Before dinner only (53.4)"
+            "Once every three days",
+            "Three pills at breakfast",
+            "Three times daily after meals",
+            "Before dinner only"
           ],
           "answerIndex": 2,
           "explanation": "Günde üç kez yemekten sonra means 3 times a day after meals."
@@ -8178,10 +8178,10 @@
         {
           "prompt": "Gece ve pazar günleri açık olan nöbetçi eczaneye ne ad verilir?",
           "options": [
-            "Nöbetçi Eczane (53.1)",
-            "Süpermarket (53.2)",
-            "Lokanta (53.3)",
-            "Havalimanı (53.4)"
+            "Nöbetçi Eczane",
+            "Süpermarket",
+            "Lokanta",
+            "Havalimanı"
           ],
           "answerIndex": 0,
           "explanation": "Nöbetçi Eczane is the duty/emergency pharmacy."
@@ -8245,10 +8245,10 @@
         {
           "prompt": "Türk ailelerinde grip ve soğuk algınlığına karşı kaynatılan meşhur geleneksel çay hangisidir?",
           "options": [
-            "Şekerli gazoz (54.1)",
-            "Ballı Ihlamur veya Nane-Limon çayı (54.2)",
-            "Buzlu su (54.3)",
-            "Soğuk kola (54.4)"
+            "Şekerli gazoz",
+            "Ballı Ihlamur veya Nane-Limon çayı",
+            "Buzlu su",
+            "Soğuk kola"
           ],
           "answerIndex": 1,
           "explanation": "Ihlamur and Nane-Limon are Turkey's classic cold remedies."
@@ -8260,10 +8260,10 @@
         {
           "prompt": "Meşhur Türk atasözünü tamamlayın: \"Her şeyin başı ______.\"",
           "options": [
-            "sağlık (54.1)",
-            "uyku (54.2)",
-            "para (54.3)",
-            "araba (54.4)"
+            "sağlık",
+            "uyku",
+            "para",
+            "araba"
           ],
           "answerIndex": 0,
           "explanation": "Her şeyin başı sağlık (Health is the head of all things)."
@@ -8327,10 +8327,10 @@
         {
           "prompt": "İş yerinden hastalık nedeniyle izin almak için doktorun verdiği resmi belgeye ne denir?",
           "options": [
-            "İstirahat / Sağlık Raporu (55.1)",
-            "Uçak bileti (55.2)",
-            "Kira sözleşmesi (55.3)",
-            "Ehliyet (55.4)"
+            "İstirahat / Sağlık Raporu",
+            "Uçak bileti",
+            "Kira sözleşmesi",
+            "Ehliyet"
           ],
           "answerIndex": 0,
           "explanation": "İstirahat raporu is the official medical sick leave report."
@@ -8342,10 +8342,10 @@
         {
           "prompt": "Doktor stetoskopla akciğerleri dinlerken \"Derin nefes alın\" dediğinde ne yapmalısınız?",
           "options": [
-            "Gözlerinizi kapatıp uyumalısınız (55.1)",
-            "Ağzınızdan/burnunuzdan derin bir nefes alıp vermelisiniz (55.2)",
-            "Su içmelisiniz (55.3)",
-            "Ayağa kalkıp koşmalısınız (55.4)"
+            "Gözlerinizi kapatıp uyumalısınız",
+            "Ağzınızdan/burnunuzdan derin bir nefes alıp vermelisiniz",
+            "Su içmelisiniz",
+            "Ayağa kalkıp koşmalısınız"
           ],
           "answerIndex": 1,
           "explanation": "Derin nefes alın instructs deep breathing for stethoscope exam."
@@ -8409,10 +8409,10 @@
         {
           "prompt": "Türkçede \"I work as a software engineer\" nasıl söylenir?",
           "options": [
-            "Ben yazılımım (56.1)",
-            "Bilgisayar satın aldım (56.2)",
-            "Ofiste uyuyorum (56.3)",
-            "Yazılım mühendisi olarak çalışıyorum (56.4)"
+            "Ben yazılımım",
+            "Bilgisayar satın aldım",
+            "Ofiste uyuyorum",
+            "Yazılım mühendisi olarak çalışıyorum"
           ],
           "answerIndex": 3,
           "explanation": "Yazılım mühendisi olarak çalışıyorum is exact."
@@ -8424,10 +8424,10 @@
         {
           "prompt": "Bir \"mali müşavir\" veya \"muhasebeci\" ne iş yapar?",
           "options": [
-            "Otobüs şoförlüğü yapar (56.1)",
-            "Binaları boyar (56.2)",
-            "Yemek pişirir (56.3)",
-            "Şirketin finansal kayıtlarını, gelir-gider dengesini ve vergi süreçlerini yönetir (56.4)"
+            "Otobüs şoförlüğü yapar",
+            "Binaları boyar",
+            "Yemek pişirir",
+            "Şirketin finansal kayıtlarını, gelir-gider dengesini ve vergi süreçlerini yönetir"
           ],
           "answerIndex": 3,
           "explanation": "Accountant role."
@@ -8440,7 +8440,7 @@
           "prompt": "Türkiye'nin en büyük iş ve finans merkezleri hangi şehirde toplanmıştır?",
           "options": [
             "Van Gölü",
-            "İstanbul (Levent, Maslak, Ataşehir)",
+            "İstanbul",
             "Kapadokya Vadisi",
             "Uludağ Zirvesi"
           ],
@@ -8491,10 +8491,10 @@
         {
           "prompt": "\"Uzaktan çalışma\" veya \"home office\" ne anlama gelir?",
           "options": [
-            "İnternet ve bilgisayar aracılığıyla ofise gitmeden evden çalışmak (57.1)",
-            "Gece vardiyasında çalışmak (57.2)",
-            "Tatile çıkıp hiç çalışmamak (57.3)",
-            "İşten ayrılmak (57.4)"
+            "İnternet ve bilgisayar aracılığıyla ofise gitmeden evden çalışmak",
+            "Gece vardiyasında çalışmak",
+            "Tatile çıkıp hiç çalışmamak",
+            "İşten ayrılmak"
           ],
           "answerIndex": 0,
           "explanation": "Remote work."
@@ -8506,10 +8506,10 @@
         {
           "prompt": "Türkiye'de ofislerde gün boyu ince belli bardaklarda tüketilen geleneksel içecek nedir?",
           "options": [
-            "Taze demlenmiş Türk çayı (57.1)",
-            "Tuzlu soğuk ayran (57.2)",
-            "Motor yağı (57.3)",
-            "Sirke (57.4)"
+            "Taze demlenmiş Türk çayı",
+            "Tuzlu soğuk ayran",
+            "Motor yağı",
+            "Sirke"
           ],
           "answerIndex": 0,
           "explanation": "Türk çayı is the classic office beverage."
@@ -8573,10 +8573,10 @@
         {
           "prompt": "Online toplantıda mikrofonu kapalı olan birine ne denir?",
           "options": [
-            "Ekranınız yok. (58.1)",
-            "Bilgisayarı kapatın. (58.2)",
-            "Sessizdesiniz! Mikrofonunuzu açın. (58.3)",
-            "Kapıyı örtün. (58.4)"
+            "Ekranınız yok.",
+            "Bilgisayarı kapatın.",
+            "Sessizdesiniz! Mikrofonunuzu açın.",
+            "Kapıyı örtün."
           ],
           "answerIndex": 2,
           "explanation": "Sessizdesiniz is standard."
@@ -8588,10 +8588,10 @@
         {
           "prompt": "\"Ekran paylaşımı\" ne anlama gelir?",
           "options": [
-            "Bilgisayar ekranını toplantıdaki diğer katılımcılara canlı olarak yansıtmak (58.1)",
-            "Ekranın tozunu silmek (58.2)",
-            "İnterneti kapatmak (58.3)",
-            "Yeni bir monitör almak (58.4)"
+            "Bilgisayar ekranını toplantıdaki diğer katılımcılara canlı olarak yansıtmak",
+            "Ekranın tozunu silmek",
+            "İnterneti kapatmak",
+            "Yeni bir monitör almak"
           ],
           "answerIndex": 0,
           "explanation": "Screen sharing."
@@ -8655,10 +8655,10 @@
         {
           "prompt": "Türk iş dünyasında e-posta sonunda en sık kullanılan resmi kapanış dileği hangisidir?",
           "options": [
-            "Hadi eyvallah (59.1)",
-            "Saygılarımla, / İyi çalışmalar dilerim, (59.2)",
-            "Bay bay (59.3)",
-            "Görüşürüz kanka! (59.4)"
+            "Hadi eyvallah",
+            "Saygılarımla, / İyi çalışmalar dilerim,",
+            "Bay bay",
+            "Görüşürüz kanka!"
           ],
           "answerIndex": 1,
           "explanation": "İyi çalışmalar dilerim is the standard closing."
@@ -8670,10 +8670,10 @@
         {
           "prompt": "Bir belgenin e-postaya eklendiğini resmi olarak nasıl ifade edersiniz?",
           "options": [
-            "İlgili dosyayı ekte bilgilerinize sunarım. (59.1)",
-            "İnternetten kendiniz bulun. (59.2)",
-            "Hiçbir dosya göndermiyorum. (59.3)",
-            "Dosya kayboldu. (59.4)"
+            "İlgili dosyayı ekte bilgilerinize sunarım.",
+            "İnternetten kendiniz bulun.",
+            "Hiçbir dosya göndermiyorum.",
+            "Dosya kayboldu."
           ],
           "answerIndex": 0,
           "explanation": "Ekte sunarım indicates attachments."
@@ -8737,10 +8737,10 @@
         {
           "prompt": "İş görüşmesinde \"maaş beklentisi\" neyi ifade eder?",
           "options": [
-            "Adayın pozisyon karşılığında talep ettiği ücret miktarını (60.1)",
-            "Otobüs biletinin fiyatını (60.2)",
-            "Ev kirasını (60.3)",
-            "Devlet vergisini (60.4)"
+            "Adayın pozisyon karşılığında talep ettiği ücret miktarını",
+            "Otobüs biletinin fiyatını",
+            "Ev kirasını",
+            "Devlet vergisini"
           ],
           "answerIndex": 0,
           "explanation": "Maaş beklentisi is desired compensation."
@@ -8752,10 +8752,10 @@
         {
           "prompt": "İş görüşmesinde takım çalışması becerinizi nasıl vurgularsınız?",
           "options": [
-            "Toplantılara katılmam. (60.1)",
-            "Takım çalışmasına yatkınım ve çalışma arkadaşlarımla etkili iletişim kurarım. (60.2)",
-            "Projeyle ilgilenmiyorum. (60.3)",
-            "Yalnızca tek başıma çalışırım. (60.4)"
+            "Toplantılara katılmam.",
+            "Takım çalışmasına yatkınım ve çalışma arkadaşlarımla etkili iletişim kurarım.",
+            "Projeyle ilgilenmiyorum.",
+            "Yalnızca tek başıma çalışırım."
           ],
           "answerIndex": 1,
           "explanation": "Teamwork competency highlight."
@@ -8819,10 +8819,10 @@
         {
           "prompt": "Türk halk müziğinin en temel ve köklü telli sazı hangisidir?",
           "options": [
-            "Keman (61.1)",
-            "Piyano (61.2)",
-            "Bateri (61.3)",
-            "Bağlama (Saz) (61.4)"
+            "Keman",
+            "Piyano",
+            "Bateri",
+            "Bağlama"
           ],
           "answerIndex": 3,
           "explanation": "Bağlama (Saz)."
@@ -8834,10 +8834,10 @@
         {
           "prompt": "Türkçeye çevirin: \"In my free time, I enjoy playing the acoustic guitar.\"",
           "options": [
-            "Eski gitarları satıyorum. (61.1)",
-            "Müzik çok sıkıcıdır. (61.2)",
-            "Boş zamanım hiç yok. (61.3)",
-            "Boş zamanlarımda akustik gitar çalmaktan keyif alırım. (61.4)"
+            "Eski gitarları satıyorum.",
+            "Müzik çok sıkıcıdır.",
+            "Boş zamanım hiç yok.",
+            "Boş zamanlarımda akustik gitar çalmaktan keyif alırım."
           ],
           "answerIndex": 3,
           "explanation": "Accurate hobby translation."
@@ -8849,7 +8849,7 @@
         {
           "prompt": "Türkiye'nin Akdeniz kıyısında yer alan dünyaca ünlü tarihi antik yürüyüş rotası hangisidir?",
           "options": [
-            "Likya Yolu (Lycian Way)",
+            "Likya Yolu",
             "Kral Yolu",
             "Baharat Yolu",
             "İpek Yolu"
@@ -8901,10 +8901,10 @@
         {
           "prompt": "Dünya ve Avrupa şampiyonu olan Türkiye A Milli Kadın Voleybol Takımımızın ünlü unvanı nedir?",
           "options": [
-            "Filenin Sultanları (62.1)",
-            "Yıldızlar (62.2)",
-            "Boğazın Kartalları (62.3)",
-            "Sarı Kanaryalar (62.4)"
+            "Filenin Sultanları",
+            "Yıldızlar",
+            "Boğazın Kartalları",
+            "Sarı Kanaryalar"
           ],
           "answerIndex": 0,
           "explanation": "Filenin Sultanları."
@@ -8916,10 +8916,10 @@
         {
           "prompt": "Edirne'de yüzyıllardır düzenlenen Türkiye'nin en köklü geleneksel spor organizasyonu nedir?",
           "options": [
-            "Tarihi Kırkpınar Yağlı Güreşleri (62.1)",
-            "İstanbul Maratonu (62.2)",
-            "Boğaz Yarışı (62.3)",
-            "Rally (62.4)"
+            "Tarihi Kırkpınar Yağlı Güreşleri",
+            "İstanbul Maratonu",
+            "Boğaz Yarışı",
+            "Rally"
           ],
           "answerIndex": 0,
           "explanation": "Tarihi Kırkpınar Yağlı Güreşleri."
@@ -8983,10 +8983,10 @@
         {
           "prompt": "Anadolu Rock müziğinin efsanevi öncülerinden ve 7'den 77'ye herkesin sevgilisi olan sanatçı kimdir?",
           "options": [
-            "Mozart (63.1)",
-            "Beethoven (63.2)",
-            "Barış Manço (63.3)",
-            "Elvis Presley (63.4)"
+            "Mozart",
+            "Beethoven",
+            "Barış Manço",
+            "Elvis Presley"
           ],
           "answerIndex": 2,
           "explanation": "Barış Manço."
@@ -8998,10 +8998,10 @@
         {
           "prompt": "Osman Hamdi Bey'in dünyaca ünlü \"Kaplumbağa Terbiyecisi\" tablosu hangi müzede sergilenmektedir?",
           "options": [
-            "Pera Müzesi (İstanbul) (63.1)",
-            "Louvre Müzesi (63.2)",
-            "British Museum (63.3)",
-            "Prado Müzesi (63.4)"
+            "Pera Müzesi",
+            "Louvre Müzesi",
+            "British Museum",
+            "Prado Müzesi"
           ],
           "answerIndex": 0,
           "explanation": "Pera Müzesi."
@@ -9066,10 +9066,10 @@
         {
           "prompt": "Bir arkadaşınızın buluşma teklifini kabul ederken Türkçe \"Bana uyar! / Varım!\" ne anlama gelir?",
           "options": [
-            "Uyumak istiyorum (64.1)",
-            "I'm down! / Works for me! / Count me in! (64.2)",
-            "Sana kızgınım (64.3)",
-            "Asla gelmem (64.4)"
+            "Uyumak istiyorum",
+            "I'm down! / Works for me! / Count me in!",
+            "Sana kızgınım",
+            "Asla gelmem"
           ],
           "answerIndex": 1,
           "explanation": "Bana uyar means works for me."
@@ -9081,10 +9081,10 @@
         {
           "prompt": "İstanbul Kadıköy'de gençlerin en meşhur buluşma noktası olan simge heykel hangisidir?",
           "options": [
-            "Kadıköy Boğa Heykeli (64.1)",
-            "Aslan Heykeli (64.2)",
-            "Kartal Heykeli (64.3)",
-            "Özgürlük Heykeli (64.4)"
+            "Kadıköy Boğa Heykeli",
+            "Aslan Heykeli",
+            "Kartal Heykeli",
+            "Özgürlük Heykeli"
           ],
           "answerIndex": 0,
           "explanation": "Boğa Heykeli in Kadıköy."
@@ -9148,10 +9148,10 @@
         {
           "prompt": "Hangi ünlü Türk yönetmen 2014 yılında \"Kış Uykusu\" filmiyle Cannes Film Festivali'nde Altın Palmiye (Palme d'Or) kazandı?",
           "options": [
-            "Nuri Bilge Ceylan (65.1)",
-            "Steven Spielberg (65.2)",
-            "Christopher Nolan (65.3)",
-            "Quentin Tarantino (65.4)"
+            "Nuri Bilge Ceylan",
+            "Steven Spielberg",
+            "Christopher Nolan",
+            "Quentin Tarantino"
           ],
           "answerIndex": 0,
           "explanation": "Nuri Bilge Ceylan."
@@ -9163,10 +9163,10 @@
         {
           "prompt": "Bir sanat eleştirisinde \"başyapıt\" kelimesi ne anlama gelir?",
           "options": [
-            "Kısa bir fıkra (65.1)",
-            "Yarım kalmış taslak (65.2)",
-            "En üstün nitelikte, kusursuz sanat eseri (Masterpiece) (65.3)",
-            "Kötü bir kopya (65.4)"
+            "Kısa bir fıkra",
+            "Yarım kalmış taslak",
+            "En üstün nitelikte, kusursuz sanat eseri",
+            "Kötü bir kopya"
           ],
           "answerIndex": 2,
           "explanation": "Başyapıt means masterpiece."
@@ -9178,7 +9178,7 @@
         {
           "prompt": "Nuri Bilge Ceylan'ın \"Kış Uykusu\" filmi Türkiye'nin hangi büyüleyici coğrafi bölgesinde geçmektedir?",
           "options": [
-            "Kapadokya (Peri Bacaları)",
+            "Kapadokya",
             "Ağrı Dağı zirvesi",
             "Tuz Gölü",
             "Karadeniz ormanları"
@@ -9230,10 +9230,10 @@
         {
           "prompt": "Uçağa binmek için güvenlikten sonra gösterilen belgeye Türkçe ne ad verilir?",
           "options": [
-            "Ehliyet (66.1)",
-            "Otel faturası (66.2)",
-            "Kütüphane kartı (66.3)",
-            "Uçuş biniş kartı (Boarding pass) (66.4)"
+            "Ehliyet",
+            "Otel faturası",
+            "Kütüphane kartı",
+            "Uçuş biniş kartı"
           ],
           "answerIndex": 3,
           "explanation": "Biniş kartı is boarding pass."
@@ -9245,10 +9245,10 @@
         {
           "prompt": "Türkçeye çevirin: \"The flight to Izmir is delayed by forty minutes.\"",
           "options": [
-            "Uçak zamanında kalktı. (66.1)",
-            "İzmir'e uçuş yoktur. (66.2)",
-            "Havalimanı kapalıdır. (66.3)",
-            "İzmir uçuşu kırk dakika gecikmelidir. (66.4)"
+            "Uçak zamanında kalktı.",
+            "İzmir'e uçuş yoktur.",
+            "Havalimanı kapalıdır.",
+            "İzmir uçuşu kırk dakika gecikmelidir."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -9312,10 +9312,10 @@
         {
           "prompt": "Resepsiyona rezervasyonunuz olduğunu nasıl belirtirsiniz?",
           "options": [
-            "[Adım] adına yapılmış bir oda rezervasyonum var (67.1)",
-            "Oda ücretsizdir (67.2)",
-            "Burada kalmak istemiyorum (67.3)",
-            "Oteli satın almak istiyorum (67.4)"
+            "[Adım] adına yapılmış bir oda rezervasyonum var",
+            "Oda ücretsizdir",
+            "Burada kalmak istemiyorum",
+            "Oteli satın almak istiyorum"
           ],
           "answerIndex": 0,
           "explanation": "...adına rezervasyonum var is standard."
@@ -9327,10 +9327,10 @@
         {
           "prompt": "Kapadokya bölgesine özgü dünyaca ünlü geleneksel otel konsepti hangisidir?",
           "options": [
-            "Mağara Oteller (Cave Hotels) (67.1)",
-            "Gökdelen oteli (67.2)",
-            "Buz oteli (67.3)",
-            "Ağaç kütüğü (67.4)"
+            "Mağara Oteller",
+            "Gökdelen oteli",
+            "Buz oteli",
+            "Ağaç kütüğü"
           ],
           "answerIndex": 0,
           "explanation": "Cave Hotels (Mağara Oteller)."
@@ -9394,10 +9394,10 @@
         {
           "prompt": "Ankara ile İstanbul arasında saatte 250 km hızla yolcu taşıyan hızlı trenin adı nedir?",
           "options": [
-            "Buharlı lokomotif (68.1)",
-            "Şehir içi tramvay (68.2)",
-            "YHT (Yüksek Hızlı Tren) (68.3)",
-            "Teleferik (68.4)"
+            "Buharlı lokomotif",
+            "Şehir içi tramvay",
+            "YHT",
+            "Teleferik"
           ],
           "answerIndex": 2,
           "explanation": "YHT."
@@ -9409,10 +9409,10 @@
         {
           "prompt": "Kış aylarında karlı manzaralar eşliğinde Kars'a giden ünlü turistik tren hangisidir?",
           "options": [
-            "Turistik Doğu Ekspresi (68.1)",
-            "Güney Ekspresi (68.2)",
-            "Toros Ekspresi (68.3)",
-            "Ege Ekspresi (68.4)"
+            "Turistik Doğu Ekspresi",
+            "Güney Ekspresi",
+            "Toros Ekspresi",
+            "Ege Ekspresi"
           ],
           "answerIndex": 0,
           "explanation": "Turistik Doğu Ekspresi."
@@ -9476,10 +9476,10 @@
         {
           "prompt": "Benzin istasyonundaki görevliye arabanın yakıt deposunu tamamen doldurmasını nasıl söylersiniz?",
           "options": [
-            "Su koyun motora (69.1)",
-            "Depoyu fulleyin lütfen! (69.2)",
-            "Benzin istemiyorum (69.3)",
-            "Depoyu boşaltın (69.4)"
+            "Su koyun motora",
+            "Depoyu fulleyin lütfen!",
+            "Benzin istemiyorum",
+            "Depoyu boşaltın"
           ],
           "answerIndex": 1,
           "explanation": "Depoyu fulleyin lütfen is standard."
@@ -9491,10 +9491,10 @@
         {
           "prompt": "Otoyol ve köprü ücretlerini durmadan otomatik ödemeyi sağlayan sistemin adı nedir?",
           "options": [
-            "HGS (Hızlı Geçiş Sistemi) (69.1)",
-            "Nüfus cüzdanı (69.2)",
-            "Kredi kartı slipleri (69.3)",
-            "Milli Piyango (69.4)"
+            "HGS",
+            "Nüfus cüzdanı",
+            "Kredi kartı slipleri",
+            "Milli Piyango"
           ],
           "answerIndex": 0,
           "explanation": "HGS."
@@ -9558,10 +9558,10 @@
         {
           "prompt": "Valiziniz kaybolduğunda havalimanındaki görevliye ibraz etmeniz gereken en önemli etiket nedir?",
           "options": [
-            "Bagaj fişi / Bagaj etiketi (Baggage tag) (70.1)",
-            "Alışveriş fişi (70.2)",
-            "Otopark kartı (70.3)",
-            "Müze bileti (70.4)"
+            "Bagaj fişi / Bagaj etiketi",
+            "Alışveriş fişi",
+            "Otopark kartı",
+            "Müze bileti"
           ],
           "answerIndex": 0,
           "explanation": "Bagaj fişi / etiketi."
@@ -9573,10 +9573,10 @@
         {
           "prompt": "Türkiye'de yolcu haklarını güvence altına alan sivil havacılık mevzuatının adı nedir?",
           "options": [
-            "Medeni Kanun (70.1)",
-            "Vergi Usul Kanunu (70.2)",
-            "SHY-YOLCU Yönetmeliği (70.3)",
-            "Trafik Kanunu (70.4)"
+            "Medeni Kanun",
+            "Vergi Usul Kanunu",
+            "SHY-YOLCU Yönetmeliği",
+            "Trafik Kanunu"
           ],
           "answerIndex": 2,
           "explanation": "SHY-YOLCU Yönetmeliği."
@@ -9640,10 +9640,10 @@
         {
           "prompt": "Türkiye'de tarihi ipek dokumacılığı ve koza pazarı (Koza Han) ile ünlü tarihi şehir neresidir?",
           "options": [
-            "Antalya (71.1)",
-            "Trabzon (71.2)",
-            "Konya (71.3)",
-            "Bursa (71.4)"
+            "Antalya",
+            "Trabzon",
+            "Konya",
+            "Bursa"
           ],
           "answerIndex": 3,
           "explanation": "Bursa (Koza Han)."
@@ -9655,10 +9655,10 @@
         {
           "prompt": "Türkçede \"sneakers / sports shoes\" için en yaygın kullanılan kelime nedir?",
           "options": [
-            "Terlik (71.1)",
-            "Çizme (71.2)",
-            "Kravat (71.3)",
-            "Spor ayakkabı (71.4)"
+            "Terlik",
+            "Çizme",
+            "Kravat",
+            "Spor ayakkabı"
           ],
           "answerIndex": 3,
           "explanation": "Spor ayakkabı."
@@ -9722,10 +9722,10 @@
         {
           "prompt": "Türkçede bir kıyafetin bir kişiye çok güzel uyduğunu ve ona çok yakıştığını belirten en yaygın iltifat hangisidir?",
           "options": [
-            "„Bu kıyafet size çok yakıştı!” (72.1)",
-            "„Gidin buradan” (72.2)",
-            "„Bu kıyafet çok eski” (72.3)",
-            "„Kıyafetiniz yok” (72.4)"
+            "„Bu kıyafet size çok yakıştı!”",
+            "„Gidin buradan”",
+            "„Bu kıyafet çok eski”",
+            "„Kıyafetiniz yok”"
           ],
           "answerIndex": 0,
           "explanation": "„Size çok yakıştı!”"
@@ -9737,10 +9737,10 @@
         {
           "prompt": "Pantolonun boyunu kısaltma terzilik işlemine ne ad verilir?",
           "options": [
-            "Paça tadilatı / Paça boyu kısaltma (72.1)",
-            "Ütü yapma (72.2)",
-            "Yıkama (72.3)",
-            "Boyama (72.4)"
+            "Paça tadilatı / Paça boyu kısaltma",
+            "Ütü yapma",
+            "Yıkama",
+            "Boyama"
           ],
           "answerIndex": 0,
           "explanation": "Paça tadilatı."
@@ -9804,10 +9804,10 @@
         {
           "prompt": "Bir alışveriş tutarını kredi kartıyla aylık eşit parçalara bölerek ödeme işlemine ne denir?",
           "options": [
-            "Peşin ödeme (73.1)",
-            "Taksitli ödeme (Taksit) (73.2)",
-            "Veresiye (73.3)",
-            "Borç erteleme (73.4)"
+            "Peşin ödeme",
+            "Taksitli ödeme",
+            "Veresiye",
+            "Borç erteleme"
           ],
           "answerIndex": 1,
           "explanation": "Taksitli ödeme."
@@ -9819,10 +9819,10 @@
         {
           "prompt": "Ödeme yaptıktan sonra kasadan alınan resmi mali belgeye ne ad verilir?",
           "options": [
-            "Alışveriş fişi / e-Arşiv fatura (73.1)",
-            "Otobüs bileti (73.2)",
-            "Öğrenci belgesi (73.3)",
-            "Kütüphane kartı (73.4)"
+            "Alışveriş fişi / e-Arşiv fatura",
+            "Otobüs bileti",
+            "Öğrenci belgesi",
+            "Kütüphane kartı"
           ],
           "answerIndex": 0,
           "explanation": "Alışveriş fişi / fatura."
@@ -9886,10 +9886,10 @@
         {
           "prompt": "İstanbul'da 1461 yılından bu yana hizmet veren dünyanın en eski ve en büyük kapalı çarşısı hangisidir?",
           "options": [
-            "Sahaflar Çarşısı (74.1)",
-            "Kapalıçarşı (Grand Bazaar) (74.2)",
-            "Arasta Çarşısı (74.3)",
-            "Mısır Çarşısı (74.4)"
+            "Sahaflar Çarşısı",
+            "Kapalıçarşı",
+            "Arasta Çarşısı",
+            "Mısır Çarşısı"
           ],
           "answerIndex": 1,
           "explanation": "Kapalıçarşı (Grand Bazaar)."
@@ -9901,10 +9901,10 @@
         {
           "prompt": "Eminönü'nde bulunan ve mis kokulu baharatları, lokumları ve şifalı çaylarıyla ünlü tarihi çarşı hangisidir?",
           "options": [
-            "Mısır Çarşısı (Spice Bazaar) (74.1)",
-            "Bedesten (74.2)",
-            "Bakırcılar Çarşısı (74.3)",
-            "Kemeraltı (74.4)"
+            "Mısır Çarşısı",
+            "Bedesten",
+            "Bakırcılar Çarşısı",
+            "Kemeraltı"
           ],
           "answerIndex": 0,
           "explanation": "Mısır Çarşısı."
@@ -9968,10 +9968,10 @@
         {
           "prompt": "Türkiye'de internetten yapılan alışverişlerde kanunen kaç gün koşulsuz cayma ve iade hakkı vardır?",
           "options": [
-            "14 gün (75.1)",
-            "Sadece 1 gün (75.2)",
-            "3 yıl (75.3)",
-            "Hiç iade hakkı yoktur (75.4)"
+            "14 gün",
+            "Sadece 1 gün",
+            "3 yıl",
+            "Hiç iade hakkı yoktur"
           ],
           "answerIndex": 0,
           "explanation": "14 gün cayma hakkı."
@@ -9983,10 +9983,10 @@
         {
           "prompt": "Yabancı turistlerin Türkiye'de alışveriş yaparken ödedikleri KDV'yi geri almalarını sağlayan uluslararası sistem nedir?",
           "options": [
-            "HGS geçişi (75.1)",
-            "Pasaport pulu (75.2)",
-            "Tax-Free (KDV İadesi) (75.3)",
-            "Vize ücreti (75.4)"
+            "HGS geçişi",
+            "Pasaport pulu",
+            "Tax-Free",
+            "Vize ücreti"
           ],
           "answerIndex": 2,
           "explanation": "Tax-Free (KDV İadesi)."
@@ -10050,10 +10050,10 @@
         {
           "prompt": "Türkçede çok şiddetli ve bol miktarda yağan yağmuru anlatan deyim hangisidir?",
           "options": [
-            "Güneş açmak (76.1)",
-            "Hava kararmak (76.2)",
-            "Rüzgâr durmak (76.3)",
-            "Bardaktan boşanırcasına yağmak (76.4)"
+            "Güneş açmak",
+            "Hava kararmak",
+            "Rüzgâr durmak",
+            "Bardaktan boşanırcasına yağmak"
           ],
           "answerIndex": 3,
           "explanation": "Bardaktan boşanırcasına yağmak."
@@ -10065,10 +10065,10 @@
         {
           "prompt": "İstanbul'da güneybatıdan esen ve Marmara Denizi'nde vapur seferlerini iptal ettiren ılık ve sert rüzgâr hangisidir?",
           "options": [
-            "Poyraz (76.1)",
-            "Karayel (76.2)",
-            "Keşişleme (76.3)",
-            "Lodos (76.4)"
+            "Poyraz",
+            "Karayel",
+            "Keşişleme",
+            "Lodos"
           ],
           "answerIndex": 3,
           "explanation": "Lodos."
@@ -10132,10 +10132,10 @@
         {
           "prompt": "5-6 Mayıs tarihlerinde baharın gelişini kutlamak amacıyla gül ağaçlarına dileklerin bağlandığı geleneksel bayram nedir?",
           "options": [
-            "Hıdırellez (77.1)",
-            "Ramazan (77.2)",
-            "Nevruz (77.3)",
-            "Kurban Bayramı (77.4)"
+            "Hıdırellez",
+            "Ramazan",
+            "Nevruz",
+            "Kurban Bayramı"
           ],
           "answerIndex": 0,
           "explanation": "Hıdırellez."
@@ -10147,10 +10147,10 @@
         {
           "prompt": "Sonbaharda sarı, turuncu ve kırmızı yapraklarıyla doğaseverlerin akınına uğrayan ünlü göller bölgesi milli parkı neresidir?",
           "options": [
-            "Bolu Yedigöller Milli Parkı (77.1)",
-            "Taksim Meydanı (77.2)",
-            "Konya Ovası (77.3)",
-            "Tuz Gölü (77.4)"
+            "Bolu Yedigöller Milli Parkı",
+            "Taksim Meydanı",
+            "Konya Ovası",
+            "Tuz Gölü"
           ],
           "answerIndex": 0,
           "explanation": "Bolu Yedigöller."
@@ -10214,10 +10214,10 @@
         {
           "prompt": "Volkanik tüflerin aşınmasıyla oluşan Peribacaları ve sıcak hava balonlarıyla dünya çapında ünlü doğa harikası neresidir?",
           "options": [
-            "Anıtkabir (78.1)",
-            "Kapadokya (Nevşehir) (78.2)",
-            "Boğaziçi Köprüsü (78.3)",
-            "Efes Antik Kenti (78.4)"
+            "Anıtkabir",
+            "Kapadokya",
+            "Boğaziçi Köprüsü",
+            "Efes Antik Kenti"
           ],
           "answerIndex": 1,
           "explanation": "Kapadokya."
@@ -10229,10 +10229,10 @@
         {
           "prompt": "Termal kalsiyumlu suların oluşturduğu bembeyaz basamaklı havuzlarıyla ünlü UNESCO doğa mirası nerededir?",
           "options": [
-            "Pamukkale (Denizli) (78.1)",
-            "Ayder Yaylası (78.2)",
-            "Salda Gölü (78.3)",
-            "Ihlara Vadisi (78.4)"
+            "Pamukkale",
+            "Ayder Yaylası",
+            "Salda Gölü",
+            "Ihlara Vadisi"
           ],
           "answerIndex": 0,
           "explanation": "Pamukkale."
@@ -10247,7 +10247,7 @@
             "Beyşehir Gölü",
             "Eğirdir Gölü",
             "Sapanca Gölü",
-            "Ölüdeniz (Belcekız)"
+            "Ölüdeniz"
           ],
           "answerIndex": 3,
           "explanation": "Ölüdeniz.",
@@ -10296,10 +10296,10 @@
         {
           "prompt": "Bir deprem anında sarsıntı geçene kadar uygulanması gereken en temel hayat kurtaran hareket nedir?",
           "options": [
-            "Merdivenlere koşmak (79.1)",
-            "ÇÖK - KAPAN - TUTUN (79.2)",
-            "Asansöre binmek (79.3)",
-            "Pencerelerden atlamak (79.4)"
+            "Merdivenlere koşmak",
+            "ÇÖK - KAPAN - TUTUN",
+            "Asansöre binmek",
+            "Pencerelerden atlamak"
           ],
           "answerIndex": 1,
           "explanation": "ÇÖK - KAPAN - TUTUN."
@@ -10311,10 +10311,10 @@
         {
           "prompt": "Türkiye'de afet ve acil durumların yönetiminden sorumlu kamu kurumu hangisidir?",
           "options": [
-            "AFAD (Afet ve Acil Durum Yönetimi Başkanlığı) (79.1)",
-            "Karayolları (79.2)",
-            "Merkez Bankası (79.3)",
-            "TÜİK (79.4)"
+            "AFAD",
+            "Karayolları",
+            "Merkez Bankası",
+            "TÜİK"
           ],
           "answerIndex": 0,
           "explanation": "AFAD."
@@ -10379,10 +10379,10 @@
         {
           "prompt": "Türkiye'nin atıkları kaynağında ayrıştırarak geri dönüşümü artırmayı hedefleyen ve BM tarafından ödüllendirilen çevre projesi hangisidir?",
           "options": [
-            "Sıfır Atık Projesi (Zero Waste) (80.1)",
-            "Plastik Çoğaltma Projesi (80.2)",
-            "Orman Kesim Projesi (80.3)",
-            "Çöp Yakma Girişimi (80.4)"
+            "Sıfır Atık Projesi",
+            "Plastik Çoğaltma Projesi",
+            "Orman Kesim Projesi",
+            "Çöp Yakma Girişimi"
           ],
           "answerIndex": 0,
           "explanation": "Sıfır Atık Projesi."
@@ -10394,10 +10394,10 @@
         {
           "prompt": "Türkiye'de nesli tükenme tehlikesi altında olan ve Dalyan İztuzu Plajı'nda koruma altına alınan deniz kaplumbağası türü hangisidir?",
           "options": [
-            "Kara kaplumbağası (80.1)",
-            "Dev piton (80.2)",
-            "Bukalemun (80.3)",
-            "Caretta caretta (İribaş deniz kaplumbağası) (80.4)"
+            "Kara kaplumbağası",
+            "Dev piton",
+            "Bukalemun",
+            "Caretta caretta"
           ],
           "answerIndex": 3,
           "explanation": "Caretta caretta."
@@ -10410,7 +10410,7 @@
           "prompt": "Konya Karapınar'da eski bir çöl alanına kurulan devasa temiz enerji tesisi hangi türdendir?",
           "options": [
             "Kömür Santrali",
-            "Güneş Enerjisi Santrali (GES)",
+            "Güneş Enerjisi Santrali",
             "Nükleer Santral",
             "Dizel Santrali"
           ],
@@ -10461,10 +10461,10 @@
         {
           "prompt": "Türkçede uzun bir koşudan sonra her iki ayağınızın da ağrıdığını nasıl söylersiniz?",
           "options": [
-            "Ayağım ağrıyor (81.1)",
-            "Kulağım ağrıyor (81.2)",
-            "Karnım acıktı (81.3)",
-            "Ayaklarım ağrıyor (81.4)"
+            "Ayağım ağrıyor",
+            "Kulağım ağrıyor",
+            "Karnım acıktı",
+            "Ayaklarım ağrıyor"
           ],
           "answerIndex": 3,
           "explanation": "Ayaklarım ağrıyor (çoğul)."
@@ -10476,10 +10476,10 @@
         {
           "prompt": "Birisi hasta olduğunda veya doktora gittiğinde Türk kültüründe söylenen en yaygın iyi dilek sözü nedir?",
           "options": [
-            "Afiyet olsun! (81.1)",
-            "Kolay gelsin! (81.2)",
-            "Tebrikler! (81.3)",
-            "Geçmiş olsun! (81.4)"
+            "Afiyet olsun!",
+            "Kolay gelsin!",
+            "Tebrikler!",
+            "Geçmiş olsun!"
           ],
           "answerIndex": 3,
           "explanation": "Geçmiş olsun!"
@@ -10491,7 +10491,7 @@
         {
           "prompt": "Türk sağlık sisteminde mahallelerde birinci basamak sağlık hizmeti veren doktora ne ad verilir?",
           "options": [
-            "Aile Hekimi (Aile Sağlığı Merkezi)",
+            "Aile Hekimi",
             "Nöbetçi Eczacı",
             "Başhekim sadece",
             "Hastane müdürü"
@@ -10543,10 +10543,10 @@
         {
           "prompt": "Türkiye'deki tüm eczaneleri uzaktan kolayca tanımayı sağlayan standart tabela harfi ve rengi nedir?",
           "options": [
-            "Kırmızı ve beyaz renkli ışıklı \"E\" harfi tabelası (82.1)",
-            "Sarı bir yıldız (82.2)",
-            "Mavi bir kare (82.3)",
-            "Yeşil bir ağaç (82.4)"
+            "Kırmızı ve beyaz renkli ışıklı \"E\" harfi tabelası",
+            "Sarı bir yıldız",
+            "Mavi bir kare",
+            "Yeşil bir ağaç"
           ],
           "answerIndex": 0,
           "explanation": "Kırmızı-beyaz \"E\" harfi."
@@ -10558,10 +10558,10 @@
         {
           "prompt": "Gece vakti veya pazar günleri açık olan acil eczaneye Türkiye'de ne ad verilir?",
           "options": [
-            "Nöbetçi Eczane (82.1)",
-            "Gündüz Eczanesi (82.2)",
-            "Kapalı Eczane (82.3)",
-            "Süpermarket (82.4)"
+            "Nöbetçi Eczane",
+            "Gündüz Eczanesi",
+            "Kapalı Eczane",
+            "Süpermarket"
           ],
           "answerIndex": 0,
           "explanation": "Nöbetçi Eczane."
@@ -10576,7 +10576,7 @@
             "e-Okul",
             "e-Devlet kapısı sadece",
             "Instagram",
-            "e-Nabız (ve MHRS)"
+            "e-Nabız"
           ],
           "answerIndex": 3,
           "explanation": "e-Nabız.",
@@ -10625,10 +10625,10 @@
         {
           "prompt": "Türkiye'de ambulans, polis ve itfaiyenin tek bir çatı altında birleştiği ücretsiz acil çağrı numarası kaçtır?",
           "options": [
-            "911 (83.1)",
-            "112 Acil Çağrı Merkezi (83.2)",
-            "999 (83.3)",
-            "155 (83.4)"
+            "911",
+            "112 Acil Çağrı Merkezi",
+            "999",
+            "155"
           ],
           "answerIndex": 1,
           "explanation": "112."
@@ -10640,10 +10640,10 @@
         {
           "prompt": "Deprem ve afet bölgelerinde zorlu koşullarda medikal müdahale ve kurtarma yapan özel eğitimli sağlık gücü hangisidir?",
           "options": [
-            "UMKE (Ulusal Medikal Kurtarma Ekibi) (83.1)",
-            "Trafik Polisi (83.2)",
-            "Zabıta (83.3)",
-            "Orman Koruma (83.4)"
+            "UMKE",
+            "Trafik Polisi",
+            "Zabıta",
+            "Orman Koruma"
           ],
           "answerIndex": 0,
           "explanation": "UMKE."
@@ -10657,7 +10657,7 @@
           "options": [
             "Mavi Alan",
             "Beyaz Alan",
-            "Kırmızı Alan (Red Zone - CPR & Trauma)",
+            "Kırmızı Alan",
             "Yeşil Alan"
           ],
           "answerIndex": 2,
@@ -10707,10 +10707,10 @@
         {
           "prompt": "Türk hamamında yatarak terlenilen ve kasların gevşemesini sağlayan ortadaki büyük sıcak mermer platforma ne ad verilir?",
           "options": [
-            "Kurna başı (84.1)",
-            "Göbek taşı (84.2)",
-            "Soyunma kabini (84.3)",
-            "Masa (84.4)"
+            "Kurna başı",
+            "Göbek taşı",
+            "Soyunma kabini",
+            "Masa"
           ],
           "answerIndex": 1,
           "explanation": "Göbek taşı."
@@ -10722,10 +10722,10 @@
         {
           "prompt": "Soğuk algınlığı ve gribe karşı Türkiye'de geleneksel olarak bal ve limonla demlenerek içilen şifalı çiçek çayı hangisidir?",
           "options": [
-            "Ihlamur çayı (ve adaçayı) (84.1)",
-            "Soğuk meşrubat (84.2)",
-            "Şekerli şurup (84.3)",
-            "Kola (84.4)"
+            "Ihlamur çayı",
+            "Soğuk meşrubat",
+            "Şekerli şurup",
+            "Kola"
           ],
           "answerIndex": 0,
           "explanation": "Ihlamur çayı."
@@ -10738,7 +10738,7 @@
           "prompt": "Beyaz travertenleri ve binlerce yıllık antik termal havuzuyla UNESCO Dünya Mirası olan ünlü kaplıca merkezi neresidir?",
           "options": [
             "Efes",
-            "Pamukkale (Hierapolis - Denizli)",
+            "Pamukkale",
             "Kapadokya",
             "Nemrut Dağı"
           ],
@@ -10789,10 +10789,10 @@
         {
           "prompt": "Hücrelerin hasarlı DNA'yı nasıl onardığını haritalandırarak 2015 Nobel Ödülü'nü kazanan dünyaca ünlü Türk bilim insanı kimdir?",
           "options": [
-            "Prof. Dr. Aziz Sancar (85.1)",
-            "Prof. Dr. Gazi Yaşargil (85.2)",
-            "İbni Sina (85.3)",
-            "Dr. Hulusi Behçet (85.4)"
+            "Prof. Dr. Aziz Sancar",
+            "Prof. Dr. Gazi Yaşargil",
+            "İbni Sina",
+            "Dr. Hulusi Behçet"
           ],
           "answerIndex": 0,
           "explanation": "Prof. Dr. Aziz Sancar."
@@ -10804,10 +10804,10 @@
         {
           "prompt": "Mikronörocerrahinin kurucusu kabul edilen ve \"Yüzyılın Beyin Cerrahı\" unvanını alan ünlü Türk cerrah kimdir?",
           "options": [
-            "Prof. Dr. Aziz Sancar (85.1)",
-            "Ali Kuşçu (85.2)",
-            "Cahit Arf (85.3)",
-            "Prof. Dr. Gazi Yaşargil (85.4)"
+            "Prof. Dr. Aziz Sancar",
+            "Ali Kuşçu",
+            "Cahit Arf",
+            "Prof. Dr. Gazi Yaşargil"
           ],
           "answerIndex": 3,
           "explanation": "Prof. Dr. Gazi Yaşargil."
@@ -10819,7 +10819,7 @@
         {
           "prompt": "Kendi adıyla dünya tıp literatürüne giren ve kan damarlarını etkileyen otoimmün hastalığı 1937'de tanımlayan Türk hekim kimdir?",
           "options": [
-            "Prof. Dr. Hulusi Behçet (Behçet Hastalığı)",
+            "Prof. Dr. Hulusi Behçet",
             "Şerafeddin Sabuncuoğlu",
             "Oktay Sinanoğlu",
             "Fuat Sezgin"
@@ -10871,10 +10871,10 @@
         {
           "prompt": "Türkiye'de \"2+1\" daire ifadesi evin hangi oda yapısına sahip olduğunu belirtir?",
           "options": [
-            "2 salon ve 1 mutfak (86.1)",
-            "2 banyo ve 1 balkon (86.2)",
-            "Sadece 2 oda salonsuz (86.3)",
-            "2 yatak odası ve 1 oturma salonu (86.4)"
+            "2 salon ve 1 mutfak",
+            "2 banyo ve 1 balkon",
+            "Sadece 2 oda salonsuz",
+            "2 yatak odası ve 1 oturma salonu"
           ],
           "answerIndex": 3,
           "explanation": "2 yatak odası ve 1 salon."
@@ -10886,10 +10886,10 @@
         {
           "prompt": "Elektrik ve su aboneliği açtırmak için Türkiye'de zorunlu olan deprem sigortası poliçesi hangisidir?",
           "options": [
-            "Trafik kaskosu (86.1)",
-            "Seyahat sağlık sigortası (86.2)",
-            "Kütüphane kartı (86.3)",
-            "DASK (Zorunlu Deprem Sigortası) (86.4)"
+            "Trafik kaskosu",
+            "Seyahat sağlık sigortası",
+            "Kütüphane kartı",
+            "DASK"
           ],
           "answerIndex": 3,
           "explanation": "DASK."
@@ -10904,7 +10904,7 @@
             "Trafik cezası",
             "Bahşiş",
             "Kira stopajı sadece",
-            "Site aidatı (apartman aidatı)"
+            "Site aidatı"
           ],
           "answerIndex": 3,
           "explanation": "Site aidatı.",
@@ -10953,10 +10953,10 @@
         {
           "prompt": "Komşuların en zor ve küçük anlarda bile birbirine destek olmasını anlatan ünlü Türk atasözü hangisidir?",
           "options": [
-            "Komşu komşunun külüne muhtaçtır (87.1)",
-            "Tatlı dil yılanı deliğinden çıkarır (87.2)",
-            "Damlaya damlaya göl olur (87.3)",
-            "Ayağını yorganına göre uzat (87.4)"
+            "Komşu komşunun külüne muhtaçtır",
+            "Tatlı dil yılanı deliğinden çıkarır",
+            "Damlaya damlaya göl olur",
+            "Ayağını yorganına göre uzat"
           ],
           "answerIndex": 0,
           "explanation": "Komşu komşunun külüne muhtaçtır."
@@ -10968,10 +10968,10 @@
         {
           "prompt": "Bir komşu size evde pişirdiği bir tabak yemek getirdiğinde Türk geleneğine göre ne yapılır?",
           "options": [
-            "Tabak boş verilmez; içine başka bir ikram konularak geri verilir (87.1)",
-            "Tabak çöpe atılır (87.2)",
-            "Tabak hemen yıkanıp boş geri verilir (87.3)",
-            "Kapı kapatılır (87.4)"
+            "Tabak boş verilmez; içine başka bir ikram konularak geri verilir",
+            "Tabak çöpe atılır",
+            "Tabak hemen yıkanıp boş geri verilir",
+            "Kapı kapatılır"
           ],
           "answerIndex": 0,
           "explanation": "Tabak boş geri verilmez."
@@ -10985,7 +10985,7 @@
           "options": [
             "Postacı",
             "Taksi şoförü",
-            "Apartman görevlisi (kapıcı)",
+            "Apartman görevlisi",
             "Kurye"
           ],
           "answerIndex": 2,
@@ -11035,10 +11035,10 @@
         {
           "prompt": "Geleneksel Osmanlı ahşap evlerinde sokağa doğru çıkıntı yapan kafesli balkon-oda bölümüne ne denir?",
           "options": [
-            "Teras (88.1)",
-            "Cumba (88.2)",
-            "Kiler (88.3)",
-            "Sığınak (88.4)"
+            "Teras",
+            "Cumba",
+            "Kiler",
+            "Sığınak"
           ],
           "answerIndex": 1,
           "explanation": "Cumba."
@@ -11050,10 +11050,10 @@
         {
           "prompt": "UNESCO Dünya Mirası Listesi'nde yer alan, geleneksel ahşap konaklarıyla ünlü tarihi Türk şehri neresidir?",
           "options": [
-            "Safranbolu (Karabük) (88.1)",
-            "Adana (88.2)",
-            "Ankara merkez (88.3)",
-            "Konya ovası (88.4)"
+            "Safranbolu",
+            "Adana",
+            "Ankara merkez",
+            "Konya ovası"
           ],
           "answerIndex": 0,
           "explanation": "Safranbolu."
@@ -11117,10 +11117,10 @@
         {
           "prompt": "Kapadokya'daki mağara evlerin yazın serin kışın ise sıcak kalmasını sağlayan doğal yapı malzemesi nedir?",
           "options": [
-            "Plastik levha (89.1)",
-            "Volkanik tüf kayası (doğal taş yalıtımı) (89.2)",
-            "Demir çelik (89.3)",
-            "Cam yünü (89.4)"
+            "Plastik levha",
+            "Volkanik tüf kayası",
+            "Demir çelik",
+            "Cam yünü"
           ],
           "answerIndex": 1,
           "explanation": "Volkanik tüf kayası."
@@ -11132,10 +11132,10 @@
         {
           "prompt": "Kapadokya bölgesinde binlerce insanın sığındığı çok katlı tarihi yer altı şehirlerine örnek hangisidir?",
           "options": [
-            "Derinkuyu ve Kaymaklı yer altı şehirleri (89.1)",
-            "Dolmabahçe (89.2)",
-            "Anıtkabir (89.3)",
-            "Topkapı Sarayı (89.4)"
+            "Derinkuyu ve Kaymaklı yer altı şehirleri",
+            "Dolmabahçe",
+            "Anıtkabir",
+            "Topkapı Sarayı"
           ],
           "answerIndex": 0,
           "explanation": "Derinkuyu ve Kaymaklı."
@@ -11199,10 +11199,10 @@
         {
           "prompt": "Deprem anında yangın ve patlama riskini önlemek için doğalgazı anında otomatik olarak kesen güvenlik cihazı nedir?",
           "options": [
-            "Sismik sensörlü gaz kesme emniyet vanası (90.1)",
-            "Su sayacı (90.2)",
-            "Klima kumandası (90.3)",
-            "Duman dedektörü sadece (90.4)"
+            "Sismik sensörlü gaz kesme emniyet vanası",
+            "Su sayacı",
+            "Klima kumandası",
+            "Duman dedektörü sadece"
           ],
           "answerIndex": 0,
           "explanation": "Sismik sensörlü gaz kesme vanası."
@@ -11214,10 +11214,10 @@
         {
           "prompt": "Kış aylarında doğalgaz tüketimini ve faturaları önemli ölçüde düşüren akıllı cihaz hangisidir?",
           "options": [
-            "Televizyon ekranı (90.1)",
-            "Müzik çalar (90.2)",
-            "Mikser (90.3)",
-            "Akıllı oda termostatı (kombi kontrolü) (90.4)"
+            "Televizyon ekranı",
+            "Müzik çalar",
+            "Mikser",
+            "Akıllı oda termostatı"
           ],
           "answerIndex": 3,
           "explanation": "Akıllı oda termostatı."
@@ -11281,10 +11281,10 @@
         {
           "prompt": "Türkiye'de iş arayanların ve işverenlerin en çok kullandığı yerli kariyer portalı hangisidir?",
           "options": [
-            "Hava Durumu (91.1)",
-            "E-Devlet Kapısı (91.2)",
-            "Sözlük (91.3)",
-            "Kariyer.net (91.4)"
+            "Hava Durumu",
+            "E-Devlet Kapısı",
+            "Sözlük",
+            "Kariyer.net"
           ],
           "answerIndex": 3,
           "explanation": "Kariyer.net."
@@ -11296,10 +11296,10 @@
         {
           "prompt": "Türkiye'de tüm çalışanların sağlık ve emeklilik haklarını güvence altına alan devlet kurumu hangisidir?",
           "options": [
-            "TFF (91.1)",
-            "Karayolları (91.2)",
-            "Meteoroloji (91.3)",
-            "SGK (Sosyal Güvenlik Kurumu) (91.4)"
+            "TFF",
+            "Karayolları",
+            "Meteoroloji",
+            "SGK"
           ],
           "answerIndex": 3,
           "explanation": "SGK."
@@ -11363,10 +11363,10 @@
         {
           "prompt": "Türkiye'de çalışan birine kolaylık ve başarı dilemek için günün her saatinde söylenen en yaygın ifade nedir?",
           "options": [
-            "Kolay gelsin! (92.1)",
-            "Güle güle! (92.2)",
-            "İyi geceler! (92.3)",
-            "Geçmiş olsun! (92.4)"
+            "Kolay gelsin!",
+            "Güle güle!",
+            "İyi geceler!",
+            "Geçmiş olsun!"
           ],
           "answerIndex": 0,
           "explanation": "Kolay gelsin!"
@@ -11378,10 +11378,10 @@
         {
           "prompt": "Türk ofislerinde gün boyu en çok tüketilen ve ikram edilen geleneksel sıcak içecek nedir?",
           "options": [
-            "İnce belli bardakta demli Türk çayı (92.1)",
-            "Sıcak süt (92.2)",
-            "Meyve şurubu (92.3)",
-            "Tuzlu ayran (92.4)"
+            "İnce belli bardakta demli Türk çayı",
+            "Sıcak süt",
+            "Meyve şurubu",
+            "Tuzlu ayran"
           ],
           "answerIndex": 0,
           "explanation": "İnce belli bardakta Türk çayı."
@@ -11394,7 +11394,7 @@
           "prompt": "İş yerinde yöneticilere ve iş arkadaşlarına hitap ederken ismin sonuna eklenen saygılı Türkçe unvanlar nelerdir?",
           "options": [
             "Doktor sadece",
-            "Bey (erkekler için) ve Hanım (kadınlar için)",
+            "Bey (erkekler için) ve Hanım",
             "Ağa",
             "Kaptan"
           ],
@@ -11445,10 +11445,10 @@
         {
           "prompt": "Türkiye'de aynı iş yerinde 1 ila 5 yıl arası çalışan bir işçinin hak ettiği yıllık ücretli izin süresi en az kaç gündür?",
           "options": [
-            "2 gün (93.1)",
-            "En az 14 iş günü (93.2)",
-            "30 gün (93.3)",
-            "Sıfır gün (93.4)"
+            "2 gün",
+            "En az 14 iş günü",
+            "30 gün",
+            "Sıfır gün"
           ],
           "answerIndex": 1,
           "explanation": "En az 14 iş günü."
@@ -11460,10 +11460,10 @@
         {
           "prompt": "İşçinin her bir yıllık çalışması karşılığında işten ayrılırken hak kazandığı bir aylık brüt ücret tutarındaki yasal tazminat nedir?",
           "options": [
-            "Kıdem tazminatı (93.1)",
-            "Gümrük harcı (93.2)",
-            "Trafik tazminatı (93.3)",
-            "Piyango ikramiyesi (93.4)"
+            "Kıdem tazminatı",
+            "Gümrük harcı",
+            "Trafik tazminatı",
+            "Piyango ikramiyesi"
           ],
           "answerIndex": 0,
           "explanation": "Kıdem tazminatı."
@@ -11527,10 +11527,10 @@
         {
           "prompt": "Dünyada \"10 dakikada ultra hızlı market teslimatı\" modelini kurarak Londra ve New York'a ihraç eden Türk girişimi hangisidir?",
           "options": [
-            "Walmart (94.1)",
-            "Getir (94.2)",
-            "Ebay (94.3)",
-            "Amazon (94.4)"
+            "Walmart",
+            "Getir",
+            "Ebay",
+            "Amazon"
           ],
           "answerIndex": 1,
           "explanation": "Getir."
@@ -11542,10 +11542,10 @@
         {
           "prompt": "İstanbul merkezli hangi Türk mobil oyun şirketi \"Royal Match\" oyunu ile dünyada en çok gelir elde eden oyun stüdyolarından biri olmuştur?",
           "options": [
-            "Sega (94.1)",
-            "Dream Games (94.2)",
-            "Capcom (94.3)",
-            "Atari (94.4)"
+            "Sega",
+            "Dream Games",
+            "Capcom",
+            "Atari"
           ],
           "answerIndex": 1,
           "explanation": "Dream Games."
@@ -11560,7 +11560,7 @@
             "PTT AVM",
             "Kapalıçarşı Online",
             "Sümerbank",
-            "Hepsiburada (NASDAQ: HEPS)"
+            "Hepsiburada"
           ],
           "answerIndex": 3,
           "explanation": "Hepsiburada.",
@@ -11609,10 +11609,10 @@
         {
           "prompt": "Dünyanın en çok ihraç edilen ve harp doktrinlerini değiştiren Bayraktar TB2 SİHA'larını geliştiren Türk teknoloji firması hangisidir?",
           "options": [
-            "Baykar Teknoloji (95.1)",
-            "Ford Otosan (95.2)",
-            "Vestel (95.3)",
-            "Tofaş (95.4)"
+            "Baykar Teknoloji",
+            "Ford Otosan",
+            "Vestel",
+            "Tofaş"
           ],
           "answerIndex": 0,
           "explanation": "Baykar Teknoloji."
@@ -11624,10 +11624,10 @@
         {
           "prompt": "Türkiye'nin TUSAŞ tarafından geliştirilen ve ilk uçuşunu başarıyla gerçekleştiren 5. Nesil Milli Muharip Uçağı hangisidir?",
           "options": [
-            "Hürkuş (95.1)",
-            "Gökbey (95.2)",
-            "Anka (95.3)",
-            "KAAN (95.4)"
+            "Hürkuş",
+            "Gökbey",
+            "Anka",
+            "KAAN"
           ],
           "answerIndex": 3,
           "explanation": "KAAN."
@@ -11641,7 +11641,7 @@
           "options": [
             "Air France",
             "Lufthansa",
-            "Türk Hava Yolları (THY)",
+            "Türk Hava Yolları",
             "British Airways"
           ],
           "answerIndex": 2,
@@ -11691,10 +11691,10 @@
         {
           "prompt": "What surreal geological rock formations sculpted from volcanic tuff are celebrated in Cappadocia, Turkey?",
           "options": [
-            "Fiyortlar (96.1)",
-            "Buzullar (96.2)",
-            "Kanyon barajları (96.3)",
-            "Peri bacaları (Fairy chimneys) (96.4)"
+            "Fiyortlar",
+            "Buzullar",
+            "Kanyon barajları",
+            "Peri bacaları"
           ],
           "answerIndex": 3,
           "explanation": "Peri bacaları."
@@ -11706,10 +11706,10 @@
         {
           "prompt": "Which snow-white mineral travertine terrace and thermal spring complex in Denizli is nicknamed \"Cotton Castle\"?",
           "options": [
-            "Nemrut Dağı (96.1)",
-            "Efes (96.2)",
-            "Truva (96.3)",
-            "Pamukkale (96.4)"
+            "Nemrut Dağı",
+            "Efes",
+            "Truva",
+            "Pamukkale"
           ],
           "answerIndex": 3,
           "explanation": "Pamukkale."
@@ -11733,7 +11733,7 @@
         {
           "prompt": "Which famous beach in Dalyan, Turkey is strictly protected as a vital nesting ground for endangered Caretta caretta sea turtles?",
           "options": [
-            "İztuzu Plajı (Iztuzu Beach)",
+            "İztuzu Plajı",
             "Konyaaltı Plajı",
             "Lara Plajı",
             "Bebek Sahili"
@@ -11773,10 +11773,10 @@
         {
           "prompt": "Which massive solar power plant in Konya, Turkey is recognized as the largest single-site solar farm in Europe with a 1,350 MW capacity?",
           "options": [
-            "Kalyon Karapınar GES (97.1)",
-            "Soma Santrali (97.2)",
-            "Atatürk Barajı (97.3)",
-            "Keban Santrali (97.4)"
+            "Kalyon Karapınar GES",
+            "Soma Santrali",
+            "Atatürk Barajı",
+            "Keban Santrali"
           ],
           "answerIndex": 0,
           "explanation": "Kalyon Karapınar GES."
@@ -11788,10 +11788,10 @@
         {
           "prompt": "In which global ranking does Turkey stand for geothermal electricity generation capacity, centered in the Aegean region?",
           "options": [
-            "Dünya 4.sü (4th in the world) (97.1)",
-            "Dünya 100.sü (97.2)",
-            "Sonuncu (97.3)",
-            "Dünya 50.si (97.4)"
+            "Dünya 4.sü",
+            "Dünya 100.sü",
+            "Sonuncu",
+            "Dünya 50.si"
           ],
           "answerIndex": 0,
           "explanation": "Dünya 4.sü (4th in the world)."
@@ -11818,7 +11818,7 @@
             "TÜBİTAK",
             "SGK",
             "AFAD",
-            "YEKA (Yenilenebilir Enerji Kaynak Alanları)"
+            "YEKA"
           ],
           "answerIndex": 3,
           "explanation": "YEKA.",
@@ -11855,10 +11855,10 @@
         {
           "prompt": "Which mythical apex predator of Turkey, thought extinct for decades, was recently rediscovered in mountain ranges by wildlife camera traps?",
           "options": [
-            "Afrika aslanı (98.1)",
-            "Anadolu leoparı (Anatolian leopard) (98.2)",
-            "Kutup ayısı (98.3)",
-            "Bengal kaplanı (98.4)"
+            "Afrika aslanı",
+            "Anadolu leoparı",
+            "Kutup ayısı",
+            "Bengal kaplanı"
           ],
           "answerIndex": 1,
           "explanation": "Anadolu leoparı."
@@ -11870,10 +11870,10 @@
         {
           "prompt": "Which hypersaline lake in Central Anatolia serves as the largest breeding colony for Greater Flamingos (Allı Turna) in the Mediterranean?",
           "options": [
-            "Tuz Gölü (Lake Tuz) (98.1)",
-            "Çıldır Gölü (98.2)",
-            "Beyşehir Gölü (98.3)",
-            "Eğirdir Gölü (98.4)"
+            "Tuz Gölü",
+            "Çıldır Gölü",
+            "Beyşehir Gölü",
+            "Eğirdir Gölü"
           ],
           "answerIndex": 0,
           "explanation": "Tuz Gölü."
@@ -11937,10 +11937,10 @@
         {
           "prompt": "Which environmental campaign pioneered by Turkey was adopted by the UN General Assembly to declare March 30 as International Zero Waste Day?",
           "options": [
-            "Çöp Yakma Projesi (99.1)",
-            "Sıfır Atık Projesi (Zero Waste Project) (99.2)",
-            "Maden Yasası (99.3)",
-            "Plastik Üretim Planı (99.4)"
+            "Çöp Yakma Projesi",
+            "Sıfır Atık Projesi",
+            "Maden Yasası",
+            "Plastik Üretim Planı"
           ],
           "answerIndex": 1,
           "explanation": "Sıfır Atık Projesi."
@@ -11952,10 +11952,10 @@
         {
           "prompt": "Which sea bordering Istanbul was designated a Special Environmental Protection Area to eliminate marine mucilage and restore water quality?",
           "options": [
-            "Kızıldeniz (99.1)",
-            "Marmara Denizi (Sea of Marmara) (99.2)",
-            "Umman Denizi (99.3)",
-            "Hazar Denizi (99.4)"
+            "Kızıldeniz",
+            "Marmara Denizi",
+            "Umman Denizi",
+            "Hazar Denizi"
           ],
           "answerIndex": 1,
           "explanation": "Marmara Denizi."
@@ -11980,7 +11980,7 @@
           "prompt": "What international day was declared by the UN General Assembly on March 30 following Turkey's resolution?",
           "options": [
             "Dünya Orman Günü",
-            "Uluslararası Sıfır Atık Günü (International Day of Zero Waste)",
+            "Uluslararası Sıfır Atık Günü",
             "Dünya Su Günü",
             "Dünya Çevre Günü"
           ],
@@ -12019,10 +12019,10 @@
         {
           "prompt": "What is Turkey's official statutory target year for achieving net-zero greenhouse gas emissions under the Green Development Revolution?",
           "options": [
-            "2053 (2053 Net Sıfır Hedefi) (100.1)",
-            "2025 (100.2)",
-            "2030 (100.3)",
-            "2100 (100.4)"
+            "2053",
+            "2025",
+            "2030",
+            "2100"
           ],
           "answerIndex": 0,
           "explanation": "2053."
@@ -12034,10 +12034,10 @@
         {
           "prompt": "What is the native Turkish smart electric mobility brand manufactured at the Gemlik Eco-Campus?",
           "options": [
-            "Anadol eski model (100.1)",
-            "Tofaş Şahin (100.2)",
-            "Devrim prototip (100.3)",
-            "TOGG (100.4)"
+            "Anadol eski model",
+            "Tofaş Şahin",
+            "Devrim prototip",
+            "TOGG"
           ],
           "answerIndex": 3,
           "explanation": "TOGG."
@@ -12061,7 +12061,7 @@
         {
           "prompt": "What European Union environmental trade mechanism is driving industrial decarbonization across Turkish exporters?",
           "options": [
-            "Sınırda Karbon Düzenleme Mekanizması (SKDM / CBAM)",
+            "Sınırda Karbon Düzenleme Mekanizması",
             "Gümrük Birliği sadece",
             "Erasmus",
             "Vize Serbestisi"
@@ -12101,10 +12101,10 @@
         {
           "prompt": "What public health insurance program in Turkey provides universal healthcare coverage for over 99% of citizens?",
           "options": [
-            "Trafik Sigortası (101.1)",
-            "Kasko (101.2)",
-            "Konut Sigortası (101.3)",
-            "Genel Sağlık Sigortası (GSS) (101.4)"
+            "Trafik Sigortası",
+            "Kasko",
+            "Konut Sigortası",
+            "Genel Sağlık Sigortası"
           ],
           "answerIndex": 3,
           "explanation": "Genel Sağlık Sigortası (GSS)."
@@ -12116,10 +12116,10 @@
         {
           "prompt": "What engineering feature installed under giant Turkish City Hospitals (like Başakşehir Çam ve Sakura) allows surgeries to continue safely during major earthquakes?",
           "options": [
-            "Ahşap kolonlar (101.1)",
-            "Kum torbaları (101.2)",
-            "Sismik taban izolatörleri (Seismic base isolators) (101.3)",
-            "Tuğla duvarlar (101.4)"
+            "Ahşap kolonlar",
+            "Kum torbaları",
+            "Sismik taban izolatörleri",
+            "Tuğla duvarlar"
           ],
           "answerIndex": 2,
           "explanation": "Sismik taban izolatörleri."
@@ -12183,10 +12183,10 @@
         {
           "prompt": "Which Turkish neurosurgeon was officially named \"Neurosurgeon of the Century (1950–1999)\" for founding modern microneurosurgery?",
           "options": [
-            "Prof. Dr. Gazi Yaşargil (102.1)",
-            "Prof. Dr. Aziz Sancar (102.2)",
-            "Prof. Dr. Hulusi Behçet (102.3)",
-            "Dr. Mehmet Öz (102.4)"
+            "Prof. Dr. Gazi Yaşargil",
+            "Prof. Dr. Aziz Sancar",
+            "Prof. Dr. Hulusi Behçet",
+            "Dr. Mehmet Öz"
           ],
           "answerIndex": 0,
           "explanation": "Prof. Dr. Gazi Yaşargil."
@@ -12198,10 +12198,10 @@
         {
           "prompt": "What multisystem inflammatory vasculitis disease was identified and described in 1937 by Turkish physician Dr. Hulusi Behçet?",
           "options": [
-            "Behçet Hastalığı (Behçet's Disease) (102.1)",
-            "Alzheimer (102.2)",
-            "Parkinson (102.3)",
-            "Kuduz (102.4)"
+            "Behçet Hastalığı",
+            "Alzheimer",
+            "Parkinson",
+            "Kuduz"
           ],
           "answerIndex": 0,
           "explanation": "Behçet Hastalığı."
@@ -12265,10 +12265,10 @@
         {
           "prompt": "Which Turkish scientist was awarded the 2015 Nobel Prize in Chemistry for mapping nucleotide excision DNA repair mechanisms at the molecular level?",
           "options": [
-            "Prof. Dr. Aziz Sancar (103.1)",
-            "Prof. Dr. Gazi Yaşargil (103.2)",
-            "Cahit Arf (103.3)",
-            "Oktay Sinanoğlu (103.4)"
+            "Prof. Dr. Aziz Sancar",
+            "Prof. Dr. Gazi Yaşargil",
+            "Cahit Arf",
+            "Oktay Sinanoğlu"
           ],
           "answerIndex": 0,
           "explanation": "Prof. Dr. Aziz Sancar."
@@ -12280,10 +12280,10 @@
         {
           "prompt": "What clinical cancer treatment method optimizes drug delivery based on the human circadian biological clock according to Sancar's research?",
           "options": [
-            "Kanser Kronoterapisi (Cancer Chronotherapy) (103.1)",
-            "Açlık tedavisi (103.2)",
-            "Rastgele dozaj (103.3)",
-            "Aralıksız kemoterapi (103.4)"
+            "Kanser Kronoterapisi",
+            "Açlık tedavisi",
+            "Rastgele dozaj",
+            "Aralıksız kemoterapi"
           ],
           "answerIndex": 0,
           "explanation": "Kanser Kronoterapisi."
@@ -12308,7 +12308,7 @@
           "prompt": "To which historic museum in Ankara did Prof. Aziz Sancar donate his original Nobel Prize gold medal and certificate in 2016?",
           "options": [
             "Dolmabahçe Sarayı",
-            "Anıtkabir Müzesi (Atatürk'ün Mozolesi)",
+            "Anıtkabir Müzesi",
             "Ayasofya",
             "Topkapı Sarayı"
           ],
@@ -12347,10 +12347,10 @@
         {
           "prompt": "Which Turkish university surgical team in Antalya, led by Prof. Ömer Özkan, performed Turkey's first successful full-face transplant in 2012?",
           "options": [
-            "ODTÜ (104.1)",
-            "Akdeniz Üniversitesi (104.2)",
-            "İTÜ (104.3)",
-            "Boğaziçi Üniversitesi (104.4)"
+            "ODTÜ",
+            "Akdeniz Üniversitesi",
+            "İTÜ",
+            "Boğaziçi Üniversitesi"
           ],
           "answerIndex": 1,
           "explanation": "Akdeniz Üniversitesi."
@@ -12362,10 +12362,10 @@
         {
           "prompt": "Which city in eastern Turkey hosts Europe's largest specialized Liver Transplant Institute performing hundreds of living-donor transplants annually?",
           "options": [
-            "Edirne (104.1)",
-            "Malatya (İnönü Üniversitesi) (104.2)",
-            "Muğla (104.3)",
-            "Rize (104.4)"
+            "Edirne",
+            "Malatya",
+            "Muğla",
+            "Rize"
           ],
           "answerIndex": 1,
           "explanation": "Malatya (İnönü Üniversitesi)."
@@ -12389,7 +12389,7 @@
         {
           "prompt": "In which organ transplantation category is Turkey recognized as ranked #1 in Europe and #2 globally for surgical volume?",
           "options": [
-            "Canlı donörden karaciğer ve böbrek nakli (Living donor transplants)",
+            "Canlı donörden karaciğer ve böbrek nakli",
             "Kemik iliği ihracatı",
             "Diş dolgusu",
             "Yapay kalp üretimi sadece"
@@ -12429,10 +12429,10 @@
         {
           "prompt": "What UN award-winning digital health platform allows over 40 million Turkish citizens to access all their medical records, prescriptions, and radiology scans online?",
           "options": [
-            "e-Nabız (105.1)",
-            "e-Devlet sadece vergi (105.2)",
-            "Instagram (105.3)",
-            "MHRS sadece randevu (105.4)"
+            "e-Nabız",
+            "e-Devlet sadece vergi",
+            "Instagram",
+            "MHRS sadece randevu"
           ],
           "answerIndex": 0,
           "explanation": "e-Nabız."
@@ -12444,10 +12444,10 @@
         {
           "prompt": "What state agency coordinates international health tourism accreditation and promotion for Turkish hospitals globally?",
           "options": [
-            "TCDD (105.1)",
-            "Karayolları (105.2)",
-            "MTA (105.3)",
-            "USHAŞ (Uluslararası Sağlık Hizmetleri A.Ş.) (105.4)"
+            "TCDD",
+            "Karayolları",
+            "MTA",
+            "USHAŞ"
           ],
           "answerIndex": 3,
           "explanation": "USHAŞ."
@@ -12511,10 +12511,10 @@
         {
           "prompt": "Which 13th-century Sufi master in Konya composed the monumental 6-volume spiritual masterpiece «Mesnevî»?",
           "options": [
-            "Hacı Bektaş-ı Veli (106.1)",
-            "Ahi Evran (106.2)",
-            "Fuzûlî (106.3)",
-            "Mevlânâ Celâleddîn-i Rûmî (106.4)"
+            "Hacı Bektaş-ı Veli",
+            "Ahi Evran",
+            "Fuzûlî",
+            "Mevlânâ Celâleddîn-i Rûmî"
           ],
           "answerIndex": 3,
           "explanation": "Mevlânâ Celâleddîn-i Rûmî."
@@ -12526,10 +12526,10 @@
         {
           "prompt": "What famous verse by folk mystic poet Yunus Emre expresses universal love and the transience of human life?",
           "options": [
-            "«Bize her yer cennet» (106.1)",
-            "«Yurtta barış, dünyada barış» (106.2)",
-            "«Sevelim sevilelim, dünya kimseye kalmaz» (106.3)",
-            "«Hayatta en hakiki mürşit ilimdir» (106.4)"
+            "«Bize her yer cennet»",
+            "«Yurtta barış, dünyada barış»",
+            "«Sevelim sevilelim, dünya kimseye kalmaz»",
+            "«Hayatta en hakiki mürşit ilimdir»"
           ],
           "answerIndex": 2,
           "explanation": "«Sevelim sevilelim, dünya kimseye kalmaz»."
@@ -12555,7 +12555,7 @@
           "options": [
             "Matem",
             "Kıyamet",
-            "Şeb-i Arûs (Düğün Gecesi / The Nuptial Night)",
+            "Şeb-i Arûs",
             "Hicret"
           ],
           "answerIndex": 2,
@@ -12593,10 +12593,10 @@
         {
           "prompt": "What foundational ethical triad was taught by Hacı Bektaş-ı Veli to preserve personal integrity and community harmony?",
           "options": [
-            "«Eline, beline, diline sahip ol» (Master your hand, loins, and tongue) (107.1)",
-            "«Her şeyi unut» (107.2)",
-            "«Gözünü, kulağını, burnunu kapa» (107.3)",
-            "«Paranı, mülkünü, gücünü çoğalt» (107.4)"
+            "«Eline, beline, diline sahip ol»",
+            "«Her şeyi unut»",
+            "«Gözünü, kulağını, burnunu kapa»",
+            "«Paranı, mülkünü, gücünü çoğalt»"
           ],
           "answerIndex": 0,
           "explanation": "«Eline, beline, diline sahip ol»."
@@ -12608,10 +12608,10 @@
         {
           "prompt": "What 13th-century Anatolian craft trade organization founded by Ahi Evran integrated commercial craftsmanship with strict ethical consumer protection?",
           "options": [
-            "Ahilik Teşkilatı (The Ahi Order) (107.1)",
-            "Lonca sadece İtalya'da (107.2)",
-            "Hanza Birliği (107.3)",
-            "Doğu Hindistan Şirketi (107.4)"
+            "Ahilik Teşkilatı",
+            "Lonca sadece İtalya'da",
+            "Hanza Birliği",
+            "Doğu Hindistan Şirketi"
           ],
           "answerIndex": 0,
           "explanation": "Ahilik Teşkilatı."
@@ -12636,7 +12636,7 @@
           "prompt": "What historic Anatolian organization founded by Fatma Bacı is celebrated as one of the world's first organized women's artisan guilds?",
           "options": [
             "Süfrajetler",
-            "Bâcıyân-ı Rûm (Anatolian Sisters Guild)",
+            "Bâcıyân-ı Rûm",
             "Hilal-i Ahmer",
             "Kızılhaç"
           ],
@@ -12675,10 +12675,10 @@
         {
           "prompt": "Which Turkish author wrote the satirical modern classic «Saatleri Ayarlama Enstitüsü» (The Time Regulation Institute)?",
           "options": [
-            "Ahmet Hamdi Tanpınar (108.1)",
-            "Orhan Pamuk (108.2)",
-            "Yaşar Kemal (108.3)",
-            "Oğuz Atay (108.4)"
+            "Ahmet Hamdi Tanpınar",
+            "Orhan Pamuk",
+            "Yaşar Kemal",
+            "Oğuz Atay"
           ],
           "answerIndex": 0,
           "explanation": "Ahmet Hamdi Tanpınar."
@@ -12690,10 +12690,10 @@
         {
           "prompt": "What opening lines from Tanpınar's famous poem encapsulate his Bergsonian philosophy of indivisible unified time?",
           "options": [
-            "«Ne içindeyim zamanın / Ne de büsbütün dışında» (108.1)",
-            "«Ben sana mecburum» (108.2)",
-            "«Akın var güneşe akın» (108.3)",
-            "«Memleket isterim» (108.4)"
+            "«Ne içindeyim zamanın / Ne de büsbütün dışında»",
+            "«Ben sana mecburum»",
+            "«Akın var güneşe akın»",
+            "«Memleket isterim»"
           ],
           "answerIndex": 0,
           "explanation": "«Ne içindeyim zamanın / Ne de büsbütün dışında»."
@@ -12757,10 +12757,10 @@
         {
           "prompt": "Which Turkish author wrote the seminal postmodern masterpiece «Tutunamayanlar» (The Disconnected - 1971)?",
           "options": [
-            "Bilge Karasu (109.1)",
-            "Oğuz Atay (109.2)",
-            "Peyami Safa (109.3)",
-            "Yusuf Atılgan (109.4)"
+            "Bilge Karasu",
+            "Oğuz Atay",
+            "Peyami Safa",
+            "Yusuf Atılgan"
           ],
           "answerIndex": 1,
           "explanation": "Oğuz Atay."
@@ -12772,10 +12772,10 @@
         {
           "prompt": "What is the name of Turgut Özben's fictional, deferential alter-ego dialogue partner in *Tutunamayanlar* and *Tehlikeli Oyunlar*?",
           "options": [
-            "Hikmet (109.1)",
-            "Olric (109.2)",
-            "Nizamettin (109.3)",
-            "Selim (109.4)"
+            "Hikmet",
+            "Olric",
+            "Nizamettin",
+            "Selim"
           ],
           "answerIndex": 1,
           "explanation": "Olric."
@@ -12802,7 +12802,7 @@
             "Bir banka soygunu",
             "Yurt dışına kaçış",
             "Savaş ilanı",
-            "Selim Işık'ın intiharı (The suicide of Selim Işık)"
+            "Selim Işık'ın intiharı"
           ],
           "answerIndex": 3,
           "explanation": "Selim Işık'ın intiharı.",
@@ -12839,10 +12839,10 @@
         {
           "prompt": "Who became the first Turkish writer to win the Nobel Prize in Literature in 2006 for masterpieces such as My Name is Red and Snow?",
           "options": [
-            "Orhan Pamuk (110.1)",
-            "Yaşar Kemal (110.2)",
-            "Aziz Nesin (110.3)",
-            "Nâzım Hikmet (110.4)"
+            "Orhan Pamuk",
+            "Yaşar Kemal",
+            "Aziz Nesin",
+            "Nâzım Hikmet"
           ],
           "answerIndex": 0,
           "explanation": "Orhan Pamuk."
@@ -12854,10 +12854,10 @@
         {
           "prompt": "In which historic Istanbul neighborhood did Orhan Pamuk build the real-world physical Museum of Innocence containing artifacts from his novel?",
           "options": [
-            "Kadıköy (110.1)",
-            "Sultanahmet (110.2)",
-            "Beşiktaş (110.3)",
-            "Çukurcuma (Beyoğlu) (110.4)"
+            "Kadıköy",
+            "Sultanahmet",
+            "Beşiktaş",
+            "Çukurcuma"
           ],
           "answerIndex": 3,
           "explanation": "Çukurcuma (Beyoğlu)."
@@ -12883,7 +12883,7 @@
           "options": [
             "Korku",
             "Öfke",
-            "Hüzün (Melancholy)",
+            "Hüzün",
             "Coşku"
           ],
           "answerIndex": 2,
@@ -12921,10 +12921,10 @@
         {
           "prompt": "Which supreme Ottoman chief imperial architect designed the Süleymaniye Mosque in Istanbul and the Selimiye Mosque in Edirne?",
           "options": [
-            "Mimar Hayreddin (111.1)",
-            "Sedefkar Mehmed Ağa (111.2)",
-            "Balyan Ailesi (111.3)",
-            "Mimar Sinan (Koca Sinan) (111.4)"
+            "Mimar Hayreddin",
+            "Sedefkar Mehmed Ağa",
+            "Balyan Ailesi",
+            "Mimar Sinan"
           ],
           "answerIndex": 3,
           "explanation": "Mimar Sinan (Koca Sinan)."
@@ -12936,10 +12936,10 @@
         {
           "prompt": "Which monument in Edirne did Mimar Sinan officially declare to be his \"Ustalık Eseri\" (Mastery Masterpiece) surpassing the dome of Hagia Sophia?",
           "options": [
-            "Süleymaniye Camii (111.1)",
-            "Şehzade Camii (111.2)",
-            "Selimiye Camii (Edirne) (111.3)",
-            "Mihrimah Sultan Camii (111.4)"
+            "Süleymaniye Camii",
+            "Şehzade Camii",
+            "Selimiye Camii",
+            "Mihrimah Sultan Camii"
           ],
           "answerIndex": 2,
           "explanation": "Selimiye Camii (Edirne)."
@@ -12964,7 +12964,7 @@
           "prompt": "What acoustic engineering innovation did Mimar Sinan embed into the high brick masonry of his domes to optimize voice resonance?",
           "options": [
             "Metal hoparlörler",
-            "İçi boş akustik küpleri (Hollow ceramic resonance jars)",
+            "İçi boş akustik küpleri",
             "Cam aynalar",
             "Pamuklu bezler"
           ],
@@ -13003,10 +13003,10 @@
         {
           "prompt": "Which Ottoman painter and archaeologist founded the Istanbul Archaeology Museums and painted the iconic 1906 masterpiece \"The Tortoise Trainer\"?",
           "options": [
-            "Osman Hamdi Bey (112.1)",
-            "İbrahim Çallı (112.2)",
-            "Şeker Ahmet Paşa (112.3)",
-            "Hoca Ali Rıza (112.4)"
+            "Osman Hamdi Bey",
+            "İbrahim Çallı",
+            "Şeker Ahmet Paşa",
+            "Hoca Ali Rıza"
           ],
           "answerIndex": 0,
           "explanation": "Osman Hamdi Bey."
@@ -13018,10 +13018,10 @@
         {
           "prompt": "In which prestigious private Istanbul museum on İstiklal Avenue is Osman Hamdi Bey's *The Tortoise Trainer* permanently exhibited?",
           "options": [
-            "Pera Müzesi (Pera Museum) (112.1)",
-            "İstanbul Modern (112.2)",
-            "Sakıp Sabancı Müzesi (112.3)",
-            "Topkapı Sarayı (112.4)"
+            "Pera Müzesi",
+            "İstanbul Modern",
+            "Sakıp Sabancı Müzesi",
+            "Topkapı Sarayı"
           ],
           "answerIndex": 0,
           "explanation": "Pera Müzesi (Pera Museum)."
@@ -13045,7 +13045,7 @@
         {
           "prompt": "What world-famous ancient marble masterpiece did Osman Hamdi Bey excavate in Sidon (Lebanon) in 1887 and bring to the Istanbul Archaeology Museum?",
           "options": [
-            "İskender Lahdi (The Alexander Sarcophagus)",
+            "İskender Lahdi",
             "Truva Hazineleri",
             "Zues Sunağı",
             "Mona Lisa"
@@ -13085,10 +13085,10 @@
         {
           "prompt": "What traditional UNESCO-inscribed Turkish water marbling art involves floating mineral pigments on gum-thickened water to print onto paper?",
           "options": [
-            "Ebru Sanatı (Paper Marbling) (113.1)",
-            "Hat Sanatı (113.2)",
-            "Çini Sanatı (113.3)",
-            "Minyatür (113.4)"
+            "Ebru Sanatı",
+            "Hat Sanatı",
+            "Çini Sanatı",
+            "Minyatür"
           ],
           "answerIndex": 0,
           "explanation": "Ebru Sanatı (Paper Marbling)."
@@ -13100,10 +13100,10 @@
         {
           "prompt": "What natural animal substance is mixed with earth pigments in Ebru to control surface tension and prevent colors from sinking into the water?",
           "options": [
-            "Sığır ödü (Ox gall surfactant) (113.1)",
-            "Yumurta akı (113.2)",
-            "Zeytinyağı (113.3)",
-            "Süt (113.4)"
+            "Sığır ödü",
+            "Yumurta akı",
+            "Zeytinyağı",
+            "Süt"
           ],
           "answerIndex": 0,
           "explanation": "Sığır ödü (Ox gall)."
@@ -13167,10 +13167,10 @@
         {
           "prompt": "Which historic town in northwestern Turkey was the world-famous center of Ottoman quartz underglaze ceramic tile production?",
           "options": [
-            "Avanos (114.1)",
-            "İznik (Bursa) (114.2)",
-            "Çanakkale (114.3)",
-            "Kütahya (114.4)"
+            "Avanos",
+            "İznik",
+            "Çanakkale",
+            "Kütahya"
           ],
           "answerIndex": 1,
           "explanation": "İznik (Bursa)."
@@ -13182,10 +13182,10 @@
         {
           "prompt": "Which famous Istanbul mosque designed by Mimar Sinan is celebrated for being completely covered inside with thousands of ruby-red Iznik tiles?",
           "options": [
-            "Ayasofya (114.1)",
-            "Rüstem Paşa Camii (114.2)",
-            "Fatih Camii (114.3)",
-            "Sultanahmet Camii (114.4)"
+            "Ayasofya",
+            "Rüstem Paşa Camii",
+            "Fatih Camii",
+            "Sultanahmet Camii"
           ],
           "answerIndex": 1,
           "explanation": "Rüstem Paşa Camii."
@@ -13211,7 +13211,7 @@
           "options": [
             "Demir tozu",
             "Alçı",
-            "Kuvars / Silika (Quartz / Silica)",
+            "Kuvars / Silika",
             "Kireç"
           ],
           "answerIndex": 2,
@@ -13249,10 +13249,10 @@
         {
           "prompt": "Which family of Ottoman Armenian imperial architects designed the Dolmabahçe Palace and Ortaköy Mosque on the Bosphorus in the 19th century?",
           "options": [
-            "Balyan Ailesi (Garabet & Nigoğos Balyan) (115.1)",
-            "Fossati Kardeşler (115.2)",
-            "Melling (115.3)",
-            "D'Aronco (115.4)"
+            "Balyan Ailesi",
+            "Fossati Kardeşler",
+            "Melling",
+            "D'Aronco"
           ],
           "answerIndex": 0,
           "explanation": "Balyan Ailesi."
@@ -13264,10 +13264,10 @@
         {
           "prompt": "What landmark cultural arts and opera complex on Taksim Square in Istanbul features a monumental red sphere auditorium?",
           "options": [
-            "Zorlu PSM (115.1)",
-            "Süreyya Operası (115.2)",
-            "Lütfi Kırdar (115.3)",
-            "AKM (Atatürk Kültür Merkezi) (115.4)"
+            "Zorlu PSM",
+            "Süreyya Operası",
+            "Lütfi Kırdar",
+            "AKM"
           ],
           "answerIndex": 3,
           "explanation": "AKM (Atatürk Kültür Merkezi)."
@@ -13292,7 +13292,7 @@
           "prompt": "What grand ceremonial reception hall in Dolmabahçe Palace houses the 4.5-ton Bohemian crystal chandelier presented by Queen Victoria?",
           "options": [
             "Süfera Salonu",
-            "Muayede Salonu (Grand Ceremonial Hall)",
+            "Muayede Salonu",
             "Hünkâr Hamamı",
             "Mavi Salon"
           ],
@@ -13331,10 +13331,10 @@
         {
           "prompt": "Which 19th-century Mevlevi Sufi composer is revered as the supreme master of Classical Ottoman Music for works like Ferahfeza Ayini and \"Yine bir gülnihal\"?",
           "options": [
-            "Itri (Buhurizade Mustafa Efendi) (116.1)",
-            "Hacı Arif Bey (116.2)",
-            "Tamburi Cemil Bey (116.3)",
-            "Hammâmîzâde İsmâil Dede Efendi (116.4)"
+            "Itri",
+            "Hacı Arif Bey",
+            "Tamburi Cemil Bey",
+            "Hammâmîzâde İsmâil Dede Efendi"
           ],
           "answerIndex": 3,
           "explanation": "Hammâmîzâde İsmâil Dede Efendi."
@@ -13346,10 +13346,10 @@
         {
           "prompt": "What reed flute made of nine-segmented giant reed (Kargı) is the spiritual soul of Mevlevi Sufi music and Ottoman classical compositions?",
           "options": [
-            "Zurna (116.1)",
-            "Ney (The Ney reed flute) (116.2)",
-            "Tulum (116.3)",
-            "Kaval (116.4)"
+            "Zurna",
+            "Ney",
+            "Tulum",
+            "Kaval"
           ],
           "answerIndex": 1,
           "explanation": "Ney."
@@ -13373,7 +13373,7 @@
         {
           "prompt": "What 17th-century Ottoman composer authored the immortal *Nevakar Kârı* and the *Segâh Tekbir* chanted across the Islamic world during Eid prayers?",
           "options": [
-            "Itrî (Buhûrîzâde Mustafa Efendi)",
+            "Itrî",
             "Dede Efendi",
             "Şakir Ağa",
             "Zekai Dede"
@@ -13413,10 +13413,10 @@
         {
           "prompt": "Which legendary Turkish cultural ambassador and musician created masterpieces like \"Dönence\" and \"Gülpembe\" with the band Kurtalan Ekspres?",
           "options": [
-            "Barış Manço (117.1)",
-            "Fikret Kızılok (117.2)",
-            "Erkin Koray (117.3)",
-            "Cem Karaca (117.4)"
+            "Barış Manço",
+            "Fikret Kızılok",
+            "Erkin Koray",
+            "Cem Karaca"
           ],
           "answerIndex": 0,
           "explanation": "Barış Manço."
@@ -13428,10 +13428,10 @@
         {
           "prompt": "What hybrid instrument was invented in 1969 by Erkin Koray and Orhan Gencebay, adding magnetic guitar pickups to the traditional long-necked lute?",
           "options": [
-            "Elektro Bağlama (Electric Saz) (117.1)",
-            "Elektro Kemençe (117.2)",
-            "Elektro Ney (117.3)",
-            "Elektro Kanun (117.4)"
+            "Elektro Bağlama",
+            "Elektro Kemençe",
+            "Elektro Ney",
+            "Elektro Kanun"
           ],
           "answerIndex": 0,
           "explanation": "Elektro Bağlama (Electric Saz)."
@@ -13458,7 +13458,7 @@
             "«Resimdeki Gözyaşları»",
             "«Islak Islak»",
             "«Namus Belası»",
-            "«Tamirci Çırağı» (The Mechanic's Apprentice)"
+            "«Tamirci Çırağı»"
           ],
           "answerIndex": 3,
           "explanation": "«Tamirci Çırağı».",
@@ -13495,10 +13495,10 @@
         {
           "prompt": "Which blind Anatolian master bard from Sivas authored the immortal philosophical songs \"Uzun İnce Bir Yoldayım\" and \"Kara Toprak\"?",
           "options": [
-            "Âşık Veysel (Şatıroğlu) (118.1)",
-            "Âşık Mahzuni Şerif (118.2)",
-            "Neşet Ertaş (118.3)",
-            "Muharrem Ertaş (118.4)"
+            "Âşık Veysel",
+            "Âşık Mahzuni Şerif",
+            "Neşet Ertaş",
+            "Muharrem Ertaş"
           ],
           "answerIndex": 0,
           "explanation": "Âşık Veysel (Şatıroğlu)."
@@ -13510,10 +13510,10 @@
         {
           "prompt": "What metaphor for human life between birth and death does Âşık Veysel use in *Uzun İnce Bir Yoldayım*?",
           "options": [
-            "İki kapılı bir han (A two-doored roadside inn / caravanserai) (118.1)",
-            "Hızlı bir tren (118.2)",
-            "Karanlık bir kuyu (118.3)",
-            "Uçsuz bucaksız bir okyanus (118.4)"
+            "İki kapılı bir han",
+            "Hızlı bir tren",
+            "Karanlık bir kuyu",
+            "Uçsuz bucaksız bir okyanus"
           ],
           "answerIndex": 0,
           "explanation": "İki kapılı bir han."
@@ -13577,10 +13577,10 @@
         {
           "prompt": "Which master Kırşehir folk musician was titled \"Bozkırın Tezenesi\" (The Plectrum of the Steppe) by Yaşar Kemal for classics like \"Yalan Dünya\" and \"Gönül Dağı\"?",
           "options": [
-            "Hacı Taşan (119.1)",
-            "Neşet Ertaş (119.2)",
-            "Çekiç Ali (119.3)",
-            "Muharrem Ertaş (119.4)"
+            "Hacı Taşan",
+            "Neşet Ertaş",
+            "Çekiç Ali",
+            "Muharrem Ertaş"
           ],
           "answerIndex": 1,
           "explanation": "Neşet Ertaş."
@@ -13592,10 +13592,10 @@
         {
           "prompt": "What unmeasured, high-register passionate vocal song genre of the Central Anatolian steppe was mastered by Neşet Ertaş?",
           "options": [
-            "Zeybek (119.1)",
-            "Bozlak (119.2)",
-            "Horon (119.3)",
-            "Semah (119.4)"
+            "Zeybek",
+            "Bozlak",
+            "Horon",
+            "Semah"
           ],
           "answerIndex": 1,
           "explanation": "Bozlak."
@@ -13659,10 +13659,10 @@
         {
           "prompt": "Which Turkish composer of \"The Turkish Five\" composed the monumental \"Yunus Emre Oratorio\" and conducted ethnomusicological fieldwork with Béla Bartók in 1936?",
           "options": [
-            "Ahmed Adnan Saygun (120.1)",
-            "Cemal Reşit Rey (120.2)",
-            "Fazıl Say (120.3)",
-            "Ulvi Cemal Erkin (120.4)"
+            "Ahmed Adnan Saygun",
+            "Cemal Reşit Rey",
+            "Fazıl Say",
+            "Ulvi Cemal Erkin"
           ],
           "answerIndex": 0,
           "explanation": "Ahmed Adnan Saygun."
@@ -13674,10 +13674,10 @@
         {
           "prompt": "Which world-famous conductor directed the historic performance of Saygun's *Yunus Emre Oratorio* at the United Nations General Hall in New York in 1958?",
           "options": [
-            "Leonard Bernstein (120.1)",
-            "Herbert von Karajan (120.2)",
-            "Arturo Toscanini (120.3)",
-            "Leopold Stokowski (120.4)"
+            "Leonard Bernstein",
+            "Herbert von Karajan",
+            "Arturo Toscanini",
+            "Leopold Stokowski"
           ],
           "answerIndex": 3,
           "explanation": "Leopold Stokowski."
@@ -13701,7 +13701,7 @@
         {
           "prompt": "What is the name of Turkey's premier state orchestra, founded in 1826 and now housed in its futuristic new concert hall in Ankara?",
           "options": [
-            "Cumhurbaşkanlığı Senfoni Orkestrası (CSO)",
+            "Cumhurbaşkanlığı Senfoni Orkestrası",
             "Borusan Filarmoni",
             "İstanbul Devlet Senfoni",
             "Bilkent Senfoni"
@@ -13741,10 +13741,10 @@
         {
           "prompt": "Which Turkish director won the Palme d'Or at the Cannes Film Festival in 2014 for \"Winter Sleep\" (Kış Uykusu) and directed \"Once Upon a Time in Anatolia\"?",
           "options": [
-            "Semih Kaplanoğlu (121.1)",
-            "Zeki Demirkubuz (121.2)",
-            "Fatih Akın (121.3)",
-            "Nuri Bilge Ceylan (121.4)"
+            "Semih Kaplanoğlu",
+            "Zeki Demirkubuz",
+            "Fatih Akın",
+            "Nuri Bilge Ceylan"
           ],
           "answerIndex": 3,
           "explanation": "Nuri Bilge Ceylan."
@@ -13756,10 +13756,10 @@
         {
           "prompt": "In which famous geological region of central Turkey, characterized by fairy chimneys and cave hotels in winter snow, is *Kış Uykusu* set?",
           "options": [
-            "Pamukkale (121.1)",
-            "Kapadokya (Cappadocia) (121.2)",
-            "Karadeniz Yaylaları (121.3)",
-            "Toros Dağları (121.4)"
+            "Pamukkale",
+            "Kapadokya",
+            "Karadeniz Yaylaları",
+            "Toros Dağları"
           ],
           "answerIndex": 1,
           "explanation": "Kapadokya (Cappadocia)."
@@ -13786,7 +13786,7 @@
             "«Sinema yapımcılarına»",
             "«Aileme»",
             "«Fransa'ya»",
-            "«Yalnız ve güzel ülkeme» (To my lonely and beautiful country)"
+            "«Yalnız ve güzel ülkeme»"
           ],
           "answerIndex": 3,
           "explanation": "«Yalnız ve güzel ülkeme».",
@@ -13823,10 +13823,10 @@
         {
           "prompt": "Which Turkish filmmaker directed \"Yol\" from prison through assistant Şerif Gören, winning the first Palme d'Or for Turkey at Cannes in 1982?",
           "options": [
-            "Yılmaz Güney (122.1)",
-            "Atıf Yılmaz (122.2)",
-            "Ömer Kavur (122.3)",
-            "Nuri Bilge Ceylan (122.4)"
+            "Yılmaz Güney",
+            "Atıf Yılmaz",
+            "Ömer Kavur",
+            "Nuri Bilge Ceylan"
           ],
           "answerIndex": 0,
           "explanation": "Yılmaz Güney."
@@ -13838,10 +13838,10 @@
         {
           "prompt": "What popular cinematic nickname was given to actor and director Yılmaz Güney throughout the Yeşilçam film era?",
           "options": [
-            "«Çirkin Kral» (The Ugly King) (122.1)",
-            "«Altın Çocuk» (122.2)",
-            "«Mavi Gözlü Dev» (122.3)",
-            "«Taşralı» (122.4)"
+            "«Çirkin Kral»",
+            "«Altın Çocuk»",
+            "«Mavi Gözlü Dev»",
+            "«Taşralı»"
           ],
           "answerIndex": 0,
           "explanation": "«Çirkin Kral» (The Ugly King)."
@@ -13867,7 +13867,7 @@
           "options": [
             "İki mahkûm",
             "Yirmi mahkûm",
-            "Beş mahkûm (Five prisoners)",
+            "Beş mahkûm",
             "Yalnızca bir mahkûm"
           ],
           "answerIndex": 2,
@@ -13905,10 +13905,10 @@
         {
           "prompt": "Which German-Turkish director won the Golden Bear at the Berlin Film Festival for \"Duvara Karşı\" (Head-On) in 2004 and directed \"The Edge of Heaven\"?",
           "options": [
-            "Fatih Akın (123.1)",
-            "Ferzan Özpetek (123.2)",
-            "Nuri Bilge Ceylan (123.3)",
-            "Kutluğ Ataman (123.4)"
+            "Fatih Akın",
+            "Ferzan Özpetek",
+            "Nuri Bilge Ceylan",
+            "Kutluğ Ataman"
           ],
           "answerIndex": 0,
           "explanation": "Fatih Akın."
@@ -13920,10 +13920,10 @@
         {
           "prompt": "Which actress delivered her breakout raw performance as Sibel in Fatih Akın's Golden Bear-winning *Duvara Karşı* (2004)?",
           "options": [
-            "Sibel Kekilli (123.1)",
-            "Derya Alabora (123.2)",
-            "Nurgül Yeşilçay (123.3)",
-            "Berna Lâçin (123.4)"
+            "Sibel Kekilli",
+            "Derya Alabora",
+            "Nurgül Yeşilçay",
+            "Berna Lâçin"
           ],
           "answerIndex": 0,
           "explanation": "Sibel Kekilli."
@@ -13987,10 +13987,10 @@
         {
           "prompt": "Which Turkish director created the existential cult classics \"Masumiyet\" (1997) and \"Kader\" (2006), famous for their Dostoevskian themes?",
           "options": [
-            "Semih Kaplanoğlu (124.1)",
-            "Reha Erdem (124.2)",
-            "Zeki Demirkubuz (124.3)",
-            "Nuri Bilge Ceylan (124.4)"
+            "Semih Kaplanoğlu",
+            "Reha Erdem",
+            "Zeki Demirkubuz",
+            "Nuri Bilge Ceylan"
           ],
           "answerIndex": 2,
           "explanation": "Zeki Demirkubuz."
@@ -14002,10 +14002,10 @@
         {
           "prompt": "Which Emmy-winning master Turkish actor delivered the legendary 9-minute motel monologue as Bekir in Zeki Demirkubuz's *Masumiyet* (1997)?",
           "options": [
-            "Uğur Yücel (124.1)",
-            "Haluk Bilginer (124.2)",
-            "Çetin Tekindor (124.3)",
-            "Şener Şen (124.4)"
+            "Uğur Yücel",
+            "Haluk Bilginer",
+            "Çetin Tekindor",
+            "Şener Şen"
           ],
           "answerIndex": 1,
           "explanation": "Haluk Bilginer."
@@ -14069,10 +14069,10 @@
         {
           "prompt": "Which historic 1996 film directed by Yavuz Turgul, starring Şener Şen as Baran the bandit, revitalized the modern Turkish film industry?",
           "options": [
-            "«Eşkıya» (The Bandit) (125.1)",
-            "«Gönül Yarası» (125.2)",
-            "«Av Mevsimi» (125.3)",
-            "«Muhsin Bey» (125.4)"
+            "«Eşkıya»",
+            "«Gönül Yarası»",
+            "«Av Mevsimi»",
+            "«Muhsin Bey»"
           ],
           "answerIndex": 0,
           "explanation": "«Eşkıya» (The Bandit)."
@@ -14084,10 +14084,10 @@
         {
           "prompt": "Which master comedic actor portrayed the beloved character \"İnek Şaban\" across Ertem Eğilmez's *Hababam Sınıfı* series?",
           "options": [
-            "Şener Şen (125.1)",
-            "İlyas Salman (125.2)",
-            "Zeki Alasya (125.3)",
-            "Kemal Sunal (125.4)"
+            "Şener Şen",
+            "İlyas Salman",
+            "Zeki Alasya",
+            "Kemal Sunal"
           ],
           "answerIndex": 3,
           "explanation": "Kemal Sunal."
@@ -14114,7 +14114,7 @@
             "Bağdat Caddesi",
             "Nispetiye Caddesi",
             "İstiklal Caddesi",
-            "Yeşilçam Sokağı (Yeşilçam Street)"
+            "Yeşilçam Sokağı"
           ],
           "answerIndex": 3,
           "explanation": "Yeşilçam Sokağı.",
@@ -14151,10 +14151,10 @@
         {
           "prompt": "Which visionary director and actor is revered as the founder of modern Turkish theatre, leading Darülbedayi and the Istanbul City Theatres?",
           "options": [
-            "Haldun Taner (126.1)",
-            "Genco Erkal (126.2)",
-            "Kenter Kardeşler (126.3)",
-            "Muhsin Ertuğrul (126.4)"
+            "Haldun Taner",
+            "Genco Erkal",
+            "Kenter Kardeşler",
+            "Muhsin Ertuğrul"
           ],
           "answerIndex": 3,
           "explanation": "Muhsin Ertuğrul."
@@ -14166,10 +14166,10 @@
         {
           "prompt": "Who made history in 1920 as the first Muslim Turkish female stage actress, braving police raids in Istanbul to perform on stage?",
           "options": [
-            "Bedia Muvahhit (126.1)",
-            "Afife Jale (126.2)",
-            "Yıldız Kenter (126.3)",
-            "Gülriz Sururi (126.4)"
+            "Bedia Muvahhit",
+            "Afife Jale",
+            "Yıldız Kenter",
+            "Gülriz Sururi"
           ],
           "answerIndex": 1,
           "explanation": "Afife Jale."
@@ -14195,7 +14195,7 @@
           "options": [
             "Mekteb-i Sultani",
             "Darülelhan",
-            "Darülbedayi (Darülbedayi-i Osmanî)",
+            "Darülbedayi",
             "Encümen-i Dâniş"
           ],
           "answerIndex": 2,
@@ -14233,10 +14233,10 @@
         {
           "prompt": "Which Turkish playwright wrote the world-famous epic musical \"Keşanlı Ali Destanı\" (1964) and co-founded the legendary Devekuşu Kabare?",
           "options": [
-            "Haldun Taner (127.1)",
-            "Orhan Asena (127.2)",
-            "Turgut Özakman (127.3)",
-            "Aziz Nesin (127.4)"
+            "Haldun Taner",
+            "Orhan Asena",
+            "Turgut Özakman",
+            "Aziz Nesin"
           ],
           "answerIndex": 0,
           "explanation": "Haldun Taner."
@@ -14248,10 +14248,10 @@
         {
           "prompt": "What legendary comedy duo starred in Haldun Taner's iconic Devekuşu Kabare productions across decades?",
           "options": [
-            "Zeki Alasya ve Metin Akpınar (127.1)",
-            "Münir Özkul ve Adile Naşit (127.2)",
-            "Kemal Sunal ve Halit Akçatepe (127.3)",
-            "Şener Şen ve İlyas Salman (127.4)"
+            "Zeki Alasya ve Metin Akpınar",
+            "Münir Özkul ve Adile Naşit",
+            "Kemal Sunal ve Halit Akçatepe",
+            "Şener Şen ve İlyas Salman"
           ],
           "answerIndex": 0,
           "explanation": "Zeki Alasya ve Metin Akpınar."
@@ -14315,10 +14315,10 @@
         {
           "prompt": "Which master Turkish actor and director founded Dostlar Tiyatrosu and performed the historic one-man play \"Bir Delinin Hatıra Defteri\" for over 50 years?",
           "options": [
-            "Genco Erkal (128.1)",
-            "Müşfik Kenter (128.2)",
-            "Ferhan Şensoy (128.3)",
-            "Cüneyt Gökçer (128.4)"
+            "Genco Erkal",
+            "Müşfik Kenter",
+            "Ferhan Şensoy",
+            "Cüneyt Gökçer"
           ],
           "answerIndex": 0,
           "explanation": "Genco Erkal."
@@ -14330,10 +14330,10 @@
         {
           "prompt": "Whose monumental political poetry was adapted into acclaimed stage productions by Genco Erkal in *Yaşamaya Dair* and *Kerem Gibi*?",
           "options": [
-            "Nâzım Hikmet (128.1)",
-            "Attilâ İlhan (128.2)",
-            "Orhan Veli Kanık (128.3)",
-            "Ahmet Hamdi Tanpınar (128.4)"
+            "Nâzım Hikmet",
+            "Attilâ İlhan",
+            "Orhan Veli Kanık",
+            "Ahmet Hamdi Tanpınar"
           ],
           "answerIndex": 0,
           "explanation": "Nâzım Hikmet."
@@ -14397,10 +14397,10 @@
         {
           "prompt": "Which master Turkish playwright and satirist founded Ortaoyuncular at the historic Ses Tiyatrosu and performed \"Ferhangi Şeyler\" over 2,000 times?",
           "options": [
-            "Nejat Uygur (129.1)",
-            "Levent Kırca (129.2)",
-            "Ferhan Şensoy (129.3)",
-            "Genco Erkal (129.4)"
+            "Nejat Uygur",
+            "Levent Kırca",
+            "Ferhan Şensoy",
+            "Genco Erkal"
           ],
           "answerIndex": 2,
           "explanation": "Ferhan Şensoy."
@@ -14412,10 +14412,10 @@
         {
           "prompt": "What historic symbolic headpiece (*kavuk*), representing the unbroken lineage of Turkish popular comedy, was held by Ferhan Şensoy for 27 years?",
           "options": [
-            "Nasreddin Hoca Kavuğu (129.1)",
-            "İsmail Dümbüllü Kavuğu (129.2)",
-            "Padişah Fesi (129.3)",
-            "Süleyman Çelebi Sarığı (129.4)"
+            "Nasreddin Hoca Kavuğu",
+            "İsmail Dümbüllü Kavuğu",
+            "Padişah Fesi",
+            "Süleyman Çelebi Sarığı"
           ],
           "answerIndex": 1,
           "explanation": "İsmail Dümbüllü Kavuğu."
@@ -14442,7 +14442,7 @@
             "Muammer Karaca Tiyatrosu",
             "Şan Tiyatrosu",
             "Kenter Tiyatrosu",
-            "Ses Tiyatrosu (Ses-Operet)"
+            "Ses Tiyatrosu"
           ],
           "answerIndex": 3,
           "explanation": "Ses Tiyatrosu.",
@@ -14479,10 +14479,10 @@
         {
           "prompt": "Which grand dame of Turkish theater starred in the legendary solo masterwork \"Ben Anadolu\" (I, Anatolia) and founded Kent Oyuncuları with brother Müşfik Kenter?",
           "options": [
-            "Yıldız Kenter (130.1)",
-            "Gülriz Sururi (130.2)",
-            "Zuhal Olcay (130.3)",
-            "Tilbe Saran (130.4)"
+            "Yıldız Kenter",
+            "Gülriz Sururi",
+            "Zuhal Olcay",
+            "Tilbe Saran"
           ],
           "answerIndex": 0,
           "explanation": "Yıldız Kenter."
@@ -14494,10 +14494,10 @@
         {
           "prompt": "Which award-winning actor founded Oyun Atölyesi in Moda, Kadıköy, and brought Turkish stagings of Shakespeare to Shakespeare's Globe in London?",
           "options": [
-            "Genco Erkal (130.1)",
-            "Şener Şen (130.2)",
-            "Uğur Yücel (130.3)",
-            "Haluk Bilginer (130.4)"
+            "Genco Erkal",
+            "Şener Şen",
+            "Uğur Yücel",
+            "Haluk Bilginer"
           ],
           "answerIndex": 3,
           "explanation": "Haluk Bilginer."
@@ -14561,10 +14561,10 @@
         {
           "prompt": "Which world-renowned Turkish soprano was known in Italy as \"La Diva Turca\", reigning at Teatro alla Scala in Milan for 25 years?",
           "options": [
-            "Semiha Berksoy (131.1)",
-            "Suna Korad (131.2)",
-            "Zehra Yıldız (131.3)",
-            "Leyla Gencer (131.4)"
+            "Semiha Berksoy",
+            "Suna Korad",
+            "Zehra Yıldız",
+            "Leyla Gencer"
           ],
           "answerIndex": 3,
           "explanation": "Leyla Gencer."
@@ -14576,10 +14576,10 @@
         {
           "prompt": "In which iconic body of water in Istanbul were Leyla Gencer's ashes scattered in May 2008 in accordance with her final testament?",
           "options": [
-            "İstanbul Boğazı (The Bosphorus Strait) (131.1)",
-            "Haliç (Golden Horn) (131.2)",
-            "Marmara Denizi (131.3)",
-            "Karadeniz (131.4)"
+            "İstanbul Boğazı",
+            "Haliç",
+            "Marmara Denizi",
+            "Karadeniz"
           ],
           "answerIndex": 0,
           "explanation": "İstanbul Boğazı (The Bosphorus Strait)."
@@ -14643,10 +14643,10 @@
         {
           "prompt": "Who made history in 1934 as the first professional female opera singer in Turkey, starring in the first Turkish opera \"Özsoy\" for Atatürk?",
           "options": [
-            "Semiha Berksoy (132.1)",
-            "Suna Korad (132.2)",
-            "Belkıs Aran (132.3)",
-            "Leyla Gencer (132.4)"
+            "Semiha Berksoy",
+            "Suna Korad",
+            "Belkıs Aran",
+            "Leyla Gencer"
           ],
           "answerIndex": 0,
           "explanation": "Semiha Berksoy."
@@ -14658,10 +14658,10 @@
         {
           "prompt": "Which 1934 historic opera, composed by Ahmed Adnan Saygun on Atatürk's directive, was the first Turkish opera ever staged?",
           "options": [
-            "«Özsoy Operası» (Op. 9) (132.1)",
-            "«Kerem» (132.2)",
-            "«Yunus Emre» (132.3)",
-            "«Köroğlu» (132.4)"
+            "«Özsoy Operası»",
+            "«Kerem»",
+            "«Yunus Emre»",
+            "«Köroğlu»"
           ],
           "answerIndex": 0,
           "explanation": "«Özsoy Operası»."
@@ -14725,10 +14725,10 @@
         {
           "prompt": "Which master composer of \"The Turkish Five\" composed the world-famous \"Yunus Emre Oratorio\" (1946) and conducted folk research with Béla Bartók?",
           "options": [
-            "Ahmed Adnan Saygun (133.1)",
-            "Cemal Reşit Rey (133.2)",
-            "Ulvi Cemal Erkin (133.3)",
-            "Necil Kâzım Akses (133.4)"
+            "Ahmed Adnan Saygun",
+            "Cemal Reşit Rey",
+            "Ulvi Cemal Erkin",
+            "Necil Kâzım Akses"
           ],
           "answerIndex": 0,
           "explanation": "Ahmed Adnan Saygun."
@@ -14740,10 +14740,10 @@
         {
           "prompt": "Which 13th-century Anatolian Sufi mystic poet's verses on divine love and human brotherhood were set to music in Saygun's monumental oratorio?",
           "options": [
-            "Yunus Emre (133.1)",
-            "Pir Sultan Abdal (133.2)",
-            "Mevlânâ Celâleddîn-i Rûmî (133.3)",
-            "Hacı Bektâş-ı Velî (133.4)"
+            "Yunus Emre",
+            "Pir Sultan Abdal",
+            "Mevlânâ Celâleddîn-i Rûmî",
+            "Hacı Bektâş-ı Velî"
           ],
           "answerIndex": 0,
           "explanation": "Yunus Emre."
@@ -14770,7 +14770,7 @@
             "Müzika-i Hümâyun",
             "Darülelhan Beşlisi",
             "Ankara Ekolü",
-            "Türk Beşleri (The Turkish Five)"
+            "Türk Beşleri"
           ],
           "answerIndex": 3,
           "explanation": "Türk Beşleri (The Turkish Five).",
@@ -14807,10 +14807,10 @@
         {
           "prompt": "Which acclaimed Turkish dramatic tenor stars regularly at the Bolshoi Theatre and Verona Arena as Calaf and served as General Director of DOB?",
           "options": [
-            "Efe Kışlalı (134.1)",
-            "Bülent Bezdüz (134.2)",
-            "Murat Karahan (134.3)",
-            "Hakan Aysev (134.4)"
+            "Efe Kışlalı",
+            "Bülent Bezdüz",
+            "Murat Karahan",
+            "Hakan Aysev"
           ],
           "answerIndex": 2,
           "explanation": "Murat Karahan."
@@ -14822,10 +14822,10 @@
         {
           "prompt": "Which Turkish operatic bass made history in 2004 as the first Turkish singer to perform a leading principal role at the Metropolitan Opera in New York?",
           "options": [
-            "Tuncay Kurtoğlu (134.1)",
-            "Burak Bilgili (134.2)",
-            "Ayhan Baran (134.3)",
-            "Suat Arikan (134.4)"
+            "Tuncay Kurtoğlu",
+            "Burak Bilgili",
+            "Ayhan Baran",
+            "Suat Arikan"
           ],
           "answerIndex": 1,
           "explanation": "Burak Bilgili."
@@ -14851,7 +14851,7 @@
           "options": [
             "Hierapolis Tiyatrosu",
             "Milet Tiyatrosu",
-            "Aspendos Antik Tiyatrosu (Aspendos Theatre)",
+            "Aspendos Antik Tiyatrosu",
             "Efes Antik Tiyatrosu"
           ],
           "answerIndex": 2,
@@ -14889,10 +14889,10 @@
         {
           "prompt": "Which grand cultural complex on Taksim Square in Istanbul reopened in 2021 with an iconic 2,040-seat red ceramic spherical opera auditorium?",
           "options": [
-            "Atatürk Kültür Merkezi (AKM Taksim) (135.1)",
-            "Zorlu PSM (135.2)",
-            "Lütfi Kırdar Kongre Merkezi (135.3)",
-            "Süreyya Operası (135.4)"
+            "Atatürk Kültür Merkezi",
+            "Zorlu PSM",
+            "Lütfi Kırdar Kongre Merkezi",
+            "Süreyya Operası"
           ],
           "answerIndex": 0,
           "explanation": "Atatürk Kültür Merkezi (AKM Taksim)."
@@ -14904,10 +14904,10 @@
         {
           "prompt": "Which historic opera composed by Hasan Uçarsu, celebrating the genius of Ottoman master architect Mimar Sinan, inaugurated the new AKM in 2021?",
           "options": [
-            "«Özsoy» (135.1)",
-            "«Kerem» (135.2)",
-            "«Hürrem Sultan» (135.3)",
-            "«Sinan Operası» (135.4)"
+            "«Özsoy»",
+            "«Kerem»",
+            "«Hürrem Sultan»",
+            "«Sinan Operası»"
           ],
           "answerIndex": 3,
           "explanation": "«Sinan Operası»."
@@ -14971,10 +14971,10 @@
         {
           "prompt": "Which master Ottoman architect considered the Selimiye Mosque in Edirne (1575) his crowning \"masterwork\" (ustalık eseri)?",
           "options": [
-            "Sedefkâr Mehmed Ağa (136.1)",
-            "Mimar Hayreddin (136.2)",
-            "Balyan Ailesi (136.3)",
-            "Mimar Sinan (Koca Sinan) (136.4)"
+            "Sedefkâr Mehmed Ağa",
+            "Mimar Hayreddin",
+            "Balyan Ailesi",
+            "Mimar Sinan"
           ],
           "answerIndex": 3,
           "explanation": "Mimar Sinan (Koca Sinan)."
@@ -14986,10 +14986,10 @@
         {
           "prompt": "What ingenious chamber was engineered by Sinan inside the Süleymaniye Mosque to collect candle soot and turn it into fine calligraphy ink?",
           "options": [
-            "İs Odası (The Soot Room) (136.1)",
-            "Hünkâr Mahfili (136.2)",
-            "Muvakkithane (136.3)",
-            "Şadırvan (136.4)"
+            "İs Odası",
+            "Hünkâr Mahfili",
+            "Muvakkithane",
+            "Şadırvan"
           ],
           "answerIndex": 0,
           "explanation": "İs Odası (The Soot Room)."
@@ -15013,7 +15013,7 @@
         {
           "prompt": "What natural object was placed inside oil lamps by Mimar Sinan to emit a natural scent preventing spiders from spinning webs in his mosques?",
           "options": [
-            "Devekuşu yumurtaları (Ostrich eggs)",
+            "Devekuşu yumurtaları",
             "Defne yaprakları",
             "Karanfil tomurcukları",
             "Sedir ağacı kabuğu"
@@ -15053,10 +15053,10 @@
         {
           "prompt": "Which master Ottoman architect and mother-of-pearl craftsman designed Istanbul's famous 6-minaret Blue Mosque (Sultanahmet Camii) in 1616?",
           "options": [
-            "Sedefkâr Mehmed Ağa (137.1)",
-            "Mimar Davud Ağa (137.2)",
-            "Sarkis Balyan (137.3)",
-            "Mimar Sinan (137.4)"
+            "Sedefkâr Mehmed Ağa",
+            "Mimar Davud Ağa",
+            "Sarkis Balyan",
+            "Mimar Sinan"
           ],
           "answerIndex": 0,
           "explanation": "Sedefkâr Mehmed Ağa."
@@ -15068,10 +15068,10 @@
         {
           "prompt": "What traditional ceramic town in northwestern Anatolia produced the twenty thousand blue and turquoise handmade tiles inside the Blue Mosque?",
           "options": [
-            "İznik (Nicaea) (137.1)",
-            "Kütahya (137.2)",
-            "Çanakkale (137.3)",
-            "Avanos (137.4)"
+            "İznik",
+            "Kütahya",
+            "Çanakkale",
+            "Avanos"
           ],
           "answerIndex": 0,
           "explanation": "İznik (Nicaea)."
@@ -15098,7 +15098,7 @@
             "4 minare",
             "2 minare",
             "8 minare",
-            "6 minare (Six minarets)"
+            "6 minare"
           ],
           "answerIndex": 3,
           "explanation": "6 minare.",
@@ -15135,10 +15135,10 @@
         {
           "prompt": "Which renowned family of imperial Ottoman architects designed Dolmabahçe Palace, Ortaköy Mosque, and Beylerbeyi Palace along the Bosphorus?",
           "options": [
-            "Balyan Ailesi (The Balyan Dynasty) (138.1)",
-            "Fossati Kardeşler (138.2)",
-            "D'Aronco (138.3)",
-            "Mimar Kemaleddin (138.4)"
+            "Balyan Ailesi",
+            "Fossati Kardeşler",
+            "D'Aronco",
+            "Mimar Kemaleddin"
           ],
           "answerIndex": 0,
           "explanation": "Balyan Ailesi (The Balyan Dynasty)."
@@ -15150,10 +15150,10 @@
         {
           "prompt": "What grand waterfront monument, designed by Garabet and Nigoğos Balyan in 1856, replaced Topkapı as the main administrative residence of the Ottoman Sultans?",
           "options": [
-            "Dolmabahçe Sarayı (138.1)",
-            "Yıldız Sarayı (138.2)",
-            "İshak Paşa Sarayı (138.3)",
-            "Topkapı Sarayı (138.4)"
+            "Dolmabahçe Sarayı",
+            "Yıldız Sarayı",
+            "İshak Paşa Sarayı",
+            "Topkapı Sarayı"
           ],
           "answerIndex": 0,
           "explanation": "Dolmabahçe Sarayı."
@@ -15179,7 +15179,7 @@
           "options": [
             "Altın taht",
             "Mermer çeşme",
-            "Bohemya kristal avize (Bohemian crystal chandelier)",
+            "Bohemya kristal avize",
             "Büyük saat kulesi"
           ],
           "answerIndex": 2,
@@ -15217,10 +15217,10 @@
         {
           "prompt": "Which master Turkish architect wrote \"Türk Evi\" and won the Aga Khan Award for Architecture in 1986 for the Zeyrek SSK Complex in Istanbul?",
           "options": [
-            "Doğan Kuban (139.1)",
-            "Emin Onat (139.2)",
-            "Sedad Hakkı Eldem (139.3)",
-            "Turgut Cansever (139.4)"
+            "Doğan Kuban",
+            "Emin Onat",
+            "Sedad Hakkı Eldem",
+            "Turgut Cansever"
           ],
           "answerIndex": 2,
           "explanation": "Sedad Hakkı Eldem."
@@ -15232,10 +15232,10 @@
         {
           "prompt": "What traditional spatial element of the Ottoman Turkish House, serving as the central family gathering hall connecting all rooms, was championed by Eldem?",
           "options": [
-            "Eyvan (139.1)",
-            "Sofa (The central hall / Hayat) (139.2)",
-            "Kiler (139.3)",
-            "Cumba (139.4)"
+            "Eyvan",
+            "Sofa",
+            "Kiler",
+            "Cumba"
           ],
           "answerIndex": 1,
           "explanation": "Sofa (The central hall / Hayat)."
@@ -15260,7 +15260,7 @@
           "prompt": "What traditional cantilevered projecting window bay, typical of vernacular Ottoman wooden residences, was reinterpreted in modern concrete by Sedad Hakkı Eldem?",
           "options": [
             "Taşlık",
-            "Cumba (Cantilevered bay window)",
+            "Cumba",
             "Gusülhane",
             "Cihannüma"
           ],
@@ -15299,10 +15299,10 @@
         {
           "prompt": "Which master Turkish architect is the only architect in world history to win the prestigious Aga Khan Award for Architecture three times?",
           "options": [
-            "Turgut Cansever (140.1)",
-            "Emre Arolat (140.2)",
-            "Murat Tabanlıoğlu (140.3)",
-            "Sedad Hakkı Eldem (140.4)"
+            "Turgut Cansever",
+            "Emre Arolat",
+            "Murat Tabanlıoğlu",
+            "Sedad Hakkı Eldem"
           ],
           "answerIndex": 0,
           "explanation": "Turgut Cansever."
@@ -15314,10 +15314,10 @@
         {
           "prompt": "Which award-winning 2014 contemporary underground mosque in Büyükçekmece, Istanbul, designed by Emre Arolat, is embedded directly into the hillside landscape?",
           "options": [
-            "Şakirin Camii (140.1)",
-            "Marmara İlahiyat Camii (140.2)",
-            "Ahmet Hamdi Akseki Camii (140.3)",
-            "Sancaklar Camii (Sancaklar Mosque) (140.4)"
+            "Şakirin Camii",
+            "Marmara İlahiyat Camii",
+            "Ahmet Hamdi Akseki Camii",
+            "Sancaklar Camii"
           ],
           "answerIndex": 3,
           "explanation": "Sancaklar Camii (Sancaklar Mosque)."
@@ -15341,7 +15341,7 @@
         {
           "prompt": "In which coastal Aegean town did Turgut Cansever restore the historic 1980 Aga Khan award-winning residence for music producer Ahmet Ertegün?",
           "options": [
-            "Bodrum (Muğla)",
+            "Bodrum",
             "Marmaris",
             "Çeşme",
             "Kuşadası"
@@ -15381,10 +15381,10 @@
         {
           "prompt": "Which 13th-century Sufi master and philosopher composed the 26,000-verse \"Masnavi\" in Konya, proclaiming \"Come, come, whoever you are, come\"?",
           "options": [
-            "Yunus Emre (141.1)",
-            "Hacı Bektaş-ı Veli (141.2)",
-            "Ahmet Yesevi (141.3)",
-            "Mevlânâ Celâleddîn-i Rûmî (141.4)"
+            "Yunus Emre",
+            "Hacı Bektaş-ı Veli",
+            "Ahmet Yesevi",
+            "Mevlânâ Celâleddîn-i Rûmî"
           ],
           "answerIndex": 3,
           "explanation": "Mevlânâ Celâleddîn-i Rûmî."
@@ -15396,10 +15396,10 @@
         {
           "prompt": "What traditional reed flute musical instrument, symbolizing the human soul separated from the divine reed-bed, opens Rumi's Mesnevî?",
           "options": [
-            "Ney (The reed flute) (141.1)",
-            "Kudüm (141.2)",
-            "Rebab (141.3)",
-            "Bağlama (141.4)"
+            "Ney",
+            "Kudüm",
+            "Rebab",
+            "Bağlama"
           ],
           "answerIndex": 0,
           "explanation": "Ney (The reed flute)."
@@ -15426,7 +15426,7 @@
             "Hallac-ı Mansur",
             "İbn Arabi",
             "Feridüddin Attar",
-            "Şems-i Tebrizî (Shams of Tabriz)"
+            "Şems-i Tebrizî"
           ],
           "answerIndex": 3,
           "explanation": "Şems-i Tebrizî.",
@@ -15463,10 +15463,10 @@
         {
           "prompt": "Which master 13th-century Anatolian folk poet and humanist philosopher wrote \"Sevelim, sevilelim, bu dünya kimseye kalmaz\" in pure Turkish?",
           "options": [
-            "Yunus Emre (142.1)",
-            "Pir Sultan Abdal (142.2)",
-            "Kaygusuz Abdal (142.3)",
-            "Mevlânâ Rûmî (142.4)"
+            "Yunus Emre",
+            "Pir Sultan Abdal",
+            "Kaygusuz Abdal",
+            "Mevlânâ Rûmî"
           ],
           "answerIndex": 0,
           "explanation": "Yunus Emre."
@@ -15478,10 +15478,10 @@
         {
           "prompt": "What foundational humanist principle was proclaimed by Yunus Emre regarding how spiritual seekers must view all peoples and nations across the Earth?",
           "options": [
-            "«Yetmiş iki millete bir göz ile bakmak» (Looking upon 72 nations with one eye) (142.1)",
-            "Sadece kendi milletini sevmek (142.2)",
-            "Altın biriktirmek (142.3)",
-            "Toprak fethetmek (142.4)"
+            "«Yetmiş iki millete bir göz ile bakmak»",
+            "Sadece kendi milletini sevmek",
+            "Altın biriktirmek",
+            "Toprak fethetmek"
           ],
           "answerIndex": 0,
           "explanation": "«Yetmiş iki millete bir göz ile bakmak»."
@@ -15507,7 +15507,7 @@
           "options": [
             "NATO",
             "Avrupa Birliği",
-            "UNESCO (Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü)",
+            "UNESCO",
             "Dünya Sağlık Örgütü"
           ],
           "answerIndex": 2,
@@ -15545,10 +15545,10 @@
         {
           "prompt": "Which master sociologist and thinker founded the first sociology department in Turkey and authored \"The Principles of Turkism\" (1923)?",
           "options": [
-            "Ziya Gökalp (143.1)",
-            "Prens Sabahattin (143.2)",
-            "Hilmi Ziya Ülken (143.3)",
-            "Niyazi Berkes (143.4)"
+            "Ziya Gökalp",
+            "Prens Sabahattin",
+            "Hilmi Ziya Ülken",
+            "Niyazi Berkes"
           ],
           "answerIndex": 0,
           "explanation": "Ziya Gökalp."
@@ -15560,10 +15560,10 @@
         {
           "prompt": "What term was used by Ziya Gökalp to denote the authentic, emotional national culture and folk heritage of a people, distinct from universal technological civilization (Medeniyet)?",
           "options": [
-            "Hars (Milli Kültür / National Culture) (143.1)",
-            "Maarif (143.2)",
-            "İrfan (143.3)",
-            "Töre (143.4)"
+            "Hars",
+            "Maarif",
+            "İrfan",
+            "Töre"
           ],
           "answerIndex": 0,
           "explanation": "Hars (Milli Kültür / National Culture)."
@@ -15627,10 +15627,10 @@
         {
           "prompt": "Which master Turkish philosopher wrote \"Aşk Ahlâkı\" (1931) and the monumental 2-volume \"Türk Tefekkür Tarihi\" (1933)?",
           "options": [
-            "Takiyettin Mengüşoğlu (144.1)",
-            "Macit Gökberk (144.2)",
-            "Hilmi Ziya Ülken (144.3)",
-            "Nusret Hızır (144.4)"
+            "Takiyettin Mengüşoğlu",
+            "Macit Gökberk",
+            "Hilmi Ziya Ülken",
+            "Nusret Hızır"
           ],
           "answerIndex": 2,
           "explanation": "Hilmi Ziya Ülken."
@@ -15642,10 +15642,10 @@
         {
           "prompt": "What transformative historical engine did Hilmi Ziya Ülken identify as the universal catalyst that sparks civilizational renaissances across world history?",
           "options": [
-            "Siyasi darbeler (144.1)",
-            "Altın madenciliği (144.2)",
-            "Tercüme hareketleri (Monumental translation movements) (144.3)",
-            "Askeri fetihler (144.4)"
+            "Siyasi darbeler",
+            "Altın madenciliği",
+            "Tercüme hareketleri",
+            "Askeri fetihler"
           ],
           "answerIndex": 2,
           "explanation": "Tercüme hareketleri (Monumental translation movements)."
@@ -15669,7 +15669,7 @@
         {
           "prompt": "What monumental two-volume historical work, published by Hilmi Ziya Ülken in 1933, established the first comprehensive academic history of Turkish philosophical thought?",
           "options": [
-            "«Türk Tefekkür Tarihi» (History of Turkish Thought)",
+            "«Türk Tefekkür Tarihi»",
             "«Mantık Tarihi»",
             "«İslam Felsefesi»",
             "«Felsefe Dersleri»"
@@ -15709,10 +15709,10 @@
         {
           "prompt": "Which master Turkish moral philosopher served as President of the International Federation of Philosophical Societies (FISP) and authored \"Philosophical Foundations of Human Rights\"?",
           "options": [
-            "İoanna Kuçuradi (145.1)",
-            "Macit Gökberk (145.2)",
-            "Bedia Akarsu (145.3)",
-            "Betül Çotuksöken (145.4)"
+            "İoanna Kuçuradi",
+            "Macit Gökberk",
+            "Bedia Akarsu",
+            "Betül Çotuksöken"
           ],
           "answerIndex": 0,
           "explanation": "İoanna Kuçuradi."
@@ -15724,10 +15724,10 @@
         {
           "prompt": "According to Kuçuradi's philosophy, on what fundamental ontological concept are Universal Human Rights rooted beyond mere legal treaties?",
           "options": [
-            "Hükümet kararnameleri (145.1)",
-            "Ekonomik kâr (145.2)",
-            "Geleneksel inançlar (145.3)",
-            "İnsanın değeri ve olanakları (Human dignity and potentiality) (145.4)"
+            "Hükümet kararnameleri",
+            "Ekonomik kâr",
+            "Geleneksel inançlar",
+            "İnsanın değeri ve olanakları"
           ],
           "answerIndex": 3,
           "explanation": "İnsanın değeri ve olanakları."
@@ -15754,7 +15754,7 @@
             "Atina",
             "Roma",
             "Paris",
-            "İstanbul (Turkey)"
+            "İstanbul"
           ],
           "answerIndex": 3,
           "explanation": "İstanbul (Turkey).",
@@ -15791,10 +15791,10 @@
         {
           "prompt": "Which master Turkish director won the Cannes Palme d'Or for \"Winter Sleep\" (Kış Uykusu, 2014) and the Grand Prix for \"Once Upon a Time in Anatolia\" (2011)?",
           "options": [
-            "Semih Kaplanoğlu (146.1)",
-            "Zeki Demirkubuz (146.2)",
-            "Reha Erdem (146.3)",
-            "Nuri Bilge Ceylan (146.4)"
+            "Semih Kaplanoğlu",
+            "Zeki Demirkubuz",
+            "Reha Erdem",
+            "Nuri Bilge Ceylan"
           ],
           "answerIndex": 3,
           "explanation": "Nuri Bilge Ceylan."
@@ -15806,10 +15806,10 @@
         {
           "prompt": "In which iconic Turkish geographical region, famed for its snow-covered volcanic fairy chimneys, is Nuri Bilge Ceylan's \"Winter Sleep\" set?",
           "options": [
-            "Kapadokya (Cappadocia) (146.1)",
-            "Pamukkale (146.2)",
-            "Kaçkar Dağları (146.3)",
-            "Toros Dağları (146.4)"
+            "Kapadokya",
+            "Pamukkale",
+            "Kaçkar Dağları",
+            "Toros Dağları"
           ],
           "answerIndex": 0,
           "explanation": "Kapadokya (Cappadocia)."
@@ -15873,10 +15873,10 @@
         {
           "prompt": "Which master Turkish director and actor, known as \"Çirkin Kral\", directed the 1982 Cannes Palme d'Or winner \"Yol\" from his prison cell?",
           "options": [
-            "Yılmaz Güney (147.1)",
-            "Ömer Lütfi Akad (147.2)",
-            "Atıf Yılmaz (147.3)",
-            "Metin Erksan (147.4)"
+            "Yılmaz Güney",
+            "Ömer Lütfi Akad",
+            "Atıf Yılmaz",
+            "Metin Erksan"
           ],
           "answerIndex": 0,
           "explanation": "Yılmaz Güney."
@@ -15888,10 +15888,10 @@
         {
           "prompt": "Which groundbreaking 1970 neo-realist film by Yılmaz Güney follows the desperate Adana horse-carriage driver Cabbar searching for buried treasure?",
           "options": [
-            "«Umut» (Hope) (147.1)",
-            "«Ağıt» (147.2)",
-            "«Arkadaş» (147.3)",
-            "«Baba» (147.4)"
+            "«Umut»",
+            "«Ağıt»",
+            "«Arkadaş»",
+            "«Baba»"
           ],
           "answerIndex": 0,
           "explanation": "«Umut» (Hope)."
@@ -15955,10 +15955,10 @@
         {
           "prompt": "Which master Turkish director won the Berlin Golden Bear for \"Susuz Yaz\" (Dry Summer, 1963) and directed the cult classic \"Sevmek Zamanı\" (1965)?",
           "options": [
-            "Metin Erksan (148.1)",
-            "Ömer Lütfi Akad (148.2)",
-            "Halit Refiğ (148.3)",
-            "Memduh Ün (148.4)"
+            "Metin Erksan",
+            "Ömer Lütfi Akad",
+            "Halit Refiğ",
+            "Memduh Ün"
           ],
           "answerIndex": 0,
           "explanation": "Metin Erksan."
@@ -15970,10 +15970,10 @@
         {
           "prompt": "In Metin Erksan's 1965 masterpiece \"Sevmek Zamanı\", why does Halil refuse to be with the real Meral when she approaches him in Büyükada?",
           "options": [
-            "Çünkü o Meral'in kendisine değil, duvardaki suretine (resmine) aşıktır (He is in love with her image, not her physical self) (148.1)",
-            "Çünkü adadan ayrılmak zorundadır (148.2)",
-            "Çünkü parası yoktur (148.3)",
-            "Çünkü Meral evlidir (148.4)"
+            "Çünkü o Meral'in kendisine değil, duvardaki suretine (resmine) aşıktır",
+            "Çünkü adadan ayrılmak zorundadır",
+            "Çünkü parası yoktur",
+            "Çünkü Meral evlidir"
           ],
           "answerIndex": 0,
           "explanation": "Çünkü o Meral'in kendisine değil, duvardaki suretine (resmine) aşıktır."
@@ -16037,10 +16037,10 @@
         {
           "prompt": "Which master Turkish director won the Berlin Golden Bear in 2010 for \"Bal\" (Honey), the crowning chapter of his Yusuf Trilogy?",
           "options": [
-            "Derviş Zaim (149.1)",
-            "Reha Erdem (149.2)",
-            "Semih Kaplanoğlu (149.3)",
-            "Nuri Bilge Ceylan (149.4)"
+            "Derviş Zaim",
+            "Reha Erdem",
+            "Semih Kaplanoğlu",
+            "Nuri Bilge Ceylan"
           ],
           "answerIndex": 2,
           "explanation": "Semih Kaplanoğlu."
@@ -16052,10 +16052,10 @@
         {
           "prompt": "In which lush, mountainous province of the Turkish Black Sea region was Semih Kaplanoğlu's Golden Bear winner \"Bal\" filmed?",
           "options": [
-            "Kastamonu (149.1)",
-            "Sinop (149.2)",
-            "Rize ve Artvin (Doğu Karadeniz) (149.3)",
-            "Trabzon (149.4)"
+            "Kastamonu",
+            "Sinop",
+            "Rize ve Artvin",
+            "Trabzon"
           ],
           "answerIndex": 2,
           "explanation": "Rize ve Artvin (Doğu Karadeniz)."
@@ -16082,7 +16082,7 @@
             "Toprak testiler",
             "Modern plastik kovanlar",
             "Demir kafesler",
-            "Karakovan petekleri (Traditional hanging wooden beehives)"
+            "Karakovan petekleri"
           ],
           "answerIndex": 3,
           "explanation": "Karakovan petekleri.",
@@ -16119,10 +16119,10 @@
         {
           "prompt": "Which master Turkish director filmed \"Kosmos\" (2009) in the snows of Kars, and which directed the Cannes-acclaimed political thriller \"Kurak Günler\" (2022)?",
           "options": [
-            "Reha Erdem ve Emin Alper (150.1)",
-            "Nuri Bilge Ceylan ve Semih Kaplanoğlu (150.2)",
-            "Yeşim Ustaoğlu ve Derviş Zaim (150.3)",
-            "Zeki Demirkubuz ve Uğur Yücel (150.4)"
+            "Reha Erdem ve Emin Alper",
+            "Nuri Bilge Ceylan ve Semih Kaplanoğlu",
+            "Yeşim Ustaoğlu ve Derviş Zaim",
+            "Zeki Demirkubuz ve Uğur Yücel"
           ],
           "answerIndex": 0,
           "explanation": "Reha Erdem ve Emin Alper."
@@ -16134,10 +16134,10 @@
         {
           "prompt": "What terrifying geological phenomenon in the town of Yanıklar serves as a powerful metaphor for political and environmental decay in Emin Alper's \"Kurak Günler\"?",
           "options": [
-            "Volkanik patlamalar (150.1)",
-            "Tsunami dalgaları (150.2)",
-            "Buzul erimeleri (150.3)",
-            "Dev obruklar (Massive subterranean sinkholes) (150.4)"
+            "Volkanik patlamalar",
+            "Tsunami dalgaları",
+            "Buzul erimeleri",
+            "Dev obruklar"
           ],
           "answerIndex": 3,
           "explanation": "Dev obruklar (Massive subterranean sinkholes)."
@@ -16163,7 +16163,7 @@
           "options": [
             "Erzurum",
             "Ağrı",
-            "Kars (Doğu Anadolu)",
+            "Kars",
             "Van"
           ],
           "answerIndex": 2,
@@ -16201,10 +16201,10 @@
         {
           "prompt": "Which early-harvest, emerald-green pistachio type is the irreplaceable culinary heart of authentic Gaziantep baklava?",
           "options": [
-            "Kırmızı kabuklu fıstık (151.1)",
-            "Kavrulmuş tuzlu fıstık (151.2)",
-            "Siirt fıstığı (151.3)",
-            "Boz iç Antep fıstığı (Early-harvest emerald pistachio) (151.4)"
+            "Kırmızı kabuklu fıstık",
+            "Kavrulmuş tuzlu fıstık",
+            "Siirt fıstığı",
+            "Boz iç Antep fıstığı"
           ],
           "answerIndex": 3,
           "explanation": "Boz iç Antep fıstığı (Early-harvest emerald pistachio)."
@@ -16216,10 +16216,10 @@
         {
           "prompt": "What traditional pure clarified sheep's butter, renowned for its rich aroma and high smoke point, is poured over layers of baklava before baking?",
           "options": [
-            "Sadeyağ (Urfa Sadeyağı / Clarified Ghee) (151.1)",
-            "Margarin (151.2)",
-            "Ayçiçek yağı (151.3)",
-            "Zeytinyağı (151.4)"
+            "Sadeyağ",
+            "Margarin",
+            "Ayçiçek yağı",
+            "Zeytinyağı"
           ],
           "answerIndex": 0,
           "explanation": "Sadeyağ (Urfa Sadeyağı / Clarified Ghee)."
@@ -16283,10 +16283,10 @@
         {
           "prompt": "What large, crescent-shaped two-handed steel curved knife is used in Adana to hand-mince lamb meat for authentic Adana Kebab?",
           "options": [
-            "Zırh (Zırh bıçağı) (152.1)",
-            "Bıçkı (152.2)",
-            "Hançer (152.3)",
-            "Satır (152.4)"
+            "Zırh",
+            "Bıçkı",
+            "Hançer",
+            "Satır"
           ],
           "answerIndex": 0,
           "explanation": "Zırh (Zırh bıçağı)."
@@ -16298,10 +16298,10 @@
         {
           "prompt": "What essential type of fat (20-25% ratio) is minced alongside lamb meat to provide binding, tenderness, and rich flavor in canonical Adana kebab?",
           "options": [
-            "Kuyruk yağı (Lamb Tail Fat) (152.1)",
-            "Tereyağı (152.2)",
-            "Sıvı yağ (152.3)",
-            "Zeytinyağı (152.4)"
+            "Kuyruk yağı",
+            "Tereyağı",
+            "Sıvı yağ",
+            "Zeytinyağı"
           ],
           "answerIndex": 0,
           "explanation": "Kuyruk yağı (Lamb Tail Fat)."
@@ -16325,7 +16325,7 @@
         {
           "prompt": "What traditional tangy, salty fermented dark turnip juice from southern Turkey is the canonical beverage paired with spicy kebabs?",
           "options": [
-            "Şalgam suyu (Fermented Turnip Juice)",
+            "Şalgam suyu",
             "Ayran",
             "Boza",
             "Şıra"
@@ -16365,10 +16365,10 @@
         {
           "prompt": "Which rich, creamy dairy specialty, made from water buffalo milk and drizzled with raw honeycomb, is a star sweet luxury of the Turkish breakfast?",
           "options": [
-            "Bal-Kaymak (Manda Kaymağı with Honey) (153.1)",
-            "Sütlaç (153.2)",
-            "Muhallebi (153.3)",
-            "Kazandibi (153.4)"
+            "Bal-Kaymak",
+            "Sütlaç",
+            "Muhallebi",
+            "Kazandibi"
           ],
           "answerIndex": 0,
           "explanation": "Bal-Kaymak (Manda Kaymağı with Honey)."
@@ -16380,10 +16380,10 @@
         {
           "prompt": "What traditional circular sesame-crusted bread ring is a beloved staple of Turkish street food and breakfast tables?",
           "options": [
-            "Simit (153.1)",
-            "Lavaş (153.2)",
-            "Bazlama (153.3)",
-            "Pide (153.4)"
+            "Simit",
+            "Lavaş",
+            "Bazlama",
+            "Pide"
           ],
           "answerIndex": 0,
           "explanation": "Simit."
@@ -16410,7 +16410,7 @@
             "Kupa bardak",
             "Kadeh",
             "Fincan",
-            "İnce belli bardak (Tulip-shaped tea glass)"
+            "İnce belli bardak"
           ],
           "answerIndex": 3,
           "explanation": "İnce belli bardak.",
@@ -16447,10 +16447,10 @@
         {
           "prompt": "What classic Turkish olive oil dish features tender eggplants stuffed with caramelized onions, garlic, and tomatoes, famously named \"The Imam Fainted\"?",
           "options": [
-            "Şakşuka (154.1)",
-            "Hünkârbeğendi (154.2)",
-            "İmambayıldı (154.3)",
-            "Karnıyarık (154.4)"
+            "Şakşuka",
+            "Hünkârbeğendi",
+            "İmambayıldı",
+            "Karnıyarık"
           ],
           "answerIndex": 2,
           "explanation": "İmambayıldı."
@@ -16462,10 +16462,10 @@
         {
           "prompt": "What two classic sweet-savory aromatics are essential inside the rice filling of authentic Aegean Zeytinyağlı Yaprak Sarması?",
           "options": [
-            "Badem ve susam (154.1)",
-            "Kıyma ve salça (154.2)",
-            "Çam fıstığı ve kuş üzümü (Pine nuts and currants) (154.3)",
-            "Ceviz ve fındık (154.4)"
+            "Badem ve susam",
+            "Kıyma ve salça",
+            "Çam fıstığı ve kuş üzümü",
+            "Ceviz ve fındık"
           ],
           "answerIndex": 2,
           "explanation": "Çam fıstığı ve kuş üzümü."
@@ -16491,7 +16491,7 @@
           "options": [
             "Semizotu",
             "Kuzu kulağı",
-            "Şevketibostan (Blessed Milk Thistle)",
+            "Şevketibostan",
             "Isırgan otu"
           ],
           "answerIndex": 2,
@@ -16529,10 +16529,10 @@
         {
           "prompt": "Which historic confectionery house, established in Istanbul's Bahçekapı district in 1777, invented modern starch-based Turkish Delight (Lokum)?",
           "options": [
-            "Hacı Bekir (Ali Muhiddin Hacı Bekir) (155.1)",
-            "Güllüoğlu (155.2)",
-            "Karaköy Güllüoğlu (155.3)",
-            "Hafız Mustafa (155.4)"
+            "Hacı Bekir",
+            "Güllüoğlu",
+            "Karaköy Güllüoğlu",
+            "Hafız Mustafa"
           ],
           "answerIndex": 0,
           "explanation": "Hacı Bekir (Ali Muhiddin Hacı Bekir)."
@@ -16544,10 +16544,10 @@
         {
           "prompt": "Why is a small glass of water traditionally served alongside a cup of Turkish coffee?",
           "options": [
-            "To dilute the coffee. (155.1)",
-            "To wash the hands. (155.2)",
-            "To extinguish the cezve fire. (155.3)",
-            "To be sipped before the coffee to cleanse the palate so the coffee flavors are fully appreciated. (155.4)"
+            "To dilute the coffee.",
+            "To wash the hands.",
+            "To extinguish the cezve fire.",
+            "To be sipped before the coffee to cleanse the palate so the coffee flavors are fully appreciated."
           ],
           "answerIndex": 3,
           "explanation": "To be sipped before the coffee to cleanse the palate."
@@ -16571,10 +16571,10 @@
         {
           "prompt": "Complete the famous Turkish proverb: «Bir fincan kahvenin ... yıl hatırı vardır»?",
           "options": [
-            "yüz (100)",
-            "kırk (forty / 40)",
-            "bir (1)",
-            "on (10)"
+            "yüz",
+            "kırk",
+            "bir",
+            "on"
           ],
           "answerIndex": 1,
           "explanation": "kırk (forty / 40).",
@@ -16616,7 +16616,7 @@
         {
           "prompt": "Geleneksel Türk gölge oyununda tasvirleri perde arkasında tek başına seslendirip oynatan ustaya ne ad verilir?",
           "options": [
-            "Hayalî (Hayalbaz)",
+            "Hayalî",
             "Kavuklu",
             "Sufleci",
             "Figüran"
@@ -16646,7 +16646,7 @@
         {
           "prompt": "Karagöz oyununda tasvirler geleneksel olarak hangi malzemeden yapılarak şeffaflaştırılır ve renklendirilir?",
           "options": [
-            "İşlenmiş şeffaf deve veya manda derisi (kök boyalarla boyanmış)",
+            "İşlenmiş şeffaf deve veya manda derisi",
             "Sert plastik levhalar",
             "Alüminyum folyo",
             "Renkli karton kâğıt"
@@ -16718,7 +16718,7 @@
         {
           "prompt": "Geleneksel Meddah anlatıcısının elinde tuttuğu iki temel simgesel aksesuar nedir?",
           "options": [
-            "Mendil (makrame) ve sopa / değnek (pastav)",
+            "Mendil (makrame) ve sopa / değnek",
             "Kılıç ve kalkan",
             "Fener ve büyüteç",
             "Gözlük ve kitap"
@@ -16895,7 +16895,7 @@
             "Devekuşu Kabare Tiyatrosu",
             "Dostlar Tiyatrosu",
             "Kent Oyuncuları",
-            "AST (Ankara Sanat Tiyatrosu)"
+            "AST"
           ],
           "answerIndex": 0,
           "explanation": "Devekuşu Kabare, Türkiye'de siyasi ve edebi kabare türünün zirvesini temsil eder."
@@ -17081,7 +17081,7 @@
         {
           "prompt": "Mimar Sinan'ın «çıraklık eserim» olarak nitelendirdiği İstanbul Fatih'teki 1548 tarihli anıtsal cami hangisidir?",
           "options": [
-            "Şehzade Camii (Şehzade Mehmet adına)",
+            "Şehzade Camii",
             "Rüstem Paşa Camii",
             "Kılıç Ali Paşa Camii",
             "Piyale Paşa Camii"
@@ -17138,7 +17138,7 @@
         {
           "prompt": "Dairesel bir kubbenin kare planlı bir alt yapıya statik olarak oturmasını sağlayan küresel üçgen mimari elemana ne ad verilir?",
           "options": [
-            "Pandantif (küresel bingi)",
+            "Pandantif",
             "Sütun başlığı",
             "Kemer kilittaşı",
             "Çan kulesi"
@@ -17225,9 +17225,9 @@
         {
           "prompt": "Topkapı Sarayı'nda devlet işlerinin görüşüldüğü vezirler divanı olan Kubbealtı hangi avluda yer alır?",
           "options": [
-            "İkinci Avlu (Divan Meydanı)",
-            "Birinci Avlu (Alay Meydanı)",
-            "Üçüncü Avlu (Enderun)",
+            "İkinci Avlu",
+            "Birinci Avlu",
+            "Üçüncü Avlu",
             "Gülhane Parkı"
           ],
           "answerIndex": 0,
@@ -17255,7 +17255,7 @@
         {
           "prompt": "Topkapı Sarayı'nın siluetinde en yüksek yapı olan ve adaletin saray üzerindeki üstünlüğünü simgeleyen kule hangisidir?",
           "options": [
-            "Adalet Kulesi (Kasr-ı Adl)",
+            "Adalet Kulesi",
             "Galata Kulesi",
             "Beyazıt Kulesi",
             "Kız Kulesi"
@@ -17312,7 +17312,7 @@
         {
           "prompt": "19. yüzyılda Dolmabahçe Sarayı, Ortaköy Camii ve Beylerbeyi Sarayı gibi anıtsal Boğaz yapılarını tasarlayan ünlü mimar ailesi kimdir?",
           "options": [
-            "Balyan Ailesi (Garabet, Nigoğos ve Sarkis Balyan)",
+            "Balyan Ailesi",
             "Fossati Kardeşler",
             "D'Aronco Hanedanı",
             "Melling Kardeşler"
@@ -17342,7 +17342,7 @@
         {
           "prompt": "Dolmabahçe Sarayı'nın merkezindeki 36 metre yüksekliğindeki anıtsal Tören Salonu'nda (Muayede Salonu) asılı olan devasa kristal avize kaç tondur?",
           "options": [
-            "4,5 ton (İngiltere Kraliçesi Victoria hediyesi)",
+            "4,5 ton",
             "500 kilogram",
             "20 ton",
             "100 kilogram"
@@ -17399,7 +17399,7 @@
         {
           "prompt": "Emre Arolat tarafından tasarlanan ve geleneksel kubbe-minare şablonlarını aşarak toprağa gömülen ödüllü çağdaş cami hangisidir?",
           "options": [
-            "Sancaklar Camii (Büyükçekmece, 2012)",
+            "Sancaklar Camii",
             "Kocatepe Camii",
             "Şakirin Camii",
             "Ahmet Hamdi Akseki Camii"
@@ -17516,7 +17516,7 @@
             "İç hizmet talimatı",
             "Nüfus cüzdanı sureti",
             "Geçici seyahat belgesi",
-            "Güven mektubu (Letters of Credence)"
+            "Güven mektubu"
           ],
           "answerIndex": 3,
           "explanation": "Güven mektubu, büyükelçinin tam yetkili temsilci olduğunu teyit eder.",
@@ -17598,7 +17598,7 @@
           "options": [
             "Ticaret Odası",
             "Belediye Encümeni",
-            "Türkiye Büyük Millet Meclisi (TBMM)",
+            "Türkiye Büyük Millet Meclisi",
             "Noterler Birliği"
           ],
           "answerIndex": 2,
@@ -17680,7 +17680,7 @@
           "prompt": "Türk Boğazları'ndan gemi geçiş rejimini ve Türkiye'nin egemenlik haklarını düzenleyen uluslararası sözleşme hangisidir?",
           "options": [
             "Schengen Anlaşması",
-            "Montrö Boğazlar Sözleşmesi (1936)",
+            "Montrö Boğazlar Sözleşmesi",
             "Cenevre Turizm Sözleşmesi",
             "Kyoto Protokolü"
           ],
@@ -17762,7 +17762,7 @@
         {
           "prompt": "Uluslararası çatışmalarda tarafları bir araya getirerek uzlaşma sağlama faaliyetine ne ad verilir?",
           "options": [
-            "Arabuluculuk (Mediation)",
+            "Arabuluculuk",
             "Tek taraflı ültimatom",
             "Askeri müdahale",
             "Gümrük teftişi"

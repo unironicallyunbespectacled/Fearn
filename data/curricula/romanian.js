@@ -516,7 +516,7 @@
         {
           "prompt": "What sound does the letter «Ă ă» represent in Romanian words like «apă» (water)?",
           "options": [
-            "A mid-central schwa vowel [ə] (like \"a\" in \"sofa\")",
+            "A mid-central schwa vowel [ə]",
             "A long \"aa\" sound",
             "A short \"ee\" sound",
             "Silent"
@@ -527,10 +527,10 @@
         {
           "prompt": "Select the Romanian word meaning \"thank you\" spelled with the letter «ț» «mulțumesc»:",
           "options": [
-            "mulțumesc (thank you)",
-            "apă (water)",
-            "bună (good/hello)",
-            "țară (country)"
+            "mulțumesc",
+            "apă",
+            "bună",
+            "țară"
           ],
           "answerIndex": 0,
           "explanation": "«mulțumesc» is the universal Romanian expression of gratitude."
@@ -616,7 +616,7 @@
           "prompt": "How is the final '-i' pronounced in Romanian words like 'ești' and 'București'?",
           "options": [
             "As a loud two-syllable 'ee-ee'",
-            "As a non-syllabic palatalization [ʲ] (a subtle softening whisper, not a full extra vowel syllable)",
+            "As a non-syllabic palatalization [ʲ]",
             "As a silent letter like in French",
             "As an English 'eye' diphthong"
           ],
@@ -626,10 +626,10 @@
         {
           "prompt": "Eu ___ din România. (I am from Romania)",
           "options": [
-            "sunt (2.1)",
-            "ești (2.2)",
-            "suntem (2.3)",
-            "este (2.4)"
+            "sunt",
+            "ești",
+            "suntem",
+            "este"
           ],
           "answerIndex": 0,
           "explanation": "eu pairs with sunt."
@@ -674,10 +674,10 @@
         {
           "prompt": "Why does dumneavoastră use sunteți, the same form as voi?",
           "options": [
-            "The formal 'you' borrows the plural verb form, a pattern shared with French vous and German Sie (2.1)",
-            "Dumneavoastră is actually plural only, never singular (2.2)",
-            "It's a spelling error that became standard (2.3)",
-            "Random coincidence (2.4)"
+            "The formal 'you' borrows the plural verb form, a pattern shared with French vous and German Sie",
+            "Dumneavoastră is actually plural only, never singular",
+            "It's a spelling error that became standard",
+            "Random coincidence"
           ],
           "answerIndex": 0,
           "explanation": "This is the cross-linguistic pattern explained in the lesson."
@@ -842,7 +842,7 @@
           "prompt": "How is the digraph 'ch' pronounced before 'e' or 'i' in Romanian (as in Cum te cheamă)?",
           "options": [
             "As a soft 'ch' like in chair",
-            "As a hard 'k' sound [k] (like in kettle or key)",
+            "As a hard 'k' sound [k]",
             "As a silent letter",
             "As 'sh'"
           ],
@@ -863,10 +863,10 @@
         {
           "prompt": "Cum te ___? (everyday, colloquial 'what's your name')",
           "options": [
-            "numesc (3.1)",
-            "sunt (3.2)",
-            "ești (3.3)",
-            "cheamă (3.4)"
+            "numesc",
+            "sunt",
+            "ești",
+            "cheamă"
           ],
           "answerIndex": 3,
           "explanation": "Cum te cheamă? is the common, everyday phrasing."
@@ -911,10 +911,10 @@
         {
           "prompt": "Translate: 'My name is Mihai. Nice to meet you.' (using the everyday version)",
           "options": [
-            "Mă cheamă Mihai. Mă bucur să te cunosc. (3.1)",
-            "Mă numesc Mihai. Cum te cheamă? (3.2)",
-            "Eu sunt Mihai, tu ești Mihai. (3.3)",
-            "Cum te cheamă Mihai? (3.4)"
+            "Mă cheamă Mihai. Mă bucur să te cunosc.",
+            "Mă numesc Mihai. Cum te cheamă?",
+            "Eu sunt Mihai, tu ești Mihai.",
+            "Cum te cheamă Mihai?"
           ],
           "answerIndex": 0,
           "explanation": "Mă cheamă Mihai is the everyday self-introduction."
@@ -1076,10 +1076,10 @@
         {
           "prompt": "De unde ___? (asking a friend, informal)",
           "options": [
-            "ești (4.1)",
-            "este (4.2)",
-            "sunt (4.3)",
-            "sunteți (4.4)"
+            "ești",
+            "este",
+            "sunt",
+            "sunteți"
           ],
           "answerIndex": 0,
           "explanation": "Informal 'you' pairs with ești."
@@ -1124,10 +1124,10 @@
         {
           "prompt": "A man says he's Romanian: Sunt ___.",
           "options": [
-            "român (4.1)",
-            "româncă (4.2)",
-            "românesc (4.3)",
-            "românia (4.4)"
+            "român",
+            "româncă",
+            "românesc",
+            "românia"
           ],
           "answerIndex": 0,
           "explanation": "Masculine nationality adjective: român."
@@ -1298,10 +1298,10 @@
         {
           "prompt": "What does Îmi pare bine mean, and what's its grammatical shape?",
           "options": [
-            "'Nice to meet you' — an impersonal construction, like cheamă (5.1)",
-            "'Goodbye' — a simple direct verb (5.2)",
-            "'I am hungry' — unrelated to meeting someone (5.3)",
-            "It has no real meaning, just filler (5.4)"
+            "'Nice to meet you' — an impersonal construction, like cheamă",
+            "'Goodbye' — a simple direct verb",
+            "'I am hungry' — unrelated to meeting someone",
+            "It has no real meaning, just filler"
           ],
           "answerIndex": 0,
           "explanation": "It mirrors the 'happens to me' construction seen with cheamă."
@@ -1320,10 +1320,10 @@
         {
           "prompt": "Da' is a casual contraction of:",
           "options": [
-            "da (yes)",
-            "dar (but)",
-            "de (of/from)",
-            "din (from)"
+            "da",
+            "dar",
+            "de",
+            "din"
           ],
           "answerIndex": 1,
           "explanation": "Da' clips dar in fast informal speech."
@@ -1346,10 +1346,10 @@
         {
           "prompt": "Put in the natural order: greeting → name → origin → closing.",
           "options": [
-            "Bună! Cum te cheamă? De unde ești? Îmi pare bine! (5.1)",
-            "Cum te cheamă? Bună! Îmi pare bine! De unde ești? (5.2)",
-            "Îmi pare bine! De unde ești? Cum te cheamă? Bună! (5.3)",
-            "De unde ești? Îmi pare bine! Bună! Cum te cheamă? (5.4)"
+            "Bună! Cum te cheamă? De unde ești? Îmi pare bine!",
+            "Cum te cheamă? Bună! Îmi pare bine! De unde ești?",
+            "Îmi pare bine! De unde ești? Cum te cheamă? Bună!",
+            "De unde ești? Îmi pare bine! Bună! Cum te cheamă?"
           ],
           "answerIndex": 0,
           "explanation": "This matches the natural conversational build-up of the unit."
@@ -1407,10 +1407,10 @@
         {
           "prompt": "Da' is a casual clipped form of:",
           "options": [
-            "da (yes)",
-            "din (from)",
-            "dar (but)",
-            "de (of)"
+            "da",
+            "din",
+            "dar",
+            "de"
           ],
           "answerIndex": 2,
           "explanation": "Da' = clipped dar.",
@@ -1493,10 +1493,10 @@
         {
           "prompt": "Choose the correct translation: 'Two coffees and two waters, please.' (cafea = fem., apă = fem.)",
           "options": [
-            "Doi cafele și doi ape, vă rog. (6.1)",
-            "Doi cafele și două ape, vă rog. (6.2)",
-            "Două cafele și doi ape, vă rog. (6.3)",
-            "Două cafele și două ape, vă rog. (6.4)"
+            "Doi cafele și doi ape, vă rog.",
+            "Doi cafele și două ape, vă rog.",
+            "Două cafele și doi ape, vă rog.",
+            "Două cafele și două ape, vă rog."
           ],
           "answerIndex": 3,
           "explanation": "Cafea and apă are feminine nouns, so both take the feminine numeral 'două'."
@@ -1507,7 +1507,7 @@
             "First ten",
             "Ten and one",
             "One plus ten",
-            "One towards ten (1 on 10)"
+            "One towards ten"
           ],
           "answerIndex": 3,
           "explanation": "Un (one) + spre (towards/onto) + zece (ten) represents the Slavic calque structure unique to Romanian among Romance languages."
@@ -1530,10 +1530,10 @@
         {
           "prompt": "Translate: 'I have two brothers and one sister.' (frate = masc., soră = fem.)",
           "options": [
-            "Am două frați și un soră. (6.1)",
-            "Am doi frați și un soră. (6.2)",
-            "Am două frați și două soră. (6.3)",
-            "Am doi frați și o soră. (6.4)"
+            "Am două frați și un soră.",
+            "Am doi frați și un soră.",
+            "Am două frați și două soră.",
+            "Am doi frați și o soră."
           ],
           "answerIndex": 3,
           "explanation": "doi frați (masculine) and o soră (feminine singular article/numeral)."
@@ -1541,10 +1541,10 @@
         {
           "prompt": "Which number inflects for grammatical gender?",
           "options": [
-            "zece (10)",
-            "cinci (5)",
-            "patru (4)",
-            "doi / două (2)"
+            "zece",
+            "cinci",
+            "patru",
+            "doi / două"
           ],
           "answerIndex": 3,
           "explanation": "In 0–20, 1 (unu/una), 2 (doi/două), and 12 (doisprezece/douăsprezece) inflect for gender."
@@ -1580,10 +1580,10 @@
         {
           "prompt": "Cât fac opt (8) + șapte (7)?",
           "options": [
-            "șaisprezece (16)",
-            "cincisprezece (15)",
-            "treisprezece (13)",
-            "paisprezece (14)"
+            "șaisprezece",
+            "cincisprezece",
+            "treisprezece",
+            "paisprezece"
           ],
           "answerIndex": 1,
           "explanation": "8 + 7 = 15 (cincisprezece).",
@@ -1654,10 +1654,10 @@
         {
           "prompt": "Which phrase correctly applies the 'de' preposition rule?",
           "options": [
-            "douăzeci de lei (7.1)",
-            "douăzeci lei (7.2)",
-            "zece de lei (7.3)",
-            "cinci de lei (7.4)"
+            "douăzeci de lei",
+            "douăzeci lei",
+            "zece de lei",
+            "cinci de lei"
           ],
           "answerIndex": 0,
           "explanation": "Numbers 20 and above require the preposition 'de' before the noun: 'douăzeci de lei'."
@@ -1691,10 +1691,10 @@
         {
           "prompt": "Select the correct combination for 84:",
           "options": [
-            "șaptezeci și patru (7.1)",
-            "optzeci patru (7.2)",
-            "nouăzeci și patru (7.3)",
-            "optzeci și patru (7.4)"
+            "șaptezeci și patru",
+            "optzeci patru",
+            "nouăzeci și patru",
+            "optzeci și patru"
           ],
           "answerIndex": 3,
           "explanation": "80 (optzeci) + și + 4 (patru)."
@@ -1815,10 +1815,10 @@
         {
           "prompt": "How do you say 4:30 in conversational Romanian?",
           "options": [
-            "Este patru și sfert. (8.1)",
-            "Este patru fără jumătate. (8.2)",
-            "Sunt patru și treizeci de minute. (8.3)",
-            "Este patru și jumătate. (8.4)"
+            "Este patru și sfert.",
+            "Este patru fără jumătate.",
+            "Sunt patru și treizeci de minute.",
+            "Este patru și jumătate."
           ],
           "answerIndex": 3,
           "explanation": "'jumătate' means half (4:30 = patru și jumătate)."
@@ -1852,10 +1852,10 @@
         {
           "prompt": "Translate: 'The meeting is at 10:00 in the morning.'",
           "options": [
-            "Ședința este la ora zece dimineața. (8.1)",
-            "Ședința este în ora zece dimineața. (8.2)",
-            "Ședința este pe ora zece dimineața. (8.3)",
-            "Ședința este de ora zece dimineața. (8.4)"
+            "Ședința este la ora zece dimineața.",
+            "Ședința este în ora zece dimineața.",
+            "Ședința este pe ora zece dimineața.",
+            "Ședința este de ora zece dimineața."
           ],
           "answerIndex": 0,
           "explanation": "Clock time uses the preposition 'la' (la ora zece dimineața)."
@@ -1926,8 +1926,8 @@
         {
           "prompt": "'Este prânz' înseamnă:",
           "options": [
-            "It is midnight (12:00 AM)",
-            "It is noon (12:00 PM)",
+            "It is midnight",
+            "It is noon",
             "It is breakfast time",
             "It is late evening"
           ],
@@ -1977,10 +1977,10 @@
         {
           "prompt": "How do you say 'See you on Friday' in natural Romanian?",
           "options": [
-            "Ne vedem vineri. (9.1)",
-            "Ne vedem în vineri. (9.2)",
-            "Ne vedem la vineri. (9.3)",
-            "Ne vedem pe vineri. (9.4)"
+            "Ne vedem vineri.",
+            "Ne vedem în vineri.",
+            "Ne vedem la vineri.",
+            "Ne vedem pe vineri."
           ],
           "answerIndex": 0,
           "explanation": "Specific weekdays in Romanian take no preposition: 'Ne vedem vineri'."
@@ -1988,10 +1988,10 @@
         {
           "prompt": "Which preposition is used with calendar months (e.g. in October)?",
           "options": [
-            "în (în octombrie)",
-            "la (la octombrie)",
-            "de (de octombrie)",
-            "pe (pe octombrie)"
+            "în",
+            "la",
+            "de",
+            "pe"
           ],
           "answerIndex": 0,
           "explanation": "Months take 'în' (în octombrie, în mai)."
@@ -2014,10 +2014,10 @@
         {
           "prompt": "Translate: 'The festival takes place on June 15th.'",
           "options": [
-            "Festivalul are loc pe cincisprezece iunie. (9.1)",
-            "Festivalul are loc în cincisprezece iunie. (9.2)",
-            "Festivalul are loc de cincisprezece iunie. (9.3)",
-            "Festivalul are loc la cincisprezece iunie. (9.4)"
+            "Festivalul are loc pe cincisprezece iunie.",
+            "Festivalul are loc în cincisprezece iunie.",
+            "Festivalul are loc de cincisprezece iunie.",
+            "Festivalul are loc la cincisprezece iunie."
           ],
           "answerIndex": 0,
           "explanation": "Specific calendar dates use 'pe' (pe 15 iunie)."
@@ -2055,7 +2055,7 @@
             "la sâmbătă",
             "în sâmbătă",
             "pe sâmbătă",
-            "sâmbătă (fără prepoziție)"
+            "sâmbătă"
           ],
           "answerIndex": 3,
           "explanation": "No preposition before a specific weekday in Romanian.",
@@ -2088,7 +2088,7 @@
         {
           "prompt": "Ce sărbătorește România pe 1 Decembrie?",
           "options": [
-            "Ziua Națională (Marea Unire)",
+            "Ziua Națională",
             "Ziua Muncii",
             "Anul Nou",
             "Paștele"
@@ -2141,10 +2141,10 @@
         {
           "prompt": "How does Andrei state the ticket price (45 lei) correctly?",
           "options": [
-            "patruzeci și cinci de lei (10.1)",
-            "patruzeci și cinci lei (10.2)",
-            "patruzeci cinci de lei (10.3)",
-            "cinci și patruzeci de lei (10.4)"
+            "patruzeci și cinci de lei",
+            "patruzeci și cinci lei",
+            "patruzeci cinci de lei",
+            "cinci și patruzeci de lei"
           ],
           "answerIndex": 0,
           "explanation": "45 is greater than 19, requiring the connective preposition 'de': 'patruzeci și cinci de lei'."
@@ -2178,10 +2178,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:00 PM?'",
           "options": [
-            "Ești liber / liberă marți la ora patru după-amiaza? (10.1)",
-            "Ești liber la marți la ora patru dimineața? (10.2)",
-            "Ești liber în marți la ora patru seara? (10.3)",
-            "Ești liber pe marți în ora patru după-amiaza? (10.4)"
+            "Ești liber / liberă marți la ora patru după-amiaza?",
+            "Ești liber la marți la ora patru dimineața?",
+            "Ești liber în marți la ora patru seara?",
+            "Ești liber pe marți în ora patru după-amiaza?"
           ],
           "answerIndex": 0,
           "explanation": "No preposition before marți + la ora patru după-amiaza."
@@ -2302,10 +2302,10 @@
         {
           "prompt": "How is the definite article 'the' added to 'frate' (brother) in Romanian?",
           "options": [
-            "le frate (11.1)",
-            "el frate (11.2)",
-            "frateul (11.3)",
-            "fratele [FRAH-teh-leh] (suffixed enclitic article -le) (11.4)"
+            "le frate",
+            "el frate",
+            "frateul",
+            "fratele [FRAH-teh-leh]"
           ],
           "answerIndex": 3,
           "explanation": "Romanian attaches the definite article as a suffix: fratele."
@@ -2325,7 +2325,7 @@
           "prompt": "How does 'mamă' (mother) become 'the mother'?",
           "options": [
             "mamăul",
-            "mama (the final -ă becomes -a)",
+            "mama",
             "mamei",
             "la mamă"
           ],
@@ -2339,10 +2339,10 @@
         {
           "prompt": "Translate: 'Do you have brothers or sisters?'",
           "options": [
-            "Ești frați sau surori? (11.1)",
-            "Ai părinți sau copii? (11.2)",
-            "Unde sunt frații? (11.3)",
-            "Ai frați sau surori? (11.4)"
+            "Ești frați sau surori?",
+            "Ai părinți sau copii?",
+            "Unde sunt frații?",
+            "Ai frați sau surori?"
           ],
           "answerIndex": 3,
           "explanation": "Ai (a avea) frați sau surori?"
@@ -2367,7 +2367,7 @@
           "options": [
             "O vorbă separată în fața substantivului",
             "Un prefix",
-            "Enclitic (lipit la sfârșitul cuvântului, ex: tatăl, mama, frații)",
+            "Enclitic",
             "Inexistent"
           ],
           "answerIndex": 2,
@@ -2378,7 +2378,7 @@
           "prompt": "Cum se scrie corect 'the children' în limba română?",
           "options": [
             "copiile",
-            "copiii (cu trei 'i')",
+            "copiii",
             "copilul",
             "copii"
           ],
@@ -2415,7 +2415,7 @@
           "options": [
             "Din turcă",
             "Din greacă",
-            "Din latină (frater, soror)",
+            "Din latină",
             "Din slavonă"
           ],
           "answerIndex": 2,
@@ -2464,10 +2464,10 @@
         {
           "prompt": "Choose the correct possessive for 'my sister': '___ mea'",
           "options": [
-            "Sora mea [SOH-rah MEH-ah] (noun articulated with -a + fem possessive mea) (12.1)",
-            "Soră mea (12.2)",
-            "Sora mei (12.3)",
-            "Sora meu (12.4)"
+            "Sora mea [SOH-rah MEH-ah]",
+            "Soră mea",
+            "Sora mei",
+            "Sora meu"
           ],
           "answerIndex": 0,
           "explanation": "Sora (articulated) + mea (fem singular)."
@@ -2486,8 +2486,8 @@
         {
           "prompt": "Where does the possessive adjective stand in standard Romanian syntax?",
           "options": [
-            "AFTER the articulated noun (e.g. tatăl meu)",
-            "BEFORE the noun (e.g. meu tatăl)",
+            "AFTER the articulated noun",
+            "BEFORE the noun",
             "Attached as a prefix",
             "Only at the start of the paragraph"
           ],
@@ -2501,10 +2501,10 @@
         {
           "prompt": "Translate: 'Our parents live in Cluj.'",
           "options": [
-            "Părinții noastră locuiesc la Cluj. (12.1)",
-            "Părinți nostru locuiesc la Cluj. (12.2)",
-            "Părinții mele locuiesc la Cluj. (12.3)",
-            "Părinții noștri locuiesc la Cluj. (12.4)"
+            "Părinții noastră locuiesc la Cluj.",
+            "Părinți nostru locuiesc la Cluj.",
+            "Părinții mele locuiesc la Cluj.",
+            "Părinții noștri locuiesc la Cluj."
           ],
           "answerIndex": 3,
           "explanation": "Părinții noștri (masc plural agreement)."
@@ -2528,7 +2528,7 @@
           "prompt": "Completați: 'Aceștia sunt frații ___.' (my brothers)",
           "options": [
             "mea",
-            "mei (masculin plural)",
+            "mei",
             "mele",
             "meu"
           ],
@@ -2565,7 +2565,7 @@
           "options": [
             "mei",
             "meu",
-            "mele (surorile mele)",
+            "mele",
             "mea"
           ],
           "answerIndex": 2,
@@ -2626,10 +2626,10 @@
         {
           "prompt": "What is the Romanian word for 'grandparents'?",
           "options": [
-            "părinții (13.1)",
-            "socrii (13.2)",
-            "unchii (13.3)",
-            "bunicii [boo-NEE-chee] (13.4)"
+            "părinții",
+            "socrii",
+            "unchii",
+            "bunicii [boo-NEE-chee]"
           ],
           "answerIndex": 3,
           "explanation": "bunicii = the grandparents."
@@ -2663,10 +2663,10 @@
         {
           "prompt": "Translate: 'My uncle Radu is a doctor.'",
           "options": [
-            "Unchiul meu Radu este doctor. (13.1)",
-            "Unchi meu Radu este doctor. (13.2)",
-            "Mătușa mea Radu este doctor. (13.3)",
-            "Vărul meu Radu are doctor. (13.4)"
+            "Unchiul meu Radu este doctor.",
+            "Unchi meu Radu este doctor.",
+            "Mătușa mea Radu este doctor.",
+            "Vărul meu Radu are doctor."
           ],
           "answerIndex": 0,
           "explanation": "Unchiul meu Radu este doctor."
@@ -2787,10 +2787,10 @@
         {
           "prompt": "Choose the correct adjective form: 'Sora mea este ___.' (tall / înalt)",
           "options": [
-            "înaltă (feminine singular matches 'Sora mea') (14.1)",
-            "înalți (14.2)",
-            "înalte (14.3)",
-            "înalt (14.4)"
+            "înaltă",
+            "înalți",
+            "înalte",
+            "înalt"
           ],
           "answerIndex": 0,
           "explanation": "Sora is feminine singular, requiring 'înaltă'."
@@ -2798,7 +2798,7 @@
         {
           "prompt": "Which possessive article matches a feminine singular possessed noun (e.g. 'casa')?",
           "options": [
-            "a (casa a bunicilor)",
+            "a",
             "ai",
             "ale",
             "al"
@@ -2824,10 +2824,10 @@
         {
           "prompt": "Translate: 'My parents are young.'",
           "options": [
-            "Părinții mei sunt tineri. (14.1)",
-            "Părinții mei sunt tinere. (14.2)",
-            "Părinții mei sunt tânăr. (14.3)",
-            "Părinții mei sunt tânără. (14.4)"
+            "Părinții mei sunt tineri.",
+            "Părinții mei sunt tinere.",
+            "Părinții mei sunt tânăr.",
+            "Părinții mei sunt tânără."
           ],
           "answerIndex": 0,
           "explanation": "Părinții mei is masculine plural -> tineri."
@@ -2853,7 +2853,7 @@
             "bătrâne",
             "bătrân",
             "bătrână",
-            "bătrâni (masculin plural)"
+            "bătrâni"
           ],
           "answerIndex": 3,
           "explanation": "Bunicii is masculine plural -> bătrâni.",
@@ -2875,7 +2875,7 @@
           "prompt": "'Mătușa mea este o femeie foarte inteligentă' arată:",
           "options": [
             "O greșeală de acord",
-            "Acordul corect la feminin singular (o femeie inteligentă)",
+            "Acordul corect la feminin singular",
             "Forma de plural",
             "Cazul acuzativ exclusiv"
           ],
@@ -2901,7 +2901,7 @@
             "Rămân neschimbate fără terminație",
             "Nu se folosesc niciodată",
             "Devin adverbe",
-            "Se acordă întotdeauna în gen și număr cu subiectul (ex: Fratele e înalt / Sora e înaltă)"
+            "Se acordă întotdeauna în gen și număr cu subiectul"
           ],
           "answerIndex": 3,
           "explanation": "Always agree in gender and number.",
@@ -2950,10 +2950,10 @@
         {
           "prompt": "What welcoming phrase does Mihai use to say 'make yourself at home'?",
           "options": [
-            "Simte-te ca acasă! [SEEM-teh-teh kah ah-KAH-suh] (15.1)",
-            "Stai afară! (15.2)",
-            "Nu vorbi! (15.3)",
-            "Mergi repede! (15.4)"
+            "Simte-te ca acasă! [SEEM-teh-teh kah ah-KAH-suh]",
+            "Stai afară!",
+            "Nu vorbi!",
+            "Mergi repede!"
           ],
           "answerIndex": 0,
           "explanation": "'Simte-te ca acasă!' is the classic Romanian hospitality invitation."
@@ -2961,7 +2961,7 @@
         {
           "prompt": "How does Mihai introduce his uncle Radu with full grammatical accuracy?",
           "options": [
-            "Bărbatul înalt de lângă tatăl meu este unchiul meu Radu. (Articulated + possessives)",
+            "Bărbatul înalt de lângă tatăl meu este unchiul meu Radu.",
             "Bărbat înalt tată este unchi Radu.",
             "Omul este frate meu Radu.",
             "Unchiul lui Radu este tată."
@@ -2972,7 +2972,7 @@
         {
           "prompt": "What traditional toast is made when drinking a welcome țuică?",
           "options": [
-            "Noroc! [no-ROK] (Cheers / Good luck!)",
+            "Noroc! [no-ROK]",
             "La revedere!",
             "Mulțumesc!",
             "Poftim!"
@@ -2987,10 +2987,10 @@
         {
           "prompt": "Translate: 'Grandma Elena is the soul of our family.'",
           "options": [
-            "Bunicul Elena este sufletul familiei. (15.1)",
-            "Bunica Elena este sufletul familiei noastre. (15.2)",
-            "Bunica Elena sunt sufletul noastre. (15.3)",
-            "Bunica Elena este suflet familie nostru. (15.4)"
+            "Bunicul Elena este sufletul familiei.",
+            "Bunica Elena este sufletul familiei noastre.",
+            "Bunica Elena sunt sufletul noastre.",
+            "Bunica Elena este suflet familie nostru."
           ],
           "answerIndex": 1,
           "explanation": "Bunica Elena este sufletul familiei noastre."
@@ -3026,7 +3026,7 @@
           "prompt": "Care este toastul tradițional românesc la ciocnirea paharelor?",
           "options": [
             "Salut!",
-            "Noroc! (sau Sănătate!)",
+            "Noroc!",
             "Mersi!",
             "Pa!"
           ],
@@ -3111,10 +3111,10 @@
         {
           "prompt": "How do you conjugate 'a lucra' (to work) for 'eu' (I)?",
           "options": [
-            "eu lucro (16.1)",
-            "eu lucram (16.2)",
-            "eu lucrează (16.3)",
-            "eu lucrez [LOOK-rez] (1st conjugation with -ez suffix) (16.4)"
+            "eu lucro",
+            "eu lucram",
+            "eu lucrează",
+            "eu lucrez [LOOK-rez]"
           ],
           "answerIndex": 3,
           "explanation": "eu lucrez."
@@ -3124,7 +3124,7 @@
           "options": [
             "Plural takes -esc",
             "They are irregular",
-            "They have the exact same identical form: 'lucrează' (el lucrează / ei lucrează)",
+            "They have the exact same identical form: 'lucrează'",
             "They use different vowels"
           ],
           "answerIndex": 2,
@@ -3148,10 +3148,10 @@
         {
           "prompt": "Translate: 'Where do you work?' (tu + a lucra)",
           "options": [
-            "Unde lucrez? (16.1)",
-            "Unde lucrează? (16.2)",
-            "Unde lucrați? (16.3)",
-            "Unde lucrezi? (16.4)"
+            "Unde lucrez?",
+            "Unde lucrează?",
+            "Unde lucrați?",
+            "Unde lucrezi?"
           ],
           "answerIndex": 3,
           "explanation": "Unde lucrezi?"
@@ -3175,7 +3175,7 @@
           "prompt": "Care este forma corectă pentru 'ei' (they) a verbului 'a lucra'?",
           "options": [
             "ei lucrez",
-            "ei lucrează (identic cu el/ea lucrează)",
+            "ei lucrează",
             "ei lucreazău",
             "ei lucrăm"
           ],
@@ -3186,7 +3186,7 @@
         {
           "prompt": "Sufixul '-ez' este specific cărei conjugări verbale în limba română?",
           "options": [
-            "Conjugării I (verbe terminate în -a, ex: a lucra, a studia)",
+            "Conjugării I",
             "Conjugării a II-a",
             "Doar verbelor neregulate",
             "Conjugării a IV-a"
@@ -3212,7 +3212,7 @@
           "options": [
             "Doar în poezie",
             "Pentru că limba română nu are pronume",
-            "Pentru că terminațiile verbale arată clar și fără echivoc persoana gramaticală (#ScienceOfLearning)",
+            "Pentru că terminațiile verbale arată clar și fără echivoc persoana gramaticală",
             "Este o greșeală gramaticală"
           ],
           "answerIndex": 2,
@@ -3273,10 +3273,10 @@
         {
           "prompt": "How do you conjugate 'a vrea' (to want) for 'eu' (I)?",
           "options": [
-            "eu vreau [VRYOW] (17.1)",
-            "eu vrei (17.2)",
-            "eu vrem (17.3)",
-            "eu vrea (17.4)"
+            "eu vreau [VRYOW]",
+            "eu vrei",
+            "eu vrem",
+            "eu vrea"
           ],
           "answerIndex": 0,
           "explanation": "eu vreau = I want."
@@ -3284,7 +3284,7 @@
         {
           "prompt": "What identical form is shared by 'eu' and 'ei' for Conjugation 3 verbs like 'a face' and 'a merg'?",
           "options": [
-            "eu fac / ei fac; eu merg / ei merg (1st singular and 3rd plural are identical)",
+            "eu fac / ei fac; eu merg / ei merg",
             "They end in -ez",
             "They only match in questions",
             "They are completely different"
@@ -3310,10 +3310,10 @@
         {
           "prompt": "Translate: 'What do you want to do today?' (tu)",
           "options": [
-            "Ce vrea să faceți astăzi? (17.1)",
-            "Ce vreau să fac astăzi? (17.2)",
-            "Unde mergi astăzi? (17.3)",
-            "Ce vrei să faci astăzi? (17.4)"
+            "Ce vrea să faceți astăzi?",
+            "Ce vreau să fac astăzi?",
+            "Unde mergi astăzi?",
+            "Ce vrei să faci astăzi?"
           ],
           "answerIndex": 3,
           "explanation": "Ce vrei să faci astăzi?"
@@ -3336,7 +3336,7 @@
         {
           "prompt": "Completați: 'Ei ___ mulți prieteni în București.' (a avea)",
           "options": [
-            "au (ei au)",
+            "au",
             "avem",
             "ai",
             "are"
@@ -3348,10 +3348,10 @@
         {
           "prompt": "Cum se formează expresia 'I want to go' în limba română (influența ariei lingvistice balcanice)?",
           "options": [
-            "Vreau a merge (cu infinitiv)",
+            "Vreau a merge",
             "Vreau de merg",
             "Vreau pe merg",
-            "Vreau să merg (cu conjuncția 'să' + conjunctiv)"
+            "Vreau să merg"
           ],
           "answerIndex": 3,
           "explanation": "Balkan Sprachbund feature: 'vreau să merg'.",
@@ -3373,7 +3373,7 @@
           "prompt": "Care este forma de persoana a II-a plural (voi) pentru verbul 'a merge'?",
           "options": [
             "merg",
-            "mergeți (voi mergeți)",
+            "mergeți",
             "mergem",
             "mergi"
           ],
@@ -3434,10 +3434,10 @@
         {
           "prompt": "How do you conjugate 'a vorbi' (to speak) for 'tu' (you informal)?",
           "options": [
-            "tu vorbesci (18.1)",
-            "tu vorbi (18.2)",
-            "tu vorbește (18.3)",
-            "tu vorbești [vor-BESH-tee] (consonant shift s -> ș with -ești ending) (18.4)"
+            "tu vorbesci",
+            "tu vorbi",
+            "tu vorbește",
+            "tu vorbești [vor-BESH-tee]"
           ],
           "answerIndex": 3,
           "explanation": "tu vorbești."
@@ -3471,10 +3471,10 @@
         {
           "prompt": "Translate: 'Do you speak Romanian?' (formal address: voi/dumneavoastră)",
           "options": [
-            "Vorbiți românește? (18.1)",
-            "Vorbești românește? (18.2)",
-            "Vorbesc românește? (18.3)",
-            "Vorbim românește? (18.4)"
+            "Vorbiți românește?",
+            "Vorbești românește?",
+            "Vorbesc românește?",
+            "Vorbim românește?"
           ],
           "answerIndex": 0,
           "explanation": "Vorbiți românește?"
@@ -3500,7 +3500,7 @@
             "vorbim",
             "vorbiți",
             "vorbește",
-            "vorbesc (identic cu eu vorbesc)"
+            "vorbesc"
           ],
           "answerIndex": 3,
           "explanation": "ei vorbesc.",
@@ -3511,7 +3511,7 @@
           "options": [
             "tu vi",
             "tu veni",
-            "tu vii (cu doi 'i')",
+            "tu vii",
             "tu vine"
           ],
           "answerIndex": 2,
@@ -3522,7 +3522,7 @@
           "prompt": "Formula de politețe 'Ce doriți?' folosită de chelneri provine de la verbul:",
           "options": [
             "a dormi",
-            "a dori (to wish / desire)",
+            "a dori",
             "a da",
             "a duce"
           ],
@@ -3533,7 +3533,7 @@
         {
           "prompt": "Sufixul '-esc' este caracteristic pentru ce clasă de verbe?",
           "options": [
-            "Conjugarea a IV-a (verbe terminate în -i, ex: a citi, a vorbi)",
+            "Conjugarea a IV-a",
             "Conjugarea I",
             "Doar verbele în -e",
             "Conjugarea a III-a"
@@ -3595,10 +3595,10 @@
         {
           "prompt": "How do you correctly say 'I see Andrei' in Romanian with the mandatory 'pe' and clitic pronoun?",
           "options": [
-            "Îl văd pe Andrei. [EEL VUD peh ahn-DRAY] (19.1)",
-            "Văd la Andrei. (19.2)",
-            "Îl văd Andrei. (19.3)",
-            "Văd Andrei. (19.4)"
+            "Îl văd pe Andrei. [EEL VUD peh ahn-DRAY]",
+            "Văd la Andrei.",
+            "Îl văd Andrei.",
+            "Văd Andrei."
           ],
           "answerIndex": 0,
           "explanation": "Specific person requires clitic 'îl' + 'pe Andrei'."
@@ -3617,7 +3617,7 @@
         {
           "prompt": "Which clitic pronoun replaces a feminine singular person (e.g. 'pe Maria')?",
           "options": [
-            "o [OH] (e.g. O cunosc pe Maria)",
+            "o [OH]",
             "le",
             "îl",
             "îi"
@@ -3632,10 +3632,10 @@
         {
           "prompt": "Translate: 'Whom are you looking for?'",
           "options": [
-            "Pe cine cauți? (19.1)",
-            "Ce cauți pe cine? (19.2)",
-            "Cine cauți? (19.3)",
-            "Unde cauți? (19.4)"
+            "Pe cine cauți?",
+            "Ce cauți pe cine?",
+            "Cine cauți?",
+            "Unde cauți?"
           ],
           "answerIndex": 0,
           "explanation": "Pe cine cauți? (Pe cine = whom)."
@@ -3671,7 +3671,7 @@
           "prompt": "Ce fenomen sintactic reprezintă utilizarea simultană a pronumelui 'îl' și a substantivului 'pe Radu' (ex: 'Îl văd pe Radu')?",
           "options": [
             "O greșeală de pleonasm",
-            "Dublarea clitică (Clitic Doubling) specifică limbii române (#ScienceOfLearning)",
+            "Dublarea clitică (Clitic Doubling) specifică limbii române",
             "Un timp trecut",
             "Modul imperativ"
           ],
@@ -3697,7 +3697,7 @@
             "îl",
             "le",
             "o",
-            "îi (Îi văd pe băieți)"
+            "îi"
           ],
           "answerIndex": 3,
           "explanation": "îi is masculine plural.",
@@ -3758,10 +3758,10 @@
         {
           "prompt": "How does Victor ask Alex if he knows their colleague Andrei with full grammatical precision?",
           "options": [
-            "Îl cunoști pe Andrei? [EEL koo-NOSHTS peh ahn-DRAY] (20.1)",
-            "Cunoști Andrei? (20.2)",
-            "Îl cunoști Andrei? (20.3)",
-            "Cunoști la Andrei? (20.4)"
+            "Îl cunoști pe Andrei? [EEL koo-NOSHTS peh ahn-DRAY]",
+            "Cunoști Andrei?",
+            "Îl cunoști Andrei?",
+            "Cunoști la Andrei?"
           ],
           "answerIndex": 0,
           "explanation": "Îl cunoști pe Andrei."
@@ -3795,10 +3795,10 @@
         {
           "prompt": "Translate: 'Every day we write code and read technical documentation.'",
           "options": [
-            "În fiecare zi scrieți cod și citiți. (20.1)",
-            "În fiecare zi scriem cod și citim documentație tehnică. (20.2)",
-            "Noi scrie cod și citi. (20.3)",
-            "În fiecare zi scriu cod și citesc documentație. (20.4)"
+            "În fiecare zi scrieți cod și citiți.",
+            "În fiecare zi scriem cod și citim documentație tehnică.",
+            "Noi scrie cod și citi.",
+            "În fiecare zi scriu cod și citesc documentație."
           ],
           "answerIndex": 1,
           "explanation": "scriem (a scrie) and citim (a citi)."
@@ -3806,7 +3806,7 @@
         {
           "prompt": "What major city in Transylvania is the setting for the dialogue?",
           "options": [
-            "Cluj-Napoca (The premier IT hub of Romania)",
+            "Cluj-Napoca",
             "Iași",
             "Constanța",
             "Timișoara"
@@ -3822,7 +3822,7 @@
           "prompt": "Ce sinteză gramaticală completă a fost realizată în această a 4-a Unitate de Limba Română?",
           "options": [
             "Doar timpurile trecute",
-            "Cele 4 conjugări ale prezentului (-a/-ez, -ea, -e, -i/-esc), structura 'vreau să', acuzativul cu 'pe' și dublarea clitică (îl, o)",
+            "Cele 4 conjugări ale prezentului (-a/-ez, -ea, -e, -i/-esc), structura 'vreau să', acuzativul cu 'pe' și dublarea clitică",
             "Doar gradele de comparație",
             "Doar alfabetul"
           ],
@@ -3869,10 +3869,10 @@
         {
           "prompt": "Verbele 'scriem' (Conjugarea III) și 'citim' (Conjugarea IV) sunt la persoana:",
           "options": [
-            "I singular (eu)",
-            "I plural (noi - we)",
-            "a III-a plural (ei)",
-            "a II-a plural (voi)"
+            "I singular",
+            "I plural",
+            "a III-a plural",
+            "a II-a plural"
           ],
           "answerIndex": 1,
           "explanation": "1st person plural (noi).",
@@ -3925,10 +3925,10 @@
         {
           "prompt": "Which reflexive pronoun pairs with 'Eu' (I)?",
           "options": [
-            "te (21.1)",
-            "se (21.2)",
-            "ne (21.3)",
-            "mă (Eu mă trezesc) (21.4)"
+            "te",
+            "se",
+            "ne",
+            "mă"
           ],
           "answerIndex": 3,
           "explanation": "Eu takes 'mă'."
@@ -3951,10 +3951,10 @@
         {
           "prompt": "Translate: 'They are resting at home.'",
           "options": [
-            "Ei ne odihnim acasă. (21.1)",
-            "Ei mă odihnesc acasă. (21.2)",
-            "Ei vă odihniți acasă. (21.3)",
-            "Ei se odihnesc acasă. (21.4)"
+            "Ei ne odihnim acasă.",
+            "Ei mă odihnesc acasă.",
+            "Ei vă odihniți acasă.",
+            "Ei se odihnesc acasă."
           ],
           "answerIndex": 3,
           "explanation": "Ei/Ele take 'se': se odihnesc."
@@ -4013,10 +4013,10 @@
         {
           "prompt": "Which verb is reflexive in Romanian?",
           "options": [
-            "a mânca (to eat)",
-            "a se îmbrăca (to get dressed)",
-            "a scrie (to write)",
-            "a citi (to read)"
+            "a mânca",
+            "a se îmbrăca",
+            "a scrie",
+            "a citi"
           ],
           "answerIndex": 1,
           "explanation": "a se îmbrăca is a reflexive verb with the particle 'se'.",
@@ -4069,10 +4069,10 @@
         {
           "prompt": "What is the 'eu' form of 'a face' (to do/make)?",
           "options": [
-            "fac (Eu fac cafea) (22.1)",
-            "facem (22.2)",
-            "faci (22.3)",
-            "face (22.4)"
+            "fac",
+            "facem",
+            "faci",
+            "face"
           ],
           "answerIndex": 0,
           "explanation": "Eu fac."
@@ -4095,10 +4095,10 @@
         {
           "prompt": "Translate: 'Are you (informal) drinking coffee?'",
           "options": [
-            "Beau cafea? (22.1)",
-            "Bea cafea? (22.2)",
-            "Bei cafea? (22.3)",
-            "Bem cafea? (22.4)"
+            "Beau cafea?",
+            "Bea cafea?",
+            "Bei cafea?",
+            "Bem cafea?"
           ],
           "answerIndex": 2,
           "explanation": "Tu bei (Bei cafea?)."
@@ -4213,10 +4213,10 @@
         {
           "prompt": "How do you say 'at eight o'clock in the morning' in Romanian?",
           "options": [
-            "în ora opt dimineața (23.1)",
-            "de ora opt dimineața (23.2)",
-            "pe ora opt dimineața (23.3)",
-            "la ora opt dimineața (23.4)"
+            "în ora opt dimineața",
+            "de ora opt dimineața",
+            "pe ora opt dimineața",
+            "la ora opt dimineața"
           ],
           "answerIndex": 3,
           "explanation": "'la ora' is used for clock times."
@@ -4239,10 +4239,10 @@
         {
           "prompt": "Translate: 'After work I go to the gym.'",
           "options": [
-            "După serviciu merg la sală. (23.1)",
-            "Înainte de serviciu merg la sală. (23.2)",
-            "În timpul serviciului merg la sală. (23.3)",
-            "Fără serviciu merg la sală. (23.4)"
+            "După serviciu merg la sală.",
+            "Înainte de serviciu merg la sală.",
+            "În timpul serviciului merg la sală.",
+            "Fără serviciu merg la sală."
           ],
           "answerIndex": 0,
           "explanation": "după serviciu = after work, la sală = to the gym."
@@ -4267,7 +4267,7 @@
           "options": [
             "în ora + number",
             "pe ora + number",
-            "la ora + number (e.g. la ora șapte)",
+            "la ora + number",
             "cu ora + number"
           ],
           "answerIndex": 2,
@@ -4357,10 +4357,10 @@
         {
           "prompt": "What particle connects modal verbs to the following action verb in Romanian?",
           "options": [
-            "să (vreau să învăț, pot să merg) (24.1)",
-            "la (24.2)",
-            "în (24.3)",
-            "de (24.4)"
+            "să",
+            "la",
+            "în",
+            "de"
           ],
           "answerIndex": 0,
           "explanation": "The subjunctive conjunction 'să' connects modal verbs to the secondary verb."
@@ -4368,7 +4368,7 @@
         {
           "prompt": "How does 'trebuie' conjugate for 'Noi' (We)?",
           "options": [
-            "Trebuie să mergem (trebuie is invariable)",
+            "Trebuie să mergem",
             "Trebuieți să mergem",
             "Trebuiești să mergem",
             "Trebuim să mergem"
@@ -4383,10 +4383,10 @@
         {
           "prompt": "Translate: 'I want to speak Romanian.'",
           "options": [
-            "Vreau să vorbesc românește. (24.1)",
-            "Vrei să vorbim românește. (24.2)",
-            "Vreau vorbi românește. (24.3)",
-            "Vreau de vorbesc românește. (24.4)"
+            "Vreau să vorbesc românește.",
+            "Vrei să vorbim românește.",
+            "Vreau vorbi românește.",
+            "Vreau de vorbesc românește."
           ],
           "answerIndex": 0,
           "explanation": "Vreau să vorbesc românește."
@@ -4501,10 +4501,10 @@
         {
           "prompt": "In the dialogue, why does Mihai take the subway to work?",
           "options": [
-            "Pentru că este foarte rapid (Because it is very fast) (25.1)",
-            "Pentru că nu are mașină (25.2)",
-            "Pentru că este gratis (25.3)",
-            "Pentru că plouă (25.4)"
+            "Pentru că este foarte rapid",
+            "Pentru că nu are mașină",
+            "Pentru că este gratis",
+            "Pentru că plouă"
           ],
           "answerIndex": 0,
           "explanation": "Mihai states: 'merg cu metroul pentru că este foarte rapid.'"
@@ -4512,7 +4512,7 @@
         {
           "prompt": "Where do the roommates agree to meet at 19:30 tonight?",
           "options": [
-            "În Centrul Vechi la o terasă (In the Old Town at a terrace)",
+            "În Centrul Vechi la o terasă",
             "La aeroport",
             "La birou",
             "La bibliotecă"
@@ -4527,10 +4527,10 @@
         {
           "prompt": "Translate: 'First I shower, then I have breakfast.'",
           "options": [
-            "Mănânc micul dejun fără duș. (25.1)",
-            "Mai întâi fac un duș, apoi iau micul dejun. (25.2)",
-            "Niciodată nu fac duș dimineața. (25.3)",
-            "După ce fac un duș, nu mănânc. (25.4)"
+            "Mănânc micul dejun fără duș.",
+            "Mai întâi fac un duș, apoi iau micul dejun.",
+            "Niciodată nu fac duș dimineața.",
+            "După ce fac un duș, nu mănânc."
           ],
           "answerIndex": 1,
           "explanation": "Mai întâi ... apoi ..."
@@ -4590,7 +4590,7 @@
           "prompt": "What core competencies were mastered across Unit 5 in Romanian?",
           "options": [
             "Past participle passive forms only",
-            "Reflexive routine verbs, irregular present verbs (merge, veni, face, bea), clock times & sequencing, and subjunctive modal structures (să)",
+            "Reflexive routine verbs, irregular present verbs (merge, veni, face, bea), clock times & sequencing, and subjunctive modal structures",
             "Alphabet and numbers only",
             "Genitive-dative articles only"
           ],
@@ -4646,10 +4646,10 @@
         {
           "prompt": "What is the difference between 'apă plată' and 'apă minerală' in Romania?",
           "options": [
-            "apă plată is hot water; apă minerală is cold. (26.1)",
-            "apă plată is tap water; apă minerală is flavored wine. (26.2)",
-            "There is no difference. (26.3)",
-            "apă plată is still water; apă minerală is sparkling (carbonated) water. (26.4)"
+            "apă plată is hot water; apă minerală is cold.",
+            "apă plată is tap water; apă minerală is flavored wine.",
+            "There is no difference.",
+            "apă plată is still water; apă minerală is sparkling (carbonated) water."
           ],
           "answerIndex": 3,
           "explanation": "apă plată = still water; apă minerală / carbogazoasă = sparkling water."
@@ -4672,10 +4672,10 @@
         {
           "prompt": "Translate: 'chicken soup with sour cream'",
           "options": [
-            "carne de vită cu pâine (26.1)",
-            "pește cu cartofi (26.2)",
-            "mămăligă cu brânză (26.3)",
-            "ciorbă de pui cu smântână (26.4)"
+            "carne de vită cu pâine",
+            "pește cu cartofi",
+            "mămăligă cu brânză",
+            "ciorbă de pui cu smântână"
           ],
           "answerIndex": 3,
           "explanation": "ciorbă de pui cu smântână = chicken sour soup with sour cream."
@@ -4723,7 +4723,7 @@
           "prompt": "What traditional side dish is usually served alongside Romanian 'sarmale'?",
           "options": [
             "Orez prăjit",
-            "Mămăligă caldă și smântână (Warm polenta and sour cream)",
+            "Mămăligă caldă și smântână",
             "Cartofi prăjiți",
             "Paste făinoase"
           ],
@@ -4791,10 +4791,10 @@
         {
           "prompt": "How do you politely ask for the restaurant bill in Romanian?",
           "options": [
-            "Nota de plată, vă rog! (The bill, please) (27.1)",
-            "Nu am bani! (27.2)",
-            "Unde este ușa? (27.3)",
-            "Vreau să plec! (27.4)"
+            "Nota de plată, vă rog!",
+            "Nu am bani!",
+            "Unde este ușa?",
+            "Vreau să plec!"
           ],
           "answerIndex": 0,
           "explanation": "Nota de plată, vă rog = The bill, please."
@@ -4802,7 +4802,7 @@
         {
           "prompt": "What does 'Aș dori' mean when ordering?",
           "options": [
-            "I would like (polite request)",
+            "I would like",
             "I have",
             "I don't want",
             "I am cooking"
@@ -4817,10 +4817,10 @@
         {
           "prompt": "Translate: 'Can I pay by credit card?'",
           "options": [
-            "Pot să plătesc cash? (27.1)",
-            "Cât este nota? (27.2)",
-            "Pot să plătesc cu cardul? (27.3)",
-            "Unde este banca? (27.4)"
+            "Pot să plătesc cash?",
+            "Cât este nota?",
+            "Pot să plătesc cu cardul?",
+            "Unde este banca?"
           ],
           "answerIndex": 2,
           "explanation": "Pot să plătesc cu cardul? = Can I pay by card?"
@@ -4935,10 +4935,10 @@
         {
           "prompt": "Which form of 'a plăcea' is used with plural nouns (e.g. 'sarmalele' - the cabbage rolls)?",
           "options": [
-            "place (28.1)",
-            "plăcem (28.2)",
-            "plăceți (28.3)",
-            "plac (Îmi plac sarmalele) (28.4)"
+            "place",
+            "plăcem",
+            "plăceți",
+            "plac"
           ],
           "answerIndex": 3,
           "explanation": "Plural subjects take 'plac': Îmi plac sarmalele."
@@ -4949,7 +4949,7 @@
             "îmi",
             "îi",
             "ne",
-            "îți (Îți place cafeaua?)"
+            "îți"
           ],
           "answerIndex": 3,
           "explanation": "îți = to you (singular informal)."
@@ -4961,10 +4961,10 @@
         {
           "prompt": "Translate: 'We like Romanian wine.'",
           "options": [
-            "Ne place vinul românesc. (28.1)",
-            "Îmi place vinul românesc. (28.2)",
-            "Îți place vinul românesc. (28.3)",
-            "Le place vinul românesc. (28.4)"
+            "Ne place vinul românesc.",
+            "Îmi place vinul românesc.",
+            "Îți place vinul românesc.",
+            "Le place vinul românesc."
           ],
           "answerIndex": 0,
           "explanation": "Ne place = We like (it pleases us)."
@@ -5080,10 +5080,10 @@
         {
           "prompt": "What does 'gustos' mean in Romanian?",
           "options": [
-            "cold (29.1)",
-            "tasty / delicious (29.2)",
-            "sour (29.3)",
-            "salty (29.4)"
+            "cold",
+            "tasty / delicious",
+            "sour",
+            "salty"
           ],
           "answerIndex": 1,
           "explanation": "gustos = tasty."
@@ -5091,7 +5091,7 @@
         {
           "prompt": "How do you describe 'fresh bread' (pâine = feminine) in Romanian?",
           "options": [
-            "pâine proaspătă (feminine -ă)",
+            "pâine proaspătă",
             "pâine proaspeți",
             "pâine calzi",
             "pâine proaspăt"
@@ -5106,10 +5106,10 @@
         {
           "prompt": "Translate: 'The lemonade is cold and sweet.'",
           "options": [
-            "Limonada este rece și dulce. (29.1)",
-            "Limonada este fără zahăr. (29.2)",
-            "Limonada este caldă și sărată. (29.3)",
-            "Limonada este picantă și amară. (29.4)"
+            "Limonada este rece și dulce.",
+            "Limonada este fără zahăr.",
+            "Limonada este caldă și sărată.",
+            "Limonada este picantă și amară."
           ],
           "answerIndex": 0,
           "explanation": "rece = cold, dulce = sweet."
@@ -5117,7 +5117,7 @@
         {
           "prompt": "Which word means 'spicy / hot' in Romanian?",
           "options": [
-            "picant (or iute)",
+            "picant",
             "acru",
             "dulce",
             "sărat"
@@ -5225,10 +5225,10 @@
         {
           "prompt": "In the dialogue, what dessert do Elena and Dan order?",
           "options": [
-            "Papanași cu dulceață de afine și smântână (Fried cheese dumplings with blueberry jam and sour cream) (30.1)",
-            "Înghețată de vanilie (30.2)",
-            "Plăcintă cu mere (30.3)",
-            "Clătite cu ciocolată (30.4)"
+            "Papanași cu dulceață de afine și smântână",
+            "Înghețată de vanilie",
+            "Plăcintă cu mere",
+            "Clătite cu ciocolată"
           ],
           "answerIndex": 0,
           "explanation": "They order papanași with blueberry jam and sour cream."
@@ -5236,7 +5236,7 @@
         {
           "prompt": "How do you reply to 'Poftă bună!' (Enjoy your meal)?",
           "options": [
-            "Mulțumesc, la fel! (Thanks, likewise!)",
+            "Mulțumesc, la fel!",
             "La revedere!",
             "Nu vreau!",
             "Noapte bună!"
@@ -5251,10 +5251,10 @@
         {
           "prompt": "Translate: 'The fish was grilled with garlic sauce and polenta.'",
           "options": [
-            "Carnea a fost fiartă cu cartofi. (30.1)",
-            "Peștele a fost la grătar cu mujdei de usturoi și mămăligă. (30.2)",
-            "Nu mâncăm pește la grătar. (30.3)",
-            "Peștele a fost prăjit cu orez. (30.4)"
+            "Carnea a fost fiartă cu cartofi.",
+            "Peștele a fost la grătar cu mujdei de usturoi și mămăligă.",
+            "Nu mâncăm pește la grătar.",
+            "Peștele a fost prăjit cu orez."
           ],
           "answerIndex": 1,
           "explanation": "la grătar = grilled, mujdei de usturoi = garlic sauce, mămăligă = polenta."
@@ -5364,10 +5364,10 @@
         {
           "prompt": "What is the auxiliary verb for 'tu' in the Perfectul Compus?",
           "options": [
-            "am (31.1)",
-            "a (31.2)",
-            "ați (31.3)",
-            "ai (e.g. tu ai lucrat) (31.4)"
+            "am",
+            "a",
+            "ați",
+            "ai"
           ],
           "answerIndex": 3,
           "explanation": "Tu takes 'ai' (tu ai lucrat)."
@@ -5390,10 +5390,10 @@
         {
           "prompt": "Translate: 'Ei au cumpărat suveniruri frumoase din piață.'",
           "options": [
-            "We are buying souvenirs at the market. (31.1)",
-            "They want to sell souvenirs. (31.2)",
-            "The market was closed yesterday. (31.3)",
-            "They bought beautiful souvenirs from the market. (31.4)"
+            "We are buying souvenirs at the market.",
+            "They want to sell souvenirs.",
+            "The market was closed yesterday.",
+            "They bought beautiful souvenirs from the market."
           ],
           "answerIndex": 3,
           "explanation": "Au cumpărat = they bought (ei au + cumpărat)."
@@ -5504,10 +5504,10 @@
         {
           "prompt": "What is the past participle of 'a fi' (to be) in 'Eu am _______ la munte'?",
           "options": [
-            "fost (am fost = I was / have been) (32.1)",
-            "făcut (32.2)",
-            "fit (32.3)",
-            "fiut (32.4)"
+            "fost",
+            "făcut",
+            "fit",
+            "fiut"
           ],
           "answerIndex": 0,
           "explanation": "A fi forms its participle as 'fost'."
@@ -5530,10 +5530,10 @@
         {
           "prompt": "Translate: 'Ce ai zis? Nu am auzit bine.'",
           "options": [
-            "Where are you going? I cannot see. (32.1)",
-            "What did you write? I don't understand. (32.2)",
-            "What did you say? I didn't hear well. (32.3)",
-            "Did you close the door? (32.4)"
+            "Where are you going? I cannot see.",
+            "What did you write? I don't understand.",
+            "What did you say? I didn't hear well.",
+            "Did you close the door?"
           ],
           "answerIndex": 2,
           "explanation": "Ai zis = you said (a zice -> zis); nu am auzit = I didn't hear."
@@ -5643,10 +5643,10 @@
         {
           "prompt": "How do you say 'We had a lot of fun' in Romanian using 'a se distra'?",
           "options": [
-            "Ne distrăm foarte mult. (33.1)",
-            "Am distrat foarte mult. (33.2)",
-            "S-au distrat foarte mult. (33.3)",
-            "Ne-am distrat foarte mult. (33.4)"
+            "Ne distrăm foarte mult.",
+            "Am distrat foarte mult.",
+            "S-au distrat foarte mult.",
+            "Ne-am distrat foarte mult."
           ],
           "answerIndex": 3,
           "explanation": "Noi + a se distra in past = ne-am distrat."
@@ -5669,10 +5669,10 @@
         {
           "prompt": "Translate: 'Ieri dimineață m-am trezit devreme și m-am dus la gară.'",
           "options": [
-            "Yesterday morning I woke up early and went to the train station. (33.1)",
-            "Tomorrow morning I will wake up early. (33.2)",
-            "I arrived at the station late. (33.3)",
-            "The train was delayed yesterday morning. (33.4)"
+            "Yesterday morning I woke up early and went to the train station.",
+            "Tomorrow morning I will wake up early.",
+            "I arrived at the station late.",
+            "The train was delayed yesterday morning."
           ],
           "answerIndex": 0,
           "explanation": "m-am trezit = I woke up; m-am dus = I went."
@@ -5783,10 +5783,10 @@
         {
           "prompt": "How do you say 'the day before yesterday' in Romanian?",
           "options": [
-            "mâine (34.1)",
-            "alaltăieri (34.2)",
-            "aseară (34.3)",
-            "ieri (34.4)"
+            "mâine",
+            "alaltăieri",
+            "aseară",
+            "ieri"
           ],
           "answerIndex": 1,
           "explanation": "Alaltăieri = the day before yesterday."
@@ -5809,10 +5809,10 @@
         {
           "prompt": "Translate: 'După aceea am mers la o cafenea drăguță și am băut ciocolată caldă.'",
           "options": [
-            "After that we went to a nice café and drank hot chocolate. (34.1)",
-            "We don't drink hot chocolate. (34.2)",
-            "We are going to buy chocolate at the store. (34.3)",
-            "The café was closed after noon. (34.4)"
+            "After that we went to a nice café and drank hot chocolate.",
+            "We don't drink hot chocolate.",
+            "We are going to buy chocolate at the store.",
+            "The café was closed after noon."
           ],
           "answerIndex": 0,
           "explanation": "După aceea = after that; am mers = we went; am băut = we drank."
@@ -5820,7 +5820,7 @@
         {
           "prompt": "Which connector means 'suddenly' in Romanian?",
           "options": [
-            "deodată (or dintr-odată)",
+            "deodată",
             "totdeauna",
             "la început",
             "ieri"
@@ -5838,7 +5838,7 @@
             "Apoi -> Apoi -> Apoi -> Ieri",
             "În cele din urmă -> Mai întâi -> Apoi -> După aceea",
             "Mâine -> Ieri -> Azi -> Acum",
-            "Mai întâi (first) -> Apoi (then) -> După aceea (after that) -> În cele din urmă (in the end)"
+            "Mai întâi (first) -> Apoi (then) -> După aceea (after that) -> În cele din urmă"
           ],
           "answerIndex": 3,
           "explanation": "Mai întâi -> Apoi -> După aceea -> În cele din urmă.",
@@ -5923,10 +5923,10 @@
         {
           "prompt": "What famous Gothic monument did Elena visit in Council Square (Piața Sfatului)?",
           "options": [
-            "Biserica Neagră (The Black Church) (35.1)",
-            "The Palace of Parliament (35.2)",
-            "Bran Castle (35.3)",
-            "Constanța Casino (35.4)"
+            "Biserica Neagră",
+            "The Palace of Parliament",
+            "Bran Castle",
+            "Constanța Casino"
           ],
           "answerIndex": 0,
           "explanation": "Biserica Neagră is Brașov's landmark Gothic church."
@@ -5934,7 +5934,7 @@
         {
           "prompt": "What dessert did Elena order at the restaurant on Republicii Street?",
           "options": [
-            "Papanași calzi cu smântână și dulceață de afine (warm papanași with sour cream and blueberry jam)",
+            "Papanași calzi cu smântână și dulceață de afine",
             "Ice cream",
             "Apple pie",
             "Baklava"
@@ -5949,10 +5949,10 @@
         {
           "prompt": "How did Elena and her companions travel from Bucharest to Brașov?",
           "options": [
-            "By bicycle (35.1)",
-            "By train from Gara de Nord through the Prahova Valley (cu trenul din Gara de Nord) (35.2)",
-            "By boat (35.3)",
-            "By plane (35.4)"
+            "By bicycle",
+            "By train from Gara de Nord through the Prahova Valley",
+            "By boat",
+            "By plane"
           ],
           "answerIndex": 1,
           "explanation": "'Am plecat sâmbătă dimineață cu trenul din Gara de Nord.'"
@@ -6063,10 +6063,10 @@
         {
           "prompt": "What is the common Romanian colloquial term for athletic sneakers?",
           "options": [
-            "pantaloni (36.1)",
-            "paltoane (36.2)",
-            "rochii (36.3)",
-            "adidași (from Adidas) (36.4)"
+            "pantaloni",
+            "paltoane",
+            "rochii",
+            "adidași"
           ],
           "answerIndex": 3,
           "explanation": "Adidași is the standard Romanian term for sneakers."
@@ -6077,7 +6077,7 @@
             "pantofi neagră",
             "pantofi negre",
             "pantofi negru",
-            "pantofi negri (pantofi is masculine plural -> negri)"
+            "pantofi negri"
           ],
           "answerIndex": 3,
           "explanation": "Pantofi (m.pl.) + negri (m.pl.)."
@@ -6089,10 +6089,10 @@
         {
           "prompt": "Translate: 'Mi-am cumpărat o ie tradițională și o geantă din piele maro.'",
           "options": [
-            "I sold my traditional blouse. (36.1)",
-            "I am looking for a red coat. (36.2)",
-            "The boutique has no handbags. (36.3)",
-            "I bought myself a traditional embroidered blouse and a brown leather handbag. (36.4)"
+            "I sold my traditional blouse.",
+            "I am looking for a red coat.",
+            "The boutique has no handbags.",
+            "I bought myself a traditional embroidered blouse and a brown leather handbag."
           ],
           "answerIndex": 3,
           "explanation": "ie tradițională = traditional blouse; geantă din piele maro = brown leather bag."
@@ -6103,7 +6103,7 @@
             "albastre",
             "albaștri",
             "albastruă",
-            "albastră (e.g. o rochie albastră)"
+            "albastră"
           ],
           "answerIndex": 3,
           "explanation": "Albastru (masc.) -> albastră (fem. sg.)."
@@ -6203,10 +6203,10 @@
         {
           "prompt": "How do you ask 'Where is the fitting room?' in Romanian?",
           "options": [
-            "Unde este cabina de probă? (37.1)",
-            "Unde este hotelul? (37.2)",
-            "Unde este gara? (37.3)",
-            "Unde este bucătăria? (37.4)"
+            "Unde este cabina de probă?",
+            "Unde este hotelul?",
+            "Unde este gara?",
+            "Unde este bucătăria?"
           ],
           "answerIndex": 0,
           "explanation": "Cabina de probă = fitting/dressing cubicle."
@@ -6229,10 +6229,10 @@
         {
           "prompt": "Translate: 'Ce număr purtați la pantofi? — Port numărul 42.'",
           "options": [
-            "How many shoes do you have? — I have 42 shoes. (37.1)",
-            "What shoe size do you wear? — I wear size 42. (37.2)",
-            "Are the shoes on sale? — Yes, by 42%. (37.3)",
-            "I want to return size 42 shoes. (37.4)"
+            "How many shoes do you have? — I have 42 shoes.",
+            "What shoe size do you wear? — I wear size 42.",
+            "Are the shoes on sale? — Yes, by 42%.",
+            "I want to return size 42 shoes."
           ],
           "answerIndex": 1,
           "explanation": "numărul la pantofi = shoe size."
@@ -6242,7 +6242,7 @@
           "options": [
             "Euro",
             "Dolarul",
-            "Leul românesc (pl. lei / RON)",
+            "Leul românesc",
             "Lira"
           ],
           "answerIndex": 2,
@@ -6281,7 +6281,7 @@
           "options": [
             "Nu vreau.",
             "Unde este ieșirea?",
-            "O iau! (feminine direct object clitic 'o' for rochia)",
+            "O iau!",
             "Îl iau!"
           ],
           "answerIndex": 2,
@@ -6342,10 +6342,10 @@
         {
           "prompt": "Which demonstrative adjective modifies a feminine singular noun before it (e.g. rochie - dress)?",
           "options": [
-            "acest (38.1)",
-            "acești (38.2)",
-            "acestea (38.3)",
-            "această (această rochie) (38.4)"
+            "acest",
+            "acești",
+            "acestea",
+            "această"
           ],
           "answerIndex": 3,
           "explanation": "Această is the feminine singular demonstrative adjective."
@@ -6356,7 +6356,7 @@
             "acea",
             "acela",
             "acel",
-            "aceea (that one - feminine pronoun)"
+            "aceea"
           ],
           "answerIndex": 3,
           "explanation": "Aceea is the feminine singular distant demonstrative pronoun."
@@ -6368,10 +6368,10 @@
         {
           "prompt": "Translate: 'Vreau să probez această jachetă și acei pantaloni negri.'",
           "options": [
-            "I want to try on this jacket and those black pants. (38.1)",
-            "I want to sell my jacket and pants. (38.2)",
-            "Those jackets are too expensive. (38.3)",
-            "Where are the fitting rooms? (38.4)"
+            "I want to try on this jacket and those black pants.",
+            "I want to sell my jacket and pants.",
+            "Those jackets are too expensive.",
+            "Where are the fitting rooms?"
           ],
           "answerIndex": 0,
           "explanation": "această jachetă = this jacket; acei pantaloni = those pants."
@@ -6379,7 +6379,7 @@
         {
           "prompt": "What is the masculine plural demonstrative adjective for 'pantofi' (shoes)?",
           "options": [
-            "acești (acești pantofi)",
+            "acești",
             "acest",
             "această",
             "aceștia"
@@ -6397,7 +6397,7 @@
             "All mean 'yesterday'",
             "All mean 'good'",
             "acest: fem | această: masc",
-            "acest: masc. sg. | această: fem. sg. | acești: masc. pl. | acele: fem/neut. pl. (far)"
+            "acest: masc. sg. | această: fem. sg. | acești: masc. pl. | acele: fem/neut. pl."
           ],
           "answerIndex": 3,
           "explanation": "Demonstrative adjective gender/number paradigm.",
@@ -6482,10 +6482,10 @@
         {
           "prompt": "How do you say 'This shirt is cheaper than that one' in Romanian?",
           "options": [
-            "Această cămașă este cel mai ieftin. (39.1)",
-            "Această cămașă este mai ieftină decât aceea. (mai + adj + decât) (39.2)",
-            "Această cămașă este mai puțin scumpă ca. (39.3)",
-            "Această cămașă este ieftină ca aceea. (39.4)"
+            "Această cămașă este cel mai ieftin.",
+            "Această cămașă este mai ieftină decât aceea.",
+            "Această cămașă este mai puțin scumpă ca.",
+            "Această cămașă este ieftină ca aceea."
           ],
           "answerIndex": 1,
           "explanation": "mai ieftină decât = cheaper than."
@@ -6508,10 +6508,10 @@
         {
           "prompt": "Translate: 'Acel restaurant din Centrul Vechi este scump foc!'",
           "options": [
-            "That restaurant in the Old Town is blazing expensive (extremely pricey)! (39.1)",
-            "The restaurant serves spicy food. (39.2)",
-            "That restaurant caught on fire. (39.3)",
-            "The restaurant in the Old Town is very cheap. (39.4)"
+            "That restaurant in the Old Town is blazing expensive (extremely pricey)!",
+            "The restaurant serves spicy food.",
+            "That restaurant caught on fire.",
+            "The restaurant in the Old Town is very cheap."
           ],
           "answerIndex": 0,
           "explanation": "scump foc = super expensive."
@@ -6519,7 +6519,7 @@
         {
           "prompt": "What is the feminine singular superlative of 'bun' (good)?",
           "options": [
-            "cea mai bună (e.g. cea mai bună calitate)",
+            "cea mai bună",
             "cei mai buni",
             "cel mai bun",
             "cele mai bune"
@@ -6622,10 +6622,10 @@
         {
           "prompt": "What traditional cultural blessing did Doamna Popescu say to Andrei after the purchase?",
           "options": [
-            "Să le purtați sănătos! (Wear them in good health!) (40.1)",
-            "Drum bun! (40.2)",
-            "Poftă bună! (40.3)",
-            "Noapte bună! (40.4)"
+            "Să le purtați sănătos!",
+            "Drum bun!",
+            "Poftă bună!",
+            "Noapte bună!"
           ],
           "answerIndex": 0,
           "explanation": "'Să le purtați sănătos!' is the standard Romanian blessing for new clothes."
@@ -6648,10 +6648,10 @@
         {
           "prompt": "What was the total amount Andrei paid for both the jacket (350 lei) and the blouse (250 lei)?",
           "options": [
-            "400 lei (40.1)",
-            "600 lei (șase sute de lei) (40.2)",
-            "500 lei (40.3)",
-            "1,000 lei (40.4)"
+            "400 lei",
+            "600 lei",
+            "500 lei",
+            "1,000 lei"
           ],
           "answerIndex": 1,
           "explanation": "350 + 250 = 600 lei."
@@ -6712,7 +6712,7 @@
           "options": [
             "London",
             "Berlin",
-            "Breaza (a famous Romanian artisanal embroidery center)",
+            "Breaza",
             "Rome"
           ],
           "answerIndex": 2,
@@ -6762,10 +6762,10 @@
         {
           "prompt": "How do you say 'I go by bus' in Romanian?",
           "options": [
-            "Merg în autobuz. (41.1)",
-            "Merg pe autobuz. (41.2)",
-            "Merg la autobuzul. (41.3)",
-            "Merg cu autobuzul. (preposition 'cu' + definite noun) (41.4)"
+            "Merg în autobuz.",
+            "Merg pe autobuz.",
+            "Merg la autobuzul.",
+            "Merg cu autobuzul."
           ],
           "answerIndex": 3,
           "explanation": "Preposition 'cu' indicates the mode of transport: cu autobuzul."
@@ -6776,7 +6776,7 @@
             "cu picioare",
             "în jos",
             "la pas",
-            "pe jos (e.g. Merg pe jos până la centru.)"
+            "pe jos"
           ],
           "answerIndex": 3,
           "explanation": "'Pe jos' is the fixed idiom for walking / on foot."
@@ -6788,10 +6788,10 @@
         {
           "prompt": "Translate: 'Apropiați cardul bancar contactless de turnichet pentru a deschide poarta.'",
           "options": [
-            "Buy a new ticket from the driver. (41.1)",
-            "The turnstile is locked for all passengers. (41.2)",
-            "Show your identity card at the turnstile. (41.3)",
-            "Hold your contactless bank card near the turnstile to open the gate. (41.4)"
+            "Buy a new ticket from the driver.",
+            "The turnstile is locked for all passengers.",
+            "Show your identity card at the turnstile.",
+            "Hold your contactless bank card near the turnstile to open the gate."
           ],
           "answerIndex": 3,
           "explanation": "card bancar contactless = contactless bank card; turnichet = turnstile."
@@ -6902,10 +6902,10 @@
         {
           "prompt": "Which case does 'în fața' (in front of) govern in Romanian?",
           "options": [
-            "The Genitive case (Genitiv — e.g. în fața muzeului / în fața bisericii) (42.1)",
-            "The Vocative case (42.2)",
-            "The Accusative case (42.3)",
-            "The Nominative case (42.4)"
+            "The Genitive case",
+            "The Vocative case",
+            "The Accusative case",
+            "The Nominative case"
           ],
           "answerIndex": 0,
           "explanation": "Compound prepositions ending in -a (în fața, în spatele) govern the Genitive case."
@@ -6913,7 +6913,7 @@
         {
           "prompt": "How do you say 'next to the bank' (banca - fem) in Romanian?",
           "options": [
-            "lângă bancă (lângă + accusative)",
+            "lângă bancă",
             "în fața băncii",
             "departe de bancă",
             "în spatele băncii"
@@ -6928,10 +6928,10 @@
         {
           "prompt": "Translate: 'Cafeneaua se află în spatele teatrului și aproape de parc.'",
           "options": [
-            "The café is inside the park. (42.1)",
-            "The café is located behind the theater and near the park. (42.2)",
-            "The theater is far from the park. (42.3)",
-            "Where is the theater café? (42.4)"
+            "The café is inside the park.",
+            "The café is located behind the theater and near the park.",
+            "The theater is far from the park.",
+            "Where is the theater café?"
           ],
           "answerIndex": 1,
           "explanation": "în spatele teatrului = behind the theater (genitive); aproape de parc = near the park (accusative)."
@@ -6957,7 +6957,7 @@
             "All mean yesterday",
             "All mean inside",
             "în fața: far | lângă: under | între: behind",
-            "în fața: in front of (+ Gen) | lângă: next to (+ Acc) | între: between (+ Acc) | departe de: far from (+ Acc)"
+            "în fața: in front of (+ Gen) | lângă: next to (+ Acc) | între: between (+ Acc) | departe de: far from"
           ],
           "answerIndex": 3,
           "explanation": "Spatial prepositions and case governance matching.",
@@ -7042,10 +7042,10 @@
         {
           "prompt": "How do you politely tell someone 'Go straight ahead and turn right at the traffic light' in Romanian?",
           "options": [
-            "Virați la stânga și opriți-vă. (43.1)",
-            "Traversați râul imediat. (43.2)",
-            "Mergeți tot înainte și virați la dreapta la semafor. (43.3)",
-            "Mergeți înapoi la gară. (43.4)"
+            "Virați la stânga și opriți-vă.",
+            "Traversați râul imediat.",
+            "Mergeți tot înainte și virați la dreapta la semafor.",
+            "Mergeți înapoi la gară."
           ],
           "answerIndex": 2,
           "explanation": "Mergeți tot înainte (straight) + virați la dreapta (turn right) + la semafor (at traffic light)."
@@ -7068,10 +7068,10 @@
         {
           "prompt": "Translate: 'Luați a doua stradă la stânga și veți vedea muzeul pe partea dreaptă.'",
           "options": [
-            "Take the second street on the left and you will see the museum on the right-hand side. (43.1)",
-            "Take the first street on the right to the museum. (43.2)",
-            "Do not turn on the second street. (43.3)",
-            "The museum is closed on the left. (43.4)"
+            "Take the second street on the left and you will see the museum on the right-hand side.",
+            "Take the first street on the right to the museum.",
+            "Do not turn on the second street.",
+            "The museum is closed on the left."
           ],
           "answerIndex": 0,
           "explanation": "a doua stradă la stânga = 2nd street left; pe partea dreaptă = on right side."
@@ -7079,8 +7079,8 @@
         {
           "prompt": "What verb means 'to get off / alight' from a bus or train in Romanian?",
           "options": [
-            "a coborî (e.g. Coborâți la stația Piața Romană)",
-            "a urca (to get on)",
+            "a coborî",
+            "a urca",
             "a merge",
             "a cumpăra"
           ],
@@ -7118,7 +7118,7 @@
         {
           "prompt": "How do you ask 'How do I get to...?' in Romanian?",
           "options": [
-            "Cum se ajunge la...? (or Cum pot să ajung la...?)",
+            "Cum se ajunge la...?",
             "Cine sunteți dumneavoastră?",
             "Cât este ceasul?",
             "Cât costă?"
@@ -7183,10 +7183,10 @@
         {
           "prompt": "Which preposition expresses motion through an enclosed park: 'Mergem _______ parc'?",
           "options": [
-            "peste (44.1)",
-            "prin (through — prin parc) (44.2)",
-            "la (44.3)",
-            "spre (44.4)"
+            "peste",
+            "prin",
+            "la",
+            "spre"
           ],
           "answerIndex": 1,
           "explanation": "'Prin' expresses motion through space: prin parc."
@@ -7194,7 +7194,7 @@
         {
           "prompt": "Which preposition expresses moving 'towards' a landmark?",
           "options": [
-            "spre (or către — e.g. spre centru)",
+            "spre",
             "sub",
             "fără",
             "din"
@@ -7209,10 +7209,10 @@
         {
           "prompt": "Translate: 'Mergeți pe trotuar până la capătul străzii și treceți peste pod.'",
           "options": [
-            "Walk on the sidewalk up to the end of the street and cross over the bridge. (44.1)",
-            "Do not walk to the end of the street. (44.2)",
-            "Cross the bridge before reaching the sidewalk. (44.3)",
-            "The bridge has no sidewalk. (44.4)"
+            "Walk on the sidewalk up to the end of the street and cross over the bridge.",
+            "Do not walk to the end of the street.",
+            "Cross the bridge before reaching the sidewalk.",
+            "The bridge has no sidewalk."
           ],
           "answerIndex": 0,
           "explanation": "pe trotuar = on sidewalk; până la capătul străzii = up to end of street; peste pod = over bridge."
@@ -7323,10 +7323,10 @@
         {
           "prompt": "Which Metrorex line did Domnul Radu instruct Andrei to take from Gara de Nord to Piața Unirii?",
           "options": [
-            "Magistrala 1 (M1 — yellow line direct to Piața Unirii 1) (45.1)",
-            "Magistrala 2 (45.2)",
-            "Magistrala 4 (45.3)",
-            "Magistrala 5 (45.4)"
+            "Magistrala 1",
+            "Magistrala 2",
+            "Magistrala 4",
+            "Magistrala 5"
           ],
           "answerIndex": 0,
           "explanation": "Magistrala 1 runs directly between Gara de Nord and Piața Unirii."
@@ -7335,7 +7335,7 @@
           "prompt": "What river runs through central Bucharest that Elena told Andrei to cross over to reach Lipscani?",
           "options": [
             "Râul Dâmbovița",
-            "Dunărea (Danube)",
+            "Dunărea",
             "Oltul",
             "Mureșul"
           ],
@@ -7349,10 +7349,10 @@
         {
           "prompt": "What is the Romanian idiom meaning 'You can't miss it!'?",
           "options": [
-            "Nu știu nimic. (45.1)",
-            "Nu aveți cum să ratați! (or Nu puteți rata!) (45.2)",
-            "Totul este interzis. (45.3)",
-            "Este pierdut. (45.4)"
+            "Nu știu nimic.",
+            "Nu aveți cum să ratați!",
+            "Totul este interzis.",
+            "Este pierdut."
           ],
           "answerIndex": 1,
           "explanation": "'Nu aveți cum să ratați' is the Romanian idiom for 'you can't miss it'."
@@ -7412,7 +7412,7 @@
           "prompt": "What grand public square sits directly in front of the Palace of the Parliament in Bucharest?",
           "options": [
             "Piața Victoriei",
-            "Piața Constituției (Constitution Square)",
+            "Piața Constituției",
             "Piața Romană",
             "Piața Universității"
           ],
@@ -7458,10 +7458,10 @@
         {
           "prompt": "Cum se numește 'the bedroom' în limba română?",
           "options": [
-            "Bucătăria (46.1)",
-            "Baia (46.2)",
-            "Holul (46.3)",
-            "Dormitorul (de la verbul 'a dormi') (46.4)"
+            "Bucătăria",
+            "Baia",
+            "Holul",
+            "Dormitorul"
           ],
           "answerIndex": 3,
           "explanation": "Dormitorul (the bedroom) comes from 'a dormi' (to sleep)."
@@ -7472,7 +7472,7 @@
             "Canapeaua",
             "Dulapul",
             "Aragazul",
-            "Frigiderul (substantiv neutru)"
+            "Frigiderul"
           ],
           "answerIndex": 3,
           "explanation": "Frigiderul is the refrigerator."
@@ -7484,10 +7484,10 @@
         {
           "prompt": "Tradu în limba română: 'The table is in the kitchen and the bed is in the bedroom.'",
           "options": [
-            "Masa este în baie. (46.1)",
-            "Patul este în grădină. (46.2)",
-            "Dulapul este pe balcon. (46.3)",
-            "Masa este în bucătărie și patul este în dormitor. (46.4)"
+            "Masa este în baie.",
+            "Patul este în grădină.",
+            "Dulapul este pe balcon.",
+            "Masa este în bucătărie și patul este în dormitor."
           ],
           "answerIndex": 3,
           "explanation": "Masa în bucătărie + patul în dormitor."
@@ -7498,7 +7498,7 @@
             "Genul feminin pur",
             "Genul masculin pur",
             "Fără gen",
-            "Genul neutru (masculin la singular, feminin la plural) (#ScienceOfLearning)"
+            "Genul neutru"
           ],
           "answerIndex": 3,
           "explanation": "Romanian neuter nouns behave as masculine in singular and feminine in plural."
@@ -7535,7 +7535,7 @@
           "prompt": "De ce este importantă cunoașterea genului neutru în limba română pentru descrierea casei?",
           "options": [
             "Pentru că nu există alte genuri",
-            "Pentru că majoritatea pieselor de mobilier (pat, dulap, scaun, birou, covor) sunt substantive neutre și își schimbă terminațiile la plural (#ScienceOfLearning)",
+            "Pentru că majoritatea pieselor de mobilier (pat, dulap, scaun, birou, covor) sunt substantive neutre și își schimbă terminațiile la plural",
             "Nu are importanță",
             "Doar pentru poezie"
           ],
@@ -7593,10 +7593,10 @@
         {
           "prompt": "Cum se spune expresia idiomatică 'to vacuum' în limba română?",
           "options": [
-            "A da cu aspiratorul (47.1)",
-            "A găti mâncare (47.2)",
-            "A picta podeaua (47.3)",
-            "A rupe covorul (47.4)"
+            "A da cu aspiratorul",
+            "A găti mâncare",
+            "A picta podeaua",
+            "A rupe covorul"
           ],
           "answerIndex": 0,
           "explanation": "'A da cu aspiratorul' is the standard Romanian idiom for vacuuming."
@@ -7619,10 +7619,10 @@
         {
           "prompt": "Tradu în română: 'I wash the dishes after lunch and take out the trash.'",
           "options": [
-            "Dorm după prânz. (47.1)",
-            "Spăl vasele după prânz și duc gunoiul. (47.2)",
-            "Cumpăr o mașină nouă. (47.3)",
-            "Merg la plajă imediat. (47.4)"
+            "Dorm după prânz.",
+            "Spăl vasele după prânz și duc gunoiul.",
+            "Cumpăr o mașină nouă.",
+            "Merg la plajă imediat."
           ],
           "answerIndex": 1,
           "explanation": "Spăl vasele (wash dishes) + duc gunoiul (take out trash)."
@@ -7632,7 +7632,7 @@
           "options": [
             "dulapul",
             "frigiderul",
-            "patul (făcutul patului)",
+            "patul",
             "aragazul"
           ],
           "answerIndex": 2,
@@ -7658,7 +7658,7 @@
           "prompt": "Ce este 'curățenia generală' în cultura casnică din România?",
           "options": [
             "O vizită la muzeu",
-            "O curățenie temeinică și profundă a întregii locuințe în weekend sau înainte de sărbători (#ScienceOfLearning)",
+            "O curățenie temeinică și profundă a întregii locuințe în weekend sau înainte de sărbători",
             "O renovare completă a clădirii",
             "O petrecere de seară"
           ],
@@ -7728,10 +7728,10 @@
         {
           "prompt": "Care este terminația imperfectului pentru 'tu' la verbele de conjugarea I (a lucra)?",
           "options": [
-            "-am (48.1)",
-            "-a (48.2)",
-            "-ai (tu lucrai, tu jucai) (48.3)",
-            "-au (48.4)"
+            "-am",
+            "-a",
+            "-ai",
+            "-au"
           ],
           "answerIndex": 2,
           "explanation": "2nd person singular 'tu' takes -ai: tu lucrai."
@@ -7742,7 +7742,7 @@
             "O acțiune viitoare",
             "O acțiune terminată într-un singur moment precis",
             "Un ordin imperativ",
-            "O acțiune trecută continuă, repetată sau o stare de fundal în copilărie (#ScienceOfLearning)"
+            "O acțiune trecută continuă, repetată sau o stare de fundal în copilărie"
           ],
           "answerIndex": 3,
           "explanation": "The imperfect expresses continuous, repeated, and background past actions."
@@ -7754,10 +7754,10 @@
         {
           "prompt": "Tradu: 'In the past, we used to live in a quiet neighborhood.'",
           "options": [
-            "În trecut, locuiam într-un cartier liniștit. (48.1)",
-            "Locuim într-un cartier zgomotos acum. (48.2)",
-            "Am locuit o secundă ieri. (48.3)",
-            "Vom locui la mare mâine. (48.4)"
+            "În trecut, locuiam într-un cartier liniștit.",
+            "Locuim într-un cartier zgomotos acum.",
+            "Am locuit o secundă ieri.",
+            "Vom locui la mare mâine."
           ],
           "answerIndex": 0,
           "explanation": "Locuiam expresses past continuous residence."
@@ -7792,7 +7792,7 @@
         {
           "prompt": "Care este diferența dintre 'Ieri am jucat fotbal' (Perfect Compus) și 'În copilărie jucam fotbal în fiecare zi' (Imperfect)?",
           "options": [
-            "'Am jucat' este un eveniment punctual finalizat; 'jucam' descrie o rutină obișnuită, repetată în trecut (#ScienceOfLearning)",
+            "'Am jucat' este un eveniment punctual finalizat; 'jucam' descrie o rutină obișnuită, repetată în trecut",
             "'Jucam' este o comandă",
             "'Am jucat' este viitor și 'jucam' este prezent",
             "Nu există nicio diferență"
@@ -7816,7 +7816,7 @@
         {
           "prompt": "Adevărat sau fals: În limba română, formele de 'eu' și 'noi' la imperfect sunt identice (eu locuiam / noi locuiam).",
           "options": [
-            "Adevărat (ambele se termină în -am)",
+            "Adevărat",
             "Fals"
           ],
           "answerIndex": 0,
@@ -7861,10 +7861,10 @@
         {
           "prompt": "Care este forma verbului 'a fi' pentru 'el/ea' la timpul imperfect?",
           "options": [
-            "Este (49.1)",
-            "Era (el era / ea era) (49.2)",
-            "Va fi (49.3)",
-            "A fost (49.4)"
+            "Este",
+            "Era",
+            "Va fi",
+            "A fost"
           ],
           "answerIndex": 1,
           "explanation": "A fi in imperfect 3rd person singular is 'era'."
@@ -7887,10 +7887,10 @@
         {
           "prompt": "Tradu: 'When I was young, I lived in Cluj and I was very happy.'",
           "options": [
-            "Când eram tânăr, locuiam în Cluj și eram foarte fericit. (49.1)",
-            "Am fost tânăr ieri. (49.2)",
-            "Când sunt tânăr, locuiesc în Cluj astăzi. (49.3)",
-            "Voi fi fericit mâine la Cluj. (49.4)"
+            "Când eram tânăr, locuiam în Cluj și eram foarte fericit.",
+            "Am fost tânăr ieri.",
+            "Când sunt tânăr, locuiesc în Cluj astăzi.",
+            "Voi fi fericit mâine la Cluj."
           ],
           "answerIndex": 0,
           "explanation": "'Eram' and 'locuiam' describe past state and continuous residence."
@@ -7939,7 +7939,7 @@
           "options": [
             "Nu are importanță specială",
             "Pentru că este singurul verb din limba română",
-            "Pentru că descrie vârsta, stările emoționale, profesiile și descrierea cadrului în amintirile din trecut (#ScienceOfLearning)",
+            "Pentru că descrie vârsta, stările emoționale, profesiile și descrierea cadrului în amintirile din trecut",
             "Pentru că înlocuiește viitorul"
           ],
           "answerIndex": 2,
@@ -7996,10 +7996,10 @@
         {
           "prompt": "În textul integrat, unde locuia familia naratorului în copilărie?",
           "options": [
-            "Într-o casă tradițională la țară, în Maramureș, cu curte mare și pomi fructiferi (50.1)",
-            "Într-un bloc la etajul 10 (50.2)",
-            "Într-un hotel din Londra (50.3)",
-            "Într-un cort pe munte (50.4)"
+            "Într-o casă tradițională la țară, în Maramureș, cu curte mare și pomi fructiferi",
+            "Într-un bloc la etajul 10",
+            "Într-un hotel din Londra",
+            "Într-un cort pe munte"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'locuiam cu părinții și bunicii într-o casă tradițională la țară, în Maramureș. Aveam o curte mare'."
@@ -8007,7 +8007,7 @@
         {
           "prompt": "Ce expresie călduroasă de ospitalitate folosesc românii pentru a invita oaspeții să se simtă confortabil?",
           "options": [
-            "Simțiți-vă ca acasă! (sau Simte-te ca acasă!)",
+            "Simțiți-vă ca acasă!",
             "Rămâneți afară!",
             "Plătiți biletul!",
             "Plecați repede!"
@@ -8022,10 +8022,10 @@
         {
           "prompt": "Tradu: 'Before, we used to live in a quiet village and we had a large garden.'",
           "options": [
-            "Vom cumpăra un sat mâine. (50.1)",
-            "Înainte, locuiam într-un sat liniștit și aveam o grădină mare. (50.2)",
-            "Am locuit ieri la hotel. (50.3)",
-            "Locuim într-un oraș mare astăzi. (50.4)"
+            "Vom cumpăra un sat mâine.",
+            "Înainte, locuiam într-un sat liniștit și aveam o grădină mare.",
+            "Am locuit ieri la hotel.",
+            "Locuim într-un oraș mare astăzi."
           ],
           "answerIndex": 1,
           "explanation": "Locuiam and aveam in imperfect describe past continuous village living."
@@ -8062,7 +8062,7 @@
           "options": [
             "grădina",
             "pădurea",
-            "țara (sau casa)",
+            "țara",
             "școala"
           ],
           "answerIndex": 2,
@@ -8073,7 +8073,7 @@
           "prompt": "De ce stăpânirea imperfectului reprezintă saltul calitativ către nivelul intermediar (A2/B1) în limba română?",
           "options": [
             "Deoarece elimină nevoia de substantive",
-            "Deoarece permite trecerea de la propoziții simple și rigide la povestiri fluide, bogate în detalii descriptive și nuanțe emoționale despre trecut (#ScienceOfLearning)",
+            "Deoarece permite trecerea de la propoziții simple și rigide la povestiri fluide, bogate în detalii descriptive și nuanțe emoționale despre trecut",
             "Nu are nicio importanță",
             "Doar pentru a citi ziare vechi"
           ],
@@ -8129,10 +8129,10 @@
         {
           "prompt": "Care este cuvântul românesc pentru \"stomach / belly\"?",
           "options": [
-            "Piciorul (51.1)",
-            "Brațul (51.2)",
-            "Urechea (51.3)",
-            "Burta / Stomacul (51.4)"
+            "Piciorul",
+            "Brațul",
+            "Urechea",
+            "Burta / Stomacul"
           ],
           "answerIndex": 3,
           "explanation": "Burta / Stomacul refers to the belly/stomach."
@@ -8144,10 +8144,10 @@
         {
           "prompt": "Traduceți: \"My knees hurt\"",
           "options": [
-            "Spăl genunchii (51.1)",
-            "Am genunchi mari (51.2)",
-            "Genunchii aleargă (51.3)",
-            "Mă dor genunchii (51.4)"
+            "Spăl genunchii",
+            "Am genunchi mari",
+            "Genunchii aleargă",
+            "Mă dor genunchii"
           ],
           "answerIndex": 3,
           "explanation": "Mă dor genunchii means my knees hurt."
@@ -8212,10 +8212,10 @@
         {
           "prompt": "Alegeți forma corectă: \"Pe Ion îl ______ dinții.\"",
           "options": [
-            "dor (Plural) (52.1)",
-            "are (52.2)",
-            "doare (52.3)",
-            "dureros (52.4)"
+            "dor",
+            "are",
+            "doare",
+            "dureros"
           ],
           "answerIndex": 0,
           "explanation": "Dinții is plural, so \"îl dor\" is required."
@@ -8227,10 +8227,10 @@
         {
           "prompt": "Ce îi urezi unui prieten care este răcit?",
           "options": [
-            "Multă sănătate și însănătoșire grabnică! (52.1)",
-            "Poftă bună! (52.2)",
-            "La mulți ani! (52.3)",
-            "Drum bun! (52.4)"
+            "Multă sănătate și însănătoșire grabnică!",
+            "Poftă bună!",
+            "La mulți ani!",
+            "Drum bun!"
           ],
           "answerIndex": 0,
           "explanation": "Însănătoșire grabnică means speedy recovery."
@@ -8294,10 +8294,10 @@
         {
           "prompt": "Ce înseamnă \"de trei ori pe zi după masă\"?",
           "options": [
-            "Once every three days (53.1)",
-            "Three pills at breakfast (53.2)",
-            "Three times daily after meals (53.3)",
-            "Before dinner only (53.4)"
+            "Once every three days",
+            "Three pills at breakfast",
+            "Three times daily after meals",
+            "Before dinner only"
           ],
           "answerIndex": 2,
           "explanation": "De trei ori pe zi după masă means three times daily after meals."
@@ -8309,10 +8309,10 @@
         {
           "prompt": "Ce document oficial de la medic este necesar pentru antibiotice?",
           "options": [
-            "Rețeta medicală (rețetă de la medic) (53.1)",
-            "Biletul de autobuz (53.2)",
-            "Meniul zilei (53.3)",
-            "Bonul de cumpărături (53.4)"
+            "Rețeta medicală",
+            "Biletul de autobuz",
+            "Meniul zilei",
+            "Bonul de cumpărături"
           ],
           "answerIndex": 0,
           "explanation": "Rețeta medicală is the mandatory medical prescription."
@@ -8376,10 +8376,10 @@
         {
           "prompt": "Ce ceai tradițional este celebru în România pentru calmarea răcelii și relaxare?",
           "options": [
-            "Cafeaua foarte tare (54.1)",
-            "Ceaiul de tei sau de mușețel (54.2)",
-            "Uleiul de motor (54.3)",
-            "Sucul carbogazos (54.4)"
+            "Cafeaua foarte tare",
+            "Ceaiul de tei sau de mușețel",
+            "Uleiul de motor",
+            "Sucul carbogazos"
           ],
           "answerIndex": 1,
           "explanation": "Ceaiul de tei și mușețel are traditional Romanian soothing remedies."
@@ -8391,10 +8391,10 @@
         {
           "prompt": "Completați proverbul: \"Sănătatea e mai bună decât ______.\"",
           "options": [
-            "toate (decât orice bogăție) (54.1)",
-            "mașina (54.2)",
-            "nimic (54.3)",
-            "somnul (54.4)"
+            "toate",
+            "mașina",
+            "nimic",
+            "somnul"
           ],
           "answerIndex": 0,
           "explanation": "Sănătatea e mai bună decât toate is the classic Romanian proverb."
@@ -8458,10 +8458,10 @@
         {
           "prompt": "Ce înseamnă \"concediu medical\" eliberat de doctor?",
           "options": [
-            "Certificat medical oficial pentru motivarea absenței de la serviciu din motive de sănătate (55.1)",
-            "O vacanță la mare (55.2)",
-            "O diplomă de facultate (55.3)",
-            "Un permis de conducere (55.4)"
+            "Certificat medical oficial pentru motivarea absenței de la serviciu din motive de sănătate",
+            "O vacanță la mare",
+            "O diplomă de facultate",
+            "Un permis de conducere"
           ],
           "answerIndex": 0,
           "explanation": "Concediu medical is official medical sick leave."
@@ -8473,10 +8473,10 @@
         {
           "prompt": "Ce vă cere medicul când spune: \"Respirați adânc pe gură\"?",
           "options": [
-            "Close your ears (55.1)",
-            "Breathe deeply through your mouth for lung examination (55.2)",
-            "Stand up and run (55.3)",
-            "Drink cold water (55.4)"
+            "Close your ears",
+            "Breathe deeply through your mouth for lung examination",
+            "Stand up and run",
+            "Drink cold water"
           ],
           "answerIndex": 1,
           "explanation": "Respirați adânc instructs deep breathing for auscultation."
@@ -8540,10 +8540,10 @@
         {
           "prompt": "Cum se spune \"I work as a software engineer\" în limba română?",
           "options": [
-            "Sunt software (56.1)",
-            "Cumpăr calculatoare (56.2)",
-            "Dorm la birou (56.3)",
-            "Lucrez ca inginer software (56.4)"
+            "Sunt software",
+            "Cumpăr calculatoare",
+            "Dorm la birou",
+            "Lucrez ca inginer software"
           ],
           "answerIndex": 3,
           "explanation": "Lucrez ca inginer software is exact."
@@ -8555,10 +8555,10 @@
         {
           "prompt": "Ce face un \"contabil\"?",
           "options": [
-            "Conduce un autobuz (56.1)",
-            "Pictează pereți (56.2)",
-            "Gătește la restaurant (56.3)",
-            "Gestionează evidența financiară și bilanțul contabil al firmei (56.4)"
+            "Conduce un autobuz",
+            "Pictează pereți",
+            "Gătește la restaurant",
+            "Gestionează evidența financiară și bilanțul contabil al firmei"
           ],
           "answerIndex": 3,
           "explanation": "Contabilul manages accounting."
@@ -8622,10 +8622,10 @@
         {
           "prompt": "Ce înseamnă \"telemuncă\" sau \"muncă de acasă\"?",
           "options": [
-            "Munca la distanță prin intermediul calculatorului și al internetului (57.1)",
-            "Închiderea fabricii (57.2)",
-            "Munca pe câmp (57.3)",
-            "Vacanță fără lucru (57.4)"
+            "Munca la distanță prin intermediul calculatorului și al internetului",
+            "Închiderea fabricii",
+            "Munca pe câmp",
+            "Vacanță fără lucru"
           ],
           "answerIndex": 0,
           "explanation": "Remote work / telemuncă."
@@ -8637,10 +8637,10 @@
         {
           "prompt": "Ce înseamnă \"a respecta termenul limită\"?",
           "options": [
-            "To meet the deadline on time (57.1)",
-            "To miss the deadline (57.2)",
-            "To cancel the project (57.3)",
-            "To lose files (57.4)"
+            "To meet the deadline on time",
+            "To miss the deadline",
+            "To cancel the project",
+            "To lose files"
           ],
           "answerIndex": 0,
           "explanation": "A respecta termenul limită means meeting deadline."
@@ -8652,7 +8652,7 @@
         {
           "prompt": "Ce băutură se consumă în mod tradițional la birou în timpul pauzelor de dimineață?",
           "options": [
-            "Cafeaua caldă (espresso sau cappuccino)",
+            "Cafeaua caldă",
             "Apă cu oțet",
             "Suc de ceapă",
             "Ulei fierbinte"
@@ -8704,10 +8704,10 @@
         {
           "prompt": "Cum avertizezi un coleg pe Teams sau Zoom că are microfonul oprit?",
           "options": [
-            "Nu ai ecran. (58.1)",
-            "Închide laptopul. (58.2)",
-            "Ești pe mut! Pornește microfonul. (58.3)",
-            "Stinge lumina. (58.4)"
+            "Nu ai ecran.",
+            "Închide laptopul.",
+            "Ești pe mut! Pornește microfonul.",
+            "Stinge lumina."
           ],
           "answerIndex": 2,
           "explanation": "Ești pe mut is standard."
@@ -8719,10 +8719,10 @@
         {
           "prompt": "Ce înseamnă \"partajarea ecranului\"?",
           "options": [
-            "Afișarea ecranului propriu pentru ceilalți participanți la apel (58.1)",
-            "Ștergerea monitorului cu o cârpă (58.2)",
-            "Oprirea internetului (58.3)",
-            "Cumpărarea unui nou mouse (58.4)"
+            "Afișarea ecranului propriu pentru ceilalți participanți la apel",
+            "Ștergerea monitorului cu o cârpă",
+            "Oprirea internetului",
+            "Cumpărarea unui nou mouse"
           ],
           "answerIndex": 0,
           "explanation": "Partajarea ecranului is screen sharing."
@@ -8786,10 +8786,10 @@
         {
           "prompt": "Care este formula de încheiere formală standard într-un e-mail de afaceri în România?",
           "options": [
-            "Ne vedem la club (59.1)",
-            "Cu stimă, / Cu respect, (59.2)",
-            "Pa prietene (59.3)",
-            "Pa pa! (59.4)"
+            "Ne vedem la club",
+            "Cu stimă, / Cu respect,",
+            "Pa prietene",
+            "Pa pa!"
           ],
           "answerIndex": 1,
           "explanation": "Cu stimă is the standard closing."
@@ -8801,10 +8801,10 @@
         {
           "prompt": "Cum menționați formal că trimiteți un document inclus în mesaj?",
           "options": [
-            "Vă transmit în atașament documentul solicitat. (59.1)",
-            "Căutați pe internet. (59.2)",
-            "Nu am niciun fișier. (59.3)",
-            "Fișierul a dispărut. (59.4)"
+            "Vă transmit în atașament documentul solicitat.",
+            "Căutați pe internet.",
+            "Nu am niciun fișier.",
+            "Fișierul a dispărut."
           ],
           "answerIndex": 0,
           "explanation": "În atașament indicates email attachments."
@@ -8868,10 +8868,10 @@
         {
           "prompt": "Ce înseamnă \"așteptări salariale\" la un interviu de angajare?",
           "options": [
-            "Salariul pe care candidatul dorește să îl primească pentru postul respectiv (60.1)",
-            "Prețul biletului de tren (60.2)",
-            "Costul chiriei (60.3)",
-            "Impozitele firmei (60.4)"
+            "Salariul pe care candidatul dorește să îl primească pentru postul respectiv",
+            "Prețul biletului de tren",
+            "Costul chiriei",
+            "Impozitele firmei"
           ],
           "answerIndex": 0,
           "explanation": "Așteptări salariale is desired compensation."
@@ -8883,10 +8883,10 @@
         {
           "prompt": "Cum evidențiați abilitatea de a colabora eficient cu colegii?",
           "options": [
-            "Lucrez doar dacă sunt forțat. (60.1)",
-            "Am spirit de echipă și abilități excelente de comunicare. (60.2)",
-            "Nu mă interesează proiectul. (60.3)",
-            "Nu vorbesc niciodată cu colegii. (60.4)"
+            "Lucrez doar dacă sunt forțat.",
+            "Am spirit de echipă și abilități excelente de comunicare.",
+            "Nu mă interesează proiectul.",
+            "Nu vorbesc niciodată cu colegii."
           ],
           "answerIndex": 1,
           "explanation": "Teamwork competency highlight."
@@ -8950,10 +8950,10 @@
         {
           "prompt": "Cum spui în română că ești foarte pasionat de natură și munte?",
           "options": [
-            "Nu-mi place muntele (61.1)",
-            "Stau doar în casă (61.2)",
-            "Am pierdut rucsacul (61.3)",
-            "Sunt pasionat de drumețiile montane și natură (61.4)"
+            "Nu-mi place muntele",
+            "Stau doar în casă",
+            "Am pierdut rucsacul",
+            "Sunt pasionat de drumețiile montane și natură"
           ],
           "answerIndex": 3,
           "explanation": "Sunt pasionat de drumeții is exact."
@@ -8965,10 +8965,10 @@
         {
           "prompt": "Care este cel mai celebru instrument muzical tradițional românesc de suflat din trestie?",
           "options": [
-            "Trompeta (61.1)",
-            "Toba mare (61.2)",
-            "Harpa (61.3)",
-            "Naiul românesc (pan flute) (61.4)"
+            "Trompeta",
+            "Toba mare",
+            "Harpa",
+            "Naiul românesc"
           ],
           "answerIndex": 3,
           "explanation": "Naiul."
@@ -9032,10 +9032,10 @@
         {
           "prompt": "Cine a fost prima gimnastă din istoria Jocurilor Olimpice care a obținut nota 10.00 perfect?",
           "options": [
-            "Nadia Comăneci (Montreal 1976) (62.1)",
-            "Gabriela Szabo (62.2)",
-            "Simona Halep (62.3)",
-            "Elisabeta Lipă (62.4)"
+            "Nadia Comăneci",
+            "Gabriela Szabo",
+            "Simona Halep",
+            "Elisabeta Lipă"
           ],
           "answerIndex": 0,
           "explanation": "Nadia Comăneci."
@@ -9047,10 +9047,10 @@
         {
           "prompt": "Cum este supranumit legendarul fotbalist român Gheorghe Hagi?",
           "options": [
-            "„Regele” fotbalului românesc (62.1)",
-            "Profesorul (62.2)",
-            "Căpitanul (62.3)",
-            "Cavalerul (62.4)"
+            "„Regele” fotbalului românesc",
+            "Profesorul",
+            "Căpitanul",
+            "Cavalerul"
           ],
           "answerIndex": 0,
           "explanation": "Gheorghe Hagi este „Regele”."
@@ -9114,10 +9114,10 @@
         {
           "prompt": "Care este cel mai mare festival de muzică electronică din România, desfășurat anual la Cluj-Napoca?",
           "options": [
-            "Festivalul Enescu (63.1)",
-            "Oktoberfest (63.2)",
-            "UNTOLD Festival (63.3)",
-            "Carnavalul de la Rio (63.4)"
+            "Festivalul Enescu",
+            "Oktoberfest",
+            "UNTOLD Festival",
+            "Carnavalul de la Rio"
           ],
           "answerIndex": 2,
           "explanation": "UNTOLD Festival."
@@ -9129,10 +9129,10 @@
         {
           "prompt": "Cine a creat capodopera sculpturală „Coloana Infinitului” la Târgu Jiu?",
           "options": [
-            "Constantin Brâncuși (63.1)",
-            "Nicolae Grigorescu (63.2)",
-            "Mihai Eminescu (63.3)",
-            "George Enescu (63.4)"
+            "Constantin Brâncuși",
+            "Nicolae Grigorescu",
+            "Mihai Eminescu",
+            "George Enescu"
           ],
           "answerIndex": 0,
           "explanation": "Constantin Brâncuși."
@@ -9196,10 +9196,10 @@
         {
           "prompt": "Ce înseamnă expresia colocvială românească „Mă bag!” când ești invitat la un eveniment?",
           "options": [
-            "Nu vin deloc (64.1)",
-            "Sunt de acord! / Mă alătur cu drag! / I'm in! (64.2)",
-            "Sunt supărat (64.3)",
-            "Vreau să dorm (64.4)"
+            "Nu vin deloc",
+            "Sunt de acord! / Mă alătur cu drag! / I'm in!",
+            "Sunt supărat",
+            "Vreau să dorm"
           ],
           "answerIndex": 1,
           "explanation": "Mă bag! means I'm in."
@@ -9211,10 +9211,10 @@
         {
           "prompt": "Cum întrebi colocvial un prieten dacă are dispoziție să iasă în oraș?",
           "options": [
-            "Ai chef să ieșim diseară în oraș? (64.1)",
-            "Ești obligat să vii (64.2)",
-            "Nu ieși niciodată (64.3)",
-            "Trebuie să pleci imediat (64.4)"
+            "Ai chef să ieșim diseară în oraș?",
+            "Ești obligat să vii",
+            "Nu ieși niciodată",
+            "Trebuie să pleci imediat"
           ],
           "answerIndex": 0,
           "explanation": "Ai chef să...? is standard."
@@ -9227,7 +9227,7 @@
           "prompt": "Care este cartierul istoric pietonal din București renumit pentru cafenele și terase?",
           "options": [
             "Militari",
-            "Centrul Vechi (Lipscani)",
+            "Centrul Vechi",
             "Berceni",
             "Pipera"
           ],
@@ -9278,10 +9278,10 @@
         {
           "prompt": "Ce film românesc regizat de Cristian Mungiu a câștigat prestigiosul trofeu Palme d'Or la Cannes în 2007?",
           "options": [
-            "4 luni, 3 săptămâni și 2 zile (65.1)",
-            "Moartea domnului Lăzărescu (65.2)",
-            "Aferim! (65.3)",
-            "Poziția copilului (65.4)"
+            "4 luni, 3 săptămâni și 2 zile",
+            "Moartea domnului Lăzărescu",
+            "Aferim!",
+            "Poziția copilului"
           ],
           "answerIndex": 0,
           "explanation": "4 luni, 3 săptămâni și 2 zile."
@@ -9293,10 +9293,10 @@
         {
           "prompt": "Ce înseamnă sintagma „o capodoperă de neratat” într-o recenzie?",
           "options": [
-            "O piesă anulată (65.1)",
-            "O carte fără text (65.2)",
-            "O lucrare artistică de excepție pe care nimeni nu ar trebui să o rateze (65.3)",
-            "Un film foarte plictisitor (65.4)"
+            "O piesă anulată",
+            "O carte fără text",
+            "O lucrare artistică de excepție pe care nimeni nu ar trebui să o rateze",
+            "Un film foarte plictisitor"
           ],
           "answerIndex": 2,
           "explanation": "Capodoperă de neratat means unmissable masterpiece."
@@ -9360,10 +9360,10 @@
         {
           "prompt": "Cum se numește documentul care vă permite să urcați la bordul avionului?",
           "options": [
-            "Permisul de pescuit (66.1)",
-            "Factura de gaz (66.2)",
-            "Biletul de tramvai (66.3)",
-            "Cartea / permisul de îmbarcare (66.4)"
+            "Permisul de pescuit",
+            "Factura de gaz",
+            "Biletul de tramvai",
+            "Cartea / permisul de îmbarcare"
           ],
           "answerIndex": 3,
           "explanation": "Cartea de îmbarcare is boarding pass."
@@ -9375,10 +9375,10 @@
         {
           "prompt": "Traduceți: \"The flight to London is delayed by 30 minutes.\"",
           "options": [
-            "Avionul a decolat la timp. (66.1)",
-            "Nu există zboruri spre Londra. (66.2)",
-            "Aeroportul este închis. (66.3)",
-            "Zborul spre Londra are o întârziere de treizeci de minute. (66.4)"
+            "Avionul a decolat la timp.",
+            "Nu există zboruri spre Londra.",
+            "Aeroportul este închis.",
+            "Zborul spre Londra are o întârziere de treizeci de minute."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -9393,7 +9393,7 @@
             "În cabina pilotului",
             "La biroul de check-in",
             "Pe pista de aterizare",
-            "În sala de preluare a bagajelor (pe banda de bagaje)"
+            "În sala de preluare a bagajelor"
           ],
           "answerIndex": 3,
           "explanation": "Baggage claim.",
@@ -9442,10 +9442,10 @@
         {
           "prompt": "Cum întrebați la recepție dacă micul dejun este inclus?",
           "options": [
-            "Micul dejun este inclus în prețul camerei? (67.1)",
-            "Cât costă patul? (67.2)",
-            "Nu vreau să mănânc (67.3)",
-            "Restaurantul e închis (67.4)"
+            "Micul dejun este inclus în prețul camerei?",
+            "Cât costă patul?",
+            "Nu vreau să mănânc",
+            "Restaurantul e închis"
           ],
           "answerIndex": 0,
           "explanation": "Micul dejun este inclus... is standard."
@@ -9457,10 +9457,10 @@
         {
           "prompt": "Ce tip de cazare rurală autentică este renumit în Maramureș și Transilvania?",
           "options": [
-            "Pensiunea agroturistică tradițională (67.1)",
-            "Un zgârie-nori de sticlă (67.2)",
-            "O cazarmă militară (67.3)",
-            "O fabrică (67.4)"
+            "Pensiunea agroturistică tradițională",
+            "Un zgârie-nori de sticlă",
+            "O cazarmă militară",
+            "O fabrică"
           ],
           "answerIndex": 0,
           "explanation": "Pensiune agroturistică."
@@ -9524,10 +9524,10 @@
         {
           "prompt": "Care este cea mai mare și importantă gară feroviară din București?",
           "options": [
-            "Gara Obor (68.1)",
-            "Gara Basarab (68.2)",
-            "Gara de Nord (68.3)",
-            "Gara de Est (68.4)"
+            "Gara Obor",
+            "Gara Basarab",
+            "Gara de Nord",
+            "Gara de Est"
           ],
           "answerIndex": 2,
           "explanation": "Gara de Nord."
@@ -9539,10 +9539,10 @@
         {
           "prompt": "Cum cereți la casa de bilete un bilet dus-întors?",
           "options": [
-            "Aș dori un bilet dus-întors pentru Brașov, vă rog. (68.1)",
-            "Vreau un bilet doar dus (68.2)",
-            "Gara este închisă (68.3)",
-            "Nu vreau să merg cu trenul (68.4)"
+            "Aș dori un bilet dus-întors pentru Brașov, vă rog.",
+            "Vreau un bilet doar dus",
+            "Gara este închisă",
+            "Nu vreau să merg cu trenul"
           ],
           "answerIndex": 0,
           "explanation": "Bilet dus-întors is round-trip."
@@ -9555,7 +9555,7 @@
           "prompt": "Ce categorie de tren CFR este utilizată pentru călătorii rapide pe distanțe lungi între marile orașe?",
           "options": [
             "Metrou subteran",
-            "InterRegio (IR) / InterCity (IC)",
+            "InterRegio (IR) / InterCity",
             "Drezină manuală",
             "Tren marfar"
           ],
@@ -9606,10 +9606,10 @@
         {
           "prompt": "Cum se numește taxa obligatorie de drum pentru circulația pe rețeaua rutieră din România?",
           "options": [
-            "Bonul fiscal (69.1)",
-            "Rovinieta (69.2)",
-            "Tichetul de parcare (69.3)",
-            "Biletul de autobuz (69.4)"
+            "Bonul fiscal",
+            "Rovinieta",
+            "Tichetul de parcare",
+            "Biletul de autobuz"
           ],
           "answerIndex": 1,
           "explanation": "Rovinieta."
@@ -9621,10 +9621,10 @@
         {
           "prompt": "Care este spectaculoasa șosea montană din România considerată una dintre cele mai frumoase din lume?",
           "options": [
-            "Transfăgărășanul (și Transalpina) (69.1)",
-            "Calea Victoriei (69.2)",
-            "Bulevardul Unirii (69.3)",
-            "Autostrada A1 (69.4)"
+            "Transfăgărășanul",
+            "Calea Victoriei",
+            "Bulevardul Unirii",
+            "Autostrada A1"
           ],
           "answerIndex": 0,
           "explanation": "Transfăgărășanul."
@@ -9688,10 +9688,10 @@
         {
           "prompt": "Ce formular trebuie completat la aeroport dacă bagajul de cală nu sosește la destinație?",
           "options": [
-            "Raportul de neregularitate a bagajului (PIR) (70.1)",
-            "Un contract de muncă (70.2)",
-            "Un bilet de loterie (70.3)",
-            "O diplomă de absolvire (70.4)"
+            "Raportul de neregularitate a bagajului",
+            "Un contract de muncă",
+            "Un bilet de loterie",
+            "O diplomă de absolvire"
           ],
           "answerIndex": 0,
           "explanation": "PIR (Property Irregularity Report)."
@@ -9703,10 +9703,10 @@
         {
           "prompt": "Ce drepturi au pasagerii în caz de întârziere majoră a zborului în Uniunea Europeană?",
           "options": [
-            "Să plătească o taxă (70.1)",
-            "Doar un pahar cu apă (70.2)",
-            "Dreptul la asistență gratuită (masă, cazare) și despăgubiri financiare conform CE 261/2004 (70.3)",
-            "Niciun drept (70.4)"
+            "Să plătească o taxă",
+            "Doar un pahar cu apă",
+            "Dreptul la asistență gratuită (masă, cazare) și despăgubiri financiare conform CE 261/2004",
+            "Niciun drept"
           ],
           "answerIndex": 2,
           "explanation": "EU passenger rights CE 261/2004."
@@ -9721,7 +9721,7 @@
             "Inspectoratul Școlar",
             "Ministerul Agriculturii",
             "Banca Națională",
-            "ANPC (Autoritatea Națională pentru Protecția Consumatorilor)"
+            "ANPC"
           ],
           "answerIndex": 3,
           "explanation": "ANPC.",
@@ -9770,10 +9770,10 @@
         {
           "prompt": "Cum se numesc colocvial pantofii sport / sneakers în limba română?",
           "options": [
-            "Cravate (71.1)",
-            "Pălării (71.2)",
-            "Mănuși (71.3)",
-            "Adidași (71.4)"
+            "Cravate",
+            "Pălării",
+            "Mănuși",
+            "Adidași"
           ],
           "answerIndex": 3,
           "explanation": "Adidași is colloquial for sneakers."
@@ -9785,10 +9785,10 @@
         {
           "prompt": "Cum întrebați politicos dacă există o mărime mai mare?",
           "options": [
-            "Haina este urâtă (71.1)",
-            "Nu vreau haine (71.2)",
-            "Magazinul s-a închis (71.3)",
-            "Aveți această haină într-o mărime mai mare? (71.4)"
+            "Haina este urâtă",
+            "Nu vreau haine",
+            "Magazinul s-a închis",
+            "Aveți această haină într-o mărime mai mare?"
           ],
           "answerIndex": 3,
           "explanation": "Aveți această haină într-o mărime mai mare? is standard."
@@ -9852,10 +9852,10 @@
         {
           "prompt": "Ce înseamnă expresia românească „Rochia îți vine turnată”?",
           "options": [
-            "Rochia are o croială impecabilă și se potrivește perfect pe corp (72.1)",
-            "Rochia este prea scumpă (72.2)",
-            "Rochia este pătată (72.3)",
-            "Rochia este ruptă (72.4)"
+            "Rochia are o croială impecabilă și se potrivește perfect pe corp",
+            "Rochia este prea scumpă",
+            "Rochia este pătată",
+            "Rochia este ruptă"
           ],
           "answerIndex": 0,
           "explanation": "Îți vine turnată means fits like a glove."
@@ -9867,10 +9867,10 @@
         {
           "prompt": "Unde probează clienții hainele înainte de cumpărare?",
           "options": [
-            "În cabina de probă (72.1)",
-            "La casa de marcat (72.2)",
-            "În vitrină (72.3)",
-            "Pe stradă (72.4)"
+            "În cabina de probă",
+            "La casa de marcat",
+            "În vitrină",
+            "Pe stradă"
           ],
           "answerIndex": 0,
           "explanation": "În cabina de probă."
@@ -9934,10 +9934,10 @@
         {
           "prompt": "Cum se numește documentul fiscal pe care îl primiți la casă după achitarea cumpărăturilor?",
           "options": [
-            "Permisul auto (73.1)",
-            "Bonul fiscal (chitanța / factura) (73.2)",
-            "Biletul de tren (73.3)",
-            "Cartea de identitate (73.4)"
+            "Permisul auto",
+            "Bonul fiscal",
+            "Biletul de tren",
+            "Cartea de identitate"
           ],
           "answerIndex": 1,
           "explanation": "Bonul fiscal."
@@ -9949,10 +9949,10 @@
         {
           "prompt": "Cum întreabă casierul despre modalitatea de plată?",
           "options": [
-            "„Plătiți cu cardul sau numerar?” (73.1)",
-            "„Unde mergeți?” (73.2)",
-            "„Aveți mașină?” (73.3)",
-            "„Cine sunteți?” (73.4)"
+            "„Plătiți cu cardul sau numerar?”",
+            "„Unde mergeți?”",
+            "„Aveți mașină?”",
+            "„Cine sunteți?”"
           ],
           "answerIndex": 0,
           "explanation": "„Plătiți cu cardul sau numerar?”"
@@ -9964,7 +9964,7 @@
         {
           "prompt": "Care este cel mai popular eveniment anual de reduceri masive de prețuri în România în luna noiembrie?",
           "options": [
-            "Black Friday (Vinerea Neagră)",
+            "Black Friday",
             "Ziua Muncii",
             "Festivalul Zăpezii",
             "Sărbătoarea Paștelui"
@@ -10016,10 +10016,10 @@
         {
           "prompt": "Care este cea mai mare și emblematică piață agroalimentară tradițională din București?",
           "options": [
-            "Piața Romană (74.1)",
-            "Piața Obor (74.2)",
-            "Piața Universității (74.3)",
-            "Piața Victoriei (74.4)"
+            "Piața Romană",
+            "Piața Obor",
+            "Piața Universității",
+            "Piața Victoriei"
           ],
           "answerIndex": 1,
           "explanation": "Piața Obor."
@@ -10031,10 +10031,10 @@
         {
           "prompt": "Ce fel de mâncare tradițională românească la grătar este celebră la terasele din Piața Obor?",
           "options": [
-            "Micii românești cu muștar și pâine (74.1)",
-            "Pizza congelată (74.2)",
-            "Tacos mexicani (74.3)",
-            "Sushi cu somon (74.4)"
+            "Micii românești cu muștar și pâine",
+            "Pizza congelată",
+            "Tacos mexicani",
+            "Sushi cu somon"
           ],
           "answerIndex": 0,
           "explanation": "Micii românești cu muștar."
@@ -10098,10 +10098,10 @@
         {
           "prompt": "Care este termenul legal minim garantat de lege în România pentru returnarea cumpărăturilor online fără penalități?",
           "options": [
-            "14 zile calendaristice (conform OUG 34/2014) (75.1)",
-            "Doar 1 oră (75.2)",
-            "5 ani (75.3)",
-            "Nu există drept de retur (75.4)"
+            "14 zile calendaristice",
+            "Doar 1 oră",
+            "5 ani",
+            "Nu există drept de retur"
           ],
           "answerIndex": 0,
           "explanation": "14 zile calendaristice."
@@ -10113,10 +10113,10 @@
         {
           "prompt": "Cum se numesc dulapurile electronice securizate stradale de unde poți ridica sau returna coletele non-stop?",
           "options": [
-            "Dulapuri de haine (75.1)",
-            "Cabine telefonice (75.2)",
-            "Easybox (lockere de livrare) (75.3)",
-            "Cutii poștale clasice (75.4)"
+            "Dulapuri de haine",
+            "Cabine telefonice",
+            "Easybox",
+            "Cutii poștale clasice"
           ],
           "answerIndex": 2,
           "explanation": "Easybox."
@@ -10181,10 +10181,10 @@
         {
           "prompt": "Ce înseamnă expresia românească „Plouă cu găleata”?",
           "options": [
-            "Ninge mărunt (76.1)",
-            "Este soare puternic (76.2)",
-            "Cade rouă (76.3)",
-            "Plouă torențial, foarte puternic și abundent (76.4)"
+            "Ninge mărunt",
+            "Este soare puternic",
+            "Cade rouă",
+            "Plouă torențial, foarte puternic și abundent"
           ],
           "answerIndex": 3,
           "explanation": "Plouă cu găleata means heavy pouring rain."
@@ -10196,10 +10196,10 @@
         {
           "prompt": "Cum se numește vântul rece și aspru din est care aduce viscol și ger cumplit în timpul iernii în România?",
           "options": [
-            "Breeze-ul (76.1)",
-            "Monsoonul (76.2)",
-            "Sirocco (76.3)",
-            "Crivățul (76.4)"
+            "Breeze-ul",
+            "Monsoonul",
+            "Sirocco",
+            "Crivățul"
           ],
           "answerIndex": 3,
           "explanation": "Crivățul."
@@ -10212,7 +10212,7 @@
           "prompt": "Cum se numește stratul subțire și periculos de gheață transparentă formată pe carosabil iarna?",
           "options": [
             "Bruma",
-            "Poleiul (Black ice)",
+            "Poleiul",
             "Roua",
             "Chiciura"
           ],
@@ -10263,10 +10263,10 @@
         {
           "prompt": "Ce simbol tradițional românesc cu șnur alb-roșu împletit se dăruiește la 1 Martie?",
           "options": [
-            "Mărțișorul (77.1)",
-            "Coliva (77.2)",
-            "Bradul de Crăciun (77.3)",
-            "Ouăle roșii (77.4)"
+            "Mărțișorul",
+            "Coliva",
+            "Bradul de Crăciun",
+            "Ouăle roșii"
           ],
           "answerIndex": 0,
           "explanation": "Mărțișorul (1 Martie)."
@@ -10278,10 +10278,10 @@
         {
           "prompt": "Care este cea mai renumită stațiune montană din România pentru sporturile de iarnă și schi?",
           "options": [
-            "Poiana Brașov (și Sinaia/Predeal) (77.1)",
-            "Mamaia (77.2)",
-            "Costinești (77.3)",
-            "Vama Veche (77.4)"
+            "Poiana Brașov",
+            "Mamaia",
+            "Costinești",
+            "Vama Veche"
           ],
           "answerIndex": 0,
           "explanation": "Poiana Brașov."
@@ -10345,10 +10345,10 @@
         {
           "prompt": "Care este delta fluviului Dunărea recunoscută ca Rezervație a Biosferei UNESCO în România?",
           "options": [
-            "Delta Nilului (78.1)",
-            "Delta Dunării (78.2)",
-            "Delta Amazonului (78.3)",
-            "Delta Rinului (78.4)"
+            "Delta Nilului",
+            "Delta Dunării",
+            "Delta Amazonului",
+            "Delta Rinului"
           ],
           "answerIndex": 1,
           "explanation": "Delta Dunării."
@@ -10360,10 +10360,10 @@
         {
           "prompt": "Ce peșteră din Munții Apuseni adăpostește unul dintre cei mai mari ghețari subterani din lume?",
           "options": [
-            "Peștera Scărișoara (78.1)",
-            "Peștera Muierilor (78.2)",
-            "Peștera Dâmbovicioara (78.3)",
-            "Peștera Urșilor (78.4)"
+            "Peștera Scărișoara",
+            "Peștera Muierilor",
+            "Peștera Dâmbovicioara",
+            "Peștera Urșilor"
           ],
           "answerIndex": 0,
           "explanation": "Peștera Scărișoara."
@@ -10427,10 +10427,10 @@
         {
           "prompt": "Care este sistemul național de avertizare a populației prin mesaje pe telefonul mobil în caz de urgență în România?",
           "options": [
-            "Email-ul (79.1)",
-            "Sistemul RO-ALERT (79.2)",
-            "Telegram (79.3)",
-            "WhatsApp (79.4)"
+            "Email-ul",
+            "Sistemul RO-ALERT",
+            "Telegram",
+            "WhatsApp"
           ],
           "answerIndex": 1,
           "explanation": "Sistemul RO-ALERT."
@@ -10442,10 +10442,10 @@
         {
           "prompt": "Care este codul meteo de culoare care indică fenomene de intensitate maximă și pericol extrem?",
           "options": [
-            "Codul Roșu (79.1)",
-            "Codul Verde (79.2)",
-            "Codul Albastru (79.3)",
-            "Codul Galben (79.4)"
+            "Codul Roșu",
+            "Codul Verde",
+            "Codul Albastru",
+            "Codul Galben"
           ],
           "answerIndex": 0,
           "explanation": "Codul Roșu."
@@ -10459,7 +10459,7 @@
           "options": [
             "CFR",
             "ANAF",
-            "ANM (Administrația Națională de Meteorologie)",
+            "ANM",
             "Poșta Română"
           ],
           "answerIndex": 2,
@@ -10509,10 +10509,10 @@
         {
           "prompt": "Cât este garanția returnabilă în bani pentru fiecare sticlă sau doză de băutură cu logo SGR în România?",
           "options": [
-            "50 de bani pe ambalaj (80.1)",
-            "10 lei (80.2)",
-            "Nu se returnează bani (80.3)",
-            "1 ban (80.4)"
+            "50 de bani pe ambalaj",
+            "10 lei",
+            "Nu se returnează bani",
+            "1 ban"
           ],
           "answerIndex": 0,
           "explanation": "50 de bani (SGR RetuRO)."
@@ -10524,10 +10524,10 @@
         {
           "prompt": "Care este uriașa hidrocentrală de pe fluviul Dunărea la granița cu Serbia care produce energie curată?",
           "options": [
-            "Vidraru (80.1)",
-            "Bicaz (80.2)",
-            "Lotru (80.3)",
-            "Hidrocentrala Porțile de Fier (I și II) (80.4)"
+            "Vidraru",
+            "Bicaz",
+            "Lotru",
+            "Hidrocentrala Porțile de Fier"
           ],
           "answerIndex": 3,
           "explanation": "Porțile de Fier."
@@ -10540,7 +10540,7 @@
           "prompt": "În ce regiune din sud-estul României este amplasat cel mai mare parc eolian pe uscat din Europa (Fântânele-Cogealac)?",
           "options": [
             "În Maramureș",
-            "În Dobrogea (județul Constanța)",
+            "În Dobrogea",
             "În Bucovina",
             "În Banat"
           ],
@@ -10591,10 +10591,10 @@
         {
           "prompt": "Cum spui corect în română că ai dureri la ambele picioare după o alergare lungă?",
           "options": [
-            "Mă doare piciorul (81.1)",
-            "Mă doare capul (81.2)",
-            "Mi-e foame (81.3)",
-            "Mă dor picioarele (81.4)"
+            "Mă doare piciorul",
+            "Mă doare capul",
+            "Mi-e foame",
+            "Mă dor picioarele"
           ],
           "answerIndex": 3,
           "explanation": "Mă dor picioarele (plural)."
@@ -10606,10 +10606,10 @@
         {
           "prompt": "Ce înseamnă expresia colocvială românească „Sunt răcit cobză”?",
           "options": [
-            "Știu să cânt la un instrument muzical (81.1)",
-            "Nu am nimic (81.2)",
-            "Merg la mare (81.3)",
-            "Sunt foarte răcit și am o răceală puternică (81.4)"
+            "Știu să cânt la un instrument muzical",
+            "Nu am nimic",
+            "Merg la mare",
+            "Sunt foarte răcit și am o răceală puternică"
           ],
           "answerIndex": 3,
           "explanation": "Răcit cobză = Badly cold."
@@ -10673,10 +10673,10 @@
         {
           "prompt": "Cum se numește folia cu instrucțiuni de utilizare, contraindicații și reacții adverse din cutia medicamentului?",
           "options": [
-            "Prospectul medicamentului (82.1)",
-            "Biletul de tren (82.2)",
-            "Ziarul local (82.3)",
-            "Chitanța fiscală (82.4)"
+            "Prospectul medicamentului",
+            "Biletul de tren",
+            "Ziarul local",
+            "Chitanța fiscală"
           ],
           "answerIndex": 0,
           "explanation": "Prospectul medicamentului."
@@ -10688,10 +10688,10 @@
         {
           "prompt": "Cum se numește farmacia care asigură permanența pe timpul nopții și în weekend?",
           "options": [
-            "Farmacia de gardă (sau farmacia non-stop) (82.1)",
-            "Farmacia închisă (82.2)",
-            "Magazinul alimentar (82.3)",
-            "Chioșcul de ziare (82.4)"
+            "Farmacia de gardă",
+            "Farmacia închisă",
+            "Magazinul alimentar",
+            "Chioșcul de ziare"
           ],
           "answerIndex": 0,
           "explanation": "Farmacia de gardă."
@@ -10706,7 +10706,7 @@
             "CFR",
             "Poșta Română",
             "ANAF",
-            "CNAS (Casa Națională de Asigurări de Sănătate)"
+            "CNAS"
           ],
           "answerIndex": 3,
           "explanation": "CNAS.",
@@ -10755,10 +10755,10 @@
         {
           "prompt": "Care este numărul unic gratuit pentru apelarea ambulanței și a echipajelor SMURD în România?",
           "options": [
-            "911 (83.1)",
-            "112 (83.2)",
-            "999 (83.3)",
-            "000 (83.4)"
+            "911",
+            "112",
+            "999",
+            "000"
           ],
           "answerIndex": 1,
           "explanation": "112."
@@ -10770,10 +10770,10 @@
         {
           "prompt": "Ce reprezintă acronimul SMURD în sistemul românesc de salvare medicală?",
           "options": [
-            "Serviciul Mobil de Urgență, Reanimare și Descarcerare (83.1)",
-            "Sindicatul Medicilor Români (83.2)",
-            "Stația de Mașini Urbane (83.3)",
-            "Societatea Medicală Urbană (83.4)"
+            "Serviciul Mobil de Urgență, Reanimare și Descarcerare",
+            "Sindicatul Medicilor Români",
+            "Stația de Mașini Urbane",
+            "Societatea Medicală Urbană"
           ],
           "answerIndex": 0,
           "explanation": "SMURD."
@@ -10787,7 +10787,7 @@
           "options": [
             "Arhiva medicală",
             "Ghișeul de bilete",
-            "UPU (Unitatea de Primiri Urgențe)",
+            "UPU",
             "Casieria spitalului"
           ],
           "answerIndex": 2,
@@ -10837,10 +10837,10 @@
         {
           "prompt": "Care este una dintre cele mai vechi stațiuni balneare din lume situată pe Valea Cernei în România, fondată de romani?",
           "options": [
-            "Sinaia doar pentru schi (84.1)",
-            "Băile Herculane (84.2)",
-            "București (84.3)",
-            "Costinești (84.4)"
+            "Sinaia doar pentru schi",
+            "Băile Herculane",
+            "București",
+            "Costinești"
           ],
           "answerIndex": 1,
           "explanation": "Băile Herculane."
@@ -10852,10 +10852,10 @@
         {
           "prompt": "Ce plantă medicinală este folosită tradițional în România sub formă de ceai pentru calmarea durerilor de stomac?",
           "options": [
-            "Mușețelul și menta (84.1)",
-            "Cafeaua neagră (84.2)",
-            "Sarea (84.3)",
-            "Ardeiul iute (84.4)"
+            "Mușețelul și menta",
+            "Cafeaua neagră",
+            "Sarea",
+            "Ardeiul iute"
           ],
           "answerIndex": 0,
           "explanation": "Mușețelul și menta."
@@ -10919,10 +10919,10 @@
         {
           "prompt": "Care savant de origine română a primit Premiul Nobel în 1974 pentru descoperirea ribozomilor și a structurii celulare?",
           "options": [
-            "George Emil Palade (85.1)",
-            "Henri Coandă (85.2)",
-            "Nicolae Iorga (85.3)",
-            "Traian Vuia (85.4)"
+            "George Emil Palade",
+            "Henri Coandă",
+            "Nicolae Iorga",
+            "Traian Vuia"
           ],
           "answerIndex": 0,
           "explanation": "George Emil Palade."
@@ -10934,10 +10934,10 @@
         {
           "prompt": "Care medic român a brevetat în 1921 „pancreina” (insulina), hormonul esențial pentru tratarea diabetului zaharat?",
           "options": [
-            "Victor Babeș (85.1)",
-            "Ion Cantacuzino (85.2)",
-            "Spiru Haret (85.3)",
-            "Nicolae Paulescu (85.4)"
+            "Victor Babeș",
+            "Ion Cantacuzino",
+            "Spiru Haret",
+            "Nicolae Paulescu"
           ],
           "answerIndex": 3,
           "explanation": "Nicolae Paulescu."
@@ -11001,10 +11001,10 @@
         {
           "prompt": "Cum se numește în România apartamentul compact compus dintr-o singură cameră, baie și bucătărie?",
           "options": [
-            "O vilă cu trei etaje (86.1)",
-            "Un conac (86.2)",
-            "Un castel (86.3)",
-            "O garsonieră (86.4)"
+            "O vilă cu trei etaje",
+            "Un conac",
+            "Un castel",
+            "O garsonieră"
           ],
           "answerIndex": 3,
           "explanation": "O garsonieră."
@@ -11016,10 +11016,10 @@
         {
           "prompt": "Unde se afișează în mod tradițional lista lunară de plată a întreținerii la intrarea în bloc?",
           "options": [
-            "Pe ușa liftului (86.1)",
-            "Pe gardul exterior (86.2)",
-            "În ziarul de dimineață (86.3)",
-            "La avizierul de la intrarea în scară (86.4)"
+            "Pe ușa liftului",
+            "Pe gardul exterior",
+            "În ziarul de dimineață",
+            "La avizierul de la intrarea în scară"
           ],
           "answerIndex": 3,
           "explanation": "La avizier."
@@ -11034,7 +11034,7 @@
             "La Poliția Rutieră",
             "La CFR",
             "La Ministerul Culturii",
-            "La ANAF (Agenția Națională de Administrare Fiscală)"
+            "La ANAF"
           ],
           "answerIndex": 3,
           "explanation": "La ANAF.",
@@ -11083,10 +11083,10 @@
         {
           "prompt": "Cum se numește procesul de izolare exterioară a fațadei blocurilor pentru a reduce pierderile de căldură iarna?",
           "options": [
-            "Reabilitare termică (anvelopare) (87.1)",
-            "Tăierea copacilor (87.2)",
-            "Demolare parțială (87.3)",
-            "Vopsire simplă (87.4)"
+            "Reabilitare termică",
+            "Tăierea copacilor",
+            "Demolare parțială",
+            "Vopsire simplă"
           ],
           "answerIndex": 0,
           "explanation": "Reabilitare termică (anvelopare)."
@@ -11098,10 +11098,10 @@
         {
           "prompt": "Care sunt intervalele orare standard de liniște stabilite prin lege în blocurile de locuințe din România?",
           "options": [
-            "13:00 - 14:00 și 22:00 - 08:00 (87.1)",
-            "10:00 - 11:00 doar (87.2)",
-            "Toată ziua fără pauză (87.3)",
-            "Nu există ore de liniște (87.4)"
+            "13:00 - 14:00 și 22:00 - 08:00",
+            "10:00 - 11:00 doar",
+            "Toată ziua fără pauză",
+            "Nu există ore de liniște"
           ],
           "answerIndex": 0,
           "explanation": "13:00-14:00 și 22:00-08:00."
@@ -11165,10 +11165,10 @@
         {
           "prompt": "Din ce regiune istorică a României provin celebrele porți monumentale sculptate în lemn de stejar cu motive solare?",
           "options": [
-            "Dobrogea (88.1)",
-            "Maramureș (88.2)",
-            "Banat (88.3)",
-            "Muntenia de câmpie (88.4)"
+            "Dobrogea",
+            "Maramureș",
+            "Banat",
+            "Muntenia de câmpie"
           ],
           "answerIndex": 1,
           "explanation": "Maramureș."
@@ -11180,10 +11180,10 @@
         {
           "prompt": "Cum se numesc locuințele boierești fortificate din Oltenia, construite pentru apărare împotriva atacurilor otomane?",
           "options": [
-            "Cule (culele oltenești) (88.1)",
-            "Zgârie-nori (88.2)",
-            "Igloo-uri (88.3)",
-            "Corturi nomadice (88.4)"
+            "Cule",
+            "Zgârie-nori",
+            "Igloo-uri",
+            "Corturi nomadice"
           ],
           "answerIndex": 0,
           "explanation": "Culele oltenești."
@@ -11196,7 +11196,7 @@
           "prompt": "Care este elementul arhitectural tradițional deschis, susținut pe stâlpi de lemn sculptat, aflat în fața casei țărănești românești?",
           "options": [
             "Buncărul",
-            "Prispa (sau foișorul)",
+            "Prispa",
             "Acoperișul plat",
             "Garajul subteran"
           ],
@@ -11247,10 +11247,10 @@
         {
           "prompt": "Cine este considerat părintele și promotorul principal al stilului arhitectural Neoromânesc în România?",
           "options": [
-            "George Enescu (89.1)",
-            "Arhitectul Ion Mincu (89.2)",
-            "Constantin Brâncuși (89.3)",
-            "Mihai Eminescu (89.4)"
+            "George Enescu",
+            "Arhitectul Ion Mincu",
+            "Constantin Brâncuși",
+            "Mihai Eminescu"
           ],
           "answerIndex": 1,
           "explanation": "Ion Mincu."
@@ -11262,10 +11262,10 @@
         {
           "prompt": "Ce formă specifică de arc cu trei lobi sprijinit pe coloane este elementul distinctiv al stilului Neoromânesc?",
           "options": [
-            "Arcul trilobat (trilob) (89.1)",
-            "Arcul ascuțit gotic pur (89.2)",
-            "Grinda dreaptă fără ornamente (89.3)",
-            "Arcul dreptunghiular simplu (89.4)"
+            "Arcul trilobat",
+            "Arcul ascuțit gotic pur",
+            "Grinda dreaptă fără ornamente",
+            "Arcul dreptunghiular simplu"
           ],
           "answerIndex": 0,
           "explanation": "Arcul trilobat."
@@ -11277,7 +11277,7 @@
         {
           "prompt": "Care este capodopera arhitecturală realizată de Ion Mincu pe Șoseaua Kiseleff din București, cunoscută astăzi ca restaurantul Casa Doina?",
           "options": [
-            "Bufetul de la Șosea (Casa Doina)",
+            "Bufetul de la Șosea",
             "Palatul Parlamentului",
             "Arcul de Triumf",
             "Ateneul Român"
@@ -11329,10 +11329,10 @@
         {
           "prompt": "Cum se numesc persoanele care generează energie electrică din panouri solare proprii și livrează surplusul în rețeaua națională?",
           "options": [
-            "Prosumatori (90.1)",
-            "Consumatori pasivi (90.2)",
-            "Inspectori fiscali (90.3)",
-            "Distribuitori industriali (90.4)"
+            "Prosumatori",
+            "Consumatori pasivi",
+            "Inspectori fiscali",
+            "Distribuitori industriali"
           ],
           "answerIndex": 0,
           "explanation": "Prosumatori."
@@ -11344,10 +11344,10 @@
         {
           "prompt": "Care este programul național de stat din România care subvenționează instalarea panourilor fotovoltaice pe casele cetățenilor?",
           "options": [
-            "Programul Rabla doar pentru mașini (90.1)",
-            "Programul Prima Casă (90.2)",
-            "Programul Litoralul pentru toți (90.3)",
-            "Programul Casa Verde Fotovoltaice (90.4)"
+            "Programul Rabla doar pentru mașini",
+            "Programul Prima Casă",
+            "Programul Litoralul pentru toți",
+            "Programul Casa Verde Fotovoltaice"
           ],
           "answerIndex": 3,
           "explanation": "Programul Casa Verde Fotovoltaice."
@@ -11362,7 +11362,7 @@
             "Fierul vechi",
             "Plasticul topit",
             "Cauciucul sintetic",
-            "Lutul și baloții de paie (tehnica cob / chirpici modernizat)"
+            "Lutul și baloții de paie"
           ],
           "answerIndex": 3,
           "explanation": "Lutul și baloții de paie (cob).",
@@ -11411,10 +11411,10 @@
         {
           "prompt": "Care este tipul standard de contract individual de muncă ce asigură stabilitate pe termen lung în România?",
           "options": [
-            "Contract verbal fără acte (91.1)",
-            "Contract de o singură zi (91.2)",
-            "Acord neoficial (91.3)",
-            "CIM pe durată nedeterminată (91.4)"
+            "Contract verbal fără acte",
+            "Contract de o singură zi",
+            "Acord neoficial",
+            "CIM pe durată nedeterminată"
           ],
           "answerIndex": 3,
           "explanation": "CIM pe durată nedeterminată."
@@ -11426,10 +11426,10 @@
         {
           "prompt": "Cum se numesc beneficiile extra-salariale acordate pe card electronic pentru achiziția de alimente la prânz?",
           "options": [
-            "Bilete de tren (91.1)",
-            "Puncte de penalizare (91.2)",
-            "Chitanțe de amendă (91.3)",
-            "Tichete de masă (bonuri de masă) (91.4)"
+            "Bilete de tren",
+            "Puncte de penalizare",
+            "Chitanțe de amendă",
+            "Tichete de masă"
           ],
           "answerIndex": 3,
           "explanation": "Tichete de masă."
@@ -11443,7 +11443,7 @@
           "options": [
             "Cartea funciară",
             "Catalogul școlar",
-            "Registrul REVISAL (Reges)",
+            "Registrul REVISAL",
             "Jurnalul de bord"
           ],
           "answerIndex": 2,
@@ -11493,10 +11493,10 @@
         {
           "prompt": "Care este numărul minim legal de zile lucrătoare de concediu de odihnă anual plătit în România?",
           "options": [
-            "Minim 20 de zile lucrătoare (92.1)",
-            "Zero zile (92.2)",
-            "Doar 3 zile (92.3)",
-            "O singură zi (92.4)"
+            "Minim 20 de zile lucrătoare",
+            "Zero zile",
+            "Doar 3 zile",
+            "O singură zi"
           ],
           "answerIndex": 0,
           "explanation": "Minim 20 de zile lucrătoare."
@@ -11508,10 +11508,10 @@
         {
           "prompt": "Unde se organizează cel mai frecvent teambuilding-urile de companie pentru angajații din marile orașe din România?",
           "options": [
-            "La munte (pe Valea Prahovei, Brașov, Poiana Brașov sau Sibiu) (92.1)",
-            "Într-un depozit industrial (92.2)",
-            "Pe o navă cargo (92.3)",
-            "Într-un buncăr subteran (92.4)"
+            "La munte",
+            "Într-un depozit industrial",
+            "Pe o navă cargo",
+            "Într-un buncăr subteran"
           ],
           "answerIndex": 0,
           "explanation": "La munte (Brașov/Valea Prahovei)."
@@ -11575,10 +11575,10 @@
         {
           "prompt": "Până la ce vârstă a copilului se poate acorda concediul plătit de creștere a copilului (CCC) în România?",
           "options": [
-            "Până la 1 lună doar (93.1)",
-            "Până la vârsta de 2 ani (sau 3 ani pentru copii cu dizabilități) (93.2)",
-            "Până la 18 ani (93.3)",
-            "Doar 3 săptămâni (93.4)"
+            "Până la 1 lună doar",
+            "Până la vârsta de 2 ani",
+            "Până la 18 ani",
+            "Doar 3 săptămâni"
           ],
           "answerIndex": 1,
           "explanation": "Până la 2 ani."
@@ -11590,10 +11590,10 @@
         {
           "prompt": "Care este procentul din media veniturilor nete plătit ca indemnizație lunară pentru creșterea copilului?",
           "options": [
-            "85% din media veniturilor nete (93.1)",
-            "100% fix indiferent de salariu (93.2)",
-            "10% (93.3)",
-            "50% (93.4)"
+            "85% din media veniturilor nete",
+            "100% fix indiferent de salariu",
+            "10%",
+            "50%"
           ],
           "answerIndex": 0,
           "explanation": "85% din veniturile nete."
@@ -11657,10 +11657,10 @@
         {
           "prompt": "Care este primul unicorn tehnologic fondat în România de Daniel Dines, devenit lider mondial în Robotic Process Automation (RPA)?",
           "options": [
-            "Spotify (94.1)",
-            "UiPath (94.2)",
-            "Nokia (94.3)",
-            "Skype (94.4)"
+            "Spotify",
+            "UiPath",
+            "Nokia",
+            "Skype"
           ],
           "answerIndex": 1,
           "explanation": "UiPath."
@@ -11672,10 +11672,10 @@
         {
           "prompt": "Care companie românească de securitate cibernetică fondată de familia Talpeș protejează sute de milioane de computere din întreaga lume?",
           "options": [
-            "Banca Transilvania (94.1)",
-            "Bitdefender (94.2)",
-            "Tarom (94.3)",
-            "Dacia (94.4)"
+            "Banca Transilvania",
+            "Bitdefender",
+            "Tarom",
+            "Dacia"
           ],
           "answerIndex": 1,
           "explanation": "Bitdefender."
@@ -11739,10 +11739,10 @@
         {
           "prompt": "Care este cel mai mare producător și exportator auto din România, având uzina principală la Mioveni?",
           "options": [
-            "Automobile Dacia (Grupul Renault) (95.1)",
-            "Fiat (95.2)",
-            "Seat (95.3)",
-            "Peugeot (95.4)"
+            "Automobile Dacia",
+            "Fiat",
+            "Seat",
+            "Peugeot"
           ],
           "answerIndex": 0,
           "explanation": "Automobile Dacia."
@@ -11754,10 +11754,10 @@
         {
           "prompt": "Care companie energetică de stat este cel mai mare producător de energie 100% verde și hidroelectrică din România?",
           "options": [
-            "Termoelectrica (95.1)",
-            "CFR Călători (95.2)",
-            "Poșta Română (95.3)",
-            "Hidroelectrica (95.4)"
+            "Termoelectrica",
+            "CFR Călători",
+            "Poșta Română",
+            "Hidroelectrica"
           ],
           "answerIndex": 3,
           "explanation": "Hidroelectrica."
@@ -11771,7 +11771,7 @@
           "options": [
             "Banca Japoniei",
             "Banca Mondială",
-            "Banca Transilvania (BT)",
+            "Banca Transilvania",
             "Banca Angliei"
           ],
           "answerIndex": 2,
@@ -11821,10 +11821,10 @@
         {
           "prompt": "Which river delta in Romania is recognized as a UNESCO World Heritage site and is home to Europe's largest breeding pelican colonies?",
           "options": [
-            "Delta Rinului (96.1)",
-            "Delta Volgăi (96.2)",
-            "Delta Tisei (96.3)",
-            "Delta Dunării (Danube Delta) (96.4)"
+            "Delta Rinului",
+            "Delta Volgăi",
+            "Delta Tisei",
+            "Delta Dunării"
           ],
           "answerIndex": 3,
           "explanation": "Delta Dunării."
@@ -11836,10 +11836,10 @@
         {
           "prompt": "Which large carnivore has its largest European population outside Russia residing in the Romanian Carpathian Mountains?",
           "options": [
-            "Leul african (96.1)",
-            "Tigrul siberian (96.2)",
-            "Ghepardul (96.3)",
-            "Ursul brun carpatin (Carpathian brown bear) (96.4)"
+            "Leul african",
+            "Tigrul siberian",
+            "Ghepardul",
+            "Ursul brun carpatin"
           ],
           "answerIndex": 3,
           "explanation": "Ursul brun carpatin."
@@ -11903,10 +11903,10 @@
         {
           "prompt": "Which Romanian region hosts Europe's largest onshore wind farm at Fântânele-Cogealac?",
           "options": [
-            "Dobrogea (97.1)",
-            "Bucovina (97.2)",
-            "Maramureș (97.3)",
-            "Oltenia (97.4)"
+            "Dobrogea",
+            "Bucovina",
+            "Maramureș",
+            "Oltenia"
           ],
           "answerIndex": 0,
           "explanation": "Dobrogea."
@@ -11918,10 +11918,10 @@
         {
           "prompt": "What is the power capacity of the Fântânele-Cogealac onshore wind park?",
           "options": [
-            "600 MW (97.1)",
-            "10 MW (97.2)",
-            "50 MW (97.3)",
-            "100 MW (97.4)"
+            "600 MW",
+            "10 MW",
+            "50 MW",
+            "100 MW"
           ],
           "answerIndex": 0,
           "explanation": "600 MW."
@@ -11948,7 +11948,7 @@
             "Marea Baltică",
             "Marea Mediterană",
             "Marea Nordului",
-            "Marea Neagră (Black Sea)"
+            "Marea Neagră"
           ],
           "answerIndex": 3,
           "explanation": "Marea Neagră.",
@@ -11985,10 +11985,10 @@
         {
           "prompt": "Which famous subterranean salt mine in Transylvania is celebrated globally for its sci-fi architecture and respiratory speleotherapy?",
           "options": [
-            "Mina de cărbune Petrila (98.1)",
-            "Salina Turda (98.2)",
-            "București Metro (98.3)",
-            "Canalul Dunăre (98.4)"
+            "Mina de cărbune Petrila",
+            "Salina Turda",
+            "București Metro",
+            "Canalul Dunăre"
           ],
           "answerIndex": 1,
           "explanation": "Salina Turda."
@@ -12000,10 +12000,10 @@
         {
           "prompt": "What thermal resort near Oradea is famous for its natural hot springs and thermal water lilies?",
           "options": [
-            "Băile Felix (98.1)",
-            "Sinaia (98.2)",
-            "Mamaia (98.3)",
-            "Predeal (98.4)"
+            "Băile Felix",
+            "Sinaia",
+            "Mamaia",
+            "Predeal"
           ],
           "answerIndex": 0,
           "explanation": "Băile Felix."
@@ -12067,10 +12067,10 @@
         {
           "prompt": "Which magnificent mammal—the largest land herbivore in Europe—was successfully rewilded in the Romanian Carpathians after 200 years of extinction?",
           "options": [
-            "Elanul siberian (99.1)",
-            "Zimbrul european (European bison) (99.2)",
-            "Bizonul american (99.3)",
-            "Mamutul (99.4)"
+            "Elanul siberian",
+            "Zimbrul european",
+            "Bizonul american",
+            "Mamutul"
           ],
           "answerIndex": 1,
           "explanation": "Zimbrul european."
@@ -12082,10 +12082,10 @@
         {
           "prompt": "Which historical Romanian principality featured the head of a bison (cap de bour/zimbru) on its royal coat of arms?",
           "options": [
-            "Banat (99.1)",
-            "Moldova (99.2)",
-            "Crișana (99.3)",
-            "Dobrogea (99.4)"
+            "Banat",
+            "Moldova",
+            "Crișana",
+            "Dobrogea"
           ],
           "answerIndex": 1,
           "explanation": "Moldova."
@@ -12149,10 +12149,10 @@
         {
           "prompt": "Which innovative clean nuclear technology is Romania pioneering with the first European commercial deployment site at Doicești?",
           "options": [
-            "Reactoare Modulare Mici (SMR - Small Modular Reactors) (100.1)",
-            "Centrale pe cărbune brun (100.2)",
-            "Generatoare diesel (100.3)",
-            "Reactoare de fuziune militară (100.4)"
+            "Reactoare Modulare Mici",
+            "Centrale pe cărbune brun",
+            "Generatoare diesel",
+            "Reactoare de fuziune militară"
           ],
           "answerIndex": 0,
           "explanation": "Reactoare Modulare Mici (SMR)."
@@ -12164,10 +12164,10 @@
         {
           "prompt": "What is Romania's statutory target year for achieving net-zero greenhouse gas emissions under EU and national climate laws?",
           "options": [
-            "2025 (100.1)",
-            "2100 (100.2)",
-            "2030 (100.3)",
-            "2050 (100.4)"
+            "2025",
+            "2100",
+            "2030",
+            "2050"
           ],
           "answerIndex": 3,
           "explanation": "2050."
@@ -12231,10 +12231,10 @@
         {
           "prompt": "Which Romanian cell biologist won the 1974 Nobel Prize in Physiology or Medicine for discovering the ribosome (Palade's granules)?",
           "options": [
-            "Nicolae Paulescu (101.1)",
-            "Ioan Cantacuzino (101.2)",
-            "Victor Babeș (101.3)",
-            "George Emil Palade (101.4)"
+            "Nicolae Paulescu",
+            "Ioan Cantacuzino",
+            "Victor Babeș",
+            "George Emil Palade"
           ],
           "answerIndex": 3,
           "explanation": "George Emil Palade."
@@ -12246,10 +12246,10 @@
         {
           "prompt": "What antidiabetic hormone extract did Romanian physiologist Nicolae Paulescu discover and isolate in 1916–1921?",
           "options": [
-            "Penicilina (101.1)",
-            "Adrenalina (101.2)",
-            "Pancreina (Pancreine / Insulin) (101.3)",
-            "Tiroxina (101.4)"
+            "Penicilina",
+            "Adrenalina",
+            "Pancreina",
+            "Tiroxina"
           ],
           "answerIndex": 2,
           "explanation": "Pancreina (Insulin)."
@@ -12313,10 +12313,10 @@
         {
           "prompt": "What integrated pre-hospital emergency medical, resuscitation, and extrication service was created in Romania in 1990 by Dr. Raed Arafat?",
           "options": [
-            "SMURD (102.1)",
-            "Tarom (102.2)",
-            "CFR (102.3)",
-            "Poșta Română (102.4)"
+            "SMURD",
+            "Tarom",
+            "CFR",
+            "Poșta Română"
           ],
           "answerIndex": 0,
           "explanation": "SMURD."
@@ -12328,10 +12328,10 @@
         {
           "prompt": "What single emergency phone number connects citizens in Romania to ambulance, police, and SMURD emergency services?",
           "options": [
-            "112 (102.1)",
-            "911 (102.2)",
-            "999 (102.3)",
-            "100 (102.4)"
+            "112",
+            "911",
+            "999",
+            "100"
           ],
           "answerIndex": 0,
           "explanation": "112."
@@ -12395,10 +12395,10 @@
         {
           "prompt": "Which Romanian medical scientist authored the world's first treatise on bacteriology in 1885 and discovered the genus Babesia?",
           "options": [
-            "Victor Babeș (103.1)",
-            "Emil Cioran (103.2)",
-            "Mircea Eliade (103.3)",
-            "Henri Coandă (103.4)"
+            "Victor Babeș",
+            "Emil Cioran",
+            "Mircea Eliade",
+            "Henri Coandă"
           ],
           "answerIndex": 0,
           "explanation": "Victor Babeș."
@@ -12410,10 +12410,10 @@
         {
           "prompt": "What tick-borne protozoan parasite was named by the international scientific community in honor of Dr. Victor Babeș?",
           "options": [
-            "Babesia (103.1)",
-            "Amoeba (103.2)",
-            "Plasmodium (103.3)",
-            "Giardia (103.4)"
+            "Babesia",
+            "Amoeba",
+            "Plasmodium",
+            "Giardia"
           ],
           "answerIndex": 0,
           "explanation": "Babesia."
@@ -12438,7 +12438,7 @@
           "prompt": "In which European capital city did Victor Babeș establish the National Institute of Pathology and Biomedical Research in 1887?",
           "options": [
             "Budapesta",
-            "București (Bucharest)",
+            "București",
             "Praga",
             "Viena"
           ],
@@ -12477,10 +12477,10 @@
         {
           "prompt": "Which Romanian physician founded the world's first Institute of Gerontology and Geriatrics in 1952 and created Gerovital H3?",
           "options": [
-            "Sofia Ionescu (104.1)",
-            "Dr. Ana Aslan (104.2)",
-            "Elena Ceaușescu (104.3)",
-            "Maria Cuțarida-Crătunescu (104.4)"
+            "Sofia Ionescu",
+            "Dr. Ana Aslan",
+            "Elena Ceaușescu",
+            "Maria Cuțarida-Crătunescu"
           ],
           "answerIndex": 1,
           "explanation": "Dr. Ana Aslan."
@@ -12492,10 +12492,10 @@
         {
           "prompt": "What procaine-based therapeutic preparation created by Ana Aslan gained worldwide fame for anti-aging and geriatric therapy?",
           "options": [
-            "Cortizon (104.1)",
-            "Gerovital H3 (104.2)",
-            "Insulina (104.3)",
-            "Aspirina simplă (104.4)"
+            "Cortizon",
+            "Gerovital H3",
+            "Insulina",
+            "Aspirina simplă"
           ],
           "answerIndex": 1,
           "explanation": "Gerovital H3."
@@ -12559,10 +12559,10 @@
         {
           "prompt": "Which female neurosurgery pioneer from Romania is recognized as one of the world's first female neurosurgeons for her emergency wartime brain surgeries in 1944?",
           "options": [
-            "Sofia Ionescu-Ogrezeanu (105.1)",
-            "Ana Aslan (105.2)",
-            "Florica Bagdasar (105.3)",
-            "Nadia Comăneci (105.4)"
+            "Sofia Ionescu-Ogrezeanu",
+            "Ana Aslan",
+            "Florica Bagdasar",
+            "Nadia Comăneci"
           ],
           "answerIndex": 0,
           "explanation": "Sofia Ionescu-Ogrezeanu."
@@ -12574,10 +12574,10 @@
         {
           "prompt": "What digital health platform in Romania centralizes patient medical histories, lab results, and surgical reports for doctors?",
           "options": [
-            "Cazierul judiciar (105.1)",
-            "Registrul Comerțului (105.2)",
-            "Permisul auto (105.3)",
-            "Dosarul Electronic de Sănătate (DES) (105.4)"
+            "Cazierul judiciar",
+            "Registrul Comerțului",
+            "Permisul auto",
+            "Dosarul Electronic de Sănătate"
           ],
           "answerIndex": 3,
           "explanation": "Dosarul Electronic de Sănătate (DES)."
@@ -12641,10 +12641,10 @@
         {
           "prompt": "Which Romanian philosopher and poet coined the metaphysical cultural concept of \"Spațiul Mioritic\" in his Trilogy of Culture?",
           "options": [
-            "Emil Cioran (106.1)",
-            "Mircea Eliade (106.2)",
-            "Constantin Noica (106.3)",
-            "Lucian Blaga (106.4)"
+            "Emil Cioran",
+            "Mircea Eliade",
+            "Constantin Noica",
+            "Lucian Blaga"
           ],
           "answerIndex": 3,
           "explanation": "Lucian Blaga."
@@ -12656,10 +12656,10 @@
         {
           "prompt": "What undulating natural rhythm characterizes the Romanian cultural soul according to Blaga's Mioritic space?",
           "options": [
-            "Câmpia plată infinită (106.1)",
-            "Vârful abrupt exclusiv (106.2)",
-            "Alternanța deal-vale (Alternating hill and valley rhythm) (106.3)",
-            "Deșertul (106.4)"
+            "Câmpia plată infinită",
+            "Vârful abrupt exclusiv",
+            "Alternanța deal-vale",
+            "Deșertul"
           ],
           "answerIndex": 2,
           "explanation": "Alternanța deal-vale."
@@ -12685,7 +12685,7 @@
           "options": [
             "Logica formală",
             "Cunoașterea empirică simplă",
-            "Cunoașterea luciferică (Luciferic Knowledge)",
+            "Cunoașterea luciferică",
             "Matematica pură"
           ],
           "answerIndex": 2,
@@ -12723,10 +12723,10 @@
         {
           "prompt": "Which Romanian existentialist thinker authored the 1934 lyrical masterpiece «Pe culmile disperării» (On the Heights of Despair)?",
           "options": [
-            "Emil Cioran (107.1)",
-            "Petre Țuțea (107.2)",
-            "Mircea Eliade (107.3)",
-            "Eugène Ionesco (107.4)"
+            "Emil Cioran",
+            "Petre Țuțea",
+            "Mircea Eliade",
+            "Eugène Ionesco"
           ],
           "answerIndex": 0,
           "explanation": "Emil Cioran."
@@ -12738,10 +12738,10 @@
         {
           "prompt": "What severe physiological condition fueled Cioran's intense philosophical lucidity and aphoristic writing in his youth?",
           "options": [
-            "Insomnia cronică (Metaphysical insomnia) (107.1)",
-            "Orbirea (107.2)",
-            "Surzenia (107.3)",
-            "Amnézia (107.4)"
+            "Insomnia cronică",
+            "Orbirea",
+            "Surzenia",
+            "Amnézia"
           ],
           "answerIndex": 0,
           "explanation": "Insomnia cronică."
@@ -12805,10 +12805,10 @@
         {
           "prompt": "Which Romanian scholar founded the modern comparative history of religions and authored The Sacred and the Profane?",
           "options": [
-            "Mircea Eliade (108.1)",
-            "Lucian Blaga (108.2)",
-            "Vasile Pârvan (108.3)",
-            "Nicolae Iorga (108.4)"
+            "Mircea Eliade",
+            "Lucian Blaga",
+            "Vasile Pârvan",
+            "Nicolae Iorga"
           ],
           "answerIndex": 0,
           "explanation": "Mircea Eliade."
@@ -12820,10 +12820,10 @@
         {
           "prompt": "What term was coined by Eliade to describe the manifestation of the sacred within a profane object or natural phenomenon?",
           "options": [
-            "Hierofanie (Hierophany) (108.1)",
-            "Miracol chimic (108.2)",
-            "Epifanie simplă (108.3)",
-            "Teofanie exclusivă (108.4)"
+            "Hierofanie",
+            "Miracol chimic",
+            "Epifanie simplă",
+            "Teofanie exclusivă"
           ],
           "answerIndex": 0,
           "explanation": "Hierofanie."
@@ -12847,7 +12847,7 @@
         {
           "prompt": "In which ancient Indian sacred language did Mircea Eliade conduct foundational research at the University of Calcutta in 1928–1931?",
           "options": [
-            "Sanscrită (Sanskrit)",
+            "Sanscrită",
             "Latină",
             "Persană",
             "Arabă"
@@ -12887,10 +12887,10 @@
         {
           "prompt": "Which Romanian philosopher founded the philosophical seminar at the mountain retreat of Păltiniș and wrote Devenirea întru ființă?",
           "options": [
-            "Mircea Vulcănescu (109.1)",
-            "Constantin Noica (109.2)",
-            "Titu Maiorescu (109.3)",
-            "Petre Țuțea (109.4)"
+            "Mircea Vulcănescu",
+            "Constantin Noica",
+            "Titu Maiorescu",
+            "Petre Țuțea"
           ],
           "answerIndex": 1,
           "explanation": "Constantin Noica."
@@ -12902,10 +12902,10 @@
         {
           "prompt": "What unique Romanian preposition was elevated by Noica into a foundational ontological concept of dynamic purposeful movement?",
           "options": [
-            "«Peste» (109.1)",
-            "«Întru» (Becoming within/toward) (109.2)",
-            "«Sub» (109.3)",
-            "«Fără» (109.4)"
+            "«Peste»",
+            "«Întru»",
+            "«Sub»",
+            "«Fără»"
           ],
           "answerIndex": 1,
           "explanation": "«Întru»."
@@ -12969,10 +12969,10 @@
         {
           "prompt": "Which Romanian-French dramatist founded the Theatre of the Absurd and authored The Bald Soprano and Rhinoceros?",
           "options": [
-            "Eugène Ionesco (Eugen Ionescu) (110.1)",
-            "Samuel Beckett (110.2)",
-            "Albert Camus (110.3)",
-            "Jean-Paul Sartre (110.4)"
+            "Eugène Ionesco",
+            "Samuel Beckett",
+            "Albert Camus",
+            "Jean-Paul Sartre"
           ],
           "answerIndex": 0,
           "explanation": "Eugène Ionesco."
@@ -12984,10 +12984,10 @@
         {
           "prompt": "In Ionesco's masterpiece *Rhinoceros*, what is the name of the lone protagonist who refuses to surrender his humanity to the fanatical epidemic?",
           "options": [
-            "Jean (110.1)",
-            "Dudard (110.2)",
-            "Botard (110.3)",
-            "Bérenger (110.4)"
+            "Jean",
+            "Dudard",
+            "Botard",
+            "Bérenger"
           ],
           "answerIndex": 3,
           "explanation": "Bérenger."
@@ -13051,10 +13051,10 @@
         {
           "prompt": "Which Romanian master is universally recognized as the Father of Modern Sculpture for works like The Endless Column and Bird in Space?",
           "options": [
-            "Dimitrie Paciurea (111.1)",
-            "Ion Irimescu (111.2)",
-            "Corneliu Baba (111.3)",
-            "Constantin Brâncuși (111.4)"
+            "Dimitrie Paciurea",
+            "Ion Irimescu",
+            "Corneliu Baba",
+            "Constantin Brâncuși"
           ],
           "answerIndex": 3,
           "explanation": "Constantin Brâncuși."
@@ -13066,10 +13066,10 @@
         {
           "prompt": "In which Romanian city did Constantin Brâncuși construct his iconic Monumental Ensemble comprising the Endless Column, Gate of the Kiss, and Table of Silence?",
           "options": [
-            "București (111.1)",
-            "Cluj-Napoca (111.2)",
-            "Târgu Jiu (Gorj) (111.3)",
-            "Iași (111.4)"
+            "București",
+            "Cluj-Napoca",
+            "Târgu Jiu",
+            "Iași"
           ],
           "answerIndex": 2,
           "explanation": "Târgu Jiu (Gorj)."
@@ -13094,7 +13094,7 @@
           "prompt": "What famous quote did Brâncuși utter when leaving Auguste Rodin's workshop in Paris in 1907?",
           "options": [
             "«Arta pentru artă»",
-            "«Rien ne pousse à l'ombre des grands arbres» (Nimic nu crește la umbra marilor copaci)",
+            "«Rien ne pousse à l'ombre des grands arbres»",
             "«Totul este permis»",
             "«Timpul înseamnă bani»"
           ],
@@ -13133,10 +13133,10 @@
         {
           "prompt": "Which 15th-century UNESCO monastery in Bucovina, built by Stephen the Great, is world-famous as the \"Sistine Chapel of the East\"?",
           "options": [
-            "Mănăstirea Voroneț (112.1)",
-            "Mănăstirea Tismana (112.2)",
-            "Mănăstirea Cozia (112.3)",
-            "Mănăstirea Curtea de Argeș (112.4)"
+            "Mănăstirea Voroneț",
+            "Mănăstirea Tismana",
+            "Mănăstirea Cozia",
+            "Mănăstirea Curtea de Argeș"
           ],
           "answerIndex": 0,
           "explanation": "Mănăstirea Voroneț."
@@ -13148,10 +13148,10 @@
         {
           "prompt": "What unique, luminous medieval pigment used on the exterior walls of Voroneț has resisted centuries of harsh winter weathering?",
           "options": [
-            "Albastrul de Voroneț (Voroneț Blue) (112.1)",
-            "Roșul de Veneția (112.2)",
-            "Galbenul de crom (112.3)",
-            "Verdele de Paris (112.4)"
+            "Albastrul de Voroneț",
+            "Roșul de Veneția",
+            "Galbenul de crom",
+            "Verdele de Paris"
           ],
           "answerIndex": 0,
           "explanation": "Albastrul de Voroneț."
@@ -13175,7 +13175,7 @@
         {
           "prompt": "Which legendary Moldavian prince and military defender of Europe founded Voroneț Monastery in 1488 after his victory against Ottoman forces?",
           "options": [
-            "Ștefan cel Mare (Stephen the Great)",
+            "Ștefan cel Mare",
             "Vlad Țepeș",
             "Alexandru cel Bun",
             "Mihai Viteazul"
@@ -13215,10 +13215,10 @@
         {
           "prompt": "Which 19th-century master painter is revered as the founder of modern Romanian painting for works like Carul cu boi and Atacul de la Smârdan?",
           "options": [
-            "Nicolae Grigorescu (113.1)",
-            "Theodor Aman (113.2)",
-            "Ion Andreescu (113.3)",
-            "Ștefan Luchian (113.4)"
+            "Nicolae Grigorescu",
+            "Theodor Aman",
+            "Ion Andreescu",
+            "Ștefan Luchian"
           ],
           "answerIndex": 0,
           "explanation": "Nicolae Grigorescu."
@@ -13230,10 +13230,10 @@
         {
           "prompt": "Which French plein-air landscape painting school did Nicolae Grigorescu join in the 1860s near Fontainebleau forest?",
           "options": [
-            "Școala de la Barbizon (Barbizon School) (113.1)",
-            "Suprematismul (113.2)",
-            "Cubismul parizian (113.3)",
-            "Dadaismul (113.4)"
+            "Școala de la Barbizon",
+            "Suprematismul",
+            "Cubismul parizian",
+            "Dadaismul"
           ],
           "answerIndex": 0,
           "explanation": "Școala de la Barbizon."
@@ -13260,7 +13260,7 @@
             "Poncho-ul",
             "Kimono-ul",
             "Sariul",
-            "Ia românească (Traditional embroidered blouse)"
+            "Ia românească"
           ],
           "answerIndex": 3,
           "explanation": "Ia românească.",
@@ -13297,10 +13297,10 @@
         {
           "prompt": "Which architectural style, synthesizing Byzantine tradition with Italian Renaissance loggias under Prince Brâncoveanu, created Horezu Monastery?",
           "options": [
-            "Stilul Gotic German (114.1)",
-            "Stilul Brâncovenesc (Wallachian Renaissance) (114.2)",
-            "Stilul Art Deco (114.3)",
-            "Stilul Baroc Vienez (114.4)"
+            "Stilul Gotic German",
+            "Stilul Brâncovenesc",
+            "Stilul Art Deco",
+            "Stilul Baroc Vienez"
           ],
           "answerIndex": 1,
           "explanation": "Stilul Brâncovenesc."
@@ -13312,10 +13312,10 @@
         {
           "prompt": "Which 19th-century master architect founded the Neo-Romanian architectural movement (Arhitectura Neoromânească)?",
           "options": [
-            "Petre Antonescu (114.1)",
-            "Ion Mincu (114.2)",
-            "Duiliu Marcu (114.3)",
-            "Anghel Saligny (114.4)"
+            "Petre Antonescu",
+            "Ion Mincu",
+            "Duiliu Marcu",
+            "Anghel Saligny"
           ],
           "answerIndex": 1,
           "explanation": "Ion Mincu."
@@ -13341,7 +13341,7 @@
           "options": [
             "Mănăstirea Putna",
             "Mănăstirea Neamț",
-            "Mănăstirea Horezu (Hurez)",
+            "Mănăstirea Horezu",
             "Mănăstirea Snagov"
           ],
           "answerIndex": 2,
@@ -13379,10 +13379,10 @@
         {
           "prompt": "Which visionary Romanian engineer designed the historic 1895 Danube Bridge at Cernavodă, the longest bridge in continental Europe at the time?",
           "options": [
-            "Anghel Saligny (115.1)",
-            "Henri Coandă (115.2)",
-            "Gheorghe Țițeica (115.3)",
-            "Traian Vuia (115.4)"
+            "Anghel Saligny",
+            "Henri Coandă",
+            "Gheorghe Țițeica",
+            "Traian Vuia"
           ],
           "answerIndex": 0,
           "explanation": "Anghel Saligny."
@@ -13394,10 +13394,10 @@
         {
           "prompt": "What world-first industrial construction material application was engineered by Saligny for the grain silos in Constanța and Brăila in 1888?",
           "options": [
-            "Lemn de stejar simplu (115.1)",
-            "Foi de aluminiu (115.2)",
-            "Cărămidă uscată la soare (115.3)",
-            "Plăci prefabricate din beton armat (Reinforced concrete prefabricated panels) (115.4)"
+            "Lemn de stejar simplu",
+            "Foi de aluminiu",
+            "Cărămidă uscată la soare",
+            "Plăci prefabricate din beton armat"
           ],
           "answerIndex": 3,
           "explanation": "Plăci prefabricate din beton armat."
@@ -13461,10 +13461,10 @@
         {
           "prompt": "Which Romanian musical genius composed the Romanian Rhapsodies Op. 11 and the monumental opera Oedipe, mentoring Yehudi Menuhin?",
           "options": [
-            "Ciprian Porumbescu (116.1)",
-            "Dinu Lipatti (116.2)",
-            "Sergiu Celibidache (116.3)",
-            "George Enescu (116.4)"
+            "Ciprian Porumbescu",
+            "Dinu Lipatti",
+            "Sergiu Celibidache",
+            "George Enescu"
           ],
           "answerIndex": 3,
           "explanation": "George Enescu."
@@ -13476,10 +13476,10 @@
         {
           "prompt": "What virtuosic Romanian folk tune imitating birdsong is quoted in the exhilarating finale of Enescu's Romanian Rhapsody No. 1?",
           "options": [
-            "Balada (116.1)",
-            "Ciocârlia (The Skylark) (116.2)",
-            "Călușul (116.3)",
-            "Mocirița (116.4)"
+            "Balada",
+            "Ciocârlia",
+            "Călușul",
+            "Mocirița"
           ],
           "answerIndex": 1,
           "explanation": "Ciocârlia (The Skylark)."
@@ -13543,10 +13543,10 @@
         {
           "prompt": "Which Romanian maestro led the Munich Philharmonic and became legendary for his phenomenological philosophy of music and refusal of studio recordings?",
           "options": [
-            "Sergiu Celibidache (117.1)",
-            "Cristian Măcelaru (117.2)",
-            "George Enescu (117.3)",
-            "Ionel Perlea (117.4)"
+            "Sergiu Celibidache",
+            "Cristian Măcelaru",
+            "George Enescu",
+            "Ionel Perlea"
           ],
           "answerIndex": 0,
           "explanation": "Sergiu Celibidache."
@@ -13558,10 +13558,10 @@
         {
           "prompt": "Why did Sergiu Celibidache vehemently refuse to make commercial studio audio recordings throughout most of his conducting career?",
           "options": [
-            "He believed recordings destroyed the living acoustic space and spiritual truth of the live concert moment (117.1)",
-            "He did not know how microphones worked (117.2)",
-            "He lost his hearing (117.3)",
-            "Recording contracts were illegal in Germany (117.4)"
+            "He believed recordings destroyed the living acoustic space and spiritual truth of the live concert moment",
+            "He did not know how microphones worked",
+            "He lost his hearing",
+            "Recording contracts were illegal in Germany"
           ],
           "answerIndex": 0,
           "explanation": "He believed recordings destroyed the living acoustic space."
@@ -13625,10 +13625,10 @@
         {
           "prompt": "Which Romanian virtuoso is universally known as the \"King of the Pan Flute\" for works like The Lonely Shepherd and Morricone soundtracks?",
           "options": [
-            "Gheorghe Zamfir (118.1)",
-            "Fănică Luca (118.2)",
-            "Damian Drăghici (118.3)",
-            "Tudor Gheorghe (118.4)"
+            "Gheorghe Zamfir",
+            "Fănică Luca",
+            "Damian Drăghici",
+            "Tudor Gheorghe"
           ],
           "answerIndex": 0,
           "explanation": "Gheorghe Zamfir."
@@ -13640,10 +13640,10 @@
         {
           "prompt": "How many bamboo tubes did Gheorghe Zamfir engineer onto his concert pan flutes to expand their chromatic range for classical symphonic music?",
           "options": [
-            "Up to 30 bamboo pipes (Până la 30 de tuburi) (118.1)",
-            "3 tuburi (118.2)",
-            "Doar 5 tuburi (118.3)",
-            "100 de tuburi (118.4)"
+            "Up to 30 bamboo pipes",
+            "3 tuburi",
+            "Doar 5 tuburi",
+            "100 de tuburi"
           ],
           "answerIndex": 0,
           "explanation": "Up to 30 bamboo pipes (Până la 30 de tuburi)."
@@ -13707,10 +13707,10 @@
         {
           "prompt": "Which legendary Romanian pianist gave his heartbreaking final historic concert at the Besançon Festival in September 1950 before passing away at age 33?",
           "options": [
-            "Valentin Gheorghiu (119.1)",
-            "Dinu Lipatti (119.2)",
-            "Dan Grigore (119.3)",
-            "Radu Lupu (119.4)"
+            "Valentin Gheorghiu",
+            "Dinu Lipatti",
+            "Dan Grigore",
+            "Radu Lupu"
           ],
           "answerIndex": 1,
           "explanation": "Dinu Lipatti."
@@ -13722,10 +13722,10 @@
         {
           "prompt": "What J.S. Bach choral prelude did Dinu Lipatti play as his final piece at the Besançon recital when too weak to finish Chopin's Waltzes?",
           "options": [
-            "Concertul Brandenburgic (119.1)",
-            "«Jesu, Joy of Man's Desiring» (Isus, bucuria oamenilor) (119.2)",
-            "Variațiunile Goldberg (119.3)",
-            "Toccata și Fuga în re minor (119.4)"
+            "Concertul Brandenburgic",
+            "«Jesu, Joy of Man's Desiring»",
+            "Variațiunile Goldberg",
+            "Toccata și Fuga în re minor"
           ],
           "answerIndex": 1,
           "explanation": "«Jesu, Joy of Man's Desiring»."
@@ -13789,10 +13789,10 @@
         {
           "prompt": "Which 19th-century Romanian composer wrote the immortal \"Balada\" for violin and orchestra and the first Romanian operetta \"Crai Nou\"?",
           "options": [
-            "Ciprian Porumbescu (120.1)",
-            "George Enescu (120.2)",
-            "Eduard Caudella (120.3)",
-            "Ion Dumitrescu (120.4)"
+            "Ciprian Porumbescu",
+            "George Enescu",
+            "Eduard Caudella",
+            "Ion Dumitrescu"
           ],
           "answerIndex": 0,
           "explanation": "Ciprian Porumbescu."
@@ -13804,10 +13804,10 @@
         {
           "prompt": "Which European nation adopted Ciprian Porumbescu's patriotic melody *Pe-al nostru steag e scris Unire* as its official national anthem (Himni i Flamurit)?",
           "options": [
-            "Grecia (120.1)",
-            "Bulgaria (120.2)",
-            "Moldova (120.3)",
-            "Albania (120.4)"
+            "Grecia",
+            "Bulgaria",
+            "Moldova",
+            "Albania"
           ],
           "answerIndex": 3,
           "explanation": "Albania."
@@ -13831,7 +13831,7 @@
         {
           "prompt": "What Romanian cultural concept representing untranslatable bittersweet longing, grief, and nostalgic love is the emotional core of Porumbescu's *Balada*?",
           "options": [
-            "Dorul (The Romanian Dor)",
+            "Dorul",
             "Invece",
             "Nostalgia doar",
             "Bravura"
@@ -13871,10 +13871,10 @@
         {
           "prompt": "Which Romanian director won the prestigious Palme d'Or at the Cannes Film Festival in 2007 for \"4 Months, 3 Weeks and 2 Days\"?",
           "options": [
-            "Cristi Puiu (121.1)",
-            "Corneliu Porumboiu (121.2)",
-            "Radu Jude (121.3)",
-            "Cristian Mungiu (121.4)"
+            "Cristi Puiu",
+            "Corneliu Porumboiu",
+            "Radu Jude",
+            "Cristian Mungiu"
           ],
           "answerIndex": 3,
           "explanation": "Cristian Mungiu."
@@ -13886,10 +13886,10 @@
         {
           "prompt": "What draconian 1966 communist decree under Nicolae Ceaușescu forms the oppressive historical background of *4 Months, 3 Weeks and 2 Days*?",
           "options": [
-            "Decretul militar (121.1)",
-            "Decretul 770 (Banning abortion and contraception) (121.2)",
-            "Decretul agrar (121.3)",
-            "Decretul monetar (121.4)"
+            "Decretul militar",
+            "Decretul 770",
+            "Decretul agrar",
+            "Decretul monetar"
           ],
           "answerIndex": 1,
           "explanation": "Decretul 770."
@@ -13953,10 +13953,10 @@
         {
           "prompt": "Which Romanian director made the landmark 2005 film \"Moartea domnului Lăzărescu\" (The Death of Mr. Lazarescu), winning the Un Certain Regard prize at Cannes?",
           "options": [
-            "Cristi Puiu (122.1)",
-            "Radu Jude (122.2)",
-            "Cătălin Mitulescu (122.3)",
-            "Cristian Mungiu (122.4)"
+            "Cristi Puiu",
+            "Radu Jude",
+            "Cătălin Mitulescu",
+            "Cristian Mungiu"
           ],
           "answerIndex": 0,
           "explanation": "Cristi Puiu."
@@ -13968,10 +13968,10 @@
         {
           "prompt": "Which beloved Romanian actress portrayed the compassionate, determined ambulance nurse Mioara in *The Death of Mr. Lazarescu*?",
           "options": [
-            "Luminița Gheorghiu (122.1)",
-            "Anamaria Marinca (122.2)",
-            "Medeea Marinescu (122.3)",
-            "Maia Morgenstern (122.4)"
+            "Luminița Gheorghiu",
+            "Anamaria Marinca",
+            "Medeea Marinescu",
+            "Maia Morgenstern"
           ],
           "answerIndex": 0,
           "explanation": "Luminița Gheorghiu."
@@ -14035,10 +14035,10 @@
         {
           "prompt": "Which Romanian director won the Golden Bear at the Berlin International Film Festival in 2021 for \"Bad Luck Banging or Loony Porn\" and directed \"Aferim!\"?",
           "options": [
-            "Radu Jude (123.1)",
-            "Cristian Mungiu (123.2)",
-            "Cristi Puiu (123.3)",
-            "Corneliu Porumboiu (123.4)"
+            "Radu Jude",
+            "Cristian Mungiu",
+            "Cristi Puiu",
+            "Corneliu Porumboiu"
           ],
           "answerIndex": 0,
           "explanation": "Radu Jude."
@@ -14050,10 +14050,10 @@
         {
           "prompt": "What 19th-century Wallachian historical western by Radu Jude, shot on 35mm black-and-white, confronted the suppressed history of Roma slavery in Romania?",
           "options": [
-            "«Aferim!» (2015) (123.1)",
-            "«Nu aștepta prea mult de la sfârșitul lumii» (123.2)",
-            "«Toată lumea din familia noastră» (123.3)",
-            "«Inimi cicatrizate» (123.4)"
+            "«Aferim!»",
+            "«Nu aștepta prea mult de la sfârșitul lumii»",
+            "«Toată lumea din familia noastră»",
+            "«Inimi cicatrizate»"
           ],
           "answerIndex": 0,
           "explanation": "«Aferim!» (2015)."
@@ -14117,10 +14117,10 @@
         {
           "prompt": "Which Romanian director won the Caméra d'Or at Cannes for \"A fost sau n-a fost?\" (12:08 East of Bucharest) and directed \"Polițist, adjectiv\"?",
           "options": [
-            "Florin Șerban (124.1)",
-            "Radu Muntean (124.2)",
-            "Corneliu Porumboiu (124.3)",
-            "Cristian Mungiu (124.4)"
+            "Florin Șerban",
+            "Radu Muntean",
+            "Corneliu Porumboiu",
+            "Cristian Mungiu"
           ],
           "answerIndex": 2,
           "explanation": "Corneliu Porumboiu."
@@ -14132,10 +14132,10 @@
         {
           "prompt": "What indigenous Canary Island whistling language is learned by a corrupt Romanian policeman in Porumboiu's 2019 thriller *La Gomera* (The Whistlers)?",
           "options": [
-            "Morse code (124.1)",
-            "El Silbo Gomero (Whistled language of La Gomera) (124.2)",
-            "Gaelic (124.3)",
-            "Esperanto (124.4)"
+            "Morse code",
+            "El Silbo Gomero",
+            "Gaelic",
+            "Esperanto"
           ],
           "answerIndex": 1,
           "explanation": "El Silbo Gomero."
@@ -14159,7 +14159,7 @@
         {
           "prompt": "What exact hour and minute marks the helicopter flight of Nicolae Ceaușescu that determines whether a revolution occurred in the title of *A fost sau n-a fost?*?",
           "options": [
-            "12:08 (Douăsprezece și opt minute)",
+            "12:08",
             "18:30",
             "00:00",
             "10:00"
@@ -14199,10 +14199,10 @@
         {
           "prompt": "Which major international film festival, founded in 2002 in Cluj-Napoca by Tudor Giurgiu, is the premier cinema festival in Romania?",
           "options": [
-            "TIFF (Festivalul Internațional de Film Transilvania) (125.1)",
-            "Festivalul de la Mamaia (125.2)",
-            "Anonimul (125.3)",
-            "Astra Film Festival (125.4)"
+            "TIFF",
+            "Festivalul de la Mamaia",
+            "Anonimul",
+            "Astra Film Festival"
           ],
           "answerIndex": 0,
           "explanation": "TIFF (Transilvania International Film Festival)."
@@ -14214,10 +14214,10 @@
         {
           "prompt": "Which historic 18th-century baroque castle near Cluj-Napoca hosts spectacular silent film live ciné-concerts during TIFF?",
           "options": [
-            "Castelul Bran (125.1)",
-            "Castelul Peleș (125.2)",
-            "Castelul Corvinilor (125.3)",
-            "Castelul Bánffy de la Bonțida (The Versailles of Transylvania) (125.4)"
+            "Castelul Bran",
+            "Castelul Peleș",
+            "Castelul Corvinilor",
+            "Castelul Bánffy de la Bonțida"
           ],
           "answerIndex": 3,
           "explanation": "Castelul Bánffy de la Bonțida."
@@ -14244,7 +14244,7 @@
             "Turnul Croitorilor",
             "Bastionul Măcelarilor",
             "Catedrala Mitropolitană",
-            "Biserica Sfântul Mihail (Saint Michael's Church)"
+            "Biserica Sfântul Mihail"
           ],
           "answerIndex": 3,
           "explanation": "Biserica Sfântul Mihail.",
@@ -14281,10 +14281,10 @@
         {
           "prompt": "Which Romanian-born dramatist founded the Theatre of the Absurd and authored \"The Bald Soprano\" (1950) and \"Rhinoceros\" (1959)?",
           "options": [
-            "Ion Luca Caragiale (126.1)",
-            "Matei Vișniec (126.2)",
-            "Mircea Eliade (126.3)",
-            "Eugen Ionescu (Eugène Ionesco) (126.4)"
+            "Ion Luca Caragiale",
+            "Matei Vișniec",
+            "Mircea Eliade",
+            "Eugen Ionescu"
           ],
           "answerIndex": 3,
           "explanation": "Eugen Ionescu (Eugène Ionesco)."
@@ -14296,10 +14296,10 @@
         {
           "prompt": "What sole resisting human protagonist in Ionesco's *Rinocerii* refuses to surrender his humanity and turn into a beast at the play's climax?",
           "options": [
-            "Jean (126.1)",
-            "Bérenger (126.2)",
-            "Dudard (126.3)",
-            "Botard (126.4)"
+            "Jean",
+            "Bérenger",
+            "Dudard",
+            "Botard"
           ],
           "answerIndex": 1,
           "explanation": "Bérenger."
@@ -14363,10 +14363,10 @@
         {
           "prompt": "Which 19th-century Romanian master dramatist wrote the supreme satirical political comedy \"O scrisoare pierdută\" (1884)?",
           "options": [
-            "Ion Luca Caragiale (127.1)",
-            "Mihail Sebastian (127.2)",
-            "Camil Petrescu (127.3)",
-            "Vasile Alecsandri (127.4)"
+            "Ion Luca Caragiale",
+            "Mihail Sebastian",
+            "Camil Petrescu",
+            "Vasile Alecsandri"
           ],
           "answerIndex": 0,
           "explanation": "Ion Luca Caragiale."
@@ -14378,10 +14378,10 @@
         {
           "prompt": "What memorable question is repeatedly asked by the confused, honest Drunken Citizen (Cetățeanul turmentat) in Caragiale's *O scrisoare pierdută*?",
           "options": [
-            "«Eu cu cine votez?» (Whom do I vote for?) (127.1)",
-            "«Unde este scrisoarea?» (127.2)",
-            "«Cine este prefectul?» (127.3)",
-            "«Cât costă biletul?» (127.4)"
+            "«Eu cu cine votez?»",
+            "«Unde este scrisoarea?»",
+            "«Cine este prefectul?»",
+            "«Cât costă biletul?»"
           ],
           "answerIndex": 0,
           "explanation": "«Eu cu cine votez?»"
@@ -14406,7 +14406,7 @@
           "prompt": "What monumental Bucharest cultural institution is officially named in honor of Ion Luca Caragiale?",
           "options": [
             "Opera Națională",
-            "Teatrul Național „I. L. Caragiale” din București (TNB)",
+            "Teatrul Național „I. L. Caragiale” din București",
             "Palatul Parlamentului",
             "Ateneul Român"
           ],
@@ -14445,10 +14445,10 @@
         {
           "prompt": "Which Romanian playwright wrote the poetic theatrical masterpiece \"Steaua fără nume\" (The Star Without a Name) in 1944 and \"Jocul de-a vacanța\"?",
           "options": [
-            "Mihail Sebastian (128.1)",
-            "Ion Luca Caragiale (128.2)",
-            "Camil Petrescu (128.3)",
-            "Lucian Blaga (128.4)"
+            "Mihail Sebastian",
+            "Ion Luca Caragiale",
+            "Camil Petrescu",
+            "Lucian Blaga"
           ],
           "answerIndex": 0,
           "explanation": "Mihail Sebastian."
@@ -14460,10 +14460,10 @@
         {
           "prompt": "What academic subject is taught by the dreamer protagonist Marin Miroiu in Mihail Sebastian's *Steaua fără nume*?",
           "options": [
-            "Astronomie și matematică (Astronomy and mathematics) (128.1)",
-            "Geologie minieră (128.2)",
-            "Medicină veterinară (128.3)",
-            "Drept constituțional (128.4)"
+            "Astronomie și matematică",
+            "Geologie minieră",
+            "Medicină veterinară",
+            "Drept constituțional"
           ],
           "answerIndex": 0,
           "explanation": "Astronomie și matematică."
@@ -14527,10 +14527,10 @@
         {
           "prompt": "Which internationally acclaimed living Romanian-French playwright wrote \"Angajare de clovn\" (Old Clown Wanted) and \"The History of Communism as Told to Mental Patients\"?",
           "options": [
-            "Silviu Purcărete (129.1)",
-            "Radu Afrim (129.2)",
-            "Matei Vișniec (129.3)",
-            "Eugen Ionescu (129.4)"
+            "Silviu Purcărete",
+            "Radu Afrim",
+            "Matei Vișniec",
+            "Eugen Ionescu"
           ],
           "answerIndex": 2,
           "explanation": "Matei Vișniec."
@@ -14542,10 +14542,10 @@
         {
           "prompt": "How many elderly, desperate veteran clowns compete in the claustrophobic job audition duel in Matei Vișniec's *Angajare de clovn*?",
           "options": [
-            "Zece clovni (129.1)",
-            "Trei clovni (Nicollo, Filippo și Peppino) (129.2)",
-            "Un singur clovn (129.3)",
-            "Doi clovni (129.4)"
+            "Zece clovni",
+            "Trei clovni",
+            "Un singur clovn",
+            "Doi clovni"
           ],
           "answerIndex": 1,
           "explanation": "Trei clovni (Nicollo, Filippo și Peppino)."
@@ -14572,7 +14572,7 @@
             "Festivalul de la Nisa",
             "Festivalul de la Cannes",
             "Festivalul de la Lyon",
-            "Festivalul de la Avignon (Festival d'Avignon)"
+            "Festivalul de la Avignon"
           ],
           "answerIndex": 3,
           "explanation": "Festivalul de la Avignon.",
@@ -14609,10 +14609,10 @@
         {
           "prompt": "Which visionary Romanian director staged the world-renowned monumental production of Goethe's \"Faust\" at the National Theatre in Sibiu?",
           "options": [
-            "Silviu Purcărete (130.1)",
-            "Radu Afrim (130.2)",
-            "Gábor Tompa (130.3)",
-            "Andrei Șerban (130.4)"
+            "Silviu Purcărete",
+            "Radu Afrim",
+            "Gábor Tompa",
+            "Andrei Șerban"
           ],
           "answerIndex": 0,
           "explanation": "Silviu Purcărete."
@@ -14624,10 +14624,10 @@
         {
           "prompt": "Which Romanian actress delivered an internationally acclaimed, award-winning performance as Mephistopheles in Silviu Purcărete's *Faust*?",
           "options": [
-            "Maia Morgenstern (130.1)",
-            "Mariana Mihuț (130.2)",
-            "Dorina Chiriac (130.3)",
-            "Ofelia Popii (130.4)"
+            "Maia Morgenstern",
+            "Mariana Mihuț",
+            "Dorina Chiriac",
+            "Ofelia Popii"
           ],
           "answerIndex": 3,
           "explanation": "Ofelia Popii."
@@ -14653,7 +14653,7 @@
           "options": [
             "FNT București",
             "TIFF",
-            "FITS (Festivalul Internațional de Teatru de la Sibiu)",
+            "FITS",
             "Festivalul Enescu"
           ],
           "answerIndex": 2,
@@ -14691,10 +14691,10 @@
         {
           "prompt": "Which world-renowned Romanian soprano achieved global superstardom in 1994 starring in Verdi's \"La Traviata\" at Covent Garden under Sir Georg Solti?",
           "options": [
-            "Ileana Cotrubaș (131.1)",
-            "Viorica Cortez (131.2)",
-            "Mariana Nicolesco (131.3)",
-            "Angela Gheorghiu (131.4)"
+            "Ileana Cotrubaș",
+            "Viorica Cortez",
+            "Mariana Nicolesco",
+            "Angela Gheorghiu"
           ],
           "answerIndex": 3,
           "explanation": "Angela Gheorghiu."
@@ -14706,10 +14706,10 @@
         {
           "prompt": "Which legendary Hungarian-British conductor wept during rehearsals of *La Traviata* in 1994 upon discovering Angela Gheorghiu's voice?",
           "options": [
-            "Sir Georg Solti (131.1)",
-            "Herbert von Karajan (131.2)",
-            "Claudio Abbado (131.3)",
-            "Leonard Bernstein (131.4)"
+            "Sir Georg Solti",
+            "Herbert von Karajan",
+            "Claudio Abbado",
+            "Leonard Bernstein"
           ],
           "answerIndex": 0,
           "explanation": "Sir Georg Solti."
@@ -14773,10 +14773,10 @@
         {
           "prompt": "Which 19th-century Romanian soprano was the original creator of Puccini's \"Tosca\" at its world premiere in Rome in 1900?",
           "options": [
-            "Hariclea Darclée (132.1)",
-            "Ileana Cotrubaș (132.2)",
-            "Viorica Cortez (132.3)",
-            "Mariana Nicolesco (132.4)"
+            "Hariclea Darclée",
+            "Ileana Cotrubaș",
+            "Viorica Cortez",
+            "Mariana Nicolesco"
           ],
           "answerIndex": 0,
           "explanation": "Hariclea Darclée."
@@ -14788,10 +14788,10 @@
         {
           "prompt": "What prestigious international voice competition in Brăila was founded in 1995 by soprano Mariana Nicolesco to honor Hariclea Darclée?",
           "options": [
-            "Concursul Internațional de Canto „Hariclea Darclée” (132.1)",
-            "Concursul George Enescu (132.2)",
-            "Concursul Dinu Lipatti (132.3)",
-            "Concursul Maria Callas (132.4)"
+            "Concursul Internațional de Canto „Hariclea Darclée”",
+            "Concursul George Enescu",
+            "Concursul Dinu Lipatti",
+            "Concursul Maria Callas"
           ],
           "answerIndex": 0,
           "explanation": "Concursul Internațional de Canto „Hariclea Darclée”."
@@ -14855,10 +14855,10 @@
         {
           "prompt": "Which monumental 1936 opera by George Enescu, premiered at the Paris Palais Garnier, is considered the greatest opera in Romanian music history?",
           "options": [
-            "«Oedipe» (133.1)",
-            "«Rapsodia Română» (133.2)",
-            "«Poema Română» (133.3)",
-            "«Vox Maris» (133.4)"
+            "«Oedipe»",
+            "«Rapsodia Română»",
+            "«Poema Română»",
+            "«Vox Maris»"
           ],
           "answerIndex": 0,
           "explanation": "«Oedipe»."
@@ -14870,10 +14870,10 @@
         {
           "prompt": "Which Romanian modernist architect designed the grand permanent building of the Bucharest National Opera (Opera Națională București), opened in 1953?",
           "options": [
-            "Octav Doicescu (133.1)",
-            "Marcel Janco (133.2)",
-            "Ion Mincu (133.3)",
-            "Horia Creangă (133.4)"
+            "Octav Doicescu",
+            "Marcel Janco",
+            "Ion Mincu",
+            "Horia Creangă"
           ],
           "answerIndex": 0,
           "explanation": "Octav Doicescu."
@@ -14937,10 +14937,10 @@
         {
           "prompt": "Which legendary Romanian baritone was hailed as \"The King of Baritones\" at La Scala and the Met, singing Figaro's \"Largo al factotum\" over 500 times?",
           "options": [
-            "Octav Enigărescu (134.1)",
-            "Dan Iordăchescu (134.2)",
-            "Nicolae Herlea (134.3)",
-            "Ludovic Spiess (134.4)"
+            "Octav Enigărescu",
+            "Dan Iordăchescu",
+            "Nicolae Herlea",
+            "Ludovic Spiess"
           ],
           "answerIndex": 2,
           "explanation": "Nicolae Herlea."
@@ -14952,10 +14952,10 @@
         {
           "prompt": "Which grand opera institution in Transylvania, founded in 1919, was the first official Romanian state opera theatre established in history?",
           "options": [
-            "Opera Națională Română Timișoara (134.1)",
-            "Opera Națională Română din Cluj-Napoca (134.2)",
-            "Opera Națională Română Iași (134.3)",
-            "Opera Națională București (134.4)"
+            "Opera Națională Română Timișoara",
+            "Opera Națională Română din Cluj-Napoca",
+            "Opera Națională Română Iași",
+            "Opera Națională București"
           ],
           "answerIndex": 1,
           "explanation": "Opera Națională Română din Cluj-Napoca."
@@ -15019,10 +15019,10 @@
         {
           "prompt": "Which Romanian soprano won London's prestigious Laurence Olivier Award for Outstanding Achievement in Opera for her performance in Massenet's \"Manon\" at Covent Garden?",
           "options": [
-            "Leontina Vaduva (135.1)",
-            "Ruxandra Donose (135.2)",
-            "Anita Hartig (135.3)",
-            "Elena Moșuc (135.4)"
+            "Leontina Vaduva",
+            "Ruxandra Donose",
+            "Anita Hartig",
+            "Elena Moșuc"
           ],
           "answerIndex": 0,
           "explanation": "Leontina Vaduva."
@@ -15034,10 +15034,10 @@
         {
           "prompt": "Which major Romanian international music festival, held biennially at Sala Palatului and the Romanian Athenaeum, is dedicated to George Enescu?",
           "options": [
-            "Festivalul Darclée (135.1)",
-            "Festivalul Cerbul de Aur (135.2)",
-            "Festivalul Enescu-Lipatti (135.3)",
-            "Festivalul Internațional „George Enescu” (135.4)"
+            "Festivalul Darclée",
+            "Festivalul Cerbul de Aur",
+            "Festivalul Enescu-Lipatti",
+            "Festivalul Internațional „George Enescu”"
           ],
           "answerIndex": 3,
           "explanation": "Festivalul Internațional „George Enescu”."
@@ -15062,7 +15062,7 @@
           "prompt": "Which neoclassical 1888 concert hall on Calea Victoriei in Bucharest, with its iconic circular rotunda and fresco, is the architectural symbol of Romanian high culture?",
           "options": [
             "Palatul Șuțu",
-            "Ateneul Român (Romanian Athenaeum)",
+            "Ateneul Român",
             "Palatul Cantacuzino",
             "Muzeul Național de Artă"
           ],
@@ -15101,10 +15101,10 @@
         {
           "prompt": "Which 17th-18th century architectural style, named after a Wallachian prince, defined the Romanian Renaissance at Mogoșoaia Palace and Hurezi Monastery?",
           "options": [
-            "Stilul Neoromânesc (136.1)",
-            "Stilul Gotic Transilvănean (136.2)",
-            "Stilul Baroc Vienez (136.3)",
-            "Stilul Brâncovenesc (136.4)"
+            "Stilul Neoromânesc",
+            "Stilul Gotic Transilvănean",
+            "Stilul Baroc Vienez",
+            "Stilul Brâncovenesc"
           ],
           "answerIndex": 3,
           "explanation": "Stilul Brâncovenesc."
@@ -15116,10 +15116,10 @@
         {
           "prompt": "What characteristic open-air architectural feature overlooking gardens or lakes defines Brâncovenesc residential palaces?",
           "options": [
-            "Foișorul deschis / Loggia venețiană (Open loggia / balcony) (136.1)",
-            "Turnul de veghe medieval (136.2)",
-            "Șanțul cu apă (136.3)",
-            "Domeniul subteran (136.4)"
+            "Foișorul deschis / Loggia venețiană",
+            "Turnul de veghe medieval",
+            "Șanțul cu apă",
+            "Domeniul subteran"
           ],
           "answerIndex": 0,
           "explanation": "Foișorul deschis / Loggia venețiană."
@@ -15143,7 +15143,7 @@
         {
           "prompt": "What monumental monastic complex in Vâlcea County, founded by Constantin Brâncoveanu, is inscribed as a UNESCO World Heritage site?",
           "options": [
-            "Mănăstirea Hurezi (Horezu Monastery)",
+            "Mănăstirea Hurezi",
             "Mănăstirea Voroneț",
             "Mănăstirea Putna",
             "Mănăstirea Curtea de Argeș"
@@ -15183,10 +15183,10 @@
         {
           "prompt": "Which master architect founded the Neo-Romanian architectural movement with Casa Lahovary (1886) and Bufetul de la Șosea?",
           "options": [
-            "Ion Mincu (137.1)",
-            "Horia Creangă (137.2)",
-            "Duiliu Marcu (137.3)",
-            "Petre Antonescu (137.4)"
+            "Ion Mincu",
+            "Horia Creangă",
+            "Duiliu Marcu",
+            "Petre Antonescu"
           ],
           "answerIndex": 0,
           "explanation": "Ion Mincu."
@@ -15198,10 +15198,10 @@
         {
           "prompt": "What premier Romanian university of architecture in Bucharest is named in honor of Ion Mincu?",
           "options": [
-            "Universitatea de Arhitectură și Urbanism „Ion Mincu” (UAUIM) (137.1)",
-            "Universitatea Politehnica (137.2)",
-            "UNARTE (137.3)",
-            "Universitatea din București (137.4)"
+            "Universitatea de Arhitectură și Urbanism „Ion Mincu”",
+            "Universitatea Politehnica",
+            "UNARTE",
+            "Universitatea din București"
           ],
           "answerIndex": 0,
           "explanation": "Universitatea de Arhitectură și Urbanism „Ion Mincu”."
@@ -15228,7 +15228,7 @@
             "Arcul de Triumf",
             "Muzeul Țăranului Român",
             "Palatul Victoria",
-            "Bufetul de la Șosea (Restaurantul Doina)"
+            "Bufetul de la Șosea"
           ],
           "answerIndex": 3,
           "explanation": "Bufetul de la Șosea.",
@@ -15265,10 +15265,10 @@
         {
           "prompt": "Which monumental Bucharest structure, designed by Anca Petrescu, is the second largest administrative building in the world and the heaviest building on Earth?",
           "options": [
-            "Palatul Parlamentului (Casa Poporului) (138.1)",
-            "Palatul Regal (138.2)",
-            "Palatul Victoria (138.3)",
-            "Palatul Cotroceni (138.4)"
+            "Palatul Parlamentului",
+            "Palatul Regal",
+            "Palatul Victoria",
+            "Palatul Cotroceni"
           ],
           "answerIndex": 0,
           "explanation": "Palatul Parlamentului (Casa Poporului)."
@@ -15280,10 +15280,10 @@
         {
           "prompt": "What famous domestic pink and white marble from Caraș-Severin County was quarried in massive volumes for the Palace of the Parliament?",
           "options": [
-            "Marmura de Rușchița (Rușchița marble) (138.1)",
-            "Granitul de Măcin (138.2)",
-            "Calcarul de Vrața (138.3)",
-            "Marmura de Carrara (138.4)"
+            "Marmura de Rușchița",
+            "Granitul de Măcin",
+            "Calcarul de Vrața",
+            "Marmura de Carrara"
           ],
           "answerIndex": 0,
           "explanation": "Marmura de Rușchița."
@@ -15347,10 +15347,10 @@
         {
           "prompt": "Which master Romanian architect designed the landmark modernist ARO Building (Cinema Patria) on Bulevardul Magheru in 1931?",
           "options": [
-            "Marcel Janco (139.1)",
-            "Duiliu Marcu (139.2)",
-            "Horia Creangă (139.3)",
-            "Ion Mincu (139.4)"
+            "Marcel Janco",
+            "Duiliu Marcu",
+            "Horia Creangă",
+            "Ion Mincu"
           ],
           "answerIndex": 2,
           "explanation": "Horia Creangă."
@@ -15362,10 +15362,10 @@
         {
           "prompt": "Which famous 19th-century Romanian literary storyteller was the grandfather of architect Horia Creangă?",
           "options": [
-            "Ion Luca Caragiale (139.1)",
-            "Ion Creangă (139.2)",
-            "Vasile Alecsandri (139.3)",
-            "Mihai Eminescu (139.4)"
+            "Ion Luca Caragiale",
+            "Ion Creangă",
+            "Vasile Alecsandri",
+            "Mihai Eminescu"
           ],
           "answerIndex": 1,
           "explanation": "Ion Creangă."
@@ -15390,7 +15390,7 @@
           "prompt": "What grand industrial manufacturing complex in Bucharest, designed by Horia Creangă for industrialist Nicolae Malaxa, is celebrated for its modernist industrial aesthetics?",
           "options": [
             "Rafinăria Ploiești",
-            "Uzinele Malaxa (Uzinele 23 August / Faur)",
+            "Uzinele Malaxa",
             "Uzina Dacia Pitești",
             "Combinatul Siderurgic Galați"
           ],
@@ -15429,10 +15429,10 @@
         {
           "prompt": "Which famous Transylvanian Saxon fortified church features a 1515 sacristy door with nineteen mechanical locks that won first prize at the 1900 Paris Exposition?",
           "options": [
-            "Biserica fortificată din Biertan (140.1)",
-            "Biserica Neagră din Brașov (140.2)",
-            "Biserica din Prejmer (140.3)",
-            "Biserica din Viscri (140.4)"
+            "Biserica fortificată din Biertan",
+            "Biserica Neagră din Brașov",
+            "Biserica din Prejmer",
+            "Biserica din Viscri"
           ],
           "answerIndex": 0,
           "explanation": "Biserica fortificată din Biertan."
@@ -15444,10 +15444,10 @@
         {
           "prompt": "What traditional joinery method allowed master craftsmen in Maramureș to construct soaring wooden church spires without using metal nails?",
           "options": [
-            "Sudură cu laser (140.1)",
-            "Ciment armat (140.2)",
-            "Șuruburi industriale de titan (140.3)",
-            "Îmbinări din lemn în coadă de rândunică și cuie de lemn (Dovetail wooden joints and wooden pegs) (140.4)"
+            "Sudură cu laser",
+            "Ciment armat",
+            "Șuruburi industriale de titan",
+            "Îmbinări din lemn în coadă de rândunică și cuie de lemn"
           ],
           "answerIndex": 3,
           "explanation": "Îmbinări din lemn în coadă de rândunică."
@@ -15471,7 +15471,7 @@
         {
           "prompt": "Which historic 14th-century wooden church in Maramureș, constructed of dense fir and oak beams, is widely considered the oldest surviving wooden church in the region?",
           "options": [
-            "Biserica de lemn din Ieud Deal (1364)",
+            "Biserica de lemn din Ieud Deal",
             "Biserica din Surdești",
             "Biserica din Desești",
             "Biserica din Plopiș"
@@ -15511,10 +15511,10 @@
         {
           "prompt": "Which master Romanian-French philosopher wrote \"On the Heights of Despair\" (1934) and \"A Short History of Decay\" (1949)?",
           "options": [
-            "Mircea Eliade (141.1)",
-            "Constantin Noica (141.2)",
-            "Eugen Ionescu (141.3)",
-            "Emil Cioran (141.4)"
+            "Mircea Eliade",
+            "Constantin Noica",
+            "Eugen Ionescu",
+            "Emil Cioran"
           ],
           "answerIndex": 3,
           "explanation": "Emil Cioran."
@@ -15526,10 +15526,10 @@
         {
           "prompt": "What severe physiological condition, experienced by Cioran in his youth in Sibiu, triggered his profound existential lucidity and writing?",
           "options": [
-            "Insomnia cronică (Chronic insomnia) (141.1)",
-            "Orbirea temporară (141.2)",
-            "Febra tifoidă (141.3)",
-            "Amnazia (141.4)"
+            "Insomnia cronică",
+            "Orbirea temporară",
+            "Febra tifoidă",
+            "Amnazia"
           ],
           "answerIndex": 0,
           "explanation": "Insomnia cronică (Chronic insomnia)."
@@ -15556,7 +15556,7 @@
             "Biertan",
             "Sighișoara",
             "Făgăraș",
-            "Rășinari (Județul Sibiu)"
+            "Rășinari"
           ],
           "answerIndex": 3,
           "explanation": "Rășinari (Județul Sibiu).",
@@ -15593,10 +15593,10 @@
         {
           "prompt": "Which master Romanian scholar of religions founded modern comparative religious hermeneutics at the University of Chicago, authoring \"The Myth of the Eternal Return\"?",
           "options": [
-            "Mircea Eliade (142.1)",
-            "Ioan Petru Culianu (142.2)",
-            "Vasile Pârvan (142.3)",
-            "Constantin Noica (142.4)"
+            "Mircea Eliade",
+            "Ioan Petru Culianu",
+            "Vasile Pârvan",
+            "Constantin Noica"
           ],
           "answerIndex": 0,
           "explanation": "Mircea Eliade."
@@ -15608,10 +15608,10 @@
         {
           "prompt": "What Greek-derived term was coined and popularized by Mircea Eliade to describe any physical manifestation of the Sacred within the profane world?",
           "options": [
-            "Hierofania (Hierophany) (142.1)",
-            "Teofania (142.2)",
-            "Anamneza (142.3)",
-            "Epifania (142.4)"
+            "Hierofania",
+            "Teofania",
+            "Anamneza",
+            "Epifania"
           ],
           "answerIndex": 0,
           "explanation": "Hierofania (Hierophany)."
@@ -15637,7 +15637,7 @@
           "options": [
             "Mumbai",
             "New Delhi",
-            "Calcutta (Kolkata)",
+            "Calcutta",
             "Chennai"
           ],
           "answerIndex": 2,
@@ -15675,10 +15675,10 @@
         {
           "prompt": "Which master Romanian philosopher established the philosophical seminar at Păltiniș and authored \"Becoming into Being\" (1981)?",
           "options": [
-            "Constantin Noica (143.1)",
-            "Lucian Blaga (143.2)",
-            "Petre Țuțea (143.3)",
-            "Anton Dumitriu (143.4)"
+            "Constantin Noica",
+            "Lucian Blaga",
+            "Petre Țuțea",
+            "Anton Dumitriu"
           ],
           "answerIndex": 0,
           "explanation": "Constantin Noica."
@@ -15690,10 +15690,10 @@
         {
           "prompt": "What archaic Romanian preposition, meaning dynamic movement and orientation toward Being, was metaphysically analyzed by Noica in \"Sentimentul românesc al ființei\"?",
           "options": [
-            "Întru (Toward / Into Being) (143.1)",
-            "Către (143.2)",
-            "Fără (143.3)",
-            "Despre (143.4)"
+            "Întru",
+            "Către",
+            "Fără",
+            "Despre"
           ],
           "answerIndex": 0,
           "explanation": "Întru (Toward / Into Being)."
@@ -15757,10 +15757,10 @@
         {
           "prompt": "Which master Romanian poet-philosopher formulated the concept of \"The Mioritic Space\" (Spațiul mioritic) in his Trilogy of Culture (1944)?",
           "options": [
-            "Mircea Vulcănescu (144.1)",
-            "Emil Cioran (144.2)",
-            "Lucian Blaga (144.3)",
-            "Constantin Noica (144.4)"
+            "Mircea Vulcănescu",
+            "Emil Cioran",
+            "Lucian Blaga",
+            "Constantin Noica"
           ],
           "answerIndex": 2,
           "explanation": "Lucian Blaga."
@@ -15772,10 +15772,10 @@
         {
           "prompt": "What spatial topographical rhythm was identified by Lucian Blaga as the unconscious stylistic matrix of the Romanian soul in \"Spațiul mioritic\"?",
           "options": [
-            "Deșertul arid (144.1)",
-            "Muntele vertical gotic (144.2)",
-            "Alternanța ritmică deal-vale (The undulating rhythm of hill and valley) (144.3)",
-            "Stepa nesfârșită (144.4)"
+            "Deșertul arid",
+            "Muntele vertical gotic",
+            "Alternanța ritmică deal-vale",
+            "Stepa nesfârșită"
           ],
           "answerIndex": 2,
           "explanation": "Alternanța ritmică deal-vale."
@@ -15799,7 +15799,7 @@
         {
           "prompt": "What ultimate metaphysical source in Blaga's metaphysics imposes \"transcendent censorship\" to preserve the generative mystery of the cosmos?",
           "options": [
-            "Marele Anonim (The Great Anonymous)",
+            "Marele Anonim",
             "Destinul orb",
             "Vidul cuantic",
             "Marele Arhitect"
@@ -15839,10 +15839,10 @@
         {
           "prompt": "Which master Romanian Christian philosopher, revered as the \"Romanian Socrates\", endured thirteen years in Aiud prison and authored \"Man: Treatise on Christian Anthropology\"?",
           "options": [
-            "Petre Țuțea (145.1)",
-            "Mircea Vulcănescu (145.2)",
-            "Nichifor Crainic (145.3)",
-            "Dumitru Stăniloae (145.4)"
+            "Petre Țuțea",
+            "Mircea Vulcănescu",
+            "Nichifor Crainic",
+            "Dumitru Stăniloae"
           ],
           "answerIndex": 0,
           "explanation": "Petre Țuțea."
@@ -15854,10 +15854,10 @@
         {
           "prompt": "Complete Petre Țuțea's famous anthropological aphorism: «Fără ..., omul rămâne un biet animal rațional și vorbitor, care vine de nicăieri și merge spre nicăieri»?",
           "options": [
-            "Știință (145.1)",
-            "Politică (145.2)",
-            "Bani (145.3)",
-            "Dumnezeu (God) (145.4)"
+            "Știință",
+            "Politică",
+            "Bani",
+            "Dumnezeu"
           ],
           "answerIndex": 3,
           "explanation": "Dumnezeu (God)."
@@ -15921,10 +15921,10 @@
         {
           "prompt": "Which master Romanian director created the 1968 landmark \"Reconstituirea\" (The Reenactment), voted the greatest Romanian film of all time?",
           "options": [
-            "Liviu Ciulei (146.1)",
-            "Mircea Daneliuc (146.2)",
-            "Sergiu Nicolaescu (146.3)",
-            "Lucian Pintilie (146.4)"
+            "Liviu Ciulei",
+            "Mircea Daneliuc",
+            "Sergiu Nicolaescu",
+            "Lucian Pintilie"
           ],
           "answerIndex": 3,
           "explanation": "Lucian Pintilie."
@@ -15936,10 +15936,10 @@
         {
           "prompt": "Which celebrated Romanian actress delivered an internationally acclaimed performance as Nela in Pintilie's 1992 Cannes film \"Balanța\" (The Oak)?",
           "options": [
-            "Maia Morgenstern (146.1)",
-            "Mariana Mihuț (146.2)",
-            "Luminita Gheorghiu (146.3)",
-            "Anamaria Marinca (146.4)"
+            "Maia Morgenstern",
+            "Mariana Mihuț",
+            "Luminita Gheorghiu",
+            "Anamaria Marinca"
           ],
           "answerIndex": 0,
           "explanation": "Maia Morgenstern."
@@ -16003,10 +16003,10 @@
         {
           "prompt": "Which master Romanian director won the Cannes Palme d'Or for \"4 Months, 3 Weeks and 2 Days\" (2007) and Cannes Best Director for \"Graduation\" (2016)?",
           "options": [
-            "Cristian Mungiu (147.1)",
-            "Corneliu Porumboiu (147.2)",
-            "Radu Jude (147.3)",
-            "Cristi Puiu (147.4)"
+            "Cristian Mungiu",
+            "Corneliu Porumboiu",
+            "Radu Jude",
+            "Cristi Puiu"
           ],
           "answerIndex": 0,
           "explanation": "Cristian Mungiu."
@@ -16018,10 +16018,10 @@
         {
           "prompt": "Which draconian 1966 communist legal decree, banning abortion and contraception in Ceaușescu's Romania, forms the historical core of *4 Months, 3 Weeks and 2 Days*?",
           "options": [
-            "Decretul 770 (Decree 770) (147.1)",
-            "Decretul 115 (147.2)",
-            "Legea Marțială (147.3)",
-            "Decretul 400 (147.4)"
+            "Decretul 770",
+            "Decretul 115",
+            "Legea Marțială",
+            "Decretul 400"
           ],
           "answerIndex": 0,
           "explanation": "Decretul 770."
@@ -16085,10 +16085,10 @@
         {
           "prompt": "Which master Romanian director inaugurated the Romanian New Wave with \"The Death of Mr. Lăzărescu\" (2005) and directed \"Sieranevada\" (2016)?",
           "options": [
-            "Cristi Puiu (148.1)",
-            "Cristian Mungiu (148.2)",
-            "Radu Muntean (148.3)",
-            "Cătălin Mitulescu (148.4)"
+            "Cristi Puiu",
+            "Cristian Mungiu",
+            "Radu Muntean",
+            "Cătălin Mitulescu"
           ],
           "answerIndex": 0,
           "explanation": "Cristi Puiu."
@@ -16100,10 +16100,10 @@
         {
           "prompt": "Which beloved Romanian actress portrayed the tireless paramedic Mioara Avram alongside Ion Fiscuteanu in \"The Death of Mr. Lăzărescu\"?",
           "options": [
-            "Luminița Gheorghiu (148.1)",
-            "Coca Bloos (148.2)",
-            "Dana Dogaru (148.3)",
-            "Maia Morgenstern (148.4)"
+            "Luminița Gheorghiu",
+            "Coca Bloos",
+            "Dana Dogaru",
+            "Maia Morgenstern"
           ],
           "answerIndex": 0,
           "explanation": "Luminița Gheorghiu."
@@ -16127,7 +16127,7 @@
         {
           "prompt": "What 19th-century Russian religious philosopher's texts formed the intellectual screenplay of Cristi Puiu's 2020 masterpiece *Malmkrog*?",
           "options": [
-            "Vladimir Solovyov (Vladimir Soloviov)",
+            "Vladimir Solovyov",
             "Fyodor Dostoevsky",
             "Leo Tolstoy",
             "Nikolai Berdyaev"
@@ -16167,10 +16167,10 @@
         {
           "prompt": "Which master Romanian director won the Cannes Caméra d'Or for \"12:08 East of Bucharest\" (2006) and directed \"Police, Adjective\" (2009)?",
           "options": [
-            "Adrian Sitaru (149.1)",
-            "Florin Șerban (149.2)",
-            "Corneliu Porumboiu (149.3)",
-            "Radu Jude (149.4)"
+            "Adrian Sitaru",
+            "Florin Șerban",
+            "Corneliu Porumboiu",
+            "Radu Jude"
           ],
           "answerIndex": 2,
           "explanation": "Corneliu Porumboiu."
@@ -16182,10 +16182,10 @@
         {
           "prompt": "What ancestral whistled indigenous language from the Canary Islands is learned by a corrupt Romanian cop in Porumboiu's 2019 neo-noir \"La Gomera\"?",
           "options": [
-            "Ladino (149.1)",
-            "Gaelic (149.2)",
-            "El Silbo Gomero (Whistled Language) (149.3)",
-            "Esperanto (149.4)"
+            "Ladino",
+            "Gaelic",
+            "El Silbo Gomero",
+            "Esperanto"
           ],
           "answerIndex": 2,
           "explanation": "El Silbo Gomero."
@@ -16212,7 +16212,7 @@
             "Bacău",
             "Iași",
             "Galați",
-            "Vaslui (Județul Vaslui)"
+            "Vaslui"
           ],
           "answerIndex": 3,
           "explanation": "Vaslui (Județul Vaslui).",
@@ -16249,10 +16249,10 @@
         {
           "prompt": "Which master Romanian director won the Berlin Golden Bear for \"Bad Luck Banging or Loony Porn\" (2021) and the Berlin Silver Bear for \"Aferim!\" (2015)?",
           "options": [
-            "Radu Jude (150.1)",
-            "Cristian Mungiu (150.2)",
-            "Corneliu Porumboiu (150.3)",
-            "Cristi Puiu (150.4)"
+            "Radu Jude",
+            "Cristian Mungiu",
+            "Corneliu Porumboiu",
+            "Cristi Puiu"
           ],
           "answerIndex": 0,
           "explanation": "Radu Jude."
@@ -16264,10 +16264,10 @@
         {
           "prompt": "What 500-year historical injustice in 19th-century Wallachia is dramatized in Radu Jude's 35mm black-and-white western \"Aferim!\"?",
           "options": [
-            "Răscoala de la 1907 (150.1)",
-            "Marea Unire de la 1918 (150.2)",
-            "Revoluția de la 1848 (150.3)",
-            "Sclavia romilor (Roma slavery in the Romanian principalities) (150.4)"
+            "Răscoala de la 1907",
+            "Marea Unire de la 1918",
+            "Revoluția de la 1848",
+            "Sclavia romilor"
           ],
           "answerIndex": 3,
           "explanation": "Sclavia romilor."
@@ -16293,7 +16293,7 @@
           "options": [
             "Leul de Aur",
             "Globul de Aur",
-            "Ursul de Aur (Golden Bear / Goldener Bär)",
+            "Ursul de Aur",
             "Palme d'Or"
           ],
           "answerIndex": 2,
@@ -16331,10 +16331,10 @@
         {
           "prompt": "What traditional unglazed clay pot is used to slow-bake Romanian sarmale in the oven for hours until tender?",
           "options": [
-            "Ceaunul de fontă (151.1)",
-            "Tigaia de cupru (151.2)",
-            "Tava de aluminiu (151.3)",
-            "Oala de lut ars (Unglazed Clay Pot) (151.4)"
+            "Ceaunul de fontă",
+            "Tigaia de cupru",
+            "Tava de aluminiu",
+            "Oala de lut ars"
           ],
           "answerIndex": 3,
           "explanation": "Oala de lut ars (Unglazed Clay Pot)."
@@ -16346,10 +16346,10 @@
         {
           "prompt": "What traditional tool is used to slice a steaming round mămăliga into portions without sticking to a knife blade?",
           "options": [
-            "O ață de bumbac curată (Clean cotton thread) (151.1)",
-            "O spatulă de lemn (151.2)",
-            "O foarfecă (151.3)",
-            "O lingură de argint (151.4)"
+            "O ață de bumbac curată",
+            "O spatulă de lemn",
+            "O foarfecă",
+            "O lingură de argint"
           ],
           "answerIndex": 0,
           "explanation": "O ață de bumbac curată (Clean cotton thread)."
@@ -16374,7 +16374,7 @@
           "prompt": "What dried aromatic wild herb is an indispensable seasoning in the minced meat filling of authentic Romanian sarmale?",
           "options": [
             "Busuioc",
-            "Cimbru uscat (Dried Summer Savory / Thyme)",
+            "Cimbru uscat",
             "Rozmarin proaspăt",
             "Oregano grecesc"
           ],
@@ -16413,10 +16413,10 @@
         {
           "prompt": "What chemical ingredient is traditionally added to Romanian mici meat mixture to elevate pH and create their signature springy, juicy texture?",
           "options": [
-            "Bicarbonat de sodiu (Baking Soda) (152.1)",
-            "Drojdie uscată (152.2)",
-            "Oțet de mere (152.3)",
-            "Praf de copt (152.4)"
+            "Bicarbonat de sodiu",
+            "Drojdie uscată",
+            "Oțet de mere",
+            "Praf de copt"
           ],
           "answerIndex": 0,
           "explanation": "Bicarbonat de sodiu (Baking Soda)."
@@ -16428,10 +16428,10 @@
         {
           "prompt": "Which historic Moldavian town in Galați County is celebrated across Romania for producing the iconic traditional mustard paired with mici?",
           "options": [
-            "Tecuci (Muștar de Tecuci) (152.1)",
-            "Focșani (152.2)",
-            "Roman (152.3)",
-            "Bârlad (152.4)"
+            "Tecuci",
+            "Focșani",
+            "Roman",
+            "Bârlad"
           ],
           "answerIndex": 0,
           "explanation": "Tecuci (Muștar de Tecuci)."
@@ -16455,7 +16455,7 @@
         {
           "prompt": "On which historic street in Bucharest's Old Town was the tavern of Iordache Ionescu located where mici were famously invented in 1901?",
           "options": [
-            "Strada Covaci (Centrul Vechi / Lipscani)",
+            "Strada Covaci",
             "Calea Victoriei",
             "Bulevardul Magheru",
             "Strada Lipscani"
@@ -16495,10 +16495,10 @@
         {
           "prompt": "Which prestigious southern Carpathian wine region in Prahova and Buzău is celebrated as the \"Homeland of Red Wines\" for Fetească Neagră?",
           "options": [
-            "Dealu Mare (153.1)",
-            "Murfatlar (153.2)",
-            "Târnave (153.3)",
-            "Panciu (153.4)"
+            "Dealu Mare",
+            "Murfatlar",
+            "Târnave",
+            "Panciu"
           ],
           "answerIndex": 0,
           "explanation": "Dealu Mare."
@@ -16510,10 +16510,10 @@
         {
           "prompt": "What indigenous Romanian red grape variety, producing notes of dried black plums and spice, is acclaimed as the \"Great Lady of Romanian Wines\"?",
           "options": [
-            "Fetească Neagră (153.1)",
-            "Novac (153.2)",
-            "Negru de Drăgășani (153.3)",
-            "Băbească Neagră (153.4)"
+            "Fetească Neagră",
+            "Novac",
+            "Negru de Drăgășani",
+            "Băbească Neagră"
           ],
           "answerIndex": 0,
           "explanation": "Fetească Neagră."
@@ -16577,10 +16577,10 @@
         {
           "prompt": "Which sweet festive braided bread, enriched with dozens of egg yolks and filled with walnuts, cocoa, and rahat, is the centerpiece of Romanian Christmas and Easter?",
           "options": [
-            "Covrigii de Buzău (154.1)",
-            "Mămăliga (154.2)",
-            "Cozonacul (154.3)",
-            "Pâinea de casă (154.4)"
+            "Covrigii de Buzău",
+            "Mămăliga",
+            "Cozonacul",
+            "Pâinea de casă"
           ],
           "answerIndex": 2,
           "explanation": "Cozonacul."
@@ -16592,10 +16592,10 @@
         {
           "prompt": "What traditional Easter bread features a rich filling of sweet farmer's cheese, eggs, and raisins crowned by a braided dough cross?",
           "options": [
-            "Plăcinta dobrogeană (154.1)",
-            "Cozonacul (154.2)",
-            "Pasca (Pasca pascală) (154.3)",
-            "Coliva (154.4)"
+            "Plăcinta dobrogeană",
+            "Cozonacul",
+            "Pasca",
+            "Coliva"
           ],
           "answerIndex": 2,
           "explanation": "Pasca (Pasca pascală)."
@@ -16621,7 +16621,7 @@
           "options": [
             "Papanașii",
             "Cornulețele cu magiun",
-            "Sfințișorii moldovenești (Mucenici)",
+            "Sfințișorii moldovenești",
             "Gogoșile"
           ],
           "answerIndex": 2,
@@ -16659,10 +16659,10 @@
         {
           "prompt": "Which prized Romanian artisanal mountain sheep cheese is aged inside cylinders of fresh, resinous fir tree bark in the Rucăr-Bran region?",
           "options": [
-            "Brânza de burduf în coajă de brad (155.1)",
-            "Telemeaua de vacă (155.2)",
-            "Urda dulce (155.3)",
-            "Cașul proaspăt (155.4)"
+            "Brânza de burduf în coajă de brad",
+            "Telemeaua de vacă",
+            "Urda dulce",
+            "Cașul proaspăt"
           ],
           "answerIndex": 0,
           "explanation": "Brânza de burduf în coajă de brad."
@@ -16674,10 +16674,10 @@
         {
           "prompt": "What natural brine source from Gurghiu Valley is used to cure and age the European-protected Telemea de Ibănești (PDO)?",
           "options": [
-            "Apă de mare din Marea Neagră (155.1)",
-            "Sare iodată de masă (155.2)",
-            "Oțet distilat (155.3)",
-            "Saramura naturală din fântâna de apă sărată de la Orșova (155.4)"
+            "Apă de mare din Marea Neagră",
+            "Sare iodată de masă",
+            "Oțet distilat",
+            "Saramura naturală din fântâna de apă sărată de la Orșova"
           ],
           "answerIndex": 3,
           "explanation": "Saramura naturală din fântâna de apă sărată de la Orșova."
@@ -16702,7 +16702,7 @@
           "prompt": "What virtually fat-free, protein-rich traditional Romanian cheese is produced by re-boiling the sweet whey (*zer*) left over from caș cheese making?",
           "options": [
             "Burduful",
-            "Urda (Urdă)",
+            "Urda",
             "Brânza topită",
             "Cașcavalul"
           ],
@@ -16863,7 +16863,7 @@
         {
           "prompt": "Cum a subintitulat Eugen Ionescu piesa sa de debut Cântăreața cheală (1950)?",
           "options": [
-            "Antipiesă (Anti-pièce)",
+            "Antipiesă",
             "Dramă istorică în versuri",
             "Tragidramă religioasă",
             "Comedie muzicală"
@@ -17022,7 +17022,7 @@
         {
           "prompt": "Ce mare festival românesc de teatru, clasat printre primele trei din lume ca anvergură, are spectacolul Faust ca emblemă?",
           "options": [
-            "Festivalul Internațional de Teatru de la Sibiu (FITS)",
+            "Festivalul Internațional de Teatru de la Sibiu",
             "Festivalul Național de Teatru București",
             "Festivalul de la Sighișoara",
             "Gala Tânărului Actor HOP"
@@ -17283,7 +17283,7 @@
         {
           "prompt": "Ce nuanță cromatică unică stă la baza faimei mondiale a frescelor Mănăstirii Voroneț?",
           "options": [
-            "Albastrul de Voroneț (pe bază de mineral azurit)",
+            "Albastrul de Voroneț",
             "Negrul de cărbune de fag",
             "Rozul fosforescent",
             "Auriul cu sclipici"
@@ -17370,7 +17370,7 @@
         {
           "prompt": "Ce mănăstire din județul Vâlcea, ctitorită de Constantin Brâncoveanu, este inclusă în Patrimoniul Mondial UNESCO?",
           "options": [
-            "Mănăstirea Horezu (Hurez)",
+            "Mănăstirea Horezu",
             "Mănăstirea Curtea de Argeș",
             "Mănăstirea Putna",
             "Mănăstirea Tismana"
@@ -17559,7 +17559,7 @@
         {
           "prompt": "În ce stil arhitectural și decorativ de la 1900 este amenajat interiorul Castelului Pelișor de lângă Peleș?",
           "options": [
-            "Art Nouveau (Jugendstil vienez cu motive celtice și bizantine)",
+            "Art Nouveau",
             "Gotic pur medieval",
             "Baroc francez ca la Versailles",
             "Brutalism modern"
@@ -17571,7 +17571,7 @@
         {
           "prompt": "În ce lanț muntos spectaculos din România se află amplasat domeniul regal Peleș?",
           "options": [
-            "Munții Bucegi (Carpații Meridionali)",
+            "Munții Bucegi",
             "Munții Apuseni",
             "Munții Rodnei",
             "Munții Măcin"
@@ -17646,7 +17646,7 @@
             "Adeverința de angajare provizorie",
             "Chitanța consulară",
             "Pașaportul simplu turistic",
-            "Scrisorile de acreditare (Letters of Credence)"
+            "Scrisorile de acreditare"
           ],
           "answerIndex": 3,
           "explanation": "Scrisorile de acreditare atestă rangul și mandatul oficial al ambasadorului.",
@@ -17892,7 +17892,7 @@
         {
           "prompt": "Unde are sediul Curtea Internațională de Justiție (CIJ)?",
           "options": [
-            "La Haga (Palatul Păcii, Țările de Jos)",
+            "La Haga",
             "La Strasbourg",
             "La Viena",
             "La Geneva"

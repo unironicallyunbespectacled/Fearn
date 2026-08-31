@@ -482,10 +482,10 @@
         {
           "prompt": "It's 9 AM. Which greeting fits?",
           "options": [
-            "Adiós (1.1)",
-            "Buenas noches (1.2)",
-            "Buenas tardes (1.3)",
-            "Buenos días (1.4)"
+            "Adiós",
+            "Buenas noches",
+            "Buenas tardes",
+            "Buenos días"
           ],
           "answerIndex": 3,
           "explanation": "Buenos días is used in the morning."
@@ -530,10 +530,10 @@
         {
           "prompt": "Which farewell most strongly implies 'we will meet again soon'?",
           "options": [
-            "Mucho gusto (1.1)",
-            "Buenas noches (1.2)",
-            "Adiós (1.3)",
-            "Hasta pronto (1.4)"
+            "Mucho gusto",
+            "Buenas noches",
+            "Adiós",
+            "Hasta pronto"
           ],
           "answerIndex": 3,
           "explanation": "Hasta pronto = \"see you soon.\""
@@ -702,10 +702,10 @@
         {
           "prompt": "El café ___ frío. (The coffee is cold.)",
           "options": [
-            "es (2.1)",
-            "está (2.2)",
-            "están (2.3)",
-            "son (2.4)"
+            "es",
+            "está",
+            "están",
+            "son"
           ],
           "answerIndex": 1,
           "explanation": "Temperature is a changeable condition, so estar is used."
@@ -750,10 +750,10 @@
         {
           "prompt": "Hoy ___ lunes. (Today is Monday.)",
           "options": [
-            "está (2.1)",
-            "son (2.2)",
-            "están (2.3)",
-            "es (2.4)"
+            "está",
+            "son",
+            "están",
+            "es"
           ],
           "answerIndex": 3,
           "explanation": "Dates and days of the week use ser."
@@ -922,10 +922,10 @@
         {
           "prompt": "Yo ___ María. (I am María.)",
           "options": [
-            "soy (3.1)",
-            "es (3.2)",
-            "son (3.3)",
-            "eres (3.4)"
+            "soy",
+            "es",
+            "son",
+            "eres"
           ],
           "answerIndex": 0,
           "explanation": "soy is the yo-form of ser."
@@ -970,10 +970,10 @@
         {
           "prompt": "Ellos ___ de México. (They are from Mexico.)",
           "options": [
-            "es (3.1)",
-            "son (3.2)",
-            "somos (3.3)",
-            "eres (3.4)"
+            "es",
+            "son",
+            "somos",
+            "eres"
           ],
           "answerIndex": 1,
           "explanation": "son is the ellos-form of ser."
@@ -1142,10 +1142,10 @@
         {
           "prompt": "Soy ___ México. (I'm from Mexico.)",
           "options": [
-            "en (4.1)",
-            "a (4.2)",
-            "por (4.3)",
-            "de (4.4)"
+            "en",
+            "a",
+            "por",
+            "de"
           ],
           "answerIndex": 3,
           "explanation": "ser de + place expresses origin."
@@ -1190,10 +1190,10 @@
         {
           "prompt": "A group of Mexican women would say: Somos ___.",
           "options": [
-            "mexicano (4.1)",
-            "mexicanos (4.2)",
-            "mexicanas (4.3)",
-            "mexicana (4.4)"
+            "mexicano",
+            "mexicanos",
+            "mexicanas",
+            "mexicana"
           ],
           "answerIndex": 2,
           "explanation": "Feminine plural agreement: mexicanas."
@@ -1204,7 +1204,7 @@
             "español/española",
             "mexicano/mexicana",
             "americano/americana",
-            "canadiense (both)"
+            "canadiense"
           ],
           "answerIndex": 3,
           "explanation": "Adjectives ending in -e like canadiense do not change for gender."
@@ -1372,10 +1372,10 @@
         {
           "prompt": "¿Cómo ___ tú? (asking how someone feels right now)",
           "options": [
-            "eres (5.1)",
-            "estás (5.2)",
-            "es (5.3)",
-            "soy (5.4)"
+            "eres",
+            "estás",
+            "es",
+            "soy"
           ],
           "answerIndex": 1,
           "explanation": "estás is used for a current, changeable state — how someone feels."
@@ -1420,10 +1420,10 @@
         {
           "prompt": "Put in order: 1) Me llamo Ana 2) Buenas tardes 3) ¿Cómo estás? — what comes first?",
           "options": [
-            "Me llamo Ana (5.1)",
-            "Buenas tardes (5.2)",
-            "Order does not matter (5.3)",
-            "¿Cómo estás? (5.4)"
+            "Me llamo Ana",
+            "Buenas tardes",
+            "Order does not matter",
+            "¿Cómo estás?"
           ],
           "answerIndex": 1,
           "explanation": "A time-of-day greeting typically opens the exchange."
@@ -1593,10 +1593,10 @@
         {
           "prompt": "How do you say 17?",
           "options": [
-            "diesisiete (6.1)",
-            "diez y siete separately as the standard form (6.2)",
-            "sietediez (6.3)",
-            "diecisiete (6.4)"
+            "diesisiete",
+            "diez y siete separately as the standard form",
+            "sietediez",
+            "diecisiete"
           ],
           "answerIndex": 3,
           "explanation": "17 fuses into diecisiete."
@@ -1641,10 +1641,10 @@
         {
           "prompt": "How do you say 101?",
           "options": [
-            "ciento uno (6.1)",
-            "cientouno (6.2)",
-            "un cien y uno (6.3)",
-            "cien uno (6.4)"
+            "ciento uno",
+            "cientouno",
+            "un cien y uno",
+            "cien uno"
           ],
           "answerIndex": 0,
           "explanation": "ciento is used once more digits follow."
@@ -1813,10 +1813,10 @@
         {
           "prompt": "___ la una. (It's 1:00.)",
           "options": [
-            "Son (7.1)",
-            "Es (7.2)",
-            "Estoy (7.3)",
-            "Está (7.4)"
+            "Son",
+            "Es",
+            "Estoy",
+            "Está"
           ],
           "answerIndex": 1,
           "explanation": "Es la una uses the singular because \"hour\" is singular at 1:00."
@@ -1861,10 +1861,10 @@
         {
           "prompt": "Translate: 'It's 3 PM.'",
           "options": [
-            "Son las tres de la tarde. (7.1)",
-            "Son las tres de la noche. (7.2)",
-            "Es las tres de la tarde. (7.3)",
-            "Son las tres de la mañana. (7.4)"
+            "Son las tres de la tarde.",
+            "Son las tres de la noche.",
+            "Es las tres de la tarde.",
+            "Son las tres de la mañana."
           ],
           "answerIndex": 0,
           "explanation": "de la tarde specifies afternoon."
@@ -2033,10 +2033,10 @@
         {
           "prompt": "Which day is martes?",
           "options": [
-            "Tuesday (8.1)",
-            "Wednesday (8.2)",
-            "Thursday (8.3)",
-            "Monday (8.4)"
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Monday"
           ],
           "answerIndex": 0,
           "explanation": "martes = Tuesday."
@@ -2081,10 +2081,10 @@
         {
           "prompt": "Which day is miércoles?",
           "options": [
-            "Tuesday (8.1)",
-            "Wednesday (8.2)",
-            "Thursday (8.3)",
-            "Friday (8.4)"
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
           ],
           "answerIndex": 1,
           "explanation": "miércoles = Wednesday."
@@ -2248,10 +2248,10 @@
         {
           "prompt": "___ un libro en la mesa. (There is a book on the table.)",
           "options": [
-            "Es (9.1)",
-            "Hay (9.2)",
-            "Son (9.3)",
-            "Está (9.4)"
+            "Es",
+            "Hay",
+            "Son",
+            "Está"
           ],
           "answerIndex": 1,
           "explanation": "hay introduces the existence of something new/unspecified."
@@ -2296,10 +2296,10 @@
         {
           "prompt": "Translate: 'Is there a pharmacy nearby?'",
           "options": [
-            "¿Está una farmacia cerca? (9.1)",
-            "¿Hay una farmacia cerca? (9.2)",
-            "¿Son una farmacia cerca? (9.3)",
-            "¿Es una farmacia cerca? (9.4)"
+            "¿Está una farmacia cerca?",
+            "¿Hay una farmacia cerca?",
+            "¿Son una farmacia cerca?",
+            "¿Es una farmacia cerca?"
           ],
           "answerIndex": 1,
           "explanation": "hay asks about the existence of an unspecified pharmacy."
@@ -2318,8 +2318,8 @@
         {
           "prompt": "Which article pattern typically follows hay?",
           "options": [
-            "el/la (definite)",
-            "un/una or a number (indefinite)",
+            "el/la",
+            "un/una or a number",
             "Only plural nouns",
             "No article is ever used"
           ],
@@ -2348,7 +2348,7 @@
             "hays",
             "hayan",
             "han",
-            "hay (same word)"
+            "hay"
           ],
           "answerIndex": 3,
           "explanation": "hay is invariant for singular and plural.",
@@ -2469,10 +2469,10 @@
         {
           "prompt": "El lunes ___ las nueve, hay una reunión. (On Monday at nine...)",
           "options": [
-            "de (10.1)",
-            "a (10.2)",
-            "en (10.3)",
-            "por (10.4)"
+            "de",
+            "a",
+            "en",
+            "por"
           ],
           "answerIndex": 1,
           "explanation": "a las + time states the clock time an event occurs."
@@ -2517,10 +2517,10 @@
         {
           "prompt": "Translate: 'On Fridays there is no class.'",
           "options": [
-            "El viernes no hay clase. (10.1)",
-            "Los viernes no es clase. (10.2)",
-            "Viernes no hay clase. (10.3)",
-            "Los viernes no hay clase. (10.4)"
+            "El viernes no hay clase.",
+            "Los viernes no es clase.",
+            "Viernes no hay clase.",
+            "Los viernes no hay clase."
           ],
           "answerIndex": 3,
           "explanation": "Los viernes (habitual plural) + no hay (no existence) = no class every Friday."
@@ -2690,10 +2690,10 @@
         {
           "prompt": "How do you say 'mother'?",
           "options": [
-            "la madre (11.1)",
-            "la hija (11.2)",
-            "el hermano (11.3)",
-            "el padre (11.4)"
+            "la madre",
+            "la hija",
+            "el hermano",
+            "el padre"
           ],
           "answerIndex": 0,
           "explanation": "la madre = mother."
@@ -2738,10 +2738,10 @@
         {
           "prompt": "How do you say 'parents' (both mother and father)?",
           "options": [
-            "los padres (11.1)",
-            "los hermanos (11.2)",
-            "las hijas (11.3)",
-            "las madres (11.4)"
+            "los padres",
+            "los hermanos",
+            "las hijas",
+            "las madres"
           ],
           "answerIndex": 0,
           "explanation": "los padres = parents, a mixed-gender masculine plural."
@@ -2752,7 +2752,7 @@
             "Only for feminine nouns",
             "Only for masculine nouns",
             "Yes, always",
-            "No — only for number (mi vs. mis)"
+            "No — only for number"
           ],
           "answerIndex": 3,
           "explanation": "Possessive mi/mis only agree in number, not gender."
@@ -2799,7 +2799,7 @@
         {
           "prompt": "What does hermanos mean when referring to a mixed-gender group?",
           "options": [
-            "Siblings (brothers and sisters together)",
+            "Siblings",
             "Only sisters",
             "Only brothers",
             "Cousins"
@@ -2903,10 +2903,10 @@
         {
           "prompt": "Yo ___ dos hermanos. (I have two siblings.)",
           "options": [
-            "tiene (12.1)",
-            "tengo (12.2)",
-            "tenemos (12.3)",
-            "tienes (12.4)"
+            "tiene",
+            "tengo",
+            "tenemos",
+            "tienes"
           ],
           "answerIndex": 1,
           "explanation": "tengo is the yo-form of tener."
@@ -2951,10 +2951,10 @@
         {
           "prompt": "Nosotros ___ hambre. (We are hungry.)",
           "options": [
-            "tienen (12.1)",
-            "tengo (12.2)",
-            "tiene (12.3)",
-            "tenemos (12.4)"
+            "tienen",
+            "tengo",
+            "tiene",
+            "tenemos"
           ],
           "answerIndex": 3,
           "explanation": "tenemos is the nosotros-form."
@@ -3117,10 +3117,10 @@
         {
           "prompt": "Mi hermano es ___. (tall, masculine)",
           "options": [
-            "alto (13.1)",
-            "altas (13.2)",
-            "altos (13.3)",
-            "alta (13.4)"
+            "alto",
+            "altas",
+            "altos",
+            "alta"
           ],
           "answerIndex": 0,
           "explanation": "Masculine singular subject → alto."
@@ -3165,10 +3165,10 @@
         {
           "prompt": "Mis padres son ___. (intelligent, plural)",
           "options": [
-            "inteligente (13.1)",
-            "inteligentes (13.2)",
-            "inteligento (13.3)",
-            "inteligentas (13.4)"
+            "inteligente",
+            "inteligentes",
+            "inteligento",
+            "inteligentas"
           ],
           "answerIndex": 1,
           "explanation": "inteligente adds -s for plural but does not change for gender."
@@ -3336,10 +3336,10 @@
         {
           "prompt": "___ padre es doctor. (our father)",
           "options": [
-            "Mi (14.1)",
-            "Nuestra (14.2)",
-            "Su (14.3)",
-            "Nuestro (14.4)"
+            "Mi",
+            "Nuestra",
+            "Su",
+            "Nuestro"
           ],
           "answerIndex": 3,
           "explanation": "nuestro agrees with the masculine noun padre."
@@ -3384,10 +3384,10 @@
         {
           "prompt": "___ hermanas son altas. (our sisters)",
           "options": [
-            "Nuestro (14.1)",
-            "Nuestras (14.2)",
-            "Nuestros (14.3)",
-            "Nuestra (14.4)"
+            "Nuestro",
+            "Nuestras",
+            "Nuestros",
+            "Nuestra"
           ],
           "answerIndex": 1,
           "explanation": "Feminine plural noun requires nuestras."
@@ -3556,10 +3556,10 @@
         {
           "prompt": "___ una familia grande. (I have a big family.)",
           "options": [
-            "Soy (15.1)",
-            "Tengo (15.2)",
-            "Hay (15.3)",
-            "Es (15.4)"
+            "Soy",
+            "Tengo",
+            "Hay",
+            "Es"
           ],
           "answerIndex": 1,
           "explanation": "tener expresses having a family (Unit 3 Lesson 2 pattern)."
@@ -3604,10 +3604,10 @@
         {
           "prompt": "Translate: 'We are five: my parents, my two siblings, and me.'",
           "options": [
-            "Hay cinco: mis padres, mis dos hermanos y yo. (15.1)",
-            "Somos cinco: mis padres, mis dos hermanos y yo. (15.2)",
-            "Son cinco: mis padres, mis dos hermanos y yo. (15.3)",
-            "Tenemos cinco: mi padres, mi dos hermanos y yo. (15.4)"
+            "Hay cinco: mis padres, mis dos hermanos y yo.",
+            "Somos cinco: mis padres, mis dos hermanos y yo.",
+            "Son cinco: mis padres, mis dos hermanos y yo.",
+            "Tenemos cinco: mi padres, mi dos hermanos y yo."
           ],
           "answerIndex": 1,
           "explanation": "Somos (ser, identity of the group) cinco correctly states \"we are five.\""
@@ -3770,10 +3770,10 @@
         {
           "prompt": "Yo ___ español. (hablar)",
           "options": [
-            "hablas (16.1)",
-            "habla (16.2)",
-            "hablamos (16.3)",
-            "hablo (16.4)"
+            "hablas",
+            "habla",
+            "hablamos",
+            "hablo"
           ],
           "answerIndex": 3,
           "explanation": "hablo is the yo-form of hablar."
@@ -3818,10 +3818,10 @@
         {
           "prompt": "Ellos ___ en una oficina. (trabajar)",
           "options": [
-            "trabaja (16.1)",
-            "trabajamos (16.2)",
-            "trabajan (16.3)",
-            "trabajo (16.4)"
+            "trabaja",
+            "trabajamos",
+            "trabajan",
+            "trabajo"
           ],
           "answerIndex": 2,
           "explanation": "trabajan is the ellos-form."
@@ -3983,10 +3983,10 @@
         {
           "prompt": "Yo ___ pan. (comer)",
           "options": [
-            "come (17.1)",
-            "comes (17.2)",
-            "comemos (17.3)",
-            "como (17.4)"
+            "come",
+            "comes",
+            "comemos",
+            "como"
           ],
           "answerIndex": 3,
           "explanation": "como is the yo-form of comer."
@@ -4031,10 +4031,10 @@
         {
           "prompt": "Nosotros ___ a las dos. (comer)",
           "options": [
-            "come (17.1)",
-            "comemos (17.2)",
-            "comen (17.3)",
-            "como (17.4)"
+            "come",
+            "comemos",
+            "comen",
+            "como"
           ],
           "answerIndex": 1,
           "explanation": "comemos is the nosotros-form."
@@ -4196,10 +4196,10 @@
         {
           "prompt": "Yo ___ en Madrid. (vivir)",
           "options": [
-            "vives (18.1)",
-            "vivo (18.2)",
-            "vivimos (18.3)",
-            "vive (18.4)"
+            "vives",
+            "vivo",
+            "vivimos",
+            "vive"
           ],
           "answerIndex": 1,
           "explanation": "vivo is the yo-form of vivir."
@@ -4244,10 +4244,10 @@
         {
           "prompt": "Ellos ___ libros. (escribir)",
           "options": [
-            "escribo (18.1)",
-            "escribe (18.2)",
-            "escribimos (18.3)",
-            "escriben (18.4)"
+            "escribo",
+            "escribe",
+            "escribimos",
+            "escriben"
           ],
           "answerIndex": 3,
           "explanation": "escriben is the ellos-form."
@@ -4409,10 +4409,10 @@
         {
           "prompt": "___ libro es interesante. (the book, masculine)",
           "options": [
-            "La (19.1)",
-            "Los (19.2)",
-            "Las (19.3)",
-            "El (19.4)"
+            "La",
+            "Los",
+            "Las",
+            "El"
           ],
           "answerIndex": 3,
           "explanation": "libro is masculine → el."
@@ -4457,10 +4457,10 @@
         {
           "prompt": "Which noun is a well-known exception to the -o-is-masculine pattern?",
           "options": [
-            "el libro (19.1)",
-            "la mesa (19.2)",
-            "la mano (19.3)",
-            "el día (19.4)"
+            "el libro",
+            "la mesa",
+            "la mano",
+            "el día"
           ],
           "answerIndex": 2,
           "explanation": "la mano is feminine despite ending in -o."
@@ -4479,7 +4479,7 @@
         {
           "prompt": "How do most Spanish nouns form their plural?",
           "options": [
-            "Add -s (or -es after a consonant)",
+            "Add -s",
             "Change the last vowel",
             "No change",
             "Add -os only"
@@ -4622,10 +4622,10 @@
         {
           "prompt": "Mi hermana ___ en Madrid. (vivir)",
           "options": [
-            "vivo (20.1)",
-            "vives (20.2)",
-            "vive (20.3)",
-            "viven (20.4)"
+            "vivo",
+            "vives",
+            "vive",
+            "viven"
           ],
           "answerIndex": 2,
           "explanation": "vive is the él/ella-form of vivir."
@@ -4670,10 +4670,10 @@
         {
           "prompt": "Translate: 'My sister lives in Madrid. She speaks Spanish.'",
           "options": [
-            "Mi hermana vivo en Madrid. Ella habla español. (20.1)",
-            "Mi hermana vive en Madrid. Ella habla español. (20.2)",
-            "Mi hermana vive en Madrid. Ella hablas español. (20.3)",
-            "Mi hermana vives en Madrid. Ella hablo español. (20.4)"
+            "Mi hermana vivo en Madrid. Ella habla español.",
+            "Mi hermana vive en Madrid. Ella habla español.",
+            "Mi hermana vive en Madrid. Ella hablas español.",
+            "Mi hermana vives en Madrid. Ella hablo español."
           ],
           "answerIndex": 1,
           "explanation": "Both verbs correctly take the él/ella-form matching \"she/my sister.\""
@@ -4836,10 +4836,10 @@
         {
           "prompt": "Yo ___ levanto a las siete. (reflexive pronoun for yo)",
           "options": [
-            "se (21.1)",
-            "me (21.2)",
-            "nos (21.3)",
-            "te (21.4)"
+            "se",
+            "me",
+            "nos",
+            "te"
           ],
           "answerIndex": 1,
           "explanation": "me matches the yo subject."
@@ -4884,10 +4884,10 @@
         {
           "prompt": "Ellos ___ acuestan a las once. (reflexive pronoun for ellos)",
           "options": [
-            "te (21.1)",
-            "se (21.2)",
-            "nos (21.3)",
-            "me (21.4)"
+            "te",
+            "se",
+            "nos",
+            "me"
           ],
           "answerIndex": 1,
           "explanation": "se matches the ellos subject."
@@ -5052,10 +5052,10 @@
         {
           "prompt": "Yo ___ a la oficina. (ir)",
           "options": [
-            "va (22.1)",
-            "van (22.2)",
-            "vas (22.3)",
-            "voy (22.4)"
+            "va",
+            "van",
+            "vas",
+            "voy"
           ],
           "answerIndex": 3,
           "explanation": "voy is the yo-form of ir."
@@ -5088,7 +5088,7 @@
             "ael",
             "al",
             "aal",
-            "a el (no contraction)"
+            "a el"
           ],
           "answerIndex": 1,
           "explanation": "a + el = al, a required contraction."
@@ -5100,10 +5100,10 @@
         {
           "prompt": "Nosotros ___ al gimnasio los lunes. (ir)",
           "options": [
-            "va (22.1)",
-            "vamos (22.2)",
-            "voy (22.3)",
-            "van (22.4)"
+            "va",
+            "vamos",
+            "voy",
+            "van"
           ],
           "answerIndex": 1,
           "explanation": "vamos is the nosotros-form."
@@ -5265,10 +5265,10 @@
         {
           "prompt": "___ me levanto temprano. (I always get up early.)",
           "options": [
-            "Siempre (23.1)",
-            "Casi nunca (23.2)",
-            "A veces (23.3)",
-            "Nunca (23.4)"
+            "Siempre",
+            "Casi nunca",
+            "A veces",
+            "Nunca"
           ],
           "answerIndex": 0,
           "explanation": "Siempre = always."
@@ -5313,10 +5313,10 @@
         {
           "prompt": "___ veo la tele. (I almost never watch TV.)",
           "options": [
-            "Siempre (23.1)",
-            "A menudo (23.2)",
-            "Casi nunca (23.3)",
-            "A veces (23.4)"
+            "Siempre",
+            "A menudo",
+            "Casi nunca",
+            "A veces"
           ],
           "answerIndex": 2,
           "explanation": "Casi nunca = almost never."
@@ -5479,10 +5479,10 @@
         {
           "prompt": "¿A qué hora te ___? (What time do you get up?)",
           "options": [
-            "levanto (24.1)",
-            "levanta (24.2)",
-            "levantamos (24.3)",
-            "levantas (24.4)"
+            "levanto",
+            "levanta",
+            "levantamos",
+            "levantas"
           ],
           "answerIndex": 3,
           "explanation": "levantas matches tú in the question."
@@ -5527,10 +5527,10 @@
         {
           "prompt": "¿Adónde ___? (Where are you going? — tú)",
           "options": [
-            "voy (24.1)",
-            "van (24.2)",
-            "vas (24.3)",
-            "va (24.4)"
+            "voy",
+            "van",
+            "vas",
+            "va"
           ],
           "answerIndex": 2,
           "explanation": "vas matches tú."
@@ -5539,7 +5539,7 @@
           "prompt": "Why does the reflexive pronoun change from te to me between a question and its answer?",
           "options": [
             "It shouldn't change; this is an error",
-            "Because the subject changes from \"you\" (question) to \"I\" (answer)",
+            "Because the subject changes from \"you\" (question) to \"I\"",
             "Because questions never use reflexive pronouns",
             "Because all reflexive pronouns are interchangeable"
           ],
@@ -5692,10 +5692,10 @@
         {
           "prompt": "Siempre ___ levanto a las siete. (reflexive pronoun for yo)",
           "options": [
-            "me (25.1)",
-            "te (25.2)",
-            "se (25.3)",
-            "nos (25.4)"
+            "me",
+            "te",
+            "se",
+            "nos"
           ],
           "answerIndex": 0,
           "explanation": "me matches yo throughout the paragraph."
@@ -5740,10 +5740,10 @@
         {
           "prompt": "Translate: 'I always get up at seven and shower quickly.'",
           "options": [
-            "Nunca me levanto a las siete y me ducho rápido. (25.1)",
-            "Siempre me levanto a las siete y me ducho rápido. (25.2)",
-            "Siempre me levanto a las siete y ducho rápido. (25.3)",
-            "Siempre te levantas a las siete y te duchas rápido. (25.4)"
+            "Nunca me levanto a las siete y me ducho rápido.",
+            "Siempre me levanto a las siete y me ducho rápido.",
+            "Siempre me levanto a las siete y ducho rápido.",
+            "Siempre te levantas a las siete y te duchas rápido."
           ],
           "answerIndex": 1,
           "explanation": "Correct pronoun (me), correct frequency adverb (siempre), and both reflexive verbs correctly conjugated."
@@ -5902,10 +5902,10 @@
         {
           "prompt": "___ gustan los tacos. (I like tacos.)",
           "options": [
-            "Yo (26.1)",
-            "Mi (26.2)",
-            "Te (26.3)",
-            "Me (26.4)"
+            "Yo",
+            "Mi",
+            "Te",
+            "Me"
           ],
           "answerIndex": 3,
           "explanation": "me is the indirect object pronoun for \"to me\"; gustan agrees with los tacos (plural)."
@@ -5950,10 +5950,10 @@
         {
           "prompt": "Translate: 'Do you like coffee?'",
           "options": [
-            "¿Tú gustas el café? (26.1)",
-            "¿Te gustan el café? (26.2)",
-            "¿Gusta tú el café? (26.3)",
-            "¿Te gusta el café? (26.4)"
+            "¿Tú gustas el café?",
+            "¿Te gustan el café?",
+            "¿Gusta tú el café?",
+            "¿Te gusta el café?"
           ],
           "answerIndex": 3,
           "explanation": "te (to you) + gusta (agrees with singular el café)."
@@ -6036,7 +6036,7 @@
           "prompt": "What is the grammatical subject of 'Me gustan los tacos'?",
           "options": [
             "gustan",
-            "Me (I)",
+            "Me",
             "There is no subject",
             "los tacos"
           ],
@@ -6110,10 +6110,10 @@
         {
           "prompt": "A Marisol ___ encanta el picante. (Marisol loves spicy food.)",
           "options": [
-            "le (27.1)",
-            "se (27.2)",
-            "la (27.3)",
-            "lo (27.4)"
+            "le",
+            "se",
+            "la",
+            "lo"
           ],
           "answerIndex": 0,
           "explanation": "le is the indirect object pronoun paired with encantar, just like with gustar."
@@ -6158,10 +6158,10 @@
         {
           "prompt": "Translate: 'I like coffee, but Luis likes tea.'",
           "options": [
-            "Yo gusto el café, pero Luis gusta el té. (27.1)",
-            "A mí me gustan el café, pero a Luis le gusta el té. (27.2)",
-            "A mí me gusta el café, pero a Luis le gusta el té. (27.3)",
-            "Me gusta el café, pero Luis le gusta el té. (27.4)"
+            "Yo gusto el café, pero Luis gusta el té.",
+            "A mí me gustan el café, pero a Luis le gusta el té.",
+            "A mí me gusta el café, pero a Luis le gusta el té.",
+            "Me gusta el café, pero Luis le gusta el té."
           ],
           "answerIndex": 2,
           "explanation": "Both clauses need the me/le + gusta pattern, and el café is singular so gusta is correct; a mí / a Luis add the contrast."
@@ -6321,10 +6321,10 @@
         {
           "prompt": "___ los tacos, por favor. (I want the tacos, please.)",
           "options": [
-            "Quisiera (28.1)",
-            "Puedo (28.2)",
-            "Quieres (28.3)",
-            "Quiero (28.4)"
+            "Quisiera",
+            "Puedo",
+            "Quieres",
+            "Quiero"
           ],
           "answerIndex": 3,
           "explanation": "Quiero is the direct, everyday 'I want' for ordering."
@@ -6369,10 +6369,10 @@
         {
           "prompt": "Translate: 'Could you bring me the check, please?'",
           "options": [
-            "¿Me puede traer la cuenta, por favor? (28.1)",
-            "¿Puedo traer la cuenta, por favor? (28.2)",
-            "¿Quiero traer la cuenta, por favor? (28.3)",
-            "¿Traer me puede la cuenta, por favor? (28.4)"
+            "¿Me puede traer la cuenta, por favor?",
+            "¿Puedo traer la cuenta, por favor?",
+            "¿Quiero traer la cuenta, por favor?",
+            "¿Traer me puede la cuenta, por favor?"
           ],
           "answerIndex": 0,
           "explanation": "¿Me puede traer...? keeps me right before puede, then the infinitive traer, then the object."
@@ -6530,10 +6530,10 @@
         {
           "prompt": "¿Qué te ___ comer? (What do you like to eat?)",
           "options": [
-            "gustas (29.1)",
-            "gusta (29.2)",
-            "gusto (29.3)",
-            "gustan (29.4)"
+            "gustas",
+            "gusta",
+            "gusto",
+            "gustan"
           ],
           "answerIndex": 1,
           "explanation": "comer (the infinitive) acts as a singular concept, so gusta is correct."
@@ -6578,10 +6578,10 @@
         {
           "prompt": "Translate: 'I hate spicy food.' using odiar",
           "options": [
-            "Yo odio el picante. (29.1)",
-            "Me odio el picante. (29.2)",
-            "A mí me odia el picante. (29.3)",
-            "Yo odia el picante. (29.4)"
+            "Yo odio el picante.",
+            "Me odio el picante.",
+            "A mí me odia el picante.",
+            "Yo odia el picante."
           ],
           "answerIndex": 0,
           "explanation": "odiar conjugates for yo (odio) as an ordinary subject-verb-object sentence."
@@ -6652,7 +6652,7 @@
           "prompt": "In 'A Marisol nunca le gusta nada suave,' what is the grammatical subject?",
           "options": [
             "Marisol",
-            "nada suave (nothing mild)",
+            "nada suave",
             "le",
             "nunca"
           ],
@@ -6743,10 +6743,10 @@
         {
           "prompt": "A mí me ___ las enchiladas. (I like enchiladas.)",
           "options": [
-            "gusta (30.1)",
-            "gustan (30.2)",
-            "gusto (30.3)",
-            "gustas (30.4)"
+            "gusta",
+            "gustan",
+            "gusto",
+            "gustas"
           ],
           "answerIndex": 1,
           "explanation": "las enchiladas is plural, so gustan agrees with it."
@@ -6791,10 +6791,10 @@
         {
           "prompt": "Translate: 'I want to order the mole, and Marisol would like the extra spicy, please.'",
           "options": [
-            "Quiero pedir el mole, y Marisol quiere el picante extra, por favor. (30.1)",
-            "Quiero pedir el mole, y Marisol quisiera el picante extra, por favor. (30.2)",
-            "Quiero pide el mole, y Marisol quisiera el picante extra, por favor. (30.3)",
-            "Quisiera pedir el mole, y Marisol quiero el picante extra, por favor. (30.4)"
+            "Quiero pedir el mole, y Marisol quiere el picante extra, por favor.",
+            "Quiero pedir el mole, y Marisol quisiera el picante extra, por favor.",
+            "Quiero pide el mole, y Marisol quisiera el picante extra, por favor.",
+            "Quisiera pedir el mole, y Marisol quiero el picante extra, por favor."
           ],
           "answerIndex": 1,
           "explanation": "Quiero (direct, narrator) contrasted with Marisol's quisiera (softer, formal) — matching each speaker's register from Lesson 3."
@@ -6802,7 +6802,7 @@
         {
           "prompt": "Why does the paragraph use quiero for the narrator but quisiera for Marisol's request?",
           "options": [
-            "Because Marisol is a formal-you (usted)",
+            "Because Marisol is a formal-you",
             "Random variation with no meaning",
             "quisiera is a typo for quiere",
             "To show the formality contrast from Lesson 3 — quiero is direct/everyday, quisiera is a softer register for the same action"
@@ -6957,10 +6957,10 @@
         {
           "prompt": "Marisol ___ el chile más picante. (tried, probar)",
           "options": [
-            "probo (31.1)",
-            "probaste (31.2)",
-            "prueba (31.3)",
-            "probó (31.4)"
+            "probo",
+            "probaste",
+            "prueba",
+            "probó"
           ],
           "answerIndex": 3,
           "explanation": "él/ella preterite ending for -AR verbs is -ó (accented)."
@@ -7005,10 +7005,10 @@
         {
           "prompt": "Translate: 'We bought something to eat.'",
           "options": [
-            "Nosotros compró algo de comer. (31.1)",
-            "Nosotros compraron algo de comer. (31.2)",
-            "Nosotros compra algo de comer. (31.3)",
-            "Nosotros compramos algo de comer. (31.4)"
+            "Nosotros compró algo de comer.",
+            "Nosotros compraron algo de comer.",
+            "Nosotros compra algo de comer.",
+            "Nosotros compramos algo de comer."
           ],
           "answerIndex": 3,
           "explanation": "nosotros -AR preterite is identical in spelling to the present tense form."
@@ -7164,10 +7164,10 @@
         {
           "prompt": "Marisol ___ diez tacos. (ate, comer)",
           "options": [
-            "comió (32.1)",
-            "comiste (32.2)",
-            "come (32.3)",
-            "comí (32.4)"
+            "comió",
+            "comiste",
+            "come",
+            "comí"
           ],
           "answerIndex": 0,
           "explanation": "él/ella preterite ending for -ER verbs is -ió."
@@ -7212,10 +7212,10 @@
         {
           "prompt": "Translate: 'We had an unforgettable experience.'",
           "options": [
-            "Nosotros vivió una experiencia inolvidable. (32.1)",
-            "Nosotros vivieron una experiencia inolvidable. (32.2)",
-            "Nosotros vivimos una experiencia inolvidable. (32.3)",
-            "Nosotros vive una experiencia inolvidable. (32.4)"
+            "Nosotros vivió una experiencia inolvidable.",
+            "Nosotros vivieron una experiencia inolvidable.",
+            "Nosotros vivimos una experiencia inolvidable.",
+            "Nosotros vive una experiencia inolvidable."
           ],
           "answerIndex": 2,
           "explanation": "nosotros preterite ending for -IR verbs is -imos."
@@ -7375,10 +7375,10 @@
         {
           "prompt": "Marisol ___ al festival. (went, ir)",
           "options": [
-            "fui (33.1)",
-            "va (33.2)",
-            "iba (33.3)",
-            "fue (33.4)"
+            "fui",
+            "va",
+            "iba",
+            "fue"
           ],
           "answerIndex": 3,
           "explanation": "él/ella preterite of ir is fue — identical in spelling to ser's fue."
@@ -7423,10 +7423,10 @@
         {
           "prompt": "How do you tell whether 'fue' means 'went' or 'was' in a given sentence?",
           "options": [
-            "You never can — the sentence is always ambiguous (33.1)",
-            "Context — ir and ser share the exact same preterite form fue, so meaning comes entirely from what surrounds it (33.2)",
-            "fue always means 'went' (33.3)",
-            "A written accent distinguishes them (33.4)"
+            "You never can — the sentence is always ambiguous",
+            "Context — ir and ser share the exact same preterite form fue, so meaning comes entirely from what surrounds it",
+            "fue always means 'went'",
+            "A written accent distinguishes them"
           ],
           "answerIndex": 1,
           "explanation": "This is the genuinely surprising fact explained in this lesson — ir and ser truly overlap in the preterite."
@@ -7586,10 +7586,10 @@
         {
           "prompt": "Yo ___ la receta secreta. (looked for, buscar)",
           "options": [
-            "busco (34.1)",
-            "busqué (34.2)",
-            "buscó (34.3)",
-            "buscé (34.4)"
+            "busco",
+            "busqué",
+            "buscó",
+            "buscé"
           ],
           "answerIndex": 1,
           "explanation": "buscar's yo preterite needs c→qu before the -é ending: busqué."
@@ -7634,10 +7634,10 @@
         {
           "prompt": "Why does buscar become busqué instead of the expected 'busqé' or 'buscé' in the yo preterite?",
           "options": [
-            "It's a completely random exception with no logic (34.1)",
-            "busqué is a typo that became standard (34.2)",
-            "Spanish spelling needs qu (not c) before e to keep the hard /k/ sound, so c→qu (34.3)",
-            "buscar isn't actually a regular verb (34.4)"
+            "It's a completely random exception with no logic",
+            "busqué is a typo that became standard",
+            "Spanish spelling needs qu (not c) before e to keep the hard /k/ sound, so c→qu",
+            "buscar isn't actually a regular verb"
           ],
           "answerIndex": 2,
           "explanation": "This is the phonetic-protection logic explained in the lesson."
@@ -7801,10 +7801,10 @@
         {
           "prompt": "Ayer ___ un día loco. (was, ser)",
           "options": [
-            "fue (35.1)",
-            "fui (35.2)",
-            "es (35.3)",
-            "era (35.4)"
+            "fue",
+            "fui",
+            "es",
+            "era"
           ],
           "answerIndex": 0,
           "explanation": "ser's preterite for 'it' (día) is fue, from Lesson 3."
@@ -7849,10 +7849,10 @@
         {
           "prompt": "Translate: 'I made a sauce with ten types of chile.'",
           "options": [
-            "Hizo una salsa con diez tipos de chile. (35.1)",
-            "Hice una salsa con diez tipos de chile. (35.2)",
-            "Hací una salsa con diez tipos de chile. (35.3)",
-            "Hago una salsa con diez tipos de chile. (35.4)"
+            "Hizo una salsa con diez tipos de chile.",
+            "Hice una salsa con diez tipos de chile.",
+            "Hací una salsa con diez tipos de chile.",
+            "Hago una salsa con diez tipos de chile."
           ],
           "answerIndex": 1,
           "explanation": "hacer's yo preterite is hice (irregular, no accent), matching Marisol speaking about herself."
@@ -7997,10 +7997,10 @@
         {
           "prompt": "How do you say 'the blue shirts' in Spanish?",
           "options": [
-            "las camisas azul (36.1)",
-            "los camisas azules (36.2)",
-            "las camisas azulos (36.3)",
-            "las camisas azules (camisa is feminine plural -> las camisas; azul becomes azules) (36.4)"
+            "las camisas azul",
+            "los camisas azules",
+            "las camisas azulos",
+            "las camisas azules"
           ],
           "answerIndex": 3,
           "explanation": "Las camisas (fem. pl.) + azules (plural)."
@@ -8023,10 +8023,10 @@
         {
           "prompt": "Translate: 'Mi hermano compró una chaqueta roja y unos vaqueros grises.'",
           "options": [
-            "My brother is wearing a green coat and black pants. (36.1)",
-            "My brother wants to sell his red jacket. (36.2)",
-            "My brother bought white shoes. (36.3)",
-            "My brother bought a red jacket and grey jeans. (36.4)"
+            "My brother is wearing a green coat and black pants.",
+            "My brother wants to sell his red jacket.",
+            "My brother bought white shoes.",
+            "My brother bought a red jacket and grey jeans."
           ],
           "answerIndex": 3,
           "explanation": "chaqueta roja = red jacket; vaqueros grises = grey jeans."
@@ -8034,10 +8034,10 @@
         {
           "prompt": "Which color adjective DOES NOT change for feminine singular?",
           "options": [
-            "rojo (la camisa roja)",
-            "blanco (la camisa blanca)",
-            "negro (la camisa negra)",
-            "verde (la camisa verde, el pantalón verde)"
+            "rojo",
+            "blanco",
+            "negro",
+            "verde"
           ],
           "answerIndex": 3,
           "explanation": "Verde ends in -e, so it stays verde for both masculine and feminine."
@@ -8136,10 +8136,10 @@
         {
           "prompt": "What do you ask a shop assistant when a shirt is too tight and you need a larger size?",
           "options": [
-            "Me queda pequeño. ¿Tiene una talla más grande? (It fits small. Do you have a larger size?) (37.1)",
-            "No me gusta comprar ropa. (37.2)",
-            "Me queda grande. ¿Tiene una talla más pequeña? (37.3)",
-            "¿Cuánto cuesta el probador? (37.4)"
+            "Me queda pequeño. ¿Tiene una talla más grande?",
+            "No me gusta comprar ropa.",
+            "Me queda grande. ¿Tiene una talla más pequeña?",
+            "¿Cuánto cuesta el probador?"
           ],
           "answerIndex": 0,
           "explanation": "Me queda pequeño + ¿Tiene una talla más grande?"
@@ -8147,7 +8147,7 @@
         {
           "prompt": "What is the word for shoe size in Spanish?",
           "options": [
-            "el número (e.g. Calzo el número 38)",
+            "el número",
             "la talla",
             "el metro",
             "el peso"
@@ -8162,10 +8162,10 @@
         {
           "prompt": "Translate: '¿Dónde están los probadores? Quiero probarme este vestido.'",
           "options": [
-            "Where is the cash register? I want to buy this dress. (37.1)",
-            "Where are the fitting rooms? I want to try on this dress. (37.2)",
-            "Do you have this dress in red? (37.3)",
-            "The fitting rooms are closed. (37.4)"
+            "Where is the cash register? I want to buy this dress.",
+            "Where are the fitting rooms? I want to try on this dress.",
+            "Do you have this dress in red?",
+            "The fitting rooms are closed."
           ],
           "answerIndex": 1,
           "explanation": "los probadores = the fitting rooms; probarme este vestido = try on this dress."
@@ -8276,10 +8276,10 @@
         {
           "prompt": "Which demonstrative adjective refers to an item close to the speaker (here / aquí)?",
           "options": [
-            "ese / esa (38.1)",
-            "aquel / aquella (38.2)",
-            "aquello (38.3)",
-            "este / esta (e.g. este vestido aquí) (38.4)"
+            "ese / esa",
+            "aquel / aquella",
+            "aquello",
+            "este / esta"
           ],
           "answerIndex": 3,
           "explanation": "Este/esta corresponds to 'here' (aquí)."
@@ -8302,10 +8302,10 @@
         {
           "prompt": "Translate: '¿Cuánto cuestan aquellos zapatos del escaparate?'",
           "options": [
-            "How much do those shoes over there in the shop window cost? (38.1)",
-            "How much do these shoes here cost? (38.2)",
-            "Are those shoes on sale? (38.3)",
-            "I want to buy the shop window. (38.4)"
+            "How much do those shoes over there in the shop window cost?",
+            "How much do these shoes here cost?",
+            "Are those shoes on sale?",
+            "I want to buy the shop window."
           ],
           "answerIndex": 0,
           "explanation": "aquellos = those over there; escaparate = shop window."
@@ -8416,10 +8416,10 @@
         {
           "prompt": "How do you say 'This jacket is better than that one'?",
           "options": [
-            "Esta chaqueta es tan buena que esa. (39.1)",
-            "Esta chaqueta es mejor que esa. (irregular comparative 'mejor') (39.2)",
-            "Esta chaqueta es más mejor que esa. (39.3)",
-            "Esta chaqueta es más buena que esa. (39.4)"
+            "Esta chaqueta es tan buena que esa.",
+            "Esta chaqueta es mejor que esa.",
+            "Esta chaqueta es más mejor que esa.",
+            "Esta chaqueta es más buena que esa."
           ],
           "answerIndex": 1,
           "explanation": "Bueno -> mejor (never 'más bueno' or 'más mejor')."
@@ -8427,7 +8427,7 @@
         {
           "prompt": "Which comparative formula is used for equality with an ADJECTIVE (e.g. comfortable)?",
           "options": [
-            "tan + adjetivo + como (tan cómodo como)",
+            "tan + adjetivo + como",
             "más + adjetivo + como",
             "menos + adjetivo + de",
             "tanto + adjetivo + como"
@@ -8442,10 +8442,10 @@
         {
           "prompt": "Translate: 'Estos pantalones son menos caros que los de la otra tienda.'",
           "options": [
-            "These pants are less expensive than the ones in the other store. (39.1)",
-            "The other store has cheaper shirts. (39.2)",
-            "These pants are more expensive than all others. (39.3)",
-            "These pants are not for sale. (39.4)"
+            "These pants are less expensive than the ones in the other store.",
+            "The other store has cheaper shirts.",
+            "These pants are more expensive than all others.",
+            "These pants are not for sale."
           ],
           "answerIndex": 0,
           "explanation": "menos caros que = less expensive than."
@@ -8556,10 +8556,10 @@
         {
           "prompt": "What phrase does Carlos use to confirm he wants to purchase the items?",
           "options": [
-            "Me llevo la chaqueta y los vaqueros. (I'll take the jacket and the jeans.) (40.1)",
-            "No quiero nada. (40.2)",
-            "Los probadores están cerrados. (40.3)",
-            "Devuelvo la ropa. (40.4)"
+            "Me llevo la chaqueta y los vaqueros.",
+            "No quiero nada.",
+            "Los probadores están cerrados.",
+            "Devuelvo la ropa."
           ],
           "answerIndex": 0,
           "explanation": "'Llevarse' (me llevo) is the idiomatic Spanish phrase for 'I will buy/take this item'."
@@ -8567,7 +8567,7 @@
         {
           "prompt": "What discount percentage were the jackets on sale for in the boutique?",
           "options": [
-            "20% (rebajadas al veinte por ciento)",
+            "20%",
             "50%",
             "10%",
             "No discount"
@@ -8582,10 +8582,10 @@
         {
           "prompt": "How did Carlos pay for his purchase at the checkout counter?",
           "options": [
-            "With cash in exact change (40.1)",
-            "By credit card with a paper receipt (pago con tarjeta y ticket en papel) (40.2)",
-            "He traded an old coat (40.3)",
-            "With gold coins (40.4)"
+            "With cash in exact change",
+            "By credit card with a paper receipt",
+            "He traded an old coat",
+            "With gold coins"
           ],
           "answerIndex": 1,
           "explanation": "Carlos paid with card and asked for a paper receipt."
@@ -8646,7 +8646,7 @@
           "options": [
             "100 euros",
             "50 euros",
-            "85 euros (ochenta y cinco euros)",
+            "85 euros",
             "120 euros"
           ],
           "answerIndex": 2,
@@ -8696,10 +8696,10 @@
         {
           "prompt": "How do you say 'I prefer to go on foot' in Spanish?",
           "options": [
-            "Prefiero ir en pie. (41.1)",
-            "Prefiero ir con pie. (41.2)",
-            "Prefiero ir por pie. (41.3)",
-            "Prefiero ir a pie. (a pie = on foot) (41.4)"
+            "Prefiero ir en pie.",
+            "Prefiero ir con pie.",
+            "Prefiero ir por pie.",
+            "Prefiero ir a pie."
           ],
           "answerIndex": 3,
           "explanation": "'A pie' is the standard prepositional phrase for walking/on foot."
@@ -8722,10 +8722,10 @@
         {
           "prompt": "Translate: 'Compré un billete de diez viajes en la máquina automática.'",
           "options": [
-            "I lost my ticket on the bus. (41.1)",
-            "The ticket machine is broken. (41.2)",
-            "I need 10 euros for the train. (41.3)",
-            "I bought a 10-trip ticket at the ticket vending machine. (41.4)"
+            "I lost my ticket on the bus.",
+            "The ticket machine is broken.",
+            "I need 10 euros for the train.",
+            "I bought a 10-trip ticket at the ticket vending machine."
           ],
           "answerIndex": 3,
           "explanation": "billete de diez viajes = 10-trip ticket; máquina automática = automated machine."
@@ -8836,10 +8836,10 @@
         {
           "prompt": "How do you combine 'cerca de' + 'el hotel' correctly in Spanish?",
           "options": [
-            "cerca del hotel (mandatory contraction de + el = del) (42.1)",
-            "cerca en el hotel (42.2)",
-            "cerca de el hotel (42.3)",
-            "cerca al hotel (42.4)"
+            "cerca del hotel",
+            "cerca en el hotel",
+            "cerca de el hotel",
+            "cerca al hotel"
           ],
           "answerIndex": 0,
           "explanation": "De + el contracts to del."
@@ -8847,7 +8847,7 @@
         {
           "prompt": "Which preposition of place means 'between' two landmarks?",
           "options": [
-            "entre (e.g. entre la cafetería y el banco)",
+            "entre",
             "al lado de",
             "debajo de",
             "detrás de"
@@ -8862,10 +8862,10 @@
         {
           "prompt": "Translate: 'El restaurante está detrás de la catedral y enfrente del jardín.'",
           "options": [
-            "The restaurant is far from the cathedral. (42.1)",
-            "The restaurant is behind the cathedral and in front of the garden. (42.2)",
-            "The cathedral is inside the garden. (42.3)",
-            "Where is the cathedral restaurant? (42.4)"
+            "The restaurant is far from the cathedral.",
+            "The restaurant is behind the cathedral and in front of the garden.",
+            "The cathedral is inside the garden.",
+            "Where is the cathedral restaurant?"
           ],
           "answerIndex": 1,
           "explanation": "detrás de la catedral = behind cathedral; enfrente del jardín = in front of garden."
@@ -8976,10 +8976,10 @@
         {
           "prompt": "How do you tell someone 'Continue straight ahead and turn right at the traffic light' in Spanish?",
           "options": [
-            "Gira a la izquierda y para. (43.1)",
-            "Cruza la calle y vuelve. (43.2)",
-            "Sigue todo recto y gira a la derecha en el semáforo. (43.3)",
-            "Toma el metro hacia atrás. (43.4)"
+            "Gira a la izquierda y para.",
+            "Cruza la calle y vuelve.",
+            "Sigue todo recto y gira a la derecha en el semáforo.",
+            "Toma el metro hacia atrás."
           ],
           "answerIndex": 2,
           "explanation": "Sigue todo recto (straight) + gira a la derecha (turn right) + en el semáforo (traffic light)."
@@ -9002,10 +9002,10 @@
         {
           "prompt": "Translate: 'Toma la segunda calle a la izquierda y verás la catedral al fondo.'",
           "options": [
-            "Take the second street on the left and you will see the cathedral at the end. (43.1)",
-            "Take the first street on the right to the cathedral. (43.2)",
-            "Do not turn on the second street. (43.3)",
-            "The cathedral is closed on the left. (43.4)"
+            "Take the second street on the left and you will see the cathedral at the end.",
+            "Take the first street on the right to the cathedral.",
+            "Do not turn on the second street.",
+            "The cathedral is closed on the left."
           ],
           "answerIndex": 0,
           "explanation": "segunda calle a la izquierda = 2nd street on left; al fondo = at the end/background."
@@ -9013,8 +9013,8 @@
         {
           "prompt": "What verb describes exiting or stepping off a bus or metro train?",
           "options": [
-            "Bajarse (e.g. bajarse del autobús / en la estación)",
-            "Subirse (getting on)",
+            "Bajarse",
+            "Subirse",
             "Caminar",
             "Comprar"
           ],
@@ -9052,7 +9052,7 @@
         {
           "prompt": "What is the common phrase used to inquire 'Which way to...?' in Spanish?",
           "options": [
-            "¿Por dónde se va a...? (or ¿Cómo se va a...?)",
+            "¿Por dónde se va a...?",
             "¿Quién es usted?",
             "¿Qué hora es?",
             "¿Cuánto cuesta?"
@@ -9116,10 +9116,10 @@
         {
           "prompt": "Which preposition fills the blank for physical motion through space: 'Caminamos _______ (through/along) la calle Gran Vía'?",
           "options": [
-            "en (44.1)",
-            "por (motion through or along a spatial path) (44.2)",
-            "con (44.3)",
-            "para (44.4)"
+            "en",
+            "por",
+            "con",
+            "para"
           ],
           "answerIndex": 1,
           "explanation": "'Por' expresses motion through or along a route."
@@ -9127,7 +9127,7 @@
         {
           "prompt": "Which preposition fills the blank for purpose / in order to: 'Estudio español _______ (in order to) viajar por América Latina'?",
           "options": [
-            "para (purpose + infinitive)",
+            "para",
             "de",
             "a",
             "por"
@@ -9142,10 +9142,10 @@
         {
           "prompt": "Translate: 'El tren para Valencia pasa por Cuenca.'",
           "options": [
-            "The train heading for Valencia passes through Cuenca. (44.1)",
-            "Cuenca has no trains to Valencia. (44.2)",
-            "The train from Valencia stopped in Cuenca. (44.3)",
-            "Valencia is far from Cuenca. (44.4)"
+            "The train heading for Valencia passes through Cuenca.",
+            "Cuenca has no trains to Valencia.",
+            "The train from Valencia stopped in Cuenca.",
+            "Valencia is far from Cuenca."
           ],
           "answerIndex": 0,
           "explanation": "para Valencia = destination; pasa por Cuenca = route passing through."
@@ -9153,7 +9153,7 @@
         {
           "prompt": "Complete: 'Necesito comprar un billete _______ (for) mañana _______ (in the) tarde.'",
           "options": [
-            "para / por la (para = deadline/time; por la tarde = time of day)",
+            "para / por la",
             "por / por la",
             "por / para la",
             "para / para la"
@@ -9256,10 +9256,10 @@
         {
           "prompt": "What landmark square did Lucía tell Mateo to walk toward before turning right onto Paseo del Prado?",
           "options": [
-            "La Plaza de Cibeles (with the famous Cibeles fountain) (45.1)",
-            "La Plaza Mayor (45.2)",
-            "La Plaza de Toros (45.3)",
-            "El Parque de Atracciones (45.4)"
+            "La Plaza de Cibeles",
+            "La Plaza Mayor",
+            "La Plaza de Toros",
+            "El Parque de Atracciones"
           ],
           "answerIndex": 0,
           "explanation": "Lucía instructed: 'sigues todo recto... hasta llegar a la Plaza de Cibeles'."
@@ -9267,7 +9267,7 @@
         {
           "prompt": "Where is the Museo del Prado located relative to the Real Jardín Botánico?",
           "options": [
-            "Enfrente del Real Jardín Botánico (across from / in front of)",
+            "Enfrente del Real Jardín Botánico",
             "Debajo del jardín",
             "Dentro del jardín",
             "A cien kilómetros del jardín"
@@ -9282,10 +9282,10 @@
         {
           "prompt": "Why did Mateo choose to walk instead of taking the metro?",
           "options": [
-            "Because he had no money (45.1)",
-            "Because the weather was beautiful and it was only a 15-minute walk through historic streets (45.2)",
-            "Because walking is forbidden in Madrid (45.3)",
-            "Because the metro was on strike (45.4)"
+            "Because he had no money",
+            "Because the weather was beautiful and it was only a 15-minute walk through historic streets",
+            "Because walking is forbidden in Madrid",
+            "Because the metro was on strike"
           ],
           "answerIndex": 1,
           "explanation": "Mateo noted: 'Como hace un día tan bonito, prefiero ir a pie para conocer la ciudad'."
@@ -9391,10 +9391,10 @@
         {
           "prompt": "¿Cómo se dice 'the bedroom' en español?",
           "options": [
-            "La cocina (46.1)",
-            "El baño (46.2)",
-            "La sala (46.3)",
-            "El dormitorio (o la habitación) (46.4)"
+            "La cocina",
+            "El baño",
+            "La sala",
+            "El dormitorio"
           ],
           "answerIndex": 3,
           "explanation": "El dormitorio (or la habitación) means the bedroom."
@@ -9417,10 +9417,10 @@
         {
           "prompt": "Completa la frase: 'La comida y la leche están frescas en _______.'",
           "options": [
-            "el armario (46.1)",
-            "el sofá (46.2)",
-            "la lámpara (46.3)",
-            "la nevera (el frigorífico) (46.4)"
+            "el armario",
+            "el sofá",
+            "la lámpara",
+            "la nevera"
           ],
           "answerIndex": 3,
           "explanation": "La nevera (the refrigerator) keeps food and milk fresh."
@@ -9431,7 +9431,7 @@
             "La sofá",
             "Las sofá",
             "Una sofá",
-            "El sofá (sustantivo masculino a pesar de terminar en -a)"
+            "El sofá"
           ],
           "answerIndex": 3,
           "explanation": "'Sofá' is a masculine noun: el sofá / un sofá."
@@ -9468,7 +9468,7 @@
           "prompt": "¿Por qué se usa el verbo 'estar' y no 'ser' para ubicar los muebles en una casa?",
           "options": [
             "Porque los muebles son temporales",
-            "Porque la ubicación física y espacial en español siempre requiere el verbo 'estar' (#ScienceOfLearning)",
+            "Porque la ubicación física y espacial en español siempre requiere el verbo 'estar'",
             "Porque 'estar' es más corto",
             "Porque 'ser' es solo para personas"
           ],
@@ -9526,10 +9526,10 @@
         {
           "prompt": "¿Qué tarea doméstica significa 'to vacuum' en español?",
           "options": [
-            "Pasar la aspiradora (47.1)",
-            "Barrer el suelo (47.2)",
-            "Planchar la ropa (47.3)",
-            "Sacar la basura (47.4)"
+            "Pasar la aspiradora",
+            "Barrer el suelo",
+            "Planchar la ropa",
+            "Sacar la basura"
           ],
           "answerIndex": 0,
           "explanation": "Pasar la aspiradora = to vacuum."
@@ -9537,7 +9537,7 @@
         {
           "prompt": "¿Qué verbo se utiliza comúnmente con 'la cama' para decir 'to make the bed'?",
           "options": [
-            "Hacer (Hacer la cama)",
+            "Hacer",
             "Tomar",
             "Abrir",
             "Escribir"
@@ -9552,10 +9552,10 @@
         {
           "prompt": "Traduce: 'I wash the dishes after lunch.'",
           "options": [
-            "Limpio el suelo antes de comer. (47.1)",
-            "Lavo los platos después del almuerzo (de la comida). (47.2)",
-            "Pongo la mesa a las tres. (47.3)",
-            "Saco la basura por la noche. (47.4)"
+            "Limpio el suelo antes de comer.",
+            "Lavo los platos después del almuerzo (de la comida).",
+            "Pongo la mesa a las tres.",
+            "Saco la basura por la noche."
           ],
           "answerIndex": 1,
           "explanation": "Lavar los platos = to wash the dishes."
@@ -9591,7 +9591,7 @@
           "prompt": "¿Cuál es la forma correcta: 'Mi compañero de piso y yo _______ la casa juntos'?",
           "options": [
             "limpian",
-            "limpiamos (nosotros)",
+            "limpiamos",
             "limpias",
             "limpio"
           ],
@@ -9602,7 +9602,7 @@
         {
           "prompt": "¿Por qué es importante dominar las expresiones de tareas domésticas al compartir vivienda en el extranjero?",
           "options": [
-            "Para establecer acuerdos claros de convivencia y repartir responsabilidades en un piso compartido (#ScienceOfLearning)",
+            "Para establecer acuerdos claros de convivencia y repartir responsabilidades en un piso compartido",
             "Para comprar muebles nuevos",
             "No tiene utilidad práctica",
             "Para trabajar en un hotel exclusivamente"
@@ -9661,10 +9661,10 @@
         {
           "prompt": "¿Cuál es la terminación del imperfecto para 'yo' en verbos regulares -ar?",
           "options": [
-            "-í (48.1)",
-            "-é (48.2)",
-            "-aba (yo cantaba, yo jugaba) (48.3)",
-            "-aron (48.4)"
+            "-í",
+            "-é",
+            "-aba",
+            "-aron"
           ],
           "answerIndex": 2,
           "explanation": "-ar verbs take -aba for the 'yo' and 'él/ella' forms in the imperfect."
@@ -9675,7 +9675,7 @@
             "Estudiabamos",
             "Estudiaron",
             "Estudiamos",
-            "Estudiábamos (con acento escrito en la 'á')"
+            "Estudiábamos"
           ],
           "answerIndex": 3,
           "explanation": "Nosotros in -ar imperfect always takes a written tilde: estudiábamos."
@@ -9687,10 +9687,10 @@
         {
           "prompt": "Traduce: 'We used to visit our cousins in summer.'",
           "options": [
-            "Visitábamos a nuestros primos en verano. (48.1)",
-            "Visitamos a nuestros primos mañana. (48.2)",
-            "Visito a los primos hoy. (48.3)",
-            "Visitaron a los primos ayer. (48.4)"
+            "Visitábamos a nuestros primos en verano.",
+            "Visitamos a nuestros primos mañana.",
+            "Visito a los primos hoy.",
+            "Visitaron a los primos ayer."
           ],
           "answerIndex": 0,
           "explanation": "Visitábamos (imperfect) expresses a habitual past summer routine."
@@ -9698,7 +9698,7 @@
         {
           "prompt": "¿Qué indica la frase 'De pequeño, siempre cenaba temprano'?",
           "options": [
-            "Una rutina habitual y repetida en la infancia (cenar temprano)",
+            "Una rutina habitual y repetida en la infancia",
             "Una acción que ocurrió solo una vez",
             "Una acción futura",
             "Una orden imperativa"
@@ -9725,7 +9725,7 @@
         {
           "prompt": "¿Cuál es la diferencia de significado entre 'Ayer caminé en el parque' (Pretérito Indefinido) y 'Caminaba en el parque todos los días' (Pretérito Imperfecto)?",
           "options": [
-            "'Caminé' es un evento puntual y terminado en un momento específico; 'caminaba' es un hábito continuo o rutina repetida en el pasado (#ScienceOfLearning)",
+            "'Caminé' es un evento puntual y terminado en un momento específico; 'caminaba' es un hábito continuo o rutina repetida en el pasado",
             "'Caminaba' es una pregunta",
             "'Caminé' es presente y 'caminaba' es futuro",
             "No hay ninguna diferencia"
@@ -9749,7 +9749,7 @@
         {
           "prompt": "Verdadero o falso: En el imperfecto de verbos -ar, las formas de 'yo' y 'él/ella' son exactamente iguales.",
           "options": [
-            "Verdadero (ambas terminan en -aba)",
+            "Verdadero",
             "Falso"
           ],
           "answerIndex": 0,
@@ -9794,10 +9794,10 @@
         {
           "prompt": "¿Cuáles son los tres ÚNICOS verbos irregulares en pretérito imperfecto en español?",
           "options": [
-            "ESTAR, PODER y PONER (49.1)",
-            "SER, IR y VER (49.2)",
-            "DECIR, QUERER y SABER (49.3)",
-            "HABER, TENER y HACER (49.4)"
+            "ESTAR, PODER y PONER",
+            "SER, IR y VER",
+            "DECIR, QUERER y SABER",
+            "HABER, TENER y HACER"
           ],
           "answerIndex": 1,
           "explanation": "Ser (era), Ir (iba), and Ver (veía) are the only 3 irregular imperfect verbs."
@@ -9805,7 +9805,7 @@
         {
           "prompt": "Conjuga 'vivir' para 'nosotros' en imperfecto:",
           "options": [
-            "Vivíamos (con tilde en la 'í')",
+            "Vivíamos",
             "Vivimos",
             "Vivieron",
             "Vivabamos"
@@ -9820,10 +9820,10 @@
         {
           "prompt": "Traduce: 'When I was young, I used to go to the mountains every summer.'",
           "options": [
-            "Cuando era joven, iba a la montaña cada verano. (49.1)",
-            "Cuando sea joven, iré a la montaña. (49.2)",
-            "Cuando fui joven, fui a la montaña ayer. (49.3)",
-            "Cuando soy joven, voy a la montaña mañana. (49.4)"
+            "Cuando era joven, iba a la montaña cada verano.",
+            "Cuando sea joven, iré a la montaña.",
+            "Cuando fui joven, fui a la montaña ayer.",
+            "Cuando soy joven, voy a la montaña mañana."
           ],
           "answerIndex": 0,
           "explanation": "'Era' (ser) and 'iba' (ir) in imperfect describe past age and repeated summer habit."
@@ -9872,7 +9872,7 @@
           "options": [
             "Solo se pone tilde en España",
             "Es un adorno decorativo",
-            "Para romper el diptongo y mantener el acento prosódico en la vocal cerrada /i/ (-í-a, -í-as, -í-amos) (#ScienceOfLearning)",
+            "Para romper el diptongo y mantener el acento prosódico en la vocal cerrada /i/",
             "Para distinguirlas del francés"
           ],
           "answerIndex": 2,
@@ -9929,10 +9929,10 @@
         {
           "prompt": "En el texto de síntesis, ¿dónde estaba ubicado el dormitorio del narrador?",
           "options": [
-            "En la planta de arriba, con un balcón con vistas al jardín (50.1)",
-            "En el sótano (50.2)",
-            "En la cocina (50.3)",
-            "En el garaje (50.4)"
+            "En la planta de arriba, con un balcón con vistas al jardín",
+            "En el sótano",
+            "En la cocina",
+            "En el garaje"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'Mi dormitorio estaba en la planta de arriba y tenía un balcón con vistas al jardín'."
@@ -9955,10 +9955,10 @@
         {
           "prompt": "Traduce al español: 'Before, we used to live in a small village and we were very happy.'",
           "options": [
-            "Ahora vivimos en un pueblo pequeño hoy. (50.1)",
-            "Antes vivíamos en un pueblo pequeño y éramos muy felices. (50.2)",
-            "Mañana viviremos en un pueblo feliz. (50.3)",
-            "Antes vivimos en una ciudad grande ayer. (50.4)"
+            "Ahora vivimos en un pueblo pequeño hoy.",
+            "Antes vivíamos en un pueblo pequeño y éramos muy felices.",
+            "Mañana viviremos en un pueblo feliz.",
+            "Antes vivimos en una ciudad grande ayer."
           ],
           "answerIndex": 1,
           "explanation": "Vivíamos and éramos correctly translate past habitual living and state."
@@ -9967,7 +9967,7 @@
           "prompt": "¿Qué conector temporal es ideal para contrastar una rutina pasada con el presente?",
           "options": [
             "'Nunca... jamás...'",
-            "'Antes... pero ahora...' (e.g. 'Antes jugaba mucho, pero ahora no tengo tiempo')",
+            "'Antes... pero ahora...'",
             "'Pronto... quizás...'",
             "'Ayer... mañana...'"
           ],
@@ -10006,7 +10006,7 @@
           "prompt": "¿Por qué el Pretérito Imperfecto es fundamental para alcanzar el nivel intermedio (B1/B2)?",
           "options": [
             "Porque sustituye a todos los demás tiempos verbales",
-            "Porque permite construir narrativas complejas entrelazando acciones puntuales (indefinido) con descripciones, hábitos y estados de fondo (imperfecto) (#ScienceOfLearning)",
+            "Porque permite construir narrativas complejas entrelazando acciones puntuales (indefinido) con descripciones, hábitos y estados de fondo",
             "Porque solo se usa en libros antiguos",
             "Porque no tiene reglas gramaticales"
           ],
@@ -10063,10 +10063,10 @@
         {
           "prompt": "¿Cuál es la palabra para \"stomach / belly\"?",
           "options": [
-            "La pierna (51.1)",
-            "El ojo (51.2)",
-            "El brazo (51.3)",
-            "El estómago (51.4)"
+            "La pierna",
+            "El ojo",
+            "El brazo",
+            "El estómago"
           ],
           "answerIndex": 3,
           "explanation": "El estómago significa stomach."
@@ -10089,10 +10089,10 @@
         {
           "prompt": "¿Qué artículo correcto lleva \"mano\"?",
           "options": [
-            "El mano (51.1)",
-            "Los mano (51.2)",
-            "Un mano (51.3)",
-            "La mano (femenino) (51.4)"
+            "El mano",
+            "Los mano",
+            "Un mano",
+            "La mano"
           ],
           "answerIndex": 3,
           "explanation": "Mano is a feminine noun taking \"la\"."
@@ -10162,10 +10162,10 @@
         {
           "prompt": "Elige la forma correcta: \"A Juan ______ las rodillas.\"",
           "options": [
-            "le duelen (52.1)",
-            "duelen (52.2)",
-            "le duele (52.3)",
-            "se duele (52.4)"
+            "le duelen",
+            "duelen",
+            "le duele",
+            "se duele"
           ],
           "answerIndex": 0,
           "explanation": "Rodillas is plural, so use \"le duelen\"."
@@ -10177,10 +10177,10 @@
         {
           "prompt": "¿Cómo se dice \"I have a cough and fever\"?",
           "options": [
-            "Tengo tos y fiebre (52.1)",
-            "Me duele tos y fiebre (52.2)",
-            "Estoy tos y fiebre (52.3)",
-            "Hago tos y fiebre (52.4)"
+            "Tengo tos y fiebre",
+            "Me duele tos y fiebre",
+            "Estoy tos y fiebre",
+            "Hago tos y fiebre"
           ],
           "answerIndex": 0,
           "explanation": "Tengo tos y fiebre uses the standard \"tener\" construct."
@@ -10250,10 +10250,10 @@
         {
           "prompt": "¿Qué significa \"una pastilla cada 8 horas\"?",
           "options": [
-            "8 pills once a day (53.1)",
-            "One pill after 8 days (53.2)",
-            "One pill every 8 hours (53.3)",
-            "8 drops every hour (53.4)"
+            "8 pills once a day",
+            "One pill after 8 days",
+            "One pill every 8 hours",
+            "8 drops every hour"
           ],
           "answerIndex": 2,
           "explanation": "Cada 8 horas means every 8 hours."
@@ -10265,10 +10265,10 @@
         {
           "prompt": "¿Cómo pides algo para el dolor de cabeza?",
           "options": [
-            "¿Tiene algo para el dolor de cabeza? (53.1)",
-            "Quiero cabeza sin dolor (53.2)",
-            "¿Dónde está cabeza dolor? (53.3)",
-            "Dame pastilla cabeza ahora (53.4)"
+            "¿Tiene algo para el dolor de cabeza?",
+            "Quiero cabeza sin dolor",
+            "¿Dónde está cabeza dolor?",
+            "Dame pastilla cabeza ahora"
           ],
           "answerIndex": 0,
           "explanation": "Polite and natural phrasing at the pharmacy counter."
@@ -10338,10 +10338,10 @@
         {
           "prompt": "¿Qué significa \"mantenerse en forma\"?",
           "options": [
-            "To gain weight quickly (54.1)",
-            "To stay in shape / keep fit (54.2)",
-            "To sleep all day (54.3)",
-            "To sit on a chair (54.4)"
+            "To gain weight quickly",
+            "To stay in shape / keep fit",
+            "To sleep all day",
+            "To sit on a chair"
           ],
           "answerIndex": 1,
           "explanation": "Mantenerse en forma means staying physically fit."
@@ -10353,10 +10353,10 @@
         {
           "prompt": "Completa con el verbo adecuado: \"Es necesario ______ al menos dos litros de agua al día.\"",
           "options": [
-            "beber (54.1)",
-            "dormir (54.2)",
-            "comer (54.3)",
-            "correr (54.4)"
+            "beber",
+            "dormir",
+            "comer",
+            "correr"
           ],
           "answerIndex": 0,
           "explanation": "Beber agua = to drink water."
@@ -10420,10 +10420,10 @@
         {
           "prompt": "¿Qué le dice el médico al paciente al terminar la consulta para desearle pronta recuperación?",
           "options": [
-            "¡Que se mejore pronto! (55.1)",
-            "¡Hasta nunca! (55.2)",
-            "¡Buena suerte con el dinero! (55.3)",
-            "¡Coma pasteles! (55.4)"
+            "¡Que se mejore pronto!",
+            "¡Hasta nunca!",
+            "¡Buena suerte con el dinero!",
+            "¡Coma pasteles!"
           ],
           "answerIndex": 0,
           "explanation": "¡Que se mejore pronto! means get well soon."
@@ -10435,10 +10435,10 @@
         {
           "prompt": "¿Cómo respondes a \"¿Desde cuándo le duele?\"",
           "options": [
-            "Con una pastilla. (55.1)",
-            "Desde hace dos días. (55.2)",
-            "Por la ventana. (55.3)",
-            "En el hospital. (55.4)"
+            "Con una pastilla.",
+            "Desde hace dos días.",
+            "Por la ventana.",
+            "En el hospital."
           ],
           "answerIndex": 1,
           "explanation": "\"Desde hace dos días\" answers a time duration question."
@@ -10502,10 +10502,10 @@
         {
           "prompt": "¿Cómo se dice correctamente \"I am an engineer\" en español?",
           "options": [
-            "Soy un ingeniero (56.1)",
-            "Tengo ingeniero (56.2)",
-            "Estoy ingeniero (56.3)",
-            "Soy ingeniero / ingeniera (56.4)"
+            "Soy un ingeniero",
+            "Tengo ingeniero",
+            "Estoy ingeniero",
+            "Soy ingeniero / ingeniera"
           ],
           "answerIndex": 3,
           "explanation": "SER + profession without indefinite article is standard."
@@ -10517,10 +10517,10 @@
         {
           "prompt": "Traduce: \"She works as a lawyer in a law firm.\"",
           "options": [
-            "Es médica en un colegio. (56.1)",
-            "Compra casas en la playa. (56.2)",
-            "Come pan con queso. (56.3)",
-            "Trabaja como abogada en un bufete. (56.4)"
+            "Es médica en un colegio.",
+            "Compra casas en la playa.",
+            "Come pan con queso.",
+            "Trabaja como abogada en un bufete."
           ],
           "answerIndex": 3,
           "explanation": "Trabaja como abogada en un bufete is exact."
@@ -10584,10 +10584,10 @@
         {
           "prompt": "¿Qué significa \"trabajar en remoto\" o \"teletrabajar\"?",
           "options": [
-            "To work from home / remotely using a computer (57.1)",
-            "To sleep at the office (57.2)",
-            "To travel abroad without work (57.3)",
-            "To quit one's job (57.4)"
+            "To work from home / remotely using a computer",
+            "To sleep at the office",
+            "To travel abroad without work",
+            "To quit one's job"
           ],
           "answerIndex": 0,
           "explanation": "Teletrabajar means remote work."
@@ -10599,10 +10599,10 @@
         {
           "prompt": "¿Cómo dices \"I have to write an urgent report\"?",
           "options": [
-            "Tengo que redactar un informe urgente. (57.1)",
-            "Quiero comer una ensalada. (57.2)",
-            "Voy a ver una película. (57.3)",
-            "El informe es azul. (57.4)"
+            "Tengo que redactar un informe urgente.",
+            "Quiero comer una ensalada.",
+            "Voy a ver una película.",
+            "El informe es azul."
           ],
           "answerIndex": 0,
           "explanation": "Tengo que redactar un informe urgente is exact."
@@ -10614,7 +10614,7 @@
         {
           "prompt": "¿A qué hora suele hacerse la pausa del café en las oficinas españolas?",
           "options": [
-            "A media mañana (hacia las 10:30 - 11:00)",
+            "A media mañana",
             "A las seis de la mañana",
             "A las ocho de la tarde",
             "A medianoche"
@@ -10666,10 +10666,10 @@
         {
           "prompt": "¿Cómo se llama en España a una computadora portátil?",
           "options": [
-            "Una máquina de escribir (58.1)",
-            "Un televisor (58.2)",
-            "Un ordenador portátil (58.3)",
-            "Una radio (58.4)"
+            "Una máquina de escribir",
+            "Un televisor",
+            "Un ordenador portátil",
+            "Una radio"
           ],
           "answerIndex": 2,
           "explanation": "Ordenador portátil is standard Peninsular Spanish."
@@ -10681,10 +10681,10 @@
         {
           "prompt": "¿Qué debes hacer para no perder tu trabajo en el ordenador?",
           "options": [
-            "Guardar los cambios (58.1)",
-            "Apagar la pantalla sin guardar (58.2)",
-            "Tirar el ratón (58.3)",
-            "Borrar el archivo (58.4)"
+            "Guardar los cambios",
+            "Apagar la pantalla sin guardar",
+            "Tirar el ratón",
+            "Borrar el archivo"
           ],
           "answerIndex": 0,
           "explanation": "Guardar los cambios preserves work."
@@ -10748,10 +10748,10 @@
         {
           "prompt": "¿Cuál es una fórmula de despedida formal y común en un correo comercial?",
           "options": [
-            "Nos vemos luego tío (59.1)",
-            "Un cordial saludo, / Atentamente, (59.2)",
-            "Hasta nunca (59.3)",
-            "¡Chao pescao! (59.4)"
+            "Nos vemos luego tío",
+            "Un cordial saludo, / Atentamente,",
+            "Hasta nunca",
+            "¡Chao pescao!"
           ],
           "answerIndex": 1,
           "explanation": "Un cordial saludo is formal and professional."
@@ -10763,10 +10763,10 @@
         {
           "prompt": "¿Cómo se inicia un email formal dirigido al Sr. Martínez?",
           "options": [
-            "Estimado Sr. Martínez: (59.1)",
-            "¿Quién eres? (59.2)",
-            "¡Hola qué pasa Martínez! (59.3)",
-            "Oye tú: (59.4)"
+            "Estimado Sr. Martínez:",
+            "¿Quién eres?",
+            "¡Hola qué pasa Martínez!",
+            "Oye tú:"
           ],
           "answerIndex": 0,
           "explanation": "Estimado Sr. Martínez is standard formal address."
@@ -10830,10 +10830,10 @@
         {
           "prompt": "¿Qué significa \"trabajar en equipo\"?",
           "options": [
-            "To collaborate effectively with colleagues toward shared goals (60.1)",
-            "To work alone in isolation (60.2)",
-            "To avoid other workers (60.3)",
-            "To play football during work (60.4)"
+            "To collaborate effectively with colleagues toward shared goals",
+            "To work alone in isolation",
+            "To avoid other workers",
+            "To play football during work"
           ],
           "answerIndex": 0,
           "explanation": "Trabajar en equipo means teamwork."
@@ -10845,10 +10845,10 @@
         {
           "prompt": "¿Cómo respondes cuando te preguntan por tu experiencia laboral?",
           "options": [
-            "Ayer dormí diez horas. (60.1)",
-            "Tengo experiencia en gestión de proyectos y análisis de datos. (60.2)",
-            "Mi perro se llama Toby. (60.3)",
-            "No me gusta trabajar. (60.4)"
+            "Ayer dormí diez horas.",
+            "Tengo experiencia en gestión de proyectos y análisis de datos.",
+            "Mi perro se llama Toby.",
+            "No me gusta trabajar."
           ],
           "answerIndex": 1,
           "explanation": "Professional description of relevant experience."
@@ -10861,7 +10861,7 @@
           "prompt": "¿Qué documento resume tu trayectoria profesional y académica al buscar empleo?",
           "options": [
             "El pasaporte turístico",
-            "El currículum vítae (CV)",
+            "El currículum vítae",
             "El recibo de la luz",
             "El menú del día"
           ],
@@ -10912,10 +10912,10 @@
         {
           "prompt": "¿Cómo expresas que te gusta mucho la fotografía?",
           "options": [
-            "La fotografía es fea (61.1)",
-            "No me gusta la cámara (61.2)",
-            "Tengo fotografía (61.3)",
-            "Me apasiona la fotografía / Me encanta la fotografía (61.4)"
+            "La fotografía es fea",
+            "No me gusta la cámara",
+            "Tengo fotografía",
+            "Me apasiona la fotografía / Me encanta la fotografía"
           ],
           "answerIndex": 3,
           "explanation": "Me apasiona / encanta expresses strong enthusiasm."
@@ -10927,10 +10927,10 @@
         {
           "prompt": "Traduce: \"In my free time, I like playing the classical guitar.\"",
           "options": [
-            "Vendo guitarras rotas. (61.1)",
-            "La música es aburrida. (61.2)",
-            "No tengo tiempo libre. (61.3)",
-            "En mi tiempo libre, me gusta tocar la guitarra clásica. (61.4)"
+            "Vendo guitarras rotas.",
+            "La música es aburrida.",
+            "No tengo tiempo libre.",
+            "En mi tiempo libre, me gusta tocar la guitarra clásica."
           ],
           "answerIndex": 3,
           "explanation": "En mi tiempo libre, me gusta tocar la guitarra clásica is exact."
@@ -10942,7 +10942,7 @@
         {
           "prompt": "¿Qué verbo se utiliza en español para \"to play an instrument\"?",
           "options": [
-            "Tocar (la guitarra, el piano)",
+            "Tocar",
             "Correr",
             "Bailar",
             "Jugar"
@@ -10994,10 +10994,10 @@
         {
           "prompt": "¿Qué deporte de raqueta en parejas es enormemente popular en España?",
           "options": [
-            "El pádel (62.1)",
-            "El cricket (62.2)",
-            "El béisbol (62.3)",
-            "El hockey sobre hielo (62.4)"
+            "El pádel",
+            "El cricket",
+            "El béisbol",
+            "El hockey sobre hielo"
           ],
           "answerIndex": 0,
           "explanation": "El pádel is wildly popular."
@@ -11009,10 +11009,10 @@
         {
           "prompt": "¿Qué verbo se usa para indicar anotar en un partido de fútbol?",
           "options": [
-            "Marcar un gol / Meter un gol (62.1)",
-            "Comer un gol (62.2)",
-            "Dormir un gol (62.3)",
-            "Correr un gol (62.4)"
+            "Marcar un gol / Meter un gol",
+            "Comer un gol",
+            "Dormir un gol",
+            "Correr un gol"
           ],
           "answerIndex": 0,
           "explanation": "Marcar un gol means scoring a goal."
@@ -11076,10 +11076,10 @@
         {
           "prompt": "¿Qué género musical y dancístico andaluz es Patrimonio Inmaterial de la Humanidad?",
           "options": [
-            "El tango (63.1)",
-            "La samba (63.2)",
-            "El flamenco (63.3)",
-            "La polka (63.4)"
+            "El tango",
+            "La samba",
+            "El flamenco",
+            "La polka"
           ],
           "answerIndex": 2,
           "explanation": "El flamenco."
@@ -11091,10 +11091,10 @@
         {
           "prompt": "¿Qué museo madrileño alberga \"Las Meninas\" de Velázquez?",
           "options": [
-            "El Museo del Prado (63.1)",
-            "El Museo del Louvre (63.2)",
-            "El Hermitage (63.3)",
-            "La Galería Uffizi (63.4)"
+            "El Museo del Prado",
+            "El Museo del Louvre",
+            "El Hermitage",
+            "La Galería Uffizi"
           ],
           "answerIndex": 0,
           "explanation": "El Museo del Prado."
@@ -11158,10 +11158,10 @@
         {
           "prompt": "¿Cómo dices coloquialmente en España \"Count me in / I'm in\" para un plan divertido?",
           "options": [
-            "No quiero saber nada (64.1)",
-            "¡Me apunto! / ¡Me parece genial! (64.2)",
-            "Adiós (64.3)",
-            "Me borro (64.4)"
+            "No quiero saber nada",
+            "¡Me apunto! / ¡Me parece genial!",
+            "Adiós",
+            "Me borro"
           ],
           "answerIndex": 1,
           "explanation": "¡Me apunto! means count me in."
@@ -11173,10 +11173,10 @@
         {
           "prompt": "¿Cómo propones un plan de salir a tomar algo usando \"apetecer\"?",
           "options": [
-            "¿Te apetece tomar algo esta tarde? (64.1)",
-            "El bar está cerrado (64.2)",
-            "No tengo sed (64.3)",
-            "Tienes que tomar agua (64.4)"
+            "¿Te apetece tomar algo esta tarde?",
+            "El bar está cerrado",
+            "No tengo sed",
+            "Tienes que tomar agua"
           ],
           "answerIndex": 0,
           "explanation": "¿Te apetece...? is standard polite proposing."
@@ -11240,10 +11240,10 @@
         {
           "prompt": "¿Qué significa el término \"la banda sonora\" de una película?",
           "options": [
-            "The musical soundtrack and audio score (65.1)",
-            "The movie poster (65.2)",
-            "The cinema seats (65.3)",
-            "The cinema ticket (65.4)"
+            "The musical soundtrack and audio score",
+            "The movie poster",
+            "The cinema seats",
+            "The cinema ticket"
           ],
           "answerIndex": 0,
           "explanation": "Banda sonora is soundtrack."
@@ -11255,10 +11255,10 @@
         {
           "prompt": "¿Cómo calificas una película altamente recomendada que nadie debería perderse?",
           "options": [
-            "El cine no funciona. (65.1)",
-            "No tiene historia. (65.2)",
-            "Es una película imprescindible y emocionante. (65.3)",
-            "Es una película aburrida. (65.4)"
+            "El cine no funciona.",
+            "No tiene historia.",
+            "Es una película imprescindible y emocionante.",
+            "Es una película aburrida."
           ],
           "answerIndex": 2,
           "explanation": "Película imprescindible."
@@ -11322,10 +11322,10 @@
         {
           "prompt": "¿Qué documento necesitas para subir al avión después de facturar?",
           "options": [
-            "El carnet de conducir (66.1)",
-            "La factura del hotel (66.2)",
-            "Una postal (66.3)",
-            "La tarjeta de embarque (66.4)"
+            "El carnet de conducir",
+            "La factura del hotel",
+            "Una postal",
+            "La tarjeta de embarque"
           ],
           "answerIndex": 3,
           "explanation": "Tarjeta de embarque is boarding pass."
@@ -11337,10 +11337,10 @@
         {
           "prompt": "Traduce: \"The flight is delayed by thirty minutes due to weather.\"",
           "options": [
-            "El avión despegó puntual. (66.1)",
-            "No hay billetes de avión. (66.2)",
-            "El aeropuerto está cerrado. (66.3)",
-            "El vuelo está retrasado treinta minutos debido al tiempo. (66.4)"
+            "El avión despegó puntual.",
+            "No hay billetes de avión.",
+            "El aeropuerto está cerrado.",
+            "El vuelo está retrasado treinta minutos debido al tiempo."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -11355,7 +11355,7 @@
             "En la cabina del piloto",
             "En el mostrador de facturación",
             "En la pista de aterrizaje",
-            "En la sala de recogida de equipajes (cintas de equipaje)"
+            "En la sala de recogida de equipajes"
           ],
           "answerIndex": 3,
           "explanation": "Baggage claim area.",
@@ -11404,10 +11404,10 @@
         {
           "prompt": "¿Cómo dices en recepción que tienes una habitación reservada?",
           "options": [
-            "Tengo una reserva a nombre de [Mi Nombre] (67.1)",
-            "Vengo a vender camas (67.2)",
-            "No quiero dormir aquí (67.3)",
-            "La habitación es mía gratis (67.4)"
+            "Tengo una reserva a nombre de [Mi Nombre]",
+            "Vengo a vender camas",
+            "No quiero dormir aquí",
+            "La habitación es mía gratis"
           ],
           "answerIndex": 0,
           "explanation": "Tengo una reserva a nombre de... is standard."
@@ -11419,10 +11419,10 @@
         {
           "prompt": "¿Qué incluye el régimen de \"media pensión\" en un hotel?",
           "options": [
-            "Alojamiento, desayuno y una comida principal (almuerzo o cena) (67.1)",
-            "Solo dormir (67.2)",
-            "Todas las bebidas gratis todo el día (67.3)",
-            "Solo café (67.4)"
+            "Alojamiento, desayuno y una comida principal",
+            "Solo dormir",
+            "Todas las bebidas gratis todo el día",
+            "Solo café"
           ],
           "answerIndex": 0,
           "explanation": "Media pensión includes breakfast and one main meal."
@@ -11486,10 +11486,10 @@
         {
           "prompt": "¿Cómo se llama la red de trenes de alta velocidad más extensa de Europa que opera en España?",
           "options": [
-            "El tranvía lento (68.1)",
-            "El teleférico (68.2)",
-            "El AVE (Alta Velocidad Española) (68.3)",
-            "El funicular (68.4)"
+            "El tranvía lento",
+            "El teleférico",
+            "El AVE",
+            "El funicular"
           ],
           "answerIndex": 2,
           "explanation": "El AVE."
@@ -11501,10 +11501,10 @@
         {
           "prompt": "¿Cómo pides un billete para ir y regresar en la taquilla de la estación?",
           "options": [
-            "Un billete de ida y vuelta a Valencia, por favor. (68.1)",
-            "Un billete solo de ida (68.2)",
-            "No quiero viajar (68.3)",
-            "Un mapa del tren (68.4)"
+            "Un billete de ida y vuelta a Valencia, por favor.",
+            "Un billete solo de ida",
+            "No quiero viajar",
+            "Un mapa del tren"
           ],
           "answerIndex": 0,
           "explanation": "Billete de ida y vuelta is round-trip."
@@ -11568,10 +11568,10 @@
         {
           "prompt": "¿Qué significa pedir un \"seguro a todo riesgo sin franquicia\" al alquilar un coche?",
           "options": [
-            "Only third-party glass insurance (69.1)",
-            "Full comprehensive coverage with zero deductible/excess in case of damage (69.2)",
-            "A bicycle helmet (69.3)",
-            "No insurance at all (69.4)"
+            "Only third-party glass insurance",
+            "Full comprehensive coverage with zero deductible/excess in case of damage",
+            "A bicycle helmet",
+            "No insurance at all"
           ],
           "answerIndex": 1,
           "explanation": "Seguro a todo riesgo sin franquicia is zero-deductible full coverage."
@@ -11583,10 +11583,10 @@
         {
           "prompt": "¿Qué combustible debes pedir para un coche estándar de gasolina en España?",
           "options": [
-            "Gasolina sin plomo 95 (69.1)",
-            "Queroseno de avión (69.2)",
-            "Agua con gas (69.3)",
-            "Gasóleo agrícola (69.4)"
+            "Gasolina sin plomo 95",
+            "Queroseno de avión",
+            "Agua con gas",
+            "Gasóleo agrícola"
           ],
           "answerIndex": 0,
           "explanation": "Gasolina sin plomo 95 is standard unleaded."
@@ -11650,10 +11650,10 @@
         {
           "prompt": "¿Qué formulario oficial debes rellenar en el aeropuerto si tu maleta facturada no aparece?",
           "options": [
-            "El Parte de Irregularidad de Equipaje (PIR) (70.1)",
-            "Un examen de conducir (70.2)",
-            "Una postal para casa (70.3)",
-            "La factura de la tienda (70.4)"
+            "El Parte de Irregularidad de Equipaje",
+            "Un examen de conducir",
+            "Una postal para casa",
+            "La factura de la tienda"
           ],
           "answerIndex": 0,
           "explanation": "El PIR (Property Irregularity Report)."
@@ -11665,10 +11665,10 @@
         {
           "prompt": "¿Cómo solicitas el libro oficial para poner una queja formal en un establecimiento en España?",
           "options": [
-            "Todo está perfecto (70.1)",
-            "Me voy sin pagar (70.2)",
-            "Por favor, ¿me puede facilitar la hoja oficial de reclamaciones? (70.3)",
-            "No quiero hablar con nadie (70.4)"
+            "Todo está perfecto",
+            "Me voy sin pagar",
+            "Por favor, ¿me puede facilitar la hoja oficial de reclamaciones?",
+            "No quiero hablar con nadie"
           ],
           "answerIndex": 2,
           "explanation": "Hoja de reclamaciones is the official legal complaint form."
@@ -11732,10 +11732,10 @@
         {
           "prompt": "¿Cómo preguntas en una tienda de ropa si tienen una talla específica?",
           "options": [
-            "¿Dónde está la comida? (71.1)",
-            "No quiero comprar nada (71.2)",
-            "El pantalón está roto (71.3)",
-            "¿Tiene este pantalón en la talla 38 / M? (71.4)"
+            "¿Dónde está la comida?",
+            "No quiero comprar nada",
+            "El pantalón está roto",
+            "¿Tiene este pantalón en la talla 38 / M?"
           ],
           "answerIndex": 3,
           "explanation": "¿Tiene este pantalón en la talla...? is standard."
@@ -11747,10 +11747,10 @@
         {
           "prompt": "¿Cómo se le llama a los pantalones tejanos/jeans en España?",
           "options": [
-            "Los bañadores (71.1)",
-            "Los pijamas (71.2)",
-            "Los trajes (71.3)",
-            "Los pantalones vaqueros / los vaqueros (71.4)"
+            "Los bañadores",
+            "Los pijamas",
+            "Los trajes",
+            "Los pantalones vaqueros / los vaqueros"
           ],
           "answerIndex": 3,
           "explanation": "Los vaqueros."
@@ -11814,10 +11814,10 @@
         {
           "prompt": "¿Cómo dices que una prenda te queda demasiado apretada?",
           "options": [
-            "Me queda estrecha / pequeña (72.1)",
-            "Me queda perfecta (72.2)",
-            "Me queda gigante (72.3)",
-            "Es muy ancha (72.4)"
+            "Me queda estrecha / pequeña",
+            "Me queda perfecta",
+            "Me queda gigante",
+            "Es muy ancha"
           ],
           "answerIndex": 0,
           "explanation": "Me queda estrecha / pequeña."
@@ -11829,10 +11829,10 @@
         {
           "prompt": "¿Dónde te pruebas la ropa en una tienda?",
           "options": [
-            "En los probadores (72.1)",
-            "En la caja registradora (72.2)",
-            "En el escaparate (72.3)",
-            "En la calle (72.4)"
+            "En los probadores",
+            "En la caja registradora",
+            "En el escaparate",
+            "En la calle"
           ],
           "answerIndex": 0,
           "explanation": "En los probadores (Fitting rooms)."
@@ -11896,10 +11896,10 @@
         {
           "prompt": "¿Cómo se llama la temporada oficial de descuentos comerciales en España?",
           "options": [
-            "La fiesta mayor (73.1)",
-            "Las rebajas (de invierno / de verano) (73.2)",
-            "La vendimia (73.3)",
-            "El examen (73.4)"
+            "La fiesta mayor",
+            "Las rebajas",
+            "La vendimia",
+            "El examen"
           ],
           "answerIndex": 1,
           "explanation": "Las rebajas."
@@ -11911,10 +11911,10 @@
         {
           "prompt": "¿Cómo pides el comprobante de compra en la caja en España?",
           "options": [
-            "¿Me da el ticket de compra, por favor? (73.1)",
-            "Deme un periódico (73.2)",
-            "Tire el dinero (73.3)",
-            "No quiero recibo (73.4)"
+            "¿Me da el ticket de compra, por favor?",
+            "Deme un periódico",
+            "Tire el dinero",
+            "No quiero recibo"
           ],
           "answerIndex": 0,
           "explanation": "El ticket de compra."
@@ -11978,10 +11978,10 @@
         {
           "prompt": "¿Cuál es el famoso mercado al aire libre de antigüedades que se celebra todos los domingos en Madrid?",
           "options": [
-            "Camden Market (74.1)",
-            "El Rastro de Madrid (74.2)",
-            "Portobello Road (74.3)",
-            "El Mercado de las Pulgas de París (74.4)"
+            "Camden Market",
+            "El Rastro de Madrid",
+            "Portobello Road",
+            "El Mercado de las Pulgas de París"
           ],
           "answerIndex": 1,
           "explanation": "El Rastro de Madrid."
@@ -11993,10 +11993,10 @@
         {
           "prompt": "¿Cuál es el jamón curado más prestigioso y exclusivo de la gastronomía española?",
           "options": [
-            "El jamón ibérico de bellota (100% ibérico) (74.1)",
-            "El jamón de plástico (74.2)",
-            "El pavo frío (74.3)",
-            "El jamón cocido en lata (74.4)"
+            "El jamón ibérico de bellota",
+            "El jamón de plástico",
+            "El pavo frío",
+            "El jamón cocido en lata"
           ],
           "answerIndex": 0,
           "explanation": "Jamón ibérico de bellota."
@@ -12011,7 +12011,7 @@
             "El precio cambia cada minuto",
             "No hay precios",
             "Se debe regatear obligatoriamente",
-            "Los precios son fijos y están claramente indicados (no se acostumbra regatear)"
+            "Los precios son fijos y están claramente indicados"
           ],
           "answerIndex": 3,
           "explanation": "Fixed pricing culture.",
@@ -12060,10 +12060,10 @@
         {
           "prompt": "¿Qué documento y condición son indispensables para devolver una prenda en una tienda?",
           "options": [
-            "El ticket de compra original y la prenda con las etiquetas puestas (75.1)",
-            "Una foto borrosa (75.2)",
-            "La prenda lavada y usada (75.3)",
-            "Sin ticket (75.4)"
+            "El ticket de compra original y la prenda con las etiquetas puestas",
+            "Una foto borrosa",
+            "La prenda lavada y usada",
+            "Sin ticket"
           ],
           "answerIndex": 0,
           "explanation": "Ticket and original tags."
@@ -12075,10 +12075,10 @@
         {
           "prompt": "¿Cómo se llama el sistema digital español para validar el Tax-Free en los aeropuertos?",
           "options": [
-            "El sistema DNI (75.1)",
-            "El sistema METRO (75.2)",
-            "El sistema DIVA (devolución del IVA) (75.3)",
-            "El sistema RENFE (75.4)"
+            "El sistema DNI",
+            "El sistema METRO",
+            "El sistema DIVA",
+            "El sistema RENFE"
           ],
           "answerIndex": 2,
           "explanation": "El sistema DIVA."
@@ -12142,10 +12142,10 @@
         {
           "prompt": "¿Cómo dices en español que el cielo no tiene nubes y brilla el sol?",
           "options": [
-            "Hay tormenta de nieve (76.1)",
-            "Está lloviendo a cántaros (76.2)",
-            "Hace un frío polar (76.3)",
-            "Hace sol y el cielo está completamente despejado (76.4)"
+            "Hay tormenta de nieve",
+            "Está lloviendo a cántaros",
+            "Hace un frío polar",
+            "Hace sol y el cielo está completamente despejado"
           ],
           "answerIndex": 3,
           "explanation": "Hace sol y está despejado is exact."
@@ -12157,10 +12157,10 @@
         {
           "prompt": "¿Qué verbo se usa para indicar la temperatura ambiente (ej. \"It is 22 degrees\")?",
           "options": [
-            "Tener grados (76.1)",
-            "Hacer grados (76.2)",
-            "Comer grados (76.3)",
-            "Estar a (Estamos a veintidós grados) (76.4)"
+            "Tener grados",
+            "Hacer grados",
+            "Comer grados",
+            "Estar a"
           ],
           "answerIndex": 3,
           "explanation": "Estamos a veintidós grados."
@@ -12173,7 +12173,7 @@
           "prompt": "¿Qué región española es famosa por su clima atlántico lluvioso y paisajes verdes llamada \"la España Verde\"?",
           "options": [
             "El desierto de Tabernas",
-            "El norte (Galicia, Asturias, Cantabria, País Vasco)",
+            "El norte",
             "Las Islas Canarias",
             "Madrid centro"
           ],
@@ -12224,10 +12224,10 @@
         {
           "prompt": "¿Qué estación del año es famosa por las castañas asadas en las calles y la caída de las hojas?",
           "options": [
-            "El otoño (77.1)",
-            "El año bisiesto (77.2)",
-            "El verano (77.3)",
-            "La primavera (77.4)"
+            "El otoño",
+            "El año bisiesto",
+            "El verano",
+            "La primavera"
           ],
           "answerIndex": 0,
           "explanation": "El otoño."
@@ -12239,10 +12239,10 @@
         {
           "prompt": "¿En qué estación del año se celebra la vendimia y recogida de la uva para el vino en España?",
           "options": [
-            "En otoño (septiembre-octubre) (77.1)",
-            "En pleno invierno con nieve (77.2)",
-            "En primavera (77.3)",
-            "En enero (77.4)"
+            "En otoño",
+            "En pleno invierno con nieve",
+            "En primavera",
+            "En enero"
           ],
           "answerIndex": 0,
           "explanation": "En otoño."
@@ -12254,7 +12254,7 @@
         {
           "prompt": "¿Dónde se encuentran las principales estaciones de esquí de alta montaña en España?",
           "options": [
-            "En los Pirineos y en Sierra Nevada (Granada)",
+            "En los Pirineos y en Sierra Nevada",
             "En el Río Guadalquivir",
             "En el metro de Madrid",
             "En las playas de Ibiza"
@@ -12306,10 +12306,10 @@
         {
           "prompt": "¿Cuál es la montaña más alta de España?",
           "options": [
-            "El Mulhacén (78.1)",
-            "El volcán Teide en Tenerife (3.718 metros) (78.2)",
-            "El Aneto (78.3)",
-            "El Mont Blanc (78.4)"
+            "El Mulhacén",
+            "El volcán Teide en Tenerife",
+            "El Aneto",
+            "El Mont Blanc"
           ],
           "answerIndex": 1,
           "explanation": "El Teide (3.718m)."
@@ -12321,10 +12321,10 @@
         {
           "prompt": "¿Qué animal felino en peligro de extinción habita protegido en el Parque Nacional de Doñana?",
           "options": [
-            "El lince ibérico (78.1)",
-            "El león africano (78.2)",
-            "El oso panda (78.3)",
-            "El tigre de bengala (78.4)"
+            "El lince ibérico",
+            "El león africano",
+            "El oso panda",
+            "El tigre de bengala"
           ],
           "answerIndex": 0,
           "explanation": "El lince ibérico."
@@ -12388,10 +12388,10 @@
         {
           "prompt": "¿Cómo se llama el fenómeno meteorológico de polvo sahariano en suspensión que reduce la visibilidad?",
           "options": [
-            "El granizo (79.1)",
-            "La calima (79.2)",
-            "La escarcha (79.3)",
-            "La nieve (79.4)"
+            "El granizo",
+            "La calima",
+            "La escarcha",
+            "La nieve"
           ],
           "answerIndex": 1,
           "explanation": "La calima."
@@ -12403,10 +12403,10 @@
         {
           "prompt": "¿Qué organismo estatal es responsable de la predicción y alertas meteorológicas en España?",
           "options": [
-            "AEMET (Agencia Estatal de Meteorología) (79.1)",
-            "Renfe (79.2)",
-            "Correos (79.3)",
-            "DGT (79.4)"
+            "AEMET",
+            "Renfe",
+            "Correos",
+            "DGT"
           ],
           "answerIndex": 0,
           "explanation": "AEMET."
@@ -12420,7 +12420,7 @@
           "options": [
             "Día Soleado Con Aire",
             "Dispositivo Automático De Nieve",
-            "Depresión Aislada en Niveles Altos (gota fría)",
+            "Depresión Aislada en Niveles Altos",
             "Dirección De Nubes Altas"
           ],
           "answerIndex": 2,
@@ -12470,10 +12470,10 @@
         {
           "prompt": "¿En qué contenedor de reciclaje de basura se depositan las botellas y envases de vidrio en España?",
           "options": [
-            "En el contenedor verde tipo iglú (80.1)",
-            "En el contenedor amarillo (80.2)",
-            "En la papelera de oficina (80.3)",
-            "En el contenedor azul (80.4)"
+            "En el contenedor verde tipo iglú",
+            "En el contenedor amarillo",
+            "En la papelera de oficina",
+            "En el contenedor azul"
           ],
           "answerIndex": 0,
           "explanation": "Contenedor verde (Glass)."
@@ -12485,10 +12485,10 @@
         {
           "prompt": "¿En qué fuentes de energía renovable y limpia destaca España como potencia europea?",
           "options": [
-            "Carbón mineral únicamente (80.1)",
-            "Petróleo crudo (80.2)",
-            "Leña (80.3)",
-            "Energía solar y eólica (viento) (80.4)"
+            "Carbón mineral únicamente",
+            "Petróleo crudo",
+            "Leña",
+            "Energía solar y eólica"
           ],
           "answerIndex": 3,
           "explanation": "Energía solar y eólica."
@@ -12552,10 +12552,10 @@
         {
           "prompt": "¿Cómo dices en español que te duelen los dos pies tras una larga caminata?",
           "options": [
-            "Me duele el pie (81.1)",
-            "Tengo dolor de cabeza (81.2)",
-            "Tengo hambre (81.3)",
-            "Me duelen los pies (81.4)"
+            "Me duele el pie",
+            "Tengo dolor de cabeza",
+            "Tengo hambre",
+            "Me duelen los pies"
           ],
           "answerIndex": 3,
           "explanation": "Me duelen los pies (plural)."
@@ -12567,10 +12567,10 @@
         {
           "prompt": "¿Cuál es la forma correcta para \"My throat hurts\"?",
           "options": [
-            "Me duelen la garganta (81.1)",
-            "Tengo dolor de rodilla (81.2)",
-            "Estoy cansado (81.3)",
-            "Me duele la garganta (81.4)"
+            "Me duelen la garganta",
+            "Tengo dolor de rodilla",
+            "Estoy cansado",
+            "Me duele la garganta"
           ],
           "answerIndex": 3,
           "explanation": "Me duele la garganta."
@@ -12582,7 +12582,7 @@
         {
           "prompt": "¿Cómo se llaman los centros médicos de atención primaria en los barrios de España?",
           "options": [
-            "Centros de Salud (o ambulatorios)",
+            "Centros de Salud",
             "Hospitales de campaña",
             "Comisarías",
             "Ayuntamientos"
@@ -12634,10 +12634,10 @@
         {
           "prompt": "¿Cómo se le llama en España a los pequeños apósitos adhesivos para cubrir heridas leves?",
           "options": [
-            "Las tiritas (82.1)",
-            "Las gasas estériles (82.2)",
-            "Los vendajes de yeso (82.3)",
-            "Las vendas elásticas (82.4)"
+            "Las tiritas",
+            "Las gasas estériles",
+            "Los vendajes de yeso",
+            "Las vendas elásticas"
           ],
           "answerIndex": 0,
           "explanation": "Las tiritas (band-aids)."
@@ -12649,10 +12649,10 @@
         {
           "prompt": "¿Cómo se llama la farmacia que permanece abierta durante la noche para urgencias médicas?",
           "options": [
-            "La farmacia de guardia (82.1)",
-            "La farmacia cerrada (82.2)",
-            "El supermercado (82.3)",
-            "El quiosco (82.4)"
+            "La farmacia de guardia",
+            "La farmacia cerrada",
+            "El supermercado",
+            "El quiosco"
           ],
           "answerIndex": 0,
           "explanation": "Farmacia de guardia."
@@ -12667,7 +12667,7 @@
             "Un semáforo rojo",
             "Una estrella azul",
             "Un triángulo amarillo",
-            "Una cruz verde luminosa (o cruz de Malta verde)"
+            "Una cruz verde luminosa"
           ],
           "answerIndex": 3,
           "explanation": "Cruz verde luminosa.",
@@ -12716,10 +12716,10 @@
         {
           "prompt": "¿Cuál es el número telefónico gratuito universal de emergencias en España y toda la Unión Europea?",
           "options": [
-            "El 911 (83.1)",
-            "El 112 (83.2)",
-            "El 999 (83.3)",
-            "El 000 (83.4)"
+            "El 911",
+            "El 112",
+            "El 999",
+            "El 000"
           ],
           "answerIndex": 1,
           "explanation": "El 112."
@@ -12731,10 +12731,10 @@
         {
           "prompt": "¿Qué tarjeta permite a los ciudadanos europeos recibir atención médica urgente en España como residentes locales?",
           "options": [
-            "La Tarjeta Sanitaria Europea (TSE) (83.1)",
-            "La tarjeta de crédito (83.2)",
-            "El billete de metro (83.3)",
-            "El carnet de conducir (83.4)"
+            "La Tarjeta Sanitaria Europea",
+            "La tarjeta de crédito",
+            "El billete de metro",
+            "El carnet de conducir"
           ],
           "answerIndex": 0,
           "explanation": "La Tarjeta Sanitaria Europea (TSE)."
@@ -12798,10 +12798,10 @@
         {
           "prompt": "¿Qué ingrediente fundamental de la dieta mediterránea es conocido como el \"oro líquido\"?",
           "options": [
-            "La margarina (84.1)",
-            "El aceite de oliva virgen extra (AOVE) (84.2)",
-            "El aceite de palma (84.3)",
-            "La mantequilla (84.4)"
+            "La margarina",
+            "El aceite de oliva virgen extra",
+            "El aceite de palma",
+            "La mantequilla"
           ],
           "answerIndex": 1,
           "explanation": "Aceite de oliva virgen extra."
@@ -12813,10 +12813,10 @@
         {
           "prompt": "¿Cuál es la duración recomendada para una siesta reparadora y beneficiosa para la salud según los médicos?",
           "options": [
-            "De 15 a 20 minutos (84.1)",
-            "Todo el día (84.2)",
-            "Cero minutos siempre (84.3)",
-            "De 4 horas (84.4)"
+            "De 15 a 20 minutos",
+            "Todo el día",
+            "Cero minutos siempre",
+            "De 4 horas"
           ],
           "answerIndex": 0,
           "explanation": "15 a 20 minutos."
@@ -12829,7 +12829,7 @@
           "prompt": "¿Qué región española es el mayor productor mundial de aceite de oliva virgen extra?",
           "options": [
             "Asturias",
-            "Andalucía (Jaén y Córdoba)",
+            "Andalucía",
             "Galicia",
             "Canarias"
           ],
@@ -12880,10 +12880,10 @@
         {
           "prompt": "¿Qué organismo público español coordina el sistema de trasplantes y donaciones líder en el mundo?",
           "options": [
-            "La ONT (Organización Nacional de Trasplantes) (85.1)",
-            "El Banco de España (85.2)",
-            "El Instituto Cervantes (85.3)",
-            "La DGT (85.4)"
+            "La ONT",
+            "El Banco de España",
+            "El Instituto Cervantes",
+            "La DGT"
           ],
           "answerIndex": 0,
           "explanation": "La ONT."
@@ -12895,10 +12895,10 @@
         {
           "prompt": "¿Durante cuántos años consecutivos ha liderado España el ranking mundial de donación y trasplante de órganos?",
           "options": [
-            "Solo 1 año (85.1)",
-            "Ningún año (85.2)",
-            "5 meses (85.3)",
-            "Más de 30 años consecutivos (85.4)"
+            "Solo 1 año",
+            "Ningún año",
+            "5 meses",
+            "Más de 30 años consecutivos"
           ],
           "answerIndex": 3,
           "explanation": "Más de 30 años consecutivos."
@@ -12962,10 +12962,10 @@
         {
           "prompt": "¿Cómo se llama en España el importe que entrega el inquilino como garantía al firmar el contrato de alquiler?",
           "options": [
-            "La propina (86.1)",
-            "La factura de la luz (86.2)",
-            "El billete de tren (86.3)",
-            "La fianza legal (86.4)"
+            "La propina",
+            "La factura de la luz",
+            "El billete de tren",
+            "La fianza legal"
           ],
           "answerIndex": 3,
           "explanation": "La fianza legal."
@@ -12977,10 +12977,10 @@
         {
           "prompt": "¿Qué significa que un piso en Madrid o Barcelona sea \"exterior\"?",
           "options": [
-            "Que no tiene techo (86.1)",
-            "Que está en el campo (86.2)",
-            "Que está cerrado (86.3)",
-            "Que sus ventanas principales dan a la calle (con más luz natural) (86.4)"
+            "Que no tiene techo",
+            "Que está en el campo",
+            "Que está cerrado",
+            "Que sus ventanas principales dan a la calle"
           ],
           "answerIndex": 3,
           "explanation": "Piso exterior (da a la calle)."
@@ -12995,7 +12995,7 @@
             "El Código de Circulación",
             "La Ley de Minas",
             "La Ley de Pesca",
-            "La LAU (Ley de Arrendamientos Urbanos)"
+            "La LAU"
           ],
           "answerIndex": 3,
           "explanation": "La LAU.",
@@ -13044,10 +13044,10 @@
         {
           "prompt": "¿Qué documento oficial acredita que una vivienda cumple los requisitos mínimos legales de habitabilidad en España?",
           "options": [
-            "La cédula de habitabilidad (87.1)",
-            "El menú del día (87.2)",
-            "El carnet de socio (87.3)",
-            "La tarjeta de embarque (87.4)"
+            "La cédula de habitabilidad",
+            "El menú del día",
+            "El carnet de socio",
+            "La tarjeta de embarque"
           ],
           "answerIndex": 0,
           "explanation": "La cédula de habitabilidad."
@@ -13059,10 +13059,10 @@
         {
           "prompt": "¿Qué letra representa la máxima eficiencia energética y menor consumo en la escala de certificación de viviendas?",
           "options": [
-            "La letra A (en verde) (87.1)",
-            "La letra G (en rojo) (87.2)",
-            "La letra Z (87.3)",
-            "La letra X (87.4)"
+            "La letra A",
+            "La letra G",
+            "La letra Z",
+            "La letra X"
           ],
           "answerIndex": 0,
           "explanation": "La letra A."
@@ -13076,7 +13076,7 @@
           "options": [
             "Ventanas de cristal simple fino",
             "Persianas rotas",
-            "Ventanas de doble acristalamiento (tipo Climalit)",
+            "Ventanas de doble acristalamiento",
             "Puertas de tela"
           ],
           "answerIndex": 2,
@@ -13126,10 +13126,10 @@
         {
           "prompt": "¿Cómo se llama en España el pago extraordinario que deben hacer los propietarios de un edificio para una obra o reparación imprevista?",
           "options": [
-            "Una multa de tráfico (88.1)",
-            "Una derrama (88.2)",
-            "Un billete de lotería (88.3)",
-            "Un seguro de viaje (88.4)"
+            "Una multa de tráfico",
+            "Una derrama",
+            "Un billete de lotería",
+            "Un seguro de viaje"
           ],
           "answerIndex": 1,
           "explanation": "Una derrama."
@@ -13141,10 +13141,10 @@
         {
           "prompt": "¿Quién es el profesional encargado de gestionar la contabilidad y el mantenimiento de una comunidad de vecinos?",
           "options": [
-            "El administrador de fincas (88.1)",
-            "El taxista (88.2)",
-            "El conserje solamente (88.3)",
-            "El cartero (88.4)"
+            "El administrador de fincas",
+            "El taxista",
+            "El conserje solamente",
+            "El cartero"
           ],
           "answerIndex": 0,
           "explanation": "El administrador de fincas."
@@ -13157,7 +13157,7 @@
           "prompt": "¿Qué ley española regula los derechos y obligaciones en los edificios en régimen de propiedad compartida?",
           "options": [
             "La Ley de Minas",
-            "La Ley de Propiedad Horizontal (LPH)",
+            "La Ley de Propiedad Horizontal",
             "El Estatuto de los Trabajadores",
             "El Código Penal"
           ],
@@ -13208,10 +13208,10 @@
         {
           "prompt": "¿Qué festival de arquitectura floral tradicional en Andalucía está reconocido como Patrimonio Cultural Inmaterial por la UNESCO?",
           "options": [
-            "Las Fallas de Valencia (89.1)",
-            "La Fiesta de los Patios de Córdoba (89.2)",
-            "Los Sanfermines (89.3)",
-            "La Tomatina de Buñol (89.4)"
+            "Las Fallas de Valencia",
+            "La Fiesta de los Patios de Córdoba",
+            "Los Sanfermines",
+            "La Tomatina de Buñol"
           ],
           "answerIndex": 1,
           "explanation": "La Fiesta de los Patios de Córdoba."
@@ -13223,10 +13223,10 @@
         {
           "prompt": "¿Cómo se llaman las construcciones tradicionales de piedra y madera sobre pilares de Asturias y Galicia para guardar las cosechas?",
           "options": [
-            "Los hórreos (89.1)",
-            "Las masías (89.2)",
-            "Los molinos de viento (89.3)",
-            "Los rascacielos (89.4)"
+            "Los hórreos",
+            "Las masías",
+            "Los molinos de viento",
+            "Los rascacielos"
           ],
           "answerIndex": 0,
           "explanation": "Los hórreos."
@@ -13290,10 +13290,10 @@
         {
           "prompt": "¿Qué tecnología de climatización renovable y eficiente utiliza la energía del aire exterior para calefacción y refrigeración?",
           "options": [
-            "La aerotermia (bomba de calor aire-agua) (90.1)",
-            "Una estufa de leña (90.2)",
-            "Un radiador eléctrico antiguo (90.3)",
-            "Un brasero de carbón (90.4)"
+            "La aerotermia",
+            "Una estufa de leña",
+            "Un radiador eléctrico antiguo",
+            "Un brasero de carbón"
           ],
           "answerIndex": 0,
           "explanation": "La aerotermia."
@@ -13305,10 +13305,10 @@
         {
           "prompt": "¿Cómo se llama el sistema que permite verter la energía solar sobrante a la red a cambio de un descuento en el recibo de la luz?",
           "options": [
-            "Impuesto al sol (90.1)",
-            "Peaje de acceso (90.2)",
-            "Corte de suministro (90.3)",
-            "Compensación de excedentes (90.4)"
+            "Impuesto al sol",
+            "Peaje de acceso",
+            "Corte de suministro",
+            "Compensación de excedentes"
           ],
           "answerIndex": 3,
           "explanation": "Compensación de excedentes."
@@ -13323,7 +13323,7 @@
             "La geología",
             "La botánica",
             "La gastronomía",
-            "La domótica (hogar inteligente)"
+            "La domótica"
           ],
           "answerIndex": 3,
           "explanation": "La domótica.",
@@ -13372,10 +13372,10 @@
         {
           "prompt": "¿Cuál es el contrato laboral estándar y prioritario en España que garantiza estabilidad indefinida?",
           "options": [
-            "Un contrato verbal informal (91.1)",
-            "Un contrato de un día (91.2)",
-            "Un billete de viaje (91.3)",
-            "El contrato indefinido (91.4)"
+            "Un contrato verbal informal",
+            "Un contrato de un día",
+            "Un billete de viaje",
+            "El contrato indefinido"
           ],
           "answerIndex": 3,
           "explanation": "El contrato indefinido."
@@ -13387,10 +13387,10 @@
         {
           "prompt": "¿Cómo se llaman las dos pagas extraordinarias adicionales que suelen cobrar los trabajadores españoles en verano y Navidad?",
           "options": [
-            "Las multas (91.1)",
-            "Las propinas voluntarias (91.2)",
-            "Las dietas (91.3)",
-            "Las pagas extraordinarias (las dos extras) (91.4)"
+            "Las multas",
+            "Las propinas voluntarias",
+            "Las dietas",
+            "Las pagas extraordinarias"
           ],
           "answerIndex": 3,
           "explanation": "Pagas extraordinarias."
@@ -13454,10 +13454,10 @@
         {
           "prompt": "¿Cómo se llama el horario laboral estival en España que permite salir a las 15:00 sin pausa para comer?",
           "options": [
-            "La jornada intensiva (o continua) de verano (92.1)",
-            "El trabajo nocturno (92.2)",
-            "El turno de noche (92.3)",
-            "La jornada partida (92.4)"
+            "La jornada intensiva (o continua) de verano",
+            "El trabajo nocturno",
+            "El turno de noche",
+            "La jornada partida"
           ],
           "answerIndex": 0,
           "explanation": "Jornada intensiva de verano."
@@ -13469,10 +13469,10 @@
         {
           "prompt": "¿Qué derecho legal protege a los trabajadores en España de no atender llamadas ni correos de trabajo en su tiempo libre?",
           "options": [
-            "El derecho a la desconexión digital (92.1)",
-            "El derecho de admisión (92.2)",
-            "El secreto profesional (92.3)",
-            "La huelga de brazos caídos (92.4)"
+            "El derecho a la desconexión digital",
+            "El derecho de admisión",
+            "El secreto profesional",
+            "La huelga de brazos caídos"
           ],
           "answerIndex": 0,
           "explanation": "Desconexión digital."
@@ -13536,10 +13536,10 @@
         {
           "prompt": "¿Cuántas semanas de permiso retribuido al 100% tienen derecho ambos progenitores por nacimiento en España?",
           "options": [
-            "2 semanas solo (93.1)",
-            "16 semanas para cada uno (93.2)",
-            "1 semana (93.3)",
-            "Cero semanas (93.4)"
+            "2 semanas solo",
+            "16 semanas para cada uno",
+            "1 semana",
+            "Cero semanas"
           ],
           "answerIndex": 1,
           "explanation": "16 semanas iguales e intransferibles."
@@ -13551,10 +13551,10 @@
         {
           "prompt": "¿Cómo se llama el documento de liquidación económica que recibe el trabajador al finalizar su relación laboral?",
           "options": [
-            "El finiquito (93.1)",
-            "El carnet de conducir (93.2)",
-            "El pasaporte (93.3)",
-            "La factura de la luz (93.4)"
+            "El finiquito",
+            "El carnet de conducir",
+            "El pasaporte",
+            "La factura de la luz"
           ],
           "answerIndex": 0,
           "explanation": "El finiquito."
@@ -13566,7 +13566,7 @@
         {
           "prompt": "¿Cuántos días naturales mínimos de vacaciones pagadas garantiza la legislación laboral española al año?",
           "options": [
-            "30 días naturales (o 22 días laborables)",
+            "30 días naturales",
             "10 días",
             "Ningún día",
             "5 días"
@@ -13618,10 +13618,10 @@
         {
           "prompt": "¿Qué visado especial permite a los profesionales extranjeros trabajar en remoto viviendo legalmente en España con incentivos fiscales?",
           "options": [
-            "El visado de tránsito aeroportuario (94.1)",
-            "El visado para nómadas digitales (94.2)",
-            "El carnet de estudiante (94.3)",
-            "El visado de turista de 15 días (94.4)"
+            "El visado de tránsito aeroportuario",
+            "El visado para nómadas digitales",
+            "El carnet de estudiante",
+            "El visado de turista de 15 días"
           ],
           "answerIndex": 1,
           "explanation": "El visado para nómadas digitales."
@@ -13633,10 +13633,10 @@
         {
           "prompt": "¿Cómo se llama el famoso distrito de innovación tecnológica de Barcelona ubicado en el barrio de Poblenou?",
           "options": [
-            "El Barrio Gótico (94.1)",
-            "El distrito 22@ (veintidós arroba) (94.2)",
-            "Montjuïc (94.3)",
-            "La Barceloneta (94.4)"
+            "El Barrio Gótico",
+            "El distrito 22@",
+            "Montjuïc",
+            "La Barceloneta"
           ],
           "answerIndex": 1,
           "explanation": "El distrito 22@."
@@ -13651,7 +13651,7 @@
             "El festival de cine de Cannes",
             "La feria del libro",
             "El salón del automóvil clásico",
-            "El Mobile World Congress (MWC)"
+            "El Mobile World Congress"
           ],
           "answerIndex": 3,
           "explanation": "Mobile World Congress (MWC).",
@@ -13700,10 +13700,10 @@
         {
           "prompt": "¿Qué gigante multinacional textil gallego es el grupo de moda más grande del mundo, matriz de marcas como Zara?",
           "options": [
-            "Inditex (95.1)",
-            "Seat (95.2)",
-            "Renfe (95.3)",
-            "Repsol (95.4)"
+            "Inditex",
+            "Seat",
+            "Renfe",
+            "Repsol"
           ],
           "answerIndex": 0,
           "explanation": "Inditex."
@@ -13715,10 +13715,10 @@
         {
           "prompt": "¿Qué compañía energética española es uno de los mayores operadores y desarrolladores de energía eólica del planeta?",
           "options": [
-            "Correos (95.1)",
-            "Aena (95.2)",
-            "El Corte Inglés (95.3)",
-            "Iberdrola (95.4)"
+            "Correos",
+            "Aena",
+            "El Corte Inglés",
+            "Iberdrola"
           ],
           "answerIndex": 3,
           "explanation": "Iberdrola."
@@ -13732,7 +13732,7 @@
           "options": [
             "Navarra",
             "Canarias",
-            "Galicia (Arteixo, A Coruña)",
+            "Galicia",
             "Murcia"
           ],
           "answerIndex": 2,
@@ -13782,10 +13782,10 @@
         {
           "prompt": "Which critically endangered feline species has been successfully recovered in Spanish conservation reserves like Doñana and Sierra Morena?",
           "options": [
-            "El tigre de Bengala (96.1)",
-            "El guepardo (96.2)",
-            "El jaguar (96.3)",
-            "El lince ibérico (Iberian lynx) (96.4)"
+            "El tigre de Bengala",
+            "El guepardo",
+            "El jaguar",
+            "El lince ibérico"
           ],
           "answerIndex": 3,
           "explanation": "El lince ibérico."
@@ -13797,10 +13797,10 @@
         {
           "prompt": "What famous Andalusian national park and UNESCO World Heritage site is celebrated as Europe's vital wetland for migratory birds?",
           "options": [
-            "Central Park (96.1)",
-            "Retiro (96.2)",
-            "Hyde Park (96.3)",
-            "Parque Nacional de Doñana (96.4)"
+            "Central Park",
+            "Retiro",
+            "Hyde Park",
+            "Parque Nacional de Doñana"
           ],
           "answerIndex": 3,
           "explanation": "Parque Nacional de Doñana."
@@ -13824,7 +13824,7 @@
         {
           "prompt": "What is Spain's highest peak located in the Canary Islands?",
           "options": [
-            "El Teide en Tenerife (3.715 metros)",
+            "El Teide en Tenerife",
             "Mulhacén",
             "Aneto",
             "Mont Blanc"
@@ -13864,10 +13864,10 @@
         {
           "prompt": "What landmark energy milestone did Spain achieve in its national electricity grid generation?",
           "options": [
-            "Over 50% of total national electricity generated from clean renewable sources (97.1)",
-            "Elimination of wind turbines (97.2)",
-            "Total shutdown of all solar power (97.3)",
-            "100% reliance on imported coal (97.4)"
+            "Over 50% of total national electricity generated from clean renewable sources",
+            "Elimination of wind turbines",
+            "Total shutdown of all solar power",
+            "100% reliance on imported coal"
           ],
           "answerIndex": 0,
           "explanation": "Over 50% renewable energy generation."
@@ -13879,10 +13879,10 @@
         {
           "prompt": "What is the transnational green hydrogen energy corridor connecting the Iberian Peninsula to Central Europe called?",
           "options": [
-            "H2Med (BarMar) (97.1)",
-            "Nord Stream (97.2)",
-            "Trans-Siberian (97.3)",
-            "Panama Canal (97.4)"
+            "H2Med",
+            "Nord Stream",
+            "Trans-Siberian",
+            "Panama Canal"
           ],
           "answerIndex": 0,
           "explanation": "H2Med."
@@ -13909,7 +13909,7 @@
             "Renfe",
             "Correos",
             "Aena",
-            "Red Eléctrica de España (REE)"
+            "Red Eléctrica de España"
           ],
           "answerIndex": 3,
           "explanation": "Red Eléctrica de España.",
@@ -13946,10 +13946,10 @@
         {
           "prompt": "What ancient institution meets every Thursday in Valencia to resolve water disputes and is recognized as UNESCO Intangible Cultural Heritage?",
           "options": [
-            "El Tribunal Supremo (98.1)",
-            "El Tribunal de las Aguas de Valencia (98.2)",
-            "El Senado (98.3)",
-            "La Bolsa de Madrid (98.4)"
+            "El Tribunal Supremo",
+            "El Tribunal de las Aguas de Valencia",
+            "El Senado",
+            "La Bolsa de Madrid"
           ],
           "answerIndex": 1,
           "explanation": "El Tribunal de las Aguas de Valencia."
@@ -13961,10 +13961,10 @@
         {
           "prompt": "What ancestral Arabic irrigation canal system continues to supply agricultural terraces in Andalusia?",
           "options": [
-            "Las acequias (98.1)",
-            "Canales de vapor (98.2)",
-            "Los acueductos romanos exclusivamente (98.3)",
-            "Tuberías de plástico (98.4)"
+            "Las acequias",
+            "Canales de vapor",
+            "Los acueductos romanos exclusivamente",
+            "Tuberías de plástico"
           ],
           "answerIndex": 0,
           "explanation": "Las acequias."
@@ -13990,7 +13990,7 @@
           "options": [
             "Salamanca",
             "Toledo",
-            "Torrevieja (Alicante)",
+            "Torrevieja",
             "Madrid"
           ],
           "answerIndex": 2,
@@ -14028,10 +14028,10 @@
         {
           "prompt": "What is the unique traditional agroforestry landscape of holm and cork oaks in Western Spain called?",
           "options": [
-            "La pampa (99.1)",
-            "La dehesa (99.2)",
-            "La taiga (99.3)",
-            "La tundra (99.4)"
+            "La pampa",
+            "La dehesa",
+            "La taiga",
+            "La tundra"
           ],
           "answerIndex": 1,
           "explanation": "La dehesa."
@@ -14043,10 +14043,10 @@
         {
           "prompt": "What is the autumn/winter free-range acorn feeding period for Iberian pigs called?",
           "options": [
-            "La siesta (99.1)",
-            "La montanera (99.2)",
-            "La cosecha de trigo (99.3)",
-            "La vendimia (99.4)"
+            "La siesta",
+            "La montanera",
+            "La cosecha de trigo",
+            "La vendimia"
           ],
           "answerIndex": 1,
           "explanation": "La montanera."
@@ -14071,7 +14071,7 @@
           "prompt": "What type of oaks provide the sweet acorns (bellotas) that give Jamón Ibérico de Bellota its oleic acid rich flavor?",
           "options": [
             "Eucaliptos",
-            "Encinas y alcornoques (Holm and cork oaks)",
+            "Encinas y alcornoques",
             "Pinos y abetos",
             "Palmeras"
           ],
@@ -14110,10 +14110,10 @@
         {
           "prompt": "Which underwater seagrass meadow in the Balearic Islands is protected by UNESCO and sequesters carbon faster than tropical rainforests?",
           "options": [
-            "Posidonia oceánica (100.1)",
-            "Algas rojas invasoras (100.2)",
-            "Lenteja de agua (100.3)",
-            "Coral blanqueado (100.4)"
+            "Posidonia oceánica",
+            "Algas rojas invasoras",
+            "Lenteja de agua",
+            "Coral blanqueado"
           ],
           "answerIndex": 0,
           "explanation": "Posidonia oceánica."
@@ -14125,10 +14125,10 @@
         {
           "prompt": "By which year does Spain's Climate Change Law mandate achieving 100% renewable electricity generation and national climate neutrality?",
           "options": [
-            "2025 (100.1)",
-            "2100 (100.2)",
-            "2030 (100.3)",
-            "2050 (100.4)"
+            "2025",
+            "2100",
+            "2030",
+            "2050"
           ],
           "answerIndex": 3,
           "explanation": "2050."
@@ -14192,10 +14192,10 @@
         {
           "prompt": "Which Spanish medical institution has made Spain the world leader in organ donation and transplantation for over 30 years?",
           "options": [
-            "Cruz Roja solamente (101.1)",
-            "El Instituto Cervantes (101.2)",
-            "La Guardia Civil (101.3)",
-            "La Organización Nacional de Trasplantes (ONT) (101.4)"
+            "Cruz Roja solamente",
+            "El Instituto Cervantes",
+            "La Guardia Civil",
+            "La Organización Nacional de Trasplantes"
           ],
           "answerIndex": 3,
           "explanation": "La Organización Nacional de Trasplantes (ONT)."
@@ -14207,10 +14207,10 @@
         {
           "prompt": "What is the cornerstone of Spain's public healthcare system serving as the first line of preventative medicine?",
           "options": [
-            "Los hospitales privados exclusivamente (101.1)",
-            "Las farmacias comerciales (101.2)",
-            "La Atención Primaria en Centros de Salud (101.3)",
-            "Los seguros privados (101.4)"
+            "Los hospitales privados exclusivamente",
+            "Las farmacias comerciales",
+            "La Atención Primaria en Centros de Salud",
+            "Los seguros privados"
           ],
           "answerIndex": 2,
           "explanation": "La Atención Primaria."
@@ -14274,10 +14274,10 @@
         {
           "prompt": "Who is recognized as the father of modern neuroscience for discovering that neurons are individual communicating cells?",
           "options": [
-            "Santiago Ramón y Cajal (102.1)",
-            "Gregor Mendel (102.2)",
-            "Charles Darwin (102.3)",
-            "Louis Pasteur (102.4)"
+            "Santiago Ramón y Cajal",
+            "Gregor Mendel",
+            "Charles Darwin",
+            "Louis Pasteur"
           ],
           "answerIndex": 0,
           "explanation": "Santiago Ramón y Cajal."
@@ -14289,10 +14289,10 @@
         {
           "prompt": "Which premier Spanish cancer research institute in Madrid leads global discoveries in telomeres and molecular oncology?",
           "options": [
-            "CNIO (Centro Nacional de Investigaciones Oncológicas) (102.1)",
-            "El Prado (102.2)",
-            "La Caixa (102.3)",
-            "Aena (102.4)"
+            "CNIO",
+            "El Prado",
+            "La Caixa",
+            "Aena"
           ],
           "answerIndex": 0,
           "explanation": "CNIO."
@@ -14318,7 +14318,7 @@
           "options": [
             "Discovery of penicillin",
             "Invention of X-rays",
-            "Enzymatic synthesis of RNA (Ácido ribonucleico)",
+            "Enzymatic synthesis of RNA",
             "Discovery of blood types"
           ],
           "answerIndex": 2,
@@ -14356,10 +14356,10 @@
         {
           "prompt": "What was the historic 1803 Spanish maritime medical expedition that brought the smallpox vaccine across the globe to the Americas and Asia?",
           "options": [
-            "La Expedición Balmis (Real Expedición Filantrópica de la Vacuna) (103.1)",
-            "La Armada Invencible (103.2)",
-            "La Vuelta al Mundo de Magallanes (103.3)",
-            "La Conquista de América (103.4)"
+            "La Expedición Balmis",
+            "La Armada Invencible",
+            "La Vuelta al Mundo de Magallanes",
+            "La Conquista de América"
           ],
           "answerIndex": 0,
           "explanation": "La Expedición Balmis."
@@ -14371,10 +14371,10 @@
         {
           "prompt": "Who was the directress of the orphan children on the Balmis Expedition, recognized by WHO as the first international public health nurse?",
           "options": [
-            "Isabel Zendal (103.1)",
-            "Rosalía de Castro (103.2)",
-            "Clara Campoamor (103.3)",
-            "Santa Teresa de Jesús (103.4)"
+            "Isabel Zendal",
+            "Rosalía de Castro",
+            "Clara Campoamor",
+            "Santa Teresa de Jesús"
           ],
           "answerIndex": 0,
           "explanation": "Isabel Zendal."
@@ -14438,10 +14438,10 @@
         {
           "prompt": "What legal document allows citizens to record in advance their binding preferences regarding medical interventions and end-of-life care?",
           "options": [
-            "El contrato de alquiler (104.1)",
-            "El testamento vital / Instrucciones previas (Advance directives) (104.2)",
-            "El certificado de empadronamiento (104.3)",
-            "El carné de conducir (104.4)"
+            "El contrato de alquiler",
+            "El testamento vital / Instrucciones previas",
+            "El certificado de empadronamiento",
+            "El carné de conducir"
           ],
           "answerIndex": 1,
           "explanation": "El testamento vital."
@@ -14453,10 +14453,10 @@
         {
           "prompt": "In which year did Spain enact the Organic Law Regulating Euthanasia (LORE), establishing medical aid in dying as a regulated public health service?",
           "options": [
-            "1992 (104.1)",
-            "2021 (104.2)",
-            "2000 (104.3)",
-            "1975 (104.4)"
+            "1992",
+            "2021",
+            "2000",
+            "1975"
           ],
           "answerIndex": 1,
           "explanation": "2021."
@@ -14520,10 +14520,10 @@
         {
           "prompt": "Which Spanish digital healthcare system enables patients to dispense prescriptions at any pharmacy across all 17 autonomous communities and EU partner countries?",
           "options": [
-            "La Receta Electrónica Interoperable (105.1)",
-            "El fax manual (105.2)",
-            "Llamadas telefónicas privadas (105.3)",
-            "Recetas de papel manuscritas (105.4)"
+            "La Receta Electrónica Interoperable",
+            "El fax manual",
+            "Llamadas telefónicas privadas",
+            "Recetas de papel manuscritas"
           ],
           "answerIndex": 0,
           "explanation": "La Receta Electrónica Interoperable."
@@ -14535,10 +14535,10 @@
         {
           "prompt": "How does artificial intelligence primarily assist radiologists in modern Spanish public university hospitals?",
           "options": [
-            "Replacing all human doctors entirely (105.1)",
-            "Writing hospital bills (105.2)",
-            "Operating ambulances (105.3)",
-            "Detecting early micro-tumors and lesions in CT and MRI scans with deep learning algorithms (105.4)"
+            "Replacing all human doctors entirely",
+            "Writing hospital bills",
+            "Operating ambulances",
+            "Detecting early micro-tumors and lesions in CT and MRI scans with deep learning algorithms"
           ],
           "answerIndex": 3,
           "explanation": "Detecting early micro-tumors in CT and MRI scans."
@@ -14602,10 +14602,10 @@
         {
           "prompt": "Which Spanish philosopher coined the famous axiom «Yo soy yo y mi circunstancia» in his 1914 work Meditaciones del Quijote?",
           "options": [
-            "Miguel de Unamuno (106.1)",
-            "Seneca (106.2)",
-            "Baltasar Gracián (106.3)",
-            "José Ortega y Gasset (106.4)"
+            "Miguel de Unamuno",
+            "Seneca",
+            "Baltasar Gracián",
+            "José Ortega y Gasset"
           ],
           "answerIndex": 3,
           "explanation": "José Ortega y Gasset."
@@ -14617,10 +14617,10 @@
         {
           "prompt": "What existential masterpiece was written by Miguel de Unamuno exploring human longing for spiritual immortality?",
           "options": [
-            "La rebelión de las masas (106.1)",
-            "El Quijote (106.2)",
-            "Del sentimiento trágico de la vida (106.3)",
-            "Campos de Castilla (106.4)"
+            "La rebelión de las masas",
+            "El Quijote",
+            "Del sentimiento trágico de la vida",
+            "Campos de Castilla"
           ],
           "answerIndex": 2,
           "explanation": "Del sentimiento trágico de la vida."
@@ -14684,10 +14684,10 @@
         {
           "prompt": "Which 17th-century Spanish Golden Age dramatist authored the metaphysical philosophical drama «La vida es sueño»?",
           "options": [
-            "Pedro Calderón de la Barca (107.1)",
-            "Miguel de Cervantes (107.2)",
-            "Lope de Vega (107.3)",
-            "Tirso de Molina (107.4)"
+            "Pedro Calderón de la Barca",
+            "Miguel de Cervantes",
+            "Lope de Vega",
+            "Tirso de Molina"
           ],
           "answerIndex": 0,
           "explanation": "Pedro Calderón de la Barca."
@@ -14699,10 +14699,10 @@
         {
           "prompt": "Which Baroque thinker wrote the world-renowned philosophical manual *Oráculo manual y arte de prudencia*, celebrated by Schopenhauer and Nietzsche?",
           "options": [
-            "Baltasar Gracián (107.1)",
-            "Francisco de Quevedo (107.2)",
-            "Luis de Góngora (107.3)",
-            "San Juan de la Cruz (107.4)"
+            "Baltasar Gracián",
+            "Francisco de Quevedo",
+            "Luis de Góngora",
+            "San Juan de la Cruz"
           ],
           "answerIndex": 0,
           "explanation": "Baltasar Gracián."
@@ -14727,7 +14727,7 @@
           "prompt": "What key metaphysical theme characterizes Spanish Baroque literature, reflecting the realization that worldly pleasures are transient illusions?",
           "options": [
             "El optimismo ciego",
-            "El desengaño (Disillusionment with fleeting worldly vanity)",
+            "El desengaño",
             "El positivismo",
             "El naturalismo científico"
           ],
@@ -14766,10 +14766,10 @@
         {
           "prompt": "Which 16th-century theologian at the University of Salamanca is recognized as the father of modern public international law and human rights?",
           "options": [
-            "Francisco de Vitoria (108.1)",
-            "Tomás de Torquemada (108.2)",
-            "Felipe II (108.3)",
-            "Ignacio de Loyola (108.4)"
+            "Francisco de Vitoria",
+            "Tomás de Torquemada",
+            "Felipe II",
+            "Ignacio de Loyola"
           ],
           "answerIndex": 0,
           "explanation": "Francisco de Vitoria."
@@ -14781,10 +14781,10 @@
         {
           "prompt": "In which famous Salamanca lectures did Francisco de Vitoria defend the natural legal rights and property of indigenous peoples in the Americas?",
           "options": [
-            "De Indis (1539) (108.1)",
-            "El Príncipe (108.2)",
-            "De Monarchia (108.3)",
-            "Summa Theologiae (108.4)"
+            "De Indis",
+            "El Príncipe",
+            "De Monarchia",
+            "Summa Theologiae"
           ],
           "answerIndex": 0,
           "explanation": "De Indis."
@@ -14808,7 +14808,7 @@
         {
           "prompt": "What Spanish university was the epicenter of the 16th-century legal and philosophical renaissance known as the School of Salamanca?",
           "options": [
-            "Universidad de Salamanca (Founded 1218)",
+            "Universidad de Salamanca",
             "Universidad de Barcelona",
             "Universidad de Sevilla",
             "Universidad Complutense"
@@ -14848,10 +14848,10 @@
         {
           "prompt": "What philosophical epistemological method uniting philosophical rigor with poetic intuition was created by María Zambrano?",
           "options": [
-            "El materialismo mecanicista (109.1)",
-            "La razón poética (Poetic Reason) (109.2)",
-            "El escepticismo radical (109.3)",
-            "El positivismo lógico (109.4)"
+            "El materialismo mecanicista",
+            "La razón poética",
+            "El escepticismo radical",
+            "El positivismo lógico"
           ],
           "answerIndex": 1,
           "explanation": "La razón poética."
@@ -14863,10 +14863,10 @@
         {
           "prompt": "Which seminal philosophical poetic work by María Zambrano explores the intuitive moments where human consciousness discovers truth?",
           "options": [
-            "Rayuela (109.1)",
-            "Claros del bosque (109.2)",
-            "Ficciones (109.3)",
-            "El laberinto de la soledad (109.4)"
+            "Rayuela",
+            "Claros del bosque",
+            "Ficciones",
+            "El laberinto de la soledad"
           ],
           "answerIndex": 1,
           "explanation": "Claros del bosque."
@@ -14930,10 +14930,10 @@
         {
           "prompt": "What term did Spanish philosopher Adela Cortina coin to define the specific social prejudice, contempt, and fear directed toward the poor?",
           "options": [
-            "Aporofobia (Aporophobia) (110.1)",
-            "Xenofobia solamente (110.2)",
-            "Agorafobia (110.3)",
-            "Claustrofobia (110.4)"
+            "Aporofobia",
+            "Xenofobia solamente",
+            "Agorafobia",
+            "Claustrofobia"
           ],
           "answerIndex": 0,
           "explanation": "Aporofobia."
@@ -14945,10 +14945,10 @@
         {
           "prompt": "What ethical framework developed by Adela Cortina combines moral duty with emotional empathy and compassion in democratic society?",
           "options": [
-            "El utilitarismo extremo (110.1)",
-            "El nihilismo moral (110.2)",
-            "El relativismo absoluto (110.3)",
-            "La ética de la razón cordial (110.4)"
+            "El utilitarismo extremo",
+            "El nihilismo moral",
+            "El relativismo absoluto",
+            "La ética de la razón cordial"
           ],
           "answerIndex": 3,
           "explanation": "La ética de la razón cordial."
@@ -15012,10 +15012,10 @@
         {
           "prompt": "Which visionary Catalan architect designed the Sagrada Família, Casa Batlló, and Park Güell in Barcelona?",
           "options": [
-            "Santiago Calatrava (111.1)",
-            "Ricardo Bofill (111.2)",
-            "Rafael Moneo (111.3)",
-            "Antoni Gaudí (111.4)"
+            "Santiago Calatrava",
+            "Ricardo Bofill",
+            "Rafael Moneo",
+            "Antoni Gaudí"
           ],
           "answerIndex": 3,
           "explanation": "Antoni Gaudí."
@@ -15027,10 +15027,10 @@
         {
           "prompt": "What traditional Catalan mosaic technique using broken fragments of glazed ceramics was popularized by Gaudí and Josep Maria Jujol?",
           "options": [
-            "Fresco (111.1)",
-            "Grisalla (111.2)",
-            "Trencadís (111.3)",
-            "Tempera (111.4)"
+            "Fresco",
+            "Grisalla",
+            "Trencadís",
+            "Tempera"
           ],
           "answerIndex": 2,
           "explanation": "Trencadís."
@@ -15094,10 +15094,10 @@
         {
           "prompt": "Which 17th-century Spanish Golden Age painter created the masterpiece «Las Meninas» displayed in Madrid's Museo del Prado?",
           "options": [
-            "Diego Velázquez (112.1)",
-            "Bartolomé Esteban Murillo (112.2)",
-            "Francisco de Goya (112.3)",
-            "El Greco (112.4)"
+            "Diego Velázquez",
+            "Bartolomé Esteban Murillo",
+            "Francisco de Goya",
+            "El Greco"
           ],
           "answerIndex": 0,
           "explanation": "Diego Velázquez."
@@ -15109,10 +15109,10 @@
         {
           "prompt": "What reflective object on the rear wall of *Las Meninas* reveals the presence of King Philip IV and Queen Mariana of Austria?",
           "options": [
-            "Un espejo (A mirror) (112.1)",
-            "Una ventana (112.2)",
-            "Un cuadro al óleo (112.3)",
-            "Una puerta cerrada (112.4)"
+            "Un espejo",
+            "Una ventana",
+            "Un cuadro al óleo",
+            "Una puerta cerrada"
           ],
           "answerIndex": 0,
           "explanation": "Un espejo (A mirror)."
@@ -15136,7 +15136,7 @@
         {
           "prompt": "What famous historical painting by Velázquez depicts the chivalrous surrender of the Dutch city of Breda to Spanish General Spínola?",
           "options": [
-            "«La rendición de Breda» (Las lanzas)",
+            "«La rendición de Breda»",
             "«La fragua de Vulcano»",
             "«Las hilanderas»",
             "«Los borrachos»"
@@ -15176,10 +15176,10 @@
         {
           "prompt": "Which Spanish master painted the haunting Pinturas Negras and the anti-war masterpiece «El tres de mayo de 1808»?",
           "options": [
-            "Francisco de Goya (113.1)",
-            "Pablo Picasso (113.2)",
-            "Joan Miró (113.3)",
-            "Ignacio Zuloaga (113.4)"
+            "Francisco de Goya",
+            "Pablo Picasso",
+            "Joan Miró",
+            "Ignacio Zuloaga"
           ],
           "answerIndex": 0,
           "explanation": "Francisco de Goya."
@@ -15191,10 +15191,10 @@
         {
           "prompt": "What famous caption accompanies Plate 43 of Goya's Los Caprichos depicting a slumbering intellectual surrounded by flying owls and bats?",
           "options": [
-            "«El sueño de la razón produce monstruos» (113.1)",
-            "«Libertad, igualdad, fraternidad» (113.2)",
-            "«Viva la muerte» (113.3)",
-            "«El rey ha muerto» (113.4)"
+            "«El sueño de la razón produce monstruos»",
+            "«Libertad, igualdad, fraternidad»",
+            "«Viva la muerte»",
+            "«El rey ha muerto»"
           ],
           "answerIndex": 0,
           "explanation": "«El sueño de la razón produce monstruos»."
@@ -15258,10 +15258,10 @@
         {
           "prompt": "Which monumental 1937 anti-war monochrome mural was painted by Pablo Picasso after the aerial bombing of a Basque historic market town?",
           "options": [
-            "«El Guitarrero ciego» (114.1)",
-            "«Guernica» (114.2)",
-            "«La persistencia de la memoria» (114.3)",
-            "«Las señoritas de Avignon» (114.4)"
+            "«El Guitarrero ciego»",
+            "«Guernica»",
+            "«La persistencia de la memoria»",
+            "«Las señoritas de Avignon»"
           ],
           "answerIndex": 1,
           "explanation": "«Guernica»."
@@ -15273,10 +15273,10 @@
         {
           "prompt": "What surrealist creative technique did Salvador Dalí develop to cultivate systematic delirium and double visual illusions?",
           "options": [
-            "El collage dadaísta (114.1)",
-            "El método paranoico-crítico (Paranoid-critical method) (114.2)",
-            "La aerografía comercial (114.3)",
-            "El automatismo psíquico puro (114.4)"
+            "El collage dadaísta",
+            "El método paranoico-crítico",
+            "La aerografía comercial",
+            "El automatismo psíquico puro"
           ],
           "answerIndex": 1,
           "explanation": "El método paranoico-crítico."
@@ -15340,10 +15340,10 @@
         {
           "prompt": "Which Spanish architect won the 1996 Pritzker Architecture Prize and designed the National Museum of Roman Art in Mérida?",
           "options": [
-            "Rafael Moneo (115.1)",
-            "Ricardo Bofill (115.2)",
-            "Alberto Campo Baeza (115.3)",
-            "Santiago Calatrava (115.4)"
+            "Rafael Moneo",
+            "Ricardo Bofill",
+            "Alberto Campo Baeza",
+            "Santiago Calatrava"
           ],
           "answerIndex": 0,
           "explanation": "Rafael Moneo."
@@ -15355,10 +15355,10 @@
         {
           "prompt": "What famous colorful geometric residential fortress complex in Calpe, Alicante was designed by architect Ricardo Bofill in 1973?",
           "options": [
-            "La Pedrera (115.1)",
-            "Torre Agbar (115.2)",
-            "Ciudad de las Artes (115.3)",
-            "La Muralla Roja (115.4)"
+            "La Pedrera",
+            "Torre Agbar",
+            "Ciudad de las Artes",
+            "La Muralla Roja"
           ],
           "answerIndex": 3,
           "explanation": "La Muralla Roja."
@@ -15383,7 +15383,7 @@
           "prompt": "What industrial facility in Barcelona did Ricardo Bofill convert into his iconic personal residence and architectural studio headquarters?",
           "options": [
             "Una mina de carbón",
-            "Una fábrica de cemento abandonada (La Fábrica)",
+            "Una fábrica de cemento abandonada",
             "Un hangar de aviones",
             "Un astillero naval"
           ],
@@ -15422,10 +15422,10 @@
         {
           "prompt": "Which Spanish poet and dramatist formulated the seminal philosophical treatise «Teoría y juego del duende» analyzing the dark spirit of flamenco?",
           "options": [
-            "Antonio Machado (116.1)",
-            "Rafael Alberti (116.2)",
-            "Gustavo Adolfo Bécquer (116.3)",
-            "Federico García Lorca (116.4)"
+            "Antonio Machado",
+            "Rafael Alberti",
+            "Gustavo Adolfo Bécquer",
+            "Federico García Lorca"
           ],
           "answerIndex": 3,
           "explanation": "Federico García Lorca."
@@ -15437,10 +15437,10 @@
         {
           "prompt": "Which flamenco guitar virtuoso composed «Entre dos aguas» and introduced the Afro-Peruvian cajón into Spanish flamenco rhythm?",
           "options": [
-            "Andrés Segovia (116.1)",
-            "Paco de Lucía (116.2)",
-            "Manuel de Falla (116.3)",
-            "Joaquín Rodrigo (116.4)"
+            "Andrés Segovia",
+            "Paco de Lucía",
+            "Manuel de Falla",
+            "Joaquín Rodrigo"
           ],
           "answerIndex": 1,
           "explanation": "Paco de Lucía."
@@ -15464,7 +15464,7 @@
         {
           "prompt": "What traditional 12-beat rhythmic cycle in flamenco forms the bedrock of solemn deep singing (Cante Jondo)?",
           "options": [
-            "El compás de Soleá (12-beat cycle)",
+            "El compás de Soleá",
             "El compás de 4/4 de vals",
             "El ritmo binario simple",
             "La polca"
@@ -15504,10 +15504,10 @@
         {
           "prompt": "Which 20th-century Spanish composer wrote the orchestral masterwork «El amor brujo» containing the famous \"Danza ritual del fuego\"?",
           "options": [
-            "Manuel de Falla (117.1)",
-            "Tomás Luis de Victoria (117.2)",
-            "Isaac Albéniz (117.3)",
-            "Joaquín Rodrigo (117.4)"
+            "Manuel de Falla",
+            "Tomás Luis de Victoria",
+            "Isaac Albéniz",
+            "Joaquín Rodrigo"
           ],
           "answerIndex": 0,
           "explanation": "Manuel de Falla."
@@ -15519,10 +15519,10 @@
         {
           "prompt": "What monumental 12-piece piano suite capturing the regional musical soul of Spain was composed by Isaac Albéniz?",
           "options": [
-            "«Suite Iberia» (117.1)",
-            "«Goyescas» (117.2)",
-            "«El sombrero de tres picos» (117.3)",
-            "«Concierto de Aranjuez» (117.4)"
+            "«Suite Iberia»",
+            "«Goyescas»",
+            "«El sombrero de tres picos»",
+            "«Concierto de Aranjuez»"
           ],
           "answerIndex": 0,
           "explanation": "«Suite Iberia»."
@@ -15549,7 +15549,7 @@
             "El Parque del Retiro",
             "El Laberinto de Horta",
             "Los Jardines de Aranjuez",
-            "Los jardines del Generalife (At the Alhambra)"
+            "Los jardines del Generalife"
           ],
           "answerIndex": 3,
           "explanation": "Los jardines del Generalife.",
@@ -15586,10 +15586,10 @@
         {
           "prompt": "Which blind Spanish composer wrote the immortal 1939 guitar and orchestral masterpiece «Concierto de Aranjuez»?",
           "options": [
-            "Joaquín Rodrigo (118.1)",
-            "Andrés Segovia (118.2)",
-            "Manuel de Falla (118.3)",
-            "Pablo Casals (118.4)"
+            "Joaquín Rodrigo",
+            "Andrés Segovia",
+            "Manuel de Falla",
+            "Pablo Casals"
           ],
           "answerIndex": 0,
           "explanation": "Joaquín Rodrigo."
@@ -15601,10 +15601,10 @@
         {
           "prompt": "Which Spanish musician is recognized as the Father of the Modern Classical Guitar for elevating it to world concert hall stages?",
           "options": [
-            "Andrés Segovia (118.1)",
-            "Francisco Tárrega (118.2)",
-            "Paco de Lucía (118.3)",
-            "Narciso Yepes (118.4)"
+            "Andrés Segovia",
+            "Francisco Tárrega",
+            "Paco de Lucía",
+            "Narciso Yepes"
           ],
           "answerIndex": 0,
           "explanation": "Andrés Segovia."
@@ -15630,7 +15630,7 @@
           "options": [
             "«El Mesías»",
             "«La Pasión según San Mateo»",
-            "«Officium Defunctorum» (1605)",
+            "«Officium Defunctorum»",
             "«Las Cuatro Estaciones»"
           ],
           "answerIndex": 2,
@@ -15668,10 +15668,10 @@
         {
           "prompt": "Which Catalan cello titan rediscovered J.S. Bach's Six Cello Suites and made the Catalan folk song «El cant dels ocells» a global anthem of peace?",
           "options": [
-            "Yo-Yo Ma (119.1)",
-            "Pau Casals (Pablo Casals) (119.2)",
-            "Jacqueline du Pré (119.3)",
-            "Mstislav Rostropovich (119.4)"
+            "Yo-Yo Ma",
+            "Pau Casals",
+            "Jacqueline du Pré",
+            "Mstislav Rostropovich"
           ],
           "answerIndex": 1,
           "explanation": "Pau Casals (Pablo Casals)."
@@ -15683,10 +15683,10 @@
         {
           "prompt": "What traditional Catalan folk carol did Pau Casals perform at the conclusion of every concert as a prayer for peace and longing for his homeland?",
           "options": [
-            "«Guantanamera» (119.1)",
-            "«El cant dels ocells» (The Song of the Birds) (119.2)",
-            "«Cielito Lindo» (119.3)",
-            "«La Cucaracha» (119.4)"
+            "«Guantanamera»",
+            "«El cant dels ocells»",
+            "«Cielito Lindo»",
+            "«La Cucaracha»"
           ],
           "answerIndex": 1,
           "explanation": "«El cant dels ocells»."
@@ -15711,7 +15711,7 @@
           "prompt": "In which French Pyrenean border village did Pau Casals live in voluntary exile and found his legendary international chamber music festival in 1950?",
           "options": [
             "Burdeos",
-            "Prades (Prada de Conflent)",
+            "Prades",
             "Marsella",
             "Niza"
           ],
@@ -15750,10 +15750,10 @@
         {
           "prompt": "What traditional Spanish lyric theatrical genre alternates spoken dramatic dialogue with sung operatic romanzas and popular folk dances?",
           "options": [
-            "La Zarzuela (120.1)",
-            "El Flamenco puro (120.2)",
-            "El Oratorio (120.3)",
-            "La Cantata alemana (120.4)"
+            "La Zarzuela",
+            "El Flamenco puro",
+            "El Oratorio",
+            "La Cantata alemana"
           ],
           "answerIndex": 0,
           "explanation": "La Zarzuela."
@@ -15765,10 +15765,10 @@
         {
           "prompt": "What historic opera house on La Rambla in Barcelona is world-renowned for its legendary horseshoe acoustic hall and Montserrat Caballé's performances?",
           "options": [
-            "Palacio de la Zarzuela (120.1)",
-            "Palau de la Música Catalana solo concierto (120.2)",
-            "Teatro de la Zarzuela (120.3)",
-            "Gran Teatre del Liceu (120.4)"
+            "Palacio de la Zarzuela",
+            "Palau de la Música Catalana solo concierto",
+            "Teatro de la Zarzuela",
+            "Gran Teatre del Liceu"
           ],
           "answerIndex": 3,
           "explanation": "Gran Teatre del Liceu."
@@ -15832,10 +15832,10 @@
         {
           "prompt": "Which Spanish surrealist filmmaker directed Un Chien Andalou with Dalí and won the Palme d'Or at Cannes for Viridiana in 1961?",
           "options": [
-            "Pedro Almodóvar (121.1)",
-            "Carlos Saura (121.2)",
-            "Alejandro Amenábar (121.3)",
-            "Luis Buñuel (121.4)"
+            "Pedro Almodóvar",
+            "Carlos Saura",
+            "Alejandro Amenábar",
+            "Luis Buñuel"
           ],
           "answerIndex": 3,
           "explanation": "Luis Buñuel."
@@ -15847,10 +15847,10 @@
         {
           "prompt": "Which Leonardo da Vinci Renaissance masterpiece was famously reenacted by impoverished beggars in Buñuel's banned film *Viridiana*?",
           "options": [
-            "La Mona Lisa (121.1)",
-            "La Última Cena (The Last Supper) (121.2)",
-            "El Hombre de Vitruvio (121.3)",
-            "La Anunciación (121.4)"
+            "La Mona Lisa",
+            "La Última Cena",
+            "El Hombre de Vitruvio",
+            "La Anunciación"
           ],
           "answerIndex": 1,
           "explanation": "La Última Cena (The Last Supper)."
@@ -15877,7 +15877,7 @@
             "Festival de San Sebastián",
             "Festival de Venecia",
             "Berlinale",
-            "Festival de Cannes (Palma de Oro)"
+            "Festival de Cannes"
           ],
           "answerIndex": 3,
           "explanation": "Festival de Cannes.",
@@ -15914,10 +15914,10 @@
         {
           "prompt": "Which Spanish director emerged during La Movida Madrileña and won Academy Awards for \"Todo sobre mi madre\" and \"Hable con ella\"?",
           "options": [
-            "Pedro Almodóvar (122.1)",
-            "Guillermo del Toro (122.2)",
-            "Víctor Erice (122.3)",
-            "Alejandro Amenábar (122.4)"
+            "Pedro Almodóvar",
+            "Guillermo del Toro",
+            "Víctor Erice",
+            "Alejandro Amenábar"
           ],
           "answerIndex": 0,
           "explanation": "Pedro Almodóvar."
@@ -15929,10 +15929,10 @@
         {
           "prompt": "For which masterwork film did Pedro Almodóvar win the Academy Award (Oscar) for Best Original Screenplay in 2002?",
           "options": [
-            "«Hable con ella» (Talk to Her) (122.1)",
-            "«Mujeres al borde de un ataque de nervios» (122.2)",
-            "«Átame» (122.3)",
-            "«La piel que habito» (122.4)"
+            "«Hable con ella»",
+            "«Mujeres al borde de un ataque de nervios»",
+            "«Átame»",
+            "«La piel que habito»"
           ],
           "answerIndex": 0,
           "explanation": "«Hable con ella»."
@@ -15996,10 +15996,10 @@
         {
           "prompt": "Which Spanish master filmmaker directed the 1973 cinematic masterpiece \"El espíritu de la colmena\" (The Spirit of the Beehive)?",
           "options": [
-            "Víctor Erice (123.1)",
-            "Carlos Saura (123.2)",
-            "Luis García Berlanga (123.3)",
-            "Fernando Trueba (123.4)"
+            "Víctor Erice",
+            "Carlos Saura",
+            "Luis García Berlanga",
+            "Fernando Trueba"
           ],
           "answerIndex": 0,
           "explanation": "Víctor Erice."
@@ -16011,10 +16011,10 @@
         {
           "prompt": "Which classic 1931 Hollywood monster film, shown in a village travelling cinema, sparks young Ana's imaginative search in *The Spirit of the Beehive*?",
           "options": [
-            "«Frankenstein» (James Whale 1931) (123.1)",
-            "«King Kong» (123.2)",
-            "«Drácula» (123.3)",
-            "«El hombre lobo» (123.4)"
+            "«Frankenstein»",
+            "«King Kong»",
+            "«Drácula»",
+            "«El hombre lobo»"
           ],
           "answerIndex": 0,
           "explanation": "«Frankenstein» (James Whale 1931)."
@@ -16039,7 +16039,7 @@
           "prompt": "What prestigious top prize was awarded to *El espíritu de la colmena* at the San Sebastián International Film Festival in 1973?",
           "options": [
             "El León de Oro",
-            "La Concha de Oro (Golden Shell)",
+            "La Concha de Oro",
             "La Palma de Oro",
             "El Oso de Oro"
           ],
@@ -16078,10 +16078,10 @@
         {
           "prompt": "Which Spanish director created the iconic film \"Cría cuervos\" (1976) and the celebrated Flamenco dance trilogy with Antonio Gades?",
           "options": [
-            "Álex de la Iglesia (124.1)",
-            "Pedro Almodóvar (124.2)",
-            "Carlos Saura (124.3)",
-            "Luis Buñuel (124.4)"
+            "Álex de la Iglesia",
+            "Pedro Almodóvar",
+            "Carlos Saura",
+            "Luis Buñuel"
           ],
           "answerIndex": 2,
           "explanation": "Carlos Saura."
@@ -16093,10 +16093,10 @@
         {
           "prompt": "Which 1974 pop song by Jeanette became the haunting musical theme of Carlos Saura's film *Cría cuervos*?",
           "options": [
-            "«Macarena» (124.1)",
-            "«Porque te vas» (124.2)",
-            "«Eres tú» (124.3)",
-            "«Bésame mucho» (124.4)"
+            "«Macarena»",
+            "«Porque te vas»",
+            "«Eres tú»",
+            "«Bésame mucho»"
           ],
           "answerIndex": 1,
           "explanation": "«Porque te vas»."
@@ -16120,7 +16120,7 @@
         {
           "prompt": "Which Federico García Lorca tragedy was adapted by Carlos Saura and Antonio Gades in their 1981 minimalist flamenco film?",
           "options": [
-            "«Bodas de sangre» (Blood Wedding)",
+            "«Bodas de sangre»",
             "«Yerma»",
             "«Doña Rosita la soltera»",
             "«La casa de Bernarda Alba»"
@@ -16160,10 +16160,10 @@
         {
           "prompt": "Which Spanish master of dark satire and choral long takes directed \"¡Bienvenido, Mister Marshall!\" (1953) and \"El verdugo\" (1963)?",
           "options": [
-            "Luis García Berlanga (125.1)",
-            "Víctor Erice (125.2)",
-            "Mario Camus (125.3)",
-            "Pedro Almodóvar (125.4)"
+            "Luis García Berlanga",
+            "Víctor Erice",
+            "Mario Camus",
+            "Pedro Almodóvar"
           ],
           "answerIndex": 0,
           "explanation": "Luis García Berlanga."
@@ -16175,10 +16175,10 @@
         {
           "prompt": "What technical camera signature defines Berlanga's directorial style, capturing dozens of overlapping conversational characters in continuous movement?",
           "options": [
-            "El plano detalle estático (125.1)",
-            "La animación stop-motion (125.2)",
-            "La cámara lenta extrema (125.3)",
-            "El plano secuencia coral (Continuous choral long take) (125.4)"
+            "El plano detalle estático",
+            "La animación stop-motion",
+            "La cámara lenta extrema",
+            "El plano secuencia coral"
           ],
           "answerIndex": 3,
           "explanation": "El plano secuencia coral."
@@ -16242,10 +16242,10 @@
         {
           "prompt": "Which Spanish Golden Age dramatist wrote \"La vida es sueño\" (Life Is a Dream) in 1635 featuring the captive prince Segismundo?",
           "options": [
-            "Lope de Vega (126.1)",
-            "Tirso de Molina (126.2)",
-            "Miguel de Cervantes (126.3)",
-            "Pedro Calderón de la Barca (126.4)"
+            "Lope de Vega",
+            "Tirso de Molina",
+            "Miguel de Cervantes",
+            "Pedro Calderón de la Barca"
           ],
           "answerIndex": 3,
           "explanation": "Pedro Calderón de la Barca."
@@ -16257,10 +16257,10 @@
         {
           "prompt": "What fundamental philosophical battle is resolved in *La vida es sueño*, proving that human reason can overcome predicted celestial fate?",
           "options": [
-            "La riqueza material (126.1)",
-            "El libre albedrío frente al determinismo (Free will vs. fatalism) (126.2)",
-            "La conquista militar (126.3)",
-            "La gloria mundana (126.4)"
+            "La riqueza material",
+            "El libre albedrío frente al determinismo",
+            "La conquista militar",
+            "La gloria mundana"
           ],
           "answerIndex": 1,
           "explanation": "El libre albedrío frente al determinismo."
@@ -16324,10 +16324,10 @@
         {
           "prompt": "Which legendary playwright was called \"El Fénix de los Ingenios\" and authored the revolutionary collective drama \"Fuenteovejuna\"?",
           "options": [
-            "Lope de Vega (127.1)",
-            "Tirso de Molina (127.2)",
-            "Francisco de Quevedo (127.3)",
-            "Calderón de la Barca (127.4)"
+            "Lope de Vega",
+            "Tirso de Molina",
+            "Francisco de Quevedo",
+            "Calderón de la Barca"
           ],
           "answerIndex": 0,
           "explanation": "Lope de Vega."
@@ -16339,10 +16339,10 @@
         {
           "prompt": "What unanimous collective answer is given by all villagers under torture in Lope de Vega's *Fuenteovejuna* when asked who killed the tyrant?",
           "options": [
-            "«—Fuenteovejuna, señor. —Todo el pueblo a una.» (127.1)",
-            "«—El alcalde de la villa.» (127.2)",
-            "«—Nadie lo sabe.» (127.3)",
-            "«—Los soldados reales.» (127.4)"
+            "«—Fuenteovejuna, señor. —Todo el pueblo a una.»",
+            "«—El alcalde de la villa.»",
+            "«—Nadie lo sabe.»",
+            "«—Los soldados reales.»"
           ],
           "answerIndex": 0,
           "explanation": "«—Fuenteovejuna, señor. —Todo el pueblo a una.»"
@@ -16406,10 +16406,10 @@
         {
           "prompt": "Which Spanish dramatist created the universal archetype of Don Juan in \"El burlador de Sevilla y convidado de piedra\" (1630)?",
           "options": [
-            "Tirso de Molina (128.1)",
-            "Lope de Vega (128.2)",
-            "Calderón de la Barca (128.3)",
-            "José de Espronceda (128.4)"
+            "Tirso de Molina",
+            "Lope de Vega",
+            "Calderón de la Barca",
+            "José de Espronceda"
           ],
           "answerIndex": 0,
           "explanation": "Tirso de Molina."
@@ -16421,10 +16421,10 @@
         {
           "prompt": "What arrogant motto does Don Juan repeatedly boast whenever warned of divine judgment and impending death?",
           "options": [
-            "«¡Tan largo me lo fiáis!» (What a long credit you give me / I have plenty of time) (128.1)",
-            "«Dios perdona siempre» (128.2)",
-            "«Carpe diem» (128.3)",
-            "«El honor es primero» (128.4)"
+            "«¡Tan largo me lo fiáis!»",
+            "«Dios perdona siempre»",
+            "«Carpe diem»",
+            "«El honor es primero»"
           ],
           "answerIndex": 0,
           "explanation": "«¡Tan largo me lo fiáis!»"
@@ -16488,10 +16488,10 @@
         {
           "prompt": "Which avant-garde Spanish dramatist invented the dramatic genre of \"Esperpento\" in his masterpiece \"Luces de bohemia\" (1924)?",
           "options": [
-            "Antonio Buero Vallejo (129.1)",
-            "Jacinto Benavente (129.2)",
-            "Ramón María del Valle-Inclán (129.3)",
-            "Federico García Lorca (129.4)"
+            "Antonio Buero Vallejo",
+            "Jacinto Benavente",
+            "Ramón María del Valle-Inclán",
+            "Federico García Lorca"
           ],
           "answerIndex": 2,
           "explanation": "Ramón María del Valle-Inclán."
@@ -16503,10 +16503,10 @@
         {
           "prompt": "What famous alley in Madrid, featuring distorting concave and convex mirrors, provides the aesthetic metaphor for Valle-Inclán's Esperpento?",
           "options": [
-            "La Cava Baja (129.1)",
-            "El Callejón del Gato (Calle de Álvarez Gato) (129.2)",
-            "La Gran Vía (129.3)",
-            "La Puerta del Sol (129.4)"
+            "La Cava Baja",
+            "El Callejón del Gato",
+            "La Gran Vía",
+            "La Puerta del Sol"
           ],
           "answerIndex": 1,
           "explanation": "El Callejón del Gato."
@@ -16570,10 +16570,10 @@
         {
           "prompt": "Which Spanish playwright won the Premio Cervantes in 1986 and authored \"Historia de una escalera\" (1949) and \"La fundación\" (1974)?",
           "options": [
-            "Antonio Buero Vallejo (130.1)",
-            "Alfonso Sastre (130.2)",
-            "Federico García Lorca (130.3)",
-            "Fernando Arrabal (130.4)"
+            "Antonio Buero Vallejo",
+            "Alfonso Sastre",
+            "Federico García Lorca",
+            "Fernando Arrabal"
           ],
           "answerIndex": 0,
           "explanation": "Antonio Buero Vallejo."
@@ -16585,10 +16585,10 @@
         {
           "prompt": "What is the true reality behind the luxurious research facility imagined by protagonist Tomás in Buero Vallejo's *La fundación*?",
           "options": [
-            "Un palacio real (130.1)",
-            "Un hospital psiquiátrico (130.2)",
-            "Un barco en altamar (130.3)",
-            "Una celda de condenados a muerte en una prisión (A death-row prison cell) (130.4)"
+            "Un palacio real",
+            "Un hospital psiquiátrico",
+            "Un barco en altamar",
+            "Una celda de condenados a muerte en una prisión"
           ],
           "answerIndex": 3,
           "explanation": "Una celda de condenados a muerte en una prisión."
@@ -16614,7 +16614,7 @@
           "options": [
             "El ascensor",
             "El ático",
-            "La escalera vecinal (The tenement stairway)",
+            "La escalera vecinal",
             "El jardín"
           ],
           "answerIndex": 2,
@@ -16652,10 +16652,10 @@
         {
           "prompt": "Which Catalan soprano was universally known as \"La Superba\" for her legendary pianissimo in Bellini's \"Norma\" and sang \"Barcelona\" with Freddie Mercury?",
           "options": [
-            "Victoria de los Ángeles (131.1)",
-            "Teresa Berganza (131.2)",
-            "Ainhoa Arteta (131.3)",
-            "Montserrat Caballé (131.4)"
+            "Victoria de los Ángeles",
+            "Teresa Berganza",
+            "Ainhoa Arteta",
+            "Montserrat Caballé"
           ],
           "answerIndex": 3,
           "explanation": "Montserrat Caballé."
@@ -16667,10 +16667,10 @@
         {
           "prompt": "What legendary Bellini operatic aria, invoking the chaste moon goddess, was Caballé's signature Bel Canto masterwork?",
           "options": [
-            "«Casta Diva» (Norma) (131.1)",
-            "«Vissi d'arte» (131.2)",
-            "«Un bel dì, vedremo» (131.3)",
-            "«Habanera» (131.4)"
+            "«Casta Diva»",
+            "«Vissi d'arte»",
+            "«Un bel dì, vedremo»",
+            "«Habanera»"
           ],
           "answerIndex": 0,
           "explanation": "«Casta Diva»."
@@ -16734,10 +16734,10 @@
         {
           "prompt": "Which two Spanish tenor legends united with Luciano Pavarotti to form \"The Three Tenors\" in Rome in 1990?",
           "options": [
-            "Plácido Domingo y José Carreras (132.1)",
-            "Enrico Caruso y Beniamino Gigli (132.2)",
-            "Rolando Villazón y Juan Diego Flórez (132.3)",
-            "Alfredo Kraus y Jaume Aragall (132.4)"
+            "Plácido Domingo y José Carreras",
+            "Enrico Caruso y Beniamino Gigli",
+            "Rolando Villazón y Juan Diego Flórez",
+            "Alfredo Kraus y Jaume Aragall"
           ],
           "answerIndex": 0,
           "explanation": "Plácido Domingo y José Carreras."
@@ -16749,10 +16749,10 @@
         {
           "prompt": "What prestigious international young opera singer competition was founded by Plácido Domingo in 1993 to discover new world-class voices?",
           "options": [
-            "Operalia (132.1)",
-            "Cardiff Singer of the World (132.2)",
-            "Chopin Competition (132.3)",
-            "Queen Elisabeth Competition (132.4)"
+            "Operalia",
+            "Cardiff Singer of the World",
+            "Chopin Competition",
+            "Queen Elisabeth Competition"
           ],
           "answerIndex": 0,
           "explanation": "Operalia."
@@ -16777,9 +16777,9 @@
           "prompt": "What grueling Verdi dramatic tenor role, portraying the Shakespearean Moor of Venice, was performed over 200 times by Plácido Domingo across the world's top opera houses?",
           "options": [
             "Otello",
-            "Manrico (Il Trovatore)",
-            "Radamès (Aida)",
-            "Don José (Carmen)"
+            "Manrico",
+            "Radamès",
+            "Don José"
           ],
           "answerIndex": 0,
           "explanation": "Otello.",
@@ -16816,10 +16816,10 @@
         {
           "prompt": "Which legendary Canarian tenor was admired worldwide for his flawless vocal technique and definitive interpretation of Massenet's \"Werther\"?",
           "options": [
-            "Alfredo Kraus (133.1)",
-            "Plácido Domingo (133.2)",
-            "José Carreras (133.3)",
-            "Jaume Aragall (133.4)"
+            "Alfredo Kraus",
+            "Plácido Domingo",
+            "José Carreras",
+            "Jaume Aragall"
           ],
           "answerIndex": 0,
           "explanation": "Alfredo Kraus."
@@ -16831,10 +16831,10 @@
         {
           "prompt": "What French romantic opera by Jules Massenet, based on Goethe's epistolary novel, was Alfredo Kraus's greatest signature role?",
           "options": [
-            "«Werther» (133.1)",
-            "«Don Quichotte» (133.2)",
-            "«Manon» (133.3)",
-            "«Thaïs» (133.4)"
+            "«Werther»",
+            "«Don Quichotte»",
+            "«Manon»",
+            "«Thaïs»"
           ],
           "answerIndex": 0,
           "explanation": "«Werther»."
@@ -16898,10 +16898,10 @@
         {
           "prompt": "Which master Spanish coloratura mezzo-soprano won the Prince of Asturias Award in 1991 and redefined Bizet's \"Carmen\" alongside Claudio Abbado?",
           "options": [
-            "Conchita Supervía (134.1)",
-            "Montserrat Caballé (134.2)",
-            "Teresa Berganza (134.3)",
-            "Victoria de los Ángeles (134.4)"
+            "Conchita Supervía",
+            "Montserrat Caballé",
+            "Teresa Berganza",
+            "Victoria de los Ángeles"
           ],
           "answerIndex": 2,
           "explanation": "Teresa Berganza."
@@ -16913,10 +16913,10 @@
         {
           "prompt": "Which Italian opera composer's heroines (*Rosina* and *Cenerentola*) were historically restored to their authentic mezzo-soprano register by Teresa Berganza?",
           "options": [
-            "Giuseppe Verdi (134.1)",
-            "Gioachino Rossini (134.2)",
-            "Gaetano Donizetti (134.3)",
-            "Giacomo Puccini (134.4)"
+            "Giuseppe Verdi",
+            "Gioachino Rossini",
+            "Gaetano Donizetti",
+            "Giacomo Puccini"
           ],
           "answerIndex": 1,
           "explanation": "Gioachino Rossini."
@@ -16943,7 +16943,7 @@
             "Real Academia de la Historia",
             "Instituto Cervantes",
             "Real Academia de Bellas Artes de San Fernando",
-            "Real Academia Española (RAE)"
+            "Real Academia Española"
           ],
           "answerIndex": 2,
           "explanation": "Real Academia de Bellas Artes de San Fernando.",
@@ -16980,10 +16980,10 @@
         {
           "prompt": "Which grand opera house in Madrid facing the Plaza de Oriente reopened in 1997 and won Best Opera Company in the World in 2021?",
           "options": [
-            "El Teatro Real de Madrid (135.1)",
-            "El Gran Teatre del Liceu (135.2)",
-            "El Teatro Monumental (135.3)",
-            "El Teatro de la Zarzuela (135.4)"
+            "El Teatro Real de Madrid",
+            "El Gran Teatre del Liceu",
+            "El Teatro Monumental",
+            "El Teatro de la Zarzuela"
           ],
           "answerIndex": 0,
           "explanation": "El Teatro Real de Madrid."
@@ -16995,10 +16995,10 @@
         {
           "prompt": "Which Spanish architect designed the soaring futuristic opera house Palau de les Arts Reina Sofía in Valencia?",
           "options": [
-            "Rafael Moneo (135.1)",
-            "Ricardo Bofill (135.2)",
-            "Antoni Gaudí (135.3)",
-            "Santiago Calatrava (135.4)"
+            "Rafael Moneo",
+            "Ricardo Bofill",
+            "Antoni Gaudí",
+            "Santiago Calatrava"
           ],
           "answerIndex": 3,
           "explanation": "Santiago Calatrava."
@@ -17023,7 +17023,7 @@
           "prompt": "In which architectural complex is the Palau de les Arts situated alongside the Hemisfèric and Oceanogràfic in Valencia?",
           "options": [
             "Parque del Retiro",
-            "Ciudad de las Artes y las Ciencias (City of Arts and Sciences)",
+            "Ciudad de las Artes y las Ciencias",
             "Parc Güell",
             "La Alhambra"
           ],
@@ -17062,10 +17062,10 @@
         {
           "prompt": "Which Catalan architect designed the Sagrada Família and Casa Milà, pioneering catenary structural models and trencadís mosaics?",
           "options": [
-            "Lluís Domènech i Montaner (136.1)",
-            "Josep Puig i Cadafalch (136.2)",
-            "Enric Miralles (136.3)",
-            "Antoni Gaudí (136.4)"
+            "Lluís Domènech i Montaner",
+            "Josep Puig i Cadafalch",
+            "Enric Miralles",
+            "Antoni Gaudí"
           ],
           "answerIndex": 3,
           "explanation": "Antoni Gaudí."
@@ -17077,10 +17077,10 @@
         {
           "prompt": "What famous decorative technique, perfected by Gaudí and Jujol, uses mosaic patterns made from reclaimed broken ceramic shards?",
           "options": [
-            "El trencadís (136.1)",
-            "El esgrafiado (136.2)",
-            "La taracea (136.3)",
-            "El mosaico bizantino (136.4)"
+            "El trencadís",
+            "El esgrafiado",
+            "La taracea",
+            "El mosaico bizantino"
           ],
           "answerIndex": 0,
           "explanation": "El trencadís."
@@ -17104,7 +17104,7 @@
         {
           "prompt": "What organic natural structure inspired the branching, weight-bearing load columns inside the nave of the Sagrada Família?",
           "options": [
-            "Un bosque de troncos y ramas de árboles (A forest of tree trunks and branches)",
+            "Un bosque de troncos y ramas de árboles",
             "Columnas de templos griegos",
             "Postes de telégrafo",
             "Cintas de fábrica"
@@ -17144,10 +17144,10 @@
         {
           "prompt": "Which grand 14th-century Andalusian palace fortress in Granada features the Court of the Lions and breathtaking muqarnas stalactite domes?",
           "options": [
-            "La Alhambra de Granada (137.1)",
-            "El Alcázar de Sevilla (137.2)",
-            "El Palacio de la Aljafería (137.3)",
-            "La Mezquita de Córdoba (137.4)"
+            "La Alhambra de Granada",
+            "El Alcázar de Sevilla",
+            "El Palacio de la Aljafería",
+            "La Mezquita de Córdoba"
           ],
           "answerIndex": 0,
           "explanation": "La Alhambra de Granada."
@@ -17159,10 +17159,10 @@
         {
           "prompt": "What Arabic dynastic motto is inscribed thousands of times across the calligraphic plaster walls of the Alhambra?",
           "options": [
-            "«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ» (There is no conqueror but God) (137.1)",
-            "«الملك لله» (137.2)",
-            "«الحمد لله» (137.3)",
-            "«العزة لله» (137.4)"
+            "«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ»",
+            "«الملك لله»",
+            "«الحمد لله»",
+            "«العزة لله»"
           ],
           "answerIndex": 0,
           "explanation": "«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ»."
@@ -17189,7 +17189,7 @@
             "Cúpula geodésica",
             "Techo de artesonado plano",
             "Bóveda de cañón",
-            "Bóveda de mocárabes (Muqarnas dome)"
+            "Bóveda de mocárabes"
           ],
           "answerIndex": 3,
           "explanation": "Bóveda de mocárabes.",
@@ -17226,10 +17226,10 @@
         {
           "prompt": "Which monumental 16th-century royal monastery near Madrid was designed by Juan de Herrera for King Philip II, defining the Herrerian style?",
           "options": [
-            "El Real Monasterio de San Lorenzo de El Escorial (138.1)",
-            "El Palacio Real de Aranjuez (138.2)",
-            "El Palacio de La Granja (138.3)",
-            "El Alcázar de Toledo (138.4)"
+            "El Real Monasterio de San Lorenzo de El Escorial",
+            "El Palacio Real de Aranjuez",
+            "El Palacio de La Granja",
+            "El Alcázar de Toledo"
           ],
           "answerIndex": 0,
           "explanation": "El Real Monasterio de San Lorenzo de El Escorial."
@@ -17241,10 +17241,10 @@
         {
           "prompt": "What martyrdom instrument of Saint Lawrence inspired the rectangular grid layout of El Escorial?",
           "options": [
-            "Una parrilla de hierro (An iron grid / grill) (138.1)",
-            "Una rueda de tortura (138.2)",
-            "Una lanza romana (138.3)",
-            "Una cruz de madera (138.4)"
+            "Una parrilla de hierro",
+            "Una rueda de tortura",
+            "Una lanza romana",
+            "Una cruz de madera"
           ],
           "answerIndex": 0,
           "explanation": "Una parrilla de hierro."
@@ -17270,7 +17270,7 @@
           "options": [
             "Los libros se guardan en cofres de hierro cerrados",
             "Los libros están colgados del techo con cuerdas",
-            "Los libros se colocan con los cortes dorados hacia fuera (Books placed with gilded page edges facing out)",
+            "Los libros se colocan con los cortes dorados hacia fuera",
             "Los libros están apilados horizontalmente en el suelo"
           ],
           "answerIndex": 2,
@@ -17308,10 +17308,10 @@
         {
           "prompt": "Which master Spanish architect won the Pritzker Prize in 1996 and designed the National Museum of Roman Art in Mérida?",
           "options": [
-            "Enric Miralles (139.1)",
-            "Ricardo Bofill (139.2)",
-            "Rafael Moneo (139.3)",
-            "Santiago Calatrava (139.4)"
+            "Enric Miralles",
+            "Ricardo Bofill",
+            "Rafael Moneo",
+            "Santiago Calatrava"
           ],
           "answerIndex": 2,
           "explanation": "Rafael Moneo."
@@ -17323,10 +17323,10 @@
         {
           "prompt": "What primary building material, referencing ancient Roman masonry, forms the monumental soaring arches of Moneo's museum in Mérida?",
           "options": [
-            "Mármol blanco de Carrara (139.1)",
-            "Ladrillo cerámico romano (Roman ceramic brick) (139.2)",
-            "Planchas de titanio (139.3)",
-            "Hormigón armado visto (139.4)"
+            "Mármol blanco de Carrara",
+            "Ladrillo cerámico romano",
+            "Planchas de titanio",
+            "Hormigón armado visto"
           ],
           "answerIndex": 1,
           "explanation": "Ladrillo cerámico romano."
@@ -17351,7 +17351,7 @@
           "prompt": "What iconic metaphor did Rafael Moneo use to describe the two glowing translucent glass auditorium cubes of the Kursaal on San Sebastián's shoreline?",
           "options": [
             "Dos estrellas caídas",
-            "«Dos rocas varadas» en la desembocadura (Two beached rocks at the river mouth)",
+            "«Dos rocas varadas» en la desembocadura",
             "Dos cajas de zapatos",
             "Dos barcos de vapor"
           ],
@@ -17390,10 +17390,10 @@
         {
           "prompt": "Which Spanish architect and structural engineer designed the Puente del Alamillo in Seville, Valencia's City of Arts and Sciences, and New York's Oculus?",
           "options": [
-            "Santiago Calatrava (140.1)",
-            "Rafael Moneo (140.2)",
-            "Alberto Campo Baeza (140.3)",
-            "Ricardo Bofill (140.4)"
+            "Santiago Calatrava",
+            "Rafael Moneo",
+            "Alberto Campo Baeza",
+            "Ricardo Bofill"
           ],
           "answerIndex": 0,
           "explanation": "Santiago Calatrava."
@@ -17405,10 +17405,10 @@
         {
           "prompt": "What sculptural form inspired Santiago Calatrava's design for the white steel ribs of the Oculus Transportation Hub at Ground Zero in New York?",
           "options": [
-            "Un barco de vela (140.1)",
-            "Un rascacielos gótico (140.2)",
-            "Un caracol marino (140.3)",
-            "Una paloma liberada de las manos de un niño (A dove released from a child's hands) (140.4)"
+            "Un barco de vela",
+            "Un rascacielos gótico",
+            "Un caracol marino",
+            "Una paloma liberada de las manos de un niño"
           ],
           "answerIndex": 3,
           "explanation": "Una paloma liberada de las manos de un niño."
@@ -17472,10 +17472,10 @@
         {
           "prompt": "Which master Spanish philosopher coined the famous maxim \"Yo soy yo y mi circunstancia\" and wrote \"La rebelión de las masas\" (1930)?",
           "options": [
-            "Miguel de Unamuno (141.1)",
-            "Xavier Zubiri (141.2)",
-            "Julián Marías (141.3)",
-            "José Ortega y Gasset (141.4)"
+            "Miguel de Unamuno",
+            "Xavier Zubiri",
+            "Julián Marías",
+            "José Ortega y Gasset"
           ],
           "answerIndex": 3,
           "explanation": "José Ortega y Gasset."
@@ -17487,10 +17487,10 @@
         {
           "prompt": "What philosophical concept, developed by Ortega y Gasset, asserts that reason is an essential function and organ of human life rather than a detached abstract system?",
           "options": [
-            "El raciovitalismo / La razón vital (141.1)",
-            "El positivismo lógico (141.2)",
-            "El idealismo absoluto (141.3)",
-            "El materialismo dialéctico (141.4)"
+            "El raciovitalismo / La razón vital",
+            "El positivismo lógico",
+            "El idealismo absoluto",
+            "El materialismo dialéctico"
           ],
           "answerIndex": 0,
           "explanation": "El raciovitalismo / La razón vital."
@@ -17554,10 +17554,10 @@
         {
           "prompt": "Which master philosopher and rector of Salamanca explored the tragic conflict between reason and the longing for immortality in \"Del sentimiento trágico de la vida\"?",
           "options": [
-            "Miguel de Unamuno (142.1)",
-            "Eugenio d'Ors (142.2)",
-            "Julián Besteiro (142.3)",
-            "José Ortega y Gasset (142.4)"
+            "Miguel de Unamuno",
+            "Eugenio d'Ors",
+            "Julián Besteiro",
+            "José Ortega y Gasset"
           ],
           "answerIndex": 0,
           "explanation": "Miguel de Unamuno."
@@ -17569,10 +17569,10 @@
         {
           "prompt": "What concept was coined by Unamuno to describe the silent, continuous everyday life of ordinary people that forms the true bedrock of civilization beneath recorded political history?",
           "options": [
-            "La intrahistoria (Intrahistory) (142.1)",
-            "La superestructura (142.2)",
-            "La sincronía (142.3)",
-            "El determinismo (142.4)"
+            "La intrahistoria",
+            "La superestructura",
+            "La sincronía",
+            "El determinismo"
           ],
           "answerIndex": 0,
           "explanation": "La intrahistoria (Intrahistory)."
@@ -17636,10 +17636,10 @@
         {
           "prompt": "Which master Spanish philosopher was the first woman to win the Premio Cervantes (1988) and formulated the philosophy of \"La razón poética\"?",
           "options": [
-            "María Zambrano (143.1)",
-            "Victoria Camps (143.2)",
-            "Adela Cortina (143.3)",
-            "Celia Amorós (143.4)"
+            "María Zambrano",
+            "Victoria Camps",
+            "Adela Cortina",
+            "Celia Amorós"
           ],
           "answerIndex": 0,
           "explanation": "María Zambrano."
@@ -17651,10 +17651,10 @@
         {
           "prompt": "What metaphysical 1977 masterwork by María Zambrano describes the quiet interior descent of truth as light entering an open forest space?",
           "options": [
-            "Claros del bosque (143.1)",
-            "Campos de Castilla (143.2)",
-            "La soledad sonora (143.3)",
-            "El laberinto de la soledad (143.4)"
+            "Claros del bosque",
+            "Campos de Castilla",
+            "La soledad sonora",
+            "El laberinto de la soledad"
           ],
           "answerIndex": 0,
           "explanation": "Claros del bosque."
@@ -17679,7 +17679,7 @@
           "prompt": "For how many years did María Zambrano live in political exile across Mexico, Cuba, Puerto Rico, France, Italy, and Switzerland before returning to Madrid?",
           "options": [
             "10 años",
-            "45 años (45 years)",
+            "45 años",
             "20 años",
             "5 años"
           ],
@@ -17718,10 +17718,10 @@
         {
           "prompt": "Which 16th-century Dominican philosopher at the University of Salamanca founded modern international law with his 1539 lectures \"Relectio de Indis\"?",
           "options": [
-            "Domingo de Soto (144.1)",
-            "Francisco Suárez (144.2)",
-            "Francisco de Vitoria (144.3)",
-            "Bartolomé de las Casas (144.4)"
+            "Domingo de Soto",
+            "Francisco Suárez",
+            "Francisco de Vitoria",
+            "Bartolomé de las Casas"
           ],
           "answerIndex": 2,
           "explanation": "Francisco de Vitoria."
@@ -17733,10 +17733,10 @@
         {
           "prompt": "What Latin legal concept was redefined by Francisco de Vitoria as a universal law of nations governing reciprocal rights and peaceful relations between all sovereign peoples?",
           "options": [
-            "Lex Talionis (144.1)",
-            "Ius Canonicum (144.2)",
-            "Ius Gentium (Derecho de Gentes) (144.3)",
-            "Ius Civile (144.4)"
+            "Lex Talionis",
+            "Ius Canonicum",
+            "Ius Gentium",
+            "Ius Civile"
           ],
           "answerIndex": 2,
           "explanation": "Ius Gentium (Derecho de Gentes)."
@@ -17760,7 +17760,7 @@
         {
           "prompt": "In which grand international city does a memorial honoring Francisco de Vitoria stand at the United Nations headquarters for founding international jurisprudence?",
           "options": [
-            "Ginebra (Geneva, Switzerland)",
+            "Ginebra",
             "La Haya",
             "Bruselas",
             "Nueva York"
@@ -17800,10 +17800,10 @@
         {
           "prompt": "Which master philosopher authored the landmark trilogy \"Inteligencia sentiente\" (1980), uniting sensing and intellect into a single primordial act?",
           "options": [
-            "Xavier Zubiri (145.1)",
-            "José Ortega y Gasset (145.2)",
-            "Gustavo Bueno (145.3)",
-            "Julián Marías (145.4)"
+            "Xavier Zubiri",
+            "José Ortega y Gasset",
+            "Gustavo Bueno",
+            "Julián Marías"
           ],
           "answerIndex": 0,
           "explanation": "Xavier Zubiri."
@@ -17815,10 +17815,10 @@
         {
           "prompt": "What Spanish philosophical term was utilized by Xavier Zubiri to denote the autonomous ontological reality of things \"in their own right\"?",
           "options": [
-            "A priori (145.1)",
-            "En sí (145.2)",
-            "Dasein (145.3)",
-            "De suyo (In its own right / Autonomous reality) (145.4)"
+            "A priori",
+            "En sí",
+            "Dasein",
+            "De suyo"
           ],
           "answerIndex": 3,
           "explanation": "De suyo."
@@ -17882,10 +17882,10 @@
         {
           "prompt": "Which master Spanish surrealist filmmaker directed \"Un Chien Andalou\" (1929) with Salvador Dalí and won the Cannes Palme d'Or for \"Viridiana\" (1961)?",
           "options": [
-            "Pedro Almodóvar (146.1)",
-            "Carlos Saura (146.2)",
-            "Víctor Erice (146.3)",
-            "Luis Buñuel (146.4)"
+            "Pedro Almodóvar",
+            "Carlos Saura",
+            "Víctor Erice",
+            "Luis Buñuel"
           ],
           "answerIndex": 3,
           "explanation": "Luis Buñuel."
@@ -17897,10 +17897,10 @@
         {
           "prompt": "What famous classical painting by Leonardo da Vinci was subversively parodied by beggars in Buñuel's 1961 masterpiece \"Viridiana\"?",
           "options": [
-            "La Última Cena (The Last Supper) (146.1)",
-            "La Gioconda (Mona Lisa) (146.2)",
-            "La Anunciación (146.3)",
-            "El Hombre de Vitruvio (146.4)"
+            "La Última Cena",
+            "La Gioconda",
+            "La Anunciación",
+            "El Hombre de Vitruvio"
           ],
           "answerIndex": 0,
           "explanation": "La Última Cena (The Last Supper)."
@@ -17964,10 +17964,10 @@
         {
           "prompt": "Which master Spanish director emerged from La Movida Madrileña and won Academy Awards for \"Todo sobre mi madre\" and \"Hable con ella\"?",
           "options": [
-            "Pedro Almodóvar (147.1)",
-            "Álex de la Iglesia (147.2)",
-            "Bigas Luna (147.3)",
-            "Alejandro Amenábar (147.4)"
+            "Pedro Almodóvar",
+            "Álex de la Iglesia",
+            "Bigas Luna",
+            "Alejandro Amenábar"
           ],
           "answerIndex": 0,
           "explanation": "Pedro Almodóvar."
@@ -17979,10 +17979,10 @@
         {
           "prompt": "What legendary 1988 screwball comedy by Almodóvar, set on a Madrid penthouse terrace with spiked gazpacho, launched his international stardom?",
           "options": [
-            "Mujeres al borde de un ataque de nervios (147.1)",
-            "Laberinto de pasiones (147.2)",
-            "Kika (147.3)",
-            "Átame! (147.4)"
+            "Mujeres al borde de un ataque de nervios",
+            "Laberinto de pasiones",
+            "Kika",
+            "Átame!"
           ],
           "answerIndex": 0,
           "explanation": "Mujeres al borde de un ataque de nervios."
@@ -18007,7 +18007,7 @@
           "prompt": "For which 2002 philosophical melodrama, featuring dances by Pina Bausch, did Pedro Almodóvar win the Academy Award for Best Original Screenplay?",
           "options": [
             "Carne trémula",
-            "Hable con ella (Talk to Her)",
+            "Hable con ella",
             "La mala educación",
             "Los abrazos rotos"
           ],
@@ -18046,10 +18046,10 @@
         {
           "prompt": "Which master Spanish director created the poetic post-war masterpiece \"The Spirit of the Beehive\" (1973) starring child actress Ana Torrent?",
           "options": [
-            "Víctor Erice (148.1)",
-            "Carlos Saura (148.2)",
-            "Luis García Berlanga (148.3)",
-            "Fernando Fernán Gómez (148.4)"
+            "Víctor Erice",
+            "Carlos Saura",
+            "Luis García Berlanga",
+            "Fernando Fernán Gómez"
           ],
           "answerIndex": 0,
           "explanation": "Víctor Erice."
@@ -18061,10 +18061,10 @@
         {
           "prompt": "What 1992 Cannes award-winning film by Erice documents realist painter Antonio López attempting to capture fleeting sunlight on a quince tree?",
           "options": [
-            "El sol del membrillo (Dream of Light) (148.1)",
-            "Cerrar los ojos (148.2)",
-            "La colmena (148.3)",
-            "El sur (148.4)"
+            "El sol del membrillo",
+            "Cerrar los ojos",
+            "La colmena",
+            "El sur"
           ],
           "answerIndex": 0,
           "explanation": "El sol del membrillo (Dream of Light)."
@@ -18088,7 +18088,7 @@
         {
           "prompt": "What iconic 1931 classic monster film, projected in a village hall, sparks young Ana's metaphysical quest in *The Spirit of the Beehive*?",
           "options": [
-            "Frankenstein (de James Whale)",
+            "Frankenstein",
             "La momia",
             "El hombre lobo",
             "Drácula"
@@ -18128,10 +18128,10 @@
         {
           "prompt": "Which master Spanish director filmed the 1976 Cannes award-winner \"Cría cuervos\" and created the Flamenco film trilogy with Antonio Gades?",
           "options": [
-            "Jaime Chávarri (149.1)",
-            "Luis Buñuel (149.2)",
-            "Carlos Saura (149.3)",
-            "Víctor Erice (149.4)"
+            "Jaime Chávarri",
+            "Luis Buñuel",
+            "Carlos Saura",
+            "Víctor Erice"
           ],
           "answerIndex": 2,
           "explanation": "Carlos Saura."
@@ -18143,10 +18143,10 @@
         {
           "prompt": "What famous song performed by Jeanette became the global melancholic musical theme of Carlos Saura's 1976 film \"Cría cuervos\"?",
           "options": [
-            "«Alfonsina y el mar» (149.1)",
-            "«Volver» (149.2)",
-            "«Porque te vas» (149.3)",
-            "«Bésame mucho» (149.4)"
+            "«Alfonsina y el mar»",
+            "«Volver»",
+            "«Porque te vas»",
+            "«Bésame mucho»"
           ],
           "answerIndex": 2,
           "explanation": "«Porque te vas»."
@@ -18210,10 +18210,10 @@
         {
           "prompt": "Which Spanish director won the Academy Award for \"Mar adentro\" (2004) and directed the iconic psychological thriller \"Tesis\" (1996)?",
           "options": [
-            "Alejandro Amenábar (150.1)",
-            "Juan Antonio Bayona (150.2)",
-            "Jaume Balagueró (150.3)",
-            "Rodrigo Sorogoyen (150.4)"
+            "Alejandro Amenábar",
+            "Juan Antonio Bayona",
+            "Jaume Balagueró",
+            "Rodrigo Sorogoyen"
           ],
           "answerIndex": 0,
           "explanation": "Alejandro Amenábar."
@@ -18225,10 +18225,10 @@
         {
           "prompt": "Which acclaimed 2006 dark fantasy film, set in 1944 post-Civil War Spain, was directed by Guillermo del Toro and won three Academy Awards?",
           "options": [
-            "El espinazo del diablo (150.1)",
-            "La forma del agua (150.2)",
-            "Cronos (150.3)",
-            "El laberinto del fauno (Pan's Labyrinth) (150.4)"
+            "El espinazo del diablo",
+            "La forma del agua",
+            "Cronos",
+            "El laberinto del fauno"
           ],
           "answerIndex": 3,
           "explanation": "El laberinto del fauno (Pan's Labyrinth)."
@@ -18254,7 +18254,7 @@
           "options": [
             "El Minotauro",
             "El Cíclope",
-            "El Hombre Pálido (The Pale Man)",
+            "El Hombre Pálido",
             "El Fauno"
           ],
           "answerIndex": 2,
@@ -18292,10 +18292,10 @@
         {
           "prompt": "Which master Catalan chef revolutionized global avant-garde cuisine at elBulli, inventing culinary spherification and siphon foams?",
           "options": [
-            "Joan Roca (151.1)",
-            "Martín Berasategui (151.2)",
-            "Juan Mari Arzak (151.3)",
-            "Ferran Adrià (151.4)"
+            "Joan Roca",
+            "Martín Berasategui",
+            "Juan Mari Arzak",
+            "Ferran Adrià"
           ],
           "answerIndex": 3,
           "explanation": "Ferran Adrià."
@@ -18307,10 +18307,10 @@
         {
           "prompt": "What chemical technique, popularized by Ferran Adrià using sodium alginate and calcium bath, encapsulates liquid into thin bursting spheres?",
           "options": [
-            "Esferificación (Spherification) (151.1)",
-            "Liofilización (151.2)",
-            "Pasteurización (151.3)",
-            "Fermentación láctica (151.4)"
+            "Esferificación",
+            "Liofilización",
+            "Pasteurización",
+            "Fermentación láctica"
           ],
           "answerIndex": 0,
           "explanation": "Esferificación (Spherification)."
@@ -18335,7 +18335,7 @@
           "prompt": "In which scenic cove on the Costa Brava in Catalonia was the legendary 3-star Michelin restaurant *elBulli* located?",
           "options": [
             "Cala d'Or",
-            "Cala Montjoi (Roses, Girona)",
+            "Cala Montjoi",
             "Cala Galdana",
             "Cala Fornells"
           ],
@@ -18374,10 +18374,10 @@
         {
           "prompt": "What exclusive natural ecosystem of oak savannahs in southwestern Spain provides the acorns (bellotas) for 100% Iberian ham?",
           "options": [
-            "La Dehesa (152.1)",
-            "La Taiga (152.2)",
-            "La Selva (152.3)",
-            "La Pampa (152.4)"
+            "La Dehesa",
+            "La Taiga",
+            "La Selva",
+            "La Pampa"
           ],
           "answerIndex": 0,
           "explanation": "La Dehesa."
@@ -18389,10 +18389,10 @@
         {
           "prompt": "What is the name of the winter free-range foraging period (October to February) when Iberian pigs feed on falling acorns in the Dehesa?",
           "options": [
-            "La montanera (152.1)",
-            "La vendimia (152.2)",
-            "La trilla (152.3)",
-            "La siega (152.4)"
+            "La montanera",
+            "La vendimia",
+            "La trilla",
+            "La siega"
           ],
           "answerIndex": 0,
           "explanation": "La montanera."
@@ -18416,7 +18416,7 @@
         {
           "prompt": "What official colored label (*precinto*) legally guarantees 100% pure Iberian genetics and acorn-fed free-range Dehesa maturation under Spanish law?",
           "options": [
-            "Precinto Negro (Black Label)",
+            "Precinto Negro",
             "Precinto Rojo",
             "Precinto Verde",
             "Precinto Blanco"
@@ -18456,10 +18456,10 @@
         {
           "prompt": "Which scenic freshwater coastal wetland near Valencia produces the world-renowned Bomba rice used for traditional paella?",
           "options": [
-            "L'Albufera de Valencia (153.1)",
-            "Las Marismas del Guadalquivir (153.2)",
-            "El Delta del Ebro (153.3)",
-            "Las Tablas de Daimiel (153.4)"
+            "L'Albufera de Valencia",
+            "Las Marismas del Guadalquivir",
+            "El Delta del Ebro",
+            "Las Tablas de Daimiel"
           ],
           "answerIndex": 0,
           "explanation": "L'Albufera de Valencia."
@@ -18471,10 +18471,10 @@
         {
           "prompt": "What is the prized, intensely flavorful caramelized crunchy layer of rice at the bottom of a well-cooked paella called?",
           "options": [
-            "El socarrat (153.1)",
-            "El caldero (153.2)",
-            "La costra (153.3)",
-            "El sofrito (153.4)"
+            "El socarrat",
+            "El caldero",
+            "La costra",
+            "El sofrito"
           ],
           "answerIndex": 0,
           "explanation": "El socarrat."
@@ -18538,10 +18538,10 @@
         {
           "prompt": "What iconic 1946 Basque pintxo, named after Rita Hayworth's character, combines a guindilla pepper, Cantabrian anchovy, and green olive on a toothpick?",
           "options": [
-            "La txistorra (154.1)",
-            "El pimiento de Gernika (154.2)",
-            "La Gilda (154.3)",
-            "El matrimonio (154.4)"
+            "La txistorra",
+            "El pimiento de Gernika",
+            "La Gilda",
+            "El matrimonio"
           ],
           "answerIndex": 2,
           "explanation": "La Gilda."
@@ -18553,10 +18553,10 @@
         {
           "prompt": "What traditional private Basque cooking clubs, known in Euskara as \"txokos\", form the historical core of communal culinary culture in San Sebastián?",
           "options": [
-            "Ateneos literarios (154.1)",
-            "Peñas taurinas (154.2)",
-            "Sociedades gastronómicas (Txokos) (154.3)",
-            "Cofradías marineras (154.4)"
+            "Ateneos literarios",
+            "Peñas taurinas",
+            "Sociedades gastronómicas",
+            "Cofradías marineras"
           ],
           "answerIndex": 2,
           "explanation": "Sociedades gastronómicas (Txokos)."
@@ -18620,10 +18620,10 @@
         {
           "prompt": "What indigenous Spanish red grape variety is the undisputed backbone of prestigious DOCa Rioja and DO Ribera del Duero wines?",
           "options": [
-            "Tempranillo (Tinta del País) (155.1)",
-            "Garnacha (155.2)",
-            "Albariño (155.3)",
-            "Monastrell (155.4)"
+            "Tempranillo",
+            "Garnacha",
+            "Albariño",
+            "Monastrell"
           ],
           "answerIndex": 0,
           "explanation": "Tempranillo (Tinta del País)."
@@ -18635,10 +18635,10 @@
         {
           "prompt": "What dynamic fractional blending aging system, utilizing stacked wooden barrels across decades, produces the world-renowned fortified wines of Jerez?",
           "options": [
-            "Maceración carbónica (155.1)",
-            "Fermentación en ánforas (155.2)",
-            "Crianza en tinajas (155.3)",
-            "Sistema de criaderas y soleras (155.4)"
+            "Maceración carbónica",
+            "Fermentación en ánforas",
+            "Crianza en tinajas",
+            "Sistema de criaderas y soleras"
           ],
           "answerIndex": 3,
           "explanation": "Sistema de criaderas y soleras."
@@ -18663,7 +18663,7 @@
           "prompt": "What dazzling white, moisture-retaining limestone soil type is essential to the world-famous vineyards of the Marco de Jerez?",
           "options": [
             "Pizarra / Llicorella",
-            "Albariza (Tierra albariza)",
+            "Albariza",
             "Granito descompuesto",
             "Terra rossa"
           ],
@@ -18847,7 +18847,7 @@
         {
           "prompt": "¿Qué tratado poético de Lope de Vega fijó las reglas del nuevo teatro comercial barroco español?",
           "options": [
-            "El arte nuevo de hacer comedias en este tiempo (1609)",
+            "El arte nuevo de hacer comedias en este tiempo",
             "La Poética de Aristóteles anotada",
             "La Galatea y el Viaje del Parnaso",
             "Teatro crítico universal"
@@ -19028,7 +19028,7 @@
         {
           "prompt": "¿Qué inmortal sainete lírico del género chico compuesto por Tomás Bretón transcurre durante la fiesta de la Virgen de la Paloma?",
           "options": [
-            "La verbena de la Paloma (1894)",
+            "La verbena de la Paloma",
             "El barberillo de Lavapiés",
             "Agua, azucarillos y aguardiente",
             "La corte de Faraón"
@@ -19224,7 +19224,7 @@
         {
           "prompt": "¿Qué figura geométrica natural calculada mediante cuerdas suspendidas utilizó Gaudí para eliminar la necesidad de arbotantes exteriores?",
           "options": [
-            "El arco catenario (o parábola funicular)",
+            "El arco catenario",
             "El dintel recto griego",
             "El arco de medio punto romano",
             "La cúpula geodésica de aluminio"
@@ -19322,10 +19322,10 @@
         {
           "prompt": "¿Cuál es el lema dinástico nazarí que se repite cientos de veces grabado en la yesería y azulejos de la Alhambra?",
           "options": [
-            "«Wa-la galiba illa Allah» (No hay vencedor sino Dios)",
-            "«Plus Ultra» (Más allá)",
-            "«In hoc signo vinces» (Con este signo vencerás)",
-            "«Post tenebras lux» (Tras las tinieblas, la luz)"
+            "«Wa-la galiba illa Allah»",
+            "«Plus Ultra»",
+            "«In hoc signo vinces»",
+            "«Post tenebras lux»"
           ],
           "answerIndex": 0,
           "explanation": "El lema 'No hay vencedor sino Dios' es la divisa oficial grabada en la epigrafía nazarí de todo el recinto palatino."
@@ -19337,7 +19337,7 @@
         {
           "prompt": "¿Qué palacio y jardín de recreo anexo a la Alhambra servía como finca de descanso y explotación agrícola para los sultanes granadinos?",
           "options": [
-            "El Generalife (Yannat al-Arif)",
+            "El Generalife",
             "El Escorial",
             "El Palacio de Aranjuez",
             "La Granja de San Ildefonso"
@@ -19420,9 +19420,9 @@
         {
           "prompt": "¿Qué emir omeya superviviente de la matanza de Damasco fundó el Emirato independiente de Córdoba y comenzó la construcción de la mezquita en 785?",
           "options": [
-            "Abd al-Rahman I (el Inmigrado)",
+            "Abd al-Rahman I",
             "Al-Hakam II",
-            "Almanzor (al-Mansur)",
+            "Almanzor",
             "Boabdil de Granada"
           ],
           "answerIndex": 0,
@@ -19545,7 +19545,7 @@
         {
           "prompt": "¿En qué estancia sepulcral subterránea de El Escorial descansan los restos de los monarcas españoles desde Carlos I?",
           "options": [
-            "El Panteón de Reyes (Cripta Real)",
+            "El Panteón de Reyes",
             "La Cripta de los Infantes",
             "La Sala de Batallas",
             "El Patio de los Evangelistas"

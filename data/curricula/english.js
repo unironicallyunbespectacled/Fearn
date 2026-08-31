@@ -495,10 +495,10 @@
         {
           "prompt": "A friend greets you with 'Hey!' Is this rude?",
           "options": [
-            "It's only used for children (1.1)",
-            "Only if said to a stranger (1.2)",
-            "Yes, it's disrespectful (1.3)",
-            "No — Hey is completely normal and casual among friends/peers in English (1.4)"
+            "It's only used for children",
+            "Only if said to a stranger",
+            "Yes, it's disrespectful",
+            "No — Hey is completely normal and casual among friends/peers in English"
           ],
           "answerIndex": 3,
           "explanation": "Hey is casual, not rude, despite sounding abrupt in some other languages."
@@ -543,10 +543,10 @@
         {
           "prompt": "Why might 'You alright?' confuse an American learner in the UK?",
           "options": [
-            "It means 'goodbye' in British English (1.1)",
-            "It's only used at funerals (1.2)",
-            "It's actually an insult (1.3)",
-            "It's used as a casual greeting in British English, not a sign something is wrong (1.4)"
+            "It means 'goodbye' in British English",
+            "It's only used at funerals",
+            "It's actually an insult",
+            "It's used as a casual greeting in British English, not a sign something is wrong"
           ],
           "answerIndex": 3,
           "explanation": "This matches the cultural note about regional greeting differences."
@@ -703,10 +703,10 @@
         {
           "prompt": "I ___ tired. (contracted)",
           "options": [
-            "'m (2.1)",
-            "'s (2.2)",
-            "amn't (2.3)",
-            "'re (2.4)"
+            "'m",
+            "'s",
+            "amn't",
+            "'re"
           ],
           "answerIndex": 0,
           "explanation": "I contracts to I'm."
@@ -751,10 +751,10 @@
         {
           "prompt": "Why doesn't English have a short form like 'amn't'?",
           "options": [
-            "Standard English simply never developed a standalone negative contraction for am — only the pronoun contracts (I'm not) (2.1)",
-            "Because 'am' can't be negated at all (2.2)",
-            "Because 'am' is always formal (2.3)",
-            "It does exist, it's just rare (2.4)"
+            "Standard English simply never developed a standalone negative contraction for am — only the pronoun contracts",
+            "Because 'am' can't be negated at all",
+            "Because 'am' is always formal",
+            "It does exist, it's just rare"
           ],
           "answerIndex": 0,
           "explanation": "This is the specific grammatical gap explained in the lesson."
@@ -765,7 +765,7 @@
             "Six, one per pronoun",
             "One, it never changes",
             "Two",
-            "Three (am, is, are)"
+            "Three"
           ],
           "answerIndex": 3,
           "explanation": "am/is/are cover all six pronoun slots between them."
@@ -915,10 +915,10 @@
         {
           "prompt": "Which is a natural, casual way to give your name?",
           "options": [
-            "Name is I Jordan. (3.1)",
-            "Jordan am I. (3.2)",
-            "I name Jordan. (3.3)",
-            "I'm Jordan. (3.4)"
+            "Name is I Jordan.",
+            "Jordan am I.",
+            "I name Jordan.",
+            "I'm Jordan."
           ],
           "answerIndex": 3,
           "explanation": "I'm + name is a natural, common self-introduction."
@@ -963,10 +963,10 @@
         {
           "prompt": "Translate: 'I'm Maya, by the way.'",
           "options": [
-            "I'm Maya, by the way. (3.1)",
-            "My way is Maya. (3.2)",
-            "Maya by the way is I. (3.3)",
-            "By the way I Maya am. (3.4)"
+            "I'm Maya, by the way.",
+            "My way is Maya.",
+            "Maya by the way is I.",
+            "By the way I Maya am."
           ],
           "answerIndex": 0,
           "explanation": "Direct, natural translation."
@@ -1128,10 +1128,10 @@
         {
           "prompt": "Which is correctly capitalized?",
           "options": [
-            "I'm Canadian. (4.1)",
-            "I'm CANADIAN always shouted. (4.2)",
-            "Capitalization doesn't matter here. (4.3)",
-            "I'm canadian. (4.4)"
+            "I'm Canadian.",
+            "I'm CANADIAN always shouted.",
+            "Capitalization doesn't matter here.",
+            "I'm canadian."
           ],
           "answerIndex": 0,
           "explanation": "Nationality adjectives are always capitalized in English."
@@ -1176,10 +1176,10 @@
         {
           "prompt": "Why is 'I'm from canada' considered an error in English?",
           "options": [
-            "Because from can't be used with countries (4.1)",
-            "Because nationality/place-derived proper nouns like Canada must always be capitalized (4.2)",
-            "Because Canada should be plural (4.3)",
-            "It's not actually an error (4.4)"
+            "Because from can't be used with countries",
+            "Because nationality/place-derived proper nouns like Canada must always be capitalized",
+            "Because Canada should be plural",
+            "It's not actually an error"
           ],
           "answerIndex": 1,
           "explanation": "Proper nouns (and nationality adjectives) are always capitalized in English."
@@ -1354,10 +1354,10 @@
         {
           "prompt": "Put these in the natural order a first meeting usually follows.",
           "options": [
-            "Greeting → how-are-you → self-intro → origin → close (5.1)",
-            "Origin → close → greeting → self-intro (5.2)",
-            "Self-intro → close → greeting → origin (5.3)",
-            "Close → origin → self-intro → greeting (5.4)"
+            "Greeting → how-are-you → self-intro → origin → close",
+            "Origin → close → greeting → self-intro",
+            "Self-intro → close → greeting → origin",
+            "Close → origin → self-intro → greeting"
           ],
           "answerIndex": 0,
           "explanation": "This matches the natural build-up covered across the unit."
@@ -1402,10 +1402,10 @@
         {
           "prompt": "Combine into one natural exchange: greet someone, ask how they are.",
           "options": [
-            "Hi! How's it going? (5.1)",
-            "Take care! Where are you from? (5.2)",
-            "I'm not American. Good morning. (5.3)",
-            "See you around! I'm Maya. (5.4)"
+            "Hi! How's it going?",
+            "Take care! Where are you from?",
+            "I'm not American. Good morning.",
+            "See you around! I'm Maya."
           ],
           "answerIndex": 0,
           "explanation": "Greeting + how-are-you ritual, in natural order."
@@ -1567,10 +1567,10 @@
         {
           "prompt": "Which number is irregular — it does NOT follow the base-number + '-teen' pattern?",
           "options": [
-            "Thirteen (6.1)",
-            "Fourteen (6.2)",
-            "Sixteen (6.3)",
-            "Twelve (6.4)"
+            "Thirteen",
+            "Fourteen",
+            "Sixteen",
+            "Twelve"
           ],
           "answerIndex": 3,
           "explanation": "Twelve (like eleven) doesn't follow the -teen pattern at all — it's a historical leftover."
@@ -1615,10 +1615,10 @@
         {
           "prompt": "Why don't eleven and twelve follow the regular -teen pattern?",
           "options": [
-            "They come from an older counting system (roughly 'one/two left over ten') that predates the regular -teen pattern (6.1)",
-            "They're actually spelling mistakes that became standard (6.2)",
-            "English never had a pattern for numbers (6.3)",
-            "They're modern slang shortcuts (6.4)"
+            "They come from an older counting system (roughly 'one/two left over ten') that predates the regular -teen pattern",
+            "They're actually spelling mistakes that became standard",
+            "English never had a pattern for numbers",
+            "They're modern slang shortcuts"
           ],
           "answerIndex": 0,
           "explanation": "This is the historical reason given in the lesson."
@@ -1700,7 +1700,7 @@
         {
           "prompt": "Which spelling is correct for 15?",
           "options": [
-            "Fifteenth (as the cardinal number)",
+            "Fifteenth",
             "Fiveteen",
             "Fivten",
             "Fifteen"
@@ -1762,10 +1762,10 @@
         {
           "prompt": "Which of the following is spelled correctly according to standard English rules?",
           "options": [
-            "forty-five (hyphenated, forty without 'u') (7.1)",
-            "fourty-five (7.2)",
-            "fourtyfive (7.3)",
-            "forty five (7.4)"
+            "forty-five",
+            "fourty-five",
+            "fourtyfive",
+            "forty five"
           ],
           "answerIndex": 0,
           "explanation": "40 is spelled 'forty' (no 'u') and compound numbers 21-99 require a hyphen: 'forty-five'."
@@ -1773,7 +1773,7 @@
         {
           "prompt": "How is the price $12.50 spoken most naturally in everyday English conversation?",
           "options": [
-            "twelve fifty (or twelve dollars and fifty cents)",
+            "twelve fifty",
             "twelve point fifty dollars",
             "twelve and half dollars",
             "ten and two dollars fifty"
@@ -1799,10 +1799,10 @@
         {
           "prompt": "Translate: 'The jacket costs seventy-five pounds.'",
           "options": [
-            "The jacket costs seventy five pound. (7.1)",
-            "The jacket cost seventy-five pounds. (7.2)",
-            "The jacket costs seventeen-five pounds. (7.3)",
-            "The jacket costs seventy-five pounds. (7.4)"
+            "The jacket costs seventy five pound.",
+            "The jacket cost seventy-five pounds.",
+            "The jacket costs seventeen-five pounds.",
+            "The jacket costs seventy-five pounds."
           ],
           "answerIndex": 3,
           "explanation": "Subject-verb agreement (costs) + hyphenated 'seventy-five' + plural 'pounds'."
@@ -1864,7 +1864,7 @@
             "fourth",
             "four",
             "fourteen",
-            "forty (from four)"
+            "forty"
           ],
           "answerIndex": 3,
           "explanation": "Forty drops the 'u'.",
@@ -1875,7 +1875,7 @@
           "options": [
             "three ninety-nine pounds",
             "thirty-nine pounds nine",
-            "three pounds ninety-nine (or three ninety-nine)",
+            "three pounds ninety-nine",
             "three point ninety-nine pounds"
           ],
           "answerIndex": 2,
@@ -1923,10 +1923,10 @@
         {
           "prompt": "How do you say 4:30 in traditional English time?",
           "options": [
-            "half to four (8.1)",
-            "four and half (8.2)",
-            "four and thirty (8.3)",
-            "half past four (or four thirty) (8.4)"
+            "half to four",
+            "four and half",
+            "four and thirty",
+            "half past four"
           ],
           "answerIndex": 3,
           "explanation": "30 minutes past the hour is 'half past four'."
@@ -1948,7 +1948,7 @@
             "on",
             "in",
             "by",
-            "at (e.g. at five o'clock)"
+            "at"
           ],
           "answerIndex": 3,
           "explanation": "Specific clock times strictly take the preposition 'at'."
@@ -1960,10 +1960,10 @@
         {
           "prompt": "Translate: 'The meeting begins at 9:15 AM.'",
           "options": [
-            "The meeting begins at quarter past nine in the morning. (8.1)",
-            "The meeting begins in quarter past nine in the morning. (8.2)",
-            "The meeting begins on quarter past nine in the morning. (8.3)",
-            "The meeting begins at nine forty-five. (8.4)"
+            "The meeting begins at quarter past nine in the morning.",
+            "The meeting begins in quarter past nine in the morning.",
+            "The meeting begins on quarter past nine in the morning.",
+            "The meeting begins at nine forty-five."
           ],
           "answerIndex": 0,
           "explanation": "'at quarter past nine' (9:15) with preposition 'at'."
@@ -1987,7 +1987,7 @@
           "prompt": "What time is 2:15?",
           "options": [
             "two and quarter",
-            "quarter past two (or two fifteen)",
+            "quarter past two",
             "quarter to two",
             "half past two"
           ],
@@ -1998,7 +1998,7 @@
         {
           "prompt": "What time is 8:50?",
           "options": [
-            "ten to nine (or eight fifty)",
+            "ten to nine",
             "ten past eight",
             "nine fifty",
             "ten to eight"
@@ -2084,10 +2084,10 @@
         {
           "prompt": "Which sentence correctly uses time prepositions and capitalization?",
           "options": [
-            "The exam is on Friday, July 15th at 9:00 AM. (9.1)",
-            "The exam is at friday, in July 15th at 9:00 AM. (9.2)",
-            "The exam is on friday, at july 15th in 9:00 AM. (9.3)",
-            "The exam is in Friday, July 15th on 9:00 AM. (9.4)"
+            "The exam is on Friday, July 15th at 9:00 AM.",
+            "The exam is at friday, in July 15th at 9:00 AM.",
+            "The exam is on friday, at july 15th in 9:00 AM.",
+            "The exam is in Friday, July 15th on 9:00 AM."
           ],
           "answerIndex": 0,
           "explanation": "ON Friday (day/date) + July capitalized + AT 9:00 AM (clock time)."
@@ -2095,7 +2095,7 @@
         {
           "prompt": "Which letter is silent in the pronunciation of 'Wednesday'?",
           "options": [
-            "The first 'd' (pronounced WENZ-day)",
+            "The first 'd'",
             "The 's'",
             "The 'y'",
             "The 'w'"
@@ -2106,7 +2106,7 @@
         {
           "prompt": "Choose the correct preposition: 'I was born ___ 1998.'",
           "options": [
-            "in (years take 'in')",
+            "in",
             "to",
             "on",
             "at"
@@ -2121,10 +2121,10 @@
         {
           "prompt": "Translate: 'We are going on vacation in July.'",
           "options": [
-            "We are going on vacation in July. (9.1)",
-            "We are going on vacation on July. (9.2)",
-            "We are going on vacation in july. (9.3)",
-            "We are going on vacation at July. (9.4)"
+            "We are going on vacation in July.",
+            "We are going on vacation on July.",
+            "We are going on vacation in july.",
+            "We are going on vacation at July."
           ],
           "answerIndex": 0,
           "explanation": "Months take 'in' + July must be capitalized."
@@ -2162,7 +2162,7 @@
             "Only months of the year",
             "No, never",
             "Only days of the week",
-            "Yes, always (Monday, July)"
+            "Yes, always"
           ],
           "answerIndex": 3,
           "explanation": "Days and months in English are proper nouns and always capitalized.",
@@ -2195,7 +2195,7 @@
         {
           "prompt": "Which preposition is used for seasons (e.g. summer)?",
           "options": [
-            "in (in summer / in the summer)",
+            "in",
             "at",
             "on",
             "to"
@@ -2247,10 +2247,10 @@
         {
           "prompt": "How does Alex state the ticket price (£35) correctly in written English?",
           "options": [
-            "thirty-five pounds (hyphenated) (10.1)",
-            "thirty five pounds (10.2)",
-            "thirteen-five pounds (10.3)",
-            "thirty-five pound (10.4)"
+            "thirty-five pounds",
+            "thirty five pounds",
+            "thirteen-five pounds",
+            "thirty-five pound"
           ],
           "answerIndex": 0,
           "explanation": "Compound numbers 21-99 require a hyphen: 'thirty-five pounds'."
@@ -2284,10 +2284,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:00 PM?'",
           "options": [
-            "Are you free on Tuesday at four o'clock in the afternoon? (10.1)",
-            "Are you free at Tuesday in four o'clock? (10.2)",
-            "Are you free on tuesday at four? (10.3)",
-            "Are you free in Tuesday on four o'clock in the afternoon? (10.4)"
+            "Are you free on Tuesday at four o'clock in the afternoon?",
+            "Are you free at Tuesday in four o'clock?",
+            "Are you free on tuesday at four?",
+            "Are you free in Tuesday on four o'clock in the afternoon?"
           ],
           "answerIndex": 0,
           "explanation": "ON Tuesday (capitalized) + AT 4:00 PM."
@@ -2408,10 +2408,10 @@
         {
           "prompt": "Which word collective refers to both your brothers and sisters?",
           "options": [
-            "parents (11.1)",
-            "children (11.2)",
-            "cousins (11.3)",
-            "siblings (11.4)"
+            "parents",
+            "children",
+            "cousins",
+            "siblings"
           ],
           "answerIndex": 3,
           "explanation": "'Siblings' is the gender-neutral collective term for brothers and sisters."
@@ -2421,7 +2421,7 @@
           "options": [
             "their",
             "its",
-            "his (matching male owner David)",
+            "his",
             "her"
           ],
           "answerIndex": 2,
@@ -2445,10 +2445,10 @@
         {
           "prompt": "Translate: 'Emma loves her brother.'",
           "options": [
-            "Emma loves his brother. (11.1)",
-            "Emma loves its brother. (11.2)",
-            "Emma loves their brother. (11.3)",
-            "Emma loves her brother. (11.4)"
+            "Emma loves his brother.",
+            "Emma loves its brother.",
+            "Emma loves their brother.",
+            "Emma loves her brother."
           ],
           "answerIndex": 3,
           "explanation": "Emma is female, so the possessive is 'her'."
@@ -2495,10 +2495,10 @@
         {
           "prompt": "What is the spelling of the possessive 'its' (belonging to it)?",
           "options": [
-            "its (without apostrophe)",
+            "its",
             "its'",
             "itt's",
-            "it's (contraction of it is)"
+            "it's"
           ],
           "answerIndex": 0,
           "explanation": "Possessive 'its' has no apostrophe ('it's' means 'it is').",
@@ -2570,10 +2570,10 @@
         {
           "prompt": "Which sentence correctly refers to a house owned by both of your parents?",
           "options": [
-            "This is my parents' house. (apostrophe after plural -s) (12.1)",
-            "This is my parent's house. (refers to only one parent) (12.2)",
-            "This is my parentes house. (12.3)",
-            "This is my parents house. (12.4)"
+            "This is my parents' house.",
+            "This is my parent's house.",
+            "This is my parentes house.",
+            "This is my parents house."
           ],
           "answerIndex": 0,
           "explanation": "'parents'' with the apostrophe after the 's' indicates plural possession."
@@ -2592,7 +2592,7 @@
         {
           "prompt": "How is 'Chris's car' pronounced?",
           "options": [
-            "KRIS-iz (with an extra syllable /ɪz/)",
+            "KRIS-iz",
             "KRIS",
             "KRIS-ee",
             "KRIS-ess"
@@ -2607,10 +2607,10 @@
         {
           "prompt": "Select the correct punctuation: 'This is my sister___ cat.' (one sister)",
           "options": [
-            "sisters' (12.1)",
-            "sisters (12.2)",
-            "sister (12.3)",
-            "sister's (12.4)"
+            "sisters'",
+            "sisters",
+            "sister",
+            "sister's"
           ],
           "answerIndex": 3,
           "explanation": "One sister takes `'s`: sister's."
@@ -2621,7 +2621,7 @@
             "'Sarah's book'",
             "'The teachers' lounge'",
             "'The men's department'",
-            "'Fresh Banana's for sale' (incorrect plural)"
+            "'Fresh Banana's for sale'"
           ],
           "answerIndex": 3,
           "explanation": "'Banana's' incorrectly uses an apostrophe for a simple plural."
@@ -2671,7 +2671,7 @@
           "options": [
             "Jame's",
             "James'es",
-            "James's (or James')",
+            "James's",
             "Jamess"
           ],
           "answerIndex": 2,
@@ -2731,10 +2731,10 @@
         {
           "prompt": "What is the relationship of your brother's daughter to you?",
           "options": [
-            "nephew (13.1)",
-            "cousin (13.2)",
-            "sister-in-law (13.3)",
-            "niece [NEES] (13.4)"
+            "nephew",
+            "cousin",
+            "sister-in-law",
+            "niece [NEES]"
           ],
           "answerIndex": 3,
           "explanation": "A sibling's daughter is your niece."
@@ -2745,7 +2745,7 @@
             "sister-in-laws",
             "sisters-in-laws",
             "sister-ins-law",
-            "sisters-in-law (pluralize the noun 'sister')"
+            "sisters-in-law"
           ],
           "answerIndex": 3,
           "explanation": "The person noun 'sister' takes the plural 's': sisters-in-law."
@@ -2756,7 +2756,7 @@
             "nephew",
             "niece",
             "sibling",
-            "cousin (gender-neutral)"
+            "cousin"
           ],
           "answerIndex": 3,
           "explanation": "The child of an aunt or uncle is your cousin."
@@ -2768,10 +2768,10 @@
         {
           "prompt": "What is the relationship of your sibling's son to you?",
           "options": [
-            "nephew (13.1)",
-            "niece (13.2)",
-            "cousin (13.3)",
-            "grandson (13.4)"
+            "nephew",
+            "niece",
+            "cousin",
+            "grandson"
           ],
           "answerIndex": 0,
           "explanation": "A sibling's son is your nephew."
@@ -2779,7 +2779,7 @@
         {
           "prompt": "How is the father of your spouse written?",
           "options": [
-            "father-in-law (with hyphens)",
+            "father-in-law",
             "father in law",
             "fatherinlaw",
             "father's in law"
@@ -2893,10 +2893,10 @@
         {
           "prompt": "Complete the sentence: '___ four people in my family.'",
           "options": [
-            "There are (matching plural 'four people') (14.1)",
-            "There has (14.2)",
-            "It has (14.3)",
-            "There is (14.4)"
+            "There are",
+            "There has",
+            "It has",
+            "There is"
           ],
           "answerIndex": 0,
           "explanation": "Plural 'four people' strictly requires 'There are'."
@@ -2930,10 +2930,10 @@
         {
           "prompt": "Complete the negative sentence: 'There ___ any milk in the fridge.' (uncountable)",
           "options": [
-            "isn't (14.1)",
-            "don't (14.2)",
-            "aren't (14.3)",
-            "not (14.4)"
+            "isn't",
+            "don't",
+            "aren't",
+            "not"
           ],
           "answerIndex": 0,
           "explanation": "Uncountable nouns take singular 'isn't'."
@@ -2992,7 +2992,7 @@
         {
           "prompt": "What is the negative plural form of 'There are'?",
           "options": [
-            "There aren't (any)",
+            "There aren't",
             "There isn't",
             "There not",
             "There don't"
@@ -3056,10 +3056,10 @@
         {
           "prompt": "How does Oliver describe his uncle David's relationship to his mother?",
           "options": [
-            "He's my mother's older brother. (using possessive 's) (15.1)",
-            "He's my mothers older brother. (15.2)",
-            "He's the brother of my mother's. (15.3)",
-            "He's my mother brother. (15.4)"
+            "He's my mother's older brother.",
+            "He's my mothers older brother.",
+            "He's the brother of my mother's.",
+            "He's my mother brother."
           ],
           "answerIndex": 0,
           "explanation": "'my mother's older brother' is natural and correct."
@@ -3078,7 +3078,7 @@
         {
           "prompt": "What is Mark's relationship to Oliver?",
           "options": [
-            "brother-in-law (his sister's husband)",
+            "brother-in-law",
             "cousin",
             "uncle",
             "nephew"
@@ -3093,10 +3093,10 @@
         {
           "prompt": "Translate: 'My grandparents' house is in Manchester.'",
           "options": [
-            "My grandparents house is in Manchester. (15.1)",
-            "My grandparents' house is in Manchester. (15.2)",
-            "My grandparent house is in Manchester. (15.3)",
-            "My grandparent's house is in Manchester. (only one grandparent) (15.4)"
+            "My grandparents house is in Manchester.",
+            "My grandparents' house is in Manchester.",
+            "My grandparent house is in Manchester.",
+            "My grandparent's house is in Manchester."
           ],
           "answerIndex": 1,
           "explanation": "'grandparents'' with apostrophe after 's' represents both grandparents."
@@ -3217,10 +3217,10 @@
         {
           "prompt": "Choose the correct Present Simple form: 'My sister ___ English in Tokyo.' (teach)",
           "options": [
-            "teach (16.1)",
-            "teachies (16.2)",
-            "teachs (16.3)",
-            "teaches [pronounced TEECH-iz with extra /ɪz/ syllable] (16.4)"
+            "teach",
+            "teachies",
+            "teachs",
+            "teaches [pronounced TEECH-iz with extra /ɪz/ syllable]"
           ],
           "answerIndex": 3,
           "explanation": "Verbs ending in -ch add -es: teaches."
@@ -3240,7 +3240,7 @@
           "prompt": "What is the 3rd person singular spelling of 'study' (consonant + y)?",
           "options": [
             "studyies",
-            "studies (y changes to -ies)",
+            "studies",
             "study",
             "studys"
           ],
@@ -3254,10 +3254,10 @@
         {
           "prompt": "Translate: 'He speaks English and works in finance.'",
           "options": [
-            "He speak English and work in finance. (16.1)",
-            "He speaking English and working. (16.2)",
-            "He speaks English and work in finance. (16.3)",
-            "He speaks English and works in finance. (16.4)"
+            "He speak English and work in finance.",
+            "He speaking English and working.",
+            "He speaks English and work in finance.",
+            "He speaks English and works in finance."
           ],
           "answerIndex": 3,
           "explanation": "Both verbs require 3rd person -s: speaks, works."
@@ -3292,7 +3292,7 @@
         {
           "prompt": "When is the final '-es' suffix pronounced as an extra /ɪz/ syllable?",
           "options": [
-            "After sibilant sounds like /s, z, ʃ, tʃ, dʒ/ (e.g. washes, catches, misses) (#ScienceOfLearning)",
+            "After sibilant sounds like /s, z, ʃ, tʃ, dʒ/",
             "Only on irregular verbs",
             "Never in British English",
             "After all consonants"
@@ -3378,10 +3378,10 @@
         {
           "prompt": "Choose the correct negative sentence:",
           "options": [
-            "Mark doesn't eat meat. [auxiliary 'doesn't' + bare infinitive 'eat'] (17.1)",
-            "Mark doesn't eats meat. (17.2)",
-            "Mark not eats meat. (17.3)",
-            "Mark don't eat meat. (17.4)"
+            "Mark doesn't eat meat. [auxiliary 'doesn't' + bare infinitive 'eat']",
+            "Mark doesn't eats meat.",
+            "Mark not eats meat.",
+            "Mark don't eat meat."
           ],
           "answerIndex": 0,
           "explanation": "doesn't + bare infinitive 'eat'."
@@ -3415,10 +3415,10 @@
         {
           "prompt": "Translate: 'She doesn't live with her parents.'",
           "options": [
-            "She doesn't lives with her parents. (17.1)",
-            "She don't live with her parents. (17.2)",
-            "She not live with her parents. (17.3)",
-            "She doesn't live with her parents. (17.4)"
+            "She doesn't lives with her parents.",
+            "She don't live with her parents.",
+            "She not live with her parents.",
+            "She doesn't live with her parents."
           ],
           "answerIndex": 3,
           "explanation": "She doesn't live."
@@ -3456,7 +3456,7 @@
             "Because 'doesn't' is only used in questions",
             "Because 'English' cannot follow 'speaks'",
             "It is British slang",
-            "Double-marking error: 'does' already marks the 3rd person, so 'speaks' must be bare 'speak' (#ScienceOfLearning)"
+            "Double-marking error: 'does' already marks the 3rd person, so 'speaks' must be bare 'speak'"
           ],
           "answerIndex": 3,
           "explanation": "Double-marking error.",
@@ -3468,7 +3468,7 @@
             "do'nt and does'nt",
             "dnot and dsnot",
             "don't and doesn't",
-            "dont and doesnt (without apostrophe)"
+            "dont and doesnt"
           ],
           "answerIndex": 2,
           "explanation": "don't and doesn't.",
@@ -3539,10 +3539,10 @@
         {
           "prompt": "Construct the correct question: 'Where / your sister / live?'",
           "options": [
-            "Where your sister lives? (18.1)",
-            "Where do your sister live? (18.2)",
-            "Where lives your sister? (18.3)",
-            "Where does your sister live? [Q: Where | A: does | S: your sister | V: live] (18.4)"
+            "Where your sister lives?",
+            "Where do your sister live?",
+            "Where lives your sister?",
+            "Where does your sister live? [Q: Where | A: does | S: your sister | V: live]"
           ],
           "answerIndex": 3,
           "explanation": "Q-A-S-V: Where does your sister live?"
@@ -3564,7 +3564,7 @@
             "Who does want coffee?",
             "Who do want coffee?",
             "Who is want coffee?",
-            "Who wants coffee? (Direct 3rd-person verb without auxiliary)"
+            "Who wants coffee?"
           ],
           "answerIndex": 3,
           "explanation": "Subject questions do not take do/does: Who wants coffee?"
@@ -3576,10 +3576,10 @@
         {
           "prompt": "Translate: 'What time does the train arrive?'",
           "options": [
-            "What time does the train arrive? (18.1)",
-            "What time the train arrives? (18.2)",
-            "What time do the train arrive? (18.3)",
-            "What time arrives the train? (18.4)"
+            "What time does the train arrive?",
+            "What time the train arrives?",
+            "What time do the train arrive?",
+            "What time arrives the train?"
           ],
           "answerIndex": 0,
           "explanation": "What time does the train arrive?"
@@ -3605,7 +3605,7 @@
             "Verb + Subject + Question Word",
             "Question Word + Verb + Subject",
             "S-V-O: Subject + Verb + Object",
-            "Q-A-S-V: Question Word + Auxiliary (Do/Does) + Subject + Bare Verb (#ScienceOfLearning)"
+            "Q-A-S-V: Question Word + Auxiliary (Do/Does) + Subject + Bare Verb"
           ],
           "answerIndex": 3,
           "explanation": "Q-A-S-V formula.",
@@ -3701,10 +3701,10 @@
         {
           "prompt": "Where does the frequency adverb go in: 'She ___ (always / be) on time'?",
           "options": [
-            "She is always on time. [Adverbs go AFTER the verb 'to be'] (19.1)",
-            "She on time is always. (19.2)",
-            "Always she is on time. (19.3)",
-            "She always is on time. (19.4)"
+            "She is always on time. [Adverbs go AFTER the verb 'to be']",
+            "She on time is always.",
+            "Always she is on time.",
+            "She always is on time."
           ],
           "answerIndex": 0,
           "explanation": "Adverbs of frequency stand AFTER 'to be': She is always on time."
@@ -3723,7 +3723,7 @@
         {
           "prompt": "Which sentence avoids a double negative blunder?",
           "options": [
-            "He never eats meat. (never + affirmative verb)",
+            "He never eats meat.",
             "He never doesn't eat meat.",
             "He doesn't never eat meat.",
             "He not never eats meat."
@@ -3738,10 +3738,10 @@
         {
           "prompt": "Translate: 'We often take the tube to work.'",
           "options": [
-            "We often take the tube to work. (19.1)",
-            "Often we are taking tube. (19.2)",
-            "We take often the tube to work. (19.3)",
-            "We take the tube often to work. (19.4)"
+            "We often take the tube to work.",
+            "Often we are taking tube.",
+            "We take often the tube to work.",
+            "We take the tube often to work."
           ],
           "answerIndex": 0,
           "explanation": "We often take."
@@ -3749,10 +3749,10 @@
         {
           "prompt": "What frequency percentage does 'hardly ever / rarely' convey?",
           "options": [
-            "10–20% (almost never / very seldom)",
-            "100% (all the time)",
-            "0% (never at all)",
-            "50% (half the time)"
+            "10–20%",
+            "100%",
+            "0%",
+            "50%"
           ],
           "answerIndex": 0,
           "explanation": "hardly ever / rarely = 10–20% frequency."
@@ -3777,7 +3777,7 @@
           "prompt": "What is the syntactic rule for frequency adverbs with main verbs vs the verb 'to be'?",
           "options": [
             "Always at the end of the sentence",
-            "BEFORE ordinary main verbs (usually works) and AFTER forms of 'to be' (is usually) (#ScienceOfLearning)",
+            "BEFORE ordinary main verbs (usually works) and AFTER forms of 'to be'",
             "Always before the subject",
             "There is no rule"
           ],
@@ -3864,10 +3864,10 @@
         {
           "prompt": "How does Marcus ask Sophie if she works at the co-working space every day using correct Q-A-S-V question syntax?",
           "options": [
-            "Do you work here every day? [A: Do | S: you | V: work] (20.1)",
-            "You work here every day? (20.2)",
-            "Are you work here every day? (20.3)",
-            "Work you here every day? (20.4)"
+            "Do you work here every day? [A: Do | S: you | V: work]",
+            "You work here every day?",
+            "Are you work here every day?",
+            "Work you here every day?"
           ],
           "answerIndex": 0,
           "explanation": "Do you work here every day?"
@@ -3901,10 +3901,10 @@
         {
           "prompt": "Translate: 'Our engineer lives in Edinburgh.'",
           "options": [
-            "Our engineer is live in Edinburgh. (20.1)",
-            "Our engineer lives in Edinburgh. (20.2)",
-            "Our engineer living in Edinburgh. (20.3)",
-            "Our engineer live in Edinburgh. (20.4)"
+            "Our engineer is live in Edinburgh.",
+            "Our engineer lives in Edinburgh.",
+            "Our engineer living in Edinburgh.",
+            "Our engineer live in Edinburgh."
           ],
           "answerIndex": 1,
           "explanation": "lives (3rd person singular -s)."
@@ -3939,7 +3939,7 @@
         {
           "prompt": "What is the universal English professional icebreaker question to ask someone about their career?",
           "options": [
-            "'What do you do?' (short for 'What do you do for a living?')",
+            "'What do you do?'",
             "'How much money do you make?'",
             "'Where is your car?'",
             "'What are you doing right now?'"
@@ -3954,7 +3954,7 @@
             "High frequency",
             "100% of the time",
             "Future intention",
-            "Low frequency (infrequently / seldom / 10-20% of the time)"
+            "Low frequency"
           ],
           "answerIndex": 3,
           "explanation": "rarely = low frequency.",
@@ -4032,10 +4032,10 @@
         {
           "prompt": "Which preposition is used with clock times (e.g. '_____ 7:30 AM')?",
           "options": [
-            "in (21.1)",
-            "on (21.2)",
-            "for (21.3)",
-            "at (at 7:30 AM) (21.4)"
+            "in",
+            "on",
+            "for",
+            "at"
           ],
           "answerIndex": 3,
           "explanation": "Exact times take 'at'."
@@ -4045,8 +4045,8 @@
           "options": [
             "9:15",
             "10:45",
-            "9:45 (fifteen minutes before ten)",
-            "10:15 (fifteen minutes after ten)"
+            "9:45",
+            "10:15"
           ],
           "answerIndex": 2,
           "explanation": "quarter to ten = 9:45."
@@ -4058,10 +4058,10 @@
         {
           "prompt": "Choose the correct sentence with time prepositions:",
           "options": [
-            "I study at the evening in Saturdays on 8 PM. (21.1)",
-            "I study on the evening at Saturdays in 8 PM. (21.2)",
-            "I study in 8 PM at Saturdays on the evening. (21.3)",
-            "I study in the evening on Saturdays at 8 PM. (21.4)"
+            "I study at the evening in Saturdays on 8 PM.",
+            "I study on the evening at Saturdays in 8 PM.",
+            "I study in 8 PM at Saturdays on the evening.",
+            "I study in the evening on Saturdays at 8 PM."
           ],
           "answerIndex": 3,
           "explanation": "in the evening + on Saturdays + at 8 PM."
@@ -4072,7 +4072,7 @@
             "It's six hours and half morning.",
             "It makes six and thirty in morning.",
             "Is six half of morning.",
-            "It's six-thirty in the morning. (or It's half past six in the morning.)"
+            "It's six-thirty in the morning."
           ],
           "answerIndex": 3,
           "explanation": "It's six-thirty in the morning."
@@ -4176,10 +4176,10 @@
         {
           "prompt": "What is the 3rd person singular form of 'brush' in 'He _____ his teeth'?",
           "options": [
-            "brushes (takes -es after -sh) (22.1)",
-            "brushed (22.2)",
-            "brushs (22.3)",
-            "brushing (22.4)"
+            "brushes",
+            "brushed",
+            "brushs",
+            "brushing"
           ],
           "answerIndex": 0,
           "explanation": "Verbs ending in -sh add -es: brushes."
@@ -4202,10 +4202,10 @@
         {
           "prompt": "Fill in the blank: 'David _____ (have) cereal and fruit for breakfast.'",
           "options": [
-            "haves (22.1)",
-            "having (22.2)",
-            "has (irregular 3rd person of have) (22.3)",
-            "have (22.4)"
+            "haves",
+            "having",
+            "has",
+            "have"
           ],
           "answerIndex": 2,
           "explanation": "have -> has for he/she/it."
@@ -4264,7 +4264,7 @@
         {
           "prompt": "Which phrase means 'to fall asleep / go to sleep'?",
           "options": [
-            "go to bed (or fall asleep)",
+            "go to bed",
             "leave the room",
             "wake up",
             "stand up"
@@ -4320,10 +4320,10 @@
         {
           "prompt": "Where does the frequency adverb go in relation to the verb 'to be' (am/is/are)?",
           "options": [
-            "BEFORE the verb 'to be' (23.1)",
-            "At the very end of the sentence only (23.2)",
-            "At the very start only (23.3)",
-            "AFTER the verb 'to be' (e.g. He is always happy) (23.4)"
+            "BEFORE the verb 'to be'",
+            "At the very end of the sentence only",
+            "At the very start only",
+            "AFTER the verb 'to be'"
           ],
           "answerIndex": 3,
           "explanation": "Frequency adverbs follow the verb 'to be': He is always on time."
@@ -4334,7 +4334,7 @@
             "AFTER the main verb",
             "Between the verb and object",
             "At the end of the clause",
-            "BEFORE the main verb (e.g. I always drink water)"
+            "BEFORE the main verb"
           ],
           "answerIndex": 3,
           "explanation": "Frequency adverbs precede regular main verbs: I always drink."
@@ -4346,10 +4346,10 @@
         {
           "prompt": "Choose the grammatically correct sentence:",
           "options": [
-            "She is never late for work. (23.1)",
-            "She never is late for work. (23.2)",
-            "She is late never for work. (23.3)",
-            "Never she is late for work. (23.4)"
+            "She is never late for work.",
+            "She never is late for work.",
+            "She is late never for work.",
+            "Never she is late for work."
           ],
           "answerIndex": 0,
           "explanation": "Subject + is + never + late (after 'to be')."
@@ -4464,10 +4464,10 @@
         {
           "prompt": "What is the famous nickname for London's underground subway system?",
           "options": [
-            "The Tube (24.1)",
-            "The 'L' (24.2)",
-            "The Tram (24.3)",
-            "The Metro (24.4)"
+            "The Tube",
+            "The 'L'",
+            "The Tram",
+            "The Metro"
           ],
           "answerIndex": 0,
           "explanation": "London's underground is famously called 'the Tube'."
@@ -4475,7 +4475,7 @@
         {
           "prompt": "Which verb form follows 'before' and 'after' when describing actions?",
           "options": [
-            "-ing form / Gerund (e.g. before leaving, after arriving)",
+            "-ing form / Gerund",
             "Base infinitive with 'to'",
             "Future will",
             "Past tense"
@@ -4490,10 +4490,10 @@
         {
           "prompt": "Translate: 'First we finish work, and after that we take the subway home.'",
           "options": [
-            "First we finish work, and after that we take the subway home. (24.1)",
-            "Subway we take after we work. (24.2)",
-            "Then we finish work, and first we take subway. (24.3)",
-            "We work finish before subway home. (24.4)"
+            "First we finish work, and after that we take the subway home.",
+            "Subway we take after we work.",
+            "Then we finish work, and first we take subway.",
+            "We work finish before subway home."
           ],
           "answerIndex": 0,
           "explanation": "First ... and after that we take the subway home."
@@ -4608,10 +4608,10 @@
         {
           "prompt": "In the dialogue, why does Emma wake up early on Mondays?",
           "options": [
-            "Because morning rush hour on the Northern Line subway is crazy. (25.1)",
-            "Because she has a flight to catch. (25.2)",
-            "Because her alarm broke. (25.3)",
-            "Because she works night shifts. (25.4)"
+            "Because morning rush hour on the Northern Line subway is crazy.",
+            "Because she has a flight to catch.",
+            "Because her alarm broke.",
+            "Because she works night shifts."
           ],
           "answerIndex": 0,
           "explanation": "Emma states: 'morning rush hour on the Northern Line is crazy!'"
@@ -4634,10 +4634,10 @@
         {
           "prompt": "Translate: 'First I have breakfast, then I take the train to work.'",
           "options": [
-            "Then I have breakfast, first I work train. (25.1)",
-            "First I have breakfast, then I take the train to work. (25.2)",
-            "I never have breakfast before train. (25.3)",
-            "After I have train, first I take breakfast. (25.4)"
+            "Then I have breakfast, first I work train.",
+            "First I have breakfast, then I take the train to work.",
+            "I never have breakfast before train.",
+            "After I have train, first I take breakfast."
           ],
           "answerIndex": 1,
           "explanation": "First ... then I take the train to work."
@@ -4753,10 +4753,10 @@
         {
           "prompt": "Which of the following nouns is UNCOUNTABLE in English?",
           "options": [
-            "banana (26.1)",
-            "egg (26.2)",
-            "sandwich (26.3)",
-            "rice (uncountable mass noun) (26.4)"
+            "banana",
+            "egg",
+            "sandwich",
+            "rice"
           ],
           "answerIndex": 3,
           "explanation": "rice is uncountable; we say 'a bowl of rice' or 'some rice'."
@@ -4766,7 +4766,7 @@
           "options": [
             "an",
             "a",
-            "any (used in negative sentences)",
+            "any",
             "some"
           ],
           "answerIndex": 2,
@@ -4779,10 +4779,10 @@
         {
           "prompt": "Translate: 'Can I please have a cup of black coffee and some sugar?'",
           "options": [
-            "Can I have a black coffee and a sugar? (26.1)",
-            "I want coffees and sugars please. (26.2)",
-            "Bring me any coffee and any sugar. (26.3)",
-            "Can I please have a cup of black coffee and some sugar? (26.4)"
+            "Can I have a black coffee and a sugar?",
+            "I want coffees and sugars please.",
+            "Bring me any coffee and any sugar.",
+            "Can I please have a cup of black coffee and some sugar?"
           ],
           "answerIndex": 3,
           "explanation": "a cup of black coffee (container) and some sugar (uncountable request)."
@@ -4898,10 +4898,10 @@
         {
           "prompt": "How do you politely order in an English restaurant?",
           "options": [
-            "I'd like the steak, please. (or Could I have the steak, please?) (27.1)",
-            "Steak is my order. (27.2)",
-            "I want steak immediately. (27.3)",
-            "Give me steak now. (27.4)"
+            "I'd like the steak, please.",
+            "Steak is my order.",
+            "I want steak immediately.",
+            "Give me steak now."
           ],
           "answerIndex": 0,
           "explanation": "'I'd like...' and 'Could I have...' are the polite standards."
@@ -4924,10 +4924,10 @@
         {
           "prompt": "Translate: 'Could we have two glasses of red wine and the menu, please?'",
           "options": [
-            "We want two wines and menu now. (27.1)",
-            "Give two red wine and menu to us. (27.2)",
-            "Could we have two glasses of red wine and the menu, please? (27.3)",
-            "Is there two red wine menu? (27.4)"
+            "We want two wines and menu now.",
+            "Give two red wine and menu to us.",
+            "Could we have two glasses of red wine and the menu, please?",
+            "Is there two red wine menu?"
           ],
           "answerIndex": 2,
           "explanation": "Could we have two glasses of red wine and the menu, please?"
@@ -5043,10 +5043,10 @@
         {
           "prompt": "Which preposition correctly pairs with 'allergic' in 'I am allergic _____ shellfish'?",
           "options": [
-            "with (28.1)",
-            "for (28.2)",
-            "at (28.3)",
-            "to (allergic to) (28.4)"
+            "with",
+            "for",
+            "at",
+            "to"
           ],
           "answerIndex": 3,
           "explanation": "allergic TO."
@@ -5069,10 +5069,10 @@
         {
           "prompt": "Choose the grammatically correct comparative sentence with 'prefer':",
           "options": [
-            "I prefer tea to coffee. (28.1)",
-            "I prefer tea than coffee. (28.2)",
-            "I prefer tea over to coffee. (28.3)",
-            "I prefer tea from coffee. (28.4)"
+            "I prefer tea to coffee.",
+            "I prefer tea than coffee.",
+            "I prefer tea over to coffee.",
+            "I prefer tea from coffee."
           ],
           "answerIndex": 0,
           "explanation": "prefer X to Y."
@@ -5096,7 +5096,7 @@
           "prompt": "What does 'VG' typically indicate on a modern restaurant menu?",
           "options": [
             "Vegetable Garnish",
-            "Vegan (contains no animal products whatsoever)",
+            "Vegan",
             "Vegetarian",
             "Very Good"
           ],
@@ -5107,7 +5107,7 @@
         {
           "prompt": "Translate: 'Is this soup dairy-free?'",
           "options": [
-            "Is this soup dairy-free? (Contains no milk, butter, or cream)",
+            "Is this soup dairy-free?",
             "Is this soup vegetarian?",
             "Is this soup free of cost?",
             "Is this soup made today?"
@@ -5188,10 +5188,10 @@
         {
           "prompt": "What does 'savory' (savoury) mean when describing food?",
           "options": [
-            "Very cold and icy (29.1)",
-            "Pleasantly rich, salty, and satisfying without being sweet (umami) (29.2)",
-            "Burnt (29.3)",
-            "Extremely sweet like candy (29.4)"
+            "Very cold and icy",
+            "Pleasantly rich, salty, and satisfying without being sweet",
+            "Burnt",
+            "Extremely sweet like candy"
           ],
           "answerIndex": 1,
           "explanation": "savory describes rich, savory, non-sweet foods."
@@ -5214,10 +5214,10 @@
         {
           "prompt": "Translate: 'The roasted chicken was flavorful and crispy on the outside.'",
           "options": [
-            "The roasted chicken was flavorful and crispy on the outside. (29.1)",
-            "The chicken is raw and bitter. (29.2)",
-            "The roasted chicken was cold and salty. (29.3)",
-            "We boiled the chicken in water. (29.4)"
+            "The roasted chicken was flavorful and crispy on the outside.",
+            "The chicken is raw and bitter.",
+            "The roasted chicken was cold and salty.",
+            "We boiled the chicken in water."
           ],
           "answerIndex": 0,
           "explanation": "roasted chicken = cooked in oven, crispy on the outside."
@@ -5240,8 +5240,8 @@
         {
           "prompt": "Match the cooking methods with their definitions: grilled, roasted, steamed, fried:",
           "options": [
-            "grilled (open fire), roasted (oven), steamed (vapor), fried (hot oil)",
-            "grilled (hot oil), roasted (water), steamed (open fire), fried (oven)",
+            "grilled (open fire), roasted (oven), steamed (vapor), fried",
+            "grilled (hot oil), roasted (water), steamed (open fire), fried",
             "all mean eaten raw",
             "all mean boiled in water"
           ],
@@ -5333,10 +5333,10 @@
         {
           "prompt": "In the dialogue, what dessert does the server suggest to Chloe and David?",
           "options": [
-            "Sticky toffee pudding (Classic British warm date sponge with toffee sauce) (30.1)",
-            "Apple pie with cheddar cheese (30.2)",
-            "Chocolate sundae (30.3)",
-            "Tiramisu (30.4)"
+            "Sticky toffee pudding",
+            "Apple pie with cheddar cheese",
+            "Chocolate sundae",
+            "Tiramisu"
           ],
           "answerIndex": 0,
           "explanation": "Liam offers sticky toffee pudding."
@@ -5359,10 +5359,10 @@
         {
           "prompt": "Translate: 'Could we split the bill between two cards, please?'",
           "options": [
-            "Do you take cash only? (30.1)",
-            "Could we split the bill between two cards, please? (30.2)",
-            "Where is the credit card machine? (30.3)",
-            "Can we have two bills for one card? (30.4)"
+            "Do you take cash only?",
+            "Could we split the bill between two cards, please?",
+            "Where is the credit card machine?",
+            "Can we have two bills for one card?"
           ],
           "answerIndex": 1,
           "explanation": "split the bill between two cards."
@@ -5399,7 +5399,7 @@
           "options": [
             "A sweet chocolate pudding",
             "A cold fruit salad",
-            "A savory baked batter popover served with roast beef and rich gravy (NOT a sweet dessert!)",
+            "A savory baked batter popover served with roast beef and rich gravy",
             "A spicy meatball"
           ],
           "answerIndex": 2,
@@ -5472,10 +5472,10 @@
         {
           "prompt": "Which of the following verbs is pronounced with an extra syllable /ɪd/ at the end?",
           "options": [
-            "walked (/wɔːkt/) (31.1)",
-            "played (/pleɪd/) (31.2)",
-            "watched (/wɒtʃt/) (31.3)",
-            "decided (/dɪˈsaɪdɪd/ — because 'decide' ends in a /d/ sound) (31.4)"
+            "walked",
+            "played",
+            "watched",
+            "decided"
           ],
           "answerIndex": 3,
           "explanation": "Decide ends in /d/, so decided adds the /ɪd/ syllable."
@@ -5485,7 +5485,7 @@
           "options": [
             "studeyed",
             "studid",
-            "studied (consonant + y changes to -ied)",
+            "studied",
             "studyed"
           ],
           "answerIndex": 2,
@@ -5498,10 +5498,10 @@
         {
           "prompt": "Identify the past simple pronunciation of 'stopped':",
           "options": [
-            "/stɒpɪd/ (two syllables) (31.1)",
-            "/stɒpd/ (31.2)",
-            "/stɒp/ (31.3)",
-            "/stɒpt/ (ending in a crisp /t/ sound) (31.4)"
+            "/stɒpɪd/",
+            "/stɒpd/",
+            "/stɒp/",
+            "/stɒpt/"
           ],
           "answerIndex": 3,
           "explanation": "Stop ends in voiceless /p/, so stopped ends in /t/."
@@ -5563,7 +5563,7 @@
             "stopied",
             "stoppt",
             "stoped",
-            "stopped (doubling final 'p' in CVC pattern)"
+            "stopped"
           ],
           "answerIndex": 3,
           "explanation": "CVC single-syllable verbs double the final consonant.",
@@ -5611,10 +5611,10 @@
         {
           "prompt": "What is the past simple of 'buy'?",
           "options": [
-            "bought (/bɔːt/) (32.1)",
-            "bote (32.2)",
-            "buyed (32.3)",
-            "brought (32.4)"
+            "bought",
+            "bote",
+            "buyed",
+            "brought"
           ],
           "answerIndex": 0,
           "explanation": "Buy -> bought (bring -> brought)."
@@ -5637,10 +5637,10 @@
         {
           "prompt": "Translate: 'I saw my old professor and we had a great conversation.'",
           "options": [
-            "I see my professor and have conversation. (32.1)",
-            "I seed my professor and haved conversation. (32.2)",
-            "I saw my old professor and we had a great conversation. (32.3)",
-            "I will see my professor. (32.4)"
+            "I see my professor and have conversation.",
+            "I seed my professor and haved conversation.",
+            "I saw my old professor and we had a great conversation.",
+            "I will see my professor."
           ],
           "answerIndex": 2,
           "explanation": "Saw (see) + had (have)."
@@ -5750,10 +5750,10 @@
         {
           "prompt": "Which sentence is grammatically correct?",
           "options": [
-            "She didn't visited the art gallery yesterday. (33.1)",
-            "She not visited the art gallery yesterday. (33.2)",
-            "She don't visited the art gallery yesterday. (33.3)",
-            "She didn't visit the art gallery yesterday. (didn't + base verb 'visit') (33.4)"
+            "She didn't visited the art gallery yesterday.",
+            "She not visited the art gallery yesterday.",
+            "She don't visited the art gallery yesterday.",
+            "She didn't visit the art gallery yesterday."
           ],
           "answerIndex": 3,
           "explanation": "didn't + base verb (visit)."
@@ -5776,10 +5776,10 @@
         {
           "prompt": "Correct the error in this sentence: 'Did you went to the British Museum?'",
           "options": [
-            "Did you go to the British Museum? (change 'went' to base verb 'go') (33.1)",
-            "Do you went to the British Museum? (33.2)",
-            "Did you gone to the British Museum? (33.3)",
-            "Were you go to the British Museum? (33.4)"
+            "Did you go to the British Museum?",
+            "Do you went to the British Museum?",
+            "Did you gone to the British Museum?",
+            "Were you go to the British Museum?"
           ],
           "answerIndex": 0,
           "explanation": "After 'did', use the base verb 'go'."
@@ -5890,10 +5890,10 @@
         {
           "prompt": "Which time expression is standard English for the previous evening?",
           "options": [
-            "Past night (34.1)",
-            "Last night (34.2)",
-            "Previous night morning (34.3)",
-            "Yesterday night (34.4)"
+            "Past night",
+            "Last night",
+            "Previous night morning",
+            "Yesterday night"
           ],
           "answerIndex": 1,
           "explanation": "Last night is the standard collocation in English."
@@ -5901,10 +5901,10 @@
         {
           "prompt": "Where does the word 'ago' go when indicating past duration?",
           "options": [
-            "AFTER the time phrase (e.g. 'three days ago', 'two years ago')",
+            "AFTER the time phrase",
             "Between the words",
             "At the start of every sentence",
-            "Before the time phrase (e.g. 'ago three days')"
+            "Before the time phrase"
           ],
           "answerIndex": 0,
           "explanation": "Ago is a postposition in English (time + ago)."
@@ -5916,10 +5916,10 @@
         {
           "prompt": "Translate: 'The other day I ran into my old university roommate in the subway.'",
           "options": [
-            "The other day I ran into my old university roommate in the subway. (34.1)",
-            "I will meet my roommate the other day. (34.2)",
-            "Another day I run with roommate in subway. (34.3)",
-            "Yesterday day I saw roommate. (34.4)"
+            "The other day I ran into my old university roommate in the subway.",
+            "I will meet my roommate the other day.",
+            "Another day I run with roommate in subway.",
+            "Yesterday day I saw roommate."
           ],
           "answerIndex": 0,
           "explanation": "'The other day' means a few days ago; 'run into' = meet unexpectedly."
@@ -6030,10 +6030,10 @@
         {
           "prompt": "What famous volcanic hill did Emma climb in Edinburgh on Sunday morning?",
           "options": [
-            "Arthur's Seat (35.1)",
-            "Mount Everest (35.2)",
-            "Ben Nevis (35.3)",
-            "Primrose Hill (35.4)"
+            "Arthur's Seat",
+            "Mount Everest",
+            "Ben Nevis",
+            "Primrose Hill"
           ],
           "answerIndex": 0,
           "explanation": "Arthur's Seat is Edinburgh's iconic ancient volcanic hill."
@@ -6041,7 +6041,7 @@
         {
           "prompt": "What traditional Scottish side dishes are called 'neeps and tatties'?",
           "options": [
-            "Mashed swede/turnip (neeps) and mashed potatoes (tatties)",
+            "Mashed swede/turnip (neeps) and mashed potatoes",
             "Carrots and peas",
             "Rice and beans",
             "Salad and chips"
@@ -6056,10 +6056,10 @@
         {
           "prompt": "How did Emma and her travel partner travel from London to Edinburgh?",
           "options": [
-            "They flew by helicopter. (35.1)",
-            "They took the train from King's Cross station along the coast. (35.2)",
-            "They rode bicycles. (35.3)",
-            "They drove a rental car. (35.4)"
+            "They flew by helicopter.",
+            "They took the train from King's Cross station along the coast.",
+            "They rode bicycles.",
+            "They drove a rental car."
           ],
           "answerIndex": 1,
           "explanation": "'We took the morning train from King's Cross on Friday.'"
@@ -6169,10 +6169,10 @@
         {
           "prompt": "What is the British English word for 'sneakers'?",
           "options": [
-            "jumpers (36.1)",
-            "trousers (36.2)",
-            "jackets (36.3)",
-            "trainers (36.4)"
+            "jumpers",
+            "trousers",
+            "jackets",
+            "trainers"
           ],
           "answerIndex": 3,
           "explanation": "In UK English, athletic sneakers are called 'trainers'."
@@ -6183,7 +6183,7 @@
             "a silk blue long beautiful dress",
             "a blue beautiful silk long dress",
             "a long dress beautiful blue silk",
-            "a beautiful long blue silk dress (Opinion -> Size -> Color -> Material)"
+            "a beautiful long blue silk dress"
           ],
           "answerIndex": 3,
           "explanation": "Opinion (beautiful) -> Size (long) -> Color (blue) -> Material (silk) + Noun (dress)."
@@ -6195,10 +6195,10 @@
         {
           "prompt": "Translate: 'He was wearing a warm woollen coat and dark sunglasses.'",
           "options": [
-            "He was selling winter coats and glasses. (36.1)",
-            "He bought a red cotton T-shirt. (36.2)",
-            "The sunglasses were broken in his coat pocket. (36.3)",
-            "He was wearing a warm woollen coat and dark sunglasses. (36.4)"
+            "He was selling winter coats and glasses.",
+            "He bought a red cotton T-shirt.",
+            "The sunglasses were broken in his coat pocket.",
+            "He was wearing a warm woollen coat and dark sunglasses."
           ],
           "answerIndex": 3,
           "explanation": "woollen coat = wool coat; dark sunglasses = dark tinted glasses."
@@ -6233,7 +6233,7 @@
         {
           "prompt": "Identify the correct adjective order: 'He bought a _______ jacket.'",
           "options": [
-            "gorgeous black leather (Opinion -> Color -> Material)",
+            "gorgeous black leather",
             "black gorgeous leather",
             "leather gorgeous black",
             "leather black gorgeous"
@@ -6309,10 +6309,10 @@
         {
           "prompt": "What is the difference between 'It fits you' and 'It suits you'?",
           "options": [
-            "'It fits you' refers to the correct physical size and measurement; 'It suits you' means it looks flattering and stylish on your appearance. (37.1)",
-            "There is no difference. (37.2)",
-            "'It suits you' is only for business suits. (37.3)",
-            "'It fits you' is an insult. (37.4)"
+            "'It fits you' refers to the correct physical size and measurement; 'It suits you' means it looks flattering and stylish on your appearance.",
+            "There is no difference.",
+            "'It suits you' is only for business suits.",
+            "'It fits you' is an insult."
           ],
           "answerIndex": 0,
           "explanation": "Fit = size/dimensions; Suit = aesthetic flattering appearance."
@@ -6320,10 +6320,10 @@
         {
           "prompt": "How do you correctly ask to try on a pair of jeans with a pronoun?",
           "options": [
-            "Can I try them on? (pronoun 'them' placed between verb and particle)",
+            "Can I try them on?",
             "Can I try on them?",
             "Can I trying on?",
-            "Can I try it on? (jeans are plural)"
+            "Can I try it on?"
           ],
           "answerIndex": 0,
           "explanation": "Separable phrasal verb with plural object pronoun: try them on."
@@ -6335,10 +6335,10 @@
         {
           "prompt": "Translate: 'The jacket is too tight around the shoulders. Do you have a size large?'",
           "options": [
-            "The jacket is too loose on my arms. (37.1)",
-            "The jacket is too tight around the shoulders. Do you have a size large? (37.2)",
-            "How much is the size large jacket? (37.3)",
-            "I want to return the jacket. (37.4)"
+            "The jacket is too loose on my arms.",
+            "The jacket is too tight around the shoulders. Do you have a size large?",
+            "How much is the size large jacket?",
+            "I want to return the jacket."
           ],
           "answerIndex": 1,
           "explanation": "too tight around the shoulders = tight fit; size large = size L."
@@ -6449,10 +6449,10 @@
         {
           "prompt": "Which quantifier is used with the uncountable noun 'money'?",
           "options": [
-            "many (38.1)",
-            "a few (38.2)",
-            "too many (38.3)",
-            "much / a little / too much (e.g. 'I don't have much money') (38.4)"
+            "many",
+            "a few",
+            "too many",
+            "much / a little / too much"
           ],
           "answerIndex": 3,
           "explanation": "'Money' is an uncountable noun, requiring much/little/too much."
@@ -6475,10 +6475,10 @@
         {
           "prompt": "Translate: 'There are too many people in this shop, but there are a few nice dresses.'",
           "options": [
-            "There are too many people in this shop, but there are a few nice dresses. (38.1)",
-            "There is too much money in the shop. (38.2)",
-            "The dresses are too cheap. (38.3)",
-            "Nobody is in the shop today. (38.4)"
+            "There are too many people in this shop, but there are a few nice dresses.",
+            "There is too much money in the shop.",
+            "The dresses are too cheap.",
+            "Nobody is in the shop today."
           ],
           "answerIndex": 0,
           "explanation": "too many people (countable plural); a few nice dresses (small positive number)."
@@ -6589,10 +6589,10 @@
         {
           "prompt": "What is the comparative form of 'expensive'?",
           "options": [
-            "more expensiver (39.1)",
-            "more expensive than (3 syllables: ex-pen-sive) (39.2)",
-            "most expensive (39.3)",
-            "expensiver than (39.4)"
+            "more expensiver",
+            "more expensive than",
+            "most expensive",
+            "expensiver than"
           ],
           "answerIndex": 1,
           "explanation": "Multi-syllable adjectives take 'more + adjective + than'."
@@ -6600,7 +6600,7 @@
         {
           "prompt": "How do you say 'This shop is better than that one' in correct English?",
           "options": [
-            "This shop is better than that one. (irregular comparative 'better')",
+            "This shop is better than that one.",
             "This shop is more better than that one.",
             "This shop is gooder than that one.",
             "This shop is more good than that one."
@@ -6615,10 +6615,10 @@
         {
           "prompt": "Translate: 'These boots are the most comfortable pair I have ever worn.'",
           "options": [
-            "These boots are the most comfortable pair I have ever worn. (39.1)",
-            "These boots are very heavy. (39.2)",
-            "These boots are more comfortable than shoes. (39.3)",
-            "I want to buy comfortable boots. (39.4)"
+            "These boots are the most comfortable pair I have ever worn.",
+            "These boots are very heavy.",
+            "These boots are more comfortable than shoes.",
+            "I want to buy comfortable boots."
           ],
           "answerIndex": 0,
           "explanation": "the most comfortable = superlative form for long adjective."
@@ -6729,10 +6729,10 @@
         {
           "prompt": "What does a customer mean when answering a store assistant with 'Just browsing, thanks'?",
           "options": [
-            "I am just looking around casually and do not need immediate assistance yet. (40.1)",
-            "I want to buy everything immediately. (40.2)",
-            "I cannot speak English. (40.3)",
-            "The store is closed. (40.4)"
+            "I am just looking around casually and do not need immediate assistance yet.",
+            "I want to buy everything immediately.",
+            "I cannot speak English.",
+            "The store is closed."
           ],
           "answerIndex": 0,
           "explanation": "'Just browsing' is the standard polite phrase for looking around without pressure."
@@ -6755,10 +6755,10 @@
         {
           "prompt": "What was the final total Oliver paid for both the overcoat and the jumper?",
           "options": [
-            "£100 (40.1)",
-            "£220 (two hundred and twenty pounds — £160 overcoat + £60 jumper) (40.2)",
-            "£350 (40.3)",
-            "£500 (40.4)"
+            "£100",
+            "£220",
+            "£350",
+            "£500"
           ],
           "answerIndex": 1,
           "explanation": "£160 + £60 = £220 in total."
@@ -6819,7 +6819,7 @@
           "options": [
             "Rough polyester",
             "Heavy leather",
-            "Merino wool (soft, premium natural wool fiber)",
+            "Merino wool",
             "Pure plastic"
           ],
           "answerIndex": 2,
@@ -6869,10 +6869,10 @@
         {
           "prompt": "How do you say that you travel using your feet in English?",
           "options": [
-            "I travel by foot. (41.1)",
-            "I travel with foot. (41.2)",
-            "I travel in foot. (41.3)",
-            "I travel on foot. (preposition 'on' + foot) (41.4)"
+            "I travel by foot.",
+            "I travel with foot.",
+            "I travel in foot.",
+            "I travel on foot."
           ],
           "answerIndex": 3,
           "explanation": "'On foot' is the correct standard English idiom for walking."
@@ -6895,10 +6895,10 @@
         {
           "prompt": "Translate: 'Tap your contactless debit card or Oyster card at the yellow reader on the fare gates.'",
           "options": [
-            "Buy a paper ticket from the driver. (41.1)",
-            "The fare gates are closed for repair. (41.2)",
-            "You cannot use debit cards on the Tube. (41.3)",
-            "Tap your contactless debit card or Oyster card at the yellow reader on the fare gates. (41.4)"
+            "Buy a paper ticket from the driver.",
+            "The fare gates are closed for repair.",
+            "You cannot use debit cards on the Tube.",
+            "Tap your contactless debit card or Oyster card at the yellow reader on the fare gates."
           ],
           "answerIndex": 3,
           "explanation": "contactless debit card = payment card; yellow reader = card scanner; fare gates = barrier gates."
@@ -7009,10 +7009,10 @@
         {
           "prompt": "Which preposition means 'facing on the other side of the street'?",
           "options": [
-            "opposite / across from (e.g. opposite the town hall) (42.1)",
-            "between (42.2)",
-            "behind (42.3)",
-            "under (42.4)"
+            "opposite / across from",
+            "between",
+            "behind",
+            "under"
           ],
           "answerIndex": 0,
           "explanation": "Opposite (UK) / across from (US) means on the other side of a road or space."
@@ -7035,10 +7035,10 @@
         {
           "prompt": "Translate: 'The Italian restaurant is located behind the theater and in front of the public garden.'",
           "options": [
-            "The Italian restaurant is far from the public garden. (42.1)",
-            "The Italian restaurant is located behind the theater and in front of the public garden. (42.2)",
-            "The theater is inside the Italian restaurant. (42.3)",
-            "Where is the public garden and theater? (42.4)"
+            "The Italian restaurant is far from the public garden.",
+            "The Italian restaurant is located behind the theater and in front of the public garden.",
+            "The theater is inside the Italian restaurant.",
+            "Where is the public garden and theater?"
           ],
           "answerIndex": 1,
           "explanation": "behind the theater = at the rear; in front of the garden = ahead of the garden."
@@ -7149,10 +7149,10 @@
         {
           "prompt": "How do you instruct someone to continue forward without turning?",
           "options": [
-            "Turn around immediately. (43.1)",
-            "Turn left and stop. (43.2)",
-            "Go straight ahead. (or Go straight on) (43.3)",
-            "Cross the river. (43.4)"
+            "Turn around immediately.",
+            "Turn left and stop.",
+            "Go straight ahead.",
+            "Cross the river."
           ],
           "answerIndex": 2,
           "explanation": "'Go straight ahead / on' means continue moving forward in the same line."
@@ -7175,10 +7175,10 @@
         {
           "prompt": "Translate: 'Walk past the library, cross at the pedestrian crossing, and the hotel will be on your left-hand side.'",
           "options": [
-            "Walk past the library, cross at the pedestrian crossing, and the hotel will be on your left-hand side. (43.1)",
-            "Enter the library and stay on the right. (43.2)",
-            "Do not cross the pedestrian crossing. (43.3)",
-            "The library is closed next to the hotel. (43.4)"
+            "Walk past the library, cross at the pedestrian crossing, and the hotel will be on your left-hand side.",
+            "Enter the library and stay on the right.",
+            "Do not cross the pedestrian crossing.",
+            "The library is closed next to the hotel."
           ],
           "answerIndex": 0,
           "explanation": "walk past = pass by; pedestrian crossing = crosswalk; left-hand side = on left."
@@ -7289,10 +7289,10 @@
         {
           "prompt": "Which phrase is the most polite and natural way to ask a stranger for directions in English?",
           "options": [
-            "Where museum? (44.1)",
-            "Excuse me, could you tell me how to get to the museum? (44.2)",
-            "You must direct me to the museum. (44.3)",
-            "Tell me where the museum is now. (44.4)"
+            "Where museum?",
+            "Excuse me, could you tell me how to get to the museum?",
+            "You must direct me to the museum.",
+            "Tell me where the museum is now."
           ],
           "answerIndex": 1,
           "explanation": "'Excuse me, could you tell me how to get to...' is polite and standard."
@@ -7300,7 +7300,7 @@
         {
           "prompt": "Which preposition expresses moving inside an enclosed green space: 'We walked _______ the park'?",
           "options": [
-            "through (motion inside and across a 3D space)",
+            "through",
             "at",
             "over",
             "on"
@@ -7315,10 +7315,10 @@
         {
           "prompt": "Translate: 'Walk along the river embankment until you see the Millennium Bridge.'",
           "options": [
-            "Walk along the river embankment until you see the Millennium Bridge. (44.1)",
-            "Do not walk near the river. (44.2)",
-            "Cross the river before the Millennium Bridge. (44.3)",
-            "The Millennium Bridge has no river embankment. (44.4)"
+            "Walk along the river embankment until you see the Millennium Bridge.",
+            "Do not walk near the river.",
+            "Cross the river before the Millennium Bridge.",
+            "The Millennium Bridge has no river embankment."
           ],
           "answerIndex": 0,
           "explanation": "walk along = follow length of path; until you see = up to the point of seeing."
@@ -7429,10 +7429,10 @@
         {
           "prompt": "Which Tube line did the station assistant instruct Liam to board from King's Cross to Russell Square?",
           "options": [
-            "The Piccadilly Line (dark blue line — two stops to Russell Square) (45.1)",
-            "The Victoria Line (45.2)",
-            "The Central Line (45.3)",
-            "The Bakerloo Line (45.4)"
+            "The Piccadilly Line",
+            "The Victoria Line",
+            "The Central Line",
+            "The Bakerloo Line"
           ],
           "answerIndex": 0,
           "explanation": "The Piccadilly Line runs directly between King's Cross and Russell Square."
@@ -7440,7 +7440,7 @@
         {
           "prompt": "What famous historical artifact did Oliver encourage Liam to see at the British Museum?",
           "options": [
-            "The Rosetta Stone (and the Parthenon sculptures)",
+            "The Rosetta Stone",
             "The Mona Lisa",
             "The Crown Jewels",
             "The Eiffel Tower"
@@ -7455,10 +7455,10 @@
         {
           "prompt": "How many subway stops is Russell Square from King's Cross St. Pancras on the Piccadilly Line?",
           "options": [
-            "1 stop (45.1)",
-            "2 stops (King's Cross -> Russell Square) (45.2)",
-            "5 stops (45.3)",
-            "10 stops (45.4)"
+            "1 stop",
+            "2 stops",
+            "5 stops",
+            "10 stops"
           ],
           "answerIndex": 1,
           "explanation": "Sarah confirmed: 'Get off at Russell Square station — it's only two stops from here!'"
@@ -7564,10 +7564,10 @@
         {
           "prompt": "Which room is specifically designed for sleeping and storing clothes?",
           "options": [
-            "The kitchen (46.1)",
-            "The hallway (46.2)",
-            "The garage (46.3)",
-            "The bedroom (46.4)"
+            "The kitchen",
+            "The hallway",
+            "The garage",
+            "The bedroom"
           ],
           "answerIndex": 3,
           "explanation": "The bedroom is where people sleep and keep their wardrobe."
@@ -7590,10 +7590,10 @@
         {
           "prompt": "Choose the correct sentence describing furniture placement:",
           "options": [
-            "The sofa is inside the refrigerator. (46.1)",
-            "The bed is on top of the chimney. (46.2)",
-            "The wardrobe is under the carpet. (46.3)",
-            "The refrigerator is in the kitchen next to the stove. (46.4)"
+            "The sofa is inside the refrigerator.",
+            "The bed is on top of the chimney.",
+            "The wardrobe is under the carpet.",
+            "The refrigerator is in the kitchen next to the stove."
           ],
           "answerIndex": 3,
           "explanation": "Logical kitchen appliance placement."
@@ -7641,7 +7641,7 @@
           "prompt": "Why is using accurate prepositions of place ('in front of', 'next to', 'opposite') important when describing a home?",
           "options": [
             "It makes sentences longer only",
-            "It gives the listener a clear, spatial mental map of the room's layout (#ScienceOfLearning)",
+            "It gives the listener a clear, spatial mental map of the room's layout",
             "It replaces adjectives",
             "It is required by grammar police"
           ],
@@ -7699,10 +7699,10 @@
         {
           "prompt": "Which verb correctly collocates with 'the bed' when arranging sheets in the morning?",
           "options": [
-            "Make (Make the bed) (47.1)",
-            "Open (47.2)",
-            "Do (47.3)",
-            "Write (47.4)"
+            "Make",
+            "Open",
+            "Do",
+            "Write"
           ],
           "answerIndex": 0,
           "explanation": "'Make the bed' is the correct fixed collocation in English."
@@ -7725,10 +7725,10 @@
         {
           "prompt": "Complete the sentence: 'After dinner, I always load the dishwasher and _______ the dishes.'",
           "options": [
-            "make (47.1)",
-            "do (or wash) (47.2)",
-            "create (47.3)",
-            "play (47.4)"
+            "make",
+            "do",
+            "create",
+            "play"
           ],
           "answerIndex": 1,
           "explanation": "'Do the dishes' is the correct collocation."
@@ -7764,7 +7764,7 @@
           "prompt": "What is a 'cleaning rota' in a shared flat?",
           "options": [
             "A brand of soap",
-            "A weekly schedule dividing cleaning tasks equally among flatmates (#ScienceOfLearning)",
+            "A weekly schedule dividing cleaning tasks equally among flatmates",
             "A fine for being late",
             "A type of vacuum cleaner"
           ],
@@ -7834,10 +7834,10 @@
         {
           "prompt": "What is the correct Present Continuous form of the verb 'to mop' for the subject 'he'?",
           "options": [
-            "He is moping (48.1)",
-            "He mopping (48.2)",
-            "He is mopping (with double 'p') (48.3)",
-            "He does mopping (48.4)"
+            "He is moping",
+            "He mopping",
+            "He is mopping",
+            "He does mopping"
           ],
           "answerIndex": 2,
           "explanation": "CVC verb mop doubles the 'p': He is mopping."
@@ -7848,7 +7848,7 @@
             "For events that happened 100 years ago",
             "For permanent scientific facts exclusively",
             "For commands",
-            "For actions happening right now at the moment of speaking or temporary ongoing situations (#ScienceOfLearning)"
+            "For actions happening right now at the moment of speaking or temporary ongoing situations"
           ],
           "answerIndex": 3,
           "explanation": "Present Continuous describes actions in progress now or temporary situations."
@@ -7860,10 +7860,10 @@
         {
           "prompt": "Choose the grammatically correct sentence:",
           "options": [
-            "We are cleaning the whole flat today because guests are coming tonight. (48.1)",
-            "We cleaning the flat today. (48.2)",
-            "We does cleaning the flat today. (48.3)",
-            "We is clean the flat today. (48.4)"
+            "We are cleaning the whole flat today because guests are coming tonight.",
+            "We cleaning the flat today.",
+            "We does cleaning the flat today.",
+            "We is clean the flat today."
           ],
           "answerIndex": 0,
           "explanation": "We are cleaning + guests are coming."
@@ -7969,10 +7969,10 @@
         {
           "prompt": "Which sentence correctly contrasts a regular routine with an action happening right now?",
           "options": [
-            "I drink tea right now, but usually I am drinking coffee. (49.1)",
-            "I usually drink tea in the morning, but right now I am drinking coffee. (49.2)",
-            "I drinking tea always. (49.3)",
-            "I am usually drinking tea, but right now I drink coffee. (49.4)"
+            "I drink tea right now, but usually I am drinking coffee.",
+            "I usually drink tea in the morning, but right now I am drinking coffee.",
+            "I drinking tea always.",
+            "I am usually drinking tea, but right now I drink coffee."
           ],
           "answerIndex": 1,
           "explanation": "Usually + Present Simple (drink); Right now + Present Continuous (am drinking)."
@@ -7980,7 +7980,7 @@
         {
           "prompt": "Why is the sentence 'I am knowing where you live' incorrect in standard English?",
           "options": [
-            "Because 'know' is a stative verb expressing a mental state and is not used in the continuous -ing form (#ScienceOfLearning)",
+            "Because 'know' is a stative verb expressing a mental state and is not used in the continuous -ing form",
             "Because 'I' cannot know things",
             "Because it is missing an adjective",
             "Because 'live' is wrong"
@@ -7995,10 +7995,10 @@
         {
           "prompt": "Complete: 'Listen! Somebody _______ (knock) on the front door.'",
           "options": [
-            "is knocking (happening right now) (49.1)",
-            "will knock tomorrow (49.2)",
-            "knocks (49.3)",
-            "knocked yesterday (49.4)"
+            "is knocking",
+            "will knock tomorrow",
+            "knocks",
+            "knocked yesterday"
           ],
           "answerIndex": 0,
           "explanation": "'Listen!' signals an action happening at the current moment: is knocking."
@@ -8006,7 +8006,7 @@
         {
           "prompt": "Which of the following verbs is a stative verb that stays in the Present Simple?",
           "options": [
-            "Belong (e.g. This key belongs to the front door)",
+            "Belong",
             "Wash",
             "Run",
             "Clean"
@@ -8058,7 +8058,7 @@
           "prompt": "Complete: 'My brother _______ (prefer) quiet rural houses to busy city apartments.'",
           "options": [
             "is preferring",
-            "prefers (stative verb of preference)",
+            "prefers",
             "are prefer",
             "preferring"
           ],
@@ -8104,10 +8104,10 @@
         {
           "prompt": "In the synthesis text, what is happening in the kitchen right now at the moment of speaking?",
           "options": [
-            "The flatmate is baking fresh cookies in the oven (50.1)",
-            "Someone is sleeping on the floor (50.2)",
-            "The kitchen is on fire (50.3)",
-            "Nobody is in the kitchen (50.4)"
+            "The flatmate is baking fresh cookies in the oven",
+            "Someone is sleeping on the floor",
+            "The kitchen is on fire",
+            "Nobody is in the kitchen"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'Right now, she is baking fresh cookies in the oven'."
@@ -8130,10 +8130,10 @@
         {
           "prompt": "Translate: 'I usually clean on Saturdays, but today I am relaxing in the garden.'",
           "options": [
-            "I cleaned tomorrow and I will relax yesterday. (50.1)",
-            "I usually clean on Saturdays, but today I am relaxing in the garden. (50.2)",
-            "I clean never and I relaxing. (50.3)",
-            "I am cleaning always, but today I relax. (50.4)"
+            "I cleaned tomorrow and I will relax yesterday.",
+            "I usually clean on Saturdays, but today I am relaxing in the garden.",
+            "I clean never and I relaxing.",
+            "I am cleaning always, but today I relax."
           ],
           "answerIndex": 1,
           "explanation": "Accurate contrast between habitual Present Simple and temporary Present Continuous."
@@ -8142,7 +8142,7 @@
           "prompt": "What does a 'two-bedroom flat' mean?",
           "options": [
             "A house with two floors",
-            "An apartment that contains two separate bedrooms (in addition to a living room, kitchen, and bathroom)",
+            "An apartment that contains two separate bedrooms",
             "A hotel room with two pillows",
             "An apartment with only two beds and no rooms"
           ],
@@ -8181,7 +8181,7 @@
           "prompt": "Why is the ability to contrast Present Simple with Present Continuous crucial for reaching A2/B1 proficiency in English?",
           "options": [
             "It removes the need for adjectives",
-            "It allows the speaker to differentiate between permanent truths/routines and temporary current actions with native-level grammatical nuance (#ScienceOfLearning)",
+            "It allows the speaker to differentiate between permanent truths/routines and temporary current actions with native-level grammatical nuance",
             "It is only used in poetry",
             "It has no communicative value"
           ],
@@ -8192,7 +8192,7 @@
         {
           "prompt": "Complete: 'My parents _______ (own) a charming cottage in the countryside where we spend our summer holidays.'",
           "options": [
-            "own (stative verb of possession in Present Simple)",
+            "own",
             "owning",
             "are owning",
             "is own"
@@ -8237,10 +8237,10 @@
         {
           "prompt": "Which anatomical joint connects the upper leg (thigh) to the lower leg (shin)?",
           "options": [
-            "The Wrist (51.1)",
-            "The Elbow (51.2)",
-            "The Shoulder (51.3)",
-            "The Knee (51.4)"
+            "The Wrist",
+            "The Elbow",
+            "The Shoulder",
+            "The Knee"
           ],
           "answerIndex": 3,
           "explanation": "The knee joint connects thigh and shin."
@@ -8252,10 +8252,10 @@
         {
           "prompt": "Identify the plural of \"foot\" in English:",
           "options": [
-            "Foots (51.1)",
-            "Feets (51.2)",
-            "Footes (51.3)",
-            "Feet (irregular plural) (51.4)"
+            "Foots",
+            "Feets",
+            "Footes",
+            "Feet"
           ],
           "answerIndex": 3,
           "explanation": "Foot has the irregular plural feet."
@@ -8319,10 +8319,10 @@
         {
           "prompt": "What does the common idiom \"to feel under the weather\" mean?",
           "options": [
-            "To feel slightly unwell or sick (52.1)",
-            "To be very wealthy (52.2)",
-            "To stand in the rain (52.3)",
-            "To look at a weather forecast (52.4)"
+            "To feel slightly unwell or sick",
+            "To be very wealthy",
+            "To stand in the rain",
+            "To look at a weather forecast"
           ],
           "answerIndex": 0,
           "explanation": "Under the weather means feeling sick."
@@ -8334,10 +8334,10 @@
         {
           "prompt": "What is the appropriate phrase to write to a sick colleague?",
           "options": [
-            "Wishing you a speedy recovery! / Get well soon! (52.1)",
-            "Happy New Year! (52.2)",
-            "Bon appétit! (52.3)",
-            "Congratulations on your promotion! (52.4)"
+            "Wishing you a speedy recovery! / Get well soon!",
+            "Happy New Year!",
+            "Bon appétit!",
+            "Congratulations on your promotion!"
           ],
           "answerIndex": 0,
           "explanation": "Wishing you a speedy recovery expresses empathy for illness."
@@ -8401,10 +8401,10 @@
         {
           "prompt": "What does \"do not exceed the stated dose\" mean on a medicine bottle?",
           "options": [
-            "Take as many pills as you want (53.1)",
-            "Throw the medicine away immediately (53.2)",
-            "Never take more pills than the instructions specify (53.3)",
-            "Drink it all at once (53.4)"
+            "Take as many pills as you want",
+            "Throw the medicine away immediately",
+            "Never take more pills than the instructions specify",
+            "Drink it all at once"
           ],
           "answerIndex": 2,
           "explanation": "Exceeding the stated dose can lead to dangerous toxicity."
@@ -8416,10 +8416,10 @@
         {
           "prompt": "What is a \"lozenge\"?",
           "options": [
-            "A medicated tablet designed to dissolve slowly in the mouth to soothe a sore throat (53.1)",
-            "A type of bandage (53.2)",
-            "A wheelchair (53.3)",
-            "A surgical tool (53.4)"
+            "A medicated tablet designed to dissolve slowly in the mouth to soothe a sore throat",
+            "A type of bandage",
+            "A wheelchair",
+            "A surgical tool"
           ],
           "answerIndex": 0,
           "explanation": "A lozenge is a throat drop that dissolves slowly."
@@ -8483,10 +8483,10 @@
         {
           "prompt": "Complete the famous English health proverb: \"An apple a day keeps the ______ away.\"",
           "options": [
-            "mechanic (54.1)",
-            "doctor (54.2)",
-            "pilot (54.3)",
-            "teacher (54.4)"
+            "mechanic",
+            "doctor",
+            "pilot",
+            "teacher"
           ],
           "answerIndex": 1,
           "explanation": "An apple a day keeps the doctor away."
@@ -8498,10 +8498,10 @@
         {
           "prompt": "What is \"sleep hygiene\"?",
           "options": [
-            "A set of behavioral habits and environmental factors that promote consistent, uninterrupted sleep (54.1)",
-            "Waking up every hour (54.2)",
-            "Washing your bedsheets with bleach (54.3)",
-            "Sleeping in a swimming pool (54.4)"
+            "A set of behavioral habits and environmental factors that promote consistent, uninterrupted sleep",
+            "Waking up every hour",
+            "Washing your bedsheets with bleach",
+            "Sleeping in a swimming pool"
           ],
           "answerIndex": 0,
           "explanation": "Sleep hygiene optimizes sleep quality and duration."
@@ -8565,10 +8565,10 @@
         {
           "prompt": "What is a \"General Practitioner\" (GP)?",
           "options": [
-            "A primary care doctor who provides comprehensive medical care for common illnesses (55.1)",
-            "A surgeon who only operates on brains (55.2)",
-            "A hospital pharmacist (55.3)",
-            "A paramedic driver (55.4)"
+            "A primary care doctor who provides comprehensive medical care for common illnesses",
+            "A surgeon who only operates on brains",
+            "A hospital pharmacist",
+            "A paramedic driver"
           ],
           "answerIndex": 0,
           "explanation": "A GP is a primary care physician."
@@ -8580,10 +8580,10 @@
         {
           "prompt": "What does the doctor mean when instructing: \"Inhale deeply through your mouth and exhale slowly\"?",
           "options": [
-            "Close your eyes and stand on one leg (55.1)",
-            "Breathe in deeply and breathe out slowly for stethoscope chest auscultation (55.2)",
-            "Run in circles (55.3)",
-            "Drink a glass of water (55.4)"
+            "Close your eyes and stand on one leg",
+            "Breathe in deeply and breathe out slowly for stethoscope chest auscultation",
+            "Run in circles",
+            "Drink a glass of water"
           ],
           "answerIndex": 1,
           "explanation": "Standard clinical breathing instruction for stethoscope lung exam."
@@ -8647,10 +8647,10 @@
         {
           "prompt": "Which phrase correctly states your profession in English?",
           "options": [
-            "I work software engineer (56.1)",
-            "I am software engineer job (56.2)",
-            "I have engineer (56.3)",
-            "I work as a software engineer (56.4)"
+            "I work software engineer",
+            "I am software engineer job",
+            "I have engineer",
+            "I work as a software engineer"
           ],
           "answerIndex": 3,
           "explanation": "I work as a software engineer is grammatically accurate."
@@ -8662,10 +8662,10 @@
         {
           "prompt": "What is the role of a \"Product Manager\"?",
           "options": [
-            "To repair office printers only (56.1)",
-            "To sweep the floor (56.2)",
-            "To drive the company bus (56.3)",
-            "To define the product vision, roadmap, and collaborate with engineering and design (56.4)"
+            "To repair office printers only",
+            "To sweep the floor",
+            "To drive the company bus",
+            "To define the product vision, roadmap, and collaborate with engineering and design"
           ],
           "answerIndex": 3,
           "explanation": "Product Manager role."
@@ -8729,10 +8729,10 @@
         {
           "prompt": "What is a \"daily stand-up\" meeting in agile workflow?",
           "options": [
-            "A brief daily meeting where team members share updates, plans, and blockers (57.1)",
-            "A long 3-hour lecture (57.2)",
-            "A comedy performance (57.3)",
-            "Standing on a chair for an hour (57.4)"
+            "A brief daily meeting where team members share updates, plans, and blockers",
+            "A long 3-hour lecture",
+            "A comedy performance",
+            "Standing on a chair for an hour"
           ],
           "answerIndex": 0,
           "explanation": "Daily standup meeting."
@@ -8744,10 +8744,10 @@
         {
           "prompt": "What does \"WFH\" mean?",
           "options": [
-            "Work From Home (Remote work) (57.1)",
-            "Wait For Hours (57.2)",
-            "Walk Fast Home (57.3)",
-            "Write Final Homework (57.4)"
+            "Work From Home",
+            "Wait For Hours",
+            "Walk Fast Home",
+            "Write Final Homework"
           ],
           "answerIndex": 0,
           "explanation": "Work From Home."
@@ -8811,10 +8811,10 @@
         {
           "prompt": "What should you say to a colleague whose microphone is turned off on Zoom?",
           "options": [
-            "You don't have a mouth. (58.1)",
-            "Turn off your computer. (58.2)",
-            "You're on mute! Please unmute yourself. (58.3)",
-            "Close the door. (58.4)"
+            "You don't have a mouth.",
+            "Turn off your computer.",
+            "You're on mute! Please unmute yourself.",
+            "Close the door."
           ],
           "answerIndex": 2,
           "explanation": "You're on mute is standard."
@@ -8826,10 +8826,10 @@
         {
           "prompt": "What is \"two-factor authentication\" (2FA)?",
           "options": [
-            "A security process where a user provides two different authentication factors to verify identity (58.1)",
-            "Typing two words at once (58.2)",
-            "Having two laptops (58.3)",
-            "Using two mice simultaneously (58.4)"
+            "A security process where a user provides two different authentication factors to verify identity",
+            "Typing two words at once",
+            "Having two laptops",
+            "Using two mice simultaneously"
           ],
           "answerIndex": 0,
           "explanation": "2FA security verification."
@@ -8893,10 +8893,10 @@
         {
           "prompt": "What does \"EOD\" stand for in business emails?",
           "options": [
-            "Early On Departure (59.1)",
-            "End Of Day (e.g. 5:00 PM target deadline) (59.2)",
-            "End Of December (59.3)",
-            "Every Other Day (59.4)"
+            "Early On Departure",
+            "End Of Day",
+            "End Of December",
+            "Every Other Day"
           ],
           "answerIndex": 1,
           "explanation": "End Of Day deadline."
@@ -8908,10 +8908,10 @@
         {
           "prompt": "What is a universally recognized professional closing for business emails?",
           "options": [
-            "Best regards, / Kind regards, (59.1)",
-            "Whatever bye (59.2)",
-            "See ya later buddy (59.3)",
-            "Peace out (59.4)"
+            "Best regards, / Kind regards,",
+            "Whatever bye",
+            "See ya later buddy",
+            "Peace out"
           ],
           "answerIndex": 0,
           "explanation": "Best regards / Kind regards."
@@ -8975,10 +8975,10 @@
         {
           "prompt": "What does the \"STAR\" interview technique stand for?",
           "options": [
-            "Situation, Task, Action, Result (60.1)",
-            "Stop, Think, Act, Rest (60.2)",
-            "Salary, Time, Agreement, Reward (60.3)",
-            "Start, Test, Analyze, Review (60.4)"
+            "Situation, Task, Action, Result",
+            "Stop, Think, Act, Rest",
+            "Salary, Time, Agreement, Reward",
+            "Start, Test, Analyze, Review"
           ],
           "answerIndex": 0,
           "explanation": "Situation, Task, Action, Result."
@@ -8990,10 +8990,10 @@
         {
           "prompt": "How should you quantify your impact in an interview?",
           "options": [
-            "By saying everything was easy (60.1)",
-            "By providing concrete numbers, percentages, or measurable efficiency gains (60.2)",
-            "By avoiding any details (60.3)",
-            "By guessing random stories (60.4)"
+            "By saying everything was easy",
+            "By providing concrete numbers, percentages, or measurable efficiency gains",
+            "By avoiding any details",
+            "By guessing random stories"
           ],
           "answerIndex": 1,
           "explanation": "Concrete quantitative outcomes."
@@ -9006,7 +9006,7 @@
           "prompt": "What document summarizes your entire professional and academic history for job applications?",
           "options": [
             "A library card",
-            "A Resume / Curriculum Vitae (CV)",
+            "A Resume / Curriculum Vitae",
             "An electric utility bill",
             "A restaurant menu"
           ],
@@ -9057,10 +9057,10 @@
         {
           "prompt": "What does the common idiom \"I am really into photography\" mean?",
           "options": [
-            "I dislike photography (61.1)",
-            "I broke my camera (61.2)",
-            "I have no hobbies (61.3)",
-            "I am extremely enthusiastic and passionate about photography (61.4)"
+            "I dislike photography",
+            "I broke my camera",
+            "I have no hobbies",
+            "I am extremely enthusiastic and passionate about photography"
           ],
           "answerIndex": 3,
           "explanation": "To be into something means to be deeply interested."
@@ -9072,10 +9072,10 @@
         {
           "prompt": "Translate: \"In my spare time, I enjoy playing the acoustic guitar.\"",
           "options": [
-            "I sell broken guitars. (61.1)",
-            "Music is boring. (61.2)",
-            "I have no spare time. (61.3)",
-            "In my spare time, I enjoy playing the acoustic guitar. (61.4)"
+            "I sell broken guitars.",
+            "Music is boring.",
+            "I have no spare time.",
+            "In my spare time, I enjoy playing the acoustic guitar."
           ],
           "answerIndex": 3,
           "explanation": "Accurate hobby translation."
@@ -9087,7 +9087,7 @@
         {
           "prompt": "Which verb is used with musical instruments in English?",
           "options": [
-            "To play (the guitar, the piano)",
+            "To play",
             "To do",
             "To run",
             "To make"
@@ -9139,10 +9139,10 @@
         {
           "prompt": "What is the oldest and most prestigious tennis tournament in the world, played on outdoor grass courts?",
           "options": [
-            "The Wimbledon Championships (62.1)",
-            "The World Cup (62.2)",
-            "The Super Bowl (62.3)",
-            "The Masters (62.4)"
+            "The Wimbledon Championships",
+            "The World Cup",
+            "The Super Bowl",
+            "The Masters"
           ],
           "answerIndex": 0,
           "explanation": "Wimbledon."
@@ -9154,10 +9154,10 @@
         {
           "prompt": "What does \"to equalise\" mean in a football match?",
           "options": [
-            "To score a goal that brings the scores level (e.g., from 0-1 to 1-1) (62.1)",
-            "To win the trophy (62.2)",
-            "To end the game early (62.3)",
-            "To foul an opponent (62.4)"
+            "To score a goal that brings the scores level",
+            "To win the trophy",
+            "To end the game early",
+            "To foul an opponent"
           ],
           "answerIndex": 0,
           "explanation": "Equalising levels the match score."
@@ -9221,10 +9221,10 @@
         {
           "prompt": "Which London district represents the global center of world-class commercial theatre?",
           "options": [
-            "Soho Square (63.1)",
-            "Heathrow (63.2)",
-            "The West End (63.3)",
-            "Greenwich (63.4)"
+            "Soho Square",
+            "Heathrow",
+            "The West End",
+            "Greenwich"
           ],
           "answerIndex": 2,
           "explanation": "The West End."
@@ -9236,10 +9236,10 @@
         {
           "prompt": "What world-famous open-air music festival takes place on Worthy Farm in Somerset, England?",
           "options": [
-            "The Glastonbury Festival (63.1)",
-            "The Cannes Film Festival (63.2)",
-            "The Munich Oktoberfest (63.3)",
-            "The Venice Biennale (63.4)"
+            "The Glastonbury Festival",
+            "The Cannes Film Festival",
+            "The Munich Oktoberfest",
+            "The Venice Biennale"
           ],
           "answerIndex": 0,
           "explanation": "Glastonbury."
@@ -9303,10 +9303,10 @@
         {
           "prompt": "What does \"Count me in!\" mean in response to an invitation?",
           "options": [
-            "I have no friends (64.1)",
-            "I definitely want to participate and join the plan (64.2)",
-            "I am going to sleep (64.3)",
-            "Please leave me out (64.4)"
+            "I have no friends",
+            "I definitely want to participate and join the plan",
+            "I am going to sleep",
+            "Please leave me out"
           ],
           "answerIndex": 1,
           "explanation": "Count me in expresses enthusiastic participation."
@@ -9318,10 +9318,10 @@
         {
           "prompt": "What does the idiom \"to take a raincheck\" mean?",
           "options": [
-            "To politely decline an invitation for now with an offer to do it another time (64.1)",
-            "To buy an umbrella (64.2)",
-            "To cancel forever angrily (64.3)",
-            "To stand outside in the rain (64.4)"
+            "To politely decline an invitation for now with an offer to do it another time",
+            "To buy an umbrella",
+            "To cancel forever angrily",
+            "To stand outside in the rain"
           ],
           "answerIndex": 0,
           "explanation": "Take a raincheck means postponing to a future date."
@@ -9385,10 +9385,10 @@
         {
           "prompt": "What does calling a movie or performance a \"tour de force\" mean?",
           "options": [
-            "A triumph of extraordinary artistic skill and mastery (65.1)",
-            "A complete failure (65.2)",
-            "A short commercial (65.3)",
-            "A black and white cartoon (65.4)"
+            "A triumph of extraordinary artistic skill and mastery",
+            "A complete failure",
+            "A short commercial",
+            "A black and white cartoon"
           ],
           "answerIndex": 0,
           "explanation": "Tour de force denotes artistic mastery."
@@ -9400,10 +9400,10 @@
         {
           "prompt": "What term describes a sudden, unexpected change in the direction of a story's narrative?",
           "options": [
-            "A intermission (65.1)",
-            "A credit roll (65.2)",
-            "A plot twist (65.3)",
-            "A typo (65.4)"
+            "A intermission",
+            "A credit roll",
+            "A plot twist",
+            "A typo"
           ],
           "answerIndex": 2,
           "explanation": "Plot twist."
@@ -9467,10 +9467,10 @@
         {
           "prompt": "What document allows a passenger to board an aircraft after checking in?",
           "options": [
-            "A driver's license only (66.1)",
-            "A hotel receipt (66.2)",
-            "A business card (66.3)",
-            "The boarding pass (66.4)"
+            "A driver's license only",
+            "A hotel receipt",
+            "A business card",
+            "The boarding pass"
           ],
           "answerIndex": 3,
           "explanation": "Boarding pass."
@@ -9482,10 +9482,10 @@
         {
           "prompt": "Translate: \"The flight to Chicago is delayed by forty minutes due to runway maintenance.\"",
           "options": [
-            "The plane took off on time. (66.1)",
-            "There are no flights to Chicago. (66.2)",
-            "The airport is closed. (66.3)",
-            "The flight to Chicago is delayed by forty minutes due to runway maintenance. (66.4)"
+            "The plane took off on time.",
+            "There are no flights to Chicago.",
+            "The airport is closed.",
+            "The flight to Chicago is delayed by forty minutes due to runway maintenance."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -9549,10 +9549,10 @@
         {
           "prompt": "How do you tell the front desk that you have a room booked?",
           "options": [
-            "I have a reservation under the name [My Name] (67.1)",
-            "The room is free (67.2)",
-            "I want to purchase the hotel (67.3)",
-            "I don't know where I am (67.4)"
+            "I have a reservation under the name [My Name]",
+            "The room is free",
+            "I want to purchase the hotel",
+            "I don't know where I am"
           ],
           "answerIndex": 0,
           "explanation": "I have a reservation under the name... is standard."
@@ -9564,10 +9564,10 @@
         {
           "prompt": "What traditional British breakfast is famously served at historic countryside B&Bs?",
           "options": [
-            "A Full English Breakfast with eggs, bacon, sausage, and toast (67.1)",
-            "Only hot water (67.2)",
-            "Cold onion soup (67.3)",
-            "Raw vegetables (67.4)"
+            "A Full English Breakfast with eggs, bacon, sausage, and toast",
+            "Only hot water",
+            "Cold onion soup",
+            "Raw vegetables"
           ],
           "answerIndex": 0,
           "explanation": "Full English breakfast."
@@ -9581,7 +9581,7 @@
           "options": [
             "A military barracks",
             "A steel factory",
-            "A traditional Bed & Breakfast (B&B)",
+            "A traditional Bed & Breakfast",
             "An oil platform"
           ],
           "answerIndex": 2,
@@ -9631,10 +9631,10 @@
         {
           "prompt": "What is the high-speed passenger train connecting London with Paris and Brussels through the Channel Tunnel?",
           "options": [
-            "A horse carriage (68.1)",
-            "A cargo barge (68.2)",
-            "The Eurostar (68.3)",
-            "A street trolley (68.4)"
+            "A horse carriage",
+            "A cargo barge",
+            "The Eurostar",
+            "A street trolley"
           ],
           "answerIndex": 2,
           "explanation": "The Eurostar."
@@ -9646,10 +9646,10 @@
         {
           "prompt": "How do commuters seamlessly pay for travel across London buses and the Underground?",
           "options": [
-            "Contactless bank card / Oyster card tap-in (68.1)",
-            "Writing a personal paper check (68.2)",
-            "Showing a library card (68.3)",
-            "Trading gold coins (68.4)"
+            "Contactless bank card / Oyster card tap-in",
+            "Writing a personal paper check",
+            "Showing a library card",
+            "Trading gold coins"
           ],
           "answerIndex": 0,
           "explanation": "Contactless / Oyster card."
@@ -9662,7 +9662,7 @@
           "prompt": "What is the oldest underground metro railway network in the world, founded in London in 1863?",
           "options": [
             "The Paris Metro",
-            "The London Underground (The Tube)",
+            "The London Underground",
             "The Tokyo Metro",
             "The New York Subway"
           ],
@@ -9713,10 +9713,10 @@
         {
           "prompt": "What does \"CDW with zero deductible\" mean when hiring a rental car?",
           "options": [
-            "Insurance for bicycles only (69.1)",
-            "Collision Damage Waiver where the renter pays zero out-of-pocket costs if damage occurs (69.2)",
-            "Free fuel for life (69.3)",
-            "No insurance coverage (69.4)"
+            "Insurance for bicycles only",
+            "Collision Damage Waiver where the renter pays zero out-of-pocket costs if damage occurs",
+            "Free fuel for life",
+            "No insurance coverage"
           ],
           "answerIndex": 1,
           "explanation": "Zero-deductible CDW."
@@ -9728,10 +9728,10 @@
         {
           "prompt": "Which side of the road do vehicles drive on in the United Kingdom and Ireland?",
           "options": [
-            "On the left-hand side of the road (69.1)",
-            "In the middle only (69.2)",
-            "On the sidewalk (69.3)",
-            "On the right-hand side (69.4)"
+            "On the left-hand side of the road",
+            "In the middle only",
+            "On the sidewalk",
+            "On the right-hand side"
           ],
           "answerIndex": 0,
           "explanation": "Left-hand side."
@@ -9743,7 +9743,7 @@
         {
           "prompt": "What legendary 500-mile coastal route loops through the rugged castles and mountains of northern Scotland?",
           "options": [
-            "The North Coast 500 (NC500)",
+            "The North Coast 500",
             "The Pan-American Highway",
             "The Silk Road",
             "The Appalachian Trail"
@@ -9795,10 +9795,10 @@
         {
           "prompt": "What official document must be filled out at the airport when checked luggage fails to arrive?",
           "options": [
-            "A Property Irregularity Report (PIR) (70.1)",
-            "A driver's license test (70.2)",
-            "A lottery ticket (70.3)",
-            "A job application (70.4)"
+            "A Property Irregularity Report",
+            "A driver's license test",
+            "A lottery ticket",
+            "A job application"
           ],
           "answerIndex": 0,
           "explanation": "PIR (Property Irregularity Report)."
@@ -9810,10 +9810,10 @@
         {
           "prompt": "What statutory protections are air passengers entitled to during multi-hour flight cancellations in the UK and EU?",
           "options": [
-            "A fine (70.1)",
-            "Only a glass of water (70.2)",
-            "Free hotel accommodation, meals/refreshments, and cash compensation under UK/EU261 (70.3)",
-            "No assistance at all (70.4)"
+            "A fine",
+            "Only a glass of water",
+            "Free hotel accommodation, meals/refreshments, and cash compensation under UK/EU261",
+            "No assistance at all"
           ],
           "answerIndex": 2,
           "explanation": "Statutory accommodation, food, and compensation."
@@ -9877,10 +9877,10 @@
         {
           "prompt": "What is the British English equivalent for the American word \"sweater\"?",
           "options": [
-            "Coat (71.1)",
-            "Sneaker (71.2)",
-            "Socks (71.3)",
-            "Jumper (71.4)"
+            "Coat",
+            "Sneaker",
+            "Socks",
+            "Jumper"
           ],
           "answerIndex": 3,
           "explanation": "Jumper is British English for sweater."
@@ -9892,10 +9892,10 @@
         {
           "prompt": "What is the British English term for athletic sneakers?",
           "options": [
-            "Boots (71.1)",
-            "Slippers (71.2)",
-            "Sandals (71.3)",
-            "Trainers (71.4)"
+            "Boots",
+            "Slippers",
+            "Sandals",
+            "Trainers"
           ],
           "answerIndex": 3,
           "explanation": "Trainers."
@@ -9959,10 +9959,10 @@
         {
           "prompt": "What does the common English idiom \"It fits like a glove\" mean?",
           "options": [
-            "It fits absolutely perfectly and flatters your figure (72.1)",
-            "It is soaking wet (72.2)",
-            "It is designed for hands only (72.3)",
-            "It is torn and damaged (72.4)"
+            "It fits absolutely perfectly and flatters your figure",
+            "It is soaking wet",
+            "It is designed for hands only",
+            "It is torn and damaged"
           ],
           "answerIndex": 0,
           "explanation": "Fits like a glove means perfect fit."
@@ -9974,10 +9974,10 @@
         {
           "prompt": "Where do customers try on garments in a clothing store?",
           "options": [
-            "In the fitting rooms / changing rooms (72.1)",
-            "At the cash register (72.2)",
-            "In the parking lot (72.3)",
-            "On the sidewalk (72.4)"
+            "In the fitting rooms / changing rooms",
+            "At the cash register",
+            "In the parking lot",
+            "On the sidewalk"
           ],
           "answerIndex": 0,
           "explanation": "Fitting rooms."
@@ -10041,10 +10041,10 @@
         {
           "prompt": "What is the massive post-Christmas clearance shopping holiday celebrated on December 26 in the UK?",
           "options": [
-            "Bank Holiday Monday (73.1)",
-            "Boxing Day (73.2)",
-            "Halloween (73.3)",
-            "Guy Fawkes Day (73.4)"
+            "Bank Holiday Monday",
+            "Boxing Day",
+            "Halloween",
+            "Guy Fawkes Day"
           ],
           "answerIndex": 1,
           "explanation": "Boxing Day (Dec 26)."
@@ -10056,10 +10056,10 @@
         {
           "prompt": "What British term is commonly used for the cash register checkout counter in shops?",
           "options": [
-            "The till (73.1)",
-            "The vault (73.2)",
-            "The locker (73.3)",
-            "The safe (73.4)"
+            "The till",
+            "The vault",
+            "The locker",
+            "The safe"
           ],
           "answerIndex": 0,
           "explanation": "The till."
@@ -10123,10 +10123,10 @@
         {
           "prompt": "Which historic London market near London Bridge is internationally famous for world-class gourmet food and artisanal produce?",
           "options": [
-            "Billingsgate (74.1)",
-            "Borough Market (74.2)",
-            "Covent Garden (74.3)",
-            "Smithfield Market (74.4)"
+            "Billingsgate",
+            "Borough Market",
+            "Covent Garden",
+            "Smithfield Market"
           ],
           "answerIndex": 1,
           "explanation": "Borough Market."
@@ -10138,10 +10138,10 @@
         {
           "prompt": "Which London street market in Notting Hill is celebrated worldwide for its mile-long stretch of antique stalls?",
           "options": [
-            "Portobello Road Market (74.1)",
-            "Piccadilly Circus (74.2)",
-            "Trafalgar Square (74.3)",
-            "Oxford Street (74.4)"
+            "Portobello Road Market",
+            "Piccadilly Circus",
+            "Trafalgar Square",
+            "Oxford Street"
           ],
           "answerIndex": 0,
           "explanation": "Portobello Road Market."
@@ -10205,10 +10205,10 @@
         {
           "prompt": "Under UK statutory consumer law, what standard must all purchased goods legally satisfy?",
           "options": [
-            "They must be as described, fit for purpose, and of satisfactory quality (75.1)",
-            "They must be free of charge (75.2)",
-            "They must last 100 years (75.3)",
-            "They cannot be returned (75.4)"
+            "They must be as described, fit for purpose, and of satisfactory quality",
+            "They must be free of charge",
+            "They must last 100 years",
+            "They cannot be returned"
           ],
           "answerIndex": 0,
           "explanation": "As described, fit for purpose, satisfactory quality."
@@ -10220,10 +10220,10 @@
         {
           "prompt": "What must a shopper present when returning an unwanted item in a store for a full refund?",
           "options": [
-            "A lottery ticket (75.1)",
-            "Nothing at all (75.2)",
-            "The original receipt and the item in pristine condition with tags attached (75.3)",
-            "A photocopy of a book (75.4)"
+            "A lottery ticket",
+            "Nothing at all",
+            "The original receipt and the item in pristine condition with tags attached",
+            "A photocopy of a book"
           ],
           "answerIndex": 2,
           "explanation": "Original receipt and pristine item with tags."
@@ -10287,10 +10287,10 @@
         {
           "prompt": "What is the most famous English idiom used when it is raining extremely heavily?",
           "options": [
-            "It is sunny as gold (76.1)",
-            "The snow is burning (76.2)",
-            "The sky is falling (76.3)",
-            "It is raining cats and dogs (76.4)"
+            "It is sunny as gold",
+            "The snow is burning",
+            "The sky is falling",
+            "It is raining cats and dogs"
           ],
           "answerIndex": 3,
           "explanation": "Raining cats and dogs."
@@ -10302,10 +10302,10 @@
         {
           "prompt": "What is the quintessential conversational topic Britons use to break the ice with strangers?",
           "options": [
-            "Tax policies (76.1)",
-            "Rocket science (76.2)",
-            "Dentistry (76.3)",
-            "The weather (76.4)"
+            "Tax policies",
+            "Rocket science",
+            "Dentistry",
+            "The weather"
           ],
           "answerIndex": 3,
           "explanation": "The weather."
@@ -10369,10 +10369,10 @@
         {
           "prompt": "Which native wildflower creates spectacular violet-blue carpets in ancient English woodlands each spring?",
           "options": [
-            "The English bluebell (77.1)",
-            "The water lily (77.2)",
-            "The sunflower (77.3)",
-            "The cactus (77.4)"
+            "The English bluebell",
+            "The water lily",
+            "The sunflower",
+            "The cactus"
           ],
           "answerIndex": 0,
           "explanation": "The English bluebell."
@@ -10384,10 +10384,10 @@
         {
           "prompt": "Which British autumn celebration on November 5th features community bonfires and fireworks displays?",
           "options": [
-            "Guy Fawkes Night (Bonfire Night) (77.1)",
-            "Saint Patrick's Day (77.2)",
-            "Labor Day (77.3)",
-            "Pancake Day (77.4)"
+            "Guy Fawkes Night",
+            "Saint Patrick's Day",
+            "Labor Day",
+            "Pancake Day"
           ],
           "answerIndex": 0,
           "explanation": "Guy Fawkes Night."
@@ -10451,10 +10451,10 @@
         {
           "prompt": "Which UNESCO natural site in Northern Ireland is famous for its 40,000 interlocking hexagonal basalt columns?",
           "options": [
-            "Stonehenge (78.1)",
-            "Giant's Causeway (78.2)",
-            "White Cliffs of Dover (78.3)",
-            "Loch Ness (78.4)"
+            "Stonehenge",
+            "Giant's Causeway",
+            "White Cliffs of Dover",
+            "Loch Ness"
           ],
           "answerIndex": 1,
           "explanation": "Giant's Causeway."
@@ -10466,10 +10466,10 @@
         {
           "prompt": "What is the highest mountain peak in the United Kingdom, located in the Scottish Highlands?",
           "options": [
-            "Ben Nevis (1,345 m) (78.1)",
-            "Mount Snowdon (78.2)",
-            "Mount Everest (78.3)",
-            "Scafell Pike (78.4)"
+            "Ben Nevis",
+            "Mount Snowdon",
+            "Mount Everest",
+            "Scafell Pike"
           ],
           "answerIndex": 0,
           "explanation": "Ben Nevis."
@@ -10534,10 +10534,10 @@
         {
           "prompt": "What is the highest level of Met Office severe weather warning indicating immediate danger to life?",
           "options": [
-            "Green Advisory (79.1)",
-            "Red Warning (79.2)",
-            "Blue Alert (79.3)",
-            "Yellow Warning (79.4)"
+            "Green Advisory",
+            "Red Warning",
+            "Blue Alert",
+            "Yellow Warning"
           ],
           "answerIndex": 1,
           "explanation": "Red Warning."
@@ -10549,10 +10549,10 @@
         {
           "prompt": "What monumental engineering structure on the River Thames shields central London from tidal storm surges?",
           "options": [
-            "The Thames Barrier (79.1)",
-            "Tower Bridge (79.2)",
-            "Big Ben (79.3)",
-            "London Bridge (79.4)"
+            "The Thames Barrier",
+            "Tower Bridge",
+            "Big Ben",
+            "London Bridge"
           ],
           "answerIndex": 0,
           "explanation": "The Thames Barrier."
@@ -10616,10 +10616,10 @@
         {
           "prompt": "In which body of water are the UK's world-record offshore wind farms (Hornsea and Dogger Bank) located?",
           "options": [
-            "The North Sea (80.1)",
-            "The Mediterranean Sea (80.2)",
-            "The Red Sea (80.3)",
-            "The Baltic Sea (80.4)"
+            "The North Sea",
+            "The Mediterranean Sea",
+            "The Red Sea",
+            "The Baltic Sea"
           ],
           "answerIndex": 0,
           "explanation": "The North Sea."
@@ -10631,10 +10631,10 @@
         {
           "prompt": "In which year did the UK officially close its final coal power plant, completely ending coal-fired electricity generation?",
           "options": [
-            "In 1900 (80.1)",
-            "In 2100 (80.2)",
-            "Not yet planned (80.3)",
-            "In 2024 (80.4)"
+            "In 1900",
+            "In 2100",
+            "Not yet planned",
+            "In 2024"
           ],
           "answerIndex": 3,
           "explanation": "2024 (Ratcliffe-on-Soar closure)."
@@ -10698,10 +10698,10 @@
         {
           "prompt": "Which phrase describes a very intense and throbbing head pain in idiomatic English?",
           "options": [
-            "A cold shoulder (81.1)",
-            "A sweet tooth (81.2)",
-            "A green thumb (81.3)",
-            "A splitting headache (81.4)"
+            "A cold shoulder",
+            "A sweet tooth",
+            "A green thumb",
+            "A splitting headache"
           ],
           "answerIndex": 3,
           "explanation": "A splitting headache."
@@ -10713,10 +10713,10 @@
         {
           "prompt": "What is the official medical certificate issued by a UK doctor stating a patient is unfit for work due to illness?",
           "options": [
-            "A driving licence (81.1)",
-            "A boarding pass (81.2)",
-            "A receipt (81.3)",
-            "A Fit Note (or Statement of Fitness for Work) (81.4)"
+            "A driving licence",
+            "A boarding pass",
+            "A receipt",
+            "A Fit Note"
           ],
           "answerIndex": 3,
           "explanation": "A Fit Note."
@@ -10728,7 +10728,7 @@
         {
           "prompt": "What is the standard title for a primary care family doctor in the United Kingdom?",
           "options": [
-            "General Practitioner (GP)",
+            "General Practitioner",
             "Chief Constable",
             "Flight Lieutenant",
             "Lord Mayor"
@@ -10780,10 +10780,10 @@
         {
           "prompt": "What is the traditional British English term for a pharmacy or drugstore on the high street?",
           "options": [
-            "A chemist (or pharmacy) (82.1)",
-            "A post office (82.2)",
-            "A bakery (82.3)",
-            "A newsagent (82.4)"
+            "A chemist",
+            "A post office",
+            "A bakery",
+            "A newsagent"
           ],
           "answerIndex": 0,
           "explanation": "A chemist (pharmacy)."
@@ -10795,10 +10795,10 @@
         {
           "prompt": "What is the folded document inside a medicine box detailing proper usage, side effects, and precautions called?",
           "options": [
-            "The Patient Information Leaflet (PIL) (82.1)",
-            "The newspaper (82.2)",
-            "The till receipt (82.3)",
-            "The bus timetable (82.4)"
+            "The Patient Information Leaflet",
+            "The newspaper",
+            "The till receipt",
+            "The bus timetable"
           ],
           "answerIndex": 0,
           "explanation": "Patient Information Leaflet (PIL)."
@@ -10813,7 +10813,7 @@
             "Bandages of heavy plaster",
             "Paper tissues",
             "Stamps",
-            "Plasters (elastoplast)"
+            "Plasters"
           ],
           "answerIndex": 3,
           "explanation": "Plasters.",
@@ -10862,10 +10862,10 @@
         {
           "prompt": "What is the primary telephone number for emergency ambulance, police, or fire services in the United Kingdom?",
           "options": [
-            "911 only (83.1)",
-            "999 (or 112) (83.2)",
-            "100 (83.3)",
-            "000 (83.4)"
+            "911 only",
+            "999",
+            "100",
+            "000"
           ],
           "answerIndex": 1,
           "explanation": "999 (or 112)."
@@ -10877,10 +10877,10 @@
         {
           "prompt": "What is the hospital department in the UK dedicated to urgent trauma and emergency life-saving called?",
           "options": [
-            "Accident & Emergency (A&E) (83.1)",
-            "The outpatient lobby (83.2)",
-            "The library (83.3)",
-            "The billing office (83.4)"
+            "Accident & Emergency",
+            "The outpatient lobby",
+            "The library",
+            "The billing office"
           ],
           "answerIndex": 0,
           "explanation": "Accident & Emergency (A&E)."
@@ -10944,10 +10944,10 @@
         {
           "prompt": "Which historic UNESCO World Heritage city in England is famous for Britain's only natural hot thermal springs?",
           "options": [
-            "Birmingham (84.1)",
-            "The City of Bath (84.2)",
-            "Oxford (84.3)",
-            "Manchester (84.4)"
+            "Birmingham",
+            "The City of Bath",
+            "Oxford",
+            "Manchester"
           ],
           "answerIndex": 1,
           "explanation": "The City of Bath."
@@ -10959,10 +10959,10 @@
         {
           "prompt": "What is the popular British leisure activity of taking long, leisurely walks in the rural countryside along public footpaths called?",
           "options": [
-            "Rambling (or country walking) (84.1)",
-            "Deep sea diving (84.2)",
-            "Skiing (84.3)",
-            "Motor racing (84.4)"
+            "Rambling",
+            "Deep sea diving",
+            "Skiing",
+            "Motor racing"
           ],
           "answerIndex": 0,
           "explanation": "Rambling."
@@ -11026,10 +11026,10 @@
         {
           "prompt": "Which Scottish physician and microbiologist discovered penicillin at St Mary's Hospital London in 1928?",
           "options": [
-            "Sir Alexander Fleming (85.1)",
-            "Charles Darwin (85.2)",
-            "William Shakespeare (85.3)",
-            "Isaac Newton (85.4)"
+            "Sir Alexander Fleming",
+            "Charles Darwin",
+            "William Shakespeare",
+            "Isaac Newton"
           ],
           "answerIndex": 0,
           "explanation": "Sir Alexander Fleming."
@@ -11041,10 +11041,10 @@
         {
           "prompt": "Who is celebrated as the \"Lady with the Lamp\" and the pioneer of modern professional nursing and hospital sanitation?",
           "options": [
-            "Queen Victoria (85.1)",
-            "Jane Austen (85.2)",
-            "Emmeline Pankhurst (85.3)",
-            "Florence Nightingale (85.4)"
+            "Queen Victoria",
+            "Jane Austen",
+            "Emmeline Pankhurst",
+            "Florence Nightingale"
           ],
           "answerIndex": 3,
           "explanation": "Florence Nightingale."
@@ -11108,10 +11108,10 @@
         {
           "prompt": "What is the government-backed scheme in the UK that legally protects tenants' security deposits from unfair deductions?",
           "options": [
-            "The National Lottery (86.1)",
-            "The Post Office Scheme (86.2)",
-            "The Bank of England Reserve (86.3)",
-            "The Tenancy Deposit Scheme (TDS) (86.4)"
+            "The National Lottery",
+            "The Post Office Scheme",
+            "The Bank of England Reserve",
+            "The Tenancy Deposit Scheme"
           ],
           "answerIndex": 3,
           "explanation": "The Tenancy Deposit Scheme (TDS)."
@@ -11123,10 +11123,10 @@
         {
           "prompt": "What is the local municipal tax paid by UK residents to fund local council services like waste collection and policing?",
           "options": [
-            "Stamp Duty Land Tax (86.1)",
-            "Value Added Tax (VAT) (86.2)",
-            "Corporation Tax (86.3)",
-            "Council Tax (Bands A to H) (86.4)"
+            "Stamp Duty Land Tax",
+            "Value Added Tax",
+            "Corporation Tax",
+            "Council Tax"
           ],
           "answerIndex": 3,
           "explanation": "Council Tax."
@@ -11138,10 +11138,10 @@
         {
           "prompt": "What is the standard legal abbreviation for rental rates quoted \"per calendar month\" in UK property listings?",
           "options": [
-            "PW (Per Week)",
+            "PW",
             "VAT",
-            "PA (Per Annum)",
-            "PCM (Per Calendar Month)"
+            "PA",
+            "PCM"
           ],
           "answerIndex": 3,
           "explanation": "PCM (Per Calendar Month).",
@@ -11190,10 +11190,10 @@
         {
           "prompt": "What is the British term for a pair of houses joined together by a single shared party wall?",
           "options": [
-            "A semi-detached house (a \"semi\") (87.1)",
-            "A terraced row of ten houses (87.2)",
-            "A skyscraper (87.3)",
-            "A caravan (87.4)"
+            "A semi-detached house",
+            "A terraced row of ten houses",
+            "A skyscraper",
+            "A caravan"
           ],
           "answerIndex": 0,
           "explanation": "Semi-detached house."
@@ -11205,10 +11205,10 @@
         {
           "prompt": "What are the picturesque London residential houses situated on quiet cobbled lanes, originally built as horse stables, called?",
           "options": [
-            "Mews houses (87.1)",
-            "Castles (87.2)",
-            "Lighthouses (87.3)",
-            "Windmills (87.4)"
+            "Mews houses",
+            "Castles",
+            "Lighthouses",
+            "Windmills"
           ],
           "answerIndex": 0,
           "explanation": "Mews houses."
@@ -11272,10 +11272,10 @@
         {
           "prompt": "Which scenic English region is famous for picturesque villages built from distinctive warm honey-coloured limestone?",
           "options": [
-            "Canary Wharf (88.1)",
-            "The Cotswolds (88.2)",
-            "The Dartford Crossing (88.3)",
-            "Heathrow (88.4)"
+            "Canary Wharf",
+            "The Cotswolds",
+            "The Dartford Crossing",
+            "Heathrow"
           ],
           "answerIndex": 1,
           "explanation": "The Cotswolds."
@@ -11287,10 +11287,10 @@
         {
           "prompt": "What traditional natural roofing material made of dried reeds or straw is found on historic English country cottages?",
           "options": [
-            "Thatch (thatching) (88.1)",
-            "Asphalt sheets (88.2)",
-            "Corrugated iron (88.3)",
-            "Concrete tiles (88.4)"
+            "Thatch",
+            "Asphalt sheets",
+            "Corrugated iron",
+            "Concrete tiles"
           ],
           "answerIndex": 0,
           "explanation": "Thatch."
@@ -11354,10 +11354,10 @@
         {
           "prompt": "What is a rented plot of community land used by British citizens to grow vegetables and flowers called?",
           "options": [
-            "A motorway (89.1)",
-            "An allotment (an allotment plot) (89.2)",
-            "A shopping precinct (89.3)",
-            "A parking lot (89.4)"
+            "A motorway",
+            "An allotment",
+            "A shopping precinct",
+            "A parking lot"
           ],
           "answerIndex": 1,
           "explanation": "An allotment."
@@ -11369,10 +11369,10 @@
         {
           "prompt": "Which world-famous botanical garden in London is a UNESCO World Heritage site housing over 50,000 living plants?",
           "options": [
-            "Royal Botanic Gardens, Kew (Kew Gardens) (89.1)",
-            "Trafalgar Square (89.2)",
-            "Piccadilly Circus (89.3)",
-            "Hyde Park corner only (89.4)"
+            "Royal Botanic Gardens, Kew",
+            "Trafalgar Square",
+            "Piccadilly Circus",
+            "Hyde Park corner only"
           ],
           "answerIndex": 0,
           "explanation": "Kew Gardens."
@@ -11436,10 +11436,10 @@
         {
           "prompt": "Which landmark zero-carbon social housing Passivhaus development in Norwich won the prestigious RIBA Stirling Prize in 2019?",
           "options": [
-            "Goldsmith Street (90.1)",
-            "The Shard (90.2)",
-            "Canary Wharf (90.3)",
-            "Battersea Power Station (90.4)"
+            "Goldsmith Street",
+            "The Shard",
+            "Canary Wharf",
+            "Battersea Power Station"
           ],
           "answerIndex": 0,
           "explanation": "Goldsmith Street."
@@ -11451,10 +11451,10 @@
         {
           "prompt": "What digital device installed in UK homes automatically communicates energy usage and enables dynamic cheap tariffs?",
           "options": [
-            "An analogue clock (90.1)",
-            "A manual fuse box (90.2)",
-            "A radio antenna (90.3)",
-            "A smart meter (90.4)"
+            "An analogue clock",
+            "A manual fuse box",
+            "A radio antenna",
+            "A smart meter"
           ],
           "answerIndex": 3,
           "explanation": "A smart meter."
@@ -11469,7 +11469,7 @@
             "A gas fire only",
             "A coal grate",
             "An open kerosene burner",
-            "An Air Source Heat Pump (ASHP)"
+            "An Air Source Heat Pump"
           ],
           "answerIndex": 3,
           "explanation": "An Air Source Heat Pump (ASHP).",
@@ -11518,10 +11518,10 @@
         {
           "prompt": "What is the UK statutory automated tax withholding system deducted directly from employee monthly payslips?",
           "options": [
-            "VAT (91.1)",
-            "Stamp Duty (91.2)",
-            "Inheritance Tax (91.3)",
-            "PAYE (Pay As You Earn) (91.4)"
+            "VAT",
+            "Stamp Duty",
+            "Inheritance Tax",
+            "PAYE"
           ],
           "answerIndex": 3,
           "explanation": "PAYE (Pay As You Earn)."
@@ -11533,10 +11533,10 @@
         {
           "prompt": "What official document is provided by UK employers at the end of every tax year summarising total pay and tax deducted?",
           "options": [
-            "Driving licence (91.1)",
-            "Train ticket (91.2)",
-            "Library card (91.3)",
-            "Form P60 (91.4)"
+            "Driving licence",
+            "Train ticket",
+            "Library card",
+            "Form P60"
           ],
           "answerIndex": 3,
           "explanation": "Form P60."
@@ -11550,7 +11550,7 @@
           "options": [
             "0%",
             "50%",
-            "8% total (typically 5% employee + 3% employer)",
+            "8% total",
             "1% only"
           ],
           "answerIndex": 2,
@@ -11600,10 +11600,10 @@
         {
           "prompt": "What is the classic polite British phrase used in offices when offering to make tea or coffee for colleagues?",
           "options": [
-            "\"Shall I put the kettle on? / Who wants a brew?\" (92.1)",
-            "\"Go to the cafeteria\" (92.2)",
-            "\"Get me a drink now\" (92.3)",
-            "\"Stop working immediately\" (92.4)"
+            "\"Shall I put the kettle on? / Who wants a brew?\"",
+            "\"Go to the cafeteria\"",
+            "\"Get me a drink now\"",
+            "\"Stop working immediately\""
           ],
           "answerIndex": 0,
           "explanation": "\"Shall I put the kettle on?\""
@@ -11615,10 +11615,10 @@
         {
           "prompt": "What is the standard, polite professional sign-off used at the conclusion of formal British business emails?",
           "options": [
-            "\"Kind regards\" (or \"Best regards\") (92.1)",
-            "\"Cheerio forever\" (92.2)",
-            "\"Goodbye quickly\" (92.3)",
-            "\"No response needed\" (92.4)"
+            "\"Kind regards\"",
+            "\"Cheerio forever\"",
+            "\"Goodbye quickly\"",
+            "\"No response needed\""
           ],
           "answerIndex": 0,
           "explanation": "\"Kind regards\"."
@@ -11682,10 +11682,10 @@
         {
           "prompt": "What is the statutory minimum paid annual leave entitlement for full-time workers in the UK per year?",
           "options": [
-            "5 days (93.1)",
-            "28 days (5.6 weeks) (93.2)",
-            "10 days (93.3)",
-            "Zero days (93.4)"
+            "5 days",
+            "28 days",
+            "10 days",
+            "Zero days"
           ],
           "answerIndex": 1,
           "explanation": "28 days (5.6 weeks)."
@@ -11697,10 +11697,10 @@
         {
           "prompt": "What is the maximum duration of statutory maternity leave that a mother can take under UK law?",
           "options": [
-            "Up to 52 weeks (1 full year) (93.1)",
-            "6 months only (93.2)",
-            "2 weeks only (93.3)",
-            "10 weeks (93.4)"
+            "Up to 52 weeks",
+            "6 months only",
+            "2 weeks only",
+            "10 weeks"
           ],
           "answerIndex": 0,
           "explanation": "Up to 52 weeks."
@@ -11764,10 +11764,10 @@
         {
           "prompt": "Which London-headquartered AI research lab created AlphaFold and was awarded the 2024 Nobel Prize in Chemistry?",
           "options": [
-            "Royal Mail AI (94.1)",
-            "Google DeepMind (founded by Demis Hassabis) (94.2)",
-            "London Underground Tech (94.3)",
-            "British Telecom Labs (94.4)"
+            "Royal Mail AI",
+            "Google DeepMind",
+            "London Underground Tech",
+            "British Telecom Labs"
           ],
           "answerIndex": 1,
           "explanation": "Google DeepMind."
@@ -11779,10 +11779,10 @@
         {
           "prompt": "Which famous London-founded global fintech super-app is valued at over $45 billion with tens of millions of users worldwide?",
           "options": [
-            "Kodak (94.1)",
-            "Revolut (94.2)",
-            "Woolworths (94.3)",
-            "Blockbuster (94.4)"
+            "Kodak",
+            "Revolut",
+            "Woolworths",
+            "Blockbuster"
           ],
           "answerIndex": 1,
           "explanation": "Revolut."
@@ -11797,7 +11797,7 @@
             "Piccadilly Circus",
             "Marble Arch",
             "Trafalgar Square",
-            "Silicon Roundabout (Tech City)"
+            "Silicon Roundabout"
           ],
           "answerIndex": 3,
           "explanation": "Silicon Roundabout.",
@@ -11846,10 +11846,10 @@
         {
           "prompt": "Which British semiconductor architecture giant founded in Cambridge designs the processor architecture in over 99% of all smartphones globally?",
           "options": [
-            "ARM Holdings (95.1)",
-            "Intel Corporation (95.2)",
-            "Texas Instruments (95.3)",
-            "Nvidia headquarters (95.4)"
+            "ARM Holdings",
+            "Intel Corporation",
+            "Texas Instruments",
+            "Nvidia headquarters"
           ],
           "answerIndex": 0,
           "explanation": "ARM Holdings."
@@ -11861,10 +11861,10 @@
         {
           "prompt": "Which British engineering titan manufactures the world-famous Trent jet engines powering modern widebody passenger airliners?",
           "options": [
-            "British Leyland (95.1)",
-            "Austin Motors (95.2)",
-            "Rover (95.3)",
-            "Rolls-Royce Aerospace (95.4)"
+            "British Leyland",
+            "Austin Motors",
+            "Rover",
+            "Rolls-Royce Aerospace"
           ],
           "answerIndex": 3,
           "explanation": "Rolls-Royce Aerospace."
@@ -11928,10 +11928,10 @@
         {
           "prompt": "Which 95-mile stretch of coastline in Dorset and East Devon is inscribed as a UNESCO World Heritage site for exposing 185 million years of continuous geological history?",
           "options": [
-            "The White Cliffs of Dover only (96.1)",
-            "The Thames Estuary (96.2)",
-            "Blackpool Pleasure Beach (96.3)",
-            "The Jurassic Coast (96.4)"
+            "The White Cliffs of Dover only",
+            "The Thames Estuary",
+            "Blackpool Pleasure Beach",
+            "The Jurassic Coast"
           ],
           "answerIndex": 3,
           "explanation": "The Jurassic Coast."
@@ -11943,10 +11943,10 @@
         {
           "prompt": "What vast Scottish blanket peat bog holds more carbon than all UK and French forests combined and was inscribed on the UNESCO World Heritage list?",
           "options": [
-            "Hyde Park (96.1)",
-            "Sherwood Forest (96.2)",
-            "Epping Forest (96.3)",
-            "The Flow Country (96.4)"
+            "Hyde Park",
+            "Sherwood Forest",
+            "Epping Forest",
+            "The Flow Country"
           ],
           "answerIndex": 3,
           "explanation": "The Flow Country."
@@ -12010,10 +12010,10 @@
         {
           "prompt": "Which massive offshore wind complex in the North Sea is recognized as the largest offshore wind farm in the world with a 3.6 GW capacity?",
           "options": [
-            "Dogger Bank Wind Farm (97.1)",
-            "Hoover Wind (97.2)",
-            "Cape Wind (97.3)",
-            "Three Gorges Dam (97.4)"
+            "Dogger Bank Wind Farm",
+            "Hoover Wind",
+            "Cape Wind",
+            "Three Gorges Dam"
           ],
           "answerIndex": 0,
           "explanation": "Dogger Bank Wind Farm."
@@ -12025,10 +12025,10 @@
         {
           "prompt": "In September 2024, what historic milestone did Great Britain achieve as the first G7 country to do so?",
           "options": [
-            "Completely phased out and ended all coal-fired electricity generation (97.1)",
-            "Banned electric vehicles (97.2)",
-            "Reopened Victorian coal mines (97.3)",
-            "Shut down all wind turbines (97.4)"
+            "Completely phased out and ended all coal-fired electricity generation",
+            "Banned electric vehicles",
+            "Reopened Victorian coal mines",
+            "Shut down all wind turbines"
           ],
           "answerIndex": 0,
           "explanation": "Completely ended all coal-fired electricity generation."
@@ -12092,10 +12092,10 @@
         {
           "prompt": "Which Scottish marine strait with ferocious 10-knot tidal currents hosts the world's largest commercial subsea tidal turbine array (MeyGen)?",
           "options": [
-            "English Channel (98.1)",
-            "Pentland Firth (98.2)",
-            "Loch Ness (98.3)",
-            "Bristol Channel (98.4)"
+            "English Channel",
+            "Pentland Firth",
+            "Loch Ness",
+            "Bristol Channel"
           ],
           "answerIndex": 1,
           "explanation": "Pentland Firth."
@@ -12107,10 +12107,10 @@
         {
           "prompt": "What premier marine test facility in the Orkney Islands tests cutting-edge wave and tidal power devices in open sea conditions?",
           "options": [
-            "European Marine Energy Centre (EMEC) (98.1)",
-            "Met Office (98.2)",
-            "CERN (98.3)",
-            "NASA (98.4)"
+            "European Marine Energy Centre",
+            "Met Office",
+            "CERN",
+            "NASA"
           ],
           "answerIndex": 0,
           "explanation": "European Marine Energy Centre (EMEC)."
@@ -12174,10 +12174,10 @@
         {
           "prompt": "Which 3,500-acre estate in West Sussex became a global rewilding sensation by converting intensive farmland into a biodiverse natural wilderness?",
           "options": [
-            "Hyde Park (99.1)",
-            "Knepp Castle Estate (Knepp Wildland) (99.2)",
-            "Kew Gardens only (99.3)",
-            "Buckingham Palace grounds (99.4)"
+            "Hyde Park",
+            "Knepp Castle Estate",
+            "Kew Gardens only",
+            "Buckingham Palace grounds"
           ],
           "answerIndex": 1,
           "explanation": "Knepp Castle Estate."
@@ -12189,10 +12189,10 @@
         {
           "prompt": "What is the core principle of the UK's Environmental Land Management schemes (ELMs) replacing old agricultural subsidies?",
           "options": [
-            "Payment per square foot of concrete (99.1)",
-            "\"Public Money for Public Goods\" (Paying for biodiversity and carbon storage) (99.2)",
-            "Mandatory clear-cutting (99.3)",
-            "Subsidies for chemical dumping (99.4)"
+            "Payment per square foot of concrete",
+            "\"Public Money for Public Goods\"",
+            "Mandatory clear-cutting",
+            "Subsidies for chemical dumping"
           ],
           "answerIndex": 1,
           "explanation": "\"Public Money for Public Goods\"."
@@ -12217,7 +12217,7 @@
           "prompt": "Which large white bird nested and hatched chicks in England at Knepp in 2020 for the first time in over 600 years?",
           "options": [
             "Golden Eagle",
-            "White Stork (Ciconia ciconia)",
+            "White Stork",
             "Ostrich",
             "Penguin"
           ],
@@ -12256,10 +12256,10 @@
         {
           "prompt": "Which historic 2008 British legislation was the first legally binding national climate change framework enacted by any major economy?",
           "options": [
-            "The Climate Change Act 2008 (100.1)",
-            "The Magna Carta (100.2)",
-            "The Clean Air Act 1956 only (100.3)",
-            "The Reform Act (100.4)"
+            "The Climate Change Act 2008",
+            "The Magna Carta",
+            "The Clean Air Act 1956 only",
+            "The Reform Act"
           ],
           "answerIndex": 0,
           "explanation": "The Climate Change Act 2008."
@@ -12271,10 +12271,10 @@
         {
           "prompt": "What independent statutory body was established by the Climate Change Act to advise Parliament on carbon budgets and assess national progress?",
           "options": [
-            "The Bank of England (100.1)",
-            "The Royal Navy (100.2)",
-            "The BBC (100.3)",
-            "The Climate Change Committee (CCC) (100.4)"
+            "The Bank of England",
+            "The Royal Navy",
+            "The BBC",
+            "The Climate Change Committee"
           ],
           "answerIndex": 3,
           "explanation": "The Climate Change Committee (CCC)."
@@ -12298,7 +12298,7 @@
         {
           "prompt": "By what percentage has the UK successfully reduced its territorial greenhouse gas emissions since 1990 while expanding its economy?",
           "options": [
-            "By over 50% reduction (Decoupled emissions from economic growth)",
+            "By over 50% reduction",
             "0% reduction",
             "5% reduction",
             "10% increase"
@@ -12338,10 +12338,10 @@
         {
           "prompt": "Who was the visionary British Minister of Health who founded the National Health Service (NHS) on July 5, 1948?",
           "options": [
-            "Winston Churchill (101.1)",
-            "William Beveridge only (101.2)",
-            "Margaret Thatcher (101.3)",
-            "Aneurin Bevan (101.4)"
+            "Winston Churchill",
+            "William Beveridge only",
+            "Margaret Thatcher",
+            "Aneurin Bevan"
           ],
           "answerIndex": 3,
           "explanation": "Aneurin Bevan."
@@ -12353,10 +12353,10 @@
         {
           "prompt": "What is the core founding principle of the British NHS distinguishing it from insurance-based models?",
           "options": [
-            "Mandatory private co-pays for every visit (101.1)",
-            "Exclusion of low-income families (101.2)",
-            "Universal healthcare completely free at the point of delivery based on clinical need (101.3)",
-            "Commercial market auctions (101.4)"
+            "Mandatory private co-pays for every visit",
+            "Exclusion of low-income families",
+            "Universal healthcare completely free at the point of delivery based on clinical need",
+            "Commercial market auctions"
           ],
           "answerIndex": 2,
           "explanation": "Free at the point of delivery based on clinical need."
@@ -12420,10 +12420,10 @@
         {
           "prompt": "Which English country physician developed the world's first successful vaccine in 1796 using cowpox to confer immunity against smallpox?",
           "options": [
-            "Edward Jenner (102.1)",
-            "Charles Darwin (102.2)",
-            "Alexander Fleming (102.3)",
-            "Joseph Lister (102.4)"
+            "Edward Jenner",
+            "Charles Darwin",
+            "Alexander Fleming",
+            "Joseph Lister"
           ],
           "answerIndex": 0,
           "explanation": "Edward Jenner."
@@ -12435,10 +12435,10 @@
         {
           "prompt": "What first antibiotic drug was discovered by Scottish bacteriologist Alexander Fleming at St Mary's Hospital, London in 1928?",
           "options": [
-            "Penicillin (from Penicillium mold) (102.1)",
-            "Aspirin (102.2)",
-            "Insulin (102.3)",
-            "Morphine (102.4)"
+            "Penicillin",
+            "Aspirin",
+            "Insulin",
+            "Morphine"
           ],
           "answerIndex": 0,
           "explanation": "Penicillin."
@@ -12464,7 +12464,7 @@
           "options": [
             "Canis",
             "Equus",
-            "Vacca (Latin for cow)",
+            "Vacca",
             "Felis"
           ],
           "answerIndex": 2,
@@ -12502,10 +12502,10 @@
         {
           "prompt": "Which British biophysicist at King's College London captured the critical X-ray diffraction \"Photo 51\" revealing the double-helical structure of DNA?",
           "options": [
-            "Rosalind Franklin (103.1)",
-            "Ada Lovelace (103.2)",
-            "Marie Curie only (103.3)",
-            "Dorothy Hodgkin (103.4)"
+            "Rosalind Franklin",
+            "Ada Lovelace",
+            "Marie Curie only",
+            "Dorothy Hodgkin"
           ],
           "answerIndex": 0,
           "explanation": "Rosalind Franklin."
@@ -12517,10 +12517,10 @@
         {
           "prompt": "Who is the British biochemist in Cambridge who won TWO Nobel Prizes in Chemistry (for insulin structure in 1958 and DNA sequencing in 1980)?",
           "options": [
-            "Fred Sanger (103.1)",
-            "Stephen Hawking (103.2)",
-            "Francis Crick (103.3)",
-            "Ernest Rutherford (103.4)"
+            "Fred Sanger",
+            "Stephen Hawking",
+            "Francis Crick",
+            "Ernest Rutherford"
           ],
           "answerIndex": 0,
           "explanation": "Fred Sanger."
@@ -12584,10 +12584,10 @@
         {
           "prompt": "Who was born on July 25, 1978 in Oldham, England as the world's first baby conceived through in vitro fertilization (IVF)?",
           "options": [
-            "Mary Warnock (104.1)",
-            "Louise Brown (104.2)",
-            "Rosalind Franklin (104.3)",
-            "Dolly (104.4)"
+            "Mary Warnock",
+            "Louise Brown",
+            "Rosalind Franklin",
+            "Dolly"
           ],
           "answerIndex": 1,
           "explanation": "Louise Brown."
@@ -12599,10 +12599,10 @@
         {
           "prompt": "What was the name of the famous sheep cloned from an adult somatic cell at the Roslin Institute in Edinburgh in 1996 by Sir Ian Wilmut?",
           "options": [
-            "Polly (104.1)",
-            "Dolly the Sheep (104.2)",
-            "Daisy (104.3)",
-            "Molly (104.4)"
+            "Polly",
+            "Dolly the Sheep",
+            "Daisy",
+            "Molly"
           ],
           "answerIndex": 1,
           "explanation": "Dolly the Sheep."
@@ -12626,7 +12626,7 @@
         {
           "prompt": "What statutory British regulatory body created in 1991 oversees human fertility treatment and embryo research in the UK?",
           "options": [
-            "Human Fertilisation and Embryology Authority (HFEA)",
+            "Human Fertilisation and Embryology Authority",
             "Ofsted",
             "The General Medical Council only",
             "The Bank of England"
@@ -12666,10 +12666,10 @@
         {
           "prompt": "Which London-based artificial intelligence system developed by Demis Hassabis and John Jumper solved the 50-year protein folding challenge?",
           "options": [
-            "AlphaFold (Google DeepMind) (105.1)",
-            "ChatGPT (105.2)",
-            "Siri (105.3)",
-            "Watson (105.4)"
+            "AlphaFold",
+            "ChatGPT",
+            "Siri",
+            "Watson"
           ],
           "answerIndex": 0,
           "explanation": "AlphaFold (Google DeepMind)."
@@ -12681,10 +12681,10 @@
         {
           "prompt": "What world-first national initiative sequenced 100,000 complete human genomes to integrate precision genomics into the British NHS?",
           "options": [
-            "The Turing Test (105.1)",
-            "The Apollo Project (105.2)",
-            "The Manhattan Project (105.3)",
-            "The 100,000 Genomes Project (Genomics England) (105.4)"
+            "The Turing Test",
+            "The Apollo Project",
+            "The Manhattan Project",
+            "The 100,000 Genomes Project"
           ],
           "answerIndex": 3,
           "explanation": "The 100,000 Genomes Project."
@@ -12748,10 +12748,10 @@
         {
           "prompt": "Which British philosopher formulated the concept of the mind as a \"Tabula Rasa\" (blank slate) and defended natural rights to Life, Liberty, and Property?",
           "options": [
-            "Thomas Hobbes (106.1)",
-            "David Hume (106.2)",
-            "Francis Bacon (106.3)",
-            "John Locke (106.4)"
+            "Thomas Hobbes",
+            "David Hume",
+            "Francis Bacon",
+            "John Locke"
           ],
           "answerIndex": 3,
           "explanation": "John Locke."
@@ -12763,10 +12763,10 @@
         {
           "prompt": "What monumental political philosophy treatise was written by Thomas Hobbes in 1651 describing life in the state of nature as \"nasty, brutish, and short\"?",
           "options": [
-            "Two Treatises of Government (106.1)",
-            "Wealth of Nations (106.2)",
-            "Leviathan (106.3)",
-            "The Social Contract (106.4)"
+            "Two Treatises of Government",
+            "Wealth of Nations",
+            "Leviathan",
+            "The Social Contract"
           ],
           "answerIndex": 2,
           "explanation": "Leviathan."
@@ -12830,10 +12830,10 @@
         {
           "prompt": "Which philosopher authored the foundational 1859 classic «On Liberty», formulating the Harm Principle to protect individual autonomy from state tyranny?",
           "options": [
-            "John Stuart Mill (107.1)",
-            "Adam Smith (107.2)",
-            "Jeremy Bentham (107.3)",
-            "Herbert Spencer (107.4)"
+            "John Stuart Mill",
+            "Adam Smith",
+            "Jeremy Bentham",
+            "Herbert Spencer"
           ],
           "answerIndex": 0,
           "explanation": "John Stuart Mill."
@@ -12845,10 +12845,10 @@
         {
           "prompt": "What foundational ethical principle was established by Jeremy Bentham to judge the moral goodness of laws and actions?",
           "options": [
-            "The Greatest Happiness for the Greatest Number (The Principle of Utility) (107.1)",
-            "The Divine Right of Kings (107.2)",
-            "Categorical Duty only (107.3)",
-            "Survival of the Fittest (107.4)"
+            "The Greatest Happiness for the Greatest Number",
+            "The Divine Right of Kings",
+            "Categorical Duty only",
+            "Survival of the Fittest"
           ],
           "answerIndex": 0,
           "explanation": "The Principle of Utility."
@@ -12912,10 +12912,10 @@
         {
           "prompt": "Which Austrian-British philosopher authored both the Tractatus Logico-Philosophicus and Philosophical Investigations in Cambridge?",
           "options": [
-            "Ludwig Wittgenstein (108.1)",
-            "Bertrand Russell (108.2)",
-            "Karl Popper (108.3)",
-            "G.E. Moore (108.4)"
+            "Ludwig Wittgenstein",
+            "Bertrand Russell",
+            "Karl Popper",
+            "G.E. Moore"
           ],
           "answerIndex": 0,
           "explanation": "Ludwig Wittgenstein."
@@ -12927,10 +12927,10 @@
         {
           "prompt": "What foundational thesis defines late Wittgenstein's philosophy regarding the nature of linguistic meaning?",
           "options": [
-            "Meaning is use within social language-games (Bedeutung ist Gebrauch) (108.1)",
-            "Only numbers have meaning (108.2)",
-            "Words are permanent eternal essences (108.3)",
-            "Language is purely private and interior (108.4)"
+            "Meaning is use within social language-games",
+            "Only numbers have meaning",
+            "Words are permanent eternal essences",
+            "Language is purely private and interior"
           ],
           "answerIndex": 0,
           "explanation": "Meaning is use in social language-games."
@@ -12994,10 +12994,10 @@
         {
           "prompt": "Which monumental 1922 modernist novel by James Joyce chronicles Leopold Bloom's wanderings across Dublin on June 16, 1904?",
           "options": [
-            "Finnegans Wake (109.1)",
-            "Ulysses (109.2)",
-            "A Portrait of the Artist as a Young Man (109.3)",
-            "Dubliners (109.4)"
+            "Finnegans Wake",
+            "Ulysses",
+            "A Portrait of the Artist as a Young Man",
+            "Dubliners"
           ],
           "answerIndex": 1,
           "explanation": "Ulysses."
@@ -13009,10 +13009,10 @@
         {
           "prompt": "What seminal 1929 feminist essay by Virginia Woolf famously argued that \"a woman must have money and a room of her own if she is to write fiction\"?",
           "options": [
-            "Orlando (109.1)",
-            "A Room of One's Own (109.2)",
-            "The Waves (109.3)",
-            "Three Guineas (109.4)"
+            "Orlando",
+            "A Room of One's Own",
+            "The Waves",
+            "Three Guineas"
           ],
           "answerIndex": 1,
           "explanation": "A Room of One's Own."
@@ -13076,10 +13076,10 @@
         {
           "prompt": "Which philosopher of science formulated Falsificationism as the criterion of demarcation between empirical science and pseudoscience?",
           "options": [
-            "Sir Karl Popper (110.1)",
-            "Thomas Kuhn (110.2)",
-            "Imre Lakatos (110.3)",
-            "Paul Feyerabend (110.4)"
+            "Sir Karl Popper",
+            "Thomas Kuhn",
+            "Imre Lakatos",
+            "Paul Feyerabend"
           ],
           "answerIndex": 0,
           "explanation": "Sir Karl Popper."
@@ -13091,10 +13091,10 @@
         {
           "prompt": "What key distinction in political philosophy was formulated by Isaiah Berlin in his 1958 lecture \"Two Concepts of Liberty\"?",
           "options": [
-            "Civil law vs Criminal law (110.1)",
-            "Direct democracy vs Representative democracy (110.2)",
-            "Monarchy vs Republic (110.3)",
-            "Negative Liberty (Freedom from interference) vs Positive Liberty (Freedom to achieve self-realization) (110.4)"
+            "Civil law vs Criminal law",
+            "Direct democracy vs Representative democracy",
+            "Monarchy vs Republic",
+            "Negative Liberty (Freedom from interference) vs Positive Liberty"
           ],
           "answerIndex": 3,
           "explanation": "Negative Liberty vs Positive Liberty."
@@ -13158,10 +13158,10 @@
         {
           "prompt": "Which polymath and architect redesigned St Paul's Cathedral and 51 churches after the Great Fire of London in 1666?",
           "options": [
-            "Inigo Jones (111.1)",
-            "Nicholas Hawksmoor (111.2)",
-            "Sir John Vanbrugh (111.3)",
-            "Sir Christopher Wren (111.4)"
+            "Inigo Jones",
+            "Nicholas Hawksmoor",
+            "Sir John Vanbrugh",
+            "Sir Christopher Wren"
           ],
           "answerIndex": 3,
           "explanation": "Sir Christopher Wren."
@@ -13173,10 +13173,10 @@
         {
           "prompt": "What structural innovation inside St Paul's Cathedral carries the massive 850-ton exterior stone lantern atop the roof?",
           "options": [
-            "Solid wood pillars (111.1)",
-            "Steel cables from America (111.2)",
-            "A hidden structural brick cone between the inner and outer domes (111.3)",
-            "Concrete buttresses (111.4)"
+            "Solid wood pillars",
+            "Steel cables from America",
+            "A hidden structural brick cone between the inner and outer domes",
+            "Concrete buttresses"
           ],
           "answerIndex": 2,
           "explanation": "A hidden structural brick cone."
@@ -13240,10 +13240,10 @@
         {
           "prompt": "Which master British painter is celebrated as the \"Painter of Light\" for masterpieces like The Fighting Temeraire and Rain, Steam and Speed?",
           "options": [
-            "J.M.W. Turner (112.1)",
-            "Thomas Gainsborough (112.2)",
-            "John Constable (112.3)",
-            "William Blake (112.4)"
+            "J.M.W. Turner",
+            "Thomas Gainsborough",
+            "John Constable",
+            "William Blake"
           ],
           "answerIndex": 0,
           "explanation": "J.M.W. Turner."
@@ -13255,10 +13255,10 @@
         {
           "prompt": "What historic transition is allegorized in Turner's *The Fighting Temeraire* as the wooden warship is towed into the sunset?",
           "options": [
-            "The transition from the romantic age of sail to the industrial age of steam (112.1)",
-            "The discovery of America (112.2)",
-            "The defeat of the Spanish Armada (112.3)",
-            "The invention of airplanes (112.4)"
+            "The transition from the romantic age of sail to the industrial age of steam",
+            "The discovery of America",
+            "The defeat of the Spanish Armada",
+            "The invention of airplanes"
           ],
           "answerIndex": 0,
           "explanation": "The transition from sail to steam."
@@ -13322,10 +13322,10 @@
         {
           "prompt": "Which British designer and socialist thinker founded the Arts and Crafts Movement and Morris & Co. in the 19th century?",
           "options": [
-            "William Morris (113.1)",
-            "John Ruskin (113.2)",
-            "Charles Rennie Mackintosh (113.3)",
-            "Josiah Wedgwood (113.4)"
+            "William Morris",
+            "John Ruskin",
+            "Charles Rennie Mackintosh",
+            "Josiah Wedgwood"
           ],
           "answerIndex": 0,
           "explanation": "William Morris."
@@ -13337,10 +13337,10 @@
         {
           "prompt": "What famous domestic design motto was coined by William Morris regarding home furnishings?",
           "options": [
-            "«Have nothing in your houses that you do not know to be useful, or believe to be beautiful» (113.1)",
-            "«More is always better» (113.2)",
-            "«Form follows function alone» (113.3)",
-            "«Buy cheap and replace fast» (113.4)"
+            "«Have nothing in your houses that you do not know to be useful, or believe to be beautiful»",
+            "«More is always better»",
+            "«Form follows function alone»",
+            "«Buy cheap and replace fast»"
           ],
           "answerIndex": 0,
           "explanation": "«Have nothing in your houses that is not useful or beautiful»."
@@ -13404,10 +13404,10 @@
         {
           "prompt": "Which British architect designed \"The Gherkin\" (30 St Mary Axe) and the glass dome of the Berlin Reichstag, winning the 1999 Pritzker Prize?",
           "options": [
-            "Sir David Chipperfield (114.1)",
-            "Lord Norman Foster (114.2)",
-            "Zaha Hadid (114.3)",
-            "Sir Richard Rogers (114.4)"
+            "Sir David Chipperfield",
+            "Lord Norman Foster",
+            "Zaha Hadid",
+            "Sir Richard Rogers"
           ],
           "answerIndex": 1,
           "explanation": "Lord Norman Foster."
@@ -13419,10 +13419,10 @@
         {
           "prompt": "What iconic \"inside-out\" building in the City of London was designed by Richard Rogers with external glass lifts and stainless steel service ducts?",
           "options": [
-            "Tower Bridge (114.1)",
-            "Lloyd's of London (Lime Street) (114.2)",
-            "Bank of England (114.3)",
-            "The Shard (114.4)"
+            "Tower Bridge",
+            "Lloyd's of London",
+            "Bank of England",
+            "The Shard"
           ],
           "answerIndex": 1,
           "explanation": "Lloyd's of London."
@@ -13486,10 +13486,10 @@
         {
           "prompt": "Which British painter created visceral triptychs of screaming figures and distorted popes enclosed in transparent geometric cubes?",
           "options": [
-            "Francis Bacon (115.1)",
-            "Lucian Freud (115.2)",
-            "Damien Hirst (115.3)",
-            "David Hockney (115.4)"
+            "Francis Bacon",
+            "Lucian Freud",
+            "Damien Hirst",
+            "David Hockney"
           ],
           "answerIndex": 0,
           "explanation": "Francis Bacon."
@@ -13501,10 +13501,10 @@
         {
           "prompt": "Which grandson of Sigmund Freud is celebrated as the master of intense, sculptural impasto figurative nude portraits?",
           "options": [
-            "Francis Bacon (115.1)",
-            "Frank Auerbach (115.2)",
-            "Leon Kossoff (115.3)",
-            "Lucian Freud (115.4)"
+            "Francis Bacon",
+            "Frank Auerbach",
+            "Leon Kossoff",
+            "Lucian Freud"
           ],
           "answerIndex": 3,
           "explanation": "Lucian Freud."
@@ -13568,10 +13568,10 @@
         {
           "prompt": "Which British composer wrote the Enigma Variations (featuring Nimrod) and the iconic Cello Concerto in E minor?",
           "options": [
-            "Ralph Vaughan Williams (116.1)",
-            "Benjamin Britten (116.2)",
-            "Gustav Holst (116.3)",
-            "Sir Edward Elgar (116.4)"
+            "Ralph Vaughan Williams",
+            "Benjamin Britten",
+            "Gustav Holst",
+            "Sir Edward Elgar"
           ],
           "answerIndex": 3,
           "explanation": "Sir Edward Elgar."
@@ -13583,10 +13583,10 @@
         {
           "prompt": "Which legendary British cellist made the definitive, passionately fiery 1965 recording of Elgar's Cello Concerto with conductor John Barbirolli?",
           "options": [
-            "Mstislav Rostropovich (116.1)",
-            "Jacqueline du Pré (116.2)",
-            "Steven Isserlis (116.3)",
-            "Sheku Kanneh-Mason (116.4)"
+            "Mstislav Rostropovich",
+            "Jacqueline du Pré",
+            "Steven Isserlis",
+            "Sheku Kanneh-Mason"
           ],
           "answerIndex": 1,
           "explanation": "Jacqueline du Pré."
@@ -13650,10 +13650,10 @@
         {
           "prompt": "Which British composer wrote \"The Lark Ascending\" for solo violin and orchestra and the \"Fantasia on a Theme by Thomas Tallis\"?",
           "options": [
-            "Ralph Vaughan Williams (117.1)",
-            "William Walton (117.2)",
-            "Sir Edward Elgar (117.3)",
-            "Frederick Delius (117.4)"
+            "Ralph Vaughan Williams",
+            "William Walton",
+            "Sir Edward Elgar",
+            "Frederick Delius"
           ],
           "answerIndex": 0,
           "explanation": "Ralph Vaughan Williams."
@@ -13665,10 +13665,10 @@
         {
           "prompt": "What unique string orchestra configuration did Vaughan Williams specify for his *Fantasia on a Theme by Thomas Tallis* in Gloucester Cathedral?",
           "options": [
-            "A double string orchestra plus a solo string quartet (117.1)",
-            "A single string quartet only (117.2)",
-            "A full brass band with strings (117.3)",
-            "A string orchestra with electric bass (117.4)"
+            "A double string orchestra plus a solo string quartet",
+            "A single string quartet only",
+            "A full brass band with strings",
+            "A string orchestra with electric bass"
           ],
           "answerIndex": 0,
           "explanation": "A double string orchestra plus a solo string quartet."
@@ -13732,10 +13732,10 @@
         {
           "prompt": "Which 20th-century British composer wrote the monumental \"War Requiem\" for the consecration of Coventry Cathedral and the opera \"Peter Grimes\"?",
           "options": [
-            "Benjamin Britten (118.1)",
-            "Michael Tippett (118.2)",
-            "William Walton (118.3)",
-            "John Tavener (118.4)"
+            "Benjamin Britten",
+            "Michael Tippett",
+            "William Walton",
+            "John Tavener"
           ],
           "answerIndex": 0,
           "explanation": "Benjamin Britten."
@@ -13747,10 +13747,10 @@
         {
           "prompt": "Whose tragic World War I anti-war poems were juxtaposed with the Latin Requiem Mass in Benjamin Britten's *War Requiem*?",
           "options": [
-            "Wilfred Owen (118.1)",
-            "T.S. Eliot (118.2)",
-            "Siegfried Sassoon (118.3)",
-            "Rupert Brooke (118.4)"
+            "Wilfred Owen",
+            "T.S. Eliot",
+            "Siegfried Sassoon",
+            "Rupert Brooke"
           ],
           "answerIndex": 0,
           "explanation": "Wilfred Owen."
@@ -13814,10 +13814,10 @@
         {
           "prompt": "Which British composer created the monumental orchestral suite \"The Planets\", featuring Mars in 5/4 time and Jupiter?",
           "options": [
-            "Arnold Bax (119.1)",
-            "Gustav Holst (119.2)",
-            "Malcolm Arnold (119.3)",
-            "Arthur Bliss (119.4)"
+            "Arnold Bax",
+            "Gustav Holst",
+            "Malcolm Arnold",
+            "Arthur Bliss"
           ],
           "answerIndex": 1,
           "explanation": "Gustav Holst."
@@ -13829,10 +13829,10 @@
         {
           "prompt": "What innovative theatrical staging technique concludes \"Neptune, the Mystic\" in Holst's *The Planets* to create the illusion of infinite space?",
           "options": [
-            "The orchestra smashes their instruments (119.1)",
-            "A wordless offstage female choir whose room door is slowly closed into absolute silence (119.2)",
-            "A recorded tape player is unplugged (119.3)",
-            "The hall lights are turned off (119.4)"
+            "The orchestra smashes their instruments",
+            "A wordless offstage female choir whose room door is slowly closed into absolute silence",
+            "A recorded tape player is unplugged",
+            "The hall lights are turned off"
           ],
           "answerIndex": 1,
           "explanation": "A wordless offstage female choir whose room door is slowly closed."
@@ -13896,10 +13896,10 @@
         {
           "prompt": "Which world-famous annual eight-week summer classical music festival was founded in London in 1895 by Sir Henry Wood at the Royal Albert Hall?",
           "options": [
-            "The BBC Proms (Promenade Concerts) (120.1)",
-            "The Edinburgh Festival (120.2)",
-            "The Salzburg Festival (120.3)",
-            "The Glyndebourne Festival (120.4)"
+            "The BBC Proms",
+            "The Edinburgh Festival",
+            "The Salzburg Festival",
+            "The Glyndebourne Festival"
           ],
           "answerIndex": 0,
           "explanation": "The BBC Proms (Promenade Concerts)."
@@ -13911,10 +13911,10 @@
         {
           "prompt": "What fiberglass acoustic structures were suspended from the glass ceiling of the Royal Albert Hall in 1969 to eliminate echo and diffuse sound?",
           "options": [
-            "Heavy velvet drapes only (120.1)",
-            "Wooden panels on the floor (120.2)",
-            "Steel cages (120.3)",
-            "Acoustic \"Mushrooms\" / Flying Saucers (Fibreglass diffusers) (120.4)"
+            "Heavy velvet drapes only",
+            "Wooden panels on the floor",
+            "Steel cages",
+            "Acoustic \"Mushrooms\" / Flying Saucers"
           ],
           "answerIndex": 3,
           "explanation": "Acoustic \"Mushrooms\" / Flying Saucers."
@@ -13938,7 +13938,7 @@
         {
           "prompt": "Which William Blake poem set to music by Sir Hubert Parry is sung with fervor by thousands of audience members on the Last Night of the Proms?",
           "options": [
-            "«Jerusalem» (And did those feet in ancient time)",
+            "«Jerusalem»",
             "«The Tyger»",
             "«Songs of Innocence»",
             "«London»"
@@ -13978,10 +13978,10 @@
         {
           "prompt": "Which British filmmaker is universally known as the \"Master of Suspense\" for directing Vertigo, Rear Window, and Psycho?",
           "options": [
-            "Sir David Lean (121.1)",
-            "Stanley Kubrick (121.2)",
-            "Sir Ridley Scott (121.3)",
-            "Sir Alfred Hitchcock (121.4)"
+            "Sir David Lean",
+            "Stanley Kubrick",
+            "Sir Ridley Scott",
+            "Sir Alfred Hitchcock"
           ],
           "answerIndex": 3,
           "explanation": "Sir Alfred Hitchcock."
@@ -13993,10 +13993,10 @@
         {
           "prompt": "What optical camera technique, combining a camera dolly movement in one direction with a simultaneous lens zoom in the opposite direction, was invented for *Vertigo*?",
           "options": [
-            "Dutch Angle only (121.1)",
-            "The Dolly Zoom / Vertigo Effect (121.2)",
-            "Whip pan (121.3)",
-            "Bullet time (121.4)"
+            "Dutch Angle only",
+            "The Dolly Zoom / Vertigo Effect",
+            "Whip pan",
+            "Bullet time"
           ],
           "answerIndex": 1,
           "explanation": "The Dolly Zoom / Vertigo Effect."
@@ -14060,10 +14060,10 @@
         {
           "prompt": "Which British director won Academy Awards for directing the monumental 70mm cinematic epics \"Lawrence of Arabia\" (1962) and \"The Bridge on the River Kwai\"?",
           "options": [
-            "Sir David Lean (122.1)",
-            "Michael Powell (122.2)",
-            "Sir Richard Attenborough (122.3)",
-            "Sir Carol Reed (122.4)"
+            "Sir David Lean",
+            "Michael Powell",
+            "Sir Richard Attenborough",
+            "Sir Carol Reed"
           ],
           "answerIndex": 0,
           "explanation": "Sir David Lean."
@@ -14075,10 +14075,10 @@
         {
           "prompt": "What famous editing transition in *Lawrence of Arabia* cuts instantly from Peter O'Toole blowing out a lit match to the vast rising desert sun?",
           "options": [
-            "The Match Cut (122.1)",
-            "A slow dissolve (122.2)",
-            "A freeze frame (122.3)",
-            "A spiral wipe (122.4)"
+            "The Match Cut",
+            "A slow dissolve",
+            "A freeze frame",
+            "A spiral wipe"
           ],
           "answerIndex": 0,
           "explanation": "The Match Cut."
@@ -14142,10 +14142,10 @@
         {
           "prompt": "Which master filmmaker directed \"2001: A Space Odyssey\" (1968), \"The Shining\" (1980), and \"Barry Lyndon\" (1975) with obsessive symmetrical precision?",
           "options": [
-            "Stanley Kubrick (123.1)",
-            "Ridley Scott (123.2)",
-            "Christopher Nolan (123.3)",
-            "Francis Ford Coppola (123.4)"
+            "Stanley Kubrick",
+            "Ridley Scott",
+            "Christopher Nolan",
+            "Francis Ford Coppola"
           ],
           "answerIndex": 0,
           "explanation": "Stanley Kubrick."
@@ -14157,10 +14157,10 @@
         {
           "prompt": "What specialized camera lenses, developed for NASA Apollo moon missions, were used by Kubrick to film *Barry Lyndon* entirely by natural candlelight?",
           "options": [
-            "Ultra-fast f/0.7 Zeiss lenses (123.1)",
-            "Polaroid lenses (123.2)",
-            "Standard iPhone lenses (123.3)",
-            "Plastic pinhole lenses (123.4)"
+            "Ultra-fast f/0.7 Zeiss lenses",
+            "Polaroid lenses",
+            "Standard iPhone lenses",
+            "Plastic pinhole lenses"
           ],
           "answerIndex": 0,
           "explanation": "Ultra-fast f/0.7 Zeiss lenses."
@@ -14224,10 +14224,10 @@
         {
           "prompt": "Which British visionary director created the cyberpunk landmark \"Blade Runner\" (1982) and the sci-fi horror masterpiece \"Alien\" (1979)?",
           "options": [
-            "Paul Verhoeven (124.1)",
-            "James Cameron (124.2)",
-            "Sir Ridley Scott (124.3)",
-            "Christopher Nolan (124.4)"
+            "Paul Verhoeven",
+            "James Cameron",
+            "Sir Ridley Scott",
+            "Christopher Nolan"
           ],
           "answerIndex": 2,
           "explanation": "Sir Ridley Scott."
@@ -14239,10 +14239,10 @@
         {
           "prompt": "Which Dutch actor portrayed replicant leader Roy Batty in *Blade Runner*, delivering the immortal \"Tears in Rain\" rooftop monologue?",
           "options": [
-            "Edward James Olmos (124.1)",
-            "Rutger Hauer (124.2)",
-            "Rutger Hauer (124.3)",
-            "Harrison Ford (124.4)"
+            "Edward James Olmos",
+            "Rutger Hauer",
+            "Rutger Hauer",
+            "Harrison Ford"
           ],
           "answerIndex": 1,
           "explanation": "Rutger Hauer."
@@ -14306,10 +14306,10 @@
         {
           "prompt": "Which British-American director won the Academy Award for Best Director and Best Picture for \"Oppenheimer\" (2023) and directed \"Inception\" and \"Interstellar\"?",
           "options": [
-            "Christopher Nolan (125.1)",
-            "Denis Villeneuve (125.2)",
-            "David Fincher (125.3)",
-            "Sam Mendes (125.4)"
+            "Christopher Nolan",
+            "Denis Villeneuve",
+            "David Fincher",
+            "Sam Mendes"
           ],
           "answerIndex": 0,
           "explanation": "Christopher Nolan."
@@ -14321,10 +14321,10 @@
         {
           "prompt": "Which Nobel Prize-winning astrophysicist served as scientific advisor and executive producer for Christopher Nolan's *Interstellar* (2014)?",
           "options": [
-            "Stephen Hawking (125.1)",
-            "Roger Penrose (125.2)",
-            "Neil deGrasse Tyson (125.3)",
-            "Kip Thorne (125.4)"
+            "Stephen Hawking",
+            "Roger Penrose",
+            "Neil deGrasse Tyson",
+            "Kip Thorne"
           ],
           "answerIndex": 3,
           "explanation": "Kip Thorne."
@@ -14388,10 +14388,10 @@
         {
           "prompt": "Which English playwright wrote Hamlet, King Lear, and Macbeth, performing at London's Globe Theatre in 1599?",
           "options": [
-            "Christopher Marlowe (126.1)",
-            "Ben Jonson (126.2)",
-            "John Webster (126.3)",
-            "William Shakespeare (126.4)"
+            "Christopher Marlowe",
+            "Ben Jonson",
+            "John Webster",
+            "William Shakespeare"
           ],
           "answerIndex": 3,
           "explanation": "William Shakespeare."
@@ -14403,10 +14403,10 @@
         {
           "prompt": "What metrical rhythm, consisting of five metrical feet of an unstressed syllable followed by a stressed syllable, defines Shakespearean blank verse?",
           "options": [
-            "Trochaic Hexameter (126.1)",
-            "Iambic Pentameter (da-DUM da-DUM da-DUM da-DUM da-DUM) (126.2)",
-            "Dactylic Tetrameter (126.3)",
-            "Anapestic Trimeter (126.4)"
+            "Trochaic Hexameter",
+            "Iambic Pentameter",
+            "Dactylic Tetrameter",
+            "Anapestic Trimeter"
           ],
           "answerIndex": 1,
           "explanation": "Iambic Pentameter."
@@ -14432,7 +14432,7 @@
           "options": [
             "The Oxford Anthology",
             "The Gutenberg Bible",
-            "The First Folio (1623)",
+            "The First Folio",
             "The Quarto of Stratford"
           ],
           "answerIndex": 2,
@@ -14470,10 +14470,10 @@
         {
           "prompt": "Which Victorian master of wit and irony wrote the satirical masterpiece \"The Importance of Being Earnest\" in 1895?",
           "options": [
-            "Oscar Wilde (127.1)",
-            "Noël Coward (127.2)",
-            "W.B. Yeats (127.3)",
-            "George Bernard Shaw (127.4)"
+            "Oscar Wilde",
+            "Noël Coward",
+            "W.B. Yeats",
+            "George Bernard Shaw"
           ],
           "answerIndex": 0,
           "explanation": "Oscar Wilde."
@@ -14485,10 +14485,10 @@
         {
           "prompt": "What shocking location where baby Jack Worthing was abandoned in a handbag scandalizes Lady Bracknell in *The Importance of Being Earnest*?",
           "options": [
-            "The cloakroom at Victoria Station (Brighton Line) (127.1)",
-            "Buckingham Palace (127.2)",
-            "Hyde Park (127.3)",
-            "The British Museum (127.4)"
+            "The cloakroom at Victoria Station",
+            "Buckingham Palace",
+            "Hyde Park",
+            "The British Museum"
           ],
           "answerIndex": 0,
           "explanation": "The cloakroom at Victoria Station."
@@ -14513,7 +14513,7 @@
           "prompt": "What fictitious invalid friend invented by Algernon gives his name to the practice of avoiding social obligations in *The Importance of Being Earnest*?",
           "options": [
             "Ernest",
-            "Bunbury (Bunburying)",
+            "Bunbury",
             "Chasuble",
             "Algernon"
           ],
@@ -14552,10 +14552,10 @@
         {
           "prompt": "Which American dramatist won the Pulitzer Prize for \"Death of a Salesman\" (1949) and wrote the McCarthyism allegory \"The Crucible\" (1953)?",
           "options": [
-            "Arthur Miller (128.1)",
-            "Tennessee Williams (128.2)",
-            "Eugene O'Neill (128.3)",
-            "Edward Albee (128.4)"
+            "Arthur Miller",
+            "Tennessee Williams",
+            "Eugene O'Neill",
+            "Edward Albee"
           ],
           "answerIndex": 0,
           "explanation": "Arthur Miller."
@@ -14567,10 +14567,10 @@
         {
           "prompt": "What memorable plea for human dignity is spoken by Linda Loman regarding her struggling husband Willy in *Death of a Salesman*?",
           "options": [
-            "«Attention, attention must finally be paid to such a person.» (128.1)",
-            "«Success will come tomorrow.» (128.2)",
-            "«Money is everything in life.» (128.3)",
-            "«Forget him and move on.» (128.4)"
+            "«Attention, attention must finally be paid to such a person.»",
+            "«Success will come tomorrow.»",
+            "«Money is everything in life.»",
+            "«Forget him and move on.»"
           ],
           "answerIndex": 0,
           "explanation": "«Attention, attention must finally be paid...»"
@@ -14634,10 +14634,10 @@
         {
           "prompt": "Which British Nobel Prize-winning dramatist invented the \"Comedy of Menace\" and made famous the theatrical use of pregnant silences known as the \"Pinter Pause\"?",
           "options": [
-            "Caryl Churchill (129.1)",
-            "Samuel Beckett (129.2)",
-            "Harold Pinter (129.3)",
-            "Tom Stoppard (129.4)"
+            "Caryl Churchill",
+            "Samuel Beckett",
+            "Harold Pinter",
+            "Tom Stoppard"
           ],
           "answerIndex": 2,
           "explanation": "Harold Pinter."
@@ -14649,10 +14649,10 @@
         {
           "prompt": "What unique structural narrative technique is famously used in Harold Pinter's 1978 relationship masterpiece *Betrayal*?",
           "options": [
-            "No dialogue, pure mime (129.1)",
-            "Reverse chronological order (Told backwards in time) (129.2)",
-            "Musical opera format (129.3)",
-            "All rhyming verse (129.4)"
+            "No dialogue, pure mime",
+            "Reverse chronological order",
+            "Musical opera format",
+            "All rhyming verse"
           ],
           "answerIndex": 1,
           "explanation": "Reverse chronological order."
@@ -14716,10 +14716,10 @@
         {
           "prompt": "Which master British playwright wrote the meta-theatrical Hamlet spin-off \"Rosencrantz and Guildenstern Are Dead\" (1966) and \"Arcadia\" (1993)?",
           "options": [
-            "Sir Tom Stoppard (130.1)",
-            "Harold Pinter (130.2)",
-            "David Hare (130.3)",
-            "Alan Bennett (130.4)"
+            "Sir Tom Stoppard",
+            "Harold Pinter",
+            "David Hare",
+            "Alan Bennett"
           ],
           "answerIndex": 0,
           "explanation": "Sir Tom Stoppard."
@@ -14731,10 +14731,10 @@
         {
           "prompt": "What scientific concepts, including the Second Law of Thermodynamics and deterministic chaos, are interwoven with English romantic poetry in Stoppard's *Arcadia*?",
           "options": [
-            "Quantum electrodynamics only (130.1)",
-            "Boyle's gas laws (130.2)",
-            "Plate tectonics (130.3)",
-            "Chaos theory, fractal geometry, and entropy (130.4)"
+            "Quantum electrodynamics only",
+            "Boyle's gas laws",
+            "Plate tectonics",
+            "Chaos theory, fractal geometry, and entropy"
           ],
           "answerIndex": 3,
           "explanation": "Chaos theory, fractal geometry, and entropy."
@@ -14798,10 +14798,10 @@
         {
           "prompt": "Which 20th-century British composer resurrected English opera with \"Peter Grimes\" (1945) and founded the Aldeburgh Festival?",
           "options": [
-            "Edward Elgar (131.1)",
-            "Ralph Vaughan Williams (131.2)",
-            "William Walton (131.3)",
-            "Benjamin Britten (131.4)"
+            "Edward Elgar",
+            "Ralph Vaughan Williams",
+            "William Walton",
+            "Benjamin Britten"
           ],
           "answerIndex": 3,
           "explanation": "Benjamin Britten."
@@ -14813,10 +14813,10 @@
         {
           "prompt": "What famous orchestral suite extracted from Britten's *Peter Grimes* portrays the shifting atmospheric moods of the Suffolk coastline?",
           "options": [
-            "The Four Sea Interludes (131.1)",
-            "Enigma Variations (131.2)",
-            "The Planets (131.3)",
-            "Fantasia on a Theme by Thomas Tallis (131.4)"
+            "The Four Sea Interludes",
+            "Enigma Variations",
+            "The Planets",
+            "Fantasia on a Theme by Thomas Tallis"
           ],
           "answerIndex": 0,
           "explanation": "The Four Sea Interludes."
@@ -14880,10 +14880,10 @@
         {
           "prompt": "Which Canadian-born dramatic tenor was celebrated worldwide for his titanic, brooding portrayal of Britten's \"Peter Grimes\" and Wagner's \"Tristan\"?",
           "options": [
-            "Jon Vickers (132.1)",
-            "James McCracken (132.2)",
-            "Richard Cassilly (132.3)",
-            "Peter Pears (132.4)"
+            "Jon Vickers",
+            "James McCracken",
+            "Richard Cassilly",
+            "Peter Pears"
           ],
           "answerIndex": 0,
           "explanation": "Jon Vickers."
@@ -14895,10 +14895,10 @@
         {
           "prompt": "Which British conductor partnered with Jon Vickers on the definitive 1978 Royal Opera House Covent Garden film and recording of *Peter Grimes*?",
           "options": [
-            "Sir Colin Davis (132.1)",
-            "Sir Georg Solti (132.2)",
-            "Sir Adrian Boult (132.3)",
-            "Sir Simon Rattle (132.4)"
+            "Sir Colin Davis",
+            "Sir Georg Solti",
+            "Sir Adrian Boult",
+            "Sir Simon Rattle"
           ],
           "answerIndex": 0,
           "explanation": "Sir Colin Davis."
@@ -14962,10 +14962,10 @@
         {
           "prompt": "Which American composer synthesized jazz, blues, and classical opera in \"Porgy and Bess\" (1935), featuring the immortal aria \"Summertime\"?",
           "options": [
-            "George Gershwin (133.1)",
-            "Aaron Copland (133.2)",
-            "Leonard Bernstein (133.3)",
-            "Samuel Barber (133.4)"
+            "George Gershwin",
+            "Aaron Copland",
+            "Leonard Bernstein",
+            "Samuel Barber"
           ],
           "answerIndex": 0,
           "explanation": "George Gershwin."
@@ -14977,10 +14977,10 @@
         {
           "prompt": "What Charleston, South Carolina tenement community serves as the historic setting for Gershwin's *Porgy and Bess*?",
           "options": [
-            "Catfish Row (133.1)",
-            "Beale Street (133.2)",
-            "Bourbon Street (133.3)",
-            "Harlem Plaza (133.4)"
+            "Catfish Row",
+            "Beale Street",
+            "Bourbon Street",
+            "Harlem Plaza"
           ],
           "answerIndex": 0,
           "explanation": "Catfish Row."
@@ -15044,10 +15044,10 @@
         {
           "prompt": "Which American post-minimalist composer created the groundbreaking historical operas \"Nixon in China\" (1987) and \"Doctor Atomic\" (2005)?",
           "options": [
-            "Michael Nyman (134.1)",
-            "Steve Reich (134.2)",
-            "John Adams (134.3)",
-            "Philip Glass (134.4)"
+            "Michael Nyman",
+            "Steve Reich",
+            "John Adams",
+            "Philip Glass"
           ],
           "answerIndex": 2,
           "explanation": "John Adams."
@@ -15059,10 +15059,10 @@
         {
           "prompt": "What 17th-century John Donne Holy Sonnet is set to a devastating aria sung by J. Robert Oppenheimer in Adams's *Doctor Atomic*?",
           "options": [
-            "«A Valediction: Forbidding Mourning» (134.1)",
-            "«Batter my heart, three-person'd God» (134.2)",
-            "«The Sun Rising» (134.3)",
-            "«Death, be not proud» (134.4)"
+            "«A Valediction: Forbidding Mourning»",
+            "«Batter my heart, three-person'd God»",
+            "«The Sun Rising»",
+            "«Death, be not proud»"
           ],
           "answerIndex": 1,
           "explanation": "«Batter my heart, three-person'd God»."
@@ -15126,10 +15126,10 @@
         {
           "prompt": "Which historic London opera house in Bow Street was led for over two decades by Music Director Sir Antonio Pappano?",
           "options": [
-            "The Royal Opera House Covent Garden (135.1)",
-            "English National Opera (Coliseum) (135.2)",
-            "Sadler's Wells (135.3)",
-            "Glyndebourne (135.4)"
+            "The Royal Opera House Covent Garden",
+            "English National Opera",
+            "Sadler's Wells",
+            "Glyndebourne"
           ],
           "answerIndex": 0,
           "explanation": "The Royal Opera House Covent Garden."
@@ -15141,10 +15141,10 @@
         {
           "prompt": "Which grand cultural complex in Manhattan, New York, houses the 3,850-seat Metropolitan Opera with its famous Marc Chagall murals?",
           "options": [
-            "Carnegie Hall (135.1)",
-            "Radio City Music Hall (135.2)",
-            "Broadway Theatre District (135.3)",
-            "Lincoln Center for the Performing Arts (135.4)"
+            "Carnegie Hall",
+            "Radio City Music Hall",
+            "Broadway Theatre District",
+            "Lincoln Center for the Performing Arts"
           ],
           "answerIndex": 3,
           "explanation": "Lincoln Center for the Performing Arts."
@@ -15208,10 +15208,10 @@
         {
           "prompt": "Which master English astronomer and architect rebuilt St Paul's Cathedral and 52 parish churches following the Great Fire of London in 1666?",
           "options": [
-            "Inigo Jones (136.1)",
-            "Nicholas Hawksmoor (136.2)",
-            "Sir John Vanbrugh (136.3)",
-            "Sir Christopher Wren (136.4)"
+            "Inigo Jones",
+            "Nicholas Hawksmoor",
+            "Sir John Vanbrugh",
+            "Sir Christopher Wren"
           ],
           "answerIndex": 3,
           "explanation": "Sir Christopher Wren."
@@ -15223,10 +15223,10 @@
         {
           "prompt": "What hidden structural element inside St Paul's Cathedral supports the 850-ton Portland stone summit lantern between the inner and outer domes?",
           "options": [
-            "A hidden structural brick cone (Një kon strukturor me tulla) (136.1)",
-            "A steel truss framework (136.2)",
-            "Solid granite columns (136.3)",
-            "A hollow wooden pyramid (136.4)"
+            "A hidden structural brick cone",
+            "A steel truss framework",
+            "Solid granite columns",
+            "A hollow wooden pyramid"
           ],
           "answerIndex": 0,
           "explanation": "A hidden structural brick cone."
@@ -15290,10 +15290,10 @@
         {
           "prompt": "Which master American architect designed Fallingwater directly over a waterfall in Pennsylvania and the spiraling Guggenheim Museum in New York?",
           "options": [
-            "Frank Lloyd Wright (137.1)",
-            "Mies van der Rohe (137.2)",
-            "Frank Gehry (137.3)",
-            "Louis Sullivan (137.4)"
+            "Frank Lloyd Wright",
+            "Mies van der Rohe",
+            "Frank Gehry",
+            "Louis Sullivan"
           ],
           "answerIndex": 0,
           "explanation": "Frank Lloyd Wright."
@@ -15305,10 +15305,10 @@
         {
           "prompt": "What dramatic structural engineering technique allowed Frank Lloyd Wright to float the outdoor living terraces of Fallingwater out over the river water?",
           "options": [
-            "Cantilevered reinforced concrete trays (Bandeja konzolë prej betoni të armuar) (137.1)",
-            "Suspended steel wire cables (137.2)",
-            "Brick masonry arches (137.3)",
-            "Wooden stilts in the riverbed (137.4)"
+            "Cantilevered reinforced concrete trays",
+            "Suspended steel wire cables",
+            "Brick masonry arches",
+            "Wooden stilts in the riverbed"
           ],
           "answerIndex": 0,
           "explanation": "Cantilevered reinforced concrete trays."
@@ -15335,7 +15335,7 @@
             "A series of enclosed escalators",
             "Separate square elevator rooms",
             "A glass suspension bridge",
-            "A continuous spiraling ramp (Një rampë e vazhdueshme spirale)"
+            "A continuous spiraling ramp"
           ],
           "answerIndex": 3,
           "explanation": "A continuous spiraling ramp.",
@@ -15372,10 +15372,10 @@
         {
           "prompt": "Which British High-Tech architect won the Pritzker Prize in 1999 and designed the Reichstag glass dome in Berlin and \"The Gherkin\" in London?",
           "options": [
-            "Lord Norman Foster (138.1)",
-            "Richard Rogers (138.2)",
-            "Sir David Chipperfield (138.3)",
-            "Nicholas Grimshaw (138.4)"
+            "Lord Norman Foster",
+            "Richard Rogers",
+            "Sir David Chipperfield",
+            "Nicholas Grimshaw"
           ],
           "answerIndex": 0,
           "explanation": "Lord Norman Foster."
@@ -15387,10 +15387,10 @@
         {
           "prompt": "What symbolic architectural feature inside Norman Foster's Reichstag dome in Berlin reflects natural sunlight down into the parliamentary chamber?",
           "options": [
-            "An inverted cone clad in 360 mirrors (Një kon i përmbysur me 360 pasqyra) (138.1)",
-            "A motorized golden disk (138.2)",
-            "A stained-glass cross (138.3)",
-            "A giant crystal chandelier (138.4)"
+            "An inverted cone clad in 360 mirrors",
+            "A motorized golden disk",
+            "A stained-glass cross",
+            "A giant crystal chandelier"
           ],
           "answerIndex": 0,
           "explanation": "An inverted cone clad in 360 mirrors."
@@ -15454,10 +15454,10 @@
         {
           "prompt": "Which Canadian-American Pritzker laureate designed the titanium-clad Guggenheim Museum Bilbao and the Walt Disney Concert Hall in Los Angeles?",
           "options": [
-            "Thom Mayne (139.1)",
-            "Peter Eisenman (139.2)",
-            "Frank Gehry (139.3)",
-            "Daniel Libeskind (139.4)"
+            "Thom Mayne",
+            "Peter Eisenman",
+            "Frank Gehry",
+            "Daniel Libeskind"
           ],
           "answerIndex": 2,
           "explanation": "Frank Gehry."
@@ -15469,10 +15469,10 @@
         {
           "prompt": "What economic phenomenon describes how a single transformative architectural masterpiece can revitalize a post-industrial city's entire economy?",
           "options": [
-            "The Titanium Phenomenon (139.1)",
-            "The Bilbao Effect (Efekti i Bilbaos) (139.2)",
-            "The Gehry Dynamic (139.3)",
-            "The Guggenheim Index (139.4)"
+            "The Titanium Phenomenon",
+            "The Bilbao Effect",
+            "The Gehry Dynamic",
+            "The Guggenheim Index"
           ],
           "answerIndex": 1,
           "explanation": "The Bilbao Effect (Efekti i Bilbaos)."
@@ -15497,7 +15497,7 @@
           "prompt": "What metal was chosen to clad the exterior undulating ribbons of the Guggenheim Museum Bilbao for its golden-silver luster in rainy northern climates?",
           "options": [
             "Cast iron",
-            "Titanium (0.38mm sheets)",
+            "Titanium",
             "Painted aluminum",
             "Polished copper"
           ],
@@ -15536,10 +15536,10 @@
         {
           "prompt": "Which master architect designed the 310-meter pyramid skyscraper \"The Shard\" on London Bridge and co-designed the Centre Pompidou in Paris?",
           "options": [
-            "Renzo Piano (140.1)",
-            "Lord Norman Foster (140.2)",
-            "Sir Terry Farrell (140.3)",
-            "Richard Rogers (140.4)"
+            "Renzo Piano",
+            "Lord Norman Foster",
+            "Sir Terry Farrell",
+            "Richard Rogers"
           ],
           "answerIndex": 0,
           "explanation": "Renzo Piano."
@@ -15551,10 +15551,10 @@
         {
           "prompt": "What multi-use architectural concept was realized by Renzo Piano in The Shard, combining transport hubs, offices, hotels, residences, and viewing galleries in one tower?",
           "options": [
-            "The Glass Fortress (140.1)",
-            "The Modular Commune (140.2)",
-            "The Sky Monolith (140.3)",
-            "The Vertical City (Qyteti Vertikal) (140.4)"
+            "The Glass Fortress",
+            "The Modular Commune",
+            "The Sky Monolith",
+            "The Vertical City"
           ],
           "answerIndex": 3,
           "explanation": "The Vertical City (Qyteti Vertikal)."
@@ -15618,10 +15618,10 @@
         {
           "prompt": "Which master English philosopher formulated the \"Tabula Rasa\" empirical theory of mind and the natural rights to Life, Liberty, and Property in 1689?",
           "options": [
-            "Thomas Hobbes (141.1)",
-            "David Hume (141.2)",
-            "John Stuart Mill (141.3)",
-            "John Locke (141.4)"
+            "Thomas Hobbes",
+            "David Hume",
+            "John Stuart Mill",
+            "John Locke"
           ],
           "answerIndex": 3,
           "explanation": "John Locke."
@@ -15633,10 +15633,10 @@
         {
           "prompt": "What Latin term, meaning \"Blank Slate\", was popularized by Locke to describe the human mind at birth before experience writes upon it?",
           "options": [
-            "Tabula Rasa (Blank Slate) (141.1)",
-            "Cogito Ergo Sum (141.2)",
-            "De Facto (141.3)",
-            "Prima Facie (141.4)"
+            "Tabula Rasa",
+            "Cogito Ergo Sum",
+            "De Facto",
+            "Prima Facie"
           ],
           "answerIndex": 0,
           "explanation": "Tabula Rasa (Blank Slate)."
@@ -15663,7 +15663,7 @@
             "The Federalist Papers",
             "The Magna Carta",
             "The Articles of Confederation",
-            "The Declaration of Independence (Deklarata e Pavarësisë)"
+            "The Declaration of Independence"
           ],
           "answerIndex": 3,
           "explanation": "The Declaration of Independence.",
@@ -15700,10 +15700,10 @@
         {
           "prompt": "Which master Scottish philosopher formulated the Problem of Induction, the Bundle Theory of the Self, and the \"Is-Ought\" problem in ethics?",
           "options": [
-            "David Hume (142.1)",
-            "Thomas Reid (142.2)",
-            "Francis Hutcheson (142.3)",
-            "Adam Smith (142.4)"
+            "David Hume",
+            "Thomas Reid",
+            "Francis Hutcheson",
+            "Adam Smith"
           ],
           "answerIndex": 0,
           "explanation": "David Hume."
@@ -15715,10 +15715,10 @@
         {
           "prompt": "What famous ethical dilemma, named \"Hume's Guillotine\", proves that moral obligations (\"ought\") cannot be logically deduced from purely factual statements (\"is\")?",
           "options": [
-            "The Is-Ought Fallacy (Problemi Is-Ought) (142.1)",
-            "The Trolley Problem (142.2)",
-            "The Ship of Theseus (142.3)",
-            "The Prisoner's Dilemma (142.4)"
+            "The Is-Ought Fallacy",
+            "The Trolley Problem",
+            "The Ship of Theseus",
+            "The Prisoner's Dilemma"
           ],
           "answerIndex": 0,
           "explanation": "The Is-Ought Fallacy."
@@ -15744,7 +15744,7 @@
           "options": [
             "The Cartesian Ego",
             "The Tripartite Soul",
-            "The Bundle Theory of the Self (Teoria e tufës së vetvetes)",
+            "The Bundle Theory of the Self",
             "The Absolute Monad"
           ],
           "answerIndex": 2,
@@ -15782,10 +15782,10 @@
         {
           "prompt": "Which master British philosopher authored \"On Liberty\" (1859), formulating the Harm Principle and defending free speech against the tyranny of the majority?",
           "options": [
-            "John Stuart Mill (143.1)",
-            "Jeremy Bentham (143.2)",
-            "Herbert Spencer (143.3)",
-            "Bertrand Russell (143.4)"
+            "John Stuart Mill",
+            "Jeremy Bentham",
+            "Herbert Spencer",
+            "Bertrand Russell"
           ],
           "answerIndex": 0,
           "explanation": "John Stuart Mill."
@@ -15797,10 +15797,10 @@
         {
           "prompt": "What foundational ethical principle was established by Mill in \"On Liberty\" to limit state power over the individual solely to preventing harm to others?",
           "options": [
-            "The Harm Principle (Parimi i Dëmit) (143.1)",
-            "The Categorical Imperative (143.2)",
-            "The Golden Rule (143.3)",
-            "The Pleasure Principle (143.4)"
+            "The Harm Principle",
+            "The Categorical Imperative",
+            "The Golden Rule",
+            "The Pleasure Principle"
           ],
           "answerIndex": 0,
           "explanation": "The Harm Principle."
@@ -15864,10 +15864,10 @@
         {
           "prompt": "Which master philosopher authored both the \"Tractatus Logico-Philosophicus\" (1921) and \"Philosophical Investigations\" (1953)?",
           "options": [
-            "Gottlob Frege (144.1)",
-            "G.E. Moore (144.2)",
-            "Ludwig Wittgenstein (144.3)",
-            "Bertrand Russell (144.4)"
+            "Gottlob Frege",
+            "G.E. Moore",
+            "Ludwig Wittgenstein",
+            "Bertrand Russell"
           ],
           "answerIndex": 2,
           "explanation": "Ludwig Wittgenstein."
@@ -15879,10 +15879,10 @@
         {
           "prompt": "What famous concept was introduced in Wittgenstein's \"Philosophical Investigations\" to describe how words derive their meaning from their active use in social activities?",
           "options": [
-            "Universal Grammar (144.1)",
-            "Logical Positivism (144.2)",
-            "Language-Games (Lojërat gjuhësore / Sprachspiele) (144.3)",
-            "Picture Theory (144.4)"
+            "Universal Grammar",
+            "Logical Positivism",
+            "Language-Games",
+            "Picture Theory"
           ],
           "answerIndex": 2,
           "explanation": "Language-Games (Lojërat gjuhësore / Sprachspiele)."
@@ -15946,10 +15946,10 @@
         {
           "prompt": "Which master British philosopher and logician co-authored \"Principia Mathematica\" (1910) and drafted the 1955 Russell-Einstein Manifesto against nuclear weapons?",
           "options": [
-            "Bertrand Russell (145.1)",
-            "Alfred North Whitehead (145.2)",
-            "A.J. Ayer (145.3)",
-            "G.E. Moore (145.4)"
+            "Bertrand Russell",
+            "Alfred North Whitehead",
+            "A.J. Ayer",
+            "G.E. Moore"
           ],
           "answerIndex": 0,
           "explanation": "Bertrand Russell."
@@ -15961,10 +15961,10 @@
         {
           "prompt": "What famous logical contradiction in set theory was discovered by Bertrand Russell in 1901 concerning the set of all sets that do not contain themselves?",
           "options": [
-            "The Liar Paradox (145.1)",
-            "Zeno's Paradox (145.2)",
-            "The Omnipotence Paradox (145.3)",
-            "Russell's Paradox (Paradoksi i Russell-it) (145.4)"
+            "The Liar Paradox",
+            "Zeno's Paradox",
+            "The Omnipotence Paradox",
+            "Russell's Paradox"
           ],
           "answerIndex": 3,
           "explanation": "Russell's Paradox."
@@ -15991,7 +15991,7 @@
             "The Nobel Prize in Physics",
             "The Nobel Prize in Economics",
             "The Nobel Peace Prize",
-            "The Nobel Prize in Literature (Çmimi Nobel në Letërsi)"
+            "The Nobel Prize in Literature"
           ],
           "answerIndex": 3,
           "explanation": "The Nobel Prize in Literature.",
@@ -16028,10 +16028,10 @@
         {
           "prompt": "Which master British-American director created \"Vertigo\" (1958), \"Rear Window\" (1954), and \"Psycho\" (1960), pioneering the Dolly Zoom and the MacGuffin?",
           "options": [
-            "Stanley Kubrick (146.1)",
-            "Sir David Lean (146.2)",
-            "Orson Welles (146.3)",
-            "Sir Alfred Hitchcock (146.4)"
+            "Stanley Kubrick",
+            "Sir David Lean",
+            "Orson Welles",
+            "Sir Alfred Hitchcock"
           ],
           "answerIndex": 3,
           "explanation": "Sir Alfred Hitchcock."
@@ -16043,10 +16043,10 @@
         {
           "prompt": "What famous camera technique, combining a forward camera dolly with a simultaneous optical zoom-out, was invented in Hitchcock's \"Vertigo\" to simulate fear of heights?",
           "options": [
-            "The Dolly Zoom (The Vertigo Effect / Trombone Shot) (146.1)",
-            "The Dutch Angle (146.2)",
-            "The Whip Pan (146.3)",
-            "The Bullet Time (146.4)"
+            "The Dolly Zoom",
+            "The Dutch Angle",
+            "The Whip Pan",
+            "The Bullet Time"
           ],
           "answerIndex": 0,
           "explanation": "The Dolly Zoom (The Vertigo Effect)."
@@ -16110,10 +16110,10 @@
         {
           "prompt": "Which master director created \"2001: A Space Odyssey\" (1968), filmed \"Barry Lyndon\" (1975) in pure candlelight, and directed \"The Shining\" (1980)?",
           "options": [
-            "Stanley Kubrick (147.1)",
-            "Francis Ford Coppola (147.2)",
-            "Steven Spielberg (147.3)",
-            "Sir Alfred Hitchcock (147.4)"
+            "Stanley Kubrick",
+            "Francis Ford Coppola",
+            "Steven Spielberg",
+            "Sir Alfred Hitchcock"
           ],
           "answerIndex": 0,
           "explanation": "Stanley Kubrick."
@@ -16125,10 +16125,10 @@
         {
           "prompt": "What ultra-fast camera lens, originally manufactured by Zeiss for NASA's Apollo moon photography program, was used by Kubrick to film \"Barry Lyndon\" in natural candlelight?",
           "options": [
-            "Zeiss 50mm f/0.7 lens (147.1)",
-            "Leica 35mm f/1.4 (147.2)",
-            "Nikon 50mm f/1.8 (147.3)",
-            "Canon 85mm f/1.2 (147.4)"
+            "Zeiss 50mm f/0.7 lens",
+            "Leica 35mm f/1.4",
+            "Nikon 50mm f/1.8",
+            "Canon 85mm f/1.2"
           ],
           "answerIndex": 0,
           "explanation": "Zeiss 50mm f/0.7 lens."
@@ -16192,10 +16192,10 @@
         {
           "prompt": "Which master British director directed \"Lawrence of Arabia\" (1962), \"The Bridge on the River Kwai\" (1957), and \"Brief Encounter\" (1945)?",
           "options": [
-            "Sir David Lean (148.1)",
-            "Sir Ridley Scott (148.2)",
-            "Sir Carol Reed (148.3)",
-            "Michael Powell (148.4)"
+            "Sir David Lean",
+            "Sir Ridley Scott",
+            "Sir Carol Reed",
+            "Michael Powell"
           ],
           "answerIndex": 0,
           "explanation": "Sir David Lean."
@@ -16207,10 +16207,10 @@
         {
           "prompt": "What dramatic visual cut in \"Lawrence of Arabia\" transitions from Peter O'Toole in a Cairo office directly to the scorching Arabian desert?",
           "options": [
-            "Blowing out a wooden match to the desert sunrise (148.1)",
-            "Opening a leather book (148.2)",
-            "Drinking a cup of tea (148.3)",
-            "Firing a pistol into the air (148.4)"
+            "Blowing out a wooden match to the desert sunrise",
+            "Opening a leather book",
+            "Drinking a cup of tea",
+            "Firing a pistol into the air"
           ],
           "answerIndex": 0,
           "explanation": "Blowing out a wooden match to the desert sunrise."
@@ -16274,10 +16274,10 @@
         {
           "prompt": "Which master British-American director won the Academy Award for Best Picture and Director for \"Oppenheimer\" (2023) and directed \"Memento\" and \"Inception\"?",
           "options": [
-            "Danny Boyle (149.1)",
-            "David Fincher (149.2)",
-            "Christopher Nolan (149.3)",
-            "Denis Villeneuve (149.4)"
+            "Danny Boyle",
+            "David Fincher",
+            "Christopher Nolan",
+            "Denis Villeneuve"
           ],
           "answerIndex": 2,
           "explanation": "Christopher Nolan."
@@ -16289,10 +16289,10 @@
         {
           "prompt": "What unique narrative structure is used in Christopher Nolan's 2000 breakout thriller \"Memento\" to mimic the protagonist's anterograde amnesia?",
           "options": [
-            "Found footage video (149.1)",
-            "A single continuous take (149.2)",
-            "Reverse chronological sequences alternating with forward black-and-white scenes (149.3)",
-            "Split screen throughout (149.4)"
+            "Found footage video",
+            "A single continuous take",
+            "Reverse chronological sequences alternating with forward black-and-white scenes",
+            "Split screen throughout"
           ],
           "answerIndex": 2,
           "explanation": "Reverse chronological sequences alternating with forward black-and-white scenes."
@@ -16319,7 +16319,7 @@
             "Roger Penrose",
             "Stephen Hawking",
             "Richard Feynman",
-            "Kip Thorne (Çmimi Nobel në Fizikë)"
+            "Kip Thorne"
           ],
           "answerIndex": 3,
           "explanation": "Kip Thorne.",
@@ -16356,10 +16356,10 @@
         {
           "prompt": "Which master British director created the visual cyberpunk blueprint in \"Blade Runner\" (1982) and directed \"Alien\" (1979) and \"Gladiator\" (2000)?",
           "options": [
-            "Sir Ridley Scott (150.1)",
-            "Christopher Nolan (150.2)",
-            "James Cameron (150.3)",
-            "Sir David Lean (150.4)"
+            "Sir Ridley Scott",
+            "Christopher Nolan",
+            "James Cameron",
+            "Sir David Lean"
           ],
           "answerIndex": 0,
           "explanation": "Sir Ridley Scott."
@@ -16371,10 +16371,10 @@
         {
           "prompt": "Which Swiss surrealist artist designed the biomechanical Xenomorph creature in Ridley Scott's 1979 masterpiece \"Alien\"?",
           "options": [
-            "Salvador Dalí (150.1)",
-            "René Magritte (150.2)",
-            "Max Ernst (150.3)",
-            "H.R. Giger (150.4)"
+            "Salvador Dalí",
+            "René Magritte",
+            "Max Ernst",
+            "H.R. Giger"
           ],
           "answerIndex": 3,
           "explanation": "H.R. Giger."
@@ -16438,10 +16438,10 @@
         {
           "prompt": "What fat, heated until smoking hot in the oven, is traditionally used to bake towering, crispy Yorkshire Puddings?",
           "options": [
-            "Olive oil (151.1)",
-            "Margarine (151.2)",
-            "Coconut oil (151.3)",
-            "Beef dripping (Beef tallow) (151.4)"
+            "Olive oil",
+            "Margarine",
+            "Coconut oil",
+            "Beef dripping"
           ],
           "answerIndex": 3,
           "explanation": "Beef dripping (Beef tallow)."
@@ -16453,10 +16453,10 @@
         {
           "prompt": "Which high-starch British potato variety is widely regarded as the gold standard for making crispy, glass-crusted roast potatoes?",
           "options": [
-            "Maris Piper (151.1)",
-            "Sweet Potato (151.2)",
-            "Fingerling (151.3)",
-            "New Waxy Potato (151.4)"
+            "Maris Piper",
+            "Sweet Potato",
+            "Fingerling",
+            "New Waxy Potato"
           ],
           "answerIndex": 0,
           "explanation": "Maris Piper."
@@ -16481,7 +16481,7 @@
           "prompt": "What pungent, creamy root condiment is the indispensable British accompaniment to roast beef?",
           "options": [
             "Mustard ketchup",
-            "Creamed Horseradish (Salcë rrepani)",
+            "Creamed Horseradish",
             "Mint jelly",
             "Tartar sauce"
           ],
@@ -16520,10 +16520,10 @@
         {
           "prompt": "Which English aristocrat and friend of Queen Victoria is credited with inventing the British institution of Afternoon Tea in 1840?",
           "options": [
-            "Anna Maria Russell, Duchess of Bedford (152.1)",
-            "Lady Jane Grey (152.2)",
-            "Eleanor of Aquitaine (152.3)",
-            "Queen Victoria (152.4)"
+            "Anna Maria Russell, Duchess of Bedford",
+            "Lady Jane Grey",
+            "Eleanor of Aquitaine",
+            "Queen Victoria"
           ],
           "answerIndex": 0,
           "explanation": "Anna Maria Russell, Duchess of Bedford."
@@ -16535,10 +16535,10 @@
         {
           "prompt": "What rich, golden-crusted 55%-fat cow's milk dairy product from southwest England is the mandatory topping for British scones?",
           "options": [
-            "Cornish Clotted Cream (152.1)",
-            "Sour Cream (152.2)",
-            "Cream Cheese (152.3)",
-            "Whipped Spray Cream (152.4)"
+            "Cornish Clotted Cream",
+            "Sour Cream",
+            "Cream Cheese",
+            "Whipped Spray Cream"
           ],
           "answerIndex": 0,
           "explanation": "Cornish Clotted Cream."
@@ -16562,7 +16562,7 @@
         {
           "prompt": "In the great British cream tea controversy, which county's traditional method mandates spreading strawberry jam first onto the scone, topped with clotted cream?",
           "options": [
-            "Cornwall (The Cornish Method)",
+            "Cornwall",
             "Devon",
             "Yorkshire",
             "Lancashire"
@@ -16602,10 +16602,10 @@
         {
           "prompt": "Which iconic blue-veined English cheese, known as \"The King of English Cheeses\", can only be legally produced in Derbyshire, Nottinghamshire, and Leicestershire?",
           "options": [
-            "Blue Stilton (PDO) (153.1)",
-            "Cheddar (153.2)",
-            "Red Leicester (153.3)",
-            "Wensleydale (153.4)"
+            "Blue Stilton",
+            "Cheddar",
+            "Red Leicester",
+            "Wensleydale"
           ],
           "answerIndex": 0,
           "explanation": "Blue Stilton (PDO)."
@@ -16617,10 +16617,10 @@
         {
           "prompt": "In which English county did traditional Cheddar cheese originate, where wheels are still aged in lard-soaked cloth in limestone caves?",
           "options": [
-            "Somerset (West Country) (153.1)",
-            "Kent (153.2)",
-            "Cumbria (153.3)",
-            "Cornwall (153.4)"
+            "Somerset",
+            "Kent",
+            "Cumbria",
+            "Cornwall"
           ],
           "answerIndex": 0,
           "explanation": "Somerset (West Country)."
@@ -16647,7 +16647,7 @@
             "Pasteurization",
             "Homogenization",
             "Curdling",
-            "Cheddaring (Procesi i Çedarizimit)"
+            "Cheddaring"
           ],
           "answerIndex": 3,
           "explanation": "Cheddaring.",
@@ -16684,10 +16684,10 @@
         {
           "prompt": "Which grassroots organization, founded in 1971, championed the preservation of unpasteurized, naturally conditioned British Cask Ale?",
           "options": [
-            "The Pub Protection Society (154.1)",
-            "The Brewers Guild (154.2)",
-            "CAMRA (Campaign for Real Ale) (154.3)",
-            "The British Beer Institute (154.4)"
+            "The Pub Protection Society",
+            "The Brewers Guild",
+            "CAMRA",
+            "The British Beer Institute"
           ],
           "answerIndex": 2,
           "explanation": "CAMRA (Campaign for Real Ale)."
@@ -16699,10 +16699,10 @@
         {
           "prompt": "What manual mechanical device is pulled by a bartender to pump cask-conditioned Real Ale from the cellar into a pint glass without gas pressure?",
           "options": [
-            "The Siphon (154.1)",
-            "The Carbonation Tap (154.2)",
-            "The Beer Engine (Handpull) (154.3)",
-            "The Gas Cylinder (154.4)"
+            "The Siphon",
+            "The Carbonation Tap",
+            "The Beer Engine",
+            "The Gas Cylinder"
           ],
           "answerIndex": 2,
           "explanation": "The Beer Engine (Handpull)."
@@ -16766,10 +16766,10 @@
         {
           "prompt": "Which master British chef founded St. JOHN in 1994, revolutionizing world cooking with his philosophy of \"Nose to Tail Eating\"?",
           "options": [
-            "Fergus Henderson (155.1)",
-            "Sir Heston Blumenthal (155.2)",
-            "Marco Pierre White (155.3)",
-            "Gordon Ramsay (155.4)"
+            "Fergus Henderson",
+            "Sir Heston Blumenthal",
+            "Marco Pierre White",
+            "Gordon Ramsay"
           ],
           "answerIndex": 0,
           "explanation": "Fergus Henderson."
@@ -16781,10 +16781,10 @@
         {
           "prompt": "Which 3-star Michelin restaurant in Bray, Berkshire, created the multisensory \"Sound of the Sea\" dish using headphones inside a seashell?",
           "options": [
-            "The Waterside Inn (155.1)",
-            "L'Enclume (155.2)",
-            "Restaurant Gordon Ramsay (155.3)",
-            "The Fat Duck (Sir Heston Blumenthal) (155.4)"
+            "The Waterside Inn",
+            "L'Enclume",
+            "Restaurant Gordon Ramsay",
+            "The Fat Duck"
           ],
           "answerIndex": 3,
           "explanation": "The Fat Duck (Sir Heston Blumenthal)."
@@ -16809,7 +16809,7 @@
           "prompt": "What universally adopted culinary cooking technique, involving boiling, freeze-drying, and double-frying, was invented by Heston Blumenthal in 1993?",
           "options": [
             "Microwaving",
-            "Triple-Cooked Chips (Patate të skuqura tre herë)",
+            "Triple-Cooked Chips",
             "Flash freezing",
             "Sous-vide cooking"
           ],
@@ -16883,7 +16883,7 @@
         {
           "prompt": "Which structural poetic meter forms the backbone of Shakespearean dramatic dialogue?",
           "options": [
-            "Unrhymed iambic pentameter (blank verse)",
+            "Unrhymed iambic pentameter",
             "Dactylic hexameter with heroic couplets",
             "Trochaic tetrameter exclusively",
             "Anapestic trimeter with alternating rhymes"
@@ -17304,7 +17304,7 @@
           "prompt": "Which famous Latin inscription marks Sir Christopher Wren's crypt inside St Paul's Cathedral?",
           "options": [
             "Carpe diem quam minimum credula postero",
-            "Si monumentum requiris, circumspice (If you seek his monument, look around you)",
+            "Si monumentum requiris, circumspice",
             "Alea iacta est",
             "Veni, vidi, vici"
           ],
@@ -17492,9 +17492,9 @@
         {
           "prompt": "What gauge did Brunel originally champion for the Great Western Railway before standard gauge was enforced by Parliament in 1846?",
           "options": [
-            "Broad gauge of 7 feet 0¼ inches (2,140 mm)",
-            "Standard gauge of 4 feet 8½ inches (1,435 mm)",
-            "Narrow gauge of 2 feet (610 mm)",
+            "Broad gauge of 7 feet 0¼ inches",
+            "Standard gauge of 4 feet 8½ inches",
+            "Narrow gauge of 2 feet",
             "Monorail single-track system"
           ],
           "answerIndex": 0,
@@ -17591,10 +17591,10 @@
         {
           "prompt": "From which French term coined by Le Corbusier does the name 'Brutalism' derive?",
           "options": [
-            "Béton brut (raw / unfinished concrete)",
-            "Bête noire (black beast)",
-            "Brut force (military strength)",
-            "Boutique brute (coarse shop)"
+            "Béton brut",
+            "Bête noire",
+            "Brut force",
+            "Boutique brute"
           ],
           "answerIndex": 0,
           "explanation": "Brutalism derives from *béton brut*, referring to raw concrete left unplastered to display formwork markings.",
@@ -17666,7 +17666,7 @@
         {
           "prompt": "Which British architectural movement is characterized by exposed structural frames, industrial fabrication, stainless steel pods, and high-performance glazing?",
           "options": [
-            "High-Tech Architecture (Structural Expressionism)",
+            "High-Tech Architecture",
             "Arts and Crafts Movement",
             "Tudor Revival",
             "Palladian Neoclassicism"
@@ -17753,7 +17753,7 @@
             "Provisional Employment Pass",
             "Internal Working Memorandum",
             "Standard Tourist Passport",
-            "Letters of Credence (Credentials)"
+            "Letters of Credence"
           ],
           "answerIndex": 3,
           "explanation": "Letters of Credence are the official credential instruments issued by the sending Head of State.",

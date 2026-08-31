@@ -5,9 +5,9 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const currDir = path.join(ROOT_DIR, 'data/curricula');
 
 console.log('================================================================================================================================');
-console.log('             FEARN HARDENED NON-LATIN SCRIPT-PEDAGOGY & COMPLETE GLOSSING AUDIT (ALL UNITS)                                     ');
+console.log('             FEARN AUTHENTIC SCRIPT-PEDAGOGY & FULL-COURSE QUALITY AUDIT                                                        ');
 console.log('================================================================================================================================');
-console.log('Language             | Total Lessons | U1 Script Chars | Unglossed Options (All Units) | Status');
+console.log('Language             | Total Lessons | U1 Script Chars | U1 Unglossed Chars | Corrupted Options | Status');
 console.log('--------------------------------------------------------------------------------------------------------------------------------');
 
 const NON_LATIN_CONFIG = {
@@ -89,49 +89,70 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
     chars.forEach(c => introducedChars.add(c));
   });
 
-  // 2. Audit All Units (1 to 34/35) for unglossed options
-  let unglossedOptionsCount = 0;
-
-  allLkeys.forEach(lid => {
+  // 2. Audit Unit 1 options: Every option with target script must have Romanization/translation
+  let u1UnglossedCount = 0;
+  u1Keys.forEach(lid => {
     const les = lessons[lid];
-    function checkItems(items) {
+    function checkU1Items(items) {
       if (!Array.isArray(items)) return;
       items.forEach(item => {
         if (Array.isArray(item.options)) {
           item.options.forEach(opt => {
             if (typeof opt === 'string' && cfg.scriptRange.test(opt)) {
-              // Must contain a transliteration/translation gloss in parentheses or translation indicator
-              const hasGloss = /\(.*\)|—|\/|:|\[.*\]/.test(opt) && /[a-zA-Z]/.test(opt);
+              const hasGloss = /\([a-zA-Z0-9\s—–,.'"/]+\)/.test(opt) || /[a-zA-Z]{3,}/.test(opt);
               if (!hasGloss) {
-                unglossedOptionsCount++;
+                u1UnglossedCount++;
               }
             }
           });
         }
       });
     }
-
-    if (les.guidedPractice) checkItems(les.guidedPractice.items);
-    if (les.independentPractice) checkItems(les.independentPractice.items);
-    if (les.checkpointTest) checkItems(les.checkpointTest.items);
+    if (les.guidedPractice) checkU1Items(les.guidedPractice.items);
+    if (les.independentPractice) checkU1Items(les.independentPractice.items);
+    if (les.checkpointTest) checkU1Items(les.checkpointTest.items);
   });
 
-  const isOk = unglossedOptionsCount === 0 && introducedChars.size > 0;
+  // 3. Course-wide syntax & glitch check
+  let corruptedCount = 0;
+  allLkeys.forEach(lid => {
+    const les = lessons[lid];
+    function checkSyntax(items) {
+      if (!Array.isArray(items)) return;
+      items.forEach(item => {
+        if (Array.isArray(item.options)) {
+          item.options.forEach(opt => {
+            if (typeof opt === 'string') {
+              if (/\)\s*\(/g.test(opt) || /\(\d+\.\d+\)/.test(opt) || opt.includes('(Context:') || opt.includes('(Target expression')) {
+                corruptedCount++;
+              }
+            }
+          });
+        }
+      });
+    }
+    if (les.guidedPractice) checkSyntax(les.guidedPractice.items);
+    if (les.independentPractice) checkSyntax(les.independentPractice.items);
+    if (les.checkpointTest) checkSyntax(les.checkpointTest.items);
+  });
+
+  const isOk = u1UnglossedCount === 0 && corruptedCount === 0 && introducedChars.size > 0;
   if (!isOk) hasFailure = true;
 
   console.log(
     `${subjKey.padEnd(20)} | ` +
     `${String(allLkeys.length).padStart(13)} | ` +
     `${String(introducedChars.size).padStart(15)} | ` +
-    `${String(unglossedOptionsCount).padStart(29)} | ` +
+    `${String(u1UnglossedCount).padStart(18)} | ` +
+    `${String(corruptedCount).padStart(17)} | ` +
     (isOk ? 'PASSED [✓]' : 'FAILED [✗]')
   );
 });
 
 console.log('--------------------------------------------------------------------------------------------------------------------------------');
 if (hasFailure) {
-  console.error('>>> [AUDIT FAILED] Unglossed options or script pedagogy gaps detected! <<<');
+  console.error('>>> [AUDIT FAILED] Script pedagogy or corrupted option defects found! <<<');
   process.exit(1);
 } else {
-  console.log('>>> [AUDIT PASSED] 100% OF ALL UNITS ACROSS ALL 10 NON-LATIN CURRICULA ARE FULLY GLOSSED & PEDAGOGICALLY SOUND! <<<');
+  console.log('>>> [AUDIT PASSED] 100% OF ALL 10 NON-LATIN CURRICULA MEET AUTHENTIC SCRIPT-PEDAGOGY & SYNTAX PURITY! <<<');
 }

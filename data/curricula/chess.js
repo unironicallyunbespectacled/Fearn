@@ -1929,10 +1929,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "A square where the King is in check (31.1) ",
-            "Any square on the edge of the board (31.2) ",
-            "A square occupied by a Queen (31.3) ",
-            "A square that can no longer be protected or attacked by any enemy pawns (31.4) "
+            "A square where the King is in check",
+            "Any square on the edge of the board",
+            "A square occupied by a Queen",
+            "A square that can no longer be protected or attacked by any enemy pawns"
           ],
           "answerIndex": 3,
           "explanation": "A weak square cannot be guarded by enemy pawns because adjacent pawns have moved past or been traded."
@@ -1942,7 +1942,7 @@
           "options": [
             "The Pawn",
             "The Rook",
-            "The Knight (because its short-range reach is maximized when planted deep in the opponent's territory)",
+            "The Knight",
             "The King"
           ],
           "answerIndex": 2,
@@ -1955,10 +1955,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "f5  (Task 31.1)",
-            "d4  (Task 31.2)",
-            "b5  (Task 31.3)",
-            "d5 (neither the c-pawn nor e-pawn can ever defend d5 again)  (Task 31.4)"
+            "f5",
+            "d4",
+            "b5",
+            "d5"
           ],
           "answerIndex": 3,
           "explanation": "The advance ...e5 creates an irrevocable hole on d5."
@@ -2020,7 +2020,7 @@
             "more rooks",
             "automatic checks",
             "free queens",
-            "weaknesses and potential holes (since pawns can never move backwards)"
+            "weaknesses and potential holes"
           ],
           "answerIndex": 3,
           "explanation": "Pawns cannot move backwards; every advance permanently weakens squares.",
@@ -2064,10 +2064,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because a skilled defender can coordinate their pieces to fortify and guard a single static target indefinitely. (32.1) ",
-            "Because of the 50-move rule. (32.2) ",
-            "Because the rules forbid attacking one piece. (32.3) ",
-            "Because single pawns cannot be taken. (32.4) "
+            "Because a skilled defender can coordinate their pieces to fortify and guard a single static target indefinitely.",
+            "Because of the 50-move rule.",
+            "Because the rules forbid attacking one piece.",
+            "Because single pawns cannot be taken."
           ],
           "answerIndex": 0,
           "explanation": "A single target allows maximum defensive economy and piece coordination."
@@ -2090,10 +2090,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "Offer a draw  (Task 32.1)",
-            "Repeatedly check Black's King with no purpose  (Task 32.2)",
-            "March the White King over to the kingside (f-g-h files) to attack Black's undefended kingside pawns  (Task 32.3)",
-            "Sacrifice all queenside pawns  (Task 32.4)"
+            "Offer a draw",
+            "Repeatedly check Black's King with no purpose",
+            "March the White King over to the kingside (f-g-h files) to attack Black's undefended kingside pawns",
+            "Sacrifice all queenside pawns"
           ],
           "answerIndex": 2,
           "explanation": "Creating a kingside breach while Black is anchored to a6 forces a decisive win."
@@ -2199,10 +2199,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "When the bishop is worth 2 points (33.1) ",
-            "When it moves like a knight (33.2) ",
-            "When it is on the edge of the board (33.3) ",
-            "When its own center pawns are locked on the same color squares as the bishop, severely obstructing its diagonal mobility and turning it into a 'tall pawn' (33.4) "
+            "When the bishop is worth 2 points",
+            "When it moves like a knight",
+            "When it is on the edge of the board",
+            "When its own center pawns are locked on the same color squares as the bishop, severely obstructing its diagonal mobility and turning it into a 'tall pawn'"
           ],
           "answerIndex": 3,
           "explanation": "Own pawns locked on the bishop's color paralyze its mobility."
@@ -2225,10 +2225,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "Because the Knight can jump to both light and dark squares to attack the enemy pawns, while the Bad Bishop is blind to half the board and blocked by its own pawns.  (Task 33.1)",
-            "Because Knights are worth 5 points in endgames.  (Task 33.2)",
-            "Because bishops cannot move in endgames.  (Task 33.3)",
-            "Because the knight can check the king from distance.  (Task 33.4)"
+            "Because the Knight can jump to both light and dark squares to attack the enemy pawns, while the Bad Bishop is blind to half the board and blocked by its own pawns.",
+            "Because Knights are worth 5 points in endgames.",
+            "Because bishops cannot move in endgames.",
+            "Because the knight can check the king from distance."
           ],
           "answerIndex": 0,
           "explanation": "Knights possess dual-color versatility; bad bishops suffer color blindness and obstruction."
@@ -2288,7 +2288,7 @@
           "prompt": "Complete: 'A Bad Bishop inside the pawn chain is merely a _______.'",
           "options": [
             "queen in disguise",
-            "tall pawn (glorified pawn)",
+            "tall pawn",
             "winning weapon",
             "free rook"
           ],
@@ -2334,10 +2334,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "An illegal move (34.1) ",
-            "A heavy piece battery consisting of two Rooks in front and the Queen directly behind them on a single open file (34.2) ",
-            "A type of chess clock (34.3) ",
-            "A trick opening with pawns (34.4) "
+            "An illegal move",
+            "A heavy piece battery consisting of two Rooks in front and the Queen directly behind them on a single open file",
+            "A type of chess clock",
+            "A trick opening with pawns"
           ],
           "answerIndex": 1,
           "explanation": "Alekhine's Gun is the tripling of two rooks backed by the queen on a file."
@@ -2360,10 +2360,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "Create an outpost on the file (e.g. c5/c6) to anchor a piece, or double your rooks first and prepare to control the entry squares (c7/c8).  (Task 34.1)",
-            "Close the file by putting your own pawns on it.  (Task 34.2)",
-            "Abandon the file and move to the corner.  (Task 34.3)",
-            "Offer a draw immediately.  (Task 34.4)"
+            "Create an outpost on the file (e.g. c5/c6) to anchor a piece, or double your rooks first and prepare to control the entry squares (c7/c8).",
+            "Close the file by putting your own pawns on it.",
+            "Abandon the file and move to the corner.",
+            "Offer a draw immediately."
           ],
           "answerIndex": 0,
           "explanation": "Outposts and heavy batteries win the fight for open file dominance."
@@ -2400,7 +2400,7 @@
           "options": [
             "The a-file",
             "The e-file",
-            "The c-file (c1-c8)",
+            "The c-file",
             "The h-file"
           ],
           "answerIndex": 2,
@@ -2469,10 +2469,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The habit of identifying the opponent's active intentions, threats, and liberating pawn breaks on every turn and neutralizing them before executing your own plans (35.1) ",
-            "Playing as fast as possible on the clock (35.2) ",
-            "Sacrificing the queen on turn 10 (35.3) ",
-            "Memorizing opening computer lines (35.4) "
+            "The habit of identifying the opponent's active intentions, threats, and liberating pawn breaks on every turn and neutralizing them before executing your own plans",
+            "Playing as fast as possible on the clock",
+            "Sacrificing the queen on turn 10",
+            "Memorizing opening computer lines"
           ],
           "answerIndex": 0,
           "explanation": "Prophylaxis is preventative thinking that suffocates enemy counterplay."
@@ -2495,10 +2495,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "He pinned the bishop to the queen.  (Task 35.1)",
-            "He locked the pawn structure with h4-h5 and f3-f4, burying Black's bishop behind a wall of its own pawns on g6 and effectively playing up a full piece on the queenside.  (Task 35.2)",
-            "The bishop walked off the board.  (Task 35.3)",
-            "He captured the bishop with a knight on move 3.  (Task 35.4)"
+            "He pinned the bishop to the queen.",
+            "He locked the pawn structure with h4-h5 and f3-f4, burying Black's bishop behind a wall of its own pawns on g6 and effectively playing up a full piece on the queenside.",
+            "The bishop walked off the board.",
+            "He captured the bishop with a knight on move 3."
           ],
           "answerIndex": 1,
           "explanation": "Capablanca entombed the g6 bishop behind locked pawns."
@@ -2545,8 +2545,8 @@
         {
           "prompt": "Identify the World Champion celebrated as the greatest master of prophylaxis and positional restriction in chess history:",
           "options": [
-            "Anatoly Karpov (alongside Tigran Petrosian and José Raúl Capablanca)",
-            "Mikhail Tal (celebrated for wild sacrificial attacks)",
+            "Anatoly Karpov",
+            "Mikhail Tal",
             "Paul Morphy",
             "Garry Kasparov only"
           ],
@@ -2560,7 +2560,7 @@
             "Learning chess variants",
             "Playing with 3 players",
             "Memorizing chess history trivia",
-            "Opening Repertoire (building a coherent, integrated grandmaster opening repertoire for White (1.e4 and 1.d4) and Black (Sicilian/Caro-Kann and King's Indian/Nimzo-Indian))"
+            "Opening Repertoire (building a coherent, integrated grandmaster opening repertoire for White (1.e4 and 1.d4) and Black"
           ],
           "answerIndex": 3,
           "explanation": "Unit 9 focuses on building a coherent opening repertoire.",
@@ -2598,10 +2598,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Nb1-a3-c2-e1 (36.1) ",
-            "Nb1-c3-b5-d6 (36.2) ",
-            "Nb1-a3-b5-c7 (36.3) ",
-            "Nb1-d2-f1-g3 (or e3), establishing a powerful attacking post aimed at the f5/d5 squares (36.4) "
+            "Nb1-a3-c2-e1",
+            "Nb1-c3-b5-d6",
+            "Nb1-a3-b5-c7",
+            "Nb1-d2-f1-g3 (or e3), establishing a powerful attacking post aimed at the f5/d5 squares"
           ],
           "answerIndex": 3,
           "explanation": "Nd2-f1-g3 is the quintessential Spanish knight maneuver."
@@ -2624,10 +2624,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "Win White's queen in 3 moves  (Task 36.1)",
-            "Force an immediate draw on move 9  (Task 36.2)",
-            "Defend passively for 50 moves  (Task 36.3)",
-            "Sacrifice a central pawn with 8...d5! to seize raging kingside initiative, active piece coordination, and attack White's uncoordinated kingside  (Task 36.4)"
+            "Win White's queen in 3 moves",
+            "Force an immediate draw on move 9",
+            "Defend passively for 50 moves",
+            "Sacrifice a central pawn with 8...d5! to seize raging kingside initiative, active piece coordination, and attack White's uncoordinated kingside"
           ],
           "answerIndex": 3,
           "explanation": "The Marshall Attack is Frank Marshall's legendary counter-attacking pawn sacrifice."
@@ -2727,10 +2727,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Black trades a flank c-pawn for White's central d-pawn, securing a 2-to-1 central pawn majority (d- and e-pawns) and the half-open c-file (37.1) ",
-            "Black has no pawns (37.2) ",
-            "Black wins White's queen (37.3) ",
-            "Black gets 3 extra knights (37.4) "
+            "Black trades a flank c-pawn for White's central d-pawn, securing a 2-to-1 central pawn majority (d- and e-pawns) and the half-open c-file",
+            "Black has no pawns",
+            "Black wins White's queen",
+            "Black gets 3 extra knights"
           ],
           "answerIndex": 0,
           "explanation": "Black gains a long-term central pawn majority and c-file counterplay."
@@ -2753,10 +2753,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "Both sides agree to trade queens on move 7  (Task 37.1)",
-            "Opposite-side castling: White castles queenside (O-O-O) and storms the kingside with h4-h5, while Black attacks down the half-open c-file with ...Rc8 and exchange sacrifices on c3  (Task 37.2)",
-            "Defensive maneuvering with no pawn moves  (Task 37.3)",
-            "Symmetrical pawn pushes only  (Task 37.4)"
+            "Both sides agree to trade queens on move 7",
+            "Opposite-side castling: White castles queenside (O-O-O) and storms the kingside with h4-h5, while Black attacks down the half-open c-file with ...Rc8 and exchange sacrifices on c3",
+            "Defensive maneuvering with no pawn moves",
+            "Symmetrical pawn pushes only"
           ],
           "answerIndex": 1,
           "explanation": "The Yugoslav Attack is the ultimate opposite-side castling tactical race."
@@ -2856,10 +2856,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "To promote White's b-pawn to a queen on move 12 (38.1) ",
-            "To checkmate Black on b8 (38.2) ",
-            "To trade queens immediately (38.3) ",
-            "To trade White's 2 queenside pawns against Black's 3 queenside pawns to saddle Black with a weak, backward c6-pawn on the open c-file (38.4) "
+            "To promote White's b-pawn to a queen on move 12",
+            "To checkmate Black on b8",
+            "To trade queens immediately",
+            "To trade White's 2 queenside pawns against Black's 3 queenside pawns to saddle Black with a weak, backward c6-pawn on the open c-file"
           ],
           "answerIndex": 3,
           "explanation": "The minority attack creates and fixes an isolated/backward pawn weakness on c6."
@@ -2882,10 +2882,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "Because White quickly plays a4, shattering Black's overextended queenside pawns (e.g. 3.e3 b5? 4.a4 c6 5.axb5 cxb5? 6.Qf3! winning the trapped rook on a8)  (Task 38.1)",
-            "Because c4 is out of bounds  (Task 38.2)",
-            "Because Black is disqualified for holding pawns  (Task 38.3)",
-            "Because White gets two turns  (Task 38.4)"
+            "Because White quickly plays a4, shattering Black's overextended queenside pawns",
+            "Because c4 is out of bounds",
+            "Because Black is disqualified for holding pawns",
+            "Because White gets two turns"
           ],
           "answerIndex": 0,
           "explanation": "Trying to keep the gambited c4 pawn results in tactical catastrophe on the a-file."
@@ -2911,7 +2911,7 @@
             "All are endgames",
             "All are King's Gambits",
             "All are 1.e4 openings",
-            "QGA: 2...dxc4 | QGD: 2...e6 | Slav: 2...c6 | Semi-Slav: 2...e6 + 3...c6 (both)"
+            "QGA: 2...dxc4 | QGD: 2...e6 | Slav: 2...c6 | Semi-Slav: 2...e6 + 3...c6"
           ],
           "answerIndex": 3,
           "explanation": "Queen's Gambit system definitions matching.",
@@ -2922,7 +2922,7 @@
           "options": [
             "The Dragon Sicilian structure",
             "The Benoni structure",
-            "The Carlsbad Pawn Structure (from the QGD Exchange Variation)",
+            "The Carlsbad Pawn Structure",
             "The French Defense pawn chain"
           ],
           "answerIndex": 2,
@@ -2944,7 +2944,7 @@
         {
           "prompt": "Complete: 'In 1.d4 openings, tactical fireworks arise from _______.'",
           "options": [
-            "deep positional preparation and pawn breaks (like e4 or c5)",
+            "deep positional preparation and pawn breaks",
             "random wild moves",
             "stalemates",
             "ignoring the center"
@@ -2985,10 +2985,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Castle queenside and play passively (39.1) ",
-            "Pawn storm the kingside with ...f7-f5-f4 followed by ...g5, ...h5, ...g4 to hunt White's king (39.2) ",
-            "Sacrifice the queen on d5 (39.3) ",
-            "Trade all pawns on the queenside immediately (39.4) "
+            "Castle queenside and play passively",
+            "Pawn storm the kingside with ...f7-f5-f4 followed by ...g5, ...h5, ...g4 to hunt White's king",
+            "Sacrifice the queen on d5",
+            "Trade all pawns on the queenside immediately"
           ],
           "answerIndex": 1,
           "explanation": "Black's kingside pawn tsunami (...f5-f4, ...g5-g4) is the hallmark of the King's Indian."
@@ -3011,10 +3011,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "Because the resulting doubled c-pawns and dark-square control provide permanent static positional targets that outweigh White's bishop pair in closed/semi-closed positions  (Task 39.1)",
-            "To speed up the game  (Task 39.2)",
-            "Because knights are always better than bishops  (Task 39.3)",
-            "Because Black forgot how the bishop moves  (Task 39.4)"
+            "Because the resulting doubled c-pawns and dark-square control provide permanent static positional targets that outweigh White's bishop pair in closed/semi-closed positions",
+            "To speed up the game",
+            "Because knights are always better than bishops",
+            "Because Black forgot how the bishop moves"
           ],
           "answerIndex": 0,
           "explanation": "Static pawn structural damage outweighs dynamic bishop pair value in closed positions."
@@ -3061,7 +3061,7 @@
         {
           "prompt": "Who is the foundational father of hypermodern chess theory celebrated for the Nimzo-Indian Defense?",
           "options": [
-            "Aron Nimzowitsch (author of 'My System')",
+            "Aron Nimzowitsch",
             "Wilhelm Steinitz",
             "Paul Morphy",
             "Emanuel Lasker"
@@ -3076,7 +3076,7 @@
             "extra time on the clock",
             "a single pawn",
             "a quiet draw",
-            "White's king (checkmate)"
+            "White's king"
           ],
           "answerIndex": 3,
           "explanation": "The KID is a race: White wins on the queenside, or Black checkmates the king.",
@@ -3114,10 +3114,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Play 3.Nf3 (or 1.Nf3), preventing 3...Bb4 from pinning a knight on c3 and steering into the Queen's Indian, Bogo-Indian, or Catalan (40.1) ",
-            "Play 3.f3 and give up the king (40.2) ",
-            "Resign on move 2 (40.3) ",
-            "Play with only pawns (40.4) "
+            "Play 3.Nf3 (or 1.Nf3), preventing 3...Bb4 from pinning a knight on c3 and steering into the Queen's Indian, Bogo-Indian, or Catalan",
+            "Play 3.f3 and give up the king",
+            "Resign on move 2",
+            "Play with only pawns"
           ],
           "answerIndex": 0,
           "explanation": "3.Nf3 sidesteps the Nimzo-Indian by withholding the early Nc3 development."
@@ -3125,7 +3125,7 @@
         {
           "prompt": "What is the primary danger of memorizing opening moves by rote without understanding the resulting pawn structure?",
           "options": [
-            "The moment the opponent deviates on move 7, the player is completely lost with no understanding of piece placement, pawn breaks, or tactical plans (deliberate practice)",
+            "The moment the opponent deviates on move 7, the player is completely lost with no understanding of piece placement, pawn breaks, or tactical plans",
             "The chess clock stops working",
             "The pieces change color",
             "FIDE deducts 50 rating points"
@@ -3140,10 +3140,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "A 4-move checkmate system  (Task 40.1)",
-            "A hybrid of the Queen's Gambit and hypermodern King's Indian, where White fianchettoes the light-squared bishop on g2 to exert immense long-term pressure across the h1-a8 diagonal  (Task 40.2)",
-            "A rapid tactical trap  (Task 40.3)",
-            "A 1.e4 opening from Spain  (Task 40.4)"
+            "A 4-move checkmate system",
+            "A hybrid of the Queen's Gambit and hypermodern King's Indian, where White fianchettoes the light-squared bishop on g2 to exert immense long-term pressure across the h1-a8 diagonal",
+            "A rapid tactical trap",
+            "A 1.e4 opening from Spain"
           ],
           "answerIndex": 1,
           "explanation": "The Catalan combines classical Queen's Gambit central play with the hypermodern g2-bishop diagonal pressure."
@@ -3152,7 +3152,7 @@
           "prompt": "What is the final frontier awaiting you in Unit 10 of Chess Strategy?",
           "options": [
             "Buying a new wooden chess set",
-            "Deep Calculation, Candidate Moves & Prophylaxis (Kotov's tree of calculation, prophylactic thinking, Karpov/Petrosian restriction, and blindfold visualization)",
+            "Deep Calculation, Candidate Moves & Prophylaxis",
             "Playing speed chess only",
             "Learning how the rook moves"
           ],
@@ -3178,7 +3178,7 @@
         {
           "prompt": "If White plays 1.c4 (English Opening) and Black responds 1...e5 2.Nc3 Nf6 3.Nf3 Nc6, what reversed classical structure has emerged?",
           "options": [
-            "A Reversed Sicilian (Four Knights Sicilian with White playing Black's Sicilian setup with an extra tempo)",
+            "A Reversed Sicilian",
             "A French Defense",
             "A Caro-Kann Defense",
             "A King's Gambit"
@@ -3243,10 +3243,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Calculate your favorite move for 10 minutes (41.1) ",
-            "Offer a draw to the opponent (41.2) ",
-            "Check the clock (41.3) ",
-            "Generate a complete list of 2 to 4 candidate moves (checks, captures, threats) without calculating deep variations (41.4) "
+            "Calculate your favorite move for 10 minutes",
+            "Offer a draw to the opponent",
+            "Check the clock",
+            "Generate a complete list of 2 to 4 candidate moves (checks, captures, threats) without calculating deep variations"
           ],
           "answerIndex": 3,
           "explanation": "Listing all candidate moves first prevents tunnel vision and missed tactical resources."
@@ -3257,7 +3257,7 @@
             "Because the arbiter will give a penalty warning",
             "Because it is against FIDE rules",
             "It is not fatal",
-            "It causes mental fatigue, wastes valuable clock time, and leads to calculation hallucinations and last-second blunder panics (deliberate practice)"
+            "It causes mental fatigue, wastes valuable clock time, and leads to calculation hallucinations and last-second blunder panics"
           ],
           "answerIndex": 3,
           "explanation": "Disorganized thought loops consume clock time without reaching definitive evaluations."
@@ -3269,10 +3269,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 41:",
           "options": [
-            "A haunted chess board  (Task 41.1)",
-            "A transparent plastic piece  (Task 41.2)",
-            "A piece that fell off the table  (Task 41.3)",
-            "Assuming a piece is still defending a critical square in your mental calculation, when in reality that piece was moved or captured 3 moves earlier in the variation  (Task 41.4)"
+            "A haunted chess board",
+            "A transparent plastic piece",
+            "A piece that fell off the table",
+            "Assuming a piece is still defending a critical square in your mental calculation, when in reality that piece was moved or captured 3 moves earlier in the variation"
           ],
           "answerIndex": 3,
           "explanation": "Ghost pieces occur when working memory fails to update square vacancies during deep calculation."
@@ -3372,10 +3372,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'What is my opponent's threat, plan, or desired pawn break, and how can I prevent it?' (42.1) ",
-            "'How many minutes do I have left?' (42.2) ",
-            "'Can I check the king right now?' (42.3) ",
-            "'What opening is this?' (42.4) "
+            "'What is my opponent's threat, plan, or desired pawn break, and how can I prevent it?'",
+            "'How many minutes do I have left?'",
+            "'Can I check the king right now?'",
+            "'What opening is this?'"
           ],
           "answerIndex": 0,
           "explanation": "Prophylactic thinking begins with diagnosing the opponent's intentions first."
@@ -3398,10 +3398,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 42:",
           "options": [
-            "Ignore it and attack on the kingside blindly  (Task 42.1)",
-            "Over-control the d5 square (e.g. play Rad1, c4, or e4-e5), making ...d5 tactically impossible or disastrous for them  (Task 42.2)",
-            "Move your king to the center  (Task 42.3)",
-            "Trade queens  (Task 42.4)"
+            "Ignore it and attack on the kingside blindly",
+            "Over-control the d5 square (e.g. play Rad1, c4, or e4-e5), making ...d5 tactically impossible or disastrous for them",
+            "Move your king to the center",
+            "Trade queens"
           ],
           "answerIndex": 1,
           "explanation": "Over-controlling the breakthrough square suffocates the opponent's counterplay."
@@ -3438,7 +3438,7 @@
           "options": [
             "Because games take 10 hours",
             "Because pieces change color",
-            "Because every attacking tactic they calculate is systematically defused before they can play it, forcing them into passive frustration and inevitable self-destruction (deliberate practice)",
+            "Because every attacking tactic they calculate is systematically defused before they can play it, forcing them into passive frustration and inevitable self-destruction",
             "Because prophylactic moves are illegal"
           ],
           "answerIndex": 2,
@@ -3501,10 +3501,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because rooks are actually worth only 2 points (43.1) ",
-            "Because minor pieces can fly over pawns (43.2) ",
-            "Because rooks require open files to generate value; in locked pawn structures, a well-placed knight or bishop is far more active and influential than a hemmed-in rook (43.3) ",
-            "To simplify the game into a draw (43.4) "
+            "Because rooks are actually worth only 2 points",
+            "Because minor pieces can fly over pawns",
+            "Because rooks require open files to generate value; in locked pawn structures, a well-placed knight or bishop is far more active and influential than a hemmed-in rook",
+            "To simplify the game into a draw"
           ],
           "answerIndex": 2,
           "explanation": "Rooks require open files; locked structures amplify minor piece power over rooks."
@@ -3527,10 +3527,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 43:",
           "options": [
-            "It destroys White's queenside pawn structure (creating doubled c-pawns), exposes White's king, and removes the critical defender of the e4 central pawn  (Task 43.1)",
-            "Because Black does not need rooks in the Sicilian  (Task 43.2)",
-            "Because it is an accidental blunder  (Task 43.3)",
-            "Because the c3 knight is worth 10 points  (Task 43.4)"
+            "It destroys White's queenside pawn structure (creating doubled c-pawns), exposes White's king, and removes the critical defender of the e4 central pawn",
+            "Because Black does not need rooks in the Sicilian",
+            "Because it is an accidental blunder",
+            "Because the c3 knight is worth 10 points"
           ],
           "answerIndex": 0,
           "explanation": "...Rxc3 shatters White's queenside pawn barrier and King safety."
@@ -3566,7 +3566,7 @@
           "prompt": "Why can an opponent with an extra exchange (Rook vs Knight) find themselves completely helpless in a fortress position?",
           "options": [
             "Because rooks cannot enter the 8th rank",
-            "Because with zero open files, the rook cannot infiltrate, while the knight controls all key break squares, preventing any breakthrough (deliberate practice)",
+            "Because with zero open files, the rook cannot infiltrate, while the knight controls all key break squares, preventing any breakthrough",
             "Because the knight can capture the rook from across the board",
             "Because the arbiter declares the game over"
           ],
@@ -3630,10 +3630,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Red square (44.1) ",
-            "Light square (f = 6th file [even] + 7th rank [odd] -> Light square) (44.2) ",
-            "Green square (44.3) ",
-            "Dark square (44.4) "
+            "Red square",
+            "Light square",
+            "Green square",
+            "Dark square"
           ],
           "answerIndex": 1,
           "explanation": "Even file (f=6) + Odd rank (7) = Light square."
@@ -3641,7 +3641,7 @@
         {
           "prompt": "If a knight is on 'e4' (a light square), what color are all 8 squares it can legally jump to?",
           "options": [
-            "All 8 destination squares are Dark squares (knights always change square color on every single move)",
+            "All 8 destination squares are Dark squares",
             "4 are light and 4 are dark",
             "It depends on which color piece the knight is",
             "All 8 destination squares are Light squares"
@@ -3656,10 +3656,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 44:",
           "options": [
-            "2.Qe2+ (or 2.Nd5+), delivering devastating discovered and double checks  (Task 44.1)",
-            "Castling queenside  (Task 44.2)",
-            "Resigning  (Task 44.3)",
-            "Moving the bishop back to c4  (Task 44.4)"
+            "2.Qe2+ (or 2.Nd5+), delivering devastating discovered and double checks",
+            "Castling queenside",
+            "Resigning",
+            "Moving the bishop back to c4"
           ],
           "answerIndex": 0,
           "explanation": "1.Bxf7+ Ke7 2.Qe2+ / 2.Nd5+ completely dismantles Black's uncoordinated king."
@@ -3667,7 +3667,7 @@
         {
           "prompt": "What is the shortest knight path from 'a1' to 'c3'?",
           "options": [
-            "2 moves (e.g. a1-c2-a3 is 2 moves, or a1-b3-c1? Shortest from a1 to c3 is: a1-b3-c1? No: a1-c2 then c2-e3 then e3-c4? Direct: a1-b3-d4-c2? From a1 to c3 requires 2 moves: a1-c2 then c2-a3? Wait: a1 to b3 (1), b3 to c1/a5/d4/c5. a1 to c2 (1), c2 to a3/b4/d4/e3. Shortest is 2 moves via a1-b3-c5? No: a1 to b3 to c1? From a1 to c3: a1 is dark, c3 is dark! A knight must take an EVEN number of moves (2 moves: a1-c2-a3-b5-c3 = 4? No, a1-b3 then b3-c1? a1 to c3 is a diagonal 2-step: 2 moves via a1-c2-e1? No, 2 moves is impossible for diagonal offset (2,2) because (2,2) takes minimum 2 moves or 4 moves? From a1(1,1) to c3(3,3): a1->b3(2,3)->c1? a1->c2(3,2)->e1? Actually (2,2) diagonal requires 2 moves: a1 -> b3 -> c1? No, a1 -> c2 -> a3? The standard knight route to (2,2) diagonal takes 2 moves? 2 moves: (1,1)->(2,3)->(3,1)? No, (1,1)->(2,3)->(4,2)->(3,4)? Shortest is 2 moves: a1-b3-c1? Wait, to reach c3(3,3): a1(1,1) -> b3(2,3) -> d4(4,4) -> c2? In fact, (2,2) diagonal offset takes 2 moves? No, a1(dark) to c3(dark) requires an EVEN number of moves: minimum 2 moves: a1->c2? from c2 to c3 is not a knight move! From b3 to c3 is not a knight move! So (2,2) takes 2 moves? No, minimum 4 moves? Wait! a1->b3->d4->b5->c3 is 4 moves! Or a1->c2->e3->d5->c3 = 4 moves!)",
+            "2 moves (e.g. a1-c2-a3 is 2 moves, or a1-b3-c1? Shortest from a1 to c3 is: a1-b3-c1? No: a1-c2 then c2-e3 then e3-c4? Direct: a1-b3-d4-c2? From a1 to c3 requires 2 moves: a1-c2 then c2-a3? Wait: a1 to b3 (1), b3 to c1/a5/d4/c5. a1 to c2 (1), c2 to a3/b4/d4/e3. Shortest is 2 moves via a1-b3-c5? No: a1 to b3 to c1? From a1 to c3: a1 is dark, c3 is dark! A knight must take an EVEN number of moves (2 moves: a1-c2-a3-b5-c3 = 4? No, a1-b3 then b3-c1? a1 to c3 is a diagonal 2-step: 2 moves via a1-c2-e1? No, 2 moves is impossible for diagonal offset (2,2) because (2,2) takes minimum 2 moves or 4 moves? From a1(1,1) to c3(3,3): a1->b3(2,3)->c1? a1->c2(3,2)->e1? Actually (2,2) diagonal requires 2 moves: a1 -> b3 -> c1? No, a1 -> c2 -> a3? The standard knight route to (2,2) diagonal takes 2 moves? 2 moves: (1,1)->(2,3)->(3,1)? No, (1,1)->(2,3)->(4,2)->(3,4)? Shortest is 2 moves: a1-b3-c1? Wait, to reach c3(3,3): a1(1,1) -> b3(2,3) -> d4(4,4) -> c2? In fact, (2,2) diagonal offset takes 2 moves? No, a1(dark) to c3(dark) requires an EVEN number of moves: minimum 2 moves: a1->c2? from c2 to c3 is not a knight move! From b3 to c3 is not a knight move! So (2,2) takes 2 moves? No, minimum 4 moves? Wait! a1->b3->d4->b5->c3 is 4 moves! Or a1->c2->e3->d5->c3 = 4 moves!",
             "3 moves",
             "1 move",
             "10 moves"
@@ -3694,7 +3694,7 @@
         {
           "prompt": "Why does blindfold visualization training dramatically improve over-the-board tournament play?",
           "options": [
-            "It expands visuospatial working memory bandwidth and removes reliance on physical piece movement, allowing effortless 5-to-8 move calculation without tactical fatigue (deliberate practice)",
+            "It expands visuospatial working memory bandwidth and removes reliance on physical piece movement, allowing effortless 5-to-8 move calculation without tactical fatigue",
             "It allows players to sleep during games",
             "It prevents opponents from seeing the board",
             "It turns off the tournament clocks"
@@ -3759,10 +3759,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It eliminated Black's key central defender, won the bishop pair, established an unstoppable outpost on e5, and created an outside passed a-pawn that easily converted the endgame (45.1) ",
-            "It checkmated Black on move 21 (45.2) ",
-            "It won Black's queen on move 22 (45.3) ",
-            "It forced an immediate draw (45.4) "
+            "It eliminated Black's key central defender, won the bishop pair, established an unstoppable outpost on e5, and created an outside passed a-pawn that easily converted the endgame",
+            "It checkmated Black on move 21",
+            "It won Black's queen on move 22",
+            "It forced an immediate draw"
           ],
           "answerIndex": 0,
           "explanation": "21.Rxc6! shattered Black's position and secured total positional dominance."
@@ -3785,10 +3785,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 45:",
           "options": [
-            "The grandmaster memorizes every possible game in history  (Task 45.1)",
-            "The grandmaster calculates with disciplined serial candidate trees, never hopes for opponent mistakes, respects prophylactic danger, and plays the board with complete objectivity (deliberate practice)  (Task 45.2)",
-            "Ignoring opening principles and king safety  (Task 45.3)",
-            "The grandmaster has faster fingers  (Task 45.4)"
+            "The grandmaster memorizes every possible game in history",
+            "The grandmaster calculates with disciplined serial candidate trees, never hopes for opponent mistakes, respects prophylactic danger, and plays the board with complete objectivity",
+            "Ignoring opening principles and king safety",
+            "The grandmaster has faster fingers"
           ],
           "answerIndex": 1,
           "explanation": "Objective candidate calculation, prophylaxis, and structural discipline define grandmaster mastery."
@@ -3893,10 +3893,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Black's advantage (46.1) ",
-            "Automatic stalemate (46.2) ",
-            "Immediate repetition (46.3) ",
-            "White's advantage (White holds the opposition; Black must step aside and yield territory) (46.4) "
+            "Black's advantage",
+            "Automatic stalemate",
+            "Immediate repetition",
+            "White's advantage"
           ],
           "answerIndex": 3,
           "explanation": "White holds the opposition when Black is forced to move."
@@ -3919,10 +3919,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 46:",
           "options": [
-            "d5, e5, f5  (Task 46.1)",
-            "d3, e3, f3  (Task 46.2)",
-            "e7 only  (Task 46.3)",
-            "d6, e6, f6 (two ranks ahead of the pawn)  (Task 46.4)"
+            "d5, e5, f5",
+            "d3, e3, f3",
+            "e7 only",
+            "d6, e6, f6"
           ],
           "answerIndex": 3,
           "explanation": "For pawns on ranks 2-4, key squares are 2 ranks ahead (d6, e6, f6)."
@@ -3959,7 +3959,7 @@
           "options": [
             "Kings on opposite sides of the room",
             "A queen pin",
-            "Kings facing each other on the same file with 3 or 5 squares between them (an odd number of squares)",
+            "Kings facing each other on the same file with 3 or 5 squares between them",
             "A rook lift"
           ],
           "answerIndex": 2,
@@ -3981,7 +3981,7 @@
         {
           "prompt": "If a pawn reaches rank 6 (e.g. e6), how many key squares exist in front of it?",
           "options": [
-            "3 squares directly one rank ahead (d7, e7, f7)",
+            "3 squares directly one rank ahead",
             "1 square",
             "None",
             "6 squares"
@@ -4027,10 +4027,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "No (b6 is outside the square; 1...Kb7 or 1...Kc6 cannot enter the f8-c8 boundary) (47.1) ",
-            "White loses (47.2) ",
-            "Yes, Black catches it easily (47.3) ",
-            "Automatic draw (47.4) "
+            "No",
+            "White loses",
+            "Yes, Black catches it easily",
+            "Automatic draw"
           ],
           "answerIndex": 0,
           "explanation": "Black cannot enter the c8-c5 perimeter on move 1."
@@ -4053,10 +4053,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 47:",
           "options": [
-            "From rank 1  (Task 47.1)",
-            "From rank 4 (the square is a4-a8-e8-e4)  (Task 47.2)",
-            "From rank 8  (Task 47.3)",
-            "From rank 2  (Task 47.4)"
+            "From rank 1",
+            "From rank 4",
+            "From rank 8",
+            "From rank 2"
           ],
           "answerIndex": 1,
           "explanation": "Initial double-step advances the pawn to rank 4, shrinking the square to a4-a8."
@@ -4103,8 +4103,8 @@
         {
           "prompt": "True or False: The Rule of the Square applies even if there are obstacles (other pawns or pieces) blocking the King's path.",
           "options": [
-            "True (Obstacles do not matter)",
-            "False (Obstacles force the King to take detours, meaning a King inside the square may still fail to catch the pawn!)"
+            "True",
+            "False"
           ],
           "answerIndex": 1,
           "explanation": "False. Obstacles increase diagonal path distance.",
@@ -4116,7 +4116,7 @@
             "Garry Kasparov only",
             "Bobby Fischer only",
             "Paul Morphy only",
-            "Karsten Müller & Frank Lamprecht (and classic works by Capablanca, Fine, and Dvoretsky)"
+            "Karsten Müller & Frank Lamprecht"
           ],
           "answerIndex": 3,
           "explanation": "Dvoretsky's Endgame Manual and FCE are the classic masterworks.",
@@ -4159,10 +4159,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The 1st rank (48.1) ",
-            "The 8th rank (48.2) ",
-            "The 4th rank (Rd4 or Rf4) (48.3) ",
-            "The 2nd rank (48.4) "
+            "The 1st rank",
+            "The 8th rank",
+            "The 4th rank",
+            "The 2nd rank"
           ],
           "answerIndex": 2,
           "explanation": "The 4th rank allows the Rook to interpose on the 5th rank (Kd5/Rd4)."
@@ -4185,10 +4185,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 48:",
           "options": [
-            "To force Black's King at least 2 files away so it cannot attack White's pawn when White's King steps out.  (Task 48.1)",
-            "To win Black's Queen  (Task 48.2)",
-            "To cause stalemate  (Task 48.3)",
-            "To promote immediately  (Task 48.4)"
+            "To force Black's King at least 2 files away so it cannot attack White's pawn when White's King steps out.",
+            "To win Black's Queen",
+            "To cause stalemate",
+            "To promote immediately"
           ],
           "answerIndex": 0,
           "explanation": "Checking the king away prevents counter-attacks on the passed pawn."
@@ -4249,7 +4249,7 @@
           "options": [
             "Garry Kasparov",
             "Alexander Alekhine",
-            "Luis Ramírez de Lucena (1497 Spanish chess master)",
+            "Luis Ramírez de Lucena",
             "Emanuel Lasker"
           ],
           "answerIndex": 2,
@@ -4293,10 +4293,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The 8th rank (49.1) ",
-            "The 3rd rank (e.g. Ra6/Rh6), cutting off the enemy King from advancing (49.2) ",
-            "The 4th rank (49.3) ",
-            "The 1st rank (49.4) "
+            "The 8th rank",
+            "The 3rd rank (e.g. Ra6/Rh6), cutting off the enemy King from advancing",
+            "The 4th rank",
+            "The 1st rank"
           ],
           "answerIndex": 1,
           "explanation": "The 3rd rank prevents the attacking king from reaching the 6th rank."
@@ -4319,10 +4319,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 49:",
           "options": [
-            "Because the pawn on the 6th rank blocks the King from stepping forward, leaving no shelter against vertical checks.  (Task 49.1)",
-            "Because of a stalemate rule.  (Task 49.2)",
-            "Because the board ends.  (Task 49.3)",
-            "Because the King is frozen.  (Task 49.4)"
+            "Because the pawn on the 6th rank blocks the King from stepping forward, leaving no shelter against vertical checks.",
+            "Because of a stalemate rule.",
+            "Because the board ends.",
+            "Because the King is frozen."
           ],
           "answerIndex": 0,
           "explanation": "The pawn robs its own King of front shelter."
@@ -4345,7 +4345,7 @@
         {
           "prompt": "Match the two legendary Rook endgame positions to their result: Lucena vs. Philidor:",
           "options": [
-            "Lucena: Attacker WIN (Building the bridge) | Philidor: Defender DRAW (3rd-rank hold & rear checks)",
+            "Lucena: Attacker WIN (Building the bridge) | Philidor: Defender DRAW",
             "Lucena: Defender DRAW | Philidor: Attacker WIN",
             "Both are always wins",
             "Both are always draws"
@@ -4382,7 +4382,7 @@
           "prompt": "Who formulated the Philidor Defense in 1777?",
           "options": [
             "Paul Morphy",
-            "François-André Danican Philidor (L'Analyze du jeu des Échecs)",
+            "François-André Danican Philidor",
             "Wilhelm Steinitz",
             "Magnus Carlsen"
           ],
@@ -4427,10 +4427,10 @@
         {
           "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The Lucena Position (forced win via building the bridge) (50.1) ",
-            "The Philidor Position (50.2) ",
-            "Stalemate (50.3) ",
-            "Triangulation for Black (50.4) "
+            "The Lucena Position",
+            "The Philidor Position",
+            "Stalemate",
+            "Triangulation for Black"
           ],
           "answerIndex": 0,
           "explanation": "The Lucena position is the universal winning blueprint."
@@ -4438,7 +4438,7 @@
         {
           "prompt": "If you are DOWN a pawn in a Rook endgame, which theoretical fortress do you set up to secure a draw?",
           "options": [
-            "The Philidor Defense (3rd-rank cut-off and rear checks)",
+            "The Philidor Defense",
             "The Lucena Position",
             "The Fried Liver",
             "The Scholar's Mate"
@@ -4453,10 +4453,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 50:",
           "options": [
-            "Because key squares cannot be entered by pawns.  (Task 50.1)",
-            "Because once your King reaches a key square, promotion is 100% guaranteed regardless of who holds the opposition or whose turn it is.  (Task 50.2)",
-            "Because of the 50-move rule.  (Task 50.3)",
-            "Because key squares score extra points.  (Task 50.4)"
+            "Because key squares cannot be entered by pawns.",
+            "Because once your King reaches a key square, promotion is 100% guaranteed regardless of who holds the opposition or whose turn it is.",
+            "Because of the 50-move rule.",
+            "Because key squares score extra points."
           ],
           "answerIndex": 1,
           "explanation": "Key squares guarantee promotion unconditionally."
