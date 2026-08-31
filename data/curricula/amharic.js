@@ -536,9 +536,9 @@
           "prompt": "Which Fidel character represents the 7th Order sound [lo] in the ለ family?",
           "options": [
             "ሎ (Lo)",
-            "ላ (Amharic reading)",
-            "ሊ (Amharic reading)",
-            "ሉ (Amharic reading)"
+            "ላ (La)",
+            "ሊ (Li)",
+            "ሉ (Lu)"
           ],
           "answerIndex": 0,
           "explanation": "«ሎ» represents the 7th order [lo]."
@@ -551,9 +551,9 @@
           "prompt": "Select the Amharic word meaning \"lemon\" spelled with «ሎ» [lo] and «ሚ» [mi]:",
           "options": [
             "ሎሚ (Lomi - Lemon)",
-            "ላም (Amharic reading)",
-            "ሰው (Amharic reading)",
-            "ውሃ (Amharic reading)"
+            "ላም (Lam - Cow)",
+            "ሰው (Sew - Person)",
+            "ውሃ (Weha - Water)"
           ],
           "answerIndex": 0,
           "explanation": "«ሎ» [lo] + «ሚ» [mi] = «ሎሚ» (*lomi* - lemon)."
@@ -641,9 +641,9 @@
           "prompt": "When greeting a male friend in Amharic, which form of \"How are you?\" is grammatically correct?",
           "options": [
             "እንደምን ነህ? (Endemen neh? - How are you (male)?)",
-            "እንደምን ነሽ? (Amharic reading)",
-            "እንደምን ኖት? (Amharic reading)",
-            "ደህና ነኝ (Amharic reading)"
+            "እንደምን ነሽ? (Endemen nesh? - How are you (female)?)",
+            "እንደምን ኖት? (Endemen not? - How are you (formal)?)",
+            "ደህና ነኝ (Dehna negn - I am well)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ነህ?» (*Endemen neh?*) uses the 2nd-person masculine suffix «-ህ» (-h)."
@@ -652,9 +652,9 @@
           "prompt": "What is the universal Amharic greeting meaning \"Peace / Hello\"?",
           "options": [
             "ሰላም (Selam - Hello / Peace)",
-            "ሎሚ (Amharic reading)",
-            "ላም (Amharic reading)",
-            "ውሃ (Amharic reading)"
+            "ሎሚ (Lomi - Lemon)",
+            "ላም (Lam - Cow)",
+            "ውሃ (Weha - Water)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰላም» (*Selam*) means peace and serves as the universal greeting."
@@ -667,9 +667,9 @@
           "prompt": "How do you politely ask a woman \"How are you?\" in Amharic?",
           "options": [
             "እንደምን ነሽ? (Endemen nesh? - How are you (female)?)",
-            "እንደምን ነህ? (Amharic reading)",
-            "እንደምን ኖት? (Amharic reading)",
-            "ሰላም ሁን (Amharic reading)"
+            "እንደምን ነህ? (Endemen neh? - How are you (male)?)",
+            "እንደምን ኖት? (Endemen not? - How are you (formal)?)",
+            "ሰላም ሁን (Selam hun - Goodbye / Peace be with you (male))"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ነሽ?» (*Endemen nesh?*) uses the 2nd-person feminine suffix «-ሽ» (-sh)."
@@ -678,9 +678,9 @@
           "prompt": "Select the traditional Amharic response meaning \"I am well, praise be to God\":",
           "options": [
             "ደህና ነኝ፣ እግዚአብሔር ይመስገን (Dehna negn, Egziabher ymesgen - I am well, thank God)",
-            "ስሜ ዳዊት ነው (Amharic reading)",
-            "ቻው (Amharic reading)",
-            "አይደለም (Amharic reading)"
+            "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
+            "ቻው (Chaw - Bye / Ciao)",
+            "አይደለም (Aydelem - No / It is not)"
           ],
           "answerIndex": 0,
           "explanation": "«ደህና ነኝ፣ እግዚአብሔር ይመስገን» is the standard authentic response."
@@ -694,9 +694,9 @@
           "prompt": "Which greeting is used when addressing an esteemed elder, professor, or dignitary respectfully?",
           "options": [
             "እንደምን ኖት? (Endemen not? - How are you (formal)?)",
-            "እንደምን ነህ? (Amharic reading)",
-            "እንደምን ነሽ? (Amharic reading)",
-            "ቻው (Amharic reading)"
+            "እንደምን ነህ? (Endemen neh? - How are you (male)?)",
+            "እንደምን ነሽ? (Endemen nesh? - How are you (female)?)",
+            "ቻው (Chaw - Bye / Ciao)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ኖት?» (*Endemen not?*) is the formal honorific form."
@@ -757,9 +757,9 @@
           "prompt": "Which Amharic greeting is used to say \"Good morning\" to a woman?",
           "options": [
             "እንደምን አደርሽ? (Endemen adersh? - Good morning (female)?)",
-            "እንደምን አደርክ? (Amharic reading)",
-            "እንደምን ዋልክ? (Amharic reading)",
-            "እንደምን አመሸህ? (Amharic reading)"
+            "እንደምን አደርክ? (Endemen aderk? - Good morning (male)?)",
+            "እንደምን ዋልክ? (Endemen walk? - Good afternoon (male)?)",
+            "እንደምን አመሸህ? (Endemen amesheh? - Good evening (male)?)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን አደርሽ?» (*Endemen adersh?*) is \"Good morning\" addressed to a woman."
@@ -768,9 +768,9 @@
           "prompt": "How do you ask a man \"What is your name?\" in Amharic?",
           "options": [
             "ስምህ ማን ነው? (Smeh man new? - What is your name (male)?)",
-            "ስምሽ ማን ነው? (Amharic reading)",
-            "ስሜ ዳዊት ነው (Amharic reading)",
-            "እንደምን ነህ? (Amharic reading)"
+            "ስምሽ ማን ነው? (Smesh man new? - What is your name (female)?)",
+            "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
+            "እንደምን ነህ? (Endemen neh? - How are you (male)?)"
           ],
           "answerIndex": 0,
           "explanation": "«ስምህ ማን ነው?» (*Smeh man new?*) is used for males."
@@ -783,9 +783,9 @@
           "prompt": "Select the Amharic sentence meaning \"My name is Dawit\":",
           "options": [
             "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
-            "ስምህ ማን ነው? (Amharic reading)",
-            "እንደምን ነህ? (Amharic reading)",
-            "ደህና ሁን (Amharic reading)"
+            "ስምህ ማን ነው? (Smeh man new? - What is your name (male)?)",
+            "እንደምን ነህ? (Endemen neh? - How are you (male)?)",
+            "ደህና ሁን (Dehna hun - Goodbye (male))"
           ],
           "answerIndex": 0,
           "explanation": "«ስሜ ዳዊት ነው» (*Sme Dawit new*) means \"My name is Dawit\"."
@@ -794,9 +794,9 @@
           "prompt": "Which phrase is used to greet someone in the afternoon (\"Good afternoon\" to a male)?",
           "options": [
             "እንደምን ዋልክ? (Endemen walk? - Good day (male)?)",
-            "እንደምን አደርክ? (Amharic reading)",
-            "እንደምን አመሸህ? (Amharic reading)",
-            "ደህና ሁን (Amharic reading)"
+            "እንደምን አደርክ? (Endemen aderk? - Good morning (male)?)",
+            "እንደምን አመሸህ? (Endemen amesheh? - Good evening (male)?)",
+            "ደህና ሁን (Dehna hun - Goodbye (male))"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ዋልክ?» (*Endemen walk?*) is the afternoon greeting."
@@ -873,9 +873,9 @@
           "prompt": "What is the standard Amharic word for \"Thank you\"?",
           "options": [
             "አመሰግናለሁ (Ameseginalehu - Thank you)",
-            "ይቅርታ (Amharic reading)",
-            "ምንም አይደለም (Amharic reading)",
-            "ሰላም (Amharic reading)"
+            "ይቅርታ (Ykrta - Excuse me / Sorry)",
+            "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)",
+            "ሰላም (Selam - Peace / Hello)"
           ],
           "answerIndex": 0,
           "explanation": "«አመሰግናለሁ» (*Amesegenalehu*) is the standard phrase for \"Thank you\"."
@@ -884,9 +884,9 @@
           "prompt": "When someone thanks you in Amharic, what is the correct response meaning \"You are welcome / It is nothing\"?",
           "options": [
             "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)",
-            "አመሰግናለሁ (Amharic reading)",
-            "ይቅርታ (Amharic reading)",
-            "እንደምን ነህ? (Amharic reading)"
+            "አመሰግናለሁ (Ameseginalehu - Thank you)",
+            "ይቅርታ (Ykrta - Excuse me / Sorry)",
+            "እንደምን ነህ? (Endemen neh? - How are you (male)?)"
           ],
           "answerIndex": 0,
           "explanation": "«ምንም አይደለም» (*Menem aydellem*) is the polite response to \"thank you\"."
@@ -899,9 +899,9 @@
           "prompt": "Select the Amharic word used to say \"Excuse me\" or \"I am sorry\":",
           "options": [
             "ይቅርታ (Ykrta - Excuse me / Sorry)",
-            "አመሰግናለሁ (Amharic reading)",
-            "ምንም አይደለም (Amharic reading)",
-            "ሰላም (Amharic reading)"
+            "አመሰግናለሁ (Ameseginalehu - Thank you)",
+            "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)",
+            "ሰላም (Selam - Peace / Hello)"
           ],
           "answerIndex": 0,
           "explanation": "«ይቅርታ» (*Yeqerta*) means \"Excuse me / I am sorry\"."
@@ -910,9 +910,9 @@
           "prompt": "How do you say \"Please\" when addressing an esteemed elder or formal superior?",
           "options": [
             "እባክዎ (Ebakwo - Please (formal))",
-            "እባክህ (Amharic reading)",
-            "እባክሽ (Amharic reading)",
-            "ቻው (Amharic reading)"
+            "እባክህ (Ebakeh - Please (male))",
+            "እባክሽ (Ebaksh - Please (female))",
+            "ቻው (Chaw - Bye / Ciao)"
           ],
           "answerIndex": 0,
           "explanation": "«እባክዎ» (*Ebakwo*) is the formal honorific form of \"please\"."
@@ -989,9 +989,9 @@
           "prompt": "Which Amharic farewell is used to say \"Goodbye / Stay well\" to a woman?",
           "options": [
             "ደህና ሁኚ (Dehna hugni - Goodbye (female))",
-            "ደህና ሁን (Amharic reading)",
-            "ደህና ሁኑ (Amharic reading)",
-            "እንደምን ነሽ? (Amharic reading)"
+            "ደህና ሁን (Dehna hun - Goodbye (male))",
+            "ደህና ሁኑ (Dehna hunu - Goodbye (plural))",
+            "እንደምን ነሽ? (Endemen nesh? - How are you (female)?)"
           ],
           "answerIndex": 0,
           "explanation": "«ደህና ሁኚ» (*Dehna huñi*) is addressed to a woman."
@@ -1000,9 +1000,9 @@
           "prompt": "Select the Amharic phrase meaning \"Have a nice day!\":",
           "options": [
             "መልካም ቀን! (Melkam qen! - Have a good day!)",
-            "መልካም ሌሊት! (Amharic reading)",
-            "ስሜ ዳዊት ነው (Amharic reading)",
-            "አመሰግናለሁ (Amharic reading)"
+            "መልካም ሌሊት! (Melkam lelit! - Good night!)",
+            "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
+            "አመሰግናለሁ (Ameseginalehu - Thank you)"
           ],
           "answerIndex": 0,
           "explanation": "«መልካም ቀን!» (*Melkam qen!*) means \"Have a nice day!\"."
@@ -1015,9 +1015,9 @@
           "prompt": "How do you say \"Have a nice evening!\" in Amharic?",
           "options": [
             "መልካም ምሽት! (Melkam mshet! - Have a good evening!)",
-            "መልካም ቀን! (Amharic reading)",
-            "መልካም ሌሊት! (Amharic reading)",
-            "ሰላም (Amharic reading)"
+            "መልካም ቀን! (Melkam qen! - Have a good day!)",
+            "መልካም ሌሊት! (Melkam lelit! - Good night!)",
+            "ሰላም (Selam - Peace / Hello)"
           ],
           "answerIndex": 0,
           "explanation": "«መልካም ምሽት!» (*Melkam mshet!*) means \"Have a nice evening!\"."
@@ -1026,9 +1026,9 @@
           "prompt": "What casual loanword is widely used in urban Ethiopia for \"Bye!\" among friends?",
           "options": [
             "ቻው (Chaw - Bye (casual))",
-            "ሰላም (Amharic reading)",
-            "ሎሚ (Amharic reading)",
-            "ውሃ (Amharic reading)"
+            "ሰላም (Selam - Peace / Hello)",
+            "ሎሚ (Lomi - Lemon)",
+            "ውሃ (Weha - Water)"
           ],
           "answerIndex": 0,
           "explanation": "«ቻው» (*Chao*) is the standard informal urban farewell."

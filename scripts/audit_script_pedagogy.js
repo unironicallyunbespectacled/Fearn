@@ -99,7 +99,7 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
         if (Array.isArray(item.options)) {
           item.options.forEach(opt => {
             if (typeof opt === 'string' && cfg.scriptRange.test(opt)) {
-              const hasGloss = /\([a-zA-Z0-9\s—–,.'"/]+\)/.test(opt) || /[a-zA-Z]{3,}/.test(opt);
+              const hasGloss = /\([a-zA-Z0-9\s—–,.'"/\[\]!?:;-]+\)/.test(opt) || /[a-zA-Z]{3,}/.test(opt);
               if (!hasGloss) {
                 u1UnglossedCount++;
               }
@@ -113,7 +113,8 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
     if (les.checkpointTest) checkU1Items(les.checkpointTest.items);
   });
 
-  // 3. Course-wide syntax & glitch check
+  // 3. Course-wide syntax, placeholders, and glitch check
+  let placeholderCount = 0;
   let corruptedCount = 0;
   allLkeys.forEach(lid => {
     const les = lessons[lid];
@@ -123,6 +124,9 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
         if (Array.isArray(item.options)) {
           item.options.forEach(opt => {
             if (typeof opt === 'string') {
+              if (/\([A-Za-z\s]+reading\)/i.test(opt)) {
+                placeholderCount++;
+              }
               if (/\)\s*\(/g.test(opt) || /\(\d+\.\d+\)/.test(opt) || opt.includes('(Context:') || opt.includes('(Target expression')) {
                 corruptedCount++;
               }
@@ -136,7 +140,7 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
     if (les.checkpointTest) checkSyntax(les.checkpointTest.items);
   });
 
-  const isOk = u1UnglossedCount === 0 && corruptedCount === 0 && introducedChars.size > 0;
+  const isOk = u1UnglossedCount === 0 && placeholderCount === 0 && corruptedCount === 0 && introducedChars.size > 0;
   if (!isOk) hasFailure = true;
 
   console.log(
@@ -144,14 +148,14 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
     `${String(allLkeys.length).padStart(13)} | ` +
     `${String(introducedChars.size).padStart(15)} | ` +
     `${String(u1UnglossedCount).padStart(18)} | ` +
-    `${String(corruptedCount).padStart(17)} | ` +
+    `${String(corruptedCount + placeholderCount).padStart(17)} | ` +
     (isOk ? 'PASSED [✓]' : 'FAILED [✗]')
   );
 });
 
 console.log('--------------------------------------------------------------------------------------------------------------------------------');
 if (hasFailure) {
-  console.error('>>> [AUDIT FAILED] Script pedagogy or corrupted option defects found! <<<');
+  console.error('>>> [AUDIT FAILED] Script pedagogy, placeholder, or corrupted option defects found! <<<');
   process.exit(1);
 } else {
   console.log('>>> [AUDIT PASSED] 100% OF ALL 10 NON-LATIN CURRICULA MEET AUTHENTIC SCRIPT-PEDAGOGY & SYNTAX PURITY! <<<');

@@ -517,9 +517,9 @@
           "prompt": "Which Cyrillic letter looks like the Latin \"P\" but is pronounced as a rolled [r] sound?",
           "options": [
             "Р (Er - rolling r sound)",
-            "В (Russian reading)",
-            "Н (Russian reading)",
-            "С (Russian reading)"
+            "В (Ve [v])",
+            "Н (En [n])",
+            "С (Es [s])"
           ],
           "answerIndex": 0,
           "explanation": "Cyrillic «Р» corresponds to the rolled [r] sound."
@@ -619,9 +619,9 @@
           "prompt": "Select the 3-letter Cyrillic word meaning \"house / home\" spelled with «Д», «О», «М»:",
           "options": [
             "ДОМ (dom - house)",
-            "ДА (Russian reading)",
-            "ГДЕ (Russian reading)",
-            "КОТ (Russian reading)"
+            "ДА (da - yes)",
+            "ГДЕ (gde - where)",
+            "КОТ (kot - cat)"
           ],
           "answerIndex": 0,
           "explanation": "«Д» [d] + «О» [o] + «М» [m] = «ДОМ» (*dom* - house/home)."
@@ -634,9 +634,9 @@
           "prompt": "Which Cyrillic consonant looks like a beetle with six legs and makes the voiced sound [zh] (as in \"measure\")?",
           "options": [
             "Ж (zhe [zh])",
-            "Д (Russian reading)",
-            "Б (Russian reading)",
-            "Г (Russian reading)"
+            "Д (De [d])",
+            "Б (Be [b])",
+            "Г (Ge [g])"
           ],
           "answerIndex": 0,
           "explanation": "«Ж» represents the voiced post-alveolar fricative [zh]."
@@ -645,9 +645,9 @@
           "prompt": "Identify the Cyrillic word meaning \"where\" spelled with «Г», «Д», and «Е»:",
           "options": [
             "ГДЕ (gde - where)",
-            "БРАТ (Russian reading)",
-            "ПАРК (Russian reading)",
-            "ДОМ (Russian reading)"
+            "БРАТ (brat - brother)",
+            "ПАРК (park - park)",
+            "ДОМ (dim - house)"
           ],
           "answerIndex": 0,
           "explanation": "«Г» [g] + «Д» [d] + «Е» [ye] = «ГДЕ» (*gde* - where)."
@@ -661,9 +661,9 @@
           "prompt": "Which Cyrillic word means \"brother\" in Russian?",
           "options": [
             "БРАТ (brat - brother)",
-            "ДОМ (Russian reading)",
-            "КОТ (Russian reading)",
-            "ПАРК (Russian reading)"
+            "ДОМ (dim - house)",
+            "КОТ (kot - cat)",
+            "ПАРК (park - park)"
           ],
           "answerIndex": 0,
           "explanation": "«БРАТ» (*brat*) means brother."
@@ -736,9 +736,9 @@
           "prompt": "Which 1-letter Cyrillic word means \"I\" (first-person pronoun)?",
           "options": [
             "Я (ya - first person pronoun I)",
-            "ОН (Russian reading)",
-            "МЫ (Russian reading)",
-            "ТЫ (Russian reading)"
+            "ОН (on - he)",
+            "МЫ (my - we)",
+            "ТЫ (ty - you (informal))"
           ],
           "answerIndex": 0,
           "explanation": "«Я» (*ya*) is the first-person singular pronoun \"I\"."
@@ -762,9 +762,9 @@
           "prompt": "Identify the Cyrillic word meaning \"day\" with a soft final «нь»:",
           "options": [
             "ДЕНЬ (den' - day)",
-            "ДОМ (Russian reading)",
-            "ДРУГ (Russian reading)",
-            "ДА (Russian reading)"
+            "ДОМ (dim - house)",
+            "ДРУГ (drug - friend)",
+            "ДА (da - yes)"
           ],
           "answerIndex": 0,
           "explanation": "«ДЕНЬ» (*den'*) means day."
@@ -778,9 +778,9 @@
           "prompt": "Which pronoun means \"we\" in Russian?",
           "options": [
             "МЫ (my - first person plural pronoun we)",
-            "ВЫ (Russian reading)",
-            "ОНИ (Russian reading)",
-            "ОН (Russian reading)"
+            "ВЫ (vy - you formal/plural)",
+            "ОНИ (oni - they)",
+            "ОН (on - he)"
           ],
           "answerIndex": 0,
           "explanation": "«МЫ» (*my*) means \"we\"."
@@ -842,9 +842,9 @@
           "prompt": "Which Russian greeting is the standard respectful formal expression for \"Hello\" when addressing a teacher, elder, or client?",
           "options": [
             "Здравствуйте! (Zdravstvuyte - Hello formal)",
-            "Привет! (Russian reading)",
-            "Пока! (Russian reading)",
-            "Спасибо! (Russian reading)"
+            "Привет! (Privet! - Hi (informal))",
+            "Пока! (Poka! - Bye (informal))",
+            "Спасибо! (Spasibo! - Thank you)"
           ],
           "answerIndex": 0,
           "explanation": "«Здравствуйте!» (*Zdravstvuyte*) is the universal respectful formal greeting."
@@ -853,9 +853,9 @@
           "prompt": "Which Cyrillic letter represents the \"ts\" sound (as in \"cats\")?",
           "options": [
             "Ц (tse [ts])",
-            "Ч (Russian reading)",
-            "Ш (Russian reading)",
-            "Щ (Russian reading)"
+            "Ч (Che [tʃ])",
+            "Ш (Sha [ʃ])",
+            "Щ (Shcha [ɕː])"
           ],
           "answerIndex": 0,
           "explanation": "«Ц» represents the alveolar affricate [ts]."
@@ -868,9 +868,9 @@
           "prompt": "Select the standard Russian word for expressing gratitude (\"Thank you!\"):",
           "options": [
             "Спасибо! (Spasibo - Thank you)",
-            "Пожалуйста! (Russian reading)",
-            "До свидания! (Russian reading)",
-            "Привет! (Russian reading)"
+            "Пожалуйста! (Pozhaluysta! - Please / You are welcome)",
+            "До свидания! (Do svidaniya! - Goodbye)",
+            "Привет! (Privet! - Hi (informal))"
           ],
           "answerIndex": 0,
           "explanation": "«Спасибо!» (*Spasibo*) means \"Thank you!\"."
@@ -879,9 +879,9 @@
           "prompt": "Which phrase is the standard formal way to say \"Goodbye\" in Russian?",
           "options": [
             "До свидания! (Do svidaniya - Goodbye)",
-            "Пока! (Russian reading)",
-            "Привет! (Russian reading)",
-            "Здравствуйте! (Russian reading)"
+            "Пока! (Poka! - Bye (informal))",
+            "Привет! (Privet! - Hi (informal))",
+            "Здравствуйте! (Zdravstvuyte! - Hello (formal))"
           ],
           "answerIndex": 0,
           "explanation": "«До свидания!» (*Do svidaniya*) means \"Goodbye!\"."
@@ -895,9 +895,9 @@
           "prompt": "Which casual word is used among close friends for \"Hi / Hello\"?",
           "options": [
             "Привет! (Privet - Hi informal)",
-            "Здравствуйте! (Russian reading)",
-            "До свидания! (Russian reading)",
-            "Спасибо! (Russian reading)"
+            "Здравствуйте! (Zdravstvuyte! - Hello (formal))",
+            "До свидания! (Do svidaniya! - Goodbye)",
+            "Спасибо! (Spasibo! - Thank you)"
           ],
           "answerIndex": 0,
           "explanation": "«Привет!» (*Privet*) is the friendly informal greeting."
@@ -960,9 +960,9 @@
           "prompt": "Which construction is used in Russian to say \"My name is...\"?",
           "options": [
             "Меня зовут... (Menya zovut - My name is)",
-            "Я зовут... (Russian reading)",
-            "Мой имя есть... (Russian reading)",
-            "Меня есть... (Russian reading)"
+            "Я зовут... (Ungrammatical distractor)",
+            "Мой имя есть... (Ungrammatical distractor)",
+            "Меня есть... (Ungrammatical distractor)"
           ],
           "answerIndex": 0,
           "explanation": "«Меня зовут...» (*Menya zovut...*) is the standard authentic construction."
@@ -971,9 +971,9 @@
           "prompt": "How do you politely ask a stranger or professor their name in formal Russian?",
           "options": [
             "Как вас зовут? (Kak vas zovut - What is your name formal)",
-            "Как тебя зовут? (Russian reading)",
-            "Кто ты? (Russian reading)",
-            "Где дом? (Russian reading)"
+            "Как тебя зовут? (Kak tebya zovut? - What is your name (informal))",
+            "Кто ты? (Kto ty? - Who are you?)",
+            "Где дом? (Gde dom? - Where is the house?)"
           ],
           "answerIndex": 0,
           "explanation": "«Как вас зовут?» (*Kak vas zovut?*) uses the polite plural/formal pronoun form «вас»."
@@ -986,9 +986,9 @@
           "prompt": "Select the polite phrase meaning \"Pleased to meet you!\" upon an introduction:",
           "options": [
             "Очень приятно! (Ochen priyatno - Pleased to meet you)",
-            "До свидания! (Russian reading)",
-            "Спасибо! (Russian reading)",
-            "Пожалуйста! (Russian reading)"
+            "До свидания! (Do svidaniya! - Goodbye)",
+            "Спасибо! (Spasibo! - Thank you)",
+            "Пожалуйста! (Pozhaluysta! - Please / You are welcome)"
           ],
           "answerIndex": 0,
           "explanation": "«Очень приятно!» (*Ochen' priyatno!*) means \"Pleased to meet you!\"."
@@ -1013,9 +1013,9 @@
           "prompt": "What is the correct formal response when introduced to a new colleague who says «Очень приятно!»?",
           "options": [
             "Очень приятно! / Взаимно! (Ochen priyatno / Vzaimno - Pleased to meet you / Likewise)",
-            "Пока! (Russian reading)",
-            "Где кот? (Russian reading)",
-            "Нет, спасибо! (Russian reading)"
+            "Пока! (Poka! - Bye (informal))",
+            "Где кот? (Gde kot? - Where is the cat?)",
+            "Нет, спасибо! (Net, spasibo! - No, thank you!)"
           ],
           "answerIndex": 0,
           "explanation": "Responding with «Очень приятно!» or «Взаимно!» is the correct etiquette."
@@ -16414,7 +16414,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'russian', name: 'Russian', units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'russian', name: "Russian", units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['russian'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

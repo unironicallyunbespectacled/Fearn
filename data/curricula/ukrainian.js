@@ -514,10 +514,10 @@
         {
           "prompt": "Оберіть граматично правильну нормативну форму ранкового привітання в українській мові:",
           "options": [
-            "Доброго ранку! (Ukrainian reading)",
-            "Добрий ранок! (Ukrainian reading)",
-            "Доброї доби! (Ukrainian reading)",
-            "Привітного дня! (Ukrainian reading)"
+            "Доброго ранку! (Dobroho ranku! - Good morning!)",
+            "Добрий ранок! (Dobryi ranok! - Good morning (informal))",
+            "Доброї доби! (Dobroyi doby! - Unnatural greeting distractor)",
+            "Привітного дня! (Pryvitnoho dnya! - Unnatural greeting distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Нормативною традиційною формою ранкового вітання в українській мові є саме родовий відмінок «Доброго ранку!»."
@@ -529,10 +529,10 @@
         {
           "prompt": "Яка українська літера завжди позначає сполучення двох звуків [й + і] на письмі?",
           "options": [
-            "Літера «Ї ї» (Ukrainian reading)",
-            "Літера «І і» (Ukrainian reading)",
-            "Літера «И и» (Ukrainian reading)",
-            "Літера «Е е» (Ukrainian reading)"
+            "Літера «Ї ї» (Litera \"YI yi\" - Letter Yi [ji])",
+            "Літера «І і» (Litera \"I i\" - Letter I [i])",
+            "Літера «И и» (Litera \"Y y\" - Letter Y [ɪ])",
+            "Літера «Е е» (Litera \"E e\" - Letter E [ɛ])"
           ],
           "answerIndex": 0,
           "explanation": "Літера «Ї» в українській мові завжди передає два звуки: м'який приголосний [й] та голосний [і]."
@@ -545,10 +545,10 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому правильно використано літеру «Ґ» (проривний дзвінкий звук [g]):",
           "options": [
-            "На ґанку будинку сидить гарний птах. (Ukrainian reading)",
-            "На ганку будинку сидить ґарний птах. (Ukrainian reading)",
-            "На ханку будинку сидить карний птах. (Ukrainian reading)",
-            "На занку будинку сидить варний птах. (Ukrainian reading)"
+            "На ґанку будинку сидить гарний птах. (Na ganku budynku sydyt' harnyi ptakh - Correct ґ/г distinction)",
+            "На ганку будинку сидить ґарний птах. (Incorrect ґ/г letter distractor)",
+            "На ханку будинку сидить карний птах. (Phonetic letter distractor)",
+            "На занку будинку сидить варний птах. (Phonetic letter distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «ґанок» пишеться з літерою «ґ» (проривний [ɡ]), а прикметник «гарний» — з літерою «г» (гортанний [ɦ])."
@@ -596,10 +596,10 @@
         {
           "prompt": "Як ввічливо запитати ім'я у незнайомої дорослої людини або викладача українською мовою?",
           "options": [
-            "Як вас звати? (Ukrainian reading)",
-            "Хто ти такий? (Ukrainian reading)",
-            "Скажи ім'я негайно! (Ukrainian reading)",
-            "Як тебе кличуть, гей? (Ukrainian reading)"
+            "Як вас звати? (Yak vas zvaty? - What is your name (formal)?)",
+            "Хто ти такий? (Khto ty takyi? - Who are you (blunt))",
+            "Скажи ім'я негайно! (Skazhy im'ya nehayno! - Tell your name immediately)",
+            "Як тебе кличуть, гей? (Rude distractor)"
           ],
           "answerIndex": 0,
           "explanation": "«Як вас звати?» — це нормативна та чемна формула запитання про ім'я співрозмовника."
@@ -611,10 +611,10 @@
         {
           "prompt": "Оберіть правильну форму звертання до пана Михайла у кличному відмінку:",
           "options": [
-            "Пане Михайле! (Ukrainian reading)",
-            "Пан Михайло! (Ukrainian reading)",
-            "Пана Михайла! (Ukrainian reading)",
-            "Пану Михайлу! (Ukrainian reading)"
+            "Пане Михайле! (Pane Mykhayle! - Vocative case Mr. Mykhailo)",
+            "Пан Михайло! (Pan Mykhaylo! - Nominative case distractor)",
+            "Пана Михайла! (Pana Mykhayla! - Genitive/Accusative distractor)",
+            "Пану Михайлу! (Panu Mykhaylu! - Dative case distractor)"
           ],
           "answerIndex": 0,
           "explanation": "При безпосередньому звертанні в українській мові обов'язково вживається кличний відмінок: «Пане Михайле!»."
@@ -627,10 +627,10 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення з правильною граматичною структурою представлення свого імені:",
           "options": [
-            "Мене звати Катерина, я з міста Львова. (Ukrainian reading)",
-            "Мій звати Катерина, я з міста Львова. (Ukrainian reading)",
-            "Мною звати Катерина, я з міста Львова. (Ukrainian reading)",
-            "Мені звати Катерина, я з міста Львова. (Ukrainian reading)"
+            "Мене звати Катерина, я з міста Львова. (Mene zvaty Kateryna, ya z mista L'vova - My name is Kateryna, I am from Lviv)",
+            "Мій звати Катерина, я з міста Львова. (Grammatical error distractor)",
+            "Мною звати Катерина, я з міста Львова. (Grammatical error distractor)",
+            "Мені звати Катерина, я з міста Львова. (Grammatical error distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Правильна стала формула представлення вимагає займенника у знахідному відмінку: «Мене звати...»."
@@ -678,10 +678,10 @@
         {
           "prompt": "Як коректно та ввічливо відповісти людині, яка щиро подякувала вам за послугу?",
           "options": [
-            "Будь ласка! / Прошу! (Ukrainian reading)",
-            "Та відстань від мене! (Ukrainian reading)",
-            "Мені все одно! (Ukrainian reading)",
-            "Замовкни нарешті! (Ukrainian reading)"
+            "Будь ласка! / Прошу! (Bud' laska! / Proshu! - You are welcome / Please!)",
+            "Та відстань від мене! (Get away from me distractor)",
+            "Мені все одно! (I don't care distractor)",
+            "Замовкни нарешті! (Shut up distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Нормативними та ввічливими відповідями на подяку в українській мові є слова «Будь ласка!» або «Прошу!»."
@@ -693,10 +693,10 @@
         {
           "prompt": "Яке слово найкраще підходить для ввічливого привернення уваги перехожого на вулиці?",
           "options": [
-            "Перепрошую! (Ukrainian reading)",
-            "Гей, ти! (Ukrainian reading)",
-            "Стій там! (Ukrainian reading)",
-            "Агов, слухай! (Ukrainian reading)"
+            "Перепрошую! (Pereproshuyu! - Excuse me / Pardon!)",
+            "Гей, ти! (Hey you distractor)",
+            "Стій там! (Stand there distractor)",
+            "Агов, слухай! (Hey listen distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «Перепрошую!» — це еталонне та шляхетне українське мовленнєве кліше для ввічливого звертання."
@@ -709,10 +709,10 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому граматично правильно побудовано фразу подяки з прийменником:",
           "options": [
-            "Щиро дякую вам за корисну пораду. (Ukrainian reading)",
-            "Щиро дякую вас на корисну пораду. (Ukrainian reading)",
-            "Щиро дякую вами про корисну пораду. (Ukrainian reading)",
-            "Щиро дякую від вас за корисній пораді. (Ukrainian reading)"
+            "Щиро дякую вам за корисну пораду. (Shchyro dyakuyu vam za korysnu poradu - Sincerely thank you for the useful advice)",
+            "Щиро дякую вас на корисну пораду. (Incorrect preposition distractor)",
+            "Щиро дякую вами про корисну пораду. (Incorrect case distractor)",
+            "Щиро дякую від вас за корисній пораді. (Incorrect case distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Дієслово «дякувати» вимагає давального відмінка адресата («вам») та прийменника «за» зі знахідним відмінком причини («за пораду»)."
@@ -760,10 +760,10 @@
         {
           "prompt": "У якій граматичній формі традиційно вживаються формули побажання (дня, вечора, дороги) в українській мові?",
           "options": [
-            "У родовому відмінку (Ukrainian reading)",
-            "У місцевому відмінку (Ukrainian reading)",
-            "У кличному відмінку (Ukrainian reading)",
-            "У називному відмінку без закінчень (Ukrainian reading)"
+            "У родовому відмінку (In genitive case)",
+            "У місцевому відмінку (In locative case)",
+            "У кличному відмінку (In vocative case)",
+            "У називному відмінку без закінчень (In nominative case without endings)"
           ],
           "answerIndex": 0,
           "explanation": "Побажання в українській мові граматично походять від еліптичної конструкції «Бажаю (чого?)» і стоять у родовому відмінку: «Гарного дня!», «Щасливої дороги!»."
@@ -775,10 +775,10 @@
         {
           "prompt": "Оберіть речення, яке є найбільш відповідним для дружнього неформального прощання з однолітком:",
           "options": [
-            "Бувай! До зустрічі ввечері! (Ukrainian reading)",
-            "Дозвольте відкланятися, вельмишановний пане. (Ukrainian reading)",
-            "Прощавайте назавжди без слів. (Ukrainian reading)",
-            "Я вимагаю розірвання бесіди. (Ukrainian reading)"
+            "Бувай! До зустрічі ввечері! (Buvay! Do zustrichi vvecheri! - Bye! See you in the evening!)",
+            "Дозвольте відкланятися, вельмишановний пане. (Excessively archaic farewell distractor)",
+            "Прощавайте назавжди без слів. (Farewell forever distractor)",
+            "Я вимагаю розірвання бесіди. (Demand ending conversation distractor)"
           ],
           "answerIndex": 0,
           "explanation": "«Бувай! До зустрічі!» — це невимушена, природна та тепла формула дружнього прощання."
@@ -791,10 +791,10 @@
           "type": "multiple-choice",
           "prompt": "Оберіть нормативно правильну форму вечірнього прощання перед відходом до сну:",
           "options": [
-            "На добраніч! (Ukrainian reading)",
-            "У доброму ночі! (Ukrainian reading)",
-            "Доброї ночі день! (Ukrainian reading)",
-            "Спи швидко вже! (Ukrainian reading)"
+            "На добраніч! (Na dobranich! - Good night!)",
+            "У доброму ночі! (U dobromu nochi - Ungrammatical distractor)",
+            "Доброї ночі день! (Nonsense distractor)",
+            "Спи швидко вже! (Sleep quickly already distractor)"
           ],
           "answerIndex": 0,
           "explanation": "«На добраніч!» є усталеною та найпоширенішою формою побажання доброго нічного сну в українській мові."
@@ -842,10 +842,10 @@
         {
           "prompt": "Оберіть правильний варіант заповнення пропуску відповідно до законів милозвучності: «Він працює ... великій компанії».",
           "options": [
-            "у (Ukrainian reading)",
-            "в (Ukrainian reading)",
-            "ізсередини (Ukrainian reading)",
-            "крізь (Ukrainian reading)"
+            "у (u - preposition in, before consonants)",
+            "в (v - preposition in, before vowels)",
+            "ізсередини (izseredyny - from inside)",
+            "крізь (kriz' - through)"
           ],
           "answerIndex": 0,
           "explanation": "Перед словом, що починається на букву «в» або сполучення приголосних («великій»), вживається прийменник «у» для уникнення збігу однакових звуків."
@@ -857,10 +857,10 @@
         {
           "prompt": "Оберіть варіант із правильним чергуванням сполучника між двома голосними звуками: «Оксана ... Андрій пішли до парку».",
           "options": [
-            "й (Ukrainian reading)",
-            "і (Ukrainian reading)",
-            "алеж (Ukrainian reading)",
-            "проте (Ukrainian reading)"
+            "й (y - conjunction and, after vowels)",
+            "і (i - conjunction and, after consonants)",
+            "алеж (alezhy - but)",
+            "проте (prote - however)"
           ],
           "answerIndex": 0,
           "explanation": "Між голосними звуками (після «Оксана» перед «Андрій») за законами евфонії наймилозвучнішим є сполучник «й»."
@@ -873,10 +873,10 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому бездоганно дотримано всі правила чергування У/В та І/Й:",
           "options": [
-            "У місті відкрили новий театр, і вистава розпочалася вчасно. (Ukrainian reading)",
-            "В місті відкрили новий театр, й вистава розпочалася увчасно. (Ukrainian reading)",
-            "У місті відкрили новий театр, й вистава розпочалася вчасно. (Ukrainian reading)",
-            "В місті відкрили новий театр, і вистава розпочалася увчасно. (Ukrainian reading)"
+            "У місті відкрили новий театр, і вистава розпочалася вчасно. (Correct euphony u/i usage)",
+            "В місті відкрили новий театр, й вистава розпочалася увчасно. (Incorrect euphony distractor)",
+            "У місті відкрили новий театр, й вистава розпочалася вчасно. (Incorrect euphony distractor)",
+            "В місті відкрили новий театр, і вистава розпочалася увчасно. (Incorrect euphony distractor)"
           ],
           "answerIndex": 0,
           "explanation": "На початку речення перед приголосним вживаємо «У місті», між приголосним [р] та [в] сполучник «і», прислівник «вчасно» після голосного."

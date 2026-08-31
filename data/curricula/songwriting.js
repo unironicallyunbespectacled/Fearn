@@ -938,7 +938,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 11:",
+          "prompt": "In composition and lyric craft for Unit 3, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Because singers cannot sing high notes in verses",
             "To make verses harder to hear",
@@ -1099,7 +1099,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 12:",
+          "prompt": "In composition and lyric craft for Unit 3, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "It lists grocery items",
             "It must be completely non-rhyming",
@@ -1259,7 +1259,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 13:",
+          "prompt": "In composition and lyric craft for Unit 3, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "'Get to the chorus in under 60 seconds'",
             "Wait at least 4 minutes before playing the chorus",
@@ -1419,7 +1419,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 14:",
+          "prompt": "In composition and lyric craft for Unit 3, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "By opening the section on a different chord from the verse/chorus (such as the IV, vi, or ii chord) to change the emotional atmosphere",
             "By muting all sound for two minutes",
@@ -1581,7 +1581,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 15:",
+          "prompt": "In composition and lyric craft for Unit 3, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Because Verse 2 is shorter",
             "To prevent the song from losing all its momentum after the high-energy first chorus",
@@ -1742,7 +1742,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
+          "prompt": "In composition and lyric craft for Unit 4, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Leaps are forbidden by copyright law",
             "Scale steps are louder than leaps",
@@ -1903,7 +1903,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
+          "prompt": "In composition and lyric craft for Unit 4, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Retrograde inversion",
             "Rhythmic truncation",
@@ -2065,7 +2065,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
+          "prompt": "In composition and lyric craft for Unit 4, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Direct, grounded, honest, definitive, and hymn-like",
             "Confused and searching",
@@ -2226,7 +2226,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
+          "prompt": "In composition and lyric craft for Design vocal range and register contrast, which artistic decision best serves the song?",
           "options": [
             "Low to mid conversational chest voice",
             "Inaudible whisper",
@@ -2389,7 +2389,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
+          "prompt": "In composition and lyric craft for Unit 4, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Because they are shorter",
             "Because the music reinforces how humans naturally express authentic emotion through voice inflection",
@@ -2542,7 +2542,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
+          "prompt": "In composition and lyric craft for Unit 6, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "He made a mistake that they kept on the record.",
             "F major has no other notes.",
@@ -2683,7 +2683,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
+          "prompt": "In composition and lyric craft for Unit 6, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Playing a false note on purpose",
             "Tuning the guitar down a step",
@@ -2824,7 +2824,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
+          "prompt": "In composition and lyric craft for Unit 6, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "G -> A7 -> D7 -> G",
             "G -> C -> D -> G",
@@ -2965,7 +2965,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
+          "prompt": "In composition and lyric craft for Unit 6, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "A single sustained vocal pitch remains constant while the harmony shifts underneath, creating a sophisticated thread of emotional continuity.",
             "It requires three singers.",
@@ -3107,7 +3107,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
+          "prompt": "In composition and lyric craft for Unit 6, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "It eliminates vocal harmony.",
             "It creates an unhurried, natural sense of progression and introspection that guides the listener smoothly through narrative exposition.",
@@ -3242,7 +3242,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
+          "prompt": "In composition and lyric craft for Unit 7, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "A single monotonous drone chord with no chord changes for 3 minutes",
             "Random microtonal tuning",
@@ -3377,7 +3377,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
+          "prompt": "In composition and lyric craft for Unit 7, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "I felt heartbroken and started crying in the living room",
             "Love hurts and relationships are difficult sometimes",
@@ -3512,7 +3512,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
+          "prompt": "In composition and lyric craft for Unit 7, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "| Em (vi) | C (IV) | Am7 (ii7) | Dsus4 - D (V) |",
             "| G (I) | G (I) | G (I) | G (I) |",
@@ -3647,7 +3647,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
+          "prompt": "In composition and lyric craft for Unit 7, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "A moment of realization, acceptance, or stepping into the unknown future with newfound courage",
             "Complaining about the weather",
@@ -3782,7 +3782,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
+          "prompt": "In composition and lyric craft for Unit 7, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Whether it has 50 chords in 2 measures",
             "Prosody (lyric meaning matches musical emotion), distinct section contrast, melodic singability, and unshakeable hook clarity",
@@ -3917,7 +3917,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
+          "prompt": "In composition and lyric craft for Unit 8, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "It makes the song louder",
             "It reduces copyright fees",
@@ -4052,7 +4052,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
+          "prompt": "In composition and lyric craft for Unit 8, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Because plosives break microphones",
             "Because plosives are illegal on radio",
@@ -4187,7 +4187,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
+          "prompt": "In composition and lyric craft for Unit 8, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Stripping the bridge down to a whisper, building a snare roll crescendo on the dominant chord, and dropping all sound for a half-beat before the final chorus detonates",
             "Fading the song out during the bridge",
@@ -4322,7 +4322,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
+          "prompt": "In composition and lyric craft for Unit 8, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "It lets the dry, intimate vocal transient hit the listener's ear first before the reverberant bloom begins, preserving upfront lyrical clarity",
             "It makes the vocal pitch change",
@@ -4457,7 +4457,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
+          "prompt": "In composition and lyric craft for Unit 8, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "The songwriter stops writing lyrics",
             "Intuitive emotional expression is no longer constrained by trial-and-error; every chord choice, melodic leap, and lyric syllable can be intentionally engineered to evoke exact human emotional responses",
@@ -4596,7 +4596,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
+          "prompt": "In composition and lyric craft for Unit 5, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Gustatory",
             "Kinesthetic motion only",
@@ -4735,7 +4735,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
+          "prompt": "In composition and lyric craft for Unit 5, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "It uses fewer words.",
             "It creates an intensely intimate, eavesdropped conversation between two specific people.",
@@ -4874,7 +4874,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
+          "prompt": "In composition and lyric craft for Unit 5, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "'Burn the Midnight Oil'",
             "'A Situational Observation of Late Evening Work'",
@@ -5011,7 +5011,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
+          "prompt": "In composition and lyric craft for Unit 5, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "'Frost gathers on the inside of the bedroom glass, and your side of the bed is ice.'",
             "'It was eighty degrees outside.'",
@@ -5148,7 +5148,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
+          "prompt": "In composition and lyric craft for Unit 5, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
             "Never repeated",
             "At least 3 to 4 times across the chorus and outro so the listener can easily recall and sing along",

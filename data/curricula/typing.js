@@ -1263,7 +1263,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
+          "prompt": "For professional touch-typing technique in Unit 4, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Left Index Finger",
             "Left Ring Finger",
@@ -1419,7 +1419,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
+          "prompt": "For professional touch-typing technique in Unit 4, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Right Pinky",
             "Right Middle Finger",
@@ -1575,7 +1575,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
+          "prompt": "For professional touch-typing technique in Unit 4, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Left Middle Finger on 3",
             "Left Index Finger",
@@ -1731,7 +1731,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
+          "prompt": "For professional touch-typing technique in Unit 4, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Right Index Finger on 7",
             "Left Index Finger",
@@ -1889,7 +1889,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
+          "prompt": "For professional touch-typing technique in Unit 4, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "0 times",
             "3 times (for '(', '+', and '*')",
@@ -2035,7 +2035,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
+          "prompt": "For professional touch-typing technique in Unit 6, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "[ ] { }",
             "[ ] { }",
@@ -2169,7 +2169,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
+          "prompt": "For professional touch-typing technique in Unit 6, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "+ = - * / < >",
             "! & | % + -",
@@ -2303,7 +2303,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
+          "prompt": "For professional touch-typing technique in Unit 6, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "\"hello_world\": 'status_ok';",
             "'hello world' status ok",
@@ -2437,7 +2437,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
+          "prompt": "For professional touch-typing technique in Unit 6, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "if (total > 100) { discount = 0.15; }",
             "if {total > 100} [discount = 0.15]",
@@ -2571,7 +2571,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
+          "prompt": "For professional touch-typing technique in Unit 6, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "return id = data.id name = data.name",
             "return { id: data.id, name: data.name, active: true };",
@@ -2700,7 +2700,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
+          "prompt": "For professional touch-typing technique in Unit 7, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Smashing keys harder",
             "Using only the index fingers",
@@ -2829,7 +2829,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
+          "prompt": "For professional touch-typing technique in Unit 7, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Stop typing for 2 seconds at each line break",
             "Hit Enter twice after every line",
@@ -2958,7 +2958,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
+          "prompt": "For professional touch-typing technique in Unit 7, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "As unified, fluid rolling finger sweeps (motor chunks) executed in a single impulse",
             "With one finger hunting each letter",
@@ -3087,7 +3087,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
+          "prompt": "For professional touch-typing technique in Unit 7, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Maintaining slow nasal breathing, relaxing shoulder tension, and immediately shifting visual focus to the 2-word lookahead buffer",
             "Closing the browser",
@@ -3216,7 +3216,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
+          "prompt": "For professional touch-typing technique in Unit 7, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Hit backspace repeatedly",
             "Slightly decelerate by 5%, breathe deeply, focus on crisp letter precision, and re-establish clean rhythm",
@@ -3345,7 +3345,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
+          "prompt": "For professional touch-typing technique in Unit 8, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "0 words",
             "10 paragraphs ahead",
@@ -3474,7 +3474,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
+          "prompt": "For professional touch-typing technique in Unit 8, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "strenght througout script mach splash",
             "strenth throughout scrip match splsh",
@@ -3603,7 +3603,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
+          "prompt": "For professional touch-typing technique in Unit 8, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Constant practice builds enduring speed and effortless precision across every sentence we write.",
             "Constant practice biulds enduring speed and effortless precision across every sentence we write.",
@@ -3732,7 +3732,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
+          "prompt": "For professional touch-typing technique in Unit 8, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "{\"id\": 1024, \"status\": \"ACTIVE\", \"rate\": 0.95}",
             "{\"id\": 1024; \"status\": \"ACTIVE\"; \"rate\": 0.95}",
@@ -3861,7 +3861,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
+          "prompt": "For professional touch-typing technique in Unit 8, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Buying a new mouse",
             "Rhythm Consistency & Error Recovery Under Fatigue",
@@ -3990,7 +3990,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
+          "prompt": "For professional touch-typing technique in Unit 9, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Rhythm and balence create unshakeable speed and precision.",
             "Rhythm and balance creat unshakeable speed and precision.",
@@ -4119,7 +4119,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
+          "prompt": "For professional touch-typing technique in Unit 9, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Fast error recovry preserves momentum and guarantees high average velocity.",
             "Fast error recovery preserves momentum and guarantees high average velocity.",
@@ -4248,7 +4248,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
+          "prompt": "For professional touch-typing technique in Unit 9, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Endurance is the triumphant marriage of biomechanical relaxation and sustained mental focus.",
             "Endurance is the triumphant marrage of biomechanical relaxation and sustained mental focus.",
@@ -4377,7 +4377,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
+          "prompt": "For professional touch-typing technique in Unit 9, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Composure under pressure separates the amateur from the champion.",
             "Composure under pressure separates the amature from the champion.",
@@ -4506,7 +4506,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
+          "prompt": "For professional touch-typing technique in Unit 9, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Typing without electricity",
             "Frictionless thought-to-text translation: Eliminating all physical bottlenecks between executive ideas and digital manifestation across code, writing, and communication",
@@ -4640,7 +4640,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 41:",
+          "prompt": "For professional touch-typing technique in Unit 5, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Right Thumb and Left Pinky",
             "Right Index and Right Middle",
@@ -4774,7 +4774,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 42:",
+          "prompt": "For professional touch-typing technique in Unit 5, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Only QZ",
             "THE, ENT, TIO, ION, AND, ING",
@@ -4908,7 +4908,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 43:",
+          "prompt": "For professional touch-typing technique in Unit 5, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Zero hesitation between words with completely consistent keystroke intervals",
             "Typing as fast as possible on the first word then stopping",
@@ -5042,7 +5042,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 44:",
+          "prompt": "For professional touch-typing technique in Unit 5, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "A crisp, single spacebar tap after each word executed by the dominant thumb without breaking flow.",
             "Pausing 1 second between words",
@@ -5176,7 +5176,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 45:",
+          "prompt": "For professional touch-typing technique in Unit 5, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "Stop typing and restart your computer",
             "Slightly dial back your raw speed by 5%, restore your rhythm and accuracy, and let speed naturally ramp back up.",

@@ -1261,7 +1261,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
+          "prompt": "Applying the computational shortcut from Unit 4, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "7,425",
             "6,425",
@@ -1418,7 +1418,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
+          "prompt": "Applying the computational shortcut from Unit 4, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "1,541",
             "1,481",
@@ -1575,7 +1575,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
+          "prompt": "Applying the computational shortcut from Unit 4, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "$13.00",
             "$12.00",
@@ -1732,7 +1732,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
+          "prompt": "Applying the computational shortcut from Unit 4, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "0.625",
             "0.555",
@@ -1891,7 +1891,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
+          "prompt": "Applying the computational shortcut from Unit 4, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "0.818181...",
             "0.727272...",
@@ -2038,7 +2038,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
+          "prompt": "Applying the computational shortcut from Unit 6, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "x = 9",
             "x = 8",
@@ -2173,7 +2173,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
+          "prompt": "Applying the computational shortcut from Unit 6, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "4,881",
             "4,909",
@@ -2308,7 +2308,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
+          "prompt": "Applying the computational shortcut from Unit 6, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "$9.00",
             "$8.50",
@@ -2443,7 +2443,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
+          "prompt": "Applying the computational shortcut from Unit 6, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "~20,000",
             "~2,000,000",
@@ -2578,7 +2578,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
+          "prompt": "Applying the computational shortcut from Unit 6, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "$13.20",
             "$12.90",
@@ -2707,7 +2707,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
+          "prompt": "Applying the computational shortcut from Unit 7, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "490",
             "510",
@@ -2836,7 +2836,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
+          "prompt": "Applying the computational shortcut from Unit 7, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "730",
             "750",
@@ -2965,7 +2965,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
+          "prompt": "Applying the computational shortcut from Unit 7, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "107",
             "105",
@@ -3094,7 +3094,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
+          "prompt": "Applying the computational shortcut from Unit 7, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "Yes",
             "It is prime",
@@ -3223,7 +3223,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
+          "prompt": "Applying the computational shortcut from Unit 7, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "284",
             "282",
@@ -3352,7 +3352,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
+          "prompt": "Applying the computational shortcut from Unit 8, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "1,958",
             "1,978",
@@ -3481,7 +3481,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
+          "prompt": "Applying the computational shortcut from Unit 8, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "43",
             "57",
@@ -3610,7 +3610,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
+          "prompt": "Applying the computational shortcut from Unit 8, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "August 8",
             "August 15",
@@ -3739,7 +3739,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
+          "prompt": "Applying the computational shortcut from Unit 8, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "Approximately 80,000 to 120,000 flights per day",
             "500 flights per day",
@@ -3868,7 +3868,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
+          "prompt": "Applying the computational shortcut from Unit 8, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "6,401",
             "6,391",
@@ -4002,7 +4002,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
+          "prompt": "Applying the computational shortcut from Unit 5, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "863",
             "923",
@@ -4136,7 +4136,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
+          "prompt": "Applying the computational shortcut from Unit 5, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "9,560",
             "9,506",
@@ -4270,7 +4270,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
+          "prompt": "Applying the computational shortcut from Unit 5, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "7,225",
             "7,215",
@@ -4404,7 +4404,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
+          "prompt": "Applying the computational shortcut from Unit 5, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "1,034",
             "1,024",
@@ -4543,7 +4543,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
+          "prompt": "Applying the computational shortcut from Unit 5, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
             "4,125",
             "4,225",

@@ -515,9 +515,9 @@
           "prompt": "【情境選擇】早上八時半喺大廈電梯遇到鄰居，最適當且自然嘅問候語係：",
           "options": [
             "早晨呀 (zou2 san4)",
-            "再見 (Cantonese reading)",
-            "多謝 (Cantonese reading)",
-            "唔緊要 (Cantonese reading)"
+            "再見 (zoi3 gin3 - goodbye)",
+            "多謝 (do1 ze6 - thank you (for gift/compliment))",
+            "唔緊要 (m4 gan2 jiu3 - no problem / never mind)"
           ],
           "answerIndex": 0,
           "explanation": "早晨 (zou2 san4) 係粵語最標準正宗嘅晨早問候語。"
@@ -529,10 +529,10 @@
         {
           "prompt": "【語音辨析】邊一組粵拼聲母準確呈現咗「不送氣清塞音」同「送氣清塞音」嘅對立？",
           "options": [
-            "b [p] 對比 p [pʰ] (Cantonese reading)",
-            "d [t] 對比 z [ts] (Cantonese reading)",
-            "m [m] 對比 n [n] (Cantonese reading)",
-            "g [k] 對比 h [h] (Cantonese reading)"
+            "b [p] 對比 p [pʰ] (b [p] unaspirated vs p [pʰ] aspirated)",
+            "d [t] 對比 z [ts] (d [t] alveolar stop vs z [ts] affricate)",
+            "m [m] 對比 n [n] (m [m] bilabial nasal vs n [n] alveolar nasal)",
+            "g [k] 對比 h [h] (g [k] velar stop vs h [h] glottal fricative)"
           ],
           "answerIndex": 0,
           "explanation": "b 代表不送氣清雙唇塞音 [p]，p 代表送氣清雙唇塞音 [pʰ]。"
@@ -545,10 +545,10 @@
           "type": "multiple-choice",
           "prompt": "【禮貌規範】喺商務會議初次接見客戶時，最適當嘅日間問候語係：",
           "options": [
-            "你好 (Cantonese reading)",
-            "早晨 (Cantonese reading)",
-            "唔該 (Cantonese reading)",
-            "拜拜 (Cantonese reading)"
+            "你好 (nei5 hou2 - hello)",
+            "早晨 (zou2 san4 - good morning)",
+            "唔該 (m4 goi1 - thank you (for service) / please)",
+            "拜拜 (baai1 baai3 - bye-bye)"
           ],
           "answerIndex": 0,
           "explanation": "「你好」（nei5 hou2）係初次見面最得體正式嘅敬語問候。"
@@ -596,10 +596,10 @@
         {
           "prompt": "【情境辨析】同事專程買咗杯熱咖啡請你飲作為鼓勵，你應對佢講：",
           "options": [
-            "多謝你 (Cantonese reading)",
-            "唔該借借 (Cantonese reading)",
-            "早晨 (Cantonese reading)",
-            "對唔住 (Cantonese reading)"
+            "多謝你 (do1 ze6 nei5 - Thank you (for gift/kindness))",
+            "唔該借借 (m4 goi1 ze3 ze3 - Excuse me, please let me through)",
+            "早晨 (zou2 san4 - good morning)",
+            "對唔住 (deoi3 m4 zyu6 - sorry / excuse me)"
           ],
           "answerIndex": 0,
           "explanation": "受人宴請或餽贈飲品，必須使用「多謝」表達謝意。"
@@ -611,10 +611,10 @@
         {
           "prompt": "【日常生活】搭乘地鐵準備落車，前方乘客阻擋出口，最適當嘅禮貌用語係：",
           "options": [
-            "唔該借借 (Cantonese reading)",
-            "多謝借借 (Cantonese reading)",
-            "拜拜 (Cantonese reading)",
-            "好高興 (Cantonese reading)"
+            "唔該借借 (m4 goi1 ze3 ze3 - Excuse me, please let me through)",
+            "多謝借借 (do1 ze6 ze3 ze3 - Incorrect usage distractor)",
+            "拜拜 (baai1 baai3 - bye-bye)",
+            "好高興 (hou2 gou1 hing3 - Very pleased / Happy)"
           ],
           "answerIndex": 0,
           "explanation": "請求他人讓路或提供便利時，使用「唔該借借」（m4 goi1 ze3 ze3）。"
@@ -627,10 +627,10 @@
           "type": "multiple-choice",
           "prompt": "【語用判斷】以下邊種情境必須使用「唔該」而絕對不可使用「多謝」？",
           "options": [
-            "喺茶餐廳示意侍應添熱水或結帳 (Cantonese reading)",
-            "婚宴上收取親友致贈嘅賀禮紅包 (Cantonese reading)",
-            "生日聚會接過朋友送嘅香水禮盒 (Cantonese reading)",
-            "被同事讚賞工作效率高超 (Cantonese reading)"
+            "喺茶餐廳示意侍應添熱水或結帳 (Asking for hot water or bill at a Cha Chaan Teng (uses m4 goi1))",
+            "婚宴上收取親友致贈嘅賀禮紅包 (Receiving wedding red envelope gifts (uses do1 ze6))",
+            "生日聚會接過朋友送嘅香水禮盒 (Receiving a birthday perfume gift (uses do1 ze6))",
+            "被同事讚賞工作效率高超 (Being praised by colleagues for high efficiency (uses do1 ze6))"
           ],
           "answerIndex": 0,
           "explanation": "指示或請求餐飲侍應服務，必須使用「唔該」。"
@@ -678,10 +678,10 @@
         {
           "prompt": "【音高辨析】粵語第2聲（陰上，如「史」si2、「好」hou2）嘅五度音高輪廓係：",
           "options": [
-            "高升調 35 (Cantonese reading)",
-            "高平調 55 (Cantonese reading)",
-            "低降調 21 (Cantonese reading)",
-            "低平調 22 (Cantonese reading)"
+            "高升調 35 (High-rising tone (Tone 2, 35))",
+            "高平調 55 (High-level tone (Tone 1, 55))",
+            "低降調 21 (Low-falling tone (Tone 4, 21))",
+            "低平調 22 (Low-level tone (Tone 6, 22))"
           ],
           "answerIndex": 0,
           "explanation": "第2聲（陰上）由中音（3度）升至最高音（5度）。"
@@ -693,10 +693,10 @@
         {
           "prompt": "【詞義辨析】「買」（maai5）同「賣」（maai6）喺聲調與含義上嘅核心差別係：",
           "options": [
-            "「買」係第5聲（低升，購進），「賣」係第6聲（低平，售出） (Cantonese reading)",
-            "「買」係第6聲（售出），「賣」係第5聲（購進） (Cantonese reading)",
-            "兩者皆為第1聲且意思完全相同 (Cantonese reading)",
-            "「買」係名詞，「賣」係形容詞 (Cantonese reading)"
+            "「買」係第5聲（低升，購進），「賣」係第6聲（低平，售出） (maai5 (Tone 5: buy) vs maai6 (Tone 6: sell))",
+            "「買」係第6聲（售出），「賣」係第5聲（購進） (Inverted tone distractor)",
+            "兩者皆為第1聲且意思完全相同 (Identical tone distractor)",
+            "「買」係名詞，「賣」係形容詞 (Grammar class distractor)"
           ],
           "answerIndex": 0,
           "explanation": "「買」為第5聲（maai5，23低升），「賣」為第6聲（maai6，22低平）。"
@@ -709,10 +709,10 @@
           "type": "multiple-choice",
           "prompt": "【口訣驗證】以下邊句地道粵語名句嘅字音聲調嚴格按照第1聲至第6聲依序排列？",
           "options": [
-            "三碗細牛腩麵 (Cantonese reading)",
-            "早晨李先生呀 (Cantonese reading)",
-            "唔該借借我過 (Cantonese reading)",
-            "你好陳大文生 (Cantonese reading)"
+            "三碗細牛腩麵 (saam1 wun2 sai3 ngau4 naam5 min6 - Three small beef brisket noodles)",
+            "早晨李先生呀 (zou2 san4 lei5 sin1 saang1 aa3 - Good morning Mr. Lee)",
+            "唔該借借我過 (m4 goi1 ze3 ze3 ngo5 gwo3 - Excuse me, let me pass)",
+            "你好陳大文生 (nei5 hou2 can4 daai6 man4 saang1 - Unnatural word order distractor)"
           ],
           "answerIndex": 0,
           "explanation": "三(1) 碗(2) 細(3) 牛(4) 腩(5) 麵(6) 完美對應 1 至 6 聲。"
@@ -760,10 +760,10 @@
         {
           "prompt": "【日常下班】下班離開辦公室向同組同事告別，最自然地道嘅說法係：",
           "options": [
-            "我走先喇，聽日見！ (Cantonese reading)",
-            "早晨陳小姐！ (Cantonese reading)",
-            "唔該埋單！ (Cantonese reading)",
-            "對唔住呀！ (Cantonese reading)"
+            "我走先喇，聽日見！ (ngo5 zau2 sin1 laa3, ting1 jat6 gin3! - I am leaving first, see you tomorrow!)",
+            "早晨陳小姐！ (zou2 san4 can4 siu2 ze2! - Good morning Miss Chan!)",
+            "唔該埋單！ (m4 goi1 maai4 daan1! - Check please / Bill please!)",
+            "對唔住呀！ (deoi3 m4 zyu6 aa3! - I am sorry!)"
           ],
           "answerIndex": 0,
           "explanation": "「我走先喇，聽日見！」係放工離場最地道親切嘅粵語告別語。"
@@ -775,10 +775,10 @@
         {
           "prompt": "【文化理解】友人離別時講「得閒飲茶啦」，最符合香港社交語用嘅真實意涵係：",
           "options": [
-            "表達友好掛念嘅告別客套，意為「保持聯絡、改天相聚」 (Cantonese reading)",
-            "要求你即刻預訂聽朝早茶位 (Cantonese reading)",
-            "表示對你目前工作忙碌嘅嚴厲批評 (Cantonese reading)",
-            "要求你即刻替對方支付茶水費用 (Cantonese reading)"
+            "表達友好掛念嘅告別客套，意為「保持聯絡、改天相聚」 (Friendly farewell meaning \"keep in touch / let us meet again soon\")",
+            "要求你即刻預訂聽朝早茶位 (Literal booking distractor)",
+            "表示對你目前工作忙碌嘅嚴厲批評 (Criticism distractor)",
+            "要求你即刻替對方支付茶水費用 (Payment request distractor)"
           ],
           "answerIndex": 0,
           "explanation": "「得閒飲茶」係香港極具代表性嘅人情味客套道別語。"
@@ -791,10 +791,10 @@
           "type": "multiple-choice",
           "prompt": "【口語習慣】喺香港年輕同輩或朋友之間，最普遍使用嘅非正式告別語係：",
           "options": [
-            "拜拜 (Cantonese reading)",
-            "貴姓 (Cantonese reading)",
-            "請問 (Cantonese reading)",
-            "多謝 (Cantonese reading)"
+            "拜拜 (baai1 baai3 - bye-bye)",
+            "貴姓 (gwai3 sing3 - Honorable surname)",
+            "請問 (ceng2 man6 - excuse me, may I ask)",
+            "多謝 (do1 ze6 - thank you (for gift/compliment))"
           ],
           "answerIndex": 0,
           "explanation": "「拜拜」（baai1 baai3）喺香港日常社交中普及率最高。"
@@ -842,10 +842,10 @@
         {
           "prompt": "【商務拜訪】初次與客戶見面，最得體禮貌詢問對方姓名嘅句式係：",
           "options": [
-            "請問點稱呼？ (Cantonese reading)",
-            "你走先喇！ (Cantonese reading)",
-            "唔該借借！ (Cantonese reading)",
-            "多謝禮物！ (Cantonese reading)"
+            "請問點稱呼？ (cing2 man6 dim2 cing1 fu1? - May I ask how to address you?)",
+            "你走先喇！ (nei5 zau2 sin1 laa3! - You go first!)",
+            "唔該借借！ (m4 goi1 ze3 ze3! - Excuse me please!)",
+            "多謝禮物！ (do1 ze6 lai5 mat6! - Thank you for the gift!)"
           ],
           "answerIndex": 0,
           "explanation": "「請問點稱呼？」係粵語詢問姓名最得體標準嘅敬語。"
@@ -858,9 +858,9 @@
           "prompt": "【稱謂規範】向大家正式介紹「黃先生」時，正確嘅粵語詞序係：",
           "options": [
             "黃先生 (wong4 sin1 saang1)",
-            "先生黃 (Cantonese reading)",
-            "黃多謝 (Cantonese reading)",
-            "黃早晨 (Cantonese reading)"
+            "先生黃 (sin1 saang1 wong4 - Incorrect inverted title distractor)",
+            "黃多謝 (wong4 do1 ze6 - Incorrect title distractor)",
+            "黃早晨 (wong4 zou2 san4 - Incorrect title distractor)"
           ],
           "answerIndex": 0,
           "explanation": "粵語稱謂嚴格遵循「姓氏在前、稱謂在後」：黃先生 (wong4 sin1 saang1)。"
@@ -874,9 +874,9 @@
           "prompt": "【問答匹配】當對方禮貌詢問「請問點稱呼？」時，最適切自然嘅答覆係：",
           "options": [
             "我姓李，叫我阿Ben得喇。",
-            "唔該晒你幫手搬枱。 (Cantonese reading)",
-            "聽日公司再見啦。 (Cantonese reading)",
-            "得閒出嚟飲茶啦。 (Cantonese reading)"
+            "唔該晒你幫手搬枱。 (m4 goi1 saai3 nei5 bong1 sau2 bun1 toi2 - Thank you so much for helping move the table)",
+            "聽日公司再見啦。 (ting1 jat6 gung1 si1 zoi3 gin3 laa1 - See you at the company tomorrow)",
+            "得閒出嚟飲茶啦。 (dak1 haan4 ceot1 lai4 jam2 caa4 laa1 - Let us go have dim sum / tea when free)"
           ],
           "answerIndex": 0,
           "explanation": "報出姓氏（我姓...）及慣用稱呼（叫我...得喇）係最標準完整嘅回應。"

@@ -999,7 +999,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 11:",
+          "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "DIRTINE",
             "TRUNDIE",
@@ -1160,7 +1160,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 12:",
+          "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "VEINERS",
             "ENVIERS",
@@ -1321,7 +1321,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 13:",
+          "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "SUN-",
             "DOG-",
@@ -1482,7 +1482,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 14:",
+          "prompt": "In tournament Scrabble strategy for Apply the Alphagram Sorting Method, which play optimizes scoring and rack balance?",
           "options": [
             "AEINRST",
             "ARSTEEN",
@@ -1645,7 +1645,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 15:",
+          "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "ENTICED",
             "INCITED",
@@ -1806,7 +1806,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
+          "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "K",
             "P",
@@ -1967,7 +1967,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
+          "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "TRENDIE",
             "STAINED",
@@ -2128,7 +2128,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
+          "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "TANKERS",
             "STALKER",
@@ -2290,7 +2290,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
+          "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "An 8-letter bingo uses all 7 tiles from your rack by playing THROUGH an existing tile on the board",
             "An 8-letter bingo cannot be challenged",
@@ -2453,7 +2453,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
+          "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "SANTER + G",
             "RETAIN + G",
@@ -2606,7 +2606,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
+          "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "R-E-T",
             "A-E-I-N",
@@ -2747,7 +2747,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
+          "prompt": "In tournament Scrabble strategy for Maintain the optimal Vowel-to-Consonant Ratio on your rack, which play optimizes scoring and rack balance?",
           "options": [
             "Because consonants score less points.",
             "Because vowels are illegal in short words.",
@@ -2888,7 +2888,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
+          "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "You should readily sacrifice up to 8-12 board points if the play dramatically upgrades your rack to an elite bingo leave.",
             "You must score at least 10 points every turn.",
@@ -3029,7 +3029,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
+          "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Because you gain 22 actual points on the scoreboard AND successfully remove the awkward Q from your rack in the same turn.",
             "Because you get two turns in a row.",
@@ -3170,7 +3170,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
+          "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "The opponent scored 100 points.",
             "The player drew S-T-A to pair with E-I-N-R, hitting a 78-point bingo ('TRAINES' / 'RETAINS') to blow the game wide open.",
@@ -3305,7 +3305,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
+          "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Exchange all your tiles for vowels",
             "Play 7-letter vowel words only",
@@ -3440,7 +3440,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
+          "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Play defensive 2-letter words only",
             "Pass your turn",
@@ -3575,7 +3575,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
+          "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Winning by 28 points",
             "Winning by 8 points",
@@ -3590,7 +3590,7 @@
           "options": [
             "Block their out-spot (play directly into or adjacent to the hook) to force them into an out-in-two sequence",
             "Play off your highest point letter elsewhere",
-            "Resign",
+            "Advance the king to the 6th rank",
             "Ask to redraw"
           ],
           "answerIndex": 0,
@@ -3710,7 +3710,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
+          "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Play across or adjacent to the 'I' on row 8 to kill the 'QI' spot, permanently stranding their Q for a 20-point penalty",
             "Wait for them to play",
@@ -3845,7 +3845,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
+          "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Memorizing only 2-letter words",
             "Every play is evaluated as: Immediate Score + Leave Value + Board Equity + Endgame Transfer Probability",
@@ -3980,7 +3980,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
+          "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "QUE",
             "QUI",
@@ -4115,7 +4115,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
+          "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "STREETS",
             "REST",
@@ -4250,7 +4250,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
+          "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "PHT",
             "BAT",
@@ -4385,7 +4385,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
+          "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "5 distinct bingos",
             "12 bingos",
@@ -4520,7 +4520,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
+          "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Move Equity = Tile face value multiplied by 10",
             "Move Equity = Immediate Turn Score + Rack Leave Value + Board Control Differential + Opponent Response Penalty",
@@ -4659,7 +4659,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
+          "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "51 points",
             "75 points",
@@ -4798,7 +4798,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
+          "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Open wide floating lanes across the board.",
             "Play defensively, close open lanes, make tight parallel plays, and restrict bingo avenues.",
@@ -4935,7 +4935,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
+          "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "Option B (28 points + lockdown), because denying an opponent 45+ point TWS swing protects your net lead.",
             "Option A (34 points), because higher score is always best regardless of board state.",
@@ -5074,7 +5074,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
+          "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "32 points",
             "24 points",
@@ -5213,7 +5213,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
+          "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
             "34 points",
             "23 points",

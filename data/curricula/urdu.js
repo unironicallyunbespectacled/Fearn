@@ -525,9 +525,9 @@
           "prompt": "Which Urdu short vowel diacritic is written BELOW the letter and produces the short [i] sound (as in «دِل» / heart)?",
           "options": [
             "زِیر (Zer (vowel sign i))",
-            "زَبَر (Urdu reading)",
-            "پیش (Urdu reading)",
-            "جَزم (Urdu reading)"
+            "زَبَر (Zabar - Short a vowel sign)",
+            "پیش (Pesh - Short u vowel sign)",
+            "جَزم (Jazm - Sukūn zero-vowel sign)"
           ],
           "answerIndex": 0,
           "explanation": "«زِیر» (*Zer*) is placed under the consonant to produce the short [i] vowel."
@@ -551,9 +551,9 @@
           "prompt": "Which of the following characters is the unique South Asian retroflex letter «ڈ» (ḍ)?",
           "options": [
             "ڈ (Daal retroflex [ɖ])",
-            "د (Urdu reading)",
-            "ذ (Urdu reading)",
-            "ر (Urdu reading)"
+            "د (Daal [d])",
+            "ذ (Zaal [z])",
+            "ر (Re [r])"
           ],
           "answerIndex": 0,
           "explanation": "«ڈ» is the retroflex Daal marked with a small cursive «ط» (toay) above."
@@ -562,9 +562,9 @@
           "prompt": "Select the Urdu word meaning \"pain / ache\" spelled «دَرد»:",
           "options": [
             "دَرد (Dard - Pain)",
-            "دِل (Urdu reading)",
-            "دِن (Urdu reading)",
-            "رَاز (Urdu reading)"
+            "دِل (Dil - Heart)",
+            "دِن (Din - Day)",
+            "رَاز (Raaz - Secret)"
           ],
           "answerIndex": 0,
           "explanation": "«دَ» [da] + «ر» [r] + «د» [d] spells «دَرد» (*dard* - pain)."
@@ -642,9 +642,9 @@
           "prompt": "Which letter in the Bay family has 3 dots placed BELOW the boat shape and represents the sound [p]?",
           "options": [
             "پ (Pe [p] consonant)",
-            "ب (Urdu reading)",
-            "ت (Urdu reading)",
-            "ٹ (Urdu reading)"
+            "ب (Be [b])",
+            "ت (Te [t])",
+            "ٹ (Te retroflex [ʈ])"
           ],
           "answerIndex": 0,
           "explanation": "«پ» (Pay) has 3 dots underneath and represents the bilabial stop [p]."
@@ -668,9 +668,9 @@
           "prompt": "What unique Urdu letter is used strictly at the end of words to produce the [ay] vowel sound (as in «چَائے» / tea)?",
           "options": [
             "ے (Bari ye [e:])",
-            "ی (Urdu reading)",
-            "ن (Urdu reading)",
-            "ا (Urdu reading)"
+            "ی (Choti ye [i:])",
+            "ن (Noon [n])",
+            "ا (Alif [a:])"
           ],
           "answerIndex": 0,
           "explanation": "«ے» (Bari Ye) is exclusively used at word endings for the [ay] sound."
@@ -679,9 +679,9 @@
           "prompt": "Select the Urdu word meaning \"name\" spelled «نَام»:",
           "options": [
             "نَام (Naam - Name)",
-            "بَات (Urdu reading)",
-            "رَات (Urdu reading)",
-            "دِل (Urdu reading)"
+            "بَات (Baat - Talk / Matter)",
+            "رَات (Rāt - Night)",
+            "دِل (Dil - Heart)"
           ],
           "answerIndex": 0,
           "explanation": "«نـَ» [na] + «ا» [aa] + «م» [m] spells «نَام» (*naam* - name)."
@@ -759,9 +759,9 @@
           "prompt": "Which aspirated letter combination represents the heavy aspirated [gh] sound in the word «گَھر» (home)?",
           "options": [
             "گھ (Gha (aspirated gh))",
-            "کھ (Urdu reading)",
-            "بھ (Urdu reading)",
-            "پھ (Urdu reading)"
+            "کھ (Kha (aspirated kh))",
+            "بھ (Bha (aspirated bh))",
+            "پھ (Pha (aspirated ph))"
           ],
           "answerIndex": 0,
           "explanation": "«گھ» represents the voiced aspirated velar stop [gh] in «گَھر» (*ghar* - home)."
@@ -770,9 +770,9 @@
           "prompt": "Select the Urdu word meaning \"flower\" spelled with aspirated «پھ»:",
           "options": [
             "پھُول (Phool - Flower)",
-            "گَھر (Urdu reading)",
-            "چَائے (Urdu reading)",
-            "پَانِی (Urdu reading)"
+            "گَھر (Ghar - House)",
+            "چَائے (Chai - Tea)",
+            "پَانِی (Pānī - Water)"
           ],
           "answerIndex": 0,
           "explanation": "«پھُول» (*phool*) means \"flower\"."
@@ -796,9 +796,9 @@
           "prompt": "Which letter in the Jim family has 3 dots inside and makes the [ch] sound (as in \"chair\")?",
           "options": [
             "چ (Che [tʃ])",
-            "ج (Urdu reading)",
-            "ح (Urdu reading)",
-            "خ (Urdu reading)"
+            "ج (Jeem [dʒ])",
+            "ح (Bari he [ħ])",
+            "خ (Khe [x])"
           ],
           "answerIndex": 0,
           "explanation": "«چ» (Chay) contains 3 dots and represents [ch]."
@@ -876,9 +876,9 @@
           "prompt": "What is the correct authentic response when someone greets you with «اَلسَّلَامُ عَلَیْکُم» (Assalamu Alaikum)?",
           "options": [
             "وَعَلَیْکُمُ السَّلَام (Wa alaykum as-salaam - And upon you peace)",
-            "شَب بَخَیْر (Urdu reading)",
-            "شُکْرِیَہ (Urdu reading)",
-            "مَاف کِیجِیے (Urdu reading)"
+            "شَب بَخَیْر (Shab bakhair - Good night)",
+            "شُکْرِیَہ (Shukriya - Thank you)",
+            "مَاف کِیجِیے (Maaf kijiye - Excuse me / Sorry)"
           ],
           "answerIndex": 0,
           "explanation": "«وَعَلَیْکُمُ السَّلَام» (*Walaikum Assalam*) is the standard reciprocal response."
@@ -887,9 +887,9 @@
           "prompt": "How do you politely ask a woman \"How are you?\" in respectful Urdu?",
           "options": [
             "آپ کَیسی ہَیں؟ (Aap kaisi hain? - How are you (female)?)",
-            "آپ کَیسے ہَیں؟ (Urdu reading)",
-            "تُم کَون ہو؟ (Urdu reading)",
-            "شَب بَخَیْر (Urdu reading)"
+            "آپ کَیسے ہَیں؟ (Āp kaise haĩ? - How are you (male)?)",
+            "تُم کَون ہو؟ (Tum kaun ho? - Who are you (informal)?)",
+            "شَب بَخَیْر (Shab bakhair - Good night)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ کَیسی ہَیں؟» (*Aap kaisi hain?*) uses the feminine agreement «کیسی» (*kaisi*)."
@@ -902,9 +902,9 @@
           "prompt": "Select the Urdu phrase meaning \"Good morning!\" (lit. \"morning with goodness\"):",
           "options": [
             "صُبْح بَخَیْر (Subah bakhair - Good morning)",
-            "شَب بَخَیْر (Urdu reading)",
-            "آدَاب (Urdu reading)",
-            "اللہ حافظ (Urdu reading)"
+            "شَب بَخَیْر (Shab bakhair - Good night)",
+            "آدَاب (Ādāb - Respectful greetings)",
+            "اللہ حافظ (Allah hafiz - Goodbye)"
           ],
           "answerIndex": 0,
           "explanation": "«صُبْح بَخَیْر» (*Subh bakhair*) means \"Good morning\"."
@@ -929,9 +929,9 @@
           "prompt": "Which elegant secular greeting is traditionally accompanied by raising the right hand gracefully to the forehead?",
           "options": [
             "آدَاب (Aadaab - Respectful greeting)",
-            "صُبْح بَخَیْر (Urdu reading)",
-            "شُکْرِیَہ (Urdu reading)",
-            "پَانِی (Urdu reading)"
+            "صُبْح بَخَیْر (Subah bakhair - Good morning)",
+            "شُکْرِیَہ (Shukriya - Thank you)",
+            "پَانِی (Pānī - Water)"
           ],
           "answerIndex": 0,
           "explanation": "«آدَاب» (*Aadaab*) is the classic refined cultural greeting."
@@ -993,9 +993,9 @@
           "prompt": "How do you introduce yourself and state \"My name is Tariq\" in Urdu?",
           "options": [
             "مِیرا نَام طَارِق ہَے (Mera naam Tariq hai - My name is Tariq)",
-            "آپ کا نَام طَارِق ہَے (Urdu reading)",
-            "مَیں طَارِق جا رہا ہوں (Urdu reading)",
-            "طَارِق گَھر ہَے (Urdu reading)"
+            "آپ کا نَام طَارِق ہَے (Aap ka naam Tariq hai - Your name is Tariq)",
+            "مَیں طَارِق جا رہا ہوں (Main Tariq ja raha hoon - Ungrammatical distractor)",
+            "طَارِق گَھر ہَے (Tariq ghar hai - Tariq is home)"
           ],
           "answerIndex": 0,
           "explanation": "«مِیرا نَام [نَام] ہَے» (*Mera naam [name] hai*) is the standard construction for stating your name."
@@ -1004,9 +1004,9 @@
           "prompt": "Which universal farewell expression means \"Goodbye\" (lit. \"May God protect you\")?",
           "options": [
             "اَللہ حَافِظ (Allah hafiz - Goodbye)",
-            "شُکْرِیَہ (Urdu reading)",
-            "صُبْح بَخَیْر (Urdu reading)",
-            "مَاف کِیجِیے (Urdu reading)"
+            "شُکْرِیَہ (Shukriya - Thank you)",
+            "صُبْح بَخَیْر (Subah bakhair - Good morning)",
+            "مَاف کِیجِیے (Maaf kijiye - Excuse me / Sorry)"
           ],
           "answerIndex": 0,
           "explanation": "«اَللہ حَافِظ» (*Allah Hafiz*) is the universal polite Urdu farewell."
@@ -1019,9 +1019,9 @@
           "prompt": "What is the polite phrase meaning \"Pleased to meet you\" in Urdu?",
           "options": [
             "آپ سے مِل کَر خُوشِی ہُوئِی (Aap se mil kar khushi hui - Pleased to meet you)",
-            "کَوئی بَات نَہِیں (Urdu reading)",
-            "پھِر مِلیں گے (Urdu reading)",
-            "مَاف کِیجِیے (Urdu reading)"
+            "کَوئی بَات نَہِیں (Koi baat nahin - No problem / You are welcome)",
+            "پھِر مِلیں گے (Phir milein ge - See you again)",
+            "مَاف کِیجِیے (Maaf kijiye - Excuse me / Sorry)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ سے مِل کَر خُوشِی ہُوئِی» (*Aap se mil kar khushi hui*) means \"Pleased to meet you\"."
@@ -1030,9 +1030,9 @@
           "prompt": "When someone thanks you with «شُکْرِیَہ» (Shukriya), what is the polite Urdu response meaning \"You are welcome / No problem\"?",
           "options": [
             "کَوئی بَات نَہِیں (Koi baat nahin - No problem)",
-            "اَللہ حَافِظ (Urdu reading)",
-            "مِیرا نَام ہَے (Urdu reading)",
-            "شَب بَخَیْر (Urdu reading)"
+            "اَللہ حَافِظ (Allah hafiz - Goodbye)",
+            "مِیرا نَام ہَے (Mera naam hai - My name is...)",
+            "شَب بَخَیْر (Shab bakhair - Good night)"
           ],
           "answerIndex": 0,
           "explanation": "«کَوئی بَات نَہِیں» (*Koi baat nahin*) is the standard graceful response."
@@ -1046,9 +1046,9 @@
           "prompt": "How do you ask someone their name respectfully in formal Urdu?",
           "options": [
             "آپ کا نَام کِیا ہَے؟ (Aap ka naam kya hai? - What is your name?)",
-            "تُم کَون ہو؟ (Urdu reading)",
-            "گَھر کَہاں ہَے؟ (Urdu reading)",
-            "کَیسے ہو؟ (Urdu reading)"
+            "تُم کَون ہو؟ (Tum kaun ho? - Who are you (informal)?)",
+            "گَھر کَہاں ہَے؟ (Ghar kahan hai? - Where is the house?)",
+            "کَیسے ہو؟ (Kaise ho? - How are you (informal)?)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ کا نَام کِیا ہَے؟» (*Aap ka naam kya hai?*) is the respectful polite question."

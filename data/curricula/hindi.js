@@ -536,9 +536,9 @@
           "prompt": "What is the horizontal top line called from which Devanagari letters hang?",
           "options": [
             "शिरोरेखा (Shirorekha - Top horizontal line)",
-            "मात्रा (Hindi reading)",
-            "अनुस्वार (Hindi reading)",
-            "हलंत (Hindi reading)"
+            "मात्रा (Mātrā - Vowel diacritic sign)",
+            "अनुस्वार (Anusvār - Nasal dot sign)",
+            "हलंत (Halant - Virama vowel cancellation mark)"
           ],
           "answerIndex": 0,
           "explanation": "«शिरोरेखा» (*Shirorekha*) is the characteristic horizontal line spanning across Devanagari words."
@@ -551,9 +551,9 @@
           "prompt": "Which diacritic represents full nasalization with a crescent moon and dot above the letter (as in «माँ» / mother)?",
           "options": [
             "चंद्रबिंदु (Chandrabindu - Nasal sign)",
-            "अनुस्वार (Hindi reading)",
-            "विसर्ग (Hindi reading)",
-            "हलंत (Hindi reading)"
+            "अनुस्वार (Anusvār - Nasal dot sign)",
+            "विसर्ग (Visarg - Aspiration breathing sign)",
+            "हलंत (Halant - Virama vowel cancellation mark)"
           ],
           "answerIndex": 0,
           "explanation": "«चंद्रबिंदु» (ँ) marks true vowel nasalization."
@@ -562,9 +562,9 @@
           "prompt": "Select the Hindi word meaning \"water\" spelled with «प» [p], «ा» [ā], «न» [n], «ी» [ī]:",
           "options": [
             "पानी (Pānī - Water)",
-            "किताब (Hindi reading)",
-            "माँ (Hindi reading)",
-            "नाम (Hindi reading)"
+            "किताब (Kitāb - Book)",
+            "माँ (Mā̃ - Mother)",
+            "नाम (Nām - Name)"
           ],
           "answerIndex": 0,
           "explanation": "«प» + «ा» + «न» + «ी» = «पानी» (*pānī* - water)."
@@ -652,9 +652,9 @@
           "prompt": "Select the Hindi word meaning \"home / house\" spelled with voiced aspirated «घ» [gha] and «र» [ra]:",
           "options": [
             "घर (Ghar - House)",
-            "फल (Hindi reading)",
-            "कमल (Hindi reading)",
-            "दिन (Hindi reading)"
+            "फल (Phal - Fruit)",
+            "कमल (Kamal - Lotus)",
+            "दिन (Din - Day)"
           ],
           "answerIndex": 0,
           "explanation": "«घ» + «र» = «घर» (*ghar* - home)."
@@ -667,9 +667,9 @@
           "prompt": "Which consonant class is articulated with the tip of the tongue curled upward and back against the hard palate (retroflex)?",
           "options": [
             "ट-वर्ग (Retroflex series)",
-            "त-वर्ग (Hindi reading)",
-            "प-वर्ग (Hindi reading)",
-            "क-वर्ग (Hindi reading)"
+            "त-वर्ग (Ta-varg - Dental series (त, थ, द, ध, न))",
+            "प-वर्ग (Pa-varg - Labial series (प, फ, ब, भ, म))",
+            "क-वर्ग (Ka-varg - Velar series (क, ख, ग, घ, ङ))"
           ],
           "answerIndex": 0,
           "explanation": "«ट-वर्ग» (*ṭa-varga*) comprises the retroflex series of consonants."
@@ -678,9 +678,9 @@
           "prompt": "Identify the Hindi word for \"fruit\" spelled with aspirated «फ» and «ल»:",
           "options": [
             "फल (Phal - Fruit)",
-            "घर (Hindi reading)",
-            "कमल (Hindi reading)",
-            "रात (Hindi reading)"
+            "घर (Ghar - House / Home)",
+            "कमल (Kamal - Lotus)",
+            "रात (Rāt - Night)"
           ],
           "answerIndex": 0,
           "explanation": "«फ» + «ल» = «फल» (*phal* - fruit)."
@@ -757,9 +757,9 @@
           "prompt": "In the universal greeting «नमस्ते» (namaste), what consonant cluster is formed by the half-letter «स्» and «ते»?",
           "options": [
             "स्त (sta conjunct)",
-            "क्य (Hindi reading)",
-            "च्छ (Hindi reading)",
-            "ल्ल (Hindi reading)"
+            "क्य (kya conjunct)",
+            "च्छ (chha conjunct)",
+            "ल्ल (lla conjunct)"
           ],
           "answerIndex": 0,
           "explanation": "«स्» (half s) + «ते» (te) creates the conjunct «स्ते» (*ste*) in «नमस्ते»."
@@ -783,9 +783,9 @@
           "prompt": "Which special classical conjunct character represents the [kṣha] sound in «क्षमा» (forgiveness)?",
           "options": [
             "क्ष (ksha conjunct)",
-            "त्र (Hindi reading)",
-            "ज्ञ (Hindi reading)",
-            "श्र (Hindi reading)"
+            "त्र (tra conjunct (त + र))",
+            "ज्ञ (gya conjunct (ज + ञ))",
+            "श्र (shra conjunct (श + र))"
           ],
           "answerIndex": 0,
           "explanation": "«क्ष» is the ligated conjunct for [kṣha]."
@@ -794,9 +794,9 @@
           "prompt": "Select the Hindi question word meaning \"what\" spelled with half-Ka and Ya «क्या»:",
           "options": [
             "क्या (Kyā - What)",
-            "अच्छा (Hindi reading)",
-            "मित्र (Hindi reading)",
-            "ज्ञान (Hindi reading)"
+            "अच्छा (Acchā - Good / Fine)",
+            "मित्र (Mitra - Friend)",
+            "ज्ञान (Gyān - Knowledge)"
           ],
           "answerIndex": 0,
           "explanation": "«क्या» (*kyā*) means \"what\"."
@@ -873,9 +873,9 @@
           "prompt": "When greeting a woman politely in formal Hindi, which form of \"How are you?\" is grammatically correct?",
           "options": [
             "आप कैसी हैं? (Aap kaisī hain? - How are you (formal female)?)",
-            "आप कैसे हैं? (Hindi reading)",
-            "तुम कौन हो? (Hindi reading)",
-            "शुभ रात्रि (Hindi reading)"
+            "आप कैसे हैं? (Āp kaise haĩ? - How are you (formal male)?)",
+            "तुम कौन हो? (Tum kaun ho? - Who are you (informal)?)",
+            "शुभ रात्रि (Shubh rātri - Good night)"
           ],
           "answerIndex": 0,
           "explanation": "«आप कैसी हैं?» (*Āp kaisī hain?*) uses the feminine agreement «कैसी» (*kaisī*)."
@@ -899,9 +899,9 @@
           "prompt": "Select the Hindi greeting meaning \"Good morning!\" (lit. \"Auspicious morning\"):",
           "options": [
             "शुभ प्रभात (Shubh prabhāt - Good morning)",
-            "शुभ रात्रि (Hindi reading)",
-            "नमस्ते (Hindi reading)",
-            "अलविदा (Hindi reading)"
+            "शुभ रात्रि (Shubh rātri - Good night)",
+            "नमस्ते (Namaste - Greetings / Hello)",
+            "अलविदा (Alvidā - Goodbye)"
           ],
           "answerIndex": 0,
           "explanation": "«शुभ प्रभात» (*Shubh prabhāt*) means \"Good morning\"."
@@ -989,9 +989,9 @@
           "prompt": "How do you introduce yourself and state \"My name is Rahul\" in Hindi?",
           "options": [
             "मेरा नाम राहुल है (Mera naam Rahul hai - My name is Rahul)",
-            "आपका नाम राहुल है (Hindi reading)",
-            "मैं राहुल जाता हूँ (Hindi reading)",
-            "राहुल घर है (Hindi reading)"
+            "आपका नाम राहुल है (Āpkā nām Rāhul hai - Your name is Rahul)",
+            "मैं राहुल जाता हूँ (Main Rāhul jātā hū̃ - Ungrammatical distractor)",
+            "राहुल घर है (Rāhul ghar hai - Rahul is home)"
           ],
           "answerIndex": 0,
           "explanation": "«मेरा नाम [नाम] है» (*Merā nām [Name] hai*) is the standard phrase for stating your name."
@@ -1000,9 +1000,9 @@
           "prompt": "Which warm Hindi farewell phrase means \"See you again! / We will meet again\"?",
           "options": [
             "फिर मिलेंगे (Phir milenge - See you again)",
-            "शुभ प्रभात (Hindi reading)",
-            "धन्यवाद (Hindi reading)",
-            "माफ़ कीजिए (Hindi reading)"
+            "शुभ प्रभात (Shubh prabhāt - Good morning)",
+            "धन्यवाद (Dhanyavād - Thank you)",
+            "माफ़ कीजिए (Māf kījiye - Excuse me / Pardon)"
           ],
           "answerIndex": 0,
           "explanation": "«फिर मिलेंगे» (*Phir milenge*) is the standard hopeful parting phrase."
@@ -1015,9 +1015,9 @@
           "prompt": "Select the polite Hindi sentence meaning \"Pleased to meet you\":",
           "options": [
             "आपसे मिलकर बहुत खुशी हुई (Aapse milkar bahut khushi hui - Nice to meet you)",
-            "कोई बात नहीं (Hindi reading)",
-            "आपका नाम क्या है? (Hindi reading)",
-            "माफ़ कीजिए (Hindi reading)"
+            "कोई बात नहीं (Koī bāt nahī̃ - You are welcome / No problem)",
+            "आपका नाम क्या है? (Āpkā nām kyā hai? - What is your name?)",
+            "माफ़ कीजिए (Māf kījiye - Excuse me / Pardon)"
           ],
           "answerIndex": 0,
           "explanation": "«आपसे मिलकर बहुत खुशी हुई» expresses pleasure upon meeting someone."
@@ -1026,9 +1026,9 @@
           "prompt": "When someone thanks you with «धन्यवाद» (Dhanyavād), what is the polite Hindi response meaning \"You are welcome / No problem\"?",
           "options": [
             "कोई बात नहीं (Koi baat nahin - No problem / You are welcome)",
-            "फिर मिलेंगे (Hindi reading)",
-            "मेरा नाम है (Hindi reading)",
-            "शुभ रात्रि (Hindi reading)"
+            "फिर मिलेंगे (Phir milē̃ge - See you again)",
+            "मेरा नाम है (Merā nām hai - My name is...)",
+            "शुभ रात्रि (Shubh rātri - Good night)"
           ],
           "answerIndex": 0,
           "explanation": "«कोई बात नहीं» (*Koī bāt nahī̃*) is the standard gracious response."
@@ -1042,9 +1042,9 @@
           "prompt": "How do you ask someone their name politely in Hindi?",
           "options": [
             "आपका नाम क्या है? (Aapka naam kya hai? - What is your name?)",
-            "तुम कौन हो? (Hindi reading)",
-            "घर कहाँ है? (Hindi reading)",
-            "कैसे हो? (Hindi reading)"
+            "तुम कौन हो? (Tum kaun ho? - Who are you (informal)?)",
+            "घर कहाँ है? (Ghar kahā̃ hai? - Where is the house?)",
+            "कैसे हो? (Kaise ho? - How are you (informal)?)"
           ],
           "answerIndex": 0,
           "explanation": "«आपका नाम क्या है?» (*Āpkā nām kyā hai?*) is the respectful polite question."
@@ -14592,7 +14592,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'hindi', name: 'Hindi', units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'hindi', name: "Hindi", units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['hindi'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

@@ -491,9 +491,9 @@
           "prompt": "Which Arabic short vowel diacritic is written as a slanted stroke UNDER the consonant and produces the short [i] sound?",
           "options": [
             "الكَسْرَة (Al-Kasrah - short i vowel sign)",
-            "الفَتْحَة (Arabic reading)",
-            "الضَّمَّة (Arabic reading)",
-            "السُّكُون (Arabic reading)"
+            "الفَتْحَة (Al-Fathah - Short a vowel sign)",
+            "الضَّمَّة (Ad-Dammah - Short u vowel sign)",
+            "السُّكُون (As-Sukoon - Zero-vowel mark)"
           ],
           "answerIndex": 0,
           "explanation": "Al-Kasrah (الكَسْرَة) is placed below the letter to represent the short [i] vowel."
@@ -517,9 +517,9 @@
           "prompt": "Which of the following letters belongs to the group of 6 Non-Connecting Arabic letters?",
           "options": [
             "ر (Raa [r])",
-            "ب (Arabic reading)",
-            "م (Arabic reading)",
-            "س (Arabic reading)"
+            "ب (Be [b])",
+            "م (Meem [m])",
+            "س (Seen [s])"
           ],
           "answerIndex": 0,
           "explanation": "«ر» (Raa) is one of the 6 non-connecting letters that never joins to letters on its left."
@@ -528,9 +528,9 @@
           "prompt": "Select the Arabic word meaning \"roses / blossoms\" spelled «وَرْد»:",
           "options": [
             "وَرْد (Ward - Roses)",
-            "دَار (Arabic reading)",
-            "رُزّ (Arabic reading)",
-            "دَوْر (Arabic reading)"
+            "دَار (Daar - Home / House)",
+            "رُزّ (Ruzz - Rice)",
+            "دَوْر (Dawr - Turn / Role)"
           ],
           "answerIndex": 0,
           "explanation": "«وَ» [wa] + «رْ» [r] + «د» [d] spells «وَرْد» (*ward* - roses)."
@@ -608,9 +608,9 @@
           "prompt": "Which letter in the boat family has 1 dot placed BELOW the base shape and is pronounced [b]?",
           "options": [
             "ب (Baa [b])",
-            "ت (Arabic reading)",
-            "ث (Arabic reading)",
-            "ن (Arabic reading)"
+            "ت (Te [t])",
+            "ث (Thaa [θ])",
+            "ن (Noon [n])"
           ],
           "answerIndex": 0,
           "explanation": "«ب» (Baa) has a single dot below the body and represents the voiced bilabial stop [b]."
@@ -619,9 +619,9 @@
           "prompt": "Select the Arabic word meaning \"door\" formed by initial Baa, Alif, and final Baa:",
           "options": [
             "بَاب (Baab - Door)",
-            "بَيْت (Arabic reading)",
-            "بِنْت (Arabic reading)",
-            "تِين (Arabic reading)"
+            "بَيْت (Bayt - House)",
+            "بِنْت (Bint - Girl / Daughter)",
+            "تِين (Teen - Figs)"
           ],
           "answerIndex": 0,
           "explanation": "«بـ» + «ا» + «ب» spells «بَاب» (*baab* - door)."
@@ -634,9 +634,9 @@
           "prompt": "Identify the Arabic word meaning \"house / home\" spelled with Baa, Yaa, and final Taa:",
           "options": [
             "بَيْت (Bayt - House)",
-            "بِنْت (Arabic reading)",
-            "نُور (Arabic reading)",
-            "دَار (Arabic reading)"
+            "بِنْت (Bint - Girl / Daughter)",
+            "نُور (Noor - Light)",
+            "دَار (Daar - Home / House)"
           ],
           "answerIndex": 0,
           "explanation": "«بـَ» [ba] + «يْـ» [y] + «ـت» [t] = «بَيْت» (*bayt* - house)."
@@ -645,9 +645,9 @@
           "prompt": "Which Arabic pronoun represents \"you\" when speaking to a male (masculine singular)?",
           "options": [
             "أَنْتَ (Anta - You singular male)",
-            "أَنْتِ (Arabic reading)",
-            "أَنَا (Arabic reading)",
-            "هُوَ (Arabic reading)"
+            "أَنْتِ (Anti - You (female singular))",
+            "أَنَا (Ana - I)",
+            "هُوَ (Huwa - He / Him)"
           ],
           "answerIndex": 0,
           "explanation": "«أَنْتَ» (*anta*) is the second-person singular masculine pronoun."
@@ -725,9 +725,9 @@
           "prompt": "Which Arabic word means \"peace\" and is formed from Seen, Laam, Alif, and Meem?",
           "options": [
             "سَلَام (Salaam - Peace / Hello)",
-            "كِتَاب (Arabic reading)",
-            "مَسْجِد (Arabic reading)",
-            "شَمْس (Arabic reading)"
+            "كِتَاب (Kitāb - Book)",
+            "مَسْجِد (Masjid - Mosque)",
+            "شَمْس (Shams - Sun)"
           ],
           "answerIndex": 0,
           "explanation": "«سـَ» + «ـلا» + «م» spells «سَلَام» (*salaam* - peace)."
@@ -736,9 +736,9 @@
           "prompt": "Which letter in the Jim group produces the deep warm pharyngeal \"h\" sound without any dots?",
           "options": [
             "ح (Haa [ħ])",
-            "ج (Arabic reading)",
-            "خ (Arabic reading)",
-            "هـ (Arabic reading)"
+            "ج (Jeem [dʒ])",
+            "خ (Khe [x])",
+            "هـ (Haa [h])"
           ],
           "answerIndex": 0,
           "explanation": "«ح» (Haa) is the dotless pharyngeal voiceless fricative."
@@ -751,9 +751,9 @@
           "prompt": "Select the Arabic word meaning \"book\" spelled «كِتَاب»:",
           "options": [
             "كِتَاب (Kitaab - Book)",
-            "سَلَام (Arabic reading)",
-            "قَلَم (Arabic reading)",
-            "بَاب (Arabic reading)"
+            "سَلَام (Salām - Peace / Hello)",
+            "قَلَم (Qalam - Pen)",
+            "بَاب (Bāb - Door)"
           ],
           "answerIndex": 0,
           "explanation": "«كِتَاب» (*kitaab*) means \"book\"."
@@ -762,9 +762,9 @@
           "prompt": "Identify the word for \"sun\" combining Sheen, Meem, and Seen:",
           "options": [
             "شَمْس (Shams - Sun)",
-            "نُور (Arabic reading)",
-            "مَاء (Arabic reading)",
-            "وَرْد (Arabic reading)"
+            "نُور (Noor - Light)",
+            "مَاء (Maa' - Water)",
+            "وَرْد (Ward - Roses / Flowers)"
           ],
           "answerIndex": 0,
           "explanation": "«شـَ» + «ـمْـ» + «ـس» = «شَمْس» (*shams* - sun)."
@@ -853,9 +853,9 @@
           "prompt": "Which diacritic at the end of «شُكْرًا» produces the final [-an] sound in \"Shukran\"?",
           "options": [
             "التَّنْوِين (Tanween - Nunation ending)",
-            "السُّكُون (Arabic reading)",
-            "الشَّدَّة (Arabic reading)",
-            "الكَسْرَة (Arabic reading)"
+            "السُّكُون (As-Sukoon - Zero-vowel mark)",
+            "الشَّدَّة (Ash-Shaddah - Consonant doubling mark)",
+            "الكَسْرَة (Al-Kasrah - Short i vowel mark)"
           ],
           "answerIndex": 0,
           "explanation": "Tanween Fatḥ (ً) adds the adverbial [-an] suffix in «شُكْرًا» (*shukran*)."
@@ -895,9 +895,9 @@
           "prompt": "Which phrase correctly illustrates a Moon Letter where the \"L\" of «ال» is explicitly pronounced?",
           "options": [
             "الكِتَاب (Al-Kitaab - The Book)",
-            "الشَّمْس (Arabic reading)",
-            "السَّلَام (Arabic reading)",
-            "النُّور (Arabic reading)"
+            "الشَّمْس (Ash-Shams - The Sun)",
+            "السَّلَام (As-Salām - The Peace)",
+            "النُّور (An-Noor - The Light)"
           ],
           "answerIndex": 0,
           "explanation": "Kaaf (ك) is a Moon letter, so «الكِتَاب» is pronounced clearly as [al-kitaab]."
@@ -959,9 +959,9 @@
           "prompt": "What is the correct traditional response when someone greets you with «السَّلَامُ عَلَيْكُمْ» (As-salamu 'alaykum)?",
           "options": [
             "وَعَلَيْكُمُ السَّلَامُ (Wa alaykum as-salaam - And upon you peace)",
-            "شُكْرًا جَزِيلًا (Arabic reading)",
-            "إِلَى اللِّقَاءِ (Arabic reading)",
-            "مَا اسْمُكَ؟ (Arabic reading)"
+            "شُكْرًا جَزِيلًا (Shukran jazeelan - Thank you very much)",
+            "إِلَى اللِّقَاءِ (Ilā l-liqā' - Until we meet again / Goodbye)",
+            "مَا اسْمُكَ؟ (Mas-muka? - What is your name (male)?)"
           ],
           "answerIndex": 0,
           "explanation": "The standard reciprocal response is «وَعَلَيْكُمُ السَّلَامُ» (*Wa 'alaykum as-salaam*)."
@@ -970,9 +970,9 @@
           "prompt": "Which Arabic phrase means \"Welcome!\" (lit. \"You have come to family and ease\")?",
           "options": [
             "أَهْلًا وَسَهْلًا (Ahlan wa sahlan - Welcome)",
-            "مَعَ السَّلَامَة (Arabic reading)",
-            "عَفْوًا (Arabic reading)",
-            "كَيْفَ حَالُكَ؟ (Arabic reading)"
+            "مَعَ السَّلَامَة (Ma'a s-salāmah - Goodbye)",
+            "عَفْوًا ('Afwan - You are welcome / Pardon)",
+            "كَيْفَ حَالُكَ؟ (Kayfa hāluka? - How are you (male)?)"
           ],
           "answerIndex": 0,
           "explanation": "«أَهْلًا وَسَهْلًا» (*Ahlan wa sahlan*) is the authentic welcoming expression."
@@ -985,9 +985,9 @@
           "prompt": "How do you politely say \"Goodbye\" (lit. \"With safety\") in Arabic?",
           "options": [
             "مَعَ السَّلَامَة (Ma'a as-salaama - Goodbye)",
-            "مَرْحَبًا (Arabic reading)",
-            "شُكْرًا (Arabic reading)",
-            "تَشَرَّفْنَا (Arabic reading)"
+            "مَرْحَبًا (Marhaban - Hello)",
+            "شُكْرًا (Shukran - Thank you)",
+            "تَشَرَّفْنَا (Tasharrafnā - Pleased to meet you)"
           ],
           "answerIndex": 0,
           "explanation": "«مَعَ السَّلَامَة» (*Ma'a as-salaama*) is the universal polite farewell."
@@ -996,9 +996,9 @@
           "prompt": "Select the phrase used to say \"I am fine, praise be to God\" in response to \"How are you?\":",
           "options": [
             "أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ (Ana bikhayr, alhamdulillah - I am well, praise God)",
-            "أَنَا اسْمِي أَحْمَد (Arabic reading)",
-            "مَا اسْمُكَ؟ (Arabic reading)",
-            "إِلَى اللِّقَاءِ (Arabic reading)"
+            "أَنَا اسْمِي أَحْمَد (Ana ismee Ahmad - My name is Ahmad)",
+            "مَا اسْمُكَ؟ (Mas-muka? - What is your name (male)?)",
+            "إِلَى اللِّقَاءِ (Ilā l-liqā' - Until we meet again / Goodbye)"
           ],
           "answerIndex": 0,
           "explanation": "«أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ» (*Ana bikhayrin, al-hamdu lillah*) is the standard authentic response."
@@ -1012,9 +1012,9 @@
           "prompt": "Which phrase means \"Honored to meet you / Pleased to meet you\" upon an introduction?",
           "options": [
             "تَشَرَّفْنَا (Tasharrafnaa - Pleased to meet you)",
-            "مَعَ السَّلَامَة (Arabic reading)",
-            "عَفْوًا (Arabic reading)",
-            "شُكْرًا (Arabic reading)"
+            "مَعَ السَّلَامَة (Ma'a s-salāmah - Goodbye)",
+            "عَفْوًا ('Afwan - You are welcome / Pardon)",
+            "شُكْرًا (Shukran - Thank you)"
           ],
           "answerIndex": 0,
           "explanation": "«تَشَرَّفْنَا» (*Tasharrafna*) expresses polite pleasure upon being introduced."

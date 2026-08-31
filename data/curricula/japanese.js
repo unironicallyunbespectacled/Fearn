@@ -503,10 +503,10 @@
         {
           "prompt": "Which Hiragana character corresponds to the vowel sound [i] (as in \"meet\")?",
           "options": [
-            "い (Japanese reading)",
-            "あ (Japanese reading)",
-            "う (Japanese reading)",
-            "え (Japanese reading)"
+            "い (i)",
+            "あ (a)",
+            "う (u)",
+            "え (e)"
           ],
           "answerIndex": 0,
           "explanation": "「い」 represents the vowel sound [i]. 「あ」 is [a], 「う」 is [u], and 「え」 is [e]."
@@ -515,9 +515,9 @@
           "prompt": "Select the Hiragana word meaning \"train station\" composed of 「え」 [e] and 「き」 [ki]:",
           "options": [
             "えき (*eki*)",
-            "あき (Japanese reading)",
-            "かお (Japanese reading)",
-            "あい (Japanese reading)"
+            "あき (aki - autumn / fall)",
+            "かお (kao - face)",
+            "あい (ai - love)"
           ],
           "answerIndex": 0,
           "explanation": "「え」 [e] + 「き」 [ki] = 「えき」 (*eki*), which means train station."
@@ -529,10 +529,10 @@
         {
           "prompt": "Which Hiragana character from the K-row is pronounced [ko]?",
           "options": [
-            "こ (Japanese reading)",
-            "か (Japanese reading)",
-            "き (Japanese reading)",
-            "く (Japanese reading)"
+            "こ (ko)",
+            "か (ka)",
+            "き (ki)",
+            "く (ku)"
           ],
           "answerIndex": 0,
           "explanation": "「こ」 is the K-row character pronounced [ko]."
@@ -541,9 +541,9 @@
           "prompt": "Identify the Hiragana word meaning \"face\" combining 「か」 [ka] and 「お」 [o]:",
           "options": [
             "かお (*kao*)",
-            "こえ (Japanese reading)",
-            "うえ (Japanese reading)",
-            "いけ (Japanese reading)"
+            "こえ (koe - voice)",
+            "うえ (ue - above / on top)",
+            "いけ (ike - pond)"
           ],
           "answerIndex": 0,
           "explanation": "「か」 [ka] + 「お」 [o] forms 「かお」 (*kao*), meaning face."
@@ -557,9 +557,9 @@
           "prompt": "Which of the following Hiragana words means \"love\" (formed from vowels 「あ」 and 「い」)?",
           "options": [
             "あい (*ai* - love)",
-            "うえ (Japanese reading)",
-            "あき (Japanese reading)",
-            "えき (Japanese reading)"
+            "うえ (ue - above / on top)",
+            "あき (aki - autumn / fall)",
+            "えき (eki - station)"
           ],
           "answerIndex": 0,
           "explanation": "「あ」 [a] + 「い」 [i] = 「あい」 (*ai* - love)."
@@ -619,10 +619,10 @@
         {
           "prompt": "Which of the following Hiragana characters represents the sound [shi]?",
           "options": [
-            "し (Japanese reading)",
-            "さ (Japanese reading)",
-            "す (Japanese reading)",
-            "せ (Japanese reading)"
+            "し (shi)",
+            "さ (sa)",
+            "す (su)",
+            "せ (se)"
           ],
           "answerIndex": 0,
           "explanation": "「し」 is pronounced [shi]. In Japanese phonology, [s] + [i] naturally palatalizes to [shi]."
@@ -631,9 +631,9 @@
           "prompt": "Identify the world-famous culinary word meaning \"sushi\" spelled with 「す」 and 「し」:",
           "options": [
             "すし (*sushi*)",
-            "たこ (Japanese reading)",
-            "くつ (Japanese reading)",
-            "あさ (Japanese reading)"
+            "たこ (tako - octopus / kite)",
+            "くつ (kutsu - shoes)",
+            "あさ (asa - morning)"
           ],
           "answerIndex": 0,
           "explanation": "「す」 [su] + 「し」 [shi] forms 「すし」 (*sushi*)."
@@ -645,10 +645,10 @@
         {
           "prompt": "Which character represents the affricate sound [tsu] (as in \"tsunami\")?",
           "options": [
-            "つ (Japanese reading)",
-            "た (Japanese reading)",
-            "ち (Japanese reading)",
-            "て (Japanese reading)"
+            "つ (tsu)",
+            "た (ta)",
+            "ち (chi)",
+            "て (te)"
           ],
           "answerIndex": 0,
           "explanation": "「つ」 is pronounced [tsu]."
@@ -657,9 +657,9 @@
           "prompt": "Select the Hiragana word meaning \"moon\" combining 「つ」 [tsu] and 「き」 [ki]:",
           "options": [
             "つき (*tsuki* - moon)",
-            "すき (Japanese reading)",
-            "たこ (Japanese reading)",
-            "うそ (Japanese reading)"
+            "すき (suki - fond of / like)",
+            "たこ (tako - octopus / kite)",
+            "うそ (uso - lie / untruth)"
           ],
           "answerIndex": 0,
           "explanation": "「つ」 [tsu] + 「き」 [ki] = 「つき」 (*tsuki* - moon)."
@@ -673,9 +673,9 @@
           "prompt": "Which Hiragana word means \"shoes\" formed from 「く」 [ku] and 「つ」 [tsu]?",
           "options": [
             "くつ (*kutsu* - shoes)",
-            "あさ (Japanese reading)",
-            "せかい (Japanese reading)",
-            "すし (Japanese reading)"
+            "あさ (asa - morning)",
+            "せかい (sekai - world)",
+            "すし (sushi - sushi)"
           ],
           "answerIndex": 0,
           "explanation": "「く」 [ku] + 「つ」 [tsu] = 「くつ」 (*kutsu* - shoes)."
@@ -736,9 +736,9 @@
           "prompt": "Which Hiragana word means \"cat\" combining 「ね」 [ne] and 「こ」 [ko]?",
           "options": [
             "ねこ (*neko* - cat)",
-            "いぬ (Japanese reading)",
-            "はな (Japanese reading)",
-            "ひと (Japanese reading)"
+            "いぬ (inu - dog)",
+            "はな (hana - flower / nose)",
+            "ひと (hito - person)"
           ],
           "answerIndex": 0,
           "explanation": "「ね」 [ne] + 「こ」 [ko] forms 「ねこ」 (*neko* - cat)."
@@ -746,10 +746,10 @@
         {
           "prompt": "Which character represents the bilabial fricative sound [fu] in the H-row?",
           "options": [
-            "ふ (Japanese reading)",
-            "は (Japanese reading)",
-            "ひ (Japanese reading)",
-            "ほ (Japanese reading)"
+            "ふ (fu)",
+            "は (ha)",
+            "ひ (hi)",
+            "ほ (ho)"
           ],
           "answerIndex": 0,
           "explanation": "「ふ」 is the H-row character pronounced [fu], made by gently blowing air through unrounded lips."
@@ -762,9 +762,9 @@
           "prompt": "Select the Hiragana word meaning \"dog\" spelled with 「い」 and 「ぬ」:",
           "options": [
             "いぬ (*inu* - dog)",
-            "ねこ (Japanese reading)",
-            "ふね (Japanese reading)",
-            "ほし (Japanese reading)"
+            "ねこ (neko - cat)",
+            "ふね (fune - boat / ship)",
+            "ほし (hoshi - star)"
           ],
           "answerIndex": 0,
           "explanation": "「い」 [i] + 「ぬ」 [nu] = 「いぬ」 (*inu* - dog)."
@@ -773,9 +773,9 @@
           "prompt": "Which word means \"flower\" or \"nose\" formed from 「は」 [ha] and 「な」 [na]?",
           "options": [
             "はな (*hana*)",
-            "なつ (Japanese reading)",
-            "ひと (Japanese reading)",
-            "にく (Japanese reading)"
+            "なつ (natsu - summer)",
+            "ひと (hito - person)",
+            "にく (niku - meat)"
           ],
           "answerIndex": 0,
           "explanation": "「は」 [ha] + 「な」 [na] = 「はな」 (*hana*)."
@@ -788,10 +788,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana character is drawn as a single graceful circular spiral stroke and represents the sound [no]?",
           "options": [
-            "の (Japanese reading)",
-            "ぬ (Japanese reading)",
-            "ね (Japanese reading)",
-            "な (Japanese reading)"
+            "の (no)",
+            "ぬ (nu)",
+            "ね (ne)",
+            "な (na)"
           ],
           "answerIndex": 0,
           "explanation": "「の」 is written in a single continuous spiral stroke representing [no]."
@@ -852,9 +852,9 @@
           "prompt": "Which Hiragana word means \"cherry blossom\" spelled with 「さ」, 「く」, and 「ら」?",
           "options": [
             "さくら (*sakura*)",
-            "くるま (Japanese reading)",
-            "わたし (Japanese reading)",
-            "やま (Japanese reading)"
+            "くるま (kuruma - car)",
+            "わたし (watashi - I / me)",
+            "やま (yama - mountain)"
           ],
           "answerIndex": 0,
           "explanation": "「さ」 [sa] + 「く」 [ku] + 「ら」 [ra] = 「さくら」 (*sakura*)."
@@ -878,9 +878,9 @@
           "prompt": "Identify the word for \"mountain\" formed by combining 「や」 [ya] and 「ま」 [ma]:",
           "options": [
             "やま (*yama* - mountain)",
-            "ゆめ (Japanese reading)",
-            "そら (Japanese reading)",
-            "もり (Japanese reading)"
+            "ゆめ (yume - dream)",
+            "そら (sora - sky)",
+            "もり (mori - forest)"
           ],
           "answerIndex": 0,
           "explanation": "「や」 [ya] + 「ま」 [ma] = 「やま」 (*yama* - mountain)."
@@ -889,9 +889,9 @@
           "prompt": "Select the Hiragana word meaning \"I / me\" spelled with 「わ」, 「た」, and 「し」:",
           "options": [
             "わたし (*watashi* - I / me)",
-            "あなた (Japanese reading)",
-            "くるま (Japanese reading)",
-            "ほん (Japanese reading)"
+            "あなた (anata - you)",
+            "くるま (kuruma - car)",
+            "ほん (hon - book)"
           ],
           "answerIndex": 0,
           "explanation": "「わ」 [wa] + 「た」 [ta] + 「し」 [shi] = 「わたし」 (*watashi* - I / me)."
@@ -905,9 +905,9 @@
           "prompt": "Which Hiragana word means \"book\" formed from 「ほ」 [ho] and 「ん」 [n]?",
           "options": [
             "ほん (*hon* - book)",
-            "はな (Japanese reading)",
-            "ひと (Japanese reading)",
-            "ふね (Japanese reading)"
+            "はな (hana - flower / nose)",
+            "ひと (hito - person)",
+            "ふね (fune - boat / ship)"
           ],
           "answerIndex": 0,
           "explanation": "「ほ」 [ho] + 「ん」 [n] = 「ほん」 (*hon* - book)."
@@ -968,9 +968,9 @@
           "prompt": "Which standard polite greeting means \"Good morning\" in Japanese?",
           "options": [
             "おはようございます (*Ohayou gozaimasu*)",
-            "こんにちは (Japanese reading)",
-            "さようなら (Japanese reading)",
-            "すみません (Japanese reading)"
+            "こんにちは (konnichiwa - hello / good afternoon)",
+            "さようなら (sayōnara - goodbye)",
+            "すみません (sumimasen - excuse me / sorry)"
           ],
           "answerIndex": 0,
           "explanation": "「おはようございます」 (*Ohayou gozaimasu*) is the standard polite morning greeting."
@@ -994,9 +994,9 @@
           "prompt": "Select the versatile Japanese phrase meaning \"Excuse me\" or \"I am sorry\":",
           "options": [
             "すみません (*Sumimasen*)",
-            "ありがとうございます (Japanese reading)",
-            "はじめまして (Japanese reading)",
-            "こんにちは (Japanese reading)"
+            "ありがとうございます (arigatō gozaimasu - thank you very much)",
+            "はじめまして (hajimemashite - nice to meet you)",
+            "こんにちは (konnichiwa - hello / good afternoon)"
           ],
           "answerIndex": 0,
           "explanation": "「すみません」 (*Sumimasen*) is used to get attention (excuse me), apologize (sorry), or show appreciation."
@@ -1021,9 +1021,9 @@
           "prompt": "Which phrase is the standard polite expression for \"Thank you very much\"?",
           "options": [
             "ありがとうございます (*Arigatou gozaimasu*)",
-            "おはようございます (Japanese reading)",
-            "さようなら (Japanese reading)",
-            "はじめまして (Japanese reading)"
+            "おはようございます (ohayō gozaimasu - good morning)",
+            "さようなら (sayōnara - goodbye)",
+            "はじめまして (hajimemashite - nice to meet you)"
           ],
           "answerIndex": 0,
           "explanation": "「ありがとうございます」 (*Arigatou gozaimasu*) expresses polite gratitude."

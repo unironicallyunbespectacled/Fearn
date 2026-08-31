@@ -880,9 +880,9 @@
           "prompt": "Which greeting is the respectful honorific form of \"Hello\" used when addressing a teacher, elder, or client in China?",
           "options": [
             "您好 (Nínhǎo - Hello (polite))",
-            "你好 (Mandarin reading)",
-            "晚安 (Mandarin reading)",
-            "再见 (Mandarin reading)"
+            "你好 (nei5 hou2 - hello)",
+            "晚安 (wǎn'ān - good night)",
+            "再见 (zàijiàn - goodbye)"
           ],
           "answerIndex": 0,
           "explanation": "«您好» (*nín hǎo*) uses the honorific pronoun «您» to express respect."
@@ -891,9 +891,9 @@
           "prompt": "How do students respectfully greet their teacher at the start of class in Chinese?",
           "options": [
             "老师好！ (Lǎoshī hǎo! - Hello teacher!)",
-            "你早！ (Mandarin reading)",
-            "拜拜！ (Mandarin reading)",
-            "对不起！ (Mandarin reading)"
+            "你早！ (Nǐ zǎo! - Good morning (casual))",
+            "拜拜！ (Báibái! - Bye-bye!)",
+            "对不起！ (Duìbuqǐ! - I am sorry!)"
           ],
           "answerIndex": 0,
           "explanation": "«老师好！» (*Lǎoshī hǎo!*) is the standard respectful student-to-teacher greeting."
@@ -906,9 +906,9 @@
           "prompt": "Select the Chinese greeting meaning \"Good morning!\":",
           "options": [
             "早上好 (Zǎoshang hǎo - Good morning)",
-            "晚上好 (Mandarin reading)",
-            "下午好 (Mandarin reading)",
-            "晚安 (Mandarin reading)"
+            "晚上好 (Wǎnshang hǎo - Good evening)",
+            "下午好 (Xiàwǔ hǎo - Good afternoon)",
+            "晚安 (wǎn'ān - good night)"
           ],
           "answerIndex": 0,
           "explanation": "«早上好» (*zǎoshang hǎo*) means \"Good morning!\"."
@@ -917,9 +917,9 @@
           "prompt": "When addressing a group of friends or classmates together, which greeting means \"Hello everyone! / Hello you all!\"?",
           "options": [
             "你们好 / 大家好 (Nǐmen hǎo / Dàjiā hǎo - Hello everyone)",
-            "您好 (Mandarin reading)",
-            "早 (Mandarin reading)",
-            "再见 (Mandarin reading)"
+            "您好 (nín hǎo - hello (polite))",
+            "早 (Zǎo - Morning (casual))",
+            "再见 (zàijiàn - goodbye)"
           ],
           "answerIndex": 0,
           "explanation": "«你们好» and «大家好» are used for greeting multiple people."
@@ -999,9 +999,9 @@
           "prompt": "When someone thanks you with «谢谢» (xièxie), what is the standard polite response meaning \"You are welcome!\"?",
           "options": [
             "不客气 / 不用谢 (Bú kèqi / Bú yòng xiè - You are welcome)",
-            "对不起 (Mandarin reading)",
-            "再见 (Mandarin reading)",
-            "早上好 (Mandarin reading)"
+            "对不起 (duìbuqǐ - sorry)",
+            "再见 (zàijiàn - goodbye)",
+            "早上好 (zǎoshang hǎo - good morning)"
           ],
           "answerIndex": 0,
           "explanation": "«不客气» (*bú kèqi*) is the universal polite response to \"thank you\"."
@@ -1010,9 +1010,9 @@
           "prompt": "What is the correct forgiving response when someone apologizes to you with «对不起» (duìbuqǐ)?",
           "options": [
             "没关系 / 没事 (Méi guānxi / Méi shì - It is okay / No problem)",
-            "不客气 (Mandarin reading)",
-            "谢谢 (Mandarin reading)",
-            "你好 (Mandarin reading)"
+            "不客气 (bú kèqi - you are welcome)",
+            "谢谢 (xièxie - thank you)",
+            "你好 (nei5 hou2 - hello)"
           ],
           "answerIndex": 0,
           "explanation": "«没关系» (*méi guānxi*) means \"It doesn't matter / No problem\"."
@@ -1025,9 +1025,9 @@
           "prompt": "Select the polite phrase used to preface a question (\"May I ask... / Excuse me...\"):",
           "options": [
             "请问 (Qǐngwèn - Excuse me, may I ask)",
-            "对不起 (Mandarin reading)",
-            "再见 (Mandarin reading)",
-            "慢走 (Mandarin reading)"
+            "对不起 (duìbuqǐ - sorry)",
+            "再见 (zàijiàn - goodbye)",
+            "慢走 (Mànzǒu - Take care / Safe travels)"
           ],
           "answerIndex": 0,
           "explanation": "«请问» (*qǐngwèn*) literally means \"Please ask\" and is used before asking for directions or information."
@@ -1036,9 +1036,9 @@
           "prompt": "Which phrase means \"See you tomorrow!\" in Chinese?",
           "options": [
             "明天见 (Míngtiān jiàn - See you tomorrow)",
-            "再见 (Mandarin reading)",
-            "一会儿见 (Mandarin reading)",
-            "谢谢 (Mandarin reading)"
+            "再见 (zàijiàn - goodbye)",
+            "一会儿见 (Yíhuìr jiàn - See you in a bit)",
+            "谢谢 (xièxie - thank you)"
           ],
           "answerIndex": 0,
           "explanation": "«明天见» (*míngtiān jiàn*) means \"See you tomorrow\"."
@@ -20422,7 +20422,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'mandarin', name: 'Mandarin', units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'mandarin', name: "Mandarin", units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['mandarin'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

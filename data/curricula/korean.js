@@ -535,8 +535,8 @@
           "prompt": "Identify the Hangul word meaning \"tree\" assembled from 'ㄴ + ㅏ' and 'ㅁ + ㅜ':",
           "options": [
             "나무 (tree)",
-            "바다 (Korean reading)",
-            "가구 (Korean reading)"
+            "바다 (Bada - Sea / Ocean)",
+            "가구 (Gagu - Furniture)"
           ],
           "answerIndex": 0,
           "explanation": "'ㄴ[n] + ㅏ[a] = 나' and 'ㅁ[m] + ㅜ[u] = 무', forming '나무' [namu] (tree). '바다' is sea and '가구' is furniture."
@@ -559,8 +559,8 @@
           "prompt": "Select the Hangul word meaning \"hat/cap\" composed of 'ㅁ + ㅗ' [mo] and 'ㅈ + ㅏ' [ja]:",
           "options": [
             "모자 (hat/cap)",
-            "사자 (Korean reading)",
-            "아이 (Korean reading)"
+            "사자 (Saja - Lion)",
+            "아이 (Ai - Child)"
           ],
           "answerIndex": 0,
           "explanation": "'ㅁ + ㅗ = 모' [mo] and 'ㅈ + ㅏ = 자' [ja] combine to form '모자' [moja] (hat/cap)."
@@ -651,8 +651,8 @@
           "prompt": "Which Hangul word means \"cooked rice / meal\" featuring the initial 'ㅂ', vowel 'ㅏ', and final Batchim 'ㅂ'?",
           "options": [
             "밥 (cooked rice/meal)",
-            "방 (Korean reading)",
-            "발 (Korean reading)"
+            "방 (Bang - Room)",
+            "발 (Bal - Foot)"
           ],
           "answerIndex": 0,
           "explanation": "'ㅂ + ㅏ + ㅂ = 밥' [bap] (cooked rice/meal). '방' ends with nasal [ㅇ] (room) and '발' ends with [ㄹ] (foot)."
@@ -665,8 +665,8 @@
           "prompt": "Identify the word meaning \"river\" formed by initial 'ㄱ' [g], vowel 'ㅏ' [a], and final nasal Batchim 'ㅇ' [ng]:",
           "options": [
             "강 (river)",
-            "간 (Korean reading)",
-            "갈 (Korean reading)"
+            "간 (Gan - Liver / Interval)",
+            "갈 (Gal - To go / Reed)"
           ],
           "answerIndex": 0,
           "explanation": "'ㄱ + ㅏ + ㅇ = 강' [gang] (river). '간' ends with [n] and '갈' ends with [l]."
@@ -675,8 +675,8 @@
           "prompt": "Which of the following words contains the compound vowel 'ㅐ' [ae] and final Batchim 'ㄱ' [k] meaning \"book\"?",
           "options": [
             "책 (book)",
-            "차 (Korean reading)",
-            "친구 (Korean reading)"
+            "차 (Cha - Tea / Car)",
+            "친구 (Chingu - Friend)"
           ],
           "answerIndex": 0,
           "explanation": "'ㅊ + ㅐ + ㄱ = 책' [chaek] (book)."
@@ -752,8 +752,8 @@
           "prompt": "You are leaving a coffee shop or classroom while the barista or your classmate stays inside. Which farewell should you say as you exit?",
           "options": [
             "안녕히 계세요 ('Stay in peace')",
-            "안녕히 가세요 (Korean reading)",
-            "죄송합니다 (Korean reading)"
+            "안녕히 가세요 (annyeonghi gaseyo - goodbye (to person leaving))",
+            "죄송합니다 (joesonghamnida - I am sorry)"
           ],
           "answerIndex": 0,
           "explanation": "When you are leaving and the other person is staying behind, say '안녕히 계세요' ('Stay in peace'). '안녕히 가세요' is said to the person who is walking away."
@@ -761,9 +761,9 @@
         {
           "prompt": "Which expression is the universal polite daytime/evening greeting meaning \"Hello / How are you?\" in Korean?",
           "options": [
-            "안녕하세요? (Korean reading)",
-            "안녕히 가세요 (Korean reading)",
-            "감사합니다 (Korean reading)"
+            "안녕하세요? (Annyeonghaseyo? - Hello / How are you?)",
+            "안녕히 가세요 (annyeonghi gaseyo - goodbye (to person leaving))",
+            "감사합니다 (gamsahamnida - thank you)"
           ],
           "answerIndex": 0,
           "explanation": "'안녕하세요?' [Annyeonghaseyo?] is the standard polite meeting greeting used across all hours of the day in Korea."
@@ -775,9 +775,9 @@
         {
           "prompt": "A colleague helped you carry heavy boxes to your office. Which polite expression should you use to express sincere thanks?",
           "options": [
-            "감사합니다 (Korean reading)",
-            "죄송합니다 (Korean reading)",
-            "안녕히 계세요 (Korean reading)"
+            "감사합니다 (gamsahamnida - thank you)",
+            "죄송합니다 (joesonghamnida - I am sorry)",
+            "안녕히 계세요 (annyeonghi gyeseyo - goodbye (to person staying))"
           ],
           "answerIndex": 0,
           "explanation": "'감사합니다' [Gamsahamnida] is the standard formal polite phrase for expressing gratitude."
@@ -785,9 +785,9 @@
         {
           "prompt": "You accidentally bumped into someone on the Seoul subway. Which polite phrase should you immediately say to apologize?",
           "options": [
-            "죄송합니다 (Korean reading)",
-            "반갑습니다 (Korean reading)",
-            "안녕하세요 (Korean reading)"
+            "죄송합니다 (joesonghamnida - I am sorry)",
+            "반갑습니다 (bangapseumnida - nice to meet you)",
+            "안녕하세요 (annyeonghaseyo - hello)"
           ],
           "answerIndex": 0,
           "explanation": "'죄송합니다' [Joesonghamnida] is the standard formal apology for mistakes, accidental bumps, or courtesies."
@@ -801,8 +801,8 @@
           "prompt": "If your Korean host is waving goodbye to you as YOU depart their home, what will the host say to YOU as you walk away?",
           "options": [
             "안녕히 가세요 ('Go in peace')",
-            "안녕히 계세요 (Korean reading)",
-            "반갑습니다 (Korean reading)"
+            "안녕히 계세요 (annyeonghi gyeseyo - goodbye (to person staying))",
+            "반갑습니다 (bangapseumnida - nice to meet you)"
           ],
           "answerIndex": 0,
           "explanation": "Because you are the one leaving, the host who remains will say '안녕히 가세요' ('Go in peace')."
@@ -864,8 +864,8 @@
           "prompt": "How do you form the polite formal question asking someone: \"Are you a teacher?\" (선생님 = teacher):",
           "options": [
             "선생님입니까? (Are you a teacher?)",
-            "선생님입니다 (Korean reading)",
-            "선생님가요? (Korean reading)"
+            "선생님입니다 (Seonsaengnim-imnida - I am a teacher)",
+            "선생님가요? (Ungrammatical particle distractor)"
           ],
           "answerIndex": 0,
           "explanation": "To ask a formal question with a noun, attach '-입니까?' [im-ni-kka?] to the noun: '선생님입니까?' (Are you a teacher?)."
@@ -874,8 +874,8 @@
           "prompt": "Select the correct Korean sentence stating: \"I am a student\" (저 = I, 학생 = student):",
           "options": [
             "저는 학생입니다 (As for me)",
-            "저는 학생입니까 (Korean reading)",
-            "저는 학생사람 (Korean reading)"
+            "저는 학생입니까 (Jeoneun haksaeng-imnikka - Am I a student?)",
+            "저는 학생사람 (Ungrammatical noun compound distractor)"
           ],
           "answerIndex": 0,
           "explanation": "'저 + 는' (As for me) + '학생' (student) + '입니다' (am) forms '저는 학생입니다'."
@@ -888,8 +888,8 @@
           "prompt": "In the self-introduction \"저는 미국 사람입니다\" (I am American), which word specifically means \"person / nationality\"?",
           "options": [
             "사람 (Saram — person, e.g. miguk saram, hanguk saram)",
-            "미국 (Korean reading)",
-            "입니다 (Korean reading)"
+            "미국 (Miguk - USA)",
+            "입니다 (Imnida - am / is / are (declarative))"
           ],
           "answerIndex": 0,
           "explanation": "'사람' [saram] means person. Placing it after a country name (e.g. 미국 사람, 한국 사람) expresses nationality."
@@ -898,8 +898,8 @@
           "prompt": "Which ending converts the noun '의사' (doctor) into the statement \"I am a doctor\"?",
           "options": [
             "의사입니다 (I am a doctor)",
-            "의사입니까 (Korean reading)",
-            "의사안녕 (Korean reading)"
+            "의사입니까 (Uisa-imnikka - Is he/she a doctor?)",
+            "의사안녕 (Ungrammatical greeting compound distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Attaching the formal copula '-입니다' creates the declarative statement '의사입니다' (I am a doctor)."
@@ -913,8 +913,8 @@
           "prompt": "Complete the dialogue: A asks \"어느 나라 사람입니까?\" (Which nationality are you?). B responds: \"저는 _____ 사람입니다.\"",
           "options": [
             "한국 (Korea)",
-            "학생 (Korean reading)",
-            "의사 (Korean reading)"
+            "학생 (Haksaeng - Student)",
+            "의사 (Uisa - Doctor)"
           ],
           "answerIndex": 0,
           "explanation": "The question asks for nationality/country, so the country name '한국' (Korea) correctly fills the blank to say '저는 한국 사람입니다' (I am Korean)."
@@ -976,8 +976,8 @@
           "prompt": "The noun '선생님' (teacher) ends in a final Batchim consonant ('ㅁ'). Which negative ending correctly forms \"I am not a teacher\"?",
           "options": [
             "선생님이 아닙니다 (Seonsaengnimi animnida — I am not a teacher)",
-            "선생님가 아닙니다 (Korean reading)",
-            "선생님은 아닙니다 (Korean reading)"
+            "선생님가 아닙니다 (Incorrect subject particle distractor)",
+            "선생님은 아닙니다 (Contrastive particle distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Because '선생님' ends in a consonant (ㅁ), it takes the subject particle '이', creating '선생님이 아닙니다'."
@@ -985,9 +985,9 @@
         {
           "prompt": "The noun '의사' (doctor) ends in a vowel ('ㅏ', no Batchim). Which negative form correctly says \"I am not a doctor\"?",
           "options": [
-            "의사가 아닙니다 (Korean reading)",
-            "의사이 아닙니다 (Korean reading)",
-            "의사를 아닙니다 (Korean reading)"
+            "의사가 아닙니다 (Uisaga animnida - I am not a doctor)",
+            "의사이 아닙니다 (Incorrect subject particle distractor)",
+            "의사를 아닙니다 (Incorrect object particle distractor)"
           ],
           "answerIndex": 0,
           "explanation": "Because '의사' ends in a vowel, it takes the particle '가', creating '의사가 아닙니다'."
@@ -1000,8 +1000,8 @@
           "prompt": "How do you say \"No, I am not Korean\" in polite Korean? (한국 사람 = Korean person):",
           "options": [
             "아니요, 한국 사람이 아닙니다 (No)",
-            "네, 한국 사람입니다 (Korean reading)",
-            "아니요, 한국 사람입니다 (Korean reading)"
+            "네, 한국 사람입니다 (Ne, hanguk saram-imnida - Yes, I am Korean)",
+            "아니요, 한국 사람입니다 (Aniyo, hanguk saram-imnida - No, I am Korean)"
           ],
           "answerIndex": 0,
           "explanation": "'아니요' (No) + '한국 사람이 아닙니다' (I am not Korean) correctly conveys the negative response."
@@ -1009,9 +1009,9 @@
         {
           "prompt": "Which particle correctly completes the sentence: \"가방__ 아닙니다. 책입니다.\" (It is not a bag [가방 ends in ㅇ]. It is a book.)?",
           "options": [
-            "이 (Korean reading)",
-            "가 (Korean reading)",
-            "를 (Korean reading)"
+            "이 (i - subject particle after consonant)",
+            "가 (ga - subject particle after vowel)",
+            "를 (reul - object particle after vowel)"
           ],
           "answerIndex": 0,
           "explanation": "'가방' ends with the Batchim nasal consonant 'ㅇ', so it takes '이', forming '가방이 아닙니다'."
@@ -1024,9 +1024,9 @@
           "type": "multiple-choice",
           "prompt": "Which of the following sentences is grammatically correct for \"I am not a doctor\"?",
           "options": [
-            "의사가 아닙니다. (Korean reading)",
-            "의사이 아닙니다. (Korean reading)",
-            "의사를 아닙니다. (Korean reading)"
+            "의사가 아닙니다. (Uisaga animnida - I am not a doctor)",
+            "의사이 아닙니다. (Incorrect subject particle distractor)",
+            "의사를 아닙니다. (Incorrect object particle distractor)"
           ],
           "answerIndex": 0,
           "explanation": "'의사' ends in a vowel, so the correct particle is '가', giving '의사가 아닙니다.'."
@@ -16230,7 +16230,7 @@
     }
   }
 };
-  var CURRICULUM = { id: 'korean', name: 'Korean', units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'korean', name: "Korean", units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['korean'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

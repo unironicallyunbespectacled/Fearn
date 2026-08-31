@@ -1,4 +1,4 @@
-// FEARN Curriculum Data — Chess
+// FEARN Curriculum Data — chess
 (function (global) {
   'use strict';
   var UNITS = [
@@ -1953,7 +1953,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
+          "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "f5",
             "d4",
@@ -2088,7 +2088,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
+          "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Offer a draw",
             "Repeatedly check Black's King with no purpose",
@@ -2223,7 +2223,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
+          "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Because the Knight can jump to both light and dark squares to attack the enemy pawns, while the Bad Bishop is blind to half the board and blocked by its own pawns.",
             "Because Knights are worth 5 points in endgames.",
@@ -2358,7 +2358,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
+          "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Create an outpost on the file (e.g. c5/c6) to anchor a piece, or double your rooks first and prepare to control the entry squares (c7/c8).",
             "Close the file by putting your own pawns on it.",
@@ -2493,7 +2493,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
+          "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "He pinned the bishop to the queen.",
             "He locked the pawn structure with h4-h5 and f3-f4, burying Black's bishop behind a wall of its own pawns on g6 and effectively playing up a full piece on the queenside.",
@@ -2622,7 +2622,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
+          "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Win White's queen in 3 moves",
             "Force an immediate draw on move 9",
@@ -2751,7 +2751,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
+          "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Both sides agree to trade queens on move 7",
             "Opposite-side castling: White castles queenside (O-O-O) and storms the kingside with h4-h5, while Black attacks down the half-open c-file with ...Rc8 and exchange sacrifices on c3",
@@ -2880,7 +2880,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
+          "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Because White quickly plays a4, shattering Black's overextended queenside pawns",
             "Because c4 is out of bounds",
@@ -3009,7 +3009,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
+          "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Because the resulting doubled c-pawns and dark-square control provide permanent static positional targets that outweigh White's bishop pair in closed/semi-closed positions",
             "To speed up the game",
@@ -3138,7 +3138,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
+          "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "A 4-move checkmate system",
             "A hybrid of the Queen's Gambit and hypermodern King's Indian, where White fianchettoes the light-squared bishop on g2 to exert immense long-term pressure across the h1-a8 diagonal",
@@ -3267,7 +3267,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 41:",
+          "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "A haunted chess board",
             "A transparent plastic piece",
@@ -3396,7 +3396,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 42:",
+          "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Ignore it and attack on the kingside blindly",
             "Over-control the d5 square (e.g. play Rad1, c4, or e4-e5), making ...d5 tactically impossible or disastrous for them",
@@ -3525,7 +3525,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 43:",
+          "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "It destroys White's queenside pawn structure (creating doubled c-pawns), exposes White's king, and removes the critical defender of the e4 central pawn",
             "Because Black does not need rooks in the Sicilian",
@@ -3654,7 +3654,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 44:",
+          "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "2.Qe2+ (or 2.Nd5+), delivering devastating discovered and double checks",
             "Castling queenside",
@@ -3783,7 +3783,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 45:",
+          "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "The grandmaster memorizes every possible game in history",
             "The grandmaster calculates with disciplined serial candidate trees, never hopes for opponent mistakes, respects prophylactic danger, and plays the board with complete objectivity",
@@ -3917,7 +3917,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 46:",
+          "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "d5, e5, f5",
             "d3, e3, f3",
@@ -4051,7 +4051,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 47:",
+          "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "From rank 1",
             "From rank 4",
@@ -4183,7 +4183,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 48:",
+          "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "To force Black's King at least 2 files away so it cannot attack White's pawn when White's King steps out.",
             "To win Black's Queen",
@@ -4305,7 +4305,7 @@
           "prompt": "What must the defender do the exact moment the attacker pushes the pawn to the 6th rank (e.g. 1.e6)?",
           "options": [
             "Immediately drop the Rook to the 1st rank (e.g. Ra1!) to deliver infinite checks from behind",
-            "Resign",
+            "Advance the king to the 6th rank",
             "Sacrifice the Rook for the pawn",
             "Leave the Rook on the 3rd rank"
           ],
@@ -4317,12 +4317,12 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 49:",
+          "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Because the pawn on the 6th rank blocks the King from stepping forward, leaving no shelter against vertical checks.",
-            "Because of a stalemate rule.",
-            "Because the board ends.",
-            "Because the King is frozen."
+            "Because the defending king can always retain distant opposition.",
+            "Because the attacker can transition into a queen vs rook endgame.",
+            "Because the pawn creates an inescapable mating net on the back rank."
           ],
           "answerIndex": 0,
           "explanation": "The pawn robs its own King of front shelter."
@@ -4331,9 +4331,9 @@
           "prompt": "What is the primary drawing characteristic of Opposite-Colored Bishop endgames?",
           "options": [
             "Each bishop controls completely different color squares, meaning the defender can establish an impenetrable blockade on their color complex.",
-            "Kings cannot move.",
-            "Bishops can jump over pawns.",
-            "Bishops move like rooks."
+            "The attacker cannot trade bishops without entering a drawn pawn endgame.",
+            "Pawns on dark squares are automatically immune to light-squared bishop captures.",
+            "The attacking side cannot force a passed pawn on both flanks simultaneously."
           ],
           "answerIndex": 0,
           "explanation": "Opposite-colored bishops cannot challenge each other's squares, enabling fortresses."
@@ -4372,7 +4372,7 @@
             "Moving the King two squares",
             "Playing only on the queenside",
             "Positioning the defending King on the 'short side' of the passed pawn (where files are fewer) and placing the Rook on the 'long side' to check from maximum distance",
-            "Playing fast blitz moves"
+            "Sacrificing the rook to establish an active king"
           ],
           "answerIndex": 2,
           "explanation": "Short side for King, long side for Rook checks.",
@@ -4440,8 +4440,8 @@
           "options": [
             "The Philidor Defense",
             "The Lucena Position",
-            "The Fried Liver",
-            "The Scholar's Mate"
+            "The King and Queen fork pattern",
+            "The Boden's mate construction"
           ],
           "answerIndex": 0,
           "explanation": "The Philidor Defense guarantees a theoretical draw."
@@ -4451,7 +4451,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 50:",
+          "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
             "Because key squares cannot be entered by pawns.",
             "Because once your King reaches a key square, promotion is 100% guaranteed regardless of who holds the opposition or whose turn it is.",

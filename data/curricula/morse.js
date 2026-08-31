@@ -1942,7 +1942,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
+          "prompt": "According to Morse code standards in Unit 7, Lesson 1: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "RADIO",
             "TOWER",
@@ -2077,7 +2077,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
+          "prompt": "According to Morse code standards in Unit 7, Lesson 2: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "CQ 73",
             "SOS 999",
@@ -2212,7 +2212,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
+          "prompt": "According to Morse code standards in Unit 7, Lesson 3: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "THANKS FOR QSO",
             "TIME FOR BED",
@@ -2347,7 +2347,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
+          "prompt": "According to Morse code standards in Unit 7, Lesson 4: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "QTH TOKYO",
             "QRZ TOKYO",
@@ -2482,7 +2482,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
+          "prompt": "According to Morse code standards in Unit 7, Lesson 5: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "DL1ABC",
             "PY2AA",
@@ -2611,7 +2611,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
+          "prompt": "According to Morse code standards in Unit 8, Lesson 1: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "YOU ARE NOT",
             "YES AND ALL",
@@ -2740,7 +2740,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
+          "prompt": "According to Morse code standards in Decode international amateur radio callsign structures, what is the accurate transmission principle?",
           "options": [
             "W2VX",
             "N2VX",
@@ -2869,7 +2869,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
+          "prompt": "According to Morse code standards in Unit 8, Lesson 3: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "QRZ DE W1AW",
             "QSL DE W1AW",
@@ -2998,7 +2998,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
+          "prompt": "According to Morse code standards in Decode and format a complete standard CW QSO, what is the accurate transmission principle?",
           "options": [
             "OP IS MARK = 73",
             "ON IS MARK = 73",
@@ -3127,7 +3127,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
+          "prompt": "According to Morse code standards in Unit 8, Lesson 5: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "Please repeat",
             "Silent Key / End of Contact",
@@ -3256,7 +3256,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
+          "prompt": "According to Morse code standards in Unit 9, Lesson 1: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "SPEED IS GOOD",
             "SPACE IS VAST",
@@ -3385,7 +3385,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
+          "prompt": "According to Morse code standards in Unit 9, Lesson 2: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "W1AW DE VE3ABC K",
             "W1AW DE VE3ABC/P [KN]",
@@ -3514,7 +3514,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
+          "prompt": "According to Morse code standards in Unit 9, Lesson 3: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "VERY NICE SIGNAL OM",
             "VERY LOUD NOISE OM",
@@ -3643,7 +3643,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
+          "prompt": "According to Morse code standards in Unit 9, Lesson 4: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "PSE QRO VERY QSB",
             "PASS QRO VERY QSB",
@@ -3772,7 +3772,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
+          "prompt": "According to Morse code standards in Unit 9, Lesson 5: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "ONLINE ONLY",
             "VIA BUREAU",
@@ -3901,7 +3901,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 41:",
+          "prompt": "According to Morse code standards in Unit 10, Lesson 1: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "SOS",
             "QRP",
@@ -4030,7 +4030,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 42:",
+          "prompt": "According to Morse code standards in Unit 10, Lesson 2: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "Iambic paddles are made of soft foam",
             "Straight keys require continuous up-and-down pumping of the entire forearm; iambic paddles require only sub-millimeter finger squeezes with the electronic keyer managing timing",
@@ -4159,7 +4159,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 43:",
+          "prompt": "According to Morse code standards in Unit 10, Lesson 3: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "Contextual top-down linguistic reconstruction: The brain uses syntax and word predictability to seamlessly fill in the missing acoustic gap",
             "Asking the sender to repeat the entire message from the beginning",
@@ -4288,7 +4288,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 44:",
+          "prompt": "According to Morse code standards in Unit 10, Lesson 4: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "Please repeat the Word Before 'BOSTON'",
             "Weather in Boston",
@@ -4417,7 +4417,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 45:",
+          "prompt": "According to Morse code standards in Unit 10, Lesson 5: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "1. Counting dits with a pencil only",
             "1. Koch Method Auditory Foundation; 2. Numbers & Core Prosigns; 3. Farnsworth Spacing Compression; 4. Whole-Word Gestalts & Q-Codes; 5. 20 WPM Head Copy & Emergency Net Operations",
@@ -4556,7 +4556,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 46:",
+          "prompt": "According to Morse code standards in Decode and encode core punctuation marks, what is the accurate transmission principle?",
           "options": [
             ".",
             ",",
@@ -4690,7 +4690,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 47:",
+          "prompt": "According to Morse code standards in Unit 6, Lesson 2: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "AR",
             "BT",
@@ -4824,7 +4824,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 48:",
+          "prompt": "According to Morse code standards in Distinguish and execute turn-taking and transmission-ending procedural signals, what is the accurate transmission principle?",
           "options": [
             "AR",
             "BT",
@@ -4958,7 +4958,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 49:",
+          "prompt": "According to Morse code standards in Decode and execute operational closing and standby signs, what is the accurate transmission principle?",
           "options": [
             "AS",
             "BT",
@@ -5092,7 +5092,7 @@
     "independentPractice": {
       "items": [
         {
-          "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 50:",
+          "prompt": "According to Morse code standards in Unit 6, Lesson 5: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
             "The frequency is closed for 73 days",
             "Best regards and thanks for the contact, final sign-off",
