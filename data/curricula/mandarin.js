@@ -485,79 +485,89 @@
         "subject": "mandarin",
         "unit": 1,
         "lessonNumber": 1,
-        "title": "汉语拼音系统概论：声母、单韵母与发音部位 (Pinyin Initials & Single Finals)",
+        "title": "汉语拼音系统概论：单韵母与第一组声母 (Pinyin Simple Finals & First Initials)",
         "level": "A1",
-        "objective": "Pinyin Phonics, Tone System & Core Greetings: Master Pinyin initials/finals, the 4 tones + neutral tone, and standard greetings (Nǐ hǎo, Zàijiàn).",
+        "objective": "Master the Standard Mandarin phonetic spelling system (Hanyu Pinyin), the 6 simple finals (a, o, e, i, u, ü), and the first 8 initials (b, p, m, f, d, t, n, l) with aspiration contrasts.",
         "presentation": {
-            "explanation": "Welcome to Mandarin Chinese! Standard Chinese (Putonghua) is transcribed in the Latin alphabet using **Hanyu Pinyin (汉语拼音)**. Each syllable consists of an Initial consonant (声母, e.g. b, p, m, f, d, t, n, l), a Final vowel (韵母, e.g. a, o, e, i, u, ü), and one of **Four Tones (声调)** plus a neutral tone: (1) First Tone (High-flat: ā, 55 pitch), (2) Second Tone (Rising: á, 35 pitch), (3) Third Tone (Dipping: ǎ, 214 pitch), and (4) Fourth Tone (Sharp-falling: à, 51 pitch). Tones are lexical—changing the tone changes the word completely (e.g. mā = mother, má = hemp, mǎ = horse, mà = scold). The standard greeting is «你好» (*Nǐ hǎo* - Hello, lit. \"you good\"). When two 3rd tones meet (nǐ + hǎo), tone sandhi changes the first to a 2nd tone (*ní hǎo*). Polite register uses «您好» (*Nín hǎo*).",
+            "explanation": "Welcome to Mandarin Chinese (普通话)! Standard Chinese is phonetically transcribed in the Latin alphabet using **Hanyu Pinyin (汉语拼音)**. Each Chinese syllable consists of three components: an **Initial consonant (声母)**, a **Final vowel (韵母)**, and a **Tone pitch (声调)**.\n\n### 1. The 6 Simple Finals (单韵母)\n- **a** [a] — Open mouth wide: \"ah\" (as in \"father\")\n- **o** [o] — Round lips into an O-shape: \"aw/oh\"\n- **e** [ɤ] — Unrounded back vowel: smile slightly and produce \"uh\" from the throat\n- **i** [i] — Spread lips wide: \"ee\" (as in \"see\")\n- **u** [u] — Pucker lips into a small circle: \"oo\" (as in \"moon\")\n- **ü** [y] — **Special German/French sound**: Hold your tongue in the \"i\" [ee] position while rounding your lips into a tight \"u\" circle (as in German \"über\")\n\n### 2. The First 8 Initials (声母: b, p, m, f, d, t, n, l)\nIn Chinese, the critical contrast between consonants is **Aspiration (送气 vs 不送气)**, NOT vocal cord voicing:\n- **b** [p] — **Unaspirated**: like \"p\" in \"spin\" (no puff of air)\n- **p** [pʰ] — **Aspirated**: strong explosive puff of air (hold a tissue in front of lips, it should fly!)\n- **m** [m] — Bilabial nasal: \"m\" as in \"mother\"\n- **f** [f] — Labiodental fricative: \"f\" as in \"father\"\n- **d** [t] — **Unaspirated**: like \"t\" in \"stop\" (no puff of air)\n- **t** [tʰ] — **Aspirated**: strong puff of air as in \"top\"\n- **n** [n] — Alveolar nasal: \"n\" as in \"no\"\n- **l** [l] — Lateral approximant: \"l\" as in \"love\"\n\n### 3. Syllable Spelling Examples\n- **ba** (八 bā - eight) vs **pa** (爬 pá - climb)\n- **da** (大 dà - big) vs **ta** (他 tā - he/him)\n- **ma** (妈 mā - mother) vs **fa** (发 fā - send/emit)\n- **nǚ** (女 nǚ - female) vs **lù** (路 lù - road)",
             "examples": [
                 {
-                    "target": "你好！很高兴认识你。",
-                    "reading": "Nǐ hǎo! Hěn gāoxìng rènshí nǐ.",
-                    "translation": "Hello! Very glad to meet you."
+                    "target": "bā (八)",
+                    "reading": "bā",
+                    "translation": "eight (b + a, first tone)"
                 },
                 {
-                    "target": "老师好，明天见！",
-                    "reading": "Lǎoshī hǎo, míngtiān jiàn!",
-                    "translation": "Hello teacher, see you tomorrow!"
+                    "target": "pā (趴)",
+                    "reading": "pā",
+                    "translation": "lie flat (aspirated p + a)"
+                },
+                {
+                    "target": "dà (大)",
+                    "reading": "dà",
+                    "translation": "big / large (d + a, fourth tone)"
+                },
+                {
+                    "target": "tā (他)",
+                    "reading": "tā",
+                    "translation": "he / him (aspirated t + a)"
                 }
             ],
             "mnemonics": [
-                "4 Tones: 1-flat (ā), 2-up (á), 3-dip (ǎ), 4-down (à). Tone Sandhi: 3+3 becomes 2+3 (Nǐ + hǎo -> Ní hǎo)."
+                "Remember: \"b\" and \"d\" in Pinyin are voiceless and unaspirated (like \"sp\" in spin and \"st\" in stop). \"p\" and \"t\" are explosive with air!"
             ],
             "culturalNotes": [
-                "Pinyin was officially developed in the 1950s led by linguist Zhou Youguang and adopted by the International Organization for Standardization (ISO) in 1982."
+                "Hanyu Pinyin was officially developed in China by linguist Zhou Youguang and promulgated in 1958. It is now the universal international ISO standard for transcribing Chinese phonetics."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "单韵母「ü」在发音时的核心唇形与舌位要领是：",
+                    "prompt": "In Mandarin Pinyin, what is the crucial articulatory difference between initial «b» and initial «p»?",
                     "options": [
-                        "舌位与「i」完全相同，但双唇拢圆呈小圆孔（撮口呼）。 (Rounding lips while holding the i tongue position)",
-                        "舌位与「u」完全相同，双唇展开呈扁平状。",
-                        "张大嘴巴，舌头平放于口腔底部。",
-                        "舌尖轻触上齿背，嘴角向两侧用力拉开。"
+                        "Aspiration: «b» is unaspirated (no puff of air), while «p» is strongly aspirated (strong puff of air)",
+                        "«b» is voiced like English \"b\", while «p» is silent",
+                        "«b» is pronounced with teeth, while «p» is nasal",
+                        "There is no difference"
                     ],
                     "answerIndex": 0,
-                    "explanation": "单韵母 ü 是前高圆唇元音，其舌位与前高不圆唇元音 i 完全一致，关键在于保持双唇紧圆向前突出。"
+                    "explanation": "Mandarin contrasts unaspirated [p] (written b) with aspirated [pʰ] (written p)."
                 },
                 {
-                    "prompt": "在声母「b」与「p」的发音对比中，两者最关键的区别在于：",
+                    "prompt": "How is the simple final «ü» correctly pronounced in Mandarin phonetics?",
                     "options": [
-                        "气流强弱：b 是不送气音，而 p 是强烈送气音。 (b is unaspirated [p], while p is aspirated [pʰ])",
-                        "发音部位：b 是双唇音，而 p 是唇齿音。",
-                        "声带状态：b 声带剧烈振动，而 p 声带完全不振动。",
-                        "鼻腔通道：b 走鼻腔气流，而 p 走口腔气流。"
+                        "Keep your tongue in the \"i\" [ee] position while rounding lips into a tight circle [y]",
+                        "Open your mouth wide like \"ah\"",
+                        "Pronounce it identically to \"u\"",
+                        "Pronounce it like English \"w\""
                     ],
                     "answerIndex": 0,
-                    "explanation": "普通话中的 b 和 p 均为双唇清塞音，二者的核心对立在于不送气与送气的强弱气流差异。"
+                    "explanation": "«ü» is a close front rounded vowel, articulated with the tongue high and front like [i] and lips rounded like [u]."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出下列声母中属于「唇齿音」的声母：",
+                    "prompt": "Which of the following Pinyin initials is a labiodental fricative (upper teeth touching lower lip)?",
                     "options": [
-                        "f (上齿接触下唇形成窄缝呼气) (Labiodental fricative f)",
-                        "b (双唇闭合不送气塞音)",
-                        "m (双唇闭合鼻音)",
-                        "d (舌尖抵住上齿龈塞音)"
+                        "f (labiodental fricative)",
+                        "b (bilabial stop)",
+                        "d (alveolar stop)",
+                        "m (bilabial nasal)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "在汉语拼音系统中，声母 f 是唯一的唇齿音，发音时上门齿轻触下唇内缘摩擦出声。"
+                    "explanation": "«f» is produced by contacting the upper teeth with the lower lip."
                 },
                 {
-                    "prompt": "声母「d」与韵母「a」拼读组成汉字「大」时，正确的拼音标注为：",
+                    "prompt": "When the initial «d» combines with final «a» in fourth tone to spell «dà» (大), what does the word mean?",
                     "options": [
-                        "dà (第四声，去声全降调) (Fourth tone dà)",
-                        "tā (送气音，第一声)",
-                        "bà (双唇音，第四声)",
-                        "nǎ (鼻音，第三声)"
+                        "dà (big / large)",
+                        "tā (he / him)",
+                        "mā (mother)",
+                        "bā (eight)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "汉字「大」由声母 d 和韵母 a 拼合而成，声调为第四声（去声），拼音为 dà。"
+                    "explanation": "«dà» (大) means big or large."
                 }
             ]
         },
@@ -565,27 +575,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "下列哪一组词语的声母全部属于「舌尖中音（d, t, n, l）」？",
+                    "prompt": "Which pair of initials represents the alveolar stops (unaspirated vs aspirated)?",
                     "options": [
-                        "地图 (dìtú)、男女 (nánnǚ)、大路 (dàlù)",
-                        "爸爸 (bàba)、妈妈 (māma)、头发 (tóufa)",
-                        "白皮 (báipí)、面包 (miànbāo)、大门 (dàmén)",
-                        "飞机 (fēijī)、跑步 (pǎobù)、绿草 (lǜcǎo)"
+                        "d [t] and t [tʰ]",
+                        "b [p] and p [pʰ]",
+                        "m [m] and f [f]",
+                        "n [n] and l [l]"
                     ],
                     "answerIndex": 0,
-                    "explanation": "「地图 (d, t)」、「男女 (n, n)」、「大路 (d, l)」的所有声母均属于舌尖中音（d, t, n, l）。"
+                    "explanation": "«d» and «t» are alveolar stops."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "请输入由声母「m」和单韵母「a」组成的第一声亲属称谓词汉字（例如「妈」）：",
+                    "prompt": "Type the Pinyin spelling for the Chinese word for \"big\" (d-a, 4th tone mark or dà):",
                     "acceptedAnswers": [
-                        "妈",
-                        "妈妈"
+                        "da",
+                        "dà",
+                        "da4"
                     ],
-                    "explanation": "汉字「妈 / 妈妈」读音为 mā / māma，由声母 m 与韵母 a 拼合，为普通话第一声。"
+                    "explanation": "«dà» (大) = big."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "zh-u1-l2": {
@@ -593,89 +603,89 @@
         "subject": "mandarin",
         "unit": 1,
         "lessonNumber": 2,
-        "title": "普通话四声调值、五度标记法与轻声规律 (The Four Tones & Neutral Tone)",
+        "title": "普通话四声调值与五度标记法 (The 4 Tones & Neutral Tone)",
         "level": "A1",
-        "objective": "系统掌握普通话四个基本声调的调类、五度调值变化曲线、标调位置口诀以及轻声音节的发音特征。",
+        "objective": "Master the 4 lexical tones of Standard Mandarin (55 high-level, 35 rising, 214 dipping, 51 falling) and the light neutral tone.",
         "presentation": {
-            "explanation": "汉语属于高度发达的声调语言，声调具有不可替代的区别词义之核心功能。音节的声母与韵母即便完全相同，若声调相异，所代表的汉字与概念亦截然不同，失之毫厘谬以千里。\n\n一、普通话四大基本声调与五度标记法调值体系：\n1. 第一声（阴平，调值 55 高平调）：发音时音高始终保持在最高点 5 度，声音高亢平稳且持续饱满，气息平稳均匀，如汉字「妈」、「三」、「高」、「飞」、「天」。\n2. 第二声（阳平，调值 35 中升调）：发音由中等音高 3 度平滑上升至最高点 5 度，音势微扬向上，如爬坡般持续升起，如汉字「麻」、「十」、「国」、「白」、「来」。\n3. 第三声（上声，调值 214 降升调）：单念时音高由次低音 2 度先平缓降至最低音 1 度，再强劲扬升至次高音 4 度，波折分明，如汉字「马」、「我」、「好」、「水」、「北」。\n4. 第四声（去声，调值 51 全降调）：发音由最高音 5 度迅猛垂直骤降至最低音 1 度，短促有力、坚决果断，如高山流水一落千丈，如汉字「骂」、「大」、「去」、「对」、「看」。\n\n二、经典同音四声辨析范例：\n普通话以声调区分词义的典型体现：mā（妈，母亲） -> má（麻，亚麻） -> mǎ（马，骏马） -> mà（骂，责备）。四个字声韵完全相同，但声调各异，含义完全独立。\n\n三、轻声的发音本质与常见规律：\n轻声是普通话音节在语流连读时产生的一种特殊的音变弱化现象，发音特点是音长显著变短、音强显著减弱，拼写时不标注调号：\n1. 重叠亲属称谓词的后一音节：如「妈妈」、「爸爸」、「哥哥」、「姐姐」、「弟弟」、「妹妹」。\n2. 常用语法虚词与结构助词：如助词「你的」、「吃了」、「看着」、「走吧」、「好吗」。\n3. 常用名词后缀：如「桌子」、「石头」、「木头」、「朋友们」、「学生们」。\n\n四、声调符号标调位置口诀：\n汉语拼音标注声调符号严格遵循主元音响度顺序：「有 ɑ 不放过，没 ɑ 找 o e；i u 并列标在后，单个韵母不用说。」（例如 bái 标在 ɑ 上，duō 标在 o 上，guì 标在 i 上，liù 标在 u 上）。",
+            "explanation": "Mandarin Chinese is a **tonal language**. The exact same syllable pronounced with different pitch contours has completely different meanings!\n\n### 1. The 4 Mandarin Tones (四声)\nWe visualize tones using the 5-point pitch scale (1 lowest, 5 highest):\n- **1st Tone (第一声 / 阴平 - High Level 55)**: **ā** (e.g. **mā 妈** = mother) — High, steady, sustained pitch like a singing note \"laaa\".\n- **2nd Tone (第二声 / 阳平 - High Rising 35)**: **á** (e.g. **má 麻** = hemp) — Starts mid and rises sharply to high, like asking \"What?!\".\n- **3rd Tone (第三声 / 上声 - Low Dipping 214)**: **ǎ** (e.g. **mǎ 马** = horse) — Drops down to low pitch and rises slightly.\n- **4th Tone (第四声 / 去声 - High Falling 51)**: **à** (e.g. **mà 骂** = to scold) — Starts at top pitch (5) and drops sharply and decisively to bottom (1), like a firm command \"Stop!\".\n\n### 2. The Neutral Tone (轻声 - 5th Tone)\n- A short, light, unstressed syllable with no tone mark (e.g. **ma 吗** = question particle, **bàba 爸爸** = father, **māma 妈妈** = mother).\n\n### 3. Classic Tone Minimal Quadruplet\n- **mā (妈)** → Mother\n- **má (麻)** → Hemp\n- **mǎ (马)** → Horse\n- **mà (骂)** → Scold\n- **ma (吗)** → Question marker",
             "examples": [
                 {
-                    "target": "妈妈骑马，马慢，妈妈骂马。(Māma qí mǎ, mǎ màn, māma mà mǎ.)",
-                    "reading": "[ˈma˥.ma t͡ɕʰi˧˥ ma˨˩˦, ma˨˩˦ man˥˩, ˈma˥.ma ma˥˩ ma˨˩˦] (Mā-ma qí mǎ, mǎ màn, mā-ma mà mǎ.)",
-                    "translation": "Mom rides a horse; the horse is slow; Mom scolds the horse."
+                    "target": "mā (妈)",
+                    "reading": "mā",
+                    "translation": "mother (1st tone, high flat 55)"
                 },
                 {
-                    "target": "哥哥的桌子 (gēge de zhuōzi)",
-                    "reading": "[ˈkɤ˥.kɤ tɤ ˈt͡swɔ˥.t͡sɨ] (gē-ge de zhuō-zi)",
-                    "translation": "Elder brother's table"
+                    "target": "má (麻)",
+                    "reading": "má",
+                    "translation": "hemp (2nd tone, rising 35)"
                 },
                 {
-                    "target": "我的朋友 (wǒ de péngyou)",
-                    "reading": "[wɔ˨˩ tɤ ˈpʰɤŋ˧˥.joʊ] (wǒ de péng-you)",
-                    "translation": "My friend"
+                    "target": "mǎ (马)",
+                    "reading": "mǎ",
+                    "translation": "horse (3rd tone, dipping 214)"
                 },
                 {
-                    "target": "八百把刀 (bā bǎi bǎ dāo)",
-                    "reading": "[pa˥ paɪ̯˧˥ pa˨˩˦ taʊ̯˥] (bā bǎi bǎ dāo)",
-                    "translation": "Eight hundred knives"
+                    "target": "mà (骂)",
+                    "reading": "mà",
+                    "translation": "to scold (4th tone, falling 51)"
                 }
             ],
             "mnemonics": [
-                "一声高平 55 像条线，二声上升 35 爬上山，三声下坡又上坡 214 转个弯，四声下降 51 往下窜！"
+                "1st tone = High flat robot voice. 2nd tone = Questioning \"Huh?\". 3rd tone = Thoughtful \"Well...\". 4th tone = Decisive \"No!\""
             ],
             "culturalNotes": [
-                "著名语言学家赵元任先生创立的「五度制调值标记法」，将人类发音自然音域划分为 1 至 5 度，精准刻画了汉语四声的音高轨迹，现已被国际语音学界广泛采纳。"
+                "Tonal accuracy is essential for clear communication in Chinese. In poetry and classical opera, tonal balance (平仄 - Ping Ze) governs poetic meter and musical aesthetics."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "在普通话声调中，调值为「51（高降调）」的声调是哪一个？",
+                    "prompt": "Which tone in Standard Mandarin starts high at pitch level 5 and drops sharply to level 1 (51 falling contour)?",
                     "options": [
-                        "第四声（去声） (Fourth tone / Falling tone 51)",
-                        "第一声（阴平 55）",
-                        "第二声（阳平 35）",
-                        "第三声（上声 214）"
+                        "Fourth Tone (第四声 / 去声 - High Falling 51)",
+                        "First Tone (High Level 55)",
+                        "Second Tone (Rising 35)",
+                        "Third Tone (Dipping 214)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "第四声（去声）的五度调值为 51，发音特点是由最高度 5 迅速降到最低度 1，短促有力。"
+                    "explanation": "The 4th tone is a sharp, decisive falling pitch from 5 down to 1."
                 },
                 {
-                    "prompt": "关于拼音标调位置，复合韵母「iu」和「ui」的标调原则是：",
+                    "prompt": "In the classic syllable «ma», which tone corresponds to the meaning \"mother\" (妈)?",
                     "options": [
-                        "「i 和 u 并列标在后」：iu 标在 u 上，ui 标在 i 上。 (When i and u appear together, tone mark goes on the second letter)",
-                        "始终优先标在 i 上。",
-                        "始终优先标在 u 上。",
-                        "随机标注在第一个元音字母上。"
+                        "First tone (mā - 妈)",
+                        "Second tone (má - 麻)",
+                        "Third tone (mǎ - 马)",
+                        "Fourth tone (mà - 骂)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "按照标调口诀「i u 并列标在后」，在 iu 组合中标在 u 上（如 liù），在 ui 组合中标在 i 上（如 guì）。"
+                    "explanation": "«mā» in the 1st high level tone means \"mother\"."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "下列词语中，第二个音节属于「轻声」的是：",
+                    "prompt": "Which tone rises smoothly from mid-pitch (3) to high pitch (5), like an inquisitive English \"Really?\"",
                     "options": [
-                        "桌子 (zhuōzi) (Suffix -zi takes neutral tone)",
-                        "中国 (Zhōngguó)",
-                        "汉语 (Hànyǔ)",
-                        "学生 (xuéshēng)"
+                        "Second Tone (第二声 / 阳平 - High Rising 35)",
+                        "First Tone (55)",
+                        "Fourth Tone (51)",
+                        "Neutral Tone"
                     ],
                     "answerIndex": 0,
-                    "explanation": "名词后缀「子（zi）」在「桌子、椅子、杯子」等词中均弱化为轻声，读作 zhuōzi。"
+                    "explanation": "The 2nd tone is a rising pitch contour (35)."
                 },
                 {
-                    "prompt": "请选出声调调类顺序严格符合「一、二、三、四声」的一组词语：",
+                    "prompt": "What characterizes the Neutral Tone (轻声) in Mandarin Chinese words like «bàba» (爸爸)?",
                     "options": [
-                        "山 (shān) -> 羊 (yáng) -> 马 (mǎ) -> 大 (dà) (Tone sequence: 1st -> 2nd -> 3rd -> 4th)",
-                        "马 (mǎ) -> 山 (shān) -> 大 (dà) -> 羊 (yáng)",
-                        "羊 (yáng) -> 大 (dà) -> 山 (shān) -> 马 (mǎ)",
-                        "大 (dà) -> 马 (mǎ) -> 羊 (yáng) -> 山 (shān)"
+                        "It is pronounced light, short, and unstressed with no tone mark",
+                        "It is always the loudest syllable",
+                        "It is pronounced identical to 1st tone",
+                        "It cannot be spoken"
                     ],
                     "answerIndex": 0,
-                    "explanation": "山（shān，一声）、羊（yáng，二声）、马（mǎ，三声）、大（dà，四声），严格对应阴平、阳平、上声、去声。"
+                    "explanation": "The neutral tone is pronounced softly, shortly, and without stress."
                 }
             ]
         },
@@ -683,26 +693,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "下列哪一个句子的拼音声调标注完全正确且轻声处理得当？",
+                    "prompt": "Which tone mark represents the 3rd dipping tone (214) in Pinyin?",
                     "options": [
-                        "爸爸和妈妈去买西瓜。(Bàba hé māma qù mǎi xīguā.)",
-                        "Bàbà hé māmā qù mǎi xīguā.",
-                        "Bàba hè māma qú mài xǐguǎ.",
-                        "Bába hé mamá qū mài xīguà."
+                        "Carat / check mark: ǎ (e.g. mǎ)",
+                        "Macron flat line: ā",
+                        "Acute rising: á",
+                        "Grave falling: à"
                     ],
                     "answerIndex": 0,
-                    "explanation": "「Bàba」和「māma」后字为轻声，「hé」为二声，「qù」为四声，「mǎi」为三声，「xīguā」均为一声，标注完全准确。"
+                    "explanation": "The 3rd tone is written with a dipping mark (ˇ), as in «mǎ»."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "请输入表示「骏马」的第三声（上声）单字汉字（拼音为 mǎ）：",
+                    "prompt": "Type the Pinyin spelling for \"horse\" (m-a, 3rd tone mark or mǎ):",
                     "acceptedAnswers": [
-                        "马"
+                        "ma",
+                        "mǎ",
+                        "ma3"
                     ],
-                    "explanation": "汉字「马」读音为 mǎ，为普通话第三声（上声 214 调）。"
+                    "explanation": "«mǎ» (马) = horse."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "zh-u1-l3": {
@@ -710,89 +721,89 @@
         "subject": "mandarin",
         "unit": 1,
         "lessonNumber": 3,
-        "title": "核心音变规律：三声连读变调与「一」、「不」的音变规律 (Mandarin Tone Sandhi)",
+        "title": "核心音变规律：三声变调与「一」「不」的音变 (Tone Sandhi: 3rd Tone, Yī & Bù)",
         "level": "A1",
-        "objective": "掌握普通话最重要的音变规律：两个第三声连读变第二声、半三声规律，以及高频字「一」和「不」在不同语境下的变调法则。",
+        "objective": "Master Mandarin Tone Sandhi (音变), specifically 3rd + 3rd tone combinations and the automatic tonal shifts of 「不」 (Bù) and 「一」 (Yī).",
         "presentation": {
-            "explanation": "普通话在实际连续言语流动中，音节相连发音时受前后语音的相互制约与发音省力原则驱动，往往发生声调变化，此即「变调」现象。掌握变调是使普通话发音流畅、自然、地道的核心关键。\n\n一、三声相连连读变调规律：\n1. 两个第三声相连：前一个第三声音节必须变读为第二声（阳平 35 调），后一个第三声保持原调（214 调值转换为 35 加 214）。在书面拼写时依然标注原词本调，但口语发音必须按变调读出：\n- 你好（拼写作 nǐ hǎo，实际口语读作 ní hǎo）\n- 可以（拼写作 kě yǐ，实际口语读作 ké yǐ）\n- 水果（拼写作 shuǐ guǒ，实际口语读作 shuí guǒ）\n- 很好（拼写作 hěn hǎo，实际口语读作 hén hǎo）\n- 语法（拼写作 yǔ fǎ，实际口语读作 yú fǎ）\n- 手表（拼写作 shǒu biǎo，实际口语读作 shóu biǎo）\n\n2. 半三声（半上声）规则：\n当第三声音节位于第一声、第二声、第四声或轻声音节之前时，该第三声仅读出前半段的低平降势（调值由 214 简化为 21），后半段的扬升部分完全省略：\n- 北京（第三声在第一声前，实际读 Běi[21] + jīng[55]）\n- 语言（第三声在第二声前，实际读 yǔ[21] + yán[35]）\n- 好看（第三声在第四声前，实际读 hǎo[21] + kàn[51]）\n- 喜欢（第三声在第一声前，实际读 xǐ[21] + huān[55]）\n\n二、「一」的变调核心法则：\n1. 单念、位于词句末尾或表示序数时读本调第一声（阴平 55 调）：如「第一」、「一二三」、「统一」、「初一」。\n2. 在第四声音节前变读为第二声（阳平 35 调）：如「一个」、「一定」、「一次」、「一块」、「一片」。\n3. 在第一声、第二声、第三声音节前一律变读为第四声（去声 51 调）：如「一天」、「一年」、「一起」、「一本」、「一双」。\n\n三、「不」的变调核心法则：\n1. 单念或位于第一声、第二声、第三声音节前时，保持本调第四声（去声 51 调）：如「不行」、「不好」、「不高」、「不来」、「不吃」。\n2. 在第四声音节前一律变读为第二声（阳平 35 调）：如「不是」、「不对」、「不要」、「不必」、「不去」。\n3. 嵌在动词或补语中间时读轻声：如「去不去」、「对不起」、「差不多」、「好不好」。",
+            "explanation": "When syllables are spoken together in fluent Mandarin speech, certain tones automatically adjust their pitch for ease of articulation. This is called **Tone Sandhi (变调)**.\n\n### 1. The 3rd + 3rd Tone Rule\nWhen two 3rd tones occur consecutively, the **first 3rd tone changes to a 2nd tone** (35) in pronunciation (though its Pinyin spelling remains written as 3rd tone):\n- **nǐ (你 3rd) + hǎo (好 3rd) → pronounced [ní hǎo] (你好 Hello!)**\n- **kě (可 3rd) + yǐ (以 3rd) → pronounced [kéyǐ] (可以 can / okay)**\n- **shǒu (手 3rd) + biǎo (表 3rd) → pronounced [shóubiǎo] (手表 wristwatch)**\n\n### 2. The Tone Sandhi of 「不」 (Bù - No / Not)\n- Normally **4th tone**: **bù** (e.g. 不吃 bù chī - don't eat, 不想 bù xiǎng - don't want).\n- **Rule**: When followed by another **4th tone**, 「不」 changes to **2nd tone (bú)**:\n  - **bù + shì (是 4th) → bú shì (不是 is not)**\n  - **bù + duì (对 4th) → bú duì (不对 incorrect)**\n  - **bù + qù (去 4th) → bú qù (不去 not going)**\n\n### 3. The Tone Sandhi of 「一」 (Yī - One)\n- In isolation or counting: **1st tone (yī)** (e.g. 一二三 yī, èr, sān).\n- Before a **4th tone**: changes to **2nd tone (yí)** (e.g. **yí yàng 一样** = same, **yí dìng 一定** = definitely).\n- Before a **1st, 2nd, or 3rd tone**: changes to **4th tone (yì)** (e.g. **yì tiān 一天** = one day, **yì nián 一年** = one year, **yì qǐ 一起** = together).",
             "examples": [
                 {
-                    "target": "你好！我想买一个新鲜的水果。(Nǐ hǎo! Wǒ xiǎng mǎi yí gè xīnxiān de shuǐguǒ.)",
-                    "reading": "[ni˧˥ xaʊ˨˩˦! wɔ˨˩ ɕjɑŋ˧˥ maɪ̯˨˩˦ i˧˥ kɤ˥˩ ɕin˥.ɕjɛn˥ tɤ ʂweɪ̯˧˥ kwɔ˨˩˦] (Nǐ hǎo! Wǒ xiǎng mǎi yí gè xīn-xiān de shuǐ-guǒ.)",
-                    "translation": "Hello! I would like to buy a fresh fruit."
+                    "target": "nǐ hǎo (你好) -> [ní hǎo]",
+                    "reading": "nǐ hǎo",
+                    "translation": "Hello (3rd+3rd tone sandhi pronounced 2nd+3rd)"
                 },
                 {
-                    "target": "这不是一本普通的书。(Zhè bú shì yì běn pǔtōng de shū.)",
-                    "reading": "[ʈ͡ʂɤ˥˩ pu˧˥ ʂɨ˥˩ i˥˩ pən˨˩ pʰu˨˩.tʰʊŋ˥ tɤ ʂu˥] (Zhè bú shì yì běn pǔ-tōng de shū.)",
-                    "translation": "This is not an ordinary book."
+                    "target": "bú shì (不是)",
+                    "reading": "bú shì",
+                    "translation": "is not (不 changes to 2nd tone before 4th tone)"
                 },
                 {
-                    "target": "我们一起去北京。(Wǒmen yìqǐ qù Běijīng.)",
-                    "reading": "[wɔ˨˩.mən i˥˩.t͡ɕʰi˨˩˦ t͡ɕʰy˥˩ peɪ̯˨˩.t͡ɕiŋ˥] (Wǒ-men yì-qǐ qù Běi-jīng.)",
-                    "translation": "We go to Beijing together."
+                    "target": "yí yàng (一样)",
+                    "reading": "yí yàng",
+                    "translation": "the same (一 changes to 2nd tone before 4th tone)"
                 },
                 {
-                    "target": "对不对？很好！(Duì bu duì? Hěn hǎo!)",
-                    "reading": "[tweɪ̯˥˩ pu tweɪ̯˥˩? xən˧˥ xaʊ˨˩˦] (Duì bu duì? Hěn hǎo!)",
-                    "translation": "Right or wrong? Very good!"
+                    "target": "yì tiān (一天)",
+                    "reading": "yì tiān",
+                    "translation": "one day (一 changes to 4th tone before 1st tone)"
                 }
             ],
             "mnemonics": [
-                "两三相连前变二（你好读 ní hǎo）；「一」「不」遇到四声变二声（一个 yí gè，不是 bú shì）；「一」遇非四变四声（一天 yì tiān，一起 yì qǐ）！"
+                "Two 3rd tones in a row? The first one rises up into a 2nd tone! \"Bù\" meets a 4th tone? It bounces up to \"bú\"!"
             ],
             "culturalNotes": [
-                "在正式汉语拼音书写规范中，变调词语一般只标本调（如「你好」标 nǐ hǎo，「一个」标 yī gè），但初级教材为了帮助学习者发准口语，常直接标注变调后实际发音。"
+                "Tone sandhi happens instinctively in native Mandarin speech for rhythmic flow. In modern Pinyin publications, dictionary tone marks are often preserved while spoken output conforms to sandhi."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "在日常口语中，双音节词「你好」的实际发音声调变化为：",
+                    "prompt": "In the universal greeting «nǐ hǎo» (你好), how is the first syllable «nǐ» (3rd tone) actually pronounced in speech?",
                     "options": [
-                        "前字变为第二声：ní hǎo (3rd + 3rd sandhi becomes 2nd + 3rd)",
-                        "两字都变为第二声：ní háo",
-                        "后字变为第四声：nǐ hào",
-                        "前字保持第三声，后字变为轻声：nǐ hao"
+                        "As a 2nd rising tone [ní] (due to 3rd+3rd tone sandhi)",
+                        "As a 1st high flat tone [nī]",
+                        "As a 4th falling tone [nì]",
+                        "As a neutral tone [ni]"
                     ],
                     "answerIndex": 0,
-                    "explanation": "根据三声变调规则，两个第三声音节相连时，前字由 214 调变为第二声 35 调，即读作「ní hǎo」。"
+                    "explanation": "When two 3rd tones are adjacent, the first converts to a 2nd rising tone [ní hǎo]."
                 },
                 {
-                    "prompt": "在短语「不是」和「不同」中，否定词「不」的实际发音声调分别为：",
+                    "prompt": "When the negation word «不» (bù, 4th tone) is followed by a 4th tone syllable like «shì» (是), what tone does «不» change to?",
                     "options": [
-                        "「不是」读 bú（第二声），「不同」读 bù（第四声）。 (bù becomes bú before 4th tone shì, stays bù before 2nd tone tóng)",
-                        "两处都读第二声（bú shì, bú tóng）。",
-                        "两处都读第四声（bù shì, bù tóng）。",
-                        "「不是」读 bù，「不同」读 bú。"
+                        "Second tone (bú shì - 不是)",
+                        "First tone (bū shì)",
+                        "Third tone (bǔ shì)",
+                        "It stays 4th tone"
                     ],
                     "answerIndex": 0,
-                    "explanation": "「不」在第四声「是」前变读第二声（bú shì）；在非第四声「同（第二声）」前保持本调第四声（bù tóng）。"
+                    "explanation": "«不» changes to 2nd tone (bú) before any 4th tone syllable."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "在短语「一个苹果」和「一天时间」中，「一」的实际变调读音分别是：",
+                    "prompt": "How is the numeral «一» (yī) pronounced when combined with the 4th tone word «yàng» (样) in «一样» (the same)?",
                     "options": [
-                        "一个 (yí gè, 二声)，一天 (yì tiān, 四声) (yī becomes yí before 4th tone, becomes yì before 1st tone)",
-                        "一个 (yì gè)，一天 (yí tiān)",
-                        "两处均读第一声原调 (yī gè, yī tiān)",
-                        "两处均读第二声 (yí gè, yí tiān)"
+                        "yí yàng (changes to 2nd tone yí)",
+                        "yī yàng (stays 1st tone)",
+                        "yì yàng (changes to 4th tone)",
+                        "yi yàng (neutral tone)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "「个」是第四声，故「一」变读第二声 yí gè；「天」是第一声，故「一」变读第四声 yì tiān。"
+                    "explanation": "«一» changes to 2nd tone «yí» before a 4th tone."
                 },
                 {
-                    "prompt": "下列哪一个词语在前字发音时必须执行「三声变第二声」的变调？",
+                    "prompt": "Select the phrase that correctly demonstrates 3rd+3rd tone sandhi:",
                     "options": [
-                        "可以 (kěyǐ -> kéyǐ) (Both are 3rd tone, kě becomes ké)",
-                        "老师 (lǎoshī) (3rd + 1st tone)",
-                        "北方 (běifāng) (3rd + 1st tone)",
-                        "雨衣 (yǔyī) (3rd + 1st tone)"
+                        "kěyǐ (可以 can/okay -> pronounced [kéyǐ])",
+                        "dà rén (adult)",
+                        "bàba (father)",
+                        "bù chī (don't eat)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "「可以 (kě + yǐ)」两个音节均为第三声，故前字必须变调为第二声「kéyǐ」。"
+                    "explanation": "«kěyǐ» consists of two 3rd tones (kě + yǐ), pronounced [kéyǐ]."
                 }
             ]
         },
@@ -800,26 +811,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "请判断下列句子中「一」和「不」的变调标注完全正确的是哪一项？",
+                    "prompt": "Which rule explains why «不是» is pronounced [bú shì] rather than [bù shì]?",
                     "options": [
-                        "他一定不去参加会议。(Tā yí dìng bú qù cānjiā huìyì.)",
-                        "Tā yì dìng bù qù cānjiā huìyì.",
-                        "Tā yī dìng bù qù cānjiā huìyì.",
-                        "Tā yí dìng bù qù cānjiā huìyì."
+                        "The tone sandhi rule of 「不」 changing to 2nd tone before 4th tone",
+                        "The 3rd tone sandhi rule",
+                        "The neutral tone rule",
+                        "The retroflex rule"
                     ],
                     "answerIndex": 0,
-                    "explanation": "「定」与「去」均为第四声，其前面的「一」与「不」均须变调为第二声：yí dìng 与 bú qù。"
+                    "explanation": "«不» automatically changes to 2nd tone before 4th tone."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "请输入由两个第三声字组成的中国最经典日常问候语（汉字为「你好」）：",
+                    "prompt": "Type the Pinyin greeting for \"Hello\" (n-i-h-a-o or nǐ hǎo):",
                     "acceptedAnswers": [
-                        "你好"
+                        "ni hao",
+                        "nihao",
+                        "nǐ hǎo",
+                        "nǐhǎo"
                     ],
-                    "explanation": "汉字「你好」由两个第三声字（nǐ + hǎo）构成，实际口语中前字变调读作「ní hǎo」。"
+                    "explanation": "«nǐ hǎo» (你好) = Hello."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "zh-u1-l4": {
@@ -827,89 +840,89 @@
         "subject": "mandarin",
         "unit": 1,
         "lessonNumber": 4,
-        "title": "基础日常问候与敬称：你好、您好与师生交际礼节 (Daily Greetings & Honorifics)",
+        "title": "基础日常问候与敬称：你好、您好与交际礼节 (Daily Greetings & Honorifics)",
         "level": "A1",
-        "objective": "掌握普通话日常问候语（你好/您好/早上好/老师好）、人称敬称区分以及基础近况询问（你好吗/我很好）的语用交际场景。",
+        "objective": "Master everyday spoken greetings (Nǐ hǎo, Nín hǎo, Nǐmen hǎo, Lǎoshī hǎo), time-of-day greetings (Zǎoshang hǎo), and interpersonal honorific etiquette.",
         "presentation": {
-            "explanation": "汉语问候语体系深刻凝聚了中华传统文化中注重人伦秩序、尊师重道、尊长爱幼与谦逊和睦的礼仪精神，在人际交往中具有核心语用地位：\n\n一、核心问候语与人称敬称的严格分野：\n1. 「你好！」：适用范围最广泛的普适性日常问候语，主要用于平辈同侪、普通朋友、同事以及同龄初识者之间。\n2. 「您好！」：专用尊称敬语。「您」字在结构上由「你」字底置「心」字构成，表征「由衷将对方放在心上」。专用于长辈、师长、尊长领导或商业客户，表达庄重尊敬。\n3. 「你们好！」：用于面向两位或两位以上群体时的复数问候。\n\n二、「称谓 + 好」定向问候句式：\n在中文正式社交与校园礼节中，面对特定长辈或职场人士，最得体规范的问候是将身份称谓置于「好」字之前：\n- 老师好！（问候授课教师与学者）\n- 王经理好！（问候职场上级与商务伙伴）\n- 叔叔好！ / 阿姨好！（问候长辈亲友）\n- 大家好！（面向全体听众与同仁的开场问候）\n\n三、基于时间维度的日常礼貌问候：\n1. 早上好 / 早！（清晨问候，熟人之间单道一声「早」格外亲切自然）\n2. 下午好！（午后商务与日常工作问候）\n3. 晚上好！（傍晚及夜间聚会、晚间课程问候）\n\n四、近况询问与经典应答会话闭环：\n- 问：你好吗？（「吗」为是非疑问语气助词，用于询问对方近期生活与身体状况）\n- 答：我很好，谢谢！你呢？（先表述自身良好状态，再行礼貌致谢，继而使用「呢」字承前反问对方状况）\n- 答：我也很好。（副词「也」作为状语，必须置于主语之后、形容词谓语「很好」之前，表示情况相同）。",
+            "explanation": "Now we apply our phonetics and tones to standard Chinese greetings in everyday life and academic/professional settings.\n\n### 1. The Core Greetings\n- **你好 (nǐ hǎo)** → **Hello!** (The universal everyday greeting among peers and equals)\n- **您好 (nín hǎo)** → **Hello (respectful / honorific)** (Used for teachers, elders, superiors, and esteemed clients; 「您」 adds the heart radical 心 to 你)\n- **你们好 (nǐmen hǎo)** → **Hello everyone! / Hello you all!** (Plural)\n- **大家好 (dàjiā hǎo)** → **Hello everybody!**\n\n### 2. Role-Based Greetings\nIn Chinese culture, greeting someone by their title or profession is a mark of high respect:\n- **老师好 (lǎoshī hǎo)** → **Hello, Teacher!**\n- **王老师好 (Wáng lǎoshī hǎo)** → **Hello, Teacher Wang!**\n- **李经理好 (Lǐ jīnglǐ hǎo)** → **Hello, Manager Li!**\n\n### 3. Time-of-Day Greetings\n- **早上好 (zǎoshang hǎo)** / **早 (zǎo)** → **Good morning!**\n- **下午好 (xiàwǔ hǎo)** → **Good afternoon!**\n- **晚上好 (wǎnshang hǎo)** → **Good evening!**\n- **晚安 (wǎn'ān)** → **Good night!**",
             "examples": [
                 {
-                    "target": "张老师，您好！早上好！(Zhāng lǎoshī, nín hǎo! Zǎoshang hǎo!)",
-                    "reading": "[ʈ͡ʂɑŋ˥ laʊ˨˩.ʂɨ˥, nin˧˥ xaʊ˨˩˦! t͡saʊ˨˩.ʂaŋ xaʊ˨˩˦] (Zhāng lǎo-shī, nín hǎo! Zǎo-shang hǎo!)",
-                    "translation": "Teacher Zhang, hello (respectful)! Good morning!"
+                    "target": "你好！",
+                    "reading": "Nǐ hǎo!",
+                    "translation": "Hello! (standard greeting)"
                 },
                 {
-                    "target": "同学们好！大家请坐。(Tóngxuémen hǎo! Dàjiā qǐng zuò.)",
-                    "reading": "[tʰʊŋ˧˥.ɕɥɛ˧˥.mən xaʊ˨˩˦! ta˥˩.t͡ɕja˥ t͡ɕʰiŋ˨˩ t͡swɔ˥˩] (Tóng-xué-men hǎo! Dà-jiā qǐng zuò.)",
-                    "translation": "Hello, students! Everyone please sit down."
+                    "target": "您好，王老师！",
+                    "reading": "Nín hǎo, Wáng lǎoshī!",
+                    "translation": "Hello, Teacher Wang! (respectful honorific)"
                 },
                 {
-                    "target": "——你好吗？——我很好，谢谢，你呢？(—Nǐ hǎo ma? —Wǒ hěn hǎo, xièxie, nǐ ne?)",
-                    "reading": "[—ni˧˥ xaʊ˨˩˦ ma? —wɔ˨˩ xən˧˥ xaʊ˨˩˦, ɕjɛ˥˩.ɕjɛ, ni˨˩˦ nɤ?] (—Nǐ hǎo ma? —Wǒ hěn hǎo, xiè-xie, nǐ ne?)",
-                    "translation": "—How are you? —I am very well, thank you, and you?"
+                    "target": "大家早上好！",
+                    "reading": "Dàjiā zǎoshang hǎo!",
+                    "translation": "Good morning, everyone!"
                 },
                 {
-                    "target": "我也很好，很高兴认识你！(Wǒ yě hěn hǎo, hěn gāoxìng rènshi nǐ!)",
-                    "reading": "[wɔ˨˩ jɛ˨˩ xən˧˥ xaʊ˨˩˦, xən˨˩ kaʊ̯˥.ɕiŋ˥˩ ʐən˥˩.ʂɨ ni˨˩˦] (Wǒ yě hěn hǎo, hěn gāo-xìng rèn-shi nǐ!)",
-                    "translation": "I am also very well, very glad to meet you!"
+                    "target": "晚安！",
+                    "reading": "Wǎn'ān!",
+                    "translation": "Good night!"
                 }
             ],
             "mnemonics": [
-                "长辈师长用「您好」，平辈朋友用「你好」；称谓在前好在后（老师好），心存敬意礼节高！"
+                "「您」 (nín) is 「你」 (nǐ) with 「心」 (xīn - heart) below it — putting the person in your heart with respect!"
             ],
             "culturalNotes": [
-                "在传统中国师生关系中，「尊师重道」至为关键。学生见到老师通常必须使用「老师好」或「您好」，直呼其名或使用平辈的「你好」会被视作不合礼仪。"
+                "In China, addressing elders and teachers directly by their given name without title is considered impolite. Using Title + Hǎo (e.g. 老师好) establishes immediate warmth and respect."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "在大学校园中初次见到授课教授时，最得体、最礼貌的中文问候语是：",
+                    "prompt": "Which greeting is the respectful honorific form of \"Hello\" used when addressing a teacher, elder, or client in China?",
                     "options": [
-                        "教授，您好！ (Professor, hello [respectful]!)",
-                        "喂，你好！",
-                        "老头好！",
-                        "你叫什么名字？"
+                        "您好 (nín hǎo - respectful Hello)",
+                        "你好 (nǐ hǎo - standard Hello)",
+                        "晚安 (wǎn'ān - Good night)",
+                        "再见 (zàijiàn - Goodbye)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "对师长使用尊称「您好」或「职务/称谓 + 您好」是中文中标准而得体的礼貌问候方式。"
+                    "explanation": "«您好» (*nín hǎo*) uses the honorific pronoun «您» to express respect."
                 },
                 {
-                    "prompt": "对方询问「你好吗？」时，最自然标准的礼貌回应结构是：",
+                    "prompt": "How do students respectfully greet their teacher at the start of class in Chinese?",
                     "options": [
-                        "我很好，谢谢！你呢？ (I am very well, thank you! And you?)",
-                        "我是学生，谢谢你。",
-                        "你很好，我也好。",
-                        "我不认识你。"
+                        "老师好！ (Lǎoshī hǎo! - Hello Teacher!)",
+                        "你早！",
+                        "拜拜！",
+                        "对不起！"
                     ],
                     "answerIndex": 0,
-                    "explanation": "标准回应模式为先回答自身状态「我很好」，致谢「谢谢」，再回问对方「你呢？」。"
+                    "explanation": "«老师好！» (*Lǎoshī hǎo!*) is the standard respectful student-to-teacher greeting."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "清晨遇到邻居或同事时，最简洁亲切的中文问候是：",
+                    "prompt": "Select the Chinese greeting meaning \"Good morning!\":",
                     "options": [
-                        "早！ / 早上好！ (Zǎo! / Zǎoshang hǎo!)",
-                        "晚安！",
-                        "下午好！",
-                        "再见！"
+                        "早上好 (zǎoshang hǎo - Good morning)",
+                        "晚上好 (wǎnshang hǎo - Good evening)",
+                        "下午好 (xiàwǔ hǎo - Good afternoon)",
+                        "晚安 (wǎn'ān - Good night)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "清晨时分汉语常用「早上好」或单字「早！」进行亲切问候。"
+                    "explanation": "«早上好» (*zǎoshang hǎo*) means \"Good morning!\"."
                 },
                 {
-                    "prompt": "在句子「我也很好」中，副词「也」的正确语序位置是：",
+                    "prompt": "When addressing a group of friends or classmates together, which greeting means \"Hello everyone! / Hello you all!\"?",
                     "options": [
-                        "紧跟在主语「我」之后，形容词谓语「很好」之前。 (Placed directly after subject and before predicate)",
-                        "放在句子的最开头：也我很好。",
-                        "放在句子的最末尾：我很好也。",
-                        "放在「很」和「好」之间：我很也好。"
+                        "你们好 / 大家好 (nǐmen hǎo / dàjiā hǎo)",
+                        "您好 (nín hǎo)",
+                        "早 (zǎo)",
+                        "再见 (zàijiàn)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "在汉语语法中，副词「也」作为状语，必须位于主语之后、谓语成分之前。"
+                    "explanation": "«你们好» and «大家好» are used for greeting multiple people."
                 }
             ]
         },
@@ -917,26 +930,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "请选出下列对话中语序与语用逻辑完全正确的一组：",
+                    "prompt": "What does the phrase «晚上好» mean in English?",
                     "options": [
-                        "甲：王老师，您好！ 乙：你好，李华！早上好！",
-                        "甲：王老师，你呢！ 乙：我也老师好！",
-                        "甲：您好吗王老师？ 乙：我是好谢谢！",
-                        "甲：大家早！ 乙：不客气对不起！"
+                        "Good evening",
+                        "Good morning",
+                        "Good afternoon",
+                        "Goodbye"
                     ],
                     "answerIndex": 0,
-                    "explanation": "学生对老师使用敬称「您好」，老师对学生亲切回复「你好」并道「早上好」，完全符合语用礼仪。"
+                    "explanation": "«晚上好» (*wǎnshang hǎo*) means \"Good evening\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "请输入由「你」加上「心」字底构成的第二人称尊称汉字（拼音为 nín）：",
+                    "prompt": "Type the Pinyin for \"Good morning\" (z-a-o-s-h-a-n-g-h-a-o or zǎoshang hǎo):",
                     "acceptedAnswers": [
-                        "您"
+                        "zaoshang hao",
+                        "zaoshanghao",
+                        "zǎoshang hǎo",
+                        "zǎoshanghǎo"
                     ],
-                    "explanation": "汉字「您」为「你」的敬称，用于长辈、师长或客户，表示由衷尊敬。"
+                    "explanation": "«zǎoshang hǎo» (早上好) = Good morning."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "zh-u1-l5": {
@@ -944,89 +959,89 @@
         "subject": "mandarin",
         "unit": 1,
         "lessonNumber": 5,
-        "title": "日常礼貌应答、致谢道歉与道别用语 (Polite Expressions & Conversational Etiquette)",
+        "title": "致谢、道歉、礼貌应答与道别 (Gratitude, Apologies & Farewell Etiquette)",
         "level": "A1",
-        "objective": "掌握中文核心礼貌用语（谢谢/不客气、对不起/没关系、请/请问）以及各类道别表达（再见/明天见/回头见）的完整交际闭环。",
+        "objective": "Master expressions of gratitude (Xièxie, Bú kèqi), apologies (Duìbuqǐ, Méi guānxi), requests (Qǐng), and farewells (Zàijiàn, Míngtiān jiàn).",
         "presentation": {
-            "explanation": "中文日常人际交往极度强调礼尚往来与谦和体谅，掌握致谢、道歉、请求与道别的成对礼貌应答体系，是构建良好和谐交际关系的基石：\n\n一、致谢与礼貌应答的完整交际闭环：\n1. 表达感谢：\n- 谢谢！（最通用的基础道谢）\n- 谢谢你！ / 谢谢您！（定向致谢，对师长长辈用「您」）\n- 非常感谢！ / 十分感谢！（程度更深的真挚感谢）\n- 太感谢你了！（充满由衷感叹语气的诚挚谢意）\n2. 礼貌应答（用以消除对方的心理负担与亏欠感）：\n- 不客气！（最标准的通用礼貌回应）\n- 不用谢！（亲切随和的回应）\n- 别客气！（劝慰对方不必过于拘谨客套）\n\n二、道歉与宽慰应答的完整交际闭环：\n1. 表达歉意：\n- 对不起！（语义较重，专用于造成实质性过失、延误或打扰时）\n- 不好意思！（语气柔和委婉，多用于轻度打扰、借光借过或提出微小请求时）\n2. 宽慰应答：\n- 没关系！（表示毫无大碍、完全无需挂怀的标准回应）\n- 没事！ / 没事儿！（口语中极其自然随和的宽慰用语）\n\n三、礼貌请求词「请」的高频应用模式：\n动词「请」置于动词动作之前，赋予整个句子以尊重谦逊的礼貌色彩：\n- 请进！（热情欢迎客人进门）\n- 请坐！（礼貌邀请客人就座）\n- 请喝茶！（中华传统待客礼节）\n- 请问...（问路、求助、咨询信息时的黄金开场敬语）\n\n四、丰富多样的道别表达体系：\n1. 再见！（最通用的道别语，字面含义为「再次相见」）\n2. 明天见！（次日继续相逢的职场与校园常用语）\n3. 一会儿见！（短暂离别后当天稍后即聚）\n4. 下周见！（周末告别时的周期性道别用语）。",
+            "explanation": "In this capstone lesson of Unit 1, you master the essential politeness formulas that navigate social interactions smoothly in Chinese culture.\n\n### 1. Expressing Gratitude (致谢) & Responding\n- **谢谢！ (xièxie!)** → **Thank you!**\n- **非常感谢！ (fēicháng gǎnxiè!)** → **Thank you very much!**\n- **多谢！ (duō xiè!)** → **Many thanks!**\n- **Responses (You're welcome)**:\n  - **不客气 (bú kèqi)** → **You are welcome!** (lit. \"Don't be formal / polite\")\n  - **不用谢 (bú yòng xiè)** → **No need to thank me!**\n\n### 2. Apologies (道歉) & Responding\n- **对不起 (duìbuqǐ)** → **I am sorry / Excuse me**\n- **抱歉 (bàoqiàn)** → **Sorry / My apologies (formal)**\n- **不好意思 (bù hǎoyìsi)** → **Excuse me / Sorry to bother you (gentle/casual)**\n- **Responses (No problem)**:\n  - **没关系 (méi guānxi)** → **It doesn't matter / That's fine / No problem**\n  - **没事 (méi shì)** → **It's nothing / No worries**\n\n### 3. Polite Requests: 请 (qǐng)\n- **请进 (qǐng jìn)** → Please come in\n- **请坐 (qǐng zuò)** → Please sit down\n- **请问 (qǐng wèn)** → May I ask / Excuse me (before asking a question)\n\n### 4. Farewells (道别)\n- **再见 (zàijiàn)** → **Goodbye** (lit. \"Again see\")\n- **明天见 (míngtiān jiàn)** → **See you tomorrow**\n- **一会儿见 (yíhuìr jiàn)** → **See you in a bit**\n- **慢走 (màn zǒu)** → **Take care / Walk slowly (said by host to departing guests)**",
             "examples": [
                 {
-                    "target": "——太感谢你了！——不客气，这是我应该做的。(—Tài gǎnxiè nǐ le! —Bú kèqi, zhè shì wǒ yīnggāi zuò de.)",
-                    "reading": "[—tʰaɪ̯˥˩ kan˨˩.ɕjɛ˥˩ ni˨˩˦ lɤ! —pu˧˥ kʰɤ˥˩.t͡ɕʰi, ʈ͡ʂɤ˥˩ ʂɨ˥˩ wɔ˨˩ iŋ˥.kaɪ̯ t͡swɔ˥˩ tɤ] (—Tài gǎn-xiè nǐ le! —Bú kè-qi, zhè shì wǒ yīng-gāi zuò de.)",
-                    "translation": "—Thank you so much! —You're welcome, this is what I should do."
+                    "target": "谢谢你！— 不客气！",
+                    "reading": "Xièxie nǐ! — Bú kèqi!",
+                    "translation": "Thank you! — You are welcome!"
                 },
                 {
-                    "target": "——对不起，我迟到了。——没关系，请进！(—Duìbuqǐ, wǒ chídào le. —Méi guānxi, qǐng jìn!)",
-                    "reading": "[—tweɪ̯˥˩.pu.t͡ɕʰi˨˩˦, wɔ˨˩ ʈ͡ʂʰi˧˥.taʊ̯˥˩ lɤ. —meɪ̯˧˥ kwan˥.ɕi, t͡ɕʰiŋ˨˩ t͡ɕin˥˩!] (—Duì-bu-qǐ, wǒ chí-dào le. —Méi guān-xi, qǐng jìn!)",
-                    "translation": "—I'm sorry, I'm late. —It doesn't matter, please come in!"
+                    "target": "对不起！— 没关系！",
+                    "reading": "Duìbuqǐ! — Méi guānxi!",
+                    "translation": "I'm sorry! — It doesn't matter / That's fine!"
                 },
                 {
-                    "target": "请问，图书馆在哪里？(Qǐngwèn, túshūguǎn zài nǎlǐ?)",
-                    "reading": "[t͡ɕʰiŋ˨˩.wən˥˩, tʰu˧˥.ʂu˥.kwan˨˩˦ t͡saɪ̯˥˩ na˧˥.li˨˩˦?] (Qǐng-wèn, tú-shū-guǎn zài nǎ-lǐ?)",
-                    "translation": "Excuse me, where is the library?"
+                    "target": "请问，洗手间在哪里？",
+                    "reading": "Qǐngwèn, xǐshǒujiān zài nǎlǐ?",
+                    "translation": "Excuse me, where is the restroom?"
                 },
                 {
-                    "target": "今天很高兴，我们明天见！(Jīntiān hěn gāoxìng, wǒmen míngtiān jiàn!)",
-                    "reading": "[t͡ɕin˥.tʰjɛn˥ xən˨˩ kaʊ̯˥.ɕiŋ˥˩, wɔ˨˩.mən miŋ˧˥.tʰjɛn˥ t͡ɕjɛn˥˩!] (Jīn-tiān hěn gāo-xìng, wǒ-men míng-tiān jiàn!)",
-                    "translation": "Very happy today, see you tomorrow!"
+                    "target": "明天见！— 再见！",
+                    "reading": "Míngtiān jiàn! — Zàijiàn!",
+                    "translation": "See you tomorrow! — Goodbye!"
                 }
             ],
             "mnemonics": [
-                "谢谢对不客气，对不起配没关系；礼貌问路用「请问」，道别相期「明天见」！"
+                "再见 literally means \"Again (再) See (见)\"! 不客气 means \"Don't (不) act like a Guest (客) with formal Manners (气)\"!"
             ],
             "culturalNotes": [
-                "汉字「再见」由「再（again）」和「见（see）」组成，蕴含着对未来再次相遇的期盼，比单纯的离开更具人情温度。"
+                "Saying «慢走» (*màn zǒu* - walk slowly) is a traditional Chinese host farewell wishing safety and showing reluctance to part with the guest."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "当别人向你真诚道谢说「谢谢你！」时，最得体的礼貌回应是：",
+                    "prompt": "When someone thanks you with «谢谢» (xièxie), what is the standard polite response meaning \"You are welcome!\"?",
                     "options": [
-                        "不客气！ / 不用谢！ (Bú kèqi! / Bú yòng xiè! - You're welcome!)",
-                        "对不起！",
-                        "没关系！",
-                        "再见！"
+                        "不客气 / 不用谢 (Bú kèqi / Bú yòng xiè - You're welcome)",
+                        "对不起 (Duìbuqǐ - I'm sorry)",
+                        "再见 (Zàijiàn - Goodbye)",
+                        "早上好 (Zǎoshang hǎo - Good morning)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "回应感谢的固定礼貌用语是「不客气」或「不用谢」，而「没关系」是用于回应道歉的。"
+                    "explanation": "«不客气» (*bú kèqi*) is the universal polite response to \"thank you\"."
                 },
                 {
-                    "prompt": "如果不小心踩到了别人的脚，最准确表达歉意的句子是：",
+                    "prompt": "What is the correct forgiving response when someone apologizes to you with «对不起» (duìbuqǐ)?",
                     "options": [
-                        "对不起！ / 不好意思！ (Duìbuqǐ! / Bù hǎoyìsi! - I am sorry!)",
-                        "没关系！",
-                        "不客气！",
-                        "谢谢你！"
+                        "没关系 / 没事 (Méi guānxi / Méi shì - It doesn't matter / No problem)",
+                        "不客气 (You're welcome)",
+                        "谢谢 (Thank you)",
+                        "你好 (Hello)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "发生过失时应主动表达歉意「对不起」或「不好意思」，受影响的一方才会回答「没关系」。"
+                    "explanation": "«没关系» (*méi guānxi*) means \"It doesn't matter / No problem\"."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "在向陌生路人询问地铁站位置前，最礼貌的起首敬语是：",
+                    "prompt": "Select the polite phrase used to preface a question (\"May I ask... / Excuse me...\"):",
                     "options": [
-                        "请问... (Qǐngwèn... - Excuse me, may I ask...)",
-                        "谢谢...",
-                        "对不起...",
-                        "没关系..."
+                        "请问 (qǐngwèn - May I ask...)",
+                        "对不起 (duìbuqǐ - I'm sorry)",
+                        "再见 (zàijiàn - Goodbye)",
+                        "慢走 (màn zǒu - Walk slowly)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "向人打听信息或问路时，句首使用「请问（Qǐngwèn）」是最标准地道的中文礼貌表达。"
+                    "explanation": "«请问» (*qǐngwèn*) literally means \"Please ask\" and is used before asking for directions or information."
                 },
                 {
-                    "prompt": "同事下班离开办公室时，如果约定好第二天上班碰面，最自然的道别是：",
+                    "prompt": "Which phrase means \"See you tomorrow!\" in Chinese?",
                     "options": [
-                        "明天见！ (Míngtiān jiàn! - See you tomorrow!)",
-                        "不客气！",
-                        "请问！",
-                        "对不起！"
+                        "明天见 (míngtiān jiàn - See you tomorrow)",
+                        "再见 (zàijiàn - Goodbye)",
+                        "一会儿见 (yíhuìr jiàn - See you in a bit)",
+                        "谢谢 (xièxie - Thank you)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "「明天见」直接指明次日相聚，是在职场和学校中最自然亲切的道别语。"
+                    "explanation": "«明天见» (*míngtiān jiàn*) means \"See you tomorrow\"."
                 }
             ]
         },
@@ -1034,26 +1049,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "选出下列日常交际对话中回应搭配完全正确的一项：",
+                    "prompt": "What does the Chinese farewell «再见» (*zàijiàn*) literally mean?",
                     "options": [
-                        "甲：非常感谢您的帮助！ 乙：不客气，不用谢！",
-                        "甲：非常感谢您的帮助！ 乙：对不起，没关系！",
-                        "甲：对不起，我来晚了！ 乙：不客气，请坐吧！",
-                        "甲：明天见！ 乙：我也很好，谢谢！"
+                        "See you again (Again-See)",
+                        "Good morning",
+                        "Thank you",
+                        "Go with peace"
                     ],
                     "answerIndex": 0,
-                    "explanation": "对「感谢」回应「不客气 / 不用谢」，完全符合汉语标准交际应答规则。"
+                    "explanation": "«再见» is composed of 再 (again) + 见 (see)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "请输入由两个相同汉字组成的中文最常用道谢词（拼音为 xièxie）：",
+                    "prompt": "Type the Pinyin for \"Thank you\" (x-i-e-x-i-e or xièxie):",
                     "acceptedAnswers": [
-                        "谢谢"
+                        "xiexie",
+                        "xièxie",
+                        "xie xie",
+                        "xiè xie"
                     ],
-                    "explanation": "汉字「谢谢」是中文中最基础、最通用的表达感谢的词汇。"
+                    "explanation": "«xièxie» (谢谢) = Thank you."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "zh-u2-l1": {

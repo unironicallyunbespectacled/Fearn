@@ -485,57 +485,89 @@
         "subject": "hindi",
         "unit": 1,
         "lessonNumber": 1,
-        "title": "देवनागरी लिपि का परिचय, स्वर-मात्राएं और बुनियादी अभिवादन",
+        "title": "देवनागरी लिपि का परिचय: स्वर, मात्राएँ और शिरोरेखा (Devanagari Vowels & Matras)",
         "level": "A1",
-        "objective": "Devanagari Script, Inherent Vowels & Greetings: Learn the Devanagari Abugida, shirorekha (top hanging line), inherent 'a' sound, and greetings (Namaste, Namaskar).",
+        "objective": "Master the phonetic Devanagari script (देवनागरी), the 11 independent vowels (स्वर), their corresponding vowel diacritics (मात्राएँ), and the hanging top line (शिरोरेखा).",
         "presentation": {
-            "explanation": "Welcome to Hindi (हिन्दी)! Hindi is written from left to right in the **Devanagari (देवनागरी)** script, characterized by the horizontal top line called **Shirorekha (शिरोरेखा)** from which letters hang. Devanagari is an **Abugida (alphasyllabary)**: each consonant symbol has an inherent short vowel sound /a/ (e.g. क = ka, म = ma, ल = la). To modify the vowel, dependent vowel marks (matras) are attached (e.g. का = kā, कि = ki, की = kī, कु = ku, कू = kū, के = ke, को = ko). A Virama/Halant (्) suppresses the inherent vowel (e.g. क् = k). Hindi consonants feature a 4-way contrast: unaspirated unvoiced (क/k), aspirated unvoiced (ख/kh), unaspirated voiced (ग/g), and aspirated voiced (घ/gh). The universal respectful greeting across India is «नमस्ते» (*Namaste*) or «नमस्कार» (*Namaskār* - lit. \"I bow to the divine in you\"), spoken with hands pressed together at the chest.",
+            "explanation": "नमस्ते और हिंदी में आपका स्वागत है! Welcome to Hindi (हिंदी)! Hindi is written from left to right in **Devanagari (देवनागरी)**, one of the most scientifically organized phonetic writing systems in the world. Characters hang from a horizontal top line called the **शिरोरेखा (Shirorekha)**.\n\n### 1. The 11 Independent Vowels (स्वर) & Their Matras (मात्राएँ)\nEvery consonant in Devanagari has an **inherent short [a] vowel**. When other vowels attach to consonants, they are written as **Matras**:\n- **अ** [a] — Inherent vowel (no matra, e.g. **क** = ka)\n- **आ** [ā] — **ा** (long \"aa\", e.g. **का** = kā)\n- **इ** [i] — **ि** (short \"i\", written **BEFORE** the consonant, e.g. **कि** = ki)\n- **ई** [ī] — **ी** (long \"ee\", written AFTER the consonant, e.g. **की** = kī)\n- **उ** [u] — **ु** (short \"u\", bottom loop, e.g. **कु** = ku)\n- **ऊ** [ū] — **ू** (long \"oo\", bottom tail, e.g. **कू** = kū)\n- **ऋ** [ṛ] — **ृ** (vocalic \"ri\", e.g. **कृ** = kṛ)\n- **ए** [e] — **े** (long \"ay\", top stroke, e.g. **के** = ke)\n- **ऐ** [ai] — **ै** (diphthong \"ai\", double top stroke, e.g. **कै** = kai)\n- **ओ** [o] — **ो** (long \"oh\", e.g. **को** = ko)\n- **औ** [au] — **ौ** (diphthong \"au\", e.g. **कौ** = kau)\n\n### 2. Nasal & Breathing Marks\n- **अनुस्वार (Anusvara ं)**: Dot above the top line for nasalization (e.g. **हिंदी** = Hindī, **रंग** = rang / color).\n- **चंद्रबिंदु (Chandrabindu ँ)**: Crescent and dot for true nasal vowels (e.g. **माँ** = mā̃ / mother, **हूँ** = hū̃ / am).\n- **विसर्ग (Visarga ः)**: Colon-like dots representing an unvoiced breath release [h] (e.g. **अतः** = ataḥ).",
             "examples": [
                 {
-                    "target": "नमस्ते! आप कैसे हैं?",
-                    "reading": "Namaste! Āp kaise haiṅ?",
-                    "translation": "Hello / Greetings! How are you (formal/polite)?"
+                    "target": "माँ",
+                    "reading": "mā̃",
+                    "translation": "mother (म [m] + ा [aa] + ँ [chandrabindu])"
                 },
                 {
-                    "target": "सुप्रभात! आपका दिन शुभ हो।",
-                    "reading": "Suprabhāt! Āpkā din śubh ho.",
-                    "translation": "Good morning! Have an auspicious day."
+                    "target": "हिंदी",
+                    "reading": "hindī",
+                    "translation": "Hindi (ह [h] + ि [i] + ं [n] + द [d] + ी [ee])"
+                },
+                {
+                    "target": "पानी",
+                    "reading": "pānī",
+                    "translation": "water (प [p] + ा [aa] + न [n] + ी [ee])"
+                },
+                {
+                    "target": "किताब",
+                    "reading": "kitāb",
+                    "translation": "book (क [k] + ि [i] + त [t] + ा [aa] + ब [b])"
                 }
             ],
             "mnemonics": [
-                "Devanagari hangs from the top line. Every bare consonant has an inherent /a/. Namaste = \"I bow to you\"."
+                "Short \"i\" (ि) bows in front of the letter like a polite shield! Long \"ī\" (ी) stands tall behind the letter like a walking cane!"
             ],
             "culturalNotes": [
-                "The gesture accompanying Namaste (Anjali Mudra) is a universal sign of mutual respect and spiritual recognition across South Asian cultures."
+                "Devanagari literally translates to \"City of the Gods\" (Deva = divine, Nagari = urban/script), reflecting its sacred origins in ancient Sanskrit literature and classical scholarship."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "हिंदी में दिन के किसी भी समय आदरपूर्वक अभिवादन करने के लिए सबसे उपयुक्त और सार्वभौमिक शब्द कौन-सा है?",
+                    "prompt": "Which Devanagari vowel matra is uniquely written BEFORE (to the left of) the consonant it modifies?",
                     "options": [
-                        "नमस्ते / नमस्कार (Namaste / Namaskar - Universal respectful greeting)",
-                        "अलविदा",
-                        "माफ़ कीजिए",
-                        "धन्यवाद"
+                        "Chhoti 'i' matra: ि (e.g. कि - ki)",
+                        "Badi 'ī' matra: ी (e.g. की - kī)",
+                        "'aa' matra: ा (e.g. का - kā)",
+                        "'u' matra: ु (e.g. कु - ku)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«नमस्ते» और «नमस्कार» हिंदी में सबसे सामान्य और आदरसूचक पारंपरिक अभिवादन हैं।"
+                    "explanation": "The short [i] matra (ि) is always drawn to the left of the consonant, even though it is pronounced after it."
+                },
+                {
+                    "prompt": "What is the horizontal top line called from which Devanagari letters hang?",
+                    "options": [
+                        "शिरोरेखा (Shirorekha - the top hanging line)",
+                        "मात्रा (Matra)",
+                        "अनुस्वार (Anusvara)",
+                        "हलंत (Halant)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«शिरोरेखा» (*Shirorekha*) is the characteristic horizontal line spanning across Devanagari words."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "देवनागरी लिपि में अक्षरों के ऊपर खींची जाने वाली क्षैतिज रेखा को क्या कहा जाता है?",
+                    "prompt": "Which diacritic represents full nasalization with a crescent moon and dot above the letter (as in «माँ» / mother)?",
                     "options": [
-                        "शिरोरेखा (Shirorekha - Top horizontal hanging line in Devanagari)",
-                        "मात्रा",
-                        "हलन्त",
-                        "अनुस्वार"
+                        "चंद्रबिंदु (Chandrabindu - ँ)",
+                        "अनुस्वार (Anusvara - ं)",
+                        "विसर्ग (Visarga - ः)",
+                        "हलंत (Halant - ्)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "देवनागरी लिपि में वर्णों के शीर्ष पर लगाई जाने वाली रेखा को «शिरोरेखा» कहते हैं।"
+                    "explanation": "«चंद्रबिंदु» (ँ) marks true vowel nasalization."
+                },
+                {
+                    "prompt": "Select the Hindi word meaning \"water\" spelled with «प» [p], «ा» [ā], «न» [n], «ी» [ī]:",
+                    "options": [
+                        "पानी (pānī - water)",
+                        "किताब (kitāb - book)",
+                        "माँ (mā̃ - mother)",
+                        "नाम (nām - name)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«प» + «ा» + «न» + «ी» = «पानी» (*pānī* - water)."
                 }
             ]
         },
@@ -543,18 +575,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "प्रातःकाल मिलने पर शिष्टाचारवश किसी से क्या कहना सबसे उचित होगा?",
+                    "prompt": "What does the Hindi word «किताब» (*kitāb*) mean in English?",
                     "options": [
-                        "सुप्रभात! आप कैसे हैं? (Good morning! How are you?)",
-                        "शुभ रात्रि, कल मिलेंगे।",
-                        "अलविदा, फिर मिलेंगे।",
-                        "माफ़ कीजिए, मुझे जाना है।"
+                        "book",
+                        "water",
+                        "mother",
+                        "name"
                     ],
                     "answerIndex": 0,
-                    "explanation": "सुबह के समय मिलने पर «सुप्रभात!» कहकर कुशलक्षेम पूछना मानक शिष्टाचार है।"
+                    "explanation": "«किताब» (*kitāb*) means \"book\"."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the 4-letter Devanagari Hindi word for \"water\" (p-a-n-i):",
+                    "acceptedAnswers": [
+                        "पानी"
+                    ],
+                    "explanation": "«प» + «ा» + «न» + «ी» = «पानी» (*pānī*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "hi-u1-l2": {
@@ -562,62 +601,89 @@
         "subject": "hindi",
         "unit": 1,
         "lessonNumber": 2,
-        "title": "व्यंजन वर्गीकरण, महाप्राण-अल्पप्राण और शिष्टाचार के शब्द",
+        "title": "व्यंजन और पाँच वर्ग: उच्चारण स्थान और महाप्राण ध्वनियाँ (Consonants: 5 Vargas & Aspiration)",
         "level": "A1",
-        "objective": "देवनागरी व्यंजनों के उच्चारण-स्थान (कण्ठ्य, तालव्य, मूर्धन्य, दन्त्य, ओष्ठ्य), अल्पप्राण/महाप्राण भेद, नुक़्ता ध्वनियों तथा शिष्टाचार सूचक शब्दों (धन्यवाद, कृपया, माफ़ कीजिए) को समझना।",
+        "objective": "Master the 25 classified consonants of the 5 Vargas (क-वर्ग, च-वर्ग, ट-वर्ग, त-वर्ग, प-वर्ग), the aspiration contrast (अल्पप्राण vs महाप्राण), and retroflex consonants.",
         "presentation": {
-            "explanation": "हिंदी वर्णमाला का व्यंजन तंत्र पूर्णतः ध्वन्यात्मक और वैज्ञानिक नियमों पर आधारित है, जहाँ प्रत्येक वर्ण का उच्चारण स्थान निश्चित है:\n\n1. स्पर्श व्यंजन वर्ग (उच्चारण स्थान के आधार पर पांच वर्ग):\n   - क-वर्ग (कण्ठ्य ध्वनि): क, ख, ग, घ, ङ (कंठ से उच्चारित);\n   - च-वर्ग (तालव्य ध्वनि): च, छ, ज, झ, ञ (कठोर तालु से उच्चारित);\n   - ट-वर्ग (मूर्धन्य ध्वनि): ट, ठ, ड, ढ, ण (मूर्धा या तालु के ऊपरी भाग से जीभ मोड़कर);\n   - त-वर्ग (दन्त्य ध्वनि): त, थ, द, ध, न (दांतों के स्पर्श से उच्चारित);\n   - प-वर्ग (ओष्ठ्य ध्वनि): प, फ, ब, भ, म (दोनों होंठों के स्पर्श से उच्चारित)।\n\n2. अल्पप्राण और महाप्राण का ध्वन्यात्मक भेद:\n   - अल्पप्राण: जिन वर्णों के उच्चारण में कम वायु और हल्की ध्वनि निकलती है (क, ग, च, ज, ट, ड, त, द, प, ब)।\n   - महाप्राण: जिन वर्णों के उच्चारण में श्वास वायु हकार जैसी भारी ध्वनि के साथ निकलती है (ख, घ, छ, झ, ठ, ढ, थ, ध, फ, भ)। जैसे: 'कल' (बीता/आने वाला दिन) बनाम 'खल' (दुष्ट व्यक्ति)।\n\n3. नुक़्ता ध्वनियां और शिष्टाचार शब्दावली:\n   - नुक़्ता (़) लगाकर अरबी-फ़ारसी मूल की ध्वनियां लिखी जाती हैं: क़, ख़, ग़, ज़, फ़।\n   - «धन्यवाद» अथवा «शुक्रिया» — किसी के उपकार या सहायता के प्रति कृतज्ञता प्रकट करने हेतु प्रयुक्त होता है।\n   - «कृपया» — किसी से विनम्र अनुरोध अथवा याचना करने हेतु वाक्य के आरंभ में प्रयुक्त होता है।\n   - «माफ़ कीजिए» अथवा «क्षमा कीजिए» — भूल स्वीकारने या ध्यान आकर्षित करने हेतु कहा जाता है।",
+            "explanation": "Devanagari consonants (व्यंजन) are classified strictly by their **point of articulation** (from back of throat to lips) into **5 Vargas (classes)** of 5 letters each (Unaspirated Voiceless, Aspirated Voiceless, Unaspirated Voiced, Aspirated Voiced, Nasal):\n\n### 1. The 5 Vargas (वर्ग)\n1. **क-वर्ग (Velar / कंठ्य - Throat)**:\n   - **क** [ka] (unaspirated), **ख** [kha] (aspirated puff), **ग** [ga], **घ** [gha], **ङ** [ṅa]\n2. **च-वर्ग (Palatal / तालव्य - Roof of mouth)**:\n   - **च** [cha], **छ** [chha], **ज** [ja], **झ** [jha], **ञ** [ña]\n3. **ट-वर्ग (Retroflex / मूर्धन्य - Tongue curled back)**:\n   - **ट** [ṭa], **ठ** [ṭha], **ड** [ḍa], **ढ** [ḍha], **ण** [ṇa] + Flaps: **ड़** [ṛa], **ढ़** [ṛha]\n4. **त-वर्ग (Dental / दंत्य - Tongue touching teeth)**:\n   - **त** [ta], **थ** [tha], **द** [da], **ध** [dha], **न** [na]\n5. **प-वर्ग (Labial / ओष्ठ्य - Both lips)**:\n   - **प** [pa], **फ** [pha], **ब** [ba], **भ** [bha], **म** [ma]\n\n### 2. Approximants & Sibilants\n- **य** [ya], **र** [ra], **ल** [la], **व** [va]\n- **श** [sha - palatal], **ष** [ṣha - retroflex], **स** [sa - dental], **ह** [ha]\n\n### 3. Essential Vocabulary\n- **घर** (*ghar*) → **home / house** (घ + र)\n- **फल** (*phal*) → **fruit** (फ + ल)\n- **कमल** (*kamal*) → **lotus** (क + म + ल)\n- **नाम** (*nām*) → **name** (न + ा + म)\n- **रात** (*rāt*) → **night** (र + ा + त)\n- **दिन** (*din*) → **day** (द + ि + न)",
             "examples": [
                 {
-                    "target": "आपकी सहायता के लिए बहुत-बहुत धन्यवाद।",
-                    "reading": "aapki sahayata ke liye bahut-bahut dhanyavaad. [aːpkiː səɦaːjət̪aː keː lɪjeː bəɦʊt̪ bəɦʊt̪ d̪ʱənjəʋaːd̪] (ahp-kee suh-HAH-yuh-tah kay lee-ay buh-hoot buh-hoot dhuhn-yuh-VAHD)",
-                    "translation": "Thank you very much for your help."
+                    "target": "घर",
+                    "reading": "ghar",
+                    "translation": "home / house (घ [gha] + र [ra])"
                 },
                 {
-                    "target": "कृपया यहाँ बैठिए और पानी पीजिए।",
-                    "reading": "kripaya yahaan baithiye aur paani peejiye. [krɪpəjaː jəɦaː̃ bɛːʈʰɪjeː ɔːr paːniː piːdʒɪjeː] (krih-puh-YAH yuh-HAHN by-thee-yay owr PAH-nee pee-jee-yay)",
-                    "translation": "Please sit here and drink water."
+                    "target": "फल",
+                    "reading": "phal",
+                    "translation": "fruit (फ [pha] + ल [la])"
                 },
                 {
-                    "target": "माफ़ कीजिए, क्या आप हिंदी बोलते हैं?",
-                    "reading": "maaf kijiye, kya aap hindi bolte hain? [maːf kiːdʒɪjeː kjaː aːp hɪn̪d̪iː boːlteː hɛ̃ː] (mahf KEE-jee-yay, kyah ahp HEEN-dee bohl-tay hyn?)",
-                    "translation": "Excuse me, do you speak Hindi?"
+                    "target": "कमल",
+                    "reading": "kamal",
+                    "translation": "lotus flower (क [ka] + म [ma] + ल [la])"
+                },
+                {
+                    "target": "दिन",
+                    "reading": "din",
+                    "translation": "day (द [d] + ि [i] + न [n])"
                 }
             ],
             "mnemonics": [
-                "अल्पप्राण = हल्की फूंक (क, त, प); महाप्राण = भारी श्वास (ख, थ, फ); आभार = धन्यवाद; विनय = कृपया; भूल = माफ़ कीजिए!"
+                "In each varga, Column 1 & 3 are clean (unaspirated), while Column 2 & 4 explode with breath (aspirated)! Retroflex ट curled back, Dental त at teeth."
             ],
             "culturalNotes": [
-                "हिंदी में किसी व्यक्ति के नाम या पद के पीछे 'जी' लगाना (जैसे: वर्मा जी, डॉक्टर जी, पिताजी) गहरे सम्मान और आत्मीयता का प्रतीक है।"
+                "The lotus flower (कमल - kamal) is India's national flower, symbolizing purity, spiritual elevation, and divine beauty emerging untainted from muddy waters."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "हिंदी में किसी से विनम्रतापूर्वक अनुरोध (Request) करते समय वाक्य के आरंभ में किस शिष्टाचार शब्द का प्रयोग होता है?",
+                    "prompt": "In the Devanagari 5-Varga system, what articulatory feature distinguishes «क» [ka] from «ख» [kha]?",
                     "options": [
-                        "कृपया (Kripaya - Please)",
-                        "अलविदा",
-                        "नहीं",
-                        "क्यों"
+                        "Aspiration: «क» is unaspirated, while «ख» is strongly aspirated (accompanied by a burst of breath)",
+                        "«क» is voiced, while «ख» is voiceless",
+                        "«क» is nasal, while «ख» is a vowel",
+                        "There is no difference"
                     ],
                     "answerIndex": 0,
-                    "explanation": "विनम्र अनुरोध के लिए «कृपया» (Please) का प्रयोग किया जाता है।"
+                    "explanation": "«ख» is the aspirated counterpart of «क», produced with a strong puff of air."
+                },
+                {
+                    "prompt": "Select the Hindi word meaning \"home / house\" spelled with voiced aspirated «घ» [gha] and «र» [ra]:",
+                    "options": [
+                        "घर (ghar - home)",
+                        "फल (phal - fruit)",
+                        "कमल (kamal - lotus)",
+                        "दिन (din - day)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«घ» + «र» = «घर» (*ghar* - home)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "इनमें से कौन-सा व्यंजन युग्म 'अल्पप्राण' और 'महाप्राण' का सटीक उदाहरण है?",
+                    "prompt": "Which consonant class is articulated with the tip of the tongue curled upward and back against the hard palate (retroflex)?",
                     "options": [
-                        "क और ख (क = अल्पप्राण, ख = महाप्राण)",
-                        "म और न",
-                        "र और ल",
-                        "य और व"
+                        "ट-वर्ग (Retroflex: ट, ठ, ड, ढ, ण)",
+                        "त-वर्ग (Dental: त, थ, द, ध, न)",
+                        "प-वर्ग (Labial)",
+                        "क-वर्ग (Velar)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'क' अल्पप्राण (कम वायु) है और 'ख' महाप्राण (अधिक वायु) है।"
+                    "explanation": "«ट-वर्ग» (*ṭa-varga*) comprises the retroflex series of consonants."
+                },
+                {
+                    "prompt": "Identify the Hindi word for \"fruit\" spelled with aspirated «फ» and «ल»:",
+                    "options": [
+                        "फल (phal - fruit)",
+                        "घर (ghar - house)",
+                        "कमल (kamal - lotus)",
+                        "रात (rāt - night)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«फ» + «ल» = «फल» (*phal* - fruit)."
                 }
             ]
         },
@@ -625,18 +691,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "यदि आपसे अनजाने में कोई त्रुटि हो जाए या किसी का ध्यान आकर्षित करना हो, तो क्या कहना सबसे उचित होगा?",
+                    "prompt": "What does the Hindi word «कमल» (*kamal*) mean in English?",
                     "options": [
-                        "माफ़ कीजिए! (Excuse me / Forgive me!)",
-                        "धन्यवाद!",
-                        "अलविदा!",
-                        "सुप्रभात!"
+                        "lotus",
+                        "house",
+                        "fruit",
+                        "water"
                     ],
                     "answerIndex": 0,
-                    "explanation": "क्षमा मांगने या ध्यान आकर्षित करने के लिए «माफ़ कीजिए!» या «क्षमा कीजिए!» का प्रयोग होता है।"
+                    "explanation": "«कमल» (*kamal*) means \"lotus\"."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the 2-letter Devanagari Hindi word for \"home / house\" (g-h-a-r):",
+                    "acceptedAnswers": [
+                        "घर"
+                    ],
+                    "explanation": "«घ» + «र» = «घर» (*ghar*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "hi-u1-l3": {
@@ -644,62 +717,89 @@
         "subject": "hindi",
         "unit": 1,
         "lessonNumber": 3,
-        "title": "संयुक्त व्यंजन, हलन्त और व्यक्तिगत परिचय की मूल संरचना",
+        "title": "संयुक्ताक्षर, हलंत और श्वा विलोपन नियम (Conjuncts, Virama & Schwa Deletion)",
         "level": "A1",
-        "objective": "हलन्त (्), संयुक्त व्यंजनों (क्ष, त्र, ज्ञ, श्र) के निर्माण तथा व्यक्तिगत परिचय के बुनियादी वाक्यों (मेरा नाम... है, मैं... से हूँ, आपसे मिलकर खुशी हुई) में महारत हासिल करना।",
+        "objective": "Master consonant clusters (संयुक्ताक्षर), the vowel-canceling Halant (्), special conjuncts (क्ष, त्र, ज्ञ, श्र), and the spoken Schwa Deletion rule.",
         "presentation": {
-            "explanation": "जब दो अथवा दो से अधिक व्यंजन बिना किसी मध्यवर्ती स्वर के परस्पर संयुक्त होते हैं, तो उन्हें 'संयुक्त व्यंजन' अथवा 'संयुक्ताक्षर' कहा जाता है:\n\n1. हलन्त (्) का व्याकरणिक नियम:\n   - जब किसी व्यंजन के नीचे तिरछी रेखा (हलन्त) लगाई जाती है, तो इसका अर्थ है कि वह वर्ण स्वर-रहित (आधा) है।\n   - जब आधा वर्ण अपने आगे वाले पूर्ण वर्ण से मिलता है तो संयुक्त रूप बनता है, जैसे: न् + य = न्य (धन्यवाद), स्र + त = स्त (नमस्ते)।\n\n2. चार प्रमुख पारम्परिक संयुक्ताक्षर:\n   - क्ष = क् + ष (उदाहरण: क्षमा, रक्षा, कक्षा);\n   - त्र = त् + र (उदाहरण: छात्र, मित्र, पत्र);\n   - ज्ञ = ज् + ञ (मानक उच्चारण 'ग्य' [ɡjə], उदाहरण: ज्ञान, ज्ञानी);\n   - श्र = श् + र (उदाहरण: श्रीमान, श्रीमती, परिश्रम)।\n\n3. व्यक्तिगत परिचय के प्रामाणिक वाक्य प्रारूप:\n   - अपना शुभ नाम बताना: «मेरा नाम [नाम] है।» (जैसे: मेरा नाम अमित है)।\n   - अपना मूल स्थान/देश बताना: «मैं [स्थान] से हूँ।» (जैसे: मैं भारत से हूँ)।\n   - भेंट पर प्रसन्नता प्रकट करना: «आपसे मिलकर बहुत खुशी हुई।» अथवा «आपसे मिलकर प्रसन्नता हुई।»\n   - अपना निवास और पेशा बताना: «मैं दिल्ली में रहता हूँ और मैं एक छात्र हूँ।» (स्त्रीलिंग में 'रहती हूँ')।",
+            "explanation": "Now we explore the rules that connect consonants together without intervening vowels in Hindi.\n\n### 1. The Halant / Virama (हलंत - ्)\nA small diagonal stroke below a consonant removes its inherent short [a] vowel:\n- **क** = ka → **क्** = k\n- **त** = ta → **त्** = t\n\n### 2. Conjunct Consonants (संयुक्ताक्षर - Half Letters)\nWhen two consonants meet with no vowel between them, the first consonant drops its vertical stem (standing line) to become a \"half letter\":\n- **क् + य = क्य** → **क्या** (*kyā* = what)\n- **च् + छ = च्छ** → **अच्छा** (*acchā* = good / well)\n- **स् + त = स्त** → **नमस्ते** (*namaste* = greetings)\n- **ल् + ल = ल्ल** → **दिल्ली** (*dillī* = Delhi)\n\n### 3. The 4 Special Classical Conjuncts\n- **क्ष** (*kṣha*) = क् + ष (e.g. **क्षमा** *kṣhamā* = forgiveness)\n- **त्र** (*tra*) = त् + र (e.g. **मित्र** *mitra* = friend)\n- **ज्ञ** (*gya*) = ज् + ञ (e.g. **ज्ञान** *gyān* = knowledge)\n- **श्र** (*shra*) = श् + र (e.g. **श्री** *shrī* = respected)\n\n### 4. The Schwa Deletion Rule (श्वा विलोपन)\nIn modern spoken Hindi, the **final inherent short [a] of a word is not pronounced**:\n- **कमल** is pronounced **[kamal]** (NOT \"kamala\").\n- **घर** is pronounced **[ghar]** (NOT \"ghara\").\n- **रात** is pronounced **[rāt]** (NOT \"rāta\").",
             "examples": [
                 {
-                    "target": "मेरा नाम अमित है और मैं भारत से हूँ।",
-                    "reading": "meraa naam amit hai aur main bhaarat se hoon. [meːraː naːm əmɪt̪ hɛː ɔːr mɛ̃ː bʱaːrət̪ seː hũː] (may-rah nahm UH-meet hy owr myn BHAH-ruht say hoon)",
-                    "translation": "My name is Amit and I am from India."
+                    "target": "क्या",
+                    "reading": "kyā",
+                    "translation": "what (क् [k] + या [yaa])"
                 },
                 {
-                    "target": "आपसे मिलकर बहुत खुशी हुई, प्रिया जी।",
-                    "reading": "aapse milkar bahut khushi hui, priya jee. [aːpseː mɪlkər bəɦʊt̪ kʰʊʃiː hʊiː prɪjaː dʒiː] (AHP-say MEEL-kuhr buh-hoot KHOO-shee hoo-ee, PREE-yah jee)",
-                    "translation": "Very pleased to meet you, Priya ji."
+                    "target": "अच्छा",
+                    "reading": "acchā",
+                    "translation": "good / fine (अ [a] + च्छ [cch] + ा [aa])"
                 },
                 {
-                    "target": "मैं नई दिल्ली में रहता हूँ और छात्र हूँ।",
-                    "reading": "main naee dillee mein rahta hoon aur chhaatr hoon. [mɛ̃ː nəiː d̪ɪlːiː mẽː rɛɦt̪aː hũː ɔːr tʃʰaːt̪rə hũː] (myn nuh-ee DEEL-lee mayn RUH-huh-tah hoon owr CHHAH-truh hoon)",
-                    "translation": "I live in New Delhi and I am a student."
+                    "target": "नमस्ते",
+                    "reading": "namaste",
+                    "translation": "greetings / hello (न [na] + म [ma] + स्ते [ste])"
+                },
+                {
+                    "target": "मित्र",
+                    "reading": "mitra",
+                    "translation": "friend (म [m] + ि [i] + त्र [tra])"
                 }
             ],
             "mnemonics": [
-                "आधा अक्षर = हलन्त (्); क्+ष = क्ष, त्+र = त्र; परिचय: 'मेरा नाम... है' + 'आपसे मिलकर खुशी हुई'!"
+                "Drop the vertical line to make a half letter (क् -> क्य in क्या, स् -> स्त in नमस्ते)! Remember: final \"a\" is silent in spoken Hindi (Kamal, not Kamala)!"
             ],
             "culturalNotes": [
-                "भारतीय संस्कृति में किसी नए व्यक्ति से मिलने पर हाथ जोड़कर 'आपसे मिलकर बहुत खुशी हुई' कहना अत्यंत शिष्ट और आत्मीय माना जाता है।"
+                "The word «मित्र» (*mitra* - friend) originates in the ancient Rigvedic deity of friendship, solar light, and cosmic contracts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "हिंदी में अपना नाम बताते समय किस वाक्य-संरचना का प्रयोग किया जाता है?",
+                    "prompt": "In the universal greeting «नमस्ते» (namaste), what consonant cluster is formed by the half-letter «स्» and «ते»?",
                     "options": [
-                        "मेरा नाम [नाम] है। (Mera naam [Name] hai - My name is...)",
-                        "तुम नाम कौन है।",
-                        "आप नाम क्या हो।",
-                        "हमारा नाम था।"
+                        "स्त (sta / ste - conjunct of 's' and 'te')",
+                        "क्य (kya)",
+                        "च्छ (ccha)",
+                        "ल्ल (lla)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "अपना नाम बताने के लिए मानक संरचना «मेरा नाम [नाम] है» है।"
+                    "explanation": "«स्» (half s) + «ते» (te) creates the conjunct «स्ते» (*ste*) in «नमस्ते»."
+                },
+                {
+                    "prompt": "According to the Schwa Deletion rule in Hindi phonology, how is the written word «कमल» (क-म-ल) pronounced in spoken Hindi?",
+                    "options": [
+                        "kamal (final inherent [a] is dropped)",
+                        "kamala (all vowels pronounced)",
+                        "kamli",
+                        "kaml"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Word-final inherent schwa [a] is deleted in spoken standard Hindi, pronouncing «कमल» as [kamal]."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "देवनागरी में 'क्ष' वर्ण किन दो व्यंजनों के मेल से बनता है?",
+                    "prompt": "Which special classical conjunct character represents the [kṣha] sound in «क्षमा» (forgiveness)?",
                     "options": [
-                        "क् + ष (k + sh = ksh)",
-                        "त् + र",
-                        "श् + र",
-                        "ज् + ञ"
+                        "क्ष (kṣha - क् + ष)",
+                        "त्र (tra)",
+                        "ज्ञ (gya)",
+                        "श्र (shra)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'क्ष' संयुक्ताक्षर 'क्' और 'ष' के संयोग से निर्मित होता है।"
+                    "explanation": "«क्ष» is the ligated conjunct for [kṣha]."
+                },
+                {
+                    "prompt": "Select the Hindi question word meaning \"what\" spelled with half-Ka and Ya «क्या»:",
+                    "options": [
+                        "क्या (kyā - what)",
+                        "अच्छा (acchā - good)",
+                        "मित्र (mitra - friend)",
+                        "ज्ञान (gyān - knowledge)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«क्या» (*kyā*) means \"what\"."
                 }
             ]
         },
@@ -707,18 +807,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "नए परिचित से शिष्टाचारपूर्वक 'आपसे मिलकर बहुत प्रसन्नता हुई' कहने का सबसे प्रामाणिक हिंदी वाक्य कौन-सा है?",
+                    "prompt": "What does the Hindi word «अच्छा» (*acchā*) mean in English?",
                     "options": [
-                        "आपसे मिलकर बहुत खुशी हुई। (Very pleased to meet you.)",
-                        "माफ़ कीजिए, आप कहाँ हैं?",
-                        "कृपया मुझे रास्ता बताइए।",
-                        "अलविदा, कल मिलेंगे।"
+                        "good / fine / okay",
+                        "what",
+                        "friend",
+                        "book"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«आपसे मिलकर बहुत खुशी हुई» शिष्टाचार और प्रसन्नता व्यक्त करने का मानक वाक्य है।"
+                    "explanation": "«अच्छा» (*acchā*) means \"good / fine / well\"."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the Devanagari Hindi word for \"what\" (k-y-a):",
+                    "acceptedAnswers": [
+                        "क्या"
+                    ],
+                    "explanation": "«क्» + «य» + «ा» = «क्या» (*kyā*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "hi-u1-l4": {
@@ -726,62 +833,89 @@
         "subject": "hindi",
         "unit": 1,
         "lessonNumber": 4,
-        "title": "अनुस्वार, अनुनासिक (चन्द्रबिन्दु) और आदरसूचक सर्वनाम",
+        "title": "पारंपरिक व दैनिक अभिवादन: नमस्ते, नमस्कार और हाल-चाल (Greetings & Wellbeing)",
         "level": "A1",
-        "objective": "अनुस्वार (ं) और अनुनासिक/चन्द्रबिन्दु (ँ) के ध्वन्यात्मक अंतर तथा संबोधन सर्वनामों (तू, तुम, आप) एवं सहायक क्रिया 'होना' (हूँ, हो, है, हैं) के समन्वय को समझना।",
+        "objective": "Master traditional greetings (Namaste, Namaskār), time-of-day greetings (Shubh prabhāt, Shubh rātri), and inquiring wellbeing (Āp kaise/kaisī hain?).",
         "presentation": {
-            "explanation": "नासिक्य ध्वनियों का शुद्ध उच्चारण तथा सर्वनामों में आदर की कोटि हिंदी भाषा की पहचान हैं:\n\n1. अनुस्वार (ं) और अनुनासिक (ँ) का अंतर:\n   - अनुस्वार (ं): यह एक शुद्ध नासिक्य व्यंजन ध्वनि है, जो पंचम वर्णों (ङ, ञ, ण, न, म) के स्थान पर बिंदु के रूप में प्रयुक्त होती है (जैसे: गंगा, पंच, दंत, कंबल)।\n   - अनुनासिक (ँ): यह स्वर की नासिका से निकलने वाली ध्वनि है, जिसमें श्वास मुख और नासिका दोनों से एक साथ निकलती है (जैसे: आँख, चाँद, गाँव, हँसना)।\n   - अर्थ भेद का उदाहरण: 'हंस' (एक सुंदर पक्षी) बनाम 'हँस' (हँसने की क्रिया)।\n\n2. संबोधन सर्वनामों में आदर का स्तर:\n   - «तू» — अति-अनौपचारिक / घनिष्ठ (परम मित्रों, छोटे बालकों या ईश्वर के लिए प्रयुक्त; अन्यथा असभ्य माना जाता है)।\n   - «तुम» — अनौपचारिक / समवयस्क मित्रों अथवा अपनों के लिए (क्रिया रूप: 'हो')।\n   - «आप» — औपचारिक / आदरसूचक (बड़ों, गुरुजनों, अपरिचितों व सम्मानीय जनों के लिए; क्रिया रूप: बहुवचन 'हैं')।\n\n3. 'होना' सहायक क्रिया का वर्तमान काल समन्वय:\n   - मैं के साथ → हूँ (जैसे: मैं छात्र हूँ);\n   - तू के साथ → है (जैसे: तू कहाँ है);\n   - तुम के साथ → हो (जैसे: तुम अच्छे मित्र हो);\n   - वह / यह के साथ → है (जैसे: वह डॉक्टर है);\n   - आप / वे / ये / हम के साथ → हैं (जैसे: आप बहुत दयालु हैं)।",
+            "explanation": "Now we apply our Devanagari literacy to authentic Indian greetings and respectful social interactions.\n\n### 1. The Universal Traditional Greeting: नमस्ते & नमस्कार\n- **नमस्ते!** (*Namaste!*) → **Hello / Greetings / I bow to you**\n  - Derived from Sanskrit *Namah* (bow/reverence) + *Te* (to you): \"The divine in me recognizes and bows to the divine in you.\"\n  - Accompanied by **अंजलि मुद्रा (Anjali Mudra)**: Palms pressed together gently at chest level with a respectful slight bow.\n- **नमस्कार!** (*Namaskār!*) → Formal, respectful greeting to elders, dignitaries, and assemblies.\n\n### 2. Time-of-Day Greetings\n- **शुभ प्रभात!** (*Shubh prabhāt!*) → **Good morning!**\n- **शुभ दोपहर!** (*Shubh dopahar!*) → **Good afternoon!**\n- **शुभ संध्या!** (*Shubh sandhyā!*) → **Good evening!**\n- **शुभ रात्रि!** (*Shubh rātri!*) → **Good night!**\n\n### 3. Inquiring Wellbeing: \"How are you?\"\n- **To a male**: **आप कैसे हैं?** (*Āp kaise hain?*)\n- **To a female**: **आप कैसी हैं?** (*Āp kaisī hain?*)\n- **Informal / Friendly**: **तुम कैसे/कैसी हो?** (*Tum kaise/kaisī ho?*)\n\n### 4. Authentic Responses\n- **मैं ठीक हूँ, धन्यवाद।** (*Main ṭhīk hū̃, dhanyavād.*) → **I am fine, thank you.**\n- **सब ठीक है।** (*Sab ṭhīk hai.*) → **Everything is fine / All good.**\n- **आप कैसे हैं?** (*Āp kaise hain?*) → And how are you?",
             "examples": [
                 {
-                    "target": "आप बहुत दयालु और समझदार हैं।",
-                    "reading": "aap bahut dayalu aur samajhdaar hain. [aːp bəɦʊt̪ d̪əjaːluː ɔːr səmədʒʱd̪aːr hɛ̃ː] (ahp buh-hoot duh-YAH-loo owr suh-muhzh-DAHR hyn)",
-                    "translation": "You are very kind and sensible."
+                    "target": "नमस्ते! आप कैसे हैं?",
+                    "reading": "Namaste! Āp kaise hain?",
+                    "translation": "Hello! How are you? (to a man)"
                 },
                 {
-                    "target": "मैं एक विश्वविद्यालय का छात्र हूँ।",
-                    "reading": "main ek vishvavidyalay ka chhaatr hoon. [mɛ̃ː eːk ʋɪʃʋəʋɪd̪jaːləj kaː tʃʰaːt̪rə hũː] (myn ayk veesh-wuh-veed-YAH-luy kah CHHAH-truh hoon)",
-                    "translation": "I am a university student."
+                    "target": "नमस्ते! आप कैसी हैं?",
+                    "reading": "Namaste! Āp kaisī hain?",
+                    "translation": "Hello! How are you? (to a woman)"
                 },
                 {
-                    "target": "तुम मेरे सबसे अच्छे और सच्चे मित्र हो।",
-                    "reading": "tum mere sabse achhe aur sachhe mitra ho. [t̪ʊm meːreː səbseː ətʃːʰeː ɔːr sətʃːeː mɪt̪rə hoː] (toom may-ray SUHB-say UHTCH-chhay owr SUHTCH-chhay MEET-ruh hoh)",
-                    "translation": "You are my best and true friend."
+                    "target": "मैं ठीक हूँ, धन्यवाद।",
+                    "reading": "Main ṭhīk hū̃, dhanyavād.",
+                    "translation": "I am fine, thank you."
+                },
+                {
+                    "target": "शुभ प्रभात!",
+                    "reading": "Shubh prabhāt!",
+                    "translation": "Good morning!"
                 }
             ],
             "mnemonics": [
-                "बिंदु (ं) = ठोस नासिक्य (गंगा); चन्द्रबिन्दु (ँ) = नासिका स्वर (चाँद); सर्वनाम: मैं हूँ, तुम हो, आप हैं!"
+                "Kaise = male (Āp kaise hain?). Kaisī = female (Āp kaisī hain?). Fold hands at the chest for a graceful Namaste!"
             ],
             "culturalNotes": [
-                "अपरिचितों या व्यावसायिक संवाद में हमेशा 'आप' का ही प्रयोग करना चाहिए। हिंदी में एकवचन आदरणीय व्यक्ति के लिए भी बहुवचन क्रिया 'हैं' लगाई जाती है।"
+                "The Namaste greeting is a cornerstone of Indian culture, demonstrating humility, egalitarian respect, and non-contact hygiene recognized worldwide."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "आदरणीय व्यक्ति के लिए सर्वनाम 'आप' के साथ 'होना' क्रिया का कौन-सा वर्तमान रूप प्रयुक्त होता है?",
+                    "prompt": "When greeting a woman politely in formal Hindi, which form of \"How are you?\" is grammatically correct?",
                     "options": [
-                        "हैं (Aap hain - You are [honorific plural])",
-                        "हूँ",
-                        "हो",
-                        "था"
+                        "आप कैसी हैं? (Āp kaisī hain? - to female)",
+                        "आप कैसे हैं? (Āp kaise hain? - to male)",
+                        "तुम कौन हो?",
+                        "शुभ रात्रि"
                     ],
                     "answerIndex": 0,
-                    "explanation": "सर्वनाम 'आप' के साथ आदरार्थ हमेशा बहुवचन क्रिया «हैं» (hain) आती है।"
+                    "explanation": "«आप कैसी हैं?» (*Āp kaisī hain?*) uses the feminine agreement «कैसी» (*kaisī*)."
+                },
+                {
+                    "prompt": "What gesture traditionally accompanies the greeting «नमस्ते» (Namaste)?",
+                    "options": [
+                        "Pressing palms together gently at chest height with a slight bow (अंजलि मुद्रा - Anjali Mudra)",
+                        "A handshake",
+                        "Waving one hand",
+                        "Snapping fingers"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Namaste is accompanied by pressing the palms together near the heart chakra."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "शब्द 'चाँद' और 'गाँव' में प्रयुक्त नासिक्य चिह्न को क्या कहते हैं?",
+                    "prompt": "Select the Hindi greeting meaning \"Good morning!\" (lit. \"Auspicious morning\"):",
                     "options": [
-                        "अनुनासिक / चन्द्रबिन्दु (Chandrabindu - Nasalized vowel marker)",
-                        "अनुस्वार",
-                        "विसर्ग",
-                        "हलन्त"
+                        "शुभ प्रभात (Shubh prabhāt - Good morning)",
+                        "शुभ रात्रि (Shubh rātri - Good night)",
+                        "नमस्ते (Hello)",
+                        "अलविalgebra"
                     ],
                     "answerIndex": 0,
-                    "explanation": "अर्धचन्द्र के ऊपर बिंदु वाले चिह्न को «अनुनासिक» या «चन्द्रबिन्दु» (ँ) कहा जाता है।"
+                    "explanation": "«शुभ प्रभात» (*Shubh prabhāt*) means \"Good morning\"."
+                },
+                {
+                    "prompt": "What does the standard response «मैं ठीक हूँ, धन्यवाद» mean in English?",
+                    "options": [
+                        "I am fine, thank you",
+                        "My name is Rahul",
+                        "Goodbye until tomorrow",
+                        "Where are you going?"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«मैं ठीक हूँ, धन्यवाद» (*Main ṭhīk hū̃, dhanyavād*) means \"I am fine, thank you\"."
                 }
             ]
         },
@@ -789,18 +923,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "व्याकरण और आदर की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
+                    "prompt": "What does the Sanskrit root of «नमस्ते» (*Namaste*) literally translate to?",
                     "options": [
-                        "आप कहाँ से हैं और आप क्या करते हैं? (Where are you from and what do you do?)",
-                        "आप कहाँ से हो और क्या करता है?",
-                        "तुम कहाँ से हैं और क्या करूँ?",
-                        "मैं कहाँ से हो और क्या हैं?"
+                        "I bow to you / Reverence to you (Namah + Te)",
+                        "Good morning to you",
+                        "Peace with you",
+                        "Be well today"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«आप कहाँ से हैं और आप क्या करते हैं?» में 'आप' के साथ 'हैं' का व्याकरणसम्मत समन्वय है।"
+                    "explanation": "Namaste is formed from *Namah* (bow/salutation) + *te* (to you)."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the Devanagari Hindi greeting for \"Hello / Greetings\" (N-a-m-a-s-t-e):",
+                    "acceptedAnswers": [
+                        "नमस्ते"
+                    ],
+                    "explanation": "«न» + «म» + «स्» + «ते» = «नमस्ते» (*Namaste*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "hi-u1-l5": {
@@ -808,62 +949,89 @@
         "subject": "hindi",
         "unit": 1,
         "lessonNumber": 5,
-        "title": "बुनियादी प्रश्नवाचक शब्द, हाँ/नहीं और विदाई के शिष्टाचार",
+        "title": "परिचय, शिष्टाचार, धन्यवाद और विदाई (Introductions, Etiquette & Farewells)",
         "level": "A1",
-        "objective": "क-वर्ग के मूल प्रश्नवाचक शब्दों (क्या, कौन, कहाँ, कब, क्यों, कैसे), हाँ/नहीं स्वीकारात्मक-नकारात्मक उत्तरों तथा विदाई शिष्टाचार (अलविदा, फिर मिलेंगे) में निपुणता प्राप्त करना।",
+        "objective": "Master self-introductions (Merā nām... hai, Āpkā nām kyā hai?), polite expressions (Dhanyavād, Kṛpayā, Māf kījiye), and farewells (Phir milenge, Alvidā).",
         "presentation": {
-            "explanation": "हिंदी में जिज्ञासा प्रकट करने, प्रश्न पूछने और विदाई लेने के प्रमुख शिष्टाचार नियम निम्नलिखित हैं:\n\n1. क-वर्ग के प्रमुख प्रश्नवाचक शब्द:\n   - «क्या» — वस्तु या बात जानने हेतु (What); वाक्य के आरंभ में आने पर हाँ/नहीं वाले प्रश्न का निर्माण करता है।\n   - «कौन» — व्यक्ति या कर्ता की पहचान जानने हेतु (Who)।\n   - «कहाँ» — स्थान अथवा दिशा की जानकारी हेतु (Where)।\n   - «कब» — समय या काल जानने हेतु (When)।\n   - «क्यों» — कारण अथवा प्रयोजन जानने हेतु (Why)।\n   - «कैसे / कैसी / कैसा» — स्थिति, ढंग अथवा प्रकार जानने हेतु (How)।\n\n2. स्वीकारात्मक और नकारात्मक उत्तर:\n   - «हाँ» अथवा आदरपूर्वक «जी हाँ» — स्वीकृति या सहमति प्रकट करने हेतु।\n   - «नहीं» अथवा आदरपूर्वक «जी नहीं» — असहमति या निषेध प्रकट करने हेतु।\n   - नियम: यदि प्रश्न के आरंभ में 'क्या' हो (जैसे: «क्या आप भारतीय हैं?»), तो उत्तर «जी हाँ, मैं भारतीय हूँ» अथवा «जी नहीं» होगा।\n\n3. विदाई और मंगलकामना के मानक वाक्यांश:\n   - «अलविदा» — औपचारिक विदाई का शब्द (Goodbye)।\n   - «फिर मिलेंगे» — पुनः भेंट की आशा व्यक्त करते हुए विदा लेना (See you again)।\n   - «अपना ख्याल रखिए» — आत्मीयता से स्वास्थ्य व सुरक्षा की कामना करना (Take care)।\n   - «शुभ यात्रा» — यात्रा पर जाने वाले व्यक्ति को मंगलकामना देना (Bon voyage)।",
+            "explanation": "In this capstone lesson of Unit 1, we master self-introductions, polite requests, gratitude, and heartfelt farewells in Hindi.\n\n### 1. Self-Introductions (अपना परिचय)\n- **मेरा नाम [नाम] है।** (*Merā nām [Name] hai.*) → **My name is [Name].**\n  - e.g. **मेरा नाम राहुल है।** (*Merā nām Rāhul hai.*)\n  - e.g. **मेरा नाम प्रिया है।** (*Merā nām Priyā hai.*)\n- **आपका नाम क्या है?** (*Āpkā nām kyā hai?*) → **What is your name? (polite / formal)**\n- **आपसे मिलकर बहुत खुशी हुई।** (*Āpse milkar bahut khushī huī.*) → **Very pleased to meet you.**\n\n### 2. Politeness & Etiquette (शिष्टाचार)\n- **धन्यवाद!** (*Dhanyavād!*) / **शुक्रिया!** (*Shukriyā!*) → **Thank you!**\n- **बहुत-बहुत धन्यवाद!** (*Bahut-bahut dhanyavād!*) → **Thank you very much!**\n- **कोई बात नहीं।** (*Koī bāt nahī̃.*) → **You are welcome / No problem / Don't mention it.**\n- **कृपया** (*Kṛpayā*) → **Please** (e.g. कृपया बैठिए *Kṛpayā baiṭhiye* - Please sit down).\n- **माफ़ कीजिए** (*Māf kījiye*) / **क्षमा करें** (*Kṣhamā karẽ*) → **Excuse me / I am sorry / Pardon me.**\n\n### 3. Farewells & Parting (विदाई)\n- **फिर मिलेंगे!** (*Phir milenge!*) → **See you again! / Until next time!**\n- **अलविदा!** (*Alvidā!*) → **Goodbye / Farewell!**\n- **शुभ रात्रि!** (*Shubh rātri!*) → **Good night!**\n- **नमस्ते!** (*Namaste!*) → Can also be used when departing.",
             "examples": [
                 {
-                    "target": "क्या आप चाय लेंगे? जी हाँ, धन्यवाद!",
-                    "reading": "kya aap chaay lenge? jee haan, dhanyavaad! [kjaː aːp tʃaːj leːŋgeː dʒiː hãː d̪ʱənjəʋaːd̪] (kyah ahp CHAH-ee LAYN-gay? jee HAHN, dhuhn-yuh-VAHD!)",
-                    "translation": "Would you like tea? Yes please, thank you!"
+                    "target": "मेरा नाम राहुल है।",
+                    "reading": "Merā nām Rāhul hai.",
+                    "translation": "My name is Rahul."
                 },
                 {
-                    "target": "आपका शुभ नाम क्या है और आप कहाँ रहते हैं?",
-                    "reading": "aapka shubh naam kya hai aur aap kahaan rahte hain? [aːpkaː ʃʊbʱ naːm kjaː hɛː ɔːr aːp kəɦaː̃ rɛɦt̪eː hɛ̃ː] (AHP-kah shoobh NAHM kyah hy owr ahp kuh-HAHN RUH-huh-tay hyn?)",
-                    "translation": "What is your good name and where do you live?"
+                    "target": "आपका नाम क्या है?",
+                    "reading": "Āpkā nām kyā hai?",
+                    "translation": "What is your name? (polite / formal)"
                 },
                 {
-                    "target": "अलविदा मित्र, अपना ख्याल रखिए और फिर मिलेंगे!",
-                    "reading": "alvida mitra, apna khyal rakhiye aur phir milenge! [əlwɪd̪aː mɪt̪rə əpnaː kʰjaːl rəkʰɪjeː ɔːr pʰɪr mɪleːŋgeː] (uhl-vee-DAH MEET-ruh, UHP-nah khyahl RUHKH-ee-yay owr feer mee-LAYN-gay!)",
-                    "translation": "Goodbye friend, take care and see you again!"
+                    "target": "आपसे मिलकर खुशी हुई।",
+                    "reading": "Āpse milkar khushī huī.",
+                    "translation": "Pleased to meet you."
+                },
+                {
+                    "target": "फिर मिलेंगे! — नमस्ते!",
+                    "reading": "Phir milenge! — Namaste!",
+                    "translation": "See you again! — Goodbye!"
                 }
             ],
             "mnemonics": [
-                "सवाल के 'क': क्या, कौन, कहाँ, कब, क्यों, कैसे; आदर से उत्तर: जी हाँ / जी नहीं; विदाई: 'फिर मिलेंगे' व 'अलविदा'!"
+                "Merā nām = My name. Āpkā nām = Your name. Phir milenge = Again (Phir) We will meet (Milenge)!"
             ],
             "culturalNotes": [
-                "हिंदी में किसी का नाम पूछते समय 'आपका शुभ नाम क्या है?' (What is your auspicious name?) कहना अत्यंत शिष्ट और सुरुचिपूर्ण माना जाता है।"
+                "In Indian culture, departing with «फिर मिलेंगे» (See you again) is preferred over a final «अलविदा» (farewell), carrying the positive promise of future reunion."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "हिंदी में किसी से 'Where' (स्थान के बारे में) पूछने के लिए कौन-सा प्रश्नवाचक शब्द प्रयोग किया जाता है?",
+                    "prompt": "How do you introduce yourself and state \"My name is Rahul\" in Hindi?",
                     "options": [
-                        "कहाँ (Kahaan - Where)",
-                        "कब",
-                        "क्यों",
-                        "कौन"
+                        "मेरा नाम राहुल है (Merā nām Rāhul hai)",
+                        "आपका नाम राहुल है",
+                        "मैं राहुल जाता हूँ",
+                        "राहुल घर है"
                     ],
                     "answerIndex": 0,
-                    "explanation": "स्थान पूछने के लिए «कहाँ» (Where) का प्रयोग किया जाता है।"
+                    "explanation": "«मेरा नाम [नाम] है» (*Merā nām [Name] hai*) is the standard phrase for stating your name."
+                },
+                {
+                    "prompt": "Which warm Hindi farewell phrase means \"See you again! / We will meet again\"?",
+                    "options": [
+                        "फिर मिलेंगे (Phir milenge - See you again)",
+                        "शुभ प्रभात (Good morning)",
+                        "धन्यवाद (Thank you)",
+                        "माफ़ कीजिए (Excuse me)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«फिर मिलेंगे» (*Phir milenge*) is the standard hopeful parting phrase."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "बातचीत समाप्त होने पर 'See you again' कहने के लिए सबसे स्वाभाविक हिंदी वाक्यांश कौन-सा है?",
+                    "prompt": "Select the polite Hindi sentence meaning \"Pleased to meet you\":",
                     "options": [
-                        "फिर मिलेंगे (Phir milenge - See you again)",
-                        "सुप्रभात",
-                        "माफ़ कीजिए",
-                        "स्वागत है"
+                        "आपसे मिलकर बहुत खुशी हुई (Āpse milkar bahut khushī huī)",
+                        "कोई बात नहीं (No problem)",
+                        "आपका नाम क्या है?",
+                        "माफ़ कीजिए"
                     ],
                     "answerIndex": 0,
-                    "explanation": "पुनः मिलने की आशा व्यक्त करते हुए विदा लेते समय «फिर मिलेंगे» कहा जाता है।"
+                    "explanation": "«आपसे मिलकर बहुत खुशी हुई» expresses pleasure upon meeting someone."
+                },
+                {
+                    "prompt": "When someone thanks you with «धन्यवाद» (Dhanyavād), what is the polite Hindi response meaning \"You are welcome / No problem\"?",
+                    "options": [
+                        "कोई बात नहीं (Koī bāt nahī̃ - You're welcome / No problem)",
+                        "फिर मिलेंगे (See you again)",
+                        "मेरा नाम है",
+                        "शुभ रात्रि (Good night)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«कोई बात नहीं» (*Koī bāt nahī̃*) is the standard gracious response."
                 }
             ]
         },
@@ -871,18 +1039,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "यदि कोई आपसे पूछे «क्या आप छात्र हैं?», तो आदरपूर्वक स्वीकारात्मक उत्तर क्या होगा?",
+                    "prompt": "How do you ask someone their name politely in Hindi?",
                     "options": [
-                        "जी हाँ, मैं छात्र हूँ। (Yes, I am a student.)",
-                        "अलविदा, मैं जाता हूँ।",
-                        "सुप्रभात, आप कौन हैं?",
-                        "माफ़ कीजिए, कहाँ है?"
+                        "आपका नाम क्या है? (Āpkā nām kyā hai?)",
+                        "तुम कौन हो?",
+                        "घर कहाँ है?",
+                        "कैसे हो?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«जी हाँ, मैं छात्र हूँ» आदरपूर्वक और व्याकरणसम्मत स्वीकारात्मक उत्तर है।"
+                    "explanation": "«आपका नाम क्या है?» (*Āpkā nām kyā hai?*) is the respectful polite question."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the Devanagari Hindi word for \"Thank you\" (D-h-a-n-y-a-v-a-d):",
+                    "acceptedAnswers": [
+                        "धन्यवाद",
+                        "शुक्रिया"
+                    ],
+                    "explanation": "«धन्यवाद» (*dhanyavād*) = Thank you."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "hi-u2-l1": {

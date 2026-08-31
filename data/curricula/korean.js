@@ -485,55 +485,85 @@
         "subject": "korean",
         "unit": 1,
         "lessonNumber": 1,
-        "title": "한글 창제 원리와 기본 모음·자음 (Hangul Principles, Basic Vowels & Consonants)",
+        "title": "한글 창제 원리와 기본 자모 (Hangul Vowels & First Consonants)",
         "level": "A1",
-        "objective": "Hangul Script Literacy & Core Greetings: Understand Hangul vowel/consonant syllable blocks, sound values with Revised Romanization, and standard greetings (Annyeonghaseyo).",
+        "objective": "Master the 6 fundamental vowels (ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, ㅣ), 10 basic consonants (ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅎ), and construct/read 2-character syllable blocks.",
         "presentation": {
-            "explanation": "Welcome to Korean! The Korean alphabet, **Hangul (한글)**, was scientifically designed in 1443 by King Sejong the Great to promote universal literacy. Hangul is not a pictographic system but an alphabetic script where letters (jamo) are assembled into two-to-four-letter syllabic blocks (e.g. ㅎ + ㅏ + ㄴ = 한 / han, ㄱ + ㅡ + ㄹ = 글 / geul). Basic consonants mirror the physical shape of speech organs: ㄱ (g/k - tongue root), ㄴ (n - tongue tip touching alveolar ridge), ㅁ (m - mouth shape), ㅅ (s - tooth shape), ㅇ (silent initial / ng final). Basic vowels represent philosophical elements: 하늘/Sun/Heaven (·), 땅/Earth (ㅡ), 사람/Human (ㅣ) -> ㅏ (a), ㅓ (eo), ㅗ (o), ㅜ (u), ㅡ (eu), ㅣ (i). The universal polite greeting is «안녕하세요» (*Annyeonghaseyo* - lit. \"Are you in peace? / Hello\"), paired with the respectful closing «감사합니다» (*Gamsahamnida* - Thank you).",
+            "explanation": "Welcome to Korean! The Korean writing system is called **Hangul (한글)**. It was scientifically created in 1443 by King Sejong the Great to replace complex Chinese characters with an accessible, phonetic alphabet so that all people could read and write.\n\n### 1. The 6 Basic Vowels (모음)\nHangul vowels were designed using three philosophical elements: Heaven/Sun (·), Earth (ㅡ), and Human (ㅣ).\n- **ㅏ** [a] — pronounced like \"ah\" in \"father\"\n- **ㅓ** [eo / ʌ] — pronounced like \"uh\" in \"cup\" or \"sun\"\n- **ㅗ** [o] — pronounced like \"oh\" in \"go\" (lips rounded)\n- **ㅜ** [u] — pronounced like \"oo\" in \"moon\"\n- **ㅡ** [eu / ɯ] — unrounded \"oo\" (smile with teeth closed, say \"oo\")\n- **ㅣ** [i] — pronounced like \"ee\" in \"see\"\n\n### 2. The 10 Basic Consonants (자음)\nHangul consonants mimic the physical shape of the mouth, tongue, and throat when producing the sound:\n- **ㄱ** [g/k] — Velar stop (tongue root blocks throat): sounds like \"g\" initially, softer \"k\" at word end.\n- **ㄴ** [n] — Alveolar nasal (tongue tip touches upper teeth ridge): \"n\" as in \"nose\".\n- **ㄷ** [d/t] — Alveolar stop: \"d\" initially, \"t\" finally.\n- **ㄹ** [r/l] — Alveolar flap: light \"r/l\" flap between vowels.\n- **ㅁ** [m] — Bilabial nasal (square shape of closed lips): \"m\" as in \"mouth\".\n- **ㅂ** [b/p] — Bilabial stop: \"b\" initially, \"p\" finally.\n- **ㅅ** [s] — Dental sibilant (shape of tooth): \"s\" as in \"sun\".\n- **ㅇ** [silent initial / ng final] — Circle: completely silent when placed at the start of a syllable; pronounced \"ng\" at the end.\n- **ㅈ** [j/ch] — Affricate: \"j\" as in \"jump\".\n- **ㅎ** [h] — Glottal fricative (shape of throat with hat): \"h\" as in \"hat\".\n\n### 3. Syllable Block Assembly (초성 + 중성)\nHangul letters are assembled into compact square syllable blocks consisting of at least one Initial Consonant + one Medial Vowel:\n- **Vertical Vowels (ㅏ, ㅓ, ㅣ)** sit to the RIGHT of the consonant: **가** (ga), **나** (na), **다** (da), **마** (ma), **바** (ba), **사** (sa), **아** (a), **자** (ja), **하** (ha).\n- **Horizontal Vowels (ㅗ, ㅜ, ㅡ)** sit UNDER the consonant: **고** (go), **노** (no), **도** (do), **모** (mo), **보** (bo), **소** (so), **오** (o), **조** (jo), **호** (ho), **구** (gu), **두** (du), **무** (mu), **부** (bu), **수** (su), **우** (u).\n\n### 4. First Real Words (Built Exclusively from Taught Letters)\n- **나무** [namu] = ㄴ(n) + ㅏ(a) + ㅁ(m) + ㅜ(u) → **tree**\n- **바다** [bada] = ㅂ(b) + ㅏ(a) + ㄷ(d) + ㅏ(a) → **sea / ocean**\n- **가구** [gagu] = ㄱ(g) + ㅏ(a) + ㄱ(g) + ㅜ(u) → **furniture**\n- **오이** [oi] = ㅇ(silent) + ㅗ(o) + ㅇ(silent) + ㅣ(i) → **cucumber**\n- **아이** [ai] = ㅇ(silent) + ㅏ(a) + ㅇ(silent) + ㅣ(i) → **child / kid**\n- **모자** [moja] = ㅁ(m) + ㅗ(o) + ㅈ(j) + ㅏ(a) → **hat / cap**\n- **다리** [dari] = ㄷ(d) + ㅏ(a) + ㄹ(r) + ㅣ(i) → **leg / bridge**\n- **사자** [saja] = ㅅ(s) + ㅏ(a) + ㅈ(j) + ㅏ(a) → **lion**",
             "examples": [
                 {
-                    "target": "안녕하세요! 처음 뵙겠습니다.",
-                    "reading": "Annyeonghaseyo! Cheo-eum boepgesseumnida.",
-                    "translation": "Hello! Nice to meet you for the first time."
+                    "target": "나무",
+                    "reading": "namu",
+                    "translation": "tree (ㄴ+ㅏ = 나, ㅁ+ㅜ = 무)"
                 },
                 {
-                    "target": "감사합니다. 안녕히 가세요.",
-                    "reading": "Gamsahamnida. Annyeonghi gaseyo.",
-                    "translation": "Thank you. Goodbye (to someone leaving)."
+                    "target": "바다",
+                    "reading": "bada",
+                    "translation": "sea (ㅂ+ㅏ = 바, ㄷ+ㅏ = 다)"
+                },
+                {
+                    "target": "오이",
+                    "reading": "oi",
+                    "translation": "cucumber (ㅇ+ㅗ = 오, ㅇ+ㅣ = 이)"
+                },
+                {
+                    "target": "모자",
+                    "reading": "moja",
+                    "translation": "hat (ㅁ+ㅗ = 모, ㅈ+ㅏ = 자)"
                 }
             ],
             "mnemonics": [
-                "Hangul blocks = Initial Consonant + Vowel (+ optional Final Consonant Batchim). Annyeonghaseyo = Hello (polite)."
+                "Vertical vowels (ㅏ, ㅓ, ㅣ) stand tall to the RIGHT of consonants. Horizontal vowels (ㅗ, ㅜ, ㅡ) lie flat UNDERNEATH consonants. When a syllable starts with a vowel sound, ㅇ acts as a silent placeholder!"
             ],
             "culturalNotes": [
-                "Hangul is widely celebrated by linguists worldwide as one of the most logical and phonetically precise writing systems ever invented; South Korea celebrates Hangul Day on October 9."
+                "King Sejong created Hangul in 1443 with the scholarly hall Jiphyeonjeon (Hall of Worthies). Korea celebrates Hangul Day on October 9th as a national holiday honoring this scientific script."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "다음 중 기본 자음 'ㄱ, ㄴ, ㄷ, ㅁ, ㅂ'과 모음 'ㅏ, ㅣ, ㅜ'만으로 조합되어 '나무(tree)'를 뜻하는 올바른 한글 단어는 무엇입니까?",
+                    "prompt": "Which Hangul syllable is formed by combining the initial consonant 'ㄴ' [n] with the vertical vowel 'ㅏ' [a]?",
                     "options": [
-                        "나무",
-                        "바다",
-                        "가구"
+                        "나 (na) [ㄴ + ㅏ]",
+                        "노 (no) [ㄴ + ㅗ]",
+                        "니 (ni) [ㄴ + ㅣ]"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'ㄴ[n] + ㅏ[a] = 나', 'ㅁ[m] + ㅜ[u] = 무'가 결합하여 '나무[namu]'가 됩니다. '바다'는 ㅂ+ㅏ, ㄷ+ㅏ이며, '가구'는 ㄱ+ㅏ, ㄱ+ㅜ입니다."
+                    "explanation": "The consonant 'ㄴ' [n] placed next to the vertical vowel 'ㅏ' [a] forms the syllable block '나' [na]. '노' is n+o, and '니' is n+i."
+                },
+                {
+                    "prompt": "Identify the Hangul word meaning \"tree\" assembled from 'ㄴ + ㅏ' and 'ㅁ + ㅜ':",
+                    "options": [
+                        "나무 (namu - tree)",
+                        "바다 (bada - sea)",
+                        "가구 (gagu - furniture)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'ㄴ[n] + ㅏ[a] = 나' and 'ㅁ[m] + ㅜ[u] = 무', forming '나무' [namu] (tree). '바다' is sea and '가구' is furniture."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "초성 자음 'ㅇ'이 모음 'ㅗ'와 'ㅣ'에 각각 결합하여 채소 '오이(cucumber)'를 표기한 단어를 고르십시오.",
+                    "prompt": "When a Korean syllable begins with a vowel sound like '오' [o] or '이' [i], which silent initial consonant letter must occupy the top/left position?",
                     "options": [
-                        "아이",
-                        "오이",
-                        "우유"
+                        "ㅇ (Silent initial consonant placeholder)",
+                        "ㄱ (Velar stop consonant)",
+                        "ㅁ (Bilabial nasal consonant)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "초성에 음가가 없는 무음 'ㅇ'과 수평 모음 'ㅗ', 수직 모음 'ㅣ'가 순서대로 결합하여 '오이[oi]'를 이룹니다. '아이'는 ㅏ+ㅣ, '우유'는 ㅜ+ㅠ입니다."
+                    "answerIndex": 0,
+                    "explanation": "The circular consonant 'ㅇ' is silent when used in the initial position (초성), serving as a necessary graphic placeholder for vowels like in '오이' [oi] (cucumber)."
+                },
+                {
+                    "prompt": "Select the Hangul word meaning \"hat/cap\" composed of 'ㅁ + ㅗ' [mo] and 'ㅈ + ㅏ' [ja]:",
+                    "options": [
+                        "모자 (moja - hat)",
+                        "사자 (saja - lion)",
+                        "아이 (ai - child)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'ㅁ + ㅗ = 모' [mo] and 'ㅈ + ㅏ = 자' [ja] combine to form '모자' [moja] (hat/cap)."
                 }
             ]
         },
@@ -541,22 +571,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "한글 자음 중 '혀뿌리가 목구멍을 막는 모양'을 본떠 만든 기본 아음(Velar) 자음은 무엇입니까?",
+                    "prompt": "Which basic Hangul consonant shape represents the tongue root blocking the throat (Velar stop)?",
                     "options": [
-                        "ㄴ",
-                        "ㄱ",
-                        "ㅁ"
+                        "ㄱ (Velar stop [g/k])",
+                        "ㄴ (Alveolar nasal [n])",
+                        "ㅁ (Bilabial nasal [m])"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "'ㄱ'은 혀뿌리가 목구멍을 막는 형태를 본뜬 기본 자음입니다. 'ㄴ'은 혀끝이 윗잇몸에 닿는 모양, 'ㅁ'은 입술 모양입니다."
+                    "answerIndex": 0,
+                    "explanation": "'ㄱ' was drawn to depict the physical shape of the tongue root retracting to block the pharynx/throat."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "한국어로 '바다(sea)'를 한글로 정확히 입력하십시오.",
+                    "prompt": "Type the Korean Hangul word for \"sea/ocean\" (formed from ㅂ+ㅏ and ㄷ+ㅏ):",
                     "acceptedAnswers": [
                         "바다"
                     ],
-                    "explanation": "'ㅂ + ㅏ = 바', 'ㄷ + ㅏ = 다'로 결합된 2음절 단어 '바다'입니다."
+                    "explanation": "'ㅂ + ㅏ = 바' [ba], 'ㄷ + ㅏ = 다' [da] → '바다' [bada] (sea)."
                 }
             ]
         }
@@ -566,11 +596,11 @@
         "subject": "korean",
         "unit": 1,
         "lessonNumber": 2,
-        "title": "음절 구성 방식과 7대 대표 받침 (Syllable Structure & The 7 Representative Batchim)",
+        "title": "복합 모음·격음·경음과 7대 대표 받침 (Complex Vowels, Batchim & Syllable Closure)",
         "level": "A1",
-        "objective": "초성·중성·종성(받침)의 사각 블록 조립 구조를 익히고, 한국어의 7대 대표 받침([ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ]) 중화 현상을 정확히 발음한다.",
+        "objective": "Master compound vowels (ㅐ, ㅔ, ㅘ, ㅝ), aspirated consonants (ㅋ, ㅌ, ㅍ, ㅊ), tense consonants (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ), and the 7 representative Batchim final consonant neutralizations ([ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ]).",
         "presentation": {
-            "explanation": "한글 글자는 자모를 나열해 쓰지 않고, 하나의 음절(Syllable)을 사각 틀 안에 모아 쓰는 음절 블록(Syllabic Block) 구조를 갖습니다.\n\n1. 음절의 4가지 결합 형태:\n- 자음 + 세로 모음: 가, 나, 다, 라 (좌우 결합)\n- 자음 + 가로 모음: 고, 노, 두, 르 (상하 결합)\n- 자음 + 세로 모음 + 받침: 강, 날, 달, 밥 (좌우상 + 하단 받침)\n- 자음 + 가로 모음 + 받침: 공, 눈, 돌, 물 (상중하 수직 결합)\n\n2. 받침(종성·Batchim)과 7대 대표음 중화:\n한국어 음절 말의 자음 받침은 발음될 때 폐쇄음으로 중화(Neutralization)되어 7가지 대표음으로만 소리 납니다.\n- [ㄱ]: ㄱ, ㅋ, ㄲ, ㄳ, ㄺ (예: 국 [국], 부엌 [부억], 밖 [박])\n- [ㄴ]: ㄴ, ㄵ, ㄶ (예: 문 [문], 안다 [안다])\n- [ㄷ]: ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ (예: 곧 [곧], 끝 [끋], 옷 [옫], 낮 [낟], 꽃 [꼳])\n- [ㄹ]: ㄹ, ㄼ, ㄽ, ㄾ, ㅀ (예: 달 [달], 물 [물], 길 [길])\n- [ㅁ]: ㅁ, ㄻ (예: 밤 [밤], 몸 [몸], 삶 [삼])\n- [ㅂ]: ㅂ, ㅍ, ㅄ, ㄿ (예: 밥 [밥], 숲 [숩], 앞 [압])\n- [ㅇ]: ㅇ (예: 강 [강], 방 [방], 종 [종])\n\n주의: '옷(clothes)', '꽃(flower)', '낮(daytime)'의 받침 글자는 각각 'ㅅ, ㅊ, ㅈ'이지만 음절 말 단독 발음은 모두 대표음 [ㄷ]으로 동일하게 발음됩니다.",
+            "explanation": "Now that you know the 10 basic consonants and 6 core vowels, we expand Hangul with compound vowels, strong/tense consonants, and the crucial final consonant system: **Batchim (받침)**.\n\n### 1. Compound Vowels (복합 모음)\n- **ㅐ** [ae] — pronounced \"eh\" (like \"cat\" / \"bed\"): ㅏ + ㅣ = ㅐ (e.g. 배 = bae / boat, pear)\n- **ㅔ** [e] — pronounced \"eh\" (like \"bed\"): ㅓ + ㅣ = ㅔ (e.g. 네 = ne / yes)\n- **ㅘ** [wa] — ㅗ + ㅏ (e.g. 와 = wa / wow, come)\n- **ㅝ** [wo] — ㅜ + ㅓ (e.g. 뭐 = mwo / what)\n- **ㅟ** [wi] — ㅜ + ㅣ (e.g. 귀 = gwi / ear)\n- **ㅢ** [ui / yi] — ㅡ + ㅣ (e.g. 의사 = uisa / doctor)\n\n### 2. Aspirated & Tense Consonants (격음과 경음)\n- **Aspirated (strong puff of air)**: **ㅋ** [kʰ], **ㅌ** [tʰ], **ㅍ** [pʰ], **ㅊ** [chʰ] (e.g. 커피 = keopi / coffee, 코 = ko / nose, 차 = cha / tea).\n- **Tense/Glottalized (tight vocal cords)**: **ㄲ** [kk], **ㄸ** [tt], **ㅃ** [pp], **ㅆ** [ss], **ㅉ** [jj] (e.g. 빵 = ppang / bread, 꽃 = kkot / flower, 딸기 = ttalgi / strawberry).\n\n### 3. The 7 Representative Batchim Sounds (받침 중화)\nBatchim refers to the final consonant placed at the BOTTOM of a syllable block (e.g. 밥 = ㅂ+ㅏ+ㅂ, 강 = ㄱ+ㅏ+ㅇ). Regardless of which consonant appears in the final position, when spoken alone, they neutralize into exactly **7 representative sounds**:\n1. **[ㄱ]** — written as ㄱ, ㅋ, ㄲ (e.g. **책** [chaek] = book, **부엌** [bueok] = kitchen, **밖** [bak] = outside)\n2. **[ㄴ]** — written as ㄴ (e.g. **문** [mun] = door, **손** [son] = hand)\n3. **[ㄷ]** — written as ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ (e.g. **옷** [ot] = clothes, **꽃** [kkot] = flower, **끝** [kkeut] = end, **낮** [nat] = daytime)\n4. **[ㄹ]** — written as ㄹ (e.g. **달** [dal] = moon, **물** [mul] = water, **발** [bal] = foot)\n5. **[ㅁ]** — written as ㅁ (e.g. **밤** [bam] = night/chestnut, **봄** [bom] = spring)\n6. **[ㅂ]** — written as ㅂ, ㅍ (e.g. **밥** [bap] = cooked rice/meal, **집** [jip] = house, **잎** [ip] = leaf)\n7. **[ㅇ]** — written as ㅇ (pronounced \"ng\"): (e.g. **강** [gang] = river, **방** [bang] = room)",
             "examples": [
                 {
                     "target": "밥",
@@ -578,53 +608,78 @@
                     "translation": "cooked rice / meal (Batchim [ㅂ])"
                 },
                 {
+                    "target": "책",
+                    "reading": "chaek",
+                    "translation": "book (Compound vowel ㅐ + Batchim [ㄱ])"
+                },
+                {
                     "target": "옷",
                     "reading": "ot",
-                    "translation": "clothes (Batchim [ㄷ])"
+                    "translation": "clothes (Batchim ㅅ neutralizes to [ㄷ])"
                 },
                 {
                     "target": "꽃",
                     "reading": "kkot",
-                    "translation": "flower (Batchim [ㄷ])"
+                    "translation": "flower (Tense ㄲ + Batchim ㅊ neutralizes to [ㄷ])"
                 },
                 {
-                    "target": "달",
-                    "reading": "dal",
-                    "translation": "moon / month (Batchim [ㄹ])"
+                    "target": "물",
+                    "reading": "mul",
+                    "translation": "water (ㅁ + ㅜ + ㄹ [ㄹ])"
                 }
             ],
             "mnemonics": [
-                "7대 받침 암기 공식: '가느다란 물방울' (ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ) - 모든 한국어 받침 소리는 이 7개 중 하나로만 끝납니다!"
+                "Remember the 7 Batchim rule: \"가느다란 물방울\" (ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ). Even though clothes (옷) ends in 'ㅅ' and flower (꽃) ends in 'ㅊ', both are pronounced with final stop [ㄷ]!"
             ],
             "culturalNotes": [
-                "한국어에서 '밥(Bap)'은 단순한 쌀밥을 넘어 끼니 전체와 환대(Hospitality)를 상징합니다. 한국인들이 안부를 물을 때 '밥 먹었어요?'라고 묻는 것은 따뜻한 관심의 표현입니다."
+                "In Korean culture, \"밥\" (Bap - cooked rice/meal) represents nourishment and hospitality. Asking \"밥 먹었어요?\" (Have you eaten?) is a common, warm daily greeting."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "단어 '옷(clothes)'의 받침 자음은 'ㅅ'이지만, 단독으로 발음될 때 나타나는 7대 대표 받침 소리는 무엇입니까?",
+                    "prompt": "In the word '옷' (clothes), the final consonant is written as 'ㅅ'. When pronounced in isolation, which of the 7 representative Batchim sounds does it neutralize to?",
                     "options": [
-                        "[ㄷ]",
-                        "[ㅂ]",
-                        "[ㄱ]"
+                        "[ㄷ] (as in [옫 / ot])",
+                        "[ㅂ] (as in [옵 / op])",
+                        "[ㄱ] (as in [옥 / ok])"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'ㅅ, ㅆ, ㅈ, ㅊ, ㅌ, ㅎ' 받침은 음절 말에서 모두 대표음 [ㄷ]으로 중화되어 발음됩니다. 따라서 '옷'은 [옫]으로 소리 납니다."
+                    "explanation": "The consonants 'ㅅ, ㅆ, ㅈ, ㅊ, ㄷ, ㅌ, ㅎ' all neutralize to the representative unreleased stop sound [ㄷ] when in the final Batchim position. Thus '옷' is pronounced [ot / 옫]."
+                },
+                {
+                    "prompt": "Which Hangul word means \"cooked rice / meal\" featuring the initial 'ㅂ', vowel 'ㅏ', and final Batchim 'ㅂ'?",
+                    "options": [
+                        "밥 (bap - cooked rice / meal)",
+                        "방 (bang - room)",
+                        "발 (bal - foot)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'ㅂ + ㅏ + ㅂ = 밥' [bap] (cooked rice/meal). '방' ends with nasal [ㅇ] (room) and '발' ends with [ㄹ] (foot)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "다음 중 받침 소리가 비음 [ㅇ]으로 끝나며 '강(river)'을 뜻하는 단어를 고르십시오.",
+                    "prompt": "Identify the word meaning \"river\" formed by initial 'ㄱ' [g], vowel 'ㅏ' [a], and final nasal Batchim 'ㅇ' [ng]:",
                     "options": [
-                        "강",
-                        "간",
-                        "갈"
+                        "강 (gang - river)",
+                        "간 (gan - liver / interval)",
+                        "갈 (gal - reed / go)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'ㄱ + ㅏ + ㅇ(받침) = 강[gang]'입니다. '간'은 ㄴ 받침([n]), '갈'은 ㄹ 받침([l])입니다."
+                    "explanation": "'ㄱ + ㅏ + ㅇ = 강' [gang] (river). '간' ends with [n] and '갈' ends with [l]."
+                },
+                {
+                    "prompt": "Which of the following words contains the compound vowel 'ㅐ' [ae] and final Batchim 'ㄱ' [k] meaning \"book\"?",
+                    "options": [
+                        "책 (chaek - book)",
+                        "차 (cha - tea / car)",
+                        "친구 (chingu - friend)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'ㅊ + ㅐ + ㄱ = 책' [chaek] (book)."
                 }
             ]
         },
@@ -632,22 +687,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "다음 중 단독 발음 시 대표 받침 소리가 서로 다른 하나는 무엇입니까?",
+                    "prompt": "Which pair of words both neutralize to the representative Batchim sound [ㄷ] at the end of the syllable?",
                     "options": [
-                        "꽃 (flower)",
-                        "부엌 (kitchen)",
-                        "옷 (clothes)"
+                        "옷 (ot - clothes) and 꽃 (kkot - flower)",
+                        "밥 (bap - rice) and 강 (gang - river)",
+                        "책 (chaek - book) and 달 (dal - moon)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "'부엌'의 받침 'ㅋ'은 [ㄱ]으로 발음됩니다. 반면 '꽃'([꼳])과 '옷'([옫])은 모두 [ㄷ]으로 발음됩니다."
+                    "answerIndex": 0,
+                    "explanation": "Both '옷' (ending in ㅅ) and '꽃' (ending in ㅊ) neutralize to [ㄷ] in isolation."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "한국어로 '밥(cooked rice/meal)'을 한글로 정확히 입력하십시오.",
+                    "prompt": "Type the 1-syllable Korean Hangul word for \"cooked rice / meal\" (ㅂ+ㅏ+ㅂ):",
                     "acceptedAnswers": [
                         "밥"
                     ],
-                    "explanation": "'ㅂ + ㅏ + ㅂ = 밥'으로 구성된 1음절 단어입니다."
+                    "explanation": "'ㅂ + ㅏ + ㅂ = 밥' [bap] (cooked rice / meal)."
                 }
             ]
         }

@@ -485,57 +485,89 @@
         "subject": "amharic",
         "unit": 1,
         "lessonNumber": 1,
-        "title": "የፊደል መዋቅር እና የመጀመሪያ ሰላምታዎች (The Fidel Abugida System & Essential Greetings)",
+        "title": "የፊደል መዋቅር እና የመጀመሪያ ቤተሰቦች (The Fidel Abugida: 7 Orders & Families ሀ, ለ, መ)",
         "level": "A1",
-        "objective": "Ge'ez Fidel Script (7 Orders) & Polite Greetings: Master the Ge'ez alphasyllabary 7 vowel orders with transliteration, and gender/respect greetings (Selam, Endemen neh/nesh/not).",
+        "objective": "Master the ancient Ge'ez Fidel abugida system, the 7 vocalic orders (-ä, -u, -i, -a, -e, -ə, -o), the first three consonant families (ሀ, ለ, መ), and read authentic Amharic words.",
         "presentation": {
-            "explanation": "Welcome to Amharic (አማርኛ / Amarəñña), the national language of Ethiopia! Amharic is written from left to right using the ancient **Ge'ez script (Fidel / ፊደል)**. Fidel is an **Abugida** of 33 basic consonant families, each having **7 vocalic orders (forms)** modified by slight strokes or loops: (1) Ge'ez order (/ä/), (2) Ka'eb (/u/), (3) Sals (/i/), (4) Rabe (/a/), (5) Hams (/e/), (6) Sads (/ə/ or bare consonant), and (7) Sab'e (/o/). For example, the consonant family «b» (በ): በ (bä), ቡ (bu), ቢ (bi), ባ (ba), ቤ (be), ብ (bə/b), ቦ (bo). Amharic grammar distinguishes male, female, and formal address in greetings: «ሰላም» (*Selam* - Universal Hello/Peace), «እንደምን ነህ?» (*Endemen neh?* - How are you, to a male), «እንደምን ነሽ?» (*Endemen nesh?* - to a female), and «እንደምን ኖት?» (*Endemen not?* - respectful/formal to an elder).",
+            "explanation": "የግዕዝ ፊደላት የአቡጊዳ የጽሕፈት ሥርዓት አወቃቀር እና 7ቱ ድምፆች፦\n\n፩. የሀ ቤተሰብ 7ቱ አዕማድ፦\n- ግዕዝ (፩ኛ ድምጽ)፦ **ሀ** [hä] — መደበኛ የግዕዝ ድምጽ\n- ካዕብ (፪ኛ ድምጽ)፦ **ሁ** [hu] — የቀኝ ጎን ጭረት\n- ሣልስ (፫ኛ ድምጽ)፦ **ሂ** [hi] — የቀኝ እግር ጭረት\n- ራብዕ (፬ኛ ድምጽ)፦ **ሃ** [ha] — የግራ እግር ማጠር\n- ኃምስ (፭ኛ ድምጽ)፦ **ሄ** [he] — የቀኝ እግር ቀለበት\n- ሳድስ (፮ኛ ድምጽ)፦ **ህ** [h] — የተጣመመ ራስ\n- ሳብዕ (፯ኛ ድምጽ)፦ **ሆ** [ho] — የቀኝ እግር ማጠር\n\n፪. መሠረታዊ የፊደላት ሠንጠረዥ፦\n- ለ ቤተሰብ፦ **ለ ሉ ሊ ላ ሌ ል ሎ**\n- ሐ ቤተሰብ፦ **ሐ ሑ ሒ ሓ ሔ ሕ ሖ**\n- መ ቤተሰብ፦ **መ ሙ ሚ ማ ሜ ም ሞ**\n- ሠ ቤተሰብ፦ **ሠ ሡ ሢ ሣ ሤ ሥ ሦ**\n- ረ ቤተሰብ፦ **ረ ሩ ሪ ራ ሬ ር ሮ**\n- ሰ ቤተሰብ፦ **ሰ ሱ ሲ ሳ ሴ ስ ሶ**\n- ሸ ቤተሰብ፦ **ሸ ሹ ሺ ሻ ሼ ሽ ሾ**\n- ቀ ቤተሰብ፦ **ቀ ቁ ቂ ቃ ቄ ቅ ቆ**\n- በ ቤተሰብ፦ **በ ቡ ቢ ባ ቤ ብ ቦ**\n- ተ ቤተሰብ፦ **ተ ቱ ቲ ታ ቴ ት ቶ**\n- ቸ ቤተሰብ፦ **ቸ ቹ ቺ ቻ ቼ ች ቾ**\n- ኀ ቤተሰብ፦ **ኀ ኁ ኂ ኃ ኄ ኅ ኆ**\n- ነ ቤተሰብ፦ **ነ ኑ ኒ ና ኔ ን ኖ**\n- ኘ ቤተሰብ፦ **ኘ ኙ ኚ ኛ ኜ ኝ ኞ**\n- አ ቤተሰብ፦ **አ ኡ ኢ ኣ ኤ እ ኦ**\n- ከ ቤተሰብ፦ **ከ ኩ ኪ ካ ኬ ክ ኮ**\n- ኸ ቤተሰብ፦ **ኸ ኹ ኺ ኻ ኼ ኽ ኾ**\n- ወ ቤተሰብ፦ **ወ ዉ ዊ ዋ ዌ ው ዎ**\n- ዐ ቤተሰብ፦ **ዐ ዑ ዒ ዓ ዔ ዕ ዖ**\n- ዘ ቤተሰብ፦ **ዘ ዙ ዚ ዛ ዜ ዝ ዞ**\n- ዠ ቤተሰብ፦ **ዠ ዡ ዢ ዣ ዤ ዥ ዦ**\n- የ ቤተሰብ፦ **የ ዩ ዪ ያ ዬ ይ ዮ**\n- ደ ቤተሰብ፦ **ደ ዱ ዲ ዳ ዴ ድ ዶ**\n- ጀ ቤተሰብ፦ **ጀ ጁ ጂ ጃ ጄ ጅ ጆ**\n- ገ ቤተሰብ፦ **ገ ጉ ጊ ጋ ጌ ግ ጎ**\n- ጠ ቤተሰብ፦ **ጠ ጡ ጢ ጣ ጤ ጥ ጦ**\n- ጨ ቤተሰብ፦ **ጨ ጩ ጪ ጫ ጬ ጭ ጮ**\n- ጰ ቤተሰብ፦ **ጰ ጱ ጲ ጳ ጴ ጵ ጶ**\n- ጸ ቤተሰብ፦ **ጸ ጹ ጺ ጻ ጼ ጽ ጾ**\n- ፀ ቤተሰብ፦ **ፀ ፁ ፂ ፃ ፄ ፅ ፆ**\n- ፈ ቤተሰብ፦ **ፈ ፉ ፊ ፋ ፌ ፍ ፎ**\n- ፐ ቤተሰብ፦ **ፐ ፑ ፒ ፓ ፔ ፕ ፖ**\n\n፫. የመጀመሪያ ቃላት፦\n- **ሎሚ** [lomi] (ሎ + ሚ)\n- **ላም** [lam] (ላ + ም)\n- **ሆድ** [hod] (ሆ + ድ)\n- **ሰው** [säw] (ሰ + ው)\n- **ውሃ** [wəha] (ው + ሃ)\n- **ሀገር** [hagär] (ሀ + ገ + ር)\n- **ለምለም** [lämläm] (ለ + ም + ለ + ም)\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
-                    "target": "ሰላም! እንደምን ነህ? ደህና ነኝ፣ አመሰግናለሁ።",
-                    "reading": "Selam! Endemen neh? Dehna neñ, amesegnallehu.",
-                    "translation": "Hello! How are you (to male)? I am fine, thank you."
+                    "target": "ሎሚ",
+                    "reading": "lomi",
+                    "translation": "lemon (ሎ [lo] + ሚ [mi])"
                 },
                 {
-                    "target": "እንደምን አደራችሁ? እንደምን ዋላችሁ?",
-                    "reading": "Endemen adderachu? Endemen walachu?",
-                    "translation": "Good morning (how did you spend the night)? Good afternoon (how did you spend the day)?"
+                    "target": "ላም",
+                    "reading": "lam",
+                    "translation": "cow (ላ [la] + ም [m])"
+                },
+                {
+                    "target": "ሰው",
+                    "reading": "säw",
+                    "translation": "person / human (ሰ [sä] + ው [w])"
+                },
+                {
+                    "target": "ውሃ",
+                    "reading": "wəha",
+                    "translation": "water (ው [wə] + ሃ [ha])"
                 }
             ],
             "mnemonics": [
-                "Fidel 7 orders: ä, u, i, a, e, ə, o. Selam = Universal Peace. Neh = to male, Nesh = to female, Not = formal."
+                "In Fidel: 1st (ግዕዝ -ä), 2nd (ካዕብ -u), 3rd (ሣልስ -i), 4th (ራብዕ -a), 5th (ኃምስ -e), 6th (ሳድስ -ə), 7th (ሳብዕ -o)!"
             ],
             "culturalNotes": [
-                "Ge'ez is one of the oldest continuously used writing systems in Africa, inscribed on monumental stelae in Aksum since the 4th century CE."
+                "The Ge'ez Fidel script (ግዕዝ ፊደል) is the ancient indigenous writing system of Ethiopia."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ወንድ ጓደኛህን 'እንደምን ነህ?' ብለህ ስትጠይቀው፣ ትክክለኛው ጨዋነት የተሞላበት ምላሽ የትኛው ነው?",
+                    "prompt": "In the Ge'ez Fidel abugida system, what vowel sound is inherent in the 1st Order (ግዕዝ - Ge'ez base form)?",
                     "options": [
-                        "ደህና ነኝ፣ እግዚአብሔር ይመስገን። (I am well, thank God - Correct standard response)",
-                        "አይ እኔ ቤት የለኝም።",
-                        "ዛሬ ዝናብ አይዘንብም።",
-                        "መጽሐፉ ጠረጴዛ ላይ ነው።"
+                        "The short central vowel [-ä] (እንደ ሀ / hä, ለ / lä, መ / mä)",
+                        "The long vowel [-u]",
+                        "The vowel [-i]",
+                        "The vowel [-o]"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«ደህና ነኝ፣ እግዚአብሔር ይመስገን» በሰላምታ ወቅት የሚሰጥ ትክክለኛ እና ባህላዊ ምላሽ ነው።"
+                    "explanation": "The 1st order in Fidel carries the inherent vowel sound [-ä] (e.g. ሀ = hä, ለ = lä, መ = mä)."
+                },
+                {
+                    "prompt": "Which Fidel character represents the 7th Order sound [lo] in the ለ family?",
+                    "options": [
+                        "ሎ (lo - 7th order ሳብዕ)",
+                        "ላ (la - 4th order ራብዕ)",
+                        "ሊ (li - 3rd order ሣልስ)",
+                        "ሉ (lu - 2nd order ካዕብ)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«ሎ» represents the 7th order [lo]."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "አንዲትን ሴት በአማርኛ 'እንደምን ነሽ?' ብለህ ሰላምታ ስታቀርብላት፣ ሴቷ በምን አገላለጽ ትመልሳለች?",
+                    "prompt": "Select the Amharic word meaning \"lemon\" spelled with «ሎ» [lo] and «ሚ» [mi]:",
                     "options": [
-                        "በጣም ደህና ነኝ፣ አመሰግናለሁ። (I am very well, thank you - Correct feminine/neutral response)",
-                        "ሰዓቱ አምስት ሆኗል።",
-                        "ወደ ገበያ እሄዳለሁ።",
-                        "ሻይ አልጠጣም።"
+                        "ሎሚ (lomi - lemon)",
+                        "ላም (lam - cow)",
+                        "ሰው (säw - person)",
+                        "ውሃ (wəha - water)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«በጣም ደህና ነኝ፣ አመሰግናለሁ» ሰላምታ ለቀረበላት ሴት ተገቢና ትክክለኛ ምላሽ ነው።"
+                    "explanation": "«ሎ» [lo] + «ሚ» [mi] = «ሎሚ» (*lomi* - lemon)."
+                },
+                {
+                    "prompt": "What modification visually marks the 2nd Order (-u) in characters like «ሉ» (lu) and «ሁ» (hu)?",
+                    "options": [
+                        "A horizontal stroke attached to the right side (ካዕብ)",
+                        "A circle on the foot",
+                        "A shortened left leg",
+                        "No change"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The 2nd order is marked by a horizontal stroke attached to the right side."
                 }
             ]
         },
@@ -543,26 +575,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የአማርኛን የሰላምታ አገላለጾች በጾታና በአክብሮት በትክክል የለየው የትኛው ነው?",
+                    "prompt": "What does the Amharic word «ላም» (*lam*) mean in English?",
                     "options": [
-                        "ለወንድ 'እንደምን ነህ?'፣ ለሴት 'እንደምን ነሽ?'፣ ለአክብሮት 'እንደምን ኖት?' ይባላል።",
-                        "ለወንድ 'እንደምን ነሽ?' ተብሎ ይጠየቃል።",
-                        "ለታላቅ ሰው 'እንደምን ነሽ?' ማለት ተገቢ ነው።",
-                        "በአማርኛ ቋንቋ የጾታ ልዩነት በሰላምታ ውስጥ የለም።"
+                        "cow (የቤት እንስሳ)",
+                        "lemon",
+                        "water",
+                        "person"
                     ],
                     "answerIndex": 0,
-                    "explanation": "በአማርኛ ለወንድ «ነህ»፣ ለሴት «ነሽ»፣ ለአክብሮት «ኖት» ጥቅም ላይ ይውላል።"
+                    "explanation": "«ላም» (*lam*) means \"cow\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "በአማርኛ ቋንቋ አጠቃላይ 'ሰላም / Hello' የሚለውን ቃል በግዕዝ ፊደላት ጻፉ:",
+                    "prompt": "Type the 2-character Fidel Amharic word for \"lemon\" (l-o-m-i):",
                     "acceptedAnswers": [
-                        "ሰላም"
+                        "ሎሚ"
                     ],
-                    "explanation": "ትክክለኛው የሰላምታ ቃል «ሰላም» (Sälam) ነው።"
+                    "explanation": "«ሎ» + «ሚ» = «ሎሚ» (*lomi*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "am-u1-l2": {
@@ -570,62 +601,89 @@
         "subject": "amharic",
         "unit": 1,
         "lessonNumber": 2,
-        "title": "ራስን ማስተዋወቅ እና ስም መናገር (Self-Introductions & Asking Names)",
+        "title": "ፊደላት እና ሰላምታ፡ ሰላም፣ እንደምን ነህ/ነሽ/ኖት (Fidel Families 2 & Gender Greetings)",
         "level": "A1",
-        "objective": "ስም መጠየቅ (ስምህ/ስምሽ/ስምዎ ማን ነው?)፣ ራስን በስም ማስተዋወቅ (ስሜ ... ነው / እኔ ... እባላለሁ)፣ እና 'ስለተዋወቅን ደስ ብሎኛል' የሚለውን አገላለጽ መተግበር።",
+        "objective": "Master Fidel consonant families (ሰ, ረ, በ, ተ, ነ, አ) and standard gender-inflected greetings (Selam, Endemen neh, Endemen nesh, Endemen not, Dehna neñ).",
         "presentation": {
-            "explanation": "በአማርኛ ቋንቋ ራስን ማስተዋወቅ እና የሰዎችን ስም በትህትና መጠየቅ መሰረታዊ ተግባቦት ነው:\n\n፩. ስም መጠየቅ:\n- «ስምህ ማን ነው?»: ለአንድ ወንድ ስሙን ስንጠይቅ የምንጠቀምበት ጥያቄ ነው።\n- «ስምሽ ማን ነው?»: ለአንዲት ሴት ስሟን ስንጠይቅ የምንጠቀምበት ጥያቄ ነው።\n- «ስምዎ ማን ነው?»: ለታላቅ ሰው ወይም በስራ ቦታ በአክብሮት ስም ለመጠየቅ ያገለግላል።\n\n፪. ራስን በስም ማስተዋወቅ:\n- «ስሜ [ስም] ነው»: ለምሳሌ «ስሜ ዳዊት ነው» ወይም «ስሜ አስቴር ነው»።\n- «እኔ [ስም] እባላለሁ»: ራስን በይበልጥ በይፋዊ መንገድ ለመግለጽ ያገለግላል።\n\n፫. የግል ተውላጠ ስሞች እና የጨዋነት መግለጫ:\n- እኔ፣ አንተ (ለወንድ)፣ አንቺ (ለሴት)፣ እርስዎ (ለአክብሮት)።\n- «ስለተዋወቅን ደስ ብሎኛል»: አዲስ ሰውን ስናገኝ የምንለው የጨዋነት ቃል ነው።\n- «እኔም ደስ ብሎኛል»: ለቀረበው ምስጋና የሚሰጥ አጸፋዊ ምላሽ ነው።",
+            "explanation": "በአማርኛ ቋንቋ ሰላምታ እንደ ተናጋሪው እና አድማጩ ፆታ እና ክብር ይለያያል።\n\n፩. የፊደላት አከፋፈል እና የተሟላ ሰንጠረዥ፦\n- የጥርስ እና የከንፈር ተነባቢዎች፦ **በ ቡ ቢ ባ ቤ ብ ቦ**፣ **ፈ ፉ ፊ ፋ ፌ ፍ ፎ**፣ **ፐ ፑ ፒ ፓ ፔ ፕ ፖ**\n- የላንቃ እና የጉሮሮ ተነባቢዎች፦ **ቀ ቁ ቂ ቃ ቄ ቅ ቆ**፣ **ከ ኩ ኪ ካ ኬ ክ ኮ**፣ **ገ ጉ ጊ ጋ ጌ ግ ጎ**\n- የድድ እና የትናጋ ተነባቢዎች፦ **ተ ቱ ቲ ታ ቴ ት ቶ**፣ **ደ ዱ ዲ ዳ ዴ ድ ዶ**፣ **ጠ ጡ ጢ ጣ ጤ ጥ ጦ**\n- የሹክሹክታ እና የትንፋሽ ድምጾች፦ **ሰ ሱ ሲ ሳ ሴ ስ ሶ**፣ **ሸ ሹ ሺ ሻ ሼ ሽ ሾ**፣ **ዘ ዙ ዚ ዛ ዜ ዝ ዞ**፣ **ዠ ዡ ዢ ዣ ዤ ዥ ዦ**\n- የአፍንጫ እና የፈሳሽ ድምጾች፦ **ነ ኑ ኒ ና ኔ ን ኖ**፣ **ኘ ኙ ኚ ኛ ኜ ኝ ኞ**፣ **መ ሙ ሚ ማ ሜ ም ሞ**፣ **ለ ሉ ሊ ላ ሌ ል ሎ**፣ **ረ ሩ ሪ ራ ሬ ር ሮ**\n\n፪. መሰረታዊ ሰላምታዎች፦\n- **ሰላም!** [Selam!]\n- **እንደምን ነህ?** [Endemen neh?]\n- **እንደምን ነሽ?** [Endemen nesh?]\n- **እንደምን ኖት?** [Endemen not?]\n- **ደህና ነኝ** [Dehna neñ]\n- **እግዚአብሔር ይመስገን** [Egziabher yimesgen]\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
-                    "target": "ስምህ ማን ነው? ስሜ ዮሐንስ ነው፣ ስለተዋወቅን ደስ ብሎኛል።",
-                    "reading": "Səməh man näw? Səme Yohannəs näw, səlätäwawäqn däs bəlognyal. [sɨˈmɨh man nɛw sɨˈme joˈhanːɨs nɛw sɨlɨtɨwaˈwɨkʼn dɛs bɨˈloɲːal] (suh-MUH-h mahn neh? suh-MAY yoh-HAHN-nus neh, suh-luh-tuh-wah-WUK'-n des buh-LOH-nyahl)",
-                    "translation": "What is your name [to a male]? My name is Yohannes, pleased to meet you."
+                    "target": "ሰላም! እንደምን ነህ?",
+                    "reading": "Selam! Endemen neh?",
+                    "translation": "Hello! How are you? (to a man)"
                 },
                 {
-                    "target": "ስምሽ ማን ነው? ስሜ ሄለን ይባላል፣ እኔም ስለተዋወቅን ደስ ብሎኛል።",
-                    "reading": "Səməsh man näw? Səme Helän yəbbalal, ənem səlätäwawäqn däs bəlognyal. [sɨˈmɨʃ man nɛw sɨˈme heˈlɛn jɨbːaˈlal ɨˈnem sɨlɨtɨwaˈwɨkʼn dɛs bɨˈloɲːal] (suh-MOOSH mahn neh? suh-MAY hay-LEN yub-bah-LAHL, uh-NAYM suh-luh-tuh-wah-WUK'-n des buh-LOH-nyahl)",
-                    "translation": "What is your name [to a female]? My name is Helen, I am pleased to meet you too."
+                    "target": "ሰላም! እንደምን ነሽ?",
+                    "reading": "Selam! Endemen nesh?",
+                    "translation": "Hello! How are you? (to a woman)"
                 },
                 {
-                    "target": "እኔ ተማሪ ነኝ፣ አንተ ማን ነህ? እኔም አዲስ ተማሪ ነኝ።",
-                    "reading": "Əne tämari näny, antä man näh? Ənem addis tämari näny. [ɨˈne tɛmaˈri nɨɲ anˈtɛ man nɛh ɨˈnem adˈdis tɛmaˈri nɨɲ] (uh-NAY teh-mah-REE nuh-NY, ahn-TEH mahn neh? uh-NAYM ahd-DEES teh-mah-REE nuh-NY)",
-                    "translation": "I am a student, who are you [to a male]? I am also a new student."
+                    "target": "ደህና ነኝ፣ እግዚአብሔር ይመስገን።",
+                    "reading": "Dehna neñ, Egziabher yimesgen.",
+                    "translation": "I am well, thank God."
+                },
+                {
+                    "target": "እንደምን ኖት?",
+                    "reading": "Endemen not?",
+                    "translation": "How are you? (respectful / formal)"
                 }
             ],
             "mnemonics": [
-                "Name prefixes: ስሜ (səme = my name), ስምህ (səməh = your name [m]), ስምሽ (səməsh = your name [f]), ስምዎ (səməwo = your name [polite])!"
+                "ነህ (neh = male). ነሽ (nesh = female). ኖት (not = elder/respectful). ደህና ነኝ (dehna neñ = I am fine)!"
             ],
             "culturalNotes": [
-                "በኢትዮጵያ የስም አሰጣጥ ስርዓት የቤተሰብ መጠሪያ (surname) የለም፤ የአንድ ሰው ስም የራሱ ስም እና የአባቱ ስም ተቀጥሎ ይጠራል (ለምሳሌ: አበበ ቢቂላ)።"
+                "በኢትዮጵያ ባህል ሰላምታ ትልቅ ክብር እና ማህበራዊ ትስስር የሚገለጽበት ድንቅ ባህላዊ እሴት ነው።"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "አንድን ወንድ 'ስምህ ማን ነው?' ብለህ ስትጠይቀው፣ ትክክለኛው ምላሽ የየትኛው ነው?",
+                    "prompt": "When greeting a male friend in Amharic, which form of \"How are you?\" is grammatically correct?",
                     "options": [
-                        "ስሜ ዳዊት ነው፣ ስለተዋወቅን ደስ ብሎኛል። (My name is Dawit, pleased to meet you - Correct self-introduction)",
-                        "ዛሬ ሰኞ ቀን ነው።",
-                        "ውኃ መጠጣት እፈልጋለሁ።",
-                        "ቤቱ በጣም ሩቅ ነው።"
+                        "እንደምን ነህ? (Endemen neh? - to male)",
+                        "እንደምን ነሽ? (Endemen nesh? - to female)",
+                        "እንደምን ኖት? (Endemen not? - respectful)",
+                        "ደህና ነኝ (Dehna neñ)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«ስሜ ዳዊት ነው፣ ስለተዋወቅን ደስ ብሎኛል» ስም ለተጠየቀ ሰው ተገቢ ምላሽ ነው።"
+                    "explanation": "«እንደምን ነህ?» (*Endemen neh?*) uses the 2nd-person masculine suffix «-ህ» (-h)."
+                },
+                {
+                    "prompt": "What is the universal Amharic greeting meaning \"Peace / Hello\"?",
+                    "options": [
+                        "ሰላም (Selam - Peace / Hello)",
+                        "ሎሚ (lomi)",
+                        "ላም (lam)",
+                        "ውሃ (wəha)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«ሰላም» (*Selam*) means peace and serves as the universal greeting."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "አንዲትን ሴት በአክብሮትና በትክክለኛ ሰዋሰው ስሟን ለመጠየቅ የትኛውን አረፍተ ነገር ትጠቀማለህ?",
+                    "prompt": "How do you politely ask a woman \"How are you?\" in Amharic?",
                     "options": [
-                        "ስምሽ ማን ነው? (What is your name? [to female] - Correct feminine form)",
-                        "ስምህ የት ሄደ?",
-                        "ስሜ ትላንት መጣ።",
-                        "ስምህ መኪና አለው።"
+                        "እንደምን ነሽ? (Endemen nesh? - to female)",
+                        "እንደምን ነህ? (Endemen neh? - to male)",
+                        "እንደምን ኖት? (Endemen not?)",
+                        "ሰላም ሁን (Selam hun)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለሴት ስም ሲጠየቅ «ስምሽ ማን ነው?» የሚለው አገላለጽ ትክክለኛ ነው።"
+                    "explanation": "«እንደምን ነሽ?» (*Endemen nesh?*) uses the 2nd-person feminine suffix «-ሽ» (-sh)."
+                },
+                {
+                    "prompt": "Select the traditional Amharic response meaning \"I am well, praise be to God\":",
+                    "options": [
+                        "ደህና ነኝ፣ እግዚአብሔር ይመስገን (Dehna neñ, Egziabher yimesgen)",
+                        "ስሜ ዳዊት ነው (My name is Dawit)",
+                        "ቻው (Chao)",
+                        "አይደለም (No)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«ደህና ነኝ፣ እግዚአብሔር ይመስገን» is the standard authentic response."
                 }
             ]
         },
@@ -633,26 +691,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "ከሚከተሉት ውስጥ ራስን በትክክል ለማስተዋወቅ የሚያገለግለው አረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which greeting is used when addressing an esteemed elder, professor, or dignitary respectfully?",
                     "options": [
-                        "እኔ ሳራ እባላለሁ፣ ስለተዋወቅን ደስ ብሎኛል። (I am called Sara, pleased to meet you - Correct full introduction)",
-                        "እኔ ትምህርት ቤት አልሄድም።",
-                        "ስምህ ዳቦ ይበላል።",
-                        "እሱ ዛሬ ደክሞታል።"
+                        "እንደምን ኖት? (Endemen not? - respectful/formal)",
+                        "እንደምን ነህ? (to male peer)",
+                        "እንደምን ነሽ? (to female peer)",
+                        "ቻው (informal)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«እኔ ሳራ እባላለሁ፣ ስለተዋወቅን ደስ ብሎኛል» ራስን በስም ለማስተዋወቅ የሚያገለግል ሙሉ አረፍተ ነገር ነው።"
+                    "explanation": "«እንደምን ኖት?» (*Endemen not?*) is the formal honorific form."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "'ስሜ / My name' የሚለውን የአማርኛ ቃል በግዕዝ ፊደላት ጻፉ:",
+                    "prompt": "Type the 2-character Fidel Amharic word for \"Peace / Hello\" (s-e-l-a-m):",
                     "acceptedAnswers": [
-                        "ስሜ"
+                        "ሰላም"
                     ],
-                    "explanation": "ትክክለኛው ቃል «ስሜ» (Səme) ነው።"
+                    "explanation": "«ሰ» + «ላ» + «ም» = «ሰላም» (*Selam*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "am-u1-l3": {
@@ -660,62 +717,89 @@
         "subject": "amharic",
         "unit": 1,
         "lessonNumber": 3,
-        "title": "የቀን ክፍለ ጊዜ ሰላምታዎች (Time-of-Day Greetings)",
+        "title": "የቀን ክፍለ ጊዜ ሰላምታዎች እና ስም መጠየቅ (Time-of-Day Greetings & Asking Names)",
         "level": "A1",
-        "objective": "የጠዋት (እንደምን አደርክ/ሽ/ሩ)፣ የቀን (እንደምን ዋልክ/ሽ/ሉ)፣ እና የምሽት (እንደምን አመሸህ/ሽ/ሹ) ሰላምታዎችን እና ምላሾቻቸውን በጾታና በአክብሮት ለይቶ መጠቀም።",
+        "objective": "Master time-of-day greetings (Good morning, Good afternoon, Good evening) and exchanging names (Smeh/Smesh man new? Sme... new).",
         "presentation": {
-            "explanation": "የአማርኛ ቋንቋ እንደ ቀኑ ክፍለ ጊዜ የተለዩ የሰላምታ ግሶችን ይጠቀማል:\n\n፩. የጠዋት ሰላምታ (ማደር):\n- «እንደምን አደርክ?»: ጠዋት ላይ ለወንድ የሚቀርብ ሰላምታ ነው።\n- «እንደምን አደርሽ?»: ጠዋት ላይ ለሴት የሚቀርብ ሰላምታ ነው።\n- «እንደምን አደሩ?»: ጠዋት ላይ ለታላቅ ሰው በአክብሮት ወይም ለብዙ ሰዎች ይባላል።\n- ምላሽ: «ደህና አደርኩ፣ እግዚአብሔር ይመስገን»።\n\n፪. የቀን ሰላምታ (መዋል):\n- «እንደምን ዋልክ?»: ከሰዓት በኋላ ለወንድ የሚባል ሰላምታ ነው።\n- «እንደምን ዋልሽ?»: ከሰዓት በኋላ ለሴት የሚባል ሰላምታ ነው።\n- «እንደምን ዋሉ?»: ከሰዓት በኋላ ለአክብሮት ወይም ለብዙ ሰዎች ይባላል።\n- ምላሽ: «ደህና ዋልኩ፣ እግዚአብሔር ይመስገን»።\n\n፫. የምሽት ሰላምታ (ማመሽ):\n- «እንደምን አመሸህ?»: ምሽት ላይ ለወንድ የሚባል ሰላምታ ነው።\n- «እንደምን አመሸሽ?»: ምሽት ላይ ለሴት የሚባል ሰላምታ ነው።\n- «እንደምን አመሹ?»: ምሽት ላይ ለአክብሮት ወይም ለብዙ ሰዎች ይባላል።\n- ምላሽ: «ደህና አመሸሁ፣ እግዚአብሔር ይመስገን»።",
+            "explanation": "በአማርኛ ቋንቋ የቀን ክፍለ ጊዜ ሰላምታዎች እና ስም የመጠየቅ ሥርዓት፦\n\n1. የጥዋት ሰላምታ፦\n- **እንደምን አደርክ?** [Endemen aderk?] — ለወንድ / to male\n- **እንደምን አደርሽ?** [Endemen adersh?] — ለሴት / to female\n- **እንደምን አደሩ?** [Endemen aderu?] — ለአክብሮት / respectful\n\n2. የከሰዓት ሰላምታ፦\n- **እንደምን ዋልክ?** [Endemen walk?] — ለወንድ\n- **እንደምን ዋልሽ?** [Endemen walsh?] — ለሴት\n- **እንደምን ዋሉ?** [Endemen walu?] — ለአክብሮት\n\n3. የምሽት ሰላምታ፦\n- **እንደምን አመሸህ?** [Endemen amesheh?] — ለወንድ\n- **እንደምን አመሸሽ?** [Endemen ameshesh?] — ለሴት\n- **እንደምን አመሹ?** [Endemen ameshu?] — ለአክብሮት\n\n4. ስም መጠየቅ እና መመለስ፦\n- **ስምህ ማን ነው?** [Smeh man new?] — ወንድ\n- **ስምሽ ማን ነው?** [Smesh man new?] — ሴት\n- **ስሜ [ስም] ነው** [Sme [Name] new] — ስሜ ዳዊት ነው\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
-                    "target": "እንደምን አደርክ ወንድሜ? ደህና አደርኩ እግዚአብሔር ይመስገን።",
-                    "reading": "Əndämən adärk wändəme? Dähna adärku əgzi'abhér yəmmäsgän. [ɨndɨˈmɨn adɨrk wɨndɨˈme dɛhˈna adɨrˈku ɨɡzi.aˈbher jɨmˈmɛsɡɨn] (un-duh-MUN ah-DURK wun-duh-MAY? deh-NAH ah-DUR-koo ug-zee-ah-BHER yum-MES-gun)",
-                    "translation": "Good morning my brother! Good morning, praise God."
+                    "target": "እንደምን አደርክ? — ደህና፣ እግዚአብሔር ይመስገን።",
+                    "reading": "Endemen aderk? — Dehna, Egziabher yimesgen.",
+                    "translation": "Good morning! (to male) — Fine, thank God."
                 },
                 {
-                    "target": "እንደምን ዋልሽ እህቴ? ደህና ዋልኩ፣ ቀኑ እንዴት ነበር?",
-                    "reading": "Əndämən walsh əhəte? Dähna walku, qänu əndet näbbär? [ɨndɨˈmɨn walʃ ɨhɨˈte dɛhˈna walˈku kʼɨˈnu ɨnˈdet nɛbːɨr] (un-duh-MUN WAHL-sh uh-huh-TAY? deh-NAH WAHL-koo, k'uh-NOO un-DAYT neb-BUR?)",
-                    "translation": "Good afternoon my sister! Good afternoon, how was the day?"
+                    "target": "ስምህ ማን ነው? — ስሜ ዳዊት ነው።",
+                    "reading": "Smeh man new? — Sme Dawit new.",
+                    "translation": "What is your name? — My name is Dawit."
                 },
                 {
-                    "target": "እንደምን አመሹ አባባ? ደህና አመሸሁ ልጄ፣ እንኳን ደህና መጣህ።",
-                    "reading": "Əndämən amäshu abbaba? Dähna amäshähu ləje, ənkwan dähna mätt'ah. [ɨndɨˈmɨn amɨʃːu abːaˈba dɛhˈna amɨʃːɨˈhu lɨˈdʒe ɨnkwan dɛhˈna mɛtʼːah] (un-duh-MUN ah-MESH-shoo ahb-bah-BAH? deh-NAH ah-mesh-shuh-HOO luh-JAY, un-KWAHN deh-NAH MET'-t'ah)",
-                    "translation": "Good evening father [polite]! Good evening my child, welcome."
+                    "target": "ስምሽ ማን ነው? — ስሜ ሳራ ነው።",
+                    "reading": "Smesh man new? — Sme Sara new.",
+                    "translation": "What is your name? — My name is Sara."
+                },
+                {
+                    "target": "እንደምን አመሸህ?",
+                    "reading": "Endemen amesheh?",
+                    "translation": "Good evening! (to male)"
                 }
             ],
             "mnemonics": [
-                "Time verbs: አደርክ (adärk = morning/night spent), ዋልክ (walk = daytime spent), አመሸህ (amäshäh = evening spent)!"
+                "አደርክ (morning/night). ዋልክ (afternoon/day). አመሸህ (evening). ስሜ (my name)!"
             ],
             "culturalNotes": [
-                "በኢትዮጵያ የቀን ክፍለ ጊዜ ሰላምታዎች የሰውን ደህንነት ከመጠየቅ ባለፈ ጥልቅ አክብሮትና ቤተሰባዊ ቅርርብን ያሳያሉ።"
+                "በኢትዮጵያ የስም አሰያየም ሥርዓት የአባት ስም እንደ መጠሪያ ሆኖ ያገለግላል።"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "በጠዋት ሰዓት ለአንዲት ሴት ጓደኛህ የምታቀርበው ትክክለኛ የሰላምታ አገላለጽ የትኛው ነው?",
+                    "prompt": "Which Amharic greeting is used to say \"Good morning\" to a woman?",
                     "options": [
-                        "እንደምን አደርሽ? (Good morning [to female] - Correct morning greeting)",
-                        "እንደምን አመሸህ?",
-                        "እንደምን ዋልክ?",
-                        "ደህና እደሩ።"
+                        "እንደምን አደርሽ? (Endemen adersh? - Good morning fem.)",
+                        "እንደምን አደርክ? (Endemen aderk? - Good morning masc.)",
+                        "እንደምን ዋልክ? (Good afternoon)",
+                        "እንደምን አመሸህ? (Good evening)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለሴት በጠዋት ሰዓት «እንደምን አደርሽ?» ተብሎ ሰላምታ ይሰጣል።"
+                    "explanation": "«እንደምን አደርሽ?» (*Endemen adersh?*) is \"Good morning\" addressed to a woman."
+                },
+                {
+                    "prompt": "How do you ask a man \"What is your name?\" in Amharic?",
+                    "options": [
+                        "ስምህ ማን ነው? (Smeh man new? - to male)",
+                        "ስምሽ ማን ነው? (Smesh man new? - to female)",
+                        "ስሜ ዳዊት ነው",
+                        "እንደምን ነህ?"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«ስምህ ማን ነው?» (*Smeh man new?*) is used for males."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "ከሰዓት በኋላ (ቀን) ለአንድ ወንድ 'እንደምን ዋልክ?' ተብሎ ሲጠየቅ፣ ምላሹ ምን ይሆናል?",
+                    "prompt": "Select the Amharic sentence meaning \"My name is Dawit\":",
                     "options": [
-                        "ደህና ዋልኩ፣ እግዚአብሔር ይመስገን። (I spent the day well, thank God - Correct daytime response)",
-                        "ደህና አደርኩ ትላንት።",
-                        "ነገ ጠዋት እመጣለሁ።",
-                        "ምሳ አልበላሁም።"
+                        "ስሜ ዳዊት ነው (Sme Dawit new)",
+                        "ስምህ ማን ነው?",
+                        "እንደምን ነህ?",
+                        "ደህና ሁን"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለቀን ሰላምታ «ደህና ዋልኩ፣ እግዚአብሔር ይመስገን» ትክክለኛ ምላሽ ነው።"
+                    "explanation": "«ስሜ ዳዊት ነው» (*Sme Dawit new*) means \"My name is Dawit\"."
+                },
+                {
+                    "prompt": "Which phrase is used to greet someone in the afternoon (\"Good afternoon\" to a male)?",
+                    "options": [
+                        "እንደምን ዋልክ? (Endemen walk? - Good afternoon masc.)",
+                        "እንደምን አደርክ? (Good morning)",
+                        "እንደምን አመሸህ? (Good evening)",
+                        "ደህና ሁን (Goodbye)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«እንደምን ዋልክ?» (*Endemen walk?*) is the afternoon greeting."
                 }
             ]
         },
@@ -723,26 +807,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "በምሽት ሰዓት ለታላቅ ሰው በአክብሮት ሰላምታ ለመስጠት የትኛው አረፍተ ነገር ያገለግላል?",
+                    "prompt": "What does «ስምሽ ማን ነው?» mean in English?",
                     "options": [
-                        "እንደምን አመሹ? (Good evening [polite/respectful] - Correct evening greeting)",
-                        "እንደምን ዋልክ?",
-                        "እንደምን አደርሽ?",
-                        "እንደምን ነህ ልጄ?"
+                        "What is your name? (to a female)",
+                        "What is your name? (to a male)",
+                        "How are you?",
+                        "Good morning"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለታላቅ ሰው በምሽት «እንደምን አመሹ?» ተብሎ በአክብሮት ይጠየቃል።"
+                    "explanation": "«ስምሽ ማን ነው?» (*Smesh man new?*) asks a woman her name."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "የጠዋት ሰላምታ ምላሽ የሆነውን 'ደህና አደርኩ' የሚለውን ሐረግ በግዕዝ ፊደላት ጻፉ:",
+                    "prompt": "Type the Fidel Amharic phrase for \"My name is\" (s-m-e):",
                     "acceptedAnswers": [
-                        "ደህና አደርኩ"
+                        "ስሜ"
                     ],
-                    "explanation": "ትክክለኛው ሐረግ «ደህና አደርኩ» (Dähna adärku) ነው።"
+                    "explanation": "«ስሜ» (*sme*) = my name."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "am-u1-l4": {
@@ -750,62 +833,89 @@
         "subject": "amharic",
         "unit": 1,
         "lessonNumber": 4,
-        "title": "የአክብሮት ቃላት፣ ይቅርታ እና ምስጋና (Politeness Formulas, Thank You & Apologies)",
+        "title": "ምስጋና፣ ይቅርታ እና ጨዋነት የተሞላባቸው አገላለጾች (Gratitude, Apologies & Politeness)",
         "level": "A1",
-        "objective": "ምስጋናን (አመሰግናለሁ፣ ምንም አይደለም)፣ ይቅርታን (ይቅርታ፣ ይቅርታ አድርግልኝ/አድርጊልኝ/ያድርጉልኝ)፣ እና ልመናን (እባክህ/እባክሽ/እባክዎ) በትክክለኛ ማህበራዊ ጨዋነት መጠቀም።",
+        "objective": "Master expressions of gratitude (Amesegenalehu, Betam amesegenalehu), responses (Menem aydellem), apologies (Yeqerta), and polite requests (Ebakeh/Ebakesh/Ebakwo).",
         "presentation": {
-            "explanation": "በአማርኛ ማህበራዊ ኑሮ ውስጥ ምስጋና፣ ይቅርታ እና የአክብሮት ልመና ትልቅ ስፍራ አላቸው:\n\n፩. የምስጋና አገላለጾች:\n- «አመሰግናለሁ»: አጠቃላይ የምስጋና ቃል ነው።\n- «በጣም አመሰግናለሁ»: ከፍ ያለ ምስጋና ለማቅረብ ያገለግላል።\n- «እግዚአብሔር ይስጥልኝ»: ጥልቅ ባህላዊና መንፈሳዊ ምስጋና ነው።\n- «ምንም አይደለም»: ለምስጋና የሚሰጥ ትሁት ምላሽ ነው።\n\n፪. የትህትና እና የልመና ቃላት:\n- «እባክህ»: ለአንድ ወንድ ልመና ስናቀርብ ጥቅም ላይ ይውላል።\n- «እባክሽ»: ለአንዲት ሴት ልመና ስናቀርብ ጥቅም ላይ ይውላል።\n- «እባክዎ» ወይም «እባክዎት»: ለታላቅ ሰው በአክብሮት ልመና ለማቅረብ ያገለግላል።\n- «እባካችሁ»: ለብዙ ሰዎች በአንድነት ልመና ስናቀርብ ይጠቅማል።\n\n፫. ይቅርታ መጠየቅ:\n- «ይቅርታ»: ስህተት ሲፈጠር ወይም መንገድ ለማስለቀቅ ያገለግላል።\n- «ይቅርታ አድርግልኝ» (ለወንድ), «ይቅርታ አድርጊልኝ» (ለሴት), «ይቅርታ ያድርጉልኝ» (ለአክብሮት)።\n- «አዎ» (እውነታን ለማረጋገጥ), «አይደለም» (አሉታን ለመግለጽ), «እሺ» (ስምምነትን ለማሳየት)።",
+            "explanation": "በአማርኛ ቋንቋ ምስጋና፣ ይቅርታ እና ጨዋነት የተሞላባቸው አገላለጾች፦\n\n1. ምስጋና ማቅረብ፦\n- **አመሰግናለሁ** [Amesegenalehu] — Thank you\n- **በጣም አመሰግናለሁ** [Betam amesegenalehu] — Thank you very much\n- **እግዚአብሔር ይስጥልኝ** [Egziabher yestelñ] — May God reward you\n- **ምንም አይደለም** [Menem aydellem] — You are welcome\n\n2. ይቅርታ መጠየቅ፦\n- **ይቅርታ** [Yeqerta] — Excuse me / Sorry\n- **ይቅርታ አድርግልኝ** [Yeqerta adregelñ] — ለወንድ\n- **ይቅርታ አድርጊልኝ** [Yeqerta adregīlñ] — ለሴት\n\n3. ትህትና እና ጥያቄ፦\n- **እባክህ** [Ebakeh] — Please — ለወንድ\n- **እባክሽ** [Ebakesh] — Please — ለሴት\n- **እባክዎ** [Ebakwo] — Please — ለአክብሮት\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
-                    "target": "እባክህ ውኃ ስጠኝ። ይኸውልህ፣ በጣም አመሰግናለሁ፣ ምንም አይደለም።",
-                    "reading": "Əbakəh wəha sət'äny. Yəhäwwələh, bətam amäsäggənalähu, mənəm aydälläm. [ɨˈbakɨh wɨˈha sɨˈtʼɨɲ jɨˈhɛwːɨlɨh bɨˈtʼam amɨsɨɡːɨˈnalɨhu mɨˈnɨm ajˈdɛlːɨm] (uh-BAH-kuh wuh-HAH sut'-uh-NY. yuh-HEW-wul-uh, buh-TAHM ah-muh-sug-guh-NAH-luh-hoo, muh-NUM eye-DEL-lum)",
-                    "translation": "Please [to male] give me water. Here you go, thank you very much, you're welcome."
+                    "target": "በጣም አመሰግናለሁ! — ምንም አይደለም።",
+                    "reading": "Betam amesegenalehu! — Menem aydellem.",
+                    "translation": "Thank you very much! — You are welcome!"
                 },
                 {
-                    "target": "ይቅርታ፣ መንገድ አሳየኝ እባክህ? እሺ በደስታ፣ ተከተለኝ።",
-                    "reading": "Yəqərta, mängäd asayäny əbakəh? Əshi bädästa, täkättäläny. [jɨkʼɨrˈta mɨŋˈɡɨd asaˈjɨɲ ɨˈbakɨh ɨˈʃi bɨdɛsˈta tɨkɨtːɨˈlɨɲ] (yuh-K'UR-tah, mung-GUD ah-sah-yuh-NY uh-BAH-kuh? uh-SHEE buh-des-TAH, tuh-kut-tuh-LUH-ny)",
-                    "translation": "Excuse me, could you please show me the way? Sure with pleasure, follow me."
+                    "target": "ይቅርታ፣ ውሃ አለ?",
+                    "reading": "Yeqerta, wəha alle?",
+                    "translation": "Excuse me, is there water?"
                 },
                 {
-                    "target": "ይቅርታ ያድርጉልኝ፣ ስህተት ሰርቻለሁ። ምንም ችግር የለም፣ ሁሉም ነገር ደህና ነው።",
-                    "reading": "Yəqərta yadrəgulləny, səhtät särəččallähu. Mənəm čəggər yälläm, hullum nägär dähna näw. [jɨkʼɨrˈta jadɨrɡulːɨɲ sɨhˈtɛt sɨrɨtʃːaˈlɨhu mɨˈnɨm tʃɨɡːɨr jɛlːɨm hulːum nɛˈɡɨr dɛhˈna nɛw] (yuh-K'UR-tah yah-dur-gool-LUH-ny, suh-TET suh-ruhch-CHAH-luh-hoo. muh-NUM chug-GUR yel-LUM, hool-LOOM neh-GUR deh-NAH neh)",
-                    "translation": "Please forgive me [polite], I made a mistake. No problem at all, everything is fine."
+                    "target": "እባክህ፣ እርዳኝ።",
+                    "reading": "Ebakeh, erdañ.",
+                    "translation": "Please help me (to male)."
+                },
+                {
+                    "target": "እባክዎ፣ ይግቡ።",
+                    "reading": "Ebakwo, yəgbu.",
+                    "translation": "Please enter (respectful formal)."
                 }
             ],
             "mnemonics": [
-                "Polite markers: እባክህ (please [m]), እባክሽ (please [f]), እባክዎ (please [polite]), አመሰግናለሁ (thank you), ይቅርታ (excuse me)!"
+                "አመሰግናለሁ (Thank you). ምንም አይደለም (You're welcome). ይቅርታ (Excuse me). እባክዎ (Please)!"
             ],
             "culturalNotes": [
-                "በኢትዮጵያ ባህል አንድ ነገር ሲሰጡ ወይም ሲቀበሉ በሁለት እጅ መቀበል ትልቅ የአክብሮት መግለጫ ነው።"
+                "«እግዚአብሔር ይስጥልኝ» የሚለው አገላለጽ በኢትዮጵያ ባሕል ጥልቅ ምስጋና የሚገለጽበት መሠረታዊ ምርቃት ነው።"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "አንድ ሰው ባደረገልህ ውለታ 'በጣም አመሰግናለሁ' ሲልህ፣ በአማርኛ ባህል ምን ብለህ ትመልሳለህ?",
+                    "prompt": "What is the standard Amharic word for \"Thank you\"?",
                     "options": [
-                        "ምንም አይደለም። (You are welcome / It's nothing - Correct polite response)",
-                        "አይ አልፈልግም።",
-                        "ዛሬ ረቡዕ ነው።",
-                        "ሰዓቱ አልቋል።"
+                        "አመሰግናለሁ (Amesegenalehu - Thank you)",
+                        "ይቅርታ (Yeqerta - Excuse me)",
+                        "ምንም አይደለም (You're welcome)",
+                        "ሰላም (Peace)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለምስጋና ምላሽ «ምንም አይደለም» (You are welcome) ይባላል።"
+                    "explanation": "«አመሰግናለሁ» (*Amesegenalehu*) is the standard phrase for \"Thank you\"."
+                },
+                {
+                    "prompt": "When someone thanks you in Amharic, what is the correct response meaning \"You are welcome / It is nothing\"?",
+                    "options": [
+                        "ምንም አይደለም (Menem aydellem - You're welcome / It's nothing)",
+                        "አመሰግናለሁ (Thank you)",
+                        "ይቅርታ (Excuse me)",
+                        "እንደምን ነህ? (How are you?)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«ምንም አይደለም» (*Menem aydellem*) is the polite response to \"thank you\"."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "አንዲትን ሴት በትህትና አንድ ነገር እንድታደርግልህ 'Please' ለማለት የትኛውን ቃል ትጠቀማለህ?",
+                    "prompt": "Select the Amharic word used to say \"Excuse me\" or \"I am sorry\":",
                     "options": [
-                        "እባክሽ (Please [to female] - Correct feminine form)",
-                        "እባክህ",
-                        "ይቅርታ አድርግልኝ",
-                        "አይደለም"
+                        "ይቅርታ (Yeqerta - Excuse me / Sorry)",
+                        "አመሰግናለሁ (Thank you)",
+                        "ምንም አይደለም (You're welcome)",
+                        "ሰላም (Peace)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለሴት ልመና ሲቀርብ «እባክሽ» ጥቅም ላይ ይውላል።"
+                    "explanation": "«ይቅርታ» (*Yeqerta*) means \"Excuse me / I am sorry\"."
+                },
+                {
+                    "prompt": "How do you say \"Please\" when addressing an esteemed elder or formal superior?",
+                    "options": [
+                        "እባክዎ (Ebakwo - Please formal)",
+                        "እባክህ (Ebakeh - Please to male)",
+                        "እባክሽ (Ebakesh - Please to female)",
+                        "ቻው (Bye)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«እባክዎ» (*Ebakwo*) is the formal honorific form of \"please\"."
                 }
             ]
         },
@@ -813,26 +923,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የተሳሳተ ድርጊት ሲፈጸም ለታላቅ ሰው በአክብሮት ይቅርታ ለመጠየቅ የሚያገለግለው የትኛው ነው?",
+                    "prompt": "What does «በጣም አመሰግናለሁ» (*Betam amesegenalehu*) mean in English?",
                     "options": [
-                        "ይቅርታ ያድርጉልኝ (Please forgive me [polite/respectful] - Correct formal apology)",
-                        "እባክሽ ሂጂ",
-                        "አመሰግናለሁ ዛሬ",
-                        "ምንም አይደለም"
+                        "Thank you very much",
+                        "Excuse me",
+                        "Good morning",
+                        "Goodbye"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለታላቅ ሰው «ይቅርታ ያድርጉልኝ» ተብሎ በአክብሮት ይቅርታ ይጠየቃል።"
+                    "explanation": "«በጣም» (very) + «አመሰግናለሁ» (thank you) = \"Thank you very much\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "'አመሰግናለሁ / Thank you' የሚለውን የአማርኛ ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
+                    "prompt": "Type the Fidel Amharic word for \"Excuse me / Sorry\" (y-e-q-e-r-t-a):",
                     "acceptedAnswers": [
-                        "አመሰግናለሁ"
+                        "ይቅርታ"
                     ],
-                    "explanation": "ትክክለኛው ቃል «አመሰግናለሁ» (Amäsäggənalähu) ነው።"
+                    "explanation": "«ይቅርታ» (*yeqerta*) = Excuse me / Sorry."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "am-u1-l5": {
@@ -840,62 +949,89 @@
         "subject": "amharic",
         "unit": 1,
         "lessonNumber": 5,
-        "title": "ስንብት እና የመሰረታዊ ሰላምታ ማጠቃለያ (Farewells & Unit 1 Grand Synthesis)",
+        "title": "ስንብት፣ መልካም ምኞቶች እና የአንደኛ ክፍል ማጠቃለያ (Farewells, Wishes & Unit 1 Synthesis)",
         "level": "A1",
-        "objective": "የስንብት ቃላትን (ደህና ሁን/ሁኚ/ሁኑ፣ ቻው፣ መልካም ቀን/ምሽት፣ ደህና እደር/እደሪ/እደሩ) ማወቅ እና የክፍል 1ን አጠቃላይ ሰላምታዎችና ራስን ማስተዋወቅ ማጠቃለል።",
+        "objective": "Master parting expressions (Dehna hun/huñi/hunu, Chao, Melkam qen), good wishes (Melkam mshet/lelit), and synthesize complete Unit 1 communication.",
         "presentation": {
-            "explanation": "የስንብት ቃላት እና የክፍል ፩ አጠቃላይ ሰዋሰዋዊ ውህደት:\n\n፩. የስንብት አገላለጾች:\n- «ደህና ሁን»: ለአንድ ወንድ የምንለው የስንብት ቃል ነው።\n- «ደህና ሁኚ»: ለአንዲት ሴት የምንለው የስንብት ቃል ነው።\n- «ደህና ሁኑ»: ለአዋቂ በአክብሮት ወይም ለብዙ ሰዎች የምንለው የስንብት ቃል ነው።\n- «ቻው»: በመደበኛ ያልሆነ የዕለት ተዕለት ጓደኝነት ውስጥ የሚያገለግል ቃል ነው።\n- «መልካም ቀን» (ቀኑ የተባረከ እንዲሆን ምኞት) / «መልካም ምሽት» (ምሽቱ ሰላማዊ እንዲሆን ምኞት)።\n- «ደህና እደር» (ለወንድ), «ደህና እደሪ» (ለሴት), «ደህና እደሩ» (ለአክብሮት)።\n- «ነገ እንገናኝ»: በቀጣዩ ቀን ለመገናኘት የሚደረግ ቀጠሮ ነው።\n\n፪. የክፍል ፩ አጠቃላይ ማጠቃለያ:\n- የግዕዝ ፊደል ሰባቱ ክፍሎች: ግዕዝ፣ ካዕብ፣ ሣልስ፣ ራብዕ፣ ኃምስ፣ ሳድስ፣ ሳብዕ።\n- የሰላምታ ጾታ እና አክብሮት ልዩነት: ለወንድ (-ህ/ነህ/አደርክ/ዋልክ/አመሸህ/ደህና ሁን)፣ ለሴት (-ሽ/ነሽ/አደርሽ/ዋልሽ/አመሸሽ/ደህና ሁኚ)፣ ለአክብሮት (-ዎት/ኖት/አደሩ/ዋሉ/አመሹ/ደህና ሁኑ)።\n- የዕለት ተዕለት ጨዋነት: አመሰግናለሁ፣ እባክህ/እባክሽ/እባክዎ፣ ይቅርታ፣ እግዚአብሔር ይመስገን።",
+            "explanation": "በዚህ ማጠቃለያ ትምህርት የስንብት እና የመልካም ምኞት አገላለጾችን እንማራለን፦\n\n1. የስንብት ቃላት፦\n- **ደህና ሁን** [Dehna hun] — Goodbye — ለወንድ\n- **ደህና ሁኚ** [Dehna huñi] — Goodbye — ለሴት\n- **ደህና ሁኑ** [Dehna hunu] — Goodbye — ለብዙ ሰዎች\n- **ቻው!** [Chao!] — Bye! — ወዳጃዊ\n- **ሰላም ሁን** [Selam hun] — Stay in peace\n\n2. መልካም ምኞቶች፦\n- **መልካም ቀን!** [Melkam qen!] — Have a nice day!\n- **መልካም ምሽት!** [Melkam mshet!] — Have a nice evening!\n- **መልካም ሌሊት!** [Melkam lelit!] — Good night!\n- **ደህና እደር** [Dehna eder] — Sleep well — ለወንድ\n- **ደህና እደሪ** [Dehna ederi] — Sleep well — ለሴት\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
-                    "target": "ደህና ሁን ወዳጄ፣ ነገ በትምህርት ቤት እንገናኝ፣ መልካም ቀን ይሁንልህ!",
-                    "reading": "Dähna hun wäddaje, nägä bätəməhərt bet ənnəggänany, mälkam qän yəhunəlləh! [dɛhˈna hun wɨdːaˈdʒe nɛˈɡɛ bɨtɨmˈhɨrt bet ɨnːɨɡːɛˈnaɲ mɛlˈkam kʼɨn jɨhunɨlːɨh] (deh-NAH hoon wud-dah-JAY, neh-GEH buh-tum-HURT bayt un-nug-guh-NAH-ny, mel-KAHM k'un yuh-hoon-ool-LUH!)",
-                    "translation": "Goodbye my friend [to male], see you tomorrow at school, have a wonderful day!"
+                    "target": "ደህና ሁን! — መልካም ቀን!",
+                    "reading": "Dehna hun! — Melkam qen!",
+                    "translation": "Goodbye! (to male) — Have a nice day!"
                 },
                 {
-                    "target": "ደህና ሁኚ እህቴ፣ ስለ እርዳታሽ በጣም አመሰግናለሁ፣ ቻው!",
-                    "reading": "Dähna hugnyi əhəte, səlärdataš bətam amäsäggənalähu, čaw! [dɛhˈna huɲi ɨhɨˈte sɨlɨrɨdaˈtaʃ bɨˈtʼam amɨsɨɡːɨˈnalɨhu tʃaw] (deh-NAH hoong-YEE uh-huh-TAY, suh-loor-dah-TAHSH buh-TAHM ah-muh-sug-guh-NAH-luh-hoo, CHAH-oo!)",
-                    "translation": "Goodbye my sister, thank you so much for your help, bye!"
+                    "target": "ደህና ሁኚ! — ቻው!",
+                    "reading": "Dehna huñi! — Chao!",
+                    "translation": "Goodbye! (to female) — Bye!"
                 },
                 {
-                    "target": "ደህና እደሩ አስተማሪዬ፣ ነገ በጠዋት በክፍል ውስጥ እንገናኛለን።",
-                    "reading": "Dähna ədäru astämariye, nägä bät'äwat bäkəfəl wəst' ənnəggänagnyallän. [dɛhˈna ɨdɨˈru astɨmaˈrije nɛˈɡɛ bɨtʼɨˈwat bɨkɨˈfɨl wɨstʼ ɨnːɨɡːɛnaɲalːɛn] (deh-NAH uh-dur-ROO ahs-tuh-mah-REE-yay, neh-GEH buh-t'uh-WAHT buh-kuh-FOOL woos-T' un-nug-gay-nah-nyahl-LEN)",
-                    "translation": "Good night teacher [polite], we will meet tomorrow morning in class."
+                    "target": "መልካም ምሽት ይሁንላችሁ!",
+                    "reading": "Melkam mshet yihunilachihu!",
+                    "translation": "Have a wonderful evening!"
+                },
+                {
+                    "target": "መልካም ሌሊት! ደህና እደር።",
+                    "reading": "Melkam lelit! Dehna eder.",
+                    "translation": "Good night! Sleep peacefully."
                 }
             ],
             "mnemonics": [
-                "Farewells: ደህና ሁን (bye [m]), ደህና ሁኚ (bye [f]), ደህና ሁኑ (bye [polite/pl]), ደህና እደር (good night [m]), ደህና እደሪ (good night [f]), ደህና እደሩ (good night [polite])!"
+                "ደህና ሁን (male). ደህና ሁኚ (female). መልካም ቀን (Have a nice day)!"
             ],
             "culturalNotes": [
-                "በኢትዮጵያ የስንብት ወቅት 'እግዚአብሔር ያገናኘን' (May God bring us together again) ወይም 'መልካም ይሁንልህ/ሽ' ብሎ መመረቅ ጥልቅ ማህበራዊ ልማድ ነው።"
+                "በኢትዮጵያ ባህል ስንብት በመልካም ምርቃት እና በሰላምታ የታጀበ ነው።"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ለአንድ ወንድ ጓደኛህ ሲሰናበትህ 'Goodbye / Stay well' ለማለት የትኛውን ትጠቀማለህ?",
+                    "prompt": "Which Amharic farewell is used to say \"Goodbye / Stay well\" to a woman?",
                     "options": [
-                        "ደህና ሁን፣ መልካም ቀን ይሁንልህ! (Goodbye, have a good day! [to male] - Correct masculine farewell)",
-                        "ደህና አደርሽ ትላንት።",
-                        "እንደምን አመሸህ አሁን?",
-                        "ስምሽ ማን ነው?"
+                        "ደህና ሁኚ (Dehna huñi - Goodbye fem.)",
+                        "ደህና ሁን (Dehna hun - Goodbye masc.)",
+                        "ደህና ሁኑ (Dehna hunu - Goodbye plural)",
+                        "እንደምን ነሽ?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለወንድ የስንብት አገላለጽ «ደህና ሁን» ነው።"
+                    "explanation": "«ደህና ሁኚ» (*Dehna huñi*) is addressed to a woman."
+                },
+                {
+                    "prompt": "Select the Amharic phrase meaning \"Have a nice day!\":",
+                    "options": [
+                        "መልካም ቀን! (Melkam qen! - Have a nice day!)",
+                        "መልካም ሌሊት! (Good night!)",
+                        "ስሜ ዳዊት ነው",
+                        "አመሰግናለሁ"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«መልካም ቀን!» (*Melkam qen!*) means \"Have a nice day!\"."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "ለአንዲት ሴት ማታ ወደ መኝታ ከመሄዷ በፊት 'Good night' ለማለት ትክክለኛው አገላለጽ የትኛው ነው?",
+                    "prompt": "How do you say \"Have a nice evening!\" in Amharic?",
                     "options": [
-                        "ደህና እደሪ እህቴ! (Good night my sister! [to female] - Correct feminine night farewell)",
-                        "ደህና ዋልክ ወንድሜ።",
-                        "እንደምን አደሩ አባባ።",
-                        "ምሳ በላሁ ዛሬ።"
+                        "መልካም ምሽት! (Melkam mshet! - Have a nice evening!)",
+                        "መልካም ቀን! (Have a nice day!)",
+                        "መልካም ሌሊት! (Good night!)",
+                        "ሰላም (Hello)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ለሴት በምሽት ማጠቃለያ «ደህና እደሪ» ይባላል።"
+                    "explanation": "«መልካም ምሽት!» (*Melkam mshet!*) means \"Have a nice evening!\"."
+                },
+                {
+                    "prompt": "What casual loanword is widely used in urban Ethiopia for \"Bye!\" among friends?",
+                    "options": [
+                        "ቻው (Chao - Bye informal)",
+                        "ሰላም",
+                        "ሎሚ",
+                        "ውሃ"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«ቻው» (*Chao*) is the standard informal urban farewell."
                 }
             ]
         },
@@ -903,26 +1039,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የክፍል 1ን አጠቃላይ የሰላምታ እና የስንብት ስርዓት በትክክል ያጠቃለለው የትኛው ነው?",
+                    "prompt": "What does «መልካም ሌሊት» mean in Amharic?",
                     "options": [
-                        "በአማርኛ ሰላምታ እና ስንብት የጾታ (ነህ/ነሽ፣ ደህና ሁን/ሁኚ) እና የአክብሮት (ኖት፣ ደህና ሁኑ/እደሩ) ህጎችን ጠብቆ ይገለጻል።",
-                        "በአማርኛ ስንብትና ሰላምታ ምንም ዓይነት የጾታ ልዩነት የላቸውም።",
-                        "ደህና ሁን የሚባለው ለሴት ብቻ ነው።",
-                        "መልካም ቀን ማለት በምሽት ብቻ የሚያገለግል ቃል ነው።"
+                        "Good night",
+                        "Good morning",
+                        "Good afternoon",
+                        "Thank you"
                     ],
                     "answerIndex": 0,
-                    "explanation": "የአማርኛ ሰላምታ እና ስንብት የጾታና የአክብሮት ስርዓትን ሙሉ በሙሉ የጠበቀ ነው።"
+                    "explanation": "«መልካም ሌሊት» (*Melkam lelit*) means \"Good night\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "'ደህና ሁን / Goodbye [to male]' የሚለውን የስንብት ሐረግ በግዕዝ ፊደላት ጻፉ:",
+                    "prompt": "Type the Fidel Amharic word for \"Good / Pleasant\" (m-e-l-k-a-m):",
                     "acceptedAnswers": [
-                        "ደህና ሁን"
+                        "መልካም"
                     ],
-                    "explanation": "ትክክለኛው የስንብት ሐረግ «ደህና ሁን» (Dähna hun) ነው።"
+                    "explanation": "«መልካም» (*melkam*) = Good / Pleasant."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "am-u2-l1": {
@@ -1655,7 +1790,7 @@
         "level": "A1",
         "objective": "ድርብ ወይም ከበባዊ መስተዋድዶችን (በ...ውስጥ፣ በ...ላይ፣ ከ...በታች፣ ከ...ጋር፣ ከ...በፊት፣ ከ...በኋላ) በትክክል መጠቀም።",
         "presentation": {
-            "explanation": "ድርብ እና ከበባዊ መስተዋድዶች:\n\nበአማርኛ ቋንቋ ቅድመ-መስተዋድድ እና ድኅረ-መስተዋድድ በአንድ ላይ በመጣመር ድርብ መስተዋድድ ይፈጥራሉ:\n\n፩. «በ...ውስጥ»:\n- በክፍሉ ውስጥ (Inside the room)\n- በሳጥኑ ውስጥ (Inside the box)\n- በልቤ ውስጥ (In my heart)።\n\n፪. «በ...ላይ»:\n- በጠረጴዛው ላይ (On the table)\n- በወንበሩ ላይ (On the chair)\n- በምድር ላይ (On earth)።\n\n፫. «ከ...በታች»:\n- ከዛፉ በታች (Under the tree)\n- ከአልጋው በታች (Under the bed)።\n\n፬. «ከ...ጋር»:\n- ከጓደኛዬ ጋር (With my friend)\n- ከአባቴ ጋር (With my father)።\n\n፭. የጊዜ ድርብ መስተዋድዶች:\n- «ከ...በፊት» (Before): ከምሳ በፊት\n- «ከ...በኋላ» (After): ከትምህርት በኋላ።",
+            "explanation": "ድርብ እና ከበባዊ መስተዋድዶች:\n\nበአማርኛ ቋንቋ ቅድመ-መስተዋድድ እና ድኅረ-መስተዋድድ በአንድ ላይ በመጣመር ድርብ መስተዋድድ ይፈጥራሉ:\n\n፩. «በ...ውስጥ»:\n- በክፍሉ ውስጥ (Inside the room)\n- በሳጥኑ ውስጥ (Inside the box)\n- በልቤ ውስጥ (In my heart)።\n\n፪. «በ...ላይ»:\n- በጠረጴዛው ላይ (On the table)\n- በወንበሩ ላይ (On the chair)\n- በምድር ላይ (On earth)።\n\n፫. «ከ...በታች»:\n- ከዛፉ በታች (Under the tree)\n- ከአልጋው በታች (Under the bed)።\n\n፬. «ከ...ጋር»:\n- ከጓደኛዬ ጋር (With my friend)\n- ከአባቴ ጋር (With my father)።\n\n፭. የጊዜ ድርብ መስተዋድዶች:\n- «ከ...በፊት» (Before): ከምሳ በፊት\n- «ከ...በኋላ» (After): ከትምህርት በኋላ።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "መጽሐፉ በጠረጴዛው ላይ ነው፣ ደብተሬ ደግሞ በቦርሳው ውስጥ አለ።",
@@ -1925,7 +2060,7 @@
         "level": "A1",
         "objective": "የዕለት ተዕለት ተግባራትን የሚገልጹ ዋና ዋና ግሶችን (መነሳት፣ መብላት፣ መጠጣት፣ መሥራት፣ መሄድ፣ መተኛት) በአሁን ጊዜ መተግበር።",
         "presentation": {
-            "explanation": "የዕለት ተዕለት ተግባራት እና የተለመዱ ግሶች:\n\n፩. ቁልፍ የዕለት ተዕለት ግሶች:\n- «መነሳት»: በጠዋት እነሳለሁ\n- «መብላት»: ቁርስ እበላለሁ\n- «መጠጣት»: ቡና እጠጣለሁ፣ ውኃ ትጠጣለች\n- «መሥራት»: ሥራ እሠራለሁ\n- «መሄድ»: ወደ ሥራ ይሄዳል\n- «መመለስ»: ወደ ቤት እንመለሳለን\n- «መተኛት»: በምሽት እተኛለሁ።\n\n፪. የዕለት ተዕለት የጊዜ አገባቦች:\n- «በጠዋት» (In the morning)\n- «በቀትር» ወይም «በምሳ ሰዓት» (At lunchtime)\n- «ከሰዓት በኋላ» (In the afternoon)\n- «በምሽት» ወይም «በማታ» (In the evening/at night)።",
+            "explanation": "የዕለት ተዕለት ተግባራት እና የተለመዱ ግሶች:\n\n፩. ቁልፍ የዕለት ተዕለት ግሶች:\n- «መነሳት»: በጠዋት እነሳለሁ\n- «መብላት»: ቁርስ እበላለሁ\n- «መጠጣት»: ቡና እጠጣለሁ፣ ውኃ ትጠጣለች\n- «መሥራት»: ሥራ እሠራለሁ\n- «መሄድ»: ወደ ሥራ ይሄዳል\n- «መመለስ»: ወደ ቤት እንመለሳለን\n- «መተኛት»: በምሽት እተኛለሁ።\n\n፪. የዕለት ተዕለት የጊዜ አገባቦች:\n- «በጠዋት» (In the morning)\n- «በቀትር» ወይም «በምሳ ሰዓት» (At lunchtime)\n- «ከሰዓት በኋላ» (In the afternoon)\n- «በምሽት» ወይም «በማታ» (In the evening/at night)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "እኔ ሁልጊዜ ጠዋት በሁለት ሰዓት እነሳለሁ፣ ቁርስ እበላለሁ፣ ከዚያም ቡና እጠጣለሁ።",
@@ -2105,7 +2240,7 @@
         "level": "A1",
         "objective": "የአሁን እና የልማዳዊ ጊዜ ግሶችን በአሉታዊ ቅጥያዎች (አል- ... -ም / አይ- ... -ም / አት- ... -ም / አን- ... -ም) ማርባት።",
         "presentation": {
-            "explanation": "የአሁን ጊዜ አሉታዊ የግስ እርባታ:\n\nበአማርኛ ቋንቋ የአሁን ጊዜን ወደ አሉታዊ ለመቀየር በግሱ መጀመሪያ ላይ «አል-/አ-/አት-/አይ-/አን-» እንዲሁም በመጨረሻ ላይ «-ም» ይገባል:\n\n፩. አሉታዊ የግስ እርባታ (ለምሳሌ «መብላት»):\n- «እኔ»: አል- ... -ም -> «አልበላም»\n- «አንተ»: አት- ... -ም -> «አትበላም»\n- «አንቺ»: አት- ... -ም -> «አትበዪም»\n- «እርስዎ»: አይ- ... -ም -> «አይበሉም»\n- «እሱ»: አይ- ... -ም -> «አይበላም»\n- «እሷ»: አት- ... -ም -> «አትበላም»\n- «እኛ»: አን- ... -ም -> «አንበላም»\n- «እናንተ»: አት- ... -ም -> «አትበሉም»\n- «እነሱ»: አይ- ... -ም -> «አይበሉም»።\n\n፪. ማስታወሻ:\n- በአሉታዊ አረፍተ ነገር ውስጥ የ«-አለሁ/-አለህ» ረዳት ቅጥያዎች ተወግደው «-ም» ይተካል።",
+            "explanation": "የአሁን ጊዜ አሉታዊ የግስ እርባታ:\n\nበአማርኛ ቋንቋ የአሁን ጊዜን ወደ አሉታዊ ለመቀየር በግሱ መጀመሪያ ላይ «አል-/አ-/አት-/አይ-/አን-» እንዲሁም በመጨረሻ ላይ «-ም» ይገባል:\n\n፩. አሉታዊ የግስ እርባታ (ለምሳሌ «መብላት»):\n- «እኔ»: አል- ... -ም -> «አልበላም»\n- «አንተ»: አት- ... -ም -> «አትበላም»\n- «አንቺ»: አት- ... -ም -> «አትበዪም»\n- «እርስዎ»: አይ- ... -ም -> «አይበሉም»\n- «እሱ»: አይ- ... -ም -> «አይበላም»\n- «እሷ»: አት- ... -ም -> «አትበላም»\n- «እኛ»: አን- ... -ም -> «አንበላም»\n- «እናንተ»: አት- ... -ም -> «አትበሉም»\n- «እነሱ»: አይ- ... -ም -> «አይበሉም»።\n\n፪. ማስታወሻ:\n- በአሉታዊ አረፍተ ነገር ውስጥ የ«-አለሁ/-አለህ» ረዳት ቅጥያዎች ተወግደው «-ም» ይተካል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "እኔ ቡና አልጠጣም፣ ሻይ ግን እጠጣለሁ።",
@@ -2285,7 +2420,7 @@
         "level": "A1",
         "objective": "የኢትዮጵያን የ12 ሰዓት የቀንና የሌሊት አቆጣጠር (ከጠዋቱ 12:00 ሰዓት እስከ ማታ 12:00 ሰዓት) እና ሰዓት መጠየቅን ማወቅ።",
         "presentation": {
-            "explanation": "የኢትዮጵያ የሰዓት አቆጣጠር ስርዓት:\n\nበኢትዮጵያ የቀን ሰዓት አቆጣጠር ከፀሐይ መውጣት (ከጠዋቱ 12:00 ሰዓት - በፈረንጅ 6:00 AM) ይጀምራል:\n\n፩. የቀን ሰዓታት:\n- በፈረንጅ 7:00 AM -> ከጠዋቱ ፩ (1) ሰዓት\n- በፈረንጅ 8:00 AM -> ከጠዋቱ ፪ (2) ሰዓት\n- በፈረንጅ 12:00 PM (ቀትር) -> ከቀኑ ፮ (6) ሰዓት\n- በፈረንጅ 1:00 PM -> ከቀኑ ፯ (7) ሰዓት\n- በፈረንጅ 6:00 PM (ጀምበር መጥለቂያ) -> ከምሽቱ ፲፪ (12) ሰዓት።\n\n፪. የሌሊት ሰዓታት:\n- በፈረንጅ 7:00 PM -> ከምሽቱ ፩ (1) ሰዓት\n- በፈረንጅ 12:00 AM (እኩለ ሌሊት) -> ከሌሊቱ ፮ (6) ሰዓት።\n\n፫. ደቂቃዎች እና ክፍልፋዮች:\n- «ተኩል» (Half past): ሦስት ሰዓት ተኩል (3:30 / 9:30 AM Western)\n- «ከሩብ» (Quarter past): አራት ሰዓት ከሩብ (4:15)\n- «ሩብ ጉዳይ» (Quarter to): አምስት ሰዓት ለሩብ ጉዳይ (4:45)።",
+            "explanation": "የኢትዮጵያ የሰዓት አቆጣጠር ስርዓት:\n\nበኢትዮጵያ የቀን ሰዓት አቆጣጠር ከፀሐይ መውጣት (ከጠዋቱ 12:00 ሰዓት - በፈረንጅ 6:00 AM) ይጀምራል:\n\n፩. የቀን ሰዓታት:\n- በፈረንጅ 7:00 AM -> ከጠዋቱ ፩ (1) ሰዓት\n- በፈረንጅ 8:00 AM -> ከጠዋቱ ፪ (2) ሰዓት\n- በፈረንጅ 12:00 PM (ቀትር) -> ከቀኑ ፮ (6) ሰዓት\n- በፈረንጅ 1:00 PM -> ከቀኑ ፯ (7) ሰዓት\n- በፈረንጅ 6:00 PM (ጀምበር መጥለቂያ) -> ከምሽቱ ፲፪ (12) ሰዓት።\n\n፪. የሌሊት ሰዓታት:\n- በፈረንጅ 7:00 PM -> ከምሽቱ ፩ (1) ሰዓት\n- በፈረንጅ 12:00 AM (እኩለ ሌሊት) -> ከሌሊቱ ፮ (6) ሰዓት።\n\n፫. ደቂቃዎች እና ክፍልፋዮች:\n- «ተኩል» (Half past): ሦስት ሰዓት ተኩል (3:30 / 9:30 AM Western)\n- «ከሩብ» (Quarter past): አራት ሰዓት ከሩብ (4:15)\n- «ሩብ ጉዳይ» (Quarter to): አምስት ሰዓት ለሩብ ጉዳይ (4:45)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ይቅርታ፣ አሁን በኢትዮጵያ አቆጣጠር ስንት ሰዓት ነው?",
@@ -2375,7 +2510,7 @@
         "level": "A1",
         "objective": "ሰባቱን የሳምንቱ ቀናት (ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ) እና የቀን ክፍለ-ጊዜያትን (ጠዋት፣ ቀትር፣ ከሰዓት፣ ምሽት፣ ሌሊት) መለየት።",
         "presentation": {
-            "explanation": "የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት:\n\n፩. የሳምንቱ ፯ቱ ቀናት:\n- «ሰኞ» (Monday)\n- «ማክሰኞ» (Tuesday)\n- «ረቡዕ» ወይም «ሮብ» (Wednesday)\n- «ሐሙስ» (Thursday)\n- «ዓርብ» (Friday)\n- «ቅዳሜ» (Saturday)\n- «እሑድ» (Sunday)።\n\n፪. የቀን ክፍለ-ጊዜያት:\n- «ጠዋት» (Morning: ከ12:00 እስከ 4:00 ሰዓት)\n- «ረፋድ» (Late morning: ከ4:00 እስከ 6:00 ሰዓት)\n- «ቀትር» (Midday / Noon: በ6:00 ሰዓት አካባቢ)\n- «ከሰዓት በኋላ» (Afternoon: ከ7:00 እስከ 11:00 ሰዓት)\n- «ምሽት» ወይም «ማታ» (Evening: ከ12:00 እስከ 4:00 ሌሊት)\n- «ሌሊት» (Late night / Midnight)።",
+            "explanation": "የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት:\n\n፩. የሳምንቱ ፯ቱ ቀናት:\n- «ሰኞ» (Monday)\n- «ማክሰኞ» (Tuesday)\n- «ረቡዕ» ወይም «ሮብ» (Wednesday)\n- «ሐሙስ» (Thursday)\n- «ዓርብ» (Friday)\n- «ቅዳሜ» (Saturday)\n- «እሑድ» (Sunday)።\n\n፪. የቀን ክፍለ-ጊዜያት:\n- «ጠዋት» (Morning: ከ12:00 እስከ 4:00 ሰዓት)\n- «ረፋድ» (Late morning: ከ4:00 እስከ 6:00 ሰዓት)\n- «ቀትር» (Midday / Noon: በ6:00 ሰዓት አካባቢ)\n- «ከሰዓት በኋላ» (Afternoon: ከ7:00 እስከ 11:00 ሰዓት)\n- «ምሽት» ወይም «ማታ» (Evening: ከ12:00 እስከ 4:00 ሌሊት)\n- «ሌሊት» (Late night / Midnight)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "እኛ ከሰኞ እስከ ዓርብ ድረስ በርትተን እንሠራለን።",
@@ -2465,7 +2600,7 @@
         "level": "A1",
         "objective": "ቀጠሮ መያዝን፣ መቼ እንደሆነ መጠየቅን (መቼ? በስንት ሰዓት?) እና የጊዜ መርሃ-ግብር ማዘጋጀትን መለማመድ።",
         "presentation": {
-            "explanation": "የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች:\n\n፩. የቀጠሮ ጥያቄዎች:\n- «መቼ?» (When?): መቼ እንገናኛለን?\n- «በስንት ሰዓት?» (At what time?): ስብሰባው በስንት ሰዓት ይጀምራል?\n- «የት?» (Where?): የት እንገናኝ?\n\n፪. የቀጠሮ መልሶችና ስምምነቶች:\n- «ቀጠሮ አለኝ» (I have an appointment)\n- «ይመቸኛል» (It is convenient for me)\n- «አይመቸኝም» (It is not convenient for me)\n- «በሰዓቱ መድረስ» (Arriving on time)\n- «ማርፈድ» (To be late): ይቅርታ አረፈድኩ።",
+            "explanation": "የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች:\n\n፩. የቀጠሮ ጥያቄዎች:\n- «መቼ?» (When?): መቼ እንገናኛለን?\n- «በስንት ሰዓት?» (At what time?): ስብሰባው በስንት ሰዓት ይጀምራል?\n- «የት?» (Where?): የት እንገናኝ?\n\n፪. የቀጠሮ መልሶችና ስምምነቶች:\n- «ቀጠሮ አለኝ» (I have an appointment)\n- «ይመቸኛል» (It is convenient for me)\n- «አይመቸኝም» (It is not convenient for me)\n- «በሰዓቱ መድረስ» (Arriving on time)\n- «ማርፈድ» (To be late): ይቅርታ አረፈድኩ።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሐሙስ ከሰዓት በኋላ በስምንት ሰዓት ቀጠሮ አለን።",
@@ -2555,7 +2690,7 @@
         "level": "A1",
         "objective": "አራቱን የኢትዮጵያ ወቅቶች (ክረምት፣ በጋ፣ መኸር፣ ጸደይ) እና የአየር ሁኔታ ቃላትን (ፀሐይ፣ ዝናብ፣ ብርድ፣ ሙቀት) መግለጽ።",
         "presentation": {
-            "explanation": "የኢትዮጵያ አራቱ ወቅቶች እና የአየር ንብረት:\n\n፩. አራቱ ወቅቶች:\n- «ክረምት» (Rainy Season: ሰኔ፣ ሐምሌ፣ ነሐሴ)\n- «መኸር» (Harvest Season: መስከረም፣ ጥቅምት፣ ኅዳር)\n- «በጋ» (Dry / Sunny Season: ታኅሣሥ፣ ጥር፣ የካቲት)\n- «ጸደይ» ወይም «በልግ» (Spring / Light Rains: መጋቢት፣ ሚያዝያ፣ ግንቦት)።\n\n፪. የአየር ሁኔታ መግለጫዎች:\n- «ፀሐይ»: ዛሬ ፀሐይ ወጥቷል\n- «ዝናብ»: ዝናብ እየዘነበ ነው\n- «ብርድ»: ብርድ አለ\n- «ሙቀት»: ሙቀት ነው\n- «ንፋስ»: ንፋስ ይነፍሳል።",
+            "explanation": "የኢትዮጵያ አራቱ ወቅቶች እና የአየር ንብረት:\n\n፩. አራቱ ወቅቶች:\n- «ክረምት» (Rainy Season: ሰኔ፣ ሐምሌ፣ ነሐሴ)\n- «መኸር» (Harvest Season: መስከረም፣ ጥቅምት፣ ኅዳር)\n- «በጋ» (Dry / Sunny Season: ታኅሣሥ፣ ጥር፣ የካቲት)\n- «ጸደይ» ወይም «በልግ» (Spring / Light Rains: መጋቢት፣ ሚያዝያ፣ ግንቦት)።\n\n፪. የአየር ሁኔታ መግለጫዎች:\n- «ፀሐይ»: ዛሬ ፀሐይ ወጥቷል\n- «ዝናብ»: ዝናብ እየዘነበ ነው\n- «ብርድ»: ብርድ አለ\n- «ሙቀት»: ሙቀት ነው\n- «ንፋስ»: ንፋስ ይነፍሳል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "በክረምት ወቅት ብዙ ዝናብ ይዘንባል፤ አየሩም ይቀዘቅዛል።",
@@ -3185,7 +3320,7 @@
         "level": "A2",
         "objective": "ቀላል የኃላፊ ጊዜ ግሶችን (ሄደ፣ መጣ፣ በላ፣ ጠጣ፣ ሠራ) በሁሉም መደቦች በትክክል ማርባት።",
         "presentation": {
-            "explanation": "ቀላል የኃላፊ ጊዜ ግስ እርባታ (Simple Past Tense Conjugation):\n\n፩. በኃላፊ ጊዜ የግስ ግንድ ላይ የሚጨመሩ የባለቤት ቅጥያዎች:\n- እኔ -> -ሁ (በላሁ / መጣሁ)\n- አንተ -> -ህ (በላህ / መጣህ)\n- አንቺ -> -ሽ (በላሽ / መጣሽ)\n- እርስዎ -> -ኡ (በሉ / መጡ)\n- እሱ -> -ኧ / መደበኛ ግንድ (በላ / መጣ / ሄደ)\n- እሷ -> -ች (በላች / መጣች / ሄደች)\n- እኛ -> -ን (በላን / መጣን / ሄድን)\n- እናንተ -> -አችሁ (በላችሁ / መጣችሁ)\n- እነሱ -> -ኡ (በሉ / መጡ / ሄዱ)።\n\n፪. ምሳሌ (ግስ: መሄድ - To go):\n- እኔ ሄድኩ (I went)\n- አንተ ሄድክ (You [m] went)\n- አንቺ ሄድሽ (You [f] went)\n- እሱ ሄደ (He went)\n- እሷ ሄደች (She went)\n- እኛ ሄድን (We went)።",
+            "explanation": "ቀላል የኃላፊ ጊዜ ግስ እርባታ (Simple Past Tense Conjugation):\n\n፩. በኃላፊ ጊዜ የግስ ግንድ ላይ የሚጨመሩ የባለቤት ቅጥያዎች:\n- እኔ -> -ሁ (በላሁ / መጣሁ)\n- አንተ -> -ህ (በላህ / መጣህ)\n- አንቺ -> -ሽ (በላሽ / መጣሽ)\n- እርስዎ -> -ኡ (በሉ / መጡ)\n- እሱ -> -ኧ / መደበኛ ግንድ (በላ / መጣ / ሄደ)\n- እሷ -> -ች (በላች / መጣች / ሄደች)\n- እኛ -> -ን (በላን / መጣን / ሄድን)\n- እናንተ -> -አችሁ (በላችሁ / መጣችሁ)\n- እነሱ -> -ኡ (በሉ / መጡ / ሄዱ)።\n\n፪. ምሳሌ (ግስ: መሄድ - To go):\n- እኔ ሄድኩ (I went)\n- አንተ ሄድክ (You [m] went)\n- አንቺ ሄድሽ (You [f] went)\n- እሱ ሄደ (He went)\n- እሷ ሄደች (She went)\n- እኛ ሄድን (We went)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "እኔ ትላንትና ጠዋት ወደ ትምህርት ቤት ሄድኩ።",
@@ -3275,7 +3410,7 @@
         "level": "A2",
         "objective": "ያለፉ የጊዜ አመልካች ቃላትን (ትላንት፣ ከትላንት ወዲያ፣ ባለፈው ሳምንት/ወር፣ ድሮ) ከኃላፊ ጊዜ ግሶች ጋር ማዛመድ።",
         "presentation": {
-            "explanation": "ያለፉ የጊዜ አመልካች ቃላት (Past Time Markers):\n\n፩. ዋና ዋና የጊዜ ቃላት:\n- «ትላንት» / «ትላንትና»: Yesterday\n- «ከትላንት ወዲያ»: The day before yesterday\n- «ባለፈው ሳምንት»: Last week\n- «ባለፈው ወር»: Last month\n- «ባለፈው ዓመት»: Last year\n- «ድሮ» / «በጥንት ጊዜ»: In the old days / long ago\n- «ከሁለት ቀን በፊት»: Two days ago።\n\n፪. በአረፍተ ነገር ውስጥ አጠቃቀም:\n- የጊዜ አመልካች ቃላት አብዛኛውን ጊዜ በአረፍተ ነገር መጀመሪያ ወይም ከባለቤት ቀጥሎ ይቀመጣሉ (ምሳሌ: እኔ ትላንት መጣሁ / ትላንት መጣሁ)።",
+            "explanation": "ያለፉ የጊዜ አመልካች ቃላት (Past Time Markers):\n\n፩. ዋና ዋና የጊዜ ቃላት:\n- «ትላንት» / «ትላንትና»: Yesterday\n- «ከትላንት ወዲያ»: The day before yesterday\n- «ባለፈው ሳምንት»: Last week\n- «ባለፈው ወር»: Last month\n- «ባለፈው ዓመት»: Last year\n- «ድሮ» / «በጥንት ጊዜ»: In the old days / long ago\n- «ከሁለት ቀን በፊት»: Two days ago።\n\n፪. በአረፍተ ነገር ውስጥ አጠቃቀም:\n- የጊዜ አመልካች ቃላት አብዛኛውን ጊዜ በአረፍተ ነገር መጀመሪያ ወይም ከባለቤት ቀጥሎ ይቀመጣሉ (ምሳሌ: እኔ ትላንት መጣሁ / ትላንት መጣሁ)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ትላንትና ከጓደኞቼ ጋር ወደ ቤተ-መጻሕፍት ሄጄ አነበብኩ።",
@@ -3366,7 +3501,7 @@
         "level": "A2",
         "objective": "በኃላፊ ጊዜ አሉታዊ መዋቅርን (አል- ... -ም) በሁሉም መደቦች በትክክል መጠቀም።",
         "presentation": {
-            "explanation": "የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Tense):\n\n፩. መዋቅር: አል- + የኃላፊ ግስ + -ም\n- እኔ አልሄድኩም (I did not go)\n- አንተ አልሄድክም (You [m] did not go)\n- አንቺ አልሄድሽም (You [f] did not go)\n- እርስዎ አልሄዱም (You [polite] did not go)\n- እሱ አልሄደም (He did not go)\n- እሷ አልሄደችም (She did not go)\n- እኛ አልሄድንም (We did not go)\n- እናንተ አልሄዳችሁም (You [pl] did not go)\n- እነሱ አልሄዱም (They did not go)።\n\n፪. ማስታወሻ:\n- በኃላፊ ጊዜ አሉታዊ ቅጥያ ሁልጊዜ በ«አል-» ጀምሮ በ«-ም» ይዘጋል።",
+            "explanation": "የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Tense):\n\n፩. መዋቅር: አል- + የኃላፊ ግስ + -ም\n- እኔ አልሄድኩም (I did not go)\n- አንተ አልሄድክም (You [m] did not go)\n- አንቺ አልሄድሽም (You [f] did not go)\n- እርስዎ አልሄዱም (You [polite] did not go)\n- እሱ አልሄደም (He did not go)\n- እሷ አልሄደችም (She did not go)\n- እኛ አልሄድንም (We did not go)\n- እናንተ አልሄዳችሁም (You [pl] did not go)\n- እነሱ አልሄዱም (They did not go)።\n\n፪. ማስታወሻ:\n- በኃላፊ ጊዜ አሉታዊ ቅጥያ ሁልጊዜ በ«አል-» ጀምሮ በ«-ም» ይዘጋል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "እኔ ትላንትና የታመምኩ ስለነበርኩ ወደ ሥራ አልሄድኩም።",
@@ -3456,7 +3591,7 @@
         "level": "A2",
         "objective": "ያለፉ የጉዞ ታሪኮችን፣ ታሪካዊ ቦታዎችን መጎብኘትንና የግል ተሞክሮዎችን በዝርዝር መግለጽ።",
         "presentation": {
-            "explanation": "ያለፈ ተሞክሮ እና የጉዞ ትረካ (Past Travel & Personal Experiences):\n\n፩. የጉዞ እና የጉብኝት ቃላት:\n- «መጎብኘት» (To visit) -> ጎበኘሁ / ጎበኘን\n- «መጓዝ» (To travel) -> ተጓዝኩ / ተጓዝን\n- «ማየት» (To see) -> አየሁ / አየን\n- «ማደር» (To spend the night) -> አደርን\n- «መመለስ» (To return) -> ተመለስን።\n\n፪. ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች:\n- «ላሊበላ» (Lalibela rock-hewn churches)\n- «ፋሲል ግቢ» (Fasil Ghebbi / Gondar castles)\n- «አክሱም» (Axum obelisks)\n- «ሐረር ጁጎል» (Harar Jugol wall)።",
+            "explanation": "ያለፈ ተሞክሮ እና የጉዞ ትረካ (Past Travel & Personal Experiences):\n\n፩. የጉዞ እና የጉብኝት ቃላት:\n- «መጎብኘት» (To visit) -> ጎበኘሁ / ጎበኘን\n- «መጓዝ» (To travel) -> ተጓዝኩ / ተጓዝን\n- «ማየት» (To see) -> አየሁ / አየን\n- «ማደር» (To spend the night) -> አደርን\n- «መመለስ» (To return) -> ተመለስን።\n\n፪. ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች:\n- «ላሊበላ» (Lalibela rock-hewn churches)\n- «ፋሲል ግቢ» (Fasil Ghebbi / Gondar castles)\n- «አክሱም» (Axum obelisks)\n- «ሐረር ጁጎል» (Harar Jugol wall)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "እኛ ባለፈው በጋ ወደ ላሊበላ ተጉዘን ውብ የሆኑትን ውቅር አብያተ ክርስቲያናት ጎበኘን።",
@@ -3636,7 +3771,7 @@
         "level": "A2",
         "objective": "መሰረታዊ አቅጣጫዎችን (ቀኝ፣ ግራ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ፣ መሃል፣ ቅርብ፣ ሩቅ) በትክክል መጠቀም።",
         "presentation": {
-            "explanation": "መሰረታዊ አቅጣጫዎች እና የቦታ አመልካች ቃላት (Directions & Spatial Terms):\n\n፩. መሰረታዊ አቅጣጫዎች:\n- «ቀኝ»: ወደ ቀኝ\n- «ግራ»: ወደ ግራ\n- «ቀጥታ» / «ፊት ለፊት»\n- «ጀርባ» / «ኋላ»\n- «መሃል»\n- «አጠገብ»።\n\n፪. የርቀት መግለጫዎች:\n- «ቅርብ»\n- «ሩቅ»።\n\n፫. አቅጣጫ ማሳያ ግሶች:\n- መታጠፍ -> ታጠፍ (m) / ታጠፊ (f) / ይታጠፉ (polite)\n- መሄድ -> ሂድ (m) / ሂጂ (f) / ይሂዱ (polite)\n- መሻገር -> ተሻገር (m) / ተሻገሪ (f) / ይሻገሩ (polite)።",
+            "explanation": "መሰረታዊ አቅጣጫዎች እና የቦታ አመልካች ቃላት (Directions & Spatial Terms):\n\n፩. መሰረታዊ አቅጣጫዎች:\n- «ቀኝ»: ወደ ቀኝ\n- «ግራ»: ወደ ግራ\n- «ቀጥታ» / «ፊት ለፊት»\n- «ጀርባ» / «ኋላ»\n- «መሃል»\n- «አጠገብ»።\n\n፪. የርቀት መግለጫዎች:\n- «ቅርብ»\n- «ሩቅ»።\n\n፫. አቅጣጫ ማሳያ ግሶች:\n- መታጠፍ -> ታጠፍ (m) / ታጠፊ (f) / ይታጠፉ (polite)\n- መሄድ -> ሂድ (m) / ሂጂ (f) / ይሂዱ (polite)\n- መሻገር -> ተሻገር (m) / ተሻገሪ (f) / ይሻገሩ (polite)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ወደ ቀኝ ታጠፍና ቀጥታ ሂድ፤ ባንኩ ከሆስፒታሉ አጠገብ ይገኛል።",
@@ -3816,7 +3951,7 @@
         "level": "A2",
         "objective": "የከተማ ውስጥ የትራንስፖርት አይነቶችን (ሰማያዊ ሚኒባስ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር) እና የጉዞ ቃላትን መጠቀም።",
         "presentation": {
-            "explanation": "የከተማ ትራንስፖርት አይነቶች እና የጉዞ ቃላት (City Transit Vocabulary):\n\n፩. የትራንስፖርት አይነቶች:\n- «ታክሲ» / «ሚኒባስ» (Minibus Taxi)\n- «አውቶቡስ» (City Bus)\n- «ቀላል ባቡር» (Addis Ababa Light Rail Train)\n- «ባጃጅ» (Bajaj / Three-wheeler)።\n\n፪. ተሳፋሪ እና ረዳት (ወያላ):\n- «ወያላ» / «ረዳት» (Taxi conductor)\n- «ተሳፋሪ» (Passenger)\n- «ጣቢያ» / «ተርሚናል» (Station / bus stop)።\n\n፫. ቁልፍ የጉዞ አገላለጾች:\n- «ወራጅ አለ!»\n- «መጨረሻ!»።",
+            "explanation": "የከተማ ትራንስፖርት አይነቶች እና የጉዞ ቃላት (City Transit Vocabulary):\n\n፩. የትራንስፖርት አይነቶች:\n- «ታክሲ» / «ሚኒባስ» (Minibus Taxi)\n- «አውቶቡስ» (City Bus)\n- «ቀላል ባቡር» (Addis Ababa Light Rail Train)\n- «ባጃጅ» (Bajaj / Three-wheeler)።\n\n፪. ተሳፋሪ እና ረዳት (ወያላ):\n- «ወያላ» / «ረዳት» (Taxi conductor)\n- «ተሳፋሪ» (Passenger)\n- «ጣቢያ» / «ተርሚናል» (Station / bus stop)።\n\n፫. ቁልፍ የጉዞ አገላለጾች:\n- «ወራጅ አለ!»\n- «መጨረሻ!»።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ወያላው «መርካቶ! መርካቶ!» እያለ ተሳፋሪዎችን ወደ ሚኒባሱ ይጠራል።",
@@ -3906,7 +4041,7 @@
         "level": "A2",
         "objective": "የትራንስፖርት ታሪፍ መጠየቅን (ታሪፉ ስንት ነው?)፣ የጉዞ ርቀትንና ሰዓትን መግለጽ።",
         "presentation": {
-            "explanation": "የትራንስፖርት ታሪፍ እና የጉዞ ርቀት (Fares & Commute Distance):\n\n፩. የታሪፍ እና የክፍያ ቃላት:\n- «ታሪፍ» / «የጉዞ ዋጋ» (Transit fare)\n- «ታሪፉ ስንት ብር ነው?» (How much is the fare?)\n- «ትኬት»: የባቡር ትኬት / የአውቶቡስ ትኬት\n- «መልስ»: መልስ ስጠኝ (Give me my change)።\n\n፪. የርቀት እና የጊዜ አገላለጾች:\n- «ስንት ኪሎሜትር ነው?»\n- «ስንት ደቂቃ ይወስዳል?»\n- «የትራፊክ መጨናነቅ አለ»።",
+            "explanation": "የትራንስፖርት ታሪፍ እና የጉዞ ርቀት (Fares & Commute Distance):\n\n፩. የታሪፍ እና የክፍያ ቃላት:\n- «ታሪፍ» / «የጉዞ ዋጋ» (Transit fare)\n- «ታሪፉ ስንት ብር ነው?» (How much is the fare?)\n- «ትኬት»: የባቡር ትኬት / የአውቶቡስ ትኬት\n- «መልስ»: መልስ ስጠኝ (Give me my change)።\n\n፪. የርቀት እና የጊዜ አገላለጾች:\n- «ስንት ኪሎሜትር ነው?»\n- «ስንት ደቂቃ ይወስዳል?»\n- «የትራፊክ መጨናነቅ አለ»።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ከቦሌ እስከ መክሲኮ ያለው የታክሲ ታሪፍ ስንት ብር ነው?",
@@ -4086,7 +4221,7 @@
         "level": "A2",
         "objective": "ዋና ዋና የቤተሰብ አባላትን (አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል፣ ሚስት) እና ቀለል ያሉ የባለቤትነት ቅጥያዎችን መጠቀም።",
         "presentation": {
-            "explanation": "የቅርብ ቤተሰብ አባላት መጠሪያዎች (Immediate Family Members):\n\n፩. መሰረታዊ የቤተሰብ መጠሪያዎች:\n- «አባት»: «አባቴ» (My father)\n- «እናት»: «እናቴ» (My mother)\n- «ወንድም»: «ወንድሜ» (My brother)\n- «እህት»: «እህቴ» (My sister)\n- «ልጅ»: «ወንድ ልጅ» / «ሴት ልጅ» -> «ልጄ» (My child)\n- «ባል»: «ባሌ» (My husband)\n- «ሚስት»: «ሚስቴ» (My wife)።\n\n፪. ጥያቄ እና መልስ:\n- «ስንት ወንድሞች እና እህቶች አሉህ/አሉሽ?»\n- «ሁለት ወንድሞች እና አንዲት እህት አሉኝ»።",
+            "explanation": "የቅርብ ቤተሰብ አባላት መጠሪያዎች (Immediate Family Members):\n\n፩. መሰረታዊ የቤተሰብ መጠሪያዎች:\n- «አባት»: «አባቴ» (My father)\n- «እናት»: «እናቴ» (My mother)\n- «ወንድም»: «ወንድሜ» (My brother)\n- «እህት»: «እህቴ» (My sister)\n- «ልጅ»: «ወንድ ልጅ» / «ሴት ልጅ» -> «ልጄ» (My child)\n- «ባል»: «ባሌ» (My husband)\n- «ሚስት»: «ሚስቴ» (My wife)።\n\n፪. ጥያቄ እና መልስ:\n- «ስንት ወንድሞች እና እህቶች አሉህ/አሉሽ?»\n- «ሁለት ወንድሞች እና አንዲት እህት አሉኝ»።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "አባቴና እናቴ በመምህርነት ሙያ ለረጅም ዓመታት ህዝባቸውን አገልግለዋል።",
@@ -4176,7 +4311,7 @@
         "level": "A2",
         "objective": "የተዘረጋ ቤተሰብን (አያት፣ አጎት፣ አክስት፣ የአጎት ልጅ፣ ምራት፣ አማች) በትክክል መጠቀም።",
         "presentation": {
-            "explanation": "የተዘረጋ ቤተሰብ እና የዝምድና መጠሪያዎች (Extended Family Terms):\n\n፩. የትውልድ ደረጃዎች:\n- «አያት»: የወንድ አያት / የሴት አያት -> «አያቴ»\n- «የልጅ ልጅ» -> «የልጅ ልጆቼ» (My grandchildren)።\n\n፪. አጎቶች እና አክስቶች:\n- «አጎት» (Uncle - የእናት ወይም የአባት ወንድም)\n- «አክስት» (Aunt - የእናት ወይም የአባት እህት)\n- «የአጎት ልጅ» / «የአክስት ልጅ» (Cousin)።\n\n፫. የጋብቻ ዝምድና (In-Laws):\n- «አማች» (In-law: Father/Mother-in-law, Brother-in-law, Son-in-law)\n- «ምራት» (Daughter-in-law)።",
+            "explanation": "የተዘረጋ ቤተሰብ እና የዝምድና መጠሪያዎች (Extended Family Terms):\n\n፩. የትውልድ ደረጃዎች:\n- «አያት»: የወንድ አያት / የሴት አያት -> «አያቴ»\n- «የልጅ ልጅ» -> «የልጅ ልጆቼ» (My grandchildren)።\n\n፪. አጎቶች እና አክስቶች:\n- «አጎት» (Uncle - የእናት ወይም የአባት ወንድም)\n- «አክስት» (Aunt - የእናት ወይም የአባት እህት)\n- «የአጎት ልጅ» / «የአክስት ልጅ» (Cousin)።\n\n፫. የጋብቻ ዝምድና (In-Laws):\n- «አማች» (In-law: Father/Mother-in-law, Brother-in-law, Son-in-law)\n- «ምራት» (Daughter-in-law)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "በበዓል ቀን ወደ አያቴ መንደር ሄደን አጎቶቼንና አክስቶቼን በሙሉ ተሰብስበን ጠየቅን።",
@@ -7507,7 +7642,7 @@
         "level": "B1",
         "objective": "የቦታ መገኛ መስተዋድዶችን (ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ/ጎን፣ መካከል) መጠቀም።",
         "presentation": {
-            "explanation": "የቦታ መገኛና አንጻራዊ አቀማመጥ መስተዋድዶች:\n\n፩. የመገኛ ቃላት (Spatial Prepositions):\n- በ... ላይ: በአንድ ነገር የላይኛው ክፍል ላይ (On / upon)።\n- በ... ሥር: ከአንድ ነገር በታች ወይም ከስር (Under / beneath)።\n- በ... ውስጥ: በአንድ ነገር ውስጣዊ ክፍል (Inside)።\n- በ... ውጭ: ከአንድ ነገር ወጣ ብሎ (Outside)።\n- በ... ፊት ለፊት: በአንድ ነገር ፊት ትይዩ (In front of)።\n- በ... ጀርባ / ኋላ: ከአንድ ነገር በስተጀርባ (Behind)።\n- በ... አጠገብ / ጎን: በአንድ ነገር ቅርበት (Beside / next to)።\n- በ... መካከል: በሁለት ወይም በብዙ ነገሮች መሃል (Between / among)።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«በ + [ስም] + [የቦታ መስተዋድድ] + አለ / ተቀምጧል»:\n- «መጽሐፉ በጠረጴዛው ላይ አለ»\n- «ድመቷ ከአልጋው ሥር ተኝታለች»።",
+            "explanation": "የቦታ መገኛና አንጻራዊ አቀማመጥ መስተዋድዶች:\n\n፩. የመገኛ ቃላት (Spatial Prepositions):\n- በ... ላይ: በአንድ ነገር የላይኛው ክፍል ላይ (On / upon)።\n- በ... ሥር: ከአንድ ነገር በታች ወይም ከስር (Under / beneath)።\n- በ... ውስጥ: በአንድ ነገር ውስጣዊ ክፍል (Inside)።\n- በ... ውጭ: ከአንድ ነገር ወጣ ብሎ (Outside)።\n- በ... ፊት ለፊት: በአንድ ነገር ፊት ትይዩ (In front of)።\n- በ... ጀርባ / ኋላ: ከአንድ ነገር በስተጀርባ (Behind)።\n- በ... አጠገብ / ጎን: በአንድ ነገር ቅርበት (Beside / next to)።\n- በ... መካከል: በሁለት ወይም በብዙ ነገሮች መሃል (Between / among)።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«በ + [ስም] + [የቦታ መስተዋድድ] + አለ / ተቀምጧል»:\n- «መጽሐፉ በጠረጴዛው ላይ አለ»\n- «ድመቷ ከአልጋው ሥር ተኝታለች»።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "መጽሐፉና የብርጭቆው ማስቀመጫ በጠረጴዛው ላይ ተቀምጠዋል።",
@@ -7778,7 +7913,7 @@
         "level": "B1",
         "objective": "የንጽጽር ግሶችን (ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል፣ ከ... ያንሳል) በመጠቀም ሁለት ነገሮችን ማወዳደር።",
         "presentation": {
-            "explanation": "የንጽጽር ሰዋሰዋዊ መዋቅር (Comparatives):\n\n፩. የንጽጽር አገላለጾች:\n- ከ... ይሻላል: አንደኛው ከሌላው የተሻለ ጥራት ሲኖረው (Is better than)።\n- ከ... ይበልጣል: በመጠን፣ በብዛት ወይም በእድሜ ሲበልጥ (Is greater / more than)።\n- ከ... ይልቃል: በከፍተኛ ብልጫ ሲያልፍ (Surpasses / exceeds)።\n- ከ... ያንሳል: በመጠን ወይም በደረጃ ሲያንስ (Is less / smaller than)።\n\n፪. ሰዋሰዋዊ ቀመር:\n[ስም ሀ] + [ከ + ስም ለ] + [ይሻላል / ይበልጣል / ያንሳል]:\n- «ቡና ከሻይ ይሻላል» (Coffee is better than tea)\n- «አዲስ አበባ ከሐዋሳ ትበልጣለች» (Addis Ababa is larger than Hawassa)።",
+            "explanation": "የንጽጽር ሰዋሰዋዊ መዋቅር (Comparatives):\n\n፩. የንጽጽር አገላለጾች:\n- ከ... ይሻላል: አንደኛው ከሌላው የተሻለ ጥራት ሲኖረው (Is better than)።\n- ከ... ይበልጣል: በመጠን፣ በብዛት ወይም በእድሜ ሲበልጥ (Is greater / more than)።\n- ከ... ይልቃል: በከፍተኛ ብልጫ ሲያልፍ (Surpasses / exceeds)።\n- ከ... ያንሳል: በመጠን ወይም በደረጃ ሲያንስ (Is less / smaller than)።\n\n፪. ሰዋሰዋዊ ቀመር:\n[ስም ሀ] + [ከ + ስም ለ] + [ይሻላል / ይበልጣል / ያንሳል]:\n- «ቡና ከሻይ ይሻላል» (Coffee is better than tea)\n- «አዲስ አበባ ከሐዋሳ ትበልጣለች» (Addis Ababa is larger than Hawassa)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ጠዋት በማለዳ መነሳት እና ማጥናት ከማታ ንባብ ይሻላል።",
@@ -7868,7 +8003,7 @@
         "level": "B1",
         "objective": "የላቀ ንጽጽርን (ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ፣ እጅግ በጣም) መጠቀም።",
         "presentation": {
-            "explanation": "የላቀ ደረጃ ሰዋሰዋዊ መዋቅር (Superlatives):\n\n፩. የላቀ ንጽጽር አገላለጾች:\n- ከሁሉ ይበልጣል: ከማንኛውም ነገር በላይ በብልጫ ደረጃ አንደኛ የሆነ (The greatest / most)።\n- ከሁሉ ይሻላል: በምርጥነትና በጥራት የመጨረሻው የተመረጠ (The best of all)።\n- ከሁሉም በላይ: ከሁሉም ነገሮች ቀዳሚ የሆነ (Above all / most importantly)።\n- እጅግ በጣም: ከፍተኛውን የጥራትና የጥልቀት ደረጃ የሚያመለክት (Extremely / exceptionally)።\n\n፪. ሰዋሰዋዊ ቀመር:\n[ስም] + [ከሁሉ / ከሁሉም በላይ] + [ቅጽል / ግስ]:\n- «ይህ መፍትሔ ከሁሉ ይሻላል» (This solution is the best of all)\n- «ራስ ዳሸን በኢትዮጵያ ከሁሉ ረጅሙ ተራራ ነው» (Ras Dashen is the tallest mountain in Ethiopia)።",
+            "explanation": "የላቀ ደረጃ ሰዋሰዋዊ መዋቅር (Superlatives):\n\n፩. የላቀ ንጽጽር አገላለጾች:\n- ከሁሉ ይበልጣል: ከማንኛውም ነገር በላይ በብልጫ ደረጃ አንደኛ የሆነ (The greatest / most)።\n- ከሁሉ ይሻላል: በምርጥነትና በጥራት የመጨረሻው የተመረጠ (The best of all)።\n- ከሁሉም በላይ: ከሁሉም ነገሮች ቀዳሚ የሆነ (Above all / most importantly)።\n- እጅግ በጣም: ከፍተኛውን የጥራትና የጥልቀት ደረጃ የሚያመለክት (Extremely / exceptionally)።\n\n፪. ሰዋሰዋዊ ቀመር:\n[ስም] + [ከሁሉ / ከሁሉም በላይ] + [ቅጽል / ግስ]:\n- «ይህ መፍትሔ ከሁሉ ይሻላል» (This solution is the best of all)\n- «ራስ ዳሸን በኢትዮጵያ ከሁሉ ረጅሙ ተራራ ነው» (Ras Dashen is the tallest mountain in Ethiopia)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ራስ ዳሸን በኢትዮጵያ ውስጥ ከሁሉ ከፍተኛውና ረጅሙ ተራራ ነው።",
@@ -8228,7 +8363,7 @@
         "level": "B1",
         "objective": "ተደራጊ ግሶችን በቅድመ-ቅጥያ «ተ-» በመጠቀም አድራጊው ላልታወቀ ወይም ለተደራጊው ትኩረት ለሚሰጥ ዓረፍተ ነገር መጠቀም።",
         "presentation": {
-            "explanation": "ተደራጊ የግስ ክፍሎች ሰዋሰዋዊ መዋቅር (Passive Voice):\n\n፩. የተደራጊ ግስ ምስረታ:\n- ቀዳሚው ግስ ላይ «ተ-» የሚለውን ቅድመ-ቅጥያ በማስገባት ይመሰረታል።\n- ጻፈ (Wrote) -> ተጻፈ (Was written)\n- ሰራ (Made/Built) -> ተሰራ (Was made/built)\n- አነበበ (Read) -> ተነበበ (Was read)\n- አዘጋጀ (Prepared) -> ተዘጋጀ (Was prepared)\n- ሰበረ (Broke) -> ተሰበረ (Was broken)\n\n፪. የተደራጊ ግስ አገልግሎት:\n- ድርጊቱ የተፈጸመበትን ነገር ወይም ተቀባዩን ለማጉላት።\n- አድራጊው በማይታወቅበት ወይም መጥቀስ በማያስፈልግበት ጊዜ («ቤቱ ተሰራ» / «ውሉ ተፈረመ»)።",
+            "explanation": "ተደራጊ የግስ ክፍሎች ሰዋሰዋዊ መዋቅር (Passive Voice):\n\n፩. የተደራጊ ግስ ምስረታ:\n- ቀዳሚው ግስ ላይ «ተ-» የሚለውን ቅድመ-ቅጥያ በማስገባት ይመሰረታል።\n- ጻፈ (Wrote) -> ተጻፈ (Was written)\n- ሰራ (Made/Built) -> ተሰራ (Was made/built)\n- አነበበ (Read) -> ተነበበ (Was read)\n- አዘጋጀ (Prepared) -> ተዘጋጀ (Was prepared)\n- ሰበረ (Broke) -> ተሰበረ (Was broken)\n\n፪. የተደራጊ ግስ አገልግሎት:\n- ድርጊቱ የተፈጸመበትን ነገር ወይም ተቀባዩን ለማጉላት።\n- አድራጊው በማይታወቅበት ወይም መጥቀስ በማያስፈልግበት ጊዜ («ቤቱ ተሰራ» / «ውሉ ተፈረመ»)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "አዲሱ የትምህርት መመሪያ በመምህራኑና በባለሙያዎቹ አማካኝነት በሚገባ ተዘጋጀ።",
@@ -8318,7 +8453,7 @@
         "level": "B1",
         "objective": "አስደራጊ ግሶችን በቅድመ-ቅጥያ «አ-» እና «አስ-» በመጠቀም ሌላ አካልን በማሰራት ወይም በማስደረግ ድርጊትን መግለጽ።",
         "presentation": {
-            "explanation": "አስደራጊ የግስ ክፍሎች ሰዋሰዋዊ ህግ (Causative Voice):\n\n፩. ቀላል አስደራጊ (Simple Causative with «አ-»):\n- ኢ-ተሻጋሪ ግስን ወደ ተሻጋሪ ለመቀየር ያገለግላል።\n- ወጣ (Went out) -> አወጣ (Took out / brought out)\n- ገባ (Entered) -> አገባ (Brought in / married)\n- ጠጣ (Drank) -> አጠጣ (Gave drink / watered)\n\n፪. ጠንካራ አስደራጊ (Agentive Causative with «አስ-»):\n- ድርጊቱን በሌላ ሦስተኛ አካል አማካኝነት ማከናወንን (Have someone do something) ያመለክታል።\n- ጻፈ (Wrote) -> አስጻፈ (Had someone write)\n- ሰራ (Made) -> አስሰራ (Had someone make / ordered)\n- ጠገነ (Repaired) -> አስጠገነ (Had something repaired)\n- አስተማረ (Taught / caused to learn)።",
+            "explanation": "አስደራጊ የግስ ክፍሎች ሰዋሰዋዊ ህግ (Causative Voice):\n\n፩. ቀላል አስደራጊ (Simple Causative with «አ-»):\n- ኢ-ተሻጋሪ ግስን ወደ ተሻጋሪ ለመቀየር ያገለግላል።\n- ወጣ (Went out) -> አወጣ (Took out / brought out)\n- ገባ (Entered) -> አገባ (Brought in / married)\n- ጠጣ (Drank) -> አጠጣ (Gave drink / watered)\n\n፪. ጠንካራ አስደራጊ (Agentive Causative with «አስ-»):\n- ድርጊቱን በሌላ ሦስተኛ አካል አማካኝነት ማከናወንን (Have someone do something) ያመለክታል።\n- ጻፈ (Wrote) -> አስጻፈ (Had someone write)\n- ሰራ (Made) -> አስሰራ (Had someone make / ordered)\n- ጠገነ (Repaired) -> አስጠገነ (Had something repaired)\n- አስተማረ (Taught / caused to learn)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "አባቴ የተበላሸውን መኪና በመካኒኩ በኩል አስጠገነ።",
@@ -8408,7 +8543,7 @@
         "level": "B1",
         "objective": "ተደራራጊ (የጋራ ድርጊት) እና ተደጋጋሚ (ተደጋግሞ የሚፈጸም) ግሶችን መጠቀም።",
         "presentation": {
-            "explanation": "ተደራራጊ እና ተደጋጋሚ የግስ ዓይነቶች:\n\n፩. ተደራራጊ ግሶች (Reciprocal Verbs):\n- ሁለትና ከዚያ በላይ የሆኑ አካላት ድርጊትን እርስ በርስ ሲፈራረቁ ወይም በጋራ ሲያደርጉ።\n- ቅርጽ: የግሱ መካከለኛ ፊደል ወደ አራተኛ (ወይም ሳድስ) ድምፅ ይረዝማል።\n- ተደገፈ -> ተደጋገፉ (Supported each other)\n- ተጨበጠ -> ተጨባበጡ (Shook hands with each other)\n- ተረዳ -> ተረዳዱ (Helped each other)\n- ተነጋገረ -> ተነጋገሩ (Talked with each other)\n\n፪. ተደጋጋሚ ድርጊት (Frequentative Verbs):\n- አንድ ድርጊት በተደጋጋሚና በቁርጥራጭ ሲፈጸም የሚገለጽበት የግስ ቅርጽ።\n- ቆረጠ -> ቆራረጠ (Cut into multiple pieces / chopped)\n- ሰበረ -> ሰባበረ (Smashed into pieces / shattered)።",
+            "explanation": "ተደራራጊ እና ተደጋጋሚ የግስ ዓይነቶች:\n\n፩. ተደራራጊ ግሶች (Reciprocal Verbs):\n- ሁለትና ከዚያ በላይ የሆኑ አካላት ድርጊትን እርስ በርስ ሲፈራረቁ ወይም በጋራ ሲያደርጉ።\n- ቅርጽ: የግሱ መካከለኛ ፊደል ወደ አራተኛ (ወይም ሳድስ) ድምፅ ይረዝማል።\n- ተደገፈ -> ተደጋገፉ (Supported each other)\n- ተጨበጠ -> ተጨባበጡ (Shook hands with each other)\n- ተረዳ -> ተረዳዱ (Helped each other)\n- ተነጋገረ -> ተነጋገሩ (Talked with each other)\n\n፪. ተደጋጋሚ ድርጊት (Frequentative Verbs):\n- አንድ ድርጊት በተደጋጋሚና በቁርጥራጭ ሲፈጸም የሚገለጽበት የግስ ቅርጽ።\n- ቆረጠ -> ቆራረጠ (Cut into multiple pieces / chopped)\n- ሰበረ -> ሰባበረ (Smashed into pieces / shattered)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ጓደኛሞች በረጅም ጊዜ ናፍቆት ተቃቅፈውና እጅ ለእጅ ተጨባብጠው ሰላምታ ተለዋወጡ።",
@@ -8588,7 +8723,7 @@
         "level": "B2",
         "objective": "በ«ከ-» ቅድመ-ቅጥያ የሚመሰረቱ እውነታዊ ሁኔታዎችንና ውጤቶቻቸውን መግለጽ።",
         "presentation": {
-            "explanation": "እውነታዊ ሁኔታዊ ዓረፍተ ነገሮች ሰዋሰዋዊ መዋቅር (Real Conditionals):\n\n፩. የእውነታዊ ሁኔታ ምስረታ:\n- ሁኔታው በእርግጥ ሊፈጸም የሚችል እውነተኛ ወይም ሊሆን የሚችል ቅድመ-ሁኔታ ሲሆን «ከ-» ቅድመ-ቅጥያ ከግሱ ጋር ይጣመራል።\n- ቀመር: [ከ- + [ግስ]] ... [ውጤት]:\n- «ከፈለግህ አብረን እንሄዳለን» (If you want, we will go together).\n- «ዝናብ ከጣለ ጃንጥላ ይዘን እንወጣለን» (If it rains, we will go out with an umbrella).\n- «ጠንክረህ ካጠናህ ፈተናውን በሚገባ ታልፋለህ» (If you study hard, you will pass the exam well)።\n\n፪. ሰዋሰዋዊ ባህሪ:\n- ቅድመ-ሁኔታው ሲሟላ ውጤቱ ወደፊት እንደሚፈጸም ያረጋግጣል።",
+            "explanation": "እውነታዊ ሁኔታዊ ዓረፍተ ነገሮች ሰዋሰዋዊ መዋቅር (Real Conditionals):\n\n፩. የእውነታዊ ሁኔታ ምስረታ:\n- ሁኔታው በእርግጥ ሊፈጸም የሚችል እውነተኛ ወይም ሊሆን የሚችል ቅድመ-ሁኔታ ሲሆን «ከ-» ቅድመ-ቅጥያ ከግሱ ጋር ይጣመራል።\n- ቀመር: [ከ- + [ግስ]] ... [ውጤት]:\n- «ከፈለግህ አብረን እንሄዳለን» (If you want, we will go together).\n- «ዝናብ ከጣለ ጃንጥላ ይዘን እንወጣለን» (If it rains, we will go out with an umbrella).\n- «ጠንክረህ ካጠናህ ፈተናውን በሚገባ ታልፋለህ» (If you study hard, you will pass the exam well)።\n\n፪. ሰዋሰዋዊ ባህሪ:\n- ቅድመ-ሁኔታው ሲሟላ ውጤቱ ወደፊት እንደሚፈጸም ያረጋግጣል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ጠንክረህ ካጠናህና ጊዜህን በአግባቡ ከተጠቀምክ ከፍተኛ ውጤት ታገኛለህ።",
@@ -8678,7 +8813,7 @@
         "level": "B2",
         "objective": "በ«ቢ-» ቅድመ-ቅጥያ የሚመሰረቱ ምናባዊ/መላምታዊ ሁኔታዎችንና «ነበር» የሚለውን ውጤት መጠቀም።",
         "presentation": {
-            "explanation": "ምናባዊ እና መላምታዊ ሁኔታዊ ዓረፍተ ነገሮች (Hypothetical Conditionals):\n\n፩. የምናባዊ ሁኔታ ምስረታ:\n- በአሁኑ ጊዜ እውን ያልሆነ ነገር ግን በምናብ ወይም በመላምት የሚታሰብ ቅድመ-ሁኔታ ሲሆን «ቢ-» ቅድመ-ቅጥያ ከግሱ ጋር ይጣመራል።\n- ቀመር: [ቢ- + [ግስ]] ... [[ግስ] + ነበር]:\n- «ጊዜ ቢኖረኝ አዲስ ቋንቋ እማር ነበር» (If I had time, I would learn a new language).\n- «ብር ቢኖረኝ ዓለምን እዞር ነበር» (If I had money, I would travel the world).\n- «እሱ ቢመጣ ደስ ይለን ነበር» (If he came, we would be delighted)።\n\n፪. ሰዋሰዋዊ ልዩነት:\n- «ከ-» (እውነታዊ) vs. «ቢ-» (ምናባዊ/መላምታዊ)።",
+            "explanation": "ምናባዊ እና መላምታዊ ሁኔታዊ ዓረፍተ ነገሮች (Hypothetical Conditionals):\n\n፩. የምናባዊ ሁኔታ ምስረታ:\n- በአሁኑ ጊዜ እውን ያልሆነ ነገር ግን በምናብ ወይም በመላምት የሚታሰብ ቅድመ-ሁኔታ ሲሆን «ቢ-» ቅድመ-ቅጥያ ከግሱ ጋር ይጣመራል።\n- ቀመር: [ቢ- + [ግስ]] ... [[ግስ] + ነበር]:\n- «ጊዜ ቢኖረኝ አዲስ ቋንቋ እማር ነበር» (If I had time, I would learn a new language).\n- «ብር ቢኖረኝ ዓለምን እዞር ነበር» (If I had money, I would travel the world).\n- «እሱ ቢመጣ ደስ ይለን ነበር» (If he came, we would be delighted)።\n\n፪. ሰዋሰዋዊ ልዩነት:\n- «ከ-» (እውነታዊ) vs. «ቢ-» (ምናባዊ/መላምታዊ)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "በቂ ትርፍ ጊዜ ቢኖረኝ አዳዲስ የሙዚቃ መሳሪያዎችን እለማመድ ነበር።",
@@ -8768,7 +8903,7 @@
         "level": "B2",
         "objective": "ያለፈ ጸጸትና ያልተፈጸመ ያለፈ ሁኔታን በ«ቢ... ኖሮ» + «ነበር» መግለጽ።",
         "presentation": {
-            "explanation": "ያለፈ ምናባዊ ሁኔታ (Counterfactual Conditionals in the Past):\n\n፩. የያለፈ ምናባዊ ሁኔታ ምስረታ:\n- ባለፈው ጊዜ ያልተፈጸመንና ሊቀየር የማይችልን ሁኔታ (ጸጸት ወይም ግምት) ለመግለጽ ያገለግላል።\n- ቀመር: [[ግስ] + ቢ- + ኖሮ] ... [[ግስ] + ነበር / አይሆንም ነበር]:\n- «በሰዓቱ ደርሶ ቢሆን ኖሮ ባቡሩ አያመልጠውም ነበር» (If he had arrived on time, he would not have missed the train).\n- «መረጃው ኖሮን ቢሆን ኖሮ ይህ ስህተት አይፈጠርም ነበር» (If we had had the info, this mistake wouldn't have occurred).\n- «ጠንክሮ ሠርቶ ቢሆን ኖሮ ይሳካለት ነበር» (If he had worked hard, he would have succeeded)።\n\n፪. ሰዋሰዋዊ ትርጉም:\n- ክስተቱ ባለፈው አልተፈጸመም፤ ውጤቱም አልተከሰተም።",
+            "explanation": "ያለፈ ምናባዊ ሁኔታ (Counterfactual Conditionals in the Past):\n\n፩. የያለፈ ምናባዊ ሁኔታ ምስረታ:\n- ባለፈው ጊዜ ያልተፈጸመንና ሊቀየር የማይችልን ሁኔታ (ጸጸት ወይም ግምት) ለመግለጽ ያገለግላል።\n- ቀመር: [[ግስ] + ቢ- + ኖሮ] ... [[ግስ] + ነበር / አይሆንም ነበር]:\n- «በሰዓቱ ደርሶ ቢሆን ኖሮ ባቡሩ አያመልጠውም ነበር» (If he had arrived on time, he would not have missed the train).\n- «መረጃው ኖሮን ቢሆን ኖሮ ይህ ስህተት አይፈጠርም ነበር» (If we had had the info, this mistake wouldn't have occurred).\n- «ጠንክሮ ሠርቶ ቢሆን ኖሮ ይሳካለት ነበር» (If he had worked hard, he would have succeeded)።\n\n፪. ሰዋሰዋዊ ትርጉም:\n- ክስተቱ ባለፈው አልተፈጸመም፤ ውጤቱም አልተከሰተም።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ትናንት በሰዓቱ ተነስቶ ቢሆን ኖሮ የጠዋቱ አውሮፕላን አያመልጠውም ነበር።",
@@ -8858,7 +8993,7 @@
         "level": "B2",
         "objective": "ተቃራኒና ቅድመ-ሁኔታዊ አያያዦችን (ቢ...ም እንኳ፣ ካልሆነ በቀር፣ እስከ... ድረስ) መጠቀም።",
         "presentation": {
-            "explanation": "ተቃራኒ እና ቅድመ-ሁኔታዊ ሰዋሰዋዊ አያያዦች:\n\n፩. ተቃራኒ ሁኔታዊ አያያዦች (Concessive Connectors):\n- ቢ...ም / ቢ...ም እንኳ: ምንም እንኳን ሁኔታው ቢኖርም ድርጊቱ ይፈጸማል (Even if / although)።\n- «መንገዱ ቢረዝምም እንኳ በደስታ እንጓዛለን» (Even if the road is long, we travel happily)።\n- «ቢከብድም ወደኋላ አንልም» (Even if it is hard, we will not back down)።\n\n፪. ቅድመ-ሁኔታዊ አያያዦች (Proviso & Negative Connectors):\n- ካልሆነ በቀር / ካልሆነ በስተቀር: ሁኔታው ካልተሟላ በስተቀር ሌላ አማራጭ የለም (Unless / except if)።\n- «ፈቃድ ካልተሰጠ በቀር መግባት አይቻልም» (Unless permission is given, entering is impossible)።\n- እስከ... ድረስ: ቅድመ-ሁኔታው እስከቀጠለበት ጊዜ (As long as / provided that)።\n- «እስከፈቀድክ ድረስ እቆያለሁ» (As long as you permit, I will stay)።",
+            "explanation": "ተቃራኒ እና ቅድመ-ሁኔታዊ ሰዋሰዋዊ አያያዦች:\n\n፩. ተቃራኒ ሁኔታዊ አያያዦች (Concessive Connectors):\n- ቢ...ም / ቢ...ም እንኳ: ምንም እንኳን ሁኔታው ቢኖርም ድርጊቱ ይፈጸማል (Even if / although)።\n- «መንገዱ ቢረዝምም እንኳ በደስታ እንጓዛለን» (Even if the road is long, we travel happily)።\n- «ቢከብድም ወደኋላ አንልም» (Even if it is hard, we will not back down)።\n\n፪. ቅድመ-ሁኔታዊ አያያዦች (Proviso & Negative Connectors):\n- ካልሆነ በቀር / ካልሆነ በስተቀር: ሁኔታው ካልተሟላ በስተቀር ሌላ አማራጭ የለም (Unless / except if)።\n- «ፈቃድ ካልተሰጠ በቀር መግባት አይቻልም» (Unless permission is given, entering is impossible)።\n- እስከ... ድረስ: ቅድመ-ሁኔታው እስከቀጠለበት ጊዜ (As long as / provided that)።\n- «እስከፈቀድክ ድረስ እቆያለሁ» (As long as you permit, I will stay)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ፈተናው ቢከብድም እንኳ በትጋትና በሙሉ ተስፋ ዝግጅታችንን እንቀጥላለን።",
@@ -8948,7 +9083,7 @@
         "level": "B2",
         "objective": "እውነታዊ፣ ምናባዊ፣ ያለፈ ምናባዊ እና ተቃራኒ ሁኔታዎችን ያቀናጀ የተሟላ የሎጂክና ውይይት ንግግር ማካሄድ።",
         "presentation": {
-            "explanation": "የክፍል ፲፱ አጠቃላይ ሰዋሰዋዊ ውህደት እና የሁኔታዊ አረፍተ ነገሮች ማጠቃለያ:\n\n፩. እውነታዊ ሁኔታዎች (Real Conditionals):\n- በ«ከ-» የሚመሰረቱ (ካጠናህ፣ ከፈለግህ፣ ከመጣህ)።\n\n፪. ምናባዊ ሁኔታዎች (Hypothetical Conditionals):\n- በ«ቢ-... ነበር» የሚመሰረቱ (ቢኖረኝ... ነበር፣ ቢመጣ... ነበር)።\n\n፫. ያለፈ ምናባዊ ሁኔታ (Past Counterfactuals):\n- በ«ቢ... ኖሮ... ነበር» የሚመሰረቱ (ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ)።\n\n፬. ተቃራኒና ቅድመ-ሁኔታዊ አያያዦች (Concessives & Provisos):\n- ቢ...ም እንኳ፣ ካልሆነ በቀር/በስተቀር፣ እስካለ ድረስ።",
+            "explanation": "የክፍል ፲፱ አጠቃላይ ሰዋሰዋዊ ውህደት እና የሁኔታዊ አረፍተ ነገሮች ማጠቃለያ:\n\n፩. እውነታዊ ሁኔታዎች (Real Conditionals):\n- በ«ከ-» የሚመሰረቱ (ካጠናህ፣ ከፈለግህ፣ ከመጣህ)።\n\n፪. ምናባዊ ሁኔታዎች (Hypothetical Conditionals):\n- በ«ቢ-... ነበር» የሚመሰረቱ (ቢኖረኝ... ነበር፣ ቢመጣ... ነበር)።\n\n፫. ያለፈ ምናባዊ ሁኔታ (Past Counterfactuals):\n- በ«ቢ... ኖሮ... ነበር» የሚመሰረቱ (ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ)።\n\n፬. ተቃራኒና ቅድመ-ሁኔታዊ አያያዦች (Concessives & Provisos):\n- ቢ...ም እንኳ፣ ካልሆነ በቀር/በስተቀር፣ እስካለ ድረስ።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ዕድሉን በአግባቡ ተጠቅመንበት ቢሆን ኖሮ ዛሬ ከዚህ እጅግ የላቀ ደረጃ ላይ እንደር ነበር።",
@@ -9038,7 +9173,7 @@
         "level": "B2",
         "objective": "ተገብሮ ግስን በተለያዩ የጊዜና የድርጊት ክፍሎች (ኃላፊ፣ ኃላፊ-ቀጣይ፣ ዘንድ፣ ንዑስ አንቀጽ) መጠቀም።",
         "presentation": {
-            "explanation": "የተገብሮ ግስ አወቃቀርና የጊዜ እርባታዎች (Passive Forms Across Tenses):\n\n፩. የኃላፊ ጊዜ ተገብሮ (Past Passive):\n- ተ- + ስርወ-ግስ: ተጻፈ (was written)፣ ተሰራ (was built/made)፣ ተዘጋጀ (was prepared)።\n\n፪. የወደፊት እና የአሁን ቀጣይ ተገብሮ (Present/Future & Continuous Passive):\n- ይጻፋል (it will be / is written)፣ ይሰራል (it will be built)።\n- እየተጻፈ ነው (it is being written)፣ እየተሰራ ነው (it is being constructed)።\n\n፫. የፍጻሜ ጊዜ ተገብሮ (Perfect / Gerundive Passive):\n- ተጽፏል (it has been written)፣ ተሰርቷል (it has been built/done)።",
+            "explanation": "የተገብሮ ግስ አወቃቀርና የጊዜ እርባታዎች (Passive Forms Across Tenses):\n\n፩. የኃላፊ ጊዜ ተገብሮ (Past Passive):\n- ተ- + ስርወ-ግስ: ተጻፈ (was written)፣ ተሰራ (was built/made)፣ ተዘጋጀ (was prepared)።\n\n፪. የወደፊት እና የአሁን ቀጣይ ተገብሮ (Present/Future & Continuous Passive):\n- ይጻፋል (it will be / is written)፣ ይሰራል (it will be built)።\n- እየተጻፈ ነው (it is being written)፣ እየተሰራ ነው (it is being constructed)።\n\n፫. የፍጻሜ ጊዜ ተገብሮ (Perfect / Gerundive Passive):\n- ተጽፏል (it has been written)፣ ተሰርቷል (it has been built/done)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "አዲሱ የጤና ጣቢያ በዘመናዊ የህክምና መሣሪያዎች ተሟልቶ ለህዝብ አገልግሎት እየተሰጠበት ነው።",
@@ -9128,7 +9263,7 @@
         "level": "B2",
         "objective": "በተገብሮ ዓረፍተ ነገር ውስጥ ድርጊት ፈጻሚውን በ«በ... አማካኝነት» / «በ... በኩል» ማሳወቅ።",
         "presentation": {
-            "explanation": "በተገብሮ ዓረፍተ ነገር ውስጥ ድርጊት ፈጻሚን የመግለጽ ሰዋሰዋዊ ህግ (Agentive Markers):\n\n፩. ዋና ዋና መስተዋድዳዊ አገላለጾች:\n- «በ... አማካኝነት» (Through / by means of):\n  «ውሳኔው በሚኒስቴሩ አማካኝነት ተላለፈ» (The decision was passed through the ministry)።\n- «በ... በኩል» (On the part of / by):\n  «ድጋፉ በበጎ አድራጊዎች በኩል ተሰጠ» (The support was given on the part of benefactors)።\n- «በ... እጅ» (By the hand of):\n  «ስዕሉ በታላቁ ሰዓሊ እጅ ተሳለ» (The painting was drawn by the great artist's hand)።\n\n፪. የአገባብ አጠቃቀም:\n- ድርጊቱ የተፈጸመበትን ተደራጊ በማስቀደም ድርጊት ፈጻሚውን በመስተዋድድ ማያያዝ።",
+            "explanation": "በተገብሮ ዓረፍተ ነገር ውስጥ ድርጊት ፈጻሚን የመግለጽ ሰዋሰዋዊ ህግ (Agentive Markers):\n\n፩. ዋና ዋና መስተዋድዳዊ አገላለጾች:\n- «በ... አማካኝነት» (Through / by means of):\n  «ውሳኔው በሚኒስቴሩ አማካኝነት ተላለፈ» (The decision was passed through the ministry)።\n- «በ... በኩል» (On the part of / by):\n  «ድጋፉ በበጎ አድራጊዎች በኩል ተሰጠ» (The support was given on the part of benefactors)።\n- «በ... እጅ» (By the hand of):\n  «ስዕሉ በታላቁ ሰዓሊ እጅ ተሳለ» (The painting was drawn by the great artist's hand)።\n\n፪. የአገባብ አጠቃቀም:\n- ድርጊቱ የተፈጸመበትን ተደራጊ በማስቀደም ድርጊት ፈጻሚውን በመስተዋድድ ማያያዝ።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የሰላም ስምምነቱ በሽምግልና ኮሚቴው አማካኝነት በይፋ ተፈረመ።",
@@ -9218,7 +9353,7 @@
         "level": "B2",
         "objective": "በዜና፣ በመንግሥት መግለጫዎችና በህጋዊ ሰነዶች ውስጥ ተገብሮ ግስን በሙያዊ ደረጃ መጠቀም።",
         "presentation": {
-            "explanation": "ተገብሮ ግስ በዜና እና ይፋዊ መግለጫዎች ውስጥ (Journalistic & Official Passive):\n\n፩. የዜና ቋንቋ ባህሪያት:\n- ዜናና ይፋዊ መግለጫዎች ገለልተኛ፣ ሚዛናዊና መደበኛ ቃና እንዲኖራቸው ተገብሮ ግስ በስፋት ጥቅም ላይ ይውላል።\n\n፪. ዋና ዋና ይፋዊ ተገብሮ አገላለጾች:\n- «ስብሰባ ተካሄደ» (Meeting was held)\n- «ውይይት ተደረገ» (Discussion was conducted)\n- «አዋጅ ታወጀ» (Proclamation was declared)\n- «ስምምነት ተፈረመ» (Agreement was signed)\n- «ውሳኔ ተላለፈ» (Decision was passed)\n- «መግለጫ ተሰጠ» (Statement was issued)።",
+            "explanation": "ተገብሮ ግስ በዜና እና ይፋዊ መግለጫዎች ውስጥ (Journalistic & Official Passive):\n\n፩. የዜና ቋንቋ ባህሪያት:\n- ዜናና ይፋዊ መግለጫዎች ገለልተኛ፣ ሚዛናዊና መደበኛ ቃና እንዲኖራቸው ተገብሮ ግስ በስፋት ጥቅም ላይ ይውላል።\n\n፪. ዋና ዋና ይፋዊ ተገብሮ አገላለጾች:\n- «ስብሰባ ተካሄደ» (Meeting was held)\n- «ውይይት ተደረገ» (Discussion was conducted)\n- «አዋጅ ታወጀ» (Proclamation was declared)\n- «ስምምነት ተፈረመ» (Agreement was signed)\n- «ውሳኔ ተላለፈ» (Decision was passed)\n- «መግለጫ ተሰጠ» (Statement was issued)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "በአፍሪካ ህብረት አዳራሽ የአህጉሪቱ መሪዎች የተሳተፉበት ታላቅ ጉባኤ በስኬት ተካሄደ።",
@@ -9488,7 +9623,7 @@
         "level": "B2",
         "objective": "የጊዜ ተውሳከ ግሶችን (ዛሬ፣ ትናንት፣ ነገ፣ አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ፣ አስቀድሞ) መጠቀም።",
         "presentation": {
-            "explanation": "የጊዜ ተውሳከ ግሶች ሰዋሰዋዊ ህግና አጠቃቀም (Adverbs of Time):\n\n፩. ዋና ዋና የጊዜ ተውሳከ ግሶች:\n- አሁን (Now) / ወዲያውኑ (Immediately / right away)\n- ዛሬ (Today) / ትናንት (Yesterday) / ነገ (Tomorrow)\n- ሁልጊዜ (Always) / አዘውትሮ (Frequently / regularly)\n- አልፎ አልፎ (Sometimes / occasionally) / እምብዛም (Rarely / seldom)\n- አስቀድሞ (Beforehand) / ቀደም ሲል (Previously) / ወደፊት (In the future)።\n\n፪. ሰዋሰዋዊ ተግባር:\n- ድርጊቱ የተፈጸመበትን፣ የሚፈጸምበትን ወይም የሚከናወንበትን ጊዜ ለመግለጽ ከግሱ በፊት ወይም በዓረፍተ ነገሩ መጀመሪያ ይቀመጣሉ።",
+            "explanation": "የጊዜ ተውሳከ ግሶች ሰዋሰዋዊ ህግና አጠቃቀም (Adverbs of Time):\n\n፩. ዋና ዋና የጊዜ ተውሳከ ግሶች:\n- አሁን (Now) / ወዲያውኑ (Immediately / right away)\n- ዛሬ (Today) / ትናንት (Yesterday) / ነገ (Tomorrow)\n- ሁልጊዜ (Always) / አዘውትሮ (Frequently / regularly)\n- አልፎ አልፎ (Sometimes / occasionally) / እምብዛም (Rarely / seldom)\n- አስቀድሞ (Beforehand) / ቀደም ሲል (Previously) / ወደፊት (In the future)።\n\n፪. ሰዋሰዋዊ ተግባር:\n- ድርጊቱ የተፈጸመበትን፣ የሚፈጸምበትን ወይም የሚከናወንበትን ጊዜ ለመግለጽ ከግሱ በፊት ወይም በዓረፍተ ነገሩ መጀመሪያ ይቀመጣሉ።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ተማሪዎቹ አሁን በክፍል ውስጥ እየተማሩ ሲሆን ወዲያውኑ ወደ ቤተ-መጽሐፍት ያመራሉ (21.1.1)።",
@@ -9578,7 +9713,7 @@
         "level": "B2",
         "objective": "የቦታ (እዚህ፣ እዚያ፣ ቅርብ፣ ሩቅ) እና የሁኔታ (በፍጥነት፣ በዝግታ፣ በጥንቃቄ፣ በድፍረት) ተውሳከ ግሶችን መጠቀም።",
         "presentation": {
-            "explanation": "የቦታ እና የሁኔታ ተውሳከ ግሶች ሰዋሰዋዊ ደንብ (Adverbs of Place & Manner):\n\n፩. የቦታ ተውሳከ ግሶች (Adverbs of Place):\n- እዚህ (Here) / እዚያ (There)\n- ቅርብ (Near / close) / ሩቅ (Far)\n- ውስጥ (Inside) / ውጭ (Outside) / ዙሪያ (Around)።\n\n፪. የሁኔታ ተውሳከ ግሶች (Adverbs of Manner):\n- በ«በ-» ቅድመ-ቅጥያ ከስሞች ጋር በመጣመር ይመሰረታሉ:\n- በፍጥነት (Quickly / fast) / በዝግታ / በቀስታ (Slowly)\n- በጥንቃቄ (Carefully) / በድፍረት (Boldly / courageously)\n- በደስታ (Happily / joyfully) / በደንብ (Properly / thoroughly)።",
+            "explanation": "የቦታ እና የሁኔታ ተውሳከ ግሶች ሰዋሰዋዊ ደንብ (Adverbs of Place & Manner):\n\n፩. የቦታ ተውሳከ ግሶች (Adverbs of Place):\n- እዚህ (Here) / እዚያ (There)\n- ቅርብ (Near / close) / ሩቅ (Far)\n- ውስጥ (Inside) / ውጭ (Outside) / ዙሪያ (Around)።\n\n፪. የሁኔታ ተውሳከ ግሶች (Adverbs of Manner):\n- በ«በ-» ቅድመ-ቅጥያ ከስሞች ጋር በመጣመር ይመሰረታሉ:\n- በፍጥነት (Quickly / fast) / በዝግታ / በቀስታ (Slowly)\n- በጥንቃቄ (Carefully) / በድፍረት (Boldly / courageously)\n- በደስታ (Happily / joyfully) / በደንብ (Properly / thoroughly)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "አሽከርካሪው መኪናውን በተጨናነቀው መንገድ ላይ በጥንቃቄና በዝግታ አሽከረከረ።",
@@ -9668,7 +9803,7 @@
         "level": "B2",
         "objective": "የምክንያትና ውጤት አያያዦችን (ስለሆነም፣ ስለዚህ፣ በመሆኑም፣ በዚህ ምክንያት፣ ሳቢያ) መጠቀም።",
         "presentation": {
-            "explanation": "የመንስኤ እና የውጤት አያያዥ ቃላት ሰዋሰዋዊ ህግ (Causal & Consecutive Conjunctions):\n\n፩. የመንስኤ አያያዦች (Causal Connectors):\n- ስለ... (Because / since): «ስለደከመኝ ተኛሁ» (Because I was tired, I slept)።\n- በ... ሳቢያ / ምክንያት (Due to / owing to): «በዝናቡ ሳቢያ መንገዱ ተዘጋ» (Due to the rain the road closed)።\n\n፪. የውጤት አያያዦች (Consecutive / Resultative Connectors):\n- ስለዚህ / ስለሆነም (Therefore / so / thus)\n- በመሆኑም (Consequently / as a result)\n- በዚህም ምክንያት (For this reason / consequently)።",
+            "explanation": "የመንስኤ እና የውጤት አያያዥ ቃላት ሰዋሰዋዊ ህግ (Causal & Consecutive Conjunctions):\n\n፩. የመንስኤ አያያዦች (Causal Connectors):\n- ስለ... (Because / since): «ስለደከመኝ ተኛሁ» (Because I was tired, I slept)።\n- በ... ሳቢያ / ምክንያት (Due to / owing to): «በዝናቡ ሳቢያ መንገዱ ተዘጋ» (Due to the rain the road closed)።\n\n፪. የውጤት አያያዦች (Consecutive / Resultative Connectors):\n- ስለዚህ / ስለሆነም (Therefore / so / thus)\n- በመሆኑም (Consequently / as a result)\n- በዚህም ምክንያት (For this reason / consequently)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ተማሪው በትጋት አጠና፤ ስለዚህ በፈተናው ከፍተኛ ውጤት በማስመዝገብ አንደኛ ወጣ።",
@@ -9758,7 +9893,7 @@
         "level": "B2",
         "objective": "የተቃርኖ (ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም) እና የአማራጭ (ወይም፣ አልያም) አያያዦችን መጠቀም።",
         "presentation": {
-            "explanation": "የተቃርኖ እና የአማራጭ አያያዥ ቃላት (Adversative & Alternative Connectors):\n\n፩. የተቃርኖ አያያዦች (Adversative Conjunctions):\n- ነገር ግን / ሆኖም ግን (However / but / yet)\n- ይሁን እንጂ / ይሁንና (Nevertheless / nonetheless)\n- ይልቁንም (Rather / instead / even more so)።\n\n፪. የአማራጭ አያያዦች (Alternative Conjunctions):\n- ወይም (Or)\n- አልያም / ካልሆነ (Alternatively / otherwise / or else)።",
+            "explanation": "የተቃርኖ እና የአማራጭ አያያዥ ቃላት (Adversative & Alternative Connectors):\n\n፩. የተቃርኖ አያያዦች (Adversative Conjunctions):\n- ነገር ግን / ሆኖም ግን (However / but / yet)\n- ይሁን እንጂ / ይሁንና (Nevertheless / nonetheless)\n- ይልቁንም (Rather / instead / even more so)።\n\n፪. የአማራጭ አያያዦች (Alternative Conjunctions):\n- ወይም (Or)\n- አልያም / ካልሆነ (Alternatively / otherwise / or else)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "መንገዱ እጅግ አድካሚ ነበር፤ ሆኖም ግን ተጓዦቹ ሳይሰለቹ ጉዟቸውን በደስታ አጠናቀቁ።",
@@ -9938,7 +10073,7 @@
         "level": "B2",
         "objective": "በኃላፊ (አልጻፈም)፣ በአሁን/ወደፊት (አይጽፍም) እና በቀጣይ/ፍጻሜ (አልጻፈም ነበር / አልተጻፈም) አሉታዊ አረፍተ ነገሮችን ማዋቀር።",
         "presentation": {
-            "explanation": "የተለያዩ የጊዜ አሉታዊ ቅርጾች ሰዋሰዋዊ ደንቦች (Negation Across Tenses):\n\n፩. የኃላፊ ጊዜ አሉታዊ (Past Negation: አል- + ግስ + -ም):\n- አልሄደም (He didn't go) / አልበላችም (She didn't eat) / አልመጡም (They didn't come)።\n\n፪. የወደፊት እና የአሁን ጊዜ አሉታዊ (Present/Future Negation: አይ- / አል- + ግስ + -ም):\n- አይሄድም (He won't go / doesn't go) / አትሄድም (She doesn't go) / አንሄድም (We don't go)።\n\n፫. በንዑስ አንቀጽ ውስጥ አሉታዊነት (Subordinate Negation without «-ም»):\n- ሳይሄድ (Without him going) / ሳያጠና (Without studying) / ባይመጣ (If he doesn't come)።",
+            "explanation": "የተለያዩ የጊዜ አሉታዊ ቅርጾች ሰዋሰዋዊ ደንቦች (Negation Across Tenses):\n\n፩. የኃላፊ ጊዜ አሉታዊ (Past Negation: አል- + ግስ + -ም):\n- አልሄደም (He didn't go) / አልበላችም (She didn't eat) / አልመጡም (They didn't come)።\n\n፪. የወደፊት እና የአሁን ጊዜ አሉታዊ (Present/Future Negation: አይ- / አል- + ግስ + -ም):\n- አይሄድም (He won't go / doesn't go) / አትሄድም (She doesn't go) / አንሄድም (We don't go)።\n\n፫. በንዑስ አንቀጽ ውስጥ አሉታዊነት (Subordinate Negation without «-ም»):\n- ሳይሄድ (Without him going) / ሳያጠና (Without studying) / ባይመጣ (If he doesn't come)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ተማሪው ትምህርቱን በሚገባ ስላላጠና በፈተናው ወቅት የሚፈለገውን ውጤት አላመጣም።",
@@ -10028,7 +10163,7 @@
         "level": "B2",
         "objective": "አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን (ማንም፣ ምንም፣ የትም፣ በፍጹም፣ ከቶ) ከአሉታዊ ግስ ጋር ማጣመር።",
         "presentation": {
-            "explanation": "ልዩ አሉታዊ ቃላትና አጠቃቀማቸው (Negative Pronouns & Polar Words):\n\n፩. አሉታዊ ተውላጠ ስሞች (Negative Pronouns):\n- ማንም + አሉታዊ ግስ (Nobody / no one / anyone):\n  «ማንም አልመጣም» (Nobody came)።\n- ምንም + አሉታዊ ግስ (Nothing / anything):\n  «ምንም አላየሁም» (I saw nothing)።\n- የትም + አሉታዊ ግስ (Nowhere / anywhere):\n  «የትም አልሄድኩም» (I went nowhere)።\n\n፪. አጽንኦት ሰጪ አሉታዊ ቃላት (Emphatic Negative Adverbs):\n- በፍጹም (Never / not at all / absolutely not)\n- ከቶ / ከቶውንም (Never / by no means)።",
+            "explanation": "ልዩ አሉታዊ ቃላትና አጠቃቀማቸው (Negative Pronouns & Polar Words):\n\n፩. አሉታዊ ተውላጠ ስሞች (Negative Pronouns):\n- ማንም + አሉታዊ ግስ (Nobody / no one / anyone):\n  «ማንም አልመጣም» (Nobody came)።\n- ምንም + አሉታዊ ግስ (Nothing / anything):\n  «ምንም አላየሁም» (I saw nothing)።\n- የትም + አሉታዊ ግስ (Nowhere / anywhere):\n  «የትም አልሄድኩም» (I went nowhere)።\n\n፪. አጽንኦት ሰጪ አሉታዊ ቃላት (Emphatic Negative Adverbs):\n- በፍጹም (Never / not at all / absolutely not)\n- ከቶ / ከቶውንም (Never / by no means)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "በስብሰባው አዳራሽ ውስጥ ማንም ሰው አልተገኘም፤ ክፍሉም ጭር ብሏል።",
@@ -10118,7 +10253,7 @@
         "level": "B2",
         "objective": "የአማርኛ የፈሊጥ አነጋገሮችን (ሆድ ሰፊ፣ እጅ ረጅም፣ ዐይን አፋር፣ እግር አወጣ) እና ዘይቤያዊ አገላለጾችን መረዳት።",
         "presentation": {
-            "explanation": "የአማርኛ ፈሊጦች እና የንግግር ዘይቤዎች (Amharic Idioms & Stylistic Expressions):\n\n፩. የሰው ባህሪ ገላጭ ፈሊጦች:\n- «ሆድ ሰፊ» (Patient / tolerant / forgiving; lit. wide stomach)\n- «እጅ ረጅም» (Thief / kleptomaniac / generous depending on context; lit. long hand)\n- «ዐይን አፋር» (Shy / bashful; lit. eye-shyer)\n- «አንገተ ደንዳና» (Stubborn / obstinate; lit. stiff-necked)።\n\n፪. የተግባር እና የሁኔታ ፈሊጦች:\n- «እግር አወጣ» (Became mobile / began wandering; lit. grew legs)\n- «ጆሮ ዳባ ልበስ አለ» (Ignored / turned a deaf ear)\n- «ልቡ ተሰበረ» (Became heartbroken)።",
+            "explanation": "የአማርኛ ፈሊጦች እና የንግግር ዘይቤዎች (Amharic Idioms & Stylistic Expressions):\n\n፩. የሰው ባህሪ ገላጭ ፈሊጦች:\n- «ሆድ ሰፊ» (Patient / tolerant / forgiving; lit. wide stomach)\n- «እጅ ረጅም» (Thief / kleptomaniac / generous depending on context; lit. long hand)\n- «ዐይን አፋር» (Shy / bashful; lit. eye-shyer)\n- «አንገተ ደንዳና» (Stubborn / obstinate; lit. stiff-necked)።\n\n፪. የተግባር እና የሁኔታ ፈሊጦች:\n- «እግር አወጣ» (Became mobile / began wandering; lit. grew legs)\n- «ጆሮ ዳባ ልበስ አለ» (Ignored / turned a deaf ear)\n- «ልቡ ተሰበረ» (Became heartbroken)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሽማግሌው እጅግ ሆድ ሰፊ ሰው ስለሆኑ ማንኛውንም በደል በይቅርታ ያልፋሉ።",
@@ -10208,7 +10343,7 @@
         "level": "B2",
         "objective": "የአጽንኦት ቅጥያዎችን (-ማ፣ -ስ፣ -ኮ) እና ቅኔያዊ ዘይቤዎችን በአረፍተ ነገር ውስጥ መጠቀም።",
         "presentation": {
-            "explanation": "የአጽንኦት ቅጥያዎች እና ቅኔያዊ ዘይቤዎች (Emphatic Particles & Rhetoric):\n\n፩. ዋና ዋና የአጽንኦት ቅጥያዎች:\n- «-ማ» (Indeed / as for / certainly): «እሱማ ያውቃል» (As for him, he certainly knows)።\n- «-ስ» (What about / and as for): «አንተስ ምን ትላለህ?» (And what about you, what do you say?)።\n- «-ኮ» (You know / indeed): «ነግሬሃለሁኮ» (I told you indeed, you know!)።\n\n፪. አጽንኦት ሰጪ ቃላት:\n- «እንኳ» (Even / at least): «ስልክ እንኳ አልደወለም» (He didn't even call)።\n- «እንጂ» (Indeed / but rather): «እሱ እንጂ ሌላ ሰው አይደለም» (It is him indeed, not another person)።",
+            "explanation": "የአጽንኦት ቅጥያዎች እና ቅኔያዊ ዘይቤዎች (Emphatic Particles & Rhetoric):\n\n፩. ዋና ዋና የአጽንኦት ቅጥያዎች:\n- «-ማ» (Indeed / as for / certainly): «እሱማ ያውቃል» (As for him, he certainly knows)።\n- «-ስ» (What about / and as for): «አንተስ ምን ትላለህ?» (And what about you, what do you say?)።\n- «-ኮ» (You know / indeed): «ነግሬሃለሁኮ» (I told you indeed, you know!)።\n\n፪. አጽንኦት ሰጪ ቃላት:\n- «እንኳ» (Even / at least): «ስልክ እንኳ አልደወለም» (He didn't even call)።\n- «እንጂ» (Indeed / but rather): «እሱ እንጂ ሌላ ሰው አይደለም» (It is him indeed, not another person)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "እሱማ በትምህርቱ እጅግ ጎበዝ ነው፤ አንተስ ምን ለማጥናት አቅደሃል?",
@@ -10388,7 +10523,7 @@
         "level": "B2",
         "objective": "የዜና አርዕስት (Headlines) እና የዘገባ አቀራረብ መዋቅርን በመደበኛ የጋዜጠኝነት ቋንቋ ማዋቀር።",
         "presentation": {
-            "explanation": "የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር ሰዋሰዋዊ ህግ (News & Headline Syntax):\n\n፩. የአርዕስተ ዜና ባህሪያት:\n- አጫጭር፣ ገላጭ እና በተገብሮ ወይም በተጨባጭ ግስ የተዋቀሩ አረፍተ ነገሮች:\n  «አዲሱ የባቡር መስመር ተመረቀ» (New railway line was inaugurated)።\n\n፪. ዋና ዋና የጋዜጠኝነት ቃላት:\n- አርዕስተ ዜና (Headlines) / ዘገባ (Report) / ዘጋቢ (Reporter)\n- የዜና አውታር (News outlet / media network) / ጋዜጣ (Newspaper)\n- የቀጥታ ስርጭት (Live broadcast) / ሰበር ዜና (Breaking news)።",
+            "explanation": "የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር ሰዋሰዋዊ ህግ (News & Headline Syntax):\n\n፩. የአርዕስተ ዜና ባህሪያት:\n- አጫጭር፣ ገላጭ እና በተገብሮ ወይም በተጨባጭ ግስ የተዋቀሩ አረፍተ ነገሮች:\n  «አዲሱ የባቡር መስመር ተመረቀ» (New railway line was inaugurated)።\n\n፪. ዋና ዋና የጋዜጠኝነት ቃላት:\n- አርዕስተ ዜና (Headlines) / ዘገባ (Report) / ዘጋቢ (Reporter)\n- የዜና አውታር (News outlet / media network) / ጋዜጣ (Newspaper)\n- የቀጥታ ስርጭት (Live broadcast) / ሰበር ዜና (Breaking news)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሰበር ዜና: በዋና ከተማዋ የተገነባው ታላቅ የሳይንስ ሙዚየም ዛሬ በይፋ ተመረቀ።",
@@ -10478,7 +10613,7 @@
         "level": "B2",
         "objective": "የዲፕሎማሲያዊ ግንኙነት፣ የሁለትዮሽ ድርድርና የመንግሥት የፖሊሲ መግለጫዎችን ቋንቋ መጠቀም።",
         "presentation": {
-            "explanation": "የፖለቲካ እና የዲፕሎማሲ ቋንቋ መዋቅር (Diplomatic & Political Discourse):\n\n፩. ዋና ዋና የዲፕሎማሲ ቃላት:\n- ዲፕሎማሲያዊ ግንኙነት (Diplomatic relations)\n- አምባሳደር (Ambassador) / ቆንስላ (Consulate)\n- የሁለትዮሽ ውይይት (Bilateral talks / discussion)\n- ሉዓላዊነት (Sovereignty) / የጋራ ተጠቃሚነት (Mutual benefit)\n- የሰላም ስምምነት (Peace agreement)።\n\n፪. የመግለጫ አገባብ:\n- በይፋዊና በከፍተኛ ጨዋነት የተሞላ ሚዛናዊ ቋንቋ መጠቀም።",
+            "explanation": "የፖለቲካ እና የዲፕሎማሲ ቋንቋ መዋቅር (Diplomatic & Political Discourse):\n\n፩. ዋና ዋና የዲፕሎማሲ ቃላት:\n- ዲፕሎማሲያዊ ግንኙነት (Diplomatic relations)\n- አምባሳደር (Ambassador) / ቆንስላ (Consulate)\n- የሁለትዮሽ ውይይት (Bilateral talks / discussion)\n- ሉዓላዊነት (Sovereignty) / የጋራ ተጠቃሚነት (Mutual benefit)\n- የሰላም ስምምነት (Peace agreement)።\n\n፪. የመግለጫ አገባብ:\n- በይፋዊና በከፍተኛ ጨዋነት የተሞላ ሚዛናዊ ቋንቋ መጠቀም።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሁለቱ ሀገራት ታሪካዊ ዲፕሎማሲያዊ ግንኙነታቸውን ይበልጥ ለማጠናከር ተስማሙ።",
@@ -10568,7 +10703,7 @@
         "level": "B2",
         "objective": "የኢኮኖሚ እድገት፣ የዋጋ ግሽበት፣ የውጭ ምንዛሪና የኢንቨስትመንት ዘገባዎችን ቋንቋ መጠቀም።",
         "presentation": {
-            "explanation": "የኢኮኖሚ እና የገበያ ዘገባዎች ቋንቋ (Economic & Financial Media Terms):\n\n፩. ዋና ዋና የኢኮኖሚ ቃላት:\n- የዋጋ ግሽበት (Inflation) / የውጭ ምንዛሪ (Foreign exchange/currency)\n- ኢንቨስትመንት (Investment) / ባለሀብት (Investor)\n- ምርታማነት (Productivity) / የንግድ ሚዛን (Trade balance)\n- አጠቃላይ የሀገር ውስጥ ምርት (GDP / Gross Domestic Product)\n- የወጪና ገቢ ንግድ (Export and Import trade)።\n\n፪. የዘገባ አቀራረብ:\n- አሃዞችንና የኢኮኖሚ አዝማሚያዎችን በግልጽ ማብራራት።",
+            "explanation": "የኢኮኖሚ እና የገበያ ዘገባዎች ቋንቋ (Economic & Financial Media Terms):\n\n፩. ዋና ዋና የኢኮኖሚ ቃላት:\n- የዋጋ ግሽበት (Inflation) / የውጭ ምንዛሪ (Foreign exchange/currency)\n- ኢንቨስትመንት (Investment) / ባለሀብት (Investor)\n- ምርታማነት (Productivity) / የንግድ ሚዛን (Trade balance)\n- አጠቃላይ የሀገር ውስጥ ምርት (GDP / Gross Domestic Product)\n- የወጪና ገቢ ንግድ (Export and Import trade)።\n\n፪. የዘገባ አቀራረብ:\n- አሃዞችንና የኢኮኖሚ አዝማሚያዎችን በግልጽ ማብራራት።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የሀገሪቱ የኢኮኖሚ እድገት በግብርና እና በማኑፋክቸሪንግ ዘርፍ ምርታማነት ምክንያት ጨመረ።",
@@ -10658,7 +10793,7 @@
         "level": "B2",
         "objective": "በጋዜጣዊ መግለጫና በቃለ-መጠይቅ ወቅት ጥያቄዎችንና ማብራሪያዎችን በሙያዊ መንገድ ማቅረብ።",
         "presentation": {
-            "explanation": "የቃለ-መጠይቅ እና የፕሬስ መግለጫ አሰራር (Press Conferences & Interview Protocols):\n\n፩. ዋና ዋና የፕሬስ ቃላት:\n- ጋዜጣዊ መግለጫ (Press conference / press briefing)\n- ቃለ-መጠይቅ (Interview) / ጋዜጠኛ (Journalist)\n- ማብራሪያ (Clarification / explanation) / መግለጫ (Statement)\n- ማስተባበያ (Rebuttal / denial) / ይፋዊ ማረጋገጫ (Official confirmation)።\n\n፪. የጥያቄና መልስ ስነ-ስርዓት:\n- ጋዜጠኛ: «ክቡር ሚኒስትር፣ በቀጣይ እቅድ ዙሪያ ማብራሪያ ቢሰጡን?»\n- ቃል-አቀባይ: «በዝርዝር ለማብራራት ያህል...»።",
+            "explanation": "የቃለ-መጠይቅ እና የፕሬስ መግለጫ አሰራር (Press Conferences & Interview Protocols):\n\n፩. ዋና ዋና የፕሬስ ቃላት:\n- ጋዜጣዊ መግለጫ (Press conference / press briefing)\n- ቃለ-መጠይቅ (Interview) / ጋዜጠኛ (Journalist)\n- ማብራሪያ (Clarification / explanation) / መግለጫ (Statement)\n- ማስተባበያ (Rebuttal / denial) / ይፋዊ ማረጋገጫ (Official confirmation)።\n\n፪. የጥያቄና መልስ ስነ-ስርዓት:\n- ጋዜጠኛ: «ክቡር ሚኒስትር፣ በቀጣይ እቅድ ዙሪያ ማብራሪያ ቢሰጡን?»\n- ቃል-አቀባይ: «በዝርዝር ለማብራራት ያህል...»።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የመንግሥት ኮሙኒኬሽን አገልግሎት ዛሬ ከሰዓት ጋዜጣዊ መግለጫ በመስጠት ወቅታዊ ሁኔታዎችን ያብራራል።",
@@ -10838,7 +10973,7 @@
         "level": "B2",
         "objective": "የኦፊሴላዊ ደብዳቤ ቅርፅን (ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ የተከበሩ/ክቡር፣ ከሰላምታ ጋር) በመደበኛ የአጻጻፍ ስልት ማዘጋጀት።",
         "presentation": {
-            "explanation": "የመንግሥትና የድርጅት ኦፊሴላዊ ደብዳቤ አወቃቀር (Official Letter Structure):\n\n፩. የደብዳቤ ራስጌና አድራሻ (Header & Address):\n- «ለ:» (To: [የተቀባዩ ስም እና የሥራ ኃላፊነት])\n- «ከ:» (From: [የላኪው ስም/መስሪያ ቤት])\n- «ቀን:» (Date [በኢትዮጵያ ወይም በጎርጎሮሳውያን የቀን አቆጣጠር])\n- «ጉዳዩ:» (Subject / Re: [የደብዳቤው ዋና ጭብጥ በአጭሩ])።\n\n፪. የሰላምታ እና የማጠቃለያ ቀመሮች:\n- መግቢያ: «የተከበሩ / ክቡር አቶ/ወ/ሮ...»\n- መዝጊያ: «ከሰላምታ ጋር» / «ከአክብሮት ሰላምታ ጋር»።",
+            "explanation": "የመንግሥትና የድርጅት ኦፊሴላዊ ደብዳቤ አወቃቀር (Official Letter Structure):\n\n፩. የደብዳቤ ራስጌና አድራሻ (Header & Address):\n- «ለ:» (To: [የተቀባዩ ስም እና የሥራ ኃላፊነት])\n- «ከ:» (From: [የላኪው ስም/መስሪያ ቤት])\n- «ቀን:» (Date [በኢትዮጵያ ወይም በጎርጎሮሳውያን የቀን አቆጣጠር])\n- «ጉዳዩ:» (Subject / Re: [የደብዳቤው ዋና ጭብጥ በአጭሩ])።\n\n፪. የሰላምታ እና የማጠቃለያ ቀመሮች:\n- መግቢያ: «የተከበሩ / ክቡር አቶ/ወ/ሮ...»\n- መዝጊያ: «ከሰላምታ ጋር» / «ከአክብሮት ሰላምታ ጋር»።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ጉዳዩ: የቢሮ ቁሳቁስ ግዢ ጥያቄን በይፋ ማቅረብን ይመለከታል።",
@@ -10928,7 +11063,7 @@
         "level": "B2",
         "objective": "የስራ፣ የትምህርት፣ የፍቃድ ወይም የዕረፍት ማመልከቻዎችን በይፋዊ የአማርኛ አገባብ ማዘጋጀት።",
         "presentation": {
-            "explanation": "የማመልከቻ እና የአቤቱታ ደብዳቤዎች አጻጻፍ (Writing Formal Applications):\n\n፩. የማመልከቻ ዋና ዋና አካላት:\n- አመልካች (Applicant) / ማመልከቻ (Application)\n- የስራ ልምድ (Work experience) / የትምህርት ማስረጃ (Educational credentials)\n- የፍቃድ ጥያቄ (Leave / permission request) / አቤቱታ (Petition / grievance)።\n\n፪. የትህትና እና የጥያቄ አገላለጾች:\n- «...እንዲፈቀድልኝ በአክብሮት እጠይቃለሁ» (I respectfully request that it be granted to me)\n- «...ስል በትህትና አመለክታለሁ» (I humbly apply, stating...)",
+            "explanation": "የማመልከቻ እና የአቤቱታ ደብዳቤዎች አጻጻፍ (Writing Formal Applications):\n\n፩. የማመልከቻ ዋና ዋና አካላት:\n- አመልካች (Applicant) / ማመልከቻ (Application)\n- የስራ ልምድ (Work experience) / የትምህርት ማስረጃ (Educational credentials)\n- የፍቃድ ጥያቄ (Leave / permission request) / አቤቱታ (Petition / grievance)።\n\n፪. የትህትና እና የጥያቄ አገላለጾች:\n- «...እንዲፈቀድልኝ በአክብሮት እጠይቃለሁ» (I respectfully request that it be granted to me)\n- «...ስል በትህትና አመለክታለሁ» (I humbly apply, stating...)\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ጉዳዩ: የዓመት የዕረፍት ፈቃድ ጥያቄን በአክብሮት ስለማቅረብ።",
@@ -11018,7 +11153,7 @@
         "level": "B2",
         "objective": "የውል ስምምነቶችን፣ ግዴታዎችንና የአስተዳደር መመሪያዎችን የህግ ቋንቋ መረዳትና ማዋቀር።",
         "presentation": {
-            "explanation": "የውል፣ የስምምነት እና የመመሪያ ሰነዶች አገባብ (Contracts & Administrative Legal Documents):\n\n፩. ዋና ዋና የውልና ስምምነት ቃላት:\n- የውል ስምምነት (Contract agreement) / ተዋዋይ ወገኖች (Contracting parties)\n- ግዴታ (Obligation) / መብት (Right) / ኃላፊነት (Responsibility)\n- የአስተዳደር መመሪያ (Administrative directive) / ድንጋጌ (Statute / provision)\n- ውል አፍራሽ (Breach of contract) / የቅጣት ውሳኔ (Penalty clause)።\n\n፪. ህጋዊ የአረፍተ ነገር ቀመሮች:\n- «ሁለቱ ተዋዋይ ወገኖች በሚከተሉት ነጥቦች ላይ ተስማምተዋል...»\n- «ይህ ውል በሁለቱም ወገኖች ፊርማ ከጸደቀበት ቀን ጀምሮ የጸና ይሆናል...»",
+            "explanation": "የውል፣ የስምምነት እና የመመሪያ ሰነዶች አገባብ (Contracts & Administrative Legal Documents):\n\n፩. ዋና ዋና የውልና ስምምነት ቃላት:\n- የውል ስምምነት (Contract agreement) / ተዋዋይ ወገኖች (Contracting parties)\n- ግዴታ (Obligation) / መብት (Right) / ኃላፊነት (Responsibility)\n- የአስተዳደር መመሪያ (Administrative directive) / ድንጋጌ (Statute / provision)\n- ውል አፍራሽ (Breach of contract) / የቅጣት ውሳኔ (Penalty clause)።\n\n፪. ህጋዊ የአረፍተ ነገር ቀመሮች:\n- «ሁለቱ ተዋዋይ ወገኖች በሚከተሉት ነጥቦች ላይ ተስማምተዋል...»\n- «ይህ ውል በሁለቱም ወገኖች ፊርማ ከጸደቀበት ቀን ጀምሮ የጸና ይሆናል...»\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሁለቱ ተዋዋይ ወገኖች በውሉ ውስጥ የተመለከቱትን ግዴታዎች በሙሉ ለማክበር ተስማምተዋል።",
@@ -11108,7 +11243,7 @@
         "level": "B2",
         "objective": "የስብሰባ አጀንዳዎችን፣ ውሳኔዎችን፣ የተሰብሳቢዎችን ስም ዝርዝርና ቃለ-ጉባኤን በመደበኛ ስልት መመዝገብ።",
         "presentation": {
-            "explanation": "የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት መርሆዎች (Meeting Minutes & Reporting):\n\n፩. የቃለ-ጉባኤ ዋና ዋና ክፍሎች:\n- ቃለ-ጉባኤ (Minutes of meeting) / አጀንዳ (Agenda)\n- ሰብሳቢ (Chairperson) / ጸሐፊ (Secretary)\n- ተሰብሳቢዎች (Attendees / participants) / ውሳኔ (Resolution / decision)\n- የድርጊት መርሃ-ግብር (Action plan) / ሪፖርት (Report)።\n\n፪. የመመዝገቢያ አገባብ:\n- «ስብሰባው በተያዘው አጀንዳ መሰረት በ... ሰዓት ተጀመረ...»\n- «በቀረበው ሪፖርት ላይ ሰፊ ውይይት ከተደረገ በኋላ የሚከተሉት ውሳኔዎች ተላልፈዋል...»",
+            "explanation": "የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት መርሆዎች (Meeting Minutes & Reporting):\n\n፩. የቃለ-ጉባኤ ዋና ዋና ክፍሎች:\n- ቃለ-ጉባኤ (Minutes of meeting) / አጀንዳ (Agenda)\n- ሰብሳቢ (Chairperson) / ጸሐፊ (Secretary)\n- ተሰብሳቢዎች (Attendees / participants) / ውሳኔ (Resolution / decision)\n- የድርጊት መርሃ-ግብር (Action plan) / ሪፖርት (Report)።\n\n፪. የመመዝገቢያ አገባብ:\n- «ስብሰባው በተያዘው አጀንዳ መሰረት በ... ሰዓት ተጀመረ...»\n- «በቀረበው ሪፖርት ላይ ሰፊ ውይይት ከተደረገ በኋላ የሚከተሉት ውሳኔዎች ተላልፈዋል...»\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ስብሰባው በተያዘው አጀንዳ መሰረት በቦርዱ ሰብሳቢ መሪነት በይፋ ተከፈተ።",
@@ -11289,7 +11424,7 @@
         "level": "C1",
         "objective": "የአማርኛ ስነ-ጽሑፍን ታሪክ፣ የልቦለድ ዘውጎችን እና ታዋቂ ደራስያንን (ከበደ ሚካኤል፣ ሐዲስ ዓለማየሁ፣ በዓሉ ግርማ) ማወቅ።",
         "presentation": {
-            "explanation": "የአማርኛ ስነ-ጽሑፍ ታሪክ እና ዋና ዋና ዘውጎች (Amharic Literary Heritage & Genres):\n\n፩. የስነ-ጽሑፍ ዘውጎች:\n- ልቦለድ (Novel) / አጭር ልቦለድ (Short story) / ድርሰት (Essay/Composition)\n- ተውኔት (Play/Drama) / ደራሲ (Author) / ገጣሚ (Poet)።\n\n፪. አንጋፋ ደራስያንና ስራዎቻቸው:\n- ሐዲስ ዓለማየሁ («ፍቅር እስከ መቃብር»)\n- በዓሉ ግርማ («ኦሮማይ»፣ «ደራሲው»)\n- ከበደ ሚካኤል («ታሪክና ምሳሌ»፣ «የትንቢት ቀጠሮ»)።",
+            "explanation": "የአማርኛ ስነ-ጽሑፍ ታሪክ እና ዋና ዋና ዘውጎች (Amharic Literary Heritage & Genres):\n\n፩. የስነ-ጽሑፍ ዘውጎች:\n- ልቦለድ (Novel) / አጭር ልቦለድ (Short story) / ድርሰት (Essay/Composition)\n- ተውኔት (Play/Drama) / ደራሲ (Author) / ገጣሚ (Poet)።\n\n፪. አንጋፋ ደራስያንና ስራዎቻቸው:\n- ሐዲስ ዓለማየሁ («ፍቅር እስከ መቃብር»)\n- በዓሉ ግርማ («ኦሮማይ»፣ «ደራሲው»)\n- ከበደ ሚካኤል («ታሪክና ምሳሌ»፣ «የትንቢት ቀጠሮ»)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሐዲስ ዓለማየሁ በጻፉት «ፍቅር እስከ መቃብር» የተሰኘ ድንቅ ልቦለድ የአማርኛ ስነ-ጽሑፍን ወደ ላቀ ደረጃ አሸጋገሩ።",
@@ -11380,7 +11515,7 @@
         "level": "C1",
         "objective": "የአማርኛ ግጥም ስንኞችን፣ የቤት መምቻ (Rhyme Scheme) ህጎችን እና ዜማዊ ውበትን መተንተን።",
         "presentation": {
-            "explanation": "የአማርኛ ግጥም ቅርፅ እና የቤት መምቻ ህግ (Poetic Metre & Rhyme):\n\n፩. የግጥም መዋቅር:\n- ስንኝ (Verse / Line) / ሀረግ (Phrase/Hemistich)\n- ቤት (Rhyme / Stanza) / ቤት መምቻ (Rhyme ending / rhyme scheme)\n- ዜማ እና ምት (Rhythm & Cadence) / ገጣሚ (Poet)።\n\n፪. የቤት መምቻ ህግ:\n- በእያንዳንዱ ስንኝ መጨረሻ ላይ የሚገኝ ተመሳሳይ ድምፅ ወይም ፊደል «ቤት መምቻ» ይባላል።\n  ምሳሌ: «ሰው መሆን ያኮራል፣ ከእንስሳ ይለያል / መልካም ስራ ሰርቶ፣ በክብር ይታወሳል» (የ«ል» ቤት መምቻ)።",
+            "explanation": "የአማርኛ ግጥም ቅርፅ እና የቤት መምቻ ህግ (Poetic Metre & Rhyme):\n\n፩. የግጥም መዋቅር:\n- ስንኝ (Verse / Line) / ሀረግ (Phrase/Hemistich)\n- ቤት (Rhyme / Stanza) / ቤት መምቻ (Rhyme ending / rhyme scheme)\n- ዜማ እና ምት (Rhythm & Cadence) / ገጣሚ (Poet)።\n\n፪. የቤት መምቻ ህግ:\n- በእያንዳንዱ ስንኝ መጨረሻ ላይ የሚገኝ ተመሳሳይ ድምፅ ወይም ፊደል «ቤት መምቻ» ይባላል።\n  ምሳሌ: «ሰው መሆን ያኮራል፣ ከእንስሳ ይለያል / መልካም ስራ ሰርቶ፣ በክብር ይታወሳል» (የ«ል» ቤት መምቻ)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ገጣሚው በስንኞቹ ማጠቃለያ ላይ የ«ኛ»ን ፊደል በማስገባት የተዋበ ቤት መታ።",
@@ -11560,7 +11695,7 @@
         "level": "C1",
         "objective": "የልቦለድ ገጸ-ባህሪያትን፣ ሴራን (Plot)፣ ጭብጥን (Theme) እና የስነ-ጽሑፍ ትችት ቋንቋን መተንተን።",
         "presentation": {
-            "explanation": "የስነ-ጽሑፍ ትችት እና የልቦለድ ትንተና መዋቅር (Literary Criticism & Analysis):\n\n፩. የልቦለድ መሰረታዊ አካላት:\n- ጭብጥ (Theme) / ሴራ (Plot) / ግጭት (Conflict)\n- ገጸ-ባህሪ (Character) / ዋና ገጸ-ባህሪ (Protagonist) / ተቃራኒ ገጸ-ባህሪ (Antagonist)\n- መቼት (Setting / Time and Place) / የስነ-ጽሑፍ ትችት (Literary criticism)።\n\n፪. የትንተና አገባብ:\n- «የልቦለዱ ዋና ጭብጥ በማህበራዊ ፍትህ ዙሪያ ያጠነጥናል...»\n- «የገጸ-ባህሪው ውስጣዊ ግጭት ድርሰቱን ይበልጥ አጓጊ ያደርገዋል...»",
+            "explanation": "የስነ-ጽሑፍ ትችት እና የልቦለድ ትንተና መዋቅር (Literary Criticism & Analysis):\n\n፩. የልቦለድ መሰረታዊ አካላት:\n- ጭብጥ (Theme) / ሴራ (Plot) / ግጭት (Conflict)\n- ገጸ-ባህሪ (Character) / ዋና ገጸ-ባህሪ (Protagonist) / ተቃራኒ ገጸ-ባህሪ (Antagonist)\n- መቼት (Setting / Time and Place) / የስነ-ጽሑፍ ትችት (Literary criticism)።\n\n፪. የትንተና አገባብ:\n- «የልቦለዱ ዋና ጭብጥ በማህበራዊ ፍትህ ዙሪያ ያጠነጥናል...»\n- «የገጸ-ባህሪው ውስጣዊ ግጭት ድርሰቱን ይበልጥ አጓጊ ያደርገዋል...»\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የልቦለዱ ዋና ጭብጥ በባህላዊ አስተሳሰብ እና በዘመናዊነት መካከል ያለውን ግጭት ያሳያል።",
@@ -12472,7 +12607,7 @@
         "level": "C1",
         "objective": "የኢትዮ-ጃዝ ፈጠራን (ሙላቱ አስታጥቄ)፣ የዘመናዊ ሙዚቃ ቅንብርንና ዓለም አቀፍ ዝናን መተንተን።",
         "presentation": {
-            "explanation": "የኢትዮ-ጃዝ እና የዘመናዊ ሙዚቃ ቅንብር መዋቅር:\n\n፩. የኢትዮ-ጃዝ መወለድ:\n- ሙላቱ አስታጥቄ (የኢትዮ-ጃዝ አባት)\n- ባህላዊ ቅኝቶች ከምዕራባዊ ጃዝ እና ቫይብራፎን ጋር የተዋሃዱበት ፈጠራ።\n\n፪. የዘመናዊ ሙዚቃ ቃላት:\n- አቀናባሪ (Arranger / Composer) / ድምጻዊ (Vocalist)\n- የሙዚቃ ባንድ (Musical band) / ቅንብር (Arrangement/Composition)።",
+            "explanation": "የኢትዮ-ጃዝ እና የዘመናዊ ሙዚቃ ቅንብር መዋቅር:\n\n፩. የኢትዮ-ጃዝ መወለድ:\n- ሙላቱ አስታጥቄ (የኢትዮ-ጃዝ አባት)\n- ባህላዊ ቅኝቶች ከምዕራባዊ ጃዝ እና ቫይብራፎን ጋር የተዋሃዱበት ፈጠራ።\n\n፪. የዘመናዊ ሙዚቃ ቃላት:\n- አቀናባሪ (Arranger / Composer) / ድምጻዊ (Vocalist)\n- የሙዚቃ ባንድ (Musical band) / ቅንብር (Arrangement/Composition)።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሙላቱ አስታጥቄ ባህላዊ ቅኝቶችን ከጃዝ ጋር በማዋሃድ አለም አቀፍ ዝና ያተረፈውን ኢትዮ-ጃዝ ፈጠረ።",
@@ -12923,7 +13058,7 @@
         "level": "C1",
         "objective": "የሐረር ጁጎልን ግንብ፣ የጌይ ጋር ባህላዊ ቤቶችን፣ የእደ-ጥበብና የከተማ ኪነ-ህንፃን መተንተን።",
         "presentation": {
-            "explanation": "የሐረር ጁጎል እና ባህላዊ ቤቶች መዋቅር:\n\n፩. የጁጎል ቅጥር:\n- ጁጎል (The Historic Wall of Harar)\n- አምስቱ ታሪካዊ በሮች (The five historic gates)\n- አሚር ኑር (የጁጎልን ግንብ ያስገነቡ መሪ)።\n\n፪. ባህላዊ የጌይ ጋር ቤቶች:\n- ጌይ ጋር (Traditional Harari house with unique interior platforms / Gidir Tiqet)\n- ያጌጡ ግድግዳዎች፣ ሸክላዎችና ባህላዊ ሰፌዶች።",
+            "explanation": "የሐረር ጁጎል እና ባህላዊ ቤቶች መዋቅር:\n\n፩. የጁጎል ቅጥር:\n- ጁጎል (The Historic Wall of Harar)\n- አምስቱ ታሪካዊ በሮች (The five historic gates)\n- አሚር ኑር (የጁጎልን ግንብ ያስገነቡ መሪ)።\n\n፪. ባህላዊ የጌይ ጋር ቤቶች:\n- ጌይ ጋር (Traditional Harari house with unique interior platforms / Gidir Tiqet)\n- ያጌጡ ግድግዳዎች፣ ሸክላዎችና ባህላዊ ሰፌዶች።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የሐረር ጁጎል ቅጥር ከተማዋን ለዘመናት ከጥቃት የጠበቀ እና በዩኔስኮ የተመዘገበ ታሪካዊ ቅርስ ነው።",
@@ -13832,7 +13967,7 @@
         "level": "C1",
         "objective": "ሰብአዊ መብቶችን፣ የህግ የበላይነትን፣ የህገ-መንግስት መሰረቶችንና ዘመናዊ ተቋማዊ ፍትህን መተንተን።",
         "presentation": {
-            "explanation": "የሰብአዊ መብቶች እና የህግ የበላይነት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ሰብአዊ መብቶች (Human rights) / ነፃነት (Freedom)\n- የህግ የበላይነት (Rule of law) / እኩልነት (Equality)\n- ህገ-መንግስት (Constitution) / ተቋማዊ ነፃነት (Institutional independence)።\n\n፪. ዋና መርሆዎች:\n- እያንዳንዱ ዜጋ በህግ ፊት እኩል ነው፤ ፍርድ ቤቶች ገለልተኛ ሆነው ፍትህን ያሰፍናሉ፤ ሰብአዊ ክብር ያለ አድልዎ ይጠበቃል።",
+            "explanation": "የሰብአዊ መብቶች እና የህግ የበላይነት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ሰብአዊ መብቶች (Human rights) / ነፃነት (Freedom)\n- የህግ የበላይነት (Rule of law) / እኩልነት (Equality)\n- ህገ-መንግስት (Constitution) / ተቋማዊ ነፃነት (Institutional independence)።\n\n፪. ዋና መርሆዎች:\n- እያንዳንዱ ዜጋ በህግ ፊት እኩል ነው፤ ፍርድ ቤቶች ገለልተኛ ሆነው ፍትህን ያሰፍናሉ፤ ሰብአዊ ክብር ያለ አድልዎ ይጠበቃል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የህግ የበላይነት ሲከበር የዜጎች ሰብአዊ መብቶች፣ ነፃነት እና እኩልነት ሙሉ በሙሉ ይረጋገጣሉ።",
@@ -14103,7 +14238,7 @@
         "level": "C2",
         "objective": "የመረጃ አሰባሰብ ዘዴዎችን፣ የናሙና አወሳሰድን እና ስታትስቲካዊ ትንተናን መተንተን።",
         "presentation": {
-            "explanation": "የመረጃ አሰባሰብ እና የስታትስቲክስ ትንተና መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- መረጃ (Data / Information) / ናሙና (Sample)\n- መጠይቅ (Questionnaire) / ቃለ-መጠይቅ (Interview)\n- ስታትስቲክስ (Statistics) / ትንተና (Analysis)።\n\n፪. ዋና መርሆዎች:\n- ጥራት ያለው መረጃ በስታትስቲካዊ ቀመሮች ሲተነተን ተጨባጭና አስተማማኝ ሳይንሳዊ ማስረጃዎችን ይሰጣል።",
+            "explanation": "የመረጃ አሰባሰብ እና የስታትስቲክስ ትንተና መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- መረጃ (Data / Information) / ናሙና (Sample)\n- መጠይቅ (Questionnaire) / ቃለ-መጠይቅ (Interview)\n- ስታትስቲክስ (Statistics) / ትንተና (Analysis)።\n\n፪. ዋና መርሆዎች:\n- ጥራት ያለው መረጃ በስታትስቲካዊ ቀመሮች ሲተነተን ተጨባጭና አስተማማኝ ሳይንሳዊ ማስረጃዎችን ይሰጣል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ተመራማሪዎቹ ከተለያዩ የህብረተሰብ ክፍሎች መጠይቆችን በመጠቀም ተጨባጭ መረጃዎችን ሰበሰቡ።",
@@ -14193,7 +14328,7 @@
         "level": "C2",
         "objective": "የምርምር ግኝቶችን ማጠቃለል፣ ድምዳሜ ላይ መድረስ እና ተግባራዊ ምክረ-ሀሳቦችን ማቅረብ።",
         "presentation": {
-            "explanation": "የምርምር ውጤቶች እና ድምዳሜ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ግኝት (Finding / Discovery) / ውጤት (Result)\n- ድምዳሜ (Conclusion) / ምክረ-ሀሳብ (Recommendation)\n- አበርክቶ (Contribution / Significance)።\n\n፪. ዋና መርሆዎች:\n- ምርምር የመጨረሻ ግቡ በማስረጃ የተደገፉ ግኝቶችን ይፋ ማድረግ፣ ትክክለኛ ድምዳሜ ማቅረብ እና ለፖሊሲ አውጪዎች ተግባራዊ ምክረ-ሀሳብ ማበርከት ነው።",
+            "explanation": "የምርምር ውጤቶች እና ድምዳሜ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ግኝት (Finding / Discovery) / ውጤት (Result)\n- ድምዳሜ (Conclusion) / ምክረ-ሀሳብ (Recommendation)\n- አበርክቶ (Contribution / Significance)።\n\n፪. ዋና መርሆዎች:\n- ምርምር የመጨረሻ ግቡ በማስረጃ የተደገፉ ግኝቶችን ይፋ ማድረግ፣ ትክክለኛ ድምዳሜ ማቅረብ እና ለፖሊሲ አውጪዎች ተግባራዊ ምክረ-ሀሳብ ማበርከት ነው።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የጥናቱ ግኝቶች የትምህርት ጥራትን ለማሻሻል የሚያግዙ አዳዲስ መፍትሄዎችን አመላከቱ።",
@@ -14283,7 +14418,7 @@
         "level": "C2",
         "objective": "የአካዳሚክ ታማኝነትን፣ የጥናት ማጣቀሻዎችን (Citations) እና የአቻ ግምገማን (Peer Review) መተንተን።",
         "presentation": {
-            "explanation": "የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የአካዳሚክ ስነ-ምግባር (Academic ethics / integrity)\n- ማጣቀሻ (Citation / Reference) / ዋቢ መጽሐፍ (Bibliography)\n- የአቻ ግምገማ (Peer review) / ስርቆት መከላከል (Anti-plagiarism)።\n\n፪. ዋና መርሆዎች:\n- ሳይንሳዊ ምርምር የሌሎችን ስራ በትክክል በማጣቀስ፣ ከስርቆት ነፃ በመሆንና በአቻ ምሁራን ጥብቅ ግምገማ በማለፍ ይታተማል።",
+            "explanation": "የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የአካዳሚክ ስነ-ምግባር (Academic ethics / integrity)\n- ማጣቀሻ (Citation / Reference) / ዋቢ መጽሐፍ (Bibliography)\n- የአቻ ግምገማ (Peer review) / ስርቆት መከላከል (Anti-plagiarism)።\n\n፪. ዋና መርሆዎች:\n- ሳይንሳዊ ምርምር የሌሎችን ስራ በትክክል በማጣቀስ፣ ከስርቆት ነፃ በመሆንና በአቻ ምሁራን ጥብቅ ግምገማ በማለፍ ይታተማል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ተመራማሪው የሌሎችን ምሁራን ስራ በትክክለኛ ማጣቀሻ በማካተት የአካዳሚክ ታማኝነቱን ጠበቀ።",
@@ -14644,7 +14779,7 @@
         "level": "C2",
         "objective": "የዓለም አቀፍ ውሎችን፣ የሁለትዮሽ እና የባለብዙ ወገን ድርድሮችን መተንተን።",
         "presentation": {
-            "explanation": "የዓለም አቀፍ ስምምነቶች እና የድርድር መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ስምምነት (Treaty / Agreement) / ውል (Convention / Pact)\n- የሁለትዮሽ ድርድር (Bilateral negotiation) / ባለብዙ ወገን (Multilateral)\n- ማፅደቅ (Ratification) / ፊርማ (Signing)።\n\n፪. ዋና መርሆዎች:\n- ሀገራት በጋራ ጥቅሞቻቸው፣ በንግድና በጸጥታ ጉዳዮች ላይ በድርድር ተስማምተው ዓለም አቀፍ ህጋዊ ስምምነቶችን ያጸድቃሉ።",
+            "explanation": "የዓለም አቀፍ ስምምነቶች እና የድርድር መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ስምምነት (Treaty / Agreement) / ውል (Convention / Pact)\n- የሁለትዮሽ ድርድር (Bilateral negotiation) / ባለብዙ ወገን (Multilateral)\n- ማፅደቅ (Ratification) / ፊርማ (Signing)።\n\n፪. ዋና መርሆዎች:\n- ሀገራት በጋራ ጥቅሞቻቸው፣ በንግድና በጸጥታ ጉዳዮች ላይ በድርድር ተስማምተው ዓለም አቀፍ ህጋዊ ስምምነቶችን ያጸድቃሉ።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ሁለቱ ሀገራት በንግድ እና በኢንቨስትመንት ዘርፍ ታሪካዊ የሁለትዮሽ ስምምነት ተፈራረሙ።",
@@ -14734,7 +14869,7 @@
         "level": "C2",
         "objective": "የሰላም ማስከበር ተልዕኮዎችን፣ የጸጥታ ምክር ቤትን እና የዓለም አቀፍ እርዳታ ዲፕሎማሲን መተንተን።",
         "presentation": {
-            "explanation": "የሰላም ማስከበር እና የዓለም አቀፍ ተልዕኮ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የሰላም ማስከበር (Peacekeeping) / ተልዕኮ (Mission)\n- የተባበሩት መንግስታት (United Nations) / የጸጥታ ምክር ቤት (Security Council)\n- ሰብአዊ እርዳታ (Humanitarian aid) / ዘላቂ ሰላም (Sustainable peace)።\n\n፪. ዋና መርሆዎች:\n- ኢትዮጵያ በኮሪያ፣ በኮንጎ፣ በሩዋንዳ፣ በላይቤሪያ እና በሱዳን በጀግንነት የተሳተፈች ታዋቂ የሰላም አስከባሪ ሀገር ናት።",
+            "explanation": "የሰላም ማስከበር እና የዓለም አቀፍ ተልዕኮ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- የሰላም ማስከበር (Peacekeeping) / ተልዕኮ (Mission)\n- የተባበሩት መንግስታት (United Nations) / የጸጥታ ምክር ቤት (Security Council)\n- ሰብአዊ እርዳታ (Humanitarian aid) / ዘላቂ ሰላም (Sustainable peace)።\n\n፪. ዋና መርሆዎች:\n- ኢትዮጵያ በኮሪያ፣ በኮንጎ፣ በሩዋንዳ፣ በላይቤሪያ እና በሱዳን በጀግንነት የተሳተፈች ታዋቂ የሰላም አስከባሪ ሀገር ናት።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የኢትዮጵያ የሰላም አስከባሪ ኃይሎች በተባበሩት መንግስታት ተልዕኮ ስር በመሆን በዓለም ዙሪያ ሰላምን በብቃት አስከብረዋል።",
@@ -14915,7 +15050,7 @@
         "level": "C2",
         "objective": "የሰምና ወርቅን የቅኔ መዋቅር፣ የውጫዊና ውስጣዊ ትርጉምን ጥበብ መተንተን።",
         "presentation": {
-            "explanation": "የሰምና ወርቅ ቅኔ ጥበብ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ሰም (Surface meaning / Wax) / ወርቅ (Hidden meaning / Gold)\n- ህብር (Double-entendre) / ቅኔ (Poetic verse)\n- ምስጢር (Secret / Subtext) / ቅኔያዊ ስልት።\n\n፪. ዋና መርሆዎች:\n- ሰምና ወርቅ ላዩን ሰም አድርጎ የውስጡን ጥልቅ መልእክት እንደ ወርቅ ደብቆ የማቅረብ የኢትዮጵያ የስነ-ጽሁፍ ጥበብ ነው።",
+            "explanation": "የሰምና ወርቅ ቅኔ ጥበብ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ሰም (Surface meaning / Wax) / ወርቅ (Hidden meaning / Gold)\n- ህብር (Double-entendre) / ቅኔ (Poetic verse)\n- ምስጢር (Secret / Subtext) / ቅኔያዊ ስልት።\n\n፪. ዋና መርሆዎች:\n- ሰምና ወርቅ ላዩን ሰም አድርጎ የውስጡን ጥልቅ መልእክት እንደ ወርቅ ደብቆ የማቅረብ የኢትዮጵያ የስነ-ጽሁፍ ጥበብ ነው።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ገጣሚው በሰምና ወርቅ ጥበብ በመጠቀም ማህበራዊ ሂሱን በሚያምር ድርብ ትርጉም አቀረበ።",
@@ -15095,7 +15230,7 @@
         "level": "C2",
         "objective": "የአደባባይ አንደበተ-ርቱዕነትን፣ የንግግር ስነ-ዘዴን እና የማሳመን ጥበብን መተንተን።",
         "presentation": {
-            "explanation": "የአደባባይ ንግግር እና የማሳመን ጥበብ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- አደባባይ ንግግር (Public oratory) / አንደበተ ርቱዕ (Eloquent orator)\n- ማሳመን (Persuasion / Convincing) / ቅላጼ (Intonation / Tone)\n- ተናጋሪ (Speaker) / አድማጭ (Audience)።\n\n፪. ዋና መርሆዎች:\n- አንደበተ ርቱዕ ተናጋሪ ሀሳቡን በግልጽ፣ በስሜት እና በማስረጃ አዋቅሮ አድማጩን በንግግሩ ጥበብ ያሳምናል።",
+            "explanation": "የአደባባይ ንግግር እና የማሳመን ጥበብ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- አደባባይ ንግግር (Public oratory) / አንደበተ ርቱዕ (Eloquent orator)\n- ማሳመን (Persuasion / Convincing) / ቅላጼ (Intonation / Tone)\n- ተናጋሪ (Speaker) / አድማጭ (Audience)።\n\n፪. ዋና መርሆዎች:\n- አንደበተ ርቱዕ ተናጋሪ ሀሳቡን በግልጽ፣ በስሜት እና በማስረጃ አዋቅሮ አድማጩን በንግግሩ ጥበብ ያሳምናል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "አንደበተ ርቱዕ ተናጋሪው በአደባባይ ባደረገው ኃይለኛ ንግግር መላውን ህዝብ አሳመነ።",
@@ -15185,7 +15320,7 @@
         "level": "C2",
         "objective": "ዘይቤያዊ አገላለጾችን፣ ተምሳሌቶችንና የስነ-ጽሑፍ ውበትን መተንተን።",
         "presentation": {
-            "explanation": "የዘይቤ እና የስነ-ጽሑፍ ውበት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ዘይቤ (Metaphor / Stylistic device) / ተምሳሌት (Symbolism)\n- ማነጻጸሪያ (Simile / Comparison) / ስነ-ጽሑፋዊ ውበት (Literary aesthetics)\n- ግጥማዊ ስልት (Poetic style) / ምናብ (Imagination)።\n\n፪. ዋና መርሆዎች:\n- ዘይቤያዊ አገላለጾች አንድን ሀሳብ ከሌላ የተፈጥሮ ወይም የህይወት ክስተት ጋር በማነጻጸር ጥልቅ ምስልን በምናብ ይፈጥራሉ።",
+            "explanation": "የዘይቤ እና የስነ-ጽሑፍ ውበት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ዘይቤ (Metaphor / Stylistic device) / ተምሳሌት (Symbolism)\n- ማነጻጸሪያ (Simile / Comparison) / ስነ-ጽሑፋዊ ውበት (Literary aesthetics)\n- ግጥማዊ ስልት (Poetic style) / ምናብ (Imagination)።\n\n፪. ዋና መርሆዎች:\n- ዘይቤያዊ አገላለጾች አንድን ሀሳብ ከሌላ የተፈጥሮ ወይም የህይወት ክስተት ጋር በማነጻጸር ጥልቅ ምስልን በምናብ ይፈጥራሉ።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ደራሲው ማራኪ ዘይቤዎችን እና ተምሳሌታዊ ምስሎችን በመጠቀም የልቦለዱን ውበት አጎላ።",
@@ -15456,7 +15591,7 @@
         "level": "C2",
         "objective": "የግዕዝ እና የአማርኛ ስነ-ጽሑፍ እድገትን፣ የብራና መጻሕፍትን እና የዘመናዊ ስነ-ጽሑፍ ታሪክን መተንተን።",
         "presentation": {
-            "explanation": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ስነ-ጽሑፍ (Literature) / ብራና (Parchment / Vellum)\n- የግዕዝ ቅርስ (Ge'ez heritage) / ዘመናዊ ልብወለድ (Modern novel)\n- ዜና መዋዕል (Royal chronicles) / ድርሰት (Composition)።\n\n፪. ዋና መርሆዎች:\n- የአማርኛ ስነ-ጽሑፍ ከጥንታዊ የብራና ዜና-መዋዕሎች ተነስቶ በ20ኛው ክፍለ ዘመን ወደ ዘመናዊ ልብወለድ፣ ተውኔትና ፍልስፍናዊ ድርሰት ተሸጋግሯል።",
+            "explanation": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ስነ-ጽሑፍ (Literature) / ብራና (Parchment / Vellum)\n- የግዕዝ ቅርስ (Ge'ez heritage) / ዘመናዊ ልብወለድ (Modern novel)\n- ዜና መዋዕል (Royal chronicles) / ድርሰት (Composition)።\n\n፪. ዋና መርሆዎች:\n- የአማርኛ ስነ-ጽሑፍ ከጥንታዊ የብራና ዜና-መዋዕሎች ተነስቶ በ20ኛው ክፍለ ዘመን ወደ ዘመናዊ ልብወለድ፣ ተውኔትና ፍልስፍናዊ ድርሰት ተሸጋግሯል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የጥንታዊ ብራና መጻሕፍት እና የነገሥታት ዜና-መዋዕል ለዘመናዊው የአማርኛ ስነ-ጽሑፍ ጠንካራ መሰረት ጥለዋል።",
@@ -15546,7 +15681,7 @@
         "level": "C2",
         "objective": "የኢትዮጵያን የባህል ብዝሃነት፣ ስነ-ቃልን፣ ታሪካዊ ቅርሶችንና ሀገራዊ ውህደትን መተንተን።",
         "presentation": {
-            "explanation": "የባህል ውህደት እና ብሔራዊ ቅርስ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ብሔራዊ ቅርስ (National heritage) / ስነ-ቃል (Oral tradition)\n- የባህል ብዝሃነት (Cultural diversity) / ውህደት (Integration / Synthesis)\n- ጥንታዊ ስልጣኔ (Ancient civilization) / አንድነት (Unity)።\n\n፪. ዋና መርሆዎች:\n- የኢትዮጵያ ብሔራዊ ጥንካሬ የተመሰረተው በባህል ብዝሃነት ውበት፣ በስነ-ቃል ሀብትና በማይናወጥ የጋራ ታሪካዊ አንድነት ላይ ነው።",
+            "explanation": "የባህል ውህደት እና ብሔራዊ ቅርስ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ብሔራዊ ቅርስ (National heritage) / ስነ-ቃል (Oral tradition)\n- የባህል ብዝሃነት (Cultural diversity) / ውህደት (Integration / Synthesis)\n- ጥንታዊ ስልጣኔ (Ancient civilization) / አንድነት (Unity)።\n\n፪. ዋና መርሆዎች:\n- የኢትዮጵያ ብሔራዊ ጥንካሬ የተመሰረተው በባህል ብዝሃነት ውበት፣ በስነ-ቃል ሀብትና በማይናወጥ የጋራ ታሪካዊ አንድነት ላይ ነው።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "የኢትዮጵያ ታሪካዊ ቅርሶች እና የብዝሃ-ባህል ውህደት የአህጉሪቱ ታላቅ ኩራት እና መገለጫ ናቸው።",
@@ -15636,7 +15771,7 @@
         "level": "C2",
         "objective": "የኢትዮጵያ ፍልስፍናን (እንደ ዘርአ ያዕቆብ)፣ አመክንዮንና የሂሳዊ አስተሳሰብ ክርክርን መተንተን።",
         "presentation": {
-            "explanation": "የፍልስፍና ክርክር እና የአመክንዮ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ፍልስፍና (Philosophy) / አመክንዮ (Logic / Rational reason)\n- ሐተታ (Treatise / Inquiry) / ማመዛዘን (Critical reasoning)\n- እውነት (Truth) / ክርክር (Dialectic discourse)።\n\n፪. ዋና መርሆዎች:\n- የ17ኛው መቶ ክፍለ ዘመን ፈላስፋ ዘርአ ያዕቆብ በ«ሐተታ ዘርአ ያዕቆብ» ድርሰቱ ምክንያታዊ አመክንዮን እና የሰው ልጆችን እኩልነት በዓለም አቀፍ ደረጃ አስቀድሞ አስተምሯል።",
+            "explanation": "የፍልስፍና ክርክር እና የአመክንዮ መዋቅር:\n\n፩. መሰረታዊ ቃላት:\n- ፍልስፍና (Philosophy) / አመክንዮ (Logic / Rational reason)\n- ሐተታ (Treatise / Inquiry) / ማመዛዘን (Critical reasoning)\n- እውነት (Truth) / ክርክር (Dialectic discourse)።\n\n፪. ዋና መርሆዎች:\n- የ17ኛው መቶ ክፍለ ዘመን ፈላስፋ ዘርአ ያዕቆብ በ«ሐተታ ዘርአ ያዕቆብ» ድርሰቱ ምክንያታዊ አመክንዮን እና የሰው ልጆችን እኩልነት በዓለም አቀፍ ደረጃ አስቀድሞ አስተምሯል።\n\nየሰዋስው ማስታወሻ፦ ይህ ትምህርት የ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ዋና ዋና የቋንቋ አጠቃቀም ደንቦችን፣ የቃላት አደራደርን እና የውይይት ስርዓትን በተግባር ያብራራል።",
             "examples": [
                 {
                     "target": "ፈላስፋው ዘርአ ያዕቆብ በሐተታው ውስጥ የሰውን ልጅ አእምሮ እና ምክንያታዊ አመክንዮ የእውነት መመዘኛ አድርጎ አቀረበ።",

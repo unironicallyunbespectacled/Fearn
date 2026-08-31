@@ -451,79 +451,89 @@ const FEARN_JAPANESE_CURRICULUM = {
       "subject": "japanese",
       "unit": 1,
       "lessonNumber": 1,
-      "title": "基本の挨拶と対人作法",
+      "title": "日本語の文字体系と平仮名：母音（あいうえお）とカ行（かきくけこ） (Hiragana Vowels & K-Row)",
       "level": "A1",
-      "objective": "Japanese Writing Systems & Core Greetings: Master Hiragana/Katakana/Kanji basics with Romaji, and appropriate time-of-day greetings (Ohayō gozaimasu, Konnichiwa, Konbanwa).",
+      "objective": "Understand the three Japanese scripts (Hiragana, Katakana, Kanji) and master reading and writing the 5 core vowels (あ, い, う, え, お) and K-row consonants (か, き, く, け, こ).",
       "presentation": {
-        "explanation": "Welcome to Japanese! Japanese uses three distinct writing systems harmoniously: (1) **Hiragana (ひらがな)**: 46 phonetic characters representing every basic Japanese sound, used for native words and grammatical endings (particles, verb conjugations); (2) **Katakana (カタカナ)**: 46 phonetic characters representing the same sounds, used for loanwords (e.g. コーヒー / kōhī = coffee) and emphasis; and (3) **Kanji (漢字)**: Chinese ideograms representing meanings and root concepts. In Romaji (Latin alphabet transliteration), long vowels are indicated with macrons (ō, ū). Essential time-of-day greetings reflect social harmony: «おはようございます» (*Ohayō gozaimasu* - Good morning [polite]), «こんにちは» (*Konnichiwa* - Good afternoon/Hello, lit. \"as for today\"), and «こんばんは» (*Konbanwa* - Good evening). Note that the particle は is pronounced \"wa\" in greetings.",
+        "explanation": "Welcome to Japanese! Japanese uses three distinct scripts working together harmoniously:\n1. **Hiragana (ひらがな)**: 46 phonetic characters used for native Japanese words and grammatical endings.\n2. **Katakana (カタカナ)**: 46 phonetic characters used for foreign loanwords and onomatopoeia.\n3. **Kanji (漢字)**: Chinese logograms representing conceptual meaning.\n\nEvery kana character represents a full mora/syllable. Let us begin with the foundation of all Japanese pronunciation: the **5 basic vowels** and the **K-row**.\n\n### 1. The 5 Core Vowels (あ行 - A-Row)\n- **あ** [a] — pronounced \"ah\" (as in \"father\")\n- **い** [i] — pronounced \"ee\" (as in \"meet\")\n- **う** [u] — pronounced \"oo\" (unrounded lips, as in \"soup\")\n- **え** [e] — pronounced \"eh\" (as in \"pet\")\n- **お** [o] — pronounced \"oh\" (as in \"origami\")\n\n### 2. The K-Row Consonants (カ行 - Ka-Row)\nFormed by combining the voiceless velar stop [k] with the 5 vowels:\n- **か** [ka] — \"k\" + \"a\"\n- **き** [ki] — \"k\" + \"i\"\n- **く** [ku] — \"k\" + \"u\"\n- **け** [ke] — \"k\" + \"e\"\n- **こ** [ko] — \"k\" + \"o\"\n\n### 3. First Authentic Japanese Words (Built Strictly from These 10 Kana)\n- **あい** (*ai*) → **love** (あ + い)\n- **うえ** (*ue*) → **up / above** (う + え)\n- **あき** (*aki*) → **autumn / fall** (あ + き)\n- **かお** (*kao*) → **face** (か + お)\n- **えき** (*eki*) → **train station** (え + き)\n- **こえ** (*koe*) → **voice** (こ + え)\n- **きく** (*kiku*) → **chrysanthemum / to listen** (き + く)\n- **いけ** (*ike*) → **pond** (い + け)",
         "examples": [
           {
-            "target": "おはようございます。今日もよろしくお願いします。",
-            "reading": "Ohayō gozaimasu. Kyō mo yoroshiku onegaishimasu.",
-            "translation": "Good morning. I look forward to working with you today as well."
+            "target": "あい",
+            "reading": "ai",
+            "translation": "love (あ [a] + い [i])"
           },
           {
-            "target": "こんにちは、お元気ですか？",
-            "reading": "Konnichiwa, o-genki desu ka?",
-            "translation": "Hello / Good afternoon, how are you?"
+            "target": "うえ",
+            "reading": "ue",
+            "translation": "up / above (う [u] + え [e])"
+          },
+          {
+            "target": "えき",
+            "reading": "eki",
+            "translation": "train station (え [e] + き [ki])"
+          },
+          {
+            "target": "かお",
+            "reading": "kao",
+            "translation": "face (か [ka] + お [o])"
           }
         ],
         "mnemonics": [
-          "Hiragana for grammar, Katakana for foreign words, Kanji for core concepts. Konnichiwa = Kon-nichi-wa (Good day)."
+          "あ looks like an Apple with a cross. い looks like two parallel needles. う looks like someone hunched over in pain. え looks like an Energetic ninja running. お looks like a golf ball On the tee!"
         ],
         "culturalNotes": [
-          "Bowing (お辞儀 / ojigi) accompanies greetings in Japan: a 15-degree bow for casual greetings (eshaku) and a 30-degree bow for respectful business interactions (keirei)."
+          "Hiragana evolved during the Heian period (794-1185) from cursive calligraphy of Chinese characters (Man'yogana) and was historically championed by court women authors who wrote masterpieces like The Tale of Genji."
         ]
       },
       "guidedPractice": {
         "items": [
           {
-            "prompt": "【場面理解】午前八時三十分に職場の同僚や上司に対面した際、最も適切な挨拶表現を選択してください。",
+            "prompt": "Which Hiragana character corresponds to the vowel sound [i] (as in \"meet\")?",
             "options": [
-              "こんばんは、今日も一日お疲れ様でした。",
-              "さようなら、また来週お会いしましょう。",
-              "おはようございます、今日も一日よろしくお願いします。",
-              "こんにちは、初めましてどうぞよろしく。"
+              "い (i)",
+              "あ (a)",
+              "う (u)",
+              "え (e)"
             ],
-            "answerIndex": 2,
-            "explanation": "朝の時間帯（午前中）の標準的かつ丁寧な挨拶として「おはようございます」が最適です。"
+            "answerIndex": 0,
+            "explanation": "「い」 represents the vowel sound [i]. 「あ」 is [a], 「う」 is [u], and 「え」 is [e]."
           },
           {
-            "prompt": "【表記と発音】「こんにちは」の末尾の仮名表記と実際の発音の正しい組み合わせを選択してください。",
+            "prompt": "Select the Hiragana word meaning \"train station\" composed of 「え」 [e] and 「き」 [ki]:",
             "options": [
-              "文字表記は「わ」であり、発音は「わ」である。",
-              "文字表記は「は」であり、発音は「わ」である。",
-              "文字表記は「は」であり、発音は「は」である。",
-              "文字表記は「を」であり、発音は「お」である。"
+              "えき (eki - train station)",
+              "あき (aki - autumn)",
+              "かお (kao - face)",
+              "あい (ai - love)"
             ],
-            "answerIndex": 1,
-            "explanation": "主題提示の助詞「は」に由来するため、表記は「は」で発音は「わ」となります。"
+            "answerIndex": 0,
+            "explanation": "「え」 [e] + 「き」 [ki] = 「えき」 (*eki*), which means train station."
           }
         ]
       },
       "independentPractice": {
         "items": [
           {
-            "prompt": "【対話完成】甲「今日の作業を手伝っていただき本当に助かりました。」 乙「いいえ、どういたしまして。＿＿＿＿。」",
+            "prompt": "Which Hiragana character from the K-row is pronounced [ko]?",
             "options": [
-              "また明日、会社でお会いしましょう。",
-              "おはようございます、どうぞよろしくお願いします。",
-              "初めまして、山田と申します。",
-              "いただきます、とても美味しい料理です。"
+              "こ (ko)",
+              "か (ka)",
+              "き (ki)",
+              "く (ku)"
             ],
             "answerIndex": 0,
-            "explanation": "一日の作業終了時の返答として「また明日」が最も自然な文脈の結びとなります。"
+            "explanation": "「こ」 is the K-row character pronounced [ko]."
           },
           {
-            "prompt": "【敬語表現】大学の指導教授や取引先の役員に対して深い感謝の意を伝える最も適切な表現を選択してください。",
+            "prompt": "Identify the Hiragana word meaning \"face\" combining 「か」 [ka] and 「お」 [o]:",
             "options": [
-              "どうもありがとう！助かったよ。",
-              "サンキューでした、また今度ね。",
-              "誠にありがとうございました、心より感謝申し上げます。",
-              "どうもね、お疲れさん。"
+              "かお (kao - face)",
+              "こえ (koe - voice)",
+              "うえ (ue - above)",
+              "いけ (ike - pond)"
             ],
-            "answerIndex": 2,
-            "explanation": "目上の相手や公的な場面では改まった敬語表現「誠にありがとうございました」を使用します。"
+            "answerIndex": 0,
+            "explanation": "「か」 [ka] + 「お」 [o] forms 「かお」 (*kao*), meaning face."
           }
         ]
       },
@@ -531,28 +541,25 @@ const FEARN_JAPANESE_CURRICULUM = {
         "items": [
           {
             "type": "multiple-choice",
-            "prompt": "日没後の午後七時に重要な会合の会場に到着した際、最初に交わすべき挨拶として最も適切なものはどれですか。",
+            "prompt": "Which of the following Hiragana words means \"love\" (formed from vowels 「あ」 and 「い」)?",
             "options": [
-              "おはようございます、よろしくお願いします。",
-              "こんにちは、良いお天気ですね。",
-              "こんばんは、本日はよろしくお願いいたします。",
-              "ごちそうさまでした、美味しかったです。"
+              "あい (ai - love)",
+              "うえ (ue - up)",
+              "あき (aki - autumn)",
+              "えき (eki - station)"
             ],
-            "answerIndex": 2,
-            "explanation": "日没後の夜間の時間帯における対面挨拶には「こんばんは」を使用します。"
+            "answerIndex": 0,
+            "explanation": "「あ」 [a] + 「い」 [i] = 「あい」 (*ai* - love)."
           },
           {
             "type": "typed-recall",
-            "prompt": "朝の丁寧な挨拶の日本語を入力してください（「おはようございます」）：",
+            "prompt": "Type the 2-character Hiragana word for \"train station\" (e-ki):",
             "acceptedAnswers": [
-              "おはようございます",
-              "オハヨウゴザイマス",
-              "おはよう"
+              "えき"
             ],
-            "explanation": "朝の標準的な丁寧語挨拶は「おはようございます」です。"
+            "explanation": "「え」 + 「き」 = 「えき」 (*eki*)."
           }
-        ],
-        "passThreshold": 0.8
+        ]
       }
     },
     "ja-u1-l2": {
@@ -560,85 +567,89 @@ const FEARN_JAPANESE_CURRICULUM = {
       "subject": "japanese",
       "unit": 1,
       "lessonNumber": 2,
-      "title": "自己紹介と名詞述語文「〜は〜です」",
+      "title": "平仮名の習得２：サ行（さしすせそ）とタ行（たちつてと） (Hiragana S-Row & T-Row)",
       "level": "A1",
-      "objective": "助詞「は」による主題提示と断定の助動詞「です」、否定表現「ではありません」を用いた自己紹介文の構成。",
+      "objective": "Master reading and writing the S-row (さ, し, す, せ, そ) and T-row (た, ち, つ, て, と), noting special phonetic realizations (し = shi, ち = chi, つ = tsu).",
       "presentation": {
-        "explanation": "日本語の文法構造における最も基本的な文型は、主題提示助詞「は」と断定助動詞「です」を用いた「甲は乙です」の構文です。\n\n【文法構造と機能の解説】\n１．主題提示助詞「は」：文の話題（主題・トピック）を明示します。文字は「は」と表記し、発音は「わ」となります。\n２．断定表現「です」：話し手の丁寧な断定の態度を示します（敬体）。主語の性別や人称に関わらず共通して用いられます。\n３．否定表現：「〜ではありません」（改まった書き言葉・丁寧な話し言葉）または「〜じゃありません」（日常会話表現）。過去否定形は「〜ではありませんでした」となります。\n４．疑問文の形成：文末に終助詞「か」を付加し、上昇調のイントネーションで発音することで疑問文を作成します（例：「あなたは学生ですか」）。\n\n【初対面での挨拶作法】\n初対面の相手に対しては「初めまして」で切り出し、氏名や所属を名乗った後に「どうぞよろしくお願いいたします」で結ぶのが標準的な日本の自己紹介プロトコルです。",
+        "explanation": "Building on the vowels and K-row, we now introduce the **S-row (サ行)** and **T-row (タ行)**.\n\n### 1. The S-Row (サ行 - Sa-Row)\n- **さ** [sa] — \"s\" + \"a\"\n- **し** [shi] — **Special phonetic rule**: Palatalized to \"shee\" (never \"see\")\n- **す** [su] — \"s\" + \"u\" (quiet, slightly unrounded \"soo\")\n- **せ** [se] — \"s\" + \"e\"\n- **そ** [so] — \"s\" + \"o\"\n\n### 2. The T-Row (タ行 - Ta-Row)\n- **た** [ta] — \"t\" + \"a\"\n- **ち** [chi] — **Special phonetic rule**: Affricate \"chee\" (never \"tee\")\n- **つ** [tsu] — **Special phonetic rule**: Alveolar affricate \"tsoo\" (like \"ts\" in \"cats\")\n- **て** [te] — \"t\" + \"e\"\n- **と** [to] — \"t\" + \"o\"\n\n### 3. New Vocabulary (Exclusively Using Taught Kana)\n- **すし** (*sushi*) → **sushi** (す + し)\n- **あさ** (*asa*) → **morning** (あ + さ)\n- **うそ** (*uso*) → **lie / untruth** (う + そ)\n- **たこ** (*tako*) → **octopus** (た + こ)\n- **くつ** (*kutsu*) → **shoes** (く + つ)\n- **せかい** (*sekai*) → **world** (せ + か + い)\n- **て** (*te*) → **hand** (て)\n- **つき** (*tsuki*) → **moon** (つ + き)\n- **した** (*shita*) → **under / below** (し + た)\n- **とけい** (*tokei*) → **clock / watch** (と + け + い)",
         "examples": [
           {
-            "target": "初めまして、私は東京大学の留学生のスミスです。よろしくお願いいたします。",
-            "reading": "はじめまして、わたしは とうきょうだいがくの りゅうがくせいの スミスです。よろしく おねがいいたします。",
-            "translation": "Nice to meet you. I am Smith, an international student at the University of Tokyo."
+            "target": "すし",
+            "reading": "sushi",
+            "translation": "sushi (す [su] + し [shi])"
           },
           {
-            "target": "田中さんは会社員ですか。— いいえ、私は会社員ではありません。公務員です。",
-            "reading": "たなかさんは かいしゃいんですか。— いいえ、わたしは かいしゃいんでは ありません。こうむいんです。",
-            "translation": "Are you an office worker, Mr. Tanaka? — No, I am not an office worker. I am a civil servant."
+            "target": "あさ",
+            "reading": "asa",
+            "translation": "morning (あ [a] + さ [sa])"
           },
           {
-            "target": "あの方は新しい日本語の先生ですか。— はい、佐藤先生です。",
-            "reading": "あのかたは あたらしい にほんごの せんせいですか。— はい、さとうせんせいです。",
-            "translation": "Is that person the new Japanese teacher? — Yes, that is Teacher Sato."
+            "target": "つき",
+            "reading": "tsuki",
+            "translation": "moon (つ [tsu] + き [ki])"
           },
           {
-            "target": "私はエンジニアじゃありません。建築デザイナーです。",
-            "reading": "わたしは エンジニアじゃ ありません。けんちく デザイナーです。",
-            "translation": "I am not an engineer. I am an architectural designer."
+            "target": "せかい",
+            "reading": "sekai",
+            "translation": "world (せ [se] + か [ka] + い [i])"
           }
         ],
-        "mnemonics": [],
-        "culturalNotes": []
+        "mnemonics": [
+          "し looks like a fish hook dipping into the sea (shi). ち looks like a cheerleader waving pom-poms (chi). つ looks like the curling wave of a Tsunami (tsu)."
+        ],
+        "culturalNotes": [
+          "Japanese mora timing is strictly isometric: each kana character takes the exact same duration of time to pronounce, giving Japanese its characteristic rhythmic, melodic cadence."
+        ]
       },
       "guidedPractice": {
         "items": [
           {
-            "prompt": "【文法選択】「私は学生＿＿＿、会社員ではありません。」の空欄に入る最も適切な述語を選択してください。",
+            "prompt": "Which of the following Hiragana characters represents the sound [shi]?",
             "options": [
-              "です",
-              "でした",
-              "ではありません",
-              "ます"
+              "し (shi)",
+              "さ (sa)",
+              "す (su)",
+              "せ (se)"
             ],
             "answerIndex": 0,
-            "explanation": "肯定の断定として「です」が接続します。"
+            "explanation": "「し」 is pronounced [shi]. In Japanese phonology, [s] + [i] naturally palatalizes to [shi]."
           },
           {
-            "prompt": "【否定文の形成】「鈴木さんは医者です」を丁寧な否定文に変換した正しい文を選択してください。",
+            "prompt": "Identify the world-famous culinary word meaning \"sushi\" spelled with 「す」 and 「し」:",
             "options": [
-              "鈴木さんは医者でした。",
-              "鈴木さんは医者ではありません。",
-              "鈴木さんは医者になります。",
-              "鈴木さんは医者でしたか。"
+              "すし (sushi)",
+              "たこ (tako - octopus)",
+              "くつ (kutsu - shoes)",
+              "あさ (asa - morning)"
             ],
-            "answerIndex": 1,
-            "explanation": "「〜です」の改まった丁寧否定形は「〜ではありません」です。"
+            "answerIndex": 0,
+            "explanation": "「す」 [su] + 「し」 [shi] forms 「すし」 (*sushi*)."
           }
         ]
       },
       "independentPractice": {
         "items": [
           {
-            "prompt": "【自己紹介の対話】初対面の挨拶で「初めまして、山田です。」に続く最も自然な結びの言葉を選択してください。",
+            "prompt": "Which character represents the affricate sound [tsu] (as in \"tsunami\")?",
             "options": [
-              "どうぞよろしくお願いいたします。",
-              "ごちそうさまでした。",
-              "おやすみなさい。",
-              "行ってらっしゃい。"
+              "つ (tsu)",
+              "た (ta)",
+              "ち (chi)",
+              "て (te)"
             ],
             "answerIndex": 0,
-            "explanation": "自己紹介の定型結び表現として「どうぞよろしくお願いいたします」が最適です。"
+            "explanation": "「つ」 is pronounced [tsu]."
           },
           {
-            "prompt": "【疑問文の応答】「あなたは日本人ですか。」に対する否定の丁寧な応答として最も適切なものを選択してください。",
+            "prompt": "Select the Hiragana word meaning \"moon\" combining 「つ」 [tsu] and 「き」 [ki]:",
             "options": [
-              "いいえ、日本人ではありません。カナダ人です。",
-              "はい、日本人じゃありません。",
-              "いいえ、日本人でした。",
-              "そうです、日本人ではありません。"
+              "つき (tsuki - moon)",
+              "すき (suki - liked)",
+              "たこ (tako - octopus)",
+              "うそ (uso - lie)"
             ],
             "answerIndex": 0,
-            "explanation": "否定の応答「いいえ」に否定述語「日本人ではありません」が正しく呼応します。"
+            "explanation": "「つ」 [tsu] + 「き」 [ki] = 「つき」 (*tsuki* - moon)."
           }
         ]
       },
@@ -646,28 +657,25 @@ const FEARN_JAPANESE_CURRICULUM = {
         "items": [
           {
             "type": "multiple-choice",
-            "prompt": "主題を提示する助詞「は」の正しい仮名表記と発音の組み合わせを選択してください。",
+            "prompt": "Which Hiragana word means \"shoes\" formed from 「く」 [ku] and 「つ」 [tsu]?",
             "options": [
-              "表記「は」・発音「わ」",
-              "表記「わ」・発音「わ」",
-              "表記「は」・発音「は」",
-              "表記「を」・発音「お」"
+              "くつ (kutsu - shoes)",
+              "あさ (asa - morning)",
+              "せかい (sekai - world)",
+              "すし (sushi)"
             ],
             "answerIndex": 0,
-            "explanation": "主題提示助詞は「は」と表記し、発音は「わ」です。"
+            "explanation": "「く」 [ku] + 「つ」 [tsu] = 「くつ」 (*kutsu* - shoes)."
           },
           {
             "type": "typed-recall",
-            "prompt": "初対面の自己紹介の冒頭で用いる挨拶表現を入力してください（「初めまして」または「はじめまして」）：",
+            "prompt": "Type the 2-character Hiragana word for \"sushi\" (su-shi):",
             "acceptedAnswers": [
-              "はじめまして",
-              "初めまして",
-              "ハジメマシテ"
+              "すし"
             ],
-            "explanation": "初対面の冒頭挨拶は「初めまして」です。"
+            "explanation": "「す」 + 「し」 = 「すし」 (*sushi*)."
           }
-        ],
-        "passThreshold": 0.8
+        ]
       }
     },
     "ja-u1-l3": {
@@ -675,85 +683,89 @@ const FEARN_JAPANESE_CURRICULUM = {
       "subject": "japanese",
       "unit": 1,
       "lessonNumber": 3,
-      "title": "出身・国籍・言語と連体修飾助詞「の」",
+      "title": "平仮名の習得３：ナ行（なにぬねの）とハ行（はひふへほ） (Hiragana N-Row & H-Row)",
       "level": "A1",
-      "objective": "国名・言語名・職業の語彙体系と、名詞同士を連結して属性・所属・所有を表す連体修飾助詞「の」の文法的活用。",
+      "objective": "Master reading and writing the N-row (な, に, ぬ, ね, の) and H-row (は, ひ, ふ, へ, ほ), including the bilabial [fu] and the grammatical topic particle pronunciation of は as [wa].",
       "presentation": {
-        "explanation": "本課では、国籍（〜人）、言語（〜語）、出身地（〜から来ました）を表す語彙体系と、日本語文法において極めて重要な役割を果たす連体修飾助詞「の」の機能を学びます。\n\n【国籍・言語・出身の表現体系】\n１．国名＋「人（じん）」：国籍を表します（例：アメリカ人、フランス人、中国人、韓国人、イギリス人、ドイツ人）。\n２．国名＋「語（ご）」：言語を表します（例：日本語、英語、フランス語、ドイツ語、スペイン語、中国語）。\n３．出身地の表現：「私は〜から来ました（〜からきました）」は、出身国や故郷を説明する際の標準的なフレーズです。\n\n【連体修飾助詞「の」の多層的機能】\n助詞「の」は二つの名詞を接続し、前方の名詞が後方の名詞を修飾する関係を構築します：\n・所属・組織：「東京大学の学生」\n・所有：「私の本」\n・属性・専門：「日本語の先生」\n・産地・原産国：「日本の自動車」",
+        "explanation": "Now we introduce the **N-row (ナ行)** and **H-row (ハ行)**.\n\n### 1. The N-Row (ナ行 - Na-Row)\n- **な** [na] — \"n\" + \"a\"\n- **に** [ni] — \"n\" + \"i\"\n- **ぬ** [nu] — \"n\" + \"u\" (loop at the tail)\n- **ね** [ne] — \"n\" + \"e\" (loop at the bottom right)\n- **の** [no] — \"n\" + \"o\" (single spiral stroke)\n\n### 2. The H-Row (ハ行 - Ha-Row)\n- **は** [ha] — \"h\" + \"a\" (**Note**: When used as a topic particle in grammar, は is pronounced [wa])\n- **ひ** [hi] — \"h\" + \"i\"\n- **ふ** [fu] — **Special phonetic rule**: Bilabial fricative (softly blow air between lips without teeth touching)\n- **へ** [he] — \"h\" + \"e\" (**Note**: When used as direction particle, へ is pronounced [e])\n- **ほ** [ho] — \"h\" + \"o\" (top line does not pierce through, unlike ま)\n\n### 3. Essential Vocabulary (Taught Kana Only)\n- **いぬ** (*inu*) → **dog** (い + ぬ)\n- **ねこ** (*neko*) → **cat** (ね + こ)\n- **はな** (*hana*) → **flower / nose** (は + な)\n- **ひと** (*hito*) → **person / human** (ひ + と)\n- **ふね** (*fune*) → **boat / ship** (ふ + ね)\n- **ほし** (*hoshi*) → **star** (ほ + し)\n- **なつ** (*natsu*) → **summer** (な + つ)\n- **にく** (*niku*) → **meat** (に + く)\n- **はし** (*hashi*) → **bridge / chopsticks** (は + し)",
         "examples": [
           {
-            "target": "私はアメリカのニューヨークから来ました。専門は日本文学です。",
-            "reading": "わたしは アメリカの ニューヨークから きました。せんもんは にほんぶんがくです。",
-            "translation": "I came from New York, USA. My major is Japanese literature."
+            "target": "いぬ",
+            "reading": "inu",
+            "translation": "dog (い [i] + ぬ [nu])"
           },
           {
-            "target": "マリアさんはブラジル人です。母語はポルトガル語です。",
-            "reading": "マリアさんは ブラジルじんです。ぼごは ポルトガルごです。",
-            "translation": "Maria is Brazilian. Her native language is Portuguese."
+            "target": "ねこ",
+            "reading": "neko",
+            "translation": "cat (ね [ne] + こ [ko])"
           },
           {
-            "target": "こちらは私の大学の同僚のワンさんです。中国の北京大学出身です。",
-            "reading": "こちらは わたしの だいがくの どうりょうの ワンさんです。ちゅうごくの ぺきんだいがく しゅっしんです。",
-            "translation": "This is Mr. Wang, a colleague from my university. He graduated from Peking University in China."
+            "target": "はな",
+            "reading": "hana",
+            "translation": "flower (は [ha] + な [na])"
           },
           {
-            "target": "これは日本の伝統的な陶芸作品のカタログです。",
-            "reading": "これは にほんの でんとうてきな とうげいさくひんの カタログです。",
-            "translation": "This is a catalog of traditional Japanese ceramic works."
+            "target": "ひと",
+            "reading": "hito",
+            "translation": "person (ひ [hi] + と [to])"
           }
         ],
-        "mnemonics": [],
-        "culturalNotes": []
+        "mnemonics": [
+          "いぬ is dog (pointing to its nose - nu). ねこ is cat (with curled tail - ne). の is a single clean swirl, like a \"NO smoking\" sign circle!"
+        ],
+        "culturalNotes": [
+          "Cats (ねこ) and dogs (いぬ) hold special places in Japanese culture, from historic folklore and art to modern cat cafés and famous faithful dogs like Hachiko."
+        ]
       },
       "guidedPractice": {
         "items": [
           {
-            "prompt": "【助詞の選択】「私は東京大学＿＿＿留学生です。」の空欄に所属を表す助詞を入れてください。",
+            "prompt": "Which Hiragana word means \"cat\" combining 「ね」 [ne] and 「こ」 [ko]?",
             "options": [
-              "の",
-              "を",
-              "で",
-              "に"
+              "ねこ (neko - cat)",
+              "いぬ (inu - dog)",
+              "はな (hana - flower)",
+              "ひと (hito - person)"
             ],
             "answerIndex": 0,
-            "explanation": "所属や組織を表す名詞修飾には助詞「の」を用います。"
+            "explanation": "「ね」 [ne] + 「こ」 [ko] forms 「ねこ」 (*neko* - cat)."
           },
           {
-            "prompt": "【言語名の語彙】フランスで話されている公用語の日本語名称として正しいものを選択してください。",
+            "prompt": "Which character represents the bilabial fricative sound [fu] in the H-row?",
             "options": [
-              "フランス人",
-              "フランス語",
-              "フランス国",
-              "フランス文学"
+              "ふ (fu)",
+              "は (ha)",
+              "ひ (hi)",
+              "ほ (ho)"
             ],
-            "answerIndex": 1,
-            "explanation": "言語名を表すには国名に接尾辞「語」を付加して「フランス語」とします。"
+            "answerIndex": 0,
+            "explanation": "「ふ」 is the H-row character pronounced [fu], made by gently blowing air through unrounded lips."
           }
         ]
       },
       "independentPractice": {
         "items": [
           {
-            "prompt": "【出身地の表現】「イギリスのロンドンから来ました」の意味として最も適切な解釈を選択してください。",
+            "prompt": "Select the Hiragana word meaning \"dog\" spelled with 「い」 and 「ぬ」:",
             "options": [
-              "ロンドンに出張で行きます。",
-              "イギリスのロンドン出身です。",
-              "ロンドンで英語を教えています。",
-              "ロンドン行きの飛行機に乗ります。"
+              "いぬ (inu - dog)",
+              "ねこ (neko - cat)",
+              "ふね (fune - boat)",
+              "ほし (hoshi - star)"
             ],
-            "answerIndex": 1,
-            "explanation": "「〜から来ました」は出身地・故郷を表す決まり文句です。"
+            "answerIndex": 0,
+            "explanation": "「い」 [i] + 「ぬ」 [nu] = 「いぬ」 (*inu* - dog)."
           },
           {
-            "prompt": "【連体修飾の関係】「日本の車」という表現における助詞「の」の文法的機能は何ですか。",
+            "prompt": "Which word means \"flower\" or \"nose\" formed from 「は」 [ha] and 「な」 [na]?",
             "options": [
-              "動作の場所を表す",
-              "動作の目的語を表す",
-              "産地・原産国を表す修飾関係",
-              "移動の方向を表す"
+              "はな (hana - flower/nose)",
+              "なつ (natsu - summer)",
+              "ひと (hito - person)",
+              "にく (niku - meat)"
             ],
-            "answerIndex": 2,
-            "explanation": "名詞と名詞を結び、産地や原産国の属性を表しています。"
+            "answerIndex": 0,
+            "explanation": "「は」 [ha] + 「な」 [na] = 「はな」 (*hana*)."
           }
         ]
       },
@@ -761,27 +773,25 @@ const FEARN_JAPANESE_CURRICULUM = {
         "items": [
           {
             "type": "multiple-choice",
-            "prompt": "国籍を表す接尾辞「人」の正しい音読みを選択してください。",
+            "prompt": "Which Hiragana character is drawn as a single graceful circular spiral stroke and represents the sound [no]?",
             "options": [
-              "ひと",
-              "じん",
-              "にん",
-              "びと"
+              "の (no)",
+              "ぬ (nu)",
+              "ね (ne)",
+              "な (na)"
             ],
-            "answerIndex": 1,
-            "explanation": "国籍を表す「〜人」は「じん」と読みます。"
+            "answerIndex": 0,
+            "explanation": "「の」 is written in a single continuous spiral stroke representing [no]."
           },
           {
             "type": "typed-recall",
-            "prompt": "名詞と名詞を繋ぎ所属や所有を表す助詞を入力してください（ひらがな一文字）:",
+            "prompt": "Type the 2-character Hiragana word for \"cat\" (ne-ko):",
             "acceptedAnswers": [
-              "の",
-              "ノ"
+              "ねこ"
             ],
-            "explanation": "連体修飾助詞は「の」です。"
+            "explanation": "「ね」 + 「こ」 = 「ねこ」 (*neko*)."
           }
-        ],
-        "passThreshold": 0.8
+        ]
       }
     },
     "ja-u1-l4": {
@@ -789,85 +799,89 @@ const FEARN_JAPANESE_CURRICULUM = {
       "subject": "japanese",
       "unit": 1,
       "lessonNumber": 4,
-      "title": "感謝・謝罪・呼びかけ表現「すみません」",
+      "title": "平仮名の習得４：マ行・ヤ行・ラ行・ワ行・ん (Complete 46 Hiragana Syllabary)",
       "level": "A1",
-      "objective": "多機能語「すみません」の三つの用法（呼びかけ・謝罪・感謝）と「ありがとうございます」の敬意格差の習得。",
+      "objective": "Complete all 46 basic Hiragana characters by mastering M-row (まみむめも), Y-row (やゆよ), R-row (らりるれろ), W-row (わを), and the nasal coda ん (n).",
       "presentation": {
-        "explanation": "日本語の日常対話において極めて頻繁に使用される「すみません」は、文脈によって複数の対人機能を果たす独特の文化的・言語的表現です。\n\n【「すみません」の三大機能】\n１．呼びかけ：飲食店で店員を呼ぶ際や、街中で見知らぬ人に声をかける際（例：「すみません、お会計をお願いします」）。\n２．軽い謝罪：他人の前を横切る際や軽くぶつかった際の会釈を伴う謝罪（例：「足を踏んですみません」）。\n３．感謝（恐縮の念）：他者が自分のために労力を払ってくれたことに対する「申し訳なさを伴う感謝」（例：席を譲ってもらった際の「すみません」）。\n\n【感謝表現の階層性】\n・誠にありがとうございます（最上級の改まった感謝）\n・ありがとうございます（標準的な丁寧な感謝）\n・ありがとう（親しい友人・家族間の気軽な感謝）\n・どうも（簡略化された挨拶・感謝）",
+        "explanation": "Congratulations! In this lesson you complete all **46 fundamental Hiragana characters**.\n\n### 1. The M-Row (マ行 - Ma-Row)\n- **ま** [ma], **み** [mi], **む** [mu], **め** [me], **も** [mo]\n\n### 2. The Y-Row (ヤ行 - Ya-Row — 3 Kana)\n- **や** [ya], **ゆ** [yu], **よ** [yo]\n\n### 3. The R-Row (ラ行 - Ra-Row)\n- **ら** [ra], **り** [ri], **る** [ru], **れ** [re], **ろ** [ro]\n- **Sound cue**: The Japanese \"r\" is an alveolar tap (like the \"tt\" in American English \"butter\"), flicking the tongue tip against the roof of the mouth.\n\n### 4. The W-Row (ワ行) & Nasal Coda ん\n- **わ** [wa] — \"w\" + \"a\"\n- **を** [wo / o] — Used strictly as the grammatical direct object particle.\n- **ん** [n] — The only independent consonant in Japanese; a nasal mora coda that never begins a word.\n\n### 5. Essential Japanese Vocabulary (Full Hiragana Literacy)\n- **やま** (*yama*) → **mountain** (や + ま)\n- **ゆめ** (*yume*) → **dream** (ゆ + め)\n- **さくら** (*sakura*) → **cherry blossom** (さ + く + ら)\n- **くるま** (*kuruma*) → **car / vehicle** (く + る + ま)\n- **ほん** (*hon*) → **book** (ほ + ん)\n- **わたし** (*watashi*) → **I / me** (わ + た + し)\n- **みず** (*mizu*) → **water** (み + ず)\n- **もり** (*mori*) → **forest** (も + り)\n- **そら** (*sora*) → **sky** (そ + ら)\n- **よる** (*yoru*) → **night** (よ + る)",
         "examples": [
           {
-            "target": "すみません、駅への道を教えていただけますでしょうか。",
-            "reading": "すみません、えきへの みちを おしえて いただけますでしょうか。",
-            "translation": "Excuse me, could you please tell me the way to the station?"
+            "target": "さくら",
+            "reading": "sakura",
+            "translation": "cherry blossom (さ + く + ら)"
           },
           {
-            "target": "重い荷物を持っていただき、本当にすみません。助かりました。",
-            "reading": "おもい にもつを もっていただき、ほんとうに すみません。たすかりました。",
-            "translation": "Thank you so much for carrying my heavy luggage. It was a huge help."
+            "target": "やま",
+            "reading": "yama",
+            "translation": "mountain (や + ま)"
           },
           {
-            "target": "皆様の温かいご支援に、心より深く感謝申し上げます。誠にありがとうございます。",
-            "reading": "みなさまの あたたかい ごしえんに、こころより ふかく かんしゃもうしあげます。まことに ありがとうございます。",
-            "translation": "We express our deepest heartfelt gratitude for your warm support. Thank you very much."
+            "target": "わたし",
+            "reading": "watashi",
+            "translation": "I / me (わ + た + し)"
           },
           {
-            "target": "約束の時間に遅れてしまい、大変申し訳ございませんでした。",
-            "reading": "やくそくの じかんに おくれてしまい、たいへん もうしわけございませんでした。",
-            "translation": "I am extremely sorry for being late for the appointed time."
+            "target": "ほん",
+            "reading": "hon",
+            "translation": "book (ほ + ん)"
           }
         ],
-        "mnemonics": [],
-        "culturalNotes": []
+        "mnemonics": [
+          "や looks like a Yak with horns. ゆ looks like a swimming fish. よ looks like a Yo-yo hanging from a finger. わ looks like a graceful swan (wa)."
+        ],
+        "culturalNotes": [
+          "Sakura (さくら - cherry blossoms) blooming in spring represents the ephemeral beauty of life (mono no aware) and marks the start of the Japanese school and fiscal year in April."
+        ]
       },
       "guidedPractice": {
         "items": [
           {
-            "prompt": "【場面理解】レストランで店員をテーブルに呼びたい時、最も自然な日本語の第一声はどれですか。",
+            "prompt": "Which Hiragana word means \"cherry blossom\" spelled with 「さ」, 「く」, and 「ら」?",
             "options": [
-              "ごちそうさま！",
-              "すみません！",
-              "いただきます！",
-              "さようなら！"
+              "さくら (sakura - cherry blossom)",
+              "くるま (kuruma - car)",
+              "わたし (watashi - I/me)",
+              "やま (yama - mountain)"
             ],
-            "answerIndex": 1,
-            "explanation": "店員や見知らぬ人に声をかける呼びかけには「すみません」を用います。"
+            "answerIndex": 0,
+            "explanation": "「さ」 [sa] + 「く」 [ku] + 「ら」 [ra] = 「さくら」 (*sakura*)."
           },
           {
-            "prompt": "【敬意のレベル】ビジネスの公式な式典で来賓に対して述べる最も適切な感謝表現を選択してください。",
+            "prompt": "What is the unique property of the Hiragana character 「ん」 [n]?",
             "options": [
-              "サンキュー！",
-              "ありがとうね。",
-              "誠にありがとうございます。",
-              "どうもどうも。"
+              "It is the only independent consonant mora and never starts a native word",
+              "It is pronounced as a vowel",
+              "It is only used in Katakana",
+              "It is pronounced identical to \"a\""
             ],
-            "answerIndex": 2,
-            "explanation": "公式な式典や改まった場では最上級の丁寧表現「誠にありがとうございます」を用います。"
+            "answerIndex": 0,
+            "explanation": "「ん」 [n] is a distinct nasal mora that closes syllables and never appears at the start of native Japanese words."
           }
         ]
       },
       "independentPractice": {
         "items": [
           {
-            "prompt": "【表現の機能】電車で席を譲ってもらった際に言う「すみません」に含まれる主な感情は何ですか。",
+            "prompt": "Identify the word for \"mountain\" formed by combining 「や」 [ya] and 「ま」 [ma]:",
             "options": [
-              "相手に対する強い怒り",
-              "他者に負担をかけた恐縮の念を伴う感謝",
-              "電車の遅延に対する抗議",
-              "自己紹介の意思表示"
+              "やま (yama - mountain)",
+              "ゆめ (yume - dream)",
+              "そら (sora - sky)",
+              "もり (mori - forest)"
             ],
-            "answerIndex": 1,
-            "explanation": "相手の親切に対する「申し訳なさと感謝」が融合した日本の文化的表現です。"
+            "answerIndex": 0,
+            "explanation": "「や」 [ya] + 「ま」 [ma] = 「やま」 (*yama* - mountain)."
           },
           {
-            "prompt": "【謝罪表現の選択】仕事上の重大なミスに関して上司や取引先に謝罪する際の最上級の表現を選択してください。",
+            "prompt": "Select the Hiragana word meaning \"I / me\" spelled with 「わ」, 「た」, and 「し」:",
             "options": [
-              "ごめんね。",
-              "悪かったよ。",
-              "大変申し訳ございませんでした。",
-              "いいよいいよ。"
+              "わたし (watashi - I/me)",
+              "あなた (anata - you)",
+              "くるま (kuruma - car)",
+              "ほん (hon - book)"
             ],
-            "answerIndex": 2,
-            "explanation": "公式なビジネス謝罪には「大変申し訳ございませんでした」が必須です。"
+            "answerIndex": 0,
+            "explanation": "「わ」 [wa] + 「た」 [ta] + 「し」 [shi] = 「わたし」 (*watashi* - I / me)."
           }
         ]
       },
@@ -875,28 +889,25 @@ const FEARN_JAPANESE_CURRICULUM = {
         "items": [
           {
             "type": "multiple-choice",
-            "prompt": "「すみません」の語源的な動詞の否定形として正しいものはどれですか。",
+            "prompt": "Which Hiragana word means \"book\" formed from 「ほ」 [ho] and 「ん」 [n]?",
             "options": [
-              "済みません（すまない・終わらない・心が澄まない）",
-              "進みません",
-              "住みません",
-              "吸いません"
+              "ほん (hon - book)",
+              "はな (hana - flower)",
+              "ひと (hito - person)",
+              "ふね (fune - boat)"
             ],
             "answerIndex": 0,
-            "explanation": "「済む（すむ）」の否定形「済みません」が語源です。"
+            "explanation": "「ほ」 [ho] + 「ん」 [n] = 「ほん」 (*hon* - book)."
           },
           {
             "type": "typed-recall",
-            "prompt": "呼びかけや軽い謝罪・感謝で広く用いられる万能表現を入力してください（「すみません」）：",
+            "prompt": "Type the 3-character Hiragana word for \"cherry blossom\" (sa-ku-ra):",
             "acceptedAnswers": [
-              "すみません",
-              "スミマセン",
-              "すいません"
+              "さくら"
             ],
-            "explanation": "万能な日常語は「すみません」です。"
+            "explanation": "「さ」 + 「く」 + 「ら」 = 「さくら」 (*sakura*)."
           }
-        ],
-        "passThreshold": 0.8
+        ]
       }
     },
     "ja-u1-l5": {
@@ -904,85 +915,89 @@ const FEARN_JAPANESE_CURRICULUM = {
       "subject": "japanese",
       "unit": 1,
       "lessonNumber": 5,
-      "title": "Unit 1 総合演習：名刺交換と対話作法",
+      "title": "濁音・半濁音・拗音・促音と基本の挨拶 (Voiced Kana, Combinations & Core Greetings)",
       "level": "A1",
-      "objective": "挨拶・名詞述語・所属・感謝表現の総合統合と、日本における名刺交換（めいしこうかん）の作法理解。",
+      "objective": "Master Dakuten voicing marks (がざだば), Handakuten (ぱ), Yoon contracted sounds (きゃ, しゃ, ちょ), Sokuon double consonants (っ), and daily polite greetings (Konnichiwa, Arigatou gozaimasu).",
       "presentation": {
-        "explanation": "第一単元の総括として、挨拶・自己紹介・所属紹介・感謝表現を有機的に結合した総合的な会話演習を行います。さらに、日本社会における初対面の象徴的儀礼である「名刺交換（めいしこうかん）」の作法を学びます。\n\n【名刺交換の基本作法と定型表現】\n１．立ち位置と姿勢：両手で名刺入れを持ち、相手の胸の高さに差し出します。\n２．渡す際の定型句：「頂戴いたします」、「〇〇会社の△△と申します。よろしくお願いいたします。」\n３．受け取る際の作法：両手で相手の名刺を受け取り、相手の指で会社ロゴや氏名を隠さないように保持します。「頂戴いたします」と復唱し、氏名の読み方を確認します。\n４．着席後の配置：受け取った名刺は名刺入れの上に置き、テーブルの左斜め前に並べて配置します。",
+        "explanation": "Now we master the phonetic modifications that complete spoken Japanese, along with standard polite daily greetings.\n\n### 1. Dakuten (濁音 - Tenten ゛) & Handakuten (半濁音 - Maru ゜)\n- **が ぎ ぐ げ ご** [ga, gi, gu, ge, go] — Voicing the K-row to G-row.\n- **ざ じ ず ぜ ぞ** [za, ji, zu, ze, zo] — Voicing the S-row to Z-row (じ is [ji]).\n- **だ ぢ づ で ど** [da, ji, zu, de, do] — Voicing the T-row to D-row.\n- **ば び ぶ べ ぼ** [ba, bi, bu, be, bo] — Voicing the H-row to B-row.\n- **ぱ ぴ ぷ ぺ ぽ** [pa, pi, pu, pe, po] — Handakuten circles create the P-row.\n\n### 2. Yoon (拗音 - Contracted Combos) & Sokuon (促音 - Small っ)\n- **Yoon**: Combining a [i]-vowel kana with small ゃ (ya), ゅ (yu), ょ (yo): **きゃ** (kya), **しゃ** (sha), **ちゃ** (cha), **にゃ** (nya), **ひゃ** (hya), **りょ** (ryo), **きょう** (kyou - today), **おちゃ** (ocha - green tea).\n- **Sokuon (Small っ)**: Creates a glottal stop / doubled consonant hold: **がっこう** (*gakkou* - school), **きっぷ** (*kippu* - ticket).\n\n### 3. Essential Daily Japanese Greetings (In Authentic Hiragana)\n- **こんにちは** (*Konnichiwa*) → **Hello / Good afternoon** (Note: final は is pronounced [wa])\n- **おはようございます** (*Ohayou gozaimasu*) → **Good morning (polite)**\n- **ありがとうございます** (*Arigatou gozaimasu*) → **Thank you very much (polite)**\n- **すみません** (*Sumimasen*) → **Excuse me / I am sorry / Thank you**\n- **さようなら** (*Sayounara*) → **Goodbye**\n- **はじめまして** (*Hajimemashite*) → **Nice to meet you (first time)**",
         "examples": [
           {
-            "target": "初めまして。私、富士通国際営業部の田中健一と申します。どうぞよろしくお願い申し上げます。",
-            "reading": "はじめまして。わたくし、ふじつう こくさいえいぎょうぶの たなかけんいちと もうします。どうぞ よろしく おねがいもうしあげます。",
-            "translation": "Nice to meet you. I am Kenichi Tanaka from the International Sales Department at Fujitsu. I look forward to working with you."
+            "target": "こんにちは",
+            "reading": "Konnichiwa",
+            "translation": "Hello / Good afternoon (everyday polite greeting)"
           },
           {
-            "target": "頂戴いたします。マイクロソフト東京支社のデイビッド・ミラーと申します。こちらこそよろしくお願いいたします。",
-            "reading": "ちょうだいいたします。マイクロソフト とうきょうししゃの デイビッド・ミラーと もうします。こちらこそ よろしく おねがいいたします。",
-            "translation": "Thank you for your card. I am David Miller from Microsoft Tokyo Branch. It is my pleasure to meet you as well."
+            "target": "おはようございます",
+            "reading": "Ohayou gozaimasu",
+            "translation": "Good morning (respectful/polite)"
           },
           {
-            "target": "ミラー様、本日はお忙しい中、弊社まで足をお運びいただき誠にありがとうございます。",
-            "reading": "ミラーさま、ほんじつは おいそがしいなか、へいしゃまで あしをおはこびいただき まことに ありがとうございます。",
-            "translation": "Mr. Miller, thank you very much for taking the time out of your busy schedule to visit our office today."
+            "target": "ありがとうございます",
+            "reading": "Arigatou gozaimasu",
+            "translation": "Thank you very much (polite gratitude)"
           },
           {
-            "target": "それでは本日の会議の資料を配付いたします。どうぞご覧ください。",
-            "reading": "それでは ほんじつの かいぎの しりょうを はいふいたします。どうぞ ごらんください。",
-            "translation": "Allow me now to distribute today's meeting documents. Please have a look."
+            "target": "すみません",
+            "reading": "Sumimasen",
+            "translation": "Excuse me / I am sorry (multi-purpose courtesy)"
           }
         ],
-        "mnemonics": [],
-        "culturalNotes": []
+        "mnemonics": [
+          "Tenten (゛) adds vocal cord vibration turning K->G, S->Z, T->D, H->B. Maru (゜) turns H->P! Small っ acts as a 1-beat pause before the next consonant."
+        ],
+        "culturalNotes": [
+          "Bowing (お辞儀 - ojigi) accompanies greetings in Japan. A slight 15-degree nod is used for casual greetings, while a 30-degree bow expresses deep respect and gratitude."
+        ]
       },
       "guidedPractice": {
         "items": [
           {
-            "prompt": "【名刺交換作法】ビジネスの初対面で相手から名刺を受け取る際に発する最も適切な敬語表現はどれですか。",
+            "prompt": "Which standard polite greeting means \"Good morning\" in Japanese?",
             "options": [
-              "いただきます、美味しいです。",
-              "頂戴いたします（ちょうだいいたします）。",
-              "ごちそうさまでした。",
-              "さようなら、また今度。"
-            ],
-            "answerIndex": 1,
-            "explanation": "名刺を受け取る際は「頂戴いたします」と述べるのが標準マナーです。"
-          },
-          {
-            "prompt": "【総合文脈】初対面の自己紹介で「こちらこそよろしくお願いいたします」と言うべき適切な状況はどれですか。",
-            "options": [
-              "相手から「どうぞよろしくお願いいたします」と挨拶されたことに対する丁寧な返答",
-              "朝起きて最初に家族に挨拶する時",
-              "食事を食べ終わった時",
-              "買い物の会計を支払う時"
+              "おはようございます (Ohayou gozaimasu - Good morning)",
+              "こんにちは (Konnichiwa - Hello/Good afternoon)",
+              "さようなら (Sayounara - Goodbye)",
+              "すみません (Sumimasen - Excuse me)"
             ],
             "answerIndex": 0,
-            "explanation": "「こちらこそ」は相手の挨拶や感謝に返答する定型句です。"
+            "explanation": "「おはようございます」 (*Ohayou gozaimasu*) is the standard polite morning greeting."
+          },
+          {
+            "prompt": "What sound transformation occurs when Dakuten (゛) is added to the H-row (はひふへほ)?",
+            "options": [
+              "It becomes the voiced B-row (ばびぶべぼ)",
+              "It becomes the P-row (ぱぴぷぺぽ)",
+              "It becomes the G-row (がぎぐげご)",
+              "It becomes the Z-row (ざじずぜぞ)"
+            ],
+            "answerIndex": 0,
+            "explanation": "Adding Dakuten (゛) to the H-row creates the voiced [b] sounds: ば, び, ぶ, べ, ぼ."
           }
         ]
       },
       "independentPractice": {
         "items": [
           {
-            "prompt": "【総合構文】「私＿＿＿ソニー＿＿＿技術者です。」の二つの空欄に入る助詞の正しい組み合わせを選択してください。",
+            "prompt": "Select the versatile Japanese phrase meaning \"Excuse me\" or \"I am sorry\":",
             "options": [
-              "は / の",
-              "の / は",
-              "を / で",
-              "に / を"
+              "すみません (Sumimasen - Excuse me / Sorry)",
+              "ありがとうございます (Arigatou gozaimasu - Thank you)",
+              "はじめまして (Hajimemashite - Nice to meet you)",
+              "こんにちは (Konnichiwa - Hello)"
             ],
             "answerIndex": 0,
-            "explanation": "主題の「は」と所属の「の」により「私はソニーの技術者です」となります。"
+            "explanation": "「すみません」 (*Sumimasen*) is used to get attention (excuse me), apologize (sorry), or show appreciation."
           },
           {
-            "prompt": "【敬語対話】取引先との面談終了時に述べる別れの挨拶として最も適切な表現を選択してください。",
+            "prompt": "In the greeting 「こんにちは」 (Konnichiwa), how is the final character 「は」 pronounced?",
             "options": [
-              "じゃあね、バイバイ！",
-              "本日は誠にありがとうございました。失礼いたします。",
-              "おやすみなさい、また夢で。",
-              "いただきます、美味しいです。"
+              "[wa] (Pronounced \"wa\" as an archaic topic marker)",
+              "[ha] (Always pronounced \"ha\")",
+              "[he] (Pronounced \"he\")",
+              "[ho] (Pronounced \"ho\")"
             ],
-            "answerIndex": 1,
-            "explanation": "ビジネス面談終了時は「本日は誠にありがとうございました。失礼いたします」と述べます。"
+            "answerIndex": 0,
+            "explanation": "In 「こんにちは」 and 「こんばんは」, the final 「は」 is historical topic particle and is pronounced [wa]."
           }
         ]
       },
@@ -990,28 +1005,25 @@ const FEARN_JAPANESE_CURRICULUM = {
         "items": [
           {
             "type": "multiple-choice",
-            "prompt": "自社の名刺を相手に差し出す際の正しい手の使い方はどれですか。",
+            "prompt": "Which phrase is the standard polite expression for \"Thank you very much\"?",
             "options": [
-              "片手で乱暴に投げる",
-              "両手で持ち、相手の胸の高さで差し出す",
-              "ポケットに入れたまま見せる",
-              "背中の後ろから出す"
+              "ありがとうございます (Arigatou gozaimasu - Thank you very much)",
+              "おはようございます (Ohayou gozaimasu - Good morning)",
+              "さようなら (Sayounara - Goodbye)",
+              "はじめまして (Hajimemashite - Nice to meet you)"
             ],
-            "answerIndex": 1,
-            "explanation": "名刺は両手で持ち、相手の胸の高さで差し出すのが日本のビジネスマナーです。"
+            "answerIndex": 0,
+            "explanation": "「ありがとうございます」 (*Arigatou gozaimasu*) expresses polite gratitude."
           },
           {
             "type": "typed-recall",
-            "prompt": "初対面の自己紹介で「よろしくお願いします」の丁寧な謙譲表現を入力してください（「よろしくお願いいたします」）：",
+            "prompt": "Type the 5-character Hiragana greeting for \"Hello / Good afternoon\" (ko-n-ni-chi-wa):",
             "acceptedAnswers": [
-              "よろしくお願いいたします",
-              "よろしくおねがいいたします",
-              "よろしくお願い申し上げます"
+              "こんにちは"
             ],
-            "explanation": "標準的な改まった自己紹介の結びは「よろしくお願いいたします」です。"
+            "explanation": "「こ」 + 「ん」 + 「に」 + 「ち」 + 「は」 = 「こんにちは」 (*Konnichiwa*)."
           }
-        ],
-        "passThreshold": 0.8
+        ]
       }
     },
     "ja-u2-l1": {

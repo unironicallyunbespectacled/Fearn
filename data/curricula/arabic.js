@@ -451,79 +451,89 @@
         "subject": "arabic",
         "unit": 1,
         "lessonNumber": 1,
-        "title": "الحروف العربية والحركات والتحيات الأساسية: الأبجدية، الحركات القصيرة والتحية الإسلامية (Alphabet, Short Vowels & Basic Greetings)",
+        "title": "الأبجدية العربية والحروف غير المتصلة والحركات القصيرة (Non-Connecting Letters & Short Vowels)",
         "level": "A1",
-        "objective": "Arabic Alphabet & Core Greetings: Master the 28 Arabic letters (Abjad, Right-to-Left script), short vowels (Harakat), and fundamental greetings (As-salamu alaykum, Marhaban).",
+        "objective": "Master the Right-to-Left Arabic writing direction, the 6 non-connecting letters (ا, د, ذ, ر, ز, و), the 4 short vowel marks (Fatḥah, Kasrah, Ḍammah, Sukūn), and read first authentic Arabic words.",
         "presentation": {
-            "explanation": "Welcome to Modern Standard Arabic (الفصحى / Al-Fusha)! Arabic is written and read from right to left (RTL) using an alphabet of 28 letters (Abjad). Most letters connect in cursive script and have slightly different shapes depending on whether they are isolated, initial, medial, or final. Short vowels are not written as separate letters; instead, diacritical marks called **Harakat** indicate vowel sounds: Fatha (ـَ = /a/), Damma (ـُ = /u/), Kasra (ـِ = /i/), and Sukun (ـْ = no vowel). The universal greeting across the Arabic-speaking world is «السَّلَامُ عَلَيْكُمْ» (*As-salāmu ʿalaykum* - \"Peace be upon you\"), answered with «وَعَلَيْكُمُ السَّلَام» (*Wa-ʿalaykumu s-salām* - \"And upon you be peace\"). Casual greetings include «مَرْحَبًا» (*Marḥaban* - Hello) and «صَبَاح الْخَيْر» (*Ṣabāḥ al-khayr* - Good morning).",
+            "explanation": "Welcome to Arabic (العربية)! Arabic is written from **Right to Left (RTL)** in an elegant cursive script containing 28 letters. In Arabic, letters connect to each other within words, except for 6 special letters called **Non-Connecting Letters**.\n\n### 1. The 6 Non-Connecting Letters (الحروف غير المتصلة)\nThese 6 letters connect to preceding letters on their right, but **never connect to any letter following them on their left** (causing a small gap):\n- **ا** (Alif) — [aa] long vowel / glottal carrier (straight vertical stroke)\n- **د** (Daal) — [d] voiced dental stop (as in \"door\")\n- **ذ** (Dhaal) — [dh] voiced dental fricative (as in \"this\" / \"father\")\n- **ر** (Raa) — [r] rolled alveolar tap (as in Spanish \"pero\")\n- **ز** (Zaay) — [z] voiced sibilant (as in \"zebra\")\n- **و** (Waaw) — [w / uu] labial glide / long \"oo\"\n\n### 2. The 4 Short Vowel Diacritics (الحركات)\nIn Arabic, short vowels are marked by small diacritics placed above or below consonants:\n- **الفَتْحَة (Fatḥah)**: A small diagonal stroke ABOVE the letter ( َ ) producing short **[a]** (e.g. دَ = da).\n- **الكَسْرَة (Kasrah)**: A small diagonal stroke BELOW the letter ( ِ ) producing short **[i]** (e.g. دِ = di).\n- **الضَّمَّة (Ḍammah)**: A small miniature Waaw ABOVE the letter ( ُ ) producing short **[u]** (e.g. دُ = du).\n- **السُّكُون (Sukūn)**: A small circle ABOVE the letter ( ْ ) indicating **zero vowel / pure consonant stop** (e.g. دْ = d).\n\n### 3. First Authentic Words (Built Exclusively from These 6 Letters)\n- **دَار** (*daar*) → **house / home / abode** (دَ + ا + ر)\n- **دَوْر** (*dawr*) → **role / turn** (دَ + وْ + ر)\n- **رُزّ** (*ruzz*) → **rice** (رُ + ز)\n- **وَرْد** (*ward*) → **roses / blossoms** (وَ + رْ + د)\n- **زَارَ** (*zaara*) → **he visited** (زَ + ا + رَ)",
             "examples": [
                 {
-                    "target": "السَّلَامُ عَلَيْكُمْ، كَيْفَ حَالُكَ؟",
-                    "reading": "As-salāmu ʿalaykum, kayfa ḥāluk(a)?",
-                    "translation": "Peace be upon you, how are you (to a male)?"
+                    "target": "دَار",
+                    "reading": "daar",
+                    "translation": "house / home (د [d] + ا [aa] + ر [r])"
                 },
                 {
-                    "target": "صَبَاحُ الْخَيْرِ! أَهْلًا وَسَهْلًا بِكُمْ.",
-                    "reading": "Ṣabāḥu l-khayr! Ahlan wa-sahlan bikum.",
-                    "translation": "Good morning! Welcome."
+                    "target": "وَرْد",
+                    "reading": "ward",
+                    "translation": "roses (و [w] + ر [r] + د [d])"
+                },
+                {
+                    "target": "رُزّ",
+                    "reading": "ruzz",
+                    "translation": "rice (ر [r] + ز [z])"
+                },
+                {
+                    "target": "دَوْر",
+                    "reading": "dawr",
+                    "translation": "role / turn (د [d] + و [w] + ر [r])"
                 }
             ],
             "mnemonics": [
-                "Arabic flows Right-to-Left. As-salamu alaykum = \"Peace be upon you\" — the golden key to polite Arabic communication."
+                "The 6 non-connectors are \"friendly to the right, but hold up a hand to the left\": Alif (ا), Daal (د), Dhaal (ذ), Raa (ر), Zaay (ز), Waaw (و)!"
             ],
             "culturalNotes": [
-                "Arabic calligraphy is considered one of the highest forms of visual art in Islamic culture, developed over centuries in styles like Naskh, Thuluth, and Diwani."
+                "Arabic calligraphy (الخط العربي) is one of the highest artistic achievements in world culture, developing styles such as Naskh, Thuluth, Ruq'ah, Diwani, and Kufic over fourteen centuries."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ما هو الرد اللائق والمعياري في الثقافة العربية الفصيحة على تحية «السَّلَامُ عَلَيْكُمْ»؟",
+                    "prompt": "Which Arabic short vowel diacritic is written as a slanted stroke UNDER the consonant and produces the short [i] sound?",
                     "options": [
-                        "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ (Wa-ʿalaykumu as-salāmu wa-raḥmatu Allāhi wa-barakātuh)",
-                        "إِلَى اللِّقَاءِ وَدَاعًا",
-                        "لَا أَعْرِفُ مَنْ أَنْتَ",
-                        "أَنَا مَشْغُولٌ جِدًّا"
+                        "الكَسْرَة (Al-Kasrah - stroke below letter for [i])",
+                        "الفَتْحَة (Al-Fatḥah - stroke above letter for [a])",
+                        "الضَّمَّة (Al-Ḍammah - loop above letter for [u])",
+                        "السُّكُون (As-Sukūn - circle for zero vowel)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الرد الشرعي واللغوي الفصيح على «السلام عليكم» هو «وعليكم السلام ورحمة الله وبركاته»."
+                    "explanation": "Al-Kasrah (الكَسْرَة) is placed below the letter to represent the short [i] vowel."
                 },
                 {
-                    "prompt": "ما هي الحركة الإعرابية التي تُرسم شرطةً مائلة تحت الحرف وتدل على صوت الياء القصيرة /i/؟",
+                    "prompt": "Read the Arabic word «دَار» composed of non-connecting letters and select its meaning:",
                     "options": [
-                        "الكَسْرَة (Al-Kasrah)",
-                        "الفَتْحَة",
-                        "الضَّمَّة",
-                        "السُّكُون"
+                        "daar (house / home / abode)",
+                        "ward (roses)",
+                        "ruzz (rice)",
+                        "dawr (role)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الكسرة هي الحركة التي تُرسم تحت الحرف لإنتاج صوت الياء القصيرة المرققة."
+                    "explanation": "«دَ» [da] + «ا» [aa] + «ر» [r] forms «دَار» (*daar*), meaning house or home."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "اختر العبارة الأكثر فصاحة ودقة لتحية الأستاذ عند دخول قاعة الدرس في الصباح الباكر:",
+                    "prompt": "Which of the following letters belongs to the group of 6 Non-Connecting Arabic letters?",
                     "options": [
-                        "صَبَاحُ الخَيْرِ يَا أُسْتَاذِي، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ. (Good morning my professor, peace be upon you and God's mercy.)",
-                        "هَيَّا نَنَامُ الآنَ فِي الفَصْلِ",
-                        "أَيْنَ الطَّعَامُ فِي هٰذِهِ القَاعَةِ",
-                        "لَا أُرِيدُ تَعَلُّمَ شَيْءٍ اليَوْمَ"
+                        "ر (Raa - non-connecting)",
+                        "ب (Baa - connecting)",
+                        "م (Meem - connecting)",
+                        "س (Seen - connecting)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "العبارة تجمع بين تحية الصباح الفصيحة وإلقاء السلام بأدب واحترام بالغين."
+                    "explanation": "«ر» (Raa) is one of the 6 non-connecting letters that never joins to letters on its left."
                 },
                 {
-                    "prompt": "ما هو الرمز الذي يُوضع فوق الحرف العربي ليدل على أنه حرف مضعف ومشدد يُنطق مرتين؟",
+                    "prompt": "Select the Arabic word meaning \"roses / blossoms\" spelled «وَرْد»:",
                     "options": [
-                        "الشَّدَّة (ّ) (Ash-Shaddah)",
-                        "التَّنْوِين",
-                        "الضَّمَّة",
-                        "الفَتْحَة"
+                        "وَرْد (ward - roses / flowers)",
+                        "دَار (daar - house)",
+                        "رُزّ (ruzz - rice)",
+                        "دَوْر (dawr - turn)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الشدة (ّ) علامة رسمية للدلالة على إدغام وتضعيف الحرف ونطقه بقوة."
+                    "explanation": "«وَ» [wa] + «رْ» [r] + «د» [d] spells «وَرْد» (*ward* - roses)."
                 }
             ]
         },
@@ -531,27 +541,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "اختر من بين الخيارات التالية الجملة الترحيبية المضبوطة بالشكل الكامل والسليمة لغويًا لافتتاح الخطاب في اللغة العربية:",
+                    "prompt": "What sound does the circular diacritic «السُّكُون» (As-Sukūn) indicate when placed above a letter?",
                     "options": [
-                        "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ، أَهْلًا وَسَهْلًا بِكُمْ جَمِيعًا فِي هٰذَا اليَوْمِ المُبَارَكِ. (As-salāmu ʿalaykum wa-raḥmatu Allāh, ahlan wa-sahlan bikum jamīʿan fī hādhā al-yawmi al-mubārak.)",
-                        "السكون الكسرة فتحة سلام بدون كلام في المدرسة.",
-                        "مرحبا انت انا مع السلامة كتاب قلم كرسي.",
-                        "لا سلام عليكم ولا اهلا بكم اليوم هنا."
+                        "Zero vowel / a pure consonant stop without a following vowel",
+                        "A long [aa] vowel",
+                        "A doubled consonant sound",
+                        "A nasal sound"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الجملة تمثل ذروة الفصاحة والضبط النحوي والأسلوب الترحيبي الراقي المعتمد في الفصحى."
+                    "explanation": "As-Sukūn indicates the absence of a vowel on that consonant."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "اكتب باللغة العربية الفصحى التحية الصباحية الشهيرة المكونة من كلمتين (مثال: «صباح...»؛ بدون تشكيل):",
+                    "prompt": "Type the 3-letter Arabic word for \"house / home\" (d-a-r):",
                     "acceptedAnswers": [
-                        "صباح الخير",
-                        "صَبَاحُ الخَيْرِ"
+                        "دار",
+                        "دَار"
                     ],
-                    "explanation": "التحية الصباحية الفصيحة هي «صباح الخير»."
+                    "explanation": "«د» + «ا» + «ر» = «دار» (*daar*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "ar-u1-l2": {
@@ -559,89 +568,89 @@
         "subject": "arabic",
         "unit": 1,
         "lessonNumber": 2,
-        "title": "حروف المد والحروف غير المتصلة والسؤال عن الحال (Long Vowels, Non-Connecting Letters & Asking Well-being)",
+        "title": "حروف الباء والتاء والثاء والنون والياء ومواضع الاتصال (Connecting Letters: Baa, Taa, Thaa, Noon, Yaa)",
         "level": "A1",
-        "objective": "إتقان حروف المد الطويلة الثلاثة (الألف والواو والياء)، وقاعدة الحروف الستة غير المتصلة بما بعدها، والسؤال عن الحال (كيف حالك؟) والرد بعبارات الحمد والشكر.",
+        "objective": "Master the base boat/cup letters distinguished by dots (ب, ت, ث, ن, ي), their positional forms (Initial, Medial, Final), and construct essential vocabulary.",
         "presentation": {
-            "explanation": "في هذا الدرس نتعرف على ركيزتين أساسيتين في الخط العربي والصوتيات، بالإضافة إلى التعبير عن الحال والصحة:\n\nأولاً: حروف المد الطويلة (Long Vowels):\n1.【الألف الساكنة المفتوح ما قبلها (ـَا / ا)】: تُمثل امتدادًا لحركة الفتحة، مثل: كِتَابٌ (kitāb)، بَابٌ (bāb).\n2.【الواو الساكنة المضموم ما قبلها (ـُو / و)】: تُمثل امتدادًا لحركة الضمة، مثل: نُورٌ (nūr)، سُوقٌ (sūq).\n3.【الياء الساكنة المكسور ما قبلها (ـِي / ي)】: تُمثل امتدادًا لحركة الكسرة، مثل: سَرِيعٌ (sarīʿ)، جَمِيلٌ (jamīl).\n\nثانياً: الحروف الستة غير المتصلة (Non-Connecting Letters):\n- توجد ستة أحرف تتصل بالحرف الذي قبلها ولكنها لا تتصل أبدًا بالحرف الذي بعدها: (أ، د، ذ، ر، ز، و).\n- أمثلة: وَرْدَةٌ (wardah)، دَرْسٌ (dars)، زَارَ (zāra).\n\nثالثاً: السؤال عن الحال والتعبير عن الشكر والامتنان:\n- للسؤال: «كَيْفَ حَالُكَ؟» (للمذكر) / «كَيْفَ حَالُكِ؟» (للمؤنث) / «كَيْفَ الحَالُ؟» (بشكل عام).\n- للإجابة: «أَنَا بِخَيْرٍ، وَالحَمْدُ لِلَّهِ» (I am fine, praise be to Allah) / «بِخَيْرٍ وَعَافِيَةٍ، شُكْرًا لَكَ».\n- عبارات الشكر: «شُكْرًا جَزِيلًا» (Thank you very much) والرد عليها: «عَفْوًا» (You're welcome).",
+            "explanation": "Now we master the most common connecting letter family in Arabic: letters sharing the **horizontal shallow boat/cup shape**, distinguished strictly by the number and position of their dots.\n\n### 1. The Dot-Differentiated Letter Family\n- **ب (Baa)** — 1 dot **BELOW** (بـ ـبـ ـب) → [b] as in \"book\"\n- **ت (Taa)** — 2 dots **ABOVE** (تـ ـتـ ـت) → [t] as in \"tea\"\n- **ث (Thaa)** — 3 dots **ABOVE** (ثـ ـثـ ـث) → [th] as in \"think\" / \"three\"\n- **ن (Noon)** — 1 dot **ABOVE** in a deeper rounded bowl (نـ ـنـ ـن) → [n] as in \"noon\"\n- **ي (Yaa)** — 2 dots **BELOW** (يـ ـيـ ـي) → [y / ee] glide or long vowel \"see\"\n\n### 2. The 3 Positional Forms\nWhen connecting, letters adapt their shape based on position:\n1. **Initial (بداية)**: Letter opens to the left to connect to the next letter (e.g. بـَـاب).\n2. **Medial (وسط)**: Connects from the right and extends to the left (e.g. كـِـتـَـاب).\n3. **Final (نهاية)**: Connects from the right and completes with its full traditional tail (e.g. بـَـيـْـت).\n\n### 3. Essential Arabic Vocabulary\n- **بَاب** (*baab*) → **door** (ب + ا + ب)\n- **بَيْت** (*bayt*) → **house / home** (ب + ي + ت)\n- **بِنْت** (*bint*) → **girl / daughter** (ب + ن + ت)\n- **تِين** (*teen*) → **fig** (ت + ي + ن)\n- **نُور** (*noor*) → **light** (ن + و + ر)\n- **أَنْتَ** (*anta*) → **you (singular masculine)**\n- **أَنْتِ** (*anti*) → **you (singular feminine)**\n- **أَنَا** (*ana*) → **I (pronoun)**",
             "examples": [
                 {
-                    "target": "كَيْفَ حَالُكَ اليَوْمَ يَا أَخِي الكَرِيمَ؟ — أَنَا بِخَيْرٍ وَالحَمْدُ لِلَّهِ، شُكْرًا لَكَ.(Kayfa ḥāluka al-yawma yā akhī al-karīm? — Anā bi-khayrin wa-al-ḥamdu lillāh, shukran lak.)",
-                    "reading": "[kaj.fa ħaː.lu.ka‿l.jaw.ma jaː ʔa.xiː‿l.ka.riːm? — ʔa.naː bi.xaj.rin wal.ħam.du lil.laːh, ʃuk.ran lak] (Kay-fa ḥā-lu-ka al-yaw-ma yā a-khī al-ka-rīm? — A-nā bi-khay-rin wa-al-ḥam-du lil-lāh, shuk-ran lak.)",
-                    "translation": "How are you today, my noble brother? — I am fine, praise be to God, thank you!"
+                    "target": "بَاب",
+                    "reading": "baab",
+                    "translation": "door (بـ [b] + ا [aa] + ب [b])"
                 },
                 {
-                    "target": "كَيْفَ حَالُكِ يَا أُخْتِي الفَاضِلَةَ؟ — بِخَيْرٍ وَعَافِيَةٍ، كَيْفَ حَالُكِ أَنْتِ؟(Kayfa ḥāluki yā ukhtī al-fāḍilah? — Bi-khayrin wa-ʿāfiyah, kayfa ḥāluki anti?)",
-                    "reading": "[kaj.fa ħaː.lu.ki jaː ʔux.tiː‿l.faː.dˤi.la? — bi.xaj.rin wa.ʕaː.fi.jah, kaj.fa ħaː.lu.ki ʔan.ti?] (Kay-fa ḥā-lu-ki yā ukh-tī al-fā-ḍi-lah? — Bi-khay-rin wa-ʿā-fi-yah, kay-fa ḥā-lu-ki an-ti?)",
-                    "translation": "How are you, my esteemed sister? — In fine health and well-being, how are you yourself?"
+                    "target": "بَيْت",
+                    "reading": "bayt",
+                    "translation": "house (بـ [b] + ـيـ [y] + ـت [t])"
                 },
                 {
-                    "target": "حُرُوفُ المَدِّ الثَّلَاثَةُ (الأَلِفُ، وَالوَاوُ، وَاليَاءُ) تَمْتَدُّ بِهَا الحَرَكَاتُ زَمَنًا أَطْوَلَ فِي النُّطْقِ.(Ḥurūfu al-maddi ath-thalāthatu [al-alifu, wa-al-wāwu, wa-al-yāʾu] tamtaddu bihā al-ḥarakātu zamānan aṭwala fī an-nuṭq.)",
-                    "reading": "[ħu.ruː.fu‿l.mad.di‿θ.θa.laː.θa.tu tam.tad.du bi.haː‿l.ħa.ra.kaː.tu za.maː.nan ʔatˤ.wa.la fiː‿n.nutˤq] (Ḥu-rū-fu al-mad-di ath-tha-lā-tha-tu tam-tad-du bi-hā al-ḥa-ra-kā-tu za-mā-nan aṭ-wa-la fī an-nuṭq.)",
-                    "translation": "The three long vowels (Alif, Wāw, and Yāʾ) extend the short vowels for a longer duration in pronunciation."
+                    "target": "بِنْت",
+                    "reading": "bint",
+                    "translation": "girl / daughter (بـ [b] + ـنـ [n] + ـت [t])"
                 },
                 {
-                    "target": "الحُرُوفُ السِّتَّةُ المُنْفَصِلَةُ (أ، د، ذ، ر، ز، و) لَا تَتَّصِلُ أَبَدًا بِالحَرْفِ الَّذِي يَلِيهَا فِي الكَلِمَةِ.(Al-ḥurūfu as-sittatu al-munfaṣilatu [a, d, dh, r, z, w] lā tattaṣilu abadan bi-l-ḥarfi alladhī yalīhā fī al-kalimah.)",
-                    "reading": "[al.ħu.ruː.fu‿s.sit.ta.tu‿l.mun.fa.sˤi.la.tu laː tat.ta.sˤi.lu ʔa.ba.dan bil.ħar.fi‿l.la.ðiː ja.liː.haː fiː‿l.ka.li.mah] (Al-ḥu-rū-fu as-sit-ta-tu al-mun-fa-ṣi-la-tu lā tat-ta-ṣi-lu a-ba-dan bi-l-ḥar-fi al-la-dhī ya-lī-hā fī al-ka-li-mah.)",
-                    "translation": "The six non-connecting letters (Alif, Dāl, Dhāl, Rāʾ, Zāy, Wāw) never connect to the letter that follows them in a word."
+                    "target": "نُور",
+                    "reading": "noor",
+                    "translation": "light (نـ [n] + و [oo] + ر [r])"
                 }
             ],
             "mnemonics": [
-                "سِتَّةُ حُرُوفٍ لَا تَصِلْ مَا بَعْدَهَا: أَلِفٌ وَدَالٌ ثُمَّ ذَالٌ عِدَّهَا، وَالرَّاءُ وَالزَّايُ وَوَاوٌ حَدَّهَا!"
+                "Baa has 1 dot Below (B for Bottom). Taa has 2 dots on Top. Thaa has Three dots on Top. Noon has 1 dot in its Nest. Yaa has 2 dots underneath (Yo-yo strings)!"
             ],
             "culturalNotes": [
-                "المسلمون والعرب يقرنون دائمًا الإجابة عن السؤال عن الصحة والحال بعبارة «الحَمْدُ لِلَّهِ»، وهو تعبير عن الرضا والامتنان الدائم للخالق في السراء والضراء."
+                "In Arabic, the word «بَيْت» (*bayt*) means both physical house and poetic verse/couplet, showing how deeply poetry is woven into Arabic culture as the \"architecture of thought\"."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ما هو السؤال الصحيح والمضبوط نحويًا للسؤال عن حال المؤنث المفرد في اللغة العربية الفصحى؟",
+                    "prompt": "Which letter in the boat family has 1 dot placed BELOW the base shape and is pronounced [b]?",
                     "options": [
-                        "كَيْفَ حَالُكِ؟ (Kayfa ḥāluki?)",
-                        "كَيْفَ حَالُكَ؟ (للمذكر فقط)",
-                        "أَيْنَ كِتَابُكَ؟",
-                        "مَا هٰذَا الشَّيْءُ؟"
+                        "ب (Baa - 1 dot below)",
+                        "ت (Taa - 2 dots above)",
+                        "ث (Thaa - 3 dots above)",
+                        "ن (Noon - 1 dot above)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "يُخاطب المؤنث المفرد بكسر كاف الخطاب «حالُكِ»."
+                    "explanation": "«ب» (Baa) has a single dot below the body and represents the voiced bilabial stop [b]."
                 },
                 {
-                    "prompt": "أي من الحروف التالية ينتمي إلى مجموعة الحروف الستة التي لا تتصل بما بعدها أبدًا؟",
+                    "prompt": "Select the Arabic word meaning \"door\" formed by initial Baa, Alif, and final Baa:",
                     "options": [
-                        "حَرْفُ الدَّالِ (د) (Dāl)",
-                        "حَرْفُ البَاءِ (ب)",
-                        "حَرْفُ المِيمِ (م)",
-                        "حَرْفُ السِّينِ (س)"
+                        "بَاب (baab - door)",
+                        "بَيْت (bayt - house)",
+                        "بِنْت (bint - girl)",
+                        "تِين (teen - fig)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "حرف الدال (د) من الحروف الستة غير المتصلة بما بعدها (أ، د، ذ، ر، ز، و)."
+                    "explanation": "«بـ» + «ا» + «ب» spells «بَاب» (*baab* - door)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "اختر الرد العربي الفصيح والمهذب على عبارة «شُكْرًا جَزِيلًا لَكَ»:",
+                    "prompt": "Identify the Arabic word meaning \"house / home\" spelled with Baa, Yaa, and final Taa:",
                     "options": [
-                        "عَفْوًا، لَا شُكْرَ عَلَى وَاجِبٍ. (You are welcome, no thanks needed for duty.)",
-                        "لِمَاذَا تَشْكُرُنِي أَنَا غَاضِبٌ",
-                        "لَا أُرِيدُ التَّحَدُّثَ مَعَكَ",
-                        "أَعْطِنِي مَالًا بَدَلَ الشُّكْرِ"
+                        "بَيْت (bayt - house)",
+                        "بِنْت (bint - daughter)",
+                        "نُور (noor - light)",
+                        "دَار (daar - abode)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الرد المهذب الأكثر استخدامًا وبلاغة هو «عَفْوًا» أو «لَا شُكْرَ عَلَى وَاجِبٍ»."
+                    "explanation": "«بـَ» [ba] + «يْـ» [y] + «ـت» [t] = «بَيْت» (*bayt* - house)."
                 },
                 {
-                    "prompt": "ما هي حروف المد الثلاثة في علم الصوتيات والقراءة العربية؟",
+                    "prompt": "Which Arabic pronoun represents \"you\" when speaking to a male (masculine singular)?",
                     "options": [
-                        "الأَلِفُ، وَالوَاوُ، وَاليَاءُ (Alif, Wāw, Yāʾ)",
-                        "البَاءُ وَالتَّاءُ وَالثَّاءُ",
-                        "الجِيمُ وَالحَاءُ وَالخَاءُ",
-                        "السِّينُ وَالشِّينُ وَالصَّادُ"
+                        "أَنْتَ (anta - you masc.)",
+                        "أَنْتِ (anti - you fem.)",
+                        "أَنَا (ana - I)",
+                        "هُوَ (huwa - he)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "حروف المد الثلاثة هي الألف والواو والياء السواكن المسبوقة بحركات مجانسة لها."
+                    "explanation": "«أَنْتَ» (*anta*) is the second-person singular masculine pronoun."
                 }
             ]
         },
@@ -649,27 +658,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "حدد الحوار القصير الذي يمثل الاستخدام النحوي والاجتماعي الأمثل للتعبير عن السؤال عن الحال والرد عليه بفصاحة تامة:",
+                    "prompt": "What does the Arabic word «نُور» (*noor*) mean in English?",
                     "options": [
-                        "— كَيْفَ حَالُكَ يَا صَدِيقِي العَزِيزَ؟ — أَنَا بِخَيْرٍ وَعَافِيَةٍ، وَالحَمْدُ لِلَّهِ، شُكْرًا لِاهْتِمَامِكَ. (How are you my dear friend? — I am in good health, praise be to God, thank you for your care.)",
-                        "— كيف حالك؟ — انا كتاب في حقيبة كبيرة.",
-                        "— اين تذهب؟ — شكرا عفوا مع السلامة صباحا.",
-                        "— من انت؟ — الحروف الستة لا تتصل بالواو."
+                        "light",
+                        "door",
+                        "house",
+                        "fig"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الحوار متناسق دلاليًا وصحيح إعرابيًا ويجسد الأسلوب العربي الفصيح في السؤال والرد."
+                    "explanation": "«نُور» (*noor*) means \"light\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "اكتب باللغة العربية الفصحى العبارة الشهيرة المكونة من كلمتين والتي تُقال عند شكر شخص ما (مثال: «شكرا...»؛ بدون تشكيل):",
+                    "prompt": "Type the 3-letter Arabic word for \"door\" (b-a-b):",
                     "acceptedAnswers": [
-                        "شكرا جزيلا",
-                        "شُكْرًا جَزِيلًا"
+                        "باب",
+                        "بَاب"
                     ],
-                    "explanation": "عبارة الامتنان الفصيحة هي «شكرا جزيلا»."
+                    "explanation": "«ب» + «ا» + «ب» = «باب» (*baab*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "ar-u1-l3": {
@@ -677,89 +685,89 @@
         "subject": "arabic",
         "unit": 1,
         "lessonNumber": 3,
-        "title": "الضمائر المنفصلة والجملة الاسمية والمهن الأساسية (Independent Pronouns & Nominal Sentences)",
+        "title": "حروف الجيم والسين والميم واللام وتكوين المفردات (Jim, Seen, Meem, Laam & Vocabulary)",
         "level": "A1",
-        "objective": "إتقان الضمائر الشخصية المنفصلة (أنا، أنتَ، أنتِ، هو، هي، نحن، هم)، وبناء الجملة الاسمية البسيطة (مبتدأ وخبر) بدون فعل كينونة في الحاضر، واستعمال تاء التأنيث للمهن.",
+        "objective": "Master connecting letters (ج, ح, خ), sibilants (س, ش), labial Meem (م), lateral Laam (ل), and velar Kaaf (ك).",
         "presentation": {
-            "explanation": "الجملة الاسمية هي أحد أهم أركان التعبير في اللغة العربية الفصحى:\n\nأولاً: الضمائر الشخصية المنفصلة (Personal Pronouns):\n1.【المتكلم (1st person)】: أَنَا (I - للمذكر والمؤنث)، نَحْنُ (We - للجمع بنوعيه).\n2.【المخاطب (2nd person)】: أَنْتَ (You - للمفرد المذكر)، أَنْتِ (You - للمفرد المؤنث)، أَنْتُمْ (You - لجمع الذكور).\n3.【الغائب (3rd person)】: هُوَ (He - للمفرد المذكر)، هِيَ (She - للمفرد المؤنث)، هُمْ (They - لجمع الذكور)، هُنَّ (They - لجمع الإناث).\n\nثانياً: الجملة الاسمية بدون فعل كينونة (Nominal Equational Sentences):\n- تتكون الجملة الاسمية من ركنين أساسيين: المبتدأ (المسند إليه) + الخبر (المسند).\n- كلاهما مرفوع دائمًا (علامة رفعه الضمة أو تنوين الضم).\n- في اللغة العربية، لا نحتاج إلى فعل كينونة (مثل is أو am أو are في الإنجليزية) في الزمن الحاضر:\n  - «أَنَا طَالِبٌ» (I am a student).\n  - «هُوَ مُعَلِّمٌ» (He is a teacher).\n  - «هِيَ أُسْتَاذَةٌ» (She is a professor).\n\nثالثاً: تاء التأنيث المربوطة (ـة / ة) في المهن والصفات:\n- تُضاف التاء المربوطة لتحويل الاسم والصفة من المذكر إلى المؤنث:\n  - طَالِبٌ (طالب) -> طَالِبَةٌ (طالبة).\n  - طَبِيبٌ (طبيب) -> طَبِيبَةٌ (طبيبة).\n  - مُهَنْدِسٌ (مهندس) -> مُهَنْدِسَةٌ (مهندسة).\n  - مُتَرْجِمٌ (مترجم) -> مُتَرْجِمَةٌ (مترجمة).",
+            "explanation": "Now we expand into the loop and curved families of the Arabic alphabet.\n\n### 1. The Jim-Group (ج, ح, خ)\n- **ج (Jeem)** — [j] voiced affricate with 1 dot below (جـ ـجـ ـج)\n- **ح (Haa)** — [ḥ] voiceless pharyngeal fricative (warm deep \"h\" from throat, no dots) (حـ ـحـ ـح)\n- **خ (Khaa)** — [kh] voiceless velar/uvular fricative (guttural \"kh\", 1 dot above) (خـ ـخـ ـخ)\n\n### 2. The Seen & Sheen Group (س, ش)\n- **س (Seen)** — [s] 3 sharp teeth (سـ ـسـ ـس)\n- **ش (Sheen)** — [sh] 3 teeth with 3 dots above (شـ ـشـ ـش)\n\n### 3. Flowing Consonants: Meem (م), Laam (ل), Kaaf (ك)\n- **م (Meem)** — [m] small circle/loop with descending tail (مـ ـمـ ـم)\n- **ل (Laam)** — [l] tall vertical hook (لـ ـلـ ـل)\n- **ك (Kaaf)** — [k] open arm with small kaf-mark (كـ ـكـ ـك)\n\n### 4. Rich Real Vocabulary\n- **سَلَام** (*salaam*) → **peace** (س + ل + ا + م)\n- **كِتَاب** (*kitaab*) → **book** (ك + ت + ا + ب)\n- **مَسْجِد** (*masjid*) → **mosque** (م + س + ج + د)\n- **شَمْس** (*shams*) → **sun** (ش + م + س)\n- **مَاء** (*maa'*) → **water** (م + ا + ء)\n- **قَلَم** (*qalam*) → **pen** (ق + ل + م)",
             "examples": [
                 {
-                    "target": "أَنَا طَالِبٌ جَدِيدٌ فِي الجَامِعَةِ، وَهِيَ أُسْتَاذَةُ اللُّغَةِ العَرَبِيَّةِ.(Anā ṭālibun jadīdun fī al-jāmiʿah, wa-hiya ustādhatu al-lughati al-ʿarabiyyah.)",
-                    "reading": "[ʔa.naː tˤaː.li.bun ʒa.diː.dun fiː‿l.ʒaː.mi.ʕah, wa.hi.ja ʔus.taː.ða.tu‿l.lu.ɣa.ti‿l.ʕa.ra.bij.jah] (A-nā ṭā-li-bun ja-dī-dun fī al-jā-mi-ʿah, wa-hi-ya us-tā-dha-tu al-lu-gha-ti al-ʿa-ra-biy-yah.)",
-                    "translation": "I am a new student at the university, and she is the professor of the Arabic language."
+                    "target": "سَلَام",
+                    "reading": "salaam",
+                    "translation": "peace (سـ [s] + ـلـ [l] + ا [aa] + م [m])"
                 },
                 {
-                    "target": "أَنْتَ مُهَنْدِسٌ بَارِعٌ، وَأَنْتِ طَبِيبَةٌ مَاهِرَةٌ فِي المُسْتَشْفَى.(Anta muhandisun bāriʿ, wa-anti ṭabībatun māhiratun fī al-mustashfā.)",
-                    "reading": "[ʔan.ta mu.han.di.sun baː.riʕ, wa.ʔan.ti tˤa.biː.ba.tun maː.hi.ra.tun fiː‿l.mus.taʃ.faː] (An-ta mu-han-di-sun bā-riʿ, wa-an-ti ṭa-bī-ba-tun mā-hi-ra-tun fī al-mus-tash-fā.)",
-                    "translation": "You (m.) are a talented engineer, and you (f.) are a skilled doctor at the hospital."
+                    "target": "كِتَاب",
+                    "reading": "kitaab",
+                    "translation": "book (كـ [k] + ـتـ [t] + ا [aa] + ب [b])"
                 },
                 {
-                    "target": "الجُمْلَةُ الاسْمِيَّةُ فِي اللُّغَةِ العَرَبِيَّةِ تَتَكَوَّنُ مِنْ مُبْتَدَأٍ وَخَبَرٍ دُونَ حَاجَةٍ إِلَى فِعْلِ كَيْنُونَةٍ فِي الحَاضِرِ.(Al-jumlatu al-ismiyyatu fī al-lughati al-ʿarabiyyati tatakawwanu min mubtadaʾin wa-khabarin dūna ḥājatin ilā fiʿli kaynūnatin fī al-ḥāḍir.)",
-                    "reading": "[al.ʒum.la.tu‿l.ʔis.mij.ja.tu fiː‿l.lu.ɣa.ti‿l.ʕa.ra.bij.ja.ti ta.ta.kaw.wa.nu min mub.ta.da.ʔin wa.xa.ba.rin duː.na ħaː.ʒa.tin ʔi.laː fiʕ.li kaj.nuː.na.tin fiː‿l.ħaː.dˤir] (Al-jum-la-tu al-is-miy-ya-tu fī al-lu-gha-ti al-ʿa-ra-biy-ya-ti ta-ta-kaw-wa-nu min mub-ta-da-ʾin wa-kha-ba-rin dū-na ḥā-ja-tin i-lā fiʿ-li kay-nū-na-tin fī al-ḥā-ḍir.)",
-                    "translation": "The nominal sentence in Arabic consists of a subject and a predicate without needing a copula verb in the present."
+                    "target": "مَسْجِد",
+                    "reading": "masjid",
+                    "translation": "mosque (مـ [m] + ـسـ [s] + ـجـ [j] + ـد [d])"
                 },
                 {
-                    "target": "نَحْنُ مُعَلِّمُونَ مُخْلِصُونَ، وَهُمْ بَاحِثُونَ مُجْتَهِدُونَ فِي مَرْكَزِ اللِّسَانِيَّاتِ.(Naḥnu muʿallimūna mukhliṣūn, wa-hum bāḥithūna mujtahidūna fī markazi al-lisāniyyāt.)",
-                    "reading": "[naħ.nu mu.ʕal.li.muː.na mux.li.sˤuːn, wa.hum baː.ħi.θuː.na muʒ.ta.hi.duː.na fiː mar.ka.zi‿l.li.saː.nij.jaːt] (Naḥ-nu mu-ʿal-li-mū-na mukh-li-ṣūn, wa-hum bā-ḥi-thū-na muj-ta-hi-dū-na fī mar-ka-zi al-li-sā-niy-yāt.)",
-                    "translation": "We are sincere teachers, and they are hardworking researchers at the linguistics center."
+                    "target": "شَمْس",
+                    "reading": "shams",
+                    "translation": "sun (شـ [sh] + ـمـ [m] + ـس [s])"
                 }
             ],
             "mnemonics": [
-                "مُبْتَدَأٌ وَخَبَرٌ فِي الجُمْلَةِ الاسْمِيَّةْ، يَرْتَفِعَانِ بِضَمٍّ دُونَ رَيْبَةْ، أَنَا طَالِبٌ وَهِيَ أُسْتَاذَةٌ ذَكِيَّةْ!"
+                "Jeem carries a Gem in its belly (dot below). Khaa has a crumb on its head (dot above). Haa has no dots at all. Seen has 3 teeth for Smiling!"
             ],
             "culturalNotes": [
-                "يتميز النظام الصرفي والنحوي العربي بالدقة المتناهية في التفرقة بين الجنسين في كل من الضمائر والأفعال والصفات، مما يعزز الوضوح الدلالي والجمالي في الخطاب."
+                "«سَلَام» (*salaam* - peace) is the foundational root (S-L-M) of both Islam and the universal Arab greeting, embodying the cultural value of harmony and safety."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ما هي الجملة الاسمية الصحيحة والمضبوطة لقول «She is a skilled doctor» باللغة العربية الفصحى؟",
+                    "prompt": "Which Arabic word means \"peace\" and is formed from Seen, Laam, Alif, and Meem?",
                     "options": [
-                        "هِيَ طَبِيبَةٌ مَاهِرَةٌ (Hiya ṭabībatun māhirah)",
-                        "هُوَ طَبِيبَةٌ مَاهِرَةٌ",
-                        "أَنْتَ طَبِيبَةٌ مَاهِرٌ",
-                        "هُمْ طَبِيبٌ جَدِيدٌ"
+                        "سَلَام (salaam - peace)",
+                        "كِتَاب (kitaab - book)",
+                        "مَسْجِد (masjid - mosque)",
+                        "شَمْس (shams - sun)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الضمير «هي» يطابق الخبر المؤنث وصفته «طبيبة ماهرة» بالتأنيث وعلامة الرفع."
+                    "explanation": "«سـَ» + «ـلا» + «م» spells «سَلَام» (*salaam* - peace)."
                 },
                 {
-                    "prompt": "ما هو الضمير المنفصل المخصص للمتكلم الجمع (مذكرًا ومؤنثًا) في اللغة العربية؟",
+                    "prompt": "Which letter in the Jim group produces the deep warm pharyngeal \"h\" sound without any dots?",
                     "options": [
-                        "نَحْنُ (Naḥnu)",
-                        "أَنْتُمْ",
-                        "هُمْ",
-                        "هُنَّ"
+                        "ح (Haa - pharyngeal [ḥ], no dots)",
+                        "ج (Jeem - dot below)",
+                        "خ (Khaa - dot above)",
+                        "هـ (Soft Haa)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الضمير «نحن» يدل على جماعة المتكلمين سواء كانوا ذكورًا أو إناثًا."
+                    "explanation": "«ح» (Haa) is the dotless pharyngeal voiceless fricative."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "اختر الجملة الاسمية التي تطبق قواعد المطابقة الإعرابية بين المبتدأ والخبر والصفة بشكل سليم تمامًا:",
+                    "prompt": "Select the Arabic word meaning \"book\" spelled «كِتَاب»:",
                     "options": [
-                        "أَنْتَ أُسْتَاذٌ كَرِيمٌ فِي الجَامِعَةِ. (You are a noble professor at the university.)",
-                        "أَنْتَ أُسْتَاذَةٌ كَرِيمٌ فِي الجَامِعَةِ",
-                        "هِيَ مُهَنْدِسٌ بَارِعَةٌ فِي المَصْنَعِ",
-                        "أَنَا طَالِبَةٌ مُجْتَهِدٌ فِي المَدْرَسَةِ"
+                        "كِتَاب (kitaab - book)",
+                        "سَلَام (salaam - peace)",
+                        "قَلَم (qalam - pen)",
+                        "بَاب (baab - door)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "المطابقة تامة بين المبتدأ المذكر والخبر والصفة في التذكير والإفراد والإعراب."
+                    "explanation": "«كِتَاب» (*kitaab*) means \"book\"."
                 },
                 {
-                    "prompt": "ما هي اللاحقة الحرفية التي تضاف إلى نهاية الأسماء المذكرة لتحويلها إلى صيغة المؤنث؟",
+                    "prompt": "Identify the word for \"sun\" combining Sheen, Meem, and Seen:",
                     "options": [
-                        "تَاءُ التَّأْنِيثِ المَرْبُوطَةُ (ـة / ة) (Tāʾ Marbūṭah)",
-                        "وَاوُ الجَمَاعَةِ",
-                        "أَلِفُ التَّنْوِينِ",
-                        "يَاءُ النِّسْبَةِ"
+                        "شَمْس (shams - sun)",
+                        "نُور (noor - light)",
+                        "مَاء (maa' - water)",
+                        "وَرْد (ward - flowers)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "التاء المربوطة هي العلامة الأساسية والأكثر شيوعًا للتأنيث في الأسماء والصفات."
+                    "explanation": "«شـَ» + «ـمْـ» + «ـس» = «شَمْس» (*shams* - sun)."
                 }
             ]
         },
@@ -767,27 +775,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "اختر الجملة الاسمية المعربة إعرابًا تامًا والتي تعبر عن مهنة ودراسة شخصين بطريقة فصيحة ومتقنة:",
+                    "prompt": "What does the Arabic word «كِتَاب» mean in English?",
                     "options": [
-                        "هُوَ بَاحِثٌ نَشِيطٌ فِي اللُّغَوِيَّاتِ، وَهِيَ مُتَرْجِمَةٌ قَدِيرَةٌ فِي المُنَظَّمَةِ. (He is an active researcher in linguistics, and she is a capable translator at the organization.)",
-                        "هو باحثة نشيط وهي مترجم قديرة في المنظمة.",
-                        "نحن هو وهي طالب مدرسة كلية مستشفى.",
-                        "انت هي نحن مترجمون لغات سكون كسرة."
+                        "book",
+                        "pen",
+                        "door",
+                        "mosque"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الجملة مطابقة إعرابيًا ودلاليًا وتخلو تمامًا من أي خطأ نحوي أو تنافر تركيبي."
+                    "explanation": "«كِتَاب» (*kitaab*) means \"book\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "اكتب باللغة العربية الفصحى الضمير المنفصل الدال على المفرد الغائب المذكر (مثال: «هو»؛ بدون تشكيل):",
+                    "prompt": "Type the 4-letter Arabic word for \"peace\" (s-l-a-m):",
                     "acceptedAnswers": [
-                        "هو",
-                        "هُوَ"
+                        "سلام",
+                        "سَلَام"
                     ],
-                    "explanation": "ضمير المفرد الغائب المذكر هو «هو»."
+                    "explanation": "«س» + «ل» + «ا» + «م» = «سلام» (*salaam*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "ar-u1-l4": {
@@ -795,89 +802,89 @@
         "subject": "arabic",
         "unit": 1,
         "lessonNumber": 4,
-        "title": "التعريف بالنفس والسؤال عن الاسم والموطن وأسماء الإشارة (Self-Introduction, Origin & Demonstratives)",
+        "title": "الشدة والتنوين والتاء المربوطة ولام التعريف (Shaddah, Tanween, Ta Marbutah & Definite Article)",
         "level": "A1",
-        "objective": "إتقان السؤال عن الاسم والموطن والجنسية (ما اسمك؟ من أين أنت؟)، واستخدام ياء النسبة، وأسماء الإشارة للقريب (هٰذا / هٰذه)، وعبارات المجاملة (تشرفنا، فرصة سعيدة، مع السلامة).",
+        "objective": "Master the gemination mark Shaddah (ّ), the nunation markers Tanween (ً ٍ ٌ), the feminine suffix Ta Marbutah (ة), and the definite article (ال) with Sun and Moon letter assimilation.",
         "presentation": {
-            "explanation": "في هذا الدرس نتعلم كيف نعرّف بأنفسنا ونسأل الآخرين عن أسمائهم وأوطانهم باستخدام التراكيب الفصيحة:\n\nأولاً: السؤال عن الاسم والموطن والجنسية:\n1.【السؤال عن الاسم】:\n- «مَا اسْمُكَ؟» (للمذكر) / «مَا اسْمُكِ؟» (للمؤنث).\n- الجواب: «اسْمِي طَارِقٌ» / «اسْمِي مَرْيَمُ».\n2.【السؤال عن الموطن】:\n- «مِنْ أَيْنَ أَنْتَ؟» (للمذكر) / «مِنْ أَيْنَ أَنْتِ؟» (للمؤنث).\n- الجواب: «أَنَا مِنْ مِصْرَ» / «أَنَا مِنْ سُورِيَا» / «أَنَا مِنْ المَغْرِبِ».\n3.【ياء النسبة (Nisbah Suffix ـِيّ / ـِيَّة)】:\n- تُضاف ياء مشددة مكسور ما قبلها للدلالة على النسبة والموطن:\n  - مِصْرُ -> مِصْرِيٌّ (مذكر) / مِصْرِيَّةٌ (مؤنث).\n  - لُبْنَانُ -> لُبْنَانِيٌّ / لُبْنَانِيَّةٌ.\n  - الأُرْدُنُّ -> أُرْدُنِّيٌّ / أُرْدُنِّيَّةٌ.\n\nثانياً: أسماء الإشارة للقريب (Demonstratives):\n- «هٰذَا» (للمفرد المذكر العاقل وغير العاقل): «هٰذَا صَدِيقِي»، «هٰذَا كِتَابٌ».\n- «هٰذِهِ» (للمفرد المؤنث ولجمع غير العاقل): «هٰذِهِ صَدِيقَتِي»، «هٰذِهِ جَامِعَةٌ».\n\nثالثاً: عبارات اللباقة والتعارف والوداع:\n- «تَشَرَّفْنَا» (Pleased / Honored to meet you).\n- «فُرْصَةٌ سَعِيدَةٌ» (Nice to meet you / Happy occasion).\n- «مَعَ السَّلَامَةِ» (Goodbye / With safety).\n- «إِلَى اللِّقَاءِ» (Until we meet again).",
+            "explanation": "Now we complete Arabic orthography with four crucial writing rules.\n\n### 1. Ash-Shaddah (الشَّدَّة - ّ)\nA small \"w\"-shaped sign placed above a consonant to indicate **gemination (doubling / holding the consonant twice as long)** without writing the letter twice:\n- **رُزّ** (*ruzz* - rice)\n- **مُعَلِّم** (*mu'allim* - teacher)\n- **شُكْرًا** (*shukran* - thank you)\n\n### 2. At-Tanween (التَّنْوِين - Nunation)\nDoubling the short vowel at the end of an indefinite noun adds an [n] sound:\n- **Tanween Fatḥ (ً)**: pronounced **[-an]** (e.g. **شُكْرًا** = *shukran*, **عَفْوًا** = *afwan*, **مَرْحَبًا** = *marhaban*)\n- **Tanween Ḍamm (ٌ)**: pronounced **[-un]** (e.g. **كِتَابٌ** = *kitaabun*)\n- **Tanween Kasr (ٍ)**: pronounced **[-in]** (e.g. **بَيْتٍ** = *baytin*)\n\n### 3. At-Taa Al-Marbutah (التَّاء المَرْبُوطَة - ة / ـة)\nA \"tied-up Taa\" that appears strictly at the end of words to mark **feminine gender**:\n- When pausing (end of sentence), pronounced as a soft **[-ah]** (e.g. مَدِينَة = *madeenah* / city).\n- When connecting in speech, pronounced as **[-at]** (e.g. مَدِينَةُ القَاهِرَة = *madeenat al-Qaahirah*).\n\n### 4. The Definite Article «ال» (Al-) & Sun/Moon Letters\n- **Moon Letters (القَمَرِيَّة)**: The \"l\" of Al- is clearly pronounced (e.g. **القَمَر** = *al-qamar* / the moon, **الكِتَاب** = *al-kitaab* / the book).\n- **Sun Letters (الشَّمْسِيَّة)**: The \"l\" assimilates into the following consonant with a Shaddah (e.g. **الشَّمْس** = *ash-shams* / the sun, **السَّلَام** = *as-salaam* / the peace).",
             "examples": [
                 {
-                    "target": "مَا اسْمُكَ يَا صَدِيقِي؟ — اسْمِي طَارِقٌ، وَأَنَا مِنْ مِصْرَ، أَنَا مِصْرِيٌّ.(Mā ismuka yā ṣadīqī? — Ismī Ṭāriq, wa-anā min Miṣr, anā miṣriyy.)",
-                    "reading": "[maː‿s.mu.ka jaː sˤa.diː.qiː? — ʔis.miː tˤaː.riq, wa.ʔa.naː min misˤr, ʔa.naː misˤ.rijj] (Mā is-mu-ka yā ṣa-dī-qī? — Is-mī Ṭā-riq, wa-a-nā min Miṣr, a-nā miṣ-riyy.)",
-                    "translation": "What is your name, my friend? — My name is Tariq, and I am from Egypt, I am Egyptian."
+                    "target": "شُكْرًا",
+                    "reading": "shukran",
+                    "translation": "thank you (ends with Tanween Fatḥ [-an])"
                 },
                 {
-                    "target": "تَشَرَّفْنَا بِمَعْرِفَتِكِ يَا مَرْيَمُ، هٰذِهِ جَامِعَتُنَا الجَدِيدَةُ فِي المَدِينَةِ.(Tasharrafnā bi-maʿrifatiki yā Maryam, hādhihi jāmiʿatunā al-jadīdatu fī al-madīnah.)",
-                    "reading": "[ta.ʃar.raf.naː bi.maʕ.ri.fa.ti.ki jaː mar.jam, haː.ði.hi ʒaː.mi.ʕa.tu.naː‿l.ʒa.diː.da.tu fiː‿l.ma.diː.nah] (Ta-shar-raf-nā bi-maʿ-ri-fa-ti-ki yā Mar-yam, hā-dhi-hi jā-mi-ʿa-tu-nā al-ja-dī-da-tu fī al-ma-dī-nah.)",
-                    "translation": "We are honored to know you, Maryam! This is our new university in the city."
+                    "target": "مَرْحَبًا",
+                    "reading": "marhaban",
+                    "translation": "hello / welcome (ends with Tanween Fatḥ [-an])"
                 },
                 {
-                    "target": "هٰذَا زَمِيلِي عُمَرُ وَهُوَ مُهَنْدِسٌ سُورِيٌّ، وَهٰذِهِ زَمِيلَتِي فَاطِمَةُ وَهِيَ طَبِيبَةٌ أُرْدُنِّيَّةٌ.(Hādhā zamīlī ʿUmar wa-huwa muhandisun sūriyy, wa-hādhihi zamīlatī Fāṭimah wa-hiya ṭabībatun urdunniyyah.)",
-                    "reading": "[haː.ðaː za.miː.liː ʕu.mar wa.hu.wa mu.han.di.sun suː.rijj, wa.haː.ði.hi za.miː.la.tiː faː.tˤi.mah wa.hi.ja tˤa.biː.ba.tun ʔur.dun.nij.jah] (Hā-dhā za-mī-lī ʿU-mar wa-hu-wa mu-han-di-sun sū-riyy, wa-hā-dhi-hi za-mī-la-tī Fā-ṭi-mah wa-hi-ya ṭa-bī-ba-tun ur-dun-niy-yah.)",
-                    "translation": "This is my colleague Omar and he is a Syrian engineer, and this is my colleague Fatima and she is a Jordanian doctor."
+                    "target": "الشَّمْس",
+                    "reading": "ash-shams",
+                    "translation": "the sun (Sun letter assimilation with Shaddah)"
                 },
                 {
-                    "target": "فُرْصَةٌ سَعِيدَةٌ جِدًّا لِلِقَائِكُمْ، مَعَ السَّلَامَةِ وَإِلَى اللِّقَاءِ القَرِيبِ!(Furṣatun saʿīdatun jiddan li-liqāʾikum, maʿa as-salāmati wa-ilā al-liqāʾi al-qarīb!)",
-                    "reading": "[fur.sˤa.tun sa.ʕiː.da.tun ʒid.dan li.li.qaː.ʔi.kum, ma.ʕa‿s.sa.laː.ma.ti wa.ʔi.laː‿l.li.qaː.ʔi‿l.qa.riːb] (Fur-ṣa-tun sa-ʿī-da-tun jid-dan li-li-qā-ʾi-kum, ma-ʿa as-sa-lā-ma-ti wa-i-lā al-li-qā-ʾi al-qa-rīb!)",
-                    "translation": "It was a very pleasant opportunity to meet you, goodbye and until our next meeting soon!"
+                    "target": "الكِتَاب",
+                    "reading": "al-kitaab",
+                    "translation": "the book (Moon letter with clear Laam)"
                 }
             ],
             "mnemonics": [
-                "هٰذَا لِلْمُذَكَّرِ وَهٰذِهِ لِلْمُؤَنَّثْ، اسْمِي وَمَوْطِنِي كَلَامٌ مُؤَنَّسْ، تَشَرَّفْنَا بِكُمْ وَالسَّلَامُ يُغْرَسْ!"
+                "Shaddah (ّ) doubles the consonant power! Tanween (ً) adds a cheerful \"N\" to words like Shukran (شُكْرًا) and Marhaban (مَرْحَبًا)!"
             ],
             "culturalNotes": [
-                "في الثقافة العربية، يُعد الترحيب بالضيف والسؤال عن موطنه بلطف مقرونًا بعبارة «تَشَرَّفْنَا» دلالة كرم وأصالة وحسن استقبال متوارث عبر الأجيال."
+                "Arabic grammar preserves pristine Classical phonology through these diacritics, which are fully vocalized in the Quran, classical poetry, and primary language curricula."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ما هو اسم الإشارة المناسب للإشارة إلى المفرد المذكر القريب (مثل: «صديق» / «كتاب»)؟",
+                    "prompt": "What is the phonetic function of the Shaddah (ّ) diacritic when placed above an Arabic letter?",
                     "options": [
-                        "هٰذَا (Hādhā)",
-                        "هٰذِهِ",
-                        "تِلْكَ",
-                        "هٰؤُلَاءِ"
+                        "It indicates that the consonant is doubled/geminated and held longer",
+                        "It makes the letter silent",
+                        "It turns the consonant into a vowel",
+                        "It indicates a question"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«هٰذَا» اسم إشارة مبني يُستخدم للمفرد المذكر القريب عاقلاً كان أم غير عاقل."
+                    "explanation": "Ash-Shaddah indicates gemination (consonant doubling)."
                 },
                 {
-                    "prompt": "كيف تنسب شخصًا مذكرًا إلى بلد «المَغْرِبِ» باستخدام ياء النسبة؟",
+                    "prompt": "Which diacritic at the end of «شُكْرًا» produces the final [-an] sound in \"Shukran\"?",
                     "options": [
-                        "مَغْرِبِيٌّ (Maghribiyy)",
-                        "مَغْرِبِيَّةٌ",
-                        "مَغَارِبَةٌ",
-                        "مَغْرِبُ"
+                        "التَّنْوِين (At-Tanween - Nunation marker ً for [-an])",
+                        "السُّكُون (As-Sukūn)",
+                        "الشَّدَّة (Ash-Shaddah)",
+                        "الكَسْرَة (Al-Kasrah)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "تُضاف ياء النسبة المشددة إلى الاسم ليصبح «مَغْرِبِيٌّ» للمذكر."
+                    "explanation": "Tanween Fatḥ (ً) adds the adverbial [-an] suffix in «شُكْرًا» (*shukran*)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "اختر العبارة الفصيحة المناسبة للتعبير عن سرورك بلقاء زميل جديد والترحيب به لأول مرة:",
+                    "prompt": "In the word «الشَّمْس» (the sun), why is the \"L\" sound assimilated to pronounce [ash-shams]?",
                     "options": [
-                        "تَشَرَّفْنَا بِمَعْرِفَتِكَ يَا صَدِيقِي، فُرْصَةٌ سَعِيدَةٌ جِدًّا. (We are honored to know you my friend, a very pleasant opportunity.)",
-                        "أَنَا لَا أُرِيدُ مَعْرِفَةَ اسْمِكَ",
-                        "اِذْهَبْ بَعِيدًا عَنْ هٰذَا المَكَانِ",
-                        "مَاذَا تَفْعَلُ هُنَا أَنَا لَا أَعْرِفُكَ"
+                        "Because Sheen (ش) is a Sun Letter (حرف شمسي) that assimilates the Laam",
+                        "Because Sheen is a vowel",
+                        "Because the word is feminine",
+                        "Because of a typo"
                     ],
                     "answerIndex": 0,
-                    "explanation": "العبارة تجمع بين كرم الترحيب «تَشَرَّفْنَا» والتعبير عن السرور «فُرْصَةٌ سَعِيدَةٌ» بأعلى درجات الأدب العربي."
+                    "explanation": "Sun letters assimilate the \"L\" of the definite article «ال» into a doubled consonant with Shaddah."
                 },
                 {
-                    "prompt": "ما هو السؤال الفصيح الموجه لامرأة للسؤال عن البلد الذي تنتمي إليه؟",
+                    "prompt": "What does the letter Ta Marbutah (ة) at the end of a word signify in Arabic grammar?",
                     "options": [
-                        "مِنْ أَيْنَ أَنْتِ؟ (Min ayna anti?)",
-                        "مِنْ أَيْنَ أَنْتَ؟ (للمذكر)",
-                        "مَا اسْمُكَ؟",
-                        "كَيْفَ حَالُكَ؟"
+                        "Feminine grammatical gender marker",
+                        "Plural marker",
+                        "Past tense verb marker",
+                        "Preposition"
                     ],
                     "answerIndex": 0,
-                    "explanation": "يُستخدم حرف الجر «من» مع اسم الاستفهام «أين» والضمير المخاطب المؤنث «أنتِ»."
+                    "explanation": "Ta Marbutah (ة) is the primary marker of feminine grammatical gender in nouns and adjectives."
                 }
             ]
         },
@@ -885,27 +892,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "اختر الفقرة التي تقدم تعريفًا شخصيًا متكاملاً يشتمل على الاسم والموطن والمهنة وأسماء الإشارة بدقة لغوية تامة:",
+                    "prompt": "Which phrase correctly illustrates a Moon Letter where the \"L\" of «ال» is explicitly pronounced?",
                     "options": [
-                        "مَرْحَبًا بِكُمْ، اسْمِي يُوسُفُ وَأَنَا مِنْ لُبْنَانَ، أَنَا لُبْنَانِيٌّ وَأَعْمَلُ مُهَنْدِسًا، وَهٰذِهِ صَدِيقَتِي زَيْنَبُ وَهِيَ طَبِيبَةٌ سُورِيَّةٌ. (Hello to you all, my name is Youssef and I am from Lebanon, I am Lebanese and work as an engineer, and this is my friend Zeinab and she is a Syrian doctor.)",
-                        "اسمي هذا هذه لبنان مهندس طبيب من اين مع السلامة.",
-                        "مرحبا انت انا شكرا عفوا كيف حالك اسم كتاب.",
-                        "نحن ليس عندنا اسم ولا بلد ولا اصدقاء في المدينة."
+                        "الكِتَاب (Al-Kitaab - The book)",
+                        "الشَّمْس (Ash-Shams - The sun)",
+                        "السَّلَام (As-Salaam - The peace)",
+                        "النُّور (An-Noor - The light)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الفقرة نموذجية في بناء الجملة الاسمية والنسبة وأسماء الإشارة والتعريف المتكامل."
+                    "explanation": "Kaaf (ك) is a Moon letter, so «الكِتَاب» is pronounced clearly as [al-kitaab]."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "اكتب باللغة العربية الفصحى اسم الإشارة المخصص للمفرد المؤنث القريب (مثال: «هذه»؛ بدون تشكيل):",
+                    "prompt": "Type the Arabic word for \"Thank you\" (sh-k-r-a-n):",
                     "acceptedAnswers": [
-                        "هذه",
-                        "هٰذِهِ"
+                        "شكرا",
+                        "شُكْرًا"
                     ],
-                    "explanation": "اسم الإشارة للمفرد المؤنث القريب هو «هذه»."
+                    "explanation": "«ش» + «ك» + «ر» + «ا» = «شكرا» (*shukran*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "ar-u1-l5": {
@@ -913,89 +919,89 @@
         "subject": "arabic",
         "unit": 1,
         "lessonNumber": 5,
-        "title": "حوار التعارف الشامل في الحرم الجامعي (Comprehensive Orientation & Campus Introduction Dialogue)",
+        "title": "التحيات الإسلامية والعربية والتعريف بالنفس (Islamic & Arab Greetings & Self-Introductions)",
         "level": "A1",
-        "objective": "الدمج الشامل لمهارات الوحدة الأولى: التحية الإسلامية، السؤال عن الحال والحمد، التعريف بالاسم والموطن والجنسية، تكوين الجمل الاسمية للمهن، واستعمال أسماء الإشارة وعبارات التوديع في حوار فصيح متكامل.",
+        "objective": "Master standard Islamic and cultural greetings (As-salamu 'alaykum, Marhaban, Ahlan wa sahlan), introductions (Ana..., Ma ismuka?), gratitude (Shukran, 'Afwan), and farewells (Ma'a as-salaama).",
         "presentation": {
-            "explanation": "مرحبًا بك في الدرس الختامي والتتويجي للوحدة الأولى من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع الكفايات اللغوية التي اكتسبناها في سياق حواري تفاعلي راقٍ يُحاكي لقاء التعارف الأول بين الطلاب في بهو الحرم الجامعي:\n\nعناصر الحوار التواصلي المتكامل:\n1.【الافتتاح والتحية】: إفشاء السلام «السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ» والرد الأكمل عليه «وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ».\n2.【السؤال عن الحال】: «كَيْفَ حَالُكَ؟» مع ربط الإجابة بالحمد والثناء «بِخَيْرٍ وَالحَمْدُ لِلَّهِ، شُكْرًا لَكَ».\n3.【التعريف بالاسم والمهنة】: تطبيق الجملة الاسمية (مبتدأ + خبر) بدون فعل كينونة: «أَنَا طَالِبٌ جَدِيدٌ»، «اسْمِي أَحْمَدُ».\n4.【السؤال عن الموطن والجنسية】: استخدام «مِنْ أَيْنَ أَنْتَ؟» وصياغة ياء النسبة: «أَنَا مِنْ مِصْرَ، أَنَا مِصْرِيٌّ» / «أَنَا مِنْ المَغْرِبِ، أَنَا مَغْرِبِيٌّ».\n5.【الإشارة والمجاملة】: توظيف أسماء الإشارة «هٰذَا صَدِيقِي» وعبارات الوداد «تَشَرَّفْنَا بِمَعْرِفَتِكُمْ» و«فُرْصَةٌ سَعِيدَةٌ».\n6.【الختام والوداع】: «مَعَ السَّلَامَةِ وَإِلَى اللِّقَاءِ القَرِيبِ».",
+            "explanation": "Now you bring together complete Arabic literacy into authentic spoken greeting and self-introduction dialogues.\n\n### 1. The Universal Islamic & Cultural Greeting\n- **السَّلَامُ عَلَيْكُمْ** (*As-salāmu 'alaykum*) → **Peace be upon you** (universal dignified greeting)\n- **وَعَلَيْكُمُ السَّلَامُ** (*Wa 'alaykumu s-salām*) → **And upon you be peace** (standard response)\n\n### 2. Everyday Welcoming & Courtesy Expressions\n- **مَرْحَبًا!** (*Marḥaban!*) → **Hello! / Welcome!**\n- **أَهْلًا وَسَهْلًا!** (*Ahlan wa sahlan!*) → **Welcome!** (lit. \"You have arrived among family and ease\")\n- **شُكْرًا!** (*Shukran!*) → **Thank you!** / **شُكْرًا جَزِيلًا!** (*Shukran jazeelan!* - Thank you very much!)\n- **عَفْوًا!** (*'Afwan!*) → **You are welcome! / Excuse me!**\n- **كَيْفَ حَالُكَ؟** (*Kayfa ḥāluka?*) → **How are you? (to male)** / **كَيْفَ حَالُكِ؟** (*Kayfa ḥāluki?* - to female)\n- **أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ** (*Anā bikhayrin, al-ḥamdu lillāh*) → **I am fine, praise be to God**\n\n### 3. Self-Introductions\n- **أَنَا اسْمِي [الاسم]** (*Anā ismī [Name]*) → **My name is [Name]** (lit. \"I, my name is...\")\n- **مَا اسْمُكَ؟** (*Ma ismuka?* - to male) / **مَا اسْمُكِ؟** (*Ma ismuki?* - to female) → **What is your name?**\n- **تَشَرَّفْنَا!** (*Tasharrafnā!*) → **Honored to meet you! / Pleased to meet you!**\n\n### 4. Parting & Farewells\n- **مَعَ السَّلَامَةِ** (*Ma'a s-salāmah*) → **Goodbye** (lit. \"with safety\")\n- **إِلَى اللِّقَاءِ** (*Ilā l-liqā'*) → **Until we meet again / Farewell**",
             "examples": [
                 {
-                    "target": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ، مَرْحَبًا بِكَ يَا أَخِي، اسْمِي أَحْمَدُ وَأَنَا طَالِبٌ جَدِيدٌ هُنَا.(As-salāmu ʿalaykum wa-raḥmatu Allāh, marḥaban bika yā akhī, ismī Aḥmad wa-anā ṭālibun jadīdun hunā.)",
-                    "reading": "[as.sa.laː.mu ʕa.laj.kum wa.raħ.ma.tu‿l.laːh, mar.ħa.ban bi.ka jaː ʔa.xiː, ʔis.miː ʔaħ.ma.du wa.ʔa.naː tˤaː.li.bun ʒa.diː.dun hu.naː] (As-sa-lā-mu ʿa-lay-kum wa-raḥ-ma-tu Allāh, mar-ḥa-ban bi-ka yā a-khī, is-mī Aḥ-mad wa-a-nā ṭā-li-bun ja-dī-dun hu-nā.)",
-                    "translation": "Peace be upon you and God's mercy! Welcome, my brother, my name is Ahmad and I am a new student here."
+                    "target": "السَّلَامُ عَلَيْكُمْ",
+                    "reading": "As-salamu 'alaykum",
+                    "translation": "Peace be upon you (standard greeting)"
                 },
                 {
-                    "target": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، أَهْلًا وَسَهْلًا يَا أَحْمَدُ، كَيْفَ حَالُكَ؟ اسْمِي سَلِيمٌ وَأَنَا أَيْضًا طَالِبٌ فِي كُلِّيَّةِ الآدَابِ.(Wa-ʿalaykumu as-salāmu wa-raḥmatu Allāhi wa-barakātuh, ahlan wa-sahlan yā Aḥmad, kayfa ḥāluka? Ismī Salīm wa-anā ayḍan ṭālibun fī kulliyyati al-ādāb.)",
-                    "reading": "[wa.ʕa.laj.ku.mu‿s.sa.laː.mu wa.raħ.ma.tu‿l.laː.hi wa.ba.ra.kaː.tuh, ʔah.lan wa.sah.lan jaː ʔaħ.mad, kaj.fa ħaː.luk? ʔis.miː sa.liː.mun wa.ʔa.naː ʔaj.dˤan tˤaː.li.bun fiː kul.lij.ja.ti‿l.ʔaː.daːb] (Wa-ʿa-lay-ku-mu as-sa-lā-mu wa-raḥ-ma-tu Allā-hi wa-ba-ra-kā-tuh, ah-lan wa-sah-lan yā Aḥ-mad, kay-fa ḥā-lu-ka? Is-mī Sa-līm wa-a-nā ay-ḍan ṭā-li-bun fī kul-liy-ya-ti al-ā-dāb.)",
-                    "translation": "And upon you be peace and God's mercy and blessings! Welcome Ahmad, how are you? My name is Salim and I am also a student in the Faculty of Arts."
+                    "target": "وَعَلَيْكُمُ السَّلَامُ",
+                    "reading": "Wa 'alaykum as-salaam",
+                    "translation": "And upon you be peace (standard reply)"
                 },
                 {
-                    "target": "أَنَا بِخَيْرٍ وَالحَمْدُ لِلَّهِ، أَنَا مِنْ بَيْرُوتَ فِي لُبْنَانَ، مِنْ أَيْنَ أَنْتَ يَا سَلِيمُ؟ — أَنَا مِنْ مَدِينَةِ فَاسَ فِي المَغْرِبِ، أَنَا مَغْرِبِيٌّ.(Anā bi-khayrin wa-al-ḥamdu lillāh, anā min Bayrūt fī Lubnān, min ayna anta yā Salīm? — Anā min madīnati Fās fī al-Maghrib, anā maghribiyy.)",
-                    "reading": "[ʔa.naː bi.xaj.rin wal.ħam.du lil.laːh, ʔa.naː min baj.ruː.ta fiː lub.naːn, min ʔaj.na ʔan.ta jaː sa.liːm? — ʔa.naː min ma.diː.na.ti faː.sa fiː‿l.maɣ.rib, ʔa.naː maɣ.ri.bijj] (A-nā bi-khay-rin wa-al-ḥam-du lil-lāh, a-nā min Bay-rūt fī Lub-nān, min ay-na an-ta yā Sa-līm? — A-nā min ma-dī-na-ti Fās fī al-Magh-rib, a-nā magh-ri-bi-yy.)",
-                    "translation": "I am fine, praise be to God! I am from Beirut in Lebanon, where are you from Salim? — I am from the city of Fez in Morocco, I am Moroccan."
+                    "target": "شُكْرًا جَزِيلًا",
+                    "reading": "Shukran jazeelan",
+                    "translation": "Thank you very much"
                 },
                 {
-                    "target": "تَشَرَّفْنَا يَا سَلِيمُ، هٰذَا يَوْمٌ مُبَارَكٌ وَفُرْصَةٌ سَعِيدَةٌ جِدًّا لِلتَّعَارُفِ، أَتَمَنَّى لَكَ النَّجَاحَ وَمَعَ السَّلَامَةِ!(Tasharrafnā yā Salīm, hādhā yawmun mubārakun wa-furṣatun saʿīdatun jiddan li-t-taʿāruf, atamannā laka an-najāḥa wa-maʿa as-salāmah!)",
-                    "reading": "[ta.ʃar.raf.naː jaː sa.liːm, haː.ðaː jaw.mun mu.baː.ra.kun wa.fur.sˤa.tun sa.ʕiː.da.tun ʒid.dan lit.ta.ʕaː.ruf, ʔa.ta.man.naː la.ka‿n.na.ʒaː.ħa wa.ma.ʕa‿s.sa.laː.mah] (Ta-shar-raf-nā yā Sa-līm, hā-dhā yaw-mun mu-bā-ra-kun wa-fur-ṣa-tun sa-ʿī-da-tun jid-dan li-t-ta-ʿā-ruf, a-ta-man-nā la-ka an-na-jā-ḥa wa-ma-ʿa as-sa-lā-mah!)",
-                    "translation": "Honored to meet you Salim! This is a blessed day and a very happy opportunity to get acquainted, I wish you success and goodbye!"
+                    "target": "مَعَ السَّلَامَةِ",
+                    "reading": "Ma'a as-salaama",
+                    "translation": "Goodbye (with safety)"
                 }
             ],
             "mnemonics": [
-                "حِوَارُ التَّعَارُفِ يَجْمَعُ الأَحْبَابْ: سَلَامٌ وَاسْمٌ وَأَصْلٌ يُجَابْ، وَجُمْلَةٌ اسْمِيَّةٌ تَمْلَأُ الكِتَابْ!"
+                "Ahlan wa sahlan means \"You are family (Ahl) and your path is easy (Sahl)\". Ma'a as-salaama means \"Go with peace and safety\"!"
             ],
             "culturalNotes": [
-                "تُعد اللغة العربية الفصحى (لغة الضاد) الجامع الثقافي والحضاري المشترك الذي يتيح لمتحدثين من مشارق العالم العربي ومغاربه التواصل والتفاهم بانسجام تام وعمق إنساني أصيل."
+                "Hospitality (الضِّيَافَة - ad-diyaafah) is of supreme importance across the Arab world. Welcoming guests with warm greeting formulas and Arabic coffee/tea is a revered tradition."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "في حوار التعارف الجامعي، ما هي العبارة النموذجية التي تدمج التحية والتعريف بالاسم والصفة الدراسية في آن واحد؟",
+                    "prompt": "What is the correct traditional response when someone greets you with «السَّلَامُ عَلَيْكُمْ» (As-salamu 'alaykum)?",
                     "options": [
-                        "السَّلَامُ عَلَيْكُمْ، اسْمِي أَحْمَدُ وَأَنَا طَالِبٌ جَدِيدٌ فِي الجَامِعَةِ. (Peace be upon you, my name is Ahmad and I am a new student at the university.)",
-                        "أنا لا أعرف اسمي ولا أين أدرس",
-                        "مع السلامة اذهب فورا من هنا",
-                        "أين الطعام والشراب في هذا الفصل"
+                        "وَعَلَيْكُمُ السَّلَامُ (Wa 'alaykum as-salaam - And upon you be peace)",
+                        "شُكْرًا جَزِيلًا (Thank you very much)",
+                        "إِلَى اللِّقَاءِ (Until next time)",
+                        "مَا اسْمُكَ؟ (What is your name?)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "العبارة تحقق المعايير التواصلية والنحوية الكاملة للتعارف الأكاديمي الراقي."
+                    "explanation": "The standard reciprocal response is «وَعَلَيْكُمُ السَّلَامُ» (*Wa 'alaykum as-salaam*)."
                 },
                 {
-                    "prompt": "ما هو الترتيب المنطقي لعناصر حوار التعارف الأول بين شخصين في الثقافة العربية الفصيحة؟",
+                    "prompt": "Which Arabic phrase means \"Welcome!\" (lit. \"You have come to family and ease\")?",
                     "options": [
-                        "إلقاء السلام -> السؤال عن الحال -> تبادل الأسماء والأوطان -> عبارات الشرف والوداع (Greeting -> Asking well-being -> Names/Origins -> Honor/Farewell)",
-                        "الوداع فورا ثم السؤال عن الطعام",
-                        "المطالبة بالمال ثم إلقاء السلام",
-                        "الصمت التام والمغادرة"
+                        "أَهْلًا وَسَهْلًا (Ahlan wa sahlan - Welcome!)",
+                        "مَعَ السَّلَامَة (Ma'a as-salaama - Goodbye)",
+                        "عَفْوًا (You are welcome)",
+                        "كَيْفَ حَالُكَ؟ (How are you?)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "هذا هو الترتيب الاجتماعي والأدبي الطبيعي في الثقافة العربية الفصيحة."
+                    "explanation": "«أَهْلًا وَسَهْلًا» (*Ahlan wa sahlan*) is the authentic welcoming expression."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "اختر الفقرة الحوارية التي تمثل الذروة في دقة البناء الإعرابي والتناسق الدلالي بين زميلين في الجامعة:",
+                    "prompt": "How do you politely say \"Goodbye\" (lit. \"With safety\") in Arabic?",
                     "options": [
-                        "— تَشَرَّفْنَا بِمَعْرِفَتِكَ يَا أَخِي الكَرِيمَ، فُرْصَةٌ سَعِيدَةٌ جِدًّا. — الشَّرَفُ لِي يَا سَيِّدِي، مَعَ السَّلَامَةِ وَإِلَى اللِّقَاءِ. (Honored to know you my noble brother, a very happy occasion. — The honor is mine sir, goodbye and until we meet.)",
-                        "— من انت؟ — انا كتاب في الحقيبة سكون فتحة.",
-                        "— اين تذهب؟ — شكرا عفوا مرحبا نحن انتم.",
-                        "— كيف حالك؟ — لا احب الحروف الستة المنفصلة."
+                        "مَعَ السَّلَامَة (Ma'a as-salaama - Goodbye / With safety)",
+                        "مَرْحَبًا (Marhaban - Hello)",
+                        "شُكْرًا (Shukran - Thank you)",
+                        "تَشَرَّفْنَا (Honored to meet you)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "الفقرة نموذجية في تطبيق آداب التحية والمجاملة والوداع الفصيح."
+                    "explanation": "«مَعَ السَّلَامَة» (*Ma'a as-salaama*) is the universal polite farewell."
                 },
                 {
-                    "prompt": "ما هو اللقب الشهير للغة العربية الفصحى نظرًا لفرادتها باحتواء صوت حرف الضاد؟",
+                    "prompt": "Select the phrase used to say \"I am fine, praise be to God\" in response to \"How are you?\":",
                     "options": [
-                        "لُغَةُ الضَّادِ (Lughat aḍ-Ḍād)",
-                        "لغة الأرقام",
-                        "لغة السكون",
-                        "لغة الشدة"
+                        "أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ (Ana bikhayrin, al-hamdu lillah)",
+                        "أَنَا اسْمِي أَحْمَد (My name is Ahmad)",
+                        "مَا اسْمُكَ؟ (What is your name?)",
+                        "إِلَى اللِّقَاءِ (Goodbye)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "تُلقب اللغة العربية الفصحى بـ «لغة الضاد» لتميزها بهذا الصوت النادر والفريد."
+                    "explanation": "«أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ» (*Ana bikhayrin, al-hamdu lillah*) is the standard authentic response."
                 }
             ]
         },
@@ -1003,27 +1009,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "اختر النص الحواري الشامل الذي يعكس إتقانًا تامًا لجميع مخرجات الوحدة الأولى (الحروف، التحيات، الجملة الاسمية، أسماء الإشارة، النسبة):",
+                    "prompt": "Which phrase means \"Honored to meet you / Pleased to meet you\" upon an introduction?",
                     "options": [
-                        "السَّلَامُ عَلَيْكُمْ يَا زُمَلَائِي، اسْمِي كَرِيمٌ وَأَنَا طَالِبٌ مَغْرِبِيٌّ فِي قِسْمِ اللِّسَانِيَّاتِ، كَيْفَ حَالُكُمْ جَمِيعًا؟ هٰذَا يَوْمٌ سَعِيدٌ جِدًّا لِلتَّعَارُفِ فِي جَامِعَتِنَا العَرِيقَةِ، تَشَرَّفْنَا بِكُمْ وَمَعَ السَّلَامَةِ! (Peace be upon you my colleagues, my name is Karim and I am a Moroccan student in the linguistics department, how are you all? This is a very happy day for acquaintance in our prestigious university, honored to meet you and goodbye!)",
-                        "الحروف العربية ثمانية وعشرون حرفا سكون ضمة كسرة مرحبا مع السلامة كتاب قلم.",
-                        "هو هي نحن انتم هذا هذه من اين انت انا طبيب مهندس فقط.",
-                        "لا سلام ولا كلام ولا تعارف اليوم في هذه الكلية."
+                        "تَشَرَّفْنَا (Tasharrafna - Honored to meet you)",
+                        "مَعَ السَّلَامَة (Ma'a as-salaama - Goodbye)",
+                        "عَفْوًا ('Afwan - You're welcome)",
+                        "شُكْرًا (Shukran - Thank you)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "النص يدمج جميع معارف ومهارات الوحدة الأولى بأسلوب فصيح مشرق وسليم إعرابيًا."
+                    "explanation": "«تَشَرَّفْنَا» (*Tasharrafna*) expresses polite pleasure upon being introduced."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "اكتب باللغة العربية الفصحى عبارة التوديع المكونة من كلمتين والتي تعني «Goodbye / With safety» (مثال: «مع...»؛ بدون تشكيل):",
+                    "prompt": "Type the Arabic word for \"Hello / Welcome\" with Tanween (m-r-h-b-a):",
                     "acceptedAnswers": [
-                        "مع السلامة",
-                        "مَعَ السَّلَامَةِ"
+                        "مرحبا",
+                        "مَرْحَبًا"
                     ],
-                    "explanation": "عبارة التوديع الفصيحة هي «مع السلامة»."
+                    "explanation": "«م» + «ر» + «ح» + «ب» + «ا» = «مرحبا» (*marhaban*)."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "ar-u2-l1": {
