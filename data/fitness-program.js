@@ -13411,7 +13411,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 24 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 24 Progression)",
           "prescription": "4 sets x 14 reps [Day 24 • Phase 1]",
           "sets": 4,
           "reps": 14,
@@ -13888,7 +13888,7 @@
       ],
       "small_room": [
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 27 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 27 Progression)",
           "prescription": "4 sets x 13 reps [Day 27 • Phase 1]",
           "sets": 4,
           "reps": 13,
@@ -17975,7 +17975,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 52 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 52 Progression)",
           "prescription": "3 sets x 14 reps [Day 52 • Phase 2]",
           "sets": 3,
           "reps": 14,
@@ -22539,7 +22539,7 @@
           "formCue": "Drive through heels, squeeze glutes hard at peak elevation without overarching lower back, and maintain posterior pelvic tilt."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 80 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 80 Progression)",
           "prescription": "4 sets x 14 reps [Day 80 • Phase 3]",
           "sets": 4,
           "reps": 14,
@@ -23668,7 +23668,7 @@
       ],
       "small_room": [
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 87 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 87 Progression)",
           "prescription": "3 sets x 14 reps [Day 87 • Phase 4]",
           "sets": 3,
           "reps": 14,
@@ -25322,7 +25322,7 @@
           "formCue": "Brace abdominals as if taking a punch, eliminate space between lower back and floor, breathe rhythmically through diaphragm."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 97 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 97 Progression)",
           "prescription": "3 sets x 13 reps [Day 97 • Phase 4]",
           "sets": 3,
           "reps": 13,
@@ -27103,7 +27103,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 108 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 108 Progression)",
           "prescription": "3 sets x 14 reps [Day 108 • Phase 4]",
           "sets": 3,
           "reps": 14,
@@ -31667,7 +31667,7 @@
           "formCue": "Root feet with tripod pressure (heel, big toe, pinky toe), push knees out in line with toes, maintain upright chest, and break parallel depth."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 136 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 136 Progression)",
           "prescription": "4 sets x 14 reps [Day 136 • Phase 5]",
           "sets": 4,
           "reps": 14,
@@ -36231,7 +36231,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 164 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 164 Progression)",
           "prescription": "3 sets x 14 reps [Day 164 • Phase 6]",
           "sets": 3,
           "reps": 14,
@@ -36708,7 +36708,7 @@
       ],
       "small_room": [
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 167 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 167 Progression)",
           "prescription": "3 sets x 13 reps [Day 167 • Phase 6]",
           "sets": 3,
           "reps": 13,
@@ -66581,7 +66581,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 24 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 24 Progression)",
           "prescription": "4 sets x 14 reps [Day 24 • Phase 1]",
           "sets": 4,
           "reps": 14,
@@ -66734,7 +66734,7 @@
       "durationMinutes": 45,
       "exercises": [
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 27 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 27 Progression)",
           "prescription": "4 sets x 13 reps [Day 27 • Phase 1]",
           "sets": 4,
           "reps": 13,
@@ -68121,7 +68121,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 52 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 52 Progression)",
           "prescription": "3 sets x 14 reps [Day 52 • Phase 2]",
           "sets": 3,
           "reps": 14,
@@ -69661,7 +69661,7 @@
           "formCue": "Drive through heels, squeeze glutes hard at peak elevation without overarching lower back, and maintain posterior pelvic tilt."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 80 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 80 Progression)",
           "prescription": "4 sets x 14 reps [Day 80 • Phase 3]",
           "sets": 4,
           "reps": 14,
@@ -70034,7 +70034,7 @@
       "durationMinutes": 45,
       "exercises": [
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 87 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 87 Progression)",
           "prescription": "3 sets x 14 reps [Day 87 • Phase 4]",
           "sets": 3,
           "reps": 14,
@@ -70608,7 +70608,7 @@
           "formCue": "Brace abdominals as if taking a punch, eliminate space between lower back and floor, breathe rhythmically through diaphragm."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 97 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 97 Progression)",
           "prescription": "3 sets x 13 reps [Day 97 • Phase 4]",
           "sets": 3,
           "reps": 13,
@@ -71201,7 +71201,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 108 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 108 Progression)",
           "prescription": "3 sets x 14 reps [Day 108 • Phase 4]",
           "sets": 3,
           "reps": 14,
@@ -72741,7 +72741,7 @@
           "formCue": "Root feet with tripod pressure (heel, big toe, pinky toe), push knees out in line with toes, maintain upright chest, and break parallel depth."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 136 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 136 Progression)",
           "prescription": "4 sets x 14 reps [Day 136 • Phase 5]",
           "sets": 4,
           "reps": 14,
@@ -74281,7 +74281,7 @@
           "formCue": "Maintain strict postural alignment, execute full controlled range of motion, and synchronize breath with effort."
         },
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 164 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 164 Progression)",
           "prescription": "3 sets x 14 reps [Day 164 • Phase 6]",
           "sets": 3,
           "reps": 14,
@@ -74434,7 +74434,7 @@
       "durationMinutes": 45,
       "exercises": [
         {
-          "name": "Cossack Squat Isometric Depth Hold (Day 167 Progression)",
+          "name": "Cossack Squat Isometric Bottom Hold (Day 167 Progression)",
           "prescription": "3 sets x 13 reps [Day 167 • Phase 6]",
           "sets": 3,
           "reps": 13,

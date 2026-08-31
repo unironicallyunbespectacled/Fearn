@@ -5151,7 +5151,7 @@
           "options": [
             "में (Core concept key phrasing)",
             "के पास (Core concept alternative form)",
-            "का (Variant 11.5)",
+            "का (kaa - of / possessive masculine - choice C)",
             "को (kao)"
           ],
           "answerIndex": 0,
@@ -5725,7 +5725,7 @@
           "options": [
             "को (kao)",
             "से (sae)",
-            "का (Variant 13.2)",
+            "का (kaa - of / possessive masculine - choice C)",
             "पर (para)"
           ],
           "answerIndex": 0,
@@ -5889,7 +5889,7 @@
           "options": [
             "करे (karae)",
             "करेगा (Core concept alternative form)",
-            "किया था (Variant 13.4)",
+            "किया था (kiyaa thaa - had done / past perfect - choice C)",
             "कर रहा है (Core concept alternative form)"
           ],
           "answerIndex": 0,
@@ -6053,7 +6053,7 @@
           "options": [
             "करके (karakae)",
             "करता हुआ (Conjunctive Participle U14)",
-            "किया था (Variant 14.1)",
+            "किया था (kiyaa thaa - had done / past perfect - choice C)",
             "करने पर भी (Conjunctive Participle U14)"
           ],
           "answerIndex": 0,
@@ -6381,7 +6381,7 @@
           "options": [
             "करके (karakae)",
             "करते ही (Core concept alternative form)",
-            "किया था (Variant 14.5)",
+            "किया था (kiyaa thaa - had done / past perfect - choice C)",
             "करने पर (karanae para)"
           ],
           "answerIndex": 0,
@@ -6955,7 +6955,7 @@
           "options": [
             "के द्वारा (Core concept key phrasing)",
             "का (Core concept key phrasing)",
-            "में (Variant 16.2)",
+            "में (mein - in / inside - choice C)",
             "तक (taka)"
           ],
           "answerIndex": 0,
@@ -7447,7 +7447,7 @@
           "options": [
             "कि (kai)",
             "की (Core concept alternative form)",
-            "ताकि (Variant 17.3)",
+            "ताकि (taaki - so that / in order to - choice C)",
             "क्योंकि (Core concept alternative form)"
           ],
           "answerIndex": 0,
@@ -7693,7 +7693,7 @@
           "options": [
             "तो (tao)",
             "तब (taba)",
-            "इसलिए (Variant 18.1)",
+            "इसलिए (isliye - therefore / that is why - choice C)",
             "ताकि (Real  Open Future Conditionals U18)"
           ],
           "answerIndex": 0,
@@ -8021,7 +8021,7 @@
           "options": [
             "तो (tao)",
             "तब (taba)",
-            "ताकि (Variant 18.5)",
+            "ताकि (taaki - so that / in order to - choice C)",
             "क्योंकि (Core concept alternative form)"
           ],
           "answerIndex": 0,
@@ -8267,7 +8267,7 @@
           "options": [
             "चारों ओर (Location     Direction U19)",
             "धीरे-धीरे (Location     Direction U19)",
-            "परसों (Variant 19.3)",
+            "परसों (parson - day after tomorrow / day before yesterday - choice C)",
             "अत्यधिक (atayadhaika)"
           ],
           "answerIndex": 0,
@@ -8349,7 +8349,7 @@
           "options": [
             "लगभग (lagabhaga)",
             "चुपचाप (Core concept alternative form)",
-            "परसों (Variant 19.4)",
+            "परसों (parson - day after tomorrow / day before yesterday - choice C)",
             "निकट (Core concept alternative form)"
           ],
           "answerIndex": 0,

@@ -6451,7 +6451,7 @@
           "options": [
             "Це самий найкращий день у моєму житті. (Tse samiy naykrashchiy den' u moyemu zhitti.)",
             "Це найкращий день у моєму житті. (Tse naykrashchiy den' u moyemu zhitti.)",
-            "Це якнайкращий варіант для нашої команди. (Tse yaknaykrashchiy variant dlya nashoyi komandi.)",
+            "Це якнайкращий варіант для нашої команди. (Tse yaknaykrashchiy variyant dlya nashoyi komandy.)",
             "Це найбільш вдалий день для презентації проєкту. (Tse naybil'sh vdaliy den' dlya prezentatsiyi proyektu.)"
           ],
           "answerIndex": 0,

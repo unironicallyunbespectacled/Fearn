@@ -6656,7 +6656,7 @@
           "prompt": "Какая форма творительного падежа женского рода правильна для «учительница»?",
           "options": [
             "учительницей (uchitel'nitsey)",
-            "учительницей (Distractor variant)",
+            "учительницей (uchitel'nitsey - female teacher instrumental case)",
             "учительницу (uchitel'nitsu)"
           ],
           "answerIndex": 0,
