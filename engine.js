@@ -1046,21 +1046,15 @@
   // Universal Math & Text Formatter on core engine
   FEARN.formatText = function (str) {
     if (str === null || str === undefined) return '';
-    let s = String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-    const greek = {
-      '\\\\alpha': 'α', '\\\\beta': 'β', '\\\\gamma': 'γ', '\\\\Gamma': 'Γ',
-      '\\\\delta': 'δ', '\\\\Delta': 'Δ', '\\\\epsilon': 'ε', '\\\\varepsilon': 'ε',
-      '\\\\zeta': 'ζ', '\\\\eta': 'η', '\\\\theta': 'θ', '\\\\Theta': 'Θ',
-      '\\\\iota': 'ι', '\\\\kappa': 'κ', '\\\\lambda': 'λ', '\\\\Lambda': 'Λ',
-      '\\\\mu': 'μ', '\\\\nu': 'ν', '\\\\xi': 'ξ', '\\\\Xi': 'Ξ',
-      '\\\\pi': 'π', '\\\\Pi': 'Π', '\\\\rho': 'ρ', '\\\\sigma': 'σ',
-      '\\\\Sigma': 'Σ', '\\\\tau': 'τ', '\\\\upsilon': 'υ', '\\\\phi': 'φ',
-      '\\\\varphi': 'φ', '\\\\Phi': 'Φ', '\\\\chi': 'χ', '\\\\psi': 'ψ',
-      '\\\\Psi': 'Ψ', '\\\\omega': 'ω', '\\\\Omega': 'Ω'
-    };
-    for (const [k, v] of Object.entries(greek)) {
-      s = s.replace(new RegExp(k + '(?![a-zA-Z])', 'g'), v);
-    }
+    let s = String(str);
+
+    // Normalize line endings
+    s = s.replace(/\r\n|\r/g, '\n');
+
+    // Strip excessive LaTeX backslash escapes (e.g. \\\\ge -> \ge, \\text -> \text)
+    s = s.replace(/\\\\([a-zA-Z]+)/g, '\\$1');
+
+    // Math symbols replacement (both \symbol and \\symbol)
     const symbols = {
       '\\\\le(?!t)': '≤', '\\\\leq': '≤', '\\\\ge': '≥', '\\\\geq': '≥',
       '\\\\ne(?!w)': '≠', '\\\\neq': '≠', '\\\\approx': '≈', '\\\\equiv': '≡',
@@ -1078,6 +1072,22 @@
     for (const [k, v] of Object.entries(symbols)) {
       s = s.replace(new RegExp(k + '(?![a-zA-Z])', 'g'), v);
     }
+
+    const greek = {
+      '\\\\alpha': 'α', '\\\\beta': 'β', '\\\\gamma': 'γ', '\\\\Gamma': 'Γ',
+      '\\\\delta': 'δ', '\\\\Delta': 'Δ', '\\\\epsilon': 'ε', '\\\\varepsilon': 'ε',
+      '\\\\zeta': 'ζ', '\\\\eta': 'η', '\\\\theta': 'θ', '\\\\Theta': 'Θ',
+      '\\\\iota': 'ι', '\\\\kappa': 'κ', '\\\\lambda': 'λ', '\\\\Lambda': 'Λ',
+      '\\\\mu': 'μ', '\\\\nu': 'ν', '\\\\xi': 'ξ', '\\\\Xi': 'Ξ',
+      '\\\\pi': 'π', '\\\\Pi': 'Π', '\\\\rho': 'ρ', '\\\\sigma': 'σ',
+      '\\\\Sigma': 'Σ', '\\\\tau': 'τ', '\\\\upsilon': 'υ', '\\\\phi': 'φ',
+      '\\\\varphi': 'φ', '\\\\Phi': 'Φ', '\\\\chi': 'χ', '\\\\psi': 'ψ',
+      '\\\\Psi': 'Ψ', '\\\\omega': 'ω', '\\\\Omega': 'Ω'
+    };
+    for (const [k, v] of Object.entries(greek)) {
+      s = s.replace(new RegExp(k + '(?![a-zA-Z])', 'g'), v);
+    }
+
     s = s.replace(/\\mathbb\{R\}/g, 'ℝ').replace(/\\mathbb\{Z\}/g, 'ℤ').replace(/\\mathbb\{N\}/g, 'ℕ').replace(/\\mathbb\{Q\}/g, 'ℚ').replace(/\\mathbb\{C\}/g, 'ℂ');
     s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit)\{([^}]+)\}/g, '$1');
     s = s.replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, '($1 / $2)');
@@ -1089,29 +1099,48 @@
     s = s.replace(/\\left\\\{/g, '{').replace(/\\right\\\}/g, '}');
     s = s.replace(/\\left\|/g, '|').replace(/\\right\|/g, '|');
     s = s.replace(/\\quad/g, '  ').replace(/\\qquad/g, '    ');
-    s = s.replace(/\\\\/g, '<br>');
-    s = s.replace(/\^\{([^}]+)\}/g, '<sup>$1</sup>');
-    s = s.replace(/_\{([^}]+)\}/g, '<sub>$1</sub>');
-    s = s.replace(/\^2(?![0-9])/g, '²').replace(/\^3(?![0-9])/g, '³').replace(/\^0(?![0-9])/g, '⁰').replace(/\^1(?![0-9])/g, '¹').replace(/\^n(?![a-zA-Z])/g, 'ⁿ').replace(/\^t(?![a-zA-Z])/g, 'ᵗ').replace(/\^k(?![a-zA-Z])/g, 'ᵏ').replace(/\^([0-9]+)/g, '<sup>$1</sup>');
-    s = s.replace(/_([0-9a-zA-Z]+)/g, '<sub>$1</sub>');
+
+    // Escape HTML characters before injecting formatting tags
+    s = s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+    // Markdown Headings
+    s = s.replace(/^###[ \t]+(.*)$/gm, '<h4 style="font-size:1.05rem; font-weight:800; color:#38bdf8; margin:16px 0 6px 0;">$1</h4>');
+    s = s.replace(/^##[ \t]+(.*)$/gm, '<h3 style="font-size:1.18rem; font-weight:900; color:#38bdf8; margin:20px 0 8px 0;">$1</h3>');
+    s = s.replace(/^#[ \t]+(.*)$/gm, '<h2 style="font-size:1.35rem; font-weight:900; color:#38bdf8; margin:22px 0 10px 0;">$1</h2>');
+
+    // Horizontal rules
+    s = s.replace(/^(?:---|___|\*\*\*)[ \t]*$/gm, '<hr style="border:none; border-top:1px solid rgba(255,255,255,0.12); margin:16px 0;">');
+
+    // Blockquotes
+    s = s.replace(/^>[ \t]+(.*)$/gm, '<blockquote style="border-left:3px solid #38bdf8; margin:10px 0; padding:6px 14px; background:rgba(56,189,248,0.06); color:#cbd5e1; border-radius:0 6px 6px 0;">$1</blockquote>');
+
+    // Math display & inline blocks
     s = s.replace(/\$\$([\s\S]*?)\$\$/g, '<div class="fearn-math-block" style="margin:10px 0; padding:10px 14px; background:rgba(0,0,0,0.3); border-left:3px solid var(--lang-1, #38bdf8); border-radius:6px; font-family:\'Fira Code\', monospace; font-size:1.02em; overflow-x:auto;">$1</div>');
     s = s.replace(/\$([^$\n]+?)\$/g, '<span class="fearn-math-inline" style="font-family:\'Fira Code\', monospace; font-weight:600; color:#7dd3fc;">$1</span>');
+
+    // Bold & Italic
     s = s.replace(/\*\*([^*]+)\*\*/g, '<strong style="color:#f8fafc; font-weight:700;">$1</strong>');
+    s = s.replace(/__([^_]+)__/g, '<strong style="color:#f8fafc; font-weight:700;">$1</strong>');
     s = s.replace(/(^|[^*])\*([^*\s\n](?:[^*\n]*?[^*\s\n])?)\*(?!\*)/g, '$1<em style="font-style:italic;">$2</em>');
+    s = s.replace(/(^|[^_])_([^_ \n](?:[^_\n]*?[^_ \n])?)_(?!_)/g, '$1<em style="font-style:italic;">$2</em>');
+
+    // Inline Code
     s = s.replace(/`([^`]+)`/g, '<code style="background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px; font-family:\'Fira Code\', monospace; font-size:0.9em; color:#a78bfa;">$1</code>');
 
-    // Normalize newlines
-    s = s.replace(/\r\n|\r/g, '\n');
+    // Superscripts & Subscripts
+    s = s.replace(/\^\{([^}]+)\}/g, '<sup>$1</sup>');
+    s = s.replace(/_\{([^}]+)\}/g, '<sub>$1</sub>');
+    s = s.replace(/\^2(?![0-9])/g, '²').replace(/\^3(?![0-9])/g, '³').replace(/\^0(?![0-9])/g, '⁰').replace(/\^1(?![0-9])/g, '¹').replace(/\^n(?![a-zA-Z])/g, 'ⁿ').replace(/\^t(?![a-zA-Z])/g, 'ᵗ').replace(/\^k(?![a-zA-Z])/g, 'ᵏ');
 
-    // Numbered list items: ONLY when 2 or more consecutive numbered lines exist
-    s = s.replace(/(?:^|\n)([ \t]*\d+[\.\)]\s+[^\n]+(?:\n[ \t]*\d+[\.\)]\s+[^\n]+)+)/g, (match, p1) => {
+    // Numbered list items
+    s = s.replace(/(?:^|\n)([ \t]*\d+[\.\)]\s+[^\n]+(?:\n[ \t]*\d+[\.\)]\s+[^\n]+)*)/g, (match, p1) => {
       const items = p1.trim().split('\n').map(line => {
         return line.replace(/^[ \t]*\d+[\.\)]\s+(.*)$/, '<li style="margin-bottom:4px;">$1</li>');
       }).join('');
       return '\n<ol class="fearn-explanation-list">' + items + '</ol>\n';
     });
 
-    // Bullet list items: lines starting with - or •
+    // Bullet list items
     s = s.replace(/(?:^|\n)([ \t]*[-•]\s+[^\n]+(?:\n[ \t]*[-•]\s+[^\n]+)*)/g, (match, p1) => {
       const items = p1.trim().split('\n').map(line => {
         return line.replace(/^[ \t]*[-•]\s+(.*)$/, '<li style="margin-bottom:4px;">$1</li>');
@@ -1119,24 +1148,39 @@
       return '\n<ul class="fearn-explanation-list">' + items + '</ul>\n';
     });
 
-    // Paragraph & newline handling:
+    // Paragraph splitting and joining
     const paragraphs = s.split(/\n\n+/);
     const formattedParagraphs = paragraphs.map(p => {
       p = p.trim();
       if (!p) return '';
-      // If paragraph contains block elements
-      if (p.includes('<ul') || p.includes('<ol') || p.includes('<div')) {
-        p = p.replace(/\n*(<\/?(?:ul|ol|li|div)[^>]*>)\n*/g, '$1');
+      if (p.includes('<ul') || p.includes('<ol') || p.includes('<div') || p.includes('<h2') || p.includes('<h3') || p.includes('<h4') || p.includes('<hr') || p.includes('<blockquote')) {
+        p = p.replace(/\n*(<\/?(?:ul|ol|li|div|h2|h3|h4|hr|blockquote)[^>]*>)\n*/g, '$1');
         p = p.replace(/\n/g, '<br>');
         return p;
       }
-      // For regular text paragraphs, collapse single newlines (soft wraps) to spaces
       return p.replace(/\n/g, ' ');
     });
 
     return formattedParagraphs.filter(Boolean).join('<br><br>');
   };
   FEARN.formatMath = FEARN.formatText;
+
+  // Universal Plaintext Markdown & LaTeX Stripper
+  FEARN.stripMarkdown = function (str) {
+    if (!str) return '';
+    let s = String(str);
+    s = s.replace(/\\\\([a-zA-Z]+)/g, '\\$1');
+    s = s.replace(/\\ge\b|\\geq\b/g, '≥').replace(/\\le\b|\\leq\b/g, '≤').replace(/\\approx\b/g, '≈').replace(/\\times\b/g, '×').replace(/\\to\b/g, '→').replace(/\\pm\b/g, '±').replace(/\\cdot\b/g, '·');
+    s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit)\{([^}]+)\}/g, '$1');
+    s = s.replace(/\$\$([\s\S]*?)\$\$/g, '$1').replace(/\$([^$\n]+?)\$/g, '$1');
+    s = s.replace(/^#{1,6}\s+/gm, '');
+    s = s.replace(/\*\*([^*]+)\*\*/g, '$1').replace(/__([^_]+)__/g, '$1');
+    s = s.replace(/\*([^*]+)\*/g, '$1').replace(/_([^_]+)_/g, '$1');
+    s = s.replace(/`([^`]+)`/g, '$1');
+    s = s.replace(/~~([^~]+)~~/g, '$1');
+    s = s.replace(/^>\s+/gm, '');
+    return s.trim();
+  };
 
   global.FEARN = FEARN;
 })(typeof window !== 'undefined' ? window : globalThis);

@@ -619,21 +619,26 @@
 
       if (!isCardFlipped) {
         // Front of Card
+        var frontTarget = (global.FEARN && global.FEARN.stripMarkdown) ? escapeHtml(global.FEARN.stripMarkdown(card.target)) : escapeHtml(card.target);
         cardBox.innerHTML = `
           <div style="font-size:0.75rem; font-weight:700; color:#38bdf8; text-transform:uppercase; letter-spacing:1px; margin-bottom:12px;">\${escapeHtml(card.subjectName)} &bull; \${escapeHtml(card.lessonId)}</div>
-          <div style="font-size:2rem; font-weight:900; color:#f8fafc; margin-bottom:14px; line-height:1.3;">\${escapeHtml(card.target)}</div>
+          <div style="font-size:2rem; font-weight:900; color:#f8fafc; margin-bottom:14px; line-height:1.3;">\${frontTarget}</div>
           <div style="font-size:0.8rem; color:#64748b; display:flex; align-items:center; gap:6px;">
             <span>Tap card or press <b>Space</b> to reveal answer</span>
           </div>
         `;
       } else {
         // Back of Card (Flipped)
+        var backTarget = (global.FEARN && global.FEARN.stripMarkdown) ? escapeHtml(global.FEARN.stripMarkdown(card.target)) : escapeHtml(card.target);
+        var formattedTrans = (global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(card.translation) : escapeHtml(card.translation);
+        var formattedMnem = (global.FEARN && global.FEARN.formatText && card.mnemonic) ? global.FEARN.formatText(card.mnemonic) : escapeHtml(card.mnemonic);
+
         cardBox.innerHTML = `
           <div style="font-size:0.75rem; font-weight:700; color:#38bdf8; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px;">\${escapeHtml(card.subjectName)}</div>
-          <div style="font-size:1.8rem; font-weight:900; color:#38bdf8; margin-bottom:6px;">\${escapeHtml(card.target)}</div>
+          <div style="font-size:1.8rem; font-weight:900; color:#38bdf8; margin-bottom:6px;">\${backTarget}</div>
           \${card.reading ? '<div style="font-size:1.05rem; font-weight:600; color:#cbd5e1; margin-bottom:10px;">' + escapeHtml(card.reading) + '</div>' : ''}
-          <div style="font-size:1.15rem; font-weight:800; color:#f8fafc; margin-bottom:14px; background:rgba(56,189,248,0.08); padding:8px 16px; border-radius:10px; border:1px solid rgba(56,189,248,0.2);">\${escapeHtml(card.translation)}</div>
-          \${card.mnemonic ? '<div style="font-size:0.8rem; color:#fbbf24; background:rgba(251,191,36,0.1); padding:6px 12px; border-radius:8px; margin-top:6px; border:1px solid rgba(251,191,36,0.2);">💡 Mnemonic: ' + escapeHtml(card.mnemonic) + '</div>' : ''}
+          <div style="font-size:1.1rem; font-weight:700; color:#f8fafc; margin-bottom:14px; background:rgba(56,189,248,0.08); padding:10px 18px; border-radius:10px; border:1px solid rgba(56,189,248,0.2); text-align:left; line-height:1.5;">\${formattedTrans}</div>
+          \${card.mnemonic ? '<div style="font-size:0.82rem; color:#fbbf24; background:rgba(251,191,36,0.1); padding:8px 14px; border-radius:8px; margin-top:6px; border:1px solid rgba(251,191,36,0.2); text-align:left; line-height:1.4;">💡 <b>Mnemonic:</b> ' + formattedMnem + '</div>' : ''}
         `;
       }
 
@@ -839,7 +844,7 @@
 
   // Bind to Global FEARN Object
   global.FEARN = global.FEARN || {};
-  global.FEARN.srs = {
+  global.FEARN.srs = Object.assign(global.FEARN.srs || {}, {
     calculateRetrievability: calculateRetrievability,
     calculateNextInterval: calculateNextInterval,
     getInitialDSR: getInitialDSR,
@@ -849,7 +854,7 @@
     getConfig: function () { return FSRS_CONFIG; },
     saveConfig: saveConfig,
     DEFAULT_WEIGHTS: DEFAULT_FSRS_WEIGHTS
-  };
+  });
   global.FEARN.openSRSFlashcardDeck = openSRSFlashcardDeck;
 
   if (typeof module !== 'undefined' && module.exports) {
