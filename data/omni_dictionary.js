@@ -1489,6 +1489,224 @@
       "definition": "Statutory right of employees to disconnect from digital work communications outside working hours",
       "category": "Labor Law & Human Rights",
       "level": "C1"
+    },
+    {
+      "term": "Flâneur",
+      "pronunciation": "/flɑ.nœʁ/",
+      "partOfSpeech": "Nom masculin (Noun)",
+      "definition": "An observant wanderer, stroller, or passionate spectator who leisurely walks through the streets of a city (historically Paris) observing urban society and modern life with detached curiosity (Baudelairean concept).",
+      "category": "Philosophie et Littérature",
+      "level": "C1 / Avancé",
+      "examples": [
+        {
+          "target": "Charles Baudelaire a élevé la figure du flâneur au rang de philosophe de la modernité urbaine.",
+          "translation": "Charles Baudelaire elevated the figure of the flâneur to the rank of philosopher of urban modernity."
+        },
+        {
+          "target": "Le dimanche après-midi, les flâneurs se pressent le long des quais de la Seine et des boulevards.",
+          "translation": "On Sunday afternoons, flâneurs crowd along the quays of the Seine and the boulevards."
+        }
+      ],
+      "synonyms": [
+        "Promeneur",
+        "Déambulateur",
+        "Observateur solitaire"
+      ],
+      "register": "Littéraire / Historique",
+      "notes": "Central aesthetic and sociological concept in 19th-century French literature and Walter Benjamin's Arcades Project."
+    },
+    {
+      "term": "Retrouvailles",
+      "pronunciation": "/ʁə.tʁu.vaj/",
+      "partOfSpeech": "Nom féminin pluriel (Noun)",
+      "definition": "The joy, emotional warmth, and celebration of reuniting and meeting someone again after a long separation or absence.",
+      "category": "Émotions et Relations",
+      "level": "B1 / Intermédiaire",
+      "examples": [
+        {
+          "target": "Après dix années d'éloignement, leurs retrouvailles à la gare furent pleines de larmes et d'émotion.",
+          "translation": "After ten years of distance, their reunion at the station was full of tears and emotion."
+        },
+        {
+          "target": "Chaque été, les retrouvailles familiales dans le sud de la France renforcent nos liens profonds.",
+          "translation": "Every summer, family reunions in the south of France strengthen our deep bonds."
+        }
+      ],
+      "synonyms": [
+        "Réunion",
+        "Revoir",
+        "Ralliement"
+      ],
+      "register": "Général / Émotionnel"
+    },
+    {
+      "term": "Éphémère",
+      "pronunciation": "/e.fe.mɛʁ/",
+      "partOfSpeech": "Adjectif / Nom masculin (Adjective / Noun)",
+      "definition": "Lasting only for a brief moment or single day; transient, fleeting, short-lived.",
+      "category": "Vocabulaire Poétique et Philosophique",
+      "level": "B2 / Intermédiaire Supérieur",
+      "examples": [
+        {
+          "target": "La rosée du matin offre un spectacle d'une beauté éphémère avant de s'évaporer sous le soleil.",
+          "translation": "Morning dew offers a spectacle of ephemeral beauty before evaporating under the sun."
+        },
+        {
+          "target": "Les modes vestimentaires sont par nature éphémères, tandis que le véritable style reste intemporel.",
+          "translation": "Fashion trends are by nature ephemeral, whereas true style remains timeless."
+        }
+      ],
+      "synonyms": [
+        "Fugace",
+        "Passager",
+        "Transitoire",
+        "Momentané"
+      ],
+      "antonyms": [
+        "Éternel",
+        "Durable",
+        "Pérenne",
+        "Immuable"
+      ],
+      "register": "Littéraire / Général"
+    },
+    {
+      "term": "Bienveillance",
+      "pronunciation": "/bjɛ̃.vɛ.jɑ̃s/",
+      "partOfSpeech": "Nom féminin (Noun)",
+      "definition": "Disposition of goodwill, active kindness, empathy, and positive regard towards others; benevolent empathy.",
+      "category": "Éthique et Psychologie",
+      "level": "B2 / Intermédiaire Supérieur",
+      "examples": [
+        {
+          "target": "Le professeur accueille les questions des étudiants avec une bienveillance et une patience admirables.",
+          "translation": "The professor welcomes students' questions with admirable benevolence and patience."
+        },
+        {
+          "target": "Une communication fondée sur l'écoute et la bienveillance désamorce les conflits les plus complexes.",
+          "translation": "Communication grounded in listening and goodwill diffuses the most complex conflicts."
+        }
+      ],
+      "synonyms": [
+        "Bonté",
+        "Indulgence",
+        "Empathie",
+        "Altruisme"
+      ],
+      "antonyms": [
+        "Malveillance",
+        "Hostilité",
+        "Dureté",
+        "Méchanceté"
+      ],
+      "register": "Formel / Éthique"
+    },
+    {
+      "term": "Incontournable",
+      "pronunciation": "/ɛ̃.kɔ̃.tuʁ.nabl/",
+      "partOfSpeech": "Adjectif (Adjective)",
+      "definition": "Unavoidable, indispensable, essential; that which cannot be bypassed, ignored, or overlooked.",
+      "category": "Culture et Société",
+      "level": "B2 / Intermédiaire",
+      "examples": [
+        {
+          "target": "Le Musée du Louvre est une étape incontournable pour tout amateur d'art visitant Paris.",
+          "translation": "The Louvre Museum is an unavoidable milestone for any art lover visiting Paris."
+        },
+        {
+          "target": "La maîtrise des outils numériques est devenue incontournable dans le marché du travail contemporain.",
+          "translation": "Mastery of digital tools has become indispensable in the contemporary job market."
+        }
+      ],
+      "synonyms": [
+        "Indispensable",
+        "Inévitable",
+        "Essentiel",
+        "Capital"
+      ],
+      "antonyms": [
+        "Facultatif",
+        "Secondaire",
+        "Négligeable"
+      ],
+      "register": "Général / Journalistique"
+    },
+    {
+      "term": "Dépaysement",
+      "pronunciation": "/de.pɛ.iz.mɑ̃/",
+      "partOfSpeech": "Nom masculin (Noun)",
+      "definition": "The exhilarating, disorienting, and refreshing feeling of being in an unfamiliar country, culture, landscape, or environment far from one's habitual surroundings.",
+      "category": "Voyage et Psychologie",
+      "level": "B1 / Intermédiaire",
+      "examples": [
+        {
+          "target": "Notre voyage dans les montagnes reculées nous a procuré un total dépaysement.",
+          "translation": "Our trip to the remote mountains provided us with total disorientation and refreshing cultural change."
+        },
+        {
+          "target": "Pour échapper à la routine urbaine, rien ne vaut le dépaysement d'une escapade en pleine nature.",
+          "translation": "To escape urban routine, nothing beats the refreshing change of scene of a getaway into pure nature."
+        }
+      ],
+      "synonyms": [
+        "Changement de décor",
+        "Évasion",
+        "Exotisme"
+      ],
+      "register": "Général"
+    },
+    {
+      "term": "Savoir-faire",
+      "pronunciation": "/sa.vwaʁ.fɛʁ/",
+      "partOfSpeech": "Nom masculin invariable (Noun)",
+      "definition": "Know-how, practical expertise, craftsmanship, and tacit skill acquired through rigorous experience and traditional mastery.",
+      "category": "Artisanat et Industrie",
+      "level": "B1 / Intermédiaire",
+      "examples": [
+        {
+          "target": "La haute couture française repose sur un savoir-faire artisanal exceptionnel transmis de génération en génération.",
+          "translation": "French haute couture rests upon an exceptional artisanal savoir-faire passed down from generation to generation."
+        },
+        {
+          "target": "L'ingénieur a démontré son savoir-faire technique lors de la résolution de la panne complexe.",
+          "translation": "The engineer demonstrated his technical know-how during the resolution of the complex breakdown."
+        }
+      ],
+      "synonyms": [
+        "Compétence",
+        "Expertise",
+        "Maîtrise",
+        "Habilité"
+      ],
+      "register": "Général / Professionnel"
+    },
+    {
+      "term": "Apprivoiser",
+      "pronunciation": "/a.pʁi.vwa.ze/",
+      "partOfSpeech": "Verbe transitif (Verb)",
+      "definition": "1. To tame / domesticate a wild animal. 2. To win over, soften, or gradually create profound emotional bonds of mutual trust with a person (Saint-Exupéry's Le Petit Prince).",
+      "category": "Littérature et Philosophie",
+      "level": "B2 / Intermédiaire",
+      "examples": [
+        {
+          "target": "« Si tu m'apprivoises, nous aurons besoin l'un de l'autre », expliqua le renard au Petit Prince.",
+          "translation": "\"If you tame me, we will need one another,\" explained the fox to the Little Prince."
+        },
+        {
+          "target": "Il faut du temps et de la patience pour apprivoiser une culture étrangère et comprendre ses subtilités.",
+          "translation": "It takes time and patience to become intimately attuned to a foreign culture and comprehend its subtleties."
+        }
+      ],
+      "synonyms": [
+        "Domestiquer",
+        "Gagner la confiance",
+        "Adoucir"
+      ],
+      "antonyms": [
+        "Effaroucher",
+        "Aliéner"
+      ],
+      "register": "Littéraire / Général"
     }
   ],
   "german": [
