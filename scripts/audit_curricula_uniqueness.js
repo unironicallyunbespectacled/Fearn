@@ -87,6 +87,8 @@ files.forEach(f => {
   let countTyped = 0;
 
   const explanations = new Set();
+  const normalizedExplanations = new Set();
+  let normalizedDupCount = 0;
   const exampleTargets = new Set();
   const gpDistractors = new Set();
   const ipDist1 = new Set();
@@ -102,7 +104,20 @@ files.forEach(f => {
     }
     const exp = (l.presentation && l.presentation.explanation) || '';
     totalChars += exp.length;
-    if (exp) explanations.add(exp);
+    if (exp) {
+      explanations.add(exp);
+      const normExp = exp.replace(/第[0-9０-９一二三四五六七八九十]+[課部節項章単元]/g, '')
+                         .replace(/\b(Unit|Lesson|Part|Session|Section|Chapter|Teil|Unidad|Lección|Partie|Leçon|Урок|Часть|Глава)\s*[0-9ivx]+/gi, '')
+                         .replace(/[0-9０-９一二三四五六七八九十]/g, '')
+                         .replace(/[\s\p{P}]/gu, '');
+      if (normExp.length > 20) {
+        if (normalizedExplanations.has(normExp)) {
+          normalizedDupCount++;
+        } else {
+          normalizedExplanations.add(normExp);
+        }
+      }
+    }
 
     // Density calculations
     if (SCRIPT_RANGES[subjKey]) {
@@ -239,6 +254,11 @@ files.forEach(f => {
     const minExplUniq = Math.floor(evaluatedCount * 0.95);
     if (explanations.size < minExplUniq) {
       console.error(`>>> [HARD FAIL] ${subjKey}: Distinct explanations ${explanations.size}/${evaluatedCount} below required ${minExplUniq}/${evaluatedCount}!`);
+      isFailed = true;
+      hasFailure = true;
+    }
+    if (normalizedDupCount > Math.floor(evaluatedCount * 0.05)) {
+      console.error(`>>> [HARD FAIL] ${subjKey}: Detected ${normalizedDupCount} near-duplicate/cloned explanations after normalizing unit/number tokens (${normalizedExplanations.size}/${evaluatedCount} unique)!`);
       isFailed = true;
       hasFailure = true;
     }
