@@ -155,7 +155,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Foundations of Computer Science & Algorithmic Thinking"
+    "title": "Unit 1, Lesson 1: Asymptotic Analysis & Big-O Notation"
   },
   "cs110-u1-l2": {
     "id": "cs110-u1-l2",
@@ -225,7 +225,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 2: Merge Sort Recurrence: T(n"
+    "title": "Unit 1, Lesson 2: Big-Theta & Exact Asymptotic Bounds"
   },
   "cs110-u1-l3": {
     "id": "cs110-u1-l3",
@@ -307,7 +307,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 3: For Strassen's matrix multipli"
+    "title": "Unit 1, Lesson 3: Big-Omega & Lower Bound Analysis"
   },
   "cs110-u1-l4": {
     "id": "cs110-u1-l4",
@@ -389,7 +389,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 4: Execute Amortized Complexity Analysis using Aggregate"
+    "title": "Unit 1, Lesson 4: Little-o & Little-omega Asymptotics"
   },
   "cs110-u1-l5": {
     "id": "cs110-u1-l5",
@@ -471,7 +471,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 5: Analyze Deterministic vs Randomized Selection"
+    "title": "Unit 1, Lesson 5: Recurrence Relations & The Master Theorem"
   },
   "cs110-u1-l6": {
     "id": "cs110-u1-l6",
@@ -553,7 +553,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 1: Information-theoretic lower bo"
+    "title": "Unit 1, Lesson 6: Advanced Recurrences (Akra-Bazzi & Substitution)"
   },
   "cs110-u5-l4": {
     "id": "cs110-u5-l4",
@@ -635,7 +635,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Randomized Algorithms"
+    "title": "Unit 5, Lesson 4: Network Flow & Max-Flow Min-Cut Theorem"
   },
   "cs110-u5-l3": {
     "id": "cs110-u5-l3",
@@ -717,7 +717,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Approximation Algorithms"
+    "title": "Unit 5, Lesson 3: Minimum Spanning Trees (Kruskal, Prim & Cut Property)"
   },
   "cs110-u5-l2": {
     "id": "cs110-u5-l2",
@@ -799,7 +799,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Karp's 21 NP-Complete Problems"
+    "title": "Unit 5, Lesson 2: Single-Source Shortest Paths (Dijkstra & Bellman-Ford)"
   },
   "cs110-u5-l1": {
     "id": "cs110-u5-l1",
@@ -882,7 +882,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1105, Lesson 5: Master Greedy Algorithms"
+    "title": "Unit 5, Lesson 1: Graph Traversal (BFS, DFS & Topological Sort)"
   },
   "cs110-u4-l4": {
     "id": "cs110-u4-l4",
@@ -964,7 +964,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Network Flow"
+    "title": "Unit 4, Lesson 4: Greedy Algorithms & Huffman Encoding"
   },
   "cs110-u4-l3": {
     "id": "cs110-u4-l3",
@@ -1046,7 +1046,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 2: Greedy Choice Property"
+    "title": "Unit 4, Lesson 3: Longest Common Subsequence & Edit Distance"
   },
   "cs110-u4-l2": {
     "id": "cs110-u4-l2",
@@ -1128,7 +1128,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "0/1 Knapsack vs Unbounded Knapsack"
+    "title": "Unit 4, Lesson 2: The 0/1 Knapsack Problem & Pseudo-Polynomial Time"
   },
   "cs110-u4-l1": {
     "id": "cs110-u4-l1",
@@ -1211,7 +1211,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 4: Master Dynamic Programming principles"
+    "title": "Unit 4, Lesson 1: Dynamic Programming Principles & Memoization"
   },
   "cs110-u3-l5": {
     "id": "cs110-u3-l5",
@@ -1293,7 +1293,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "C2 Synthesis on Multidimensional Spatial Search"
+    "title": "Unit 3, Lesson 5: Advanced Hashing (Cuckoo, Robin Hood & Bloom Filters)"
   },
   "cs110-u3-l4": {
     "id": "cs110-u3-l4",
@@ -1375,7 +1375,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 1: Implement 2-3-4 Trees"
+    "title": "Unit 3, Lesson 4: Hash Tables, Universal Hashing & Collision Resolution"
   },
   "cs110-u3-l3": {
     "id": "cs110-u3-l3",
@@ -1457,7 +1457,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 2: Examine AVL Trees"
+    "title": "Unit 3, Lesson 3: Red-Black Trees & Black-Height Invariants"
   },
   "cs110-u3-l2": {
     "id": "cs110-u3-l2",
@@ -1539,7 +1539,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Analyze Tree Rotations and Red-Black Insertion Fixup Cases (Case 1"
+    "title": "Unit 3, Lesson 2: AVL Trees & Strict Height-Balancing"
   },
   "cs110-u3-l1": {
     "id": "cs110-u3-l1",
@@ -1622,7 +1622,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 4: Master Red-Black Tree invariant properties"
+    "title": "Unit 3, Lesson 1: Binary Search Trees & Tree Rotations"
   },
   "cs110-u2-l5": {
     "id": "cs110-u2-l5",
@@ -1704,7 +1704,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "CS110 Minimum Spanning Trees"
+    "title": "Unit 2, Lesson 5: Binary Heaps, Priority Queues & HeapSort"
   },
   "cs110-u2-l4": {
     "id": "cs110-u2-l4",
@@ -1786,7 +1786,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "CS110 Shortest Path Algorithms"
+    "title": "Unit 2, Lesson 4: Comparison Lower Bounds & Decision Trees"
   },
   "cs110-u2-l3": {
     "id": "cs110-u2-l3",
@@ -1868,7 +1868,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "CS110 Graph Theory Fundamentals"
+    "title": "Unit 2, Lesson 3: Linear Time Sorting (Counting, Radix & Bucket Sort)"
   },
   "cs110-u2-l2": {
     "id": "cs110-u2-l2",
@@ -1950,7 +1950,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "CS110 Binary Heaps and Priority Queues"
+    "title": "Unit 2, Lesson 2: QuickSort Partition Schemes & Randomized Analysis"
   },
   "cs110-u2-l1": {
     "id": "cs110-u2-l1",
@@ -2032,7 +2032,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 4: Selection Recurrence: T(n"
+    "title": "Unit 2, Lesson 1: Divide and Conquer (Merge Sort & Inversion Counting)"
   },
   "cs110-u4-l5": {
     "id": "cs110-u4-l5",
@@ -2196,7 +2196,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "CS110 Master Capstone"
+    "title": "Unit 5, Lesson 5: Computational Complexity: P, NP & Reductions"
   }
 };
   var CURRICULUM = { id: 'cs110', name: "CS 110: Algorithms & Data Structures", units: UNITS, lessons: LESSONS };

@@ -155,7 +155,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Foundations of Market Data & Consumer Analytics"
+    "title": "Unit 1, Lesson 1: Principles of Microeconomics & Scarcity"
   },
   "b110-u1-l2": {
     "id": "b110-u1-l2",
@@ -225,7 +225,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 2: PCA of Automotive Market: PC1"
+    "title": "Unit 1, Lesson 2: Supply, Demand & Market Equilibrium"
   },
   "b110-u1-l3": {
     "id": "b110-u1-l3",
@@ -307,7 +307,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 3: Execute Eigenvalue Decomposition"
+    "title": "Unit 1, Lesson 3: Elasticity & Its Applications"
   },
   "b110-u1-l4": {
     "id": "b110-u1-l4",
@@ -389,7 +389,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 4: Interpret Attribute Vector Angles"
+    "title": "Unit 1, Lesson 4: Consumer Choice Theory & Indifference Curves"
   },
   "b110-u1-l5": {
     "id": "b110-u1-l5",
@@ -471,7 +471,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 5: A coffee consumer has Ideal Po"
+    "title": "Unit 1, Lesson 5: Production Functions & Cost Structures"
   },
   "b110-u1-l6": {
     "id": "b110-u1-l6",
@@ -553,7 +553,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 1: C2 Synthesis on Strategic Brand Repositioning"
+    "title": "Unit 1, Lesson 6: Perfect Competition & Long-Run Equilibrium"
   },
   "b110-u5-l4": {
     "id": "b110-u5-l4",
@@ -1292,7 +1292,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 5: Markov migration matrices mode"
+    "title": "Unit 3, Lesson 4: Exchange Rate Systems & The Mundell-Fleming Model"
   },
   "b110-u3-l3": {
     "id": "b110-u3-l3",
@@ -1374,7 +1374,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 1: Customer Acquisition Cost (CAC) to LTV Dynamics"
+    "title": "Unit 3, Lesson 3: International Trade & Comparative Advantage"
   },
   "b110-u3-l2": {
     "id": "b110-u3-l2",
@@ -1456,7 +1456,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Contractual vs Non-Contractual Churn"
+    "title": "Unit 3, Lesson 2: Endogenous Growth & R&D Spillovers"
   },
   "b110-u3-l1": {
     "id": "b110-u3-l1",
@@ -1538,7 +1538,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 3: Formulate Customer Lifetime Value (CLV)"
+    "title": "Unit 3, Lesson 1: The Solow-Swan Neoclassical Growth Model"
   },
   "b110-u2-l5": {
     "id": "b110-u2-l5",
@@ -1620,7 +1620,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "C2 Synthesis on Market Simulation Engines"
+    "title": "Unit 2, Lesson 5: Fiscal Policy & Keynesian Multipliers"
   },
   "b110-u2-l4": {
     "id": "b110-u2-l4",
@@ -1702,7 +1702,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 5: If the utility gain for Leathe"
+    "title": "Unit 2, Lesson 4: Aggregate Demand & Aggregate Supply (AD-AS Model)"
   },
   "b110-u2-l3": {
     "id": "b110-u2-l3",
@@ -1784,7 +1784,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 1: If Product A has deterministic"
+    "title": "Unit 2, Lesson 3: Unemployment & Labor Market Dynamics"
   },
   "b110-u2-l2": {
     "id": "b110-u2-l2",
@@ -1866,7 +1866,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 2: A fractional factorial design"
+    "title": "Unit 2, Lesson 2: Inflation, CPI & Real vs Nominal Interest Rates"
   },
   "b110-u2-l1": {
     "id": "b110-u2-l1",
@@ -1948,7 +1948,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 3: Master full-profile conjoint analysis algorithms"
+    "title": "Unit 2, Lesson 1: Measuring National Income & GDP Accounting"
   },
   "b110-u3-l5": {
     "id": "b110-u3-l5",
@@ -2030,7 +2030,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3 Capstone"
+    "title": "Unit 3, Lesson 5: Behavioral Economics & Prospect Theory"
   },
   "b110-u4-l5": {
     "id": "b110-u4-l5",

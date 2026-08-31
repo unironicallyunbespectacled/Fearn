@@ -139,7 +139,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Foundations of Financial Markets"
+    "title": "Unit 1, Lesson 1: Time Value of Money & DCF Foundations"
   },
   "b111-u1-l2": {
     "id": "b111-u1-l2",
@@ -221,7 +221,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 2: If Rf = 4.0%, ERP = 5.5%, and"
+    "title": "Unit 1, Lesson 2: Capital Budgeting Metrics (NPV, IRR & Payback)"
   },
   "b111-u1-l3": {
     "id": "b111-u1-l3",
@@ -303,7 +303,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 3: Beta Estimation"
+    "title": "Unit 1, Lesson 3: Modern Portfolio Theory & Mean-Variance Optimization"
   },
   "b111-u1-l4": {
     "id": "b111-u1-l4",
@@ -385,7 +385,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Capital Structure & The Hamada Equation"
+    "title": "Unit 1, Lesson 4: The Capital Asset Pricing Model (CAPM) & Beta Estimation"
   },
   "b111-u1-l5": {
     "id": "b111-u1-l5",
@@ -467,7 +467,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Weighted Average Cost of Capital (WACC)"
+    "title": "Unit 1, Lesson 5: Weighted Average Cost of Capital (WACC) & Cost of Capital"
   },
   "b111-u1-l6": {
     "id": "b111-u1-l6",
@@ -549,7 +549,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "The Cost of Debt"
+    "title": "Unit 1, Lesson 6: Capital Structure Theory & Modigliani-Miller Theorems"
   },
   "b111-u1-l7": {
     "id": "b111-u1-l7",
@@ -631,7 +631,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 2: Trade-off theory balances the"
+    "title": "Unit 1, Lesson 7: Financial Statement Analysis & Dupont Decomposition"
   },
   "b111-u1-l8": {
     "id": "b111-u1-l8",
@@ -713,7 +713,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 3: In an LBO with a 5-year debt p"
+    "title": "Unit 1, Lesson 8: Working Capital Management & Cash Conversion Cycle"
   },
   "b111-u1-l9": {
     "id": "b111-u1-l9",
@@ -795,7 +795,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Module Capstone"
+    "title": "Unit 1, Lesson 9: Corporate Valuation Overview (DCF, Comps, Precedents)"
   },
   "b111-u2-l1": {
     "id": "b111-u2-l1",
@@ -877,7 +877,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "3-Statement Financial Modeling Architecture"
+    "title": "Unit 2, Lesson 1: Dynamic 3-Statement Financial Modeling"
   },
   "b111-u2-l2": {
     "id": "b111-u2-l2",
@@ -959,7 +959,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Working Capital Modeling"
+    "title": "Unit 2, Lesson 2: Working Capital & Fixed Asset Roll-Forwards"
   },
   "b111-u2-l3": {
     "id": "b111-u2-l3",
@@ -1041,7 +1041,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Debt Schedules"
+    "title": "Unit 2, Lesson 3: Debt Schedules & Cash Sweeps"
   },
   "b111-u2-l4": {
     "id": "b111-u2-l4",
@@ -1123,7 +1123,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Free Cash Flow to Firm (FCFF) vs Free Cash Flow to Equity (FCFE)"
+    "title": "Unit 2, Lesson 4: FCFF vs FCFE Valuation Mechanics"
   },
   "b111-u2-l5": {
     "id": "b111-u2-l5",
@@ -1205,7 +1205,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Terminal Value Calculations"
+    "title": "Unit 2, Lesson 5: Terminal Value Calculations (Gordon Growth vs Exit Multiples)"
   },
   "b111-u2-l6": {
     "id": "b111-u2-l6",
@@ -1287,7 +1287,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "The Enterprise Value to Equity Value Bridge"
+    "title": "Unit 2, Lesson 6: Enterprise Value to Equity Value Bridge"
   },
   "b111-u2-l7": {
     "id": "b111-u2-l7",
@@ -1369,7 +1369,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "DCF Sensitivity Analysis"
+    "title": "Unit 2, Lesson 7: DCF Sensitivity & Scenario Analysis"
   },
   "b111-u2-l8": {
     "id": "b111-u2-l8",
@@ -1451,7 +1451,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Module Capstone"
+    "title": "Unit 2, Lesson 8: Module Capstone: Integrated 3-Statement DCF Model"
   },
   "b111-u3-l1": {
     "id": "b111-u3-l1",
@@ -1533,7 +1533,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 3: Black-Scholes call option pric"
+    "title": "Unit 3, Lesson 1: The Black-Scholes-Merton Model & Greek Sensitivities"
   },
   "b111-u3-l2": {
     "id": "b111-u3-l2",
@@ -1615,7 +1615,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 4: The Implied Volatility Surface"
+    "title": "Unit 3, Lesson 2: The Implied Volatility Surface & Volatility Smiles"
   },
   "b111-u3-l3": {
     "id": "b111-u3-l3",
@@ -1697,7 +1697,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 5: Real options analysis proves t"
+    "title": "Unit 3, Lesson 3: Real Options in Strategic Capital Budgeting"
   },
   "b111-u3-l4": {
     "id": "b111-u3-l4",
@@ -1779,7 +1779,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "M&A Financial Modeling"
+    "title": "Unit 3, Lesson 4: M&A Financial Modeling & Purchase Price Allocation"
   },
   "b111-u3-l5": {
     "id": "b111-u3-l5",
@@ -1861,7 +1861,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 2: In an all-stock deal, if the a"
+    "title": "Unit 3, Lesson 5: M&A Accretion/Dilution Analysis & Synergy Valuation"
   },
   "b111-u3-l6": {
     "id": "b111-u3-l6",
@@ -1943,7 +1943,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Leveraged Buyout (LBO) Model Mechanics"
+    "title": "Unit 3, Lesson 6: Leveraged Buyout (LBO) Model Mechanics"
   },
   "b111-u3-l7": {
     "id": "b111-u3-l7",
@@ -2025,7 +2025,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Convertible Bonds & Hybrid Securities Modeling (Convertible bond architecture"
+    "title": "Unit 3, Lesson 7: Convertible Bonds & Hybrid Securities Modeling"
   },
   "b111-u3-l8": {
     "id": "b111-u3-l8",
@@ -2107,7 +2107,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 5: Cross-Border Valuation"
+    "title": "Unit 3, Lesson 8: Cross-Border Valuation & FX Risk"
   },
   "b111-u3-l9": {
     "id": "b111-u3-l9",
@@ -2189,7 +2189,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "B111 Master Capstone"
+    "title": "Unit 3, Lesson 9: B111 Master Capstone: Investment Banking Pitchbook Defense"
   }
 };
   var CURRICULUM = { id: 'b111', name: "B111: Financial Modeling & Valuation", units: UNITS, lessons: LESSONS };
