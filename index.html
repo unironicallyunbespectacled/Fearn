@@ -1194,18 +1194,37 @@
       if (window.FEARN_DICTIONARY) {
         Object.keys(window.FEARN_DICTIONARY).forEach(function (subj) {
           var dictList = window.FEARN_DICTIONARY[subj] || [];
+          var frondInfo = FRONDS_CATALOG.find(function (f) { return f.id === subj; }) || { name: subj.toUpperCase(), icon: '📚' };
           dictList.forEach(function (item) {
             if (!item) return;
+            var exStr = '';
+            if (Array.isArray(item.examples) && item.examples.length) {
+              exStr = item.examples.map(function (e) {
+                return (e.target || e) + (e.translation ? ' — ' + e.translation : '');
+              }).join(' • ');
+            } else if (item.example) {
+              exStr = item.example;
+            }
+
+            var notesArr = [];
+            if (item.level) notesArr.push('Mastery Level: ' + item.level);
+            if (item.register) notesArr.push('Register: ' + item.register);
+            if (item.synonyms && item.synonyms.length) notesArr.push('Synonyms: ' + item.synonyms.join(', '));
+            if (item.antonyms && item.antonyms.length) notesArr.push('Antonyms: ' + item.antonyms.join(', '));
+            if (item.notes) notesArr.push(item.notes);
+
             addEntry(
               item.term,
               item.definition,
               subj,
-              subj.toUpperCase(),
-              '📚',
+              frondInfo.name,
+              frondInfo.icon,
               {
-                pos: item.category || 'Vocabulary',
-                notes: item.level ? 'Mastery Level: ' + item.level : '',
-                etym: item.etymology || ''
+                pron: item.pronunciation || '',
+                pos: item.partOfSpeech || item.category || 'Vocabulary',
+                notes: notesArr.join(' | '),
+                etym: item.etymology || '',
+                ex: exStr
               }
             );
           });
