@@ -771,9 +771,27 @@
     },
     {
       "term": "Sobremesa",
-      "definition": "The leisurely time spent conversing around the table after finishing a meal",
-      "category": "Culture & Untranslatable",
-      "level": "B1"
+      "definition": "The traditional Spanish cultural practice of lingering around the table after finishing a meal to engage in relaxed, unhurried conversation with family or friends.",
+      "category": "Cultura y Vida Cotidiana",
+      "level": "B1 / Intermedio",
+      "pronunciation": "/so.βɾeˈme.sa/",
+      "partOfSpeech": "Sustantivo femenino (Noun)",
+      "examples": [
+        {
+          "target": "Disfrutamos de una larga sobremesa de dos horas conversando sobre literatura y viajes.",
+          "translation": "We enjoyed a long two-hour post-meal conversation discussing literature and travel."
+        },
+        {
+          "target": "La sobremesa es un momento sagrado para estrechar lazos afectivos en España e Iberoamérica.",
+          "translation": "The post-meal conversation is a sacred moment for strengthening emotional bonds in Spain and Latin America."
+        }
+      ],
+      "synonyms": [
+        "Tertulia de sobremesa",
+        "Conversación postprandial"
+      ],
+      "register": "General / Cultural",
+      "notes": "A culturally unique Spanish concept that has no direct single-word equivalent in English."
     },
     {
       "term": "Ser vs Estar",
@@ -960,6 +978,245 @@
       "definition": "Temporary workforce restructuring or furlough scheme under Spanish labor code",
       "category": "Labor Law & Economics",
       "level": "C1"
+    },
+    {
+      "term": "Ojalá",
+      "pronunciation": "/o.xaˈla/",
+      "partOfSpeech": "Interjección / Adverbio (Interjection)",
+      "definition": "God willing / Would that / I hope so; expresses strong yearning, wish, or hope for an event to happen; derived from Arabic \"In sha' Allah\"; obligatorily triggers subjunctive mood.",
+      "category": "Gramática y Expresiones",
+      "level": "A2 / B1",
+      "examples": [
+        {
+          "target": "¡Ojalá haga buen tiempo mañana para poder salir a la montaña!",
+          "translation": "Would that the weather is good tomorrow so we can go out to the mountains!"
+        },
+        {
+          "target": "Ojalá hubiéramos sabido la verdad antes de tomar esa decisión precipitada.",
+          "translation": "If only we had known the truth before making that hasty decision."
+        }
+      ],
+      "synonyms": [
+        "Dios quiera",
+        "Ojalá que sí",
+        "Así sea"
+      ],
+      "register": "General / Polysemous"
+    },
+    {
+      "term": "Desarrollar",
+      "pronunciation": "/de.sa.roˈʝaɾ/",
+      "partOfSpeech": "Verbo transitivo / pronominal (Verb)",
+      "definition": "1. To develop, cultivate, expand, evolve (abilities, economies, ideas). 2. Desarrollarse (Reflexive): to unfold, take place, thrive.",
+      "category": "Verbos Fundamentales",
+      "level": "B1 / Intermedio",
+      "examples": [
+        {
+          "target": "El equipo de ingenieros desarrolló un software revolucionario de procesamiento de lenguaje.",
+          "translation": "The engineering team developed a revolutionary language processing software."
+        },
+        {
+          "target": "La conferencia se desarrolló con total normalidad y gran participación internacional.",
+          "translation": "The conference unfolded completely normally and with great international participation."
+        }
+      ],
+      "synonyms": [
+        "Fomentar",
+        "Evolucionar",
+        "Desplegar",
+        "Elaborar"
+      ],
+      "antonyms": [
+        "Involucionar",
+        "Frenar",
+        "Estancar"
+      ],
+      "register": "General / Académico"
+    },
+    {
+      "term": "Madrugar",
+      "pronunciation": "/ma.ðɾuˈɣaɾ/",
+      "partOfSpeech": "Verbo intransitivo (Verb)",
+      "definition": "To wake up / get up very early in the morning.",
+      "category": "Vida Diaria y Hábitos",
+      "level": "A2 / Elemental",
+      "examples": [
+        {
+          "target": "A quien madruga, Dios le ayuda (Refrán tradicional).",
+          "translation": "The early bird catches the worm / God helps those who wake up early (Traditional proverb)."
+        },
+        {
+          "target": "Mañana tengo que madrugar para tomar el primer vuelo a Madrid.",
+          "translation": "Tomorrow I have to get up very early to catch the first flight to Madrid."
+        }
+      ],
+      "synonyms": [
+        "Levantarse temprano",
+        "Amanecer temprano"
+      ],
+      "antonyms": [
+        "Trasnochar (stay up late)",
+        "Dormirse"
+      ],
+      "register": "General"
+    },
+    {
+      "term": "Estrenar",
+      "pronunciation": "/es.tɾeˈnaɾ/",
+      "partOfSpeech": "Verbo transitivo (Verb)",
+      "definition": "1. To wear, use, or show something for the first time. 2. In cinema/theater: to premiere, release, debut a work.",
+      "category": "Cultura y Vocabulario Cotidiano",
+      "level": "B1 / Intermedio",
+      "examples": [
+        {
+          "target": "Hoy estreno los zapatos de cuero que compré en el mercado artesanal.",
+          "translation": "Today I am wearing for the first time the leather shoes I bought at the artisanal market."
+        },
+        {
+          "target": "La nueva película del galardonado director se estrenará en el festival internacional.",
+          "translation": "The new movie of the award-winning director will premiere at the international festival."
+        }
+      ],
+      "synonyms": [
+        "Inaugurar",
+        "Debutear",
+        "Lanzar por primera vez"
+      ],
+      "register": "General"
+    },
+    {
+      "term": "Empatía",
+      "pronunciation": "/em.paˈti.a/",
+      "partOfSpeech": "Sustantivo femenino (Noun)",
+      "definition": "The capacity to understand and share the feelings, perspective, and emotions of others; deep psychological solidarity.",
+      "category": "Psicología y Ética",
+      "level": "B2 / Intermedio Alto",
+      "examples": [
+        {
+          "target": "La verdadera empatía requiere escuchar activamente sin juzgar prematuramente a los demás.",
+          "translation": "True empathy requires active listening without prematurely judging others."
+        },
+        {
+          "target": "El liderazgo humanista se fundamenta en la empatía y el respeto a la dignidad individual.",
+          "translation": "Humanistic leadership is founded on empathy and respect for individual dignity."
+        }
+      ],
+      "synonyms": [
+        "Compasión",
+        "Sensibilidad",
+        "Comprensión mutua"
+      ],
+      "antonyms": [
+        "Apatía",
+        "Indiferencia",
+        "Insensibilidad"
+      ],
+      "register": "General / Formal"
+    },
+    {
+      "term": "Imprescindible",
+      "pronunciation": "/im.pɾe.sinˈdi.βle/",
+      "partOfSpeech": "Adjetivo (Adjective)",
+      "definition": "Absolutely essential, indispensable, vital; that which cannot be omitted or dispensed with.",
+      "category": "Adjetivos Avanzados",
+      "level": "B2 / Intermedio Alto",
+      "examples": [
+        {
+          "target": "El dominio de la gramática y el vocabulario es imprescindible para alcanzar la fluidez.",
+          "translation": "Mastery of grammar and vocabulary is indispensable to achieve fluency."
+        },
+        {
+          "target": "El agua potable es un recurso imprescindible para la supervivencia y el bienestar humano.",
+          "translation": "Potable water is an indispensable resource for human survival and well-being."
+        }
+      ],
+      "synonyms": [
+        "Indispensable",
+        "Esencial",
+        "Fundamental",
+        "Vital"
+      ],
+      "antonyms": [
+        "Prescindible",
+        "Secundario",
+        "Superfluo",
+        "Innecesario"
+      ],
+      "register": "Formal / General"
+    },
+    {
+      "term": "Vergüenza ajena",
+      "pronunciation": "/beɾˈɣwen.sa aˈxe.na/",
+      "partOfSpeech": "Locución sustantiva (Noun Phrase)",
+      "definition": "Vicarious embarrassment / Cringe; the acute embarrassment felt on behalf of another person who is acting foolishly or inappropriately.",
+      "category": "Psicología y Expresiones",
+      "level": "B2 / Intermedio",
+      "examples": [
+        {
+          "target": "Sentí una profunda vergüenza ajena al ver cómo interrumpía groseramente al conferenciante.",
+          "translation": "I felt profound vicarious embarrassment seeing how he rudely interrupted the keynote speaker."
+        },
+        {
+          "target": "La película retrata situaciones cómicas que provocan risa y vergüenza ajena a la vez.",
+          "translation": "The movie portrays comical situations that provoke laughter and vicarious embarrassment at the same time."
+        }
+      ],
+      "synonyms": [
+        "Pena ajena",
+        "Bochorno ajeno"
+      ],
+      "register": "Coloquial / General"
+    },
+    {
+      "term": "Agradecer",
+      "pronunciation": "/a.ɣɾa.ðeˈseɾ/",
+      "partOfSpeech": "Verbo transitivo (Verb)",
+      "definition": "To thank, express gratitude, appreciate deeply; to acknowledge a favor, gift, or assistance.",
+      "category": "Cortesía y Relaciones",
+      "level": "A2 / B1",
+      "examples": [
+        {
+          "target": "Les agradezco de todo corazón el invaluable apoyo que nos brindaron en momentos difíciles.",
+          "translation": "I thank you with all my heart for the invaluable support you provided us in difficult moments."
+        },
+        {
+          "target": "Agradeceríamos que nos enviaran la documentación requerida a la mayor brevedad posible.",
+          "translation": "We would appreciate it if you could send us the required documentation as promptly as possible."
+        }
+      ],
+      "synonyms": [
+        "Dar las gracias",
+        "Reconocer",
+        "Apreciar"
+      ],
+      "antonyms": [
+        "Desagradecer"
+      ],
+      "register": "Formal / Estándar"
+    },
+    {
+      "term": "Sostenibilidad",
+      "pronunciation": "/sos.te.ni.βi.liˈðað/",
+      "partOfSpeech": "Sustantivo femenino (Noun)",
+      "definition": "Sustainability; the quality of being able to be maintained at a certain rate or level without exhausting natural resources or causing ecological damage.",
+      "category": "Ecología y Economía",
+      "level": "B2 / Avanzado",
+      "examples": [
+        {
+          "target": "La transición hacia energías renovables es la piedra angular de la sostenibilidad ambiental global.",
+          "translation": "The transition toward renewable energies is the cornerstone of global environmental sustainability."
+        },
+        {
+          "target": "Promovemos un modelo de desarrollo económico que garantiza la sostenibilidad social y financiera.",
+          "translation": "We promote an economic development model that guarantees social and financial sustainability."
+        }
+      ],
+      "synonyms": [
+        "Sustentabilidad",
+        "Perdurabilidad",
+        "Equilibrio ecológico"
+      ],
+      "register": "Académico / Formal"
     }
   ],
   "french": [
