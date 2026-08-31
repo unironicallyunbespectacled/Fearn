@@ -6822,10 +6822,28 @@
       "level": "B2"
     },
     {
-      "term": "飲茶 (Jam2 caa4) & 點心 (Dim2 sam1)",
-      "definition": "The sacred cultural brunch ritual of drinking tea and eating dim sum (Har Gow, Siu Mai, Char Siu Bao)",
-      "category": "Culinary Culture",
-      "level": "A1"
+      "term": "飲茶 (Yam caa)",
+      "definition": "To drink tea / Go for Yum Cha; the iconic Cantonese culinary and social ritual of gathering with family or colleagues to drink Chinese tea and savor dim sum while catching up.",
+      "category": "飲食文化與生活 (Culinary Culture & Daily Life)",
+      "level": "A1 / 初級",
+      "pronunciation": "jam2 caa4",
+      "partOfSpeech": "動詞短語 / 文化習俗 (Verb Phrase / Cultural Custom)",
+      "examples": [
+        {
+          "target": "逢星期日我哋一家人一齊去酒樓飲茶食點心。",
+          "translation": "Every Sunday our whole family goes together to the restaurant to drink tea and eat dim sum."
+        },
+        {
+          "target": "斟茶畀長輩嗰陣，長輩會用手指叩枱表示多謝（叩手禮）。",
+          "translation": "When pouring tea for elders, they will tap the table with fingers to express gratitude (finger-tapping etiquette)."
+        }
+      ],
+      "synonyms": [
+        "食點心 (Sik dim sam)",
+        "歎茶 (Taan caa)"
+      ],
+      "register": "口語 / 核心文化詞 (Colloquial / Core Cultural)",
+      "notes": "The finger-tapping gesture (叩手禮) originated from an ancient Qing dynasty legend of Emperor Qianlong traveling in disguise."
     },
     {
       "term": "茶餐廳 (Caa4 caan1 teng1)",
@@ -6988,6 +7006,78 @@
       "definition": "Essential Hong Kong survival philosophy: to improvise on the fly, adapt quickly, and solve problems resourcefully",
       "category": "Cultural Philosophy",
       "level": "B2"
+    },
+    {
+      "term": "人情味 (Jan cing mei)",
+      "pronunciation": "jan4 cing4 mei6",
+      "partOfSpeech": "名詞 (Noun)",
+      "definition": "Human touch, neighborly warmth, empathy, and genuine kindness that binds community members together (celebrated in old Hong Kong neighborhood culture).",
+      "category": "社會文化與倫理 (Culture & Social Ethics)",
+      "level": "B2 / 中高級",
+      "examples": [
+        {
+          "target": "老街坊之間互相關照，充滿濃厚嘅人情味。",
+          "translation": "Between old neighbors there is mutual care, brimming with dense human warmth."
+        },
+        {
+          "target": "雖然現代城市發展好快，但舊社區依然保留住珍貴嘅人情味。",
+          "translation": "Although modern urban development is very fast, old communities still preserve precious human warmth."
+        }
+      ],
+      "synonyms": [
+        "溫情 (Wan cing)",
+        "鄰里情 (Leon lei cing)"
+      ],
+      "antonyms": [
+        "冷漠 (Laang mok - indifference)"
+      ],
+      "register": "口語 / 書面通用 (General)"
+    },
+    {
+      "term": "獅子山精神 (Si zi saan zing san)",
+      "pronunciation": "si1 zi2 saan1 zing1 san4",
+      "partOfSpeech": "名詞短語 / 核心價值 (Noun Phrase / Cultural Ethos)",
+      "definition": "The Lion Rock Spirit; the quintessential Hong Kong ethos of perseverance, resilience, mutual solidarity, and hard work to overcome adversity and build a prosperous society from scratch.",
+      "category": "香港歷史與精神 (Hong Kong Ethos & History)",
+      "level": "B2 / 中高級",
+      "examples": [
+        {
+          "target": "幾代香港人憑住獅子山精神，喺逆境中自強不息。",
+          "translation": "Generations of Hong Kong people, relying on the Lion Rock Spirit, strengthened themselves amidst adversity."
+        },
+        {
+          "target": "同舟共濟、刻苦耐勞係獅子山精神嘅核心體現。",
+          "translation": "Pulling together in the same boat and enduring hardship are the core manifestation of the Lion Rock Spirit."
+        }
+      ],
+      "synonyms": [
+        "自強不息 (Zi koeng bat sik)",
+        "刻苦耐勞 (Hak fu naai lou)"
+      ],
+      "register": "正式 / 文化象徵 (Formal / Cultural Symbol)",
+      "notes": "Popularized by the seminal RTHK TV series and theme song \"Below the Lion Rock\" (獅子山下) composed by Joseph Koo with lyrics by James Wong."
+    },
+    {
+      "term": "鑊氣 (Wok hei)",
+      "pronunciation": "wok6 hei3",
+      "partOfSpeech": "名詞 (Noun)",
+      "definition": "Breath of the wok; the elusive, complex, smoky, charred aroma and flavor imparted by cooking fresh ingredients over intense heat in a seasoned cast-iron wok with rapid tossing.",
+      "category": "粵菜廚藝與美學 (Cantonese Culinary Art)",
+      "level": "B1 / 中級",
+      "examples": [
+        {
+          "target": "大排檔炒出嚟嘅乾炒牛河鑊氣十足，香氣撲鼻。",
+          "translation": "The dry-fried beef rice noodles tossed out by the open-air food stall has immense wok hei, with aroma greeting the nose."
+        },
+        {
+          "target": "要炒出正宗嘅鑊氣，火候同拋鑊嘅速度非常關鍵。",
+          "translation": "To stir-fry authentic wok hei, heat control and the speed of wok tossing are extremely critical."
+        }
+      ],
+      "synonyms": [
+        "鑊香 (Wok hoeng)"
+      ],
+      "register": "飲食術語 / 核心概念 (Culinary Term)"
     }
   ],
   "korean": [
