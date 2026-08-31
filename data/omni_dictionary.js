@@ -3114,6 +3114,104 @@
       "definition": "Commercial value-added tax invoice integrated into the Revenue Administration digital system",
       "category": "Business & Finance",
       "level": "B2"
+    },
+    {
+      "term": "Hüzün",
+      "pronunciation": "[hyˈzyn]",
+      "partOfSpeech": "İsim (Noun)",
+      "definition": "Deep, shared, melancholic yearning and communal sense of loss or nostalgia experienced in Istanbul (celebrated by Nobel laureate Orhan Pamuk in \"Istanbul: Memories and the City\").",
+      "category": "Kültür, Edebiyat ve Felsefe (Culture & Literature)",
+      "level": "C1 / İleri Düzey",
+      "examples": [
+        {
+          "target": "Orhan Pamuk, İstanbul’un sokaklarına sinmiş olan hüzün duygusunu romanlarında ustalıkla anlatır.",
+          "translation": "Orhan Pamuk masterfully portrays in his novels the feeling of hüzün (communal melancholy) permeated through the streets of Istanbul."
+        },
+        {
+          "target": "Boğaz kıyısında eski yalıları seyrederken içimi derin bir hüzün kapladı.",
+          "translation": "While watching old seaside mansions along the Bosphorus, a deep hüzün (poignant nostalgia) enveloped my soul."
+        }
+      ],
+      "synonyms": [
+        "Keder",
+        "Melankoli",
+        "Gönül burukluğu"
+      ],
+      "register": "Edebi / Kültürel (Literary / Cultural)"
+    },
+    {
+      "term": "Gönül",
+      "pronunciation": "[ɡøˈnyl]",
+      "partOfSpeech": "İsim (Noun)",
+      "definition": "Heart, soul, inner spiritual emotional sanctuary, seat of unconditional love and mystical intuition (central to Sufi poetry and Yunus Emre).",
+      "category": "Tasavvuf ve Duygular (Sufism & Emotions)",
+      "level": "B2 / Orta-Üst",
+      "examples": [
+        {
+          "target": "Yunus Emre şöyle demiştir: \"Gönül Çalab'ın tahtı, Çalap gönüle baktı.\"",
+          "translation": "Yunus Emre said: \"The heart/gönül is the throne of the Divine, and the Divine gazes into the heart.\""
+        },
+        {
+          "target": "Gönülden yapılan her iyilik insanlar arasında kalıcı sevgi köprüleri kurar.",
+          "translation": "Every kindness done genuinely from the heart (gönül) builds lasting bridges of love among people."
+        }
+      ],
+      "synonyms": [
+        "Yürek (physical/emotional heart)",
+        "Kalp",
+        "Can"
+      ],
+      "register": "Kültürel / Tasavvufi (Spiritual / Cultural)"
+    },
+    {
+      "term": "Keyif",
+      "pronunciation": "[ceˈjif]",
+      "partOfSpeech": "İsim (Noun)",
+      "definition": "Tranquil relaxation, contented leisure, savoring the present moment with quiet pleasure (such as sipping Turkish tea or coffee in a seaside garden).",
+      "category": "Gündelik Yaşam ve Zevk (Daily Life & Leisure)",
+      "level": "A2 / Temel",
+      "examples": [
+        {
+          "target": "Pazar sabahı deniz kenarında çay içip simit yemenin keyfi bambaşkadır.",
+          "translation": "The keyif (contented pleasure) of drinking tea and eating simit by the sea on Sunday morning is completely unparalleled."
+        },
+        {
+          "target": "Bugün kendinize vakit ayırın ve günün keyfini doyasıya çıkarın.",
+          "translation": "Today take time for yourself and savor the keyif of the day to the fullest."
+        }
+      ],
+      "synonyms": [
+        "Huzur (tranquility)",
+        "Neşe",
+        "Zevk"
+      ],
+      "antonyms": [
+        "Keyifsizlik (malaise / indisposition)"
+      ],
+      "register": "Genel / Günlük (General / Daily Life)"
+    },
+    {
+      "term": "Misafirperverlik",
+      "pronunciation": "[mi.saː.fiɾ.pɛɾ.vɛɾˈlic]",
+      "partOfSpeech": "İsim (Noun)",
+      "definition": "Traditional Turkish boundless hospitality, welcoming strangers as honored guests and offering generous food and lodging unconditionally.",
+      "category": "Gelenek ve Ahlak (Tradition & Ethics)",
+      "level": "B1 / Orta",
+      "examples": [
+        {
+          "target": "Anadolu köylerinde karşılaştığımız içten misafirperverlik bizi derinden etkiledi.",
+          "translation": "The sincere hospitality we encountered in Anatolian villages deeply touched us."
+        },
+        {
+          "target": "Misafirperverlik, Türk kültürünün en köklü ve değerli erdemlerinden biridir.",
+          "translation": "Hospitality is one of the most deep-rooted and precious virtues of Turkish culture."
+        }
+      ],
+      "synonyms": [
+        "Konukseverlik",
+        "Cömertlik (generosity)"
+      ],
+      "register": "Genel / Kültürel (General / Cultural)"
     }
   ],
   "ukrainian": [
