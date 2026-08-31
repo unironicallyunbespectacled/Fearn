@@ -5869,6 +5869,215 @@
       "definition": "Contemporary socioeconomic terms: hyper-competitive involution (Neijuan) vs opting out/lying flat (Tangping)",
       "category": "Contemporary Society",
       "level": "HSK 5 / C1"
+    },
+    {
+      "term": "中庸之道 (Zhōng yōng zhī dào)",
+      "pronunciation": "zhōng yōng zhī dào",
+      "partOfSpeech": "成语 / 哲学概念 (Idiom / Philosophy)",
+      "definition": "The Doctrine of the Mean; Confucian philosophical principle of adhering to moderation, avoiding extremes, and maintaining balance and harmony in moral conduct.",
+      "category": "儒家哲学与成语 (Confucian Philosophy)",
+      "level": "HSK 6 / C1",
+      "examples": [
+        {
+          "target": "古人提倡中庸之道，主张在待人接物中保持平衡与理性。",
+          "translation": "The ancients advocated the Doctrine of the Mean, arguing for maintaining balance and rationality in interpersonal relationships."
+        },
+        {
+          "target": "在激烈的商业竞争中，恪守中庸之道有助于企业保持长远稳健的发展。",
+          "translation": "In fierce commercial competition, adhering to the Middle Way helps enterprises maintain long-term, sound development."
+        }
+      ],
+      "synonyms": [
+        "不偏不倚 (Bù piān bù yǐ)",
+        "执两用中 (Zhí liǎng yòng zhōng)"
+      ],
+      "antonyms": [
+        "过犹不及 (Guò yóu bù jí)",
+        "走极端 (Zǒu jíduān)"
+      ],
+      "register": "正式 / 典雅 (Formal / Literary)"
+    },
+    {
+      "term": "融会贯通 (Róng huì guàn tōng)",
+      "pronunciation": "róng huì guàn tōng",
+      "partOfSpeech": "成语 / 动词 (Idiom / Verb)",
+      "definition": "To achieve a comprehensive mastery through integrating diverse principles and knowledge across disciplines; to thoroughly synthesize and understand.",
+      "category": "学术与学习 (Scholarship & Learning)",
+      "level": "HSK 6 / C1",
+      "examples": [
+        {
+          "target": "真正的学者能够将东西方哲学思想融会贯通，提出独创性的学术见解。",
+          "translation": "A true scholar is able to thoroughly synthesize Eastern and Western philosophical thought to propose original academic insights."
+        },
+        {
+          "target": "只有把理论知识与临床实践融会贯通，才能成为一名卓越的医师。",
+          "translation": "Only by integrating theoretical knowledge with clinical practice can one become an outstanding physician."
+        }
+      ],
+      "synonyms": [
+        "举一反三 (Jǔ yī fǎn sān)",
+        "触类旁通 (Chù lèi páng tōng)"
+      ],
+      "antonyms": [
+        "生吞活剥 (Shēng tūn huó bō)",
+        "不求甚解 (Bù qiú shèn jiě)"
+      ],
+      "register": "成语 / 书面语 (Literary)"
+    },
+    {
+      "term": "厚德载物 (Hòu dé zài wù)",
+      "pronunciation": "hòu dé zài wù",
+      "partOfSpeech": "成语 / 道德格言 (Proverb / Maxim)",
+      "definition": "Great virtue accommodates all things; classical maxim from the I Ching emphasizing broad-mindedness, profound moral virtue, and tolerance towards all creation.",
+      "category": "传统文化与美德 (Traditional Ethics)",
+      "level": "HSK 6 / C2",
+      "examples": [
+        {
+          "target": "清华大学校训“自强不息，厚德载物”激励着一代代学子追求卓越与仁德。",
+          "translation": "Tsinghua University's motto \"Self-discipline and Social Commitment (Self-strengthening without ceasing; thick virtue carrying all things)\" inspires generations of students to pursue excellence and benevolence."
+        },
+        {
+          "target": "一位优秀的领导者应当具备海纳百川、厚德载物的博大胸怀。",
+          "translation": "An exceptional leader ought to possess a grand broad-mindedness that embraces all rivers and carries all things with profound virtue."
+        }
+      ],
+      "synonyms": [
+        "海纳百川 (Hǎi nà bǎi chuān)",
+        "宽宏大量 (Kuān hóng dà liàng)"
+      ],
+      "register": "典雅 / 哲学 (Literary / Classical)"
+    },
+    {
+      "term": "韬光养晦 (Tāo guāng yǎng huì)",
+      "pronunciation": "tāo guāng yǎng huì",
+      "partOfSpeech": "成语 / 战略概念 (Idiom / Strategic Concept)",
+      "definition": "To hide one's capacities and bide one's time; to conceal one's brilliance and nurture strength quietly while keeping a low profile.",
+      "category": "谋略与外交 (Strategy & Diplomacy)",
+      "level": "HSK 6 / C1",
+      "examples": [
+        {
+          "target": "在羽翼未丰之时，应当懂得韬光养晦，暗中积蓄实力。",
+          "translation": "When one's wings are not yet fully fledged, one should know to bide one's time and quietly accumulate strength."
+        },
+        {
+          "target": "该企业在转型初期采取韬光养晦的策略，专注于核心技术的自主研发。",
+          "translation": "In the early stage of transformation, the enterprise adopted a low-profile strategy, focusing on the independent R&D of core technologies."
+        }
+      ],
+      "synonyms": [
+        "蓄势待发 (Xù shì dài fā)",
+        "深藏不露 (Shēn cáng bù lù)"
+      ],
+      "antonyms": [
+        "锋芒毕露 (Fēng máng bì lù - show off brilliance aggressively)"
+      ],
+      "register": "书面语 / 战略 (Formal / Strategic)"
+    },
+    {
+      "term": "潜移默化 (Qián yí mò huà)",
+      "pronunciation": "qián yí mò huà",
+      "partOfSpeech": "成语 / 动词 (Idiom / Verb)",
+      "definition": "To exert a subtle, imperceptible influence over time; transforming character or habit unconsciously and silently.",
+      "category": "教育与心理 (Education & Psychology)",
+      "level": "HSK 5 / B2",
+      "examples": [
+        {
+          "target": "良好的家庭书香氛围对孩子的品格塑造起到了潜移默化的作用。",
+          "translation": "A wholesome scholarly family atmosphere exerts a subtle, imperceptible influence on shaping a child's character."
+        },
+        {
+          "target": "经典文学作品能够潜移默化地提升读者的审美情趣与精神境界。",
+          "translation": "Classical literary works can subtly and imperceptibly elevate readers' aesthetic tastes and spiritual horizons."
+        }
+      ],
+      "synonyms": [
+        "耳濡目染 (Ěr rú mù rǎn)",
+        "润物无声 (Rùn wù wú shēng)"
+      ],
+      "register": "成语 / 正式 (Literary / Formal)"
+    },
+    {
+      "term": "匠心独运 (Jiàng xīn dú yùn)",
+      "pronunciation": "jiàng xīn dú yùn",
+      "partOfSpeech": "成语 / 形容词 (Idiom / Adjective)",
+      "definition": "Displaying ingenious artisanship and original creativity; uniquely conceived and crafted with masterly skill.",
+      "category": "艺术与工艺 (Art & Craftsmanship)",
+      "level": "HSK 6 / C1",
+      "examples": [
+        {
+          "target": "这座苏州园林的亭台楼阁与假山水系匠心独运，移步换景。",
+          "translation": "The pavilions, artificial hills, and water systems of this Suzhou garden display ingenious craftsmanship, shifting scenes with every step."
+        },
+        {
+          "target": "设计师匠心独运地将传统剪纸艺术与现代时装剪裁完美融合。",
+          "translation": "The designer ingeniously and uniquely fused traditional paper-cutting art with modern fashion tailoring."
+        }
+      ],
+      "synonyms": [
+        "别具匠心 (Bié jù jiàng xīn)",
+        "独树一帜 (Dú shù yī zhì)",
+        "巧夺天工 (Qiǎo duó tiān gōng)"
+      ],
+      "antonyms": [
+        "千篇一律 (Qiān piān yī lǜ)",
+        "因循守旧 (Yīn xún shǒu jiù)"
+      ],
+      "register": "书面语 / 艺术赞赏 (Literary / Aesthetic)"
+    },
+    {
+      "term": "同舟共济 (Tóng zhōu gòng jì)",
+      "pronunciation": "tóng zhōu gòng jì",
+      "partOfSpeech": "成语 / 动词 (Idiom / Verb)",
+      "definition": "Crossing the river in the same boat; pulling together in full solidarity to overcome mutual hardship or crisis.",
+      "category": "伦理与国际关系 (Ethics & Global Affairs)",
+      "level": "HSK 5 / B2",
+      "examples": [
+        {
+          "target": "面对全球气候危机的严峻挑战，国际社会必须秉持同舟共济的合作精神。",
+          "translation": "Facing the severe challenges of global climate crisis, the international community must uphold the cooperative spirit of pulling together in the same boat."
+        },
+        {
+          "target": "团队成员在最艰难的研发阶段同舟共济，终于攻克了核心技术难关。",
+          "translation": "Team members pulled together in the same boat during the most arduous R&D stage, finally conquering key technical hurdles."
+        }
+      ],
+      "synonyms": [
+        "风雨同舟 (Fēng yǔ tóng zhōu)",
+        "休戚与共 (Xiū qī yǔ gòng)",
+        "众志成城 (Zhòng zhì chéng chéng)"
+      ],
+      "antonyms": [
+        "各奔前程 (Gè bèn qián chéng)",
+        "落井下石 (Luò jǐng xià shí)"
+      ],
+      "register": "正式 / 外交 (Formal / Diplomatic)"
+    },
+    {
+      "term": "精益求精 (Jīng yì qiú jīng)",
+      "pronunciation": "jīng yì qiú jīng",
+      "partOfSpeech": "成语 / 动词 (Idiom / Verb)",
+      "definition": "Constantly striving for perfection; relentlessly refining and improving an already excellent craft, skill, or product.",
+      "category": "工匠精神 (Craftsmanship & Quality)",
+      "level": "HSK 5 / B2",
+      "examples": [
+        {
+          "target": "顶级钟表大师对每一个微小齿轮都秉持精益求精的执着追求。",
+          "translation": "Top master watchmakers uphold a relentless pursuit of perfection for every tiny gear."
+        },
+        {
+          "target": "科学研究需要严谨求实、精益求精的学术态度。",
+          "translation": "Scientific research requires a rigorous, realistic, and continuously perfecting academic attitude."
+        }
+      ],
+      "synonyms": [
+        "锦上添花 (Jǐn shàng tiān huā)",
+        "孜孜以求 (Zī zī yǐ qiú)"
+      ],
+      "antonyms": [
+        "粗制滥造 (Cū zhì làn zào - shoddy manufacture)",
+        "得过且过 (Dé guò qiě guò)"
+      ],
+      "register": "成语 / 正式 (General / Formal)"
     }
   ],
   "cantonese": [
