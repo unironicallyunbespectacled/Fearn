@@ -726,15 +726,28 @@
     let matched = availableVoices.find(v => (v.lang || '').toLowerCase().replace('_', '-') === normalizedTag);
     if (matched) return matched;
 
-    // 2. Prefix match within same language family (e.g. es-* matches es-AR, pt-* matches pt-BR)
-    matched = availableVoices.find(v => (v.lang || '').toLowerCase().startsWith(primaryLang));
+    // 2. Exact primary language match (e.g. es-ES matches es-AR, pt-PT matches pt-BR)
+    matched = availableVoices.find(v => {
+      const vPrimary = (v.lang || '').toLowerCase().replace('_', '-').split('-')[0];
+      return vPrimary === primaryLang;
+    });
     if (matched) return matched;
 
-    // 3. Match by voice name containing primary language
-    matched = availableVoices.find(v => (v.name || '').toLowerCase().includes(primaryLang));
-    if (matched) return matched;
+    // 3. Match by full language name keyword in voice name (never a 2-letter substring)
+    const FULL_LANG_NAMES = {
+      'es': 'spanish', 'ja': 'japanese', 'ar': 'arabic', 'zh': 'chinese',
+      'yue': 'cantonese', 'ko': 'korean', 'hi': 'hindi', 'ur': 'urdu',
+      'fr': 'french', 'de': 'german', 'ru': 'russian', 'sw': 'swahili',
+      'tr': 'turkish', 'vi': 'vietnamese', 'uk': 'ukrainian', 'ro': 'romanian',
+      'en': 'english', 'pt': 'portuguese', 'am': 'amharic'
+    };
+    const fullName = FULL_LANG_NAMES[primaryLang];
+    if (fullName) {
+      matched = availableVoices.find(v => (v.name || '').toLowerCase().includes(fullName));
+      if (matched) return matched;
+    }
 
-    // Return null rather than mis-speaking with an irrelevant foreign voice (e.g. speaking Amharic with an English voice)
+    // Return null rather than mis-speaking with an irrelevant foreign voice (e.g. speaking Amharic with an English or Korean voice)
     return null;
   }
 
