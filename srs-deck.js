@@ -440,13 +440,13 @@
            </div>`
         : `<div style="display:flex; align-items:center; gap:10px;">
              <button id="fearn-srs-nav-all-decks" class="fearn-srs-ghost-btn" style="padding:4px 10px; font-size:0.75rem;">← All Decks</button>
-             <div class="fearn-srs-title">\${escapeHtml(subjectDecks[activeSubject] ? subjectDecks[activeSubject].name : 'Deck')}</div>
+             <div class="fearn-srs-title">${escapeHtml(subjectDecks[activeSubject] ? subjectDecks[activeSubject].name : 'Deck')}</div>
            </div>`;
 
       headerBar.innerHTML = `
-        \${leftHeaderHTML}
+        ${leftHeaderHTML}
         <div style="display:flex; align-items:center; gap:12px;">
-          <span class="fearn-srs-retention-badge">Target: \${Math.round(FSRS_CONFIG.desiredRetention * 100)}% Ret</span>
+          <span class="fearn-srs-retention-badge">Target: ${Math.round(FSRS_CONFIG.desiredRetention * 100)}% Ret</span>
           <button id="fearn-srs-close-btn" class="fearn-srs-close-btn" aria-label="Close Flashcards">&times;</button>
         </div>
       `;
@@ -546,13 +546,13 @@
 
       body.innerHTML = `
         <div class="fearn-srs-search-bar">
-          <input type="search" id="fearn-srs-deck-search" class="fearn-srs-search-input" placeholder="Search across all 30 Fronds & Subject Decks…" value="\${escapeHtml(deckSearchQuery)}" />
+          <input type="search" id="fearn-srs-deck-search" class="fearn-srs-search-input" placeholder="Search across all 30 Fronds & Subject Decks…" value="${escapeHtml(deckSearchQuery)}" />
           <div class="fearn-srs-filter-bar">
-            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'all' ? ' is-active' : ''}" data-cat="all">All (30)</button>
-            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'languages' ? ' is-active' : ''}" data-cat="languages">Languages (20)</button>
-            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'university' ? ' is-active' : ''}" data-cat="university">University (3)</button>
-            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'skills' ? ' is-active' : ''}" data-cat="skills">Skills (6)</button>
-            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'fitness' ? ' is-active' : ''}" data-cat="fitness">Fitness (1)</button>
+            <button class="fearn-srs-filter-btn${deckFilterCategory === 'all' ? ' is-active' : ''}" data-cat="all">All (30)</button>
+            <button class="fearn-srs-filter-btn${deckFilterCategory === 'languages' ? ' is-active' : ''}" data-cat="languages">Languages (20)</button>
+            <button class="fearn-srs-filter-btn${deckFilterCategory === 'university' ? ' is-active' : ''}" data-cat="university">University (3)</button>
+            <button class="fearn-srs-filter-btn${deckFilterCategory === 'skills' ? ' is-active' : ''}" data-cat="skills">Skills (6)</button>
+            <button class="fearn-srs-filter-btn${deckFilterCategory === 'fitness' ? ' is-active' : ''}" data-cat="fitness">Fitness (1)</button>
           </div>
         </div>
 
@@ -595,16 +595,16 @@
             cardEl.className = 'fearn-srs-deck-card';
             cardEl.innerHTML = `
               <div class="fearn-srs-deck-card-top">
-                <span class="fearn-srs-deck-icon">\${getSubjectIcon(sKey)}</span>
+                <span class="fearn-srs-deck-icon">${getSubjectIcon(sKey)}</span>
                 <div>
-                  <div class="fearn-srs-deck-name">\${escapeHtml(sDeck.name)}</div>
-                  <div style="font-size:0.72rem; color:var(--text-faint);">\${sDeck.cards.length} Total Cards</div>
+                  <div class="fearn-srs-deck-name">${escapeHtml(sDeck.name)}</div>
+                  <div style="font-size:0.72rem; color:var(--text-faint);">${sDeck.cards.length} Total Cards</div>
                 </div>
               </div>
               <div class="fearn-srs-deck-counts-row">
-                <span class="fearn-srs-deck-pill" style="background:rgba(56,189,248,0.15); color:var(--lang-1, #38bdf8); border:1px solid rgba(56,189,248,0.3);">\${sDeck.newCount} New</span>
-                <span class="fearn-srs-deck-pill" style="background:rgba(251,191,36,0.15); color:var(--fit-1, #fbbf24); border:1px solid rgba(251,191,36,0.3);">\${sDeck.learningCount} Lrn</span>
-                <span class="fearn-srs-deck-pill" style="background:rgba(52,211,153,0.15); color:var(--success, #34d399); border:1px solid rgba(52,211,153,0.3);">\${sDeck.reviewCount} Due</span>
+                <span class="fearn-srs-deck-pill" style="background:rgba(56,189,248,0.15); color:var(--lang-1, #38bdf8); border:1px solid rgba(56,189,248,0.3);">${sDeck.newCount} New</span>
+                <span class="fearn-srs-deck-pill" style="background:rgba(251,191,36,0.15); color:var(--fit-1, #fbbf24); border:1px solid rgba(251,191,36,0.3);">${sDeck.learningCount} Lrn</span>
+                <span class="fearn-srs-deck-pill" style="background:rgba(52,211,153,0.15); color:var(--success, #34d399); border:1px solid rgba(52,211,153,0.3);">${sDeck.reviewCount} Due</span>
               </div>
             `;
             cardEl.onclick = function () {
@@ -628,31 +628,31 @@
 
       body.innerHTML = `
         <div style="display:flex; flex-direction:column; gap:6px;">
-          <div style="font-size:2.2rem;">\${getSubjectIcon(activeSubject)}</div>
-          <div class="fearn-srs-deck-title">\${escapeHtml(deck.name)} Mastery Deck</div>
+          <div style="font-size:2.2rem;">${getSubjectIcon(activeSubject)}</div>
+          <div class="fearn-srs-deck-title">${escapeHtml(deck.name)} Mastery Deck</div>
           <div style="font-size:0.85rem; color:var(--text-faint, #64748b);">DSR Dynamic Memory Model &bull; Free Spaced Repetition Scheduler</div>
-          <div class="fearn-srs-deck-desc" style="max-width:520px; margin-top:2px;">\${escapeHtml(deck.description || 'Comprehensive curriculum & spaced repetition vocabulary.')}</div>
+          <div class="fearn-srs-deck-desc" style="max-width:520px; margin-top:2px;">${escapeHtml(deck.description || 'Comprehensive curriculum & spaced repetition vocabulary.')}</div>
         </div>
 
         <div class="fearn-srs-counts-grid" style="width:100%; max-width:460px;">
           <div class="fearn-srs-count-col" style="flex:1;">
             <span class="fearn-srs-count-label" style="color:var(--lang-1, #38bdf8);">New</span>
-            <span class="fearn-srs-count-num" style="color:var(--lang-1, #38bdf8);">\${cappedNew}</span>
+            <span class="fearn-srs-count-num" style="color:var(--lang-1, #38bdf8);">${cappedNew}</span>
           </div>
           <div style="width:1px; background:var(--glass-border);"></div>
           <div class="fearn-srs-count-col" style="flex:1;">
             <span class="fearn-srs-count-label" style="color:var(--fit-1, #fbbf24);">Learning</span>
-            <span class="fearn-srs-count-num" style="color:var(--fit-1, #fbbf24);">\${deck.learningCount}</span>
+            <span class="fearn-srs-count-num" style="color:var(--fit-1, #fbbf24);">${deck.learningCount}</span>
           </div>
           <div style="width:1px; background:var(--glass-border);"></div>
           <div class="fearn-srs-count-col" style="flex:1;">
             <span class="fearn-srs-count-label" style="color:var(--success, #34d399);">To Review</span>
-            <span class="fearn-srs-count-num" style="color:var(--success, #34d399);">\${toReview}</span>
+            <span class="fearn-srs-count-num" style="color:var(--success, #34d399);">${toReview}</span>
           </div>
         </div>
 
         <button id="fearn-srs-study-btn" class="fearn-srs-primary-btn" style="width:100%; max-width:360px;">
-          Study Now (\${cappedNew + toReview} Cards)
+          Study Now (${cappedNew + toReview} Cards)
         </button>
 
         <div style="display:flex; justify-content:center; gap:18px; margin-top:6px;">
@@ -724,8 +724,8 @@
       var progPct = Math.round((currentCardIndex / activeStudyCards.length) * 100);
       topNav.innerHTML = `
         <button id="fearn-srs-back-decks-btn" class="fearn-srs-ghost-btn" style="padding:4px 10px; font-size:0.75rem;">← Decks</button>
-        <span style="font-size:0.78rem; font-weight:700; color:var(--text-sub);">Card \${currentCardIndex + 1} of \${activeStudyCards.length} (\${progPct}%)</span>
-        <span style="font-size:0.72rem; color:var(--text-faint);">\${card.reps > 0 ? 'S: ' + (Math.round(card.stability * 10) / 10) + 'd | R: ' + Math.round(card.retrievability * 100) + '%' : 'New Card'}</span>
+        <span style="font-size:0.78rem; font-weight:700; color:var(--text-sub);">Card ${currentCardIndex + 1} of ${activeStudyCards.length} (${progPct}%)</span>
+        <span style="font-size:0.72rem; color:var(--text-faint);">${card.reps > 0 ? 'S: ' + (Math.round(card.stability * 10) / 10) + 'd | R: ' + Math.round(card.retrievability * 100) + '%' : 'New Card'}</span>
       `;
       body.appendChild(topNav);
 
@@ -749,9 +749,9 @@
       if (!isCardFlipped) {
         // Front of Card
         cardBox.innerHTML = `
-          <div class="fearn-srs-card-badge">\${escapeHtml(card.subjectName)} &bull; \${escapeHtml(card.lessonId)}</div>
+          <div class="fearn-srs-card-badge">${escapeHtml(card.subjectName)} &bull; ${escapeHtml(card.lessonId)}</div>
           <div style="display:flex; align-items:center; justify-content:center; gap:12px; margin-bottom:12px;">
-            <div class="fearn-srs-target" style="margin-bottom:0;">\${frontTarget}</div>
+            <div class="fearn-srs-target" style="margin-bottom:0;">${frontTarget}</div>
             <button id="fearn-card-audio-btn" class="fearn-speak-btn" style="background:var(--glass-bg-soft); border:1px solid var(--glass-border); border-radius:50%; width:38px; height:38px; cursor:pointer; font-size:1.1rem; display:inline-flex; align-items:center; justify-content:center;" title="Listen to pronunciation" aria-label="Listen to pronunciation">🔊</button>
           </div>
           <div style="font-size:0.82rem; color:var(--text-sub); display:flex; align-items:center; gap:6px; margin-top:8px;">
@@ -761,14 +761,14 @@
       } else {
         // Back of Card (Flipped)
         cardBox.innerHTML = `
-          <div class="fearn-srs-card-badge">\${escapeHtml(card.subjectName)}</div>
+          <div class="fearn-srs-card-badge">${escapeHtml(card.subjectName)}</div>
           <div style="display:flex; align-items:center; justify-content:center; gap:12px; margin-bottom:6px;">
-            <div class="fearn-srs-target" style="color:var(--lang-1, #38bdf8); font-size:1.8rem; margin-bottom:0;">\${backTarget}</div>
+            <div class="fearn-srs-target" style="color:var(--lang-1, #38bdf8); font-size:1.8rem; margin-bottom:0;">${backTarget}</div>
             <button id="fearn-card-audio-btn" class="fearn-speak-btn" style="background:var(--glass-bg-soft); border:1px solid var(--glass-border); border-radius:50%; width:36px; height:36px; cursor:pointer; font-size:1.05rem; display:inline-flex; align-items:center; justify-content:center;" title="Listen to pronunciation" aria-label="Listen to pronunciation">🔊</button>
           </div>
-          \${card.reading ? '<div class="fearn-srs-reading">' + escapeHtml(card.reading) + '</div>' : ''}
-          <div class="fearn-srs-trans-box">\${formattedTrans}</div>
-          \${card.mnemonic ? '<div class="fearn-srs-mnemonic-box">💡 <b>Mnemonic:</b> ' + formattedMnem + '</div>' : ''}
+          ${card.reading ? '<div class="fearn-srs-reading">' + escapeHtml(card.reading) + '</div>' : ''}
+          <div class="fearn-srs-trans-box">${formattedTrans}</div>
+          ${card.mnemonic ? '<div class="fearn-srs-mnemonic-box">💡 <b>Mnemonic:</b> ' + formattedMnem + '</div>' : ''}
         `;
       }
 
@@ -819,19 +819,19 @@
           <div class="fearn-srs-grade-grid">
             <button id="grade-1" class="fearn-srs-btn-grade fearn-srs-btn-again" style="min-height:48px;">
               <span>Again</span>
-              <span style="font-size:0.68rem; opacity:0.85;">\${int1} [1]</span>
+              <span style="font-size:0.68rem; opacity:0.85;">${int1} [1]</span>
             </button>
             <button id="grade-2" class="fearn-srs-btn-grade fearn-srs-btn-hard" style="min-height:48px;">
               <span>Hard</span>
-              <span style="font-size:0.68rem; opacity:0.85;">\${int2} [2]</span>
+              <span style="font-size:0.68rem; opacity:0.85;">${int2} [2]</span>
             </button>
             <button id="grade-3" class="fearn-srs-btn-grade fearn-srs-btn-good" style="min-height:48px;">
               <span>Good</span>
-              <span style="font-size:0.68rem; opacity:0.85;">\${int3} [3]</span>
+              <span style="font-size:0.68rem; opacity:0.85;">${int3} [3]</span>
             </button>
             <button id="grade-4" class="fearn-srs-btn-grade fearn-srs-btn-easy" style="min-height:48px;">
               <span>Easy</span>
-              <span style="font-size:0.68rem; opacity:0.85;">\${int4} [4]</span>
+              <span style="font-size:0.68rem; opacity:0.85;">${int4} [4]</span>
             </button>
           </div>
         `;
@@ -940,7 +940,7 @@
             ⏩ Review ahead by 3 days
           </button>
           <button id="custom-study-all" class="fearn-srs-ghost-btn" style="padding:14px; text-align:left; color:var(--fit-1, #fbbf24); border-color:var(--fit-1);">
-            🎴 Study entire deck (\${deck.cards.length} Cards)
+            🎴 Study entire deck (${deck.cards.length} Cards)
           </button>
         </div>
 
