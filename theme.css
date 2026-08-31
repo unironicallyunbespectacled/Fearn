@@ -79,10 +79,14 @@ body {
   background: var(--bg-void);
   color: var(--text-main);
   min-height: 100vh;
+  min-height: 100dvh;
   position: relative;
   overflow-x: hidden;
   line-height: 1.4;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 h1, h2, h3, h4 {
@@ -97,6 +101,8 @@ button {
   font-family: inherit;
   color: inherit;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 input {

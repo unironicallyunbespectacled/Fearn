@@ -2169,6 +2169,11 @@
         return;
       }
 
+      // If modal or SRS flashcard deck is active, let the modal handler manage keys
+      if (document.querySelector('.fearn-srs-overlay, .fearn-modal-overlay, #fearn-streak-calendar-modal[style*="block"]')) {
+        return;
+      }
+
       if (['1', '2', '3', '4'].indexOf(e.key) !== -1) {
         var optIdx = parseInt(e.key, 10) - 1;
         var optBtns = document.querySelectorAll('.fearn-lang-option-btn, .fearn-mc-btn');
