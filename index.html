@@ -2179,8 +2179,8 @@
         return;
       }
 
-      // If modal or SRS flashcard deck is active, let the modal handler manage keys
-      if (document.querySelector('.fearn-srs-overlay, .fearn-modal-overlay, #fearn-streak-calendar-modal[style*="block"]')) {
+      // If modal, drawer or SRS flashcard deck is active, let the modal handler manage keys
+      if (document.querySelector('.fearn-srs-overlay, .fearn-modal-overlay, .fearn-entry-modal.fearn-modal--open, #fearn-streak-calendar-modal[style*="block"], #library-panel.fearn-panel--open, #dossier-panel.fearn-panel--open')) {
         return;
       }
 
